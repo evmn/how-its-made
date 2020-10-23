@@ -1,0 +1,1504 @@
+﻿1
+00:00:22,489 --> 00:00:25,124
+            narrator:           
+  today, on "how it's made"...  
+
+2
+00:00:26,627 --> 00:00:28,761
+       ...putty knives...       
+
+3
+00:00:32,299 --> 00:00:34,666
+       ...garage doors...       
+
+4
+00:00:39,239 --> 00:00:41,173
+      ...electric motors...     
+
+5
+00:00:43,977 --> 00:00:46,078
+          ...and wool.          
+
+6
+00:00:52,853 --> 00:00:55,921
+         rummage through        
+  a do-it-yourselfer's toolbox, 
+
+7
+00:00:55,923 --> 00:00:59,792
+  and chances are, you'll come  
+  across a putty knife or two.  
+
+8
+00:00:59,794 --> 00:01:01,659
+  they come in several widths.  
+
+9
+00:01:01,661 --> 00:01:04,129
+        so whether you're       
+       scraping off paint,      
+
+10
+00:01:04,131 --> 00:01:06,465
+         old wallpaper,         
+     or installing drywall,     
+
+11
+00:01:06,467 --> 00:01:07,866
+      there's a putty knife     
+
+12
+00:01:07,868 --> 00:01:10,602
+ that's the right size and shape
+          for the job.          
+
+13
+00:01:14,408 --> 00:01:17,543
+    these putty-knife blades    
+        are made of steel       
+
+14
+00:01:17,545 --> 00:01:19,677
+  that's flexible and durable,  
+
+15
+00:01:19,679 --> 00:01:22,681
+           due in part          
+   to its high carbon content.  
+
+16
+00:01:22,683 --> 00:01:26,351
+ production begins with workers 
+      feeding steel sheets      
+
+17
+00:01:26,353 --> 00:01:28,420
+    into a press one by one.    
+
+18
+00:01:28,422 --> 00:01:31,223
+     the press's cutting guy    
+       punches out a blade      
+
+19
+00:01:31,225 --> 00:01:34,560
+   for the type of putty knife  
+       they're producing.       
+
+20
+00:01:34,562 --> 00:01:36,762
+         the next press         
+    punches three rivet holes   
+
+21
+00:01:36,764 --> 00:01:39,298
+      in the handle portion     
+          of the blade.         
+
+22
+00:01:39,300 --> 00:01:42,534
+     these are for attaching    
+     a hard plastic handle.     
+
+23
+00:01:42,536 --> 00:01:44,235
+           for models           
+      that'll have a handle     
+
+24
+00:01:44,237 --> 00:01:46,505
+        made of a softer,       
+       rubberlike plastic,      
+
+25
+00:01:46,507 --> 00:01:49,041
+they fishbone the handle portion
+          of the blade,         
+
+26
+00:01:49,043 --> 00:01:52,111
+ so that it'll grip the plastic.
+
+27
+00:01:55,982 --> 00:01:57,849
+  steel has to be heat-treated  
+
+28
+00:01:57,851 --> 00:02:00,686
+  to gain its full flexibility  
+          and strength.         
+
+29
+00:02:02,789 --> 00:02:06,525
+ first, they submerge the blades
+    in a bath of molten salt.   
+
+30
+00:02:06,527 --> 00:02:10,595
+     the heat is intense --     
+    1,400 degrees fahrenheit.   
+
+31
+00:02:10,597 --> 00:02:12,597
+         the blades soak        
+      for about a minute --     
+
+32
+00:02:12,599 --> 00:02:14,800
+        the time it takes       
+    for the metal temperature   
+
+33
+00:02:14,802 --> 00:02:16,801
+  to rise to that of the tank.  
+
+34
+00:02:16,803 --> 00:02:18,070
+           as it does,          
+
+35
+00:02:18,072 --> 00:02:21,139
+ the steel's molecular structure
+        begins to change.       
+
+36
+00:02:21,141 --> 00:02:23,341
+           from here,           
+    they transfer the blades    
+
+37
+00:02:23,343 --> 00:02:26,077
+   to two successively cooler   
+           salt baths.          
+
+38
+00:02:26,079 --> 00:02:29,414
+ that quenching, as it's called,
+   further hardens the steel.   
+
+39
+00:02:29,416 --> 00:02:33,018
+  the blades are then tempered  
+   in an oven for eight hours   
+
+40
+00:02:33,020 --> 00:02:34,686
+   at 400 degrees fahrenheit.   
+
+41
+00:02:34,688 --> 00:02:36,555
+  this gives the steel memory,  
+
+42
+00:02:36,557 --> 00:02:40,692
+  meaning the blade will revert 
+to its original shape when bent.
+
+43
+00:02:40,694 --> 00:02:43,562
+      after heat treatment,     
+       lukewarm water jets      
+
+44
+00:02:43,564 --> 00:02:45,363
+   rinse off the salt residue   
+
+45
+00:02:45,365 --> 00:02:48,100
+       and cool the metal       
+      to room temperature.      
+
+46
+00:02:48,102 --> 00:02:50,301
+       now that the metal       
+  has the required properties,  
+
+47
+00:02:50,303 --> 00:02:51,970
+           the blades           
+     need the right profile.    
+
+48
+00:02:51,972 --> 00:02:56,174
+a worker lays them on a magnetic
+plate that angles them downward.
+
+49
+00:02:56,176 --> 00:03:00,078
+  the plate spins, running the  
+blades against a grinding wheel.
+
+50
+00:03:06,053 --> 00:03:09,187
+    it takes about 30 seconds   
+           of grinding          
+
+51
+00:03:09,189 --> 00:03:13,058
+      to profile each blade     
+   and form the flex point --   
+
+52
+00:03:13,060 --> 00:03:15,793
+          the thinnest          
+     and most flexible part     
+
+53
+00:03:15,795 --> 00:03:19,131
+       that's 1 1/2 inches      
+   from the end of the blade.   
+
+54
+00:03:19,133 --> 00:03:20,866
+      blade profiles vary,      
+
+55
+00:03:20,868 --> 00:03:24,603
+because some jobs require a more
+   flexible tool than others.   
+
+56
+00:03:24,605 --> 00:03:27,139
+    now they clean the blades   
+
+57
+00:03:27,141 --> 00:03:30,809
+       in a revolving drum      
+   filled with absorbent sand.  
+
+58
+00:03:30,811 --> 00:03:33,078
+        this removes oil        
+       and other residues       
+
+59
+00:03:33,080 --> 00:03:36,215
+ left by the production process,
+    and it preps the surface    
+
+60
+00:03:36,217 --> 00:03:40,018
+    for the protective layer    
+ of lacquer that's applied next.
+
+61
+00:03:42,823 --> 00:03:45,223
+    after coating the blades    
+           in lacquer,          
+
+62
+00:03:45,225 --> 00:03:46,891
+    they dry them in an oven.   
+
+63
+00:03:46,893 --> 00:03:50,195
+      this seals the metal,     
+        preventing rust.        
+
+64
+00:03:55,636 --> 00:03:58,704
+            assembly            
+    is completely automated.    
+
+65
+00:04:00,641 --> 00:04:04,276
+        the first machine       
+  slips on the plastic handle.  
+
+66
+00:04:07,781 --> 00:04:10,115
+ the next machine rivets it on. 
+
+67
+00:04:17,257 --> 00:04:20,391
+      the following machine     
+        slaps on a label,       
+
+68
+00:04:20,393 --> 00:04:23,996
+    which identifies the size   
+    and type of putty knife.    
+
+69
+00:04:27,467 --> 00:04:29,668
+      professional-quality      
+          putty knives          
+
+70
+00:04:29,670 --> 00:04:33,605
+ have a thicker, stiffer blade. 
+
+71
+00:04:33,607 --> 00:04:36,508
+           the handle           
+    is made up of two halves.   
+
+72
+00:04:39,146 --> 00:04:43,348
+the machine positions them onto 
+the handle portion of the blade,
+
+73
+00:04:43,350 --> 00:04:46,218
+       then attaches them       
+      with a hollow ribbon.     
+
+74
+00:04:46,220 --> 00:04:49,755
+     this enables the knife     
+         to be hung up.         
+
+75
+00:05:01,101 --> 00:05:04,770
+   this factory also produces   
+   retractable utility knives.  
+
+76
+00:05:04,772 --> 00:05:08,640
+    it puts the cast aluminum   
+    handles through a machine   
+
+77
+00:05:08,642 --> 00:05:13,044
+   that uses polishing stones   
+ to remove any shards of metal. 
+
+78
+00:05:13,046 --> 00:05:17,449
+        workers assemble        
+  the utility knives manually,  
+
+79
+00:05:17,451 --> 00:05:21,119
+first installing the push button
+that moves the blade in and out.
+
+80
+00:05:21,121 --> 00:05:23,722
+ after putting in a spare blade,
+
+81
+00:05:23,724 --> 00:05:26,791
+    they close up the handle    
+         with one screw.        
+
+82
+00:05:26,793 --> 00:05:28,660
+      this factory produces     
+
+83
+00:05:28,662 --> 00:05:31,797
+          150 different         
+     paint-preparation tools    
+
+84
+00:05:31,799 --> 00:05:36,001
+    for a wide range of uses,   
+    from scraping to filling    
+
+85
+00:05:36,003 --> 00:05:38,537
+      to smoothing out tape     
+         on wall joints.        
+
+86
+00:05:48,215 --> 00:05:52,617
+            narrator:           
+    garage doors come in many   
+ styles, colors, and materials. 
+
+87
+00:05:52,619 --> 00:05:56,621
+   they can be made of steel,   
+   aluminum, wood, or vinyl.    
+
+88
+00:05:56,623 --> 00:06:00,291
+   whether you choose a style   
+ that's plain, paneled, smooth, 
+
+89
+00:06:00,293 --> 00:06:03,695
+      or textured, quality      
+  garage doors are lightweight, 
+
+90
+00:06:03,697 --> 00:06:06,164
+  well-insulated, and airtight. 
+
+91
+00:06:12,639 --> 00:06:17,709
+ the typical residential garage 
+ door is made up of four panels.
+
+92
+00:06:17,711 --> 00:06:21,513
+   each one begins as a sheet   
+ of either aluminum or steel -- 
+
+93
+00:06:21,515 --> 00:06:24,983
+  two metals that can tolerate  
+         harsh climates.        
+
+94
+00:06:24,985 --> 00:06:26,651
+     the side that will show    
+
+95
+00:06:26,653 --> 00:06:29,921
+       has a baked-on coat      
+       of polyester paint.      
+
+96
+00:06:29,923 --> 00:06:33,525
+     depending on the model,    
+the sheet passes through rollers
+
+97
+00:06:33,527 --> 00:06:37,028
+     that imprint a texture,    
+ such as a simulated wood grain.
+
+98
+00:06:39,132 --> 00:06:42,533
+  then it goes through a press  
+     that imprints a design.    
+
+99
+00:06:42,535 --> 00:06:45,470
+           this model           
+  will have raised rectangles.  
+
+100
+00:06:45,472 --> 00:06:49,274
+ others have horizontal stripes 
+      or no design at all.      
+
+101
+00:06:52,278 --> 00:06:53,878
+   after an automated machine   
+
+102
+00:06:53,880 --> 00:06:56,882
+    cuts the continuous sheet   
+     to garage-door widths,     
+
+103
+00:06:56,884 --> 00:07:00,618
+         another machine        
+      folds over the edges.     
+
+104
+00:07:00,620 --> 00:07:05,490
+  this creates half-inch joints 
+    for attaching the panels.   
+
+105
+00:07:05,492 --> 00:07:07,692
+ the polyester paint is elastic,
+
+106
+00:07:07,694 --> 00:07:10,695
+     so it simply stretches     
+        with the bending.       
+
+107
+00:07:10,697 --> 00:07:13,832
+      now on the back side      
+         of the sheets,         
+
+108
+00:07:13,834 --> 00:07:15,767
+   they hot-glue metal plates   
+
+109
+00:07:15,769 --> 00:07:17,836
+          to reinforce          
+     the various components     
+
+110
+00:07:17,838 --> 00:07:20,105
+       they'll later screw      
+      into the garage door,     
+
+111
+00:07:20,107 --> 00:07:23,374
+ parts such as the lift handles,
+           the hinge,           
+
+112
+00:07:23,376 --> 00:07:26,110
+       and the bracket for      
+ the electric opener mechanism. 
+
+113
+00:07:26,112 --> 00:07:27,712
+     they also drill a hole     
+
+114
+00:07:27,714 --> 00:07:30,848
+          through which         
+they'll later inject insulation.
+
+115
+00:07:30,850 --> 00:07:34,853
+    now they slide two sheets   
+    together to form a panel.   
+
+116
+00:07:34,855 --> 00:07:38,190
+     they close off the ends    
+      with blocks of pine.      
+
+117
+00:07:38,192 --> 00:07:41,726
+   this will prevent cold air   
+    from penetrating inside.    
+
+118
+00:07:41,728 --> 00:07:43,461
+   they apply various stickers  
+
+119
+00:07:43,463 --> 00:07:47,265
+ with installation, maintenance,
+     and safety information.    
+
+120
+00:07:47,267 --> 00:07:50,602
+    orange stick-on dots mark   
+the location of the metal plates
+
+121
+00:07:50,604 --> 00:07:53,471
+    into which the installer    
+      will screw the hinges     
+
+122
+00:07:53,473 --> 00:07:55,173
+        and lift handles.       
+
+123
+00:07:57,944 --> 00:08:02,013
+   they attach an aluminum bar  
+ to the long ends of each panel.
+
+124
+00:08:02,015 --> 00:08:05,950
+   this holds the panel steady  
+  during the injection process. 
+
+125
+00:08:05,952 --> 00:08:09,087
+        after injection,        
+       the bars come off.       
+
+126
+00:08:09,089 --> 00:08:12,958
+    they load the panels onto   
+a carousel and begin the process
+
+127
+00:08:12,960 --> 00:08:16,761
+      of filling the hollow     
+interior cavity with insulation.
+
+128
+00:08:16,763 --> 00:08:19,230
+        through the hole        
+      they drilled earlier,     
+
+129
+00:08:19,232 --> 00:08:22,100
+ they inject polyurethane foam, 
+
+130
+00:08:22,102 --> 00:08:24,636
+          an expanding,         
+   plastic insulation material  
+
+131
+00:08:24,638 --> 00:08:29,240
+  that's specially designed to  
+penetrate hard-to-access spaces.
+
+132
+00:08:29,242 --> 00:08:31,509
+as we see in this demonstration,
+
+133
+00:08:31,511 --> 00:08:34,779
+    the polyurethane expands    
+       and becomes rigid.       
+
+134
+00:08:34,781 --> 00:08:38,016
+    this creates a solid core   
+     inside the garage door.    
+
+135
+00:08:43,323 --> 00:08:46,858
+   polyurethane is one of the   
+  lightest types of insulation, 
+
+136
+00:08:46,860 --> 00:08:50,829
+       so it doesn't make       
+     the garage door heavy.     
+
+137
+00:09:00,673 --> 00:09:03,208
+     here's what the inside     
+     of a panel looks like      
+
+138
+00:09:03,210 --> 00:09:05,510
+     once the foam hardens.     
+
+139
+00:09:08,215 --> 00:09:11,349
+       now workers install      
+       various components,      
+
+140
+00:09:11,351 --> 00:09:14,886
+ such as the rubber weather seal
+      on the bottom panel.      
+
+141
+00:09:14,888 --> 00:09:17,422
+   this seal prevents cold air  
+            and water           
+
+142
+00:09:17,424 --> 00:09:20,025
+    from entering the garage    
+         under the door.        
+
+143
+00:09:26,833 --> 00:09:29,234
+     some garage-door models    
+          have windows          
+
+144
+00:09:29,236 --> 00:09:31,569
+   to allow in natural light.   
+
+145
+00:09:31,571 --> 00:09:33,972
+        workers first use       
+       a high-speed router      
+
+146
+00:09:33,974 --> 00:09:37,742
+ to remove the rectangles where 
+these windows will be installed.
+
+147
+00:09:39,512 --> 00:09:43,381
+     then they insert one of    
+several window styles available.
+
+148
+00:09:43,383 --> 00:09:45,984
+            these are           
+    double-sealed windows --    
+
+149
+00:09:45,986 --> 00:09:49,320
+     two thermal panes with     
+ an aluminum spacer in between. 
+
+150
+00:09:49,322 --> 00:09:52,657
+  the framing around the glass  
+   comes in different colors.   
+
+151
+00:09:52,659 --> 00:09:56,995
+ it's made of pvc -- a synthetic
+  resin that doesn't discolor.  
+
+152
+00:09:56,997 --> 00:09:59,597
+       the frame prevents       
+       water and cold air       
+
+153
+00:09:59,599 --> 00:10:01,933
+        from penetrating        
+       through the window.      
+
+154
+00:10:01,935 --> 00:10:05,070
+          workers pack          
+   the installation hardware.   
+
+155
+00:10:05,072 --> 00:10:09,274
+     then they weigh the box    
+ to ensure no part was left out.
+
+156
+00:10:13,613 --> 00:10:15,080
+      at installation time,     
+
+157
+00:10:15,082 --> 00:10:18,350
+   they attach the door panels  
+   at the joints with hinges.   
+
+158
+00:10:18,352 --> 00:10:21,952
+       a system of springs      
+     ensures the garage door    
+
+159
+00:10:21,954 --> 00:10:25,290
+      is perfectly balanced     
+       and moves smoothly.      
+
+160
+00:10:26,960 --> 00:10:30,562
+     if properly installed,     
+       you should be able       
+
+161
+00:10:30,564 --> 00:10:34,699
+to lift or lower the garage door
+       using two fingers.       
+
+162
+00:10:43,176 --> 00:10:46,577
+ narrator: electric motors are  
+ made of two main components -- 
+
+163
+00:10:46,579 --> 00:10:48,647
+         one stationary,        
+       called the stator,       
+
+164
+00:10:48,649 --> 00:10:52,317
+        the other a rotor       
+  that moves inside the stator. 
+
+165
+00:10:52,319 --> 00:10:55,120
+           the stator           
+    has multiple wire coils.    
+
+166
+00:10:55,122 --> 00:10:56,921
+running electricity through them
+
+167
+00:10:56,923 --> 00:10:59,390
+     creates a concentrated     
+         magnetic field         
+
+168
+00:10:59,392 --> 00:11:03,228
+      that turns the rotor,     
+   creating mechanical power.   
+
+169
+00:11:06,599 --> 00:11:09,000
+ the stator is lined with slots,
+
+170
+00:11:09,002 --> 00:11:11,402
+          each of which         
+      holds a copper coil.      
+
+171
+00:11:11,404 --> 00:11:13,271
+  the more powerful the motor,  
+
+172
+00:11:13,273 --> 00:11:16,174
+      the bigger the stator     
+    and the larger the slots.   
+
+173
+00:11:20,346 --> 00:11:24,282
+   the first step is to line    
+   the slots with insulation.   
+
+174
+00:11:24,284 --> 00:11:27,886
+ this insulation will keep the  
+ voltage confined to the coils. 
+
+175
+00:11:37,564 --> 00:11:40,698
+       the coils are made       
+    from several copper wires   
+
+176
+00:11:40,700 --> 00:11:43,501
+         wound together         
+    by programmable machines.   
+
+177
+00:11:43,503 --> 00:11:48,172
+      the bigger the motor,     
+    the more wires per coil.    
+
+178
+00:11:48,174 --> 00:11:50,174
+         in this motor,         
+
+179
+00:11:50,176 --> 00:11:52,877
+       each coil consists       
+  of 13 strands of copper wire. 
+
+180
+00:12:03,523 --> 00:12:06,591
+   now workers tie the coils.   
+
+181
+00:12:06,593 --> 00:12:08,993
+     this prevents the wires    
+         from unraveling        
+
+182
+00:12:08,995 --> 00:12:11,830
+      while being inserted      
+     into the stator slots.     
+
+183
+00:12:18,872 --> 00:12:23,341
+      workers cap each coil     
+   with fiberglass insulation.  
+
+184
+00:12:25,078 --> 00:12:27,679
+       then they insulate       
+     the portion of the coil    
+
+185
+00:12:27,681 --> 00:12:30,482
+     left outside the slots     
+     with fiberglass sheets.    
+
+186
+00:12:32,952 --> 00:12:35,687
+ fiberglass wedges are inserted,
+
+187
+00:12:35,689 --> 00:12:38,256
+        locking the coils       
+        inside the slots.       
+
+188
+00:12:41,561 --> 00:12:44,562
+       once all the coils       
+   are inserted and insulated,  
+
+189
+00:12:44,564 --> 00:12:47,365
+     workers begin preparing    
+         the connection.        
+
+190
+00:12:47,367 --> 00:12:49,167
+            they slip           
+  an acrylic insulation sleeve  
+
+191
+00:12:49,169 --> 00:12:55,973
+ over both ends of each coil -- 
+       13 coils, 26 ends.       
+
+192
+00:12:55,975 --> 00:13:01,246
+ then they group these insulated
+ wires into large power cables. 
+
+193
+00:13:01,248 --> 00:13:03,581
+       the number of wires      
+        per cable varies        
+
+194
+00:13:03,583 --> 00:13:06,484
+     according to the speed     
+    and voltage of the motor.   
+
+195
+00:13:13,126 --> 00:13:15,393
+           they solder          
+   the grouped wires together,  
+
+196
+00:13:15,395 --> 00:13:18,196
+    then insulate the cables.   
+
+197
+00:13:18,198 --> 00:13:22,132
+they tuck some inside the stator
+   and leave others accessible  
+
+198
+00:13:22,134 --> 00:13:27,338
+to be attached to a power source
+  when the motor is installed.  
+
+199
+00:13:27,340 --> 00:13:29,340
+        now, using a cord       
+
+200
+00:13:29,342 --> 00:13:32,076
+        made of heat- and       
+  chemical-resistant polyester, 
+
+201
+00:13:32,078 --> 00:13:33,945
+   they bind the coils tightly  
+
+202
+00:13:33,947 --> 00:13:37,348
+    to ensure they won't move   
+      when the motor spins.     
+
+203
+00:13:37,350 --> 00:13:42,086
+    this unit of bound coils    
+  is known as the stator coil.  
+
+204
+00:13:42,088 --> 00:13:46,090
+  they now submerge the stator  
+  in a polyester-based varnish  
+
+205
+00:13:46,092 --> 00:13:48,425
+  and vacuum it right through.  
+
+206
+00:13:48,427 --> 00:13:49,894
+    this thorough penetration   
+
+207
+00:13:49,896 --> 00:13:52,430
+      makes the stator coil     
+       moisture-resistant.      
+
+208
+00:13:57,236 --> 00:14:00,104
+ the stator is put into an oven 
+          for six hours         
+
+209
+00:14:00,106 --> 00:14:03,841
+   at 280 degrees fahrenheit.   
+
+210
+00:14:03,843 --> 00:14:08,980
+      the varnish hardens,      
+  making the stator coil rigid. 
+
+211
+00:14:08,982 --> 00:14:12,449
+          now they have         
+      to balance the rotor.     
+
+212
+00:14:12,451 --> 00:14:15,520
+       if it's off-kilter,      
+     the motor will vibrate,    
+
+213
+00:14:15,522 --> 00:14:17,322
+     hampering performance.     
+
+214
+00:14:17,324 --> 00:14:20,591
+  they balance it the same way  
+ a mechanic balances car tires, 
+
+215
+00:14:20,593 --> 00:14:24,061
+       only with 100 times      
+       greater precision.       
+
+216
+00:14:24,063 --> 00:14:28,332
+ now they slowly slide the rotor
+        into the stator,        
+
+217
+00:14:28,334 --> 00:14:31,469
+      careful not to damage     
+        the stator coil.        
+
+218
+00:14:31,471 --> 00:14:34,272
+       the rotor will turn      
+       on steel bearings.       
+
+219
+00:14:34,274 --> 00:14:37,408
+    they heat these bearings    
+         to expand them,        
+
+220
+00:14:37,410 --> 00:14:39,744
+   so they'll install easily.   
+
+221
+00:14:39,746 --> 00:14:43,481
+   then they blow on cold air   
+ to shrink them to a tight fit. 
+
+222
+00:14:43,483 --> 00:14:46,684
+      it's the same process     
+  with the motor's back cover.  
+
+223
+00:14:52,959 --> 00:14:56,827
+    now they heat the fan and   
+ install it over the back cover.
+
+224
+00:14:56,829 --> 00:15:00,231
+    the fan's job is to cool    
+        the running motor       
+
+225
+00:15:00,233 --> 00:15:02,767
+   so that it doesn't overheat  
+         and break down.        
+
+226
+00:15:04,771 --> 00:15:07,438
+       they cover the fan       
+      with a safety guard,      
+
+227
+00:15:07,440 --> 00:15:11,276
+     then install a cover on    
+ the front of the motor as well.
+
+228
+00:15:13,313 --> 00:15:16,380
+   they run the finished motor  
+through various tests to assess,
+
+229
+00:15:16,382 --> 00:15:20,652
+ among other things, insulation 
+    strength and performance.   
+
+230
+00:15:20,654 --> 00:15:24,188
+   these industrial motors are  
+ designed for use in factories, 
+
+231
+00:15:24,190 --> 00:15:26,991
+     for running machinery,     
+     such as conveyer belts,    
+
+232
+00:15:26,993 --> 00:15:29,460
+  pumps, fans, and compressors. 
+
+233
+00:15:39,272 --> 00:15:42,607
+     narrator: what do wool     
+ and hand cream have in common? 
+
+234
+00:15:42,609 --> 00:15:45,476
+     well, a sheep's fleece     
+ has an oily protective coating 
+
+235
+00:15:45,478 --> 00:15:48,412
+   which contains a substance   
+       called wool grease.      
+
+236
+00:15:48,414 --> 00:15:49,947
+    when factories make yarn,   
+
+237
+00:15:49,949 --> 00:15:52,683
+    they first clean the wool   
+        with detergents.        
+
+238
+00:15:52,685 --> 00:15:55,219
+     the grease is processed    
+         into lanolin --        
+
+239
+00:15:55,221 --> 00:15:58,289
+       a common ingredient      
+         in hand creams.        
+
+240
+00:16:03,696 --> 00:16:07,632
+       historians believe       
+ that people began raising sheep
+
+241
+00:16:07,634 --> 00:16:11,302
+      for food and clothing     
+     about 10,000 years ago.    
+
+242
+00:16:11,304 --> 00:16:13,904
+     and around 4,000 b.c.,     
+
+243
+00:16:13,906 --> 00:16:17,775
+ they started spinning the wool 
+ into yarn for weaving fabric.  
+
+244
+00:16:17,777 --> 00:16:21,312
+       the romans brought       
+   wool production to england   
+
+245
+00:16:21,314 --> 00:16:23,113
+        in about 50 a.d.        
+
+246
+00:16:23,115 --> 00:16:25,182
+   woolen fabrics would become  
+
+247
+00:16:25,184 --> 00:16:28,519
+   the country's chief export   
+         for centuries.         
+
+248
+00:16:28,521 --> 00:16:32,123
+    in 1797, britain shipped    
+     13 sheep to australia,     
+
+249
+00:16:32,125 --> 00:16:34,191
+   starting what would become   
+
+250
+00:16:34,193 --> 00:16:38,663
+    the largest wool industry   
+       in the world today.      
+
+251
+00:16:47,139 --> 00:16:50,408
+     wool fabric is durable,    
+         wrinkle-proof,         
+
+252
+00:16:50,410 --> 00:16:52,076
+    and holds its shape well.   
+
+253
+00:16:52,078 --> 00:16:55,813
+     it absorbs moisture and    
+insulates against heat and cold.
+
+254
+00:16:55,815 --> 00:16:57,415
+    that's why wool is ideal    
+
+255
+00:16:57,417 --> 00:17:00,118
+          for clothing          
+    like sweaters and coats.    
+
+256
+00:17:02,221 --> 00:17:05,089
+sheep shearers use power shears,
+
+257
+00:17:05,091 --> 00:17:07,458
+       removing the fleece      
+          in one piece.         
+
+258
+00:17:11,431 --> 00:17:14,699
+    they discard any stained    
+        or inferior wool        
+
+259
+00:17:14,701 --> 00:17:18,569
+and then sort the rest according
+  to the quality of the fibers. 
+
+260
+00:17:18,571 --> 00:17:23,775
+this grading is based on length,
+ color, waviness, and fineness. 
+
+261
+00:17:25,978 --> 00:17:29,247
+    the wool is cleaned with    
+  detergents before processing. 
+
+262
+00:17:32,785 --> 00:17:36,653
+ the wool arrives at the factory
+      in compressed bales.      
+
+263
+00:17:36,655 --> 00:17:40,191
+workers untie them and feed the 
+wool into the opening equipment,
+
+264
+00:17:40,193 --> 00:17:45,863
+ whose metal tooth rollers comb 
+  out and separate the fibers.  
+
+265
+00:17:45,865 --> 00:17:48,732
+     from there, the fibers     
+   go into the blending room,   
+
+266
+00:17:48,734 --> 00:17:51,469
+       where air currents       
+  mix different grades of wool  
+
+267
+00:17:51,471 --> 00:17:54,272
+   to get the desired texture.  
+
+268
+00:17:54,274 --> 00:17:56,406
+      if they'll be weaving     
+          a wool blend,         
+
+269
+00:17:56,408 --> 00:17:58,342
+    they mix the wool fibers    
+      with other material,      
+
+270
+00:17:58,344 --> 00:18:00,611
+    such as polyester fibers.   
+
+271
+00:18:00,613 --> 00:18:04,282
+      a thorough blending       
+      takes about an hour.      
+
+272
+00:18:06,552 --> 00:18:09,220
+     an air pipe transports     
+       the blended fibers       
+
+273
+00:18:09,222 --> 00:18:11,422
+      to the next station.      
+
+274
+00:18:11,424 --> 00:18:14,691
+ on the way, sprayers lubricate 
+ them with a mineral-oil mixture
+
+275
+00:18:14,693 --> 00:18:16,861
+   to make processing easier.   
+
+276
+00:18:18,431 --> 00:18:20,698
+        the fibers arrive       
+     at the carding machine,    
+
+277
+00:18:20,700 --> 00:18:24,502
+where they pass through a series
+of rollers with thin wire teeth.
+
+278
+00:18:24,504 --> 00:18:27,037
+    this untangles the fibers   
+
+279
+00:18:27,039 --> 00:18:29,807
+   and lines them up parallel   
+         to each other.         
+
+280
+00:18:29,809 --> 00:18:32,510
+    this process also removes   
+      any pieces of debris      
+
+281
+00:18:32,512 --> 00:18:34,745
+      caught in the fibers.     
+
+282
+00:18:38,384 --> 00:18:43,121
+ the carding process produces a 
+smooth, flat sheet called a web.
+
+283
+00:19:09,482 --> 00:19:14,452
+ the equipment divides this web 
+     into thin, flat strips.    
+
+284
+00:19:20,026 --> 00:19:22,226
+          these strips          
+    go through rub aprons --    
+
+285
+00:19:22,228 --> 00:19:23,828
+   two rollers that twirl them  
+
+286
+00:19:23,830 --> 00:19:26,931
+  into thinner, rounded strips, 
+         called rovings.        
+
+287
+00:19:35,308 --> 00:19:37,875
+ the rovings wind onto a spool. 
+
+288
+00:19:40,113 --> 00:19:41,646
+     rovings look like yarn.    
+
+289
+00:19:41,648 --> 00:19:44,382
+    but if you pull on them,    
+        they simply tear.       
+
+290
+00:19:44,384 --> 00:19:47,651
+     they haven't been spun,    
+    so they have no strength.   
+
+291
+00:19:47,653 --> 00:19:52,657
+ each roving goes into a device 
+    called a spinning frame.    
+
+292
+00:19:52,659 --> 00:19:55,325
+     it stretches the roving    
+      and spins it tightly,     
+
+293
+00:19:55,327 --> 00:19:57,495
+      producing wool yarn.      
+
+294
+00:19:59,866 --> 00:20:03,167
+  the yarn winds onto a bobbin. 
+
+295
+00:20:06,472 --> 00:20:09,139
+         spinning gives         
+       the yarn strength.       
+
+296
+00:20:09,141 --> 00:20:12,610
+      now they can weave it     
+        into wool fabric.       
+
+297
+00:20:12,612 --> 00:20:15,813
+     a fully automated loom     
+          does it all.          
+
+298
+00:20:19,552 --> 00:20:22,819
+     watch in slow motion as    
+ it inserts one strand at a time
+
+299
+00:20:22,821 --> 00:20:26,958
+  crosswise through stationary  
+       lengthwise strands.      
+
+300
+00:20:26,960 --> 00:20:29,693
+    it's computer-programmed    
+            to thread           
+
+301
+00:20:29,695 --> 00:20:31,829
+          in a specific         
+    under/over configuration,   
+
+302
+00:20:31,831 --> 00:20:35,466
+ according to the type of weave.
+
+303
+00:20:41,774 --> 00:20:44,574
+        the loom inserts        
+     400 strands per minute.    
+
+304
+00:20:44,576 --> 00:20:48,379
+         after weaving,         
+  they burn off vegetal matter, 
+
+305
+00:20:48,381 --> 00:20:50,047
+    such as straw fragments,    
+
+306
+00:20:50,049 --> 00:20:52,516
+          then they dye         
+       and dry the fabric.      
+
+307
+00:20:52,518 --> 00:20:55,786
+        all wool fabrics        
+        undergo finishing       
+
+308
+00:20:55,788 --> 00:20:58,856
+    to give them a particular   
+      appearance and feel.      
+
+309
+00:20:58,858 --> 00:21:03,327
+      these spiked rollers      
+     created a plush finish.    
+
+310
+00:21:03,329 --> 00:21:08,532
+   wool fabrics can also have   
+   a sheered or flat finish.    
+
+311
+00:21:08,534 --> 00:21:11,468
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+312
+00:21:11,470 --> 00:21:14,472
+      captions paid for by      
+ discovery communications, inc. 
+
+313
+00:21:16,809 --> 00:21:18,943
+    if you have any comments    
+         about the show,        
+
+314
+00:21:18,945 --> 00:21:21,612
+   or if you'd like to suggest  
+    topics for future shows,    
+
+315
+00:21:21,614 --> 00:21:24,115
+      drop us a line at...      
+

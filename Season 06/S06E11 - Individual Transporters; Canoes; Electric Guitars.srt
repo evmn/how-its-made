@@ -1,0 +1,1915 @@
+1
+00:00:01,869 --> 00:00:04,936
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,938 --> 00:00:07,906
+      captions paid for by      
+ discovery communications, inc. 
+
+3
+00:00:23,090 --> 00:00:26,225
+            narrator:           
+   today on "how it's made"...  
+
+4
+00:00:26,227 --> 00:00:28,961
+   individual transporters...   
+
+5
+00:00:32,099 --> 00:00:33,799
+       ...cedar canoes...       
+
+6
+00:00:37,705 --> 00:00:39,938
+    ...and electric guitars.    
+
+7
+00:00:52,720 --> 00:00:55,254
+        it's the world's        
+      first self-balancing,     
+
+8
+00:00:55,256 --> 00:00:57,856
+      electrically powered      
+ personal transportation device.
+
+9
+00:00:57,858 --> 00:01:00,392
+        built-in sensors        
+     and an onboard computer    
+
+10
+00:01:00,394 --> 00:01:04,329
+keep this $6,000 vehicle upright
+       as it zooms around,      
+
+11
+00:01:04,331 --> 00:01:06,932
+    up to three times faster    
+       than walking speed.      
+
+12
+00:01:06,934 --> 00:01:09,634
+  perfect for large warehouses, 
+        delivery routes,        
+
+13
+00:01:09,636 --> 00:01:12,071
+or anyone who just wants a lift.
+
+14
+00:01:15,209 --> 00:01:17,675
+       tough, lightweight       
+     construction materials     
+
+15
+00:01:17,677 --> 00:01:19,277
+     enable the transporter     
+
+16
+00:01:19,279 --> 00:01:21,346
+       to safely take you       
+         almost anywhere        
+
+17
+00:01:21,348 --> 00:01:23,615
+  you'd otherwise walk or run.  
+
+18
+00:01:23,617 --> 00:01:26,752
+this aluminum chassis will house
+   the vehicle's electronics.   
+
+19
+00:01:26,754 --> 00:01:28,620
+it can withstand an impact force
+
+20
+00:01:28,622 --> 00:01:31,423
+    equivalent to the weight    
+      of three large cars.      
+
+21
+00:01:31,425 --> 00:01:35,360
+using a press, a worker attaches
+    couplings to two motors.    
+
+22
+00:01:35,362 --> 00:01:39,231
+these couplings will connect the
+  motors to gearboxes later on. 
+
+23
+00:01:39,233 --> 00:01:41,032
+       for safety reasons,      
+
+24
+00:01:41,034 --> 00:01:43,969
+    many of the transporter's   
+     components are doubled.    
+
+25
+00:01:43,971 --> 00:01:46,638
+            normally,           
+  they'll share tasks equally,  
+
+26
+00:01:46,640 --> 00:01:50,709
+but any of the twin parts can do
+all the work if the other fails.
+
+27
+00:01:50,711 --> 00:01:54,113
+  it's what the industry calls  
+           redundancy.          
+
+28
+00:01:54,115 --> 00:01:56,514
+using three screws on each side,
+
+29
+00:01:56,516 --> 00:01:59,084
+     she installs the motors    
+        into the chassis.       
+
+30
+00:02:01,722 --> 00:02:04,189
+    the worker then installs    
+      two controller boards     
+
+31
+00:02:04,191 --> 00:02:06,057
+ in the top side of the chassis.
+
+32
+00:02:06,059 --> 00:02:09,928
+ microprocessors in these boards
+       control the motors.      
+
+33
+00:02:11,599 --> 00:02:14,933
+  then she adds what's called   
+  the balance-sensor assembly.  
+
+34
+00:02:14,935 --> 00:02:16,935
+  this includes five gyroscopes 
+
+35
+00:02:16,937 --> 00:02:19,871
+       and two components       
+   called fluid-tilt sensors.   
+
+36
+00:02:19,873 --> 00:02:22,808
+        these instruments       
+  gauge the vehicle's position  
+
+37
+00:02:22,810 --> 00:02:24,343
+     relative to the ground.    
+
+38
+00:02:24,345 --> 00:02:26,411
+      the controller boards     
+     check these instruments    
+
+39
+00:02:26,413 --> 00:02:28,013
+      100 times per second      
+
+40
+00:02:28,015 --> 00:02:29,480
+     and adjust the vehicle     
+
+41
+00:02:29,482 --> 00:02:31,683
+  by rolling the wheels forward 
+           or backward          
+
+42
+00:02:31,685 --> 00:02:33,418
+when the rider leans either way.
+
+43
+00:02:35,022 --> 00:02:37,889
+     next come wire clusters    
+        called harnesses.       
+
+44
+00:02:37,891 --> 00:02:42,093
+   they connect the vehicle's   
+ batteries to the control shaft.
+
+45
+00:02:42,095 --> 00:02:44,629
+        the chassis cover       
+    doubles as a floor plate    
+
+46
+00:02:44,631 --> 00:02:46,564
+   for the rider to stand on.   
+
+47
+00:02:46,566 --> 00:02:50,168
+  when you step on, your weight 
+   pushes four rubber buttons.  
+
+48
+00:02:50,170 --> 00:02:52,971
+  these disrupt an optical beam 
+    on the controller board,    
+
+49
+00:02:52,973 --> 00:02:55,640
+     telling the transporter    
+         it has a rider.        
+
+50
+00:02:55,642 --> 00:02:58,109
+ the harnesses fit through holes
+          in the cover,         
+
+51
+00:02:58,111 --> 00:03:01,914
+         which attaches         
+       with eight screws.       
+
+52
+00:03:01,916 --> 00:03:05,317
+next, she connects the harnesses
+      to a power converter      
+
+53
+00:03:05,319 --> 00:03:07,252
+           in the base          
+      of the control shaft.     
+
+54
+00:03:07,254 --> 00:03:09,721
+       the power converter      
+   uses household electricity   
+
+55
+00:03:09,723 --> 00:03:13,258
+   to recharge the batteries.   
+
+56
+00:03:13,260 --> 00:03:14,860
+       inside the gearbox,      
+
+57
+00:03:14,862 --> 00:03:18,730
+ four gears transfer power from 
+ the motor and turn the wheels. 
+
+58
+00:03:18,732 --> 00:03:20,599
+        the gears' teeth        
+       are cut on an angle      
+
+59
+00:03:20,601 --> 00:03:23,402
+    so they engage gradually    
+       and more smoothly.       
+
+60
+00:03:23,404 --> 00:03:28,073
+ this keeps the vehicle's noise 
+    to a relatively low hum.    
+
+61
+00:03:28,075 --> 00:03:31,743
+   the worker tightly secures   
+          the gearboxes         
+
+62
+00:03:31,745 --> 00:03:33,811
+  to the chassis with a mallet. 
+
+63
+00:03:33,813 --> 00:03:36,347
+         then she opens         
+    a waterproof rubber seal    
+
+64
+00:03:36,349 --> 00:03:38,817
+   and plugs in the machine's   
+           power cord.          
+
+65
+00:03:41,421 --> 00:03:44,423
+ she tests the electrical system
+  to ensure that it's grounded  
+
+66
+00:03:44,425 --> 00:03:48,893
+       and that there's no      
+         short circuit.         
+
+67
+00:03:48,895 --> 00:03:51,430
+   next, she uses five screws   
+
+68
+00:03:51,432 --> 00:03:54,566
+            to attach           
+   one of two plastic fenders.  
+
+69
+00:03:56,637 --> 00:04:00,705
+  a tapered metal hub connects  
+   each wheel to its gearbox.   
+
+70
+00:04:00,707 --> 00:04:03,976
+ the wheels are about the height
+     of a small bicycle tire    
+
+71
+00:04:03,978 --> 00:04:06,044
+     but three times wider.     
+
+72
+00:04:10,717 --> 00:04:14,186
+  a molded rubber and metal mat 
+     covers the floor plate     
+
+73
+00:04:14,188 --> 00:04:17,188
+      and snaps into place      
+        on both fenders.        
+
+74
+00:04:17,190 --> 00:04:18,924
+   after flipping the chassis,  
+
+75
+00:04:18,926 --> 00:04:21,993
+ a worker connects two batteries
+    to the controller boards.   
+
+76
+00:04:21,995 --> 00:04:24,596
+   when you plug the batteries  
+       into a wall socket,      
+
+77
+00:04:24,598 --> 00:04:26,932
+          they recharge         
+      in about eight hours.     
+
+78
+00:04:26,934 --> 00:04:30,936
+ the transporter runs as far as 
+  23 miles on a single charge,  
+
+79
+00:04:30,938 --> 00:04:32,804
+    depending on the terrain.   
+
+80
+00:04:32,806 --> 00:04:35,540
+       this machine tests       
+    the rider-detect buttons    
+
+81
+00:04:35,542 --> 00:04:37,875
+      by applying pressure      
+      in a random pattern.      
+
+82
+00:04:37,877 --> 00:04:41,279
+       the rider and cargo      
+  must weigh at least 99 pounds 
+
+83
+00:04:41,281 --> 00:04:44,015
+  but no more than 260 pounds.  
+
+84
+00:04:44,017 --> 00:04:48,353
+     the machine also tests     
+     the wheels and motors.     
+
+85
+00:04:48,355 --> 00:04:51,622
+       next, the handlebar      
+      on the control shaft.     
+
+86
+00:04:51,624 --> 00:04:54,759
+ to steer, you turn the handgrip
+         left or right.         
+
+87
+00:04:54,761 --> 00:04:58,096
+ the motor responds by spinning 
+one wheel faster than the other.
+
+88
+00:04:58,098 --> 00:05:01,032
+ you could also spin the wheels 
+     on opposite directions     
+
+89
+00:05:01,034 --> 00:05:04,503
+   to make the vehicle pivot.   
+
+90
+00:05:04,505 --> 00:05:06,838
+          ignition keys         
+   with computer chips in them  
+
+91
+00:05:06,840 --> 00:05:08,306
+    restrict traveling speeds   
+
+92
+00:05:08,308 --> 00:05:11,777
+      to either 5 1/2, 10,      
+    or 12 1/2 miles per hour.   
+
+93
+00:05:11,779 --> 00:05:14,579
+     the keys also instruct     
+    the vehicle to make slow,   
+
+94
+00:05:14,581 --> 00:05:16,515
+     medium, or sharp turns.    
+
+95
+00:05:21,054 --> 00:05:24,923
+ now the fun part -- taking each
+  transporter for a test-drive. 
+
+96
+00:05:24,925 --> 00:05:27,459
+       the tester listens       
+       for unusual sounds       
+
+97
+00:05:27,461 --> 00:05:30,194
+   and checks for vibrations    
+   coming from the gearboxes.   
+
+98
+00:05:30,196 --> 00:05:33,131
+    he feels how quickly and    
+ reliably the controls respond. 
+
+99
+00:05:33,133 --> 00:05:35,867
+     he runs the transporter    
+       up small inclines.       
+
+100
+00:05:35,869 --> 00:05:38,737
+ it's designed to conquer slopes
+      of up to 20 degrees,      
+
+101
+00:05:38,739 --> 00:05:41,807
+ depending on traction with the 
+ ground and the weight on board.
+
+102
+00:05:41,809 --> 00:05:44,810
+  it goes down over a sidewalk  
+      curb just as easily.      
+
+103
+00:05:44,812 --> 00:05:47,012
+         only after this        
+       thorough test-drive      
+
+104
+00:05:47,014 --> 00:05:50,382
+    is the transporter ready    
+    for its first real trip.    
+
+105
+00:05:58,825 --> 00:06:01,193
+   narrator: canoes are truly   
+       vessels of history,      
+
+106
+00:06:01,195 --> 00:06:03,695
+           dating back          
+     as far as 10,000 years.    
+
+107
+00:06:03,697 --> 00:06:06,831
+native north americans made them
+   with frames of wooden ribs   
+
+108
+00:06:06,833 --> 00:06:08,166
+       covered with bark.       
+
+109
+00:06:08,168 --> 00:06:10,902
+ they used these boats to fish, 
+       travel, and trade.       
+
+110
+00:06:10,904 --> 00:06:13,604
+         today's canoes         
+ blend traditional construction 
+
+111
+00:06:13,606 --> 00:06:15,240
+  with some high-tech materials 
+
+112
+00:06:15,242 --> 00:06:17,309
+  for even greater durability.  
+
+113
+00:06:19,580 --> 00:06:21,980
+      most of this boat's       
+      made of white cedar,      
+
+114
+00:06:21,982 --> 00:06:23,849
+      which is lightweight      
+        and weatherproof.       
+
+115
+00:06:23,851 --> 00:06:25,316
+     but for reinforcement,     
+
+116
+00:06:25,318 --> 00:06:28,853
+    the rim and leading edges   
+are made of ash, a heavier wood.
+
+117
+00:06:28,855 --> 00:06:30,455
+       construction starts      
+
+118
+00:06:30,457 --> 00:06:32,591
+  with an upside-down template  
+          of the canoe          
+
+119
+00:06:32,593 --> 00:06:34,726
+    that's 15 1/2 feet long.    
+
+120
+00:06:34,728 --> 00:06:38,330
+ a worker clamps two long strips
+    of ash, called gunwales,    
+
+121
+00:06:38,332 --> 00:06:40,399
+to create the canoe's inner rim,
+
+122
+00:06:40,401 --> 00:06:43,735
+then adds similar strips curbing
+   along the two extremities.   
+
+123
+00:06:43,737 --> 00:06:46,871
+      he'll attach the rest     
+  of the skeleton to this rim.  
+
+124
+00:06:46,873 --> 00:06:49,941
+   workers soften what will be  
+      the boat's cedar ribs     
+
+125
+00:06:49,943 --> 00:06:52,477
+     in nearly boiling water    
+         for 45 minutes.        
+
+126
+00:06:52,479 --> 00:06:56,415
+   the ribs are 2 inches wide   
+  and almost a half-inch thick. 
+
+127
+00:06:56,417 --> 00:07:00,284
+    the hot water makes them    
+       relatively pliable.      
+
+128
+00:07:00,286 --> 00:07:02,220
+  using a hammer for leverage,  
+
+129
+00:07:02,222 --> 00:07:05,023
+    they simply bend the ribs   
+       over the template.       
+
+130
+00:07:05,025 --> 00:07:09,427
+steel guiding strips ensure the 
+ribs are 1 3/4 of an inch apart.
+
+131
+00:07:09,429 --> 00:07:11,229
+  with a pneumatic staple gun,  
+
+132
+00:07:11,231 --> 00:07:13,965
+          workers fire          
+   two stainless-steel staples  
+
+133
+00:07:13,967 --> 00:07:16,902
+  through each end of the ribs  
+     and into the gunwales.     
+
+134
+00:07:16,904 --> 00:07:19,437
+    cement blocks weigh down    
+       some of the 43 ribs      
+
+135
+00:07:19,439 --> 00:07:22,507
+       that workers secure      
+     over the entire canoe.     
+
+136
+00:07:22,509 --> 00:07:26,778
+ at this point, the ribs measure
+   between 3 and 5 feet long,   
+
+137
+00:07:26,780 --> 00:07:29,447
+      depending on the area     
+        they're covering.       
+
+138
+00:07:29,449 --> 00:07:33,919
+   the workers will later trim  
+     the ends to align them.    
+
+139
+00:07:33,921 --> 00:07:36,388
+       next, workers mark       
+         the center line        
+
+140
+00:07:36,390 --> 00:07:38,856
+  along the bottom of the boat  
+       with a chalk line.       
+
+141
+00:07:38,858 --> 00:07:41,259
+    this is where they'll put   
+      the first cedar plank     
+
+142
+00:07:41,261 --> 00:07:43,495
+ to create the skin of the boat.
+
+143
+00:07:47,133 --> 00:07:49,734
+   they lay 18 rows of planks   
+           on the boat          
+
+144
+00:07:49,736 --> 00:07:53,338
+      and use a box cutter      
+ to shape the ends into a curve.
+
+145
+00:07:53,340 --> 00:07:56,007
+     they secure the planks     
+        with brass tacks.       
+
+146
+00:07:56,009 --> 00:07:58,075
+          brass because         
+       it's rust-resistant      
+
+147
+00:07:58,077 --> 00:08:02,414
+    and its color blends well   
+      with the blond wood.      
+
+148
+00:08:02,416 --> 00:08:04,216
+        since the planks        
+      are straight-angled,      
+
+149
+00:08:04,218 --> 00:08:06,418
+       this process leaves      
+     some wedge-like spaces     
+
+150
+00:08:06,420 --> 00:08:08,886
+    they'll cover separately.   
+
+151
+00:08:08,888 --> 00:08:12,557
+  they cut thin wedges of wood  
+ to cover the remaining spaces. 
+
+152
+00:08:12,559 --> 00:08:15,159
+it takes 8 hours and 2,500 tacks
+
+153
+00:08:15,161 --> 00:08:17,696
+      to fit all the planks     
+          on the boat.          
+
+154
+00:08:17,698 --> 00:08:22,366
+  in total, it takes one person 
+   30 hours to make one canoe.  
+
+155
+00:08:22,368 --> 00:08:24,101
+      using a circular saw,     
+
+156
+00:08:24,103 --> 00:08:27,438
+   a worker trims the excess    
+   from the ends of the ribs.   
+
+157
+00:08:27,440 --> 00:08:30,108
+ then two workers lift the boat 
+        off the template,       
+
+158
+00:08:30,110 --> 00:08:31,576
+     flip it right-side up,     
+
+159
+00:08:31,578 --> 00:08:36,314
+     and set it down to rest    
+        on two sawhorses.       
+
+160
+00:08:36,316 --> 00:08:38,783
+      here, a worker feels      
+         inside the boat        
+
+161
+00:08:38,785 --> 00:08:40,719
+    for any protruding tacks.   
+
+162
+00:08:40,721 --> 00:08:43,521
+he uses a hammer and metal block
+        to flatten them.        
+
+163
+00:08:43,523 --> 00:08:45,523
+   most were deflected earlier  
+
+164
+00:08:45,525 --> 00:08:49,661
+     when they hit the metal    
+  guide strips on the template. 
+
+165
+00:08:49,663 --> 00:08:52,997
+a worker tightens a nylon string
+      between the gunwales,     
+
+166
+00:08:52,999 --> 00:08:55,667
+ bringing the boats extremities 
+       together in points.      
+
+167
+00:08:55,669 --> 00:08:58,136
+      he joins the tips of      
+    the gunwales with a screw   
+
+168
+00:08:58,138 --> 00:08:59,737
+    at both ends of the boat.   
+
+169
+00:08:59,739 --> 00:09:02,674
+   then he installs triangular  
+       pieces of mahogany.      
+
+170
+00:09:02,676 --> 00:09:05,577
+    this hardwood stands out    
+      visually when stained     
+
+171
+00:09:05,579 --> 00:09:08,480
+       and also reinforces      
+      the ends of the boat.     
+
+172
+00:09:08,482 --> 00:09:12,617
+        workers then trim       
+     and close off the ends.    
+
+173
+00:09:12,619 --> 00:09:16,221
+   next, they attach two more   
+     gunwales with 44 screws    
+
+174
+00:09:16,223 --> 00:09:19,958
+     to create the outer rim    
+          of the boat.          
+
+175
+00:09:19,960 --> 00:09:23,161
+       to protect the wood      
+and make its surface watertight,
+
+176
+00:09:23,163 --> 00:09:26,765
+   workers cover the bottom of  
+the canoe with fiberglass cloth.
+
+177
+00:09:26,767 --> 00:09:30,035
+  then they seal it with three  
+  coats of clear epoxy resin,   
+
+178
+00:09:30,037 --> 00:09:35,707
+ which will need up to two hours
+  of drying time between coats. 
+
+179
+00:09:35,709 --> 00:09:38,376
+        workers reinforce       
+ the front and back of the boat 
+
+180
+00:09:38,378 --> 00:09:41,179
+      with more fiberglass      
+         and more resin.        
+
+181
+00:09:41,181 --> 00:09:44,515
+they do this because these areas
+   will hit rocks in the shore  
+
+182
+00:09:44,517 --> 00:09:46,518
+  more often than other parts.  
+
+183
+00:09:46,520 --> 00:09:49,587
+ a worker fills holes he drilled
+ through the bottom of the boat 
+
+184
+00:09:49,589 --> 00:09:50,855
+         with silicone.         
+
+185
+00:09:50,857 --> 00:09:53,591
+   this helps attach the keel,  
+     the spine of the boat,     
+
+186
+00:09:53,593 --> 00:09:57,128
+    as well as two long brass   
+ components on top of the keel. 
+
+187
+00:09:57,130 --> 00:10:00,265
+   workers complete this step   
+      by flipping the canoe     
+
+188
+00:10:00,267 --> 00:10:03,001
+     and attaching 37 screws    
+      through the silicone      
+
+189
+00:10:03,003 --> 00:10:04,869
+       and into the keel.       
+
+190
+00:10:08,207 --> 00:10:11,676
+  after thawing frozen strips   
+  of rawhide leather in water,  
+
+191
+00:10:11,678 --> 00:10:13,945
+  a worker cuts holes in them.  
+
+192
+00:10:13,947 --> 00:10:16,814
+     these holes enable her     
+  to weave the strips together  
+
+193
+00:10:16,816 --> 00:10:20,018
+      to cover the canoe's      
+      two ash-wood seats.       
+
+194
+00:10:20,020 --> 00:10:21,753
+   it takes her about an hour   
+
+195
+00:10:21,755 --> 00:10:24,155
+  to weave the required 65 feet 
+           of rawhide.          
+
+196
+00:10:24,157 --> 00:10:26,424
+     the pattern is similar     
+         to what you see        
+
+197
+00:10:26,426 --> 00:10:28,760
+    on traditional snowshoes.   
+
+198
+00:10:28,762 --> 00:10:30,362
+        it takes two days       
+
+199
+00:10:30,364 --> 00:10:33,231
+     for the leather strips     
+     to dry out and tighten.    
+
+200
+00:10:33,233 --> 00:10:35,767
+      workers then protect      
+      and strengthen them       
+
+201
+00:10:35,769 --> 00:10:37,836
+      with marine varnish.      
+
+202
+00:10:37,838 --> 00:10:40,304
+   then they install the seats  
+         inside the boat        
+
+203
+00:10:40,306 --> 00:10:41,906
+     with four brass bolts.     
+
+204
+00:10:41,908 --> 00:10:43,708
+      next comes the yoke,      
+
+205
+00:10:43,710 --> 00:10:46,044
+      a bar running across      
+     the width of the boat.     
+
+206
+00:10:46,046 --> 00:10:48,012
+      it's designed to fit      
+        on your shoulders       
+
+207
+00:10:48,014 --> 00:10:50,181
+     when you carry the boat    
+          upside down.          
+
+208
+00:10:50,183 --> 00:10:52,517
+          the other bar         
+   is for securing gear safely  
+
+209
+00:10:52,519 --> 00:10:54,986
+    while you're out paddling   
+          on the water.         
+
+210
+00:10:54,988 --> 00:10:57,022
+           bon voyage.          
+
+211
+00:11:04,262 --> 00:11:06,798
+  narrator: the electric guitar 
+    dates back to the 1920s.    
+
+212
+00:11:06,800 --> 00:11:08,532
+the original idea was to amplify
+
+213
+00:11:08,534 --> 00:11:10,669
+            the sound           
+     of the acoustic guitar.    
+
+214
+00:11:10,671 --> 00:11:12,671
+     the first commercially     
+        successful model        
+
+215
+00:11:12,673 --> 00:11:14,338
+        came out in 1932.       
+
+216
+00:11:14,340 --> 00:11:16,006
+      by the 1950s, though,     
+
+217
+00:11:16,008 --> 00:11:18,143
+    the instrument underwent    
+        a radical change,       
+
+218
+00:11:18,145 --> 00:11:21,146
+     its body evolving from     
+  the traditional hollow shape  
+
+219
+00:11:21,148 --> 00:11:22,914
+ to a thin, solid block of wood.
+
+220
+00:11:25,084 --> 00:11:28,153
+    guitar bodies are usually   
+    made of mahogany, poplar,   
+
+221
+00:11:28,155 --> 00:11:29,887
+   or certain maple species --  
+
+222
+00:11:29,889 --> 00:11:32,023
+        lightweight woods       
+    that are flexible enough    
+
+223
+00:11:32,025 --> 00:11:34,492
+  to produce the right balance  
+      of treble, midrange,      
+
+224
+00:11:34,494 --> 00:11:36,293
+      and bass vibrations.      
+
+225
+00:11:36,295 --> 00:11:39,764
+    workers first saw a plank   
+  of wood into specific widths. 
+
+226
+00:11:39,766 --> 00:11:42,901
+      they plane the pieces     
+    to a specific thickness,    
+
+227
+00:11:42,903 --> 00:11:45,436
+      usually in the range      
+        of 2 to 4 inches.       
+
+228
+00:11:45,438 --> 00:11:47,705
+      then they mark them       
+      with the same number      
+
+229
+00:11:47,707 --> 00:11:49,774
+        so they'll end up       
+       in the same guitar.      
+
+230
+00:11:49,776 --> 00:11:51,709
+          mixing pieces         
+      from different planks     
+
+231
+00:11:51,711 --> 00:11:53,778
+          would combine         
+    different wood densities    
+
+232
+00:11:53,780 --> 00:11:56,247
+        and make the body       
+        vibrate unevenly.       
+
+233
+00:11:56,249 --> 00:11:58,182
+    damp wood tends to warp,    
+
+234
+00:11:58,184 --> 00:12:00,719
+    so the pieces have to go    
+       into a heated room       
+
+235
+00:12:00,721 --> 00:12:04,389
+  until their moisture content  
+     drops to less than 6%.     
+
+236
+00:12:04,391 --> 00:12:07,391
+  this takes about two months.  
+
+237
+00:12:07,393 --> 00:12:09,260
+    once the wood dries out,    
+
+238
+00:12:09,262 --> 00:12:11,729
+     workers glue and clamp     
+      the pieces together,      
+
+239
+00:12:11,731 --> 00:12:15,266
+setting them in a vise for three
+   hours until the glue dries.  
+
+240
+00:12:15,268 --> 00:12:18,068
+      the water-based glue      
+    re-wets part of the wood,   
+
+241
+00:12:18,070 --> 00:12:20,938
+   so the block has to go back  
+      into the drying room      
+
+242
+00:12:20,940 --> 00:12:23,174
+     for another two months.    
+
+243
+00:12:26,078 --> 00:12:29,948
+       when it comes out,       
+ it goes onto a holding device. 
+
+244
+00:12:31,751 --> 00:12:34,152
+     then a computer-guided     
+         cutting machine        
+
+245
+00:12:34,154 --> 00:12:36,887
+   uses eight different heads,  
+       one after another,       
+
+246
+00:12:36,889 --> 00:12:39,224
+       to gradually carve       
+         the body shape.        
+
+247
+00:12:39,226 --> 00:12:41,425
+ this is a semi-acoustic model, 
+
+248
+00:12:41,427 --> 00:12:44,262
+         so the body has        
+    some hollowed-out areas.    
+
+249
+00:12:46,967 --> 00:12:49,834
+      after a fine sanding      
+     to smooth the surface,     
+
+250
+00:12:49,836 --> 00:12:52,903
+      they trim the contour     
+      at a 45-degree angle      
+
+251
+00:12:52,905 --> 00:12:55,106
+          using a small         
+     stainless-steel blade.     
+
+252
+00:12:55,108 --> 00:12:57,041
+      then they sand again.     
+
+253
+00:12:57,043 --> 00:13:00,377
+   by this point, they've also  
+  inserted round metal fixtures 
+
+254
+00:13:00,379 --> 00:13:04,248
+   to hold the bolts that will  
+    attach the body and neck.   
+
+255
+00:13:04,250 --> 00:13:06,384
+     to construct the neck,     
+
+256
+00:13:06,386 --> 00:13:09,587
+ they slice a piece of mahogany 
+    or hard-rock maple in two   
+
+257
+00:13:09,589 --> 00:13:11,956
+    using a diamond-edged saw   
+       for a perfect cut.       
+
+258
+00:13:17,797 --> 00:13:21,265
+ then they glue a .05-inch-thick
+      sheet of maple veneer     
+
+259
+00:13:21,267 --> 00:13:23,334
+         onto one piece.        
+
+260
+00:13:23,336 --> 00:13:26,604
+ this will be the front surface 
+          of the neck.          
+
+261
+00:13:26,606 --> 00:13:30,074
+  now they flip the piece over  
+  and glue it to the other one. 
+
+262
+00:13:30,076 --> 00:13:32,142
+flipping inverts the wood grain.
+
+263
+00:13:32,144 --> 00:13:33,811
+   this strengthens the neck,   
+
+264
+00:13:33,813 --> 00:13:37,014
+  enabling it to withstand the  
+ tension of the guitar strings. 
+
+265
+00:13:37,016 --> 00:13:40,618
+     the maple veneer hides     
+    and reinforces the joint.   
+
+266
+00:13:40,620 --> 00:13:43,554
+    they clamp the components   
+    in a vise for three hours   
+
+267
+00:13:43,556 --> 00:13:46,491
+      until the glue sets.      
+
+268
+00:13:46,493 --> 00:13:49,560
+    a computer-guided cutting   
+ machine contours the neck shape
+
+269
+00:13:49,562 --> 00:13:51,162
+        and cuts a groove       
+         down the middle        
+
+270
+00:13:51,164 --> 00:13:54,032
+         for a steel bar        
+      called the truss rod.     
+
+271
+00:13:54,034 --> 00:13:57,368
+ when the neck bows from tension
+ created by heavy-gauge strings,
+
+272
+00:13:57,370 --> 00:13:58,837
+        you straighten it       
+
+273
+00:13:58,839 --> 00:14:02,240
+ by adjusting the protruding end
+        of the truss rod.       
+
+274
+00:14:02,242 --> 00:14:03,841
+    next, the fingerboard --    
+
+275
+00:14:03,843 --> 00:14:06,711
+    the surface against which   
+      you press the strings     
+
+276
+00:14:06,713 --> 00:14:08,713
+   to produce different notes   
+           and chords.          
+
+277
+00:14:08,715 --> 00:14:12,049
+   it's made of maple, ebony,   
+          or rosewood.          
+
+278
+00:14:12,051 --> 00:14:14,985
+  after gluing the fingerboard  
+       over the truss rod,      
+
+279
+00:14:14,987 --> 00:14:17,588
+      they place the neck       
+      into a vacuum press.      
+
+280
+00:14:17,590 --> 00:14:19,791
+the press sucks out all the air,
+
+281
+00:14:19,793 --> 00:14:22,994
+   compressing the components   
+      into one solid unit.      
+
+282
+00:14:25,265 --> 00:14:27,131
+      once the glue dries,      
+
+283
+00:14:27,133 --> 00:14:30,001
+      the neck goes onto a      
+computer-guided carving machine.
+
+284
+00:14:30,003 --> 00:14:33,705
+ its 12 different cutting heads 
+       finalize the shape.      
+
+285
+00:14:37,610 --> 00:14:40,011
+      next, a 22-blade saw      
+
+286
+00:14:40,013 --> 00:14:44,082
+simultaneously cuts very precise
+    slots for 22 fret wires,    
+
+287
+00:14:44,084 --> 00:14:47,352
+         the metal lines        
+       on the fingerboard.      
+
+288
+00:14:57,163 --> 00:15:00,097
+a worker rounds off and smoothes
+      the back of the neck      
+
+289
+00:15:00,099 --> 00:15:01,966
+    against a belt sander...    
+
+290
+00:15:04,704 --> 00:15:07,037
+...then installs the fret wires.
+
+291
+00:15:07,039 --> 00:15:09,507
+            the wires           
+  are made of nickel and lead.  
+
+292
+00:15:09,509 --> 00:15:11,776
+  they have teeth on the bottom 
+       that grab the wood.      
+
+293
+00:15:11,778 --> 00:15:13,644
+    that's why it's essential   
+
+294
+00:15:13,646 --> 00:15:16,748
+that the slots be a very precise
+        width and depth.        
+
+295
+00:15:20,787 --> 00:15:23,053
+        finally, they run       
+      the sides of the neck     
+
+296
+00:15:23,055 --> 00:15:24,656
+    against the sanding belt.   
+
+297
+00:15:24,658 --> 00:15:27,258
+         this trims off         
+      the excess fret wire      
+
+298
+00:15:27,260 --> 00:15:31,262
+    and rounds off the edges    
+       of the fingerboard.      
+
+299
+00:15:31,264 --> 00:15:34,265
+      back to the body now.     
+
+300
+00:15:34,267 --> 00:15:36,734
+        a worker puts it        
+    in a silk-screen printer    
+
+301
+00:15:36,736 --> 00:15:38,602
+   to apply the company name.   
+
+302
+00:15:38,604 --> 00:15:42,573
+  the ink dries in just seconds 
+    under ultraviolet light.    
+
+303
+00:15:46,746 --> 00:15:49,947
+    after applying a sealant    
+   to block the wood's pores,   
+
+304
+00:15:49,949 --> 00:15:53,951
+  they spray on up to 22 coats  
+   of wood stain and lacquer.   
+
+305
+00:15:53,953 --> 00:15:56,087
+     this protects the wood     
+
+306
+00:15:56,089 --> 00:15:59,557
+          and gives it          
+  a semi- or high-gloss finish. 
+
+307
+00:16:09,835 --> 00:16:11,969
+            narrator:           
+     now onto the mechanics.    
+
+308
+00:16:11,971 --> 00:16:14,105
+    an electric guitar works    
+           like this.           
+
+309
+00:16:14,107 --> 00:16:16,708
+   a magnet-and-coil assembly   
+         called a pickup        
+
+310
+00:16:16,710 --> 00:16:18,910
+  works like a mini-microphone. 
+
+311
+00:16:18,912 --> 00:16:21,579
+it picks up the sound vibrations
+         of the strings         
+
+312
+00:16:21,581 --> 00:16:23,247
+ and sends them to an amplifier 
+
+313
+00:16:23,249 --> 00:16:24,982
+  which sends them to a speaker 
+
+314
+00:16:24,984 --> 00:16:28,052
+   which emits that trademark   
+     electric-guitar sound.     
+
+315
+00:16:31,524 --> 00:16:34,392
+before installing the electronic
+       components, though,      
+
+316
+00:16:34,394 --> 00:16:35,926
+       a few final steps.       
+
+317
+00:16:35,928 --> 00:16:37,862
+  after a 6-week curing period, 
+
+318
+00:16:37,864 --> 00:16:40,798
+    they wet-sand the painted   
+       and lacquered wood,      
+
+319
+00:16:40,800 --> 00:16:43,801
+   then buff until the surface  
+          is so glossy          
+
+320
+00:16:43,803 --> 00:16:46,537
+  it produces a mirror finish.  
+
+321
+00:16:46,539 --> 00:16:49,540
+  then they polish it with wax. 
+
+322
+00:16:49,542 --> 00:16:53,077
+   if the frets aren't level,   
+      the guitar will buzz,     
+
+323
+00:16:53,079 --> 00:16:56,147
+    so workers color the top    
+   of each fret with a marker,  
+
+324
+00:16:56,149 --> 00:16:58,282
+        then run a sheet        
+        of fine sandpaper       
+
+325
+00:16:58,284 --> 00:16:59,884
+      down the fingerboard.     
+
+326
+00:16:59,886 --> 00:17:02,754
+  the ink rubs off on any frets 
+  that are higher than the rest 
+
+327
+00:17:02,756 --> 00:17:05,089
+   and have to be filed down.   
+
+328
+00:17:05,091 --> 00:17:07,225
+       the filings flatten      
+        the fret's edges,       
+
+329
+00:17:07,227 --> 00:17:11,095
+    so workers round them off   
+  using a special curved file.  
+
+330
+00:17:11,097 --> 00:17:14,098
+ then, with very fine sandpaper,
+
+331
+00:17:14,100 --> 00:17:16,501
+they buff away the filing marks.
+
+332
+00:17:16,503 --> 00:17:19,103
+   they clean the fingerboard   
+        with mineral oil.       
+
+333
+00:17:19,105 --> 00:17:23,975
+this also nourishes the rosewood
+ so it won't dry out and crack. 
+
+334
+00:17:23,977 --> 00:17:26,844
+   now they turn an allen key   
+        in the truss rod        
+
+335
+00:17:26,846 --> 00:17:28,378
+   to straighten out the neck.  
+
+336
+00:17:28,380 --> 00:17:32,049
+ this gauge measures the curve. 
+
+337
+00:17:32,051 --> 00:17:33,584
+   when the needle hits zero,   
+
+338
+00:17:33,586 --> 00:17:36,987
+ the neck is perfectly straight.
+
+339
+00:17:36,989 --> 00:17:39,057
+   now the six tuning keys --   
+
+340
+00:17:39,059 --> 00:17:40,858
+      one for each string.      
+
+341
+00:17:40,860 --> 00:17:42,726
+     depending on the model,    
+
+342
+00:17:42,728 --> 00:17:45,663
+   these steel keys are plated  
+   with either gold or nickel   
+
+343
+00:17:45,665 --> 00:17:47,265
+        or painted black.       
+
+344
+00:17:47,267 --> 00:17:48,999
+ you turn the black acrylic peg 
+
+345
+00:17:49,001 --> 00:17:52,136
+ to tighten or loosen the string
+           for tuning.          
+
+346
+00:17:52,138 --> 00:17:53,871
+   workers use a digital gauge  
+
+347
+00:17:53,873 --> 00:17:55,940
+      to measure the height     
+          of the nut --         
+
+348
+00:17:55,942 --> 00:17:58,342
+   a thin piece of either bone  
+      or very hard plastic      
+
+349
+00:17:58,344 --> 00:18:01,545
+         with six slots         
+      to space the strings.     
+
+350
+00:18:01,547 --> 00:18:04,148
+    if it isn't in precisely    
+       the right position,      
+
+351
+00:18:04,150 --> 00:18:07,017
+       tuning will be off       
+   and the strings will buzz.   
+
+352
+00:18:07,019 --> 00:18:10,154
+      now the neck is ready     
+        to join the body,       
+
+353
+00:18:10,156 --> 00:18:13,691
+  courtesy of four bolts driven 
+from the back of the instrument.
+
+354
+00:18:13,693 --> 00:18:16,093
+          they fit into         
+   those round metal fixtures   
+
+355
+00:18:16,095 --> 00:18:18,362
+ we saw in the previous segment.
+
+356
+00:18:18,364 --> 00:18:21,165
+             and now            
+   the electronic components.   
+
+357
+00:18:21,167 --> 00:18:23,634
+          workers begin         
+   by soldering control knobs   
+
+358
+00:18:23,636 --> 00:18:25,303
+     for the volume and tone    
+
+359
+00:18:25,305 --> 00:18:26,838
+to the pickup selector switch --
+
+360
+00:18:26,840 --> 00:18:29,840
+    the switch that activates   
+      any of the pickups --     
+
+361
+00:18:29,842 --> 00:18:32,043
+    sets of magnets with wire   
+       coiled around them.      
+
+362
+00:18:32,045 --> 00:18:33,911
+   like miniature microphones,  
+
+363
+00:18:33,913 --> 00:18:36,046
+          they pick up          
+      the sound vibrations      
+
+364
+00:18:36,048 --> 00:18:37,848
+ entering their magnetic field, 
+
+365
+00:18:37,850 --> 00:18:40,317
+         transform them         
+    into electronic signals,    
+
+366
+00:18:40,319 --> 00:18:43,854
+        which then go out       
+  to the amplifier and speaker. 
+
+367
+00:18:43,856 --> 00:18:46,257
+       one pickup will be       
+    just above the bridge --    
+
+368
+00:18:46,259 --> 00:18:49,127
+   a brass piece that anchors   
+  the other end of the strings. 
+
+369
+00:18:49,129 --> 00:18:53,264
+    the pickup has one magnet   
+ and wire coil for each string. 
+
+370
+00:18:53,266 --> 00:18:56,868
+ standard electric guitars don't
+  have a pickup at the bridge,  
+
+371
+00:18:56,870 --> 00:18:58,602
+     but this model has one     
+
+372
+00:18:58,604 --> 00:19:02,273
+to enable the instrument to also
+ sound like an acoustic guitar. 
+
+373
+00:19:02,275 --> 00:19:06,010
+  you can even use the electric 
+  and acoustic sounds together. 
+
+374
+00:19:09,348 --> 00:19:12,350
+ workers drill holes in the body
+   for installing the bridge,   
+
+375
+00:19:12,352 --> 00:19:14,919
+  using a template as a guide.  
+
+376
+00:19:18,558 --> 00:19:21,826
+     they attach the bridge     
+         with screws...         
+
+377
+00:19:26,299 --> 00:19:29,233
+   ...then install the bridge   
+      pickup just above it      
+
+378
+00:19:29,235 --> 00:19:32,703
+  and the body and neck pickups 
+           above that.          
+
+379
+00:19:32,705 --> 00:19:34,305
+     then they flip it over     
+
+380
+00:19:34,307 --> 00:19:36,440
+    and hook up what's called   
+          the tremolo,          
+
+381
+00:19:36,442 --> 00:19:38,576
+      a lever-activated set     
+        of steel springs        
+
+382
+00:19:38,578 --> 00:19:41,378
+     that temporarily loosen    
+       the guitar strings.      
+
+383
+00:19:41,380 --> 00:19:44,782
+  the musician uses the tremolo 
+   on select notes and chords   
+
+384
+00:19:44,784 --> 00:19:46,851
+ to create a quivering effect --
+
+385
+00:19:46,853 --> 00:19:50,520
+        that distinctive        
+     electric-guitar sound.     
+
+386
+00:19:50,522 --> 00:19:52,789
+    the volume and tone knobs   
+           come next,           
+
+387
+00:19:52,791 --> 00:19:54,858
+      tucked into a cavity      
+          in the back,          
+
+388
+00:19:54,860 --> 00:19:57,194
+    then secured to the front   
+           with a nut.          
+
+389
+00:19:57,196 --> 00:20:00,665
+ now the pickup selector switch.
+
+390
+00:20:00,667 --> 00:20:05,402
+ it also comes through the back 
+ to the front of the instrument.
+
+391
+00:20:05,404 --> 00:20:08,138
+     then they add the last     
+     electronic component --    
+
+392
+00:20:08,140 --> 00:20:11,142
+      a jack for the cable      
+     going to the amplifier.    
+
+393
+00:20:14,480 --> 00:20:16,213
+     they plug in the cable,    
+
+394
+00:20:16,215 --> 00:20:18,248
+          and flicking          
+      the selector switch,      
+
+395
+00:20:18,250 --> 00:20:20,451
+ do a tap test on each pick up. 
+
+396
+00:20:26,692 --> 00:20:29,426
+          now it's time         
+      to string the guitar.     
+
+397
+00:20:29,428 --> 00:20:31,962
+   they pull the steel strings  
+          from the back         
+
+398
+00:20:31,964 --> 00:20:35,499
+through the bridge in the front,
+
+399
+00:20:35,501 --> 00:20:38,102
+         then wind them         
+      onto the tuning keys      
+
+400
+00:20:38,104 --> 00:20:41,339
+          using a drill         
+     with a special adaptor.    
+
+401
+00:20:44,176 --> 00:20:46,711
+         then it's into         
+       a soundproof booth       
+
+402
+00:20:46,713 --> 00:20:51,582
+to tune the guitar with the help
+       of a digital tuner.      
+
+403
+00:20:51,584 --> 00:20:54,819
+      and then it's played      
+      for the first time.       
+
+404
+00:21:02,462 --> 00:21:05,062
+       [ playing scales ]       
+
+405
+00:21:12,604 --> 00:21:15,072
+    if you have any comments    
+         about the show,        
+
+406
+00:21:15,074 --> 00:21:17,608
+   or if you'd like to suggest  
+    topics for future shows,    
+
+407
+00:21:17,610 --> 00:21:20,044
+      drop us a line at...      
+

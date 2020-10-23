@@ -1,0 +1,1704 @@
+﻿1
+00:00:01,002 --> 00:00:08,541
+                     ♪♪         
+
+2
+00:00:08,543 --> 00:00:16,281
+                     ♪♪         
+
+3
+00:00:16,283 --> 00:00:19,218
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+4
+00:00:19,220 --> 00:00:22,255
+      captions paid for by      
+    discovery communications    
+
+5
+00:00:28,028 --> 00:00:32,064
+                     ♪♪         
+
+6
+00:00:34,102 --> 00:00:38,104
+                     ♪♪         
+
+7
+00:00:39,974 --> 00:00:44,043
+                     ♪♪         
+
+8
+00:00:46,914 --> 00:00:54,119
+                     ♪♪         
+
+9
+00:00:54,121 --> 00:00:55,855
+            narrator:           
+     artificial intelligence    
+
+10
+00:00:55,857 --> 00:00:57,790
+ is an area of computer science 
+
+11
+00:00:57,792 --> 00:01:00,393
+       focused on creating      
+      intelligent machines      
+
+12
+00:01:00,395 --> 00:01:03,663
+ that work and react to humans. 
+
+13
+00:01:03,665 --> 00:01:06,999
+        the term "robot"        
+     first appeared in 1920.    
+
+14
+00:01:07,001 --> 00:01:09,335
+          it comes from         
+    the czech word "robota,"    
+
+15
+00:01:09,337 --> 00:01:14,339
+     meaning "forced labor."    
+
+16
+00:01:14,341 --> 00:01:17,476
+       this facility makes      
+   a type of educational robot  
+
+17
+00:01:17,478 --> 00:01:21,013
+     equipped with a series     
+ of interconnected servomotors. 
+
+18
+00:01:21,015 --> 00:01:23,281
+     this type of equipment     
+        allows the robot        
+
+19
+00:01:23,283 --> 00:01:27,486
+  to move with an extraordinary 
+      degree of dexterity.      
+
+20
+00:01:27,488 --> 00:01:30,022
+       construction starts      
+          from scratch.         
+
+21
+00:01:30,024 --> 00:01:32,891
+    tiny bushings are created   
+        from a steel rod        
+
+22
+00:01:32,893 --> 00:01:39,031
+  placed inside this high-tech  
+   automated machining device.  
+
+23
+00:01:39,033 --> 00:01:41,567
+      a technician monitors     
+          the operation         
+
+24
+00:01:41,569 --> 00:01:45,371
+ as the machine shapes the parts
+    with digitized precision    
+
+25
+00:01:45,373 --> 00:01:48,040
+  to the design specifications. 
+
+26
+00:01:48,042 --> 00:01:49,642
+    the high-speed steel bits   
+
+27
+00:01:49,644 --> 00:01:52,711
+         carve the metal        
+     at an incredible speed.    
+
+28
+00:01:52,713 --> 00:01:56,515
+        this machine can        
+     manufacture 1,309 parts    
+
+29
+00:01:56,517 --> 00:02:01,454
+   per every eight-hour shift.  
+
+30
+00:02:01,456 --> 00:02:04,189
+       the parts fall into      
+      a vibrating mechanism     
+
+31
+00:02:04,191 --> 00:02:10,262
+      that feeds them into      
+  the next phase of production. 
+
+32
+00:02:10,264 --> 00:02:13,599
+      a specialized device      
+  called a gear-hobbing machine 
+
+33
+00:02:13,601 --> 00:02:16,669
+   quickly and accurately cuts  
+        a series of cogs        
+
+34
+00:02:16,671 --> 00:02:19,337
+ to create tiny sprocket wheels.
+
+35
+00:02:19,339 --> 00:02:25,344
+                     ♪♪         
+
+36
+00:02:25,346 --> 00:02:28,480
+        a technician uses       
+        state-of-the-art        
+        measuring devices       
+
+37
+00:02:28,482 --> 00:02:31,550
+      to gauge the profile,     
+   tooth alignment, and pitch   
+
+38
+00:02:31,552 --> 00:02:32,885
+         of sample parts        
+
+39
+00:02:32,887 --> 00:02:35,354
+    to ensure they are up to    
+       standards specified      
+
+40
+00:02:35,356 --> 00:02:40,959
+      in the manufacturer's     
+          control plan.         
+
+41
+00:02:40,961 --> 00:02:44,230
+     another operator mounts    
+    a gear plate on a device,   
+
+42
+00:02:44,232 --> 00:02:47,766
+ fastening it to a smaller part 
+      called the sun gear.      
+
+43
+00:02:47,768 --> 00:02:54,773
+                     ♪♪         
+
+44
+00:02:54,775 --> 00:02:59,245
+   once all the required parts  
+     are tested and prepped,    
+
+45
+00:02:59,247 --> 00:03:01,714
+        technicians begin       
+    putting them all together   
+
+46
+00:03:01,716 --> 00:03:06,051
+     to create d.c. motors.     
+
+47
+00:03:06,053 --> 00:03:08,587
+        since the robots        
+       are specialty items      
+
+48
+00:03:08,589 --> 00:03:10,389
+           with small           
+     production quantities,     
+
+49
+00:03:10,391 --> 00:03:14,527
+    this facility is able to    
+  assemble each motor by hand.  
+
+50
+00:03:14,529 --> 00:03:19,131
+  the gears used in the motors  
+ are made of a variety of metals
+
+51
+00:03:19,133 --> 00:03:21,066
+         to account for         
+     different requirements     
+
+52
+00:03:21,068 --> 00:03:25,937
+   of torque and loading force  
+       within the device.       
+
+53
+00:03:25,939 --> 00:03:28,207
+moving with speed and precision,
+
+54
+00:03:28,209 --> 00:03:31,076
+      specialists are able      
+     to assemble each motor     
+
+55
+00:03:31,078 --> 00:03:32,544
+    in less than 10 minutes.    
+
+56
+00:03:32,546 --> 00:03:36,081
+                     ♪♪         
+
+57
+00:03:36,083 --> 00:03:38,884
+   next, the tiny control unit  
+          is installed.         
+
+58
+00:03:38,886 --> 00:03:42,221
+    that will allow the user    
+    to manipulate the robot.    
+
+59
+00:03:42,223 --> 00:03:44,423
+         the technician         
+       carefully attaches       
+
+60
+00:03:44,425 --> 00:03:47,760
+ the bottom portion of the unit 
+   inside the motor container   
+
+61
+00:03:47,762 --> 00:03:52,497
+  with a small cordless drill.  
+
+62
+00:03:52,499 --> 00:03:54,767
+once the unit is firmly secured,
+
+63
+00:03:54,769 --> 00:03:57,570
+      he expertly positions     
+         the wire leads         
+
+64
+00:03:57,572 --> 00:04:03,375
+         to prepare them        
+       for the next step.       
+
+65
+00:04:03,377 --> 00:04:09,515
+      a technician quickly      
+   solders the wires in place.  
+
+66
+00:04:09,517 --> 00:04:13,451
+  now that the installation of  
+ the control panel is complete, 
+
+67
+00:04:13,453 --> 00:04:16,855
+     a technician finalizes     
+     the d.c. motor assembly    
+
+68
+00:04:16,857 --> 00:04:18,591
+     by attaching the cover     
+
+69
+00:04:18,593 --> 00:04:21,126
+      and securing it down      
+        with four screws        
+
+70
+00:04:21,128 --> 00:04:22,594
+     using a cordless drill.    
+
+71
+00:04:22,596 --> 00:04:28,266
+                     ♪♪         
+
+72
+00:04:28,268 --> 00:04:30,336
+   next, the individual motors  
+
+73
+00:04:30,338 --> 00:04:35,007
+       are installed into       
+   the framework of the robot.  
+
+74
+00:04:35,009 --> 00:04:37,742
+        one motor becomes       
+        the robot's head,       
+
+75
+00:04:37,744 --> 00:04:41,146
+   while the remaining motors   
+  are attached to hinged joints 
+
+76
+00:04:41,148 --> 00:04:45,684
+         that correspond        
+      to a major body part.     
+
+77
+00:04:45,686 --> 00:04:48,621
+     then the robot's wiring    
+         is plugged in,         
+
+78
+00:04:48,623 --> 00:04:52,758
+       ensuring the motors      
+  are connected to each other.  
+
+79
+00:04:52,760 --> 00:04:55,294
+       they now form parts      
+     of an integrated device    
+
+80
+00:04:55,296 --> 00:04:58,964
+     which can act together.    
+
+81
+00:04:58,966 --> 00:05:02,101
+  technicians use a 3-d printer 
+
+82
+00:05:02,103 --> 00:05:04,703
+    to create a suit of armor   
+         for the robot,         
+
+83
+00:05:04,705 --> 00:05:08,707
+which they mount on its exterior
+to give it a more finished look.
+
+84
+00:05:08,709 --> 00:05:13,579
+                     ♪♪         
+
+85
+00:05:13,581 --> 00:05:16,782
+  a specialist plugs the robots 
+         into a computer        
+
+86
+00:05:16,784 --> 00:05:19,518
+          and programs          
+   their different movements.   
+
+87
+00:05:19,520 --> 00:05:23,388
+   the robot tech communicates  
+ with the robot's control panel 
+
+88
+00:05:23,390 --> 00:05:26,125
+to make it do remarkable things.
+
+89
+00:05:26,127 --> 00:05:29,194
+   but first, an old-fashioned  
+        rock 'em sock 'em       
+
+90
+00:05:29,196 --> 00:05:32,998
+before they take over the world.
+
+91
+00:05:33,000 --> 00:05:35,801
+                     ♪♪         
+
+92
+00:05:43,077 --> 00:05:48,414
+                     ♪♪         
+
+93
+00:05:48,416 --> 00:05:51,083
+   narrator: when professional  
+       boxers win a title,      
+
+94
+00:05:51,085 --> 00:05:52,284
+    they're crowned the champ   
+
+95
+00:05:52,286 --> 00:05:55,354
+    and rewarded with a belt    
+  to be worn around the waist.  
+
+96
+00:05:55,356 --> 00:05:58,424
+ each international organization
+       commissions a belt       
+
+97
+00:05:58,426 --> 00:06:01,226
+     that's custom-designed     
+      to its specifications     
+
+98
+00:06:01,228 --> 00:06:04,230
+    and prominently features    
+     the organization's logo    
+
+99
+00:06:04,232 --> 00:06:08,333
+in the belt's central medallion.
+
+100
+00:06:08,335 --> 00:06:12,238
+ these boxing championship belts
+    are entirely handcrafted.   
+
+101
+00:06:12,240 --> 00:06:16,441
+  the laterals, the side pieces 
+flanking the ornate centerplate,
+
+102
+00:06:16,443 --> 00:06:20,646
+     are sometimes engraved     
+   with a fighter's portrait.   
+
+103
+00:06:20,648 --> 00:06:23,983
+    when a boxing association   
+    commissions a new design,   
+
+104
+00:06:23,985 --> 00:06:28,454
+ the company's artisans prepare 
+    a sketch for each piece.    
+
+105
+00:06:28,456 --> 00:06:31,856
+      following the sketch,     
+    they sculpt a clay model.   
+
+106
+00:06:31,858 --> 00:06:35,527
+           from that,           
+   they cast a plaster model,   
+
+107
+00:06:35,529 --> 00:06:37,529
+       then a metal model,      
+
+108
+00:06:37,531 --> 00:06:40,799
+     refining the sculpture     
+          at each step.         
+
+109
+00:06:40,801 --> 00:06:43,402
+          artisans use          
+      the final metal model     
+
+110
+00:06:43,404 --> 00:06:45,070
+    to produce a rubber mold,   
+
+111
+00:06:45,072 --> 00:06:50,276
+ which is used to cast the piece
+         in white metal.        
+
+112
+00:06:50,278 --> 00:06:52,944
+     the extracted castings     
+        are quite rough,        
+
+113
+00:06:52,946 --> 00:06:55,014
+   so the workshop's craftsmen  
+
+114
+00:06:55,016 --> 00:06:58,016
+       use files, chisels,      
+       and automated tools      
+
+115
+00:06:58,018 --> 00:07:01,620
+      to refine the shape.      
+
+116
+00:07:01,622 --> 00:07:03,755
+       some of the devices      
+         and techniques         
+
+117
+00:07:03,757 --> 00:07:06,492
+ are routinely used by jewelers,
+
+118
+00:07:06,494 --> 00:07:10,496
+   while others were designed   
+ specifically for this purpose. 
+
+119
+00:07:10,498 --> 00:07:19,304
+                     ♪♪         
+
+120
+00:07:19,306 --> 00:07:21,974
+   once the intricate details   
+         are completed,         
+
+121
+00:07:21,976 --> 00:07:25,177
+ the team files down rough spots
+      along the perimeter.      
+
+122
+00:07:25,179 --> 00:07:30,249
+                     ♪♪         
+
+123
+00:07:30,251 --> 00:07:31,450
+        the belts feature       
+
+124
+00:07:31,452 --> 00:07:33,852
+  a three-dimensional sculpture 
+           of an eagle          
+
+125
+00:07:33,854 --> 00:07:37,189
+    fused to the centerplate.   
+
+126
+00:07:37,191 --> 00:07:39,992
+   an artisan heats the wings   
+       with an open flame       
+
+127
+00:07:39,994 --> 00:07:44,263
+      to make them pliable.     
+
+128
+00:07:44,265 --> 00:07:47,665
+  then he bends them to render  
+    the eagle more lifelike.    
+
+129
+00:07:47,667 --> 00:07:53,605
+                     ♪♪         
+
+130
+00:07:53,607 --> 00:07:57,142
+       every piece must be      
+   meticulously hand-polished   
+
+131
+00:07:57,144 --> 00:07:58,543
+       on a buffing wheel.      
+
+132
+00:07:58,545 --> 00:08:02,481
+  this prepares the metal to be 
+  plated with gold or rhodium.  
+
+133
+00:08:02,483 --> 00:08:09,287
+                     ♪♪         
+
+134
+00:08:09,289 --> 00:08:11,824
+   the piece is electroplated   
+          with copper,          
+
+135
+00:08:11,826 --> 00:08:15,326
+then nickel, then 18-karat gold.
+
+136
+00:08:15,328 --> 00:08:22,234
+  the nickel carries the shine  
+     through to the surface.    
+
+137
+00:08:22,236 --> 00:08:24,837
+    after a thorough buffing    
+         on the surface,        
+
+138
+00:08:24,839 --> 00:08:29,174
+ the pieces are embellished with
+ crystals into molded cavities. 
+
+139
+00:08:29,176 --> 00:08:33,378
+                     ♪♪         
+
+140
+00:08:33,380 --> 00:08:36,048
+            sometimes           
+     the championship winner    
+
+141
+00:08:36,050 --> 00:08:39,851
+    may order precious stones   
+   such as diamonds and rubies  
+
+142
+00:08:39,853 --> 00:08:46,257
+    to replace the crystals,    
+ depending on their preference. 
+
+143
+00:08:46,259 --> 00:08:49,328
+       a team of enamelers      
+   paints the finished pieces   
+
+144
+00:08:49,330 --> 00:08:52,197
+   with jewelry-grade enamel.   
+
+145
+00:08:52,199 --> 00:09:00,372
+   this requires a steady hand  
+ and close attention to detail. 
+
+146
+00:09:00,374 --> 00:09:01,940
+   once the piece is painted,   
+
+147
+00:09:01,942 --> 00:09:05,210
+      it's put into an oven     
+       to bake the enamel.      
+
+148
+00:09:05,212 --> 00:09:10,949
+                     ♪♪         
+
+149
+00:09:10,951 --> 00:09:16,621
+                     ♪♪         
+
+150
+00:09:16,623 --> 00:09:19,958
+     the belt strap is made     
+  of high-grade bonded leather. 
+
+151
+00:09:19,960 --> 00:09:23,161
+       a craftsman traces       
+ a belt template in the leather,
+
+152
+00:09:23,163 --> 00:09:25,497
+ then cuts it out with a knife. 
+
+153
+00:09:25,499 --> 00:09:30,168
+   then they adhere the strap   
+ to leather or high-grade vinyl.
+
+154
+00:09:30,170 --> 00:09:33,104
+        the designer sews       
+ the strap's lining separately, 
+
+155
+00:09:33,106 --> 00:09:36,708
+     stitching black spandex    
+     over a faux-fur backing    
+
+156
+00:09:36,710 --> 00:09:39,511
+          and attaching         
+     the authenticity label     
+
+157
+00:09:39,513 --> 00:09:42,514
+           which bears          
+    the belt's serial number.   
+
+158
+00:09:42,516 --> 00:09:46,251
+      this distinguishes it     
+    from cheaply made copies.   
+
+159
+00:09:46,253 --> 00:09:49,654
+     the craftsman attaches     
+ leather/high-grade vinyl piping
+
+160
+00:09:49,656 --> 00:09:51,122
+     to the strap perimeter.    
+
+161
+00:09:51,124 --> 00:09:53,592
+    he places a brand sticker   
+           on the back          
+
+162
+00:09:53,594 --> 00:09:55,194
+  next to an inscribed tribute  
+
+163
+00:09:55,196 --> 00:09:59,130
+        to the originator       
+   of the modern boxing belt.   
+
+164
+00:09:59,132 --> 00:10:04,202
+     they adhere the lining.    
+
+165
+00:10:04,204 --> 00:10:06,738
+    then, after smoothing out   
+     the layers of the belt     
+
+166
+00:10:06,740 --> 00:10:07,940
+         with a hammer,         
+
+167
+00:10:07,942 --> 00:10:11,610
+      the designer stitches     
+    the lining to the strap.    
+
+168
+00:10:11,612 --> 00:10:15,747
+    some belts have buckles,    
+ others hook-and-loop fasteners,
+
+169
+00:10:15,749 --> 00:10:23,221
+ which are stitched to the strap
+ at the same time as the lining.
+
+170
+00:10:23,223 --> 00:10:24,890
+   once the belt is finished,   
+
+171
+00:10:24,892 --> 00:10:27,693
+  the centerplate and laterals  
+          are attached.         
+
+172
+00:10:27,695 --> 00:10:30,762
+  it's essential to wear gloves 
+        while doing this        
+
+173
+00:10:30,764 --> 00:10:36,235
+to protect the pristine surface.
+
+174
+00:10:36,237 --> 00:10:39,571
+   the final step is to place   
+    an engravable brass plate   
+
+175
+00:10:39,573 --> 00:10:41,172
+       into each lateral.       
+
+176
+00:10:41,174 --> 00:10:43,975
+   then the championship belt   
+          is delivered          
+
+177
+00:10:43,977 --> 00:10:46,645
+        in a hand-crafted       
+         protective case        
+
+178
+00:10:46,647 --> 00:10:49,248
+  for a knockout presentation.  
+
+179
+00:10:56,456 --> 00:11:01,593
+                     ♪♪         
+
+180
+00:11:01,595 --> 00:11:03,795
+            narrator:           
+  radar helps sailors navigate  
+
+181
+00:11:03,797 --> 00:11:06,198
+    through inclement weather   
+       while on the water,      
+
+182
+00:11:06,200 --> 00:11:09,067
+      ensuring they aren't      
+        operating blind.        
+
+183
+00:11:09,069 --> 00:11:11,136
+        these specialized       
+         pedestal mounts        
+
+184
+00:11:11,138 --> 00:11:12,670
+   elevate the radar systems,   
+
+185
+00:11:12,672 --> 00:11:15,407
+         which maximize         
+      the antenna's range.      
+
+186
+00:11:15,409 --> 00:11:17,842
+     the mounts also provide    
+       equipment stability      
+
+187
+00:11:17,844 --> 00:11:22,814
+      while traveling over      
+          rough waters.         
+
+188
+00:11:22,816 --> 00:11:26,084
+    boat-radar mounts are one   
+   of the most critical pieces  
+
+189
+00:11:26,086 --> 00:11:30,222
+     of navigation equipment    
+        to have on deck.        
+
+190
+00:11:30,224 --> 00:11:31,623
+    radar-mount construction    
+
+191
+00:11:31,625 --> 00:11:34,826
+           begins with          
+  a computer-generated drawing  
+
+192
+00:11:34,828 --> 00:11:39,298
+    that specifies the height   
+     and angle of the tower.    
+
+193
+00:11:39,300 --> 00:11:42,768
+     the parts are made from    
+ extruded marine-grade aluminum.
+
+194
+00:11:42,770 --> 00:11:46,337
+       a machinist clamps       
+  the first top plate in a jig  
+
+195
+00:11:46,339 --> 00:11:51,443
+ and sets the tower upside down 
+        on the top plate.       
+
+196
+00:11:51,445 --> 00:11:53,712
+          the jig holds         
+      the tower in position     
+
+197
+00:11:53,714 --> 00:11:56,581
+        as he tack-welds        
+     the assembly in place.     
+
+198
+00:11:56,583 --> 00:12:02,186
+                     ♪♪         
+
+199
+00:12:02,188 --> 00:12:04,789
+   after clamping side gussets  
+          to the tower,         
+
+200
+00:12:04,791 --> 00:12:07,258
+     the technician turns it    
+          right-side up         
+
+201
+00:12:07,260 --> 00:12:09,995
+   and inserts the bottom tabs  
+         in a baseplate         
+
+202
+00:12:09,997 --> 00:12:12,264
+  to position it for assembly.  
+
+203
+00:12:12,266 --> 00:12:13,798
+      using an angle ruler,     
+
+204
+00:12:13,800 --> 00:12:19,137
+   he confirms that the tower   
+      stands at 90 degrees.     
+
+205
+00:12:19,139 --> 00:12:21,540
+          then he welds         
+    the radar-equipment tower   
+
+206
+00:12:21,542 --> 00:12:27,145
+          to the base.          
+
+207
+00:12:27,147 --> 00:12:29,214
+  he sets the tower on its side 
+
+208
+00:12:29,216 --> 00:12:31,949
+      to measure locations      
+         for tack welds,        
+
+209
+00:12:31,951 --> 00:12:36,354
+    marking each with a pen.    
+
+210
+00:12:36,356 --> 00:12:39,957
+      next, he makes larger     
+  stitch welds intermittently.  
+
+211
+00:12:39,959 --> 00:12:42,561
+  this will secure the gussets  
+          to the tower.         
+
+212
+00:12:42,563 --> 00:12:46,098
+                     ♪♪         
+
+213
+00:12:46,100 --> 00:12:49,167
+     the machinist installs     
+     a gusset arm or bracket    
+
+214
+00:12:49,169 --> 00:12:52,236
+          in the middle         
+       of the radar tower.      
+
+215
+00:12:52,238 --> 00:12:54,973
+                     ♪♪         
+
+216
+00:12:54,975 --> 00:12:57,308
+ using a metal puck as a guide, 
+
+217
+00:12:57,310 --> 00:13:03,314
+  he centers another top plate  
+       on the gusset arm.       
+
+218
+00:13:03,316 --> 00:13:06,184
+          he clamps it          
+   and measures its placement   
+
+219
+00:13:06,186 --> 00:13:08,186
+         to verify that         
+     it's properly centered,    
+
+220
+00:13:08,188 --> 00:13:09,854
+    and welds it to the arm.    
+
+221
+00:13:09,856 --> 00:13:17,195
+                     ♪♪         
+
+222
+00:13:17,197 --> 00:13:18,730
+       he removes the puck      
+
+223
+00:13:18,732 --> 00:13:24,670
+      and installs another      
+    mounting arm at the base.   
+
+224
+00:13:24,672 --> 00:13:27,205
+      a computerized drill      
+         cuts bolt holes        
+
+225
+00:13:27,207 --> 00:13:29,007
+   in a radar-mounting plate.   
+
+226
+00:13:29,009 --> 00:13:32,944
+  radar-bolting patterns vary,  
+      so it configures them     
+
+227
+00:13:32,946 --> 00:13:37,816
+        to match up with        
+    a specific radar system.    
+
+228
+00:13:37,818 --> 00:13:39,751
+ once the bolt holes are placed,
+
+229
+00:13:39,753 --> 00:13:42,954
+     the drill carves around    
+    the border of the plate,    
+
+230
+00:13:42,956 --> 00:13:48,093
+          reshaping it          
+      from square to round.     
+
+231
+00:13:48,095 --> 00:13:50,295
+      the circular profile      
+       will match the base      
+
+232
+00:13:50,297 --> 00:13:55,167
+ of the satellite-radar system. 
+
+233
+00:13:55,169 --> 00:13:57,636
+       in a process known       
+       as countersinking,       
+
+234
+00:13:57,638 --> 00:13:59,704
+       he bevels the rims       
+        of the bolt holes       
+
+235
+00:13:59,706 --> 00:14:01,706
+     to a graduated profile.    
+
+236
+00:14:01,708 --> 00:14:04,109
+    this method will provide    
+      a stronger connection     
+
+237
+00:14:04,111 --> 00:14:08,113
+  between the mounting platform 
+      and the radar system.     
+
+238
+00:14:08,115 --> 00:14:10,047
+ with a special deburring tool, 
+
+239
+00:14:10,049 --> 00:14:11,249
+     the technician removes     
+
+240
+00:14:11,251 --> 00:14:15,053
+       sharp edges left by      
+   the countersinking process.  
+
+241
+00:14:15,055 --> 00:14:17,789
+   he smooths the outer edges   
+      of the mounting plate     
+
+242
+00:14:17,791 --> 00:14:22,194
+      using a hand sander.      
+
+243
+00:14:22,196 --> 00:14:24,462
+       the mounting plate       
+       is placed in a tub       
+
+244
+00:14:24,464 --> 00:14:28,467
+   of vibrating ceramic stones  
+        mixed with water.       
+
+245
+00:14:28,469 --> 00:14:31,203
+      the friction removes      
+   any lingering imperfections  
+
+246
+00:14:31,205 --> 00:14:33,738
+        and sharp edges.        
+
+247
+00:14:33,740 --> 00:14:36,207
+       another technician       
+       cuts aluminum wings      
+
+248
+00:14:36,209 --> 00:14:38,276
+   for an accessory extension.  
+
+249
+00:14:38,278 --> 00:14:40,945
+    the extension could hold    
+    a number of accessories,    
+
+250
+00:14:40,947 --> 00:14:44,749
+ including a radio, gps antenna,
+         or deck lights.        
+
+251
+00:14:44,751 --> 00:14:48,687
+      the parts are hollow      
+    in order to house wiring.   
+
+252
+00:14:48,689 --> 00:14:52,890
+   the wings will be assembled  
+       to a center trunk.       
+
+253
+00:14:52,892 --> 00:14:56,228
+   but first, they cap one end  
+          of each wing.         
+
+254
+00:14:56,230 --> 00:14:58,563
+  this wing will contain wiring 
+
+255
+00:14:58,565 --> 00:15:01,433
+    snaked through from holes   
+   in the sides of the trunk.   
+
+256
+00:15:01,435 --> 00:15:05,904
+                     ♪♪         
+
+257
+00:15:05,906 --> 00:15:10,509
+   the technician welds a wing  
+   to each side of the trunk.   
+
+258
+00:15:10,511 --> 00:15:14,312
+     this step completes the    
+ accessory-extension structure. 
+
+259
+00:15:14,314 --> 00:15:19,183
+                     ♪♪         
+
+260
+00:15:19,185 --> 00:15:25,123
+ next, it's time to build an arm
+     for a navigation light.    
+
+261
+00:15:25,125 --> 00:15:29,127
+ a hydraulic press bends the arm
+    to the desired curvature.   
+
+262
+00:15:29,129 --> 00:15:34,065
+   a measuring tool indicates   
+     the angle of the bend.     
+
+263
+00:15:34,067 --> 00:15:40,271
+the technician drills a hole for
+ the installation of the light. 
+
+264
+00:15:40,273 --> 00:15:43,742
+ after a powder-coat finish has 
+ been applied to all the parts, 
+
+265
+00:15:43,744 --> 00:15:48,546
+       the mount is ready       
+    for assembly on the boat.   
+
+266
+00:15:48,548 --> 00:15:50,816
+                     ♪♪         
+
+267
+00:15:50,818 --> 00:15:53,885
+        by using critical       
+     navigational equipment,    
+
+268
+00:15:53,887 --> 00:15:56,420
+      this boat-radar mount     
+           will ensure          
+
+269
+00:15:56,422 --> 00:16:00,191
+  that any boater will be able  
+     to find their bearings.    
+
+270
+00:16:00,193 --> 00:16:03,128
+                     ♪♪         
+
+271
+00:16:10,570 --> 00:16:15,907
+                     ♪♪         
+
+272
+00:16:15,909 --> 00:16:19,711
+  narrator: european radiators  
+  exude both warmth and style.  
+
+273
+00:16:19,713 --> 00:16:21,513
+   the heating-tube technology  
+
+274
+00:16:21,515 --> 00:16:25,450
+  can be modified for electric  
+  or hot-water heating systems  
+
+275
+00:16:25,452 --> 00:16:28,119
+         and can be made        
+     in a range of designs.     
+
+276
+00:16:28,121 --> 00:16:30,988
+       these radiators can      
+     blend into a background    
+
+277
+00:16:30,990 --> 00:16:34,926
+or stand out to make a statement
+          on the wall.          
+
+278
+00:16:34,928 --> 00:16:37,929
+                     ♪♪         
+
+279
+00:16:37,931 --> 00:16:41,733
+  this european-style radiator  
+ is typically mounted to a wall 
+
+280
+00:16:41,735 --> 00:16:44,002
+          so it doesn't         
+      take up floor space,      
+
+281
+00:16:44,004 --> 00:16:48,172
+       allowing more room       
+    for furniture and people.   
+
+282
+00:16:48,174 --> 00:16:54,879
+     making panel radiators     
+  starts with steel flat tubes. 
+
+283
+00:16:54,881 --> 00:16:56,514
+      using a circular saw,     
+
+284
+00:16:56,516 --> 00:17:01,018
+        the machine cuts        
+ a stack of the tubes to length.
+
+285
+00:17:01,020 --> 00:17:02,888
+        these flat tubes        
+      will be held together     
+
+286
+00:17:02,890 --> 00:17:05,823
+   by struts known as headers.  
+
+287
+00:17:05,825 --> 00:17:11,896
+an automated drill punches holes
+   for bushings into the ends.  
+
+288
+00:17:11,898 --> 00:17:13,164
+      at the next station,      
+
+289
+00:17:13,166 --> 00:17:15,833
+   a machine inserts bushings   
+         into the holes         
+
+290
+00:17:15,835 --> 00:17:17,369
+    and welds them together.    
+
+291
+00:17:17,371 --> 00:17:20,838
+                     ♪♪         
+
+292
+00:17:20,840 --> 00:17:22,440
+     another welding device     
+
+293
+00:17:22,442 --> 00:17:26,778
+         seals the ends         
+   of the flat heating tubes.   
+
+294
+00:17:26,780 --> 00:17:29,114
+     the tubes are stacked.     
+
+295
+00:17:29,116 --> 00:17:33,851
+                     ♪♪         
+
+296
+00:17:33,853 --> 00:17:36,588
+     meanwhile, technicians     
+      prepare the headers,      
+
+297
+00:17:36,590 --> 00:17:39,591
+         which are made         
+     of square steel tubes.     
+
+298
+00:17:39,593 --> 00:17:43,127
+  an automated machine punches  
+      holes in the headers.     
+
+299
+00:17:43,129 --> 00:17:49,333
+these holes will allow hot water
+to flow throughout the radiator.
+
+300
+00:17:49,335 --> 00:17:53,070
+ a circular saw cuts the header 
+    to its specified length.    
+
+301
+00:17:53,072 --> 00:17:55,139
+ most radiators are custom-made,
+
+302
+00:17:55,141 --> 00:17:56,741
+    and sizes are determined    
+
+303
+00:17:56,743 --> 00:18:00,412
+   by the heating requirements  
+          of the space.         
+
+304
+00:18:00,414 --> 00:18:03,281
+    the headers are equipped    
+    with endcaps and fittings   
+
+305
+00:18:03,283 --> 00:18:06,885
+  to supply water and vent air. 
+
+306
+00:18:06,887 --> 00:18:10,955
+  a technician inserts the caps 
+into the ends of the header tube
+
+307
+00:18:10,957 --> 00:18:14,225
+     and hammers them down.     
+
+308
+00:18:14,227 --> 00:18:17,695
+                     ♪♪         
+
+309
+00:18:17,697 --> 00:18:20,031
+        he clamps several       
+      of the capped headers     
+
+310
+00:18:20,033 --> 00:18:22,566
+          in a fixture.         
+
+311
+00:18:22,568 --> 00:18:25,904
+                     ♪♪         
+
+312
+00:18:25,906 --> 00:18:28,173
+           the fixture          
+     holds them in position     
+
+313
+00:18:28,175 --> 00:18:33,378
+  as an automated welder joins  
+    the caps to the headers.    
+
+314
+00:18:33,380 --> 00:18:36,848
+                     ♪♪         
+
+315
+00:18:36,850 --> 00:18:38,249
+    here is the header tubing   
+
+316
+00:18:38,251 --> 00:18:41,252
+        before and after        
+     the holes were punched     
+
+317
+00:18:41,254 --> 00:18:45,924
+  and the endcaps were welded.  
+
+318
+00:18:45,926 --> 00:18:48,660
+     with the header clamped    
+      into another fixture,     
+
+319
+00:18:48,662 --> 00:18:53,264
+    a drill carves a threaded   
+    connector into the side.    
+
+320
+00:18:53,266 --> 00:18:56,401
+   this connector will be used  
+      to plumb the radiator     
+
+321
+00:18:56,403 --> 00:18:59,070
+    to the hot-water system.    
+
+322
+00:18:59,072 --> 00:19:02,006
+                     ♪♪         
+
+323
+00:19:02,008 --> 00:19:05,410
+     it's now time to build     
+   the grid of heating tubes.   
+
+324
+00:19:05,412 --> 00:19:08,813
+     first, a machine moves     
+    the header into position.   
+
+325
+00:19:08,815 --> 00:19:11,883
+     an automated arm slides    
+      the flat heating tube     
+
+326
+00:19:11,885 --> 00:19:14,018
+    into place on the header,   
+
+327
+00:19:14,020 --> 00:19:17,822
+      and a welding device      
+      joins them together.      
+
+328
+00:19:17,824 --> 00:19:19,157
+      the automated welder      
+
+329
+00:19:19,159 --> 00:19:22,293
+       installs flat tubes      
+   on each side of the headers  
+
+330
+00:19:22,295 --> 00:19:26,898
+  and applies the company logo. 
+
+331
+00:19:26,900 --> 00:19:28,700
+  strips of steel will be used  
+
+332
+00:19:28,702 --> 00:19:31,836
+          to make fins          
+    that direct heat upward.    
+
+333
+00:19:31,838 --> 00:19:34,772
+                     ♪♪         
+
+334
+00:19:34,774 --> 00:19:37,975
+   a machine punches a series   
+     of notches in the steel    
+
+335
+00:19:37,977 --> 00:19:42,580
+  to mount the fins to the back 
+        of the radiator.        
+
+336
+00:19:42,582 --> 00:19:45,249
+     a hydraulic press bends    
+       the notched steel,       
+
+337
+00:19:45,251 --> 00:19:49,120
+            creating            
+   an accordion-like profile.   
+
+338
+00:19:49,122 --> 00:19:51,723
+   these ridges create pockets  
+
+339
+00:19:51,725 --> 00:19:57,462
+    that will capture hot air   
+      and allow it to rise.     
+
+340
+00:19:57,464 --> 00:20:00,131
+        the fins coil up        
+     at the end of the line     
+
+341
+00:20:00,133 --> 00:20:04,669
+        for easy transfer       
+      to the next station.      
+
+342
+00:20:04,671 --> 00:20:06,937
+         at this point,         
+       all the flat tubes       
+
+343
+00:20:06,939 --> 00:20:09,474
+    have been fully assembled   
+         to the headers.        
+
+344
+00:20:09,476 --> 00:20:11,076
+  an operator places the fins,  
+
+345
+00:20:11,078 --> 00:20:13,678
+       which have been cut      
+     to a specified length,     
+
+346
+00:20:13,680 --> 00:20:15,947
+           on the back          
+     of the flat-tube grid.     
+
+347
+00:20:15,949 --> 00:20:18,949
+    a machine welds the fins    
+      to the heating tubes      
+
+348
+00:20:18,951 --> 00:20:21,419
+       between the folds.       
+
+349
+00:20:21,421 --> 00:20:23,354
+       this step produces       
+         a heating panel        
+
+350
+00:20:23,356 --> 00:20:28,293
+     that will radiate heat     
+           up and out.          
+
+351
+00:20:28,295 --> 00:20:30,762
+       another team member      
+       installs metal trim      
+
+352
+00:20:30,764 --> 00:20:33,098
+   on the top of the radiator.  
+
+353
+00:20:33,100 --> 00:20:35,500
+        he places mounts        
+       on the back corners      
+
+354
+00:20:35,502 --> 00:20:38,169
+    and welds them together.    
+
+355
+00:20:38,171 --> 00:20:40,438
+     these mounts will house    
+         threaded bolts,        
+
+356
+00:20:40,440 --> 00:20:44,509
+   which will be used to level  
+    the radiator to the wall.   
+
+357
+00:20:44,511 --> 00:20:47,645
+       the radiator is now      
+        fully assembled.        
+
+358
+00:20:47,647 --> 00:20:50,981
+     the radiator undergoes     
+     a quality-control test.    
+
+359
+00:20:50,983 --> 00:20:54,451
+     technicians pump in air    
+    and submerge it in water.   
+
+360
+00:20:54,453 --> 00:20:57,856
+       if bubbles appear,       
+      it indicates a leak.      
+
+361
+00:20:57,858 --> 00:21:02,993
+ if not, the radiator is removed
+         from the water.        
+
+362
+00:21:02,995 --> 00:21:05,663
+    electrostatically charged   
+         epoxy particles        
+
+363
+00:21:05,665 --> 00:21:07,665
+  are sprayed onto the device,  
+
+364
+00:21:07,667 --> 00:21:10,201
+          which provide         
+       a protective layer.      
+
+365
+00:21:10,203 --> 00:21:13,204
+  this european-style radiator  
+          is now ready          
+
+366
+00:21:13,206 --> 00:21:15,206
+   to release some major heat.  
+

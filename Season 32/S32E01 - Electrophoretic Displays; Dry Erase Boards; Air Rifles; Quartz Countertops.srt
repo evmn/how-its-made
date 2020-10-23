@@ -1,0 +1,1775 @@
+﻿1
+00:00:00,935 --> 00:00:08,807
+                     ♪          
+
+2
+00:00:08,809 --> 00:00:16,682
+                     ♪          
+
+3
+00:00:16,684 --> 00:00:19,619
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+4
+00:00:19,621 --> 00:00:22,655
+      captions paid for by      
+    discovery communications    
+
+5
+00:00:22,657 --> 00:00:30,162
+                     ♪          
+
+6
+00:00:30,164 --> 00:00:37,769
+                     ♪          
+
+7
+00:00:37,771 --> 00:00:45,311
+                     ♪          
+
+8
+00:00:45,313 --> 00:00:52,918
+                     ♪          
+
+9
+00:00:52,920 --> 00:00:55,821
+    narrator: electrophoretic   
+  technology mimics the effect  
+
+10
+00:00:55,823 --> 00:00:57,990
+        of ink on paper.        
+
+11
+00:00:57,992 --> 00:00:59,925
+   the screens reflect light,   
+
+12
+00:00:59,927 --> 00:01:03,796
+  unlike conventional back-lit  
+    displays that emit light.   
+
+13
+00:01:03,798 --> 00:01:05,731
+     also known as e-paper,     
+
+14
+00:01:05,733 --> 00:01:09,869
+   this technology has changed  
+   the way we see our screens.  
+
+15
+00:01:13,408 --> 00:01:16,208
+   mobile devices, e-readers,   
+         smart watches,         
+
+16
+00:01:16,210 --> 00:01:20,746
+  and credit cards all contain  
+    electrophoretic displays.   
+
+17
+00:01:20,748 --> 00:01:24,150
+ with its print-like readability
+    and bluetooth capability,   
+
+18
+00:01:24,152 --> 00:01:27,486
+        it's easy to see        
+         the attraction.        
+
+19
+00:01:27,488 --> 00:01:30,022
+             to make            
+   an electrophoretic screen,   
+
+20
+00:01:30,024 --> 00:01:33,359
+   polyethylene film is placed  
+      on a sheet of glass,      
+
+21
+00:01:33,361 --> 00:01:36,094
+      which holds the film      
+        as its processed.       
+
+22
+00:01:36,096 --> 00:01:39,298
+                     ♪          
+
+23
+00:01:39,300 --> 00:01:42,234
+     production takes place     
+       in a filtered room,      
+
+24
+00:01:42,236 --> 00:01:45,303
+        to keep the area        
+        contaminant-free.       
+
+25
+00:01:45,305 --> 00:01:46,638
+        inside the room,        
+
+26
+00:01:46,640 --> 00:01:49,842
+  robots move the glass carrier 
+        through processes       
+
+27
+00:01:49,844 --> 00:01:53,379
+     that transform the film    
+       into the backplane.      
+
+28
+00:01:53,381 --> 00:01:56,449
+    the backplane is the main   
+    structure of the screen.    
+
+29
+00:01:56,451 --> 00:01:58,651
+           it carries           
+     the organic transistors    
+
+30
+00:01:58,653 --> 00:02:02,521
+         that drive the         
+    electrophoretic display.    
+
+31
+00:02:02,523 --> 00:02:05,591
+       machinery builds up      
+   micro-thin layers of metal,  
+
+32
+00:02:05,593 --> 00:02:10,730
+       organize solutions,      
+ semiconductors, and isolators. 
+
+33
+00:02:10,732 --> 00:02:15,067
+ this spin coder evenly spreads 
+  the material across the film. 
+
+34
+00:02:15,069 --> 00:02:17,536
+                     ♪          
+
+35
+00:02:17,538 --> 00:02:19,872
+          nozzles apply         
+       an organic solution      
+
+36
+00:02:19,874 --> 00:02:23,509
+     that acts as a booster     
+     for the semiconductors.    
+
+37
+00:02:23,511 --> 00:02:27,345
+      the spin coder closes     
+  and rotates the glass carrier 
+
+38
+00:02:27,347 --> 00:02:31,517
+to spread the deposited material
+      by centrifugal force.     
+
+39
+00:02:31,519 --> 00:02:34,219
+                     ♪          
+
+40
+00:02:34,221 --> 00:02:37,623
+      the automated system      
+ adds layers of semiconductors, 
+
+41
+00:02:37,625 --> 00:02:41,359
+      electrical isolators,     
+           and metal.           
+
+42
+00:02:41,361 --> 00:02:45,097
+   a rinse of de-ionized water  
+     cleans the coated film,    
+
+43
+00:02:45,099 --> 00:02:48,567
+       and a blast of air       
+      blows off the water.      
+
+44
+00:02:48,569 --> 00:02:50,435
+  rollers apply gentle pressure 
+
+45
+00:02:50,437 --> 00:02:53,305
+       to ensure the film       
+       sticks to the glass      
+
+46
+00:02:53,307 --> 00:02:55,640
+even when positioned vertically.
+
+47
+00:02:55,642 --> 00:03:00,312
+                     ♪          
+
+48
+00:03:00,314 --> 00:03:03,315
+  once the photoresist chemical 
+        has been applied,       
+
+49
+00:03:03,317 --> 00:03:06,519
+       the film goes into       
+      an exposure chamber.      
+
+50
+00:03:06,521 --> 00:03:09,255
+   a patterned mass is placed   
+      in front of the film      
+
+51
+00:03:09,257 --> 00:03:12,258
+      to block out lighting     
+         in some areas.         
+
+52
+00:03:12,260 --> 00:03:14,326
+                     ♪          
+
+53
+00:03:14,328 --> 00:03:18,130
+    the exposure defines the    
+  structure of the metal layers 
+
+54
+00:03:18,132 --> 00:03:20,599
+     so that, when combined     
+    with the other materials,   
+
+55
+00:03:20,601 --> 00:03:23,268
+  they'll serve as transistors. 
+
+56
+00:03:23,270 --> 00:03:27,406
+                     ♪          
+
+57
+00:03:27,408 --> 00:03:31,210
+  the backplane film is removed 
+     from the glass carrier.    
+
+58
+00:03:31,212 --> 00:03:35,281
+  now the film is ready for the 
+ electronic-ink-sheet placement.
+
+59
+00:03:35,283 --> 00:03:38,817
+       a technician places      
+  the backplane in a laminator. 
+
+60
+00:03:38,819 --> 00:03:43,489
+   he uses a camera to magnify  
+   and position the backplane.  
+
+61
+00:03:43,491 --> 00:03:49,361
+ a vacuum in the laminator chuck
+  holds the backplane in place. 
+
+62
+00:03:49,363 --> 00:03:51,897
+    he places the electronic    
+     ink sheet on the chuck     
+
+63
+00:03:51,899 --> 00:03:55,634
+      beside the backplane      
+    and peels off the liner,    
+
+64
+00:03:55,636 --> 00:03:57,770
+     exposing the adhesive.     
+
+65
+00:03:57,772 --> 00:04:00,572
+                     ♪          
+
+66
+00:04:00,574 --> 00:04:04,443
+   then the ink sheet and the   
+  backplane are fused together. 
+
+67
+00:04:04,445 --> 00:04:07,313
+                     ♪          
+
+68
+00:04:07,315 --> 00:04:10,983
+  a roller presses the assembly 
+       for full adhesion.       
+
+69
+00:04:10,985 --> 00:04:13,319
+                     ♪          
+
+70
+00:04:13,321 --> 00:04:16,922
+   once the lamination process  
+          is complete,          
+
+71
+00:04:16,924 --> 00:04:21,327
+      a technician removes      
+   the screen from the chuck.   
+
+72
+00:04:21,329 --> 00:04:23,395
+  this is the backplane before  
+
+73
+00:04:23,397 --> 00:04:28,200
+    and after the electronic    
+         ink lamination.        
+
+74
+00:04:28,202 --> 00:04:31,736
+  an automated system bonds the 
+ electronics to a circuit board 
+
+75
+00:04:31,738 --> 00:04:36,275
+         that's attached        
+     to the display screen.     
+
+76
+00:04:36,277 --> 00:04:39,678
+  the system mechanically seals 
+       the circuit board.       
+
+77
+00:04:39,680 --> 00:04:43,883
+    polymer resin is applied    
+         for stability.         
+
+78
+00:04:43,885 --> 00:04:48,487
+   u.v. light cures the resin.  
+
+79
+00:04:48,489 --> 00:04:50,356
+             this is            
+   the electrophoretic display  
+
+80
+00:04:50,358 --> 00:04:54,159
+        before and after        
+the electronics have been added.
+
+81
+00:04:54,161 --> 00:04:57,296
+                     ♪          
+
+82
+00:04:57,298 --> 00:05:01,900
+ this particular display screen 
+      will be an e-reader.      
+
+83
+00:05:01,902 --> 00:05:05,170
+    they load a graphic with    
+  black strips onto the screen. 
+
+84
+00:05:05,172 --> 00:05:07,373
+        the strips serve        
+      as reference points,      
+
+85
+00:05:07,375 --> 00:05:10,376
+      as a printer applies      
+    a combination red, green,   
+
+86
+00:05:10,378 --> 00:05:11,777
+        and blue filter.        
+
+87
+00:05:11,779 --> 00:05:16,649
+   the filter adds the option   
+  of colored text or pictures.  
+
+88
+00:05:16,651 --> 00:05:20,319
+    the primary colors can be   
+combined to create other shades,
+
+89
+00:05:20,321 --> 00:05:22,454
+      expanding the visual      
+          possibilities         
+
+90
+00:05:22,456 --> 00:05:24,523
+     of the electronic ink.     
+
+91
+00:05:24,525 --> 00:05:26,391
+                     ♪          
+
+92
+00:05:26,393 --> 00:05:29,261
+         a machine bends        
+   a sample screen repeatedly   
+
+93
+00:05:29,263 --> 00:05:32,464
+   to confirm that the sample   
+ is flexible enough to be formed
+
+94
+00:05:32,466 --> 00:05:35,267
+ into a bracelet or credit card.
+
+95
+00:05:35,269 --> 00:05:37,336
+                     ♪          
+
+96
+00:05:37,338 --> 00:05:39,137
+ additional tests are conducted 
+
+97
+00:05:39,139 --> 00:05:41,674
+         to confirm that        
+   the electrophoretic display  
+
+98
+00:05:41,676 --> 00:05:44,543
+         has the desired        
+       clarity and color.       
+
+99
+00:05:44,545 --> 00:05:48,080
+  display patterns can be sent  
+   from a phone to a bracelet   
+
+100
+00:05:48,082 --> 00:05:50,749
+            that has            
+   an electrophoretic screen.   
+
+101
+00:05:50,751 --> 00:05:53,151
+with electrophoretic technology,
+
+102
+00:05:53,153 --> 00:05:56,522
+  there are many different ways 
+      to enjoy screen time.     
+
+103
+00:06:04,432 --> 00:06:08,500
+                     ♪          
+
+104
+00:06:10,037 --> 00:06:13,038
+   narrator: a dry-erase board  
+   is a non-permanent surface   
+
+105
+00:06:13,040 --> 00:06:14,974
+       most commonly used       
+         in professional        
+
+106
+00:06:14,976 --> 00:06:16,842
+   or classroom environments.   
+
+107
+00:06:16,844 --> 00:06:19,645
+  you simply write on the board 
+    with the dry-erase marker   
+
+108
+00:06:19,647 --> 00:06:23,782
+   and use a specialized cloth  
+   to wipe away the markings.   
+
+109
+00:06:23,784 --> 00:06:25,918
+      these effective tools     
+         are an easy way        
+
+110
+00:06:25,920 --> 00:06:29,321
+   to get your message across.  
+
+111
+00:06:29,323 --> 00:06:34,460
+    dry-erase boards are also   
+      known as whiteboards.     
+
+112
+00:06:34,462 --> 00:06:36,261
+ the boards wipe perfectly clean
+
+113
+00:06:36,263 --> 00:06:41,200
+  due to its non-porous surface 
+     and the dry-erase ink.     
+
+114
+00:06:41,202 --> 00:06:43,869
+     dry-erase ink contains     
+         release agents         
+
+115
+00:06:43,871 --> 00:06:45,203
+   which prevent the pigments   
+
+116
+00:06:45,205 --> 00:06:49,074
+        from permanently        
+    adhering to the surface.    
+
+117
+00:06:49,076 --> 00:06:53,412
+green and black dry-erase boards
+can also be used as chalkboards,
+
+118
+00:06:53,414 --> 00:06:58,316
+ while gray and low-gloss white 
+  double as projection boards.  
+
+119
+00:06:58,318 --> 00:07:02,020
+    the surface material is a   
+ porcelain-coated steel sheet --
+
+120
+00:07:02,022 --> 00:07:06,024
+flexible enough to be rolled up,
+  but also pressure sensitive.  
+
+121
+00:07:06,026 --> 00:07:08,093
+                     ♪          
+
+122
+00:07:08,095 --> 00:07:11,830
+  to start, the roll is mounted 
+      on a cutting machine.     
+
+123
+00:07:11,832 --> 00:07:13,899
+                     ♪          
+
+124
+00:07:13,901 --> 00:07:17,035
+      a technician programs     
+   the machine to cut the roll  
+
+125
+00:07:17,037 --> 00:07:22,707
+      to a specific length      
+based on the board's dimensions.
+
+126
+00:07:22,709 --> 00:07:27,780
+  workers verify the length and 
+ check that the piece is square.
+
+127
+00:07:27,782 --> 00:07:29,914
+      the surface material      
+         will be applied        
+
+128
+00:07:29,916 --> 00:07:32,384
+      to one of seven types     
+          of substrate,         
+
+129
+00:07:32,386 --> 00:07:34,253
+     ranging from cardboard     
+
+130
+00:07:34,255 --> 00:07:39,591
+  to medium-density fiberboard  
+          known as mdf.         
+
+131
+00:07:39,593 --> 00:07:42,795
+     the next step is to cut    
+ the large sheet of substrate --
+
+132
+00:07:42,797 --> 00:07:46,598
+      in this case, mdf --      
+     into board-size pieces.    
+
+133
+00:07:46,600 --> 00:07:49,001
+       another technician       
+   enters the length and width  
+
+134
+00:07:49,003 --> 00:07:51,203
+    into the cutting machine.   
+
+135
+00:07:51,205 --> 00:07:54,873
+                     ♪          
+
+136
+00:07:54,875 --> 00:07:58,209
+   once complete, the machine   
+      ejects the substrate,     
+
+137
+00:07:58,211 --> 00:08:01,947
+        which is now cut        
+ to the exact size of the board.
+
+138
+00:08:01,949 --> 00:08:06,685
+                     ♪          
+
+139
+00:08:06,687 --> 00:08:10,355
+   next, the substrate is put   
+   through a hot-glue machine.  
+
+140
+00:08:10,357 --> 00:08:13,024
+the machine applies polyurethane
+            adhesive            
+
+141
+00:08:13,026 --> 00:08:17,896
+    to what will be the back    
+     of the dry-erase board.    
+
+142
+00:08:17,898 --> 00:08:19,832
+     as the substrate exits,    
+
+143
+00:08:19,834 --> 00:08:24,036
+         a sheet of foil        
+is applied to the glued surface.
+
+144
+00:08:24,038 --> 00:08:26,438
+   the foil prevents moisture   
+         from entering,         
+
+145
+00:08:26,440 --> 00:08:29,308
+ which would warp the substrate.
+
+146
+00:08:29,310 --> 00:08:31,710
+     the board moves through    
+        two steel rollers       
+
+147
+00:08:31,712 --> 00:08:36,849
+     which flatten the foil     
+ and press out any trapped air. 
+
+148
+00:08:36,851 --> 00:08:39,251
+   next, the surface material   
+           is applied           
+
+149
+00:08:39,253 --> 00:08:42,988
+        to the other side       
+        of the substrate.       
+
+150
+00:08:42,990 --> 00:08:46,658
+ a craftswoman uses an air hose 
+     to clear away any dust     
+
+151
+00:08:46,660 --> 00:08:48,660
+   from the side of the board.  
+
+152
+00:08:48,662 --> 00:08:53,198
+     once cleaned, the board    
+ goes through the glue machine. 
+
+153
+00:08:53,200 --> 00:08:57,269
+    the porcelain steel sheet   
+ is placed on the glued surface.
+
+154
+00:08:57,271 --> 00:09:00,339
+   technicians work carefully   
+   to ensure they don't touch   
+
+155
+00:09:00,341 --> 00:09:04,209
+ the pressure-sensitive surface 
+       with their fingers.      
+
+156
+00:09:04,211 --> 00:09:06,745
+      then the board moves      
+    through the steel rollers   
+
+157
+00:09:06,747 --> 00:09:11,083
+  to press the porcelain steel  
+flat and remove any trapped air.
+
+158
+00:09:11,085 --> 00:09:16,422
+                     ♪          
+
+159
+00:09:16,424 --> 00:09:20,024
+   once 50 boards are stacked,  
+ technicians put them in a press
+
+160
+00:09:20,026 --> 00:09:23,361
+        for half an hour,       
+      until the glue cures.     
+
+161
+00:09:23,363 --> 00:09:28,566
+                     ♪          
+
+162
+00:09:28,568 --> 00:09:33,771
+                     ♪          
+
+163
+00:09:33,773 --> 00:09:36,842
+ in another part of the factory,
+     a machine cuts material    
+
+164
+00:09:36,844 --> 00:09:38,977
+  to create the board's frame.  
+
+165
+00:09:38,979 --> 00:09:43,982
+  it punches "v"-shaped notches 
+  in a length of aluminum trim. 
+
+166
+00:09:43,984 --> 00:09:48,320
+  the trim bends at each notch  
+   to form a wraparound frame.  
+
+167
+00:09:48,322 --> 00:09:52,791
+                     ♪          
+
+168
+00:09:52,793 --> 00:09:56,995
+ some boards come with a marker 
+tray that runs along the bottom.
+
+169
+00:09:56,997 --> 00:09:58,496
+      to make these trays,      
+
+170
+00:09:58,498 --> 00:10:00,532
+        a technician cuts       
+       board-length pieces      
+
+171
+00:10:00,534 --> 00:10:03,602
+          from a piece          
+    of "l"-shaped metal trim.   
+
+172
+00:10:03,604 --> 00:10:07,673
+                     ♪          
+
+173
+00:10:07,675 --> 00:10:09,675
+ since the tray ends are sharp, 
+
+174
+00:10:09,677 --> 00:10:13,811
+      a technician attaches     
+ plastic covers for protection. 
+
+175
+00:10:13,813 --> 00:10:15,813
+                     ♪          
+
+176
+00:10:15,815 --> 00:10:18,349
+     he secures the plastic     
+     end covers with screws     
+
+177
+00:10:18,351 --> 00:10:20,819
+    on both ends of the part.   
+
+178
+00:10:20,821 --> 00:10:25,490
+                     ♪          
+
+179
+00:10:25,492 --> 00:10:28,893
+     meanwhile, technicians     
+  peel off the protective film  
+
+180
+00:10:28,895 --> 00:10:31,630
+  covering the writing surface. 
+
+181
+00:10:31,632 --> 00:10:35,167
+                     ♪          
+
+182
+00:10:35,169 --> 00:10:36,835
+  then they flip over the board 
+
+183
+00:10:36,837 --> 00:10:39,504
+      to assemble the parts     
+         from the back.         
+
+184
+00:10:39,506 --> 00:10:41,640
+                     ♪          
+
+185
+00:10:41,642 --> 00:10:45,444
+   this model doesn't have the  
+  traditional wraparound frame. 
+
+186
+00:10:45,446 --> 00:10:47,312
+         instead, it has        
+        a frame comprised       
+
+187
+00:10:47,314 --> 00:10:50,115
+        of four straight        
+        "c"-shaped pieces       
+
+188
+00:10:50,117 --> 00:10:54,186
+that fit over the board's edges.
+
+189
+00:10:54,188 --> 00:10:57,122
+        to add stability,       
+    technicians attach screws   
+
+190
+00:10:57,124 --> 00:10:59,925
+        through the trim        
+       into the substrate.      
+
+191
+00:10:59,927 --> 00:11:01,993
+                     ♪          
+
+192
+00:11:01,995 --> 00:11:03,728
+   once assembly is complete,   
+
+193
+00:11:03,730 --> 00:11:07,332
+       the dry-erase board      
+      is placed into a box,     
+
+194
+00:11:07,334 --> 00:11:11,803
+    ready to be shipped to a    
+ business or classroom near you.
+
+195
+00:11:20,547 --> 00:11:23,715
+                     ♪          
+
+196
+00:11:25,286 --> 00:11:27,152
+            narrator:           
+    air rifles are not toys.    
+
+197
+00:11:27,154 --> 00:11:29,154
+    they're serious weapons.    
+
+198
+00:11:29,156 --> 00:11:32,156
+   used primarily for hunting,  
+     air rifles should only     
+
+199
+00:11:32,158 --> 00:11:35,160
+     be handled by trained,     
+     licensed professionals.    
+
+200
+00:11:35,162 --> 00:11:38,296
+ chemically, air rifles use one 
+     of three types of power    
+
+201
+00:11:38,298 --> 00:11:40,164
+   depending on their design,   
+
+202
+00:11:40,166 --> 00:11:42,367
+      all of which utilize      
+         compressed air         
+
+203
+00:11:42,369 --> 00:11:46,038
+ instead of an explosive charge.
+
+204
+00:11:46,040 --> 00:11:48,240
+       handling air rifles      
+    should always be treated    
+
+205
+00:11:48,242 --> 00:11:50,174
+      in a serious manner.      
+
+206
+00:11:50,176 --> 00:11:52,644
+      it is very important      
+    to follow proper storage    
+
+207
+00:11:52,646 --> 00:11:54,580
+ and operating safety guidelines
+
+208
+00:11:54,582 --> 00:11:58,650
+      to ensure it does not     
+      go off accidentally.      
+
+209
+00:11:58,652 --> 00:12:00,986
+       air rifles are made      
+    out of pre-machined parts   
+
+210
+00:12:00,988 --> 00:12:03,989
+    for the trigger assembly.   
+
+211
+00:12:03,991 --> 00:12:06,258
+        to build one half       
+     of the trigger housing,    
+
+212
+00:12:06,260 --> 00:12:08,260
+    a craftswoman uses a jig    
+
+213
+00:12:08,262 --> 00:12:12,264
+     to align the end pieces    
+       to the side plate.       
+
+214
+00:12:12,266 --> 00:12:14,933
+         then she screws        
+       the parts together.      
+
+215
+00:12:14,935 --> 00:12:18,937
+                     ♪          
+
+216
+00:12:18,939 --> 00:12:20,672
+ she attaches the release latch 
+
+217
+00:12:20,674 --> 00:12:22,807
+          to the inside         
+     of the trigger housing     
+
+218
+00:12:22,809 --> 00:12:26,878
+       and installs a base      
+      for the trigger shoe.     
+
+219
+00:12:26,880 --> 00:12:29,947
+  she hooks one end of a spring 
+       to the side plate,       
+
+220
+00:12:29,949 --> 00:12:33,151
+        and the other end       
+      to the release latch.     
+
+221
+00:12:33,153 --> 00:12:37,556
+ a second spring links the first
+spring to the trigger-shoe base.
+
+222
+00:12:37,558 --> 00:12:40,959
+                     ♪          
+
+223
+00:12:40,961 --> 00:12:46,898
+   next, a lever is installed   
+ which releases the firing pin. 
+
+224
+00:12:46,900 --> 00:12:49,768
+      once the trigger shoe     
+  and the trigger are attached, 
+
+225
+00:12:49,770 --> 00:12:52,904
+    the assembly is complete.   
+
+226
+00:12:52,906 --> 00:12:57,842
+        this part absorbs       
+ the recoil effect from firing. 
+
+227
+00:12:57,844 --> 00:13:01,246
+      a technician inserts      
+ the recoil spring in a cylinder
+
+228
+00:13:01,248 --> 00:13:03,515
+    and adjusts the tension.    
+
+229
+00:13:03,517 --> 00:13:06,051
+                     ♪          
+
+230
+00:13:06,053 --> 00:13:09,721
+  he slides the recoil assembly 
+     into the bolt housing.     
+
+231
+00:13:09,723 --> 00:13:14,993
+     the bolt housing seals     
+   the end of the gun barrel.   
+
+232
+00:13:14,995 --> 00:13:18,463
+  he installs the recoil system 
+        and the housing,        
+
+233
+00:13:18,465 --> 00:13:21,133
+ a lever for cocking the rifle, 
+
+234
+00:13:21,135 --> 00:13:23,602
+    and inserts a lever pin.    
+
+235
+00:13:23,604 --> 00:13:28,073
+                     ♪          
+
+236
+00:13:28,075 --> 00:13:30,141
+         this end screw         
+      will enable the user      
+
+237
+00:13:30,143 --> 00:13:33,878
+ to adjust the cocking position.
+
+238
+00:13:33,880 --> 00:13:38,149
+   he attaches the firing pin   
+    and the spring system...    
+
+239
+00:13:38,151 --> 00:13:41,820
+                     ♪          
+
+240
+00:13:41,822 --> 00:13:44,089
+          ...and builds         
+   the air-pressure regulator   
+
+241
+00:13:44,091 --> 00:13:46,558
+     by joining metal rings     
+        with rubber seals       
+
+242
+00:13:46,560 --> 00:13:50,295
+     to create the housing.     
+
+243
+00:13:50,297 --> 00:13:53,832
+    he stacks washer springs    
+           on a shaft.          
+
+244
+00:13:53,834 --> 00:13:55,901
+                     ♪          
+
+245
+00:13:55,903 --> 00:13:58,903
+     he inserts the assembly    
+   into the regulator housing   
+
+246
+00:13:58,905 --> 00:14:03,175
+  and attaches an air-pressure  
+adjustment mechanism to the end.
+
+247
+00:14:03,177 --> 00:14:05,977
+                     ♪          
+
+248
+00:14:05,979 --> 00:14:08,313
+         using a special        
+        measuring device,       
+
+249
+00:14:08,315 --> 00:14:11,649
+    he connects the regulator   
+       to an air cylinder.      
+
+250
+00:14:11,651 --> 00:14:15,520
+  the cylinder feeds compressed 
+ air to the pressure regulator. 
+
+251
+00:14:15,522 --> 00:14:18,990
+  the measuring tool indicates  
+  the regulator's performance.  
+
+252
+00:14:18,992 --> 00:14:22,994
+     if needed, he'll adjust    
+      the pressure setting.     
+
+253
+00:14:22,996 --> 00:14:25,597
+      a technician inserts      
+     the pressure regulator     
+
+254
+00:14:25,599 --> 00:14:27,732
+  in the firing chamber housing 
+
+255
+00:14:27,734 --> 00:14:30,334
+    and places a rubber seal    
+       in another opening,      
+
+256
+00:14:30,336 --> 00:14:32,870
+      followed by a spring.     
+
+257
+00:14:32,872 --> 00:14:36,608
+ the spring will open and close 
+    the one-directional valve   
+
+258
+00:14:36,610 --> 00:14:40,278
+  that supplies compressed air  
+     to the firing chamber.     
+
+259
+00:14:40,280 --> 00:14:42,213
+  once the valve is installed,  
+
+260
+00:14:42,215 --> 00:14:46,084
+   he joins the firing chamber  
+     to the recoil assembly.    
+
+261
+00:14:46,086 --> 00:14:51,623
+ the two units are held together
+    with substantial screws.    
+
+262
+00:14:51,625 --> 00:14:57,229
+   assembly of the air rifle's  
+   mechanics are now complete.  
+
+263
+00:14:57,231 --> 00:15:00,766
+ a metal cover is screwed on top
+     of the trigger system.     
+
+264
+00:15:00,768 --> 00:15:02,901
+                     ♪          
+
+265
+00:15:02,903 --> 00:15:06,772
+   meanwhile, automated drills  
+    bore into steel cylinders   
+
+266
+00:15:06,774 --> 00:15:11,710
+         to convert them        
+       into rifle barrels.      
+
+267
+00:15:11,712 --> 00:15:15,847
+ a technician aligns one of the 
+ barrels to the firing chamber. 
+
+268
+00:15:15,849 --> 00:15:17,516
+      using a spacer tool,      
+
+269
+00:15:17,518 --> 00:15:21,453
+he tweaks the barrel's placement
+   against the firing chamber   
+
+270
+00:15:21,455 --> 00:15:24,055
+      and tightens the bolt     
+         to the barrel.         
+
+271
+00:15:24,057 --> 00:15:30,127
+                     ♪          
+
+272
+00:15:30,129 --> 00:15:32,397
+       the trigger system       
+      is run through a test     
+
+273
+00:15:32,399 --> 00:15:33,798
+     using a special machine    
+
+274
+00:15:33,800 --> 00:15:37,802
+that measures the force it takes
+       to open the valve.       
+
+275
+00:15:37,804 --> 00:15:40,672
+                     ♪          
+
+276
+00:15:40,674 --> 00:15:43,274
+an inspector fires the air rifle
+
+277
+00:15:43,276 --> 00:15:48,880
+to measure the pellet's velocity
+  and the accuracy of the shot. 
+
+278
+00:15:48,882 --> 00:15:53,818
+     he adjusts the tension     
+    on the firing-pin spring.   
+
+279
+00:15:53,820 --> 00:15:58,223
+    he loads the rifle again    
+     and fires it once more     
+
+280
+00:15:58,225 --> 00:16:01,560
+     to confirm the accuracy    
+       of his adjustments.      
+
+281
+00:16:01,562 --> 00:16:04,028
+                     ♪          
+
+282
+00:16:04,030 --> 00:16:06,498
+       another technician       
+       attaches the stock,      
+
+283
+00:16:06,500 --> 00:16:09,634
+ also called the shoulder stock,
+          to the rifle.         
+
+284
+00:16:09,636 --> 00:16:16,040
+                     ♪          
+
+285
+00:16:16,042 --> 00:16:18,109
+            he screws           
+   the compressed-air cylinder  
+
+286
+00:16:18,111 --> 00:16:22,113
+   to the pressure regulator,   
+      securing it in place.     
+
+287
+00:16:35,862 --> 00:16:38,997
+ narrator: quartz is one of the 
+most abundant minerals on earth.
+
+288
+00:16:38,999 --> 00:16:42,801
+   it's no wonder artisans are  
+crafting this plentiful crystal,
+
+289
+00:16:42,803 --> 00:16:44,269
+    mixed with polymer resin,   
+
+290
+00:16:44,271 --> 00:16:46,938
+          into kitchen          
+    and bathroom countertops.   
+
+291
+00:16:46,940 --> 00:16:50,075
+  these engineered countertops  
+       have low porosity,       
+
+292
+00:16:50,077 --> 00:16:52,076
+         are resilient,         
+       and can be enhanced      
+
+293
+00:16:52,078 --> 00:16:55,146
+     by pigments, sparkles,     
+       or other minerals.       
+
+294
+00:16:55,148 --> 00:16:57,148
+                     ♪          
+
+295
+00:16:57,150 --> 00:17:00,418
+    quartz countertops offer    
+      more creative designs     
+
+296
+00:17:00,420 --> 00:17:03,087
+   than other stone surfaces.   
+
+297
+00:17:03,089 --> 00:17:07,292
+   some are fused with flecks   
+       of mother of pearl,      
+
+298
+00:17:07,294 --> 00:17:09,894
+        metal for a more        
+        dramatic look...        
+
+299
+00:17:09,896 --> 00:17:12,297
+                     ♪          
+
+300
+00:17:12,299 --> 00:17:14,765
+  ...or speckled with materials 
+           like glass,          
+
+301
+00:17:14,767 --> 00:17:17,902
+     porcelain, and granite     
+       for visual effect.       
+
+302
+00:17:17,904 --> 00:17:21,305
+                     ♪          
+
+303
+00:17:21,307 --> 00:17:23,241
+           quartz rock          
+     arrives at the factory     
+
+304
+00:17:23,243 --> 00:17:28,046
+      broken up into small,     
+      sharp-edged crystals.     
+
+305
+00:17:28,048 --> 00:17:33,184
+ they're stored in outdoor bins 
+        until production.       
+
+306
+00:17:33,186 --> 00:17:35,186
+          the crystals          
+      tumble into a hopper      
+
+307
+00:17:35,188 --> 00:17:38,522
+        that follows them       
+        into the factory.       
+
+308
+00:17:38,524 --> 00:17:42,060
+  the glittery quartz crystals  
+    cascade onto a conveyor,    
+
+309
+00:17:42,062 --> 00:17:44,261
+  heading to a rinsing station. 
+
+310
+00:17:44,263 --> 00:17:48,066
+                     ♪          
+
+311
+00:17:48,068 --> 00:17:52,203
+ the crystals enter a revolving 
+   drum, known as the tumbler,  
+
+312
+00:17:52,205 --> 00:17:56,274
+   and are tossed in the fire   
+    burning inside the drum.    
+
+313
+00:17:56,276 --> 00:17:59,210
+    the intense heat removes    
+        residual moisture       
+
+314
+00:17:59,212 --> 00:18:03,281
+   and sanitizes the crystals.  
+
+315
+00:18:03,283 --> 00:18:06,884
+      then the crystals are     
+ transferred to sifter machines.
+
+316
+00:18:06,886 --> 00:18:08,953
+       the sifter machines      
+       shake the crystals       
+
+317
+00:18:08,955 --> 00:18:12,357
+         through screens        
+    fitted with smaller mesh.   
+
+318
+00:18:12,359 --> 00:18:14,960
+                     ♪          
+
+319
+00:18:14,962 --> 00:18:18,029
+       the particles flow       
+       into separate bins.      
+
+320
+00:18:18,031 --> 00:18:20,031
+                     ♪          
+
+321
+00:18:20,033 --> 00:18:22,701
+       the ingredients for      
+  the quartz countertop formula 
+
+322
+00:18:22,703 --> 00:18:25,503
+  are loaded into feeder bins.  
+
+323
+00:18:25,505 --> 00:18:29,173
+  the formula calls for a black 
+  countertop with shiny flecks  
+
+324
+00:18:29,175 --> 00:18:31,710
+      and green undertones.     
+
+325
+00:18:31,712 --> 00:18:34,112
+     the ingredients include    
+       two different sizes      
+
+326
+00:18:34,114 --> 00:18:39,383
+      of quartz crystals --     
+  green glass and mirror chips. 
+
+327
+00:18:39,385 --> 00:18:41,452
+       a computer releases      
+        specific amounts        
+
+328
+00:18:41,454 --> 00:18:45,189
+       of the ingredients       
+         into a hopper.         
+
+329
+00:18:45,191 --> 00:18:46,857
+      as the hopper opens,      
+
+330
+00:18:46,859 --> 00:18:50,061
+a conveyor takes the ingredients
+          to a blender.         
+
+331
+00:18:50,063 --> 00:18:52,730
+     black pigment is mixed     
+        into the blender,       
+
+332
+00:18:52,732 --> 00:18:56,401
+           along with           
+     powdery filler quartz.     
+
+333
+00:18:56,403 --> 00:18:59,270
+   the mix is over 90% quartz.  
+
+334
+00:18:59,272 --> 00:19:03,341
+    a polymer resin will act    
+  as a binder and add strength. 
+
+335
+00:19:03,343 --> 00:19:05,276
+                     ♪          
+
+336
+00:19:05,278 --> 00:19:09,547
+   down the line, a large mold  
+     moves into position...     
+
+337
+00:19:09,549 --> 00:19:13,217
+                     ♪          
+
+338
+00:19:13,219 --> 00:19:16,087
+    ...and an overhead mixer    
+   disperses the quartz blend   
+
+339
+00:19:16,089 --> 00:19:17,889
+         into the mold.         
+
+340
+00:19:17,891 --> 00:19:20,091
+                     ♪          
+
+341
+00:19:20,093 --> 00:19:22,427
+        the mixer repeats       
+        the process twice       
+
+342
+00:19:22,429 --> 00:19:26,498
+    to build up the materials   
+    to the desired thickness.   
+
+343
+00:19:26,500 --> 00:19:30,435
+                     ♪          
+
+344
+00:19:30,437 --> 00:19:32,303
+     then the mold vibrates,    
+
+345
+00:19:32,305 --> 00:19:35,974
+       shaking the mixture      
+    into a more level state.    
+
+346
+00:19:35,976 --> 00:19:39,778
+                     ♪          
+
+347
+00:19:39,780 --> 00:19:43,981
+      this will be the back     
+    of the quartz countertop.   
+
+348
+00:19:43,983 --> 00:19:46,985
+     for additional strength    
+        and flexibility,        
+
+349
+00:19:46,987 --> 00:19:50,254
+       nylon mesh is added      
+   to the countertop mixture.   
+
+350
+00:19:50,256 --> 00:19:53,258
+     a device pulls the mesh    
+          over the mix.         
+
+351
+00:19:53,260 --> 00:19:55,593
+        once it's aligned       
+     with the mold contents,    
+
+352
+00:19:55,595 --> 00:20:00,331
+        the machine drops       
+      the mesh into place.      
+
+353
+00:20:00,333 --> 00:20:05,003
+     an automated dispenser     
+  spreads granulated limestone, 
+
+354
+00:20:05,005 --> 00:20:09,207
+        filling any voids       
+   in the countertop mixture.   
+
+355
+00:20:09,209 --> 00:20:13,344
+next, the ingredients are placed
+    in a kiln for two hours.    
+
+356
+00:20:13,346 --> 00:20:18,149
+  a blade scrapes off the loose 
+limestone from the slab backing.
+
+357
+00:20:18,151 --> 00:20:21,219
+     polishing heads studded    
+    with industrial diamonds    
+
+358
+00:20:21,221 --> 00:20:25,423
+      will now give the top     
+  of the slab a serious shine.  
+
+359
+00:20:25,425 --> 00:20:27,425
+   simultaneously, an operator  
+
+360
+00:20:27,427 --> 00:20:29,961
+       adjusts the tension      
+        of the polishers.       
+
+361
+00:20:29,963 --> 00:20:33,631
+   the polishers spin as water  
+   flows across the countertop  
+
+362
+00:20:33,633 --> 00:20:37,235
+     to produce the desired     
+         level of gloss.        
+
+363
+00:20:37,237 --> 00:20:41,706
+   this particular quartz slab  
+    is about 1/4 inch thick.    
+
+364
+00:20:41,708 --> 00:20:45,309
+its thin, flexible profile means
+    the quartz can be shaped    
+
+365
+00:20:45,311 --> 00:20:47,645
+     to different structures    
+           if needed.           
+
+366
+00:20:47,647 --> 00:20:52,183
+                     ♪          
+
+367
+00:20:52,185 --> 00:20:54,719
+     a technician preparers     
+     the transfer of pattern    
+
+368
+00:20:54,721 --> 00:20:58,256
+    onto a white quartz slab.   
+
+369
+00:20:58,258 --> 00:21:01,525
+he drapes a long sheet of paper,
+       pattern side down,       
+
+370
+00:21:01,527 --> 00:21:05,262
+   onto the slab and tapes it   
+      to the work surface.      
+
+371
+00:21:05,264 --> 00:21:07,265
+                     ♪          
+
+372
+00:21:07,267 --> 00:21:11,268
+   he activates a heat press,   
+which turns the ink on the paper
+
+373
+00:21:11,270 --> 00:21:16,007
+   into a gas that penetrates   
+     the resin in the slab.     
+
+374
+00:21:16,009 --> 00:21:20,211
+  the pattern becomes intrinsic 
+    to the engineered stone.    
+
+375
+00:21:20,213 --> 00:21:24,481
+  with this process, any design 
+     can be part of a slab,     
+
+376
+00:21:24,483 --> 00:21:27,685
+    including some that give    
+     the illusion of marble.    
+
+377
+00:21:27,687 --> 00:21:29,554
+                     ♪          
+
+378
+00:21:29,556 --> 00:21:34,826
+       but unlike marble,       
+ engineered quartz won't stain. 
+
+379
+00:21:34,828 --> 00:21:36,561
+    with quartz countertops,    
+
+380
+00:21:36,563 --> 00:21:39,731
+        the possibilities       
+       are almost endless.      
+

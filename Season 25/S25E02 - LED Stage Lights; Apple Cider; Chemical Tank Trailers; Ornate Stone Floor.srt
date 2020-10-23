@@ -1,0 +1,1537 @@
+﻿1
+00:00:01,869 --> 00:00:04,937
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,939 --> 00:00:08,040
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:22,623 --> 00:00:26,025
+           narrator:            
+ today, on "how it's made"...   
+
+4
+00:00:26,027 --> 00:00:27,994
+    l.e.d. stage lights...      
+
+5
+00:00:32,433 --> 00:00:33,866
+       ...apple cider...        
+
+6
+00:00:38,373 --> 00:00:39,805
+ ...chemical tank trailers...   
+
+7
+00:00:43,845 --> 00:00:46,379
+  ...and ornate stone floors.   
+
+8
+00:00:53,654 --> 00:00:55,654
+      in the world of stage     
+           lighting,            
+
+9
+00:00:55,656 --> 00:00:58,991
+    traditional incandescent    
+  or halogen bulb spotlights    
+
+10
+00:00:58,993 --> 00:01:01,660
+  are making way for l.e.d.s.   
+
+11
+00:01:01,662 --> 00:01:03,929
+          l.e.d.s are           
+     light-emitting diodes      
+
+12
+00:01:03,931 --> 00:01:05,631
+  controlled by electronics.    
+
+13
+00:01:05,633 --> 00:01:08,267
+     they use less energy,      
+        emit less heat,         
+
+14
+00:01:08,269 --> 00:01:10,269
+  and can produce a wide array  
+           of colors            
+
+15
+00:01:10,271 --> 00:01:13,739
+  without the use of filters.   
+
+16
+00:01:13,741 --> 00:01:17,209
+ incandescent or halogen stage  
+lights produce just one color.  
+
+17
+00:01:17,211 --> 00:01:20,279
+     the only way to create     
+   more is to shine the light   
+              beam              
+
+18
+00:01:20,281 --> 00:01:23,281
+    through colored plastic     
+      called gel filters.       
+
+19
+00:01:23,283 --> 00:01:25,284
+   however, this l.e.d. stage   
+             light              
+
+20
+00:01:25,286 --> 00:01:27,886
+      uses seven different      
+       colored l.e.d.s,         
+
+21
+00:01:27,888 --> 00:01:31,757
+   which can be blended into    
+ a variety of different hues.   
+
+22
+00:01:31,759 --> 00:01:36,696
+  this computer-guided machine  
+   places all the components    
+
+23
+00:01:36,698 --> 00:01:38,497
+      on the stage light's      
+        circuit board,          
+
+24
+00:01:38,499 --> 00:01:42,835
+   which contains 60 l.e.d.s    
+  in 7 different base colors.   
+
+25
+00:01:51,846 --> 00:01:53,179
+   another machine measures     
+
+26
+00:01:53,181 --> 00:01:56,282
+        and cuts pieces         
+ of insulated electrical wire.  
+
+27
+00:02:00,121 --> 00:02:03,389
+    then, the machine strips    
+  the insulation off the ends   
+
+28
+00:02:03,391 --> 00:02:05,491
+   and crimps on terminals.     
+
+29
+00:02:07,462 --> 00:02:11,430
+    the machine processes up    
+to 26 feet of wire per second.  
+
+30
+00:02:14,468 --> 00:02:17,736
+   workers manually assemble    
+  10 wires and two connectors   
+
+31
+00:02:17,738 --> 00:02:19,805
+    into a control harness.     
+
+32
+00:02:19,807 --> 00:02:22,074
+    the harness will connect    
+   the light's control board    
+
+33
+00:02:22,076 --> 00:02:24,076
+     to the l.e.d. array.       
+
+34
+00:02:25,879 --> 00:02:27,680
+     on the factory floor,      
+
+35
+00:02:27,682 --> 00:02:31,483
+  they paint the stage light's  
+     two-part cast-aluminum     
+            housing.            
+
+36
+00:02:31,485 --> 00:02:33,619
+       the paint process        
+       is electrostatic.        
+
+37
+00:02:33,621 --> 00:02:36,756
+     this means the housing     
+  and the black powder paint    
+
+38
+00:02:36,758 --> 00:02:40,893
+    are laced with opposing     
+      electrical charges.       
+
+39
+00:02:40,895 --> 00:02:44,029
+     this spreads the paint     
+   evenly over the housing.     
+
+40
+00:02:44,031 --> 00:02:45,965
+       then, the housing        
+     goes through an oven,      
+
+41
+00:02:45,967 --> 00:02:47,600
+   which bakes on the paint.    
+
+42
+00:02:50,905 --> 00:02:52,438
+  back in the assembly area,    
+
+43
+00:02:52,440 --> 00:02:56,041
+   workers install the stage    
+light's electronic components,  
+
+44
+00:02:56,043 --> 00:02:59,111
+ starting with the lcd screen.  
+
+45
+00:02:59,113 --> 00:03:01,447
+     it displays the current    
+            settings            
+           and modes            
+
+46
+00:03:01,449 --> 00:03:05,785
+   and the menus for changing   
+             them.              
+
+47
+00:03:05,787 --> 00:03:09,321
+ after covering the screen with 
+ a protective plastic shield,   
+
+48
+00:03:09,323 --> 00:03:11,990
+    they install the control    
+             panel.             
+
+49
+00:03:11,992 --> 00:03:15,327
+       it has an opening        
+        for the screen.         
+
+50
+00:03:15,329 --> 00:03:20,265
+       this plastic cover       
+       protects the lcd.        
+
+51
+00:03:20,267 --> 00:03:22,001
+  it also directs outside air   
+
+52
+00:03:22,003 --> 00:03:24,136
+        into the housing        
+  to the light's cooling fan,   
+
+53
+00:03:24,138 --> 00:03:28,908
+ which they now secure in place 
+      with this bracket.        
+
+54
+00:03:28,910 --> 00:03:32,478
+  the fan dissipates the heat   
+     the l.e.d.s generate.      
+
+55
+00:03:32,480 --> 00:03:37,082
+    this block of aluminum,     
+ called the heat sink, absorbs  
+
+56
+00:03:37,084 --> 00:03:41,020
+     and quickly dissipates     
+      some of that heat.        
+
+57
+00:03:41,022 --> 00:03:42,421
+  they mount the l.e.d. array   
+
+58
+00:03:42,423 --> 00:03:45,690
+         on top of this         
+    twofold cooling system.     
+
+59
+00:03:45,692 --> 00:03:48,094
+             then,              
+     they install the optic     
+           assembly.            
+
+60
+00:03:48,096 --> 00:03:54,033
+     this plastic component     
+     focuses the individual     
+            l.e.d.s.            
+
+61
+00:03:54,035 --> 00:03:57,169
+         they construct         
+the stage light's mixing tube,  
+
+62
+00:03:57,171 --> 00:03:58,370
+      lining its interior       
+
+63
+00:03:58,372 --> 00:04:02,708
+      with adhesive-backed      
+       aluminum mirrors.        
+
+64
+00:04:02,710 --> 00:04:05,110
+        the mirrors mix         
+    the seven l.e.d. colors     
+
+65
+00:04:05,112 --> 00:04:06,912
+     into a single color.       
+
+66
+00:04:10,985 --> 00:04:14,119
+   the assemblers now join the  
+               two              
+  halves of the mixing tube,    
+
+67
+00:04:14,121 --> 00:04:16,989
+      adding a glass lens       
+         on the front.          
+
+68
+00:04:16,991 --> 00:04:18,790
+  the lens focuses the light    
+
+69
+00:04:18,792 --> 00:04:22,228
+   produced by the 60 l.e.d.s   
+      into a single beam.       
+
+70
+00:04:24,265 --> 00:04:27,099
+  then, they install the tube   
+        over the optic.         
+
+71
+00:04:30,604 --> 00:04:32,537
+             next,              
+  they mount the control card   
+
+72
+00:04:32,539 --> 00:04:35,274
+    to the side of the mixing   
+             tube.              
+
+73
+00:04:35,276 --> 00:04:39,678
+    the control card is the     
+      stage light's onboard     
+           computer.            
+
+74
+00:04:39,680 --> 00:04:43,481
+   it processes the commands    
+     the lighting technician    
+            enters.             
+
+75
+00:04:43,483 --> 00:04:45,750
+    commands can be entered     
+    from the control panel      
+
+76
+00:04:45,752 --> 00:04:49,822
+ or remotely from a computer.   
+
+77
+00:04:49,824 --> 00:04:52,158
+        after installing        
+    the main power supply,      
+
+78
+00:04:52,160 --> 00:04:55,494
+     they plug a dmx cable      
+    into the control card.      
+
+79
+00:04:57,832 --> 00:04:59,965
+  dmx is the digital network    
+
+80
+00:04:59,967 --> 00:05:01,901
+   through which the console    
+          or computer           
+
+81
+00:05:01,903 --> 00:05:05,638
+    communicates to the stage   
+             light.             
+
+82
+00:05:05,640 --> 00:05:08,774
+ they join this completed unit  
+  to the rest of the housing,   
+
+83
+00:05:08,776 --> 00:05:11,877
+       which has the dmx        
+     and power connectors.      
+
+84
+00:05:14,448 --> 00:05:16,649
+     this stage light is now    
+            finished            
+
+85
+00:05:16,651 --> 00:05:19,784
+    and ready for a thorough    
+    quality control check.      
+
+86
+00:05:19,786 --> 00:05:21,987
+          they plug it          
+    into a testing machine,     
+
+87
+00:05:21,989 --> 00:05:26,191
+       which powers it up       
+      and verifies several      
+           functions.           
+
+88
+00:05:26,193 --> 00:05:28,593
+        the machine also        
+    calibrates every color      
+
+89
+00:05:28,595 --> 00:05:34,132
+ to ensure consistency in every 
+ stage light they manufacture.  
+
+90
+00:05:34,134 --> 00:05:36,535
+ then, they run the stage light 
+         at full power          
+
+91
+00:05:36,537 --> 00:05:38,470
+    for three hours nonstop     
+
+92
+00:05:38,472 --> 00:05:43,342
+     to simulate strenuous      
+     operating conditions.      
+
+93
+00:05:43,344 --> 00:05:45,344
+         once the light         
+      passes these tests,       
+
+94
+00:05:45,346 --> 00:05:48,781
+    it's ready for its stage    
+             debut.             
+
+95
+00:06:02,429 --> 00:06:07,566
+           narrator:            
+   apple cider is also known  a 
+
+96
+00:06:07,568 --> 00:06:10,702
+    it's darker and cloudier    
+ than conventional apple juice  
+
+97
+00:06:10,704 --> 00:06:14,840
+   because tiny bits of apple   
+     are not filtered out.      
+
+98
+00:06:14,842 --> 00:06:16,374
+   these flavorful fragments    
+
+99
+00:06:16,376 --> 00:06:19,144
+         are what makes         
+  this fall beverage unique.    
+
+100
+00:06:24,451 --> 00:06:26,518
+        when the apples         
+    on the trees are ripe,      
+
+101
+00:06:26,520 --> 00:06:30,121
+           it's time            
+    to produce apple cider.     
+
+102
+00:06:30,123 --> 00:06:32,925
+    they process the apples     
+  within days of the harvest    
+
+103
+00:06:32,927 --> 00:06:38,663
+   to produce a beverage that   
+ tastes both fresh and sweet.   
+
+104
+00:06:38,665 --> 00:06:41,200
+  it starts with the right mix  
+          of apples.            
+
+105
+00:06:41,202 --> 00:06:42,801
+   some varieties are sweet,    
+
+106
+00:06:42,803 --> 00:06:44,536
+     and others are tart.       
+
+107
+00:06:44,538 --> 00:06:48,607
+      this mix of flavors       
+     will spice things up.      
+
+108
+00:06:48,609 --> 00:06:51,677
+     the apples float to the    
+             surface            
+     of a water-filled pit      
+
+109
+00:06:51,679 --> 00:06:53,278
+   and drift onto a conveyor    
+
+110
+00:06:53,280 --> 00:06:55,514
+        that takes them         
+     into the cider mill.       
+
+111
+00:06:58,552 --> 00:07:02,354
+  inside the mill, the apples   
+ spill into a washing station.  
+
+112
+00:07:05,292 --> 00:07:09,395
+   water sprays the apples as   
+              they              
+bounce across rolling brushes.  
+
+113
+00:07:12,299 --> 00:07:15,601
+        next, the apples        
+ take a trip up to a grinder.   
+
+114
+00:07:17,772 --> 00:07:22,707
+   inside, a steel arm pushes   
+ the apples against a grater.   
+
+115
+00:07:22,709 --> 00:07:27,112
+      it shreds them, pits      
+     and all, into a pulp.      
+
+116
+00:07:27,114 --> 00:07:29,481
+ this pulp is known as pomace.  
+
+117
+00:07:32,787 --> 00:07:36,054
+ the pomace lands in a funnel.  
+
+118
+00:07:36,056 --> 00:07:39,458
+   from here, a pump moves it   
+    through pipes across the    
+             plant,             
+
+119
+00:07:39,460 --> 00:07:42,861
+ where it arrives at a press.   
+
+120
+00:07:42,863 --> 00:07:45,864
+        the apple pomace        
+flows between two porous belts  
+
+121
+00:07:45,866 --> 00:07:49,401
+   that wind around rollers.    
+
+122
+00:07:49,403 --> 00:07:52,804
+   the rollers apply pressure   
+   to squeeze out the juice.    
+
+123
+00:07:52,806 --> 00:07:56,475
+ the juice drips through holes  
+         in the belts.          
+
+124
+00:07:56,477 --> 00:08:00,012
+      the process strains       
+     out most of the pulp,      
+
+125
+00:08:00,014 --> 00:08:03,348
+ but some remains as the juice  
+     spills from the press      
+
+126
+00:08:03,350 --> 00:08:05,451
+    into large catch pans.      
+
+127
+00:08:09,557 --> 00:08:11,690
+           then, they           
+ pump this chunky apple liquid  
+
+128
+00:08:11,692 --> 00:08:13,192
+     into a holding tank.       
+
+129
+00:08:15,862 --> 00:08:19,164
+       from the tank, it        
+flows through a revolving drum  
+
+130
+00:08:19,166 --> 00:08:23,902
+  that filters out more pulp,   
+    pits, and apple stems.      
+
+131
+00:08:23,904 --> 00:08:27,305
+    the fluid seeps through     
+ the perforations in the drum   
+
+132
+00:08:27,307 --> 00:08:31,443
+and flows into a large trough.  
+
+133
+00:08:31,445 --> 00:08:33,044
+   after one more screening,    
+
+134
+00:08:33,046 --> 00:08:36,448
+         only fine bits         
+ of apple and sediment remain.  
+
+135
+00:08:36,450 --> 00:08:41,653
+   this gives it the desired    
+ cider consistency and flavor.  
+
+136
+00:08:41,655 --> 00:08:43,655
+         the cider now          
+      flows into channels       
+
+137
+00:08:43,657 --> 00:08:46,992
+   between hot steel plates.    
+
+138
+00:08:46,994 --> 00:08:49,327
+  the heat destroys pathogens   
+         and bacteria           
+
+139
+00:08:49,329 --> 00:08:53,532
+       that would convert       
+the natural sugars to alcohol.  
+
+140
+00:08:53,534 --> 00:08:56,468
+  this ensures that the cider   
+     is both safe to drink      
+
+141
+00:08:56,470 --> 00:08:58,337
+       and nonalcoholic.        
+
+142
+00:09:00,541 --> 00:09:02,874
+ it's now ready for bottling.   
+
+143
+00:09:02,876 --> 00:09:08,012
+  a worker slides plastic jugs  
+ into position under nozzles.   
+
+144
+00:09:08,014 --> 00:09:11,016
+  the nozzles descend and pump  
+  the boiling-hot apple cider   
+
+145
+00:09:11,018 --> 00:09:13,485
+        into the jugs.          
+
+146
+00:09:13,487 --> 00:09:17,556
+   they're filled to the brim   
+   so air can't get inside.     
+
+147
+00:09:17,558 --> 00:09:22,293
+      air causes the cider      
+        to deteriorate.         
+
+148
+00:09:22,295 --> 00:09:23,628
+      next, the conveyor        
+
+149
+00:09:23,630 --> 00:09:26,298
+         moves the jugs         
+ forward to a capping station.  
+
+150
+00:09:29,537 --> 00:09:33,172
+   plastic caps funnel toward   
+  the jugs as they approach.    
+
+151
+00:09:35,643 --> 00:09:40,578
+   the caps land on the rims    
+     with perfect timing.       
+
+152
+00:09:40,580 --> 00:09:44,183
+   spinning wheels tighten the  
+              caps              
+     as the jugs ride by,       
+
+153
+00:09:44,185 --> 00:09:46,384
+      hermetically sealing      
+     the hot apple cider,       
+
+154
+00:09:46,386 --> 00:09:49,655
+     giving it a shelf life     
+   of approximately a year.     
+
+155
+00:09:52,126 --> 00:09:53,926
+            the jugs            
+   then head into a tunnel,     
+
+156
+00:09:53,928 --> 00:09:56,728
+         where sprayers         
+  douse them with cold water.   
+
+157
+00:10:00,634 --> 00:10:05,671
+    next, machinery pulls the   
+              liner             
+off of adhesive-backed labels.  
+
+158
+00:10:05,673 --> 00:10:08,606
+        an electric eye         
+ detects the approaching jugs,  
+
+159
+00:10:08,608 --> 00:10:10,876
+        queuing rollers         
+     to apply the labels.       
+
+160
+00:10:13,413 --> 00:10:14,679
+    the filtered-out pomace     
+
+161
+00:10:14,681 --> 00:10:17,216
+     from earlier is cooked     
+      four to five hours.       
+
+162
+00:10:19,819 --> 00:10:22,420
+  this caramelizes the sugars   
+        in the apples,          
+
+163
+00:10:22,422 --> 00:10:25,357
+    turning the pomace into     
+ a highly concentrated spread   
+
+164
+00:10:25,359 --> 00:10:27,392
+    known as apple butter.      
+
+165
+00:10:30,631 --> 00:10:34,699
+   they bottle it while it's    
+  piping hot to preserve it.    
+
+166
+00:10:34,701 --> 00:10:36,434
+    although not technically    
+            butter,             
+
+167
+00:10:36,436 --> 00:10:39,705
+       this fruit spread        
+  has a similar consistency.    
+
+168
+00:10:43,443 --> 00:10:45,510
+      it takes a full day       
+         of processing          
+
+169
+00:10:45,512 --> 00:10:48,280
+  to produce both apple butter  
+       and apple cider.         
+
+170
+00:10:50,650 --> 00:10:52,450
+  it's time to raise a glass    
+
+171
+00:10:52,452 --> 00:10:56,288
+   and enjoy the sweet bounty   
+        of the harvest.         
+
+172
+00:11:12,072 --> 00:11:16,208
+           narrator:            
+   chemical tank trailers roll  
+              down our highways 
+
+173
+00:11:16,210 --> 00:11:19,811
+ they haul liquid chemicals for 
+manufacturing and other needs.  
+
+174
+00:11:19,813 --> 00:11:25,284
+  chemicals could be hazardous  
+               if               
+released into the environment.  
+
+175
+00:11:25,286 --> 00:11:28,587
+ making a chemical tank trailer 
+     is serious business.       
+
+176
+00:11:33,694 --> 00:11:35,560
+   chemical tank trailers are   
+             built              
+
+177
+00:11:35,562 --> 00:11:40,699
+  to ensure that a potentially  
+ harmful cargo arrives safely.  
+
+178
+00:11:40,701 --> 00:11:43,101
+          their design          
+     is tightly regulated       
+
+179
+00:11:43,103 --> 00:11:46,205
+         because safety         
+      is in everyone's best     
+           interest.            
+
+180
+00:11:48,509 --> 00:11:51,109
+  they build the chemical tank  
+         from scratch.          
+
+181
+00:11:51,111 --> 00:11:56,248
+  they start with a big sheet   
+of heavy-duty stainless steel.  
+
+182
+00:11:56,250 --> 00:11:58,584
+  pressurized rollers curl it   
+        into a cylinder         
+
+183
+00:11:58,586 --> 00:12:03,054
+     that will become half      
+  of the tank's inner vessel.   
+
+184
+00:12:03,056 --> 00:12:07,325
+  using a crane, they transfer  
+    the 20-foot-long rounded    
+            section             
+
+185
+00:12:07,327 --> 00:12:08,760
+     to a welding station.      
+
+186
+00:12:11,265 --> 00:12:14,332
+   here, an operator controls   
+    a semi-automatic welder     
+
+187
+00:12:14,334 --> 00:12:15,667
+       with a joystick.         
+
+188
+00:12:15,669 --> 00:12:19,604
+ the welder joins the two sides 
+         of the sheet           
+
+189
+00:12:19,606 --> 00:12:21,406
+   to complete the cylinder.    
+
+190
+00:12:23,544 --> 00:12:25,544
+    they bring two cylinders    
+           together             
+
+191
+00:12:25,546 --> 00:12:28,813
+            to form             
+ a 40-foot-long inner vessel.   
+
+192
+00:12:28,815 --> 00:12:31,083
+      this seam is near the     
+           midpoint.            
+
+193
+00:12:31,085 --> 00:12:33,418
+       it will be subject       
+ to significant bending stress  
+
+194
+00:12:33,420 --> 00:12:35,353
+         in transport.          
+
+195
+00:12:35,355 --> 00:12:38,290
+         it's critical          
+  that this weld is perfect.    
+
+196
+00:12:40,227 --> 00:12:44,762
+     the team caps the end      
+    with metal discs known as   
+             heads.             
+
+197
+00:12:44,764 --> 00:12:47,399
+    they tack-weld the heads    
+      to the vessel first       
+
+198
+00:12:47,401 --> 00:12:50,035
+           and assure           
+    that the fit is exact.      
+
+199
+00:12:52,506 --> 00:12:56,608
+ then, a semi-automatic welder  
+    does a permanent weld.      
+
+200
+00:13:00,180 --> 00:13:04,449
+   next, they weld three long   
+ half pipes along the bottom,   
+
+201
+00:13:04,451 --> 00:13:10,055
+  again doing tack welds first  
+     and then final welds.      
+
+202
+00:13:10,057 --> 00:13:12,457
+        the three pipes         
+   serve as a heating panel,    
+
+203
+00:13:12,459 --> 00:13:16,728
+   keeping the chemical cargo   
+      at a liquid state.        
+
+204
+00:13:16,730 --> 00:13:20,065
+   this is important because,   
+ when some chemicals solidify,  
+
+205
+00:13:20,067 --> 00:13:24,268
+ their purity is compromised.   
+
+206
+00:13:24,270 --> 00:13:26,805
+   the team slides the first    
+      of many metal rings       
+
+207
+00:13:26,807 --> 00:13:32,678
+    onto the tank and clamps    
+    each ring to the shell.     
+
+208
+00:13:32,680 --> 00:13:35,480
+          these rings           
+ stiffen the structure and act  
+
+209
+00:13:35,482 --> 00:13:38,883
+   as an exterior skeleton.     
+
+210
+00:13:38,885 --> 00:13:41,219
+         a worker does          
+    the initial tack welds.     
+
+211
+00:13:44,158 --> 00:13:47,959
+ then, a semi-automatic welder  
+     makes the full welds.      
+
+212
+00:13:52,432 --> 00:13:55,267
+    after attaching a steel     
+   framework to the bottom,     
+
+213
+00:13:55,269 --> 00:13:59,905
+  a crane transfers the inner   
+    vessel to the trailer.      
+
+214
+00:13:59,907 --> 00:14:02,507
+   a worker tucks insulation    
+      between the vessel        
+
+215
+00:14:02,509 --> 00:14:04,976
+       and the trailer.         
+
+216
+00:14:04,978 --> 00:14:06,978
+      he secures the tank       
+        to the trailer          
+
+217
+00:14:06,980 --> 00:14:10,182
+    with intermittent welds     
+    known as stitch welds.      
+
+218
+00:14:12,586 --> 00:14:14,119
+  another member of the team    
+
+219
+00:14:14,121 --> 00:14:19,191
+   wraps strips of rigid foam   
+   around the steel vessel.     
+
+220
+00:14:19,193 --> 00:14:21,392
+    he spaces the foam evenly   
+             apart              
+
+221
+00:14:21,394 --> 00:14:26,131
+ and pulls them tightly against 
+      the vessel with metal     
+           strapping.           
+
+222
+00:14:26,133 --> 00:14:29,634
+   this creates compartments    
+  for fiberglass insulation.    
+
+223
+00:14:33,273 --> 00:14:36,007
+    he tucks the insulation     
+       into the spaces,         
+
+224
+00:14:36,009 --> 00:14:37,275
+    blanketing the vessels      
+
+225
+00:14:37,277 --> 00:14:40,479
+    so the chemical freight     
+   will stay warm and fluid.    
+
+226
+00:14:44,617 --> 00:14:47,619
+          the team now          
+    builds the outer shell.     
+
+227
+00:14:47,621 --> 00:14:48,887
+    they pull stainless steel   
+             sheets             
+
+228
+00:14:48,889 --> 00:14:54,159
+    around the inner vessel     
+    using thick nylon ties.     
+
+229
+00:14:54,161 --> 00:14:56,027
+     these sheets are made      
+       of thinner steel         
+
+230
+00:14:56,029 --> 00:14:58,830
+       than the kind used       
+to construct the inner vessel.  
+
+231
+00:14:58,832 --> 00:15:01,566
+      they easily conform       
+   to the cylindrical shape.    
+
+232
+00:15:04,971 --> 00:15:06,971
+   a worker welds the sheets    
+           in place,            
+
+233
+00:15:06,973 --> 00:15:08,907
+  completing the outer shell.   
+
+234
+00:15:11,178 --> 00:15:14,045
+         once a manhole         
+has been installed at the top,  
+
+235
+00:15:14,047 --> 00:15:17,782
+     the crew builds a metal    
+            platform            
+          around it.            
+
+236
+00:15:17,784 --> 00:15:20,852
+ this platform allows a person  
+     to access the manhole      
+
+237
+00:15:20,854 --> 00:15:24,055
+  without slipping or denting   
+ the outer shell of the tank.   
+
+238
+00:15:26,994 --> 00:15:29,594
+       a worker attaches        
+     a ladder to the tank.      
+
+239
+00:15:29,596 --> 00:15:32,531
+        it will be used         
+  for accessing the manhole.    
+
+240
+00:15:35,602 --> 00:15:37,201
+  another member of the team    
+
+241
+00:15:37,203 --> 00:15:40,272
+   connects l.e.d. taillights   
+    and inserts them in light   
+             boxes              
+
+242
+00:15:40,274 --> 00:15:42,040
+  at the back of the trailer.   
+
+243
+00:15:46,547 --> 00:15:50,048
+     he secures the lights      
+ to the light box with screws.  
+
+244
+00:15:53,153 --> 00:15:58,490
+  it takes about five days to   
+build a chemical tank trailer.  
+
+245
+00:15:58,492 --> 00:16:01,159
+    they last for 30 years or   
+             more,              
+
+246
+00:16:01,161 --> 00:16:04,463
+ so this trailer should be good 
+      for the long haul.        
+
+247
+00:16:22,983 --> 00:16:24,982
+     narrator: centuries-old    
+            churches            
+          and palaces           
+
+248
+00:16:24,984 --> 00:16:26,651
+   have ornate stone floors     
+
+249
+00:16:26,653 --> 00:16:28,853
+  that took craftsmen decades   
+           to create            
+
+250
+00:16:28,855 --> 00:16:33,124
+          with chisels          
+     and other hand tools.      
+
+251
+00:16:33,126 --> 00:16:36,327
+  today, factories can produce  
+   similar elaborate designs    
+
+252
+00:16:36,329 --> 00:16:40,232
+  in a matter of hours thanks   
+ to computer-guided machinery.  
+
+253
+00:16:44,404 --> 00:16:46,838
+      these floor designs       
+       are so intricate,        
+
+254
+00:16:46,840 --> 00:16:49,207
+      it's hard to believe      
+      that each component       
+
+255
+00:16:49,209 --> 00:16:51,409
+     is an individually cut     
+       piece of marble,         
+
+256
+00:16:51,411 --> 00:16:54,412
+            granite,            
+    or other natural stone.     
+
+257
+00:16:54,414 --> 00:16:56,948
+       whether the design       
+    covers an entire floor,     
+
+258
+00:16:56,950 --> 00:16:59,217
+        or it's a single        
+      decorative insert,        
+
+259
+00:16:59,219 --> 00:17:03,021
+       the starting point       
+       is a stone slab.         
+
+260
+00:17:03,023 --> 00:17:05,757
+          it's massive          
+      but extremely thin,       
+
+261
+00:17:05,759 --> 00:17:09,160
+     so it's actually quite     
+            fragile.            
+
+262
+00:17:09,162 --> 00:17:11,095
+          workers use           
+   a pneumatic suction hoist    
+
+263
+00:17:11,097 --> 00:17:15,967
+      to position the slab      
+ onto a cutting machine table.  
+
+264
+00:17:15,969 --> 00:17:20,305
+          the machine           
+ is entirely computer-guided.   
+
+265
+00:17:20,307 --> 00:17:23,842
+ it cuts with a jet of water.   
+
+266
+00:17:23,844 --> 00:17:26,243
+  the water contains particles  
+          of garnet,            
+
+267
+00:17:26,245 --> 00:17:29,313
+  an extremely hard gemstone.   
+
+268
+00:17:29,315 --> 00:17:31,983
+          the jet cuts          
+     by eroding the stone       
+
+269
+00:17:31,985 --> 00:17:35,053
+  rather than by sheer force,   
+     which would crack it.      
+
+270
+00:17:37,724 --> 00:17:40,725
+  workers rinse away the stone  
+   grit and abrasive residue    
+
+271
+00:17:40,727 --> 00:17:42,661
+ once the cutting is finished.  
+
+272
+00:17:44,665 --> 00:17:48,633
+    they use suction cups to    
+             remove             
+ the cut pieces one at a time.  
+
+273
+00:17:51,071 --> 00:17:54,272
+      they've cut squares       
+       for this design.         
+
+274
+00:17:54,274 --> 00:17:56,574
+          some will go          
+     into the floor as-is,      
+
+275
+00:17:56,576 --> 00:17:59,477
+      while others go onto      
+ a smaller water jet machine,   
+
+276
+00:17:59,479 --> 00:18:02,347
+        which cuts them         
+    into intricate shapes.      
+
+277
+00:18:08,021 --> 00:18:10,488
+        workers extract         
+     these smaller pieces       
+
+278
+00:18:10,490 --> 00:18:13,692
+        with tweezers.          
+
+279
+00:18:13,694 --> 00:18:16,494
+        every component         
+  of the design has a number.   
+
+280
+00:18:16,496 --> 00:18:22,100
+ workers label the back of the  
+       corresponding piece      
+          accordingly.          
+
+281
+00:18:22,102 --> 00:18:25,303
+     then, they print out a     
+            life-size           
+version of the numbered design  
+
+282
+00:18:25,305 --> 00:18:28,073
+           on a sheet           
+  of durable polyester film.    
+
+283
+00:18:31,044 --> 00:18:34,813
+  they tape it to the assembly  
+ table to serve as a template.  
+
+284
+00:18:38,918 --> 00:18:41,453
+    then, they lay one piece    
+     at a time front side       
+
+285
+00:18:41,455 --> 00:18:43,388
+    down onto the template.     
+
+286
+00:18:55,535 --> 00:18:59,738
+   like a puzzle, the design    
+    slowly reveals itself.      
+
+287
+00:19:06,880 --> 00:19:09,014
+        once the design         
+      is fully laid out,        
+
+288
+00:19:09,016 --> 00:19:11,416
+      they tack the pieces      
+      together with glue.       
+
+289
+00:19:11,418 --> 00:19:14,786
+        this keeps them         
+ from shifting or separating.   
+
+290
+00:19:24,363 --> 00:19:27,599
+    they lay fiberglass mesh    
+   over the entire assembly.    
+
+291
+00:19:36,843 --> 00:19:38,642
+             then,              
+  they prepare an epoxy resin   
+
+292
+00:19:38,644 --> 00:19:41,212
+      specially formulated      
+     for stone setting...       
+
+293
+00:19:43,650 --> 00:19:46,084
+    ...and spread it evenly     
+        over the mesh.          
+
+294
+00:19:55,862 --> 00:20:00,198
+  they let it set overnight.    
+
+295
+00:20:00,200 --> 00:20:02,300
+       and the next day,        
+      they sand it flat.        
+
+296
+00:20:06,740 --> 00:20:11,008
+  the cut stone design is now   
+   bonded together in a solid   
+             unit.              
+
+297
+00:20:11,010 --> 00:20:13,878
+   now, they can safely flip    
+          it face-up.           
+
+298
+00:20:17,884 --> 00:20:21,653
+   the final step is to fill    
+  the joints with epoxy grout   
+
+299
+00:20:29,763 --> 00:20:33,131
+    then wash off any excess    
+      with a wet sponge.        
+
+300
+00:20:39,973 --> 00:20:43,641
+  this ornate cut-stone floor   
+  insert is finally finished.   
+
+301
+00:20:46,045 --> 00:20:47,979
+        this is just one        
+     of several components      
+
+302
+00:20:47,981 --> 00:20:50,381
+ of a large, elaborate design.  
+
+303
+00:20:50,383 --> 00:20:53,985
+ workers assemble them together 
+to do a quality control check.  
+
+304
+00:20:53,987 --> 00:20:56,054
+   then, they take the design   
+             apart              
+
+305
+00:20:56,056 --> 00:20:59,857
+   and package each component   
+   separately for shipping.     
+
+306
+00:20:59,859 --> 00:21:02,993
+ stone must always ship upright 
+          on its side           
+
+307
+00:21:02,995 --> 00:21:06,264
+      because it can crack      
+when transported horizontally.  
+
+308
+00:21:08,935 --> 00:21:10,201
+ however, the cut-stone floor   
+
+309
+00:21:10,203 --> 00:21:12,136
+     will be sturdy enough      
+          to walk on            
+
+310
+00:21:12,138 --> 00:21:14,405
+ once it's properly installed.  
+
+311
+00:21:14,407 --> 00:21:16,808
+        just be careful         
+   not to bump into anything    
+
+312
+00:21:16,810 --> 00:21:20,578
+     while you're admiring      
+  the art beneath your feet.    
+
+313
+00:21:27,954 --> 00:21:30,154
+    if you have any comments    
+        about the show,         
+
+314
+00:21:30,156 --> 00:21:32,757
+  or if you'd like to suggest   
+   topics for future shows,     
+
+315
+00:21:32,759 --> 00:21:38,229
+       drop us a line at        
+sciencechannel.com/howitsmade.  
+

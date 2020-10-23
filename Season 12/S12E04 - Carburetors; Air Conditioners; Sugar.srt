@@ -1,0 +1,1495 @@
+﻿1
+00:00:01,602 --> 00:00:04,603
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,605 --> 00:00:07,607
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:51,452 --> 00:00:54,186
+ narrator: cars that don't have 
+     fuel-injection systems     
+
+4
+00:00:54,188 --> 00:00:55,321
+        have carburetors.       
+
+5
+00:00:55,323 --> 00:00:57,256
+    they're an integral part    
+          of the engine         
+
+6
+00:00:57,258 --> 00:01:00,393
+    that mixes air and fuel     
+    in specific proportions,    
+
+7
+00:01:00,395 --> 00:01:04,130
+ vaporizes them, then sends the 
+ mixture to the intake manifold.
+
+8
+00:01:04,132 --> 00:01:06,399
+          the manifold          
+      transfers the mixture     
+
+9
+00:01:06,401 --> 00:01:09,902
+    to the engine cylinders,    
+    where combustion occurs.    
+
+10
+00:01:14,742 --> 00:01:16,676
+       filtered air enters      
+         the carburetor         
+
+11
+00:01:16,678 --> 00:01:17,677
+      and mixes with fuel.      
+
+12
+00:01:17,679 --> 00:01:18,878
+     when you press the gas,    
+
+13
+00:01:18,880 --> 00:01:21,614
+  the carburetor opens conduits 
+
+14
+00:01:21,616 --> 00:01:24,349
+  for the air-and-fuel mixture  
+     to flow to the engine.     
+
+15
+00:01:24,351 --> 00:01:27,486
+   two metering blocks control  
+ the proportion of fuel to air. 
+
+16
+00:01:27,488 --> 00:01:32,158
+ computer-guided precision tools
+  machine them out of aluminum. 
+
+17
+00:01:32,160 --> 00:01:36,228
+   meanwhile, workers install   
+   components called boosters   
+
+18
+00:01:36,230 --> 00:01:38,364
+ in the carburetor's main body. 
+
+19
+00:01:38,366 --> 00:01:42,435
+    these boosters spray the    
+ fuel-and-air mixture as a mist 
+
+20
+00:01:42,437 --> 00:01:45,371
+      into tapered conduits     
+         called venturi.        
+
+21
+00:01:45,373 --> 00:01:47,773
+           those lead           
+     to the intake manifold,    
+
+22
+00:01:47,775 --> 00:01:52,378
+   which transfers the mixture  
+   to the engine's cylinders.   
+
+23
+00:01:52,380 --> 00:01:54,246
+  another computerized machine  
+
+24
+00:01:54,248 --> 00:01:57,449
+    makes each throttle shaft   
+      from a bar of steel.      
+
+25
+00:01:57,451 --> 00:02:00,519
+        these shafts turn       
+   when you press on the gas,   
+
+26
+00:02:00,521 --> 00:02:02,387
+  pivoting the butterfly discs  
+
+27
+00:02:02,389 --> 00:02:05,124
+    that open those conduits    
+    to the intake manifold.     
+
+28
+00:02:05,126 --> 00:02:07,326
+       the tooling machine      
+        bores screw holes       
+
+29
+00:02:07,328 --> 00:02:09,061
+  for attaching the butterflies 
+
+30
+00:02:09,063 --> 00:02:13,199
+  and carves grooves to prevent 
+     fuel from leaking out.     
+
+31
+00:02:25,680 --> 00:02:27,880
+         workers install        
+       the throttle shafts      
+
+32
+00:02:27,882 --> 00:02:29,682
+ in the carburetor's baseplate. 
+
+33
+00:02:29,684 --> 00:02:32,885
+     one side of this plate     
+   will bolt to the main body   
+
+34
+00:02:32,887 --> 00:02:35,755
+          and the other         
+     to the intake manifold.    
+
+35
+00:02:35,757 --> 00:02:39,692
+    the butterflies are made    
+  of aluminum, steel, or brass, 
+
+36
+00:02:39,694 --> 00:02:42,328
+            depending           
+    on the carburetor model.    
+
+37
+00:02:46,601 --> 00:02:50,102
+   he flips the baseplate and   
+ flares the bottom of the screws
+
+38
+00:02:50,104 --> 00:02:52,437
+         to prevent them        
+       from vibrating out       
+
+39
+00:02:52,439 --> 00:02:54,106
+  and falling into the engine.  
+
+40
+00:02:54,108 --> 00:02:56,308
+        after installing        
+       an adjustment screw      
+
+41
+00:02:56,310 --> 00:02:59,511
+    for tuning the carburetor   
+ and using thread-locking fluid 
+
+42
+00:02:59,513 --> 00:03:01,513
+    to ensure the components    
+          don't loosen,         
+
+43
+00:03:01,515 --> 00:03:05,384
+it's time to assemble the levers
+ that turn the throttle shafts. 
+
+44
+00:03:15,463 --> 00:03:18,664
+     a washer and cotter pin    
+      hold it all together.     
+
+45
+00:03:23,403 --> 00:03:25,204
+    a few pulls on the levers   
+
+46
+00:03:25,206 --> 00:03:28,808
+ensure that both throttle shafts
+    move freely and smoothly,   
+
+47
+00:03:28,810 --> 00:03:30,008
+     turning the butterflies    
+
+48
+00:03:30,010 --> 00:03:31,943
+          perpendicular         
+      to open the conduits      
+
+49
+00:03:31,945 --> 00:03:33,212
+     and flat to close them.    
+
+50
+00:03:33,214 --> 00:03:36,748
+      next, the accelerator     
+           pump arm --          
+
+51
+00:03:36,750 --> 00:03:40,285
+   it shoots an initial burst   
+ of fuel when you start the car.
+
+52
+00:03:40,287 --> 00:03:42,821
+        the carburetor's        
+      cast-metal fuel bowls     
+
+53
+00:03:42,823 --> 00:03:44,490
+   go into a vibrating tumbler  
+
+54
+00:03:44,492 --> 00:03:47,092
+        where metal balls       
+      smooth their surface.     
+
+55
+00:03:47,094 --> 00:03:50,129
+        then they receive       
+      a protective coating.     
+
+56
+00:03:53,033 --> 00:03:55,100
+  now a worker installs a float 
+
+57
+00:03:55,102 --> 00:03:58,236
+    to control the fuel level   
+        inside each bowl.       
+
+58
+00:03:58,238 --> 00:04:00,372
+        this is essential       
+     because too little fuel    
+
+59
+00:04:00,374 --> 00:04:02,641
+ would prevent engine start-up, 
+
+60
+00:04:02,643 --> 00:04:06,111
+and too much fuel would overflow
+      and cause a shutdown.     
+
+61
+00:04:06,113 --> 00:04:09,848
+   a gasket sandwiched between  
+ the main body and the baseplate
+
+62
+00:04:09,850 --> 00:04:13,318
+ will prevent fuel from leaking 
+ out and dirt from seeping in.  
+
+63
+00:04:13,320 --> 00:04:15,788
+   as a precaution, they coat   
+      the baseplate screws      
+
+64
+00:04:15,790 --> 00:04:19,959
+    with thread-locking fluid   
+ so they won't loosen over time.
+
+65
+00:04:24,398 --> 00:04:26,799
+ now the baseplate that contains
+
+66
+00:04:26,801 --> 00:04:28,667
+       the throttle shafts      
+         and butterflies        
+
+67
+00:04:28,669 --> 00:04:33,939
+  is connected to the main body 
+   that contains the boosters.  
+
+68
+00:04:33,941 --> 00:04:36,342
+next come the metering blocks --
+
+69
+00:04:36,344 --> 00:04:40,045
+     a gasket over each one,    
+   and then into a fuel bowl.   
+
+70
+00:04:43,551 --> 00:04:45,017
+  then one block-and-bowl unit  
+
+71
+00:04:45,019 --> 00:04:48,220
+        goes on each side       
+        of the main body.       
+
+72
+00:04:54,829 --> 00:04:56,428
+    just one final adjustment   
+
+73
+00:04:56,430 --> 00:04:58,897
+  to the accelerator pump lever 
+             and arm            
+
+74
+00:04:58,899 --> 00:05:01,433
+ and the carburetor is finished.
+
+75
+00:05:11,712 --> 00:05:13,846
+     in the quality-control     
+           department,          
+
+76
+00:05:13,848 --> 00:05:15,848
+        every carburetor        
+        undergoes testing       
+
+77
+00:05:15,850 --> 00:05:18,717
+with fluids similar to gasoline.
+
+78
+00:05:18,719 --> 00:05:20,786
+           they check           
+     if the accelerator pump    
+
+79
+00:05:20,788 --> 00:05:22,788
+     squirts out enough fuel    
+           at ignition          
+
+80
+00:05:22,790 --> 00:05:26,858
+ and during the transition from 
+  idling mode to acceleration.  
+
+81
+00:05:26,860 --> 00:05:30,262
+ then, once everything's running
+        at regular speed,       
+
+82
+00:05:30,264 --> 00:05:34,667
+they measure the amount of fluid
+  the boosters spray per hour.  
+
+83
+00:05:34,669 --> 00:05:36,869
+ once they pass quality control,
+
+84
+00:05:36,871 --> 00:05:41,040
+     these carburetors will     
+  really be able to rev you up. 
+
+85
+00:05:56,089 --> 00:05:57,489
+            narrator:           
+     in an air conditioner,     
+
+86
+00:05:57,491 --> 00:05:59,491
+ liquid refrigerant absorbs heat
+    from inside the building,   
+
+87
+00:05:59,493 --> 00:06:02,828
+      changes into a gas,       
+      then flows outdoors.      
+
+88
+00:06:02,830 --> 00:06:06,031
+  it goes through a compressor, 
+   then a heat-exchanger coil   
+
+89
+00:06:06,033 --> 00:06:08,567
+     that transfers the heat    
+       to the outside air,      
+
+90
+00:06:08,569 --> 00:06:11,036
+   turning the refrigerant gas  
+        to liquid again.        
+
+91
+00:06:11,038 --> 00:06:14,106
+ the refrigerant then circulates
+    back inside the building.   
+
+92
+00:06:17,445 --> 00:06:19,111
+  this air-conditioner company  
+
+93
+00:06:19,113 --> 00:06:21,380
+         makes its coils        
+      entirely of aluminum,     
+
+94
+00:06:21,382 --> 00:06:23,916
+       which is five times      
+    more corrosion-resistant    
+
+95
+00:06:23,918 --> 00:06:27,319
+    than coils made of copper   
+          and aluminum.         
+
+96
+00:06:27,321 --> 00:06:29,388
+        to make the coil,       
+
+97
+00:06:29,390 --> 00:06:32,858
+  workers position an aluminum  
+      tube called the spine     
+
+98
+00:06:32,860 --> 00:06:36,061
+          in the middle         
+of this special winding machine.
+
+99
+00:06:36,063 --> 00:06:39,865
+       then they feed in        
+       an aluminum strip.       
+
+100
+00:06:39,867 --> 00:06:42,468
+           the machine          
+    slits the aluminum strip    
+
+101
+00:06:42,470 --> 00:06:45,304
+  into thin teeth called fins.  
+
+102
+00:06:51,078 --> 00:06:54,012
+     then it folds and wraps    
+thousands upon thousands of fins
+
+103
+00:06:54,014 --> 00:06:55,347
+        around the spine,       
+
+104
+00:06:55,349 --> 00:06:58,817
+       making the material      
+   they call spine fin tubing.  
+
+105
+00:06:58,819 --> 00:07:02,955
+          each tiny fin         
+   is a heat-transfer vehicle.  
+
+106
+00:07:13,501 --> 00:07:14,900
+      now to form the coil.     
+
+107
+00:07:14,902 --> 00:07:17,503
+        they hook the end       
+     of the spine fin tubing    
+
+108
+00:07:17,505 --> 00:07:20,506
+     to an automated winder.    
+
+109
+00:07:20,508 --> 00:07:26,045
+ it spirals the spine fin tubing
+ into a large cylindrical shape.
+
+110
+00:07:35,856 --> 00:07:37,923
+    when they finish winding    
+            the coil,           
+
+111
+00:07:37,925 --> 00:07:40,326
+      they cut the end free     
+        from the feeder,        
+
+112
+00:07:40,328 --> 00:07:44,163
+       then apply hot glue      
+  to hold everything together.  
+
+113
+00:07:51,405 --> 00:07:54,807
+    the next machine presses    
+      the coil on all sides     
+
+114
+00:07:54,809 --> 00:07:58,210
+    to form it into the shape   
+     of the air conditioner.    
+
+115
+00:08:01,548 --> 00:08:05,150
+ a worker now cuts into the coil
+   and bears a row of tubing.   
+
+116
+00:08:05,152 --> 00:08:07,352
+      these cuts determine      
+          the circuits,         
+
+117
+00:08:07,354 --> 00:08:09,755
+      the term for the path     
+      the refrigerant takes     
+
+118
+00:08:09,757 --> 00:08:13,092
+  as it flows through the coil. 
+
+119
+00:08:13,094 --> 00:08:16,294
+    the pipes that feed these   
+  circuits are made of copper,  
+
+120
+00:08:16,296 --> 00:08:19,097
+     but copper doesn't fuse    
+      directly to aluminum.     
+
+121
+00:08:19,099 --> 00:08:22,034
+ so workers must first solder on
+        transition tubes        
+
+122
+00:08:22,036 --> 00:08:24,236
+           coated with          
+     a zinc/aluminum alloy.     
+
+123
+00:08:24,238 --> 00:08:27,038
+        then they attach        
+      the copper manifolds      
+
+124
+00:08:27,040 --> 00:08:30,209
+ that distribute the refrigerant
+        to the circuits.        
+
+125
+00:08:36,850 --> 00:08:40,251
+   once all the refrigeration   
+    components are in place,    
+
+126
+00:08:40,253 --> 00:08:43,988
+ workers subject the coil unit  
+ to an underwater pressure test 
+
+127
+00:08:43,990 --> 00:08:46,625
+to make sure there are no leaks.
+
+128
+00:08:50,330 --> 00:08:52,798
+     in another department,     
+     workers have assembled     
+
+129
+00:08:52,800 --> 00:08:55,234
+      the air conditioner's     
+           compressor.          
+
+130
+00:08:59,940 --> 00:09:03,742
+ they mount the compressor to a 
+ weather-resistant plastic base,
+
+131
+00:09:03,744 --> 00:09:06,145
+          then cover it         
+      with a sound reducer,     
+
+132
+00:09:06,147 --> 00:09:09,815
+      a vinyl jacket filled     
+   with fiberglass insulation.  
+
+133
+00:09:12,419 --> 00:09:14,553
+     now they add the coil.     
+
+134
+00:09:16,757 --> 00:09:20,225
+      it sits between posts     
+          in the base.          
+
+135
+00:09:20,227 --> 00:09:22,694
+     for an air conditioner     
+          to work well,         
+
+136
+00:09:22,696 --> 00:09:26,432
+  it can't have air or moisture 
+  in its refrigeration system.  
+
+137
+00:09:26,434 --> 00:09:29,234
+   so workers hook up the unit  
+     to automated machinery     
+
+138
+00:09:29,236 --> 00:09:32,004
+    that completely evacuates   
+           the lines.           
+
+139
+00:09:34,241 --> 00:09:38,643
+  next, workers connect wiring  
+  and install corner supports,  
+
+140
+00:09:38,645 --> 00:09:43,048
+      then begin assembling     
+  the unit's exterior housing.  
+
+141
+00:09:43,050 --> 00:09:45,317
+     the top perimeter piece    
+            is shaped           
+
+142
+00:09:45,319 --> 00:09:47,786
+      to direct the airflow     
+        out of the unit.        
+
+143
+00:09:47,788 --> 00:09:50,322
+         a motorized fan        
+    pulls air into the unit.    
+
+144
+00:09:50,324 --> 00:09:52,524
+ a plastic grille lets air exit 
+
+145
+00:09:52,526 --> 00:09:56,528
+        and keeps debris        
+      from falling inside.      
+
+146
+00:09:56,530 --> 00:09:59,331
+       finally, they seal       
+      the refrigerant lines     
+
+147
+00:09:59,333 --> 00:10:01,767
+by brazing shut a pair of tubes.
+
+148
+00:10:11,879 --> 00:10:15,280
+   the housing parts are made   
+      of zinc-coated steel.     
+
+149
+00:10:15,282 --> 00:10:17,015
+  the factory spray-paints them 
+
+150
+00:10:17,017 --> 00:10:20,519
+      then bakes the paint      
+     for maximum durability.    
+
+151
+00:10:23,423 --> 00:10:25,424
+  air conditioners sit outdoors 
+
+152
+00:10:25,426 --> 00:10:28,827
+    so they have to withstand   
+      all kinds of weather.     
+
+153
+00:10:28,829 --> 00:10:30,896
+ the factory sends sample units 
+
+154
+00:10:30,898 --> 00:10:33,765
+    to a performance-testing    
+           laboratory.          
+
+155
+00:10:33,767 --> 00:10:37,969
+  it runs them in extreme heat, 
+  extreme cold, rain, and snow  
+
+156
+00:10:37,971 --> 00:10:40,972
+           to see if,           
+  under such harsh conditions,  
+
+157
+00:10:40,974 --> 00:10:43,342
+      they keep their cool.     
+
+158
+00:11:00,394 --> 00:11:02,327
+  narrator: next time you reach 
+       for the sugar bowl,      
+
+159
+00:11:02,329 --> 00:11:04,262
+ try to imagine that it was once
+      so rare and expensive     
+
+160
+00:11:04,264 --> 00:11:05,797
+    it was called white gold.   
+
+161
+00:11:05,799 --> 00:11:08,066
+         producing sugar        
+       from the sugarcane       
+
+162
+00:11:08,068 --> 00:11:09,601
+   first took place in india.   
+
+163
+00:11:09,603 --> 00:11:10,802
+         about 300 b.c.,        
+
+164
+00:11:10,804 --> 00:11:14,006
+   alexander the great's army   
+     reported seeing a reed     
+
+165
+00:11:14,008 --> 00:11:16,808
+  that gives honey without bees 
+         growing there.         
+
+166
+00:11:20,548 --> 00:11:23,748
+        this table sugar        
+        has many names --       
+
+167
+00:11:23,750 --> 00:11:26,818
+  mill white, plantation white, 
+       and crystal sugar.       
+
+168
+00:11:26,820 --> 00:11:29,288
+        but it all comes        
+       from the sugarcane.      
+
+169
+00:11:29,290 --> 00:11:32,423
+   it looks a lot like bamboo   
+     with fully grown stalks    
+
+170
+00:11:32,425 --> 00:11:34,893
+        that can measure        
+       up to 20 feet high.      
+
+171
+00:11:36,830 --> 00:11:38,230
+       here in the field,       
+
+172
+00:11:38,232 --> 00:11:41,566
+  a worker pares away the husk  
+   from a stalk of sugarcane,   
+
+173
+00:11:41,568 --> 00:11:44,636
+ then chews the cane's raw pulp 
+
+174
+00:11:44,638 --> 00:11:48,106
+           to extract           
+    the stalk's sweet juice.    
+
+175
+00:11:48,108 --> 00:11:51,577
+ this machine harvests the cane 
+   by cutting it at the base.   
+
+176
+00:11:54,314 --> 00:11:59,050
+ rotating scrolls feed the cane 
+  to the chopper drums inside.  
+
+177
+00:11:59,052 --> 00:12:01,119
+     as they chop the cane,     
+
+178
+00:12:01,121 --> 00:12:05,324
+ a fan blows the lighter leaves 
+ and tops back onto the field.  
+
+179
+00:12:10,730 --> 00:12:14,132
+the heavier lengths of cane drop
+  into the base of a conveyor,  
+
+180
+00:12:14,134 --> 00:12:16,668
+        which feeds them        
+     into the transport bin     
+
+181
+00:12:16,670 --> 00:12:18,770
+     that follows alongside.    
+
+182
+00:12:24,678 --> 00:12:27,212
+    trucks rapidly transport    
+          the cut cane          
+
+183
+00:12:27,214 --> 00:12:29,481
+        to the sugar mill       
+         for processing.        
+
+184
+00:12:29,483 --> 00:12:32,617
+   once cut, sugarcane begins   
+   to lose its sugar content,   
+
+185
+00:12:32,619 --> 00:12:35,553
+     and damage to the cane     
+        during harvesting       
+
+186
+00:12:35,555 --> 00:12:37,956
+     accelerates this decay.    
+
+187
+00:12:37,958 --> 00:12:43,094
+ at the mill, trucks empty their
+  load onto a receiving table.  
+
+188
+00:12:43,096 --> 00:12:45,163
+    it feeds a belt conveyor    
+
+189
+00:12:45,165 --> 00:12:49,768
+       that takes the cane      
+  through two separate washes.  
+
+190
+00:12:49,770 --> 00:12:53,104
+        the cane must be        
+      as clean as possible      
+
+191
+00:12:53,106 --> 00:12:55,507
+  before extracting the juice.  
+
+192
+00:12:59,379 --> 00:13:03,248
+      but first, the cane's     
+  hard structure is broken down 
+
+193
+00:13:03,250 --> 00:13:04,782
+      inside this crusher,      
+
+194
+00:13:04,784 --> 00:13:08,853
+  where rotating hammers break  
+  the cane into small pieces.   
+
+195
+00:13:08,855 --> 00:13:11,923
+       a conveyor loads it      
+      into a milling tandem     
+
+196
+00:13:11,925 --> 00:13:15,260
+  designed to extract the sweet 
+  juice from the crushed cane.  
+
+197
+00:13:19,867 --> 00:13:23,335
+     in this milling tandem,    
+the cane passes through a series
+
+198
+00:13:23,337 --> 00:13:25,937
+         of five or more        
+       consecutive mills.       
+
+199
+00:13:25,939 --> 00:13:29,007
+    large cylinders compress    
+         the cane fiber.        
+
+200
+00:13:29,009 --> 00:13:32,077
+       the juice pours out      
+      of the milling tandem     
+
+201
+00:13:32,079 --> 00:13:35,614
+   and diverts into a channel   
+     away from the bagasse,     
+
+202
+00:13:35,616 --> 00:13:38,784
+    the dry pulp that remains   
+   after extracting the juice.  
+
+203
+00:13:46,159 --> 00:13:50,495
+     a worker supervises the    
+ operation at each of the mills.
+
+204
+00:13:50,497 --> 00:13:52,430
+    a vat collects the juice    
+
+205
+00:13:52,432 --> 00:13:55,701
+    that flows from the top     
+    and bottom of the mills.    
+
+206
+00:13:58,571 --> 00:14:01,840
+ now that the juice is extracted
+       from the sugarcane,      
+
+207
+00:14:01,842 --> 00:14:03,375
+    it's time to process it.    
+
+208
+00:14:03,377 --> 00:14:06,845
+     however, before turning    
+ the juice into sugar crystals, 
+
+209
+00:14:06,847 --> 00:14:09,380
+      a sample goes through     
+        a series of tests       
+
+210
+00:14:09,382 --> 00:14:11,383
+ at the sugar mill's laboratory.
+
+211
+00:14:11,385 --> 00:14:14,051
+       first, a technician      
+        adds a thickener        
+
+212
+00:14:14,053 --> 00:14:16,722
+    that binds to impurities    
+          in the juice          
+
+213
+00:14:16,724 --> 00:14:20,192
+  and then filters it to obtain 
+      a clear, clean juice.     
+
+214
+00:14:20,194 --> 00:14:22,861
+        then he pours it        
+       into a polarimeter,      
+
+215
+00:14:22,863 --> 00:14:26,431
+     a machine that measures    
+   the concentration of sugar.  
+
+216
+00:14:29,136 --> 00:14:30,868
+    the juice from the mills    
+
+217
+00:14:30,870 --> 00:14:33,672
+        now falls through       
+     this 33-foot-high tower    
+
+218
+00:14:33,674 --> 00:14:36,607
+    as sulfur-dioxide vapors    
+        rise through it.        
+
+219
+00:14:36,609 --> 00:14:39,143
+          this process,         
+      known as sulfitation,     
+
+220
+00:14:39,145 --> 00:14:40,812
+       bleaches the juice.      
+
+221
+00:14:40,814 --> 00:14:42,346
+      then the juice flows      
+
+222
+00:14:42,348 --> 00:14:45,250
+        through a device        
+  that measures its p.h. level. 
+
+223
+00:14:47,154 --> 00:14:48,720
+    while at a separate vat,    
+
+224
+00:14:48,722 --> 00:14:51,155
+    workers add powdered lime   
+            to water,           
+
+225
+00:14:51,157 --> 00:14:54,860
+  preparing a solution to which 
+  they will then add the juice. 
+
+226
+00:14:57,497 --> 00:15:01,366
+      an agitator mixes the     
+  cane-juice-and-lime solution  
+
+227
+00:15:01,368 --> 00:15:07,239
+ for about six hours to complete
+ a process called alkalization. 
+
+228
+00:15:07,241 --> 00:15:12,711
+    it regulates the juice's    
+p.h. level and helps clarify it.
+
+229
+00:15:12,713 --> 00:15:14,446
+    in reaction to the lime,    
+
+230
+00:15:14,448 --> 00:15:17,949
+    the juice's color changes   
+      from brown to yellow.     
+
+231
+00:15:22,055 --> 00:15:25,657
+    next, the juice goes into   
+     these clarifier tanks.     
+
+232
+00:15:25,659 --> 00:15:29,127
+     it takes over two hours    
+     for the juice to settle    
+
+233
+00:15:29,129 --> 00:15:32,464
+ and for the impurities to fall 
+   to the bottom of the tank.   
+
+234
+00:15:32,466 --> 00:15:34,065
+  a sample taken from the tank  
+
+235
+00:15:34,067 --> 00:15:36,601
+      shows how the sludge      
+     collects at the bottom,    
+
+236
+00:15:36,603 --> 00:15:39,337
+    while the clarified juice   
+      collects at the top.      
+
+237
+00:15:39,339 --> 00:15:42,474
+         next, we'll see        
+    how this clarified juice    
+
+238
+00:15:42,476 --> 00:15:45,944
+transforms into flowing crystals
+         of white sugar.        
+
+239
+00:16:03,697 --> 00:16:05,630
+ narrator: christopher columbus 
+      never made it to asia     
+
+240
+00:16:05,632 --> 00:16:06,698
+  but discovered the caribbean  
+
+241
+00:16:06,700 --> 00:16:09,167
+        and later brought       
+   sugarcane plantings there.   
+
+242
+00:16:09,169 --> 00:16:10,701
+    sugarcane provides sugar    
+
+243
+00:16:10,703 --> 00:16:13,438
+ but also syrup, molasses, rum, 
+          and ethanol.          
+
+244
+00:16:13,440 --> 00:16:16,241
+     the many types of sugar    
+       available in stores      
+
+245
+00:16:16,243 --> 00:16:18,176
+differ in crystal size or color,
+
+246
+00:16:18,178 --> 00:16:20,846
+          depending on          
+     how they are processed.    
+
+247
+00:16:26,386 --> 00:16:29,387
+         workers filter         
+    the residue known as mud    
+
+248
+00:16:29,389 --> 00:16:32,657
+    from the clarifier tanks    
+ to extract any remaining sugar.
+
+249
+00:16:36,663 --> 00:16:38,263
+     there's no waste here.     
+
+250
+00:16:38,265 --> 00:16:41,032
+     the mud will fertilize     
+        the cane fields,        
+
+251
+00:16:41,034 --> 00:16:45,470
+         and the bagasse        
+     will be burned as fuel.    
+
+252
+00:16:45,472 --> 00:16:48,673
+  the clarified juice collected 
+    from the clarifier tanks    
+
+253
+00:16:48,675 --> 00:16:51,743
+            now boils           
+   in a series of evaporators.  
+
+254
+00:16:51,745 --> 00:16:54,679
+  this brings the concentration 
+   of the sugar and the juice   
+
+255
+00:16:54,681 --> 00:16:57,282
+       up from 15% to 60%.      
+
+256
+00:16:58,952 --> 00:17:01,620
+     then the juice collects    
+         in 15-ton tanks        
+
+257
+00:17:01,622 --> 00:17:03,020
+      to clarify even more.     
+
+258
+00:17:03,022 --> 00:17:06,958
+ any sediment left in the juice 
+       floats to the top.       
+
+259
+00:17:06,960 --> 00:17:10,094
+        a rotating paddle       
+     skims this residue off     
+
+260
+00:17:10,096 --> 00:17:11,930
+    to the sides of the tank.   
+
+261
+00:17:16,637 --> 00:17:18,836
+           these tanks          
+     produce a type of syrup    
+
+262
+00:17:18,838 --> 00:17:22,173
+          that goes on          
+   for still more processing.   
+
+263
+00:17:24,510 --> 00:17:25,777
+        workers now pour        
+
+264
+00:17:25,779 --> 00:17:28,813
+  microscopic sucrose crystals  
+      suspended in alcohol      
+
+265
+00:17:28,815 --> 00:17:30,247
+         into the syrup.        
+
+266
+00:17:30,249 --> 00:17:34,519
+  this milky solution binds to  
+ the sugar present in the syrup 
+
+267
+00:17:34,521 --> 00:17:36,787
+     and helps draw it out.     
+
+268
+00:17:36,789 --> 00:17:40,058
+       next, it all boils       
+      in large vacuum pans,     
+
+269
+00:17:40,060 --> 00:17:42,994
+     forming sugar crystals.    
+
+270
+00:17:42,996 --> 00:17:45,530
+    as the water in the syrup   
+           boils away,          
+
+271
+00:17:45,532 --> 00:17:50,401
+ workers regularly check to see 
+ how the sugar is crystallizing.
+
+272
+00:17:50,403 --> 00:17:53,071
+ the goal -- to produce a thick,
+
+273
+00:17:53,073 --> 00:17:55,807
+       crystallized paste       
+       known as mesquite.       
+
+274
+00:17:58,612 --> 00:18:02,146
+        it then goes into       
+a high-speed centrifugal machine
+
+275
+00:18:02,148 --> 00:18:06,151
+  to remove the sugar crystals  
+ from the uncrystallized syrup. 
+
+276
+00:18:06,153 --> 00:18:11,022
+     inside, the sugar spins    
+at 1,200 revolutions per minute.
+
+277
+00:18:11,024 --> 00:18:13,224
+ this action draws the molasses 
+
+278
+00:18:13,226 --> 00:18:14,893
+       to the outer shell       
+         of the machine,        
+
+279
+00:18:14,895 --> 00:18:19,030
+    while the crystals remain   
+      in the inner basket.      
+
+280
+00:18:28,441 --> 00:18:31,109
+         sprays of water        
+       wash the crystals,       
+
+281
+00:18:31,111 --> 00:18:35,580
+ then the water is drawn out so 
+ that only the crystals remain. 
+
+282
+00:18:35,582 --> 00:18:38,582
+         this centrifuge        
+     works much the same way    
+
+283
+00:18:38,584 --> 00:18:41,452
+      as a washing machine      
+     set on the spin cycle.     
+
+284
+00:18:41,454 --> 00:18:43,788
+      it draws out moisture     
+         from the sugar         
+
+285
+00:18:43,790 --> 00:18:47,258
+ much like you draw out the wash
+  water from a load of laundry. 
+
+286
+00:19:01,074 --> 00:19:04,542
+      next, a conveyor belt     
+   carries the sugar crystals   
+
+287
+00:19:04,544 --> 00:19:06,111
+     out of the centrifuge.     
+
+288
+00:19:08,415 --> 00:19:10,481
+  this mill produces raw sugar, 
+
+289
+00:19:10,483 --> 00:19:14,152
+   which has a higher molasses  
+    color and is unbleached,    
+
+290
+00:19:14,154 --> 00:19:16,087
+   and plantation white sugar,  
+
+291
+00:19:16,089 --> 00:19:19,758
+   which has less molasses and  
+ is bleached a brilliant white. 
+
+292
+00:19:23,430 --> 00:19:27,298
+    the sugar on the conveyor   
+  now goes into a large dryer.  
+
+293
+00:19:27,300 --> 00:19:29,834
+  hot air blows into this dryer 
+
+294
+00:19:29,836 --> 00:19:32,837
+      to bring the sugar's      
+  humidity level down to .02%.  
+
+295
+00:19:32,839 --> 00:19:36,875
+that's standard for table sugar.
+
+296
+00:19:41,782 --> 00:19:46,050
+ the dried sugar pours out from 
+the dryer into a bag on a scale.
+
+297
+00:19:46,052 --> 00:19:50,221
+   it's full when it weighs in  
+        at 2,200 pounds.        
+
+298
+00:19:56,463 --> 00:19:59,330
+  a hoist then carries the bags 
+          to a platform         
+
+299
+00:19:59,332 --> 00:20:02,133
+         at the far end         
+    of the packing facility.    
+
+300
+00:20:02,135 --> 00:20:05,770
+          at 3.3 tons,          
+      that's a heavy load.      
+
+301
+00:20:08,674 --> 00:20:11,076
+ it lowers each bag over a chute
+
+302
+00:20:11,078 --> 00:20:14,411
+          that leads to         
+    the factory's main floor.   
+
+303
+00:20:14,413 --> 00:20:17,682
+     workers carefully open     
+        each bag in turn        
+
+304
+00:20:17,684 --> 00:20:21,586
+     and pour out the sugar     
+    directly into the chute.    
+
+305
+00:20:23,690 --> 00:20:26,023
+            it feeds            
+ an automated packaging machine,
+
+306
+00:20:26,025 --> 00:20:29,961
+      which fills a series      
+    of 4½-pound plastic bags,   
+
+307
+00:20:29,963 --> 00:20:32,230
+ seals them, and separates them.
+
+308
+00:20:32,232 --> 00:20:36,034
+      this packing facility     
+  produces 200,000 bags a day.  
+
+309
+00:20:36,036 --> 00:20:40,772
+ that means processing 400 tons 
+      of white sugar daily.     
+
+310
+00:20:43,776 --> 00:20:46,110
+this fine plantation-white sugar
+
+311
+00:20:46,112 --> 00:20:50,381
+    is available in a variety   
+of convenient packaging options,
+
+312
+00:20:50,383 --> 00:20:54,486
+     and that should sweeten    
+          anyone's day.         
+
+313
+00:21:02,461 --> 00:21:05,129
+    if you have any comments    
+         about the show,        
+
+314
+00:21:05,131 --> 00:21:07,999
+   or if you'd like to suggest  
+    topics for future shows,    
+
+315
+00:21:08,001 --> 00:21:10,034
+      drop us a line at...      
+

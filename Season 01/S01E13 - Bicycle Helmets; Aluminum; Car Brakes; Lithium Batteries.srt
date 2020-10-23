@@ -1,0 +1,1703 @@
+﻿1
+00:00:22,422 --> 00:00:26,290
+narrator:
+today on "how it's made"...
+
+2
+00:00:26,293 --> 00:00:32,030
+bicycle helmets -- letting
+safety go to your head...
+
+3
+00:00:32,033 --> 00:00:38,035
+aluminum -- probably the most
+versatile metal around...
+
+4
+00:00:38,038 --> 00:00:41,172
+car brakes --
+we bring you breaking news
+
+5
+00:00:41,175 --> 00:00:43,841
+about how
+they're manufactured...
+
+6
+00:00:43,844 --> 00:00:45,109
+and lithium batteries --
+
+7
+00:00:45,112 --> 00:00:47,678
+you'll get a charge
+out of this one.
+
+8
+00:00:53,120 --> 00:00:55,653
+if you're serious
+about bike-riding,
+
+9
+00:00:55,656 --> 00:00:58,522
+you should also be serious
+about safety,
+
+10
+00:00:58,525 --> 00:01:00,991
+and it all starts
+with your head.
+
+11
+00:01:00,994 --> 00:01:04,528
+today's bike helmets meet all
+the required safety standards
+
+12
+00:01:04,531 --> 00:01:07,865
+and come in a wide range
+of colors and styles,
+
+13
+00:01:07,868 --> 00:01:10,534
+which means
+you can protect your head
+
+14
+00:01:10,537 --> 00:01:12,270
+and look great doing it.
+
+15
+00:01:14,274 --> 00:01:17,842
+a bicycle helmet is constructed
+of an exterior shell
+
+16
+00:01:17,845 --> 00:01:20,678
+and an interior one
+of polystyrene foam
+
+17
+00:01:20,681 --> 00:01:23,614
+designed to absorb shocks.
+
+18
+00:01:23,617 --> 00:01:26,750
+some designs for bicycle helmets
+are drawn by hand
+
+19
+00:01:26,753 --> 00:01:28,953
+and with
+computer-aided graphics.
+
+20
+00:01:28,956 --> 00:01:31,021
+the design
+has to take into account
+
+21
+00:01:31,024 --> 00:01:32,823
+that it is not on
+a flat surface,
+
+22
+00:01:32,826 --> 00:01:34,092
+but on a rounded one.
+
+23
+00:01:34,095 --> 00:01:37,662
+this creates optical deformities
+that have to be corrected.
+
+24
+00:01:45,972 --> 00:01:48,572
+fabrication begins
+with the exterior shell.
+
+25
+00:01:48,575 --> 00:01:51,309
+this polymer sheet
+is heated in a heat former
+
+26
+00:01:51,312 --> 00:01:54,112
+at a temperature
+of 65 degrees centigrade.
+
+27
+00:01:54,115 --> 00:01:55,780
+the mold lifts the sheet
+
+28
+00:01:55,783 --> 00:01:58,815
+and suctions it to fill
+all the cavities of the mold.
+
+29
+00:01:58,818 --> 00:02:01,118
+this operation lasts about
+one minute
+
+30
+00:02:01,121 --> 00:02:02,753
+and produces four shells.
+
+31
+00:02:04,658 --> 00:02:07,024
+then, when cooled down
+and hardened,
+
+32
+00:02:07,027 --> 00:02:09,160
+the four shells
+are cut by hand.
+
+33
+00:02:15,002 --> 00:02:18,669
+ventilation openings are cut
+with a heated wire apparatus.
+
+34
+00:02:18,672 --> 00:02:21,005
+these openings
+have been preformed
+
+35
+00:02:21,008 --> 00:02:22,740
+during molding of the shell.
+
+36
+00:02:22,743 --> 00:02:26,110
+the heated wire easily
+and neatly cuts the polymer.
+
+37
+00:02:30,484 --> 00:02:34,352
+next up, trimming the helmet
+to eliminate excess polymer.
+
+38
+00:02:34,355 --> 00:02:37,655
+the circumference
+is manually cut using a router.
+
+39
+00:02:43,898 --> 00:02:46,864
+the edges are then sanded
+to even them.
+
+40
+00:02:50,037 --> 00:02:53,503
+it is also possible to cut
+the circumference of the shell
+
+41
+00:02:53,506 --> 00:02:54,772
+with a heated wire.
+
+42
+00:02:54,775 --> 00:02:56,774
+this operation
+takes more time,
+
+43
+00:02:56,777 --> 00:03:00,244
+but is more precise because
+of the resulting cleaner cut.
+
+44
+00:03:09,723 --> 00:03:12,056
+now they're going to fabricate
+the foam interior
+
+45
+00:03:12,059 --> 00:03:16,193
+that will be placed
+inside the shell.
+
+46
+00:03:16,196 --> 00:03:18,329
+it's made
+of polystyrene beads
+
+47
+00:03:18,332 --> 00:03:20,798
+that will expand
+and bond together.
+
+48
+00:03:25,739 --> 00:03:29,040
+this expander increases
+the volume of the granules
+
+49
+00:03:29,043 --> 00:03:30,274
+that fall into it.
+
+50
+00:03:30,277 --> 00:03:31,942
+steam and an agitator
+
+51
+00:03:31,945 --> 00:03:35,212
+let the polystyrene beads
+expand uniformly.
+
+52
+00:03:35,215 --> 00:03:37,148
+the granules are now ready.
+
+53
+00:03:37,151 --> 00:03:38,683
+the contents of this bin
+
+54
+00:03:38,686 --> 00:03:41,285
+will be able to produce
+about 20 foam pieces,
+
+55
+00:03:41,288 --> 00:03:43,588
+which will take shape
+on these molds.
+
+56
+00:03:46,894 --> 00:03:50,494
+the press closes up for
+the six minutes that it takes
+
+57
+00:03:50,497 --> 00:03:52,296
+to mold four foam pieces.
+
+58
+00:03:52,299 --> 00:03:56,334
+the particles fuse with steam
+before being cooled with water.
+
+59
+00:03:57,704 --> 00:04:00,103
+the foam is removed
+from the mold.
+
+60
+00:04:00,106 --> 00:04:02,940
+forms are produced
+for different helmets.
+
+61
+00:04:06,247 --> 00:04:07,712
+fusing of the particles
+
+62
+00:04:07,715 --> 00:04:10,915
+has welded the granules
+to one another.
+
+63
+00:04:10,918 --> 00:04:12,717
+depending on the helmet model,
+
+64
+00:04:12,720 --> 00:04:15,252
+openings have to be made
+with this heat iron
+
+65
+00:04:15,255 --> 00:04:20,324
+to allow for installation
+of an air-vent accessory.
+
+66
+00:04:20,327 --> 00:04:22,526
+all that remains is to make
+the adjustment pads,
+
+67
+00:04:22,529 --> 00:04:25,363
+cut with
+this press-powered stamper.
+
+68
+00:04:28,869 --> 00:04:31,335
+the adjustment pads
+are held in with velcro
+
+69
+00:04:31,338 --> 00:04:33,804
+to allow easy adjustment
+of the helmet.
+
+70
+00:04:33,807 --> 00:04:36,540
+this allows the cyclist
+to change the foam pads
+
+71
+00:04:36,543 --> 00:04:38,342
+for greater comfort.
+
+72
+00:04:42,949 --> 00:04:46,283
+inserting the straps calls
+for good manual dexterity
+
+73
+00:04:46,286 --> 00:04:48,085
+and takes only a minute.
+
+74
+00:04:55,629 --> 00:04:59,230
+the shell and the polystyrene
+foam liner have to be joined.
+
+75
+00:04:59,233 --> 00:05:01,832
+they're adjusted
+one inside the other,
+
+76
+00:05:01,835 --> 00:05:04,368
+then solidly secured
+with adhesive tape.
+
+77
+00:05:04,371 --> 00:05:06,737
+the helmet is now completed.
+
+78
+00:05:08,642 --> 00:05:11,775
+and now it's ready
+for packaging.
+
+79
+00:05:11,778 --> 00:05:14,045
+the safety helmets
+have to be certified,
+
+80
+00:05:14,048 --> 00:05:17,314
+guaranteeing their safety,
+and conformity tests are done.
+
+81
+00:05:17,317 --> 00:05:21,985
+at least one helmet in 500 will
+undergo this destructive test.
+
+82
+00:05:21,988 --> 00:05:25,790
+here, it drops vertically
+onto a piece of steel.
+
+83
+00:05:32,198 --> 00:05:35,800
+this facility can produce
+up to 4,000 helmets daily
+
+84
+00:05:35,803 --> 00:05:39,837
+in hundreds of models
+and over 500 variations.
+
+85
+00:05:48,682 --> 00:05:50,081
+narrator: take a look around,
+
+86
+00:05:50,084 --> 00:05:52,950
+and you'll find
+this wonder metal everywhere,
+
+87
+00:05:52,953 --> 00:05:56,287
+in everything from screen doors
+to jet planes.
+
+88
+00:05:56,290 --> 00:05:58,689
+aluminum
+has so many applications
+
+89
+00:05:58,692 --> 00:06:00,825
+because it's light and strong,
+
+90
+00:06:00,828 --> 00:06:03,694
+and it's corrosion-
+and crack-resistant.
+
+91
+00:06:03,697 --> 00:06:07,832
+producing aluminum is costly,
+but it saves money over time.
+
+92
+00:06:12,106 --> 00:06:14,105
+aluminum --
+so widely used today,
+
+93
+00:06:14,108 --> 00:06:16,774
+and the world's
+most abundant metallic element,
+
+94
+00:06:16,777 --> 00:06:19,043
+does not occur
+in a natural state.
+
+95
+00:06:19,046 --> 00:06:22,613
+the most available source
+of aluminum is actually bauxite.
+
+96
+00:06:25,252 --> 00:06:29,987
+bauxite is mainly mined
+in tropical countries.
+
+97
+00:06:29,990 --> 00:06:33,924
+the aluminum atom in bauxite
+is bonded to oxygen molecules.
+
+98
+00:06:33,927 --> 00:06:36,994
+these bonds have to be broken
+by electrolysis
+
+99
+00:06:36,997 --> 00:06:39,730
+to produce pure aluminum.
+
+100
+00:06:39,733 --> 00:06:42,066
+bauxite is carried by rail
+to the plant,
+
+101
+00:06:42,069 --> 00:06:43,334
+where it will be crushed.
+
+102
+00:06:43,337 --> 00:06:45,602
+then, through
+a chemical transformation
+
+103
+00:06:45,605 --> 00:06:49,006
+called the bayer process,
+alumina is extracted.
+
+104
+00:06:49,009 --> 00:06:51,342
+this is then roasted
+in calciners
+
+105
+00:06:51,345 --> 00:06:53,944
+to eliminate all moisture.
+
+106
+00:06:53,947 --> 00:06:56,547
+this is
+the reduction facility.
+
+107
+00:06:58,485 --> 00:07:01,084
+this plant has 432 pots
+
+108
+00:07:01,087 --> 00:07:03,954
+through which a powerful
+electric current will be passed
+
+109
+00:07:03,957 --> 00:07:06,290
+to produce electrolysis.
+
+110
+00:07:09,296 --> 00:07:12,163
+an overhead crane
+dumps alumina into the pots.
+
+111
+00:07:12,166 --> 00:07:15,099
+then the electric current
+from the anode
+
+112
+00:07:15,102 --> 00:07:16,633
+passes through the alumina
+
+113
+00:07:16,636 --> 00:07:19,537
+that we see here
+at the bottom of the pot.
+
+114
+00:07:26,847 --> 00:07:31,048
+via the process of alumina
+reduction at 1,742 degrees,
+
+115
+00:07:31,051 --> 00:07:34,985
+the anodes lose volume
+and will have to be replaced.
+
+116
+00:07:34,988 --> 00:07:36,987
+it's a continuous operation.
+
+117
+00:07:36,990 --> 00:07:40,357
+each anode has a life-span
+of about 20 days.
+
+118
+00:07:44,198 --> 00:07:48,465
+spent anodes are recovered from
+the pot with this overhead crane
+
+119
+00:07:48,468 --> 00:07:50,534
+and carried off to be recycled.
+
+120
+00:08:01,414 --> 00:08:05,216
+they clean the aluminum rods,
+which will then be reused.
+
+121
+00:08:11,825 --> 00:08:14,958
+here we see the crust formed
+atop the anode.
+
+122
+00:08:14,961 --> 00:08:16,960
+when the anodes are replaced,
+
+123
+00:08:16,963 --> 00:08:19,696
+the accumulated impurities
+have to be recovered
+
+124
+00:08:19,699 --> 00:08:21,031
+from the top of the pots.
+
+125
+00:08:21,034 --> 00:08:23,701
+this is accomplished
+with these pincers.
+
+126
+00:08:23,704 --> 00:08:26,770
+then a new anode is inserted
+into the alumina,
+
+127
+00:08:26,773 --> 00:08:29,373
+and electrolysis continues.
+
+128
+00:08:31,778 --> 00:08:35,312
+the electric current
+breaks the molecular bonds.
+
+129
+00:08:35,315 --> 00:08:38,181
+the heavier aluminum collects
+at the bottom of the pot,
+
+130
+00:08:38,184 --> 00:08:41,585
+while the oxygen bound to
+fluorine is released as a gas,
+
+131
+00:08:41,588 --> 00:08:43,621
+which is drawn off
+and treated.
+
+132
+00:08:47,928 --> 00:08:51,728
+the liquefied aluminum remains
+at the bottom of the pot.
+
+133
+00:08:51,731 --> 00:08:54,931
+it has to be recovered in this
+huge crucible with a tube.
+
+134
+00:08:54,934 --> 00:08:57,601
+the tube is dipped
+into the bottom of the pot,
+
+135
+00:08:57,604 --> 00:09:00,337
+and a vacuum system
+draws the molten aluminum
+
+136
+00:09:00,340 --> 00:09:02,206
+from the crucible.
+
+137
+00:09:06,412 --> 00:09:09,346
+the aluminum is recovered
+in a short time.
+
+138
+00:09:09,349 --> 00:09:11,748
+air is vacuumed
+from the crucible
+
+139
+00:09:11,751 --> 00:09:14,552
+by a flexible pipe
+held by an operator.
+
+140
+00:09:16,222 --> 00:09:18,221
+the tube
+is finally withdrawn,
+
+141
+00:09:18,224 --> 00:09:21,225
+and the overhead crane dumps
+another quantity of alumina
+
+142
+00:09:21,228 --> 00:09:22,760
+into the pot.
+
+143
+00:09:22,763 --> 00:09:27,064
+thus, the aluminum-fabrication
+process continues uninterrupted.
+
+144
+00:09:27,067 --> 00:09:29,566
+the crucibles filled
+with molten aluminum
+
+145
+00:09:29,569 --> 00:09:31,835
+are transported
+to the casting house.
+
+146
+00:09:31,838 --> 00:09:35,105
+their contents are poured
+into holding furnaces,
+
+147
+00:09:35,108 --> 00:09:37,574
+that have a capacity
+of 60 tons.
+
+148
+00:09:37,577 --> 00:09:39,576
+in these very hot furnaces,
+
+149
+00:09:39,579 --> 00:09:44,114
+the molten aluminum
+is stored to await casting.
+
+150
+00:09:44,117 --> 00:09:46,850
+finally, casting begins.
+
+151
+00:09:46,853 --> 00:09:49,520
+the aluminum can be
+semicontinuously
+
+152
+00:09:49,523 --> 00:09:52,523
+vertically cast, producing
+ingots, sheets, or billets,
+
+153
+00:09:52,526 --> 00:09:55,793
+or it can be directly cast
+into semifinished products.
+
+154
+00:09:58,865 --> 00:10:03,266
+the cooling of aluminum pieces
+is accelerated by water sprays.
+
+155
+00:10:03,269 --> 00:10:07,004
+the large, rectangular ingots,
+which can weigh up to 25 tons,
+
+156
+00:10:07,007 --> 00:10:08,738
+will head for hot-rolling,
+
+157
+00:10:08,741 --> 00:10:11,608
+and eventually
+will be fabricated into products
+
+158
+00:10:11,611 --> 00:10:14,411
+like aluminum foil.
+
+159
+00:10:14,414 --> 00:10:16,947
+from four to five tons
+of bauxite
+
+160
+00:10:16,950 --> 00:10:19,616
+have produced two tons
+of alumina,
+
+161
+00:10:19,619 --> 00:10:22,820
+which in turn produces
+one ton of aluminum.
+
+162
+00:10:25,559 --> 00:10:27,758
+this particular plant produces
+
+163
+00:10:27,761 --> 00:10:30,227
+200,000 tons
+of aluminum annually.
+
+164
+00:10:30,230 --> 00:10:33,363
+some other facilities
+can turn out as much
+
+165
+00:10:33,366 --> 00:10:36,100
+as 400,000 tons.
+
+166
+00:10:44,310 --> 00:10:46,643
+narrator: if you've ever
+had to stop suddenly
+
+167
+00:10:46,646 --> 00:10:48,779
+while driving at high speed,
+
+168
+00:10:48,782 --> 00:10:51,448
+you know that
+once you hit the brakes,
+
+169
+00:10:51,451 --> 00:10:54,117
+they can easily lock up,
+making you skid.
+
+170
+00:10:54,120 --> 00:10:57,187
+but with the sophisticated
+computer technology
+
+171
+00:10:57,190 --> 00:10:59,456
+behind today's antilock brakes,
+
+172
+00:10:59,459 --> 00:11:02,426
+skidding is becoming
+a thing of the past.
+
+173
+00:11:06,333 --> 00:11:08,732
+brakes are absolutely
+essential equipment
+
+174
+00:11:08,735 --> 00:11:11,201
+for every vehicle
+to slow down and stop.
+
+175
+00:11:11,204 --> 00:11:13,804
+and brakes have remained
+practically unchanged
+
+176
+00:11:13,807 --> 00:11:15,672
+for the past 40 years.
+
+177
+00:11:15,675 --> 00:11:17,874
+conventional disk brakes
+have pads
+
+178
+00:11:17,877 --> 00:11:21,211
+that press against the brake
+disk attached to the wheel.
+
+179
+00:11:21,214 --> 00:11:22,746
+these pads grip the disk
+
+180
+00:11:22,749 --> 00:11:26,016
+on only 15 to 30 degrees
+of its circumference.
+
+181
+00:11:26,019 --> 00:11:28,284
+this develops high heat,
+wheel skidding,
+
+182
+00:11:28,287 --> 00:11:31,688
+and results in premature wear.
+
+183
+00:11:31,691 --> 00:11:33,423
+the new floating disk brakes
+
+184
+00:11:33,426 --> 00:11:35,492
+have two pads
+of friction material
+
+185
+00:11:35,495 --> 00:11:38,095
+on 360 degrees of the disk.
+
+186
+00:11:38,098 --> 00:11:39,496
+when the brake is applied,
+
+187
+00:11:39,499 --> 00:11:42,099
+hydraulic pressure
+activates the diaphragm,
+
+188
+00:11:42,102 --> 00:11:44,567
+which applies pressure
+on the inboard pad,
+
+189
+00:11:44,570 --> 00:11:47,037
+which is then pressed
+against the disk.
+
+190
+00:11:47,040 --> 00:11:50,507
+in this animation, the diaphragm
+movement is exaggerated.
+
+191
+00:11:50,510 --> 00:11:53,110
+however simple,
+the design of this brake
+
+192
+00:11:53,113 --> 00:11:56,447
+calls for some
+complex development steps.
+
+193
+00:11:56,450 --> 00:11:58,515
+it all starts
+on the monitor screen
+
+194
+00:11:58,518 --> 00:12:00,717
+with computer-aided design.
+
+195
+00:12:00,720 --> 00:12:04,121
+this powerful software creates
+objects in three dimensions,
+
+196
+00:12:04,124 --> 00:12:06,356
+which can be
+virtually manipulated.
+
+197
+00:12:08,462 --> 00:12:10,927
+they then proceed
+to digital analysis.
+
+198
+00:12:10,930 --> 00:12:14,197
+here, digital models are
+submitted to repeated braking
+
+199
+00:12:14,200 --> 00:12:17,735
+to verify that the parts
+conform to design objectives.
+
+200
+00:12:23,410 --> 00:12:25,675
+the software verifies changes
+in heat,
+
+201
+00:12:25,678 --> 00:12:28,545
+the effects of vibration,
+and resistance to breakage.
+
+202
+00:12:28,548 --> 00:12:31,315
+the right choice of materials
+is critical.
+
+203
+00:12:38,825 --> 00:12:42,091
+the electrical components
+also have to be created.
+
+204
+00:12:42,094 --> 00:12:45,362
+here, we see the delicate
+construction of tiny sensors,
+
+205
+00:12:45,365 --> 00:12:47,998
+that measure the force exerted
+by the braking system.
+
+206
+00:12:50,436 --> 00:12:52,236
+the sensor is the main component
+
+207
+00:12:52,239 --> 00:12:54,838
+of the intelligent
+a.b.s. braking system,
+
+208
+00:12:54,841 --> 00:12:56,639
+which functions
+more efficiently
+
+209
+00:12:56,642 --> 00:12:58,708
+than traditional
+antiskid systems
+
+210
+00:12:58,711 --> 00:13:00,844
+and reduces braking distance.
+
+211
+00:13:03,650 --> 00:13:07,251
+next, it's the fabrication stage
+of prototype parts,
+
+212
+00:13:07,254 --> 00:13:09,720
+which will be tested.
+
+213
+00:13:09,723 --> 00:13:13,056
+the machining of these parts
+must take into account
+
+214
+00:13:13,059 --> 00:13:15,492
+the requirements
+of mass production.
+
+215
+00:13:19,933 --> 00:13:22,465
+this high-precision,
+robotized machining
+
+216
+00:13:22,468 --> 00:13:26,402
+is done by computer-controlled
+digital machines.
+
+217
+00:13:26,405 --> 00:13:29,139
+a liquid sprinkled
+on the machine part
+
+218
+00:13:29,142 --> 00:13:31,074
+cools it during the process.
+
+219
+00:13:36,750 --> 00:13:39,015
+the finished parts
+are precisely measured,
+
+220
+00:13:39,018 --> 00:13:42,219
+then fitted and assembled to
+form the total braking system,
+
+221
+00:13:42,222 --> 00:13:45,189
+which will be first tested
+in the laboratory.
+
+222
+00:13:49,696 --> 00:13:52,896
+brakes in full contact
+have a friction surface
+
+223
+00:13:52,899 --> 00:13:56,033
+six times superior
+to traditional brakes.
+
+224
+00:13:58,170 --> 00:14:01,171
+the use of aluminum
+and composite materials
+
+225
+00:14:01,174 --> 00:14:04,508
+allow for a weight savings
+of 5.5 pounds per wheel.
+
+226
+00:14:04,511 --> 00:14:07,978
+this affects roadholding
+and reduces fuel consumption
+
+227
+00:14:07,981 --> 00:14:11,081
+by .05 gallons
+per 100 miles.
+
+228
+00:14:12,852 --> 00:14:15,118
+they proceed to power
+and endurance tests
+
+229
+00:14:15,121 --> 00:14:18,855
+on this dynamometer, in which
+a brake and wheel assembly
+
+230
+00:14:18,858 --> 00:14:21,191
+act against
+a large rotating drum.
+
+231
+00:14:21,194 --> 00:14:22,792
+these lab tests are critical,
+
+232
+00:14:22,795 --> 00:14:26,263
+since they can detect any defect
+in a braking system
+
+233
+00:14:26,266 --> 00:14:28,932
+before it's installed
+on an actual vehicle.
+
+234
+00:14:39,946 --> 00:14:42,880
+in order to evaluate the power
+and endurance of the brakes
+
+235
+00:14:42,883 --> 00:14:45,615
+in full application
+under extreme conditions,
+
+236
+00:14:45,618 --> 00:14:48,352
+they were installed
+on this porsche 911 turbo
+
+237
+00:14:48,355 --> 00:14:50,086
+entered in the motorola cup.
+
+238
+00:14:50,089 --> 00:14:52,422
+they proved
+completely satisfactory,
+
+239
+00:14:52,425 --> 00:14:56,026
+and the porsche went on
+to record many wins.
+
+240
+00:15:00,033 --> 00:15:02,366
+once all validation tests
+are done,
+
+241
+00:15:02,369 --> 00:15:04,434
+we move on
+to the next step.
+
+242
+00:15:04,437 --> 00:15:07,303
+brakes are installed on
+a production-model vehicle.
+
+243
+00:15:07,306 --> 00:15:09,106
+with data systems,
+
+244
+00:15:09,109 --> 00:15:10,974
+engineers can observe
+the performance of brakes
+
+245
+00:15:10,977 --> 00:15:14,311
+under all conditions
+thousands of times a second.
+
+246
+00:15:16,116 --> 00:15:19,449
+finally, engineers proceed
+with actual braking trials
+
+247
+00:15:19,452 --> 00:15:20,851
+with test vehicles.
+
+248
+00:15:20,854 --> 00:15:24,387
+all that remains is to produce
+brakes on a large scale
+
+249
+00:15:24,390 --> 00:15:27,524
+to supply auto manufacturers'
+production lines.
+
+250
+00:15:27,527 --> 00:15:29,759
+and that's
+the story of brakes,
+
+251
+00:15:29,762 --> 00:15:32,296
+from original idea
+to final product.
+
+252
+00:15:39,806 --> 00:15:43,406
+narrator:
+there's nothing like the sound
+of a car engine starting,
+
+253
+00:15:43,409 --> 00:15:46,876
+especially when it's 15 below
+on a winter morning.
+
+254
+00:15:46,879 --> 00:15:50,681
+today's automotive batteries
+are smaller, more powerful,
+
+255
+00:15:50,684 --> 00:15:54,150
+and more efficient,
+even at extreme temperatures.
+
+256
+00:15:54,153 --> 00:15:58,822
+it's all thanks to the power
+of lithium-ion-cell technology.
+
+257
+00:16:04,898 --> 00:16:07,897
+while dissecting a frog
+in 1786,
+
+258
+00:16:07,900 --> 00:16:10,100
+the italian researcher galvani
+
+259
+00:16:10,103 --> 00:16:12,902
+noted that when his scalpel
+touched a leg muscle,
+
+260
+00:16:12,905 --> 00:16:15,639
+it contracted from
+an electric current produced.
+
+261
+00:16:15,642 --> 00:16:18,508
+later, volta believed
+the current was produced
+
+262
+00:16:18,511 --> 00:16:19,976
+by the metal instruments,
+
+263
+00:16:19,979 --> 00:16:22,178
+the animal being
+only a conductor.
+
+264
+00:16:22,181 --> 00:16:25,381
+to prove it, he stacked disks
+of zinc and copper
+
+265
+00:16:25,384 --> 00:16:26,850
+connected by conductors
+
+266
+00:16:26,853 --> 00:16:29,986
+and fabric impregnated
+with an acid solution.
+
+267
+00:16:29,989 --> 00:16:34,257
+and so, in 1800,
+the electric battery was born.
+
+268
+00:16:40,934 --> 00:16:43,733
+batteries power all kinds
+of electric motors.
+
+269
+00:16:43,736 --> 00:16:47,070
+a new lithium-metal-polymer
+battery pack such as this one
+
+270
+00:16:47,073 --> 00:16:49,672
+could soon power
+an electric automobile,
+
+271
+00:16:49,675 --> 00:16:51,608
+as well
+as a hybrid vehicle.
+
+272
+00:16:51,611 --> 00:16:54,811
+this battery will be made up
+of four components.
+
+273
+00:16:54,814 --> 00:16:56,746
+it all starts
+with this lithium ingot,
+
+274
+00:16:56,749 --> 00:16:58,949
+which weighs about 11 pounds.
+
+275
+00:16:58,952 --> 00:17:01,084
+it's transformed into
+a thin sheet
+
+276
+00:17:01,087 --> 00:17:06,355
+by this extrusion press that
+applies 440 tons of pressure.
+
+277
+00:17:06,358 --> 00:17:08,091
+the press creates a sheet
+
+278
+00:17:08,094 --> 00:17:11,160
+that's only about
+1/100 of an inch thick.
+
+279
+00:17:11,163 --> 00:17:14,364
+the whole extrusion sequence
+is closely computer-controlled.
+
+280
+00:17:14,367 --> 00:17:16,232
+extrusion is now completed.
+
+281
+00:17:16,235 --> 00:17:18,101
+the metallic lithium sheet
+
+282
+00:17:18,104 --> 00:17:20,771
+is the required 1/100 inch
+in thickness,
+
+283
+00:17:20,774 --> 00:17:22,305
+or 1/4 of a millimeter.
+
+284
+00:17:22,308 --> 00:17:24,508
+the sheet has to be
+further thinned.
+
+285
+00:17:24,511 --> 00:17:27,644
+placed on a roller,
+it is carried to the laminator.
+
+286
+00:17:27,647 --> 00:17:30,414
+at room temperature,
+it's thinned once again.
+
+287
+00:17:31,584 --> 00:17:34,451
+in just 20 minutes,
+the 11-pound ingot
+
+288
+00:17:34,454 --> 00:17:38,455
+will have been transformed into
+a thin sheet .01 inches wide
+
+289
+00:17:38,458 --> 00:17:40,757
+and some 655 feet in length.
+
+290
+00:17:44,530 --> 00:17:47,531
+this laminator completes
+the thinning of the sheet.
+
+291
+00:17:47,534 --> 00:17:50,000
+the resulting
+1 1/4 mile-long sheet
+
+292
+00:17:50,003 --> 00:17:53,570
+will allow for the fabrication
+of 210 battery units.
+
+293
+00:17:58,411 --> 00:18:00,544
+lithium is
+a soft, sticky metal.
+
+294
+00:18:00,547 --> 00:18:03,079
+for this reason,
+a polypropylene film
+
+295
+00:18:03,082 --> 00:18:05,482
+has to be fixed
+onto the lithium sheet.
+
+296
+00:18:05,485 --> 00:18:07,016
+without this protection,
+
+297
+00:18:07,019 --> 00:18:10,187
+the sheet would adhere to itself
+and become unusable.
+
+298
+00:18:10,190 --> 00:18:13,957
+the sheet will be used to make
+individual battery cells.
+
+299
+00:18:13,960 --> 00:18:16,626
+then these cells
+will be assembled,
+
+300
+00:18:16,629 --> 00:18:18,427
+in series and in parallel,
+
+301
+00:18:18,430 --> 00:18:22,565
+and inserted into modules
+of different shapes.
+
+302
+00:18:22,568 --> 00:18:24,634
+to make an individual
+battery cell,
+
+303
+00:18:24,637 --> 00:18:26,503
+the sheet
+has to be rolled up.
+
+304
+00:18:26,506 --> 00:18:28,171
+this automated spooling machine
+
+305
+00:18:28,174 --> 00:18:33,176
+winds up the lithium film
+in 26 revolutions.
+
+306
+00:18:33,179 --> 00:18:35,779
+the wound-up sheet
+is put into a vacuum oven,
+
+307
+00:18:35,782 --> 00:18:38,849
+where the various layers
+adhere firmly to one another.
+
+308
+00:18:38,852 --> 00:18:41,117
+this step lasts
+for about 90 minutes
+
+309
+00:18:41,120 --> 00:18:43,286
+at 176 degrees.
+
+310
+00:18:47,860 --> 00:18:49,593
+here, a test is made.
+
+311
+00:18:49,596 --> 00:18:52,596
+using a voltmeter,
+the battery is checked to see
+
+312
+00:18:52,599 --> 00:18:55,265
+that it produces
+the required 3.56 volts.
+
+313
+00:18:55,268 --> 00:19:00,003
+any problem can be detected here
+and corrected.
+
+314
+00:19:00,006 --> 00:19:02,605
+a final quality check
+is made with this caliper.
+
+315
+00:19:02,608 --> 00:19:05,709
+it precisely measures the
+thickness of the battery cell.
+
+316
+00:19:08,882 --> 00:19:10,813
+the battery cells
+are then stored.
+
+317
+00:19:10,816 --> 00:19:13,483
+metallic plates
+are placed between them
+
+318
+00:19:13,486 --> 00:19:15,252
+for the entire storage period.
+
+319
+00:19:19,959 --> 00:19:21,424
+one more step remains,
+
+320
+00:19:21,427 --> 00:19:24,294
+and that's the metallizing
+of the contacts.
+
+321
+00:19:24,297 --> 00:19:27,631
+the battery cells are sent off
+to a fabrication facility
+
+322
+00:19:27,634 --> 00:19:30,767
+in this container.
+
+323
+00:19:30,770 --> 00:19:33,236
+the container
+is robotically handled.
+
+324
+00:19:33,239 --> 00:19:35,772
+first, it's put into
+a protective tank.
+
+325
+00:19:35,775 --> 00:19:38,575
+then the metallizing
+of the contacts is done
+
+326
+00:19:38,578 --> 00:19:40,377
+by spraying on molten metal.
+
+327
+00:19:40,380 --> 00:19:42,512
+this takes
+just a few seconds,
+
+328
+00:19:42,515 --> 00:19:44,981
+since the metal cools
+very quickly.
+
+329
+00:19:50,523 --> 00:19:52,455
+the battery is now finished.
+
+330
+00:19:52,458 --> 00:19:54,391
+it comprises four elements --
+
+331
+00:19:54,394 --> 00:19:56,793
+lithium,
+which acts as the anode,
+
+332
+00:19:56,796 --> 00:19:59,396
+a metallic oxide cathode,
+
+333
+00:19:59,399 --> 00:20:01,931
+a dry
+solid polymer electrolyte,
+
+334
+00:20:01,934 --> 00:20:05,135
+and a metallic
+current collector.
+
+335
+00:20:05,138 --> 00:20:06,603
+all that remains to be done
+
+336
+00:20:06,606 --> 00:20:09,339
+is the assembling of
+the individual battery cells
+
+337
+00:20:09,342 --> 00:20:10,607
+into a module.
+
+338
+00:20:10,610 --> 00:20:13,276
+it begins with the placing
+of individual cells
+
+339
+00:20:13,279 --> 00:20:16,212
+onto one another
+and isolating them with foam
+
+340
+00:20:16,215 --> 00:20:19,615
+so that they do not touch
+each other.
+
+341
+00:20:19,618 --> 00:20:22,218
+these red sheets
+are actually heating elements,
+
+342
+00:20:22,221 --> 00:20:24,687
+since the lithium-metal-polymer
+cells function
+
+343
+00:20:24,690 --> 00:20:28,525
+at temperatures of between
+104 and 176 degrees.
+
+344
+00:20:42,574 --> 00:20:45,442
+here, we see these modules
+of a battery pack
+
+345
+00:20:45,445 --> 00:20:46,776
+for a hybrid vehicle,
+
+346
+00:20:46,779 --> 00:20:50,179
+an automobile that works
+with a gasoline-powered motor
+
+347
+00:20:50,182 --> 00:20:52,048
+and an electric motor.
+
+348
+00:20:52,051 --> 00:20:54,718
+this prototype battery
+
+349
+00:20:54,721 --> 00:20:57,053
+was created for
+a totally electric vehicle.
+
+350
+00:20:57,056 --> 00:20:59,589
+it surpasses heavy
+traditional lead-acid batteries
+
+351
+00:20:59,592 --> 00:21:04,060
+that can't develop the same
+amount of electrical energy
+
+352
+00:21:04,063 --> 00:21:06,663
+and have much shorter
+life-spans.
+
+353
+00:21:06,666 --> 00:21:09,398
+-- captions by vitac --
+www.vitac.com
+
+354
+00:21:09,401 --> 00:21:12,135
+captions paid for by
+discovery communications, inc.
+
+355
+00:21:12,138 --> 00:21:14,370
+if you have any comments,
+about the show,
+
+356
+00:21:14,373 --> 00:21:17,139
+or if you'd like to suggest
+topics for future shows,
+
+357
+00:21:17,142 --> 00:21:19,743
+drop us a line at...
+

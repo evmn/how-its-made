@@ -1,0 +1,1396 @@
+﻿1
+00:00:51,519 --> 00:00:54,853
+  narrator: the ballpoint pen   
+  was designed as the answer    
+
+2
+00:00:54,855 --> 00:00:56,855
+     to the fountain pen's      
+      many annoyances --        
+
+3
+00:00:56,857 --> 00:01:00,059
+     the hassle of having to    
+            manually            
+  refill the barrel with ink    
+
+4
+00:01:00,061 --> 00:01:02,327
+       that dried slowly        
+      and often smudged.        
+
+5
+00:01:02,329 --> 00:01:05,396
+    the ballpoint has a tiny    
+     steel ball in its tip      
+
+6
+00:01:05,398 --> 00:01:09,034
+ that applies quick-drying ink  
+ from a ready-made cartridge.   
+
+7
+00:01:13,474 --> 00:01:17,675
+ when the ink cartridge inside  
+   these retractable pens runs  
+              out,              
+
+8
+00:01:17,677 --> 00:01:20,545
+     you simply replace it      
+        with a new one.         
+
+9
+00:01:20,547 --> 00:01:22,480
+    working from the initial    
+            design,             
+
+10
+00:01:22,482 --> 00:01:24,349
+  the pen factory makes molds   
+
+11
+00:01:24,351 --> 00:01:26,852
+       for all the pens'        
+      plastic components.       
+
+12
+00:01:28,689 --> 00:01:32,357
+   the injection molder first   
+   shoots hot liquid plastic    
+
+13
+00:01:32,359 --> 00:01:34,693
+  into molds for the barrel's   
+          rigid core,           
+
+14
+00:01:34,695 --> 00:01:38,964
+     then into other molds      
+   for its soft rubber grip.    
+
+15
+00:01:38,966 --> 00:01:43,568
+      the tubes for the ink     
+           cartridges           
+   are also made of plastic.    
+
+16
+00:01:43,570 --> 00:01:47,105
+     machinery aligns them      
+    in the same direction,      
+
+17
+00:01:47,107 --> 00:01:50,809
+   then prints on the company   
+              name,             
+  model number, and tip size.   
+
+18
+00:01:54,181 --> 00:01:57,783
+    here, a filling machine     
+   injects 0.8 grams of ink     
+
+19
+00:01:57,785 --> 00:01:59,117
+       through the tip.         
+
+20
+00:01:59,119 --> 00:02:01,920
+       to prevent the ink       
+       from evaporating,        
+
+21
+00:02:01,922 --> 00:02:06,058
+  it plugs the other end with   
+ 0.1 grams of silicone paste.   
+
+22
+00:02:07,461 --> 00:02:09,595
+           meanwhile,           
+    high-precision machines     
+
+23
+00:02:09,597 --> 00:02:12,130
+      progressively shape       
+         the pen's tip          
+
+24
+00:02:12,132 --> 00:02:14,133
+out of stainless-steel blanks.  
+
+25
+00:02:16,937 --> 00:02:19,737
+      the equipment drills      
+    a 1-millimeter channel      
+
+26
+00:02:19,739 --> 00:02:21,206
+      through the blank,        
+
+27
+00:02:21,208 --> 00:02:24,209
+   then, in quick succession,   
+ fashions the tip into a cone,  
+
+28
+00:02:24,211 --> 00:02:27,412
+     cuts five tiny ink-flow    
+            channels            
+      in the ball socket,       
+
+29
+00:02:27,414 --> 00:02:29,548
+           and seats            
+    a 1-millimeter-diameter     
+
+30
+00:02:29,550 --> 00:02:31,850
+      stainless-steel ball      
+        in the center.          
+
+31
+00:02:35,088 --> 00:02:37,956
+        another machine         
+  then inserts a finished tip   
+
+32
+00:02:37,958 --> 00:02:39,591
+   in each ink-filled tube.     
+
+33
+00:02:44,498 --> 00:02:49,701
+    a scanner then checks the   
+             length             
+      and the ball of each      
+           cartridge.           
+
+34
+00:02:49,703 --> 00:02:52,170
+       this magnification       
+        shows the width         
+
+35
+00:02:52,172 --> 00:02:55,574
+ of the five ink-flow channels  
+     next to a human hair.      
+
+36
+00:02:55,576 --> 00:02:58,777
+     random samples undergo     
+     an air-pressure test       
+
+37
+00:02:58,779 --> 00:03:01,446
+  to check the ball's position  
+         and movement.          
+
+38
+00:03:01,448 --> 00:03:05,851
+   anything less than perfect   
+      will clog the pen.        
+
+39
+00:03:05,853 --> 00:03:09,688
+ they close off the end of the  
+ cartridge with a plastic cap.  
+
+40
+00:03:12,593 --> 00:03:15,594
+      the cartridge is now      
+    going to a centrifuge,      
+
+41
+00:03:15,596 --> 00:03:17,662
+   which forces the ink to the  
+              tip,              
+
+42
+00:03:17,664 --> 00:03:21,366
+  eliminating any air bubbles   
+ that would obstruct ink flow.  
+
+43
+00:03:26,740 --> 00:03:30,342
+ every cartridge passes through 
+  this writing-test machine.    
+
+44
+00:03:30,344 --> 00:03:32,210
+  that blue light is a sensor   
+
+45
+00:03:32,212 --> 00:03:36,215
+  that triggers the machine to  
+      reject any defective      
+           cartridge.           
+
+46
+00:03:39,019 --> 00:03:42,954
+     the components now come    
+            together            
+  in the assembly department.   
+
+47
+00:03:42,956 --> 00:03:46,491
+    the machine assembles the   
+              clip,             
+      sleeve, and barrel.       
+
+48
+00:03:46,493 --> 00:03:49,761
+      the clip is made of       
+  chrome-plated spring steel,   
+
+49
+00:03:49,763 --> 00:03:53,165
+  a strong metal that regains   
+    its shape when flexed.      
+
+50
+00:03:53,167 --> 00:03:56,168
+     the machine then flips     
+       the assembly over        
+
+51
+00:03:56,170 --> 00:03:58,703
+           to receive           
+   the internal components.     
+
+52
+00:03:58,705 --> 00:04:02,440
+   first, the pen's two-part    
+    push-button mechanism.      
+
+53
+00:04:02,442 --> 00:04:05,710
+          part one --           
+   the plastic push button.     
+
+54
+00:04:05,712 --> 00:04:08,713
+          part two --           
+   a device called a rotor.     
+
+55
+00:04:08,715 --> 00:04:12,851
+  which each click, it rotates  
+     the refill 45 degrees      
+
+56
+00:04:12,853 --> 00:04:14,753
+   so the tip wears evenly.     
+
+57
+00:04:16,923 --> 00:04:20,058
+       the ink cartridge        
+     goes in tip-side up,       
+
+58
+00:04:20,060 --> 00:04:24,329
+      the plug on the back      
+    fitting into the rotor.     
+
+59
+00:04:24,331 --> 00:04:28,667
+       this device forces       
+          spring-steel          
+ wire through a coiling block.  
+
+60
+00:04:28,669 --> 00:04:30,402
+  this produces a tiny spring   
+
+61
+00:04:30,404 --> 00:04:34,239
+    that provides resistance    
+ to the push-button mechanism.  
+
+62
+00:04:36,142 --> 00:04:40,879
+  a grabber places the spring   
+    over the cartridge tip.     
+
+63
+00:04:47,087 --> 00:04:48,887
+   now they close up the pen    
+
+64
+00:04:48,889 --> 00:04:51,590
+   by adjoining the barrel's    
+         bottom part.           
+
+65
+00:04:53,160 --> 00:04:56,227
+       the machine screws       
+    the two parts together      
+
+66
+00:04:56,229 --> 00:04:58,363
+   to a specific tightness.     
+
+67
+00:04:58,365 --> 00:05:01,566
+   the final assembly machine   
+              tests             
+   the push-button mechanism    
+
+68
+00:05:01,568 --> 00:05:04,102
+     to ensure it retracts      
+       the tip properly.        
+
+69
+00:05:04,104 --> 00:05:06,972
+  this also prepares the pens   
+        for packaging,          
+
+70
+00:05:06,974 --> 00:05:10,342
+   as they go into the boxes    
+     with tips retracted.       
+
+71
+00:05:15,482 --> 00:05:20,051
+  the factory subjects random   
+ samples to endurance testing.  
+
+72
+00:05:20,053 --> 00:05:23,855
+       this device clicks       
+the push button 100,000 times.  
+
+73
+00:05:23,857 --> 00:05:27,793
+    only then does a printer    
+  put the logo on the barrel.   
+
+74
+00:05:30,130 --> 00:05:34,132
+ this company's engineering of  
+ its ink-flow channels and tip  
+
+75
+00:05:34,134 --> 00:05:37,836
+ delivers on average 2.5 miles  
+   of writing per cartridge.    
+
+76
+00:05:49,016 --> 00:05:51,750
+           narrator:            
+  salt comes from three sources 
+               --               
+
+77
+00:05:51,752 --> 00:05:54,552
+        salt mines, land        
+ that at one time was seabed,   
+
+78
+00:05:54,554 --> 00:05:57,022
+        and from oceans         
+     and saltwater lakes.       
+
+79
+00:05:57,024 --> 00:06:00,091
+     factories extract salt     
+  from water by evaporation,    
+
+80
+00:06:00,093 --> 00:06:02,293
+     either mechanically or     
+           naturally            
+
+81
+00:06:02,295 --> 00:06:04,629
+       by letting the sun       
+        work its magic          
+
+82
+00:06:04,631 --> 00:06:06,765
+   and produce what's called    
+          solar salt.           
+
+83
+00:06:11,772 --> 00:06:14,239
+     this large hunk of salt    
+            crystals            
+
+84
+00:06:14,241 --> 00:06:16,908
+   comes from great salt lake   
+           in utah.             
+
+85
+00:06:18,245 --> 00:06:19,711
+     at full water level,       
+
+86
+00:06:19,713 --> 00:06:23,048
+     the lake is seven times    
+             saltier            
+        than the ocean.         
+
+87
+00:06:28,255 --> 00:06:32,657
+ harvesters scoop up salt from  
+ shallow crystallization ponds  
+
+88
+00:06:32,659 --> 00:06:34,226
+   and load it into trucks.     
+
+89
+00:06:37,397 --> 00:06:41,065
+     it's the end result of     
+ a two-year evaporation cycle,  
+
+90
+00:06:41,067 --> 00:06:43,935
+ which has seen the lake water, 
+         called brine,          
+
+91
+00:06:43,937 --> 00:06:47,738
+  slowly give off its moisture  
+               in               
+    a series of concentrating   
+             ponds.             
+
+92
+00:06:47,740 --> 00:06:51,343
+ what remains is a bed of salt  
+crystals about 12 inches deep.  
+
+93
+00:07:01,555 --> 00:07:06,491
+ the truck dumps its cargo onto 
+the factory's conveyor system.  
+
+94
+00:07:06,493 --> 00:07:09,294
+     first stop is a rinsing    
+            station             
+
+95
+00:07:09,296 --> 00:07:13,231
+     to remove contaminants     
+    such as algae and dust.     
+
+96
+00:07:13,233 --> 00:07:15,834
+        using freshwater        
+   would dissolve the salt,     
+
+97
+00:07:15,836 --> 00:07:20,037
+   so they flush the crystals   
+       with lake brine.         
+
+98
+00:07:20,039 --> 00:07:23,908
+  next, hot-air dryers remove   
+  the moisture and salt dust    
+
+99
+00:07:23,910 --> 00:07:26,178
+   within about 3.5 minutes.    
+
+100
+00:07:30,850 --> 00:07:32,984
+  the salt crystals then roll   
+
+101
+00:07:32,986 --> 00:07:35,186
+        across a series         
+      of sorting screens        
+
+102
+00:07:35,188 --> 00:07:38,589
+       with progressively       
+       smaller openings.        
+
+103
+00:07:38,591 --> 00:07:41,860
+    this classifies the salt    
+ crystals into three grades --  
+
+104
+00:07:41,862 --> 00:07:44,696
+   coarse, medium, and fine.    
+
+105
+00:07:49,135 --> 00:07:52,270
+        each grade goes         
+   onto a separate conveyor     
+
+106
+00:07:52,272 --> 00:07:55,273
+       that transports it       
+ to a designated storage bin.   
+
+107
+00:07:58,411 --> 00:08:00,612
+        the factory uses        
+       medium-grade salt        
+
+108
+00:08:00,614 --> 00:08:04,015
+        to make pellets         
+for water-softening equipment.  
+
+109
+00:08:04,017 --> 00:08:07,686
+   this press compresses the    
+  crystals into pellet shapes   
+
+110
+00:08:07,688 --> 00:08:09,154
+ along with certain additives   
+
+111
+00:08:09,156 --> 00:08:13,692
+  to help the water-softening   
+   equipment perform better.    
+
+112
+00:08:13,694 --> 00:08:17,362
+ some municipal water supplies  
+ have a high mineral content.   
+
+113
+00:08:17,364 --> 00:08:20,031
+   this hard water makes soap   
+      difficult to lather       
+
+114
+00:08:20,033 --> 00:08:23,535
+  and leaves stains on sinks,   
+    bathtubs, and toilets.      
+
+115
+00:08:24,905 --> 00:08:27,372
+         salt triggers          
+      a chemical reaction       
+
+116
+00:08:27,374 --> 00:08:29,407
+         that dissolves         
+     the problem minerals.      
+
+117
+00:08:35,248 --> 00:08:38,383
+      the factory packages      
+  water-softening solar salt    
+
+118
+00:08:38,385 --> 00:08:41,319
+       in bags, as well.        
+
+119
+00:08:41,321 --> 00:08:44,856
+   it also produces a variety   
+ of other solar-salt products   
+
+120
+00:08:44,858 --> 00:08:46,858
+  such as swimming-pool salt,   
+
+121
+00:08:46,860 --> 00:08:49,194
+   road salt for melting ice    
+        in the winter,          
+
+122
+00:08:49,196 --> 00:08:51,162
+and, of course, culinary salt.  
+
+123
+00:08:54,267 --> 00:08:57,535
+    the factory's automated     
+      packaging equipment       
+
+124
+00:08:57,537 --> 00:09:00,071
+        fills both paper        
+       and plastic bags.        
+
+125
+00:09:05,478 --> 00:09:09,347
+ this company also sells solar  
+  salt to several industries    
+
+126
+00:09:09,349 --> 00:09:14,218
+    for use as an ingredient    
+in products such as detergent.  
+
+127
+00:09:14,220 --> 00:09:17,288
+          there's also          
+   the agricultural market.     
+
+128
+00:09:17,290 --> 00:09:22,093
+   farmers buy blocks of solar  
+              salt              
+     plain or enriched with     
+            minerals            
+
+129
+00:09:22,095 --> 00:09:24,495
+     as a nutrient for their    
+            cattle.             
+
+130
+00:09:24,497 --> 00:09:27,966
+ the factory produces different 
+salt and mineral formulations,  
+
+131
+00:09:27,968 --> 00:09:30,535
+  each dyed a different color   
+   for easy identification.     
+
+132
+00:09:42,583 --> 00:09:44,649
+  to produce salt for cattle,   
+
+133
+00:09:44,651 --> 00:09:49,387
+  the machinery drops 50 pounds 
+               at               
+   a time into a block-shaped   
+             mold.              
+
+134
+00:09:49,389 --> 00:09:52,590
+    a press applies 750 tons    
+         of pressure,           
+
+135
+00:09:52,592 --> 00:09:54,960
+      binding the crystals      
+         into a block.          
+
+136
+00:09:57,063 --> 00:10:00,531
+   the farmer simply sets out   
+   blocks among the cattle,     
+
+137
+00:10:00,533 --> 00:10:03,568
+   and the animals lick away    
+ to get their dose of sodium.   
+
+138
+00:10:18,552 --> 00:10:21,352
+  a label identifies the type   
+        of salt block.          
+
+139
+00:10:21,354 --> 00:10:23,621
+   this one contains iodine     
+
+140
+00:10:23,623 --> 00:10:27,826
+ to prevent a thyroid disorder  
+        called goiter,          
+
+141
+00:10:27,828 --> 00:10:30,294
+    a tasty and therapeutic     
+         bovine snack           
+
+142
+00:10:30,296 --> 00:10:34,032
+  courtesy of a saltwater lake  
+         and sunshine.          
+
+143
+00:10:47,980 --> 00:10:50,382
+           narrator:            
+    the tuba is the largest ins 
+
+144
+00:10:50,384 --> 00:10:52,517
+          and the one           
+    with the lowest pitch.      
+
+145
+00:10:52,519 --> 00:10:55,787
+  famous orchestral composers   
+  from stravinsky to gershwin   
+
+146
+00:10:55,789 --> 00:10:58,256
+    have included significant   
+              parts             
+           for tuba             
+
+147
+00:10:58,258 --> 00:11:00,659
+           in some of           
+    their best-known works.     
+
+148
+00:11:00,661 --> 00:11:04,696
+    some composers have even    
+             written            
+   full concertos for tuba.     
+
+149
+00:11:08,735 --> 00:11:10,334
+   tubas are made of brass,     
+
+150
+00:11:10,336 --> 00:11:12,937
+       sometimes silver-        
+        or gold-plated.         
+
+151
+00:11:12,939 --> 00:11:17,074
+    the instrument consists     
+     of valves and tubing,      
+
+152
+00:11:17,076 --> 00:11:19,210
+   ending in a flared bell.     
+
+153
+00:11:19,212 --> 00:11:22,080
+         the bell flare         
+    begins as a brass disk      
+
+154
+00:11:22,082 --> 00:11:25,550
+    22 inches in diameter.      
+
+155
+00:11:25,552 --> 00:11:28,620
+   they use a range of tools    
+     and various mandrels       
+
+156
+00:11:28,622 --> 00:11:31,923
+     to work the brass into     
+    a preliminary bell-flare    
+             shape.             
+
+157
+00:11:34,761 --> 00:11:38,696
+  they use sandpaper to remove  
+ any marks left by the tools,   
+
+158
+00:11:38,698 --> 00:11:40,732
+then cut a hole in the center.  
+
+159
+00:11:47,373 --> 00:11:50,709
+    to make the conical tail    
+ that leads to the bell flare,  
+
+160
+00:11:50,711 --> 00:11:53,511
+      they bend and hammer      
+      a thin brass sheet        
+
+161
+00:11:53,513 --> 00:11:55,313
+ around a tail-shaped mandrel.  
+
+162
+00:11:57,717 --> 00:12:01,586
+   to join the seam, they cut   
+    notches along one edge,     
+
+163
+00:12:01,588 --> 00:12:04,789
+        then hammer them        
+     over the other edge.       
+
+164
+00:12:08,194 --> 00:12:11,195
+     the artisan then melts     
+  filler metal over the seam    
+
+165
+00:12:11,197 --> 00:12:13,464
+    with a high-temperature     
+          gas torch,            
+
+166
+00:12:13,466 --> 00:12:16,835
+ a process known as braising.   
+
+167
+00:12:19,072 --> 00:12:22,673
+ then they use a wooden mallet  
+    to round out the shape.     
+
+168
+00:12:22,675 --> 00:12:26,745
+   they use a pressure roller   
+    to flatten out the mallet   
+             dents              
+
+169
+00:12:26,747 --> 00:12:28,946
+     and further refine the     
+            surface.            
+
+170
+00:12:28,948 --> 00:12:31,816
+  after notching the wider end  
+         of the tail,           
+
+171
+00:12:31,818 --> 00:12:34,486
+        they assemble it        
+      to the bell flare.        
+
+172
+00:12:35,822 --> 00:12:37,355
+       they dab on flux,        
+
+173
+00:12:37,357 --> 00:12:40,357
+    a chemical that prepares    
+   the surface for braising,    
+
+174
+00:12:40,359 --> 00:12:42,460
+ then tack the parts together.  
+
+175
+00:12:48,368 --> 00:12:52,771
+  they hammer down the notches  
+     and braise the seam all    
+            around.             
+
+176
+00:12:52,773 --> 00:12:55,706
+         this assembly,         
+     now called the bell,       
+
+177
+00:12:55,708 --> 00:12:57,441
+    goes back on the lathe.     
+
+178
+00:12:57,443 --> 00:12:59,377
+     using a belt sander,       
+
+179
+00:12:59,379 --> 00:13:03,981
+   they flatten all the seams   
+    flush with the surface.     
+
+180
+00:13:03,983 --> 00:13:07,452
+    on another mandrel, with    
+     lubricant assisting the    
+            process,            
+
+181
+00:13:07,454 --> 00:13:09,420
+    they finalize the bell's    
+             shape.             
+
+182
+00:13:12,993 --> 00:13:16,661
+     now they trim the edge     
+  to the correct diameter...    
+
+183
+00:13:18,331 --> 00:13:20,298
+   ...bend it back a bit...     
+
+184
+00:13:22,869 --> 00:13:26,204
+    ...polish the perimeter     
+    with the sanding head,      
+
+185
+00:13:26,206 --> 00:13:30,008
+    then use a special tool     
+ to roll the edge over itself.  
+
+186
+00:13:30,010 --> 00:13:32,877
+    this forms what's called    
+        the bell bead,          
+
+187
+00:13:32,879 --> 00:13:34,946
+a lip that reinforces the bell  
+
+188
+00:13:34,948 --> 00:13:38,616
+   and gives this end of the    
+  instrument a finished look.   
+
+189
+00:13:38,618 --> 00:13:41,019
+       a computer-guided        
+       engraving machine        
+
+190
+00:13:41,021 --> 00:13:44,289
+     puts the company logo      
+ and model number on the bell.  
+
+191
+00:13:47,093 --> 00:13:50,428
+       each of the tuba's       
+        100 or so tubes         
+
+192
+00:13:50,430 --> 00:13:53,965
+          must be bent          
+    into a specific shape.      
+
+193
+00:13:53,967 --> 00:13:58,036
+ the first step is to fill them 
+    with hot liquid pitch,      
+
+194
+00:13:58,038 --> 00:14:00,104
+  which hardens as it cools.    
+
+195
+00:14:00,106 --> 00:14:05,309
+      this keeps the tubes      
+   from collapsing as they're   
+             bent.              
+
+196
+00:14:05,311 --> 00:14:10,181
+   after bending, the tubes go  
+              into              
+an oven to melt out the pitch.  
+
+197
+00:14:12,586 --> 00:14:14,719
+     certain bent tubes are     
+            enlarged            
+
+198
+00:14:14,721 --> 00:14:18,188
+      in a machine called       
+  a hydraulic blowout press.    
+
+199
+00:14:18,190 --> 00:14:20,725
+      it pumps oil into it      
+       at high pressure.        
+
+200
+00:14:20,727 --> 00:14:24,128
+   this blows the tube walls    
+   outward against the dye,     
+
+201
+00:14:24,130 --> 00:14:26,631
+      forcing it to assume      
+        the new shape.          
+
+202
+00:14:38,411 --> 00:14:43,548
+     certain bent tubes are     
+            conical,            
+     others, cylindrical.       
+
+203
+00:14:43,550 --> 00:14:45,750
+     the cylindrical ones go    
+            through             
+
+204
+00:14:45,752 --> 00:14:48,352
+         what's called          
+     a ball-out operation.      
+
+205
+00:14:48,354 --> 00:14:52,624
+    this machine forces steel   
+              balls             
+    of the proper diameter      
+
+206
+00:14:52,626 --> 00:14:54,158
+       through the tube.        
+
+207
+00:14:54,160 --> 00:14:56,794
+    this enlarges any spots     
+     that are too narrow.       
+
+208
+00:15:06,772 --> 00:15:08,772
+ before bending, certain tubes  
+
+209
+00:15:08,774 --> 00:15:12,143
+  have to go through a drawing  
+     machine for resizing.      
+
+210
+00:15:13,913 --> 00:15:15,713
+with lubricant easing the way,  
+
+211
+00:15:15,715 --> 00:15:18,248
+       it draws the tube        
+   between an inner mandrel     
+
+212
+00:15:18,250 --> 00:15:19,717
+     and an outer washer.       
+
+213
+00:15:19,719 --> 00:15:22,854
+      this forms the tube       
+   to the correct diameters     
+
+214
+00:15:22,856 --> 00:15:24,188
+      and wall thickness,       
+
+215
+00:15:24,190 --> 00:15:27,125
+    while also stretching it    
+          lengthwise.           
+
+216
+00:15:28,728 --> 00:15:30,261
+        coming up next,         
+
+217
+00:15:30,263 --> 00:15:33,531
+ we'll see where this tube fits 
+  in the finished instrument.   
+
+218
+00:15:48,748 --> 00:15:52,150
+      narrator: tubas come      
+    in different versions.      
+
+219
+00:15:52,152 --> 00:15:56,020
+  a b-flat tuba, for example,   
+    is nearly 18 feet long,     
+
+220
+00:15:56,022 --> 00:15:59,357
+       whereas an f tuba        
+   is about 11.5 feet long.     
+
+221
+00:15:59,359 --> 00:16:02,960
+      tubas have anywhere       
+   from three to six valves.    
+
+222
+00:16:02,962 --> 00:16:05,362
+       pressing different       
+      valve combinations        
+
+223
+00:16:05,364 --> 00:16:06,864
+   produces different notes.    
+
+224
+00:16:11,504 --> 00:16:13,704
+  to build the valve section,   
+
+225
+00:16:13,706 --> 00:16:18,042
+    they insert parts called    
+knuckles into the valve cases.  
+
+226
+00:16:22,048 --> 00:16:25,983
+  spacers hold the valve cases  
+  the proper distance apart,    
+
+227
+00:16:25,985 --> 00:16:29,187
+   while this alignment plate   
+      positions the cases       
+
+228
+00:16:29,189 --> 00:16:30,922
+ in the correct configuration.  
+
+229
+00:16:34,394 --> 00:16:38,262
+  next, they insert connectors  
+     to later link the valve    
+            section             
+
+230
+00:16:38,264 --> 00:16:40,331
+to the rest of the instrument.  
+
+231
+00:16:40,333 --> 00:16:43,001
+         after braising         
+      the parts together,       
+
+232
+00:16:43,003 --> 00:16:46,938
+ they run a cutter through the  
+   valve cases to hollow them   
+              out.              
+
+233
+00:16:48,741 --> 00:16:52,009
+     here, you can see what     
+ the case interiors look like   
+
+234
+00:16:52,011 --> 00:16:54,412
+   before cutting and after.    
+
+235
+00:16:54,414 --> 00:16:57,748
+    now they begin soldering    
+on the valve section's tubing,  
+
+236
+00:16:57,750 --> 00:17:00,318
+          working from          
+   the valve cases outward.     
+
+237
+00:17:07,027 --> 00:17:11,362
+   the tuba's frame section is  
+              made              
+ up of several u-shaped parts.  
+
+238
+00:17:11,364 --> 00:17:14,465
+     workers assemble them      
+    with connecting rings.      
+
+239
+00:17:20,506 --> 00:17:25,209
+  they insert a support brace   
+  inside this frame piece...    
+
+240
+00:17:29,115 --> 00:17:30,715
+     ...then position tabs      
+
+241
+00:17:30,717 --> 00:17:34,185
+ onto which they'll later mount 
+      the valve section.        
+
+242
+00:17:34,187 --> 00:17:38,156
+ they clamp the tabs in place,  
+     then solder them on.       
+
+243
+00:17:49,402 --> 00:17:53,738
+        then they attach        
+the bell section to the frame.  
+
+244
+00:17:53,740 --> 00:17:57,808
+     before adding the valve    
+            section,            
+     they give a preliminary    
+            buffing             
+
+245
+00:17:57,810 --> 00:17:59,710
+   to what they've assembled    
+            so far.             
+
+246
+00:18:13,960 --> 00:18:16,494
+        they brush some         
+   liquid polishing compound    
+
+247
+00:18:16,496 --> 00:18:19,830
+   into the places that they    
+couldn't access with the wheel  
+
+248
+00:18:19,832 --> 00:18:22,100
+   and buff those areas with a  
+              rag.              
+
+249
+00:18:32,245 --> 00:18:34,578
+ then a final overall buffing   
+
+250
+00:18:34,580 --> 00:18:37,782
+    until the brass reflects    
+        like a mirror.          
+
+251
+00:18:46,458 --> 00:18:50,327
+  meanwhile, the valve-section  
+      assembly continues.       
+
+252
+00:18:50,329 --> 00:18:54,665
+    first, they close off the   
+             bottom             
+      of each valve case        
+
+253
+00:18:54,667 --> 00:18:56,234
+    with a screw-on cap...      
+
+254
+00:18:58,404 --> 00:19:00,204
+   ...then drop in a spring     
+
+255
+00:19:00,206 --> 00:19:03,574
+     to provide resistance      
+     for the valve piston.      
+
+256
+00:19:04,611 --> 00:19:06,844
+       then the piston.         
+
+257
+00:19:10,617 --> 00:19:16,554
+   a felt to cushion it, a top  
+              cap,              
+   another cushioning felt,     
+
+258
+00:19:16,556 --> 00:19:19,290
+    and, finally, the finger    
+            button.             
+
+259
+00:19:22,428 --> 00:19:25,830
+    a little oil ensures all    
+  the buttons move smoothly.    
+
+260
+00:19:25,832 --> 00:19:28,366
+        the felts inside        
+      prevent the pistons       
+
+261
+00:19:28,368 --> 00:19:32,036
+  from making a clanging sound  
+   as they move up and down.    
+
+262
+00:19:35,975 --> 00:19:38,309
+       now for the tuba's       
+        tuning slides.          
+
+263
+00:19:38,311 --> 00:19:41,312
+        a coat of grease        
+  helps them move in and out    
+
+264
+00:19:41,314 --> 00:19:46,050
+  to increase or decrease the   
+ overall length of the tubing.  
+
+265
+00:19:46,052 --> 00:19:49,186
+        shortening tunes        
+    the instrument higher.      
+
+266
+00:19:49,188 --> 00:19:51,321
+  lengthening tunes it lower.   
+
+267
+00:19:51,323 --> 00:19:54,258
+         now they screw         
+  the finished valve section    
+
+268
+00:19:54,260 --> 00:19:57,327
+     to the assembled frame     
+       and bell sections        
+
+269
+00:19:57,329 --> 00:20:00,097
+           and insert           
+    the main tuning slide.      
+
+270
+00:20:03,469 --> 00:20:09,073
+ finally, the tuba's mouthpipe, 
+   made not of brass like the   
+             rest,              
+
+271
+00:20:09,075 --> 00:20:10,575
+     but of nickel silver.      
+
+272
+00:20:13,612 --> 00:20:17,014
+      they spray the entire     
+           instrument           
+    with cleaning solution      
+
+273
+00:20:17,016 --> 00:20:19,850
+  to remove any grease residue  
+       and fingerprints.        
+
+274
+00:20:23,022 --> 00:20:24,688
+      prior to assembly,        
+
+275
+00:20:24,690 --> 00:20:28,559
+    each section was cleaned    
+     and coated with a clear    
+            lacquer             
+
+276
+00:20:28,561 --> 00:20:31,862
+ to ensure the tuba will always 
+  look as good as it sounds.    
+
+277
+00:20:33,632 --> 00:20:37,568
+   [ "ride of the valkyries"    
+            plays ]             
+
+278
+00:20:37,570 --> 00:20:40,638
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+279
+00:20:40,640 --> 00:20:43,441
+      captions paid for by      
+   discovery communications     
+
+280
+00:20:50,383 --> 00:20:52,716
+    if you have any comments    
+        about the show,         
+
+281
+00:20:52,718 --> 00:20:55,586
+  or if you'd like to suggest   
+   topics for future shows,     
+
+282
+00:20:55,588 --> 00:20:57,421
+     drop us a line at...       
+

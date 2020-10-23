@@ -1,0 +1,1458 @@
+﻿1
+00:00:51,585 --> 00:00:54,987
+narrator: people have been doing
+     mike checks since 1876,    
+
+2
+00:00:54,989 --> 00:00:58,590
+when the microphone was invented
+    as part of the telephone.   
+
+3
+00:00:58,592 --> 00:01:01,193
+    microphones convert sound   
+           to a signal          
+
+4
+00:01:01,195 --> 00:01:02,727
+     that can be transmitted    
+
+5
+00:01:02,729 --> 00:01:05,930
+  through televisions, radios,  
+     and many other things.     
+
+6
+00:01:05,932 --> 00:01:07,733
+  if you have something to say, 
+
+7
+00:01:07,735 --> 00:01:10,335
+    you'll need a microphone    
+        to broadcast it.        
+
+8
+00:01:16,143 --> 00:01:17,810
+  from the glory days of radio  
+
+9
+00:01:17,812 --> 00:01:20,212
+      to stage and screen       
+      and the digital age,      
+
+10
+00:01:20,214 --> 00:01:22,948
+    the microphone has been     
+    at the center of it all.    
+
+11
+00:01:25,219 --> 00:01:27,752
+   to make a broadcast-quality  
+           microphone,          
+
+12
+00:01:27,754 --> 00:01:30,355
+           they start           
+ with the support piece for it. 
+
+13
+00:01:30,357 --> 00:01:32,891
+         automated tools        
+     carve a brass cylinder     
+
+14
+00:01:32,893 --> 00:01:34,493
+   to the desired dimensions.   
+
+15
+00:01:37,097 --> 00:01:40,832
+ they also make a retainer ring 
+    for the microphone grille   
+
+16
+00:01:40,834 --> 00:01:43,569
+        that will anchor        
+    the grille's metal mesh.    
+
+17
+00:01:43,571 --> 00:01:47,106
+ they layer three sheets of mesh
+         and align them.        
+
+18
+00:01:48,309 --> 00:01:52,177
+        then they solder        
+   the three sheets together.   
+
+19
+00:01:52,179 --> 00:01:56,348
+a punch press forms the soldered
+   mesh into a concave shape.   
+
+20
+00:01:59,854 --> 00:02:03,655
+   they lower a blade to slice  
+    the shaped mesh in half.    
+
+21
+00:02:03,657 --> 00:02:08,260
+   the two pieces will be used  
+ to make one microphone grille. 
+
+22
+00:02:12,733 --> 00:02:14,800
+      an assembler squeezes     
+          solder paste          
+
+23
+00:02:14,802 --> 00:02:16,801
+into a groove in the brass ring.
+
+24
+00:02:16,803 --> 00:02:18,937
+         then he presses        
+       the grille halves,       
+
+25
+00:02:18,939 --> 00:02:21,206
+     which have been joined     
+          by a bracket          
+
+26
+00:02:21,208 --> 00:02:23,575
+  into the solder-coated ring.  
+
+27
+00:02:23,577 --> 00:02:26,745
+         on a carousel,         
+    a torch heats the rings,    
+
+28
+00:02:26,747 --> 00:02:30,616
+ and the solder paste melts to  
+ bond the grilles to the rings. 
+
+29
+00:02:36,490 --> 00:02:39,758
+ a drill punctures a brass disk 
+         up to 90 times         
+
+30
+00:02:39,760 --> 00:02:41,759
+   to make ventilation holes.   
+
+31
+00:02:41,761 --> 00:02:46,097
+ another tool levels the surface
+  and shaves off unwanted bits. 
+
+32
+00:02:46,099 --> 00:02:48,367
+ this disk will be the backplate
+
+33
+00:02:48,369 --> 00:02:51,102
+   for one of the microphone's  
+            capsules.           
+
+34
+00:02:51,104 --> 00:02:54,506
+    an assembler brushes away   
+     any remaining shavings     
+
+35
+00:02:54,508 --> 00:02:57,042
+  and then fixes the backplate  
+      in a holding device.      
+
+36
+00:03:00,714 --> 00:03:04,115
+      this plastic membrane     
+ has been coated with real gold 
+
+37
+00:03:04,117 --> 00:03:05,717
+     to conduct electricity.    
+
+38
+00:03:05,719 --> 00:03:09,321
+   she places the membrane and  
+ a plastic ring on the backplate
+
+39
+00:03:09,323 --> 00:03:11,857
+        and then attaches       
+       an electrical lead.      
+
+40
+00:03:17,064 --> 00:03:20,866
+she screws the plastic ring down
+    to secure the assembly...   
+
+41
+00:03:23,537 --> 00:03:27,539
+     ...and then trims away     
+  the excess plastic membrane.  
+
+42
+00:03:27,541 --> 00:03:30,875
+     this microphone capsule    
+        is now complete.        
+
+43
+00:03:30,877 --> 00:03:33,145
+ next, she'll join two capsules 
+
+44
+00:03:33,147 --> 00:03:36,080
+    to create the unit that's   
+  the heart of the microphone.  
+
+45
+00:03:36,082 --> 00:03:39,017
+        it converts sound       
+   into an electrical signal.   
+
+46
+00:03:39,019 --> 00:03:42,154
+       an aluminum spacer       
+   goes between the capsules,   
+
+47
+00:03:42,156 --> 00:03:47,225
+    which face back-to-back.    
+
+48
+00:03:47,227 --> 00:03:48,760
+   two capsules instead of one  
+
+49
+00:03:48,762 --> 00:03:51,229
+      means this microphone     
+         can be switched        
+
+50
+00:03:51,231 --> 00:03:53,699
+        to pick up audio        
+    from various directions.    
+
+51
+00:03:55,902 --> 00:03:58,537
+        a plastic bracket       
+      reinforces assembly.      
+
+52
+00:04:04,377 --> 00:04:07,178
+     a technician then wires    
+     the brass support piece    
+
+53
+00:04:07,180 --> 00:04:10,382
+ that we saw being made earlier 
+    to the electronic system,   
+
+54
+00:04:10,384 --> 00:04:12,985
+     and then he secures it     
+          with screws.          
+
+55
+00:04:20,861 --> 00:04:22,527
+   after installing switches,   
+
+56
+00:04:22,529 --> 00:04:25,897
+    he inserts the microphone   
+     capsules in the grille.    
+
+57
+00:04:28,669 --> 00:04:31,336
+ he screws the capsule assembly 
+          to the grille         
+
+58
+00:04:31,338 --> 00:04:33,105
+and joins it to the electronics.
+
+59
+00:04:37,678 --> 00:04:40,812
+   he slides the metal casing   
+      over the electronics      
+
+60
+00:04:40,814 --> 00:04:44,149
+   and secures the microphone   
+      with a big screw cap.     
+
+61
+00:04:49,823 --> 00:04:50,956
+      he checks the switch      
+
+62
+00:04:50,958 --> 00:04:53,558
+ that changes the directionality
+          of the mike.          
+
+63
+00:04:53,560 --> 00:04:56,662
+       and now it's ready       
+       for a sound check.       
+
+64
+00:05:01,101 --> 00:05:04,036
+  the mike goes into a special  
+        anechoic chamber.       
+
+65
+00:05:04,038 --> 00:05:06,104
+a computer measures its response
+
+66
+00:05:06,106 --> 00:05:10,409
+  to various audio frequencies  
+         and directions.        
+
+67
+00:05:13,646 --> 00:05:17,315
+  once a microphone has passed  
+this test and some other checks,
+
+68
+00:05:17,317 --> 00:05:19,785
+     it's time to pack it up    
+        with great care,        
+
+69
+00:05:19,787 --> 00:05:21,586
+  because this mike is delicate 
+
+70
+00:05:21,588 --> 00:05:25,457
+            and worth           
+    several thousand dollars.   
+
+71
+00:05:25,459 --> 00:05:27,392
+        treated properly,       
+
+72
+00:05:27,394 --> 00:05:30,395
+   this microphone should last  
+        several decades.        
+
+73
+00:05:30,397 --> 00:05:33,699
+  in showbiz, that's longevity. 
+
+74
+00:05:52,686 --> 00:05:54,152
+            narrator:           
+  like natural hot springs that 
+are heated by the earth's crust,
+
+75
+00:05:54,154 --> 00:05:57,756
+ a hot tub can give your aching 
+ muscles that healing feeling.  
+
+76
+00:05:57,758 --> 00:06:00,425
+      in fact, the hot tub      
+     is a high-tech version     
+
+77
+00:06:00,427 --> 00:06:02,293
+ of the hot-springs phenomenon, 
+
+78
+00:06:02,295 --> 00:06:05,363
+ and its invention in the middle
+       of the 20th century      
+
+79
+00:06:05,365 --> 00:06:08,433
+     made the backyard steam    
+   part of the suburban dream.  
+
+80
+00:06:12,105 --> 00:06:15,373
+ there are up to a hundred jets 
+      in a modern hot tub.      
+
+81
+00:06:15,375 --> 00:06:19,511
+each churns up the water, making
+waves that have a calming effect
+
+82
+00:06:19,513 --> 00:06:23,048
+   on tense and tired muscles.  
+
+83
+00:06:23,050 --> 00:06:27,652
+ to make a hot tub, they start  
+ with a sheet of rigid acrylic. 
+
+84
+00:06:27,654 --> 00:06:31,189
+      they rest it briefly      
+    over a mold of a hot tub.   
+
+85
+00:06:31,191 --> 00:06:34,793
+     then a framelike clamp     
+    grips it along the edges    
+
+86
+00:06:34,795 --> 00:06:37,129
+  and transfers it to an oven.  
+
+87
+00:06:41,535 --> 00:06:45,003
+  the oven has heating elements 
+     on the top and bottom.     
+
+88
+00:06:45,005 --> 00:06:50,208
+  they bake the acrylic sheet   
+  until it's so soft, it sags.  
+
+89
+00:06:50,210 --> 00:06:54,413
+ they transfer the sagging sheet
+        back to the mold.       
+
+90
+00:06:54,415 --> 00:06:58,283
+      and now they turn on      
+   a vacuum system underneath.  
+
+91
+00:06:58,285 --> 00:07:01,085
+   it sucks the acrylic sheet   
+  into the crevices of the mold 
+
+92
+00:07:01,087 --> 00:07:03,588
+   so that it takes its shape.  
+
+93
+00:07:05,692 --> 00:07:08,360
+         then fans cool         
+       the molded acrylic,      
+
+94
+00:07:08,362 --> 00:07:11,062
+         and it hardens         
+  in just a couple of minutes.  
+
+95
+00:07:16,303 --> 00:07:19,104
+      operators then stack      
+         the tub shell.         
+
+96
+00:07:19,106 --> 00:07:23,041
+   they mold swim spa shelves   
+   using the same technique.    
+
+97
+00:07:23,043 --> 00:07:26,577
+ swim spas are longer and deeper
+         than hot tubs.         
+
+98
+00:07:26,579 --> 00:07:29,647
+    they're for working out,    
+         not unwinding,         
+
+99
+00:07:29,649 --> 00:07:33,318
+   so there aren't many ledges  
+       for sitting around.      
+
+100
+00:07:36,189 --> 00:07:40,659
+ back in the hot-tub department,
+   it's time for a base coat.   
+
+101
+00:07:40,661 --> 00:07:42,593
+  they spray resin on the shell 
+
+102
+00:07:42,595 --> 00:07:46,864
+and then unwind fiberglass twine
+    into a special spray gun.   
+
+103
+00:07:46,866 --> 00:07:49,935
+      it chops up the twine     
+  and mixes it with more resin  
+
+104
+00:07:49,937 --> 00:07:52,537
+        to give the shelf       
+      a fiberglass coating      
+
+105
+00:07:52,539 --> 00:07:54,806
+  that reinforces the acrylic.  
+
+106
+00:07:56,677 --> 00:08:00,178
+ they press out any air pockets 
+       in the fiberglass.       
+
+107
+00:08:02,415 --> 00:08:05,951
+ now they aim another spray gun 
+  at the underside of the tub.  
+
+108
+00:08:05,953 --> 00:08:08,253
+            this one            
+    contains insulating foam.   
+
+109
+00:08:13,093 --> 00:08:16,228
+     then they trim the lip     
+ of the tub with a circular saw,
+
+110
+00:08:16,230 --> 00:08:19,731
+     so it will sit properly    
+       in the frame later.      
+
+111
+00:08:23,170 --> 00:08:24,902
+       they sand the edges      
+
+112
+00:08:24,904 --> 00:08:28,439
+      and then drill holes      
+     for the numerous jets.     
+
+113
+00:08:28,441 --> 00:08:30,976
+ working from inside of the tub,
+
+114
+00:08:30,978 --> 00:08:34,646
+ an assembler tucks plastic jets
+         into the holes,        
+
+115
+00:08:34,648 --> 00:08:38,583
+while a worker on the other side
+     pulls the jets through.    
+
+116
+00:08:38,585 --> 00:08:41,586
+   they apply silicone sealant  
+        around each jet,        
+
+117
+00:08:41,588 --> 00:08:44,121
+          then equip it         
+       with a plastic ring      
+
+118
+00:08:44,123 --> 00:08:47,192
+      for aligning the jet      
+      to the hot-tub frame.     
+
+119
+00:08:47,194 --> 00:08:48,793
+      using a special tool,     
+
+120
+00:08:48,795 --> 00:08:53,064
+   the assembler drives a nut   
+ into the assembly to secure it.
+
+121
+00:08:53,066 --> 00:08:55,866
+    next, they dip pvc tubing   
+           in adhesive          
+
+122
+00:08:55,868 --> 00:08:57,735
+   and attach it to the jets,   
+
+123
+00:08:57,737 --> 00:09:00,939
+    weaving an elaborate web    
+            of hoses.           
+
+124
+00:09:05,145 --> 00:09:08,079
+       the narrower tubing      
+   will pipe air to the jets,   
+
+125
+00:09:08,081 --> 00:09:10,815
+      while the wider hoses     
+       will supply water.       
+
+126
+00:09:10,817 --> 00:09:12,016
+        to prevent leaks,       
+
+127
+00:09:12,018 --> 00:09:14,886
+         they equip them        
+  with self-tensioning clamps.  
+
+128
+00:09:17,824 --> 00:09:20,558
+  they connect the intake pipe  
+          to the pump,          
+
+129
+00:09:20,560 --> 00:09:23,161
+     which will force water     
+        into the tubing.        
+
+130
+00:09:23,163 --> 00:09:26,430
+  a suction system will return  
+     the water to this pump.    
+
+131
+00:09:26,432 --> 00:09:29,234
+        they wire the tub       
+    to provide mood lighting,   
+
+132
+00:09:29,236 --> 00:09:31,970
+    then test all the wiring    
+          and plumbing.         
+
+133
+00:09:33,239 --> 00:09:36,975
+ they spray more insulating foam
+   on the outside of the tub.   
+
+134
+00:09:36,977 --> 00:09:38,576
+     it expands drastically     
+
+135
+00:09:38,578 --> 00:09:41,680
+    in closing the labyrinth    
+       of pipes and hoses.      
+
+136
+00:09:48,988 --> 00:09:51,189
+ and for some extra insulation, 
+
+137
+00:09:51,191 --> 00:09:54,526
+  they wrap foil-backed plastic 
+         around the tub.        
+
+138
+00:09:54,528 --> 00:09:58,630
+    the foil will reflect any   
+escaping heat back onto the tub.
+
+139
+00:10:01,868 --> 00:10:03,868
+they mount the exterior paneling
+
+140
+00:10:03,870 --> 00:10:07,138
+and drill through the insulation
+       to vent the pumps.       
+
+141
+00:10:08,875 --> 00:10:12,143
+      corner molding gives      
+   the paneling a nice finish.  
+
+142
+00:10:14,948 --> 00:10:18,817
+  this hot tub is now ready to  
+ make waves in the neighborhood.
+
+143
+00:10:18,819 --> 00:10:21,152
+     some versions even come    
+            with tvs,           
+
+144
+00:10:21,154 --> 00:10:25,089
+so you can watch "how it's made"
+  without leaving the hot tub.  
+
+145
+00:10:25,091 --> 00:10:27,091
+ it takes about 20 person-hours 
+
+146
+00:10:27,093 --> 00:10:30,895
+        to make a hot tub       
+   or one of these swim spas.   
+
+147
+00:10:30,897 --> 00:10:35,100
+   and after that, it's time    
+   to take a break and relax.   
+
+148
+00:10:50,249 --> 00:10:52,116
+   narrator: the invention of   
+  artificial turf in the 1960s  
+
+149
+00:10:52,118 --> 00:10:53,851
+   led to a whole new field --  
+
+150
+00:10:53,853 --> 00:10:56,988
+  one that never needs mowing,  
+      watering, or weeding.     
+
+151
+00:10:56,990 --> 00:11:00,058
+    faux grass was developed    
+     by the carpet industry     
+
+152
+00:11:00,060 --> 00:11:02,927
+        and made possible       
+   by technological advances,   
+
+153
+00:11:02,929 --> 00:11:05,830
+         and the concept        
+     has really taken root.     
+
+154
+00:11:10,270 --> 00:11:13,204
+         synthetic turf         
+    has changed the landscape   
+
+155
+00:11:13,206 --> 00:11:14,939
+     of professional sports.    
+
+156
+00:11:14,941 --> 00:11:18,476
+ you see it in stadiums, arenas,
+       and training fields      
+
+157
+00:11:18,478 --> 00:11:21,479
+        around the world.       
+
+158
+00:11:21,481 --> 00:11:24,883
+     it all starts with bags    
+    of white plastic pellets.   
+
+159
+00:11:24,885 --> 00:11:28,153
+    this is the base material   
+          for the turf.         
+
+160
+00:11:29,622 --> 00:11:32,290
+     they add green pellets     
+           for color,           
+
+161
+00:11:32,292 --> 00:11:35,293
+ along with chemical stabilizers
+         and additives.         
+
+162
+00:11:35,295 --> 00:11:37,962
+         equipment melts        
+    and extrudes the plastic    
+
+163
+00:11:37,964 --> 00:11:40,465
+      through a steel plate     
+        with holes in it.       
+
+164
+00:11:40,467 --> 00:11:42,200
+ this creates strands of green. 
+
+165
+00:11:43,770 --> 00:11:46,237
+        the strands exit        
+   through a trough of water,   
+
+166
+00:11:46,239 --> 00:11:48,873
+which cools and solidifies them.
+
+167
+00:11:53,379 --> 00:11:56,581
+   machinery pulls the strands  
+    through an enormous comb    
+
+168
+00:11:56,583 --> 00:12:00,185
+    to keep them separated as   
+ they head to the next station. 
+
+169
+00:12:01,922 --> 00:12:04,189
+      here, rollers stretch     
+           the strands          
+
+170
+00:12:04,191 --> 00:12:06,925
+    until they become as thin   
+         as real grass.         
+
+171
+00:12:06,927 --> 00:12:09,694
+         the stretching         
+     also strengthens them.     
+
+172
+00:12:12,198 --> 00:12:16,334
+       spools now roll up       
+     the synthetic strands.     
+
+173
+00:12:26,947 --> 00:12:29,714
+      once a spool is full,     
+         they remove it.        
+
+174
+00:12:32,552 --> 00:12:36,254
+next, they unwind several spools
+           at a time.           
+
+175
+00:12:41,228 --> 00:12:46,096
+  the strands come together to  
+form a multi-ply synthetic yarn.
+
+176
+00:12:46,098 --> 00:12:48,833
+  the yarn travels over guides. 
+
+177
+00:12:48,835 --> 00:12:53,371
+  this keeps it from slackening 
+   as a big spool winds it up.  
+
+178
+00:12:56,976 --> 00:12:59,377
+             further            
+    down the production line,   
+
+179
+00:12:59,379 --> 00:13:01,779
+       mesh fabric merges       
+    with synthetic sheeting,    
+
+180
+00:13:01,781 --> 00:13:04,382
+  while the multi-ply synthetic 
+   yarn travels through tubing  
+
+181
+00:13:04,384 --> 00:13:07,252
+      to a tufting machine.     
+
+182
+00:13:09,522 --> 00:13:13,124
+       the tufting machine      
+   is a giant sewing machine.   
+
+183
+00:13:13,126 --> 00:13:15,059
+    it has up to 250 needles.   
+
+184
+00:13:15,061 --> 00:13:17,262
+   these needles hook the yarn  
+
+185
+00:13:17,264 --> 00:13:19,530
+        through the mesh        
+       synthetic sheeting.      
+
+186
+00:13:19,532 --> 00:13:22,567
+   they make hundreds of rows   
+     of stitches per minute.    
+
+187
+00:13:28,541 --> 00:13:31,876
+    underneath, small knives    
+      cut the looped yarn,      
+
+188
+00:13:31,878 --> 00:13:34,445
+     so it looks like spikes    
+            of grass.           
+
+189
+00:13:38,084 --> 00:13:41,085
+  as you can see, this process  
+      is a whole lot faster     
+
+190
+00:13:41,087 --> 00:13:43,955
+ than waiting for grass to grow.
+
+191
+00:13:43,957 --> 00:13:48,092
+ an inspector examines the turf 
+to make sure the yarns are even.
+
+192
+00:13:48,094 --> 00:13:51,495
+ then machinery moves it forward
+      to a coating roller.      
+
+193
+00:13:51,497 --> 00:13:54,698
+  the roller picks up adhesive  
+       from a trough below      
+
+194
+00:13:54,700 --> 00:13:58,569
+  and applies it to the backing 
+ of the turf as it moves across.
+
+195
+00:13:58,571 --> 00:14:02,974
+  this binds the looped web of  
+artificial grass to the backing.
+
+196
+00:14:09,783 --> 00:14:12,983
+   the adhesive is a bit gooey  
+          at this point         
+
+197
+00:14:12,985 --> 00:14:14,619
+     and needs to be dried.     
+
+198
+00:14:16,989 --> 00:14:20,058
+  the dryer is partly open-air  
+      and partly enclosed.      
+
+199
+00:14:20,060 --> 00:14:22,861
+      the enclosed section      
+     is about 55 yards low.     
+
+200
+00:14:22,863 --> 00:14:25,530
+         the temperature        
+    is carefully controlled.    
+
+201
+00:14:25,532 --> 00:14:29,066
+too hot, and the synthetic grass
+           might melt.          
+
+202
+00:14:29,068 --> 00:14:32,736
+as it exits, hot pins burn holes
+          into the turf         
+
+203
+00:14:32,738 --> 00:14:34,372
+   to make it water-permeable.  
+
+204
+00:14:38,477 --> 00:14:42,614
+now they check to make sure this
+grass looks good on the surface.
+
+205
+00:14:42,616 --> 00:14:45,950
+    they pull out loose bits    
+    and measure the fibers.     
+
+206
+00:14:45,952 --> 00:14:47,752
+   then it's over to a device   
+
+207
+00:14:47,754 --> 00:14:50,688
+    that simulates the effect   
+       of football cleats       
+
+208
+00:14:50,690 --> 00:14:53,224
+ to confirm this turf is tough. 
+
+209
+00:14:53,226 --> 00:14:55,559
+   to install artificial turf,  
+
+210
+00:14:55,561 --> 00:14:58,495
+     they lay a rubber base     
+        and add the turf.       
+
+211
+00:14:58,497 --> 00:15:01,899
+      they distribute sand      
+   throughout spikes of grass   
+
+212
+00:15:01,901 --> 00:15:03,701
+    to give the turf weight.    
+
+213
+00:15:03,703 --> 00:15:07,972
+then they spread rubber granules
+     for a softening effect.    
+
+214
+00:15:12,111 --> 00:15:14,045
+          but some turf         
+      is more carpetlike --     
+
+215
+00:15:14,047 --> 00:15:15,847
+       no fillers needed.       
+
+216
+00:15:15,849 --> 00:15:18,883
+ you're more likely to see that 
+     in floor-hockey arenas.    
+
+217
+00:15:20,654 --> 00:15:24,822
+ it's time to wrap up this turf 
+job and toss a few balls around.
+
+218
+00:15:29,396 --> 00:15:32,730
+  and when it comes to looking  
+      like the real thing,      
+
+219
+00:15:32,732 --> 00:15:36,567
+  artificial turf is definitely 
+        in the ballpark.        
+
+220
+00:15:48,814 --> 00:15:51,215
+            narrator:           
+  a stein is a beer mug with a  
+ hinged lid you open and close. 
+
+221
+00:15:51,217 --> 00:15:52,283
+  according to some historians, 
+
+222
+00:15:52,285 --> 00:15:54,585
+         it's a product         
+     of the bubonic plague.     
+
+223
+00:15:54,587 --> 00:15:57,155
+  after the plague swept europe 
+          in the 1300s,         
+
+224
+00:15:57,157 --> 00:15:59,557
+         municipalities         
+    enacted sanitation laws.    
+
+225
+00:15:59,559 --> 00:16:02,893
+  in germany, one law required  
+  food and beverage containers  
+
+226
+00:16:02,895 --> 00:16:06,064
+         to have covers         
+  in order to keep out insects. 
+
+227
+00:16:10,036 --> 00:16:12,236
+        these traditional       
+       german beer steins,      
+
+228
+00:16:12,238 --> 00:16:14,906
+with their ornate ceramic bodies
+         and pewter lids        
+
+229
+00:16:14,908 --> 00:16:16,573
+  are functional works of art.  
+
+230
+00:16:16,575 --> 00:16:19,310
+        the word "stein"        
+   is short for a german word   
+
+231
+00:16:19,312 --> 00:16:21,912
+    meaning "stoneware jug."    
+
+232
+00:16:21,914 --> 00:16:24,515
+        production begins       
+    in the casting department   
+
+233
+00:16:24,517 --> 00:16:26,050
+     with a plaster mold --     
+
+234
+00:16:26,052 --> 00:16:29,453
+ its cavity the shape and design
+      of the stein's body.      
+
+235
+00:16:29,455 --> 00:16:31,189
+    they pour in liquid clay,   
+
+236
+00:16:31,191 --> 00:16:33,791
+      wait about two hours      
+       until it thickens,       
+
+237
+00:16:33,793 --> 00:16:36,394
+          then pour out         
+    whatever liquid remains.    
+
+238
+00:16:36,396 --> 00:16:39,730
+  after testing the consistency 
+     of what's still inside,    
+
+239
+00:16:39,732 --> 00:16:41,933
+    they gingerly disassemble   
+            the mold,           
+
+240
+00:16:41,935 --> 00:16:43,467
+   revealing the stein's body.  
+
+241
+00:16:43,469 --> 00:16:46,137
+    the mold has transferred    
+    all the intricate detail    
+
+242
+00:16:46,139 --> 00:16:47,405
+     to the clay's surface.     
+
+243
+00:16:50,276 --> 00:16:52,276
+    for certain stein shapes,   
+
+244
+00:16:52,278 --> 00:16:55,546
+     they get better results    
+        using solid clay.       
+
+245
+00:16:55,548 --> 00:16:58,482
+          they cut off          
+      the amount they need,     
+
+246
+00:16:58,484 --> 00:17:02,153
+          then drop it          
+     inside a plaster mold.     
+
+247
+00:17:05,959 --> 00:17:07,691
+    a machine pushes the clay   
+
+248
+00:17:07,693 --> 00:17:10,294
+       into every crevice       
+       of the mold cavity.      
+
+249
+00:17:10,296 --> 00:17:13,297
+ a worker trims away any excess 
+         that oozes out.        
+
+250
+00:17:13,299 --> 00:17:16,934
+then the mold goes into a drying
+     machine for 20 minutes.    
+
+251
+00:17:19,439 --> 00:17:20,838
+       when it comes out,       
+
+252
+00:17:20,840 --> 00:17:24,075
+  they disassemble the sections 
+     to extract the casting.    
+
+253
+00:17:27,980 --> 00:17:30,247
+    whether made from liquid    
+         or solid clay,         
+
+254
+00:17:30,249 --> 00:17:32,517
+      each stein body goes      
+      on a potter's wheel       
+
+255
+00:17:32,519 --> 00:17:34,519
+       for some refining.       
+
+256
+00:17:34,521 --> 00:17:35,987
+    the potter removes seams    
+
+257
+00:17:35,989 --> 00:17:38,522
+           that formed          
+  where the mold sections met.  
+
+258
+00:17:38,524 --> 00:17:41,259
+          he also trims         
+    and smoothes out the rim.   
+
+259
+00:17:41,261 --> 00:17:44,061
+    then, using some wet clay   
+         as an adhesive,        
+
+260
+00:17:44,063 --> 00:17:45,863
+  he attaches an ornate handle. 
+
+261
+00:17:45,865 --> 00:17:48,399
+            it, too,            
+    is made entirely of clay.   
+
+262
+00:17:48,401 --> 00:17:50,935
+      the factory shapes it     
+        either in a mold        
+
+263
+00:17:50,937 --> 00:17:52,537
+    or with a dye in a press.   
+
+264
+00:17:52,539 --> 00:17:55,606
+ finally, they stamp the bottom 
+        with two marks --       
+
+265
+00:17:55,608 --> 00:17:59,410
+        "made in germany"       
+     and the company brand.     
+
+266
+00:17:59,412 --> 00:18:02,280
+now the coloring process begins.
+
+267
+00:18:02,282 --> 00:18:05,749
+  they coat the stein body with 
+  special paint for ceramics -- 
+
+268
+00:18:05,751 --> 00:18:08,886
+     first, a watery coat of    
+ the background color all over, 
+
+269
+00:18:08,888 --> 00:18:12,190
+   then a thicker coat around   
+ the reliefs to highlight them. 
+
+270
+00:18:15,628 --> 00:18:18,696
+   they rub most of the paint   
+         off the reliefs        
+
+271
+00:18:18,698 --> 00:18:21,099
+   to accentuate the contrast.  
+
+272
+00:18:21,101 --> 00:18:25,903
+   next, workers spray a milky  
+    glaze over the stein body   
+
+273
+00:18:25,905 --> 00:18:27,304
+         inside and out.        
+
+274
+00:18:27,306 --> 00:18:30,707
+    this glaze is made mainly   
+     of sodium and silicon,     
+
+275
+00:18:30,709 --> 00:18:32,776
+       minerals that turn       
+     into transparent glass     
+
+276
+00:18:32,778 --> 00:18:34,111
+        under high heat.        
+
+277
+00:18:34,113 --> 00:18:36,380
+      this will strengthen      
+  and waterproof the stoneware  
+
+278
+00:18:36,382 --> 00:18:39,116
+           beneath it.          
+
+279
+00:18:39,118 --> 00:18:42,052
+  workers load dozens of stein  
+      bodies into an oven,      
+
+280
+00:18:42,054 --> 00:18:45,122
+  where they bake at more than  
+    2,000 degrees fahrenheit    
+
+281
+00:18:45,124 --> 00:18:46,323
+          for 12 hours.         
+
+282
+00:18:46,325 --> 00:18:50,194
+     this hardens the clay,     
+    turns the colors vibrant,   
+
+283
+00:18:50,196 --> 00:18:55,399
+    and transforms the glaze    
+into a protective glass coating.
+
+284
+00:18:55,401 --> 00:18:59,670
+ after a 12-hour cooling period,
+    the true artistry begins.   
+
+285
+00:18:59,672 --> 00:19:02,874
+        a skilled painter       
+     embellishes the design     
+
+286
+00:19:02,876 --> 00:19:05,343
+  with colorful enamel paints.  
+
+287
+00:19:25,165 --> 00:19:28,765
+   a second firing, this time   
+     for just 5 to 6 hours,     
+
+288
+00:19:28,767 --> 00:19:32,637
+         bakes the paint        
+     onto the glass surface.    
+
+289
+00:19:32,639 --> 00:19:36,107
+     now, to top it all off,    
+     the stein's ornate lid.    
+
+290
+00:19:36,109 --> 00:19:39,777
+       it's made of pewter      
+         cast in a mold.        
+
+291
+00:19:39,779 --> 00:19:42,580
+  the thumb lift pivots the lid 
+           on a hinge.          
+
+292
+00:19:42,582 --> 00:19:44,982
+       to attach the lid        
+       to the stein body,       
+
+293
+00:19:44,984 --> 00:19:47,184
+  they position the thumb lift  
+         on the handle,         
+
+294
+00:19:47,186 --> 00:19:50,087
+          then assemble         
+ a small mounting tool over it. 
+
+295
+00:19:52,925 --> 00:19:55,493
+  they pour in molten pewter... 
+
+296
+00:19:58,130 --> 00:20:01,598
+ ...then, after a minute or so, 
+       remove the device.       
+
+297
+00:20:01,600 --> 00:20:04,068
+     the pewter has hardened    
+           into a ring          
+
+298
+00:20:04,070 --> 00:20:06,671
+    attaching the thumb lift    
+         to the handle.         
+
+299
+00:20:08,507 --> 00:20:13,311
+    they clip off the excess,   
+ then buff the metal to a shine.
+
+300
+00:20:20,353 --> 00:20:24,554
+  with their traditional scenes 
+  or more contemporary themes,  
+
+301
+00:20:24,556 --> 00:20:27,958
+        these beer steins       
+   are the toast of the town.   
+
+302
+00:20:27,960 --> 00:20:30,894
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+303
+00:20:30,896 --> 00:20:33,898
+      captions paid for by      
+    discovery communications    
+
+304
+00:20:46,980 --> 00:20:49,247
+    if you have any comments    
+         about the show         
+
+305
+00:20:49,249 --> 00:20:52,249
+   or if you'd like to suggest  
+    topics for future shows,    
+
+306
+00:20:52,251 --> 00:20:58,256
+      drop us a line at...      
+

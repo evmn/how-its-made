@@ -1,0 +1,1514 @@
+﻿1
+00:00:02,336 --> 00:00:05,071
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,073 --> 00:00:08,140
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:51,119 --> 00:00:54,653
+           narrator:            
+ the v-twin motorcycle engine   
+
+4
+00:00:54,655 --> 00:00:56,789
+      actually dates back       
+     more than a century.       
+
+5
+00:00:56,791 --> 00:00:58,991
+   talk about staying power.    
+
+6
+00:00:58,993 --> 00:01:01,493
+     central to the design      
+       are two cylinders        
+
+7
+00:01:01,495 --> 00:01:04,062
+        that form a "v"         
+    around the crankshaft.      
+
+8
+00:01:04,064 --> 00:01:06,265
+       this configuration       
+        is more compact         
+
+9
+00:01:06,267 --> 00:01:10,570
+  than a straight-line engine,  
+  and its appeal is timeless.   
+
+10
+00:01:14,809 --> 00:01:16,542
+  with its throttle cranked,    
+
+11
+00:01:16,544 --> 00:01:19,412
+    the v-twin can take you     
+      on an exciting ride       
+
+12
+00:01:19,414 --> 00:01:22,348
+ and leave sedans in its dust.  
+
+13
+00:01:24,618 --> 00:01:27,420
+          to make one,          
+   a robot loads a cylinder     
+
+14
+00:01:27,422 --> 00:01:30,556
+         into a machine         
+ equipped with cutting tools.   
+
+15
+00:01:30,558 --> 00:01:34,493
+ the tools mill the cylinder's  
+metal slats to highlight them.  
+
+16
+00:01:34,495 --> 00:01:36,628
+           the slats            
+   are called cooling fins.     
+
+17
+00:01:36,630 --> 00:01:39,699
+  they allow the engine's heat  
+         to dissipate.          
+
+18
+00:01:41,702 --> 00:01:44,970
+    this cutting tool bores     
+     into the center of the     
+           cylinder,            
+
+19
+00:01:44,972 --> 00:01:46,972
+      carving it to precise     
+           dimensions           
+
+20
+00:01:46,974 --> 00:01:49,775
+   to allow engine components   
+        a perfect fit.          
+
+21
+00:01:49,777 --> 00:01:54,246
+       next, an operator        
+   assembles the crankshaft.    
+
+22
+00:01:54,248 --> 00:02:00,052
+   he aligns connecting rods    
+and slides them over bearings.  
+
+23
+00:02:00,054 --> 00:02:04,190
+   he then assembles the rods   
+       and bearings to the      
+          crankshaft.           
+
+24
+00:02:07,328 --> 00:02:10,696
+           a machine            
+      press-fits everything     
+           together.            
+
+25
+00:02:14,469 --> 00:02:17,670
+     next, a lift scoops up     
+    the crankshaft assembly     
+
+26
+00:02:17,672 --> 00:02:21,307
+      and transfers it to       
+      the lower half of the     
+           crankcase.           
+
+27
+00:02:28,349 --> 00:02:29,815
+     at the next station,       
+
+28
+00:02:29,817 --> 00:02:32,551
+     an automated dispenser     
+   precisely applies sealant    
+
+29
+00:02:32,553 --> 00:02:35,187
+       to the inner edge        
+       of the crankcase.        
+
+30
+00:02:37,291 --> 00:02:40,492
+       they then arrange        
+      the upper half of the     
+           crankcase            
+
+31
+00:02:40,494 --> 00:02:41,827
+     on the lower assembly      
+
+32
+00:02:41,829 --> 00:02:43,929
+  and bolt the two together.    
+
+33
+00:02:48,970 --> 00:02:51,636
+     it's now time to link      
+     the crankcase and shaft    
+            assembly            
+
+34
+00:02:51,638 --> 00:02:53,773
+     to the transmission.       
+
+35
+00:02:56,844 --> 00:03:00,079
+    this chrome-plated cover    
+    is the finishing touch.     
+
+36
+00:03:03,984 --> 00:03:07,653
+  next, they fit the camshaft   
+      into the crankcase.       
+
+37
+00:03:07,655 --> 00:03:10,690
+            its job             
+ is to maintain valve timing.   
+
+38
+00:03:15,329 --> 00:03:16,996
+   they position the pistons    
+
+39
+00:03:16,998 --> 00:03:20,566
+     on the connecting rods     
+      now installed in the      
+           crankcase.           
+
+40
+00:03:22,803 --> 00:03:25,670
+   remember those highlighted   
+    cylinders made earlier?     
+
+41
+00:03:25,672 --> 00:03:28,941
+     workers now slide them     
+       over the pistons.        
+
+42
+00:03:31,145 --> 00:03:34,280
+           these are            
+  the cylinder-head castings.   
+
+43
+00:03:34,282 --> 00:03:36,281
+    technicians paint them      
+
+44
+00:03:36,283 --> 00:03:39,485
+     and then machine them      
+   to fit on the cylinders.     
+
+45
+00:03:43,557 --> 00:03:47,760
+   a robot bolts them together  
+              with              
+    just the right amount of    
+            torque.             
+
+46
+00:03:47,762 --> 00:03:52,264
+   the operator then installs   
+     tubing that will house     
+           pushrods.            
+
+47
+00:03:56,037 --> 00:03:59,971
+         he snaps them          
+   into the cylinder heads.     
+
+48
+00:03:59,973 --> 00:04:04,509
+ then he clips on metal covers  
+        to secure them.         
+
+49
+00:04:04,511 --> 00:04:08,581
+  he now inserts the pushrods   
+        in the tubing.          
+
+50
+00:04:08,583 --> 00:04:11,851
+   up next is the electronic    
+    fuel-injection system,      
+
+51
+00:04:11,853 --> 00:04:15,988
+         which controls         
+     the flow of fuel to the    
+            engine.             
+
+52
+00:04:15,990 --> 00:04:18,924
+        they install it         
+  between the two cylinders.    
+
+53
+00:04:22,597 --> 00:04:26,932
+    a special bracket holds     
+the injection system in place.  
+
+54
+00:04:29,003 --> 00:04:33,606
+   he bolts the rocker boxes    
+    to the cylinder heads,      
+
+55
+00:04:33,608 --> 00:04:38,544
+   then tops off the assembly   
+              with              
+ more gleaming chrome covers.   
+
+56
+00:04:40,681 --> 00:04:44,750
+  the operator now screws the   
+   oil filter onto the engine   
+              case              
+
+57
+00:04:44,752 --> 00:04:48,019
+         and secures it         
+    with a special wrench.      
+
+58
+00:04:48,021 --> 00:04:51,089
+     this is the electrical     
+       charging system.         
+
+59
+00:04:51,091 --> 00:04:53,159
+  it goes on the crankshaft.    
+
+60
+00:04:57,765 --> 00:05:00,499
+   now it's time to pump oil    
+    into this v-twin engine     
+
+61
+00:05:00,501 --> 00:05:03,101
+ and put it through its paces.  
+
+62
+00:05:03,103 --> 00:05:05,304
+ computerized testing equipment 
+           moves in             
+
+63
+00:05:05,306 --> 00:05:07,039
+   and mates to the engine.     
+
+64
+00:05:10,244 --> 00:05:11,777
+      the engine rotates,       
+
+65
+00:05:11,779 --> 00:05:14,046
+       and they shift the       
+          transmission          
+    through all the gears.      
+
+66
+00:05:14,048 --> 00:05:16,848
+          this allows           
+     the testing equipment      
+
+67
+00:05:16,850 --> 00:05:20,052
+    to analyze every aspect     
+      of its performance.       
+
+68
+00:05:26,193 --> 00:05:31,263
+ next, they insert spark plugs  
+   into the cylinder heads.     
+
+69
+00:05:31,265 --> 00:05:34,666
+           and these            
+   1584cc motorcycle engines    
+
+70
+00:05:34,668 --> 00:05:37,870
+    are now revved and ready    
+       for their wheels.        
+
+71
+00:05:54,155 --> 00:05:56,488
+           narrator:            
+   enameling is the process     
+
+72
+00:05:56,490 --> 00:05:59,958
+   of fusing colored glass to   
+              metal             
+      with intense heat.        
+
+73
+00:05:59,960 --> 00:06:03,228
+ this decorative art developed  
+  more than 3,000 years ago.    
+
+74
+00:06:03,230 --> 00:06:06,431
+ the earliest enameled objects  
+   archeologists have found     
+
+75
+00:06:06,433 --> 00:06:09,168
+     are pieces of jewelry      
+    made in ancient greece.     
+
+76
+00:06:09,170 --> 00:06:13,572
+   today, artisans most often   
+     produce glass enamel on    
+            copper.             
+
+77
+00:06:17,378 --> 00:06:20,178
+       artisans handcraft       
+ these magnificent sculptures   
+
+78
+00:06:20,180 --> 00:06:23,248
+    by fusing vibrant colors    
+    of finely ground glass      
+
+79
+00:06:23,250 --> 00:06:24,817
+       to solid copper.         
+
+80
+00:06:26,854 --> 00:06:29,254
+       first, the artist        
+       draws the design,        
+
+81
+00:06:29,256 --> 00:06:31,056
+ then chooses the glass colors  
+
+82
+00:06:31,058 --> 00:06:33,859
+         from a palette         
+    of hundreds of shades.      
+
+83
+00:06:33,861 --> 00:06:35,928
+   she takes one element at a   
+              time              
+
+84
+00:06:35,930 --> 00:06:39,364
+  and makes multiple copies of  
+               it               
+     on a sheet of paper.       
+
+85
+00:06:39,366 --> 00:06:42,067
+         she has a lab          
+   produce a film negative,     
+
+86
+00:06:42,069 --> 00:06:44,670
+         which she lays         
+    in an exposure machine.     
+
+87
+00:06:44,672 --> 00:06:47,139
+on top, she lays a silk screen  
+
+88
+00:06:47,141 --> 00:06:49,708
+          coated with           
+  a light-sensitive chemical.   
+
+89
+00:06:51,578 --> 00:06:56,482
+      then it exposes them      
+     to halogen light for 90    
+            seconds.            
+
+90
+00:06:56,484 --> 00:06:58,884
+       the film negative        
+     works like a stencil.      
+
+91
+00:06:58,886 --> 00:07:02,153
+ its dark parts block the light 
+    from hitting the screen     
+
+92
+00:07:02,155 --> 00:07:04,823
+     while its clear parts      
+     allow light through.       
+
+93
+00:07:04,825 --> 00:07:06,491
+    where light penetrates,     
+
+94
+00:07:06,493 --> 00:07:10,095
+  the light-sensitive chemical  
+      reacts and hardens.       
+
+95
+00:07:10,097 --> 00:07:12,964
+    the unhardened chemical     
+         rinses away,           
+
+96
+00:07:12,966 --> 00:07:15,768
+leaving just the image behind.  
+
+97
+00:07:19,173 --> 00:07:21,306
+    in the next department,     
+
+98
+00:07:21,308 --> 00:07:24,777
+      they lay the screen       
+   in a silk-screen printer,    
+
+99
+00:07:24,779 --> 00:07:26,979
+ apply chemical-resistant ink,  
+
+100
+00:07:26,981 --> 00:07:28,847
+           then load            
+    a sheet of solid copper     
+
+101
+00:07:28,849 --> 00:07:32,717
+about half a millimeter thick.  
+
+102
+00:07:32,719 --> 00:07:36,689
+    the machine automatically   
+             prints             
+  the images onto the copper.   
+
+103
+00:07:40,661 --> 00:07:43,862
+  they cure the ink in an oven  
+        for 20 minutes,         
+
+104
+00:07:43,864 --> 00:07:46,064
+          then repeat           
+  the entire exposure process   
+
+105
+00:07:46,066 --> 00:07:48,467
+    for the back side of the    
+             sheet.             
+
+106
+00:07:51,071 --> 00:07:54,406
+   next, they feed the sheet    
+     into a two-step milling    
+            machine.            
+
+107
+00:07:54,408 --> 00:07:57,109
+      it applies chemicals      
+   that eat away any copper     
+
+108
+00:07:57,111 --> 00:08:00,946
+       that isn't coated        
+   with the chemical-resistant  
+              ink.              
+
+109
+00:08:00,948 --> 00:08:02,948
+   this cuts out the shapes.    
+
+110
+00:08:02,950 --> 00:08:05,083
+  then it strips off the ink,   
+
+111
+00:08:05,085 --> 00:08:07,720
+     which, by this point,      
+    has served its purpose.     
+
+112
+00:08:10,490 --> 00:08:14,360
+  now they have a blank shape,  
+   but it's completely flat.    
+
+113
+00:08:16,363 --> 00:08:20,765
+   to give it dimension, they   
+ stamp it with a forming dye.   
+
+114
+00:08:20,767 --> 00:08:23,701
+   now the enameling process    
+      can finally begin.        
+
+115
+00:08:23,703 --> 00:08:26,238
+    for each color grouping     
+        of the design,          
+
+116
+00:08:26,240 --> 00:08:27,972
+ there's an aluminum stencil.   
+
+117
+00:08:27,974 --> 00:08:29,575
+  they lay down the first one   
+
+118
+00:08:29,577 --> 00:08:33,111
+   and sprinkle glass powder    
+ in the first base-coat color,  
+
+119
+00:08:33,113 --> 00:08:36,382
+     which looks white now,     
+     but comes out clear.       
+
+120
+00:08:36,384 --> 00:08:39,451
+     then a second stencil      
+
+121
+00:08:39,453 --> 00:08:42,054
+         for the second         
+   base-coat color -- white.    
+
+122
+00:08:46,127 --> 00:08:49,461
+   the shape then goes into a   
+              kiln              
+      for about a minute        
+
+123
+00:08:49,463 --> 00:08:53,065
+  to liquefy the glass powder   
+  and fuse it to the copper.    
+
+124
+00:08:56,470 --> 00:08:58,404
+   once the base coat cools,    
+
+125
+00:08:58,406 --> 00:09:03,042
+   they create the detail work  
+              with              
+     additional stencils and    
+            colors.             
+
+126
+00:09:04,612 --> 00:09:07,279
+         this is where          
+  the true artistry comes in.   
+
+127
+00:09:07,281 --> 00:09:10,949
+  each shake of powdered glass  
+       is like a painter's      
+          brushstroke.          
+
+128
+00:09:10,951 --> 00:09:13,886
+    too much, and the color     
+    will come out too dark.     
+
+129
+00:09:13,888 --> 00:09:16,354
+          too little,           
+ and it'll come out too light.  
+
+130
+00:09:16,356 --> 00:09:20,793
+     it takes an experienced    
+            enameler            
+     to get it just right.      
+
+131
+00:09:28,702 --> 00:09:31,570
+      they craft dimension      
+      by blending colors        
+
+132
+00:09:31,572 --> 00:09:35,707
+   and by combining different   
+              types             
+   of glass in the design --    
+
+133
+00:09:35,709 --> 00:09:38,944
+ some transparent, some opaque, 
+       some opalescent.         
+
+134
+00:09:41,649 --> 00:09:44,315
+        after every few         
+     powder applications,       
+
+135
+00:09:44,317 --> 00:09:46,452
+     they return the piece      
+         to the kiln,           
+
+136
+00:09:46,454 --> 00:09:49,788
+   where the intense heat --    
+  1,600 degrees fahrenheit --   
+
+137
+00:09:49,790 --> 00:09:53,525
+ liquefies and fuses the glass  
+        to the copper.          
+
+138
+00:09:53,527 --> 00:09:57,262
+  slowly but surely, they turn  
+ what was a blank copper shape  
+
+139
+00:09:57,264 --> 00:10:00,198
+  into a vibrant work of art.   
+
+140
+00:10:00,200 --> 00:10:02,467
+ meanwhile, an artistic welder  
+
+141
+00:10:02,469 --> 00:10:05,737
+     skillfully creates the     
+sculpture's metal framework --  
+
+142
+00:10:05,739 --> 00:10:10,142
+    in this case, branches on   
+              which             
+    copper-enamel birds will    
+             perch.             
+
+143
+00:10:10,144 --> 00:10:11,877
+       he's using steel,        
+
+144
+00:10:11,879 --> 00:10:15,547
+   but frameworks can also be   
+              made              
+ of copper, bronze, or brass.   
+
+145
+00:10:15,549 --> 00:10:17,815
+ besides birds, this sculpture  
+
+146
+00:10:17,817 --> 00:10:20,819
+    features copper-enameled    
+             leaves             
+         and flowers.           
+
+147
+00:10:20,821 --> 00:10:24,823
+ their stems are bronze because 
+ bronze fuses easily to steel.  
+
+148
+00:10:24,825 --> 00:10:28,760
+     with the framework and     
+ background elements in place,  
+
+149
+00:10:28,762 --> 00:10:32,364
+      it's just a matter of     
+            attaching           
+   the main design elements.    
+
+150
+00:10:32,366 --> 00:10:36,168
+    some industrial-strength    
+   hot glue does the trick.     
+
+151
+00:10:36,170 --> 00:10:38,637
+         a modern twist         
+     on an ancient craft,       
+
+152
+00:10:38,639 --> 00:10:42,808
+ these glass-enamel sculptures  
+ make a glistening impression.  
+
+153
+00:10:57,524 --> 00:10:59,992
+        narrator: today,        
+ most commercially made paper   
+
+154
+00:10:59,994 --> 00:11:01,460
+    is made from wood pulp      
+
+155
+00:11:01,462 --> 00:11:04,062
+     treated with chemicals     
+  and mechanically processed.   
+
+156
+00:11:04,064 --> 00:11:05,430
+     making paper by hand       
+
+157
+00:11:05,432 --> 00:11:07,933
+    is a craft that involves    
+   techniques and materials     
+
+158
+00:11:07,935 --> 00:11:10,401
+          that go back          
+  over 2,000 years in china.    
+
+159
+00:11:10,403 --> 00:11:12,871
+        these techniques        
+    have evolved over time,     
+
+160
+00:11:12,873 --> 00:11:16,642
+    but the main ingredient     
+       remains the same --      
+          imagination.          
+
+161
+00:11:21,815 --> 00:11:25,484
+       handmade paper is a      
+           distinctive          
+ choice for a variety of uses,  
+
+162
+00:11:25,486 --> 00:11:28,754
+      from fine stationery      
+  to limited-edition prints.    
+
+163
+00:11:28,756 --> 00:11:32,357
+   natural fibers, like linen   
+   or these cotton remnants,    
+
+164
+00:11:32,359 --> 00:11:35,127
+     are the raw materials      
+      for handmade paper.       
+
+165
+00:11:37,765 --> 00:11:41,166
+  workers place the cotton rag  
+   and put it on a conveyer,    
+
+166
+00:11:41,168 --> 00:11:45,237
+   which leads into a machine   
+              that              
+chops it up into small pieces.  
+
+167
+00:11:51,778 --> 00:11:54,246
+     it collects in a bin,      
+   ready for the next step,     
+
+168
+00:11:54,248 --> 00:11:56,415
+    called beating the rag.     
+
+169
+00:11:58,919 --> 00:12:01,320
+        workers pour out        
+      the chopped-up rag        
+
+170
+00:12:01,322 --> 00:12:04,957
+ into a tub called a hollander  
+  that is filling with water.   
+
+171
+00:12:06,793 --> 00:12:09,594
+          this machine          
+    beats the material into a   
+             pulp.              
+
+172
+00:12:09,596 --> 00:12:11,863
+    its only moving part --     
+
+173
+00:12:11,865 --> 00:12:14,066
+          a large roll          
+    weighing several tons,      
+
+174
+00:12:14,068 --> 00:12:17,269
+  equipped with metal blades.   
+
+175
+00:12:17,271 --> 00:12:20,405
+   workers fill the hollander   
+ with up to 800 pounds of rag.  
+
+176
+00:12:20,407 --> 00:12:22,608
+    once all the rag is in,     
+
+177
+00:12:22,610 --> 00:12:25,810
+    the giant roll descends     
+     to begin the beating.      
+
+178
+00:12:25,812 --> 00:12:28,479
+        water pours down        
+      to soak the fabric,       
+
+179
+00:12:28,481 --> 00:12:31,550
+           as workers           
+   push it toward the roll.     
+
+180
+00:12:35,021 --> 00:12:38,023
+   they sometimes take paper    
+    from previous batches,      
+
+181
+00:12:38,025 --> 00:12:41,293
+        known as broke,         
+    and add it to the mix.      
+
+182
+00:12:49,770 --> 00:12:53,372
+ they may also add a little dye 
+     to adjust the color,       
+
+183
+00:12:53,374 --> 00:12:55,707
+    depending on the desired    
+            effect.             
+
+184
+00:12:57,711 --> 00:12:59,311
+ after eight hours of beating,  
+
+185
+00:12:59,313 --> 00:13:02,447
+          workers feel          
+    the pulp's consistency.     
+
+186
+00:13:02,449 --> 00:13:05,384
+  they will then take samples   
+        from this batch         
+
+187
+00:13:05,386 --> 00:13:09,054
+     to make sure it doesn't    
+             contain            
+  any unbeaten rag or knots.    
+
+188
+00:13:09,056 --> 00:13:12,523
+    next, they add colorful     
+  scraps of paper to the pulp   
+
+189
+00:13:12,525 --> 00:13:15,327
+     to create a decorative     
+            pattern.            
+
+190
+00:13:20,867 --> 00:13:22,667
+   to make a sheet of paper,    
+
+191
+00:13:22,669 --> 00:13:26,071
+      the vat man plunges       
+ a wooden mold into the pulp.   
+
+192
+00:13:26,073 --> 00:13:27,806
+   as he lifts out the mold,    
+
+193
+00:13:27,808 --> 00:13:30,274
+          he shakes it          
+     to even out the pulp.      
+
+194
+00:13:30,276 --> 00:13:31,610
+       water pours out,         
+
+195
+00:13:31,612 --> 00:13:35,814
+      leaving only fibers       
+ caught on the mold's surface.  
+
+196
+00:13:35,816 --> 00:13:38,683
+  he removes the mold's frame,  
+     known as the deckle,       
+
+197
+00:13:38,685 --> 00:13:40,352
+           and lowers           
+    the corner of the mold      
+
+198
+00:13:40,354 --> 00:13:42,554
+   to drain away more water.    
+
+199
+00:13:48,294 --> 00:13:50,562
+  he places the mold facedown   
+        on a wet felt,          
+
+200
+00:13:50,564 --> 00:13:53,965
+ then carefully lifts it away.  
+
+201
+00:13:53,967 --> 00:13:56,168
+        a sheet of paper        
+     now lies on the felt,      
+
+202
+00:13:56,170 --> 00:13:59,637
+      which he then covers      
+    with another wet felt.      
+
+203
+00:13:59,639 --> 00:14:02,774
+        when pulp pours         
+    through the mold's metal    
+            screen,             
+
+204
+00:14:02,776 --> 00:14:06,177
+       it traps the fiber       
+  and lets the water through.   
+
+205
+00:14:06,179 --> 00:14:09,514
+  the vat man plunges the mold  
+   once again into the pulp     
+
+206
+00:14:09,516 --> 00:14:14,052
+   and couches another sheet    
+  of this distinctive paper.    
+
+207
+00:14:14,054 --> 00:14:19,591
+         at this point,         
+    the paper is 99% water.     
+
+208
+00:14:19,593 --> 00:14:22,460
+     workers bring a stack      
+   over to a hydraulic press    
+
+209
+00:14:22,462 --> 00:14:26,798
+   to draw the water from the   
+              paper             
+ and link the fibers together.  
+
+210
+00:14:26,800 --> 00:14:28,934
+   they press the papers with   
+              care              
+
+211
+00:14:28,936 --> 00:14:31,570
+      so they don't burst       
+    right out of the felts.     
+
+212
+00:14:35,475 --> 00:14:38,477
+  they brush any leftover pulp  
+        from the felts,         
+
+213
+00:14:38,479 --> 00:14:42,147
+  leaving them clean and ready  
+ for the next batch of sheets.  
+
+214
+00:14:44,284 --> 00:14:47,752
+   now workers can handle the   
+              paper             
+   without it falling apart.    
+
+215
+00:14:47,754 --> 00:14:49,888
+      they take the sheets      
+        from the felts          
+
+216
+00:14:49,890 --> 00:14:53,125
+      and hang them to dry      
+       on plastic tubes.        
+
+217
+00:14:57,163 --> 00:15:00,932
+     once dry, they collect     
+ the sheets according to type   
+
+218
+00:15:00,934 --> 00:15:03,768
+         and stack them         
+  for a final finishing press   
+
+219
+00:15:03,770 --> 00:15:09,040
+ before they go on for shipment 
+to customers around the world.  
+
+220
+00:15:09,042 --> 00:15:11,910
+        the mold's frame        
+   leaves a feathery edge --    
+
+221
+00:15:11,912 --> 00:15:15,113
+     a distinctive feature      
+      of handmade paper.        
+
+222
+00:15:17,317 --> 00:15:20,318
+   these papers are available   
+    in more than 30 colors      
+
+223
+00:15:20,320 --> 00:15:23,822
+      in various finishes,      
+    from smooth to rugged.      
+
+224
+00:15:34,400 --> 00:15:37,268
+        there's a paper         
+      for every project,        
+
+225
+00:15:37,270 --> 00:15:39,404
+    whether it's etching...     
+
+226
+00:15:39,406 --> 00:15:41,539
+         watercolor...          
+
+227
+00:15:41,541 --> 00:15:43,275
+          drawing...            
+
+228
+00:15:43,277 --> 00:15:45,510
+       or even folding.         
+
+229
+00:16:01,828 --> 00:16:05,096
+ narrator: pole-vaulting began  
+ as a mode of transportation,   
+
+230
+00:16:05,098 --> 00:16:06,564
+         not a sport.           
+
+231
+00:16:06,566 --> 00:16:08,299
+in europe, men would use poles  
+
+232
+00:16:08,301 --> 00:16:11,036
+      to propel themselves      
+   across bridgeless canals.    
+
+233
+00:16:11,038 --> 00:16:15,239
+       in the late 1800s,       
+          pole-vaulting         
+ caught on as a college sport.  
+
+234
+00:16:15,241 --> 00:16:17,175
+the athletes used bamboo poles  
+
+235
+00:16:17,177 --> 00:16:20,145
+      to vault themselves       
+    over a horizontal bar.      
+
+236
+00:16:28,388 --> 00:16:30,588
+         today's poles          
+  are incredibly lightweight,   
+
+237
+00:16:30,590 --> 00:16:33,458
+       yet strong enough        
+     to absorb the vaulter's    
+            energy,             
+
+238
+00:16:33,460 --> 00:16:35,794
+       then throw it back       
+  to propel him over the bar.   
+
+239
+00:16:35,796 --> 00:16:37,929
+           some poles           
+   are made of carbon fiber,    
+
+240
+00:16:37,931 --> 00:16:42,934
+others out of <i> this</i>  material - 
+ resin-impregnated fiberglass.  
+
+241
+00:16:42,936 --> 00:16:46,203
+         the first step         
+ is to spread out the material  
+
+242
+00:16:46,205 --> 00:16:48,339
+ and cut out the pole pattern.  
+
+243
+00:16:48,341 --> 00:16:50,275
+ meanwhile, a slitter machine   
+
+244
+00:16:50,277 --> 00:16:53,945
+     cuts the same material     
+    into strips of a specific   
+             width.             
+
+245
+00:16:53,947 --> 00:16:57,215
+    then it winds each strip    
+      into its own roll.        
+
+246
+00:16:59,219 --> 00:17:03,622
+    this spiral-wrap machine    
+   automatically unravels the   
+             strip              
+
+247
+00:17:03,624 --> 00:17:08,059
+  and wraps it around a hollow  
+ steel tube called a mandrel.   
+
+248
+00:17:11,431 --> 00:17:17,168
+ this first layer of fiberglass 
+       gives the pole its       
+          flexibility.          
+
+249
+00:17:17,170 --> 00:17:20,505
+    they wrap a second layer    
+  in the opposite direction,    
+
+250
+00:17:20,507 --> 00:17:23,842
+ employing a crisscross pattern 
+    to increase durability.     
+
+251
+00:17:23,844 --> 00:17:27,078
+   the second layer fortifies   
+   the pole's circumference.    
+
+252
+00:17:31,852 --> 00:17:33,918
+     for the next layers,       
+
+253
+00:17:33,920 --> 00:17:36,854
+    they remove the mandrel     
+   and lay it on the table.     
+
+254
+00:17:36,856 --> 00:17:39,791
+         now it's time          
+ for those fiberglass patterns  
+
+255
+00:17:39,793 --> 00:17:42,127
+       they cut earlier.        
+
+256
+00:17:42,129 --> 00:17:44,729
+       they heat the edge       
+of the first one with an iron,  
+
+257
+00:17:44,731 --> 00:17:48,466
+      melting the resin in      
+    the fiberglass until it's   
+             tacky.             
+
+258
+00:17:48,468 --> 00:17:51,603
+      they stick this edge      
+        to the mandrel,         
+
+259
+00:17:51,605 --> 00:17:54,272
+    then slide the other end    
+    between heated rollers.     
+
+260
+00:17:56,209 --> 00:18:00,144
+  the rollers wrap the rest of  
+     the material around the    
+            mandrel,            
+
+261
+00:18:00,146 --> 00:18:03,214
+ the heat activating the resin  
+        in the process.         
+
+262
+00:18:03,216 --> 00:18:06,484
+      the same procedure,       
+ now with the second pattern.   
+
+263
+00:18:06,486 --> 00:18:08,219
+    this piece is critical,     
+
+264
+00:18:08,221 --> 00:18:12,924
+    because the way it's cut    
+    controls the way the pole   
+             bends.             
+
+265
+00:18:18,231 --> 00:18:21,299
+        the mandrel and         
+its multilayer fiberglass coat  
+
+266
+00:18:21,301 --> 00:18:23,034
+     now go into an oven.       
+
+267
+00:18:23,036 --> 00:18:25,169
+ the heat, generated by steam,  
+
+268
+00:18:25,171 --> 00:18:28,640
+           starts at            
+    175 degrees fahrenheit.     
+
+269
+00:18:28,642 --> 00:18:33,578
+   this liquefies the resin so  
+              that              
+       it re-saturates the      
+          fiberglass.           
+
+270
+00:18:33,580 --> 00:18:37,916
+ then the temperature gradually 
+ rises to nearly 300 degrees,   
+
+271
+00:18:37,918 --> 00:18:43,054
+  solidifying the resin again,  
+          curing it.            
+
+272
+00:18:43,056 --> 00:18:47,859
+    this entire process takes   
+              about             
+    45 minutes from start to    
+            finish.             
+
+273
+00:18:53,133 --> 00:18:55,666
+     and when it finishes,      
+       a pole extractor         
+
+274
+00:18:55,668 --> 00:18:59,804
+   slides the mandrel out of    
+ what's now a fiberglass pole.  
+
+275
+00:19:13,687 --> 00:19:16,620
+            the pole            
+  moves onto a flex machine.    
+
+276
+00:19:16,622 --> 00:19:19,023
+    in part, this is a stress   
+             test.              
+
+277
+00:19:19,025 --> 00:19:23,762
+ if there's any type of defect, 
+ the pole will crack or break.  
+
+278
+00:19:23,764 --> 00:19:25,497
+        but the flexor          
+
+279
+00:19:25,499 --> 00:19:28,233
+     also permanently puts a    
+            specific            
+ degree of curve in the pole,   
+
+280
+00:19:28,235 --> 00:19:33,037
+    which helps the athlete     
+         vault higher.          
+
+281
+00:19:33,039 --> 00:19:36,507
+  now they make what's called   
+      the soft-side mark.       
+
+282
+00:19:36,509 --> 00:19:39,177
+  this helps the pole vaulter   
+       locate the bend,         
+
+283
+00:19:39,179 --> 00:19:41,646
+        in order to know        
+    where to grip the pole.     
+
+284
+00:19:47,654 --> 00:19:50,788
+        next, they apply        
+    a maximum-weight label,     
+
+285
+00:19:50,790 --> 00:19:54,192
+      indicating how heavy      
+      the vaulter can be.       
+
+286
+00:19:56,129 --> 00:19:57,729
+  to finish the surface now,    
+
+287
+00:19:57,731 --> 00:19:59,998
+      they mount the pole       
+         on a spindle,          
+
+288
+00:20:00,000 --> 00:20:02,934
+    then run a polishing pad    
+           over it.             
+
+289
+00:20:02,936 --> 00:20:06,871
+     then, using a solvent,     
+  they clean off the debris.    
+
+290
+00:20:10,343 --> 00:20:13,211
+      now that the surface      
+         is pristine,           
+
+291
+00:20:13,213 --> 00:20:15,813
+          they wrap it          
+  in thin, lightweight tape.    
+
+292
+00:20:15,815 --> 00:20:19,884
+    different-colored tapes     
+    designate different pole    
+            styles.             
+
+293
+00:20:21,955 --> 00:20:24,688
+  they cap the top of the pole  
+         with plastic,          
+
+294
+00:20:24,690 --> 00:20:26,224
+     then, at the bottom,       
+
+295
+00:20:26,226 --> 00:20:29,761
+     mallet on a molded tip     
+     made of hard rubber.       
+
+296
+00:20:31,631 --> 00:20:35,066
+      the finishing touch       
+ is the manufacturer's decal.   
+
+297
+00:20:38,905 --> 00:20:43,441
+ vaulting poles come in various 
+   lengths, between 10 and 16   
+             feet.              
+
+298
+00:20:43,443 --> 00:20:45,710
+        a pole designed         
+     for a heavier vaulter      
+
+299
+00:20:45,712 --> 00:20:48,780
+   has to be stiffer than one   
+designed for a lighter vaulter  
+
+300
+00:20:48,782 --> 00:20:51,249
+        because the pole        
+   has to propel more weight    
+
+301
+00:20:51,251 --> 00:20:53,618
+     with the same degree of    
+            bending.            
+
+302
+00:21:02,128 --> 00:21:04,595
+    if you have any comments    
+        about the show,         
+
+303
+00:21:04,597 --> 00:21:07,665
+  of if you'd like to suggest   
+   topics for future shows,     
+
+304
+00:21:07,667 --> 00:21:09,768
+     drop us a line at...       
+

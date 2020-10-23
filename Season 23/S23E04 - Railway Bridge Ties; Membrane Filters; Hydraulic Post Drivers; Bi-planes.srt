@@ -1,0 +1,1670 @@
+﻿1
+00:00:01,536 --> 00:00:04,536
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,572 --> 00:00:07,607
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:53,521 --> 00:00:56,188
+            narrator:           
+  the deck of a railway bridge  
+
+4
+00:00:56,324 --> 00:00:59,525
+      is typically built of     
+wood-timbers called bridge ties.
+
+5
+00:00:59,660 --> 00:01:01,860
+         they're bolted         
+     to steel support beams     
+
+6
+00:01:01,930 --> 00:01:05,565
+    located on concrete piers   
+ over the water or gully below. 
+
+7
+00:01:05,667 --> 00:01:07,466
+            the rails           
+   on which the train travels   
+
+8
+00:01:07,535 --> 00:01:09,335
+ are bolted to the wooden ties. 
+
+9
+00:01:09,404 --> 00:01:11,470
+     wood absorbs the noise     
+          and vibration         
+
+10
+00:01:11,472 --> 00:01:13,039
+      of the passing train.     
+
+11
+00:01:16,010 --> 00:01:17,944
+            the load            
+  the railway bridge will carry 
+
+12
+00:01:18,079 --> 00:01:20,212
+determines the size of its ties.
+
+13
+00:01:20,248 --> 00:01:21,880
+     to calculate the load,     
+
+14
+00:01:21,950 --> 00:01:24,616
+       engineers factor in      
+      the number of tracks,     
+
+15
+00:01:24,652 --> 00:01:28,287
+       volume of traffic,       
+weight of the transported cargo,
+
+16
+00:01:28,356 --> 00:01:32,091
+     and whether the bridge     
+     is straight or curved.     
+
+17
+00:01:32,226 --> 00:01:36,028
+   a curve will put additional  
+    stress on the structure.    
+
+18
+00:01:36,097 --> 00:01:40,499
+    the wood of choice is oak   
+  because it's hard and strong. 
+
+19
+00:01:40,535 --> 00:01:42,468
+          when the logs         
+     arrive at the sawmill,     
+
+20
+00:01:42,537 --> 00:01:45,237
+     they come face-to-face     
+ with a menacing-looking device 
+
+21
+00:01:45,239 --> 00:01:47,073
+       called a debarker.       
+
+22
+00:01:48,643 --> 00:01:52,445
+  a conveyor moves the shipment 
+      toward the debarker,      
+
+23
+00:01:52,447 --> 00:01:56,949
+then drops a single log in front
+  of it onto spinning rollers.  
+
+24
+00:01:58,786 --> 00:02:01,787
+   the rollers rotate the log,  
+
+25
+00:02:01,789 --> 00:02:05,124
+while the debarker makes its way
+   from one end to the other.   
+
+26
+00:02:05,193 --> 00:02:09,195
+      it chews off the bark     
+ with its sharp-toothed blades. 
+
+27
+00:02:11,633 --> 00:02:14,933
+    what the debarker shaves    
+     off is put to good use.    
+
+28
+00:02:14,969 --> 00:02:17,936
+     the bark gets processed    
+      into gardening mulch      
+
+29
+00:02:18,006 --> 00:02:20,673
+    and they burn the sawdust   
+    in the wood-fired boiler    
+
+30
+00:02:20,808 --> 00:02:22,842
+     that runs another part     
+          of the plant.         
+
+31
+00:02:25,546 --> 00:02:28,947
+     next, one log at a time    
+  drops into a mobile carriage  
+
+32
+00:02:28,983 --> 00:02:32,017
+          that runs it          
+     through a circular saw.    
+
+33
+00:02:32,053 --> 00:02:33,351
+    the carriage has sensors    
+
+34
+00:02:33,388 --> 00:02:35,621
+          which detect          
+      the log's extremities     
+
+35
+00:02:35,756 --> 00:02:37,022
+    and report its dimensions   
+
+36
+00:02:37,025 --> 00:02:40,559
+      to a console located      
+     in the operator's cab.     
+
+37
+00:02:40,695 --> 00:02:43,028
+          the operator          
+      interprets the data.      
+
+38
+00:02:43,097 --> 00:02:44,763
+  using a joystick controller,  
+
+39
+00:02:44,832 --> 00:02:47,032
+        he flips the log        
+     into whichever position    
+
+40
+00:02:47,101 --> 00:02:48,968
+      maximizes the yield.      
+
+41
+00:02:51,439 --> 00:02:52,705
+       the first few runs       
+
+42
+00:02:52,840 --> 00:02:56,508
+   trim off the rough surface   
+      and square the shape.     
+
+43
+00:02:56,577 --> 00:02:58,444
+    the next runs cut boards,   
+
+44
+00:02:58,579 --> 00:03:01,313
+        which the sawmill       
+    sells to flooring plants.   
+
+45
+00:03:01,382 --> 00:03:04,516
+  this continues until the log  
+     is the exact dimensions    
+
+46
+00:03:04,585 --> 00:03:07,052
+       of the bridge tie.       
+
+47
+00:03:07,121 --> 00:03:09,588
+    again, nothing is wasted.   
+
+48
+00:03:09,657 --> 00:03:12,925
+      the sawmill processes     
+  the cutoffs into wood chips,  
+
+49
+00:03:12,927 --> 00:03:15,861
+which it then sells to companies
+    that make particle board,   
+
+50
+00:03:15,930 --> 00:03:19,732
+    strand board, and similar   
+     construction materials.    
+
+51
+00:03:21,802 --> 00:03:23,469
+   the sawmill stacks the ties  
+
+52
+00:03:23,538 --> 00:03:26,005
+          for transfer          
+  to the bridge mill next door. 
+
+53
+00:03:26,007 --> 00:03:29,408
+   the role of the bridge mill  
+     is to frame the bridge,    
+
+54
+00:03:29,543 --> 00:03:31,744
+     also known as dapping.     
+
+55
+00:03:31,813 --> 00:03:34,813
+       that's the process       
+  of making the specific holes  
+
+56
+00:03:34,882 --> 00:03:36,415
+     and notches in each tie    
+
+57
+00:03:36,417 --> 00:03:40,019
+  for attaching it to the steel 
+   beam on which it will sit.   
+
+58
+00:03:42,657 --> 00:03:44,089
+       at the bridge mill,      
+
+59
+00:03:44,125 --> 00:03:48,293
+  the bridge layout supervisor  
+  processes one tie at a time.  
+
+60
+00:03:48,362 --> 00:03:51,096
+      he carefully reviews      
+   the engineer's blueprints,   
+
+61
+00:03:51,099 --> 00:03:53,865
+      which assign a number     
+     to each and every tie.     
+
+62
+00:03:53,901 --> 00:03:58,370
+ these numbers specify precisely
+where the saw has to cut notches
+
+63
+00:03:58,506 --> 00:04:01,306
+       and where the drill      
+       has to bore holes.       
+
+64
+00:04:01,342 --> 00:04:03,509
+ the locations of these notches 
+         and holes vary,        
+
+65
+00:04:03,511 --> 00:04:06,044
+ depending on the tie's position
+         on the bridge.         
+
+66
+00:04:06,114 --> 00:04:09,448
+       so, he must follow       
+  the blueprints meticulously.  
+
+67
+00:04:11,619 --> 00:04:13,853
+         after measuring        
+     and marking it all out,    
+
+68
+00:04:13,988 --> 00:04:17,523
+he sends the tie to the dap saw.
+
+69
+00:04:17,592 --> 00:04:19,325
+ the operator sets up each cut, 
+
+70
+00:04:19,460 --> 00:04:21,260
+       lining up the mark       
+       with laser-lights,       
+
+71
+00:04:21,262 --> 00:04:23,461
+   which indicate the location  
+      and the cutting depth     
+
+72
+00:04:23,498 --> 00:04:24,930
+          of the blade.         
+
+73
+00:04:38,813 --> 00:04:42,080
+ the notches are just the right 
+ size to fit over the steel beam
+
+74
+00:04:42,150 --> 00:04:44,216
+   on which the tie will lie.   
+
+75
+00:04:45,787 --> 00:04:48,420
+              next,             
+  a worker using a drill press  
+
+76
+00:04:48,556 --> 00:04:51,223
+   bores holes for hook bolts,  
+    which go through the tie    
+
+77
+00:04:51,259 --> 00:04:53,893
+          to secure it          
+      onto the steel beams.     
+
+78
+00:04:55,830 --> 00:04:59,164
+    each tie receives a metal   
+       identification tag,      
+
+79
+00:04:59,233 --> 00:05:03,569
+    which includes the bridge   
+        and tie numbers.        
+
+80
+00:05:03,571 --> 00:05:06,571
+          on each end,          
+  workers nail on a mesh plate, 
+
+81
+00:05:06,607 --> 00:05:09,575
+       made of rust-proof       
+        galvanized steel.       
+
+82
+00:05:09,577 --> 00:05:12,511
+  the plate has teeth designed  
+   to grasp and hold together   
+
+83
+00:05:12,513 --> 00:05:16,381
+    the wood fiber to prevent   
+     the end from splitting.    
+
+84
+00:05:16,450 --> 00:05:19,718
+    after nailing the id tag    
+    to one of the end plates,   
+
+85
+00:05:19,720 --> 00:05:23,088
+  workers force in both plates  
+          with a press.         
+
+86
+00:05:27,762 --> 00:05:31,730
+       the tie's last stop      
+is the adjacent treatment plant.
+
+87
+00:05:31,732 --> 00:05:34,667
+       they spend 24 hours      
+   inside a high-temperature,   
+
+88
+00:05:34,669 --> 00:05:36,068
+      high-pressure chamber     
+
+89
+00:05:36,203 --> 00:05:39,939
+      which penetrates them     
+with a creosote-borate solution.
+
+90
+00:05:40,040 --> 00:05:43,075
+     this protects the wood     
+   from rot and insect damage   
+
+91
+00:05:43,144 --> 00:05:45,010
+ and extends the tie's life-span
+
+92
+00:05:45,046 --> 00:05:49,515
+       from about a decade      
+      to at least 25 years.     
+
+93
+00:06:05,432 --> 00:06:06,498
+            narrator:           
+     when filtering liquids,    
+
+94
+00:06:06,634 --> 00:06:08,300
+ it's all about thinking small. 
+
+95
+00:06:08,369 --> 00:06:12,238
+  membrane filters can separate 
+ the tiniest solids from fluids,
+
+96
+00:06:12,373 --> 00:06:15,840
+   which purifies the liquids   
+    and recovers the solids.    
+
+97
+00:06:15,877 --> 00:06:18,110
+         once separated,        
+       the two substances       
+
+98
+00:06:18,245 --> 00:06:22,414
+       may then be reused       
+ so that nothing goes to waste. 
+
+99
+00:06:26,687 --> 00:06:31,724
+ membrane filters can turn murky
+ water clear, almost magically. 
+
+100
+00:06:33,761 --> 00:06:37,329
+  to demonstrate, a technician  
+installs a spiral-wound membrane
+
+101
+00:06:37,365 --> 00:06:39,531
+         in the housing         
+      of a pumping system,      
+
+102
+00:06:39,600 --> 00:06:40,933
+ which is a small-scale version 
+
+103
+00:06:41,068 --> 00:06:44,603
+      of what you would see     
+          in a factory.         
+
+104
+00:06:44,605 --> 00:06:48,474
+      she turns on the tap,     
+  and water flows into a tank.  
+
+105
+00:06:48,476 --> 00:06:52,177
+      she adds latex paint      
+  to purposely sully the water. 
+
+106
+00:06:54,548 --> 00:06:56,749
+        the system pumps        
+     the contaminated water     
+
+107
+00:06:56,751 --> 00:06:58,150
+       through a strainer       
+
+108
+00:06:58,286 --> 00:07:03,422
+  and then the membrane filter  
+ while meters measure the flow. 
+
+109
+00:07:03,491 --> 00:07:06,091
+    within minutes, the paint   
+     has been filtered out,     
+
+110
+00:07:06,093 --> 00:07:08,293
+     and the water is clear.    
+
+111
+00:07:09,630 --> 00:07:14,199
+ the making of a membrane filter
+ begins with polypropylene mesh.
+
+112
+00:07:17,638 --> 00:07:21,907
+   an automated system unwinds  
+ the mesh and cuts it to length.
+
+113
+00:07:22,042 --> 00:07:25,544
+        these mesh sheets       
+    will be used as spacers.    
+
+114
+00:07:26,747 --> 00:07:28,847
+       they'll create gaps      
+         for the liquid         
+
+115
+00:07:28,983 --> 00:07:32,017
+   to flow through the filter   
+     and over the membrane.     
+
+116
+00:07:33,020 --> 00:07:36,321
+        next, the system        
+cuts sheets of polyester fabric.
+
+117
+00:07:36,357 --> 00:07:37,790
+    these will form channels    
+
+118
+00:07:37,925 --> 00:07:40,792
+   through which the filtered   
+      material will travel.     
+
+119
+00:07:40,861 --> 00:07:44,663
+     these sheets are known     
+      as permeate spacers.      
+
+120
+00:07:44,665 --> 00:07:48,600
+       an employee stacks       
+  the polyester fabric sheets.  
+
+121
+00:07:48,736 --> 00:07:50,936
+      using high-frequency      
+          sound waves,          
+
+122
+00:07:50,938 --> 00:07:54,640
+ she welds one sheet to the next
+        at just one end.        
+
+123
+00:07:57,578 --> 00:08:01,146
+      she layers and welds      
+      a total of 15 sheets,     
+
+124
+00:08:01,182 --> 00:08:03,215
+        and then applies        
+       double-sided tape.       
+
+125
+00:08:03,217 --> 00:08:06,352
+    the tape is for attaching   
+  the packet to a central tube, 
+
+126
+00:08:06,487 --> 00:08:10,356
+    and it will also serve as   
+ a guide to correctly align it. 
+
+127
+00:08:13,694 --> 00:08:17,429
+     next, the membrane soup    
+    flows into a long trough.   
+
+128
+00:08:17,564 --> 00:08:21,767
+           it's a mix           
+of melted plastics and solvents.
+
+129
+00:08:21,836 --> 00:08:24,836
+      paper backing unwinds     
+         into the trough        
+
+130
+00:08:24,905 --> 00:08:28,640
+   and is coated with the soup  
+          on one side.          
+
+131
+00:08:28,676 --> 00:08:31,777
+  the coated paper then travels 
+    through two quench tanks,   
+
+132
+00:08:31,846 --> 00:08:34,312
+   and the plastic components   
+            solidify            
+
+133
+00:08:34,382 --> 00:08:36,715
+ as the solvents are drawn out. 
+
+134
+00:08:36,717 --> 00:08:39,717
+      the exiting solvents      
+ create a unique core structure 
+
+135
+00:08:39,754 --> 00:08:42,988
+        in the remaining        
+     white plastic membrane.    
+
+136
+00:08:42,990 --> 00:08:45,591
+        the membrane now        
+     travels by a light box,    
+
+137
+00:08:45,726 --> 00:08:49,060
+        which illuminates       
+       any visual defects.      
+
+138
+00:08:49,096 --> 00:08:53,565
+   an applicator also drips a   
+ preservative onto the membrane.
+
+139
+00:08:53,601 --> 00:08:57,302
+   a team unrolls the membrane  
+       onto a work table.       
+
+140
+00:08:59,606 --> 00:09:02,074
+        they lay a sheet        
+   of the polypropylene mesh,   
+
+141
+00:09:02,076 --> 00:09:05,778
+    which we saw cut to size    
+    earlier, on the membrane.   
+
+142
+00:09:08,449 --> 00:09:10,883
+          the employee          
+     then cuts the membrane     
+
+143
+00:09:10,918 --> 00:09:13,552
+to twice the length of the mesh.
+
+144
+00:09:13,621 --> 00:09:15,487
+     they fold the membrane     
+         over the mesh,         
+
+145
+00:09:15,622 --> 00:09:17,890
+  creating a membrane envelope. 
+
+146
+00:09:17,991 --> 00:09:20,024
+  the mesh serves as a pathway  
+            for fluid           
+
+147
+00:09:20,061 --> 00:09:22,628
+ to flow between the membranes. 
+
+148
+00:09:25,699 --> 00:09:27,199
+    meanwhile, another worker   
+
+149
+00:09:27,268 --> 00:09:30,836
+          applies epoxy         
+   to perforated plastic tube.  
+
+150
+00:09:30,971 --> 00:09:33,171
+           he attaches          
+   the permeate spacers to it   
+
+151
+00:09:33,240 --> 00:09:34,773
+   with the double-sided tape,  
+
+152
+00:09:34,842 --> 00:09:38,677
+  giving the epoxy time to cure 
+      for a permanent seal.     
+
+153
+00:09:40,514 --> 00:09:42,781
+       he and a colleague       
+        apply more epoxy        
+
+154
+00:09:42,783 --> 00:09:46,085
+        to the perimeter        
+      of the bottom sheet.      
+
+155
+00:09:46,187 --> 00:09:48,053
+          they transfer         
+   the membrane envelope to it  
+
+156
+00:09:48,188 --> 00:09:49,921
+     and continue to layer,     
+
+157
+00:09:49,957 --> 00:09:53,058
+    making a permeate fabric    
+     and membrane sandwich.     
+
+158
+00:09:56,630 --> 00:09:59,064
+      the worker then winds     
+    the glued layers snuggly    
+
+159
+00:09:59,066 --> 00:10:01,132
+  to a perforated plastic core, 
+
+160
+00:10:01,168 --> 00:10:03,902
+             forming            
+   the spiral membrane filter.  
+
+161
+00:10:05,673 --> 00:10:09,341
+ he tapes the multi-layered wad 
+   from one end to the other.   
+
+162
+00:10:09,410 --> 00:10:11,543
+    the tape holds everything   
+        tightly in place        
+
+163
+00:10:11,579 --> 00:10:14,246
+  as the epoxy cures overnight. 
+
+164
+00:10:15,716 --> 00:10:18,082
+       they leave the tape      
+       on after the cure,       
+
+165
+00:10:18,152 --> 00:10:20,886
+       and a machine winds      
+ epoxy-drenched fiberglass rope 
+
+166
+00:10:20,988 --> 00:10:23,021
+    around the entire filter.   
+
+167
+00:10:23,157 --> 00:10:26,158
+       as the epoxy cures,      
+
+168
+00:10:26,160 --> 00:10:30,762
+ the rope will form a hard shell
+   around the membrane filter.  
+
+169
+00:10:30,898 --> 00:10:32,231
+        partway through,        
+
+170
+00:10:32,366 --> 00:10:34,867
+      they apply the label      
+      with a company name.      
+
+171
+00:10:38,172 --> 00:10:43,575
+ the operator captures the glue 
+     runoff during the wind.    
+
+172
+00:10:43,710 --> 00:10:46,578
+        and it's a wrap,        
+      so he cuts the rope.      
+
+173
+00:10:48,782 --> 00:10:50,715
+         from the side,         
+  you can see the flow channels 
+
+174
+00:10:50,818 --> 00:10:52,784
+       between the layers.      
+
+175
+00:10:52,920 --> 00:10:56,588
+ concentrated contaminants will 
+  travel through them and out.  
+
+176
+00:10:56,657 --> 00:11:00,124
+  the filtered liquid will seep 
+     into the core and exit,    
+
+177
+00:11:00,161 --> 00:11:02,361
+        clearly improved.       
+
+178
+00:11:17,144 --> 00:11:18,743
+     narrator: the invention    
+  of the hydraulic post driver  
+
+179
+00:11:18,812 --> 00:11:20,411
+          in the 1960s          
+
+180
+00:11:20,447 --> 00:11:23,348
+     allowed workers to drop    
+ their shovels and sledgehammers
+
+181
+00:11:23,384 --> 00:11:26,485
+  and let a machine do the job  
+of pounding fence and sign posts
+
+182
+00:11:26,487 --> 00:11:27,885
+        into the ground.        
+
+183
+00:11:27,955 --> 00:11:30,488
+          when it comes         
+   to labor-saving inventions,  
+
+184
+00:11:30,558 --> 00:11:33,892
+     this one is definitely     
+       a striking example.      
+
+185
+00:11:37,464 --> 00:11:39,364
+         the post driver        
+
+186
+00:11:39,400 --> 00:11:43,034
+       raises hefty fence       
+  or sign posts into position,  
+
+187
+00:11:43,103 --> 00:11:46,471
+       and then slams them      
+        into the ground.        
+
+188
+00:11:49,910 --> 00:11:53,512
+     inside a vertical case,    
+       a hydraulic system       
+
+189
+00:11:53,647 --> 00:11:56,314
+    drops a 300-pound weight    
+       to drive the post,       
+
+190
+00:11:56,350 --> 00:11:58,317
+        and then lifts it       
+        for another hit.        
+
+191
+00:12:02,089 --> 00:12:05,390
+   this machine does the work   
+  of two or more brawny humans  
+
+192
+00:12:05,426 --> 00:12:09,394
+      with just one person      
+        at the controls.        
+
+193
+00:12:09,529 --> 00:12:12,864
+   to make it, they start with  
+ a vertical case for the weight.
+
+194
+00:12:13,000 --> 00:12:14,866
+  a high-precision plasma torch 
+
+195
+00:12:15,002 --> 00:12:17,268
+           cuts steel           
+    into a rectangular shape    
+
+196
+00:12:17,304 --> 00:12:19,738
+ and makes holes for components.
+
+197
+00:12:21,075 --> 00:12:25,076
+    they insert the rectangle   
+  into a break-press repeatedly 
+
+198
+00:12:25,145 --> 00:12:27,479
+           to bend it           
+    into a three-sided part.    
+
+199
+00:12:27,481 --> 00:12:29,614
+  the profile includes flanges  
+
+200
+00:12:29,617 --> 00:12:33,185
+         for welding it         
+  to the back wall of the case. 
+
+201
+00:12:35,155 --> 00:12:37,089
+        he fits the part        
+        to the back wall        
+
+202
+00:12:37,124 --> 00:12:41,026
+    and welds them together,    
+completing the post driver case.
+
+203
+00:12:44,932 --> 00:12:47,899
+       an employee builds       
+     the post driver weight     
+
+204
+00:12:47,901 --> 00:12:50,002
+ working within a weld fixture. 
+
+205
+00:12:51,772 --> 00:12:56,008
+    it's a box-shaped weight,   
+  and he welds it at the seams. 
+
+206
+00:12:57,911 --> 00:12:59,978
+       he taps the corners      
+        between the welds       
+
+207
+00:13:00,113 --> 00:13:02,947
+           to maintain          
+     a tight configuration.     
+
+208
+00:13:04,051 --> 00:13:08,053
+ this 300-pound weight can later
+    be filled with steel shot   
+
+209
+00:13:08,122 --> 00:13:12,190
+     to make it even heavier    
+       for greater impact.      
+
+210
+00:13:12,192 --> 00:13:15,393
+    the next worker assembles   
+   yellow steel jaws to a hub   
+
+211
+00:13:15,462 --> 00:13:17,462
+     to produce the grapple.    
+
+212
+00:13:17,597 --> 00:13:20,399
+        this is the part        
+    that grips the fence post   
+
+213
+00:13:20,534 --> 00:13:22,434
+  and raises it into position.  
+
+214
+00:13:25,072 --> 00:13:27,539
+    he sticks a danger label    
+          onto the hub          
+
+215
+00:13:27,541 --> 00:13:31,310
+  to warn people to stay clear  
+     of these powerful jaws.    
+
+216
+00:13:33,013 --> 00:13:35,280
+           he attaches          
+      a hydraulic cylinder,     
+
+217
+00:13:35,349 --> 00:13:38,617
+         which will make        
+    the jaws open and close.    
+
+218
+00:13:40,154 --> 00:13:43,455
+    he connects the cylinder    
+       to the grapple jaw.      
+
+219
+00:13:46,093 --> 00:13:47,892
+              next,             
+ they move on to the metal plate
+
+220
+00:13:47,928 --> 00:13:50,896
+   that will be used to mount   
+  the post driver to a vehicle, 
+
+221
+00:13:50,898 --> 00:13:53,698
+    like a skid-steer loader.   
+
+222
+00:13:53,701 --> 00:13:55,700
+           it includes          
+      a hydraulic mechanism     
+
+223
+00:13:55,703 --> 00:13:58,470
+   for tilting the fence post   
+         left or right.         
+
+224
+00:14:02,109 --> 00:14:05,110
+ the employee installs a control
+   valve next to the cylinder   
+
+225
+00:14:05,245 --> 00:14:08,646
+  and links the two with hoses. 
+
+226
+00:14:08,716 --> 00:14:10,048
+ he'll also connect the grapple 
+
+227
+00:14:10,183 --> 00:14:12,718
+      and weight hydraulics     
+         to this valve.         
+
+228
+00:14:20,460 --> 00:14:23,661
+  back to the post driver case  
+    now -- it's been painted,   
+
+229
+00:14:23,697 --> 00:14:26,264
+  and they're ready to install  
+      the hydraulic motor.      
+
+230
+00:14:26,333 --> 00:14:28,934
+     the worker connects it     
+   to the sprockets and chains  
+
+231
+00:14:28,936 --> 00:14:31,135
+   that will lift the weight.   
+
+232
+00:14:31,171 --> 00:14:32,871
+he pins the sprockets into place
+
+233
+00:14:33,006 --> 00:14:36,842
+  and installs tensioning rods  
+         on either side.        
+
+234
+00:14:39,480 --> 00:14:42,947
+       next, a cover plate      
+     protects the sprockets.    
+
+235
+00:14:43,016 --> 00:14:46,017
+       the tensioning rods      
+      protrude through it.      
+
+236
+00:14:47,154 --> 00:14:50,888
+        he slides springs       
+   onto those tensioning rods   
+
+237
+00:14:50,924 --> 00:14:54,059
+   and compresses the springs   
+    to maintain the tension.    
+
+238
+00:14:57,097 --> 00:15:00,966
+   he now attaches the grapple  
+    to the post driver case.    
+
+239
+00:15:03,303 --> 00:15:05,937
+     he locks it into place     
+        with a long pin.        
+
+240
+00:15:10,911 --> 00:15:14,111
+ he links the grapple hydraulics
+      to the control valve.     
+
+241
+00:15:14,148 --> 00:15:16,380
+     and it's ready to grab     
+         big fence posts        
+
+242
+00:15:16,417 --> 00:15:18,784
+       and hold on tight.       
+
+243
+00:15:22,189 --> 00:15:27,125
+ they attach the metal mounting 
+ plate to the post driver case. 
+
+244
+00:15:27,194 --> 00:15:29,794
+    the work table tilts back   
+     to move the post driver    
+
+245
+00:15:29,863 --> 00:15:32,130
+    into an upright position.   
+
+246
+00:15:34,168 --> 00:15:35,467
+    with the help of a crane,   
+
+247
+00:15:35,602 --> 00:15:38,336
+         the next worker        
+ moves the weight into position 
+
+248
+00:15:38,405 --> 00:15:40,806
+  and lowers it into the case.  
+
+249
+00:15:48,415 --> 00:15:50,081
+he slides a pin into the top end
+
+250
+00:15:50,150 --> 00:15:51,883
+       to keep the weight       
+        from falling out        
+
+251
+00:15:51,919 --> 00:15:54,486
+      when the post driver      
+         is on an angle.        
+
+252
+00:15:59,759 --> 00:16:01,226
+     one day in the making,     
+
+253
+00:16:01,361 --> 00:16:05,697
+  this hydraulic post driver is 
+ ready for years of heavy labor,
+
+254
+00:16:05,766 --> 00:16:11,002
+ taking over for humans so they 
+  don't have to move a muscle.  
+
+255
+00:16:26,854 --> 00:16:28,719
+       narrator: a biplane      
+   is a vintage-style aircraft  
+
+256
+00:16:28,755 --> 00:16:31,790
+     with two pairs of wings    
+  sitting one above the other.  
+
+257
+00:16:31,925 --> 00:16:35,126
+   the top wings are typically  
+    raised above the fuselage   
+
+258
+00:16:35,162 --> 00:16:38,330
+  with vertical struts bracing  
+    them to the bottom wings.   
+
+259
+00:16:38,465 --> 00:16:41,265
+dating back to the earliest days
+          of aviation,          
+
+260
+00:16:41,301 --> 00:16:45,070
+      they're still popular     
+   for performing aerobatics.   
+
+261
+00:16:45,072 --> 00:16:48,473
+     a biplane's lower wings    
+         have ailerons,         
+
+262
+00:16:48,608 --> 00:16:51,943
+     which bank the airplane    
+      to the right or left.     
+
+263
+00:16:51,979 --> 00:16:53,144
+      on the plane's tail,      
+
+264
+00:16:53,280 --> 00:16:56,348
+elevators pitch the plane's nose
+           up or down           
+
+265
+00:16:56,483 --> 00:16:59,217
+    while a rudder steers it    
+         left or right.         
+
+266
+00:16:59,286 --> 00:17:02,554
+           a propeller          
+    provides the propulsion.    
+
+267
+00:17:02,623 --> 00:17:05,757
+    the plane has four wings.   
+
+268
+00:17:05,759 --> 00:17:07,892
+    each wing has two spars,    
+
+269
+00:17:07,961 --> 00:17:10,028
+          wooden beams          
+     at the front and rear,     
+
+270
+00:17:10,097 --> 00:17:12,096
+           which form           
+    the perimeter structure.    
+
+271
+00:17:12,132 --> 00:17:16,968
+ a craftsman skillfully fashions
+these spars out of sitka spruce.
+
+272
+00:17:16,970 --> 00:17:20,505
+ this wood is exceedingly light,
+    yet exceptionally strong,   
+
+273
+00:17:20,640 --> 00:17:22,374
+          making it one         
+       of only a few woods      
+
+274
+00:17:22,509 --> 00:17:26,578
+   approved for structural use  
+          in airplanes.         
+
+275
+00:17:26,647 --> 00:17:29,046
+      after sawing the wood     
+      to the spar's shape,      
+
+276
+00:17:29,082 --> 00:17:32,050
+   he mounts attachment plates  
+      made of sitka spruce      
+
+277
+00:17:32,119 --> 00:17:33,985
+      and mahogany plywood.     
+
+278
+00:17:34,021 --> 00:17:35,520
+    these are the end struts,   
+
+279
+00:17:35,589 --> 00:17:37,922
+       steel vertical bars      
+  which will connect the upper  
+
+280
+00:17:38,024 --> 00:17:40,125
+        and lower wings.        
+
+281
+00:17:40,260 --> 00:17:43,528
+      he finishes the spar      
+    by refining its contour,    
+
+282
+00:17:43,530 --> 00:17:48,265
+    first with a hand plane,    
+     then an electric plane.    
+
+283
+00:17:48,302 --> 00:17:50,402
+  using strips of sitka spruce, 
+
+284
+00:17:50,537 --> 00:17:54,472
+he constructs 15 structural ribs
+         for each wing.         
+
+285
+00:17:54,474 --> 00:17:56,474
+   he begins with long strips,  
+
+286
+00:17:56,476 --> 00:18:00,345
+which have been soaking in water
+for a week to make them pliable.
+
+287
+00:18:00,414 --> 00:18:03,081
+       he inserts one end       
+      into a curved fixture     
+
+288
+00:18:03,216 --> 00:18:06,017
+  and leaves the strips to dry. 
+
+289
+00:18:06,152 --> 00:18:08,620
+  when he removes them a couple 
+         of days later,         
+
+290
+00:18:08,622 --> 00:18:11,089
+      they have a permanent     
+       aerodynamic curve.       
+
+291
+00:18:11,224 --> 00:18:13,224
+            he glues            
+   two curved strips together   
+
+292
+00:18:13,260 --> 00:18:15,093
+      to form the perimeter     
+           of one rib.          
+
+293
+00:18:15,228 --> 00:18:20,432
+   in between, he glues short   
+ diagonal strips called trusses.
+
+294
+00:18:20,567 --> 00:18:23,435
+    he reinforces both sides    
+      of each intersection      
+
+295
+00:18:23,437 --> 00:18:27,305
+    with a rectangular piece    
+        called a gusset.        
+
+296
+00:18:27,307 --> 00:18:29,640
+ an assembler mounts the 15 ribs
+            crosswise           
+
+297
+00:18:29,676 --> 00:18:32,110
+      on the front and rear     
+           wing spars,          
+
+298
+00:18:32,179 --> 00:18:37,048
+  then installs three aluminum  
+ tubes called compression ribs. 
+
+299
+00:18:37,050 --> 00:18:39,717
+      these absorb air load     
+       hitting the spars,       
+
+300
+00:18:39,786 --> 00:18:43,188
+     keeping the wooden ribs    
+  from flexing under pressure.  
+
+301
+00:18:43,190 --> 00:18:45,323
+          the craftsman         
+  connects the compression ribs 
+
+302
+00:18:45,325 --> 00:18:47,726
+ with criss-crossing metal rods.
+
+303
+00:18:49,396 --> 00:18:54,365
+    after applying more glue    
+       to critical areas,       
+
+304
+00:18:54,401 --> 00:18:56,000
+    he nails an aluminum trim   
+
+305
+00:18:56,003 --> 00:18:59,537
+       over the front spar      
+      and nose of the ribs.     
+
+306
+00:18:59,573 --> 00:19:01,939
+this is called the leading edge.
+
+307
+00:19:01,975 --> 00:19:05,276
+ it's the first part of the wing
+        to hit the wind,        
+
+308
+00:19:05,412 --> 00:19:07,512
+      so it takes the brunt     
+        of the air load.        
+
+309
+00:19:09,349 --> 00:19:13,418
+ finally, he laces reinforcement
+      tape through the ribs     
+
+310
+00:19:13,553 --> 00:19:15,887
+        in an x pattern.        
+
+311
+00:19:15,956 --> 00:19:19,557
+   the completed structure now  
+moves to the covering department
+
+312
+00:19:19,593 --> 00:19:21,025
+   where technicians drape it   
+
+313
+00:19:21,061 --> 00:19:24,028
+       in heat shrinkable       
+        polyester fabric.       
+
+314
+00:19:24,031 --> 00:19:27,565
+  they cut the fabric to size,  
+ glue it to the wing perimeter, 
+
+315
+00:19:27,701 --> 00:19:29,234
+      and heat the surface      
+          with an iron          
+
+316
+00:19:29,236 --> 00:19:31,903
+      to shrink the fabric      
+        until it's taut.        
+
+317
+00:19:31,972 --> 00:19:35,907
+then, they stitch over the glued
+   areas with polyester cord.   
+
+318
+00:19:35,909 --> 00:19:37,976
+    they brush on a chemical    
+      which seals the pores     
+
+319
+00:19:38,111 --> 00:19:39,644
+         of the fabric.         
+
+320
+00:19:39,746 --> 00:19:42,513
+     this primes the surface    
+     to receive a spray coat    
+
+321
+00:19:42,549 --> 00:19:44,115
+     of polyurethane paint,     
+
+322
+00:19:44,250 --> 00:19:47,786
+ which is a special formulation 
+  designed for aircraft bodies. 
+
+323
+00:19:50,256 --> 00:19:52,657
+      technicians construct     
+       the fuselage frame       
+
+324
+00:19:52,792 --> 00:19:56,327
+      out of high-strength      
+       steel alloy tubes.       
+
+325
+00:19:56,329 --> 00:19:59,931
+  they use an electric torch to 
+ slightly melt adjoining pieces 
+
+326
+00:19:59,933 --> 00:20:02,534
+   so they fuse to each other.  
+
+327
+00:20:02,669 --> 00:20:05,603
+ because there's no filler metal
+       bonding the pieces,      
+
+328
+00:20:05,639 --> 00:20:08,440
+ the welds don't add any weight 
+        to the structure.       
+
+329
+00:20:11,211 --> 00:20:12,677
+    after painting the frame,   
+
+330
+00:20:12,812 --> 00:20:16,748
+  technicians install aluminum  
+   floor panels and bulkheads.  
+
+331
+00:20:16,750 --> 00:20:19,150
+      in the tail, they add     
+    lighter weight bulkheads    
+
+332
+00:20:19,152 --> 00:20:23,354
+    made of mahogany plywood    
+        and sitka spruce.       
+
+333
+00:20:23,390 --> 00:20:24,956
+         then it's time         
+       to bolt the engine       
+
+334
+00:20:25,091 --> 00:20:27,692
+          to the front          
+     of the fuselage frame.     
+
+335
+00:20:33,500 --> 00:20:35,433
+  the engine drives a propeller 
+
+336
+00:20:35,435 --> 00:20:39,170
+ made of either wood, aluminum, 
+    or a composite material.    
+
+337
+00:20:39,239 --> 00:20:42,907
+  painted aluminum body panels  
+        cover the frame.        
+
+338
+00:20:42,976 --> 00:20:44,576
+           technicians          
+      install the fuel tank     
+
+339
+00:20:44,711 --> 00:20:47,979
+    between the front cockpit   
+         and the engine.        
+
+340
+00:20:47,981 --> 00:20:51,516
+    then they bolt the wings    
+        to the fuselage.        
+
+341
+00:20:51,651 --> 00:20:54,052
+      vertical steel struts     
+      connect and reinforce     
+
+342
+00:20:54,187 --> 00:20:55,987
+     the two levels of wings    
+
+343
+00:20:55,989 --> 00:20:58,923
+   bolting to those attachment  
+    plates on the wing spars.   
+
+344
+00:21:00,894 --> 00:21:04,395
+     next, technicians mount    
+ the painted aluminum ailerons, 
+
+345
+00:21:04,464 --> 00:21:06,598
+            the tail,           
+  with its elevators and rudder 
+
+346
+00:21:06,733 --> 00:21:09,200
+     made of painted fabric     
+       over welded steel,       
+
+347
+00:21:09,202 --> 00:21:11,135
+   and then the engine cover.   
+
+348
+00:21:11,171 --> 00:21:13,404
+    they install a windscreen   
+
+349
+00:21:13,540 --> 00:21:15,807
+      and instrument panel      
+        for each cockpit.       
+
+350
+00:21:15,942 --> 00:21:19,611
+the front screen can be replaced
+      with a cockpit cover      
+
+351
+00:21:19,613 --> 00:21:23,515
+     to keep the pilots warm    
+  when flying in cold weather.  
+

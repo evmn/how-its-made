@@ -1,0 +1,1460 @@
+﻿1
+00:00:02,069 --> 00:00:05,071
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,073 --> 00:00:08,107
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:52,053 --> 00:00:53,586
+      narrator: every day,      
+
+4
+00:00:53,588 --> 00:00:56,922
+       millions of people       
+ around the world use escalators
+
+5
+00:00:56,924 --> 00:00:59,992
+  in places like shopping malls 
+          and airports.         
+
+6
+00:00:59,994 --> 00:01:03,862
+ escalators can move 100 or more
+   people just as easily as 1.  
+
+7
+00:01:03,864 --> 00:01:06,799
+       driven by a motor,       
+     these moving stairways     
+
+8
+00:01:06,801 --> 00:01:10,069
+     make it very convenient    
+    for people to get around.   
+
+9
+00:01:13,741 --> 00:01:16,208
+  riding an escalator is easy,  
+
+10
+00:01:16,210 --> 00:01:18,878
+   but building the smoothest   
+  and most quiet ride possible  
+
+11
+00:01:18,880 --> 00:01:20,746
+        takes expertise.        
+
+12
+00:01:22,750 --> 00:01:25,017
+            it starts           
+  with workers welding together 
+
+13
+00:01:25,019 --> 00:01:27,620
+    the structural framework    
+        of the escalator.       
+
+14
+00:01:27,622 --> 00:01:29,154
+   like the chassis of a car,   
+
+15
+00:01:29,156 --> 00:01:32,024
+        the track system        
+    and all other components    
+
+16
+00:01:32,026 --> 00:01:34,293
+  will be bolted to this frame. 
+
+17
+00:01:37,832 --> 00:01:40,566
+     a worker puts together     
+      the main drive gear,      
+
+18
+00:01:40,568 --> 00:01:43,102
+    which hooks up to a motor   
+          with a chain.         
+
+19
+00:01:43,104 --> 00:01:47,305
+     it will pull the steps     
+       and the handrails.       
+
+20
+00:01:47,307 --> 00:01:50,375
+           he puts on           
+    an emergency-brake device   
+
+21
+00:01:50,377 --> 00:01:53,279
+         and uses bolts         
+     to secure it in place.     
+
+22
+00:01:56,984 --> 00:01:59,251
+     he attaches side frames    
+           to the gear          
+
+23
+00:01:59,253 --> 00:02:02,187
+     to make what is called     
+    the transition assembly.    
+
+24
+00:02:02,189 --> 00:02:05,391
+     this assembly includes     
+  a drive gear for the handrail 
+
+25
+00:02:05,393 --> 00:02:07,660
+      and allows the steps      
+          to loop back          
+
+26
+00:02:07,662 --> 00:02:10,796
+ at both ends of the escalator. 
+
+27
+00:02:10,798 --> 00:02:13,532
+  he then lowers the completed  
+       transition assembly      
+
+28
+00:02:13,534 --> 00:02:17,536
+  into the truss -- the hollow  
+  structure of the escalator.   
+
+29
+00:02:24,412 --> 00:02:27,279
+  with the transition assembly  
+            in place,           
+
+30
+00:02:27,281 --> 00:02:29,148
+      workers then install      
+         a comb plate --        
+
+31
+00:02:29,150 --> 00:02:31,483
+ the last part of the escalator 
+        a person steps on       
+
+32
+00:02:31,485 --> 00:02:34,153
+       before getting onto      
+        the moving steps.       
+
+33
+00:02:34,155 --> 00:02:37,622
+    a worker makes the steps    
+     using aluminum ingots,     
+
+34
+00:02:37,624 --> 00:02:39,759
+ which he puts into a crucible. 
+
+35
+00:02:42,830 --> 00:02:44,496
+ they then apply a release agent
+
+36
+00:02:44,498 --> 00:02:46,499
+           to the mold          
+     used to make the steps.    
+
+37
+00:02:48,836 --> 00:02:50,703
+     spraying more lubricant    
+           on the mold          
+
+38
+00:02:50,705 --> 00:02:53,172
+   ensures the aluminum stair   
+      will release properly     
+
+39
+00:02:53,174 --> 00:02:54,907
+   from the die-cast machine,   
+
+40
+00:02:54,909 --> 00:02:56,842
+  which automatically receives  
+
+41
+00:02:56,844 --> 00:02:59,911
+        the exact amount        
+    of molten aluminum needed   
+
+42
+00:02:59,913 --> 00:03:01,681
+        to make one step.       
+
+43
+00:03:06,988 --> 00:03:10,989
+a robot then takes the one-piece
+ step from the die-cast machine 
+
+44
+00:03:10,991 --> 00:03:13,726
+         and carries it         
+   to the trimming department.  
+
+45
+00:03:15,730 --> 00:03:19,398
+       here, a trim press       
+ removes some residual aluminum.
+
+46
+00:03:26,473 --> 00:03:30,743
+  the excess material goes back 
+ to the crucible to be recycled.
+
+47
+00:03:32,680 --> 00:03:36,081
+     once the robot finishes    
+ a general trimming of the step,
+
+48
+00:03:36,083 --> 00:03:38,651
+           it sends it          
+  to the finishing department.  
+
+49
+00:03:42,290 --> 00:03:47,093
+     there, finishing robots    
+ then file off the sharp edges. 
+
+50
+00:03:51,698 --> 00:03:54,233
+      the robot also files      
+      in between the teeth      
+
+51
+00:03:54,235 --> 00:03:55,801
+    that go across the step.    
+
+52
+00:03:59,240 --> 00:04:01,707
+     then it passes the step    
+       over a belt sander,      
+
+53
+00:04:01,709 --> 00:04:04,410
+ making it smooth to the touch. 
+
+54
+00:04:11,452 --> 00:04:13,519
+ transformed from solid aluminum
+
+55
+00:04:13,521 --> 00:04:16,455
+          to a casting          
+ that is painted and assembled, 
+
+56
+00:04:16,457 --> 00:04:20,392
+      the step is now ready     
+        to be installed.        
+
+57
+00:04:20,394 --> 00:04:24,396
+   a worker rolls out a chain   
+ of rollers called a step chain.
+
+58
+00:04:27,067 --> 00:04:28,266
+    he greases all the pins.    
+
+59
+00:04:28,268 --> 00:04:31,403
+  then they place all the steps 
+         into position.         
+
+60
+00:04:37,678 --> 00:04:40,078
+      workers then connect      
+     the axles on the steps     
+
+61
+00:04:40,080 --> 00:04:41,680
+  to the pins in the step chain 
+
+62
+00:04:41,682 --> 00:04:44,717
+   and then lock them together  
+      using a spring clip.      
+
+63
+00:04:48,088 --> 00:04:52,725
+they feed the required length of
+ chain and steps into the unit. 
+
+64
+00:04:59,132 --> 00:05:02,234
+     a worker then attaches     
+       a turnaround track.      
+
+65
+00:05:02,236 --> 00:05:05,170
+      the turnaround track      
+   allows the length of steps   
+
+66
+00:05:05,172 --> 00:05:06,705
+    to make a continuous loop   
+
+67
+00:05:06,707 --> 00:05:09,475
+  from one end of the escalator 
+          to the other.         
+
+68
+00:05:11,979 --> 00:05:14,379
+       the escalator runs       
+      for about five hours      
+
+69
+00:05:14,381 --> 00:05:18,117
+      to ensure it operates     
+      quietly and properly.     
+
+70
+00:05:18,119 --> 00:05:20,118
+   during this testing period,  
+
+71
+00:05:20,120 --> 00:05:24,423
+    it goes through up to 250   
+     quality-control checks.    
+
+72
+00:05:30,398 --> 00:05:32,464
+  after passing all the tests,  
+
+73
+00:05:32,466 --> 00:05:36,268
+      workers wrap the unit     
+     in heat-shrink plastic.    
+
+74
+00:05:36,270 --> 00:05:38,937
+   the escalator is now ready   
+   to load on a flatbed truck   
+
+75
+00:05:38,939 --> 00:05:41,373
+  for delivery to the customer. 
+
+76
+00:05:54,488 --> 00:05:57,089
+            narrator:           
+   your canoe may well be made  
+
+77
+00:05:57,091 --> 00:06:00,559
+  of the same material they use 
+   to make bulletproof vests.   
+
+78
+00:06:00,561 --> 00:06:01,694
+          that's right.         
+
+79
+00:06:01,696 --> 00:06:04,830
+        many canoes today       
+are made of woven aramid fibers,
+
+80
+00:06:04,832 --> 00:06:07,232
+          better known          
+   by the trade name "kevlar."  
+
+81
+00:06:07,234 --> 00:06:09,902
+       for canoes, though,      
+   they use a lesser density,   
+
+82
+00:06:09,904 --> 00:06:13,839
+       since, presumably,       
+ no one will be shooting at you.
+
+83
+00:06:19,113 --> 00:06:20,445
+         a kevlar canoe         
+
+84
+00:06:20,447 --> 00:06:23,582
+    weighs about half as much   
+ as a wooden or aluminum canoe, 
+
+85
+00:06:23,584 --> 00:06:26,185
+       and it's virtually       
+       maintenance-free.        
+
+86
+00:06:28,188 --> 00:06:32,324
+  they build these canoes from  
+ several layers of kevlar fabric
+
+87
+00:06:32,326 --> 00:06:35,895
+    glued together to create    
+   a solid laminate material.   
+
+88
+00:06:38,266 --> 00:06:42,000
+ it all begins with a fiberglass
+    mold of the canoe's hull.   
+
+89
+00:06:42,002 --> 00:06:45,404
+   the first step is to spread  
+    resin over its interior.    
+
+90
+00:06:45,406 --> 00:06:46,605
+        once that's done,       
+
+91
+00:06:46,607 --> 00:06:49,074
+  they spread a sheet of kevlar 
+         over the resin         
+
+92
+00:06:49,076 --> 00:06:53,212
+  and rub it against the mold   
+  to push out any air bubbles.  
+
+93
+00:06:53,214 --> 00:06:57,216
+       then they trim off       
+       the excess fabric.       
+
+94
+00:06:57,218 --> 00:07:01,086
+        using a squeegee,       
+ they force out any excess resin
+
+95
+00:07:01,088 --> 00:07:03,422
+     and stretch the fabric     
+        until it's taut.        
+
+96
+00:07:03,424 --> 00:07:07,693
+ this step ensures the laminate 
+will turn out strong and smooth.
+
+97
+00:07:07,695 --> 00:07:12,764
+ they repeat this entire process
+ with a second layer of kevlar, 
+
+98
+00:07:12,766 --> 00:07:15,167
+        then run a roller       
+         over everything        
+
+99
+00:07:15,169 --> 00:07:16,902
+    to expel any excess resin   
+
+100
+00:07:16,904 --> 00:07:20,105
+      and press the layers      
+        tightly together.       
+
+101
+00:07:20,107 --> 00:07:22,975
+             now for            
+   some structural components.  
+
+102
+00:07:22,977 --> 00:07:27,713
+pieces of thin high-density foam
+go along the bottom of the hull.
+
+103
+00:07:27,715 --> 00:07:31,350
+ glue bonds them to each other  
+ and to the bottom of the hull. 
+
+104
+00:07:33,387 --> 00:07:35,653
+         using a machine        
+        called a hot box,       
+
+105
+00:07:35,655 --> 00:07:40,526
+       they begin heating       
+  strips of foam to curve them. 
+
+106
+00:07:40,528 --> 00:07:43,395
+       these curved pieces      
+        are called ribs.        
+
+107
+00:07:43,397 --> 00:07:46,999
+    they reinforce the sides,   
+      adhering with resin.      
+
+108
+00:07:49,336 --> 00:07:52,137
+    with the structural core    
+     of the canoe complete,     
+
+109
+00:07:52,139 --> 00:07:55,407
+       they now encase it       
+   in a third layer of kevlar.  
+
+110
+00:07:55,409 --> 00:07:56,942
+        once that's down,       
+
+111
+00:07:56,944 --> 00:08:00,545
+ they prepare to bond everything
+ together with vacuum pressure. 
+
+112
+00:08:00,547 --> 00:08:02,681
+          they lay down         
+     a sheet of white fabric    
+
+113
+00:08:02,683 --> 00:08:04,683
+           impregnated          
+     with a nonstick coating    
+
+114
+00:08:04,685 --> 00:08:07,753
+    to prevent the vacuum bag   
+  from sticking to the surface. 
+
+115
+00:08:07,755 --> 00:08:10,689
+    this mesh, called scrim,    
+          goes on next.         
+
+116
+00:08:10,691 --> 00:08:14,393
+   it helps stimulate airflow   
+   during that vacuum process.  
+
+117
+00:08:16,697 --> 00:08:20,366
+     now they tape a plastic    
+   vacuum bag around the mold,  
+
+118
+00:08:20,368 --> 00:08:22,434
+   sealing everything inside.   
+
+119
+00:08:22,436 --> 00:08:25,838
+    then they connect one end   
+      of a hose to the bag      
+
+120
+00:08:25,840 --> 00:08:30,309
+        and the other end       
+      to a vacuum machine.      
+
+121
+00:08:30,311 --> 00:08:34,245
+  the vacuum steadily draws out 
+  the air from within the bag,  
+
+122
+00:08:34,247 --> 00:08:37,483
+  pulling the layers of kevlar  
+        tightly together.       
+
+123
+00:08:43,257 --> 00:08:47,860
+       after 8 to 10 hours      
+under vacuum, the bag comes off.
+
+124
+00:08:49,663 --> 00:08:51,263
+     if a canoe flips over,     
+
+125
+00:08:51,265 --> 00:08:54,399
+ flotation tanks in the corners 
+         keep it afloat.        
+
+126
+00:08:54,401 --> 00:08:59,004
+ workers build each tank out of 
+ two pieces of low-density foam.
+
+127
+00:08:59,006 --> 00:09:01,473
+       after sanding them       
+       to the right shape,      
+
+128
+00:09:01,475 --> 00:09:04,276
+        they lay a sheet        
+   of fiberglass mat over them  
+
+129
+00:09:04,278 --> 00:09:05,811
+     and coat it with resin.    
+
+130
+00:09:05,813 --> 00:09:07,479
+    this strengthens the foam   
+
+131
+00:09:07,481 --> 00:09:10,082
+    and seals the two pieces    
+         into one unit.         
+
+132
+00:09:10,084 --> 00:09:13,285
+      after the resin cures     
+          for an hour,          
+
+133
+00:09:13,287 --> 00:09:16,422
+     they extract the canoe     
+         from the mold.         
+
+134
+00:09:19,693 --> 00:09:23,495
+  the factory's quality-control 
+    inspector checks it over    
+
+135
+00:09:23,497 --> 00:09:24,963
+   and, if everything's okay,   
+
+136
+00:09:24,965 --> 00:09:27,399
+    applies a protective coat   
+            of resin.           
+
+137
+00:09:29,637 --> 00:09:30,969
+        once that's dry,        
+
+138
+00:09:30,971 --> 00:09:33,972
+     they cap the edges with    
+aluminum strips called gunwales,
+
+139
+00:09:33,974 --> 00:09:36,574
+       which keep the hull      
+     from folding inward...     
+
+140
+00:09:36,576 --> 00:09:38,977
+   then an aluminum crossbeam   
+
+141
+00:09:38,979 --> 00:09:42,781
+       and a nylon end cap      
+         on each end...         
+
+142
+00:09:42,783 --> 00:09:46,184
+   a wooden yoke for carrying   
+  the canoe upside down on land 
+
+143
+00:09:46,186 --> 00:09:49,588
+        and a wooden seat       
+       with nylon webbing.      
+
+144
+00:09:53,394 --> 00:09:57,329
+     workers rivet all these    
+   components to the gunwales,  
+
+145
+00:09:57,331 --> 00:10:01,333
+     then rivet the gunwales    
+securely to the kevlar laminate.
+
+146
+00:10:04,604 --> 00:10:08,606
+ this factory puts every canoe  
+ it produces on a digital scale 
+
+147
+00:10:08,608 --> 00:10:11,543
+       to ensure it meets       
+     weight specifications.     
+
+148
+00:10:13,881 --> 00:10:16,948
+         if all is well,        
+ the finishing touch is a decal 
+
+149
+00:10:16,950 --> 00:10:19,785
+           displaying           
+    the manufacturer's name.    
+
+150
+00:10:21,755 --> 00:10:25,090
+    kevlar canoes, like those   
+    made of other materials,    
+
+151
+00:10:25,092 --> 00:10:27,893
+vary in size, shape, and design.
+
+152
+00:10:30,030 --> 00:10:33,098
+  a canoe intended for fishing  
+    or hunting, for example,    
+
+153
+00:10:33,100 --> 00:10:36,367
+   is quite different than one  
+  designed for long expeditions 
+
+154
+00:10:36,369 --> 00:10:38,970
+ or for a two-person racing team
+
+155
+00:10:38,972 --> 00:10:41,473
+     or for a solo canoeist.    
+
+156
+00:10:58,325 --> 00:11:01,727
+            narrator:           
+    goat cheese tastes tarter   
+than cheese made from cow's milk
+
+157
+00:11:01,729 --> 00:11:03,995
+       because goat's milk      
+     has a higher proportion    
+
+158
+00:11:03,997 --> 00:11:06,398
+     of certain fatty acids,    
+    which sharpen the flavor.   
+
+159
+00:11:06,400 --> 00:11:09,200
+     there are hard and soft    
+    varieties of goat cheese.   
+
+160
+00:11:09,202 --> 00:11:11,803
+ the soft ones are usually sold 
+        in logs or disks        
+
+161
+00:11:11,805 --> 00:11:14,873
+    and often have a coating    
+ of peppercorns, chopped herbs, 
+
+162
+00:11:14,875 --> 00:11:16,875
+      or other flavorings.      
+
+163
+00:11:20,347 --> 00:11:22,013
+ the texture of soft goat cheese
+
+164
+00:11:22,015 --> 00:11:24,349
+         makes it ideal         
+    for spreading on crackers   
+
+165
+00:11:24,351 --> 00:11:27,686
+          or crumbling          
+      over pasta or salads.     
+
+166
+00:11:27,688 --> 00:11:30,021
+           goat cheese          
+    is also called "chèvre,"    
+
+167
+00:11:30,023 --> 00:11:31,690
+   the french word for "goat."  
+
+168
+00:11:31,692 --> 00:11:35,360
+  farmers start breeding goats  
+when the animals are a year old.
+
+169
+00:11:35,362 --> 00:11:37,896
+     their gestation period     
+       lasts five months,       
+
+170
+00:11:37,898 --> 00:11:39,764
+ meaning milk production begins 
+
+171
+00:11:39,766 --> 00:11:43,101
+           at the age           
+   of about a year and a half.  
+
+172
+00:11:43,103 --> 00:11:47,572
+   the goats go for a milking   
+      every 12 hours or so.     
+
+173
+00:11:47,574 --> 00:11:50,642
+  the first step is to manually 
+   squirt some milk into a cup  
+
+174
+00:11:50,644 --> 00:11:52,911
+      to check the quality.     
+
+175
+00:11:52,913 --> 00:11:56,714
+   if it looks good, they wipe  
+   the teats with disinfectant  
+
+176
+00:11:56,716 --> 00:11:59,718
+   to remove surface bacteria.  
+
+177
+00:11:59,720 --> 00:12:03,155
+        then they hook up       
+  the automated milk extractor. 
+
+178
+00:12:12,999 --> 00:12:16,368
+         a milking takes        
+   just two or three minutes.   
+
+179
+00:12:18,339 --> 00:12:21,540
+       it typically yields      
+         2 to 3 quarts.         
+
+180
+00:12:24,878 --> 00:12:27,545
+     at the cheese factory,     
+         the goat's milk        
+
+181
+00:12:27,547 --> 00:12:31,350
+    goes into a steam-heated    
+      pasteurization tank.      
+
+182
+00:12:31,352 --> 00:12:35,420
+   an agitator stirs the milk   
+nonstop to keep it from cooking.
+
+183
+00:12:37,358 --> 00:12:40,425
+       they heat the milk       
+     to 66 degrees celsius,     
+
+184
+00:12:40,427 --> 00:12:43,028
+  which kills off any bacteria. 
+
+185
+00:12:45,298 --> 00:12:49,501
+ with the milk now pasteurized, 
+  they add bacterial cultures.  
+
+186
+00:12:49,503 --> 00:12:52,037
+        these kick-start        
+        the fermentation.       
+
+187
+00:12:53,840 --> 00:12:55,374
+      then they add rennet.     
+
+188
+00:12:55,376 --> 00:12:56,574
+        diluted in water,       
+
+189
+00:12:56,576 --> 00:12:59,378
+      rennet is an extract      
+      from calf stomachs.       
+
+190
+00:12:59,380 --> 00:13:02,281
+       it contains enzymes      
+       which curdle milk.       
+
+191
+00:13:04,251 --> 00:13:06,451
+with the cultures and rennet in,
+
+192
+00:13:06,453 --> 00:13:09,454
+workers now let the milk ferment
+          for 18 hours.         
+
+193
+00:13:09,456 --> 00:13:14,960
+   the result -- cheese curds   
+and a watery liquid called whey.
+
+194
+00:13:19,866 --> 00:13:22,533
+    they ladle out the curds    
+
+195
+00:13:22,535 --> 00:13:26,038
+        and put them in a       
+ cheesecloth bag to strain them.
+
+196
+00:13:29,209 --> 00:13:32,144
+      as they lift the bag,     
+  the sheer weight of the curds 
+
+197
+00:13:32,146 --> 00:13:35,947
+           forces out           
+   much of the remaining whey.  
+
+198
+00:13:46,292 --> 00:13:47,492
+       they tie up the bag      
+
+199
+00:13:47,494 --> 00:13:49,427
+      and let the curds sit     
+      for another 18 hours,     
+
+200
+00:13:49,429 --> 00:13:53,632
+        after which time        
+   workers strain them again.   
+
+201
+00:13:53,634 --> 00:13:56,234
+         the goat cheese        
+        is finally ready.       
+
+202
+00:13:56,236 --> 00:13:57,569
+          they weigh it         
+
+203
+00:13:57,571 --> 00:14:01,372
+    and mix in just the right   
+  proportion of salt -- 0.6% -- 
+
+204
+00:14:01,374 --> 00:14:03,575
+ to slow down the aging process.
+
+205
+00:14:08,047 --> 00:14:13,384
+ one of the formats this factory
+ produces is 175-gram packages, 
+
+206
+00:14:13,386 --> 00:14:17,589
+      so workers weigh out      
+   175-gram blobs of cheese...  
+
+207
+00:14:19,460 --> 00:14:22,994
+   ...then hand-roll each blob  
+           into a ball          
+
+208
+00:14:22,996 --> 00:14:25,430
+     then flatten each ball     
+          into a disk.          
+
+209
+00:14:33,340 --> 00:14:37,609
+the disk goes into refrigeration
+      until packaging time.     
+
+210
+00:14:37,611 --> 00:14:40,077
+     the fridge temperature     
+     is 3 degrees celsius --    
+
+211
+00:14:40,079 --> 00:14:42,147
+      just above freezing.      
+
+212
+00:14:44,284 --> 00:14:49,020
+ some goat cheeses go for a roll
+     in special flavorings.     
+
+213
+00:14:49,022 --> 00:14:50,655
+        these are chives.       
+
+214
+00:14:55,428 --> 00:15:01,099
+ then it's into cellophane wrap 
+    and a plastic container.    
+
+215
+00:15:01,101 --> 00:15:04,635
+      on the product label,     
+they stamp a "best before" date.
+
+216
+00:15:04,637 --> 00:15:09,040
+      unopened, goat cheese     
+  has a two-month shelf life... 
+
+217
+00:15:09,042 --> 00:15:11,443
+   once opened, about a week.   
+
+218
+00:15:13,113 --> 00:15:14,579
+  another format is log-shaped. 
+
+219
+00:15:14,581 --> 00:15:16,914
+            they roll           
+     this particular variety    
+
+220
+00:15:16,916 --> 00:15:19,151
+   in a five-pepper seasoning.  
+
+221
+00:15:26,260 --> 00:15:29,794
+     workers also hand-roll     
+       goat-cheese balls.       
+
+222
+00:15:29,796 --> 00:15:31,462
+    they go into a container    
+
+223
+00:15:31,464 --> 00:15:35,934
+with spices, sun-dried tomatoes,
+         and olive oil.         
+
+224
+00:15:35,936 --> 00:15:37,736
+ goat cheese is a healthy food. 
+
+225
+00:15:37,738 --> 00:15:41,139
+    it has twice the protein    
+   of cow's-milk cream cheese   
+
+226
+00:15:41,141 --> 00:15:46,278
+yet half the fat and cholesterol
+     and 1/3 fewer calories.    
+
+227
+00:16:01,695 --> 00:16:05,296
+    narrator: ipods may rule    
+      in this digital age,      
+
+228
+00:16:05,298 --> 00:16:07,532
+       but there's nothing      
+       quite like a melody      
+
+229
+00:16:07,534 --> 00:16:09,968
+  that's mechanically generated 
+         by a music box.        
+
+230
+00:16:09,970 --> 00:16:12,570
+  it's why, more than a century 
+        after its heyday,       
+
+231
+00:16:12,572 --> 00:16:15,707
+          the music box         
+  still holds a special appeal. 
+
+232
+00:16:15,709 --> 00:16:19,211
+       its musical chimes       
+  take us back to another time. 
+
+233
+00:16:21,281 --> 00:16:23,582
+      [ soft music plays ]      
+
+234
+00:16:25,852 --> 00:16:29,054
+        a revolving disk,       
+         swirling dolls,        
+
+235
+00:16:29,056 --> 00:16:31,255
+   and luxurious cabinetry --   
+
+236
+00:16:31,257 --> 00:16:36,060
+  the music box is the original 
+   home-entertainment system.   
+
+237
+00:16:36,062 --> 00:16:39,063
+        today, they make        
+    these authentic replicas    
+
+238
+00:16:39,065 --> 00:16:40,798
+    with computerized tools.    
+
+239
+00:16:40,800 --> 00:16:44,269
+       they contour a gear      
+   for this spring-wound motor  
+
+240
+00:16:44,271 --> 00:16:46,337
+  and then carve teeth into it. 
+
+241
+00:16:46,339 --> 00:16:50,141
+      this gear is similar      
+ to the type used in clockworks.
+
+242
+00:16:50,143 --> 00:16:53,011
+      it's a windup device.     
+
+243
+00:16:53,013 --> 00:16:56,147
+         next, they coil        
+  a 20-foot-long strip of steel 
+
+244
+00:16:56,149 --> 00:16:58,283
+ into a little cast-iron barrel.
+
+245
+00:16:58,285 --> 00:17:00,685
+ this is called a spring barrel,
+
+246
+00:17:00,687 --> 00:17:05,423
+ and it's the device that stores
+ the wound-up mechanical energy.
+
+247
+00:17:05,425 --> 00:17:07,625
+  once the clutch is installed, 
+
+248
+00:17:07,627 --> 00:17:09,628
+        it will be ready        
+     to spring into action.     
+
+249
+00:17:12,899 --> 00:17:15,833
+       this circular blade      
+     now sculpts the weights    
+
+250
+00:17:15,835 --> 00:17:19,971
+ that extend from the base teeth
+      of the musical comb.      
+
+251
+00:17:19,973 --> 00:17:21,906
+  the weights are called leads, 
+
+252
+00:17:21,908 --> 00:17:25,843
+      and they help produce     
+         the low notes.         
+
+253
+00:17:25,845 --> 00:17:30,381
+ to tune the base, a technician 
+  snips the ends of the leads.  
+
+254
+00:17:30,383 --> 00:17:33,251
+       she plucks a tooth       
+       to produce a note,       
+
+255
+00:17:33,253 --> 00:17:37,522
+  then measures its pitch with  
+  an electronic-tuning machine. 
+
+256
+00:17:37,524 --> 00:17:40,658
+         she adjusts it         
+   by clipping off a bit more.  
+
+257
+00:17:40,660 --> 00:17:43,261
+    this process is critical.   
+
+258
+00:17:43,263 --> 00:17:46,131
+ it ensures each of the 76 teeth
+       on the musical comb      
+
+259
+00:17:46,133 --> 00:17:49,801
+  will hit all the right notes. 
+
+260
+00:17:49,803 --> 00:17:54,606
+ there's a damper for each tooth
+     to quell its vibration.    
+
+261
+00:17:54,608 --> 00:17:58,610
+ they install these dampers on a
+ rail next to the star wheels --
+
+262
+00:17:58,612 --> 00:18:01,913
+ the part that plucks the teeth 
+ of the comb to produce notes.  
+
+263
+00:18:03,750 --> 00:18:07,018
+      the technician aligns     
+ the dampers to the star wheels 
+
+264
+00:18:07,020 --> 00:18:10,055
+      and bolts everything      
+      to a cast-iron plate      
+      called the bedplate.      
+
+265
+00:18:11,291 --> 00:18:13,425
+   using a pincers-like tool,   
+
+266
+00:18:13,427 --> 00:18:17,929
+  he checks the tension of the  
+ dampers and makes adjustments. 
+
+267
+00:18:20,967 --> 00:18:25,303
+  now he secures the upper comb 
+         to the bedplate        
+
+268
+00:18:25,305 --> 00:18:29,307
+       and turns it around      
+   to install the lower comb.   
+
+269
+00:18:29,309 --> 00:18:31,910
+   music boxes with two combs   
+         instead of one         
+
+270
+00:18:31,912 --> 00:18:34,112
+      have a richer sound.      
+
+271
+00:18:38,184 --> 00:18:41,252
+      the technician makes      
+ more adjustments to the dampers
+
+272
+00:18:41,254 --> 00:18:42,586
+     to ensure a proper gap     
+
+273
+00:18:42,588 --> 00:18:47,058
+   between them and the teeth   
+      of the musical comb.      
+
+274
+00:18:49,529 --> 00:18:52,764
+       he installs the bar      
+ that holds down the music disk 
+
+275
+00:18:52,766 --> 00:18:54,466
+         while it plays,        
+
+276
+00:18:54,468 --> 00:18:58,936
+  then he bolts the motor frame 
+   to the side of the cabinet,  
+
+277
+00:18:58,938 --> 00:19:02,007
+     followed by the winding    
+      and disk-drive gears.     
+
+278
+00:19:04,610 --> 00:19:08,480
+  he attaches the spring barrel 
+          to the gears.         
+
+279
+00:19:08,482 --> 00:19:11,416
+        here, he installs       
+    a speed-control mechanism   
+
+280
+00:19:11,418 --> 00:19:13,084
+     for the winding gears.     
+
+281
+00:19:13,086 --> 00:19:16,754
+   it's called the "governor"   
+  because it governs the speed. 
+
+282
+00:19:16,756 --> 00:19:20,659
+       he winds the motor       
+to power it up for a test run...
+
+283
+00:19:22,629 --> 00:19:24,829
+...and then checks all its parts
+
+284
+00:19:24,831 --> 00:19:27,498
+           to confirm           
+  the motor operates smoothly.  
+
+285
+00:19:27,500 --> 00:19:30,568
+       when he's satisfied      
+          that it does,         
+
+286
+00:19:30,570 --> 00:19:33,905
+      it's time to install      
+     the musical components,    
+
+287
+00:19:33,907 --> 00:19:37,042
+ beginning with the soundboard, 
+   which amplifies the notes.   
+
+288
+00:19:37,044 --> 00:19:40,044
+       next, the bedplate,      
+ with its double-comb assembly, 
+
+289
+00:19:40,046 --> 00:19:43,114
+ is mounted onto the soundboard.
+
+290
+00:19:43,116 --> 00:19:46,250
+   he screws support brackets   
+           to the box.          
+
+291
+00:19:46,252 --> 00:19:48,253
+         they'll prop up        
+        the musical disk.       
+
+292
+00:19:48,255 --> 00:19:51,256
+       he checks the setup      
+       with a dummy disk.       
+
+293
+00:19:55,729 --> 00:19:59,364
+on a real disk, music is printed
+  in the form of perforations.  
+
+294
+00:20:01,735 --> 00:20:04,335
+        this master disk        
+      serves as a template      
+
+295
+00:20:04,337 --> 00:20:07,605
+         to punch holes         
+ in a copper-plated disk below. 
+
+296
+00:20:12,012 --> 00:20:16,080
+    the punctures form curls    
+  in the underside of the disk, 
+
+297
+00:20:16,082 --> 00:20:20,485
+ and it's these metal curls that
+  will set the music in motion. 
+
+298
+00:20:20,487 --> 00:20:22,420
+          [ clicking ]          
+
+299
+00:20:25,959 --> 00:20:28,425
+       as the windup motor      
+         turns the disk,        
+
+300
+00:20:28,427 --> 00:20:30,828
+           those curls          
+      snag the star wheels.     
+
+301
+00:20:30,830 --> 00:20:33,030
+      [ soft music plays ]      
+
+302
+00:20:33,032 --> 00:20:37,135
+ the star wheels, in turn, pluck
+ the teeth of the musical comb. 
+
+303
+00:20:41,975 --> 00:20:46,244
+    the music isn't digital,    
+    but it's truly magical.     
+
+304
+00:20:46,246 --> 00:20:51,249
+ the music box is one technology
+  that stands the test of time. 
+
+305
+00:21:01,728 --> 00:21:04,128
+    if you have any comments    
+         about the show,        
+
+306
+00:21:04,130 --> 00:21:06,998
+   or if you'd like to suggest  
+    topics for future shows,    
+
+307
+00:21:07,000 --> 00:21:12,670
+      drop us a line at...      
+

@@ -1,0 +1,1804 @@
+﻿1
+00:00:01,869 --> 00:00:04,870
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,872 --> 00:00:07,874
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:52,787 --> 00:00:54,853
+            narrator:           
+   the drive in your computer   
+
+4
+00:00:54,855 --> 00:00:56,455
+  saves and stores your data -- 
+
+5
+00:00:56,457 --> 00:01:00,459
+    everything from documents   
+ to photos to software programs.
+
+6
+00:01:00,461 --> 00:01:03,596
+   the newer generation drives  
+     are solid state drives.    
+
+7
+00:01:03,598 --> 00:01:07,265
+  they're gradually replacing   
+  traditional hard disk drives  
+
+8
+00:01:07,267 --> 00:01:09,936
+    because they're compact,    
+          more durable,         
+
+9
+00:01:09,938 --> 00:01:12,672
+     and process information    
+          much faster.          
+
+10
+00:01:12,674 --> 00:01:16,875
+  just like portable usb drives 
+    and camera memory cards,    
+
+11
+00:01:16,877 --> 00:01:19,945
+       solid state drives       
+       store information        
+
+12
+00:01:19,947 --> 00:01:23,215
+     on several memory chips    
+  installed on a circuit board. 
+
+13
+00:01:23,217 --> 00:01:26,352
+       each chip contains       
+    highly complex circuitry    
+
+14
+00:01:26,354 --> 00:01:28,621
+comprised of electrical pathways
+
+15
+00:01:28,623 --> 00:01:31,890
+      2,000 times narrower      
+       than a human hair.       
+
+16
+00:01:31,892 --> 00:01:34,226
+   to make those memory chips,  
+
+17
+00:01:34,228 --> 00:01:37,363
+         they begin with        
+  a disk-shaped silicon wafer.  
+
+18
+00:01:37,365 --> 00:01:40,366
+    silicon is a non-metallic   
+         natural element        
+
+19
+00:01:40,368 --> 00:01:41,967
+   that conducts electricity.   
+
+20
+00:01:41,969 --> 00:01:44,637
+     it's highly susceptible    
+        to contamination,       
+
+21
+00:01:44,639 --> 00:01:47,572
+     so the production area     
+      is virtually sterile      
+
+22
+00:01:47,574 --> 00:01:50,442
+      to the point of being     
+       1,000 times cleaner      
+
+23
+00:01:50,444 --> 00:01:53,312
+          than the air          
+  in a hospital operating room. 
+
+24
+00:01:53,314 --> 00:01:55,247
+   an automated robotic system  
+
+25
+00:01:55,249 --> 00:01:58,584
+    moves the wafers through    
+    more than 800 operations,   
+
+26
+00:01:58,586 --> 00:02:01,720
+  which take more than a month  
+          to complete.          
+
+27
+00:02:01,722 --> 00:02:05,190
+    each wafer receives layer   
+   after layer of materials --  
+
+28
+00:02:05,192 --> 00:02:07,193
+some conductive, such as copper,
+
+29
+00:02:07,195 --> 00:02:10,596
+       some nonconductive,      
+    such as silicon dioxide.    
+
+30
+00:02:10,598 --> 00:02:12,665
+   after applying each layer,   
+
+31
+00:02:12,667 --> 00:02:16,402
+  the machine coats the wafer   
+  with a light-sensitive fluid  
+
+32
+00:02:16,404 --> 00:02:18,738
+ then flashes u.v. light onto it
+
+33
+00:02:18,740 --> 00:02:22,675
+ through a glass stencil of the 
+ electrical circuitry pattern.  
+
+34
+00:02:22,677 --> 00:02:26,144
+  in the areas where the fluid  
+    is exposed to the light,    
+
+35
+00:02:26,146 --> 00:02:28,414
+    the chemicals break down    
+          and dissolve.         
+
+36
+00:02:28,416 --> 00:02:31,617
+  where the fluid was shielded  
+   from light by the stencil,   
+
+37
+00:02:31,619 --> 00:02:33,885
+  the materials remain intact,  
+
+38
+00:02:33,887 --> 00:02:37,423
+    effectively printing the    
+ circuitry pattern on the wafer.
+
+39
+00:02:37,425 --> 00:02:41,694
+  chemical baths then wash away 
+ the exposed fluid and material.
+
+40
+00:02:41,696 --> 00:02:45,030
+      each foot-wide wafer      
+ yields hundreds of microchips, 
+
+41
+00:02:45,032 --> 00:02:47,632
+            which now           
+    have to be sliced apart.    
+
+42
+00:02:47,634 --> 00:02:49,568
+   the robotic cutting machine  
+
+43
+00:02:49,570 --> 00:02:52,438
+        covers the wafer        
+      with an adhesive film     
+
+44
+00:02:52,440 --> 00:02:54,040
+   to hold the chips in place   
+
+45
+00:02:54,042 --> 00:02:56,975
+  while they're being cut loose 
+        from each other.        
+
+46
+00:02:56,977 --> 00:02:59,578
+        the next machine        
+        inserts each clip       
+
+47
+00:02:59,580 --> 00:03:02,014
+in a protective plastic housing.
+
+48
+00:03:03,851 --> 00:03:06,385
+           meanwhile,           
+  six circuit boards at a time  
+
+49
+00:03:06,387 --> 00:03:07,720
+         enter a machine        
+
+50
+00:03:07,722 --> 00:03:10,856
+   which applies a thin layer   
+   of tin alloy solder paste    
+
+51
+00:03:10,858 --> 00:03:12,190
+         onto the areas         
+
+52
+00:03:12,192 --> 00:03:15,528
+     where the memory chips     
+  and other components will go. 
+
+53
+00:03:15,530 --> 00:03:20,132
+ as the boards exit the machine,
+     a robotic arm picks off    
+
+54
+00:03:20,134 --> 00:03:24,136
+   the components required for  
+  each drive from feeder spools 
+
+55
+00:03:24,138 --> 00:03:25,538
+        and deposits them       
+
+56
+00:03:25,540 --> 00:03:27,740
+  at their respective locations 
+      on the circuit board.     
+
+57
+00:03:27,742 --> 00:03:31,610
+      this particular model     
+        has 8 microchips,       
+
+58
+00:03:31,612 --> 00:03:35,080
+       each able to store       
+      64 gigabytes of data,     
+
+59
+00:03:35,082 --> 00:03:39,752
+   giving the drive a capacity  
+         of 5,012 gigs.         
+
+60
+00:03:39,754 --> 00:03:42,688
+  the circuit boards now enter  
+      a tunnel-shaped oven      
+
+61
+00:03:42,690 --> 00:03:44,423
+  which melts the solder paste, 
+
+62
+00:03:44,425 --> 00:03:46,759
+      fusing the components     
+          to the board.         
+
+63
+00:03:50,297 --> 00:03:52,097
+            the brain           
+    of the solid state drive    
+
+64
+00:03:52,099 --> 00:03:53,532
+         is now complete        
+
+65
+00:03:53,534 --> 00:03:57,035
+  and ready for the first phase 
+   of quality-control testing.  
+
+66
+00:03:57,037 --> 00:03:59,438
+          this machine          
+    performs an optical scan    
+
+67
+00:03:59,440 --> 00:04:02,374
+ to verify that every component 
+          on the board          
+
+68
+00:04:02,376 --> 00:04:04,443
+   is set in the right place.   
+
+69
+00:04:10,184 --> 00:04:12,651
+        the next machine        
+        x-rays the board        
+
+70
+00:04:12,653 --> 00:04:14,520
+  to verify that each component 
+
+71
+00:04:14,522 --> 00:04:17,722
+      is securely soldered      
+    in the correct location.    
+
+72
+00:04:17,724 --> 00:04:19,925
+          a later phase         
+   of quality-control testing   
+
+73
+00:04:19,927 --> 00:04:22,327
+           will verify          
+    the drive's performance.    
+
+74
+00:04:22,329 --> 00:04:25,597
+  until now, six circuit boards 
+
+75
+00:04:25,599 --> 00:04:27,399
+       have been attached       
+         to each other.         
+
+76
+00:04:27,401 --> 00:04:30,002
+      an automated router       
+      now cuts them apart,      
+
+77
+00:04:30,004 --> 00:04:31,937
+  and workers insert each board 
+
+78
+00:04:31,939 --> 00:04:34,540
+        into a protective       
+        plastic housing.        
+
+79
+00:04:34,542 --> 00:04:36,675
+      a slot on the outside     
+         of this housing        
+
+80
+00:04:36,677 --> 00:04:38,144
+  reveals the board's connector 
+
+81
+00:04:38,146 --> 00:04:41,947
+    by which the drive links    
+        to the computer.        
+
+82
+00:04:41,949 --> 00:04:45,885
+       solid state drives       
+    come in different sizes.    
+
+83
+00:04:45,887 --> 00:04:48,019
+      this particular model     
+         is large enough        
+
+84
+00:04:48,021 --> 00:04:50,222
+           to replace           
+ a traditional hard disk drive. 
+
+85
+00:04:50,224 --> 00:04:52,491
+            however,            
+    many models are smaller,    
+
+86
+00:04:52,493 --> 00:04:55,828
+         designed to fit        
+   where disk drives can't --   
+
+87
+00:04:55,830 --> 00:04:59,031
+          for example,          
+     in ultra-slim laptops.     
+
+88
+00:04:59,033 --> 00:05:01,901
+     every drive is labeled     
+
+89
+00:05:01,903 --> 00:05:05,571
+with its technical specs, model,
+  and serial numbers and so on, 
+
+90
+00:05:05,573 --> 00:05:08,274
+      along with a barcode      
+    for production tracking.    
+
+91
+00:05:10,110 --> 00:05:13,846
+   then they plug the drive's   
+    connector into a tester,    
+
+92
+00:05:13,848 --> 00:05:15,180
+     which, after verifying     
+
+93
+00:05:15,182 --> 00:05:17,515
+         that everything        
+    functions electronically,   
+
+94
+00:05:17,517 --> 00:05:20,318
+      installs the drive's      
+        operating system.       
+
+95
+00:05:20,320 --> 00:05:22,454
+         the drive moves        
+      to the next station,      
+
+96
+00:05:22,456 --> 00:05:23,656
+       where it undergoes       
+
+97
+00:05:23,658 --> 00:05:26,725
+        up to 60 hours of       
+  extensive performance testing 
+
+98
+00:05:26,727 --> 00:05:29,061
+    to ensure that it stores    
+       and retrieves data       
+
+99
+00:05:29,063 --> 00:05:31,964
+ correctly and at target speed. 
+
+100
+00:05:33,801 --> 00:05:35,734
+      packaging is twofold.     
+
+101
+00:05:35,736 --> 00:05:37,069
+      first, a foil shield      
+
+102
+00:05:37,071 --> 00:05:40,472
+  to prevent static electricity 
+    from damaging the drive,    
+
+103
+00:05:40,474 --> 00:05:42,607
+         then a carton,         
+
+104
+00:05:42,609 --> 00:05:44,876
+ and finally into a shipping box
+
+105
+00:05:44,878 --> 00:05:48,681
+    headed for a destination    
+   somewhere around the world.  
+
+106
+00:06:04,799 --> 00:06:06,264
+   narrator: in ancient egypt,  
+
+107
+00:06:06,266 --> 00:06:08,334
+       both men and women       
+       painted their eyes.      
+
+108
+00:06:08,336 --> 00:06:10,135
+ it was thought that eye makeup 
+
+109
+00:06:10,137 --> 00:06:12,671
+    made one less vulnerable    
+        to the evil eye,        
+
+110
+00:06:12,673 --> 00:06:15,674
+         a gaze or stare        
+      meant to cause harm.      
+
+111
+00:06:15,676 --> 00:06:18,010
+  today, mostly women wear it.  
+
+112
+00:06:18,012 --> 00:06:19,945
+  and of course, repelling evil 
+
+113
+00:06:19,947 --> 00:06:22,548
+      is no longer a reason     
+       to wear eye shadow.      
+
+114
+00:06:25,953 --> 00:06:27,887
+  with a palette of eye shadow, 
+
+115
+00:06:27,889 --> 00:06:30,956
+        a woman can work        
+    a certain kind of magic.    
+
+116
+00:06:30,958 --> 00:06:34,026
+ skillful shading can add depth 
+     and drama to the eyes.     
+
+117
+00:06:34,028 --> 00:06:36,828
+           this makeup          
+  can also create the illusion  
+
+118
+00:06:36,830 --> 00:06:41,967
+  that the eyes are much larger 
+      than they really are.     
+
+119
+00:06:41,969 --> 00:06:46,772
+       to make eye shadow,      
+  they follow specific recipes. 
+
+120
+00:06:46,774 --> 00:06:49,508
+          a technician          
+     weighs the ingredients,    
+
+121
+00:06:49,510 --> 00:06:53,578
+      beginning with mica,      
+ a mineral that acts as filler. 
+
+122
+00:06:53,580 --> 00:06:56,782
+       the next ingredient      
+        is zinc stearate.       
+
+123
+00:06:56,784 --> 00:06:58,117
+         it's a binder.         
+
+124
+00:06:58,119 --> 00:07:02,388
+    a combination of pigments   
+   provides the desired color.  
+
+125
+00:07:02,390 --> 00:07:04,523
+    these particular pigments   
+
+126
+00:07:04,525 --> 00:07:07,826
+      are different shades      
+   of the mineral iron oxide.   
+
+127
+00:07:10,531 --> 00:07:13,399
+          he transfers          
+    the measured ingredients    
+
+128
+00:07:13,401 --> 00:07:15,067
+      to a big blender jar.     
+
+129
+00:07:15,069 --> 00:07:18,470
+  as he pours the ingredients,  
+          they dust up,         
+
+130
+00:07:18,472 --> 00:07:21,206
+    and a gas mask keeps him    
+from breathing in the particles.
+
+131
+00:07:21,208 --> 00:07:25,810
+        he places the jar       
+      on the blender base,      
+
+132
+00:07:25,812 --> 00:07:30,549
+         covers the top,        
+    and activates the blades.   
+
+133
+00:07:32,286 --> 00:07:35,553
+  the blender mixes and grinds  
+    the powdered ingredients    
+
+134
+00:07:35,555 --> 00:07:38,090
+      to a very fine state.     
+
+135
+00:07:38,092 --> 00:07:41,560
+         then it's into         
+       a very large mixer.      
+
+136
+00:07:41,562 --> 00:07:43,629
+     he adds coconut oil --     
+
+137
+00:07:43,631 --> 00:07:45,831
+           just enough          
+  for the powdered ingredients  
+
+138
+00:07:45,833 --> 00:07:49,234
+     to eventually coagulate    
+        into a cake form.       
+
+139
+00:07:49,236 --> 00:07:51,570
+      more mica is next --      
+
+140
+00:07:51,572 --> 00:07:53,238
+           a lot more.          
+
+141
+00:07:53,240 --> 00:07:55,974
+     eye shadow is 80% mica.    
+
+142
+00:07:55,976 --> 00:07:59,511
+       this mica is darker      
+ to add intensity to the color. 
+
+143
+00:07:59,513 --> 00:08:01,580
+  it also has a bit of shimmer. 
+
+144
+00:08:01,582 --> 00:08:04,850
+       he latches the lid       
+   to contain the ingredients   
+
+145
+00:08:04,852 --> 00:08:07,852
+          and powers up         
+     this high-speed mixer.     
+
+146
+00:08:07,854 --> 00:08:10,722
+   inside, the mixing paddles   
+
+147
+00:08:10,724 --> 00:08:12,724
+          swivel around         
+      for about 15 minutes      
+
+148
+00:08:12,726 --> 00:08:16,795
+        to thoroughly mix       
+        the ingredients.        
+
+149
+00:08:16,797 --> 00:08:20,799
+     the eye shadow mixture     
+    flows into a plastic bag.   
+
+150
+00:08:20,801 --> 00:08:22,934
+    a technician examines it    
+
+151
+00:08:22,936 --> 00:08:26,338
+    to confirm that the color   
+    has been evenly dispersed   
+
+152
+00:08:26,340 --> 00:08:28,406
+       and that the powder      
+     is sufficiently moist.     
+
+153
+00:08:28,408 --> 00:08:32,210
+    another worker now pieces   
+      four eye shadow tins      
+
+154
+00:08:32,212 --> 00:08:35,947
+   in pods on a metal platter.  
+
+155
+00:08:35,949 --> 00:08:39,752
+ the platter rotates to deliver 
+ the tins to a mixing dispenser 
+
+156
+00:08:39,754 --> 00:08:42,621
+       that's been filled       
+with the eye shadow ingredients.
+
+157
+00:08:42,623 --> 00:08:46,758
+the mixer pushes precise amounts
+   through holes in the bottom  
+
+158
+00:08:46,760 --> 00:08:48,127
+       and into the tins.       
+
+159
+00:08:50,030 --> 00:08:52,564
+ a scraper levels off the tops. 
+
+160
+00:08:57,838 --> 00:09:01,840
+    the next stop is a press    
+    with four circular heads.   
+
+161
+00:09:01,842 --> 00:09:04,776
+       a ribbon of fabric       
+      keeps things hygienic     
+
+162
+00:09:04,778 --> 00:09:08,046
+     as the press compresses    
+   the moist eye shadow powder  
+
+163
+00:09:08,048 --> 00:09:09,815
+          and turns it          
+     into a cake-like form.     
+
+164
+00:09:11,852 --> 00:09:15,386
+         moving forward,        
+    the pods eject the tins,    
+
+165
+00:09:15,388 --> 00:09:19,658
+     and an automated device    
+   pulls them off the machine.  
+
+166
+00:09:19,660 --> 00:09:22,661
+        what a difference       
+    the compression has made.   
+
+167
+00:09:22,663 --> 00:09:24,463
+    no longer a loose powder,   
+
+168
+00:09:24,465 --> 00:09:29,334
+   the eye shadow ingredients   
+      have caked up nicely.     
+
+169
+00:09:29,336 --> 00:09:31,203
+  the tins now move into a lane 
+
+170
+00:09:31,205 --> 00:09:33,805
+       and come up against      
+        an abrasive belt        
+
+171
+00:09:33,807 --> 00:09:36,474
+  that cleans the loose powder  
+         from the sides.        
+
+172
+00:09:36,476 --> 00:09:40,345
+  a blast of air also gets rid  
+ of some of the residual powder.
+
+173
+00:09:40,347 --> 00:09:44,215
+    for one out of every 100    
+      eye shadows produced,     
+
+174
+00:09:44,217 --> 00:09:49,287
+  a technician does a drop test 
+   from a height of 18 inches.  
+
+175
+00:09:49,289 --> 00:09:51,356
+            he checks           
+     for chipping or damage.    
+
+176
+00:09:51,358 --> 00:09:55,494
+      and if he finds any,      
+  he'll add power to the press. 
+
+177
+00:09:55,496 --> 00:09:57,496
+        for a color test,       
+
+178
+00:09:57,498 --> 00:10:00,098
+   he brushes some eye shadow   
+          onto his arm,         
+
+179
+00:10:00,100 --> 00:10:02,468
+         beginning with         
+     a laboratory standard.     
+
+180
+00:10:05,906 --> 00:10:07,039
+         he then applies        
+
+181
+00:10:07,041 --> 00:10:09,641
+  newly manufactured eye shadow 
+           to his arm           
+
+182
+00:10:09,643 --> 00:10:11,176
+      and compares the two.     
+
+183
+00:10:11,178 --> 00:10:12,578
+          it's a match.         
+
+184
+00:10:12,580 --> 00:10:14,046
+     and with his approval,     
+
+185
+00:10:14,048 --> 00:10:16,448
+    the batch is almost ready   
+           for retail.          
+
+186
+00:10:16,450 --> 00:10:18,850
+ another worker inserts the tins
+
+187
+00:10:18,852 --> 00:10:22,053
+      into more substantial     
+       plastic containers       
+
+188
+00:10:22,055 --> 00:10:25,023
+   with magnets on the bottom   
+         to secure them.        
+
+189
+00:10:26,860 --> 00:10:29,594
+    she screws the clear caps   
+         onto the jars,         
+
+190
+00:10:29,596 --> 00:10:33,665
+and the eye shadow is on its way
+    to the cosmetic counter.    
+
+191
+00:10:36,937 --> 00:10:40,806
+      they also manufacture     
+  entire palettes of eye shadow 
+
+192
+00:10:40,808 --> 00:10:42,574
+    for a rainbow of choices.   
+
+193
+00:10:46,614 --> 00:10:50,649
+      it takes about a day      
+   to manufacture eye shadow.   
+
+194
+00:10:52,686 --> 00:10:56,488
+     and the result is truly    
+       a thing of beauty.       
+
+195
+00:11:15,642 --> 00:11:16,975
+            narrator:           
+  the first stretch limousines, 
+
+196
+00:11:16,977 --> 00:11:18,376
+       built around 1928,       
+
+197
+00:11:18,378 --> 00:11:22,314
+  usually transported big bands 
+  and their musical equipment.  
+
+198
+00:11:22,316 --> 00:11:25,850
+          luxury sedans         
+    with an extended chassis    
+
+199
+00:11:25,852 --> 00:11:28,720
+    are typically associated    
+     with special occasions     
+
+200
+00:11:28,722 --> 00:11:32,658
+    such as weddings, proms,    
+    or a night on the town.     
+
+201
+00:11:34,328 --> 00:11:39,397
+it takes about 475 hours of work
+     and painstaking detail     
+
+202
+00:11:39,399 --> 00:11:44,269
+   to transform a luxury sedan  
+      into a stretch limo.      
+
+203
+00:11:44,271 --> 00:11:49,474
+workers cut an ordinary-size car
+  in half using cutting wheels. 
+
+204
+00:11:49,476 --> 00:11:50,942
+     before cutting begins,     
+
+205
+00:11:50,944 --> 00:11:53,411
+      the inside of the car     
+        is stripped away,       
+
+206
+00:11:53,413 --> 00:11:55,013
+   along with other components  
+
+207
+00:11:55,015 --> 00:11:57,482
+      such as the gas tank      
+        and drive shaft.        
+
+208
+00:11:57,484 --> 00:12:00,352
+        workers cut away        
+   the inner support structure  
+
+209
+00:12:00,354 --> 00:12:02,821
+         and cut across         
+      the floor of the car      
+
+210
+00:12:02,823 --> 00:12:05,090
+    with a reciprocating saw.   
+
+211
+00:12:08,228 --> 00:12:13,698
+         the car is now         
+     completely cut in half.    
+
+212
+00:12:13,700 --> 00:12:15,767
+          workers wheel         
+    the back half of the car    
+
+213
+00:12:15,769 --> 00:12:18,003
+    away from the front half.   
+
+214
+00:12:20,707 --> 00:12:23,442
+    they place the back half    
+        on the exact spot       
+
+215
+00:12:23,444 --> 00:12:28,313
+       where the limousine      
+  will gradually be assembled.  
+
+216
+00:12:28,315 --> 00:12:30,782
+   the construction department  
+            employees           
+
+217
+00:12:30,784 --> 00:12:34,253
+    insert steel frame rails    
+ into the front half of the car.
+
+218
+00:12:37,057 --> 00:12:40,592
+      they insert the rails     
+ on both sides of the front half
+
+219
+00:12:40,594 --> 00:12:44,029
+   before inserting the rails   
+ into the back half of the car. 
+
+220
+00:12:47,534 --> 00:12:49,467
+     they measure the length    
+       of the frame rails       
+
+221
+00:12:49,469 --> 00:12:51,069
+          to make sure          
+    that the frame is square    
+
+222
+00:12:51,071 --> 00:12:54,739
+     and that the two halves    
+ are the correct distance apart 
+
+223
+00:12:54,741 --> 00:12:59,277
+     to build the limousine.    
+
+224
+00:12:59,279 --> 00:13:01,947
+    a worker welds the rails    
+          to the frames         
+
+225
+00:13:01,949 --> 00:13:04,816
+  of the front and back halves  
+      of the original car.      
+
+226
+00:13:04,818 --> 00:13:07,218
+          they position         
+     the drive shaft tunnel,    
+
+227
+00:13:07,220 --> 00:13:10,288
+     which houses the steel     
+ drive shaft and exhaust pipes, 
+
+228
+00:13:10,290 --> 00:13:14,893
+           and weld it          
+ to the original vehicle tunnel.
+
+229
+00:13:14,895 --> 00:13:18,230
+    they position the floor,    
+
+230
+00:13:18,232 --> 00:13:21,433
+          which is made         
+      of galvanized steel,      
+
+231
+00:13:21,435 --> 00:13:25,503
+ and weld it to the frame rails 
+           and tunnel.          
+
+232
+00:13:25,505 --> 00:13:30,175
+ they weld the steel roof rails 
+           into place.          
+
+233
+00:13:30,177 --> 00:13:32,577
+   they connect the new rails   
+
+234
+00:13:32,579 --> 00:13:35,080
+        to the roof rails       
+    in the original vehicle.    
+
+235
+00:13:39,319 --> 00:13:43,188
+    a worked welds a vertical   
+      side post into place.     
+
+236
+00:13:43,190 --> 00:13:44,455
+          with a level,         
+
+237
+00:13:44,457 --> 00:13:46,525
+         he checks that         
+   the post of hardened steel   
+
+238
+00:13:46,527 --> 00:13:47,592
+      is perfectly vertical     
+
+239
+00:13:47,594 --> 00:13:50,462
+         before welding         
+      the base of the post      
+
+240
+00:13:50,464 --> 00:13:53,131
+       to the floor frame.      
+
+241
+00:13:53,133 --> 00:13:56,535
+          a roof panel          
+    made of galvanized steel    
+
+242
+00:13:56,537 --> 00:13:58,937
+        is put in place.        
+
+243
+00:13:58,939 --> 00:14:02,740
+         workers install        
+      the limousine's bar.      
+
+244
+00:14:02,742 --> 00:14:07,479
+    they've already installed   
+     the steel seat frames.     
+
+245
+00:14:07,481 --> 00:14:10,816
+       next, they install       
+       an outer body panel      
+
+246
+00:14:10,818 --> 00:14:14,419
+          complete with         
+   a hardened steel crash bar.  
+
+247
+00:14:14,421 --> 00:14:16,822
+they screw the panel into place.
+
+248
+00:14:16,824 --> 00:14:18,090
+   the screws will be removed   
+
+249
+00:14:18,092 --> 00:14:23,628
+    once the panel has bonded   
+ solidly to the limousine frame.
+
+250
+00:14:23,630 --> 00:14:27,466
+       a worker sprays on       
+      three coats of paint,     
+
+251
+00:14:27,468 --> 00:14:31,970
+     then applies two coats     
+  of protective clear coating.  
+
+252
+00:14:31,972 --> 00:14:36,241
+    once the painting process   
+          is complete,          
+
+253
+00:14:36,243 --> 00:14:40,011
+         workers install        
+the laminated safety side glass.
+
+254
+00:14:40,013 --> 00:14:43,849
+         another worker         
+      sprays contact cement     
+
+255
+00:14:43,851 --> 00:14:45,650
+  on the roof of the limousine  
+
+256
+00:14:45,652 --> 00:14:48,252
+         in preparation         
+       for the vinyl top.       
+
+257
+00:14:48,254 --> 00:14:50,188
+     he stretches the vinyl     
+         across the roof        
+
+258
+00:14:50,190 --> 00:14:54,592
+ and with his hand presses the  
+ fabric down into the crevices. 
+
+259
+00:14:54,594 --> 00:14:58,997
+   then he carefully trims off  
+           the excess.          
+
+260
+00:14:58,999 --> 00:15:02,401
+       he presses a strip       
+  of chrome molding into place  
+
+261
+00:15:02,403 --> 00:15:06,405
+    on the top of the vinyl.    
+
+262
+00:15:06,407 --> 00:15:09,541
+             workers            
+   in the interior department   
+
+263
+00:15:09,543 --> 00:15:12,410
+        install the back        
+      of a leather seat...      
+
+264
+00:15:12,412 --> 00:15:15,213
+   and the leather bench seat.  
+
+265
+00:15:17,750 --> 00:15:20,886
+      after reupholstering      
+the original rear seat to match,
+
+266
+00:15:20,888 --> 00:15:22,754
+         they return it         
+      to its original spot      
+
+267
+00:15:22,756 --> 00:15:27,025
+  in the back of the limousine. 
+
+268
+00:15:27,027 --> 00:15:28,826
+       a systems installer      
+
+269
+00:15:28,828 --> 00:15:31,630
+ connects the electrical systems
+     for the control center,    
+
+270
+00:15:31,632 --> 00:15:33,832
+             located            
+    behind the driver's seat.   
+
+271
+00:15:33,834 --> 00:15:37,635
+ a panel lists relays and fuses.
+
+272
+00:15:37,637 --> 00:15:40,872
+   the original center console  
+      is then reinstalled.      
+
+273
+00:15:42,509 --> 00:15:45,510
+        a worker installs       
+         a video monitor        
+
+274
+00:15:45,512 --> 00:15:47,045
+        in the limousine.       
+
+275
+00:15:49,850 --> 00:15:52,784
+       next, he rolls out       
+         the floor mats.        
+
+276
+00:15:52,786 --> 00:15:57,289
+      the acrylic disco bar     
+   lighting system is tested.   
+
+277
+00:15:59,192 --> 00:16:01,326
+        in just 21 days,        
+
+278
+00:16:01,328 --> 00:16:05,864
+ the original car is transformed
+   into a luxurious limousine.  
+
+279
+00:16:05,866 --> 00:16:09,334
+      with test drives and      
+quality-control checks complete,
+
+280
+00:16:09,336 --> 00:16:12,704
+          enjoy a ride          
+      in the lap of luxury.     
+
+281
+00:16:25,718 --> 00:16:26,884
+       narrator: a hammer       
+
+282
+00:16:26,886 --> 00:16:28,687
+ is one of the most useful tools
+           out there.           
+
+283
+00:16:28,689 --> 00:16:32,023
+       the only problem is      
+you have to control the rebound.
+
+284
+00:16:32,025 --> 00:16:35,093
+    that is, unless you have    
+       a dead blow hammer.      
+
+285
+00:16:35,095 --> 00:16:37,963
+    these tools are accurate    
+         and easy to use        
+
+286
+00:16:37,965 --> 00:16:41,233
+  because this particular type  
+       absorbs the bounce.      
+
+287
+00:16:44,505 --> 00:16:47,973
+  this facility makes a variety 
+      of dead blow hammers.     
+
+288
+00:16:47,975 --> 00:16:49,975
+       some are soft-faced      
+
+289
+00:16:49,977 --> 00:16:53,711
+    and some are ball-peens,    
+  which are used by machinists. 
+
+290
+00:16:53,713 --> 00:16:55,446
+ all in all, they come in handy 
+
+291
+00:16:55,448 --> 00:16:57,982
+           everywhere           
+     from nascar racetracks     
+
+292
+00:16:57,984 --> 00:17:00,785
+       to operating rooms.      
+
+293
+00:17:00,787 --> 00:17:04,990
+  to first create the internal  
+    structure of the hammer,    
+
+294
+00:17:04,992 --> 00:17:08,126
+   they drill through a short   
+  length of welded steel tubing 
+
+295
+00:17:08,128 --> 00:17:09,727
+       with a drill press.      
+
+296
+00:17:09,729 --> 00:17:11,730
+        the worker drills       
+   straight through the tube,   
+
+297
+00:17:11,732 --> 00:17:14,398
+ creating a hole on both sides. 
+
+298
+00:17:14,400 --> 00:17:17,869
+      this tube will become     
+the internal head of the hammer.
+
+299
+00:17:19,873 --> 00:17:21,940
+    the head needs a handle.    
+
+300
+00:17:21,942 --> 00:17:25,410
+    a worker places the tube    
+            on a jig            
+
+301
+00:17:25,412 --> 00:17:27,412
+    and then positions a rod    
+          on the hole.          
+
+302
+00:17:27,414 --> 00:17:31,882
+     a press forces the rod     
+        through the tube.       
+
+303
+00:17:31,884 --> 00:17:33,151
+      at the next station,      
+
+304
+00:17:33,153 --> 00:17:35,220
+         a worker places        
+ the internal hammer assemblage 
+
+305
+00:17:35,222 --> 00:17:39,491
+  behind a pane of tinted glass 
+       to protect her eyes      
+
+306
+00:17:39,493 --> 00:17:42,760
+          as she welds          
+  the head and handle together. 
+
+307
+00:17:42,762 --> 00:17:44,696
+         she only welds         
+       the top of the tube      
+
+308
+00:17:44,698 --> 00:17:46,264
+  so as not to alter the metal. 
+
+309
+00:17:48,835 --> 00:17:53,504
+ a machine drills a set of small
+ conical indents in the handle. 
+
+310
+00:17:53,506 --> 00:17:56,107
+      fitting a set of pins     
+        inside the mold,        
+
+311
+00:17:56,109 --> 00:17:59,978
+  these indents will be crucial 
+         to the process.        
+
+312
+00:17:59,980 --> 00:18:03,114
+   because the internal handle  
+            is round,           
+
+313
+00:18:03,116 --> 00:18:05,583
+      the urethane exterior     
+        could twist on it       
+
+314
+00:18:05,585 --> 00:18:07,252
+ when the hammer is being used. 
+
+315
+00:18:07,254 --> 00:18:11,589
+        to prevent this,        
+  a worker welds on a flat tab. 
+
+316
+00:18:11,591 --> 00:18:15,326
+ the urethane will lock in place
+         around the tab.        
+
+317
+00:18:15,328 --> 00:18:18,463
+      next, a worker crimps     
+           a metal cap          
+
+318
+00:18:18,465 --> 00:18:22,266
+     on one end of the tube.    
+
+319
+00:18:22,268 --> 00:18:25,403
+ this creates an open canister, 
+
+320
+00:18:25,405 --> 00:18:28,406
+which the worker partially fills
+  with a crucial ingredient --  
+
+321
+00:18:28,408 --> 00:18:30,808
+      hardened steel shot.      
+
+322
+00:18:30,810 --> 00:18:33,478
+      he then crimps a cap      
+        on the open end,        
+
+323
+00:18:33,480 --> 00:18:35,480
+      sealing in the shot.      
+
+324
+00:18:35,482 --> 00:18:37,348
+  with the head canister done,  
+
+325
+00:18:37,350 --> 00:18:40,952
+the core of the dead blow hammer
+        is now complete.        
+
+326
+00:18:40,954 --> 00:18:43,288
+   while the basic components   
+           are simple,          
+
+327
+00:18:43,290 --> 00:18:47,892
+      workers must assemble     
+  every element with precision. 
+
+328
+00:18:47,894 --> 00:18:50,761
+          the mold has          
+    a set of pins inside it.    
+
+329
+00:18:50,763 --> 00:18:53,030
+   a worker aligns the indents  
+       on the metal handle      
+
+330
+00:18:53,032 --> 00:18:54,231
+        with these pins.        
+
+331
+00:18:54,233 --> 00:18:58,236
+      the pins ensure that      
+    the internal hammer hangs   
+
+332
+00:18:58,238 --> 00:19:01,973
+in a perfectly centered position
+        inside the mold.        
+
+333
+00:19:01,975 --> 00:19:03,975
+     workers secure the mold    
+       in a support frame       
+
+334
+00:19:03,977 --> 00:19:07,245
+ before placing it on a conveyor
+
+335
+00:19:07,247 --> 00:19:10,548
+    that will take it through   
+       a preheating oven.       
+
+336
+00:19:11,852 --> 00:19:14,919
+        ball-peen hammers       
+   are assembled differently.   
+
+337
+00:19:14,921 --> 00:19:17,055
+  instead of crimping a cap on, 
+
+338
+00:19:17,057 --> 00:19:20,458
+     they screw the face of     
+the hammer onto a threaded tube.
+
+339
+00:19:20,460 --> 00:19:23,194
+ the metal core of the ball-peen
+       is placed in a mold      
+
+340
+00:19:23,196 --> 00:19:26,197
+   that leaves the metal face   
+        and ball exposed.       
+
+341
+00:19:28,468 --> 00:19:31,135
+         after the molds        
+    go through the preheater,   
+
+342
+00:19:31,137 --> 00:19:33,604
+           they arrive          
+     at the filling station.    
+
+343
+00:19:33,606 --> 00:19:34,872
+      a high-speed mix head     
+
+344
+00:19:34,874 --> 00:19:38,008
+         blends urethane        
+  with hardeners and catalysts  
+
+345
+00:19:38,010 --> 00:19:41,146
+        and pumps the mix       
+    through a flexible hose.    
+
+346
+00:19:41,148 --> 00:19:43,681
+     a worker uses the hose     
+
+347
+00:19:43,683 --> 00:19:47,018
+  to fill the molds to the brim 
+     with the orange fluid.     
+
+348
+00:19:47,020 --> 00:19:48,887
+       she then sends them      
+         into the oven,         
+
+349
+00:19:48,889 --> 00:19:51,623
+       where they'll spend      
+        30 minutes curing       
+
+350
+00:19:51,625 --> 00:19:55,760
+at about 300 degrees fahrenheit.
+
+351
+00:19:55,762 --> 00:19:57,895
+ on the other side of the oven, 
+
+352
+00:19:57,897 --> 00:20:00,965
+   a worker removes the molds   
+        from their frames       
+
+353
+00:20:00,967 --> 00:20:03,968
+        and then releases       
+    the newly formed hammers.   
+
+354
+00:20:03,970 --> 00:20:05,970
+             thanks             
+   to a special release agent   
+
+355
+00:20:05,972 --> 00:20:08,439
+        that was sprayed        
+        inside the mold,        
+
+356
+00:20:08,441 --> 00:20:12,577
+  the hammers come out easily.  
+
+357
+00:20:12,579 --> 00:20:14,579
+    at the finishing station,   
+
+358
+00:20:14,581 --> 00:20:17,115
+           workers use          
+   a high-speed circular brush  
+
+359
+00:20:17,117 --> 00:20:20,317
+ to remove the excess material, 
+            or flash,           
+
+360
+00:20:20,319 --> 00:20:22,721
+produced by the molding process.
+
+361
+00:20:22,723 --> 00:20:24,789
+             this is            
+  the most difficult operation  
+
+362
+00:20:24,791 --> 00:20:26,791
+          in the making         
+      of dead blow hammers,     
+
+363
+00:20:26,793 --> 00:20:30,061
+        and these workers       
+       are highly skilled.      
+
+364
+00:20:32,666 --> 00:20:34,999
+ when molding ball-peen hammers,
+
+365
+00:20:35,001 --> 00:20:38,470
+ the front and back of the head 
+        are left exposed.       
+
+366
+00:20:38,472 --> 00:20:42,606
+    for performance reasons,    
+  this steel is not stainless.  
+
+367
+00:20:42,608 --> 00:20:46,744
+  workers dip the exposed steel 
+           in hot wax.          
+
+368
+00:20:46,746 --> 00:20:49,413
+  the wax coating will protect  
+      the hammer from rust      
+
+369
+00:20:49,415 --> 00:20:53,551
+      until it's taken off      
+ the store shelf and put to use.
+
+370
+00:20:53,553 --> 00:20:55,953
+      soft-faced ball-peens     
+           and sledges          
+
+371
+00:20:55,955 --> 00:20:58,223
+     are among the 20 models    
+      of dead blow hammers      
+
+372
+00:20:58,225 --> 00:20:59,758
+       manufactured here.       
+
+373
+00:21:01,828 --> 00:21:03,828
+    a worker attaches a label   
+
+374
+00:21:03,830 --> 00:21:07,565
+ which includes all the relevant
+    information and warnings.   
+
+375
+00:21:07,567 --> 00:21:11,836
+  the labeled hammers then go   
+  in a box ready for shipping.  
+
+376
+00:21:11,838 --> 00:21:14,506
+        dead blow hammers       
+     have many applications,    
+
+377
+00:21:14,508 --> 00:21:16,907
+   from food processing plants  
+
+378
+00:21:16,909 --> 00:21:19,644
+      to woodworking shops      
+      to the oil industry.      
+
+379
+00:21:19,646 --> 00:21:21,112
+   some surgeons even use them  
+
+380
+00:21:21,114 --> 00:21:23,748
+    to drive artificial hips    
+           into place.          
+
+381
+00:21:29,656 --> 00:21:32,123
+    if you have any comments    
+         about the show,        
+
+382
+00:21:32,125 --> 00:21:34,592
+    or you'd like to suggest    
+    topics for future shows,    
+
+383
+00:21:34,594 --> 00:21:37,128
+      drop us a line at...      
+

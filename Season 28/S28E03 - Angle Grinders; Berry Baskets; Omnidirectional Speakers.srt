@@ -1,0 +1,1735 @@
+﻿1
+00:00:02,336 --> 00:00:05,071
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,073 --> 00:00:08,140
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:53,253 --> 00:00:55,454
+  narrator: the angle grinder   
+     created a major buzz       
+
+4
+00:00:55,456 --> 00:00:57,256
+        in the workplace        
+     when it was developed      
+
+5
+00:00:57,258 --> 00:00:59,791
+         in the middle          
+     of the 20th century.       
+
+6
+00:00:59,793 --> 00:01:01,660
+        this power tool         
+      could do it all --        
+
+7
+00:01:01,662 --> 00:01:05,464
+     cut, grind, and polish     
+        metal or stone.         
+
+8
+00:01:05,466 --> 00:01:07,667
+      just change the disk      
+      or brush attachment       
+
+9
+00:01:07,669 --> 00:01:09,068
+       to match the job,        
+
+10
+00:01:09,070 --> 00:01:11,637
+       and work gets done       
+        automatically.          
+
+11
+00:01:14,208 --> 00:01:16,342
+         with numerous          
+    attachments available,      
+
+12
+00:01:16,344 --> 00:01:17,743
+       the angle grinder        
+
+13
+00:01:17,745 --> 00:01:19,478
+       could be equipped        
+   for many different jobs.     
+
+14
+00:01:19,480 --> 00:01:21,880
+       that makes it one        
+   of the most useful things    
+
+15
+00:01:21,882 --> 00:01:24,817
+       on any job site.         
+
+16
+00:01:24,819 --> 00:01:26,752
+ making angle grinders starts   
+
+17
+00:01:26,754 --> 00:01:30,556
+       with these blocks        
+       of pure aluminum.        
+
+18
+00:01:30,558 --> 00:01:31,823
+      fired in a furnace,       
+
+19
+00:01:31,825 --> 00:01:35,695
+       the aluminum melts       
+      into a liquid form.       
+
+20
+00:01:35,697 --> 00:01:38,096
+       the factory casts        
+      the molten aluminum       
+
+21
+00:01:38,098 --> 00:01:40,266
+   to create gear housings.     
+
+22
+00:01:42,570 --> 00:01:45,037
+       a robot transfers        
+   one of the gear housings     
+
+23
+00:01:45,039 --> 00:01:48,173
+     to a milling station       
+
+24
+00:01:48,175 --> 00:01:50,476
+       and then retrieves       
+       a finished part.         
+
+25
+00:01:53,514 --> 00:01:55,781
+     the door of the machine    
+            closes,             
+
+26
+00:01:55,783 --> 00:01:58,050
+   and a computerized cutter    
+        carves threads          
+
+27
+00:01:58,052 --> 00:02:00,186
+ into the center bearing seat   
+
+28
+00:02:00,188 --> 00:02:03,189
+     and generally improves     
+   the profile of the part.     
+
+29
+00:02:06,461 --> 00:02:10,062
+      next up is the rotor      
+    for the electric motor.     
+
+30
+00:02:10,064 --> 00:02:13,466
+   an automated system pushes   
+  special cardboard end disks   
+
+31
+00:02:13,468 --> 00:02:16,535
+     onto the rotor shaft.      
+
+32
+00:02:16,537 --> 00:02:20,539
+     the part on the right      
+  is equipped with end disks.   
+
+33
+00:02:20,541 --> 00:02:23,376
+the system now installs a part  
+
+34
+00:02:23,378 --> 00:02:26,278
+   called the collector on one  
+              end.              
+
+35
+00:02:26,280 --> 00:02:27,879
+  made of copper and plastic,   
+
+36
+00:02:27,881 --> 00:02:30,816
+  the collector will transmit   
+      power to the rotor        
+
+37
+00:02:30,818 --> 00:02:33,152
+  and ensure that the grinding  
+    or polishing attachment     
+
+38
+00:02:33,154 --> 00:02:34,220
+           can turn.            
+
+39
+00:02:37,558 --> 00:02:42,294
+     the part on the right      
+      has had the collector     
+           installed.           
+
+40
+00:02:42,296 --> 00:02:44,563
+spinning arms wind copper wire  
+
+41
+00:02:44,565 --> 00:02:47,433
+   into grooves in the rotor    
+         at both ends.          
+
+42
+00:02:47,435 --> 00:02:50,369
+      the wire will serve       
+      as an electromagnet       
+
+43
+00:02:50,371 --> 00:02:52,338
+  and maximize power output.    
+
+44
+00:02:55,376 --> 00:02:58,110
+        moving forward,         
+   the system inserts covers    
+
+45
+00:02:58,112 --> 00:03:01,313
+ into slots in the rotor wall.  
+
+46
+00:03:01,315 --> 00:03:03,048
+ they both insulate the rotor   
+
+47
+00:03:03,050 --> 00:03:05,451
+and stabilize the copper coil.  
+
+48
+00:03:05,453 --> 00:03:07,853
+        spinning devices        
+       wrap copper wire         
+
+49
+00:03:07,855 --> 00:03:10,255
+     around each half of the    
+            stater.             
+
+50
+00:03:10,257 --> 00:03:12,792
+      this stater creates       
+   the electromagnetic field    
+
+51
+00:03:12,794 --> 00:03:14,160
+       around the rotor.        
+
+52
+00:03:16,063 --> 00:03:17,797
+  a robot puts the two halves   
+
+53
+00:03:17,799 --> 00:03:20,266
+         of the stater          
+    together in a fixture,      
+
+54
+00:03:20,268 --> 00:03:22,902
+         and welds make         
+    the assembly permanent.     
+
+55
+00:03:29,744 --> 00:03:32,144
+      over to an injection      
+     molding machine now,       
+
+56
+00:03:32,146 --> 00:03:37,282
+  it forms plastic into outer   
+   casings for the grinder.     
+
+57
+00:03:37,284 --> 00:03:41,553
+  a robot transfers the casing  
+  to a platform for printing.   
+
+58
+00:03:41,555 --> 00:03:45,024
+   this stamp adds silver ink   
+ to the embossed company logo,  
+
+59
+00:03:45,026 --> 00:03:47,259
+    giving it greater visual    
+            appeal.             
+
+60
+00:03:49,230 --> 00:03:53,966
+    a worker then slides the    
+             plastic            
+   housing over the stater,     
+
+61
+00:03:53,968 --> 00:03:57,203
+    and a pneumatic machine     
+ press-fits the two together.   
+
+62
+00:03:59,973 --> 00:04:02,108
+     the worker then wires      
+       the on/off switch        
+
+63
+00:04:02,110 --> 00:04:04,176
+    for the angle grinder.      
+
+64
+00:04:06,314 --> 00:04:08,513
+     the gear housing has,      
+     by now, been equipped      
+
+65
+00:04:08,515 --> 00:04:11,116
+ with a drive gear and brake.   
+
+66
+00:04:11,118 --> 00:04:14,186
+  he installs the gear system   
+   on one end of the rotor.     
+
+67
+00:04:16,390 --> 00:04:19,325
+   he then inserts the rotor    
+    assembly in the stater.     
+
+68
+00:04:23,463 --> 00:04:26,198
+      an automated system       
+  screws everything together    
+
+69
+00:04:26,200 --> 00:04:30,068
+          to complete           
+   the angle grinder motor.     
+
+70
+00:04:30,070 --> 00:04:35,007
+      next, a nozzle fills      
+  the gear head with grease.    
+
+71
+00:04:35,009 --> 00:04:36,542
+  a worker places the spindle   
+
+72
+00:04:36,544 --> 00:04:39,744
+       and safety clutch        
+      over the gear head,       
+
+73
+00:04:39,746 --> 00:04:42,681
+    and a mechanized system     
+      screws it in place.       
+
+74
+00:04:49,223 --> 00:04:50,889
+         she then wires         
+      the electrical plug       
+
+75
+00:04:50,891 --> 00:04:52,958
+  to the angle grinder motor.   
+
+76
+00:05:01,435 --> 00:05:04,503
+  she encloses the electrical   
+ wiring with a plastic cover.   
+
+77
+00:05:09,110 --> 00:05:11,510
+      she locks the cover       
+    in places with screws,      
+
+78
+00:05:11,512 --> 00:05:14,313
+     using a metal template     
+  to aid in their placement.    
+
+79
+00:05:19,053 --> 00:05:20,452
+      this angle grinder        
+
+80
+00:05:20,454 --> 00:05:25,057
+    is now ready to undergo     
+    quality control tests.      
+
+81
+00:05:25,059 --> 00:05:27,326
+       this one depresses       
+   the angle grinder switch,    
+
+82
+00:05:27,328 --> 00:05:28,927
+  while a computerized system   
+
+83
+00:05:28,929 --> 00:05:33,065
+      analyzes the motor's      
+         performance.           
+
+84
+00:05:33,067 --> 00:05:34,800
+  if it passes all the tests,   
+
+85
+00:05:34,802 --> 00:05:37,136
+       the angle grinder        
+   is ready to take a chunk     
+
+86
+00:05:37,138 --> 00:05:39,071
+  out of someone's workload.    
+
+87
+00:05:53,387 --> 00:05:55,387
+     narrator: long before      
+  the development of pottery,   
+
+88
+00:05:55,389 --> 00:05:59,258
+  people looked to the forest   
+  for containment materials.    
+
+89
+00:05:59,260 --> 00:06:02,995
+    they made berry baskets     
+ from the bark of birch trees.  
+
+90
+00:06:02,997 --> 00:06:05,597
+        the baskets were        
+  lightweight and waterproof,   
+
+91
+00:06:05,599 --> 00:06:07,999
+         due to natural         
+      resins in the bark.       
+
+92
+00:06:08,001 --> 00:06:09,467
+  the making of these baskets   
+
+93
+00:06:09,469 --> 00:06:11,570
+   is a tradition that carries  
+              on.               
+
+94
+00:06:15,075 --> 00:06:16,875
+     for containing nature's    
+            bounty,             
+
+95
+00:06:16,877 --> 00:06:19,544
+     birch bark is a natural    
+            choice.             
+
+96
+00:06:19,546 --> 00:06:21,880
+       this berry basket        
+       is made entirely         
+
+97
+00:06:21,882 --> 00:06:25,083
+     from materials found in    
+            nature.             
+
+98
+00:06:25,085 --> 00:06:27,019
+       making one starts        
+        with birch bark         
+
+99
+00:06:27,021 --> 00:06:29,088
+     that's been carefully      
+      pried off the tree        
+
+100
+00:06:29,090 --> 00:06:32,491
+        to avoid damage         
+  to the inner layer of bark.   
+
+101
+00:06:32,493 --> 00:06:35,561
+     this cardboard pattern     
+  will be used as a template.   
+
+102
+00:06:37,765 --> 00:06:39,965
+        the basket maker        
+       examines the bark        
+
+103
+00:06:39,967 --> 00:06:42,968
+    for any holes or serious    
+             flaws.             
+
+104
+00:06:42,970 --> 00:06:44,903
+    he flips the bark over.     
+
+105
+00:06:44,905 --> 00:06:48,574
+    he'll use the inner side    
+for the outside of the basket.  
+
+106
+00:06:52,045 --> 00:06:53,845
+ he traces around the pattern,  
+
+107
+00:06:53,847 --> 00:06:57,316
+      using a scribe that       
+   lightly scores the bark.     
+
+108
+00:06:57,318 --> 00:07:00,853
+   this light scoring creates   
+a visible outline on the bark.  
+
+109
+00:07:04,124 --> 00:07:05,924
+         using scissors         
+     for cutting leather,       
+
+110
+00:07:05,926 --> 00:07:07,592
+ he follows the pattern lines   
+
+111
+00:07:07,594 --> 00:07:11,664
+        to cut the bark         
+     to the pattern shape.      
+
+112
+00:07:11,666 --> 00:07:13,666
+          the contours          
+     are harder to follow,      
+
+113
+00:07:13,668 --> 00:07:15,267
+  so he switches to scissors    
+
+114
+00:07:15,269 --> 00:07:19,071
+       with curved blades       
+       to cut them out.         
+
+115
+00:07:19,073 --> 00:07:21,940
+        he punches holes        
+    in the basket corners.      
+
+116
+00:07:21,942 --> 00:07:24,342
+    this will stop the bark     
+ from splitting in these spots  
+
+117
+00:07:24,344 --> 00:07:25,678
+       when it's folded.        
+
+118
+00:07:27,748 --> 00:07:30,416
+   using a pointed instrument   
+      known as a divider,       
+
+119
+00:07:30,418 --> 00:07:34,887
+   he now etches stitch lines   
+     around the perimeter.      
+
+120
+00:07:34,889 --> 00:07:37,689
+    he maps out the location    
+     for the stitch holes       
+
+121
+00:07:37,691 --> 00:07:41,093
+  by lightly piercing the bark  
+    along the etched lines.     
+
+122
+00:07:43,897 --> 00:07:45,764
+  using a ruler for support,    
+
+123
+00:07:45,766 --> 00:07:48,300
+       he bends the flaps       
+      of the pattern up,        
+
+124
+00:07:48,302 --> 00:07:51,637
+   creating creases that will   
+ become permanent folds later.  
+
+125
+00:07:55,910 --> 00:07:57,176
+  he punches out stitch holes   
+
+126
+00:07:57,178 --> 00:07:59,411
+      where he had lightly      
+       pierced the bark.        
+
+127
+00:08:04,985 --> 00:08:06,985
+     he drapes a damp towel     
+      over the birch bark       
+
+128
+00:08:06,987 --> 00:08:10,055
+         and irons it.          
+
+129
+00:08:10,057 --> 00:08:12,991
+     this softens the bark      
+   so that it doesn't split     
+
+130
+00:08:12,993 --> 00:08:16,528
+    as he now forms the final   
+              bends             
+    along the crease lines.     
+
+131
+00:08:19,599 --> 00:08:21,933
+      he overlaps the ends      
+        of the basket.          
+
+132
+00:08:21,935 --> 00:08:23,869
+     he clips the structure     
+      to hold it together       
+
+133
+00:08:23,871 --> 00:08:27,373
+ while he inserts wooden dowels 
+ in some of the stitch holes.   
+
+134
+00:08:30,277 --> 00:08:33,946
+    once the dowels are in,     
+     he removes the clips.      
+
+135
+00:08:33,948 --> 00:08:37,950
+    the dowels will keep the    
+             basket             
+    together for stitching.     
+
+136
+00:08:37,952 --> 00:08:39,684
+ but first, he tapers the stem  
+
+137
+00:08:39,686 --> 00:08:43,155
+      from a willow shrub       
+      using a wood plane.       
+
+138
+00:08:43,157 --> 00:08:45,891
+      he inserts the stem       
+  in a cylindrical container    
+
+139
+00:08:45,893 --> 00:08:49,828
+     and fills the cylinder     
+        with hot water.         
+
+140
+00:08:49,830 --> 00:08:52,631
+        the tapered stem        
+       soaks overnight.         
+
+141
+00:08:52,633 --> 00:08:56,434
+     it softens and becomes     
+      extremely flexible.       
+
+142
+00:08:56,436 --> 00:09:00,639
+      using a wooden form,      
+    he shapes the stem into a   
+             ring.              
+
+143
+00:09:00,641 --> 00:09:03,575
+    the tapered ends overlap    
+  for a consistent thickness    
+
+144
+00:09:03,577 --> 00:09:05,244
+      all the way around.       
+
+145
+00:09:08,181 --> 00:09:11,183
+       he clips the ring        
+to the inner rim of the basket  
+
+146
+00:09:11,185 --> 00:09:15,653
+   and also tacks it in place   
+     with a few stitches.       
+
+147
+00:09:15,655 --> 00:09:17,522
+        this willow ring        
+       will add support         
+
+148
+00:09:17,524 --> 00:09:19,425
+     to the lip of the berry    
+            basket.             
+
+149
+00:09:22,729 --> 00:09:25,464
+       next, he stitches        
+      the seams together        
+
+150
+00:09:25,466 --> 00:09:28,734
+   using the root of a spruce   
+              tree              
+          for thread.           
+
+151
+00:09:28,736 --> 00:09:33,338
+     its tapered tip serves     
+         as a needle.           
+
+152
+00:09:33,340 --> 00:09:34,739
+ he does precise backstitches   
+
+153
+00:09:34,741 --> 00:09:37,142
+        and ensures all         
+     the seams are tight.       
+
+154
+00:09:42,016 --> 00:09:44,416
+     moving back to the rim     
+        of the basket,          
+
+155
+00:09:44,418 --> 00:09:47,952
+     he punctures the bark      
+  just below the willow ring,   
+
+156
+00:09:47,954 --> 00:09:49,221
+    creating a row of holes     
+
+157
+00:09:49,223 --> 00:09:51,223
+        to loop the root        
+        around the rim.         
+
+158
+00:09:54,828 --> 00:09:57,695
+     this spruce root wrap      
+    protects the rim ring,      
+
+159
+00:09:57,697 --> 00:10:00,732
+      and gives the basket      
+   a more finished look at the  
+              top.              
+
+160
+00:10:05,706 --> 00:10:07,639
+   he slices a piece of cedar   
+              bark              
+
+161
+00:10:07,641 --> 00:10:09,842
+   into long, narrow strips.    
+
+162
+00:10:12,112 --> 00:10:15,314
+ he'll use these strips to make 
+   a handle for the basket.     
+
+163
+00:10:17,851 --> 00:10:21,353
+      he weaves the cedar       
+   into a five-strand braid.    
+
+164
+00:10:24,925 --> 00:10:27,192
+       he loops the cedar       
+       braid at the ends        
+
+165
+00:10:27,194 --> 00:10:29,261
+       and uses the loops       
+     to stitch the handle       
+
+166
+00:10:29,263 --> 00:10:30,696
+     to the berry basket.       
+
+167
+00:10:34,668 --> 00:10:36,668
+     it takes this artisan      
+          about a day           
+
+168
+00:10:36,670 --> 00:10:39,304
+     to craft a birch bark      
+         berry basket.          
+
+169
+00:10:43,010 --> 00:10:44,409
+   his efforts will no doubt    
+
+170
+00:10:44,411 --> 00:10:47,479
+           bear fruit           
+    for many years to come.     
+
+171
+00:11:04,365 --> 00:11:07,032
+  narrator: choosing the right  
+speakers for your sound system  
+
+172
+00:11:07,034 --> 00:11:10,502
+   depends on how you prefer    
+        to hear music.          
+
+173
+00:11:10,504 --> 00:11:15,240
+     unidirectional speakers    
+             radiate            
+ sound in a single direction.   
+
+174
+00:11:15,242 --> 00:11:18,577
+    omnidirectional speakers    
+             radiate            
+      in all directions,        
+
+175
+00:11:18,579 --> 00:11:21,446
+      so the sound bounces      
+  off the ceiling and walls.    
+
+176
+00:11:24,451 --> 00:11:28,052
+  this omnidirectional speaker  
+   system has four towers --    
+
+177
+00:11:28,054 --> 00:11:32,524
+     two main system towers     
+   and two subwoofer towers.    
+
+178
+00:11:32,526 --> 00:11:34,392
+the towers contain the drivers  
+
+179
+00:11:34,394 --> 00:11:38,196
+ that radiate sound frequencies 
+      out of the speaker.       
+
+180
+00:11:38,198 --> 00:11:40,732
+   this computer-guided mill    
+      shapes brass sheets       
+
+181
+00:11:40,734 --> 00:11:44,736
+      into mounting plates      
+  for the main system towers.   
+
+182
+00:11:44,738 --> 00:11:48,340
+ each of the main system towers 
+    contains six drivers --     
+
+183
+00:11:48,342 --> 00:11:52,744
+ two tweeters, two mid-ranges,  
+       and two woofers.         
+
+184
+00:11:52,746 --> 00:11:55,213
+      each subwoofer tower      
+     contains six drivers       
+
+185
+00:11:55,215 --> 00:11:59,217
+      for the lowest human      
+     audible frequencies.       
+
+186
+00:11:59,219 --> 00:12:02,087
+ after the brass mounting plate 
+      comes off the mill,       
+
+187
+00:12:02,089 --> 00:12:04,289
+         workers grind          
+    the top surface smooth      
+
+188
+00:12:04,291 --> 00:12:06,858
+  to prepare it for polishing   
+      and chrome plating.       
+
+189
+00:12:08,962 --> 00:12:11,363
+         the mill then          
+      shapes brass rings.       
+
+190
+00:12:11,365 --> 00:12:13,699
+     these are bases for the    
+            woofers,            
+
+191
+00:12:13,701 --> 00:12:16,901
+      which fit an opening      
+    in the mounting plate.      
+
+192
+00:12:16,903 --> 00:12:19,504
+       brass is the metal       
+  of choice for these parts,    
+
+193
+00:12:19,506 --> 00:12:22,641
+     due to its acoustical      
+          properties.           
+
+194
+00:12:22,643 --> 00:12:25,444
+   for aesthetics, the rings    
+      are painted black,        
+
+195
+00:12:25,446 --> 00:12:27,179
+    and the mounting plates     
+      are electro-plated        
+
+196
+00:12:27,181 --> 00:12:30,782
+    with galvanized chrome.     
+
+197
+00:12:30,784 --> 00:12:32,517
+  in this part of the plant,    
+
+198
+00:12:32,519 --> 00:12:35,787
+      they build tweeters       
+  for the main system towers.   
+
+199
+00:12:35,789 --> 00:12:37,322
+    the first step is to lay    
+             strips             
+
+200
+00:12:37,324 --> 00:12:39,724
+      of resin-impregnated      
+         carbon fiber           
+
+201
+00:12:39,726 --> 00:12:43,528
+    in semi-circular molds.     
+
+202
+00:12:43,530 --> 00:12:45,330
+         after removing         
+      the protective film       
+
+203
+00:12:45,332 --> 00:12:46,998
+ that covers the carbon fiber,  
+
+204
+00:12:47,000 --> 00:12:50,669
+      they lay foil strips      
+         at each end.           
+
+205
+00:12:50,671 --> 00:12:52,204
+     these will direct heat     
+         from the oven          
+
+206
+00:12:52,206 --> 00:12:53,739
+  to the carbon fiber strips    
+
+207
+00:12:53,741 --> 00:12:56,275
+     and prevent the resin      
+       from flowing out.        
+
+208
+00:12:58,946 --> 00:13:03,014
+    they assemble the molds     
+     and clamp them shut.       
+
+209
+00:13:03,016 --> 00:13:06,217
+      they place the molds      
+   in an oven for 45 minutes    
+
+210
+00:13:06,219 --> 00:13:09,087
+     at a programmed series     
+       of temperatures.         
+
+211
+00:13:09,089 --> 00:13:11,556
+      this heats the resin      
+     in the carbon fiber,       
+
+212
+00:13:11,558 --> 00:13:14,726
+     stiffening and forming     
+ the strips to the mold shape.  
+
+213
+00:13:16,697 --> 00:13:18,297
+     using a punch press,       
+
+214
+00:13:18,299 --> 00:13:20,299
+         workers slice          
+    each carbon fiber strip     
+
+215
+00:13:20,301 --> 00:13:22,467
+ into several thinner strips.   
+
+216
+00:13:29,777 --> 00:13:31,176
+  they construct each tweeter   
+
+217
+00:13:31,178 --> 00:13:33,245
+          by gluing 24          
+     of those thin strips       
+
+218
+00:13:33,247 --> 00:13:35,113
+ to the tweeter's voice coil,   
+
+219
+00:13:35,115 --> 00:13:37,516
+         a ring made of         
+      wound copper wire.        
+
+220
+00:13:40,720 --> 00:13:43,255
+      they brush silicone       
+    in between the strips,      
+
+221
+00:13:43,257 --> 00:13:45,791
+    coat the entire surface     
+      with more silicone,       
+
+222
+00:13:45,793 --> 00:13:48,593
+     then place an aluminum     
+      cover plate on top.       
+
+223
+00:13:50,798 --> 00:13:54,132
+ they construct each mid-range  
+     driver the same way,       
+
+224
+00:13:54,134 --> 00:13:55,734
+ but with carbon fiber strips   
+
+225
+00:13:55,736 --> 00:13:57,736
+ that are thicker and stiffer   
+
+226
+00:13:57,738 --> 00:13:59,871
+     and therefore radiate      
+   lower frequencies better     
+
+227
+00:13:59,873 --> 00:14:03,041
+       than the thinner,        
+ more flexible tweeter strips.  
+
+228
+00:14:05,679 --> 00:14:07,812
+     placing the strips with    
+            tweezers            
+
+229
+00:14:07,814 --> 00:14:10,282
+   and aligning them properly   
+       with a toothpick         
+
+230
+00:14:10,284 --> 00:14:14,152
+      requires a good eye,      
+     excellent dexterity,       
+
+231
+00:14:14,154 --> 00:14:16,121
+   and a lot of experience.     
+
+232
+00:14:18,758 --> 00:14:20,792
+       like the tweeter,        
+     the mid-range driver       
+
+233
+00:14:20,794 --> 00:14:23,628
+       goes into an oven        
+        for 45 minutes          
+
+234
+00:14:23,630 --> 00:14:26,198
+    through a specific cycle    
+       of temperatures.         
+
+235
+00:14:32,839 --> 00:14:35,440
+   once the driver comes out    
+    of the oven and cools,      
+
+236
+00:14:35,442 --> 00:14:37,576
+        they glue strips        
+    of sound-dampening foam     
+
+237
+00:14:37,578 --> 00:14:39,244
+        to the inside,          
+
+238
+00:14:39,246 --> 00:14:42,981
+    sealing the gaps between    
+   the carbon fiber strips.     
+
+239
+00:14:42,983 --> 00:14:45,583
+      this prevents sound       
+     from radiating inward      
+
+240
+00:14:45,585 --> 00:14:47,386
+ rather than out the speaker.   
+
+241
+00:14:49,722 --> 00:14:50,855
+    they solder the cables      
+
+242
+00:14:50,857 --> 00:14:52,724
+    that bring the incoming     
+       electrical signal        
+
+243
+00:14:52,726 --> 00:14:56,260
+          that carries          
+    the sound frequencies.      
+
+244
+00:14:56,262 --> 00:14:58,463
+       that signal moves        
+       the voice coil up        
+
+245
+00:14:58,465 --> 00:15:01,999
+   while the driver's magnet    
+      moves it back down.       
+
+246
+00:15:02,001 --> 00:15:03,802
+    the repeated up and down    
+             motion             
+
+247
+00:15:03,804 --> 00:15:06,471
+     flexes the carbon fiber    
+            strips,             
+
+248
+00:15:06,473 --> 00:15:09,608
+       radiating the sound      
+          frequencies.          
+
+249
+00:15:09,610 --> 00:15:12,411
+ after installing a center rod  
+        made of carbon,         
+
+250
+00:15:12,413 --> 00:15:15,080
+ workers stuff the hollow space 
+       inside the driver        
+
+251
+00:15:15,082 --> 00:15:18,016
+  with sound-dampening wool.    
+
+252
+00:15:18,018 --> 00:15:19,351
+   they pour lubricating oil    
+
+253
+00:15:19,353 --> 00:15:22,154
+       into a narrow gap        
+    in the driver's magnet,     
+
+254
+00:15:22,156 --> 00:15:25,690
+   then insert the voice coil   
+         into the gap.          
+
+255
+00:15:25,692 --> 00:15:27,692
+    the oil contains iron,      
+
+256
+00:15:27,694 --> 00:15:30,362
+ so it conducts the electrical  
+      signal to the coil.       
+
+257
+00:15:32,966 --> 00:15:34,633
+     they screw an aluminum     
+        mounting plate          
+
+258
+00:15:34,635 --> 00:15:36,468
+   to the magnet's posts...     
+
+259
+00:15:39,039 --> 00:15:42,340
+    ...then apply a disk of a   
+              stiff             
+   sound-dampening material.    
+
+260
+00:15:46,045 --> 00:15:49,380
+   they install the tweeter's   
+ magnet on the mounting plate,  
+
+261
+00:15:49,382 --> 00:15:50,982
+     feeding the tweeter's      
+      electrical cables,        
+
+262
+00:15:50,984 --> 00:15:54,319
+     not yet soldered to the    
+            tweeter,            
+    through the center rod.     
+
+263
+00:15:56,856 --> 00:15:59,124
+next they'll make the woofers.  
+
+264
+00:16:13,806 --> 00:16:16,808
+           narrator:            
+  the sound system's amplifier  
+
+265
+00:16:16,810 --> 00:16:19,344
+        that carries all        
+    the sound frequencies.      
+
+266
+00:16:19,346 --> 00:16:21,746
+     inside each main system    
+            speaker,            
+
+267
+00:16:21,748 --> 00:16:23,882
+    an electronic component     
+     called the crossover       
+
+268
+00:16:23,884 --> 00:16:25,684
+separates the frequency ranges  
+
+269
+00:16:25,686 --> 00:16:28,352
+        and sends them,         
+    via designated cables,      
+
+270
+00:16:28,354 --> 00:16:30,155
+  to the appropriate driver.    
+
+271
+00:16:33,493 --> 00:16:35,360
+         they make each         
+      melon-shaped woofer       
+
+272
+00:16:35,362 --> 00:16:37,695
+ out of 12 aluminum segments.   
+
+273
+00:16:37,697 --> 00:16:40,565
+    they glue acoustic foam     
+       to each segment,         
+
+274
+00:16:40,567 --> 00:16:43,201
+       then trim the foam       
+ to the shape of the aluminum.  
+
+275
+00:16:45,772 --> 00:16:47,906
+  workers assemble the woofer   
+          upside-down           
+
+276
+00:16:47,908 --> 00:16:50,442
+    in an assembly fixture.     
+
+277
+00:16:50,444 --> 00:16:51,842
+     they glue the segments     
+          vertically            
+
+278
+00:16:51,844 --> 00:16:53,645
+     between this woofer's      
+          voice coil,           
+
+279
+00:16:53,647 --> 00:16:55,647
+      which has two cables      
+        attached to it          
+
+280
+00:16:55,649 --> 00:16:58,382
+     and a mounting plate.      
+
+281
+00:16:58,384 --> 00:16:59,850
+      the structural rod        
+
+282
+00:16:59,852 --> 00:17:01,653
+   through which they'll feed   
+   the other driver's cables    
+
+283
+00:17:01,655 --> 00:17:03,288
+       is in the center.        
+
+284
+00:17:08,328 --> 00:17:11,129
+     once all the segments      
+    are aligned and fixed in    
+             place,             
+
+285
+00:17:11,131 --> 00:17:13,064
+they coat the edges with glue.  
+
+286
+00:17:16,002 --> 00:17:19,804
+     then they adhere rubber    
+             gaskets            
+    in between the segments     
+
+287
+00:17:19,806 --> 00:17:22,240
+       to block the gaps        
+ and prevent air from exiting.  
+
+288
+00:17:29,149 --> 00:17:31,749
+    they seat copper strips     
+   in the segment's grooves,    
+
+289
+00:17:31,751 --> 00:17:36,288
+  hooking the ends into holes   
+    at the top and bottom.      
+
+290
+00:17:36,290 --> 00:17:39,824
+   brass, aluminum, copper --   
+  every type of material used   
+
+291
+00:17:39,826 --> 00:17:44,029
+ in these speakers has specific 
+    acoustical properties.      
+
+292
+00:17:44,031 --> 00:17:47,666
+    the combination produces    
+   a natural sound balance.     
+
+293
+00:17:50,103 --> 00:17:52,103
+      they fill the hollow      
+        interior space          
+
+294
+00:17:52,105 --> 00:17:56,240
+     around the center rod      
+with sound-dampening material.  
+
+295
+00:17:56,242 --> 00:17:58,376
+   first, synthetic insulating  
+              wool              
+
+296
+00:17:58,378 --> 00:18:00,778
+   with long, coarse fibers.    
+
+297
+00:18:00,780 --> 00:18:02,380
+     then, on top of that,      
+
+298
+00:18:02,382 --> 00:18:04,515
+           a barrier            
+   of cotton-insulating wool    
+
+299
+00:18:04,517 --> 00:18:06,183
+to prevent those coarse fibers  
+
+300
+00:18:06,185 --> 00:18:08,053
+ from touching the voice coil.  
+
+301
+00:18:10,590 --> 00:18:12,724
+       next, they install       
+    the painted brass ring      
+
+302
+00:18:12,726 --> 00:18:14,125
+     they milled earlier,       
+
+303
+00:18:14,127 --> 00:18:18,396
+   which now has the woofer's   
+      magnet fixed to it.       
+
+304
+00:18:18,398 --> 00:18:22,534
+      they place a spacer,      
+        thread a screw,         
+
+305
+00:18:22,536 --> 00:18:25,737
+   pull the voice coil's two    
+  cables through the center,    
+
+306
+00:18:25,739 --> 00:18:27,338
+   then solder those cables,    
+
+307
+00:18:27,340 --> 00:18:29,407
+    together with the cables    
+    from the other drivers,     
+
+308
+00:18:29,409 --> 00:18:32,611
+ to a main cable that will plug 
+      into the crossover.       
+
+309
+00:18:36,817 --> 00:18:38,549
+      they flip the woofer      
+         right side up          
+
+310
+00:18:38,551 --> 00:18:40,885
+       and pour a liquid        
+   sound-dampening compound     
+
+311
+00:18:40,887 --> 00:18:43,555
+     into the center rod.       
+
+312
+00:18:43,557 --> 00:18:45,490
+       the cables inside        
+       are too delicate         
+
+313
+00:18:45,492 --> 00:18:47,525
+        to be shoving in        
+       insulating wool.         
+
+314
+00:18:49,963 --> 00:18:52,830
+       workers now begin        
+    assembling the speaker,     
+
+315
+00:18:52,832 --> 00:18:55,966
+    first soldering the two     
+  remaining crossover cables,   
+
+316
+00:18:55,968 --> 00:18:57,635
+ mid-range and high frequency,  
+
+317
+00:18:57,637 --> 00:19:00,905
+    to the respective driver    
+            cables.             
+
+318
+00:19:00,907 --> 00:19:02,239
+ the tweeter connection cables  
+
+319
+00:19:02,241 --> 00:19:04,241
+          are attached          
+    to the tweeter magnet,      
+
+320
+00:19:04,243 --> 00:19:07,712
+    installed earlier on top    
+   of the mid-range driver.     
+
+321
+00:19:07,714 --> 00:19:12,183
+    they now mount this unit    
+     on top of the woofer.      
+
+322
+00:19:12,185 --> 00:19:15,253
+  they install the connectors   
+       in the crossover.        
+
+323
+00:19:15,255 --> 00:19:18,323
+   its electrical components    
+ separate the frequency ranges  
+
+324
+00:19:18,325 --> 00:19:22,127
+       and send each one        
+  to a designated connector,    
+
+325
+00:19:22,129 --> 00:19:23,261
+  which sends it to the cable   
+
+326
+00:19:23,263 --> 00:19:26,530
+           leading to           
+    the appropriate driver.     
+
+327
+00:19:26,532 --> 00:19:29,267
+  after sliding the crossover   
+   onto the speaker's base,     
+
+328
+00:19:29,269 --> 00:19:31,335
+     made of milled brass,      
+
+329
+00:19:31,337 --> 00:19:33,805
+     they close up the top      
+   with the mounting plates,    
+
+330
+00:19:33,807 --> 00:19:35,807
+     between which they've      
+       since sandwiched         
+
+331
+00:19:35,809 --> 00:19:38,008
+    a thick piece of wood.      
+
+332
+00:19:38,010 --> 00:19:40,144
+    screw-in stainless steel    
+         support posts          
+
+333
+00:19:40,146 --> 00:19:41,612
+   hold everything together     
+
+334
+00:19:41,614 --> 00:19:43,748
+   and direct all the weight    
+      down to the floor,        
+
+335
+00:19:43,750 --> 00:19:46,418
+        rather than into        
+    the speaker structure.      
+
+336
+00:19:49,156 --> 00:19:51,089
+          they install          
+     an aluminum crossbar       
+
+337
+00:19:51,091 --> 00:19:53,357
+    for structural support,     
+
+338
+00:19:53,359 --> 00:19:55,794
+  then a second set of posts.   
+
+339
+00:19:58,898 --> 00:20:01,199
+       they fit the ring        
+   at the base of the woofer    
+
+340
+00:20:01,201 --> 00:20:04,736
+ into the mounting plate hole,  
+   securing it with screws.     
+
+341
+00:20:07,974 --> 00:20:11,176
+    they insert the tweeter's   
+              voice             
+ coil into the tweeter magnet   
+
+342
+00:20:11,178 --> 00:20:13,978
+     that's mounted on top      
+    of the mid-range driver     
+
+343
+00:20:13,980 --> 00:20:16,448
+         that's mounted         
+     on top of the woofer.      
+
+344
+00:20:16,450 --> 00:20:18,315
+they solder the tweeter cables  
+
+345
+00:20:18,317 --> 00:20:21,652
+     to the two connectors      
+  on the tweeter cover plate.   
+
+346
+00:20:21,654 --> 00:20:25,723
+         this completes         
+  the lower trio of drivers.    
+
+347
+00:20:25,725 --> 00:20:28,192
+        now they install        
+   an identical upper trio,     
+
+348
+00:20:28,194 --> 00:20:29,994
+        but upside-down         
+
+349
+00:20:29,996 --> 00:20:31,996
+    so that the two tweeters    
+        face each other         
+
+350
+00:20:31,998 --> 00:20:34,666
+  in the middle of the tower.   
+
+351
+00:20:34,668 --> 00:20:37,335
+    they mount the crossover    
+      for the upper trio        
+
+352
+00:20:37,337 --> 00:20:40,271
+   and plug in the connector    
+ that joins the three cables.   
+
+353
+00:20:40,273 --> 00:20:42,006
+          that brings           
+    the correct frequencies     
+
+354
+00:20:42,008 --> 00:20:45,209
+     to the three drivers.      
+
+355
+00:20:45,211 --> 00:20:48,946
+      they run test tones       
+     through every completed    
+            speaker.            
+
+356
+00:20:48,948 --> 00:20:52,016
+    a microphone positioned     
+   just over three feet away    
+
+357
+00:20:52,018 --> 00:20:53,885
+            picks up            
+   the emitted frequencies,     
+
+358
+00:20:53,887 --> 00:20:56,421
+        which a computer        
+    analyzes for accuracy.      
+
+359
+00:20:59,225 --> 00:21:01,425
+        once the speaker        
+      passes inspection,        
+
+360
+00:21:01,427 --> 00:21:05,063
+    they install a decorative   
+              grill             
+ over each woofer voice coil.   
+
+361
+00:21:08,234 --> 00:21:11,970
+  the subwoofer tower radiates  
+    the lowest frequencies,     
+
+362
+00:21:11,972 --> 00:21:15,640
+     with six huge drivers      
+   and a built-in amplifier.    
+

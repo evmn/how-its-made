@@ -1,0 +1,1565 @@
+﻿1
+00:00:01,535 --> 00:00:04,603
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,605 --> 00:00:07,539
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:52,653 --> 00:00:56,055
+            narrator:           
+    a dive light is essential   
+   when scuba diving at night,  
+
+4
+00:00:56,057 --> 00:00:58,857
+      but can also be used      
+        for daytime dives       
+
+5
+00:00:58,859 --> 00:01:02,193
+           to explore           
+underwater caves and shipwrecks.
+
+6
+00:01:02,195 --> 00:01:05,063
+      the deeper you dive,      
+     the more water absorbs     
+
+7
+00:01:05,065 --> 00:01:07,332
+         certain colors         
+     in the light spectrum.     
+
+8
+00:01:07,334 --> 00:01:08,934
+          when you use          
+      an artificial light,      
+
+9
+00:01:08,936 --> 00:01:11,904
+you can see the underwater world
+         in true color.         
+
+10
+00:01:14,875 --> 00:01:19,244
+  the dive light is waterproof  
+     to a depth of 295 feet.    
+
+11
+00:01:20,747 --> 00:01:23,081
+          it's brighter         
+      than a car headlight,     
+
+12
+00:01:23,083 --> 00:01:25,817
+  with six outer l.e.d. lights  
+        for floodlighting       
+
+13
+00:01:25,819 --> 00:01:29,721
+     and three inner l.e.d.s    
+   for alternate spotlighting.  
+
+14
+00:01:31,158 --> 00:01:34,559
+      the dive light begins     
+    as a conceptual drawing.    
+
+15
+00:01:34,561 --> 00:01:38,097
+     the mechanical designer    
+ sketches out its basic features
+
+16
+00:01:38,099 --> 00:01:39,832
+   and a few proposed shapes.   
+
+17
+00:01:41,902 --> 00:01:44,236
+        then the company        
+      creates foam models.      
+
+18
+00:01:44,238 --> 00:01:46,305
+ scuba divers test these models 
+
+19
+00:01:46,307 --> 00:01:48,941
+      and provide feedback      
+  on the comfort of each shape. 
+
+20
+00:01:50,377 --> 00:01:54,113
+      this market research      
+ results in the final design -- 
+
+21
+00:01:54,115 --> 00:01:56,448
+           a compact,           
+     hand-mounted dive-light    
+
+22
+00:01:56,450 --> 00:01:58,717
+      with a user-friendly      
+        operating switch        
+
+23
+00:01:58,719 --> 00:02:01,587
+        and three l.e.d.        
+    battery-life indicators.    
+
+24
+00:02:06,393 --> 00:02:09,928
+  the housing's components are  
+made of durable plastic pellets,
+
+25
+00:02:09,930 --> 00:02:11,930
+  reinforced with glass fiber.  
+
+26
+00:02:13,600 --> 00:02:16,935
+  workers load the pellets into 
+  an injection molding machine. 
+
+27
+00:02:16,937 --> 00:02:20,805
+     the machine melts them     
+  and shoots the molten plastic 
+
+28
+00:02:20,807 --> 00:02:24,343
+    into the proper mold for    
+ the component they are making. 
+
+29
+00:02:24,345 --> 00:02:27,546
+     the machine then cools     
+  the plastic to a solid state  
+
+30
+00:02:27,548 --> 00:02:30,281
+           and injects          
+     the newly formed part.     
+
+31
+00:02:30,283 --> 00:02:32,217
+     this is the reflector.     
+
+32
+00:02:32,219 --> 00:02:35,420
+      it combines the light     
+   from the six outer l.e.d.s   
+
+33
+00:02:35,422 --> 00:02:36,821
+       into a single beam.      
+
+34
+00:02:36,823 --> 00:02:38,423
+     it's coated in aluminum    
+
+35
+00:02:38,425 --> 00:02:42,094
+           to increase          
+the amount of light it reflects.
+
+36
+00:02:42,096 --> 00:02:44,896
+          a 3-d printer         
+       produces prototypes      
+
+37
+00:02:44,898 --> 00:02:47,232
+      for all of the parts      
+  before they are manufactured. 
+
+38
+00:02:47,234 --> 00:02:49,167
+      guided by a computer,     
+
+39
+00:02:49,169 --> 00:02:51,637
+ the printer shoots out plastic 
+        to build the part       
+
+40
+00:02:51,639 --> 00:02:53,839
+       in three dimensions      
+       from the bottom up.      
+
+41
+00:02:57,377 --> 00:02:59,311
+ once the prototype is approved,
+
+42
+00:02:59,313 --> 00:03:02,047
+        they make a mold        
+      for mass production.      
+
+43
+00:03:04,785 --> 00:03:07,185
+       this part is called      
+         the light pipe.        
+
+44
+00:03:07,187 --> 00:03:11,923
+it has oval covers for the three
+ l.e.d. battery-life indicators 
+
+45
+00:03:11,925 --> 00:03:13,759
+     and a waterproof seal.     
+
+46
+00:03:18,732 --> 00:03:24,002
+   once all the housing parts   
+ are molded, assembly can begin.
+
+47
+00:03:24,004 --> 00:03:28,406
+ they insert the light pipe into
+  the main body of the housing. 
+
+48
+00:03:28,408 --> 00:03:30,475
+   then they attach a switch,   
+
+49
+00:03:30,477 --> 00:03:33,144
+      which turns the light     
+           on and off.          
+
+50
+00:03:33,146 --> 00:03:34,546
+    it also toggles the light   
+
+51
+00:03:34,548 --> 00:03:36,982
+        between spotlight       
+      and floodlight modes.     
+
+52
+00:03:40,554 --> 00:03:45,624
+ they don't need to pierce the  
+ housing to connect the switch. 
+
+53
+00:03:45,626 --> 00:03:49,560
+ the switch slides a magnet over
+   the outside of the housing.  
+
+54
+00:03:49,562 --> 00:03:51,829
+ the magnetic field communicates
+       through the housing      
+
+55
+00:03:51,831 --> 00:03:53,031
+       to sensors inside.       
+
+56
+00:03:55,102 --> 00:03:58,136
+  next they insert and connect  
+      the circuit board...      
+
+57
+00:04:00,774 --> 00:04:03,375
+     ...then the lithium-ion    
+      rechargeable battery.     
+
+58
+00:04:03,377 --> 00:04:06,178
+     they plug its connector    
+     into the circuit board.    
+
+59
+00:04:08,381 --> 00:04:11,516
+  this cover holds the internal 
+   parts in correct alignment.  
+
+60
+00:04:13,053 --> 00:04:16,054
+        a silicone o ring       
+     forms a watertight seal    
+
+61
+00:04:16,056 --> 00:04:19,057
+      between the main body     
+       and the light head.      
+
+62
+00:04:19,059 --> 00:04:23,061
+  they snap the reflector over  
+        the nine l.e.d.s,       
+
+63
+00:04:23,063 --> 00:04:25,497
+       which are attached       
+    to a round circuit board.   
+
+64
+00:04:27,134 --> 00:04:28,600
+   the circuit board is metal   
+
+65
+00:04:28,602 --> 00:04:32,670
+ so that it will absorb the heat
+   the l.e.d. lights generate.  
+
+66
+00:04:32,672 --> 00:04:35,606
+   the screw-on aluminum bezel  
+
+67
+00:04:35,608 --> 00:04:37,743
+          makes contact         
+     with the circuit board,    
+
+68
+00:04:37,745 --> 00:04:40,212
+      transferring the heat     
+       out of the housing       
+
+69
+00:04:40,214 --> 00:04:42,213
+       and into the water.      
+
+70
+00:04:42,215 --> 00:04:46,885
+     they conduct the first     
+ quality-control test in water. 
+
+71
+00:04:46,887 --> 00:04:48,620
+   the dive light is turned on  
+
+72
+00:04:48,622 --> 00:04:52,224
+   to verify that it will run   
+for 65 minutes on a full charge.
+
+73
+00:04:54,928 --> 00:04:56,961
+          in the second         
+      quality-control test,     
+
+74
+00:04:56,963 --> 00:05:00,632
+  they submerge the dive light  
+     in a pressurized tank.     
+
+75
+00:05:00,634 --> 00:05:03,835
+   this simulates the pressure  
+ the light would be subjected to
+
+76
+00:05:03,837 --> 00:05:06,571
+     at an underwater depth     
+       of about 300 feet.       
+
+77
+00:05:07,841 --> 00:05:09,974
+        that's over twice       
+        the diving depth        
+
+78
+00:05:09,976 --> 00:05:12,177
+ of a typical recreational dive.
+
+79
+00:05:16,716 --> 00:05:21,219
+   if the light doesn't spring  
+   a leak, it passes the test.  
+
+80
+00:05:22,923 --> 00:05:24,790
+they fully recharge the battery,
+
+81
+00:05:24,792 --> 00:05:26,925
+           which takes          
+      two and a half hours.     
+
+82
+00:05:26,927 --> 00:05:28,393
+         at full charge,        
+
+83
+00:05:28,395 --> 00:05:32,064
+      all three indicators      
+         light up green.        
+
+84
+00:05:32,066 --> 00:05:33,799
+      as the charge drains,     
+
+85
+00:05:33,801 --> 00:05:37,869
+      the indicators change     
+  from green to orange to red,  
+
+86
+00:05:37,871 --> 00:05:39,670
+      then to flashing red,     
+
+87
+00:05:39,672 --> 00:05:42,540
+         so scuba divers        
+      are never in the dark     
+
+88
+00:05:42,542 --> 00:05:45,277
+      about how much juice      
+     is left in their light.    
+
+89
+00:05:58,692 --> 00:06:01,493
+            narrator:           
+     interchangeable sandals    
+     come with numerous ties    
+
+90
+00:06:01,495 --> 00:06:05,430
+  that can be used to customize 
+  the look of a pair of heels.  
+
+91
+00:06:05,432 --> 00:06:08,366
+ the mix-and-match possibilities
+          are endless.          
+
+92
+00:06:08,368 --> 00:06:10,835
+     the wearer can try out     
+     many different styles      
+
+93
+00:06:10,837 --> 00:06:12,838
+       on a small budget.       
+
+94
+00:06:17,511 --> 00:06:19,310
+ with interchangeable footwear, 
+
+95
+00:06:19,312 --> 00:06:22,814
+ you can change the look without
+  actually changing your shoes. 
+
+96
+00:06:26,387 --> 00:06:27,718
+         with a variety         
+
+97
+00:06:27,720 --> 00:06:30,254
+ of cloth and leather strappings
+         to choose from,        
+
+98
+00:06:30,256 --> 00:06:32,457
+        a pair of sandals       
+  can be made to look different 
+
+99
+00:06:32,459 --> 00:06:33,992
+    each time you wear them.    
+
+100
+00:06:36,663 --> 00:06:38,796
+         to make a pair         
+   of interchangeable sandals,  
+
+101
+00:06:38,798 --> 00:06:40,599
+         they start with        
+      a piece of hardwood,      
+
+102
+00:06:40,601 --> 00:06:42,968
+ like cherry, walnut, or maple. 
+
+103
+00:06:45,672 --> 00:06:48,907
+   the employee cuts the wood   
+       to a workable size.      
+
+104
+00:06:51,077 --> 00:06:52,810
+  then computer-driven routers  
+
+105
+00:06:52,812 --> 00:06:55,613
+     carve the rough shape      
+     of the sandals' heels,     
+
+106
+00:06:55,615 --> 00:06:58,016
+        making two heels        
+      from a single block.      
+
+107
+00:07:01,621 --> 00:07:05,490
+       the router sculpts       
+   a cup for the wearer's heel  
+
+108
+00:07:05,492 --> 00:07:07,425
+           and carves           
+     a supportive structure     
+
+109
+00:07:07,427 --> 00:07:08,693
+    for the arch of the foot.   
+
+110
+00:07:12,766 --> 00:07:15,099
+     the router then shaves     
+     the sides of the heels     
+
+111
+00:07:15,101 --> 00:07:17,002
+           and exposes          
+     the grain of the wood.     
+
+112
+00:07:21,842 --> 00:07:23,775
+    then a worker takes over,   
+
+113
+00:07:23,777 --> 00:07:26,845
+    cutting away excess wood    
+        with a band saw.        
+
+114
+00:07:30,650 --> 00:07:32,383
+she rounds the back of the heels
+
+115
+00:07:32,385 --> 00:07:34,286
+       and further refines      
+         the structure.         
+
+116
+00:07:35,455 --> 00:07:37,589
+  she now has a pair of heels.  
+
+117
+00:07:41,328 --> 00:07:44,930
+   another team member brushes  
+  rubber cement onto the soles. 
+
+118
+00:07:44,932 --> 00:07:47,899
+      they are made of both     
+  natural and synthetic rubber. 
+
+119
+00:07:51,271 --> 00:07:54,739
+        she applies glue        
+       to the heels, too.       
+
+120
+00:07:54,741 --> 00:07:58,276
+      she presses the heels     
+      to the rubber soles.      
+
+121
+00:08:00,547 --> 00:08:03,048
+         the glue takes         
+       40 minutes to dry.       
+
+122
+00:08:09,222 --> 00:08:11,022
+          faux leather,         
+    backed by cushy padding,    
+
+123
+00:08:11,024 --> 00:08:13,224
+  is used to make the footbed.  
+
+124
+00:08:13,226 --> 00:08:14,759
+    this material is similar    
+
+125
+00:08:14,761 --> 00:08:16,695
+     to what is used to make    
+           flip-flops.          
+
+126
+00:08:22,936 --> 00:08:25,103
+           the worker           
+     transfers the footbeds     
+
+127
+00:08:25,105 --> 00:08:27,572
+ to a silk-screen work station. 
+
+128
+00:08:27,574 --> 00:08:30,709
+      she lowers a stencil      
+ with the company's logo on it. 
+
+129
+00:08:33,113 --> 00:08:35,446
+     she applies acrylic ink    
+
+130
+00:08:35,448 --> 00:08:37,916
+      and squeegees the ink     
+       across the stencil       
+
+131
+00:08:37,918 --> 00:08:40,919
+     to transfer the imagine    
+  to the faux-leather footbeds. 
+
+132
+00:08:48,996 --> 00:08:51,930
+        another employee        
+  threads strong nylon cording  
+
+133
+00:08:51,932 --> 00:08:53,632
+        through the holes       
+         in the footbeds        
+
+134
+00:08:53,634 --> 00:08:55,867
+         to create loops        
+  for the interchangeable ties. 
+
+135
+00:09:00,540 --> 00:09:02,541
+        he presses rivets       
+        into the footbed        
+
+136
+00:09:02,543 --> 00:09:04,042
+   to hold the loops in place.  
+
+137
+00:09:12,619 --> 00:09:15,420
+        then he attaches        
+  the second part of the rivets 
+
+138
+00:09:15,422 --> 00:09:16,922
+    to the protruding shafts.   
+
+139
+00:09:21,161 --> 00:09:23,228
+    using the special press,    
+
+140
+00:09:23,230 --> 00:09:27,966
+     he flattens the rivets     
+ to secure them to the footbed. 
+
+141
+00:09:27,968 --> 00:09:29,767
+        the loops are now       
+         firmly attached        
+
+142
+00:09:29,769 --> 00:09:31,736
+       and should hold up       
+       to frequent tying.       
+
+143
+00:09:36,309 --> 00:09:41,012
+  another worker now glues the  
+footbeds to the soles and heels.
+
+144
+00:09:47,721 --> 00:09:49,521
+         next, she glues        
+      the rubber heel caps      
+
+145
+00:09:49,523 --> 00:09:52,123
+  to the bottoms of the shoes.  
+
+146
+00:09:52,125 --> 00:09:55,727
+     the caps provide tread     
+ and make the shoe more durable.
+
+147
+00:09:59,666 --> 00:10:02,466
+       a worker then sands      
+    the sides of the sandals,   
+
+148
+00:10:02,468 --> 00:10:06,203
+            blending            
+    all the layers together.    
+
+149
+00:10:06,205 --> 00:10:09,407
+       he buffs the sides       
+  against a fine grit abrasive  
+
+150
+00:10:09,409 --> 00:10:11,910
+       to give the surface      
+          a nice sheen.         
+
+151
+00:10:15,682 --> 00:10:19,350
+then he rubs an oil-based sealer
+     into the wooden heels.     
+
+152
+00:10:19,352 --> 00:10:21,619
+     this protects the wood     
+          from moisture         
+
+153
+00:10:21,621 --> 00:10:23,822
+ and also accentuates the grain.
+
+154
+00:10:28,829 --> 00:10:31,296
+   it's time to test the ties.  
+
+155
+00:10:32,833 --> 00:10:34,832
+     she threads the ribbons    
+       through the loops.       
+
+156
+00:10:34,834 --> 00:10:36,468
+       they're good to go.      
+
+157
+00:10:41,641 --> 00:10:45,310
+     with many colorful ties    
+         to choose from,        
+
+158
+00:10:45,312 --> 00:10:48,146
+  these interchangeable sandals 
+     are many shoes in one.     
+
+159
+00:11:02,663 --> 00:11:03,995
+            narrator:           
+       racecar simulators       
+
+160
+00:11:03,997 --> 00:11:07,598
+   help train racecar drivers   
+         off the track.         
+
+161
+00:11:07,600 --> 00:11:10,468
+     they provide realistic     
+    visuals and sensations --   
+
+162
+00:11:10,470 --> 00:11:13,471
+    bumps, jolts, swerves --    
+
+163
+00:11:13,473 --> 00:11:15,273
+  whatever movement you'd feel  
+
+164
+00:11:15,275 --> 00:11:16,874
+      if you were sitting       
+      in the driver's seat      
+
+165
+00:11:16,876 --> 00:11:18,476
+       of a real racecar.       
+
+166
+00:11:22,348 --> 00:11:25,550
+     this racecar simulator     
+  can be programmed to produce  
+
+167
+00:11:25,552 --> 00:11:28,620
+   a range of racing scenarios  
+     and weather conditions.    
+
+168
+00:11:28,622 --> 00:11:31,690
+        it can replicate        
+      any car on any track.     
+
+169
+00:11:34,161 --> 00:11:36,695
+ first, a computer-guided laser 
+
+170
+00:11:36,697 --> 00:11:39,764
+  cuts many of the simulator's  
+    parts from steel sheets.    
+
+171
+00:11:39,766 --> 00:11:42,100
+          after workers         
+      sand the rough areas,     
+
+172
+00:11:42,102 --> 00:11:44,903
+ a machine reads the final shape
+          with a laser          
+
+173
+00:11:44,905 --> 00:11:47,338
+      to make sure the part     
+      meets specifications.     
+
+174
+00:11:50,911 --> 00:11:54,179
+   if a part requires bending,  
+    it is done with a press.    
+
+175
+00:11:54,181 --> 00:11:57,849
+this is one of the side brackets
+     for the driver's seat.     
+
+176
+00:11:59,386 --> 00:12:01,385
+ the simulator's main structure 
+
+177
+00:12:01,387 --> 00:12:04,722
+        is made primarily       
+        of steel tubing.        
+
+178
+00:12:04,724 --> 00:12:08,325
+ they saw the lengths required. 
+
+179
+00:12:08,327 --> 00:12:10,728
+   then a computer-guided mill  
+          drills holes          
+
+180
+00:12:10,730 --> 00:12:12,263
+          for the bolts         
+     that will later be used    
+
+181
+00:12:12,265 --> 00:12:16,201
+            to attach           
+   the simulator's components.  
+
+182
+00:12:16,203 --> 00:12:18,470
+    once all the steel tubes    
+           are ready,           
+
+183
+00:12:18,472 --> 00:12:20,271
+   a welder puts them in a jig  
+
+184
+00:12:20,273 --> 00:12:22,340
+     to align them correctly    
+          for assembly.         
+
+185
+00:12:32,685 --> 00:12:38,156
+  the structure's tubular parts 
+      are welded together.      
+
+186
+00:12:38,158 --> 00:12:41,426
+    then the worker adds the    
+  simulator's sheet-steel parts 
+
+187
+00:12:41,428 --> 00:12:46,030
+    and sprays the structure    
+  with industrial-grade paint.  
+
+188
+00:12:46,032 --> 00:12:49,367
+         now they mount         
+ an audio speaker and amplifier 
+
+189
+00:12:49,369 --> 00:12:52,102
+    for the vibration system.   
+
+190
+00:12:52,104 --> 00:12:53,371
+  motion controllers that move  
+
+191
+00:12:53,373 --> 00:12:54,972
+       the steering wheel       
+       and driver's seat        
+
+192
+00:12:54,974 --> 00:12:56,641
+         are also added.        
+
+193
+00:12:58,845 --> 00:13:02,046
+          they install          
+  the power distribution block  
+
+194
+00:13:02,048 --> 00:13:07,585
+      and a sub-controller      
+ for each of the two actuators. 
+
+195
+00:13:07,587 --> 00:13:11,389
+they install the cables required
+ for the simulator's components 
+
+196
+00:13:11,391 --> 00:13:13,524
+  and plug them into a usb hub. 
+
+197
+00:13:13,526 --> 00:13:15,793
+ then they install the computer 
+
+198
+00:13:15,795 --> 00:13:21,065
+  and plug it into the usb hub, 
+            as well.            
+
+199
+00:13:21,067 --> 00:13:23,468
+       they cover the top       
+        of the structure        
+
+200
+00:13:23,470 --> 00:13:27,071
+ with a textured aluminum panel.
+
+201
+00:13:27,073 --> 00:13:30,208
+     they bolt the bottom of    
+ the actuators to the structure 
+
+202
+00:13:30,210 --> 00:13:34,078
+          and plug them         
+into the sub-controllers inside.
+
+203
+00:13:34,080 --> 00:13:36,481
+         then they mount        
+        the driver's seat       
+
+204
+00:13:36,483 --> 00:13:40,752
+     and bolt the top of the    
+  actuators to the back of it.  
+
+205
+00:13:44,424 --> 00:13:46,156
+a worker installs the seat belt,
+
+206
+00:13:46,158 --> 00:13:49,026
+ along with the spring mechanism
+    that yanks the belt back    
+
+207
+00:13:49,028 --> 00:13:52,630
+    when you hit the brakes.    
+
+208
+00:13:52,632 --> 00:13:54,966
+     they close in the sides    
+      of the main structure     
+
+209
+00:13:54,968 --> 00:13:56,267
+      with aluminum panels.     
+
+210
+00:13:58,170 --> 00:14:01,372
+       next they assemble       
+ the simulator's three pedals --
+
+211
+00:14:01,374 --> 00:14:03,641
+   gas, brakes, and clutch --   
+
+212
+00:14:03,643 --> 00:14:05,944
+            and mount           
+   the clutch mechanism to it.  
+
+213
+00:14:11,918 --> 00:14:14,451
+ the pedal assembly is installed
+
+214
+00:14:14,453 --> 00:14:17,355
+           to the base          
+     of the steering frame.     
+
+215
+00:14:19,526 --> 00:14:22,327
+    they mount the dashboard    
+    to the top of the frame.    
+
+216
+00:14:22,329 --> 00:14:23,995
+    it's made of carbon fiber   
+
+217
+00:14:23,997 --> 00:14:26,931
+    and contains the computer   
+       and audio controls.      
+
+218
+00:14:29,536 --> 00:14:32,804
+ they attach the steering frame 
+     to the main structure.     
+
+219
+00:14:38,945 --> 00:14:41,011
+       then they assemble       
+       the steering wheel.      
+
+220
+00:14:41,013 --> 00:14:43,214
+         inside its base        
+       is a circuit board       
+
+221
+00:14:43,216 --> 00:14:45,817
+    that controls the buttons   
+  on the wheel and gear shift.  
+
+222
+00:14:45,819 --> 00:14:48,786
+  it's called the shift paddle. 
+
+223
+00:14:51,891 --> 00:14:54,859
+   they mount the shift paddle  
+         to the base...         
+
+224
+00:14:57,029 --> 00:14:59,664
+      ...then flip it over      
+      to attach the wheel.      
+
+225
+00:15:10,510 --> 00:15:13,044
+      next workers assemble     
+       the display frame.       
+
+226
+00:15:13,046 --> 00:15:15,646
+    it holds the simulator's    
+         three monitors         
+
+227
+00:15:15,648 --> 00:15:17,715
+    and three front speakers.   
+
+228
+00:15:17,717 --> 00:15:20,184
+        then they roll in       
+    the rest of the simulator   
+
+229
+00:15:20,186 --> 00:15:23,054
+      and plug the monitors     
+ and speakers into the computer.
+
+230
+00:15:27,560 --> 00:15:30,395
+   finally, the steering wheel  
+     is mounted to the dash.    
+
+231
+00:15:30,397 --> 00:15:32,931
+      it snaps in and out,      
+      allowing the driver       
+
+232
+00:15:32,933 --> 00:15:37,402
+        to easily switch        
+ between steering wheel models. 
+
+233
+00:15:37,404 --> 00:15:40,471
+  the simulator is run through  
+  several days of test drives   
+
+234
+00:15:40,473 --> 00:15:41,706
+      before it ships out.      
+
+235
+00:15:43,810 --> 00:15:46,544
+         amusement parks        
+ also purchase these simulators 
+
+236
+00:15:46,546 --> 00:15:50,214
+        to offer visitors       
+  a racecar driving experience. 
+
+237
+00:15:50,216 --> 00:15:53,818
+       they can even link       
+  multiple simulators together  
+
+238
+00:15:53,820 --> 00:15:56,820
+   to race against each other   
+       in virtual replicas      
+
+239
+00:15:56,822 --> 00:15:58,890
+         of the world's         
+     most famous racetracks.    
+
+240
+00:16:08,501 --> 00:16:09,967
+     narrator: in the 1980s,    
+
+241
+00:16:09,969 --> 00:16:12,236
+        fiberglass doors        
+       came on the market.      
+
+242
+00:16:12,238 --> 00:16:13,371
+    they were well-insulated    
+
+243
+00:16:13,373 --> 00:16:15,306
+         and didn't warp        
+       in humid conditions      
+
+244
+00:16:15,308 --> 00:16:17,041
+        like wood doors.        
+
+245
+00:16:17,043 --> 00:16:20,511
+ however, they lacked the beauty
+    and texture of real wood.   
+
+246
+00:16:20,513 --> 00:16:22,579
+       that's now changing      
+         with technology        
+
+247
+00:16:22,581 --> 00:16:25,616
+ that can make fiberglass doors 
+    look much more inviting.    
+
+248
+00:16:29,655 --> 00:16:33,724
+     fiberglass doors trick     
+   the eye and fool visitors.   
+
+249
+00:16:33,726 --> 00:16:36,394
+         even up close,         
+    they look like real wood.   
+
+250
+00:16:36,396 --> 00:16:41,666
+ it's an illusion made possible 
+  with the help of technology.  
+
+251
+00:16:41,668 --> 00:16:46,470
+  a wood-grain fiberglass door  
+  starts with a real wood door. 
+
+252
+00:16:46,472 --> 00:16:49,740
+     a computerized cutter      
+     carves various panels.     
+
+253
+00:16:49,742 --> 00:16:55,346
+     an employee sands away     
+  any marks left by the cutter. 
+
+254
+00:16:55,348 --> 00:16:57,014
+   he gently scrapes the wood   
+
+255
+00:16:57,016 --> 00:16:59,217
+        with a wire brush       
+      to expose the grain.      
+
+256
+00:17:03,089 --> 00:17:04,756
+  he then assembles the panels  
+
+257
+00:17:04,758 --> 00:17:06,724
+       of the door within       
+       a special fixture.       
+
+258
+00:17:09,562 --> 00:17:12,696
+   another team member scans    
+   the wood door with a laser   
+
+259
+00:17:12,698 --> 00:17:15,033
+           to confirm           
+    its dimensional accuracy.   
+
+260
+00:17:15,035 --> 00:17:17,768
+     with that confirmation,    
+
+261
+00:17:17,770 --> 00:17:19,637
+      they're ready to use      
+         this wood door         
+
+262
+00:17:19,639 --> 00:17:21,172
+    to make a fiberglass one.   
+
+263
+00:17:23,042 --> 00:17:27,044
+ next the worker pours a special
+ silicone mixture onto the wood 
+
+264
+00:17:27,046 --> 00:17:29,446
+and leaves it to cure overnight.
+
+265
+00:17:29,448 --> 00:17:34,185
+this step was demonstrated using
+ a smaller section of the door. 
+
+266
+00:17:34,187 --> 00:17:37,388
+  the silicone picks up all the 
+  definition of the wood grain, 
+
+267
+00:17:37,390 --> 00:17:41,592
+            creating            
+   an exact copy of the door.   
+
+268
+00:17:41,594 --> 00:17:44,595
+    next an employee injects    
+  a different silicone mixture  
+
+269
+00:17:44,597 --> 00:17:45,863
+         into a thin gap        
+
+270
+00:17:45,865 --> 00:17:48,932
+  between the recently created  
+          silicone copy         
+
+271
+00:17:48,934 --> 00:17:50,534
+      and a sheet of steel.     
+
+272
+00:17:50,536 --> 00:17:53,004
+  the second silicone door copy 
+           is thinner,          
+
+273
+00:17:53,006 --> 00:17:57,675
+ allowing for a better transfer 
+of heat during the next process.
+
+274
+00:17:57,677 --> 00:18:00,878
+    they load the door copy,    
+    still on the steel sheet,   
+
+275
+00:18:00,880 --> 00:18:03,548
+   into a chemical deposition   
+            chamber.            
+
+276
+00:18:03,550 --> 00:18:05,483
+       the chemical heats       
+   the steel and the silicone,  
+
+277
+00:18:05,485 --> 00:18:07,751
+  causing a nickel-vapor shell  
+            to form.            
+
+278
+00:18:07,753 --> 00:18:09,820
+        the nickel shell        
+       has all the detail       
+
+279
+00:18:09,822 --> 00:18:11,288
+   of the original wood door.   
+
+280
+00:18:11,290 --> 00:18:14,158
+   an employee files the edges  
+
+281
+00:18:14,160 --> 00:18:16,693
+            and adds            
+  a protective fiberglass cover 
+
+282
+00:18:16,695 --> 00:18:19,430
+   over the top of the shell.   
+
+283
+00:18:19,432 --> 00:18:23,101
+     workers then lower the     
+ nickel shell into a mold base. 
+
+284
+00:18:23,103 --> 00:18:25,369
+they remove the protective cover
+
+285
+00:18:25,371 --> 00:18:27,572
+      and are ready to use      
+        the nickel shell        
+
+286
+00:18:27,574 --> 00:18:29,239
+to mold fiberglass door veneers.
+
+287
+00:18:29,241 --> 00:18:30,707
+   there are many nickel molds  
+
+288
+00:18:30,709 --> 00:18:33,311
+  and a variety of door styles  
+        at this factory.        
+
+289
+00:18:39,518 --> 00:18:43,387
+   the fiberglass material now  
+ unwinds into a cutting station.
+
+290
+00:18:43,389 --> 00:18:46,691
+       a worker slices it       
+      into uniform strips.      
+
+291
+00:18:49,329 --> 00:18:53,597
+ the fiberglass has a dough-like
+   consistency at this stage.   
+
+292
+00:18:53,599 --> 00:18:57,868
+ he places a stack of fiberglass
+ strips on the nickel door mold 
+
+293
+00:18:57,870 --> 00:18:59,804
+     and lowers a hot press.    
+
+294
+00:19:02,141 --> 00:19:05,476
+  the press squeezes and melts  
+         the fiberglass.        
+
+295
+00:19:05,478 --> 00:19:08,546
+   it flows into the crevices   
+          of the mold.          
+
+296
+00:19:08,548 --> 00:19:11,348
+         the fiberglass         
+       solidifies quickly.      
+
+297
+00:19:11,350 --> 00:19:13,217
+     an employee removes it     
+         from the press         
+
+298
+00:19:13,219 --> 00:19:16,954
+   and sands the ragged edges.  
+
+299
+00:19:16,956 --> 00:19:18,489
+   another member of the team   
+
+300
+00:19:18,491 --> 00:19:20,691
+     confirms that the width    
+   and thickness of the panel   
+
+301
+00:19:20,693 --> 00:19:22,059
+         are on target.         
+
+302
+00:19:24,163 --> 00:19:26,964
+        they stain every        
+   first-run fiberglass panel   
+
+303
+00:19:26,966 --> 00:19:29,300
+            to expose           
+   the transferred wood grain.  
+
+304
+00:19:29,302 --> 00:19:30,968
+         this is a test.        
+
+305
+00:19:30,970 --> 00:19:32,369
+      if the grain is good,     
+
+306
+00:19:32,371 --> 00:19:35,573
+  it means there are no defects 
+    in the nickel door mold.    
+
+307
+00:19:35,575 --> 00:19:39,043
+      it's time to assemble     
+      the fiberglass door.      
+
+308
+00:19:39,045 --> 00:19:41,979
+       rollers apply glue       
+    to external framing wood.   
+
+309
+00:19:44,917 --> 00:19:48,586
+ the team builds a frame around 
+    the fiberglass door skin.   
+
+310
+00:19:48,588 --> 00:19:50,988
+       they join the wood       
+       to plastic casing        
+
+311
+00:19:50,990 --> 00:19:54,325
+      at the top and bottom     
+          of the door.          
+
+312
+00:19:54,327 --> 00:20:00,530
+       they place a second      
+fiberglass door skin on the top.
+
+313
+00:20:00,532 --> 00:20:03,000
+         then they feed         
+    the door through rollers    
+
+314
+00:20:03,002 --> 00:20:04,735
+    that squeeze it together.   
+
+315
+00:20:04,737 --> 00:20:07,605
+     this activates the glue    
+     for a strong assembly.     
+
+316
+00:20:10,076 --> 00:20:12,843
+         the glue takes         
+      over 24 hours to dry.     
+
+317
+00:20:15,681 --> 00:20:17,948
+         next they load         
+   the hollow fiberglass doors  
+
+318
+00:20:17,950 --> 00:20:19,217
+    into an insulating press.   
+
+319
+00:20:21,420 --> 00:20:26,424
+    the press closes, holding   
+   the doors tightly in place.  
+
+320
+00:20:26,426 --> 00:20:28,425
+ a worker fills the hollow doors
+
+321
+00:20:28,427 --> 00:20:30,695
+        with polyurethane       
+        insulating foam.        
+
+322
+00:20:34,233 --> 00:20:37,301
+  when foam begins to overflow  
+     through the vent holes,    
+
+323
+00:20:37,303 --> 00:20:39,570
+        the worker knows        
+       the doors are full.      
+
+324
+00:20:43,243 --> 00:20:44,942
+    he caps the fill hole...    
+
+325
+00:20:48,247 --> 00:20:51,916
+ ...and runs a finger along the 
+doors to remove any excess foam.
+
+326
+00:20:54,654 --> 00:20:56,520
+  energy-efficient and stable,  
+
+327
+00:20:56,522 --> 00:21:00,257
+        fiberglass doors        
+are a great alternative to wood.
+
+328
+00:21:00,259 --> 00:21:04,962
+ with eye-catching wood grain,  
+ they're convincing imitations. 
+
+329
+00:21:13,606 --> 00:21:15,673
+    if you have any comments    
+         about the show,        
+
+330
+00:21:15,675 --> 00:21:18,342
+   or if you'd like to suggest  
+    topics for future shows,    
+
+331
+00:21:18,344 --> 00:21:20,344
+      drop us a line at...      
+

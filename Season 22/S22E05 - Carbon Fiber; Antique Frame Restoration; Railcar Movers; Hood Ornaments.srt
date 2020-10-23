@@ -1,0 +1,1637 @@
+﻿1
+00:00:02,269 --> 00:00:05,204
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,206 --> 00:00:08,207
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:53,187 --> 00:00:56,321
+     narrator: carbon fiber     
+    is an engineer's dream --   
+
+4
+00:00:56,323 --> 00:00:59,191
+           lightweight          
+     yet incredibly strong.     
+
+5
+00:00:59,193 --> 00:01:02,728
+  it's a string with thousands  
+     of parallel filaments.     
+
+6
+00:01:02,730 --> 00:01:05,631
+        multiple strings        
+   can be twisted into yarns,   
+
+7
+00:01:05,633 --> 00:01:08,668
+      woven into fabrics,       
+      or molded with resin      
+
+8
+00:01:08,670 --> 00:01:12,338
+      to produce materials      
+ called carbon-fiber composites.
+
+9
+00:01:14,342 --> 00:01:17,676
+   carbon fiber is five times   
+       stronger than steel      
+
+10
+00:01:17,678 --> 00:01:19,345
+ yet less than half the weight. 
+
+11
+00:01:19,347 --> 00:01:22,548
+           to make it,          
+    they take a plastic fiber   
+
+12
+00:01:22,550 --> 00:01:24,683
+      composed of thousands     
+          of filaments          
+
+13
+00:01:24,685 --> 00:01:26,618
+  far thinner than human hair.  
+
+14
+00:01:26,620 --> 00:01:28,554
+  they then chemically alter it 
+
+15
+00:01:28,556 --> 00:01:31,223
+     to form a perfect chain    
+         of carbon atoms        
+
+16
+00:01:31,225 --> 00:01:32,892
+     for the final product.     
+
+17
+00:01:32,894 --> 00:01:36,696
+  this mammoth machine lines up 
+     dozens of those fibers     
+
+18
+00:01:36,698 --> 00:01:39,098
+        which then travel       
+    through an oxidation oven   
+
+19
+00:01:39,100 --> 00:01:41,100
+    for a couple of minutes.    
+
+20
+00:01:41,102 --> 00:01:44,636
+      the oven temperature,     
+  about 480 degrees fahrenheit, 
+
+21
+00:01:44,638 --> 00:01:48,774
+ prompts the fibers to pick up  
+ oxygen molecules from the air. 
+
+22
+00:01:48,776 --> 00:01:51,577
+         this rearranges        
+  the fibers' atomic structure, 
+
+23
+00:01:51,579 --> 00:01:54,880
+    rendering them resistant    
+          to high heat.         
+
+24
+00:01:56,317 --> 00:01:58,517
+     as the fibers oxidize,     
+
+25
+00:01:58,519 --> 00:02:01,921
+        they change color       
+    to eventually turn black.   
+
+26
+00:02:01,923 --> 00:02:06,058
+ they're now primed for the next
+     process, carbonization.    
+
+27
+00:02:06,060 --> 00:02:10,196
+    furnaces heat the fibers    
+ in an oxygen-free gas mixture. 
+
+28
+00:02:10,198 --> 00:02:12,331
+this expels the non-carbon atoms
+
+29
+00:02:12,333 --> 00:02:15,067
+         and transforms         
+   the remaining carbon atoms   
+
+30
+00:02:15,069 --> 00:02:18,137
+  into tightly bonded crystals  
+
+31
+00:02:18,139 --> 00:02:21,206
+        running parallel        
+   to the length of the fiber.  
+
+32
+00:02:21,208 --> 00:02:23,875
+      this gives the fiber      
+          its strength.         
+
+33
+00:02:23,877 --> 00:02:25,478
+    the exiting fibers travel   
+
+34
+00:02:25,480 --> 00:02:28,147
+         through a bath         
+  of electrically charged water 
+
+35
+00:02:28,149 --> 00:02:33,352
+ that etches the fibers' surface
+ so they'll better absorb resin.
+
+36
+00:02:33,354 --> 00:02:36,555
+the next station applies a light
+   preliminary coat of resin.   
+
+37
+00:02:36,557 --> 00:02:39,692
+      this will strengthen      
+    the fibers' chemical bond   
+
+38
+00:02:39,694 --> 00:02:41,894
+      to the molding resin.     
+
+39
+00:02:41,896 --> 00:02:44,563
+       a spooling machine       
+       winds each fiber,        
+
+40
+00:02:44,565 --> 00:02:47,232
+         now referred to        
+     as a carbon-fiber tow,     
+
+41
+00:02:47,234 --> 00:02:48,567
+          onto a bobbin         
+
+42
+00:02:48,569 --> 00:02:52,238
+   which buyers either weave    
+   into a carbon-fiber fabric   
+
+43
+00:02:52,240 --> 00:02:55,307
+       or mix with resin        
+       to mold a product.       
+
+44
+00:02:55,309 --> 00:02:58,443
+  another form of carbon fiber  
+          is prepreg --         
+
+45
+00:02:58,445 --> 00:03:02,982
+   sheets of resin-impregnated  
+ carbon fiber ready for molding.
+
+46
+00:03:02,984 --> 00:03:06,051
+     it's like ready-to-bake    
+            cake mix.           
+
+47
+00:03:06,053 --> 00:03:08,720
+ the resin is a formula of epoxy
+
+48
+00:03:08,722 --> 00:03:13,459
+ and various powdered hardeners 
+        and accelerators.       
+
+49
+00:03:13,461 --> 00:03:16,529
+     workers pour the resin     
+     into a filming machine     
+
+50
+00:03:16,531 --> 00:03:20,866
+        which spreads it        
+in a thin, wet layer onto paper.
+
+51
+00:03:23,204 --> 00:03:25,938
+    the paper is pre-treated    
+      with a release agent      
+
+52
+00:03:25,940 --> 00:03:29,407
+  to prevent the final product  
+         from sticking,         
+
+53
+00:03:29,409 --> 00:03:34,280
+   like spraying a baking pan   
+     with non-stick coating.    
+
+54
+00:03:34,282 --> 00:03:35,947
+   another machine, meanwhile,  
+
+55
+00:03:35,949 --> 00:03:38,817
+        groups 200 to 300       
+        carbon-fiber tows       
+
+56
+00:03:38,819 --> 00:03:42,221
+   into a giant band of fibers  
+          called a web.         
+
+57
+00:03:49,463 --> 00:03:51,563
+     the width and thickness    
+           of the web           
+
+58
+00:03:51,565 --> 00:03:55,568
+    determines the width and    
+ thickness of the prepreg sheet.
+
+59
+00:03:55,570 --> 00:03:59,371
+     workers mount two rolls    
+      of resin-coated paper     
+
+60
+00:03:59,373 --> 00:04:01,974
+   onto the resin-impregnation  
+            machine.            
+
+61
+00:04:01,976 --> 00:04:05,377
+        a heating element       
+  warms up the web as it enters 
+
+62
+00:04:05,379 --> 00:04:07,880
+ to facilitate resin absorption.
+
+63
+00:04:09,317 --> 00:04:11,584
+then the heated carbon-fiber web
+
+64
+00:04:11,586 --> 00:04:17,189
+is sandwiched between two sheets
+     of resin-coated paper.     
+
+65
+00:04:17,191 --> 00:04:20,325
+  high-pressure heated rollers  
+       thin out the resin       
+
+66
+00:04:20,327 --> 00:04:23,796
+  so it penetrates the millions 
+   of carbon-fiber filaments.   
+
+67
+00:04:25,332 --> 00:04:29,268
+    cooling plates then turn    
+    the liquid resin to gel     
+
+68
+00:04:29,270 --> 00:04:31,737
+    so that the next station    
+      can remove the paper,     
+
+69
+00:04:31,739 --> 00:04:34,774
+     which pulls off easily     
+  thanks to the release agent.  
+
+70
+00:04:38,345 --> 00:04:41,080
+ the next station covers the top
+      of the prepreg sheet      
+
+71
+00:04:41,082 --> 00:04:45,217
+      with polyester film.      
+
+72
+00:04:47,555 --> 00:04:49,354
+ this prevents the prepreg sheet
+
+73
+00:04:49,356 --> 00:04:52,224
+     from sticking to itself    
+     at the end of the line     
+
+74
+00:04:52,226 --> 00:04:55,961
+   when it's wound into a roll  
+      like a fruit roll-up.     
+
+75
+00:05:00,901 --> 00:05:02,834
+      in the factory's lab,     
+
+76
+00:05:02,836 --> 00:05:07,573
+ technicians run quality control
+    tests on prepreg samples.   
+
+77
+00:05:07,575 --> 00:05:09,241
+  first they weigh the sample.  
+
+78
+00:05:09,243 --> 00:05:12,044
+  then they wash off the resin  
+         with chemicals         
+
+79
+00:05:12,046 --> 00:05:13,712
+   and weigh the sample again.  
+
+80
+00:05:13,714 --> 00:05:17,449
+ this verifies whether the ratio
+    of carbon fiber to resin    
+
+81
+00:05:17,451 --> 00:05:18,584
+           is correct.          
+
+82
+00:05:18,586 --> 00:05:21,787
+      the lab also analyzes     
+     samples of composite --    
+
+83
+00:05:21,789 --> 00:05:24,123
+carbon-fiber reinforced resin --
+
+84
+00:05:24,125 --> 00:05:26,525
+ in this tensile strength test. 
+
+85
+00:05:26,527 --> 00:05:29,928
+ the computer measures how much 
+  strain the sample withstands  
+
+86
+00:05:29,930 --> 00:05:32,031
+        before breaking.        
+
+87
+00:05:35,269 --> 00:05:37,536
+      such testing ensures      
+        the carbon fiber        
+
+88
+00:05:37,538 --> 00:05:42,741
+   delivers optimum strength,   
+durability, and heat resistance,
+
+89
+00:05:42,743 --> 00:05:45,077
+        whether it's used       
+      to make an auto part,     
+
+90
+00:05:45,079 --> 00:05:48,881
+      a wind-turbine blade,     
+         or a golf club.        
+
+91
+00:06:05,699 --> 00:06:08,033
+ narrator: antique gilded frames
+      have spent many years     
+
+92
+00:06:08,035 --> 00:06:09,902
+      protecting paintings      
+      and enhancing them.       
+
+93
+00:06:09,904 --> 00:06:13,972
+but over time, grime can obscure
+       the gold-leaf shine      
+
+94
+00:06:13,974 --> 00:06:17,109
+ and the frame can suffer damage
+       and deterioration.       
+
+95
+00:06:17,111 --> 00:06:19,979
+        but these frames        
+     are highly collectible,    
+
+96
+00:06:19,981 --> 00:06:23,148
+       and restoring them       
+     preserves their value.     
+
+97
+00:06:25,252 --> 00:06:27,386
+         with elaborate         
+       cast ornamentation       
+
+98
+00:06:27,388 --> 00:06:28,653
+       and gold-leaf work,      
+
+99
+00:06:28,655 --> 00:06:34,259
+ this 19th-century gilded frame 
+    is itself a work of art.    
+
+100
+00:06:34,261 --> 00:06:36,729
+  but it's in need of renewal.  
+
+101
+00:06:36,731 --> 00:06:40,065
+        restoration work        
+done many years ago has cracked,
+
+102
+00:06:40,067 --> 00:06:43,402
+ and gold leaf is deteriorating 
+     elsewhere on the frame.    
+
+103
+00:06:43,404 --> 00:06:45,203
+    the technician carefully    
+
+104
+00:06:45,205 --> 00:06:47,873
+ pries the cracked acorn casting
+              loose             
+
+105
+00:06:47,875 --> 00:06:50,075
+ and removes it from the frame. 
+
+106
+00:06:50,077 --> 00:06:52,744
+      he'll make a new one      
+          from scratch.         
+
+107
+00:06:52,746 --> 00:06:55,748
+ it will need to completely fill
+         the empty space        
+
+108
+00:06:55,750 --> 00:06:58,884
+and look exactly like the others
+          on the frame.         
+
+109
+00:07:02,289 --> 00:07:06,225
+   he starts by making a mold   
+ with dental impression rubber. 
+
+110
+00:07:06,227 --> 00:07:09,294
+  he kneads the two putty-like  
+       components together      
+
+111
+00:07:09,296 --> 00:07:12,031
+  to activate the ingredients.  
+
+112
+00:07:12,033 --> 00:07:15,167
+    when the color's uniform    
+    and there are no streaks,   
+
+113
+00:07:15,169 --> 00:07:17,836
+the rubber is ready for molding.
+
+114
+00:07:17,838 --> 00:07:19,638
+       he must act quickly      
+
+115
+00:07:19,640 --> 00:07:23,241
+  because in just three minutes 
+      the rubber will cure.     
+
+116
+00:07:23,243 --> 00:07:26,245
+      he presses it around      
+ the acorn ornament on the frame
+
+117
+00:07:26,247 --> 00:07:29,515
+     to capture the detail.     
+
+118
+00:07:30,985 --> 00:07:33,318
+  he now has a mold he can use  
+
+119
+00:07:33,320 --> 00:07:37,589
+     to cast a new ornament     
+         for the frame.         
+
+120
+00:07:37,591 --> 00:07:41,126
+    he'll use this wood epoxy   
+            for that.           
+
+121
+00:07:41,128 --> 00:07:43,328
+   like the dental impression   
+             rubber,            
+
+122
+00:07:43,330 --> 00:07:46,131
+   it must be mixed thoroughly  
+         to activate it.        
+
+123
+00:07:46,133 --> 00:07:49,668
+      he presses the epoxy      
+ into the contours of the mold, 
+
+124
+00:07:49,670 --> 00:07:51,803
+     pushing it from one end    
+          to the other.         
+
+125
+00:07:51,805 --> 00:07:54,807
+   this will prevent air from   
+ becoming trapped in the casting
+
+126
+00:07:54,809 --> 00:07:56,942
+ and compromising its integrity.
+
+127
+00:07:56,944 --> 00:08:01,747
+     after a 10-minute cure,    
+   the epoxy casting is ready,  
+
+128
+00:08:01,749 --> 00:08:06,151
+       and he extracts it       
+         from the mold.         
+
+129
+00:08:06,153 --> 00:08:07,886
+     he examines the detail     
+
+130
+00:08:07,888 --> 00:08:11,490
+     and confirms that it is    
+     an exact reproduction.     
+
+131
+00:08:11,492 --> 00:08:14,960
+   then, using a scoop chisel,  
+
+132
+00:08:14,962 --> 00:08:18,430
+      he sculpts the edges      
+  and the inside of the casting 
+
+133
+00:08:18,432 --> 00:08:21,900
+           to shape it          
+      to the picture frame.     
+
+134
+00:08:21,902 --> 00:08:23,836
+    in this comparison shot,    
+
+135
+00:08:23,838 --> 00:08:27,172
+         the shaped part        
+     is the one on the left.    
+
+136
+00:08:27,174 --> 00:08:31,110
+    he places the cast epoxy    
+      ornament on the frame     
+
+137
+00:08:31,112 --> 00:08:34,446
+       and nails it down.       
+
+138
+00:08:34,448 --> 00:08:36,515
+ the epoxy is still soft enough 
+
+139
+00:08:36,517 --> 00:08:41,319
+   that he can drive the nail   
+  into it without breaking it.  
+
+140
+00:08:41,321 --> 00:08:43,856
+    he fills the gap between    
+    the casting and the frame   
+
+141
+00:08:43,858 --> 00:08:45,390
+        with more epoxy,        
+
+142
+00:08:45,392 --> 00:08:50,329
+ providing a seamless transition
+        from new to old.        
+
+143
+00:08:50,331 --> 00:08:52,464
+   after the epoxy solidifies,  
+
+144
+00:08:52,466 --> 00:08:54,933
+he brushes something called bole
+            onto it.            
+
+145
+00:08:54,935 --> 00:08:58,937
+      bole is a mix of clay     
+      and rabbit-skin glue.     
+
+146
+00:08:58,939 --> 00:09:02,141
+      it provides a surface     
+  that the gold can adhere to,  
+
+147
+00:09:02,143 --> 00:09:04,676
+    and the rabbit-skin glue    
+        will give it flex       
+
+148
+00:09:04,678 --> 00:09:06,945
+       as the wood expands      
+         and contracts.         
+
+149
+00:09:08,882 --> 00:09:13,852
+ he then transfers the 23-karat 
+    gold leaf to the casting.   
+
+150
+00:09:15,222 --> 00:09:18,156
+    before he lays each piece   
+          of gold leaf,         
+
+151
+00:09:18,158 --> 00:09:20,359
+       he wets the surface      
+         of the ornament        
+
+152
+00:09:20,361 --> 00:09:22,026
+   with a gilder's liqueur --   
+
+153
+00:09:22,028 --> 00:09:25,764
+    a mix of water, alcohol,    
+      and rabbit-skin glue.     
+
+154
+00:09:25,766 --> 00:09:27,766
+    this causes the gold leaf   
+
+155
+00:09:27,768 --> 00:09:32,237
+   to conform to the contours   
+   of the ornament and adhere.  
+
+156
+00:09:32,239 --> 00:09:34,839
+    after the golf leaf sets    
+       for an hour or two,      
+
+157
+00:09:34,841 --> 00:09:37,375
+         he burnishes it        
+      to a very high shine      
+
+158
+00:09:37,377 --> 00:09:42,114
+  using a tool made from agate, 
+a very hard, semiprecious stone.
+
+159
+00:09:42,116 --> 00:09:43,781
+     hundreds of years ago,     
+
+160
+00:09:43,783 --> 00:09:47,019
+   craftsman used dogs' teeth   
+          for this job.         
+
+161
+00:09:49,323 --> 00:09:51,723
+     he rubs the shiny, new     
+          gold surface          
+
+162
+00:09:51,725 --> 00:09:54,259
+with very fine-grade steel wool.
+
+163
+00:09:54,261 --> 00:09:57,996
+  this removes some of the gold 
+    to simulate natural wear    
+
+164
+00:09:57,998 --> 00:10:02,634
+  so that it matches the patina 
+    of the rest of the frame.   
+
+165
+00:10:04,004 --> 00:10:06,004
+    and what a transformation   
+
+166
+00:10:06,006 --> 00:10:09,741
+    this plain epoxy casting    
+         has undergone.         
+
+167
+00:10:09,743 --> 00:10:12,277
+ newly gilded, and it looks like
+
+168
+00:10:12,279 --> 00:10:15,547
+      it's always been part     
+      of the antique frame.     
+
+169
+00:10:18,152 --> 00:10:22,154
+   other sections of the frame  
+       require regilding.       
+
+170
+00:10:22,156 --> 00:10:24,356
+he rubs alcohol onto those areas
+
+171
+00:10:24,358 --> 00:10:27,025
+           to get rid           
+     of atmospheric residue     
+
+172
+00:10:27,027 --> 00:10:30,629
+ that would prevent the adhesion
+        of the new gold.        
+
+173
+00:10:32,632 --> 00:10:34,900
+       and after applying       
+       gilder's liqueur,        
+
+174
+00:10:34,902 --> 00:10:38,704
+        he lays sheets of       
+ the new gold leaf over the old,
+
+175
+00:10:38,706 --> 00:10:43,508
+working with a steady rhythm to 
+give the area complete coverage.
+
+176
+00:10:43,510 --> 00:10:46,511
+     he's aiming for more of    
+ a matte finish on this section,
+
+177
+00:10:46,513 --> 00:10:48,914
+    so he doesn't polish it.    
+
+178
+00:10:48,916 --> 00:10:53,184
+  he brushes a protective coat  
+       of shellac onto it.      
+
+179
+00:10:53,186 --> 00:10:56,921
+    he's used a combination     
+    of old materials and new    
+
+180
+00:10:56,923 --> 00:10:59,925
+           to restore           
+    this antique gilt frame,    
+
+181
+00:10:59,927 --> 00:11:03,328
+    and it's picture-perfect.   
+
+182
+00:11:16,410 --> 00:11:18,810
+  narrator: pushing and pulling 
+   railcars at the train yard   
+
+183
+00:11:18,812 --> 00:11:20,612
+      is the job of a large     
+        motorized vehicle       
+
+184
+00:11:20,614 --> 00:11:23,615
+      appropriately called      
+        a railcar mover.        
+
+185
+00:11:23,617 --> 00:11:26,818
+      it switches the cars      
+   from one track to another,   
+
+186
+00:11:26,820 --> 00:11:29,755
+    shuttles them in and out    
+   of the cargo loading area,   
+
+187
+00:11:29,757 --> 00:11:34,059
+   and positions them in line   
+     behind the locomotive.     
+
+188
+00:11:37,030 --> 00:11:41,232
+  a railcar mover has to drive  
+both on and off the train track,
+
+189
+00:11:41,234 --> 00:11:43,568
+so it has two types of wheels --
+
+190
+00:11:43,570 --> 00:11:47,238
+     four steel rail wheels     
+   for guiding it on the track  
+
+191
+00:11:47,240 --> 00:11:49,241
+         and four wheels        
+        with rubber tires       
+
+192
+00:11:49,243 --> 00:11:52,311
+   for driving on the ground.   
+
+193
+00:11:54,048 --> 00:11:58,316
+ when building a railcar mover, 
+   they start with the frame.   
+
+194
+00:11:58,318 --> 00:12:00,618
+ a computer-guided plasma cutter
+
+195
+00:12:00,620 --> 00:12:05,457
+  cuts out all the frame parts  
+from a 4-inch-thick steel plate.
+
+196
+00:12:06,594 --> 00:12:08,927
+    once all the frame parts    
+           are ready,           
+
+197
+00:12:08,929 --> 00:12:11,596
+   workers begin welding them   
+            together.           
+
+198
+00:12:11,598 --> 00:12:16,001
+ they position the deck plate,  
+ the mover's floor, upside down 
+
+199
+00:12:16,003 --> 00:12:18,003
+  and weld on the frame rails.  
+
+200
+00:12:18,005 --> 00:12:22,074
+    these will hold the axles   
+     for the rubber wheels.     
+
+201
+00:12:22,076 --> 00:12:26,744
+   then, to those frame rails,  
+ they weld the rail arm mounts. 
+
+202
+00:12:26,746 --> 00:12:31,483
+  these will hold the rail arms 
+   which hold the rail wheels.  
+
+203
+00:12:31,485 --> 00:12:36,087
+after welding several additional
+    components to the frame,    
+
+204
+00:12:36,089 --> 00:12:38,156
+     workers bolt the axles     
+     for the rubber wheels      
+
+205
+00:12:38,158 --> 00:12:40,459
+      to the frame rails...     
+
+206
+00:12:45,165 --> 00:12:48,333
+      ...then the rail arms     
+       to the rail mounts.      
+
+207
+00:12:50,037 --> 00:12:53,372
+       now the frame goes       
+       to the paint shop        
+
+208
+00:12:53,374 --> 00:12:57,042
+ for a coat of primer followed  
+ by a coat of automotive paint. 
+
+209
+00:12:57,044 --> 00:13:00,111
+      workers also roll on      
+    a textured floor coating    
+
+210
+00:13:00,113 --> 00:13:01,913
+  to create a non-slip surface  
+
+211
+00:13:01,915 --> 00:13:06,385
+  for the driver to safely walk 
+      to and from the cab.      
+
+212
+00:13:08,122 --> 00:13:12,257
+ when the paint dries, the frame
+  returns to the assembly line  
+
+213
+00:13:12,259 --> 00:13:13,658
+  where workers begin mounting  
+
+214
+00:13:13,660 --> 00:13:18,997
+  the 4.5-foot-wide rail wheels 
+       onto the rail arms.      
+
+215
+00:13:18,999 --> 00:13:21,399
+    after mounting each wheel   
+         on the spindle,        
+
+216
+00:13:21,401 --> 00:13:24,936
+     they install a bearing,    
+        then a large nut.       
+
+217
+00:13:24,938 --> 00:13:27,605
+    they must tighten the nut   
+      to the correct torque     
+
+218
+00:13:27,607 --> 00:13:32,978
+    yet not over-tighten it,    
+ or the wheel won't turn freely.
+
+219
+00:13:35,549 --> 00:13:38,483
+        once they've got        
+    just the correct torque,    
+
+220
+00:13:38,485 --> 00:13:41,953
+       they secure the nut      
+   with a retaining lock nut.   
+
+221
+00:13:41,955 --> 00:13:43,688
+         they finish off        
+        this installation       
+
+222
+00:13:43,690 --> 00:13:47,092
+ with the rail-wheel equivalent 
+          of a hubcap.          
+
+223
+00:13:47,094 --> 00:13:49,494
+        this steel cover        
+       holds in the grease      
+
+224
+00:13:49,496 --> 00:13:51,496
+    that lubricates the wheel   
+           and bearing          
+
+225
+00:13:51,498 --> 00:13:53,231
+while keeping out dust and dirt.
+
+226
+00:13:56,103 --> 00:13:58,837
+         next they mount        
+     the four rubber wheels,    
+
+227
+00:13:58,839 --> 00:14:02,274
+        securing each one       
+       with a dozen bolts.      
+
+228
+00:14:06,646 --> 00:14:08,980
+       these steel wheels       
+       with rubber tires        
+
+229
+00:14:08,982 --> 00:14:13,318
+      are about 6 1/2 feet      
+          in diameter.          
+
+230
+00:14:13,320 --> 00:14:15,653
+          workers mount         
+    several other components,   
+
+231
+00:14:15,655 --> 00:14:18,323
+  including a pair of air tanks 
+           with gauges          
+
+232
+00:14:18,325 --> 00:14:21,793
+        for the railcar's       
+     pneumatic brake system.    
+
+233
+00:14:21,795 --> 00:14:23,795
+      these are the brakes      
+         the driver uses        
+
+234
+00:14:23,797 --> 00:14:26,865
+         when the mover         
+     is coupled to railcars.    
+
+235
+00:14:26,867 --> 00:14:28,332
+         when it's not,         
+
+236
+00:14:28,334 --> 00:14:31,203
+ the mover has its own separate 
+     hydraulic brake system,    
+
+237
+00:14:31,205 --> 00:14:37,175
+ the components of which workers
+   also install at this stage.  
+
+238
+00:14:40,380 --> 00:14:44,549
+they attach a hydraulic cylinder
+       to the steer axle.       
+
+239
+00:14:44,551 --> 00:14:47,018
+   this controls the steering   
+      of the rubber wheels      
+
+240
+00:14:47,020 --> 00:14:50,422
+         when the mover         
+     is off the train track.    
+
+241
+00:14:50,424 --> 00:14:54,358
+   the rail wheels, of course,  
+   don't require any steering,  
+
+242
+00:14:54,360 --> 00:14:57,896
+as they simply follow the track.
+
+243
+00:14:57,898 --> 00:15:02,700
+     now workers install the    
+  300-horsepower diesel engine. 
+
+244
+00:15:02,702 --> 00:15:06,037
+      it's already bolted       
+      to the transmission.      
+
+245
+00:15:08,041 --> 00:15:10,242
+        then they hook up       
+     the electrical wiring,     
+
+246
+00:15:10,244 --> 00:15:12,310
+    which connects the engine   
+        and transmission        
+
+247
+00:15:12,312 --> 00:15:14,446
+         to the computer        
+        controlling them.       
+
+248
+00:15:17,450 --> 00:15:20,985
+    they lower the hood over    
+  the engine and transmission.  
+
+249
+00:15:20,987 --> 00:15:23,855
+  the hood has three components 
+      already installed --      
+
+250
+00:15:23,857 --> 00:15:27,926
+     the engine air intake,     
+    air cleaner, and muffler.   
+
+251
+00:15:29,396 --> 00:15:31,730
+ finally, they install the cab. 
+
+252
+00:15:31,732 --> 00:15:34,466
+     it has a steering wheel    
+      for driving off-rail      
+
+253
+00:15:34,468 --> 00:15:37,936
+      and a control console     
+    that rotates 180 degrees    
+
+254
+00:15:37,938 --> 00:15:41,072
+    to let the driver operate   
+  at whichever side of the cab  
+
+255
+00:15:41,074 --> 00:15:42,406
+     provides the best view     
+
+256
+00:15:42,408 --> 00:15:46,178
+       of all the railcars      
+the mover is pulling or pushing.
+
+257
+00:15:48,348 --> 00:15:51,082
+   the finished railcar mover   
+   doesn't leave the factory    
+
+258
+00:15:51,084 --> 00:15:54,952
+     before a burn-in period    
+        in the test pit.        
+
+259
+00:15:54,954 --> 00:15:56,888
+     the test is so intense,    
+
+260
+00:15:56,890 --> 00:16:00,758
+        the rubber tires        
+  have to be cooled with water. 
+
+261
+00:16:00,760 --> 00:16:03,695
+ pulling as many as 40 railcars 
+            at a time           
+
+262
+00:16:03,697 --> 00:16:06,031
+  is no job for a lightweight.  
+
+263
+00:16:06,033 --> 00:16:11,403
+   that's why a railcar mover   
+   weighs in at up to 45 tons.  
+
+264
+00:16:27,053 --> 00:16:29,253
+       narrator: at first,      
+    hood ornaments were used    
+
+265
+00:16:29,255 --> 00:16:32,857
+to beautify external temperature
+    gauges and radiator caps.   
+
+266
+00:16:32,859 --> 00:16:35,460
+        they then evolved       
+      into signature pieces     
+
+267
+00:16:35,462 --> 00:16:37,796
+  that embodied the car brand.  
+
+268
+00:16:37,798 --> 00:16:40,731
+   and when the radiator caps   
+   were moved under the hood,   
+
+269
+00:16:40,733 --> 00:16:43,502
+  the ornaments stayed on top.  
+
+270
+00:16:47,874 --> 00:16:50,942
+   a hood ornament is a little  
+    piece of automotive art.    
+
+271
+00:16:50,944 --> 00:16:53,478
+         popular mainly         
+       on luxury cars now,      
+
+272
+00:16:53,480 --> 00:16:56,681
+    these ornaments symbolize   
+      the spirit of the car     
+
+273
+00:16:56,683 --> 00:17:00,318
+ and can make quite a statement 
+         on the street.         
+
+274
+00:17:01,888 --> 00:17:03,221
+      each ornament starts      
+
+275
+00:17:03,223 --> 00:17:06,490
+      with an aluminum mold     
+   that consists of many parts  
+
+276
+00:17:06,492 --> 00:17:09,827
+       in order to achieve      
+        a complex shape.        
+
+277
+00:17:09,829 --> 00:17:12,630
+        an injector pumps       
+    specially formulated wax    
+
+278
+00:17:12,632 --> 00:17:15,567
+      into the mold cavity.     
+
+279
+00:17:16,970 --> 00:17:20,171
+   the wax solidifies quickly.  
+
+280
+00:17:20,173 --> 00:17:25,644
+the operator dismantles the mold
+and removes the cast wax model. 
+
+281
+00:17:26,846 --> 00:17:30,715
+    the detail is impressive.   
+
+282
+00:17:30,717 --> 00:17:33,584
+    he examines it for flaws.   
+
+283
+00:17:33,586 --> 00:17:38,789
+   he cools the model in water  
+      until the wax firms.      
+
+284
+00:17:38,791 --> 00:17:41,058
+         this wax model         
+   will be used to make a mold  
+
+285
+00:17:41,060 --> 00:17:43,261
+   to cast the metal ornament   
+
+286
+00:17:43,263 --> 00:17:48,199
+     using a technique that     
+ dates back thousands of years. 
+
+287
+00:17:48,201 --> 00:17:51,936
+he attaches numerous cast models
+         to a wax riser         
+
+288
+00:17:51,938 --> 00:17:54,973
+   by melting the wax a little  
+         so they adhere.        
+
+289
+00:17:57,544 --> 00:18:00,612
+    the next worker then dips   
+      the models and riser      
+
+290
+00:18:00,614 --> 00:18:05,016
+    into specially formulated   
+         ceramic slurry.        
+
+291
+00:18:05,018 --> 00:18:10,288
+  he makes sure that the liquid 
+      covers every detail.      
+
+292
+00:18:13,026 --> 00:18:16,427
+      still wet, the models     
+  then go into the rain sander, 
+
+293
+00:18:16,429 --> 00:18:20,565
+        so named because        
+     it actually rains grit.    
+
+294
+00:18:20,567 --> 00:18:24,636
+  the grit sticks to the models 
+      for a stucco effect.      
+
+295
+00:18:24,638 --> 00:18:28,707
+   he repeats the ceramic dip   
+  and grit process three times  
+
+296
+00:18:28,709 --> 00:18:33,311
+ to build up substantial shells 
+     around the wax models.     
+
+297
+00:18:33,313 --> 00:18:38,450
+these shells will serve as molds
+   to cast the hood ornament.   
+
+298
+00:18:38,452 --> 00:18:42,187
+          in this case,         
+ the casting material is steel. 
+
+299
+00:18:42,189 --> 00:18:45,323
+       they melt rejected       
+hood ornaments with steel chunks
+
+300
+00:18:45,325 --> 00:18:49,661
+        to transform them       
+    into a white-hot liquid.    
+
+301
+00:18:50,997 --> 00:18:53,865
+       the ceramic models       
+     have by now been cured     
+
+302
+00:18:53,867 --> 00:18:56,601
+     and the wax melted out.    
+
+303
+00:18:59,072 --> 00:19:03,941
+ workers ladle the molten steel 
+   into the riser feeder cup.   
+
+304
+00:19:03,943 --> 00:19:06,678
+         the steel flows        
+ into all of the ceramic molds. 
+
+305
+00:19:08,548 --> 00:19:10,749
+         they top it off        
+    with a manganese mixture    
+
+306
+00:19:10,751 --> 00:19:12,349
+        that catches fire       
+
+307
+00:19:12,351 --> 00:19:16,688
+     and keeps the steel hot    
+   and liquid a little longer,  
+
+308
+00:19:16,690 --> 00:19:20,624
+     ensuring that it feeds     
+     into all of the molds.     
+
+309
+00:19:20,626 --> 00:19:24,762
+       the steel cools for      
+  several hours and solidifies. 
+
+310
+00:19:24,764 --> 00:19:27,832
+  an employee then breaks open  
+      the network of molds      
+
+311
+00:19:27,834 --> 00:19:31,302
+            to reveal           
+    the cast hood ornaments.    
+
+312
+00:19:31,304 --> 00:19:34,372
+  he inserts a pneumatic hammer 
+      into the feeder cup,      
+
+313
+00:19:34,374 --> 00:19:38,909
+     and it shakes off most     
+of the remaining ceramic shards.
+
+314
+00:19:38,911 --> 00:19:40,912
+this machine blasts off the rest
+
+315
+00:19:40,914 --> 00:19:45,116
+         using very fine        
+   stainless-steel particles.   
+
+316
+00:19:45,118 --> 00:19:47,251
+      they're ready to cut      
+       the cast ornaments       
+
+317
+00:19:47,253 --> 00:19:49,787
+    free from the main base.    
+
+318
+00:19:49,789 --> 00:19:51,723
+   with the riser on its side,  
+
+319
+00:19:51,725 --> 00:19:55,393
+      the worker slices off     
+   one hood ornament at a time  
+
+320
+00:19:55,395 --> 00:19:58,863
+     using an aluminum-oxide    
+         cutting wheel.         
+
+321
+00:19:58,865 --> 00:20:01,933
+         at this angle,         
+   he can't make a clean cut.   
+
+322
+00:20:01,935 --> 00:20:06,337
+ he leaves a fairly thick chunk 
+          on the base.          
+
+323
+00:20:06,339 --> 00:20:11,008
+    he grinds off that chunk    
+    using an abrasive belt.     
+
+324
+00:20:11,010 --> 00:20:15,279
+  the base of the hood ornament 
+    is now smooth and level.    
+
+325
+00:20:15,281 --> 00:20:19,484
+    next he refines the shape   
+      of the hood ornament.     
+
+326
+00:20:20,754 --> 00:20:22,821
+ he grinds away excess material 
+
+327
+00:20:22,823 --> 00:20:25,089
+     to improve the profile     
+          of the piece          
+
+328
+00:20:25,091 --> 00:20:27,959
+   and generally clean it up.   
+
+329
+00:20:29,629 --> 00:20:34,532
+  this process also adds shine  
+     to the stainless steel.    
+
+330
+00:20:38,772 --> 00:20:41,238
+   to give the hood ornaments   
+         a real polish,         
+
+331
+00:20:41,240 --> 00:20:45,577
+        they plunge them        
+ into a sulfuric-acid solution. 
+
+332
+00:20:45,579 --> 00:20:49,647
+     the solution eats away     
+impurities to expose the nickel.
+
+333
+00:20:51,318 --> 00:20:53,584
+         a worker buffs         
+       each hood ornament       
+
+334
+00:20:53,586 --> 00:20:57,588
+      against a cloth wheel     
+        until it gleams.        
+
+335
+00:20:57,590 --> 00:21:01,126
+      he examines his work      
+    under a magnifying glass.   
+
+336
+00:21:01,128 --> 00:21:03,595
+   defects won't be tolerated,  
+
+337
+00:21:03,597 --> 00:21:07,332
+     and even at this stage,    
+ the statuette could be rejected
+
+338
+00:21:07,334 --> 00:21:09,534
+   and melted into a new one.   
+
+339
+00:21:09,536 --> 00:21:12,403
+      it passes inspection.     
+
+340
+00:21:13,539 --> 00:21:19,144
+ made of steel, silver, or gold,
+ a hood ornament on a luxury car
+
+341
+00:21:19,146 --> 00:21:22,781
+         is a great way         
+     to say you've arrived.     
+
+342
+00:21:31,023 --> 00:21:33,224
+    if you have any comments    
+         about the show,        
+
+343
+00:21:33,226 --> 00:21:36,160
+   or if you'd like to suggest  
+    topics for future shows,    
+
+344
+00:21:36,162 --> 00:21:38,863
+      drop us a line at...      
+

@@ -1,0 +1,1668 @@
+﻿1
+00:00:01,603 --> 00:00:04,670
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,672 --> 00:00:07,607
+      captions paid for by      
+    discovery communications    
+
+3
+00:00:07,609 --> 00:00:17,617
+                     ♪♪         
+
+4
+00:00:17,619 --> 00:00:22,555
+                     ♪♪         
+
+5
+00:00:44,044 --> 00:00:52,785
+                     ♪♪         
+
+6
+00:00:52,787 --> 00:00:54,653
+  narrator: the first computers 
+
+7
+00:00:54,655 --> 00:00:57,323
+       used to be the size      
+       of an entire room.       
+
+8
+00:00:57,325 --> 00:01:00,526
+      then they were built      
+      to fit on your desk.      
+
+9
+00:01:00,528 --> 00:01:04,463
+ the newest design is a portable
+  device that sits on your lap, 
+
+10
+00:01:04,465 --> 00:01:06,465
+  and today's laptops are made  
+
+11
+00:01:06,467 --> 00:01:09,635
+          even smaller          
+  and more powerful than ever.  
+
+12
+00:01:12,874 --> 00:01:15,141
+     with its lightning-fast    
+            processor           
+
+13
+00:01:15,143 --> 00:01:17,009
+    and impressive graphics,    
+
+14
+00:01:17,011 --> 00:01:20,613
+     this laptop is designed    
+  for high-performance gaming.  
+
+15
+00:01:20,615 --> 00:01:23,415
+      the computer's brain,     
+     called the motherboard,    
+
+16
+00:01:23,417 --> 00:01:25,818
+            begins as           
+    a printed circuit board.    
+
+17
+00:01:25,820 --> 00:01:28,620
+  its pattern of lines and pads 
+           and copper           
+
+18
+00:01:28,622 --> 00:01:30,956
+          is the wiring         
+  for the electronic components 
+
+19
+00:01:30,958 --> 00:01:33,159
+      that will be soldered     
+          to the board.         
+
+20
+00:01:33,161 --> 00:01:36,829
+  this machine places a stencil 
+     of the component layout    
+
+21
+00:01:36,831 --> 00:01:37,963
+         onto the board         
+
+22
+00:01:37,965 --> 00:01:41,167
+    and applies solder paste    
+      through the openings.     
+
+23
+00:01:41,169 --> 00:01:44,970
+   a quality-inspection camera  
+  photographs the solder paste  
+
+24
+00:01:44,972 --> 00:01:47,305
+      and sends the images      
+         to a computer.         
+
+25
+00:01:47,307 --> 00:01:50,976
+   the computer analyzes them,  
+ looking for any missing paste, 
+
+26
+00:01:50,978 --> 00:01:53,311
+misalignment, or other mistakes.
+
+27
+00:01:53,313 --> 00:01:55,181
+ if the board passes inspection,
+
+28
+00:01:55,183 --> 00:01:58,517
+        it passes through       
+      15 robotic machines,      
+
+29
+00:01:58,519 --> 00:02:01,320
+     each of which places up    
+        to 150 components       
+
+30
+00:02:01,322 --> 00:02:05,858
+    on the correct locations    
+on the board in just 30 seconds.
+
+31
+00:02:05,860 --> 00:02:07,460
+       then the board runs      
+         through an oven        
+
+32
+00:02:07,462 --> 00:02:09,261
+  that melts the solder paste,  
+
+33
+00:02:09,263 --> 00:02:13,065
+    connecting the components   
+          to the board.         
+
+34
+00:02:13,067 --> 00:02:15,067
+    another camera inspection   
+             ensures            
+
+35
+00:02:15,069 --> 00:02:18,671
+   that the internal processor  
+     is correctly soldered,     
+
+36
+00:02:18,673 --> 00:02:22,674
+and that no component is missing
+   or shifted out of position.  
+
+37
+00:02:22,676 --> 00:02:25,678
+     after function testing     
+    and a visual inspection,    
+
+38
+00:02:25,680 --> 00:02:28,080
+         the motherboard        
+   moves to the assembly line   
+
+39
+00:02:28,082 --> 00:02:30,816
+        and is set aside        
+       for the time being.      
+
+40
+00:02:30,818 --> 00:02:34,086
+   next, technicians manually   
+      assemble the top half     
+
+41
+00:02:34,088 --> 00:02:36,488
+          of the laptop         
+      called the panel kit.     
+
+42
+00:02:36,490 --> 00:02:40,759
+   they place protection film   
+   on the 15-inch lcd screen.   
+
+43
+00:02:40,761 --> 00:02:42,160
+   then they plug in the cable  
+
+44
+00:02:42,162 --> 00:02:45,964
+    that will connect the lcd   
+       to the motherboard.      
+
+45
+00:02:45,966 --> 00:02:50,236
+   they insert the lcd screen   
+ into a frame with a web camera 
+
+46
+00:02:50,238 --> 00:02:54,040
+and microphone already embedded.
+
+47
+00:02:54,042 --> 00:02:58,377
+  then they attach this antenna 
+bottom cover to the screen cover
+
+48
+00:02:58,379 --> 00:03:01,513
+          and position          
+the motherboard cable inside it.
+
+49
+00:03:01,515 --> 00:03:05,317
+  next, they install the module 
+ for the webcam and microphone. 
+
+50
+00:03:09,190 --> 00:03:10,856
+     they attach two hinges,    
+
+51
+00:03:10,858 --> 00:03:16,062
+  which connect this panel kit  
+   to the rest of the laptop.   
+
+52
+00:03:16,064 --> 00:03:18,064
+        then they install       
+        the wi-fi antenna       
+
+53
+00:03:18,066 --> 00:03:19,965
+  in the antenna bottom cover.  
+
+54
+00:03:19,967 --> 00:03:25,137
+                     ♪♪         
+
+55
+00:03:25,139 --> 00:03:28,540
+  all components are concealed  
+   in the antenna bottom cover  
+
+56
+00:03:28,542 --> 00:03:30,576
+ behind this antenna top cover. 
+
+57
+00:03:32,613 --> 00:03:34,413
+   they complete the panel kit  
+
+58
+00:03:34,415 --> 00:03:37,616
+   by pressing in a thin metal  
+    frame around the screen.    
+
+59
+00:03:37,618 --> 00:03:44,022
+                     ♪♪         
+
+60
+00:03:44,024 --> 00:03:48,227
+ next, they assemble the bottom 
+       half of the laptop.      
+
+61
+00:03:48,229 --> 00:03:50,762
+    first, technicians attach   
+          the top cover         
+
+62
+00:03:50,764 --> 00:03:54,100
+     to the panel-kit hinges    
+        and the touchpad.       
+
+63
+00:03:54,102 --> 00:03:58,771
+                     ♪♪         
+
+64
+00:03:58,773 --> 00:04:02,541
+ then they install the right and
+ left speakers in the top cover.
+
+65
+00:04:05,980 --> 00:04:09,114
+       now the motherboard      
+      comes back into play.     
+
+66
+00:04:09,116 --> 00:04:11,983
+        after inspection,       
+    a computer-guided router    
+
+67
+00:04:11,985 --> 00:04:15,321
+cuts out openings to accommodate
+      the computer's fans,      
+
+68
+00:04:15,323 --> 00:04:18,324
+  which prevent the electronics 
+        from overheating.       
+
+69
+00:04:18,326 --> 00:04:22,594
+ a gaming laptop generates a lot
+ more heat than a regular laptop
+
+70
+00:04:22,596 --> 00:04:26,965
+   and therefore requires two   
+ powerful fans rather than one. 
+
+71
+00:04:26,967 --> 00:04:28,800
+         after checking         
+       that the fan screws      
+
+72
+00:04:28,802 --> 00:04:30,602
+   are sufficiently tightened,  
+
+73
+00:04:30,604 --> 00:04:34,873
+   they place the motherboard   
+       into the top cover.      
+
+74
+00:04:34,875 --> 00:04:39,144
+contaminants such as dust or oil
+   can impede proper contact,   
+
+75
+00:04:39,146 --> 00:04:41,947
+       so as a precaution,      
+    they clean the connectors   
+
+76
+00:04:41,949 --> 00:04:44,350
+     for the memory modules     
+          with solvent,         
+
+77
+00:04:44,352 --> 00:04:48,353
+          then dry them         
+      with compressed air.      
+
+78
+00:04:48,355 --> 00:04:50,823
+        then they install       
+       the memory module,       
+
+79
+00:04:50,825 --> 00:04:53,425
+ the wi-fi and bluetooth module,
+
+80
+00:04:53,427 --> 00:04:57,830
+    and the solid-state disc,   
+       which stores data.       
+
+81
+00:04:57,832 --> 00:05:01,100
+  they connect a high-capacity  
+   battery to the motherboard.  
+
+82
+00:05:01,102 --> 00:05:04,370
+  batteries for gaming laptops  
+      are typically larger      
+
+83
+00:05:04,372 --> 00:05:09,108
+because the faster processor and
+  dual fans consume more power. 
+
+84
+00:05:09,110 --> 00:05:11,443
+      the last component is     
+          the keyboard,         
+
+85
+00:05:11,445 --> 00:05:13,512
+         which fits into        
+      a rectangular opening     
+
+86
+00:05:13,514 --> 00:05:15,915
+        in the top cover        
+       of the bottom half.      
+
+87
+00:05:15,917 --> 00:05:17,316
+     a laser-etching machine    
+
+88
+00:05:17,318 --> 00:05:21,053
+       marks the required       
+     information underneath.    
+
+89
+00:05:21,055 --> 00:05:24,256
+   an automated machine tests   
+       numerous functions,      
+
+90
+00:05:24,258 --> 00:05:27,192
+and a quality-control team tests
+         several others,        
+
+91
+00:05:27,194 --> 00:05:29,762
+  including the virtual-reality 
+           feature...           
+
+92
+00:05:32,266 --> 00:05:36,335
+  ...the lcd and keyboard color 
+           displays...          
+
+93
+00:05:36,337 --> 00:05:37,803
+          and the keys.         
+
+94
+00:05:40,040 --> 00:05:42,608
+ not only must the keys function
+            properly,           
+
+95
+00:05:42,610 --> 00:05:44,109
+    they need to be durable,    
+
+96
+00:05:44,111 --> 00:05:47,980
+     so enthusiastic gamers     
+ won't break them while playing.
+
+97
+00:05:57,825 --> 00:06:02,861
+                     ♪♪         
+
+98
+00:06:02,863 --> 00:06:05,631
+    narrator: panettone is a    
+ traditional italian sweetbread 
+
+99
+00:06:05,633 --> 00:06:08,500
+     most commonly prepared     
+    for dessert on christmas    
+
+100
+00:06:08,502 --> 00:06:09,969
+         and new years.         
+
+101
+00:06:09,971 --> 00:06:11,637
+   baking authentic panettone   
+
+102
+00:06:11,639 --> 00:06:14,240
+     can take up to two days    
+        or more to make.        
+
+103
+00:06:14,242 --> 00:06:17,376
+  a certain expertise is needed 
+    to turn these ingredients   
+
+104
+00:06:17,378 --> 00:06:21,513
+ into its domed-like shape while
+ maintaining its fluffy center. 
+
+105
+00:06:21,515 --> 00:06:25,517
+  the baker pours high-protein  
+     flour to a mixing bowl.    
+
+106
+00:06:25,519 --> 00:06:26,852
+     then he adds the flour     
+
+107
+00:06:26,854 --> 00:06:29,121
+    into an industrial-sized    
+           dough mixer          
+
+108
+00:06:29,123 --> 00:06:32,524
+  that has hooked mixing arms.  
+
+109
+00:06:32,526 --> 00:06:35,260
+      he adds fresh yeast,      
+          milk powder,          
+
+110
+00:06:35,262 --> 00:06:38,530
+    and enough water to bind    
+    the ingredients together.   
+
+111
+00:06:38,532 --> 00:06:41,934
+    he places the safety cage   
+      over the dough mixer.     
+
+112
+00:06:41,936 --> 00:06:46,671
+   as the hook agitators blend  
+ the ingredients, gluten forms. 
+
+113
+00:06:46,673 --> 00:06:49,741
+        glutens will give       
+    the panettone structure.    
+
+114
+00:06:49,743 --> 00:06:52,278
+   sugar will feed the growth   
+          of the yeast.         
+
+115
+00:06:52,280 --> 00:06:56,815
+      the agitators evenly      
+   distribute it in the dough.  
+
+116
+00:06:56,817 --> 00:06:59,218
+ meanwhile the baker cracks eggs
+
+117
+00:06:59,220 --> 00:07:03,288
+     and separates the yolks    
+        from the whites.        
+
+118
+00:07:03,290 --> 00:07:06,625
+       he weighs the yolks      
+    and adds them to the mix.   
+
+119
+00:07:06,627 --> 00:07:10,629
+      this panettone recipe     
+    calls for egg yolks only.   
+
+120
+00:07:10,631 --> 00:07:13,898
+    yolks provide fat to help   
+       emulsify the dough       
+
+121
+00:07:13,900 --> 00:07:17,436
+       and give it flavor.      
+
+122
+00:07:17,438 --> 00:07:20,439
+  to further enrich the flavor  
+        of the panettone,       
+
+123
+00:07:20,441 --> 00:07:22,908
+       he adds a generous       
+        amount of butter.       
+
+124
+00:07:22,910 --> 00:07:25,110
+       the mixer folds it       
+         into the dough.        
+
+125
+00:07:27,982 --> 00:07:30,182
+     he transfers the dough     
+         to a container         
+
+126
+00:07:30,184 --> 00:07:33,052
+          and leaves it         
+      to rise for 11 hours.     
+
+127
+00:07:33,054 --> 00:07:35,920
+     this process is called     
+       proofing the dough.      
+
+128
+00:07:35,922 --> 00:07:38,457
+       the dough undergoes      
+       multiple proofings.      
+
+129
+00:07:38,459 --> 00:07:42,127
+in between each proofing period,
+  the baker deflates the dough  
+
+130
+00:07:42,129 --> 00:07:44,062
+  and returns it to the mixer.  
+
+131
+00:07:44,064 --> 00:07:47,599
+      during this process,      
+    the yeast consumes sugar,   
+
+132
+00:07:47,601 --> 00:07:51,003
+         so he adds more        
+      to feed the process.      
+
+133
+00:07:51,005 --> 00:07:54,139
+       next, he adds more       
+    of the other ingredients,   
+
+134
+00:07:54,141 --> 00:07:57,675
+    and the mixer kneads them   
+  into the dough for one hour.  
+
+135
+00:07:57,677 --> 00:08:01,547
+   the mixer works the dough,   
+  creating bands of elasticity, 
+
+136
+00:08:01,549 --> 00:08:06,285
+        so that the dough       
+   will stretch during rising.  
+
+137
+00:08:06,287 --> 00:08:08,020
+   in the final mixing stage,   
+
+138
+00:08:08,022 --> 00:08:13,025
+ the baker adds vanilla extract 
+  for another flavor dimension. 
+
+139
+00:08:13,027 --> 00:08:15,360
+              while             
+ the dough mixer distributes it,
+
+140
+00:08:15,362 --> 00:08:17,830
+  he measures fruit by weight.  
+
+141
+00:08:17,832 --> 00:08:21,966
+   the panettone recipe calls   
+     for two parts raisins,     
+
+142
+00:08:21,968 --> 00:08:24,169
+ one part candied orange pieces,
+
+143
+00:08:24,171 --> 00:08:26,505
+      and one part candied      
+          lemon pieces.         
+
+144
+00:08:29,843 --> 00:08:32,978
+      the mixer folds them      
+         into the dough.        
+
+145
+00:08:32,980 --> 00:08:34,613
+     after another proofing,    
+
+146
+00:08:34,615 --> 00:08:38,050
+  the baker slices the fruited  
+       dough into chunks.       
+
+147
+00:08:38,052 --> 00:08:42,454
+ some of the water in the dough 
+  will evaporate during baking  
+
+148
+00:08:42,456 --> 00:08:46,791
+        and the panettone       
+ should end up about two pounds.
+
+149
+00:08:46,793 --> 00:08:51,996
+      he shapes each chunk      
+       into a uniform mold      
+
+150
+00:08:51,998 --> 00:08:53,331
+   and leaves the dough chunks  
+
+151
+00:08:53,333 --> 00:08:56,101
+       to rise for an hour      
+       in a warm chamber.       
+
+152
+00:08:59,072 --> 00:09:04,209
+instead of metal pans, panettone
+ is baked in these paper molds. 
+
+153
+00:09:04,211 --> 00:09:08,213
+   the molds will also be used  
+      as retail packaging.      
+
+154
+00:09:08,215 --> 00:09:10,815
+       after about an hour      
+     in the warming chamber,    
+
+155
+00:09:10,817 --> 00:09:13,485
+        the dough chunks        
+      have doubled in size.     
+
+156
+00:09:13,487 --> 00:09:16,155
+      the baker works them      
+       into a rounder form      
+
+157
+00:09:16,157 --> 00:09:19,691
+       and transfers them       
+         to paper molds.        
+
+158
+00:09:19,693 --> 00:09:23,495
+ then it's back into the warming
+  chamber for another proofing. 
+
+159
+00:09:23,497 --> 00:09:25,030
+       as the dough rises,      
+
+160
+00:09:25,032 --> 00:09:29,434
+  the round shape is contained  
+       by the paper molds.      
+
+161
+00:09:29,436 --> 00:09:32,637
+  after six hours, he takes out 
+      the molds and carves      
+
+162
+00:09:32,639 --> 00:09:35,373
+  crosses into the risen dough. 
+
+163
+00:09:35,375 --> 00:09:39,978
+ he adds small pieces of butter 
+  to the middle of each cross.  
+
+164
+00:09:39,980 --> 00:09:42,648
+ after 24 hours of preparation, 
+
+165
+00:09:42,650 --> 00:09:45,384
+    the panettones are ready    
+          to be cooked.         
+
+166
+00:09:45,386 --> 00:09:50,589
+    they bake for 45 minutes    
+   at 320 degrees fahrenheit.   
+
+167
+00:09:50,591 --> 00:09:54,193
+    once complete, he quickly   
+      spears each panettone     
+
+168
+00:09:54,195 --> 00:09:58,463
+ with a metal rod near the base 
+    and hangs it upside down.   
+
+169
+00:09:58,465 --> 00:10:01,333
+   the panettones cool for up   
+           to 24 hours          
+
+170
+00:10:01,335 --> 00:10:04,402
+       in this upside-down      
+        suspended state.        
+
+171
+00:10:04,404 --> 00:10:08,206
+ this stretches the warm breads 
+  to give them their dome shape 
+
+172
+00:10:08,208 --> 00:10:11,610
+         and stops them         
+       from caving inward.      
+
+173
+00:10:11,612 --> 00:10:15,647
+ once cooled, the panettones are
+ ready to be wrapped for retail.
+
+174
+00:10:20,086 --> 00:10:23,688
+  all that proofing has allowed 
+      the flavors to mature     
+
+175
+00:10:23,690 --> 00:10:27,693
+     and the fluffy texture     
+           to develop.          
+
+176
+00:10:27,695 --> 00:10:30,094
+       the yeast will act       
+      as the preservative,      
+
+177
+00:10:30,096 --> 00:10:34,867
+ keeping this italian christmas 
+ bread fresh for up to 30 days. 
+
+178
+00:10:49,250 --> 00:10:54,119
+                     ♪♪         
+
+179
+00:10:54,121 --> 00:10:57,789
+   narrator: the saxophone was  
+    invented in the mid-1800s   
+
+180
+00:10:57,791 --> 00:10:58,924
+         by adolphe sax,        
+
+181
+00:10:58,926 --> 00:11:01,593
+   the son of belgium's chief   
+        instrument maker.       
+
+182
+00:11:01,595 --> 00:11:05,597
+ with the saxophone, sax blended
+    the power of a brass horn   
+
+183
+00:11:05,599 --> 00:11:08,200
+        with the nuances        
+    of a woodwind instrument.   
+
+184
+00:11:08,202 --> 00:11:10,469
+ this instrument has the ability
+            to sound            
+
+185
+00:11:10,471 --> 00:11:13,405
+         bright and edgy        
+       or dark and moody.       
+
+186
+00:11:15,542 --> 00:11:19,010
+ even though it's made of brass 
+     or high-copper alloys,     
+
+187
+00:11:19,012 --> 00:11:22,547
+  the saxophone is technically  
+     a woodwind instrument.     
+
+188
+00:11:22,549 --> 00:11:24,415
+that's because it produces sound
+
+189
+00:11:24,417 --> 00:11:28,286
+       by vibrating a reed      
+   attached to the mouthpiece.  
+
+190
+00:11:28,288 --> 00:11:30,622
+      the process of making     
+           a saxophone          
+
+191
+00:11:30,624 --> 00:11:34,159
+    starts with a long brass    
+        or copper sheath.       
+
+192
+00:11:34,161 --> 00:11:37,895
+a hydraulic punch cuts the metal
+        into rectangles.        
+
+193
+00:11:37,897 --> 00:11:41,433
+ after tracing a flared pattern 
+    onto one piece of metal,    
+
+194
+00:11:41,435 --> 00:11:43,902
+ a craftsman aligns the pattern 
+         with the punch         
+
+195
+00:11:43,904 --> 00:11:45,837
+      to cut out the part.      
+
+196
+00:11:45,839 --> 00:11:50,042
+  this part will now be formed  
+   into the saxophone's bell.   
+
+197
+00:11:50,044 --> 00:11:52,577
+   the worker folds it around   
+          the metal rod         
+
+198
+00:11:52,579 --> 00:11:54,646
+          and pounds it         
+       with a wooden stick      
+
+199
+00:11:54,648 --> 00:11:56,348
+   to do some initial shaping.  
+
+200
+00:12:00,587 --> 00:12:05,523
+  this takes the part from flat 
+      to three dimensional.     
+
+201
+00:12:05,525 --> 00:12:07,525
+ after the seam has been welded,
+
+202
+00:12:07,527 --> 00:12:10,529
+ more hammering rounds the shape
+          substantially         
+
+203
+00:12:10,531 --> 00:12:13,598
+          and improves          
+    on the flare at the end.    
+
+204
+00:12:13,600 --> 00:12:16,868
+ next, the craftsman repeatedly 
+        pounds the flare        
+
+205
+00:12:16,870 --> 00:12:19,070
+     to form it into a bell.    
+
+206
+00:12:19,072 --> 00:12:21,206
+ hand-hammering shapes the metal
+
+207
+00:12:21,208 --> 00:12:23,475
+         and also alters        
+     the physical properties    
+
+208
+00:12:23,477 --> 00:12:26,678
+        to make the sound       
+         more resonant.         
+
+209
+00:12:26,680 --> 00:12:28,746
+           throughout           
+ the forming of the instrument, 
+
+210
+00:12:28,748 --> 00:12:30,949
+   it is heated with a torch.   
+
+211
+00:12:30,951 --> 00:12:33,986
+  this makes the metal flexible 
+      enough to be shaped.      
+
+212
+00:12:37,224 --> 00:12:40,259
+    next, he slides the bell    
+          onto a form.          
+
+213
+00:12:43,363 --> 00:12:48,633
+    he brushes lubricant onto   
+          the metal...          
+
+214
+00:12:48,635 --> 00:12:51,503
+      and lowers a roller.      
+
+215
+00:12:51,505 --> 00:12:55,774
+    the form spins the curved   
+    bell against the roller,    
+
+216
+00:12:55,776 --> 00:12:58,443
+    which smoothes out dents    
+       and forces the bell      
+
+217
+00:12:58,445 --> 00:13:00,912
+           to conform           
+to the dimensions of the roller.
+
+218
+00:13:05,586 --> 00:13:08,854
+    the rolled saxophone bell   
+    is the one on the right.    
+
+219
+00:13:08,856 --> 00:13:10,589
+  it's dramatically different.  
+
+220
+00:13:13,193 --> 00:13:17,395
+       now we can see the       
+  saxophone's body take shape.  
+
+221
+00:13:17,397 --> 00:13:21,199
+  it starts with this piece of  
+ metal that's wider at one end. 
+
+222
+00:13:21,201 --> 00:13:25,003
+     the operator places it     
+    under a cone-shaped form.   
+
+223
+00:13:25,005 --> 00:13:28,272
+  using hydraulics, it descends 
+        to fold the part        
+
+224
+00:13:28,274 --> 00:13:31,209
+   and imprint the cone shape   
+          on the metal.         
+
+225
+00:13:31,211 --> 00:13:32,744
+       after more forming,      
+
+226
+00:13:32,746 --> 00:13:36,614
+ another worker welds the seams 
+      to complete the cone.     
+
+227
+00:13:36,616 --> 00:13:39,718
+   this part of the instrument  
+    is also called the tube.    
+
+228
+00:13:42,689 --> 00:13:45,290
+   meanwhile, the forming work  
+      on the saxophone bell     
+
+229
+00:13:45,292 --> 00:13:47,625
+       has been completed.      
+
+230
+00:13:47,627 --> 00:13:51,029
+  a worker locks the upper part 
+   of the bell into a machine   
+
+231
+00:13:51,031 --> 00:13:55,634
+   and turns the punch device   
+     to cut the tone holes.     
+
+232
+00:13:55,636 --> 00:13:59,104
+   sound waves will be emitted  
+through both the open tone holes
+
+233
+00:13:59,106 --> 00:14:01,239
+      and the bell's flare.     
+
+234
+00:14:01,241 --> 00:14:03,641
+      later, another worker     
+          aims a torch          
+
+235
+00:14:03,643 --> 00:14:06,444
+      at the saxophone body     
+      to soften the metal,      
+
+236
+00:14:06,446 --> 00:14:11,316
+  so that the rims of the tone  
+    holes can now be formed.    
+
+237
+00:14:11,318 --> 00:14:15,787
+ he slides the body onto a steel
+   mandrel with round inserts.  
+
+238
+00:14:15,789 --> 00:14:19,524
+    he aligns the tone holes    
+   with holes on the mandrel.   
+
+239
+00:14:19,526 --> 00:14:23,595
+  he sets a guide rack on top,  
+ aligning the holes in the rack 
+
+240
+00:14:23,597 --> 00:14:25,597
+         with the holes         
+       in the instrument.       
+
+241
+00:14:25,599 --> 00:14:27,999
+        he inserts tools        
+        through the holes       
+
+242
+00:14:28,001 --> 00:14:31,069
+ and threads them into the round
+     inserts in the mandrel.    
+
+243
+00:14:33,474 --> 00:14:36,340
+     a support bracket props    
+          up the tools.         
+
+244
+00:14:36,342 --> 00:14:40,412
+    using the tools, he pulls   
+ the inserts through the holes. 
+
+245
+00:14:40,414 --> 00:14:44,349
+        this forms a rim        
+        around each hole.       
+
+246
+00:14:44,351 --> 00:14:46,818
+        the raised edging       
+       will allow key cups      
+
+247
+00:14:46,820 --> 00:14:49,321
+        to close the tone       
+       holes effectively.       
+
+248
+00:14:52,359 --> 00:14:56,428
+  the craftsman drills the rims 
+    to smooth and level them.   
+
+249
+00:14:56,430 --> 00:14:58,896
+     this will prevent gaps     
+   that could affect the sound  
+
+250
+00:14:58,898 --> 00:15:01,900
+        of the instrument       
+    when the key cups close.    
+
+251
+00:15:05,705 --> 00:15:07,372
+    the next part is the bow,   
+
+252
+00:15:07,374 --> 00:15:11,910
+         which will link        
+  the saxophone bell and body.  
+
+253
+00:15:11,912 --> 00:15:13,845
+      the craftsman brushes     
+        a cleaning agent        
+
+254
+00:15:13,847 --> 00:15:16,248
+   known as flux onto one end.  
+
+255
+00:15:16,250 --> 00:15:17,982
+    he connects the two parts   
+
+256
+00:15:17,984 --> 00:15:21,420
+    and applies more flux to    
+the bell where it meets the bow.
+
+257
+00:15:24,257 --> 00:15:27,659
+   he then melts solder where   
+  the two parts come together,  
+
+258
+00:15:27,661 --> 00:15:30,662
+         completing this        
+      critical connection.      
+
+259
+00:15:30,664 --> 00:15:33,365
+   the solder makes the joint   
+            airtight.           
+
+260
+00:15:36,270 --> 00:15:40,405
+ he turns over the bell and bow 
+  assembly to complete the job, 
+
+261
+00:15:40,407 --> 00:15:44,109
+    ensuring that the solder    
+  encompasses the entire joint. 
+
+262
+00:15:46,680 --> 00:15:51,082
+ he dabs water onto the soldered
+     joint to cool it down.     
+
+263
+00:15:51,084 --> 00:15:54,419
+    but before this saxophone   
+     is ready to make music,    
+
+264
+00:15:54,421 --> 00:15:57,823
+        a few more steps        
+ must be taken for good measure.
+
+265
+00:16:06,967 --> 00:16:12,370
+                     ♪♪         
+
+266
+00:16:12,372 --> 00:16:14,840
+     narrator: the saxophone    
+       has tonal qualities      
+
+267
+00:16:14,842 --> 00:16:17,041
+        similar to those        
+       of the human voice.      
+
+268
+00:16:17,043 --> 00:16:20,311
+its sound can range from sultry,
+           dark tones           
+
+269
+00:16:20,313 --> 00:16:22,446
+   to high-pitched exuberance.  
+
+270
+00:16:22,448 --> 00:16:24,982
+  it's no wonder the saxophone  
+        has found a place       
+
+271
+00:16:24,984 --> 00:16:29,888
+ in many music styles from jazz 
+     to pop to the classics.    
+
+272
+00:16:32,125 --> 00:16:35,927
+   the standard saxophone has   
+     23 different tone holes    
+
+273
+00:16:35,929 --> 00:16:38,997
+       and an equal number      
+   of key cups to close them.   
+
+274
+00:16:38,999 --> 00:16:44,201
+  at this factory, each key cup 
+      is assembled by hand.     
+
+275
+00:16:44,203 --> 00:16:47,739
+ a craftsman arranges the parts 
+    of a key cup in a fixture   
+
+276
+00:16:47,741 --> 00:16:50,341
+ to position them for soldering.
+
+277
+00:16:50,343 --> 00:16:52,944
+ he inserts a rod that will act 
+         as an alignment        
+
+278
+00:16:52,946 --> 00:16:56,281
+      and positioning tool.     
+
+279
+00:16:56,283 --> 00:16:58,749
+    he applies flux to clean    
+            the part            
+
+280
+00:16:58,751 --> 00:17:01,853
+     and melts silver solder    
+   into the connecting points.  
+
+281
+00:17:04,490 --> 00:17:06,624
+      to prevent the parts      
+          from sliding,         
+
+282
+00:17:06,626 --> 00:17:10,829
+   the craftsman uses pincers   
+    to adjust their position.   
+
+283
+00:17:12,366 --> 00:17:17,969
+ other keys are grouped together
+on a brass plate known as a rib.
+
+284
+00:17:17,971 --> 00:17:21,105
+     he spaces the key posts    
+         evenly on a rod        
+
+285
+00:17:21,107 --> 00:17:24,109
+           that serves          
+      as an alignment tool.     
+
+286
+00:17:24,111 --> 00:17:28,280
+  several overhead clamps hold  
+ the posts in place on the rib. 
+
+287
+00:17:30,850 --> 00:17:34,185
+ he applies the chemical cleaner
+     to the base of the post    
+
+288
+00:17:34,187 --> 00:17:36,655
+   and the plate around them.   
+
+289
+00:17:36,657 --> 00:17:39,524
+     silver solder is melted    
+        around the post,        
+
+290
+00:17:39,526 --> 00:17:43,061
+      and as it solidifies,     
+   it fuses them to the plate.  
+
+291
+00:17:46,333 --> 00:17:50,001
+   next, the craftsman removes  
+   the overhead clamp system.   
+
+292
+00:17:53,140 --> 00:17:56,741
+after sliding keys onto the ends
+      of the alignment rod,     
+
+293
+00:17:56,743 --> 00:18:00,278
+    he positions the assembly   
+     on the saxophone body.     
+
+294
+00:18:00,280 --> 00:18:03,614
+     he closes the keys onto    
+  the corresponding tone holes  
+
+295
+00:18:03,616 --> 00:18:05,082
+   and solders the base plate   
+
+296
+00:18:05,084 --> 00:18:07,552
+        to the lower part       
+     of the saxophone body.     
+
+297
+00:18:11,091 --> 00:18:13,224
+he brushes water onto the solder
+
+298
+00:18:13,226 --> 00:18:16,828
+    to accelerate the cooling   
+       and solidification.      
+
+299
+00:18:16,830 --> 00:18:18,763
+         he then removes        
+        the alignment rod       
+
+300
+00:18:18,765 --> 00:18:21,266
+    and uncaps the tone holes   
+            for now.            
+
+301
+00:18:24,170 --> 00:18:27,305
+a cleaning agent is brushed onto
+        the back of a rib       
+
+302
+00:18:27,307 --> 00:18:31,342
+          that supports         
+ a second grouping of key posts.
+
+303
+00:18:31,344 --> 00:18:34,846
+ he solders the rib to the upper
+   part of the saxophone body   
+
+304
+00:18:34,848 --> 00:18:37,015
+and takes the alignment rod off.
+
+305
+00:18:39,519 --> 00:18:42,654
+  the posts have been installed 
+     in a specific sequence     
+
+306
+00:18:42,656 --> 00:18:46,324
+    to support extending keys   
+         on a hinge rod.        
+
+307
+00:18:46,326 --> 00:18:49,861
+ later, another worker polishes 
+    the bow and bell assembly   
+
+308
+00:18:49,863 --> 00:18:53,531
+    against a buffing wheel,    
+  which polishes the instrument 
+
+309
+00:18:53,533 --> 00:18:56,000
+        to remove smudges       
+         or fingerprints        
+
+310
+00:18:56,002 --> 00:18:58,803
+    and give the brass parts    
+        a mirror finish.        
+
+311
+00:19:03,610 --> 00:19:06,745
+       they dip the brass       
+    saxophone parts in a bath   
+
+312
+00:19:06,747 --> 00:19:11,483
+     where sound waves help     
+remove residual dirt and grease.
+
+313
+00:19:11,485 --> 00:19:14,152
+ there's also a chemical primer 
+           in the bath          
+
+314
+00:19:14,154 --> 00:19:17,421
+  that will help a lacquer bond 
+          to the brass.         
+
+315
+00:19:17,423 --> 00:19:20,391
+ a technician sprays the lacquer
+         onto the brass         
+
+316
+00:19:20,393 --> 00:19:24,162
+          to protect it         
+   from corrosion and tarnish.  
+
+317
+00:19:24,164 --> 00:19:26,431
+     floral artwork will add    
+          visual flair          
+
+318
+00:19:26,433 --> 00:19:30,435
+ to this copper saxophone bell. 
+
+319
+00:19:30,437 --> 00:19:34,572
+   the copper has been painted  
+black to make the art stand out.
+
+320
+00:19:34,574 --> 00:19:38,042
+ the artist follows the stencil 
+      with an etching tool,     
+
+321
+00:19:38,044 --> 00:19:41,178
+        rotating it using       
+  a twirling motion technique,  
+
+322
+00:19:41,180 --> 00:19:43,180
+   etching in fluid movements.  
+
+323
+00:19:43,182 --> 00:19:46,184
+      he doesn't stop until     
+      he's completed a line     
+
+324
+00:19:46,186 --> 00:19:49,854
+ to prevent any inconsistencies 
+        in the engraving.       
+
+325
+00:19:49,856 --> 00:19:53,391
+ after he completes the pattern,
+      he does detail work.      
+
+326
+00:19:53,393 --> 00:19:58,395
+  this exposes the copper metal 
+     and makes the art pop.     
+
+327
+00:19:58,397 --> 00:20:00,965
+     returning to the brass     
+         saxophone now,         
+
+328
+00:20:00,967 --> 00:20:06,003
+    a technician screws long    
+    hinge rods to the posts.    
+
+329
+00:20:06,005 --> 00:20:07,605
+      he attaches the keys,     
+
+330
+00:20:07,607 --> 00:20:11,810
+    which have been equipped    
+     with pads in the cups.     
+
+331
+00:20:11,812 --> 00:20:15,280
+      a tiny screw secures      
+     this grouping of keys.     
+
+332
+00:20:17,350 --> 00:20:20,951
+  he turns the saxophone over,  
+        inserts a light,        
+
+333
+00:20:20,953 --> 00:20:26,357
+  and looks for escaping rays,  
+  making adjustments if needed. 
+
+334
+00:20:26,359 --> 00:20:31,096
+he installs needle springs under
+the key rods and main hinge rod.
+
+335
+00:20:31,098 --> 00:20:33,231
+     they'll enable the keys    
+         to spring back         
+
+336
+00:20:33,233 --> 00:20:35,567
+     after they're pressed.     
+
+337
+00:20:35,569 --> 00:20:40,304
+ he tests the spring action and,
+ again, checks for light leaks. 
+
+338
+00:20:40,306 --> 00:20:43,708
+    he now fits the bell bow    
+        to the main body.       
+
+339
+00:20:43,710 --> 00:20:46,644
+    there's a connecting ring   
+    that holds them together,   
+
+340
+00:20:46,646 --> 00:20:50,181
+    but he'll also lock them    
+     in place with a screw.     
+
+341
+00:20:50,183 --> 00:20:51,649
+      from start to finish,     
+
+342
+00:20:51,651 --> 00:20:56,320
+     it takes about a month     
+    to craft this saxophone.    
+
+343
+00:20:56,322 --> 00:20:58,455
+      whether it's made out     
+         of basic brass         
+
+344
+00:20:58,457 --> 00:21:01,593
+ or something a little showier, 
+   the look of the instrument   
+
+345
+00:21:01,595 --> 00:21:04,929
+           can reflect          
+the saxophonist's playing style,
+
+346
+00:21:04,931 --> 00:21:07,665
+ but the tone of the instrument 
+           defines it.          
+
+347
+00:21:07,667 --> 00:21:10,869
+    [ saxophone music plays ]   
+
+348
+00:21:10,871 --> 00:21:18,176
+                     ♪♪         
+

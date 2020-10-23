@@ -1,0 +1,1737 @@
+﻿1
+00:00:01,603 --> 00:00:04,670
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,672 --> 00:00:07,607
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:22,757 --> 00:00:25,892
+           narrator:            
+  today on "how it's made"...   
+
+4
+00:00:53,588 --> 00:00:56,188
+  in 2004, british scientists   
+
+5
+00:00:56,190 --> 00:00:59,659
+     extracted a substance      
+called graphene from graphite,  
+
+6
+00:00:59,661 --> 00:01:02,394
+   which is the material used   
+       to make pencils.         
+
+7
+00:01:02,396 --> 00:01:05,064
+    they won the nobel prize    
+      for this discovery        
+
+8
+00:01:05,066 --> 00:01:07,933
+      and left their mark       
+      on physics history.       
+
+9
+00:01:07,935 --> 00:01:09,602
+scientists continue to explore  
+
+10
+00:01:09,604 --> 00:01:12,238
+    graphene's extraordinary    
+          potential.            
+
+11
+00:01:14,275 --> 00:01:17,009
+      these silicon chips       
+   are dyed with thin flecks    
+
+12
+00:01:17,011 --> 00:01:19,612
+ of carbon, known as graphene.  
+
+13
+00:01:19,614 --> 00:01:21,948
+      just one atom thick       
+       and transparent,         
+
+14
+00:01:21,950 --> 00:01:26,351
+     graphene can sniff out     
+            chemicals           
+          in the air            
+
+15
+00:01:26,353 --> 00:01:28,821
+ and disease enzymes in blood.  
+
+16
+00:01:31,759 --> 00:01:35,293
+ this lab manufactures graphene 
+     using a process known      
+
+17
+00:01:35,295 --> 00:01:39,031
+ as chemical vapor deposition.  
+
+18
+00:01:39,033 --> 00:01:42,702
+  a technician loads a capsule  
+containing a copper foil sheet  
+
+19
+00:01:42,704 --> 00:01:44,036
+        into a furnace.         
+
+20
+00:01:44,038 --> 00:01:46,439
+        he screws a cap         
+   on the end of the capsule    
+
+21
+00:01:46,441 --> 00:01:48,307
+    and shuts the furnace.      
+
+22
+00:01:48,309 --> 00:01:49,642
+     he activates a system      
+
+23
+00:01:49,644 --> 00:01:54,112
+      that uses argon gas       
+     to drive out oxygen.       
+
+24
+00:01:54,114 --> 00:01:57,182
+    when the furnace reaches    
+       about 1,800 degrees      
+          fahrenheit,           
+
+25
+00:01:57,184 --> 00:02:00,385
+    methane gas and hydrogen    
+          are added.            
+
+26
+00:02:00,387 --> 00:02:04,523
+     a reaction occurs that     
+            deposits            
+    graphene onto the foil.     
+
+27
+00:02:04,525 --> 00:02:09,327
+     graphene can't be seen     
+      with the naked eye.       
+
+28
+00:02:09,329 --> 00:02:12,064
+      a technician applies      
+      tiny gold contacts        
+
+29
+00:02:12,066 --> 00:02:13,666
+      to a silicon wafer        
+
+30
+00:02:13,668 --> 00:02:17,136
+    and then submerges it in    
+             solvent            
+ to rinse off the excess gold.  
+
+31
+00:02:17,138 --> 00:02:21,273
+    the remaining gold bits     
+ serve as electrical contacts.  
+
+32
+00:02:23,544 --> 00:02:27,413
+  a dip in acetone cleans off   
+   more of the loose flakes,    
+
+33
+00:02:27,415 --> 00:02:30,483
+       and a final rinse        
+ in alcohol removes the rest.   
+
+34
+00:02:36,557 --> 00:02:40,559
+  using a diamond-tip scribe,   
+  he scores the silicon wafer   
+
+35
+00:02:40,561 --> 00:02:42,428
+         and breaks it          
+    along the score lines,      
+
+36
+00:02:42,430 --> 00:02:44,964
+  creating rectangular chips.   
+
+37
+00:02:50,771 --> 00:02:52,771
+       another technician       
+    deposits liquid plastic     
+
+38
+00:02:52,773 --> 00:02:57,242
+ onto the transparent graphene  
+      on the copper foil.       
+
+39
+00:02:57,244 --> 00:03:00,846
+ he locks the foil in a machine 
+     called a spin coater.      
+
+40
+00:03:00,848 --> 00:03:03,382
+   it spins at 3,000 r.p.m.     
+
+41
+00:03:03,384 --> 00:03:04,850
+   this spreads the plastic     
+
+42
+00:03:04,852 --> 00:03:07,787
+   evenly across the graphene   
+              film              
+         on the foil.           
+
+43
+00:03:07,789 --> 00:03:12,057
+      it also accelerates       
+ the plastic's curing process.  
+
+44
+00:03:12,059 --> 00:03:15,060
+       he then separates        
+  the plastic-coated graphene   
+
+45
+00:03:15,062 --> 00:03:16,662
+     from the copper foil.      
+
+46
+00:03:16,664 --> 00:03:18,664
+          to do this,           
+
+47
+00:03:18,666 --> 00:03:22,334
+        he clips a wire         
+      to set of tweezers.       
+
+48
+00:03:22,336 --> 00:03:25,137
+      using the tweezers,       
+   he picks up a small piece    
+
+49
+00:03:25,139 --> 00:03:28,007
+   of the plastic, graphene,    
+      and copper sandwich       
+
+50
+00:03:28,009 --> 00:03:30,475
+ and plunges it in the water.   
+
+51
+00:03:30,477 --> 00:03:33,746
+      the tweezers apply an     
+           electrical           
+  charge through the copper,    
+
+52
+00:03:33,748 --> 00:03:36,282
+        causing bubbles         
+     to form in the water.      
+
+53
+00:03:36,284 --> 00:03:38,216
+     these bubbles lift the     
+            graphene            
+
+54
+00:03:38,218 --> 00:03:40,953
+        and plastic film        
+     away from the copper.      
+
+55
+00:03:40,955 --> 00:03:45,691
+    the graphene now clings     
+ only to the plastic backing.   
+
+56
+00:03:45,693 --> 00:03:48,360
+  he scoops the plastic-backed  
+        graphene square         
+
+57
+00:03:48,362 --> 00:03:51,897
+     out of the water using     
+   a large piece of plastic.    
+
+58
+00:03:51,899 --> 00:03:53,232
+    to remove contaminants,     
+
+59
+00:03:53,234 --> 00:03:56,969
+     he immerses the square     
+   in a series of solutions.    
+
+60
+00:03:56,971 --> 00:03:58,304
+     in the last solution,      
+
+61
+00:03:58,306 --> 00:04:00,839
+      he slides the square      
+       off the carrier.         
+
+62
+00:04:00,841 --> 00:04:03,509
+ and the square floats freely.  
+
+63
+00:04:03,511 --> 00:04:06,245
+  he picks up the silicon chip  
+         with tweezers          
+
+64
+00:04:06,247 --> 00:04:09,181
+    and uses it to retrieve     
+     the floating graphene      
+
+65
+00:04:09,183 --> 00:04:12,584
+      and plastic square.       
+
+66
+00:04:12,586 --> 00:04:15,154
+   it now sits on the silicon   
+             chip.              
+
+67
+00:04:19,126 --> 00:04:20,792
+  after taping metal stencils   
+
+68
+00:04:20,794 --> 00:04:23,395
+         over three of          
+  the graphene-covered chips,   
+
+69
+00:04:23,397 --> 00:04:25,931
+        he suspends them        
+      above gold pellets        
+
+70
+00:04:25,933 --> 00:04:28,801
+     in a machine known as      
+        the evaporator.         
+
+71
+00:04:33,007 --> 00:04:36,776
+   he closes the evaporator,    
+    then turns up the heat.     
+
+72
+00:04:41,816 --> 00:04:43,882
+    a vacuum pulls the gold     
+      toward the stencils       
+
+73
+00:04:43,884 --> 00:04:46,051
+       as it evaporates.        
+
+74
+00:04:48,288 --> 00:04:50,689
+ the gold and exposed graphene  
+
+75
+00:04:50,691 --> 00:04:53,692
+     adhere to one another      
+  as they cool and solidify.    
+
+76
+00:04:53,694 --> 00:04:56,361
+     the technician removes     
+ the stencils from the chips,   
+
+77
+00:04:56,363 --> 00:04:58,430
+         revealing gold         
+      horizontal runners        
+
+78
+00:04:58,432 --> 00:05:01,233
+  between the gold contacts.    
+
+79
+00:05:01,235 --> 00:05:04,436
+     he transfers the chip      
+      to a plasma etcher.       
+
+80
+00:05:04,438 --> 00:05:05,771
+    he activates the chip,      
+
+81
+00:05:05,773 --> 00:05:08,307
+         and plasma gas         
+      floods the chamber.       
+
+82
+00:05:08,309 --> 00:05:12,845
+     the gas strips off any     
+            graphene            
+ that's not protected by gold.  
+
+83
+00:05:12,847 --> 00:05:14,446
+    only the gold contacts      
+
+84
+00:05:14,448 --> 00:05:18,116
+   and gold-covered graphene    
+  runners remain on the chip.   
+
+85
+00:05:18,118 --> 00:05:20,519
+       solvent dissolves        
+      the plastic backing       
+
+86
+00:05:20,521 --> 00:05:22,321
+   on the graphene runners,     
+
+87
+00:05:22,323 --> 00:05:26,658
+   taking the protective gold   
+      with it, leaving only     
+           graphene.            
+
+88
+00:05:26,660 --> 00:05:31,529
+       the technician now       
+  has a graphene sensor chip.   
+
+89
+00:05:31,531 --> 00:05:33,866
+           it's time            
+  to test its sensory powers    
+
+90
+00:05:33,868 --> 00:05:37,069
+        using antibodies        
+for a certain disease protein.  
+
+91
+00:05:37,071 --> 00:05:41,473
+     the antibodies attach      
+      to the surface of the     
+           graphene.            
+
+92
+00:05:41,475 --> 00:05:43,475
+      she tests the signal      
+         from the chip          
+
+93
+00:05:43,477 --> 00:05:47,746
+        to confirm that         
+      it reads the protein      
+           correctly.           
+
+94
+00:05:47,748 --> 00:05:50,482
+       this graphene chip       
+        is ready to act         
+
+95
+00:05:50,484 --> 00:05:52,852
+  as a high-tech sixth sense.   
+
+96
+00:06:04,231 --> 00:06:07,199
+              98                
+
+97
+00:06:10,037 --> 00:06:11,503
+           narrator:            
+   the world's smallest car     
+
+98
+00:06:11,505 --> 00:06:13,639
+   has held the guinness book   
+    of world records title      
+
+99
+00:06:13,641 --> 00:06:17,242
+    for more than 50 years.     
+
+100
+00:06:17,244 --> 00:06:19,912
+   designed and manufactured    
+         in the u.k.,           
+
+101
+00:06:19,914 --> 00:06:22,848
+     it's about 6 feet long     
+       and 3 feet wide.         
+
+102
+00:06:22,850 --> 00:06:25,684
+       it fits one driver       
+      but no passengers.        
+
+103
+00:06:29,390 --> 00:06:30,989
+     intended as a commuter     
+            vehicle,            
+
+104
+00:06:30,991 --> 00:06:35,060
+    the world's smallest car    
+   travels up to 40 miles per   
+             hour.              
+
+105
+00:06:38,665 --> 00:06:42,801
+   technicians craft the body   
+ in molds section by section.   
+
+106
+00:06:42,803 --> 00:06:45,070
+       first, they spread       
+        an epoxy resin          
+
+107
+00:06:45,072 --> 00:06:47,172
+     in the customer's color    
+            choice.             
+
+108
+00:06:49,276 --> 00:06:51,010
+     once the resin cures,      
+
+109
+00:06:51,012 --> 00:06:53,011
+        they lay a sheet        
+     of fiberglass matting      
+
+110
+00:06:53,013 --> 00:06:54,847
+ and impregnate it with resin.  
+
+111
+00:06:58,952 --> 00:07:02,621
+     this bonds the matting     
+     to the gelcoat layer.      
+
+112
+00:07:02,623 --> 00:07:04,023
+  narrower strips of matting    
+
+113
+00:07:04,025 --> 00:07:06,091
+          are applied           
+     around the perimeter.      
+
+114
+00:07:10,597 --> 00:07:12,764
+ certain areas are reinforced   
+
+115
+00:07:12,766 --> 00:07:17,436
+ with a more porous fiberglass  
+ matting to absorb more resin.  
+
+116
+00:07:17,438 --> 00:07:20,773
+    finally, a second layer     
+    of fiberglass matting and   
+             resin              
+
+117
+00:07:20,775 --> 00:07:22,908
+ is set over the entire mold.   
+
+118
+00:07:26,514 --> 00:07:30,382
+   the molds cure for a day.    
+
+119
+00:07:30,384 --> 00:07:31,717
+      when they're ready,       
+
+120
+00:07:31,719 --> 00:07:35,988
+       the body sections        
+    are extracted from their    
+             molds.             
+
+121
+00:07:35,990 --> 00:07:38,057
+   this is the main section.    
+
+122
+00:07:42,262 --> 00:07:44,996
+   the gelcoat forms a smooth   
+       and shiny finish         
+
+123
+00:07:44,998 --> 00:07:47,666
+    on the sturdy fiberglass    
+          underneath.           
+
+124
+00:07:52,139 --> 00:07:54,273
+      using a saw equipped      
+      with a small blade,       
+
+125
+00:07:54,275 --> 00:07:57,776
+  technicians smooth the edges  
+      of the fiberglass.        
+
+126
+00:08:03,617 --> 00:08:06,217
+   elsewhere in the factory,    
+   technicians weld together    
+
+127
+00:08:06,219 --> 00:08:09,221
+     the car's lightweight      
+      aluminum gas tank.        
+
+128
+00:08:09,223 --> 00:08:11,724
+   it holds 1 gallon of gas.    
+
+129
+00:08:16,830 --> 00:08:18,530
+    they drill a hole through   
+             it...              
+
+130
+00:08:21,702 --> 00:08:25,037
+  then weld on the filler tube  
+     and screw on the cap.      
+
+131
+00:08:26,640 --> 00:08:29,241
+  the car runs on three wheels  
+               --               
+
+132
+00:08:29,243 --> 00:08:34,380
+    two at the front and one    
+             driven             
+  by the engine at the back.    
+
+133
+00:08:34,382 --> 00:08:36,982
+      technicians assemble      
+        the wheel hubs,         
+
+134
+00:08:36,984 --> 00:08:39,451
+        then mount them         
+onto the triangular suspension  
+
+135
+00:08:39,453 --> 00:08:41,153
+         of the axle.           
+
+136
+00:08:43,524 --> 00:08:45,657
+    they flip over the steel    
+            chassis             
+
+137
+00:08:45,659 --> 00:08:48,594
+  and install the disc brakes   
+        on each wheel.          
+
+138
+00:08:52,800 --> 00:08:55,067
+       on the rear wheel,       
+    they mount a sprocket,      
+
+139
+00:08:55,069 --> 00:08:59,070
+   which allows the engine to   
+              drive             
+    a chain that rotates the    
+             wheel.             
+
+140
+00:08:59,072 --> 00:09:01,873
+     they connect the shock     
+            absorber            
+       on the rear wheel        
+
+141
+00:09:01,875 --> 00:09:04,409
+to a mount underneath the body  
+
+142
+00:09:04,411 --> 00:09:06,278
+          and install           
+     hydraulic brake lines      
+
+143
+00:09:06,280 --> 00:09:09,615
+       and brake calipers       
+     on all three wheels.       
+
+144
+00:09:09,617 --> 00:09:12,751
+      they bolt the wheels      
+and tires onto the wheel hubs.  
+
+145
+00:09:12,753 --> 00:09:16,821
+  each tire is about 6 inches   
+         in diameter.           
+
+146
+00:09:16,823 --> 00:09:18,957
+        after installing        
+    the one-cylinder engine     
+
+147
+00:09:18,959 --> 00:09:23,161
+   in the middle of the body,   
+     technicians bolt on the    
+            chassis.            
+
+148
+00:09:23,163 --> 00:09:25,630
+     they connect the shock     
+            absorber            
+       on the rear wheel        
+
+149
+00:09:25,632 --> 00:09:28,833
+    to a mount underneath the   
+             body.              
+
+150
+00:09:28,835 --> 00:09:30,769
+      they install all the      
+           electrical           
+          components,           
+
+151
+00:09:30,771 --> 00:09:32,904
+     such as the headlight,     
+       the brake lights,        
+
+152
+00:09:32,906 --> 00:09:36,441
+    the turn signals and the    
+             wiper.             
+
+153
+00:09:36,443 --> 00:09:38,576
+     the car can be ordered     
+   with an electric engine,     
+
+154
+00:09:38,578 --> 00:09:40,045
+  in which case they install    
+
+155
+00:09:40,047 --> 00:09:42,614
+          four 12-volt          
+    rechargeable batteries.     
+
+156
+00:09:45,719 --> 00:09:49,054
+ the car has a rack-and-pinion  
+       steering system.         
+
+157
+00:09:49,056 --> 00:09:51,723
+     the steering column is     
+            attached            
+      to a circular gear,       
+
+158
+00:09:51,725 --> 00:09:53,125
+       called a pinion.         
+
+159
+00:09:53,127 --> 00:09:54,926
+        when the driver         
+   turns the steering wheel     
+
+160
+00:09:54,928 --> 00:09:56,461
+       in one direction,        
+
+161
+00:09:56,463 --> 00:09:59,464
+    the pinion moves in that    
+   direction along the rack.    
+
+162
+00:09:59,466 --> 00:10:01,266
+    the rack is a track with    
+             teeth,             
+
+163
+00:10:01,268 --> 00:10:04,069
+       connected by rods        
+     to the front wheels.       
+
+164
+00:10:04,071 --> 00:10:09,140
+ it moves and turns the wheels, 
+       steering the car.        
+
+165
+00:10:09,142 --> 00:10:12,144
+          the vehicle           
+   is mechanically complete.    
+
+166
+00:10:12,146 --> 00:10:16,614
+      now, they install the     
+           windshield           
+         and windows,           
+
+167
+00:10:16,616 --> 00:10:19,351
+  sealing the aluminum frames   
+        with silicone.          
+
+168
+00:10:27,294 --> 00:10:30,295
+     inside, they mount the     
+            steering            
+   wheel and the dashboard,     
+
+169
+00:10:30,297 --> 00:10:32,697
+ which houses the speedometer,  
+      turn signal light,        
+
+170
+00:10:32,699 --> 00:10:35,634
+        and high beams.         
+
+171
+00:10:35,636 --> 00:10:37,168
+      they hang the door,       
+
+172
+00:10:37,170 --> 00:10:40,405
+   which has been fitted with   
+ chromed hinges and a handle.   
+
+173
+00:10:41,775 --> 00:10:45,243
+    the style is consistent     
+     with the 1960s design      
+
+174
+00:10:45,245 --> 00:10:48,780
+          of the car.           
+
+175
+00:10:48,782 --> 00:10:49,982
+      they finish the job       
+
+176
+00:10:49,984 --> 00:10:53,252
+     with the installation      
+    of a vinyl driver seat,     
+
+177
+00:10:53,254 --> 00:10:56,655
+    gas tank, and windshield    
+    washer fluid reservoir.     
+
+178
+00:11:00,927 --> 00:11:04,263
+    the world's smallest car    
+   is ready to hit the road     
+
+179
+00:11:04,265 --> 00:11:06,465
+  and make a big impression.    
+
+180
+00:11:20,680 --> 00:11:21,813
+       force testers pull       
+     and compress products      
+
+181
+00:11:21,815 --> 00:11:23,515
+   to their breaking point.     
+
+182
+00:11:25,819 --> 00:11:27,552
+      they're used in labs      
+         and factories          
+
+183
+00:11:27,554 --> 00:11:31,690
+     to evaluate a product's    
+            quality.            
+
+184
+00:11:31,692 --> 00:11:33,892
+         a force tester         
+    verifies that an object     
+
+185
+00:11:33,894 --> 00:11:37,296
+    meets the manufacturer's    
+   required specifications.     
+
+186
+00:11:47,240 --> 00:11:52,844
+    force testers are built     
+     to pull and compress.      
+
+187
+00:11:52,846 --> 00:11:57,049
+       here, a tester arm       
+    bears down on a pencil.     
+
+188
+00:11:57,051 --> 00:11:59,184
+     it determines how much     
+     force can be applied       
+
+189
+00:11:59,186 --> 00:12:02,654
+    before the pencil bends     
+          or breaks.            
+
+190
+00:12:02,656 --> 00:12:05,157
+   measurements are displayed   
+         on a screen.           
+
+191
+00:12:07,260 --> 00:12:09,995
+         in the 1930s,          
+      basic force gauges        
+
+192
+00:12:09,997 --> 00:12:14,333
+    were attached to cranes     
+     to measure a product's     
+           strength.            
+
+193
+00:12:14,335 --> 00:12:17,135
+     today's force testers      
+        are high-tech.          
+
+194
+00:12:17,137 --> 00:12:22,407
+   they have digital displays   
+  and computerized controls.    
+
+195
+00:12:22,409 --> 00:12:24,343
+      an assembler starts       
+     by screwing brackets       
+
+196
+00:12:24,345 --> 00:12:28,680
+       into a steel base        
+ for the main computer board.   
+
+197
+00:12:28,682 --> 00:12:31,416
+the computer board comes next.  
+
+198
+00:12:31,418 --> 00:12:33,551
+      he uses nuts, called      
+           standoffs,           
+
+199
+00:12:33,553 --> 00:12:36,754
+          to raise it           
+    above the steel plate.      
+
+200
+00:12:36,756 --> 00:12:39,024
+   this creates an air space    
+       between the two,         
+
+201
+00:12:39,026 --> 00:12:41,893
+      preventing electrical     
+           shorting.            
+
+202
+00:12:41,895 --> 00:12:44,029
+    throughout the assembly,    
+        the technician          
+
+203
+00:12:44,031 --> 00:12:47,699
+     wears an electrostatic     
+ discharge band on his wrist.   
+
+204
+00:12:47,701 --> 00:12:51,903
+       this arrests static      
+           electricity          
+    to prevent damage to the    
+             parts.             
+
+205
+00:12:53,507 --> 00:12:55,440
+    he screws the motor drive   
+             board              
+
+206
+00:12:55,442 --> 00:12:56,975
+   to the force tester base     
+
+207
+00:12:56,977 --> 00:12:59,644
+        and moves on to         
+   the next batch of parts.     
+
+208
+00:12:59,646 --> 00:13:01,646
+     they include the power     
+         supply board,          
+
+209
+00:13:01,648 --> 00:13:03,848
+  a mechanism to turn the unit  
+              on,               
+
+210
+00:13:03,850 --> 00:13:06,518
+      and an emergency stop     
+           assembly.            
+
+211
+00:13:06,520 --> 00:13:08,653
+      he routes the wires       
+    for the power switches      
+
+212
+00:13:08,655 --> 00:13:10,822
+          and installs          
+       the push buttons.        
+
+213
+00:13:13,794 --> 00:13:17,062
+   he connects a ribbon cable   
+  to the main circuit board.    
+
+214
+00:13:19,466 --> 00:13:21,733
+   then, he attaches the other  
+               end              
+         of the cable           
+
+215
+00:13:21,735 --> 00:13:23,702
+   to the motor drive board.    
+
+216
+00:13:23,704 --> 00:13:26,404
+       this allows them to      
+          communicate.          
+
+217
+00:13:26,406 --> 00:13:30,108
+     finally, he completes      
+ the power supply connections.  
+
+218
+00:13:33,147 --> 00:13:34,279
+  another member of the team    
+
+219
+00:13:34,281 --> 00:13:36,147
+           assembles            
+    a vertical support rail     
+
+220
+00:13:36,149 --> 00:13:38,216
+     to an aluminum base.       
+
+221
+00:13:38,218 --> 00:13:41,953
+   this rail is the backbone    
+        of the tester.          
+
+222
+00:13:41,955 --> 00:13:44,956
+   it supports the force arm    
+  and the track it moves on.    
+
+223
+00:13:47,361 --> 00:13:50,395
+     he attaches the track      
+     to the support rail.       
+
+224
+00:13:52,433 --> 00:13:53,899
+   using an alignment tool,     
+
+225
+00:13:53,901 --> 00:13:56,968
+     he slides the shuttle      
+into the grooves of the track,  
+
+226
+00:13:56,970 --> 00:13:59,571
+then confirms it moves freely.  
+
+227
+00:14:06,847 --> 00:14:09,748
+      he's ready to mount       
+ the force arm to the shuttle.  
+
+228
+00:14:11,785 --> 00:14:14,453
+     a long, threaded rod,      
+    known as a lead screw,      
+
+229
+00:14:14,455 --> 00:14:16,488
+ is fastened to the force arm.  
+
+230
+00:14:21,662 --> 00:14:23,328
+    the lead screw rotates,     
+
+231
+00:14:23,330 --> 00:14:27,866
+     allowing the force arm     
+     to move up and down.       
+
+232
+00:14:27,868 --> 00:14:31,069
+  he lowers an aluminum cover   
+  over the force arm assembly   
+
+233
+00:14:31,071 --> 00:14:33,004
+  and secures it to the base.   
+
+234
+00:14:33,006 --> 00:14:35,540
+    one side of the casing is   
+             open.              
+
+235
+00:14:35,542 --> 00:14:40,344
+        he'll install an        
+         accordion-style        
+  rubber curtain to it later.   
+
+236
+00:14:40,346 --> 00:14:42,881
+ next, he threads a rubber belt 
+       around a pulley,         
+
+237
+00:14:42,883 --> 00:14:47,352
+  which is attached to the end  
+      of the lead screw.        
+
+238
+00:14:47,354 --> 00:14:50,155
+     he installs the motor      
+    and wraps the other end     
+
+239
+00:14:50,157 --> 00:14:52,557
+       of the rubber belt       
+   around the motor pulley.     
+
+240
+00:14:55,562 --> 00:14:58,029
+    the motor drive assembly    
+     turns the lead screw       
+
+241
+00:14:58,031 --> 00:14:59,731
+    to move the force arm.      
+
+242
+00:15:03,436 --> 00:15:06,037
+    the base is now mounted     
+     with the electronics       
+
+243
+00:15:06,039 --> 00:15:07,639
+  to the force tester frame.    
+
+244
+00:15:11,778 --> 00:15:13,512
+   after connecting switches    
+          that limit            
+
+245
+00:15:13,514 --> 00:15:16,982
+        the force arm's         
+      range of movement,        
+
+246
+00:15:16,984 --> 00:15:18,516
+     he installs an encoder     
+         on the motor           
+
+247
+00:15:18,518 --> 00:15:22,521
+      to provide feedback       
+      on speed and power.       
+
+248
+00:15:22,523 --> 00:15:26,224
+  the electronics are covered   
+ with a tough plastic casing.   
+
+249
+00:15:27,594 --> 00:15:30,061
+  next up is a slotted table.   
+
+250
+00:15:31,598 --> 00:15:35,267
+   he clips a computer tablet   
+        to the tester.          
+
+251
+00:15:35,269 --> 00:15:37,468
+     an adjustable bracket      
+         is attached,           
+
+252
+00:15:37,470 --> 00:15:39,537
+   which is used for changing   
+     the screen's position      
+
+253
+00:15:39,539 --> 00:15:41,540
+          as desired.           
+
+254
+00:15:41,542 --> 00:15:44,609
+  a force tester doesn't just   
+     bear down on things.       
+
+255
+00:15:44,611 --> 00:15:47,012
+  it also pulls things apart.   
+
+256
+00:15:47,014 --> 00:15:48,947
+     a technician conducts      
+          a pull test           
+
+257
+00:15:48,949 --> 00:15:52,484
+   on a piece of nylon cord.    
+
+258
+00:15:52,486 --> 00:15:54,219
+  he activates the force arm.   
+
+259
+00:15:54,221 --> 00:15:57,789
+  the force arm pulls the cord  
+     as it grips the base.      
+
+260
+00:15:59,293 --> 00:16:01,426
+      the tester measures       
+    the peak force required     
+
+261
+00:16:01,428 --> 00:16:04,496
+    to pull the cord apart.     
+
+262
+00:16:04,498 --> 00:16:07,933
+   the results are displayed    
+    instantly on the control    
+            screen.             
+
+263
+00:16:11,371 --> 00:16:12,970
+      there are different       
+         force testers          
+
+264
+00:16:12,972 --> 00:16:15,506
+  for different applications.   
+
+265
+00:16:15,508 --> 00:16:18,576
+        but the purpose         
+     is always the same --      
+
+266
+00:16:18,578 --> 00:16:21,880
+   pull and compress objects    
+in order to test their limits.  
+
+267
+00:16:36,930 --> 00:16:39,764
+              272               
+
+268
+00:16:42,736 --> 00:16:44,069
+   narrator: one of the ways    
+
+269
+00:16:44,071 --> 00:16:45,604
+         a manufacturer         
+     can package a product      
+
+270
+00:16:45,606 --> 00:16:48,006
+    is in a composite can.      
+
+271
+00:16:48,008 --> 00:16:50,609
+  it's a cylindrical container  
+       made of cardboard        
+
+272
+00:16:50,611 --> 00:16:53,411
+     with a moisture barrier    
+            lining.             
+
+273
+00:16:53,413 --> 00:16:56,080
+         composite cans         
+ are less expensive to produce  
+
+274
+00:16:56,082 --> 00:16:58,149
+           than glass           
+     or metal containers.       
+
+275
+00:16:58,151 --> 00:16:59,651
+    and they're recyclable.     
+
+276
+00:17:02,022 --> 00:17:05,156
+   many products are packaged   
+      in composite cans,        
+
+277
+00:17:05,158 --> 00:17:06,824
+           everything           
+    from automotive grease      
+
+278
+00:17:06,826 --> 00:17:08,960
+      to parmesan cheese.       
+
+279
+00:17:08,962 --> 00:17:12,297
+     the cans are cardboard     
+    with an interior lining     
+
+280
+00:17:12,299 --> 00:17:15,033
+        that prevents it        
+   from absorbing moisture.     
+
+281
+00:17:15,035 --> 00:17:18,036
+    the top can be a sifter,    
+        a pull-tab cap,         
+
+282
+00:17:18,038 --> 00:17:21,906
+        a ring and plug,        
+       or peel-off foil.        
+
+283
+00:17:21,908 --> 00:17:23,441
+    to make composite cans,     
+
+284
+00:17:23,443 --> 00:17:25,843
+       they begin winding       
+     a strip of thin paper      
+
+285
+00:17:25,845 --> 00:17:29,314
+     over a long steel rod,     
+       called a mandrel.        
+
+286
+00:17:29,316 --> 00:17:32,350
+    the machine applies glue    
+   to the top of the strip.     
+
+287
+00:17:36,522 --> 00:17:40,325
+   simultaneously, two strips   
+  of cardboard wind off rolls   
+
+288
+00:17:40,327 --> 00:17:42,861
+      and pass over a glue      
+          applicator,           
+
+289
+00:17:42,863 --> 00:17:45,430
+  which coats their underside   
+        with adhesive.          
+
+290
+00:17:47,067 --> 00:17:49,934
+     then these overlapping     
+          twin strips           
+
+291
+00:17:49,936 --> 00:17:53,271
+     wind around the coated     
+    paper-wrapped mandrel.      
+
+292
+00:17:53,273 --> 00:17:56,274
+the adhesive binds the layers,  
+
+293
+00:17:56,276 --> 00:17:58,476
+           producing            
+   a two-ply cardboard tube     
+
+294
+00:17:58,478 --> 00:18:00,745
+        with an interior        
+     moistureproof lining.      
+
+295
+00:18:00,747 --> 00:18:05,016
+  the machine pushes the tube   
+        off the mandrel         
+
+296
+00:18:05,018 --> 00:18:07,552
+ to an automated circular saw.  
+
+297
+00:18:07,554 --> 00:18:11,222
+     the saw cuts the tube      
+     into shorter pieces.       
+
+298
+00:18:11,224 --> 00:18:12,490
+     they fall into a bin,      
+
+299
+00:18:12,492 --> 00:18:14,892
+          which feeds           
+     the labeling machine.      
+
+300
+00:18:14,894 --> 00:18:17,562
+      suction cups pick up      
+      the sheet of labels       
+
+301
+00:18:17,564 --> 00:18:19,764
+and run it over a glue roller.  
+
+302
+00:18:19,766 --> 00:18:22,968
+      it applies adhesive       
+       to the back side.        
+
+303
+00:18:22,970 --> 00:18:24,969
+        a vacuum carpet         
+       carries the label        
+
+304
+00:18:24,971 --> 00:18:27,172
+ onto another set of mandrels.  
+
+305
+00:18:27,174 --> 00:18:30,307
+   the machine slips the tube   
+       onto the mandrel,        
+
+306
+00:18:30,309 --> 00:18:33,311
+      then wraps the label      
+       around the tube.         
+
+307
+00:18:33,313 --> 00:18:35,580
+        next, knives cut        
+       the spinning tube        
+
+308
+00:18:35,582 --> 00:18:37,315
+       into seven cans.         
+
+309
+00:18:39,519 --> 00:18:44,188
+      the can-making line       
+has been slowed by our camera.  
+
+310
+00:18:44,190 --> 00:18:47,392
+  at the regular output speed   
+    of 250 cans per minute,     
+
+311
+00:18:47,394 --> 00:18:51,396
+   all you'd see is a blur.     
+
+312
+00:18:51,398 --> 00:18:52,864
+    a pusher moves the cans     
+
+313
+00:18:52,866 --> 00:18:54,666
+        toward a device         
+      called an upender,        
+
+314
+00:18:54,668 --> 00:18:57,235
+which stands each can upright.  
+
+315
+00:19:00,606 --> 00:19:03,208
+         the cans then          
+     spin through a gluer,      
+
+316
+00:19:03,210 --> 00:19:06,444
+      which applies a bead      
+of adhesive along the top rim.  
+
+317
+00:19:09,749 --> 00:19:15,353
+   meanwhile, another station   
+              lines             
+    up the closures in single   
+             file.              
+
+318
+00:19:15,355 --> 00:19:17,889
+           these cans           
+   are for parmesan cheese,     
+
+319
+00:19:17,891 --> 00:19:21,826
+     so the tops are plastic    
+            sifters.            
+
+320
+00:19:21,828 --> 00:19:25,429
+       they go one by one       
+       onto a carousel.         
+
+321
+00:19:25,431 --> 00:19:28,099
+    the tops align with cans    
+      on another carousel       
+
+322
+00:19:28,101 --> 00:19:29,668
+     with perfect timing.       
+
+323
+00:19:33,573 --> 00:19:35,973
+    a plunger pushes the top    
+       about a 1/2 inch         
+
+324
+00:19:35,975 --> 00:19:38,343
+into the glued rim of the can.  
+
+325
+00:19:43,383 --> 00:19:45,517
+ as the cans exit the machine,  
+
+326
+00:19:45,519 --> 00:19:48,086
+           a conveyer           
+    turns them upside down.     
+
+327
+00:19:50,857 --> 00:19:53,191
+     the cans reach the end     
+         of the line,           
+
+328
+00:19:53,193 --> 00:19:56,061
+    where workers stack them    
+     on shipping pallets.       
+
+329
+00:19:58,131 --> 00:20:01,733
+  the parmesan cheese producer  
+will receive them like this --  
+
+330
+00:20:01,735 --> 00:20:04,069
+     open end up, ready for     
+            filling.            
+
+331
+00:20:08,742 --> 00:20:10,875
+    to make the metal bottom    
+         for the can,           
+
+332
+00:20:10,877 --> 00:20:14,411
+      a punch press stamps      
+ circles out of a strip of tin  
+
+333
+00:20:14,413 --> 00:20:17,214
+       that's been coated       
+   with a food-safe lacquer.    
+
+334
+00:20:17,216 --> 00:20:20,684
+    the gold-colored coating    
+ prevents the tin from rusting  
+
+335
+00:20:20,686 --> 00:20:24,122
+   when it comes into contact   
+    with the moisture in the    
+            cheese.             
+
+336
+00:20:26,426 --> 00:20:29,027
+        the next machine        
+     uses forming rollers       
+
+337
+00:20:29,029 --> 00:20:31,663
+        to shape the rim        
+    that will grip the can.     
+
+338
+00:20:36,636 --> 00:20:39,370
+      this production line      
+   is making composite cans     
+
+339
+00:20:39,372 --> 00:20:41,239
+    for grease cartridges.      
+
+340
+00:20:41,241 --> 00:20:44,976
+ mechanics use them in a device 
+  similar to a caulking gun.    
+
+341
+00:20:44,978 --> 00:20:46,377
+       for this product,        
+
+342
+00:20:46,379 --> 00:20:49,447
+       the cardboard tube       
+  has a plastic-coated liner.   
+
+343
+00:20:51,584 --> 00:20:53,985
+    the liner is heat-sealed    
+       to the cardboard         
+
+344
+00:20:53,987 --> 00:20:56,254
+       to prevent grease        
+       from leaking out.        
+
+345
+00:20:58,124 --> 00:21:00,592
+          the closure           
+    is a rigid aluminum top     
+
+346
+00:21:00,594 --> 00:21:02,594
+   that you remove with a pull  
+              tab.              
+
+347
+00:21:02,596 --> 00:21:04,863
+this machine, called a seamer,  
+
+348
+00:21:04,865 --> 00:21:08,066
+ crimps the metal edge tightly  
+     around the can's rim.      
+
+349
+00:21:09,936 --> 00:21:12,337
+ as the cans exit the machine,  
+
+350
+00:21:12,339 --> 00:21:15,539
+           a computer           
+   takes measurements of each   
+              top.              
+
+351
+00:21:15,541 --> 00:21:17,742
+       if it doesn't meet       
+        specifications,         
+
+352
+00:21:17,744 --> 00:21:20,044
+   the machine ejects the can   
+        from the line.          
+
+353
+00:21:22,415 --> 00:21:24,015
+ the cans that pass inspection  
+
+354
+00:21:24,017 --> 00:21:26,417
+          continue on           
+    to the packaging area,      
+
+355
+00:21:26,419 --> 00:21:29,487
+       where an employee        
+      does one last visual      
+           inspection           
+
+356
+00:21:29,489 --> 00:21:32,157
+        before shipping         
+  to the grease manufacturer.   
+
+357
+00:21:36,830 --> 00:21:38,963
+once a composite can is empty,  
+
+358
+00:21:38,965 --> 00:21:41,432
+      the cardboard can be      
+   separated from the metal     
+
+359
+00:21:41,434 --> 00:21:44,169
+   and tossed into a recycling  
+              bin.              
+

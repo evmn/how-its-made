@@ -1,0 +1,1498 @@
+﻿1
+00:00:51,118 --> 00:00:53,585
+            narrator:           
+ mankind has always cooked food,
+
+2
+00:00:53,587 --> 00:00:56,121
+        using everything        
+  from campfires and barbecues  
+
+3
+00:00:56,123 --> 00:00:58,256
+ to gas and electric stove tops.
+
+4
+00:00:58,258 --> 00:01:00,992
+         now he can use         
+      an induction cooktop.     
+
+5
+00:01:00,994 --> 00:01:04,529
+it doesn't need a fire, a flame,
+      or a red-hot burner.      
+
+6
+00:01:04,531 --> 00:01:06,932
+       it uses innovative       
+       cooking technology       
+
+7
+00:01:06,934 --> 00:01:09,334
+          our ancestors         
+      never dreamt possible     
+
+8
+00:01:09,336 --> 00:01:11,136
+ and would swear was pure magic.
+
+9
+00:01:15,008 --> 00:01:18,610
+an induction cooktop doesn't use
+  traditional cooking elements  
+
+10
+00:01:18,612 --> 00:01:21,213
+         above or below         
+      the cooking surface.      
+
+11
+00:01:21,215 --> 00:01:23,281
+ it uses copper induction coils 
+
+12
+00:01:23,283 --> 00:01:26,885
+  that generate high-frequency  
+     electromagnetic fields.    
+
+13
+00:01:26,887 --> 00:01:29,621
+          these fields          
+excite the molecules in the pan,
+
+14
+00:01:29,623 --> 00:01:32,157
+          creating heat         
+  only in the cookware itself.  
+
+15
+00:01:32,159 --> 00:01:34,026
+that's why the yolk remains cold
+
+16
+00:01:34,028 --> 00:01:36,962
+  and only what touches the pan 
+             cooks.             
+
+17
+00:01:36,964 --> 00:01:39,965
+        the magic starts        
+      with a punching press     
+
+18
+00:01:39,967 --> 00:01:42,834
+           that stamps          
+    computer-generated shapes   
+
+19
+00:01:42,836 --> 00:01:45,404
+           into sheets          
+      of cold-rolled steel.     
+
+20
+00:01:47,107 --> 00:01:49,241
+ these cutouts fix the position 
+
+21
+00:01:49,243 --> 00:01:53,111
+ of the induction coils that sit
+    under the glass surface.    
+
+22
+00:01:53,113 --> 00:01:56,448
+       a press break bends      
+   the four sides of the steel  
+
+23
+00:01:56,450 --> 00:01:59,551
+         so it will hold        
+  a glass-ceramic top in place. 
+
+24
+00:02:01,789 --> 00:02:05,324
+   in the meantime, a machine   
+  spray-paints the burner box,  
+
+25
+00:02:05,326 --> 00:02:07,593
+the visible part of the cooktop.
+
+26
+00:02:11,198 --> 00:02:13,232
+ a technician affixes the labels
+
+27
+00:02:13,234 --> 00:02:15,667
+       and the power cord       
+       onto a housing box       
+
+28
+00:02:15,669 --> 00:02:19,238
+ that will conceal the induction
+     electronics and coils.     
+
+29
+00:02:19,240 --> 00:02:21,740
+   she secures the power cord   
+       for strain relief.       
+
+30
+00:02:25,813 --> 00:02:28,413
+        she then attaches       
+      the power-cord ground     
+
+31
+00:02:28,415 --> 00:02:31,350
+    and a system ground wire    
+       to the housing box.      
+
+32
+00:02:33,153 --> 00:02:37,589
+  she places a cover on the box 
+    and screws it into place.   
+
+33
+00:02:39,293 --> 00:02:43,094
+another technician puts together
+   the induction electronics.   
+
+34
+00:02:43,096 --> 00:02:46,231
+        these assemblies        
+of circuit boards, cooling fans,
+
+35
+00:02:46,233 --> 00:02:49,368
+       and semiconductors       
+       drive the cooktop.       
+
+36
+00:02:49,370 --> 00:02:52,237
+   she covers the electronics   
+         with insulation        
+
+37
+00:02:52,239 --> 00:02:53,705
+    and a metal carrier plate   
+
+38
+00:02:53,707 --> 00:02:56,175
+        that will support       
+      the induction coils.      
+
+39
+00:02:56,177 --> 00:02:58,777
+         then she feeds         
+    the user-interface wires    
+
+40
+00:02:58,779 --> 00:03:00,979
+         through the top        
+   of the coil-carrier plate.   
+
+41
+00:03:03,450 --> 00:03:05,516
+         the technician         
+    screws the carrier plate    
+
+42
+00:03:05,518 --> 00:03:07,586
+  and the electronic assemblies 
+            together,           
+
+43
+00:03:07,588 --> 00:03:10,455
+  then grounds the electronics. 
+
+44
+00:03:10,457 --> 00:03:12,591
+         protective tape        
+       around the openings      
+
+45
+00:03:12,593 --> 00:03:14,860
+          will prevent          
+    the user-interface wires    
+
+46
+00:03:14,862 --> 00:03:17,462
+          from rubbing          
+ against the coil-carrier plate.
+
+47
+00:03:19,733 --> 00:03:23,902
+and some insulation will protect
+   the electronic assemblies.   
+
+48
+00:03:25,939 --> 00:03:29,041
+      she closes that side      
+  of the electronic housing box 
+
+49
+00:03:29,043 --> 00:03:31,910
+          and attaches          
+      all the power cables.     
+
+50
+00:03:35,816 --> 00:03:39,217
+   a sheet of insulation goes   
+  on the flip side of the box,  
+
+51
+00:03:39,219 --> 00:03:42,554
+      where she mounts the      
+electromagnetic-coil assemblies.
+
+52
+00:03:42,556 --> 00:03:44,556
+         the iron slugs         
+  on the back of each coil pod  
+
+53
+00:03:44,558 --> 00:03:47,425
+         help distribute        
+   the electromagnetic energy   
+
+54
+00:03:47,427 --> 00:03:48,961
+     to the cookware evenly.    
+
+55
+00:03:54,301 --> 00:03:57,636
+ she connects the coil assembly 
+      to the system board.      
+
+56
+00:03:57,638 --> 00:04:00,905
+  then she places the remaining 
+      four coil assemblies      
+
+57
+00:04:00,907 --> 00:04:02,373
+     onto the carrier plate     
+
+58
+00:04:02,375 --> 00:04:05,177
+    and connects their leads    
+      to the system board.      
+
+59
+00:04:10,851 --> 00:04:14,319
+  meanwhile, another technician 
+    assembles the components    
+
+60
+00:04:14,321 --> 00:04:16,922
+           of a glass           
+   touch-user-interface panel.  
+
+61
+00:04:23,864 --> 00:04:26,464
+   she connects the interface   
+       to the steel holder      
+
+62
+00:04:26,466 --> 00:04:28,600
+    that was bent into shape    
+          at the start          
+
+63
+00:04:28,602 --> 00:04:31,536
+       and is now attached      
+    to the black burner box.    
+
+64
+00:04:43,483 --> 00:04:46,218
+ she covers the cooking surface 
+        and control panel       
+
+65
+00:04:46,220 --> 00:04:48,820
+       with an attractive       
+     stainless-steel frame,     
+
+66
+00:04:48,822 --> 00:04:52,324
+ then connects the system board 
+      to the control panel.     
+
+67
+00:04:53,694 --> 00:04:57,162
+  she closes up the other side  
+       of the burner box.       
+
+68
+00:04:59,433 --> 00:05:02,834
+ then she bolts everything down 
+    to complete the cooktop.    
+
+69
+00:05:04,838 --> 00:05:06,905
+  a technician tests the unit.  
+
+70
+00:05:10,243 --> 00:05:14,179
+using a metal object to activate
+   the electromagnetic field,   
+
+71
+00:05:14,181 --> 00:05:17,849
+  he verifies that the controls 
+        respond properly.       
+
+72
+00:05:17,851 --> 00:05:21,052
+     he makes sure all five     
+   induction coils are working  
+
+73
+00:05:21,054 --> 00:05:24,323
+      and the power output      
+   from each coil is correct.   
+
+74
+00:05:26,727 --> 00:05:30,095
+        the control panel       
+    confirms it's a success.    
+
+75
+00:05:32,933 --> 00:05:35,066
+          clean, safe,          
+      and energy-efficient,     
+
+76
+00:05:35,068 --> 00:05:38,904
+     induction cooktops make    
+  cooking food quick and easy.  
+
+77
+00:05:50,684 --> 00:05:52,617
+            narrator:           
+   at a highway weigh station,  
+
+78
+00:05:52,619 --> 00:05:55,554
+ inspectors weigh each transport
+   truck on a road-level scale  
+
+79
+00:05:55,556 --> 00:05:58,222
+       to calculate taxes       
+    on the goods it's hauling   
+
+80
+00:05:58,224 --> 00:06:01,493
+    and to make sure the load   
+  doesn't exceed safety limits. 
+
+81
+00:06:01,495 --> 00:06:05,096
+   you also find truck scales   
+   at grain silos, quarries,    
+
+82
+00:06:05,098 --> 00:06:07,566
+         and other sites        
+    that move bulk products.    
+
+83
+00:06:11,705 --> 00:06:13,505
+ the key to this enormous scale 
+
+84
+00:06:13,507 --> 00:06:16,774
+     is the tiny component      
+     called a strain gauge,     
+
+85
+00:06:16,776 --> 00:06:19,311
+       which sends signals      
+     to the scale's computer    
+
+86
+00:06:19,313 --> 00:06:21,079
+        when compressed.        
+
+87
+00:06:22,850 --> 00:06:25,183
+   they make the strain gauge   
+         from a laminate        
+
+88
+00:06:25,185 --> 00:06:28,186
+  by bonding paper-thin sheets  
+      of nickel-iron foil,      
+
+89
+00:06:28,188 --> 00:06:31,589
+  epoxy, and teflon in a press. 
+
+90
+00:06:32,860 --> 00:06:36,327
+   then they coat the laminate  
+  in a light-sensitive chemical 
+
+91
+00:06:36,329 --> 00:06:37,863
+    and apply a plastic film    
+
+92
+00:06:37,865 --> 00:06:41,066
+ with an image of strain gauges 
+       in negative format.      
+
+93
+00:06:41,068 --> 00:06:44,602
+   then they expose the setup   
+      to ultraviolet light.     
+
+94
+00:06:44,604 --> 00:06:46,805
+  the light-sensitive chemical  
+             reacts,            
+
+95
+00:06:46,807 --> 00:06:49,875
+   imprinting the images into   
+  the laminate's metal surface. 
+
+96
+00:06:49,877 --> 00:06:53,278
+       now they have rows       
+       of strain gauges.        
+
+97
+00:06:53,280 --> 00:06:56,014
+      an inspector examines     
+           every gauge          
+
+98
+00:06:56,016 --> 00:06:58,450
+       and marks any flaws      
+        to be discarded.        
+
+99
+00:06:59,886 --> 00:07:02,620
+    now a technician measures   
+        how much voltage        
+
+100
+00:07:02,622 --> 00:07:04,422
+    flows through each gauge.   
+
+101
+00:07:04,424 --> 00:07:07,025
+ if it's too low, she raises it 
+
+102
+00:07:07,027 --> 00:07:10,829
+  by rubbing off a microscopic  
+    amount of surface metal.    
+
+103
+00:07:10,831 --> 00:07:14,165
+   when the strain gauges are   
+  finished, they cut them apart 
+
+104
+00:07:14,167 --> 00:07:17,502
+          and send them         
+  to the load cell department.  
+
+105
+00:07:17,504 --> 00:07:21,039
+ there, workers delicately tape 
+       four strain gauges       
+
+106
+00:07:21,041 --> 00:07:24,643
+    into each stainless-steel   
+           load cell.           
+
+107
+00:07:24,645 --> 00:07:27,779
+        then they solder        
+ electrical wiring to each one. 
+
+108
+00:07:27,781 --> 00:07:30,382
+       the wires all run        
+       to a circuit board       
+
+109
+00:07:30,384 --> 00:07:32,183
+  at one end of the load cell.  
+
+110
+00:07:32,185 --> 00:07:33,784
+     and from the load cell,    
+
+111
+00:07:33,786 --> 00:07:36,755
+   wiring runs to the scale's   
+        computer readout.       
+
+112
+00:07:38,858 --> 00:07:41,259
+       the smallest amount      
+       of moisture or dirt      
+
+113
+00:07:41,261 --> 00:07:43,761
+   would cause a strain gauge   
+         to malfunction,        
+
+114
+00:07:43,763 --> 00:07:46,264
+so they weld a cup over each one
+
+115
+00:07:46,266 --> 00:07:48,934
+     to hermetically seal it    
+      within the load cell.     
+
+116
+00:07:50,404 --> 00:07:51,870
+    every finished load cell    
+
+117
+00:07:51,872 --> 00:07:54,139
+            undergoes           
+     a quality-control check    
+
+118
+00:07:54,141 --> 00:07:56,274
+            to verify           
+     that it works properly.    
+
+119
+00:07:56,276 --> 00:07:59,277
+       the testing machine      
+  applies weight in increments  
+
+120
+00:07:59,279 --> 00:08:02,280
+until it hits the maximum weight
+      the cell can bear --      
+
+121
+00:08:02,282 --> 00:08:07,052
+        34,000 kilograms,       
+        or 75,000 pounds.       
+
+122
+00:08:09,890 --> 00:08:11,890
+    the truck-scale structure   
+
+123
+00:08:11,892 --> 00:08:13,892
+    in which they'll install    
+         the load cells         
+
+124
+00:08:13,894 --> 00:08:15,760
+   is called the weighbridge.   
+
+125
+00:08:15,762 --> 00:08:18,162
+    they begin assembling it    
+          upside down,          
+
+126
+00:08:18,164 --> 00:08:20,832
+         with a surface         
+      made of steel plates.     
+
+127
+00:08:20,834 --> 00:08:23,234
+        to build the base       
+       of the weighbridge,      
+
+128
+00:08:23,236 --> 00:08:27,439
+  they lay out a grid of thick  
+  steel tubes and crossbeams.   
+
+129
+00:08:27,441 --> 00:08:31,776
+  workers lower a guide to help 
+ them align the parts perfectly.
+
+130
+00:08:34,381 --> 00:08:37,248
+beneath each load cell is a pin.
+
+131
+00:08:37,250 --> 00:08:39,183
+  in order to weigh accurately, 
+
+132
+00:08:39,185 --> 00:08:41,519
+  a load cell has to be level,  
+
+133
+00:08:41,521 --> 00:08:43,922
+  so it's critical to make sure 
+        this pin is level       
+
+134
+00:08:43,924 --> 00:08:46,291
+ before welding on the bulkhead 
+         that holds it.         
+
+135
+00:08:50,797 --> 00:08:52,330
+       once fully welded,       
+
+136
+00:08:52,332 --> 00:08:56,134
+  the weighbridge is assembled  
+     and ready for painting.    
+
+137
+00:08:57,804 --> 00:09:00,605
+       the paint equipment      
+    laces the powdered paint    
+
+138
+00:09:00,607 --> 00:09:02,741
+         with a positive        
+        electrical charge       
+
+139
+00:09:02,743 --> 00:09:05,143
+      and the weighbridge       
+      with a negative one.      
+
+140
+00:09:05,145 --> 00:09:07,545
+        this evenly draws       
+       the paint particles      
+
+141
+00:09:07,547 --> 00:09:09,814
+  onto the steel like a magnet. 
+
+142
+00:09:09,816 --> 00:09:12,750
+     in another department,     
+  they assemble the steel stand 
+
+143
+00:09:12,752 --> 00:09:15,487
+on which the load cell will sit.
+
+144
+00:09:15,489 --> 00:09:17,956
+         a welder tacks         
+      the pieces together,      
+
+145
+00:09:17,958 --> 00:09:20,158
+          then a robot          
+     does the full welding.     
+
+146
+00:09:26,966 --> 00:09:28,900
+  now that all parts are ready, 
+
+147
+00:09:28,902 --> 00:09:32,003
+         final assembly         
+  of the truck scale can begin. 
+
+148
+00:09:34,908 --> 00:09:37,308
+        the weighbridge,        
+       right-side up now,       
+
+149
+00:09:37,310 --> 00:09:40,444
+    contains eight load cells   
+     at different locations.    
+
+150
+00:09:40,446 --> 00:09:43,181
+  the first step is to install  
+      each load-cell stand      
+
+151
+00:09:43,183 --> 00:09:45,783
+  into its respective position. 
+
+152
+00:09:46,920 --> 00:09:51,323
+       they insert a link       
+   on each side of the stand.   
+
+153
+00:09:52,859 --> 00:09:56,394
+   they position the load cell  
+   at the top of the links...   
+
+154
+00:09:59,066 --> 00:10:01,800
+     ...and the bulkhead pin    
+         at the bottom.         
+
+155
+00:10:09,076 --> 00:10:12,644
+ then they close up the location
+      with an access plate.     
+
+156
+00:10:16,883 --> 00:10:19,818
+          the last step         
+   is to calibrate the scale.   
+
+157
+00:10:19,820 --> 00:10:23,888
+ they lay a 10,000-pound weight 
+ on different parts of the scale
+
+158
+00:10:23,890 --> 00:10:27,359
+ to check if the digital readout
+          is accurate.          
+
+159
+00:10:31,098 --> 00:10:34,966
+     it takes a lot of time     
+to get a truck scale just right,
+
+160
+00:10:34,968 --> 00:10:37,402
+       but it's definitely      
+        worth the "wait."       
+                 [weight]       
+
+161
+00:10:49,382 --> 00:10:50,982
+            narrator:           
+      tetra pak containers      
+
+162
+00:10:50,984 --> 00:10:53,852
+  keep drinks and food products 
+safe to consume for up to a year
+
+163
+00:10:53,854 --> 00:10:57,455
+without refrigeration or the use
+  of additional preservatives.  
+
+164
+00:10:57,457 --> 00:11:00,191
+     made mostly from paper,    
+       they're recyclable       
+
+165
+00:11:00,193 --> 00:11:03,795
+  into things like egg cartons, 
+ paper towels, and toilet paper.
+
+166
+00:11:03,797 --> 00:11:05,396
+      a tetra pak container     
+
+167
+00:11:05,398 --> 00:11:09,034
+ is packaging built with nature 
+     and freshness in mind.     
+
+168
+00:11:11,204 --> 00:11:14,805
+      tetra pak containers      
+hold all sorts of food products,
+
+169
+00:11:14,807 --> 00:11:16,741
+  from smoothies to fine wines. 
+
+170
+00:11:20,347 --> 00:11:23,080
+   the package gives products   
+        a long shelf life       
+
+171
+00:11:23,082 --> 00:11:26,551
+because of its special layers --
+
+172
+00:11:26,553 --> 00:11:31,689
+       the plastic layer,       
+  the paperboard, and the foil. 
+
+173
+00:11:31,691 --> 00:11:35,326
+        a plastic coating       
+  makes the package leakproof.  
+
+174
+00:11:37,363 --> 00:11:38,830
+      tetra pak containers      
+
+175
+00:11:38,832 --> 00:11:42,000
+        are made entirely       
+   from recyclable materials.   
+
+176
+00:11:43,436 --> 00:11:45,837
+  the first step to making them 
+          is printing.          
+
+177
+00:11:45,839 --> 00:11:48,706
+        a worker selects        
+ the appropriate printing plates
+
+178
+00:11:48,708 --> 00:11:50,041
+      for a given customer      
+
+179
+00:11:50,043 --> 00:11:53,712
+and applies them to the cylinder
+     of the printing press.     
+
+180
+00:11:55,515 --> 00:11:59,650
+the press transfers one color at
+ a time to the paperboard layer 
+
+181
+00:11:59,652 --> 00:12:01,853
+     using solvent-free ink.    
+
+182
+00:12:01,855 --> 00:12:05,990
+      a tetra pak container     
+   can have up to six colors.   
+
+183
+00:12:05,992 --> 00:12:09,561
+         at full speed,         
+ it takes only minutes to print.
+
+184
+00:12:11,197 --> 00:12:13,898
+         a strobe light         
+   visually stops the motion,   
+
+185
+00:12:13,900 --> 00:12:17,168
+   helping the pressman check   
+  the quality of the printing.  
+
+186
+00:12:29,148 --> 00:12:31,616
+         a worker feeds         
+     the printed paperboard     
+
+187
+00:12:31,618 --> 00:12:33,084
+    into a lamination machine   
+
+188
+00:12:33,086 --> 00:12:36,287
+     that will join it with     
+  the plastic and foil layers.  
+
+189
+00:12:45,298 --> 00:12:46,831
+        at the same time,       
+
+190
+00:12:46,833 --> 00:12:49,834
+      a worker loads a roll     
+   of micro-thin aluminum foil  
+
+191
+00:12:49,836 --> 00:12:51,302
+       into the laminator.      
+
+192
+00:12:54,607 --> 00:12:57,375
+     a gas flame heat-treats    
+         the paperboard         
+
+193
+00:12:57,377 --> 00:13:00,111
+       to ensure adhesion       
+      to the plastic layer.     
+
+194
+00:13:00,113 --> 00:13:02,714
+     the laminator extrudes     
+        liquefied plastic       
+
+195
+00:13:02,716 --> 00:13:06,317
+  between the roll of aluminum  
+   and the heated paperboard.   
+
+196
+00:13:06,319 --> 00:13:09,320
+         rollers squeeze        
+    all the layers together.    
+
+197
+00:13:17,731 --> 00:13:21,733
+the printed paperboard, with all
+ its protective layers applied, 
+
+198
+00:13:21,735 --> 00:13:24,202
+   then comes off the back end  
+        of the laminator        
+
+199
+00:13:24,204 --> 00:13:26,504
+     in a large master roll.    
+
+200
+00:13:31,344 --> 00:13:33,945
+     the operator threads it    
+     into a cutting machine     
+
+201
+00:13:33,947 --> 00:13:35,813
+        called a slitter.       
+
+202
+00:13:35,815 --> 00:13:41,119
+  it cuts and winds the printed 
+ material onto individual rolls.
+
+203
+00:13:42,956 --> 00:13:47,025
+    the slitter's knives cut    
+  the material into four lanes, 
+
+204
+00:13:47,027 --> 00:13:49,894
+      each of which becomes     
+         a smaller roll.        
+
+205
+00:14:00,172 --> 00:14:04,642
+  the operator trims the excess 
+    material from each roll.    
+
+206
+00:14:04,644 --> 00:14:07,778
+     then a conveyor system     
+  sends the rolls for shipping  
+
+207
+00:14:07,780 --> 00:14:10,515
+    to a packer to be filled    
+       with their product.      
+
+208
+00:14:16,256 --> 00:14:17,922
+     at the packer's plant,     
+
+209
+00:14:17,924 --> 00:14:20,858
+   an operator loads the roll   
+        of flat packages        
+
+210
+00:14:20,860 --> 00:14:24,362
+  into a filling machine built  
+  and installed by tetra pak.   
+
+211
+00:14:28,268 --> 00:14:30,401
+         tension rollers        
+       guide the material       
+
+212
+00:14:30,403 --> 00:14:33,171
+    into the filling machine    
+    where it is sterilized.     
+
+213
+00:14:41,281 --> 00:14:44,481
+     the machine then forms     
+     and seals the material     
+
+214
+00:14:44,483 --> 00:14:47,118
+    into one continuous tube.   
+
+215
+00:14:50,957 --> 00:14:52,423
+   and a little further down,   
+
+216
+00:14:52,425 --> 00:14:55,793
+   the machine fills the tube   
+          with product.         
+
+217
+00:14:59,699 --> 00:15:04,903
+   it then cuts the tube into   
+ individually sealed packages...
+
+218
+00:15:04,905 --> 00:15:08,306
+         and drops them         
+    into a chute for folding.   
+
+219
+00:15:12,979 --> 00:15:16,014
+ it ejects the finished packages
+      onto a conveyor belt.     
+
+220
+00:15:19,452 --> 00:15:25,656
+ finally, it sends the packages 
+ on their way to the customer.  
+
+221
+00:15:25,658 --> 00:15:28,593
+      lightweight, compact,     
+         and recyclable,        
+
+222
+00:15:28,595 --> 00:15:31,595
+      tetra pak containers      
+        are eco-friendly,       
+
+223
+00:15:31,597 --> 00:15:34,032
+ and that's certainly something 
+          to celebrate          
+
+224
+00:15:34,034 --> 00:15:36,134
+   over a glass of fine wine.   
+
+225
+00:15:48,214 --> 00:15:50,748
+     narrator: there are two    
+    main types of harmonicas.   
+
+226
+00:15:50,750 --> 00:15:52,950
+      a diatonic harmonica      
+      has 10 mouth holes.       
+
+227
+00:15:52,952 --> 00:15:56,621
+  it plays a 7-note major scale 
+    in a single key of music.   
+
+228
+00:15:56,623 --> 00:15:59,357
+      a chromatic harmonica     
+       has up to 16 holes,      
+
+229
+00:15:59,359 --> 00:16:02,893
+ plus a special slide mechanism 
+     to produce extra notes     
+
+230
+00:16:02,895 --> 00:16:05,463
+   so it can play in any key.   
+
+231
+00:16:08,434 --> 00:16:11,235
+   [ harmonica plays melody ]   
+
+232
+00:16:14,975 --> 00:16:18,309
+as air goes through a harmonica,
+         so does saliva,        
+
+233
+00:16:18,311 --> 00:16:20,778
+     which is why they make     
+       the inner structure      
+
+234
+00:16:20,780 --> 00:16:23,514
+       from a type of wood      
+  that doesn't expand or smell  
+
+235
+00:16:23,516 --> 00:16:25,716
+     with repeated exposure     
+          to moisture.          
+
+236
+00:16:25,718 --> 00:16:28,652
+        making a standard       
+       chromatic harmonica      
+
+237
+00:16:28,654 --> 00:16:30,654
+ begins with a block of pearwood
+
+238
+00:16:30,656 --> 00:16:34,058
+            measuring           
+  about 5 1/2 by 1 1/4 inches.  
+
+239
+00:16:34,060 --> 00:16:35,626
+  they run it against a cutter  
+
+240
+00:16:35,628 --> 00:16:37,661
+        that carves a row       
+ of air chambers front and back.
+
+241
+00:16:37,663 --> 00:16:40,765
+   this produces the component  
+       known as the comb.       
+
+242
+00:16:40,767 --> 00:16:44,936
+     a press stamps slots in    
+ a millimeter-thick brass plate 
+
+243
+00:16:44,938 --> 00:16:46,404
+    that will hold the reeds.   
+
+244
+00:16:46,406 --> 00:16:49,607
+  the plate will eventually go  
+       on top of the comb,      
+
+245
+00:16:49,609 --> 00:16:52,877
+       its slots aligning       
+  with the comb's air chambers. 
+
+246
+00:16:52,879 --> 00:16:55,213
+   another machine cuts reeds   
+
+247
+00:16:55,215 --> 00:16:58,883
+from brass-based metal specially
+   formulated by this company   
+
+248
+00:16:58,885 --> 00:17:02,486
+    to produce quality sound    
+   and be corrosion-resistant.  
+
+249
+00:17:02,488 --> 00:17:04,755
+   working one size at a time,  
+
+250
+00:17:04,757 --> 00:17:07,959
+        they cut a batch        
+     of a few hundred reeds.    
+
+251
+00:17:07,961 --> 00:17:11,629
+they test a reed from each batch
+     with a tuning machine,     
+
+252
+00:17:11,631 --> 00:17:14,899
+    plucking it to see if it    
+   produces the correct pitch.  
+
+253
+00:17:14,901 --> 00:17:19,971
+ the size and profile of a reed 
+determines the note it produces.
+
+254
+00:17:19,973 --> 00:17:23,641
+   the longer it is, the lower  
+    the note, and vice versa.   
+
+255
+00:17:24,744 --> 00:17:27,979
+    now they rivet the reeds    
+      to the reed plate --      
+
+256
+00:17:27,981 --> 00:17:29,780
+     one reed for each note.    
+
+257
+00:17:29,782 --> 00:17:33,051
+      consecutive reeds go      
+ on opposite sides of the plate.
+
+258
+00:17:33,053 --> 00:17:34,718
+    with this configuration,    
+
+259
+00:17:34,720 --> 00:17:37,722
+   blowing into the harmonica   
+       vibrates one reed,       
+
+260
+00:17:37,724 --> 00:17:40,825
+      while drawing air out     
+       vibrates the other.      
+
+261
+00:17:42,996 --> 00:17:45,596
+     they flatten each rivet    
+    on one side of the plate.   
+
+262
+00:17:45,598 --> 00:17:48,065
+ this fastens the reed securely 
+         at the bottom,         
+
+263
+00:17:48,067 --> 00:17:50,067
+      leaving the rest free     
+           to vibrate.          
+
+264
+00:17:50,069 --> 00:17:52,937
+          if necessary,         
+     they file the reed down    
+
+265
+00:17:52,939 --> 00:17:56,274
+  so the slot doesn't obstruct  
+          its movement.         
+
+266
+00:17:58,278 --> 00:18:00,178
+           [ humming ]          
+
+267
+00:18:02,215 --> 00:18:04,749
+     now a tuning specialist    
+          gets to work.         
+
+268
+00:18:04,751 --> 00:18:08,553
+she plays each reed on the plate
+      and compares the tone     
+
+269
+00:18:08,555 --> 00:18:11,489
+    to a perfectly tuned set    
+    of reeds for reference.     
+
+270
+00:18:11,491 --> 00:18:15,826
+if the pitch is off, she adjusts
+    it with a bit of filing.    
+
+271
+00:18:15,828 --> 00:18:18,095
+    [ high-pitched humming ]    
+
+272
+00:18:18,097 --> 00:18:22,500
+ once the reed plate is in tune,
+   it goes on top of the comb,  
+
+273
+00:18:22,502 --> 00:18:25,670
+  the reeds and slots aligning  
+  with the comb's air chambers. 
+
+274
+00:18:28,574 --> 00:18:30,440
+    workers attach the parts    
+
+275
+00:18:30,442 --> 00:18:33,177
+        with steel nails        
+    that have a brass plating   
+
+276
+00:18:33,179 --> 00:18:34,912
+      to prevent corrosion.     
+
+277
+00:18:36,382 --> 00:18:38,315
+   now for the two-piece cover  
+
+278
+00:18:38,317 --> 00:18:40,384
+          that encloses         
+   these internal components.   
+
+279
+00:18:40,386 --> 00:18:43,454
+for standard models, the factory
+      uses stainless steel,     
+
+280
+00:18:43,456 --> 00:18:44,722
+      starting with a sheet     
+
+281
+00:18:44,724 --> 00:18:47,391
+        that's less than        
+   a half a millimeter thick.   
+
+282
+00:18:47,393 --> 00:18:51,929
+     fancier harmonicas have    
+ silver- or gold-plated covers. 
+
+283
+00:18:55,535 --> 00:18:58,736
+ the sheet goes through a press 
+   that has a series of dies.   
+
+284
+00:18:58,738 --> 00:19:02,072
+  they progressively stamp out  
+        the cover pieces,       
+
+285
+00:19:02,074 --> 00:19:04,008
+  first embossing the artwork,  
+
+286
+00:19:04,010 --> 00:19:07,044
+     then cutting the size,     
+     then forming the shape.    
+
+287
+00:19:10,950 --> 00:19:14,485
+    workers sandwich the comb   
+  between the two cover pieces, 
+
+288
+00:19:14,487 --> 00:19:17,955
+     then attach everything     
+ with either brass-plated nails 
+
+289
+00:19:17,957 --> 00:19:21,291
+   or brass- or nickel-plated   
+             screws.            
+
+290
+00:19:21,293 --> 00:19:24,828
+    chromatic harmonicas have   
+a mouthpiece over the blowholes.
+
+291
+00:19:24,830 --> 00:19:27,665
+        it's usually made       
+     of chrome-plated brass     
+
+292
+00:19:27,667 --> 00:19:30,101
+    that they curve slightly    
+           in a press.          
+
+293
+00:19:30,103 --> 00:19:34,104
+ the mouthpiece shields the lips
+ from a slide mechanism inside. 
+
+294
+00:19:34,106 --> 00:19:36,707
+         that mechanism         
+       has three parts --       
+
+295
+00:19:36,709 --> 00:19:40,511
+a slide with a button positioned
+     in between two plates.     
+
+296
+00:19:44,984 --> 00:19:49,320
+    they screw the mouthpiece   
+onto the front of the harmonica.
+
+297
+00:19:49,322 --> 00:19:51,989
+         when you press         
+     the mouthpiece button,     
+
+298
+00:19:51,991 --> 00:19:55,993
+      it redirects the air,     
+ raising the notes half a tone. 
+
+299
+00:19:55,995 --> 00:19:59,330
+ no harmonica leaves the factory
+      without a sound test.     
+
+300
+00:19:59,332 --> 00:20:01,999
+        rather than blow        
+     into every instrument,     
+
+301
+00:20:02,001 --> 00:20:04,401
+     the testing department     
+         uses a machine         
+
+302
+00:20:04,403 --> 00:20:06,070
+   that blows air in and out.   
+
+303
+00:20:06,072 --> 00:20:08,940
+     [ harmonicas playing ]     
+
+304
+00:20:20,486 --> 00:20:23,621
+            last stop           
+   is the cleaning department.  
+
+305
+00:20:23,623 --> 00:20:26,490
+     there, workers inspect     
+         for scratches,         
+
+306
+00:20:26,492 --> 00:20:28,359
+     then polish and package    
+
+307
+00:20:28,361 --> 00:20:32,897
+so that each and every harmonica
+will look as good as it sounds. 
+
+308
+00:20:32,899 --> 00:20:35,166
+   [ harmonica plays melody ]   
+
+309
+00:20:35,168 --> 00:20:38,102
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+310
+00:20:38,104 --> 00:20:41,105
+      captions paid for by      
+    discovery communications    
+
+311
+00:20:48,580 --> 00:20:50,915
+    if you have any comments    
+         about the show,        
+
+312
+00:20:50,917 --> 00:20:53,851
+   or if you'd like to suggest  
+    topics for future shows,    
+
+313
+00:20:53,853 --> 00:20:56,020
+      drop us a line at...      
+

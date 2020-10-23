@@ -1,0 +1,1609 @@
+﻿1
+00:00:01,735 --> 00:00:04,670
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,672 --> 00:00:07,740
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:53,988 --> 00:00:56,055
+  narrator: headlights aren't   
+       just functional.         
+
+4
+00:00:56,057 --> 00:00:57,789
+         they're often          
+   the first design feature     
+
+5
+00:00:57,791 --> 00:01:01,126
+      that catches the eye      
+     of a potential buyer.      
+
+6
+00:01:01,128 --> 00:01:03,929
+        unlike the metal        
+    and glass versions of the   
+             past,              
+
+7
+00:01:03,931 --> 00:01:06,332
+       today's headlights       
+ are made of durable plastics   
+
+8
+00:01:06,334 --> 00:01:10,036
+ that can be creatively molded  
+  into a multitude of shapes.   
+
+9
+00:01:15,542 --> 00:01:18,677
+ in addition to the main beam,  
+   this pickup truck headlight  
+              has               
+
+10
+00:01:18,679 --> 00:01:22,214
+    an integrated amber turn    
+             signal             
+  and daytime running light.    
+
+11
+00:01:28,155 --> 00:01:30,088
+    most of the headlight's     
+          components            
+
+12
+00:01:30,090 --> 00:01:32,958
+            are made            
+ of injection-molded plastic.   
+
+13
+00:01:32,960 --> 00:01:36,562
+   the machine melts plastic    
+ pellets into a gooey liquid,   
+
+14
+00:01:36,564 --> 00:01:40,099
+   then shoots it into a mold   
+    for the specific part.      
+
+15
+00:01:40,101 --> 00:01:43,436
+ the headlight lenses are made  
+    of clear polycarbonate,     
+
+16
+00:01:43,438 --> 00:01:44,770
+       a strong plastic         
+
+17
+00:01:44,772 --> 00:01:48,641
+        that's resistant        
+   to extreme heat and cold.    
+
+18
+00:01:48,643 --> 00:01:51,711
+      the molding process       
+     stresses the plastic.      
+
+19
+00:01:51,713 --> 00:01:53,179
+    to relieve that stress,     
+
+20
+00:01:53,181 --> 00:01:55,381
+       they put the lens        
+    into an annealing oven      
+
+21
+00:01:55,383 --> 00:01:57,783
+        for 20 minutes.         
+
+22
+00:01:57,785 --> 00:01:59,185
+   when the lens comes out,     
+
+23
+00:01:59,187 --> 00:02:02,054
+       they wipe it down        
+   with an anti-static cloth    
+
+24
+00:02:02,056 --> 00:02:05,857
+    and inspect the surface     
+         meticulously.          
+
+25
+00:02:05,859 --> 00:02:09,261
+ next, a robot sprays the lens  
+  with a protective coating.    
+
+26
+00:02:09,263 --> 00:02:11,097
+ this will prevent scratches,   
+
+27
+00:02:11,099 --> 00:02:14,867
+    chips, or yellowing from    
+ exposure to ultraviolet rays.  
+
+28
+00:02:18,205 --> 00:02:21,307
+   they run the lens through    
+   a tunnel oven to cure it.    
+
+29
+00:02:26,280 --> 00:02:30,282
+      this component is the     
+            reflector           
+for the headlight's main beam.  
+
+30
+00:02:30,284 --> 00:02:34,754
+          it's made of          
+      fiberglass-reinforced     
+           polyester.           
+
+31
+00:02:34,756 --> 00:02:37,623
+         they sand away         
+     any excess material,       
+
+32
+00:02:37,625 --> 00:02:40,026
+    then hand wash the part     
+      with soap and water       
+
+33
+00:02:40,028 --> 00:02:43,396
+     to remove any polyester    
+             residue            
+     left by the sanding.       
+
+34
+00:02:48,703 --> 00:02:50,636
+  then, they put the reflector  
+        into a machine          
+
+35
+00:02:50,638 --> 00:02:54,172
+   similar to a dishwasher.     
+
+36
+00:02:54,174 --> 00:02:58,577
+         a robot sprays         
+     on a coat of primer.       
+
+37
+00:02:58,579 --> 00:02:59,911
+       it goes on clear,        
+
+38
+00:02:59,913 --> 00:03:02,748
+        but turns yellow        
+  after it cures in an oven.    
+
+39
+00:03:07,321 --> 00:03:11,257
+   now comes the process that   
+              makes             
+   the reflector reflective.    
+
+40
+00:03:14,061 --> 00:03:16,395
+inside an aluminizing chamber,  
+
+41
+00:03:16,397 --> 00:03:18,196
+      a fixture rotates the     
+           reflector            
+
+42
+00:03:18,198 --> 00:03:21,867
+    on its own axis as well     
+  as around copper electrodes   
+
+43
+00:03:21,869 --> 00:03:23,602
+ at the center of the machine.  
+
+44
+00:03:26,474 --> 00:03:28,874
+      an electrical charge      
+   to the copper electrodes     
+
+45
+00:03:28,876 --> 00:03:32,010
+        generates heat,         
+   which vaporizes an aluminum  
+              wire              
+
+46
+00:03:32,012 --> 00:03:34,847
+ that's wrapped around a spiral 
+      tungsten filament.        
+
+47
+00:03:37,184 --> 00:03:38,884
+  the aluminum becomes a mist   
+
+48
+00:03:38,886 --> 00:03:42,421
+  that deposits evenly across   
+ the surface of the reflector.  
+
+49
+00:03:49,296 --> 00:03:51,430
+      now they assemble the     
+           headlight,           
+
+50
+00:03:51,432 --> 00:03:52,831
+  beginning with the housing.   
+
+51
+00:03:52,833 --> 00:03:55,735
+  it's made of injected-molded  
+        polypropylene.          
+
+52
+00:03:57,905 --> 00:04:01,106
+ after installing the reflector 
+for the daytime running light,  
+
+53
+00:04:01,108 --> 00:04:03,509
+   they attach the main beam    
+          reflector.            
+
+54
+00:04:03,511 --> 00:04:05,578
+      they include pivots       
+     and adjusting screws       
+
+55
+00:04:05,580 --> 00:04:08,280
+     so that the beam level     
+      can be customized.        
+
+56
+00:04:11,652 --> 00:04:14,252
+  they screw in the reflector   
+     for the turn signal.       
+
+57
+00:04:14,254 --> 00:04:16,655
+     it's made of aluminized    
+            plastic.            
+
+58
+00:04:19,660 --> 00:04:23,329
+     then, a robot applies a    
+             sealant            
+  which prevents water, dust,   
+
+59
+00:04:23,331 --> 00:04:25,831
+          and insects           
+ from penetrating the housing.  
+
+60
+00:04:28,602 --> 00:04:31,804
+    they place the assembly     
+  in a lens binding machine.    
+
+61
+00:04:34,608 --> 00:04:36,875
+             then,              
+    they insert the main beam   
+             lens,              
+
+62
+00:04:36,877 --> 00:04:38,144
+ which has already been joined  
+
+63
+00:04:38,146 --> 00:04:42,414
+       to the turn signal       
+  and daytime running lights.   
+
+64
+00:04:42,416 --> 00:04:45,284
+            the top             
+     of the binding machine     
+           descends,            
+
+65
+00:04:45,286 --> 00:04:48,554
+   securing these assemblies    
+  to each other with screws.    
+
+66
+00:04:51,758 --> 00:04:53,892
+             next,              
+ they screw in a halogen bulb   
+
+67
+00:04:53,894 --> 00:04:56,362
+ for the main beam reflector.   
+
+68
+00:04:56,364 --> 00:05:02,368
+   the bulb has two filaments   
+   for a high and low beam.     
+
+69
+00:05:02,370 --> 00:05:04,836
+  then, they add halogen bulbs  
+      for the turn signal       
+
+70
+00:05:04,838 --> 00:05:08,174
+  and daytime running lights.   
+
+71
+00:05:08,176 --> 00:05:11,977
+   the last step is to level    
+   the main beam reflector.     
+
+72
+00:05:11,979 --> 00:05:14,914
+   this leveling machine tells  
+              them              
+    which adjustable screws     
+
+73
+00:05:14,916 --> 00:05:19,451
+ to turn to tilt the reflector  
+  into the correct position.    
+
+74
+00:05:19,453 --> 00:05:22,121
+   this is the manufacturer's   
+       default setting.         
+
+75
+00:05:22,123 --> 00:05:25,057
+  auto makers can change this   
+      before installing the     
+           headlights           
+
+76
+00:05:25,059 --> 00:05:26,492
+      in their vehicles.        
+
+77
+00:05:30,264 --> 00:05:34,400
+ this model hooks up to wiring  
+ coming from the pickup truck.  
+
+78
+00:05:34,402 --> 00:05:36,068
+        some headlights         
+     have built-in wiring       
+
+79
+00:05:36,070 --> 00:05:37,937
+ that connects to the vehicle.  
+
+80
+00:05:40,141 --> 00:05:44,076
+  it's easy to change a burnt   
+   out bulb in both designs.    
+
+81
+00:05:44,078 --> 00:05:45,878
+    you simply lift the hood    
+        of the vehicle          
+
+82
+00:05:45,880 --> 00:05:49,648
+   to access the bulb from the  
+              rear              
+   of the headlight housing.    
+
+83
+00:06:03,831 --> 00:06:07,099
+   narrator: when work crews    
+ need to lay pipes or cables,   
+
+84
+00:06:07,101 --> 00:06:08,701
+ they use a directional drill   
+
+85
+00:06:08,703 --> 00:06:11,503
+   to bore a horizontal hole    
+         underground.           
+
+86
+00:06:11,505 --> 00:06:13,772
+      it enters the ground      
+         at an angle,           
+
+87
+00:06:13,774 --> 00:06:15,840
+ drills underneath the surface  
+         horizontally,          
+
+88
+00:06:15,842 --> 00:06:18,577
+     then exits at an angle     
+       on the other end.        
+
+89
+00:06:22,583 --> 00:06:27,052
+ a directional drill enters the 
+ ground at an 18 degree angle.  
+
+90
+00:06:27,054 --> 00:06:30,422
+  once it reaches the desired   
+depth, it drills horizontally.  
+
+91
+00:06:30,424 --> 00:06:34,326
+     the machine can attach     
+  several onboard drill rods    
+
+92
+00:06:34,328 --> 00:06:37,663
+     for increased drilling     
+           distance.            
+
+93
+00:06:37,665 --> 00:06:40,432
+  most of the machine's parts   
+      are made of steel,        
+
+94
+00:06:40,434 --> 00:06:43,769
+   cut to the required shape    
+  by a computer-guided laser.   
+
+95
+00:06:49,009 --> 00:06:52,311
+   workers use a press brake    
+    to bend certain parts.      
+
+96
+00:06:54,982 --> 00:06:57,416
+          this is part          
+ of the drill's undercarriage,  
+
+97
+00:06:57,418 --> 00:07:00,185
+           the frame            
+on which everything else sits.  
+
+98
+00:07:03,023 --> 00:07:04,623
+  after they bend this part,    
+
+99
+00:07:04,625 --> 00:07:07,526
+  they weld it to other parts   
+  to build the engine mount.    
+
+100
+00:07:16,036 --> 00:07:20,372
+ they weld the engine mount to  
+the rest of the undercarriage.  
+
+101
+00:07:20,374 --> 00:07:22,374
+     once the undercarriage     
+         is complete,           
+
+102
+00:07:22,376 --> 00:07:24,109
+      they clean the steel      
+        with a chemical         
+
+103
+00:07:24,111 --> 00:07:27,045
+    to maximize the adhesion    
+of the industrial-grade primer  
+
+104
+00:07:27,047 --> 00:07:28,714
+          and paint.            
+
+105
+00:07:31,719 --> 00:07:33,185
+     once the paint dries,      
+
+106
+00:07:33,187 --> 00:07:36,655
+  they install a rubber track   
+         on each side.          
+
+107
+00:07:36,657 --> 00:07:38,123
+     tires leave ruts in the    
+            ground,             
+
+108
+00:07:38,125 --> 00:07:40,325
+    so tracks work better.      
+
+109
+00:07:40,327 --> 00:07:44,262
+ the track loops around a rail  
+   and sprocket at the back.    
+
+110
+00:07:44,264 --> 00:07:48,133
+ workers mount the sprocket on  
+a hydraulically-powered motor,  
+
+111
+00:07:48,135 --> 00:07:50,936
+ then align the sprocket teeth  
+        with the track.         
+
+112
+00:07:50,938 --> 00:07:52,338
+     when the motor runs,       
+
+113
+00:07:52,340 --> 00:07:56,808
+     the sprocket rotates,      
+      driving the track.        
+
+114
+00:07:56,810 --> 00:07:58,410
+    they apply thread-locking   
+             fluid              
+
+115
+00:07:58,412 --> 00:08:01,346
+    to the bolts that secure    
+  the sprocket to the motor.    
+
+116
+00:08:01,348 --> 00:08:04,183
+   this ensures the sprocket    
+         won't loosen.          
+
+117
+00:08:07,687 --> 00:08:09,955
+       then, they install       
+   a track tensioning spring    
+
+118
+00:08:09,957 --> 00:08:12,191
+         and tighten it         
+   with a pneumatic wrench.     
+
+119
+00:08:14,695 --> 00:08:17,896
+    next, the steel hydraulic   
+             tank.              
+
+120
+00:08:17,898 --> 00:08:19,164
+  it holds the hydraulic oil    
+
+121
+00:08:19,166 --> 00:08:24,703
+      for the machine's 23      
+different hydraulic functions.  
+
+122
+00:08:24,705 --> 00:08:26,304
+      now the water pump.       
+
+123
+00:08:26,306 --> 00:08:28,240
+  it lubricates the drill rod   
+
+124
+00:08:28,242 --> 00:08:30,642
+       with water to help       
+  it move through the ground.   
+
+125
+00:08:30,644 --> 00:08:34,079
+   it also cleans the machine   
+   after each drilling job.     
+
+126
+00:08:36,383 --> 00:08:37,983
+     they install the pivot     
+           mechanism            
+
+127
+00:08:37,985 --> 00:08:40,619
+     that opens and closes      
+       the engine hood.         
+
+128
+00:08:44,391 --> 00:08:45,990
+ now that the hydraulic tank,   
+
+129
+00:08:45,992 --> 00:08:48,127
+          water pump,           
+ and hood pivot are in place,   
+
+130
+00:08:48,129 --> 00:08:52,865
+     they begin installing      
+ the machine's diesel engine.   
+
+131
+00:08:52,867 --> 00:08:56,402
+          it's similar          
+     to a tractor engine.       
+
+132
+00:08:56,404 --> 00:08:59,204
+    they connect its wiring     
+    to the operator console     
+
+133
+00:08:59,206 --> 00:09:03,542
+  and several other components  
+        on the machine.         
+
+134
+00:09:03,544 --> 00:09:06,678
+      the operator console      
+ consists of the driver seat,   
+
+135
+00:09:06,680 --> 00:09:10,682
+     dashboard lcd display,     
+    and joystick controls.      
+
+136
+00:09:13,754 --> 00:09:16,555
+   next, they join the rack     
+
+137
+00:09:16,557 --> 00:09:19,892
+  containing all the drilling   
+        components to the       
+         undercarriage.         
+
+138
+00:09:23,697 --> 00:09:26,098
+          they install          
+     two plastic tanks --       
+
+139
+00:09:26,100 --> 00:09:28,767
+   white for water, black for   
+             fuel.              
+
+140
+00:09:32,572 --> 00:09:35,040
+   then, the onboard computer   
+     that runs the engine       
+
+141
+00:09:35,042 --> 00:09:37,843
+   and drilling components.     
+
+142
+00:09:37,845 --> 00:09:41,647
+    they also install control   
+             valves             
+   for the hydraulic lines.     
+
+143
+00:09:46,386 --> 00:09:47,786
+    they mount the rod box,     
+
+144
+00:09:47,788 --> 00:09:49,588
+  which holds 40 drill rods,    
+
+145
+00:09:49,590 --> 00:09:51,590
+    each measuring 2 inches     
+          in diameter           
+
+146
+00:09:51,592 --> 00:09:54,993
+     by 10 feet in length.      
+
+147
+00:09:54,995 --> 00:09:58,363
+       larger models have       
+ longer and wider drill rods.   
+
+148
+00:10:01,134 --> 00:10:04,136
+  they connect the ventilated   
+plastic hood to the hood pivot  
+
+149
+00:10:04,138 --> 00:10:05,604
+    they installed earlier.     
+
+150
+00:10:08,742 --> 00:10:12,610
+      they close the hood       
+       over the engine,         
+
+151
+00:10:12,612 --> 00:10:17,082
+        then apply make         
+   and model number decals.     
+
+152
+00:10:17,084 --> 00:10:19,751
+   this directional drilling    
+  machine is now fully built    
+
+153
+00:10:19,753 --> 00:10:22,821
+    and ready for testing.      
+
+154
+00:10:22,823 --> 00:10:25,157
+     as the rack tilts down     
+         at the front,          
+
+155
+00:10:25,159 --> 00:10:29,160
+      hydraulically-powered     
+            outrigger           
+   feet at the back descend,    
+
+156
+00:10:29,162 --> 00:10:32,297
+      raising the machine       
+   into the drill position.     
+
+157
+00:10:32,299 --> 00:10:36,635
+   giant augurs at the front    
+     keep the machine on the    
+            ground.             
+
+158
+00:10:36,637 --> 00:10:40,238
+       the rack's gearbox       
+    is powered by a hydraulic   
+             motor.             
+
+159
+00:10:40,240 --> 00:10:41,773
+   it rotates the drill rod     
+
+160
+00:10:41,775 --> 00:10:44,376
+  while the carriage moves the  
+               rod              
+      through the ground.       
+
+161
+00:10:46,780 --> 00:10:49,514
+      when the job's done,      
+   the carriage moves back,     
+
+162
+00:10:49,516 --> 00:10:51,016
+      retracting the rod.       
+
+163
+00:10:53,320 --> 00:10:55,453
+       with all its rods        
+       joined together,         
+
+164
+00:10:55,455 --> 00:10:59,057
+       this small machine       
+  can drill almost 400 feet.    
+
+165
+00:11:13,874 --> 00:11:15,473
+ narrator: pet grooming combs   
+
+166
+00:11:15,475 --> 00:11:19,344
+   are specifically designed    
+        for animal fur.         
+
+167
+00:11:19,346 --> 00:11:20,679
+they can get down to the roots  
+
+168
+00:11:20,681 --> 00:11:25,017
+      to detangle, loosen,      
+     and remove dead hair.      
+
+169
+00:11:25,019 --> 00:11:26,151
+     a good grooming comb       
+
+170
+00:11:26,153 --> 00:11:28,554
+          is essential          
+   to the primping process.     
+
+171
+00:11:34,027 --> 00:11:36,895
+  it's believed that the pets   
+of british and french nobility  
+
+172
+00:11:36,897 --> 00:11:40,299
+ were the first to be regularly 
+    groomed centuries ago.      
+
+173
+00:11:43,504 --> 00:11:46,738
+      today, a lot of pets      
+ receive the royal treatment.   
+
+174
+00:11:50,043 --> 00:11:51,509
+       at this factory,         
+
+175
+00:11:51,511 --> 00:11:55,647
+  pet combs start with bundles  
+      of long brass bars.       
+
+176
+00:11:55,649 --> 00:11:59,851
+  a computer-guided saw slices  
+   them into 6-inch pieces.     
+
+177
+00:12:04,592 --> 00:12:07,859
+ each piece will be transformed 
+       into a comb body.        
+
+178
+00:12:19,540 --> 00:12:23,275
+    an employee inserts six     
+   of the brass pieces into a   
+              vice              
+
+179
+00:12:23,277 --> 00:12:25,177
+   and tightens the clamps.     
+
+180
+00:12:28,148 --> 00:12:29,614
+     a computerized drill       
+
+181
+00:12:29,616 --> 00:12:33,151
+  carves dimples into the ends  
+    of each of the blanks.      
+
+182
+00:12:33,153 --> 00:12:36,354
+  this is called a predrill.    
+
+183
+00:12:36,356 --> 00:12:39,758
+       the drill returns        
+        to each dimple,         
+
+184
+00:12:39,760 --> 00:12:42,761
+ producing precisely-cut holes  
+     to join the comb body      
+
+185
+00:12:42,763 --> 00:12:44,429
+         to a handle.           
+
+186
+00:12:47,834 --> 00:12:51,570
+   next, a computerized drill   
+ bores into the brass pieces,   
+
+187
+00:12:51,572 --> 00:12:54,506
+      creating small holes      
+     for the comb's teeth.      
+
+188
+00:12:58,445 --> 00:12:59,844
+    the spacing of the holes    
+             varies             
+
+189
+00:12:59,846 --> 00:13:02,981
+     depending on the type      
+      of comb being made.       
+
+190
+00:13:02,983 --> 00:13:07,719
+    combs with tightly-spaced   
+              teeth             
+    are used for finer fur.     
+
+191
+00:13:07,721 --> 00:13:10,656
+    the combs are now ready     
+          for teeth.            
+
+192
+00:13:10,658 --> 00:13:15,126
+      an employee inserts       
+     three comb bodies in a     
+            fixture,            
+
+193
+00:13:15,128 --> 00:13:17,996
+      then grabs a handful      
+         of steel pins          
+
+194
+00:13:17,998 --> 00:13:21,733
+ and pops them into the holes,  
+          one by one.           
+
+195
+00:13:21,735 --> 00:13:26,471
+    these steel teeth aren't    
+             sharp.             
+
+196
+00:13:26,473 --> 00:13:28,473
+      they've been blunted      
+  to avoid hurting the animal   
+
+197
+00:13:28,475 --> 00:13:30,208
+        during combing.         
+
+198
+00:13:33,013 --> 00:13:35,013
+    she gently taps the steel   
+             teeth              
+
+199
+00:13:35,015 --> 00:13:38,216
+     with a hammer to force     
+ them further into the holes.   
+
+200
+00:13:41,021 --> 00:13:43,221
+        she brushes off         
+     any residual shavings      
+
+201
+00:13:43,223 --> 00:13:44,756
+  from the earlier drilling.    
+
+202
+00:13:48,095 --> 00:13:51,429
+   then, she places the combs   
+      on a demagnetizer.        
+
+203
+00:13:51,431 --> 00:13:54,499
+ it erases any magnetic fields  
+      in the steel teeth        
+
+204
+00:13:54,501 --> 00:13:56,768
+     that could compromise      
+   the chrome plating finish    
+
+205
+00:13:56,770 --> 00:13:58,537
+    they will soon receive.     
+
+206
+00:14:05,912 --> 00:14:09,414
+  next, a punch sets the steel  
+teeth in their final position.  
+
+207
+00:14:15,055 --> 00:14:16,655
+      at another station,       
+
+208
+00:14:16,657 --> 00:14:19,858
+     a device cuts extruded     
+            aluminum            
+     into shorter pieces.       
+
+209
+00:14:22,195 --> 00:14:27,532
+    these pieces of aluminum    
+ will be the pet comb handles.  
+
+210
+00:14:27,534 --> 00:14:30,802
+     their contoured shape      
+is designed for easy gripping.  
+
+211
+00:14:36,075 --> 00:14:39,010
+      a worker clamps one       
+ of the handles in a fixture.   
+
+212
+00:14:39,012 --> 00:14:44,081
+  it holds the handle steady as 
+               he               
+   drills rivet holes in both   
+             ends.              
+
+213
+00:14:44,083 --> 00:14:46,218
+        the fixture also        
+    helps locate the holes      
+
+214
+00:14:46,220 --> 00:14:48,820
+     through lined channels     
+       called bushings.         
+
+215
+00:14:51,225 --> 00:14:52,824
+          by drilling           
+     through the bushings,      
+
+216
+00:14:52,826 --> 00:14:55,961
+   he produces accurate rivet   
+              holes             
+          every time.           
+
+217
+00:14:58,031 --> 00:15:00,231
+        in the meantime,        
+       the comb assembly        
+
+218
+00:15:00,233 --> 00:15:02,300
+        has been plated         
+ with a rust-resistant nickel   
+
+219
+00:15:02,302 --> 00:15:05,103
+      and chrome finish.        
+
+220
+00:15:05,105 --> 00:15:07,973
+    it's ready to be joined     
+        to the handle.          
+
+221
+00:15:07,975 --> 00:15:10,374
+  an employee aligns the holes  
+          in the comb           
+
+222
+00:15:10,376 --> 00:15:11,710
+ with the holes in the handle,  
+
+223
+00:15:11,712 --> 00:15:13,912
+ and places them in a riveter.  
+
+224
+00:15:16,249 --> 00:15:18,516
+  the tool flattens the rivets  
+      against the handle        
+
+225
+00:15:18,518 --> 00:15:20,218
+        on both sides.          
+
+226
+00:15:24,057 --> 00:15:26,390
+    then, she dabs adhesive     
+     around the open ends       
+
+227
+00:15:26,392 --> 00:15:32,063
+         of the handle          
+   and inserts plastic caps.    
+
+228
+00:15:39,272 --> 00:15:41,806
+  she hammers the caps down.    
+
+229
+00:15:41,808 --> 00:15:44,910
+     the glue sets quickly,     
+    creating a strong seal.     
+
+230
+00:15:51,284 --> 00:15:53,285
+   after about a half hour of   
+             work,              
+
+231
+00:15:53,287 --> 00:15:56,354
+     this pet grooming comb     
+       is now complete.         
+
+232
+00:15:56,356 --> 00:15:59,024
+it should last for many years.  
+
+233
+00:15:59,026 --> 00:16:01,893
+     there will, no doubt,      
+    be many tangles ahead,      
+
+234
+00:16:01,895 --> 00:16:03,828
+         but this comb          
+    will pull through them.     
+
+235
+00:16:03,830 --> 00:16:08,066
+   and, in the end, fido will   
+              look              
+ and feel a whole lot better.   
+
+236
+00:16:22,583 --> 00:16:28,052
+           narrator:            
+    stained glass windows add   
+             beauty             
+     and light to places of     
+
+237
+00:16:28,054 --> 00:16:30,721
+      over time, exposure       
+ to the elements and pollution  
+
+238
+00:16:30,723 --> 00:16:32,723
+      can cause the glass,      
+       metal framework,         
+
+239
+00:16:32,725 --> 00:16:34,926
+  and glazing to deteriorate.   
+
+240
+00:16:34,928 --> 00:16:38,796
+     restoration ensures the    
+            survival            
+ of these sacred works of art   
+
+241
+00:16:38,798 --> 00:16:40,632
+    for future generations.     
+
+242
+00:16:44,404 --> 00:16:47,205
+  they are incredible picture   
+           windows.             
+
+243
+00:16:47,207 --> 00:16:50,342
+    each stained glass panel    
+  depicts a religious scene.    
+
+244
+00:16:54,681 --> 00:16:56,147
+   but it is a fragile art,     
+
+245
+00:16:56,149 --> 00:17:01,753
+ and often, only a restoration  
+   can ensure its survival.     
+
+246
+00:17:01,755 --> 00:17:04,822
+   it starts with a thorough    
+          evaluation.           
+
+247
+00:17:04,824 --> 00:17:07,292
+          an assessor           
+    photographs the window.     
+
+248
+00:17:07,294 --> 00:17:10,428
+    she examines every part     
+ as well as measures the panes  
+
+249
+00:17:10,430 --> 00:17:14,498
+   and connecting lead strips   
+        known as cames.         
+
+250
+00:17:14,500 --> 00:17:16,768
+     she numbers the parts      
+     and loads information      
+
+251
+00:17:16,770 --> 00:17:19,237
+     about their condition      
+       into a computer.         
+
+252
+00:17:19,239 --> 00:17:21,373
+ these cames are in bad shape,  
+
+253
+00:17:21,375 --> 00:17:23,708
+       so they'll need to       
+   completely disassemble the   
+             panel              
+
+254
+00:17:23,710 --> 00:17:25,710
+        and rebuild it.         
+
+255
+00:17:25,712 --> 00:17:27,646
+  first, they make a rubbing.   
+
+256
+00:17:27,648 --> 00:17:29,180
+     a member of the team       
+
+257
+00:17:29,182 --> 00:17:32,917
+ places a large sheet of paper  
+ over the back of the window.   
+
+258
+00:17:32,919 --> 00:17:35,987
+      he rubs a wax crayon      
+  over the raised led strips    
+
+259
+00:17:35,989 --> 00:17:37,321
+    to transfer the pattern     
+
+260
+00:17:37,323 --> 00:17:40,659
+         of the panes.          
+
+261
+00:17:40,661 --> 00:17:43,327
+  after testing the condition   
+  of the paint on the panes,    
+
+262
+00:17:43,329 --> 00:17:46,598
+   he submerges the glass in    
+      a non-acidic cleaning     
+           solution,            
+
+263
+00:17:46,600 --> 00:17:48,933
+   and leaves it overnight.     
+
+264
+00:17:48,935 --> 00:17:52,670
+    this softens the glazing    
+             cement             
+    between the lead strips     
+
+265
+00:17:52,672 --> 00:17:56,141
+         so the window          
+  can be easily disassembled.   
+
+266
+00:17:56,143 --> 00:18:00,144
+ he clips off the lead strips.  
+
+267
+00:18:00,146 --> 00:18:02,546
+     he extracts the glass      
+  and cleans off the glazing    
+
+268
+00:18:02,548 --> 00:18:06,084
+ using a straight-edged razor.  
+
+269
+00:18:06,086 --> 00:18:09,554
+  he gently scrubs off residue  
+  with a soft-bristle brush,    
+
+270
+00:18:09,556 --> 00:18:13,425
+  and wipes the glass clean.    
+
+271
+00:18:13,427 --> 00:18:17,896
+  he pieces together the glass  
+     panes within the paper     
+            pattern.            
+
+272
+00:18:17,898 --> 00:18:19,897
+       most of the panes        
+     are in good condition      
+
+273
+00:18:19,899 --> 00:18:21,966
+     and can be preserved.      
+
+274
+00:18:21,968 --> 00:18:23,435
+     but one is fractured       
+
+275
+00:18:23,437 --> 00:18:26,571
+       and held together        
+    with special conservation   
+             tape.              
+
+276
+00:18:26,573 --> 00:18:29,040
+  they'll need to replace it.   
+
+277
+00:18:29,042 --> 00:18:31,843
+     a craftsperson traces      
+   the outline of the cracked   
+             piece              
+
+278
+00:18:31,845 --> 00:18:34,179
+  onto a new piece of glass.    
+
+279
+00:18:36,116 --> 00:18:41,185
+    she scores the new glass,   
+             giving             
+  the outline a wide margin.    
+
+280
+00:18:41,187 --> 00:18:44,122
+      she snaps the glass       
+     along the score line,      
+
+281
+00:18:44,124 --> 00:18:48,994
+      then cuts the glass       
+   along the tracing lines.     
+
+282
+00:18:48,996 --> 00:18:51,128
+    she compares the pieces     
+          to confirm            
+
+283
+00:18:51,130 --> 00:18:53,798
+they have the same silhouette.  
+
+284
+00:18:53,800 --> 00:18:56,668
+     she copies the designs     
+       onto the new pane        
+
+285
+00:18:56,670 --> 00:18:58,870
+    and mixes a matte paint     
+     that matches the one       
+
+286
+00:18:58,872 --> 00:19:01,406
+      on the broken pane.       
+
+287
+00:19:01,408 --> 00:19:03,875
+  she then shades the designs   
+        on the new pane         
+
+288
+00:19:03,877 --> 00:19:05,877
+     with the matte paint.      
+
+289
+00:19:05,879 --> 00:19:08,146
+    she dabs it with a brush    
+        to create fine,         
+
+290
+00:19:08,148 --> 00:19:10,415
+      crisscrossed lines.       
+
+291
+00:19:10,417 --> 00:19:12,083
+ then, she switches to a brush  
+
+292
+00:19:12,085 --> 00:19:14,285
+    with shorter and stiffer    
+           bristles.            
+
+293
+00:19:14,287 --> 00:19:16,887
+ she removes some of the paint, 
+     following the designs      
+
+294
+00:19:16,889 --> 00:19:18,089
+         on the pane.           
+
+295
+00:19:18,091 --> 00:19:21,292
+   this creates highlights.     
+
+296
+00:19:21,294 --> 00:19:23,895
+      she fires the glass       
+        in a hot kiln,          
+
+297
+00:19:23,897 --> 00:19:26,497
+       and then lowers the      
+           temperature          
+         to anneal it.          
+
+298
+00:19:26,499 --> 00:19:30,435
+          this process          
+     reduces brittleness.       
+
+299
+00:19:30,437 --> 00:19:34,772
+ switch compares the replicated 
+    pane to the broken one.     
+
+300
+00:19:34,774 --> 00:19:39,044
+    she joins all the stained   
+              glass             
+  panes using new lead cames.   
+
+301
+00:19:42,982 --> 00:19:45,650
+   she taps the panes gently    
+     with a rubber mallet       
+
+302
+00:19:45,652 --> 00:19:50,254
+       to fit them snugly       
+into the grooves of the cames.  
+
+303
+00:19:50,256 --> 00:19:53,591
+   this lead matrix will both   
+              unify             
+      the numerous panes        
+
+304
+00:19:53,593 --> 00:19:57,062
+   and create visual interest   
+      with bold strokes.        
+
+305
+00:20:01,734 --> 00:20:03,601
+             using              
+  an electric soldering iron,   
+
+306
+00:20:03,603 --> 00:20:05,670
+ she melts tin and lead solder  
+
+307
+00:20:05,672 --> 00:20:10,208
+    where the channeled lead    
+             strips             
+          intersect.            
+
+308
+00:20:10,210 --> 00:20:16,013
+  these solder joints hold the  
+     window's lead skeleton     
+           together.            
+
+309
+00:20:16,015 --> 00:20:18,282
+      another team member       
+    applies glazing cement      
+
+310
+00:20:18,284 --> 00:20:22,620
+   across the front and back    
+  of the stained glass panel.   
+
+311
+00:20:22,622 --> 00:20:24,622
+           the cement           
+    provides waterproofing      
+
+312
+00:20:24,624 --> 00:20:26,257
+      and added strength.       
+
+313
+00:20:29,429 --> 00:20:32,897
+ he sprinkles calcium carbonate 
+     onto the wet cement.       
+
+314
+00:20:32,899 --> 00:20:35,166
+    it's known as whiting.      
+
+315
+00:20:35,168 --> 00:20:38,503
+   the whiting soaks up excess  
+               oil              
+         in the glaze.          
+
+316
+00:20:38,505 --> 00:20:43,708
+    as he brushes it off, it    
+cleans and polishes the panel.  
+
+317
+00:20:43,710 --> 00:20:45,844
+      he trims the cement       
+    around the lead strips      
+
+318
+00:20:45,846 --> 00:20:48,780
+  to give them a clean edge.    
+
+319
+00:20:48,782 --> 00:20:51,683
+     finally, he vacuums up     
+     the glazing residue.       
+
+320
+00:20:53,987 --> 00:20:56,254
+with the restoration complete,  
+
+321
+00:20:56,256 --> 00:21:00,525
+   he props the stained glass   
+              panel             
+     against a backlight.       
+
+322
+00:21:00,527 --> 00:21:03,328
+       it shines like new       
+       when illuminated.        
+
+323
+00:21:06,132 --> 00:21:07,398
+    it's taken about a week     
+
+324
+00:21:07,400 --> 00:21:10,802
+           to restore           
+  this stained glass window.    
+
+325
+00:21:10,804 --> 00:21:12,203
+it should last another century  
+
+326
+00:21:12,205 --> 00:21:14,739
+   or more, providing plenty    
+       of opportunities         
+
+327
+00:21:14,741 --> 00:21:16,674
+   for spiritual reflection.    
+
+328
+00:21:27,286 --> 00:21:30,822
+    if you have any comments    
+        about the show,         
+
+329
+00:21:30,824 --> 00:21:33,157
+  or if you'd like to suggest   
+   topics for future shows,     
+
+330
+00:21:33,159 --> 00:21:35,293
+     drop us a line at...       
+

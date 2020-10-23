@@ -1,0 +1,1490 @@
+﻿1
+00:00:01,936 --> 00:00:04,869
+-- captions by vitac --
+www.vitac.com
+
+2
+00:00:04,872 --> 00:00:07,872
+captions paid for by
+discovery communications, inc.
+
+3
+00:00:22,356 --> 00:00:25,556
+narrator:
+today on "how it's made"...
+
+4
+00:00:25,559 --> 00:00:27,492
+hearing aids.
+
+5
+00:00:27,495 --> 00:00:32,029
+narrator: we're turning up
+the volume for this one.
+
+6
+00:00:32,032 --> 00:00:33,831
+3-d puzzles --
+
+7
+00:00:33,834 --> 00:00:37,502
+a traditional pastime
+enters a new dimension.
+
+8
+00:00:37,505 --> 00:00:39,369
+rubber mats --
+
+9
+00:00:39,372 --> 00:00:43,307
+we bring you
+a step-by-step explanation.
+
+10
+00:00:43,310 --> 00:00:44,976
+and toilets --
+
+11
+00:00:44,979 --> 00:00:48,713
+this fascinating report
+leaves us flushed with pride.
+
+12
+00:00:53,053 --> 00:00:56,921
+when you stop and listen
+to all the sounds around you,
+
+13
+00:00:56,924 --> 00:00:59,524
+you suddenly realize
+how easy it is
+
+14
+00:00:59,527 --> 00:01:01,558
+to take your hearing
+for granted.
+
+15
+00:01:01,561 --> 00:01:04,195
+if you ever develop
+a hearing disorder,
+
+16
+00:01:04,198 --> 00:01:06,196
+you'll undoubtedly
+feel the loss.
+
+17
+00:01:06,199 --> 00:01:09,400
+thankfully, though,
+hearing aids are tinier
+
+18
+00:01:09,403 --> 00:01:12,003
+and more effective
+than ever before.
+
+19
+00:01:14,875 --> 00:01:17,475
+loss of hearing
+causes a serious handicap,
+
+20
+00:01:17,478 --> 00:01:20,477
+but, happily, it can be remedied
+thanks to hearing aids.
+
+21
+00:01:20,480 --> 00:01:22,479
+but before fabricating the aid,
+
+22
+00:01:22,482 --> 00:01:25,349
+the degree of hearing loss
+must be precisely measured
+
+23
+00:01:25,352 --> 00:01:28,352
+with this apparatus
+called an audiometer.
+
+24
+00:01:28,355 --> 00:01:31,088
+so they make a mold
+of the ear canal.
+
+25
+00:01:31,091 --> 00:01:35,293
+to protect the eardrum,
+an autoblock is inserted.
+
+26
+00:01:37,231 --> 00:01:38,963
+the next step is to pour in
+
+27
+00:01:38,966 --> 00:01:41,165
+a silicon
+impression-making material.
+
+28
+00:01:41,168 --> 00:01:44,368
+it solidifies and is then
+removed from the ear.
+
+29
+00:01:49,376 --> 00:01:51,976
+this congealed mass
+representing the ear canal
+
+30
+00:01:51,979 --> 00:01:56,481
+is then soaked in warm wax
+to obtain a positive imprint.
+
+31
+00:02:06,994 --> 00:02:09,660
+then the silicon container
+is filled.
+
+32
+00:02:09,663 --> 00:02:13,531
+the silicon hardens
+in only 10 minutes.
+
+33
+00:02:13,534 --> 00:02:16,000
+the hardened silicon block
+is removed,
+
+34
+00:02:16,003 --> 00:02:18,669
+and the excess of the imprint
+is trimmed away
+
+35
+00:02:18,672 --> 00:02:21,872
+so that only the essential part
+is retained.
+
+36
+00:02:21,875 --> 00:02:24,541
+the imprint must slip easily
+into the ear.
+
+37
+00:02:24,544 --> 00:02:27,278
+it's now the molding stage
+for the hearing aid.
+
+38
+00:02:27,281 --> 00:02:29,547
+acrylic is poured into the mold
+
+39
+00:02:29,550 --> 00:02:32,683
+before placing it
+into this ultraviolet oven.
+
+40
+00:02:32,686 --> 00:02:36,420
+without emitting any heat,
+this oven hardens the acrylic.
+
+41
+00:02:36,423 --> 00:02:38,623
+here is the raw prosthesis
+
+42
+00:02:38,626 --> 00:02:41,025
+without its electronic
+components.
+
+43
+00:02:41,028 --> 00:02:45,896
+this plan details the electric
+circuit of the amplifier.
+
+44
+00:02:45,899 --> 00:02:49,901
+holes are pierced
+for the volume control.
+
+45
+00:02:49,904 --> 00:02:52,503
+these components are tiny.
+
+46
+00:02:52,506 --> 00:02:54,639
+here is the volume control...
+
+47
+00:02:57,444 --> 00:03:01,045
+...the miniature microphone
+that captures sounds...
+
+48
+00:03:01,048 --> 00:03:05,383
+and the earphone,
+which functions as a speaker.
+
+49
+00:03:05,386 --> 00:03:08,919
+this tiny braided wire
+of seven conductors
+
+50
+00:03:08,922 --> 00:03:10,587
+is soldered to the amplifier
+
+51
+00:03:10,590 --> 00:03:13,124
+and other parts
+of the prosthesis with pewter.
+
+52
+00:03:16,062 --> 00:03:18,863
+the hybrid circuit is inserted
+into a silicon casing,
+
+53
+00:03:18,866 --> 00:03:21,265
+which assures its protection.
+
+54
+00:03:24,805 --> 00:03:27,605
+then the wires are soldered
+to the speaker.
+
+55
+00:03:31,478 --> 00:03:33,277
+and they verify
+the proper functioning
+
+56
+00:03:33,280 --> 00:03:35,613
+of the volume control.
+
+57
+00:03:35,616 --> 00:03:37,949
+a hearing aid
+must be very discreet.
+
+58
+00:03:37,952 --> 00:03:41,152
+that's why they cut the excess
+with a diamond disk.
+
+59
+00:03:41,155 --> 00:03:45,690
+they also remove the roughness
+with fine sandpaper.
+
+60
+00:03:45,693 --> 00:03:49,226
+the holes we see here are used
+to vent air from the earphone.
+
+61
+00:03:49,229 --> 00:03:53,697
+this silicone tube
+is used to make the vent.
+
+62
+00:03:53,700 --> 00:03:57,234
+acrylic is poured onto the tube
+to form a tunnel.
+
+63
+00:03:57,237 --> 00:04:02,106
+ultraviolet light is used
+to harden the acrylic.
+
+64
+00:04:02,109 --> 00:04:04,709
+afterwards, the tube is removed.
+
+65
+00:04:08,315 --> 00:04:10,981
+this hole is used
+to position the fastener,
+
+66
+00:04:10,984 --> 00:04:14,117
+a small wire which allows
+for removing the hearing aid
+
+67
+00:04:14,120 --> 00:04:15,319
+from the ear.
+
+68
+00:04:20,327 --> 00:04:21,993
+then the battery is installed.
+
+69
+00:04:21,996 --> 00:04:24,528
+only a few parts,
+such as the microphone,
+
+70
+00:04:24,531 --> 00:04:26,864
+remain to be put in place.
+
+71
+00:04:26,867 --> 00:04:29,400
+then everything
+is delicately assembled
+
+72
+00:04:29,403 --> 00:04:31,969
+into the interior
+of the prosthesis.
+
+73
+00:04:37,010 --> 00:04:40,478
+the two parts of the hearing aid
+are then glued together.
+
+74
+00:04:40,481 --> 00:04:42,847
+ultraviolet hardens the glue.
+
+75
+00:04:46,754 --> 00:04:49,220
+the plate used to position
+the prosthesis components
+
+76
+00:04:49,223 --> 00:04:51,355
+is cut away with the drill.
+
+77
+00:04:51,358 --> 00:04:53,890
+then the hearing aid
+is manually polished
+
+78
+00:04:53,893 --> 00:04:56,794
+to make it perfectly smooth
+and comfortable.
+
+79
+00:05:05,572 --> 00:05:07,972
+the prosthesis is now completed.
+
+80
+00:05:07,975 --> 00:05:10,308
+there remains
+one important step --
+
+81
+00:05:10,311 --> 00:05:13,711
+verifying its electroacoustic
+characteristic.
+
+82
+00:05:13,714 --> 00:05:16,380
+it's with this analyzer
+that they validate
+
+83
+00:05:16,383 --> 00:05:19,617
+that the hearing aid conforms
+to the original prescription.
+
+84
+00:05:26,593 --> 00:05:28,726
+these minute prostheses
+
+85
+00:05:28,729 --> 00:05:31,529
+allow us to solve
+the main hearing problems.
+
+86
+00:05:31,532 --> 00:05:33,731
+microfabrication
+of a single unit
+
+87
+00:05:33,734 --> 00:05:37,168
+requires a little more
+than two days of work.
+
+88
+00:05:48,082 --> 00:05:51,081
+narrator: remember spending
+lazy afternoons
+
+89
+00:05:51,084 --> 00:05:54,418
+putting together simple
+60-piece jigsaw puzzles?
+
+90
+00:05:54,421 --> 00:05:56,887
+well, put that image
+out of your mind,
+
+91
+00:05:56,890 --> 00:05:59,490
+because today's
+sophisticated puzzles
+
+92
+00:05:59,493 --> 00:06:02,159
+can have 1,500 3-d pieces
+
+93
+00:06:02,162 --> 00:06:06,163
+that go up, down,
+and even sideways.
+
+94
+00:06:06,166 --> 00:06:07,998
+are you up for the challenge?
+
+95
+00:06:12,239 --> 00:06:14,705
+flat puzzles are well known
+by everyone,
+
+96
+00:06:14,708 --> 00:06:17,708
+but 3-d puzzles present
+a different challenge.
+
+97
+00:06:17,711 --> 00:06:19,977
+these 3-dimensional puzzles
+
+98
+00:06:19,980 --> 00:06:23,047
+are first conceived
+with computer software.
+
+99
+00:06:27,053 --> 00:06:29,587
+good blades are needed
+to cut puzzle pieces.
+
+100
+00:06:29,590 --> 00:06:31,922
+here are the blades
+for the master die
+
+101
+00:06:31,925 --> 00:06:35,059
+which will cut out printed
+sheets of different models.
+
+102
+00:06:39,533 --> 00:06:42,332
+this rubber will be used
+to eject the die.
+
+103
+00:06:42,335 --> 00:06:45,336
+the master cutting die
+is unique to each puzzle.
+
+104
+00:06:45,339 --> 00:06:48,906
+it is the specific pattern
+used to make the puzzle.
+
+105
+00:06:55,748 --> 00:07:00,016
+they measure it meticulously
+to obtain a perfect register.
+
+106
+00:07:00,019 --> 00:07:03,954
+it's imperative that the die
+not move during the cutting,
+
+107
+00:07:03,957 --> 00:07:06,823
+otherwise the pieces would be
+cut at the wrong points,
+
+108
+00:07:06,826 --> 00:07:10,428
+so they very firmly
+secure it in place.
+
+109
+00:07:25,779 --> 00:07:28,179
+the carbon of the die
+is positioned.
+
+110
+00:07:28,182 --> 00:07:30,448
+it's somewhat like
+printing the master.
+
+111
+00:07:30,451 --> 00:07:32,516
+alignment is again verified,
+
+112
+00:07:32,519 --> 00:07:34,117
+a highly important step
+
+113
+00:07:34,120 --> 00:07:37,421
+which assures the quality
+of the final product.
+
+114
+00:07:39,459 --> 00:07:42,259
+finally, they install
+this large metallic plate,
+
+115
+00:07:42,262 --> 00:07:43,794
+which is the cutting base.
+
+116
+00:07:43,797 --> 00:07:47,331
+it will be on this surface
+that the master die will strike.
+
+117
+00:07:47,334 --> 00:07:49,199
+once measurements are finished,
+
+118
+00:07:49,202 --> 00:07:52,436
+the drawer of the die
+is slid into place.
+
+119
+00:08:00,613 --> 00:08:03,948
+this press cuts the pattern
+seen on the puzzle.
+
+120
+00:08:03,951 --> 00:08:05,683
+here's how it works.
+
+121
+00:08:05,686 --> 00:08:07,417
+the sheets,
+or printed cardboards,
+
+122
+00:08:07,420 --> 00:08:10,220
+go into the drawer one by one,
+
+123
+00:08:10,223 --> 00:08:12,256
+where they are cut according
+to the master model.
+
+124
+00:08:18,565 --> 00:08:22,867
+we clearly see the press making
+the cut in the puzzle sheet.
+
+125
+00:08:26,906 --> 00:08:30,140
+the cut sheets
+pile up on one another.
+
+126
+00:08:34,047 --> 00:08:37,915
+at this checkpoint, they verify
+the precision of the cut.
+
+127
+00:08:37,918 --> 00:08:41,519
+they make sure that every piece
+is correctly shaped.
+
+128
+00:08:45,525 --> 00:08:48,526
+now they go to the foam support
+of the puzzle.
+
+129
+00:08:48,529 --> 00:08:52,262
+this guillotine is used
+to cut the polyethylene sheets
+
+130
+00:08:52,265 --> 00:08:55,666
+onto which they will glue
+the cut images.
+
+131
+00:08:59,673 --> 00:09:03,674
+foam sheets are inserted
+into this laminator
+
+132
+00:09:03,677 --> 00:09:06,410
+heated to 450 degrees.
+
+133
+00:09:06,413 --> 00:09:09,813
+the sheet with the design on it
+is glued onto the foam
+
+134
+00:09:09,816 --> 00:09:13,083
+with a thermosetting adhesive.
+
+135
+00:09:13,086 --> 00:09:16,554
+now they glue the printed sheet
+onto the foam sheet.
+
+136
+00:09:22,161 --> 00:09:24,028
+once the adhesion is finished,
+
+137
+00:09:24,031 --> 00:09:26,696
+the puzzles are stacked
+on one another,
+
+138
+00:09:26,699 --> 00:09:28,899
+and they proceed
+to the unbuckling operation.
+
+139
+00:09:28,902 --> 00:09:32,603
+by pulling, they remove
+the surplus cuttings.
+
+140
+00:09:37,910 --> 00:09:41,845
+the same design is printed
+several times on a sheet,
+
+141
+00:09:41,848 --> 00:09:44,047
+so they must separate
+each puzzle.
+
+142
+00:09:44,050 --> 00:09:47,451
+this step is called
+the reduction of the models.
+
+143
+00:09:53,326 --> 00:09:55,993
+now the pieces
+have to be separated.
+
+144
+00:09:55,996 --> 00:09:58,195
+this decorticator
+handles this task
+
+145
+00:09:58,198 --> 00:10:00,798
+and sends the pieces
+down a chute.
+
+146
+00:10:07,140 --> 00:10:09,873
+packing cartons arrive
+already made up,
+
+147
+00:10:09,876 --> 00:10:12,943
+and the puzzle pieces
+are placed in their boxes.
+
+148
+00:10:12,946 --> 00:10:17,347
+no less than 15,000 puzzles
+are produced here each day.
+
+149
+00:10:17,350 --> 00:10:19,349
+since it began operations,
+
+150
+00:10:19,352 --> 00:10:22,552
+the company has created more
+than 300 different puzzle models
+
+151
+00:10:22,555 --> 00:10:26,690
+from quite simple ones
+to much more complex designs.
+
+152
+00:10:26,693 --> 00:10:28,758
+the largest of them
+contain a total
+
+153
+00:10:28,761 --> 00:10:33,163
+of more than 3,000 pieces.
+
+154
+00:10:33,166 --> 00:10:36,433
+and you need real patience
+for this one.
+
+155
+00:10:43,510 --> 00:10:45,309
+narrator:
+ever wonder what happens
+
+156
+00:10:45,312 --> 00:10:48,445
+to the millions of used tires
+we throw out every year?
+
+157
+00:10:48,448 --> 00:10:50,180
+well, you'll be relieved to know
+
+158
+00:10:50,183 --> 00:10:53,383
+that burning tires
+is a thing of the past.
+
+159
+00:10:53,386 --> 00:10:57,654
+today's tires are often given
+new life as rubber mats.
+
+160
+00:10:57,657 --> 00:11:00,857
+some are even big enough
+to cover whole arenas.
+
+161
+00:11:00,860 --> 00:11:03,594
+now, that's recycling.
+
+162
+00:11:11,337 --> 00:11:14,405
+used tires are a real source
+of pollution.
+
+163
+00:11:14,408 --> 00:11:17,474
+this pile represents
+about 100,000 of them.
+
+164
+00:11:17,477 --> 00:11:20,410
+at any rate, these tires
+will have a second life.
+
+165
+00:11:20,413 --> 00:11:22,879
+they'll be recycled
+to make rubber mats.
+
+166
+00:11:22,882 --> 00:11:24,615
+each day in this factory,
+
+167
+00:11:24,618 --> 00:11:28,218
+they recycle 15,000 tires
+into mats.
+
+168
+00:11:28,221 --> 00:11:31,288
+tires have to be reduced
+to little granules,
+
+169
+00:11:31,291 --> 00:11:35,025
+but first this conveyor feeds
+the tires into the washer.
+
+170
+00:11:35,028 --> 00:11:36,226
+tires are washed
+
+171
+00:11:36,229 --> 00:11:39,029
+with a water-based
+biodegradable preparation.
+
+172
+00:11:39,032 --> 00:11:40,531
+then they're sent
+to the shredder.
+
+173
+00:11:43,103 --> 00:11:45,702
+the shredder has two rows
+of large teeth.
+
+174
+00:11:45,705 --> 00:11:48,572
+these grind up the tires
+into pieces.
+
+175
+00:11:54,247 --> 00:11:58,449
+this shredder is able to cut up
+almost 1,000 tires an hour.
+
+176
+00:11:58,452 --> 00:12:01,585
+they come out as fairly
+good-sized pieces of tires,
+
+177
+00:12:01,588 --> 00:12:03,987
+which are then shredded
+a second time.
+
+178
+00:12:09,662 --> 00:12:12,730
+metal is magnetically separated
+from the rubber,
+
+179
+00:12:12,733 --> 00:12:16,166
+and the metal pieces
+are recycled at another factory.
+
+180
+00:12:21,741 --> 00:12:25,075
+other components of the tires,
+such as fiberglass and nylon,
+
+181
+00:12:25,078 --> 00:12:27,010
+also have to be separated.
+
+182
+00:12:27,013 --> 00:12:30,380
+they use a sifter to get out
+unwanted rubbish.
+
+183
+00:12:32,753 --> 00:12:36,220
+recuperated rubber particles
+purged of foreign materials
+
+184
+00:12:36,223 --> 00:12:38,888
+measure about 1/10 of an inch.
+
+185
+00:12:38,891 --> 00:12:41,625
+some 16 tons of tire particles
+
+186
+00:12:41,628 --> 00:12:44,428
+are piled up
+in this recycling depot.
+
+187
+00:12:47,968 --> 00:12:51,235
+but the particles are still
+too large to be used.
+
+188
+00:12:51,238 --> 00:12:54,237
+they're sent to a secondary
+shredder supply tank,
+
+189
+00:12:54,240 --> 00:12:56,774
+where they'll be reduced
+even further.
+
+190
+00:13:00,447 --> 00:13:03,313
+this tractor feeds
+the secondary shredder.
+
+191
+00:13:03,316 --> 00:13:06,450
+grinding action produces
+a kind of rubber powder.
+
+192
+00:13:12,859 --> 00:13:17,861
+the powder is spread out
+on these enormous molds.
+
+193
+00:13:17,864 --> 00:13:20,263
+this mold has a length
+of 23 feet
+
+194
+00:13:20,266 --> 00:13:21,932
+and a width of 4 feet.
+
+195
+00:13:21,935 --> 00:13:25,202
+thickness varies according
+to the product being made.
+
+196
+00:13:25,205 --> 00:13:27,270
+the molds filled
+with rubber powder
+
+197
+00:13:27,273 --> 00:13:29,940
+are stored in this loading
+magazine of the press.
+
+198
+00:13:29,943 --> 00:13:33,777
+once full, the molds are sent
+to the rubber-mat press.
+
+199
+00:13:37,217 --> 00:13:39,349
+here's the mat press.
+
+200
+00:13:39,352 --> 00:13:42,219
+the powder has to be cooked
+at a very high temperature
+
+201
+00:13:42,222 --> 00:13:43,954
+for about 30 minutes.
+
+202
+00:13:43,957 --> 00:13:46,790
+cooking time depends
+on the product being made.
+
+203
+00:13:48,562 --> 00:13:51,261
+the cooked mat goes
+to the unmolding unit
+
+204
+00:13:51,264 --> 00:13:53,430
+before being sent off to cool.
+
+205
+00:13:55,168 --> 00:13:58,035
+the rubber mats
+are still extremely hot.
+
+206
+00:13:58,038 --> 00:14:00,170
+they're cooled
+with jets of water
+
+207
+00:14:00,173 --> 00:14:02,105
+for a period of several minutes.
+
+208
+00:14:09,782 --> 00:14:14,318
+the cooled mats can now be sent
+to the next department.
+
+209
+00:14:14,321 --> 00:14:15,986
+this conveyor
+in the cutting center
+
+210
+00:14:15,989 --> 00:14:18,055
+positions the mat
+before it's cut.
+
+211
+00:14:18,058 --> 00:14:21,892
+the mat is vibrated
+to eliminate any surplus water.
+
+212
+00:14:26,866 --> 00:14:30,200
+each rubber mat is now cut up
+into three pieces.
+
+213
+00:14:36,876 --> 00:14:39,543
+the cut mats are then
+stacked into a pile
+
+214
+00:14:39,546 --> 00:14:41,879
+and stored before being shipped.
+
+215
+00:14:49,022 --> 00:14:51,488
+the company
+also makes mudguards.
+
+216
+00:14:51,491 --> 00:14:55,158
+these are fabricated the same
+way as the preceding mats.
+
+217
+00:14:55,161 --> 00:14:57,293
+after having been cooled
+in water,
+
+218
+00:14:57,296 --> 00:15:00,496
+but while they're still warm,
+they remove the surplus rubber.
+
+219
+00:15:00,499 --> 00:15:03,267
+this operation
+is called "notching."
+
+220
+00:15:10,043 --> 00:15:13,910
+hard rubber rings are also
+produced at this facility
+
+221
+00:15:13,913 --> 00:15:15,779
+with the same
+fabrication methods
+
+222
+00:15:15,782 --> 00:15:19,315
+and, as always,
+from old, used tires.
+
+223
+00:15:19,318 --> 00:15:21,184
+over a 12-hour period,
+
+224
+00:15:21,187 --> 00:15:24,655
+this facility makes no less
+than 12,000 rubber mats
+
+225
+00:15:24,658 --> 00:15:27,056
+from old, recycled tires.
+
+226
+00:15:27,059 --> 00:15:31,228
+this translates into good news
+for our environment.
+
+227
+00:15:39,272 --> 00:15:41,605
+narrator:
+we tend not to put much thought
+
+228
+00:15:41,608 --> 00:15:44,474
+into this humblest
+of household appliances
+
+229
+00:15:44,477 --> 00:15:47,544
+as long as it keeps doing
+what it was built to do.
+
+230
+00:15:47,547 --> 00:15:49,946
+but like most of the machines
+we've invented
+
+231
+00:15:49,949 --> 00:15:51,481
+to do our dirty work,
+
+232
+00:15:51,484 --> 00:15:53,149
+we may take it for granted,
+
+233
+00:15:53,152 --> 00:15:57,754
+but it's next to impossible to
+imagine life without the toilet.
+
+234
+00:16:05,231 --> 00:16:08,498
+the first public restrooms
+appeared in ancient rome
+
+235
+00:16:08,501 --> 00:16:11,835
+when the emperor vespasian
+built latrines.
+
+236
+00:16:11,838 --> 00:16:13,369
+such public urinals
+
+237
+00:16:13,372 --> 00:16:18,108
+became widely known
+as vespasiennes by 1840.
+
+238
+00:16:18,111 --> 00:16:22,646
+in 1775, the invention
+of a water-flush system
+
+239
+00:16:22,649 --> 00:16:26,450
+created toilets somewhat
+resembling today's convenience.
+
+240
+00:16:26,453 --> 00:16:29,986
+the valve and siphon
+were added in 1784
+
+241
+00:16:29,989 --> 00:16:32,856
+and the septic tank in 1896.
+
+242
+00:16:41,134 --> 00:16:43,600
+a toilet is an everyday object
+
+243
+00:16:43,603 --> 00:16:46,803
+whose fabrication requires
+several days of work.
+
+244
+00:16:46,806 --> 00:16:50,540
+it involves assembling
+several molds called "tools."
+
+245
+00:16:50,543 --> 00:16:54,877
+each new product requires the
+design of a master plaster mold
+
+246
+00:16:54,880 --> 00:16:57,948
+from which they will produce
+a plastic tool.
+
+247
+00:17:03,422 --> 00:17:06,289
+this latter will be used
+to create plaster duplicates
+
+248
+00:17:06,292 --> 00:17:08,992
+used as production molds.
+
+249
+00:17:13,633 --> 00:17:16,433
+the plaster production mold
+of a toilet
+
+250
+00:17:16,436 --> 00:17:20,103
+is made from six different tools
+which have to be assembled.
+
+251
+00:17:20,106 --> 00:17:22,772
+their life-span
+is only two months.
+
+252
+00:17:22,775 --> 00:17:25,842
+the process begins with
+a mixture of water and plaster
+
+253
+00:17:25,845 --> 00:17:28,044
+according to a precise recipe.
+
+254
+00:17:28,047 --> 00:17:31,915
+then the liquid is poured into
+this filling hole of the tool.
+
+255
+00:17:31,918 --> 00:17:34,984
+once the plaster hardens,
+they can proceed with unmolding.
+
+256
+00:17:34,987 --> 00:17:36,586
+they strike the end
+
+257
+00:17:36,589 --> 00:17:39,122
+at the junction
+of the plaster mold and the tool
+
+258
+00:17:39,125 --> 00:17:42,726
+with a rubber hammer
+so as not to damage the plaster.
+
+259
+00:17:51,071 --> 00:17:53,336
+pieces are gently assembled.
+
+260
+00:17:53,339 --> 00:17:55,939
+the toilet softly
+takes its shape.
+
+261
+00:17:55,942 --> 00:18:00,010
+it is in this same mold that
+they will later color the clay.
+
+262
+00:18:06,286 --> 00:18:09,419
+then they install
+tensioning straps.
+
+263
+00:18:09,422 --> 00:18:12,622
+little blocks are inserted
+between the mold and the strap
+
+264
+00:18:12,625 --> 00:18:13,924
+to increase the tension.
+
+265
+00:18:13,927 --> 00:18:16,292
+the mold will soon be
+filled with liquid,
+
+266
+00:18:16,295 --> 00:18:19,162
+and they thus prevent
+any distortion.
+
+267
+00:18:19,165 --> 00:18:20,964
+here a new recipe
+is being prepared.
+
+268
+00:18:20,967 --> 00:18:25,501
+this time it's a slurry,
+a composite of clay and silica.
+
+269
+00:18:25,504 --> 00:18:28,772
+this preparation
+is spread out over 48 hours.
+
+270
+00:18:28,775 --> 00:18:32,308
+now they install the core,
+the upper part of the mold.
+
+271
+00:18:32,311 --> 00:18:34,711
+they can now proceed
+with the filling.
+
+272
+00:18:36,316 --> 00:18:38,181
+this copper distribution pipe
+
+273
+00:18:38,184 --> 00:18:40,383
+connected to the tank
+containing the slurry
+
+274
+00:18:40,386 --> 00:18:43,453
+permits the filling
+of several molds at a time.
+
+275
+00:18:43,456 --> 00:18:46,823
+they need about 45 pounds
+of the mix per bowl mold.
+
+276
+00:18:49,528 --> 00:18:51,261
+after an hour,
+
+277
+00:18:51,264 --> 00:18:54,898
+the slurry has attained
+a thickness of 4/10 of an inch.
+
+278
+00:18:54,901 --> 00:18:58,935
+the plug is pulled to allow
+the excess slurry to run out.
+
+279
+00:18:58,938 --> 00:19:02,339
+they can now unmold
+the still-fragile piece.
+
+280
+00:19:02,342 --> 00:19:04,340
+this thicker slurry is used
+
+281
+00:19:04,343 --> 00:19:07,310
+to adhere
+these two pieces together.
+
+282
+00:19:17,623 --> 00:19:21,090
+they cut the holes
+and unmold the ensemble.
+
+283
+00:19:21,093 --> 00:19:23,727
+the toilet is now molded.
+
+284
+00:19:26,966 --> 00:19:29,633
+then, to obtain
+a perfect appearance,
+
+285
+00:19:29,636 --> 00:19:31,300
+they remove the little fillet
+
+286
+00:19:31,303 --> 00:19:34,337
+formed by the surplus
+adhesive slurry.
+
+287
+00:19:37,977 --> 00:19:41,244
+the toilets air-dry
+for 36 hours,
+
+288
+00:19:41,247 --> 00:19:45,582
+then in a warm-air dryer
+for 12 hours.
+
+289
+00:19:45,585 --> 00:19:47,784
+finishing must be impeccable.
+
+290
+00:19:47,787 --> 00:19:51,254
+they carefully sand the surface
+to make it perfectly smooth.
+
+291
+00:19:51,257 --> 00:19:54,190
+a vacuum draws up the dust.
+
+292
+00:19:54,193 --> 00:19:57,059
+then, with a jet
+of compressed air,
+
+293
+00:19:57,062 --> 00:19:59,496
+dust and debris are blown away.
+
+294
+00:20:01,267 --> 00:20:04,501
+bowls are hand-painted
+in a special room.
+
+295
+00:20:10,409 --> 00:20:11,808
+as for the water tanks,
+
+296
+00:20:11,811 --> 00:20:14,277
+they are painted
+by an automated robot.
+
+297
+00:20:25,425 --> 00:20:27,357
+this truck
+carries the different parts
+
+298
+00:20:27,360 --> 00:20:31,228
+to the final
+fabrication stage -- baking.
+
+299
+00:20:32,898 --> 00:20:34,631
+the toilets remain in this oven
+
+300
+00:20:34,634 --> 00:20:38,835
+at the very high temperature
+of 2,150 degrees
+
+301
+00:20:38,838 --> 00:20:41,103
+for 23 hours.
+
+302
+00:20:41,106 --> 00:20:44,040
+it takes this long to fuse
+the clay and silicone.
+
+303
+00:20:44,043 --> 00:20:46,910
+the paint then becomes
+hard and shiny,
+
+304
+00:20:46,913 --> 00:20:48,845
+and it's all done.
+
+305
+00:20:50,983 --> 00:20:53,250
+the toilets
+and the different bowls
+
+306
+00:20:53,253 --> 00:20:56,052
+now take on shapes more elegant
+than in the past,
+
+307
+00:20:56,055 --> 00:20:58,388
+but the fabrication
+of each one of them
+
+308
+00:20:58,391 --> 00:21:00,924
+will have the same basic
+construction steps
+
+309
+00:21:00,927 --> 00:21:03,726
+involving 45 pounds of slurry
+
+310
+00:21:03,729 --> 00:21:06,396
+and almost 4 days of labor.
+
+311
+00:21:11,738 --> 00:21:14,204
+narrator: if you have
+any comments about the show,
+
+312
+00:21:14,207 --> 00:21:16,940
+or if you'd like to suggest
+topics for future shows,
+
+313
+00:21:16,943 --> 00:21:19,576
+drop us a line at...
+

@@ -1,0 +1,1565 @@
+1
+00:00:23,090 --> 00:00:25,757
+            narrator:           
+   today on "how it's made"...  
+
+2
+00:00:25,793 --> 00:00:28,594
+  residential water heaters...  
+
+3
+00:00:32,166 --> 00:00:33,832
+         ...air bags...         
+
+4
+00:00:37,771 --> 00:00:40,005
+        ...jelly beans...       
+
+5
+00:00:43,577 --> 00:00:45,244
+     ...and ice resurfacers.    
+
+6
+00:00:52,719 --> 00:00:56,121
+  the residential water heater  
+   was invented back in 1889,   
+
+7
+00:00:56,190 --> 00:00:58,790
+      and the basic concept     
+      still applies today.      
+
+8
+00:00:58,793 --> 00:01:01,392
+         it heats water,        
+    usually with natural gas,   
+
+9
+00:01:01,429 --> 00:01:03,462
+    propane, or electricity,    
+
+10
+00:01:03,464 --> 00:01:05,663
+ then keeps it continuously hot 
+
+11
+00:01:05,699 --> 00:01:08,934
+     so that you always have    
+a supply ready for the bathroom,
+
+12
+00:01:08,936 --> 00:01:11,670
+            kitchen,            
+  or anywhere else you need it. 
+
+13
+00:01:16,343 --> 00:01:18,209
+  water heaters may look plain, 
+
+14
+00:01:18,245 --> 00:01:20,879
+        but there's a lot       
+        going on inside.        
+
+15
+00:01:22,249 --> 00:01:26,351
+ to make one, a hydraulic press 
+ transforms a round, steel blank
+
+16
+00:01:26,387 --> 00:01:27,953
+       into a dome shape.       
+
+17
+00:01:28,088 --> 00:01:30,756
+  this dome will form the base  
+      of a gas-heated tank,     
+
+18
+00:01:30,891 --> 00:01:32,791
+  and it will hold the burner.  
+
+19
+00:01:36,931 --> 00:01:39,164
+ next, rollers behind and above 
+
+20
+00:01:39,200 --> 00:01:41,633
+      curl a sheet of steel     
+       around a cylinder.       
+
+21
+00:01:41,635 --> 00:01:44,970
+this forms the inner-tank shape.
+
+22
+00:01:44,972 --> 00:01:46,305
+      a seam-welder device      
+
+23
+00:01:46,307 --> 00:01:49,107
+    then pinches the two ends   
+   of the tank shape together   
+
+24
+00:01:49,110 --> 00:01:50,709
+         and welds them.        
+
+25
+00:01:56,016 --> 00:01:57,382
+        in the next step,       
+
+26
+00:01:57,384 --> 00:02:01,186
+a worker positions the tank body
+   under a projection-welder.   
+
+27
+00:02:01,222 --> 00:02:03,188
+ he selects a threaded fitting, 
+
+28
+00:02:03,323 --> 00:02:04,923
+     places it on the tank,     
+
+29
+00:02:05,058 --> 00:02:07,159
+     and lowers the welder.     
+
+30
+00:02:08,562 --> 00:02:12,131
+     this projection-welder     
+uses 10,000 volts of electricity
+
+31
+00:02:12,266 --> 00:02:14,532
+        to fuse fittings        
+        to the tank body.       
+
+32
+00:02:14,568 --> 00:02:17,069
+     it also welds fittings     
+     to the top of the tank.    
+
+33
+00:02:17,204 --> 00:02:18,403
+     valves and other parts     
+
+34
+00:02:18,539 --> 00:02:21,006
+         will be screwed        
+   into these fittings later.   
+
+35
+00:02:25,513 --> 00:02:29,147
+          next, a press         
+  applies over 27 tons of force 
+
+36
+00:02:29,216 --> 00:02:31,416
+   to fit a top onto the tank.  
+
+37
+00:02:31,485 --> 00:02:34,753
+  then they spray liquid enamel 
+  inside of the spinning tank.  
+
+38
+00:02:34,822 --> 00:02:38,157
+       it will be baked in      
+       at 1,650 fahrenheit      
+
+39
+00:02:38,292 --> 00:02:40,559
+         for 45 minutes         
+       to prevent rusting.      
+
+40
+00:02:40,694 --> 00:02:44,163
+   now it's back to the bottom  
+          of the tank.          
+
+41
+00:02:44,298 --> 00:02:47,232
+  a worker inserts a flue tube  
+    in a hole in the center,    
+
+42
+00:02:47,268 --> 00:02:50,835
+     and an automated welder    
+   joins it to the tank base.   
+
+43
+00:02:50,871 --> 00:02:53,805
+    the flue will vent gases    
+        from the burner.        
+
+44
+00:02:59,246 --> 00:03:02,848
+ after anti-rust enamel coating 
+is baked onto the base and flue,
+
+45
+00:03:02,983 --> 00:03:05,317
+    they lower the tank body    
+            onto it.            
+
+46
+00:03:06,921 --> 00:03:10,922
+   next, robotic welding arms   
+   work both ends of the tank.  
+
+47
+00:03:10,925 --> 00:03:12,591
+    one welds the base to it,   
+
+48
+00:03:12,726 --> 00:03:14,793
+    the other bonds the flue    
+           to the top.          
+
+49
+00:03:18,198 --> 00:03:19,998
+     now the pressure test.     
+
+50
+00:03:20,067 --> 00:03:21,733
+   they pump air into the tank  
+
+51
+00:03:21,735 --> 00:03:23,801
+       and then pour water      
+        over the outside.       
+
+52
+00:03:23,837 --> 00:03:25,403
+  if water bubbles on the tank, 
+
+53
+00:03:25,439 --> 00:03:27,205
+    it means air is escaping    
+
+54
+00:03:27,274 --> 00:03:30,209
+       and there's a leak       
+     that needs to be fixed.    
+
+55
+00:03:33,714 --> 00:03:37,449
+   here they install elements   
+ in an electric water heater... 
+
+56
+00:03:40,387 --> 00:03:43,922
+...and they hook up a thermostat
+  and the wires that run to it. 
+
+57
+00:03:50,297 --> 00:03:53,765
+now it's time to make the tank's
+     outer shell, or jacket.    
+
+58
+00:03:53,767 --> 00:03:56,034
+       an operator slides       
+      a painted-steel shape     
+
+59
+00:03:56,103 --> 00:04:00,072
+         onto a mandrel         
+ so that it becomes cylindrical.
+
+60
+00:04:02,109 --> 00:04:04,443
+          a lockformer          
+    then moves along a rail,    
+
+61
+00:04:04,445 --> 00:04:07,045
+      folding and pressing      
+       the seam together.       
+
+62
+00:04:12,386 --> 00:04:15,520
+       next, a rollformer       
+ crimps the top and bottom edges
+
+63
+00:04:15,522 --> 00:04:18,357
+          so that lids          
+    can be easily installed.    
+
+64
+00:04:24,865 --> 00:04:28,533
+ here they drape a plastic apron
+         over a tank...         
+
+65
+00:04:29,503 --> 00:04:32,136
+...and then slide on its jacket,
+         or tank shell,         
+
+66
+00:04:32,172 --> 00:04:35,507
+     with just the electric     
+       components exposed.      
+
+67
+00:04:36,810 --> 00:04:39,444
+    they screw a steel cover    
+           over them.           
+
+68
+00:04:40,547 --> 00:04:42,881
+     here's a demonstration     
+         of what's next.        
+
+69
+00:04:42,950 --> 00:04:44,148
+       a chemical reaction      
+
+70
+00:04:44,184 --> 00:04:49,020
+    causes polyurethane foam    
+      to expand in seconds.     
+
+71
+00:04:49,023 --> 00:04:51,756
+ they inject this expanding foam
+     into the plastic apron     
+
+72
+00:04:51,792 --> 00:04:54,359
+   that's now between the tank  
+        and outer shell.        
+
+73
+00:04:54,428 --> 00:04:56,862
+the foam will insulate the tank.
+
+74
+00:04:58,565 --> 00:05:00,632
+         now they finish        
+      installing the wiring     
+
+75
+00:05:00,634 --> 00:05:02,267
+   on this electric heater...   
+
+76
+00:05:03,503 --> 00:05:05,771
+  ...and then do an inspection. 
+
+77
+00:05:05,906 --> 00:05:08,173
+       it makes the grade.      
+
+78
+00:05:10,444 --> 00:05:11,643
+         on gas heaters,        
+
+79
+00:05:11,778 --> 00:05:14,245
+       they slide a burner      
+    into the dome-shaped base   
+
+80
+00:05:14,315 --> 00:05:17,849
+   and then connect the burner  
+     tubes to the gas valve.    
+
+81
+00:05:20,754 --> 00:05:22,120
+     they attach some wiring    
+
+82
+00:05:22,122 --> 00:05:25,791
+          that controls         
+     the burner ignition...     
+
+83
+00:05:25,926 --> 00:05:28,727
+       and then hook it up      
+ to the gas line for a test run.
+
+84
+00:05:28,862 --> 00:05:31,930
+         that inner glow        
+     is the burner at work.     
+
+85
+00:05:32,065 --> 00:05:35,000
+ they light a torch on the flame
+   and pass it over the valve   
+
+86
+00:05:35,135 --> 00:05:37,068
+ to check for little gas leaks. 
+
+87
+00:05:37,137 --> 00:05:40,939
+        it didn't ignite,       
+      so there aren't any.      
+
+88
+00:05:41,008 --> 00:05:43,408
+  it gets the seal of approval, 
+
+89
+00:05:43,444 --> 00:05:45,210
+ and now it's up to the consumer
+
+90
+00:05:45,212 --> 00:05:48,313
+        to test the water       
+      when it's installed.      
+
+91
+00:05:58,091 --> 00:06:01,193
+      narrator: the air bag     
+   was invented in the 1960s,   
+
+92
+00:06:01,295 --> 00:06:04,295
+ but it actually didn't catch on
+   until several years later.   
+
+93
+00:06:04,365 --> 00:06:05,696
+          by the 1980s,         
+
+94
+00:06:05,733 --> 00:06:08,633
+ automakers were installing them
+        in most vehicles.       
+
+95
+00:06:08,669 --> 00:06:11,970
+  air bags deploy when sensors  
+  detect a sudden deceleration  
+
+96
+00:06:12,105 --> 00:06:13,171
+        and inflate them,       
+
+97
+00:06:13,306 --> 00:06:16,641
+    giving vehicle occupants    
+    the protection they need.   
+
+98
+00:06:22,316 --> 00:06:23,849
+    this side-curtain air bag   
+
+99
+00:06:23,984 --> 00:06:26,784
+   inflates in less than .020   
+          of a second.          
+
+100
+00:06:26,820 --> 00:06:28,887
+   blink, and you'll miss it.   
+
+101
+00:06:30,524 --> 00:06:32,657
+  air bags don't have any seams 
+
+102
+00:06:32,793 --> 00:06:35,660
+      because they're woven     
+          in one piece.         
+
+103
+00:06:36,563 --> 00:06:39,730
+     big, computerized looms    
+  weave at a blurring speed --  
+
+104
+00:06:39,767 --> 00:06:41,866
+   600 revolutions per minute.  
+
+105
+00:06:41,902 --> 00:06:44,669
+         they're called         
+    air-jet lacquered looms.    
+
+106
+00:06:44,705 --> 00:06:47,272
+       they lift and lower      
+         each nylon yarn        
+
+107
+00:06:47,274 --> 00:06:49,941
+      to make an intricate      
+        one-piece fabric.       
+
+108
+00:06:50,010 --> 00:06:53,011
+       up to 10,700 yarns       
+
+109
+00:06:53,013 --> 00:06:55,881
+          could be used         
+      to make the material.     
+
+110
+00:06:56,016 --> 00:06:58,483
+  if even one of the thousands  
+         of yarns break,        
+
+111
+00:06:58,552 --> 00:07:00,351
+      an electrical sensor      
+         will detect it         
+
+112
+00:07:00,421 --> 00:07:01,887
+     and shut the loom down.    
+
+113
+00:07:02,022 --> 00:07:05,690
+           it's a step          
+   to ensure quality control.   
+
+114
+00:07:05,692 --> 00:07:07,625
+       despite this rapid       
+         weaving action,        
+
+115
+00:07:07,661 --> 00:07:11,162
+   the loom produces just over  
+   26 feet of fabric an hour.   
+
+116
+00:07:11,231 --> 00:07:14,432
+         that's because         
+     it's very dense fabric.    
+
+117
+00:07:14,468 --> 00:07:16,300
+          that density          
+     will allow the air bag     
+
+118
+00:07:16,336 --> 00:07:19,104
+    to stand up to the force    
+         of deployment.         
+
+119
+00:07:23,844 --> 00:07:27,979
+    now the woven fabric goes   
+ through an inspection station. 
+
+120
+00:07:28,882 --> 00:07:33,051
+as automated rollers wind it up,
+      a worker examines it.     
+
+121
+00:07:33,053 --> 00:07:36,154
+       if it's acceptable,      
+        he signs it off.        
+
+122
+00:07:46,800 --> 00:07:50,935
+           next, it's           
+   on to the scouring station.  
+
+123
+00:07:51,004 --> 00:07:53,271
+         here a machine         
+   unwinds the air-bag fabric   
+
+124
+00:07:53,406 --> 00:07:56,408
+   as rollers guide it towards  
+      a wash-and-dry system     
+
+125
+00:07:56,410 --> 00:07:58,877
+      that's 118 feet long.     
+
+126
+00:08:01,681 --> 00:08:03,814
+        the rollers draw        
+      the air-bag material      
+
+127
+00:08:03,851 --> 00:08:05,550
+        through a number        
+        of big wash tanks       
+
+128
+00:08:05,685 --> 00:08:07,886
+ to ensure a thorough cleaning. 
+
+129
+00:08:12,125 --> 00:08:15,494
+  then a series of hot rollers  
+    dry and press the fabric.   
+
+130
+00:08:28,909 --> 00:08:30,842
+      the freshly laundered     
+        air-bag material        
+
+131
+00:08:30,911 --> 00:08:33,111
+          moves through         
+      the coating machine.      
+
+132
+00:08:33,180 --> 00:08:36,581
+  a hose pumps liquid silicone  
+        onto the fabric,        
+
+133
+00:08:36,650 --> 00:08:39,450
+     and a scraper overhead     
+         distributes it.        
+
+134
+00:08:39,486 --> 00:08:41,052
+   as a worker scoops some up,  
+
+135
+00:08:41,187 --> 00:08:44,556
+ you can see that it's as thick 
+          as molasses.          
+
+136
+00:08:48,061 --> 00:08:50,795
+       the silicone seals       
+       the air-bag fabric.      
+
+137
+00:08:50,931 --> 00:08:54,198
+     but it's wet and sticky    
+        and needs to dry,       
+
+138
+00:08:54,268 --> 00:08:56,534
+      so it passes through      
+        a series of ovens       
+
+139
+00:08:56,570 --> 00:09:00,472
+         heated to about        
+     370 degrees fahrenheit.    
+
+140
+00:09:00,474 --> 00:09:04,476
+ as it dries, the silicone cures
+         to the fabric.         
+
+141
+00:09:08,682 --> 00:09:11,416
+   now a computer-guided laser  
+        cuts the material       
+
+142
+00:09:11,418 --> 00:09:12,817
+  with the precision and speed  
+
+143
+00:09:12,853 --> 00:09:15,720
+          that no human         
+      could ever replicate.     
+
+144
+00:09:18,825 --> 00:09:22,093
+        black lines woven       
+into the fabric assist the laser
+
+145
+00:09:22,095 --> 00:09:24,629
+ as it cuts the air-bag design. 
+
+146
+00:09:24,631 --> 00:09:25,897
+      at any point in time,     
+
+147
+00:09:26,032 --> 00:09:29,301
+ it's cutting multiple air bags 
+       out of the fabric.       
+
+148
+00:09:36,443 --> 00:09:37,909
+      when the job is done,     
+
+149
+00:09:38,044 --> 00:09:41,346
+        the conveyor belt       
+   moves the air bags forward.  
+
+150
+00:09:51,524 --> 00:09:54,692
+   and now they're scrutinized  
+           by humans.           
+
+151
+00:09:54,761 --> 00:09:58,195
+  a worker pulls the one-piece  
+    air bag across a template   
+
+152
+00:09:58,231 --> 00:10:02,333
+  and examines it to make sure  
+      the dimensions match.     
+
+153
+00:10:02,369 --> 00:10:05,737
+       then it's sent over      
+     to the sewing station.     
+
+154
+00:10:05,806 --> 00:10:08,673
+      although the air bags     
+   have been seamlessly woven,  
+
+155
+00:10:08,742 --> 00:10:13,011
+  attachment and reinforcements 
+     still need to sewn on.     
+
+156
+00:10:13,146 --> 00:10:15,880
+          the stitching         
+     is computer-controlled.    
+
+157
+00:10:15,882 --> 00:10:18,550
+    a worker feeds the fabric   
+      to the sewing machine     
+
+158
+00:10:18,552 --> 00:10:21,953
+         and then simply        
+        presses a button.       
+
+159
+00:10:22,088 --> 00:10:24,022
+           the machine          
+   stitches together the tabs   
+
+160
+00:10:24,024 --> 00:10:25,490
+  that will connect the air bag 
+
+161
+00:10:25,492 --> 00:10:27,292
+          to the inside         
+      of the vehicle frame      
+
+162
+00:10:27,394 --> 00:10:29,894
+   just above the side window.  
+
+163
+00:10:32,232 --> 00:10:34,699
+      here it sews a tether     
+          onto the bag.         
+
+164
+00:10:34,768 --> 00:10:36,835
+      this strip of fabric      
+        will also be used       
+
+165
+00:10:36,837 --> 00:10:39,304
+  to hold the air bag in place. 
+
+166
+00:10:43,043 --> 00:10:45,176
+          now it's time         
+    to test a sample air bag    
+
+167
+00:10:45,212 --> 00:10:47,278
+    from the production run.    
+
+168
+00:10:49,449 --> 00:10:52,584
+  and, yes, it works perfectly. 
+
+169
+00:11:03,196 --> 00:11:05,797
+    narrator: the jelly bean    
+      is a colorful treat.      
+
+170
+00:11:05,866 --> 00:11:07,331
+       but, unfortunately,      
+
+171
+00:11:07,367 --> 00:11:10,402
+ no one is sure exactly when the
+ jelly bean was invented or how.
+
+172
+00:11:10,537 --> 00:11:12,137
+          it's believed         
+      that the jelly center     
+
+173
+00:11:12,272 --> 00:11:16,074
+ dates back to biblical times as
+ a candy called turkish delight.
+
+174
+00:11:16,143 --> 00:11:19,310
+      many centuries later,     
+   the outer shell was added,   
+
+175
+00:11:19,312 --> 00:11:22,847
+   thus making the jelly bean   
+         we know today.         
+
+176
+00:11:26,820 --> 00:11:29,086
+ the jelly bean is very popular.
+
+177
+00:11:29,122 --> 00:11:31,956
+        billions are sold       
+        at easter alone.        
+
+178
+00:11:31,958 --> 00:11:33,291
+      to make jelly beans,      
+
+179
+00:11:33,293 --> 00:11:35,093
+     they heat liquid sugar     
+         in a big kettle        
+
+180
+00:11:35,228 --> 00:11:38,363
+   to 347 degrees fahrenheit.   
+
+181
+00:11:38,365 --> 00:11:39,597
+        they add glucose,       
+
+182
+00:11:39,666 --> 00:11:41,432
+            which is            
+   a more concentrated sugar,   
+
+183
+00:11:41,435 --> 00:11:43,368
+        and then starch.        
+
+184
+00:11:44,838 --> 00:11:48,573
+       an agitating device      
+    mixes it all together...    
+
+185
+00:11:48,708 --> 00:11:50,241
+ while elsewhere in the factory,
+
+186
+00:11:50,243 --> 00:11:53,578
+   starch spills out of a drum  
+         onto big trays.        
+
+187
+00:11:56,717 --> 00:11:59,383
+ a leveler moves back and forth 
+
+188
+00:11:59,419 --> 00:12:02,520
+     to even out the starch     
+          on the trays.         
+
+189
+00:12:02,589 --> 00:12:04,189
+  the trays then move forward,  
+
+190
+00:12:04,324 --> 00:12:06,791
+     and a brush knocks off     
+       the excess starch.       
+
+191
+00:12:06,860 --> 00:12:09,928
+      it will be recycled.      
+
+192
+00:12:15,401 --> 00:12:19,136
+a molding board now presses down
+        into the starch.        
+
+193
+00:12:19,172 --> 00:12:21,940
+          it makes 756          
+     jelly-bean impressions     
+
+194
+00:12:22,075 --> 00:12:24,542
+   in the starch in each tray.  
+
+195
+00:12:24,611 --> 00:12:27,011
+  the impressions in the starch 
+       will serve as molds      
+
+196
+00:12:27,047 --> 00:12:29,280
+   for the jelly-bean centers.  
+
+197
+00:12:36,790 --> 00:12:39,290
+         nozzles inject         
+    the sugar-and-starch mix    
+
+198
+00:12:39,425 --> 00:12:42,026
+      cooked in the kettle      
+     into the starch molds.     
+
+199
+00:12:42,028 --> 00:12:44,896
+   this system can make almost  
+  a million jelly-bean centers  
+
+200
+00:12:45,031 --> 00:12:49,100
+            an hour.            
+
+201
+00:12:49,102 --> 00:12:50,702
+     next, the conveyor belt    
+
+202
+00:12:50,704 --> 00:12:53,104
+  takes the jelly-bean centers  
+       to the drying room,      
+
+203
+00:12:53,173 --> 00:12:55,640
+  where they stay for 24 hours. 
+
+204
+00:12:55,709 --> 00:12:59,110
+      this solidifies them.     
+      they become chewier.      
+
+205
+00:13:07,220 --> 00:13:10,655
+       arms flip the trays      
+of dried candy centers in starch
+
+206
+00:13:10,790 --> 00:13:13,992
+  and dump them into a big drum 
+    that will separate them.    
+
+207
+00:13:14,127 --> 00:13:15,660
+    when the trays flip back,   
+
+208
+00:13:15,729 --> 00:13:17,395
+  they're refilled with starch, 
+
+209
+00:13:17,397 --> 00:13:20,098
+     and the molding process    
+          begins again.         
+
+210
+00:13:27,808 --> 00:13:30,374
+           meanwhile,           
+  the dried jelly-bean centers, 
+
+211
+00:13:30,376 --> 00:13:31,876
+ now separated from the starch, 
+
+212
+00:13:32,011 --> 00:13:36,014
+   tumble out of the drum onto  
+  a wire-mesh conveyor system.  
+
+213
+00:13:41,354 --> 00:13:43,421
+       it transports them       
+        to a steam belt,        
+
+214
+00:13:43,423 --> 00:13:45,023
+       which dampens them.      
+
+215
+00:13:45,025 --> 00:13:46,891
+        this readies them       
+      for the next step --      
+
+216
+00:13:46,960 --> 00:13:49,560
+          sugarcoating.         
+
+217
+00:13:49,629 --> 00:13:51,829
+     the jelly-bean centers     
+      go into a sander drum     
+
+218
+00:13:51,832 --> 00:13:53,097
+     that tosses them around    
+
+219
+00:13:53,233 --> 00:13:56,401
+    while nozzles spray them    
+           with sugar.          
+
+220
+00:14:02,209 --> 00:14:04,041
+ in another part of the factory,
+
+221
+00:14:04,077 --> 00:14:07,378
+     liquid sugar flows out     
+     of a kettle into a tub.    
+
+222
+00:14:09,816 --> 00:14:12,517
+a worker adds blue food coloring
+          to the syrup,         
+
+223
+00:14:12,519 --> 00:14:15,720
+    and then he blends it in.   
+
+224
+00:14:15,789 --> 00:14:18,989
+       this mix is called       
+        engrossing syrup.       
+
+225
+00:14:19,025 --> 00:14:21,726
+  he adds the engrossing syrup, 
+   along with some flavoring,   
+
+226
+00:14:21,795 --> 00:14:23,061
+    to the jelly-bean centers   
+
+227
+00:14:23,063 --> 00:14:26,397
+      as they tumble around     
+   in a tilted, spinning pan.   
+
+228
+00:14:27,534 --> 00:14:29,801
+         after they turn        
+       a very sticky blue,      
+
+229
+00:14:29,936 --> 00:14:32,536
+   the worker dumps some sugar  
+          into the pan.         
+
+230
+00:14:32,606 --> 00:14:34,873
+          this process          
+     is repeated four times     
+
+231
+00:14:35,008 --> 00:14:38,209
+ in order to build up a coating 
+    around the gummy center.    
+
+232
+00:14:39,579 --> 00:14:42,013
+          the next day,         
+  when the beans have hardened, 
+
+233
+00:14:42,082 --> 00:14:46,017
+  they add hot syrup to the mix 
+and toss the beans around again.
+
+234
+00:14:46,086 --> 00:14:49,020
+ this polishes the jelly beans. 
+
+235
+00:14:49,155 --> 00:14:51,222
+          there's a lot         
+     of sweet stuff here --     
+
+236
+00:14:51,291 --> 00:14:55,093
+124,000 jelly beans in each pan.
+
+237
+00:14:58,098 --> 00:15:00,698
+    now he adds a little wax.   
+
+238
+00:15:00,767 --> 00:15:02,433
+      and as the pan spins,     
+
+239
+00:15:02,435 --> 00:15:05,770
+   the beans rub against each   
+  other, distributing the wax.  
+
+240
+00:15:05,839 --> 00:15:08,706
+ this adds gloss to the polish. 
+
+241
+00:15:15,348 --> 00:15:17,648
+  then the pan stops spinning,  
+
+242
+00:15:17,651 --> 00:15:20,584
+   and the jelly beans air dry  
+          for 24 hours          
+
+243
+00:15:20,654 --> 00:15:22,720
+   to allow the glaze to set.   
+
+244
+00:15:22,722 --> 00:15:25,189
+    it's the finishing touch.   
+
+245
+00:15:26,826 --> 00:15:28,259
+        after 3 1/2 days,       
+
+246
+00:15:28,394 --> 00:15:31,629
+         this big batch         
+    of jelly beans is ready.    
+
+247
+00:15:34,534 --> 00:15:36,334
+            they move           
+     in a multi-colored mass    
+
+248
+00:15:36,403 --> 00:15:39,938
+  along a series of conveyors.  
+
+249
+00:15:45,011 --> 00:15:46,744
+  they fall into a scale system 
+
+250
+00:15:46,813 --> 00:15:50,348
+     that portions them out     
+     for specific bag sizes.    
+
+251
+00:15:50,417 --> 00:15:51,816
+     then a trap door opens,    
+
+252
+00:15:51,818 --> 00:15:55,553
+   and they drop down a chute   
+  to the packaging department.  
+
+253
+00:15:55,622 --> 00:15:58,022
+    once they're in the bag,    
+
+254
+00:15:58,157 --> 00:16:00,892
+    the jelly beans are ready   
+      to sweeten your day.      
+
+255
+00:16:08,835 --> 00:16:10,368
+   narrator: in just minutes,   
+
+256
+00:16:10,370 --> 00:16:12,437
+  an ice resurfacer can smooth  
+           the surface          
+
+257
+00:16:12,572 --> 00:16:14,372
+        of an ice-skating       
+         or hockey rink.        
+
+258
+00:16:14,441 --> 00:16:17,308
+ before it was invented in 1949,
+
+259
+00:16:17,377 --> 00:16:20,578
+  it took several workers over  
+  an hour to resurface the ice  
+
+260
+00:16:20,713 --> 00:16:22,913
+   using scrapers, squeegees,   
+           and hoses.           
+
+261
+00:16:22,983 --> 00:16:26,784
+      today, these machines     
+ provide quick, uniform results.
+
+262
+00:16:33,860 --> 00:16:37,061
+    if you ice-skate, you're    
+   thankful for this machine.   
+
+263
+00:16:37,130 --> 00:16:41,465
+   it smooths the ice in just   
+  a few turns around the rink.  
+
+264
+00:16:41,534 --> 00:16:43,734
+   to make an ice resurfacer,   
+
+265
+00:16:43,803 --> 00:16:46,937
+ they weld together steel pieces
+     to build the mainframe.    
+
+266
+00:16:47,007 --> 00:16:48,740
+ the frame has to be very strong
+
+267
+00:16:48,875 --> 00:16:51,208
+     because it will support    
+   everything from the engine   
+
+268
+00:16:51,277 --> 00:16:52,744
+       to the water tank.       
+
+269
+00:16:52,879 --> 00:16:55,480
+  it's a load of almost 3 tons. 
+
+270
+00:16:59,952 --> 00:17:02,420
+ sparks fly as they grind smooth
+            the areas           
+
+271
+00:17:02,489 --> 00:17:04,155
+  where parts will be mounted.  
+
+272
+00:17:04,157 --> 00:17:08,259
+  the sparks are actually steel 
+   fragments being sanded off.  
+
+273
+00:17:09,996 --> 00:17:13,097
+ next, they weld support braces 
+       with holes in them       
+
+274
+00:17:13,099 --> 00:17:14,965
+to the center of the water tank.
+
+275
+00:17:15,035 --> 00:17:16,366
+    these are called baffles,   
+
+276
+00:17:16,403 --> 00:17:18,236
+    and the holes will allow    
+            the water           
+
+277
+00:17:18,371 --> 00:17:20,338
+     to flow into both ends     
+          of the tank.          
+
+278
+00:17:22,709 --> 00:17:25,442
+     now they slide a piece     
+       of spiraling steel,      
+
+279
+00:17:25,478 --> 00:17:28,413
+    which is auger flighting,   
+      on one end of a pipe.     
+
+280
+00:17:30,316 --> 00:17:33,183
+   and they slip a piece that   
+twists in the opposite direction
+
+281
+00:17:33,219 --> 00:17:35,219
+     on the other end of it.    
+
+282
+00:17:42,295 --> 00:17:44,662
+   they weld a u-shaped paddle  
+           to the pipe          
+
+283
+00:17:44,797 --> 00:17:47,698
+ between the two steel spirals, 
+         or flightings.         
+
+284
+00:17:47,734 --> 00:17:49,934
+ the paddle is a critical part. 
+
+285
+00:17:50,003 --> 00:17:52,536
+    the flightings will feed    
+       ice shavings to it,      
+
+286
+00:17:52,572 --> 00:17:55,072
+       and the paddle will      
+     then toss them to a bin    
+
+287
+00:17:55,108 --> 00:17:58,009
+   mounted above a water tank   
+    to be disposed of later.    
+
+288
+00:18:03,950 --> 00:18:06,484
+     next, the worker clamps    
+          the flighting         
+
+289
+00:18:06,486 --> 00:18:08,685
+    to a hydraulic cylinder.    
+
+290
+00:18:08,721 --> 00:18:11,822
+ he turns a lever, and hydraulic
+     energy pulls the clamp,    
+
+291
+00:18:11,825 --> 00:18:14,192
+   drawing the auger flighting  
+       snugly to the pipe.      
+
+292
+00:18:19,966 --> 00:18:23,300
+       as the clamp holds       
+   the flighting in position,   
+
+293
+00:18:23,369 --> 00:18:25,203
+    he welds it to the pipe.    
+
+294
+00:18:30,610 --> 00:18:33,010
+   now they're solidly sealed   
+            together.           
+
+295
+00:18:34,714 --> 00:18:37,648
+      next, another worker      
+    places a long steel blade   
+
+296
+00:18:37,783 --> 00:18:39,116
+      on a magnetic table.      
+
+297
+00:18:39,152 --> 00:18:40,651
+    the magnets hold it down    
+
+298
+00:18:40,720 --> 00:18:44,454
+ while a grinding machine moves 
+  over it, sharpening the edge. 
+
+299
+00:18:44,491 --> 00:18:47,191
+      because the grinding      
+         generates heat,        
+
+300
+00:18:47,193 --> 00:18:50,194
+     the machine also floods    
+      the blade with water.     
+
+301
+00:18:50,329 --> 00:18:53,231
+       this cools it down       
+    so the steel stays hard.    
+
+302
+00:18:55,001 --> 00:18:59,003
+ now, using a crane, they lower 
+    an engine onto the frame    
+
+303
+00:18:59,138 --> 00:19:01,172
+   that we saw welded together  
+            earlier.            
+
+304
+00:19:06,345 --> 00:19:09,480
+         then they slide        
+ the rear drive shaft into place
+
+305
+00:19:09,549 --> 00:19:13,050
+        and bolt it down        
+    using a pneumatic wrench.   
+
+306
+00:19:16,222 --> 00:19:20,091
+ the tires for an ice resurfacer
+will need some serious traction.
+
+307
+00:19:20,226 --> 00:19:23,628
+        each tire gets 92       
+      of these metal studs.     
+
+308
+00:19:25,298 --> 00:19:28,332
+       they drop the studs      
+    into a revolving feeder.    
+
+309
+00:19:29,435 --> 00:19:32,036
+  the studs funnel down a tube  
+        to the stud gun,        
+
+310
+00:19:32,038 --> 00:19:34,705
+ ensuring that it never runs out
+         of ammunition.         
+
+311
+00:19:42,415 --> 00:19:46,050
+the road these tires travel will
+ be nothing but a sheet of ice, 
+
+312
+00:19:46,119 --> 00:19:49,353
+  and these studs should allow  
+    them to stay the course.    
+
+313
+00:19:52,792 --> 00:19:54,325
+      next, using a crane,      
+
+314
+00:19:54,394 --> 00:19:57,628
+  they transfer the water tank  
+   to the center of the frame.  
+
+315
+00:20:01,200 --> 00:20:04,602
+  the snow bin, which will hold 
+    the scraped ice, is next.   
+
+316
+00:20:04,671 --> 00:20:07,672
+  they place it on pivot points 
+          at the front.         
+
+317
+00:20:10,677 --> 00:20:14,211
+  then workers slide the blade  
+           into place.          
+
+318
+00:20:14,280 --> 00:20:17,782
+      the bolt it tightly,      
+working from the center outward.
+
+319
+00:20:19,218 --> 00:20:21,819
+    the workers are shielded    
+    from the very sharp blade   
+
+320
+00:20:21,888 --> 00:20:24,789
+       by a plastic sleeve      
+     that sheathes the edge.    
+
+321
+00:20:25,892 --> 00:20:29,126
+    when the blade is secure,   
+    they remove the plastic.    
+
+322
+00:20:31,897 --> 00:20:35,165
+      now it's time to give     
+ the ice resurfacer a test run. 
+
+323
+00:20:35,235 --> 00:20:38,169
+      the steel flightings      
+    twist towards the paddle    
+
+324
+00:20:38,304 --> 00:20:40,237
+ at the center, as they should. 
+
+325
+00:20:40,240 --> 00:20:43,574
+        here's a close-up       
+    of that razor-sharp blade   
+
+326
+00:20:43,576 --> 00:20:45,843
+    that will shave the ice.    
+
+327
+00:20:45,912 --> 00:20:49,847
+  a rectangular scraper slides  
+      over the flightings,      
+
+328
+00:20:49,916 --> 00:20:53,684
+preventing snow from building up
+    and clogging the system.    
+
+329
+00:20:56,089 --> 00:20:59,056
+this ice resurfacer is now ready
+          for the rink,         
+
+330
+00:20:59,092 --> 00:21:02,793
+ and it's sure to smooth the ice
+       for years to come.       
+
+331
+00:21:02,862 --> 00:21:05,863
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+332
+00:21:05,865 --> 00:21:08,833
+      captions paid for by      
+ discovery communications, inc. 
+
+333
+00:21:12,672 --> 00:21:14,938
+    if you have any comments    
+         about the show,        
+
+334
+00:21:15,008 --> 00:21:17,541
+   or if you'd like to suggest  
+    topics for future shows,    
+
+335
+00:21:17,577 --> 00:21:19,810
+      drop us a line at...      
+

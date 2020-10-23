@@ -1,0 +1,1531 @@
+1
+00:00:01,802 --> 00:00:04,736
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,738 --> 00:00:07,740
+      captions paid for by      
+ discovery communications, inc. 
+
+3
+00:00:22,689 --> 00:00:25,090
+            narrator:           
+  today, on "how it's made"...  
+
+4
+00:00:25,092 --> 00:00:27,893
+        halogen bulbs...        
+
+5
+00:00:31,965 --> 00:00:33,932
+   ...cellulose insulation...   
+
+6
+00:00:37,905 --> 00:00:39,505
+     ...aluminum ladders...     
+
+7
+00:00:43,844 --> 00:00:45,511
+     ...and bamboo fly rods.    
+
+8
+00:00:53,254 --> 00:00:54,720
+       halogen headlights       
+
+9
+00:00:54,722 --> 00:00:57,989
+         are an example         
+   of technological progress.   
+
+10
+00:00:57,991 --> 00:01:00,192
+        the halogen bulbs       
+     throw cool, white light    
+
+11
+00:01:00,194 --> 00:01:03,262
+      that mimics daylight,     
+  illuminating the road ahead.  
+
+12
+00:01:03,264 --> 00:01:05,731
+           and because          
+    they're energy-efficient,   
+
+13
+00:01:05,733 --> 00:01:07,466
+ they don't burn out too often. 
+
+14
+00:01:07,468 --> 00:01:10,836
+that's a plus when you're trying
+ to keep your eyes on the road. 
+
+15
+00:01:15,542 --> 00:01:17,075
+  to make a halogen headlight,  
+
+16
+00:01:17,077 --> 00:01:20,812
+      mechanical jaws load      
+three lead wires into a machine.
+
+17
+00:01:20,814 --> 00:01:26,051
+     a gripper moves in and     
+ bends the wires at the bottom. 
+
+18
+00:01:26,053 --> 00:01:28,620
+  meanwhile, a conveyer system  
+
+19
+00:01:28,622 --> 00:01:31,190
+     feeds little glass rods    
+          to a burner.          
+
+20
+00:01:36,030 --> 00:01:38,297
+       the softened glass       
+         is now pressed         
+
+21
+00:01:38,299 --> 00:01:40,766
+      under either side of      
+ the lead wires, encasing them. 
+
+22
+00:01:40,768 --> 00:01:44,502
+      next, a welding head      
+      fuses tungsten coils      
+
+23
+00:01:44,504 --> 00:01:47,239
+   to the lead-wire assembly.   
+
+24
+00:01:47,241 --> 00:01:48,907
+    the coil is the filament,   
+
+25
+00:01:48,909 --> 00:01:52,478
+      the part of the bulb      
+        that emits light.       
+
+26
+00:01:54,381 --> 00:01:56,314
+    over at another station,    
+
+27
+00:01:56,316 --> 00:02:00,719
+ a mechanical arm loads a glass 
+    tube into a machine head.   
+
+28
+00:02:00,721 --> 00:02:04,089
+      a burner aims a flame     
+ at the center to soften it up. 
+
+29
+00:02:07,394 --> 00:02:10,662
+      then mechanical heads     
+   pull the glass at both ends  
+
+30
+00:02:10,664 --> 00:02:13,731
+     as the burner continues    
+   to fire heat at the middle.  
+
+31
+00:02:13,733 --> 00:02:15,334
+this creates a neck in the tube.
+
+32
+00:02:19,940 --> 00:02:22,941
+  now mechanical arms position  
+ the coil-and-lead-wire assembly
+
+33
+00:02:22,943 --> 00:02:25,544
+     under the newly shaped     
+          glass tubes.          
+
+34
+00:02:27,615 --> 00:02:30,616
+  grippers lower the glass tube 
+            over them           
+
+35
+00:02:30,618 --> 00:02:32,184
+   so they sit under the neck.  
+
+36
+00:02:35,422 --> 00:02:38,757
+  burners move in and encircle  
+    the glass at the bottom,    
+
+37
+00:02:38,759 --> 00:02:40,159
+          softening it.         
+
+38
+00:02:44,898 --> 00:02:47,933
+  then a press seals the glass  
+     around the lead wires,     
+
+39
+00:02:47,935 --> 00:02:50,169
+ which protrude from the bottom.
+
+40
+00:02:51,972 --> 00:02:55,774
+  next, a test -- an electrode  
+     sparks the lead wires.     
+
+41
+00:02:55,776 --> 00:02:57,576
+  when the capsule illuminates, 
+
+42
+00:02:57,578 --> 00:02:59,911
+        it means there's        
+       ambient air inside       
+
+43
+00:02:59,913 --> 00:03:02,014
+      that would interfere      
+    with the bulb's function.   
+
+44
+00:03:05,652 --> 00:03:08,253
+ vacuums at the top of the bulb 
+
+45
+00:03:08,255 --> 00:03:10,522
+      suck out all the air      
+        and contaminants.       
+
+46
+00:03:12,526 --> 00:03:16,661
+       then nozzles spray       
+ liquid nitrogen onto the bulb. 
+
+47
+00:03:16,663 --> 00:03:20,732
+ this freezes it inside and out,
+ creating a pressure difference.
+
+48
+00:03:20,734 --> 00:03:24,670
+     that change in pressure    
+ pulls halogen gas into the bulb
+
+49
+00:03:24,672 --> 00:03:26,872
+      from a chamber above.     
+
+50
+00:03:26,874 --> 00:03:29,608
+        allowing no time        
+     for the gas to escape,     
+
+51
+00:03:29,610 --> 00:03:32,511
+        burners heat-seal       
+      the bulb at the neck.     
+
+52
+00:03:35,282 --> 00:03:39,884
+the bulbs then cool as they move
+      on a transfer chain.      
+
+53
+00:03:39,886 --> 00:03:43,522
+   grippers now load the bulbs  
+      into another machine.     
+
+54
+00:03:45,092 --> 00:03:48,226
+        a pusher moves up       
+   and snaps a steel retainer   
+
+55
+00:03:48,228 --> 00:03:51,096
+ around the bottom of each bulb.
+
+56
+00:03:51,098 --> 00:03:54,632
+   meanwhile, another machine   
+  builds the base for the bulb. 
+
+57
+00:03:54,634 --> 00:03:58,537
+  it pushes electrical contacts 
+  into the plastic receptacle.  
+
+58
+00:04:04,778 --> 00:04:06,645
+        this is the view        
+        from the bottom.        
+
+59
+00:04:06,647 --> 00:04:08,980
+          these prongs          
+     will eventually connect    
+
+60
+00:04:08,982 --> 00:04:11,582
+  the headlight to the vehicle. 
+
+61
+00:04:11,584 --> 00:04:15,586
+   next, jaws flip the bases.   
+
+62
+00:04:15,588 --> 00:04:19,224
+         they load them         
+     onto a tray on tracks.     
+
+63
+00:04:21,662 --> 00:04:25,130
+  the tray delivers the plastic 
+    bases to a mechanical arm   
+
+64
+00:04:25,132 --> 00:04:29,334
+  that installs metal retainers 
+          on each one.          
+
+65
+00:04:29,336 --> 00:04:30,802
+    the bases slide forward,    
+
+66
+00:04:30,804 --> 00:04:33,938
+     and the machine inserts    
+   the glass bulbs into them.   
+
+67
+00:04:33,940 --> 00:04:36,341
+      but it's a loose fit.     
+
+68
+00:04:39,947 --> 00:04:43,548
+       this machine aligns      
+     each bulb to its base.     
+
+69
+00:04:43,550 --> 00:04:46,684
+            jaws tilt           
+    and slide it into place,    
+
+70
+00:04:46,686 --> 00:04:49,620
+ then a laser welds it together.
+
+71
+00:04:49,622 --> 00:04:51,223
+   this alignment is critical.  
+
+72
+00:04:51,225 --> 00:04:54,226
+     coils for the low-beam     
+    and high-beam mechanisms    
+
+73
+00:04:54,228 --> 00:04:56,027
+  must be precisely positioned  
+
+74
+00:04:56,029 --> 00:04:59,698
+  for the headlight to project  
+        the right light.        
+
+75
+00:04:59,700 --> 00:05:02,968
+     next, a series of claws    
+       pick up the bulbs.       
+
+76
+00:05:07,040 --> 00:05:10,309
+          they dip them         
+      in an opaque coating.     
+
+77
+00:05:10,311 --> 00:05:12,377
+      it's called blacktop      
+
+78
+00:05:12,379 --> 00:05:14,913
+     because it only covers     
+     the tops of the bulbs.     
+
+79
+00:05:18,451 --> 00:05:22,387
+     this will direct light     
+  out of the sides of the bulb. 
+
+80
+00:05:22,389 --> 00:05:24,923
+          now it's time         
+    to take these headlights    
+
+81
+00:05:24,925 --> 00:05:28,260
+ for a test-drive, so to speak. 
+
+82
+00:05:28,262 --> 00:05:30,328
+    a bracket holds them down   
+
+83
+00:05:30,330 --> 00:05:33,998
+while probes underneath energize
+  them to make sure they work.  
+
+84
+00:05:34,000 --> 00:05:37,469
+    a plunger places a gasket   
+        around the base.        
+
+85
+00:05:37,471 --> 00:05:40,439
+  this will seal the headlight  
+   capsule to the automobile.   
+
+86
+00:05:43,744 --> 00:05:49,081
+ and now they're ready to guide 
+ you on your nighttime drives.  
+
+87
+00:05:58,158 --> 00:06:01,226
+   narrator: insulation keeps   
+ your home warmer in the winter 
+
+88
+00:06:01,228 --> 00:06:02,560
+    and cooler in the summer.   
+
+89
+00:06:02,562 --> 00:06:04,228
+ one type of insulation material
+
+90
+00:06:04,230 --> 00:06:07,098
+       is cellulose fiber       
+    made from recycled paper.   
+
+91
+00:06:07,100 --> 00:06:10,168
+        it's derived from       
+  a natural source, wood fiber, 
+
+92
+00:06:10,170 --> 00:06:11,503
+      so it's nonpolluting.     
+
+93
+00:06:11,505 --> 00:06:13,839
+    it contains no asbestos,    
+         no fiberglass,         
+
+94
+00:06:13,841 --> 00:06:15,974
+           and there's          
+     no formaldehyde in it,     
+
+95
+00:06:15,976 --> 00:06:17,976
+  so it doesn't emit any gases. 
+
+96
+00:06:19,646 --> 00:06:21,446
+like other insulation materials,
+
+97
+00:06:21,448 --> 00:06:22,981
+   cellulose fiber has to meet  
+
+98
+00:06:22,983 --> 00:06:25,116
+        strict government       
+        safety standards.       
+
+99
+00:06:25,118 --> 00:06:26,651
+  one firesafety test assesses  
+
+100
+00:06:26,653 --> 00:06:28,720
+          what's called         
+       smolder resistance.      
+
+101
+00:06:28,722 --> 00:06:31,790
+ the company lab weighs a sample
+    from the production line,   
+
+102
+00:06:31,792 --> 00:06:33,792
+          then inserts          
+     a lit cigarette in it.     
+
+103
+00:06:33,794 --> 00:06:37,796
+  once the cigarette burns out, 
+   which takes an hour or two,  
+
+104
+00:06:37,798 --> 00:06:39,597
+the lab weighs the sample again.
+
+105
+00:06:39,599 --> 00:06:42,467
+         the weight loss        
+     must be less than 15%.     
+
+106
+00:06:45,472 --> 00:06:47,872
+          how they make         
+      cellulose insulation      
+
+107
+00:06:47,874 --> 00:06:49,341
+     isn't very complicated.    
+
+108
+00:06:49,343 --> 00:06:52,778
+   it all begins with recycled  
+    paper delivered in bulk.    
+
+109
+00:07:15,035 --> 00:07:17,836
+         workers load it        
+      onto a conveyor belt,     
+
+110
+00:07:17,838 --> 00:07:21,606
+     and from that point on,    
+the entire process is automated.
+
+111
+00:07:28,782 --> 00:07:30,449
+      the paper first goes      
+
+112
+00:07:30,451 --> 00:07:34,519
+         into a machine         
+    called the primary mixer.   
+
+113
+00:07:34,521 --> 00:07:36,855
+          it separates          
+     the bunched-up pieces,     
+
+114
+00:07:36,857 --> 00:07:38,590
+  preparing them for shredding. 
+
+115
+00:07:46,666 --> 00:07:48,600
+  the machine's powerful magnet 
+
+116
+00:07:48,602 --> 00:07:52,337
+ removes staples, paper clips,  
+ and any other pieces of metal. 
+
+117
+00:08:08,088 --> 00:08:11,222
+           from there,          
+ the paper goes into a shredder,
+
+118
+00:08:11,224 --> 00:08:14,359
+    which rips it into pieces   
+      about 2 inches long.      
+
+119
+00:08:14,361 --> 00:08:18,095
+ the factory mixes the shredded 
+     paper with boric acid,     
+
+120
+00:08:18,097 --> 00:08:21,299
+       a natural compound       
+ that acts as a fire retardant. 
+
+121
+00:08:21,301 --> 00:08:24,035
+          it also makes         
+ the insulation pest-resistant, 
+
+122
+00:08:24,037 --> 00:08:27,439
+   and it helps fend off mold,  
+   wood decay, and corrosion.   
+
+123
+00:08:27,441 --> 00:08:30,374
+now a machine called a fiberizer
+        shreds the paper        
+
+124
+00:08:30,376 --> 00:08:33,912
+      into tiny pieces only     
+   about 1/8 of an inch long,   
+
+125
+00:08:33,914 --> 00:08:36,615
+        and it mixes them       
+      with more boric acid.     
+
+126
+00:08:43,523 --> 00:08:46,457
+from the time the recycled paper
+        arrives by truck        
+
+127
+00:08:46,459 --> 00:08:48,727
+           to the time          
+      it comes off the line     
+
+128
+00:08:48,729 --> 00:08:50,461
+ as cellulose-fiber insulation, 
+
+129
+00:08:50,463 --> 00:08:53,064
+     only about five minutes    
+          have passed.          
+
+130
+00:08:53,066 --> 00:08:56,134
+       but the insulation       
+    doesn't leave the factory   
+
+131
+00:08:56,136 --> 00:08:59,003
+        before undergoing       
+    thorough safety testing.    
+
+132
+00:08:59,005 --> 00:09:02,474
+       this test assesses       
+what's called open flammability.
+
+133
+00:09:02,476 --> 00:09:05,543
+    they heat the insulation    
+    to 122 degrees fahrenheit   
+
+134
+00:09:05,545 --> 00:09:08,880
+  to represent the temperature  
+    of a roof in the hot sun.   
+
+135
+00:09:08,882 --> 00:09:10,348
+      then they ignite it.      
+
+136
+00:09:10,350 --> 00:09:12,550
+       the flame travels        
+       but then dies out,       
+
+137
+00:09:12,552 --> 00:09:14,018
+    thanks to the boric acid.   
+
+138
+00:09:14,020 --> 00:09:16,554
+         if that happens        
+   within a certain distance,   
+
+139
+00:09:16,556 --> 00:09:18,089
+     the insulation is safe.    
+
+140
+00:09:18,091 --> 00:09:21,492
+     outside research firms     
+also test the product for safety
+
+141
+00:09:21,494 --> 00:09:23,294
+  to independently corroborate  
+
+142
+00:09:23,296 --> 00:09:26,364
+           the results          
+     of the company's tests.    
+
+143
+00:09:26,366 --> 00:09:28,767
+          the automated         
+       packaging equipment      
+
+144
+00:09:28,769 --> 00:09:31,569
+         blows 25 pounds        
+    of insulation into a bag,   
+
+145
+00:09:31,571 --> 00:09:34,940
+  at the same time compressing  
+     the fiber into a block.    
+
+146
+00:09:39,179 --> 00:09:41,980
+some types of thermal insulation
+
+147
+00:09:41,982 --> 00:09:44,683
+    come as thick rectangular   
+    blankets known as batts.    
+
+148
+00:09:49,523 --> 00:09:51,723
+    you install them by hand,   
+
+149
+00:09:51,725 --> 00:09:54,759
+       fitting them snugly      
+     between the wall studs.    
+
+150
+00:09:54,761 --> 00:09:57,662
+         cellulose fiber        
+     doesn't come in batts.     
+
+151
+00:09:57,664 --> 00:10:00,131
+           it's known           
+    as loose-fill insulation.   
+
+152
+00:10:00,133 --> 00:10:02,267
+    a professional installer    
+
+153
+00:10:02,269 --> 00:10:04,802
+        has to inject it        
+      in between the walls.     
+
+154
+00:10:04,804 --> 00:10:06,537
+ by spraying it under pressure, 
+
+155
+00:10:06,539 --> 00:10:09,074
+     it fills all the spaces    
+        without any gaps,       
+
+156
+00:10:09,076 --> 00:10:11,876
+   something that's hard to do  
+     with pre-shaped batts.     
+
+157
+00:10:14,414 --> 00:10:17,482
+     insulating performance     
+   is referred to as r-value.   
+
+158
+00:10:17,484 --> 00:10:19,016
+     the higher the r-value,    
+
+159
+00:10:19,018 --> 00:10:22,187
+       the more effective       
+         the insulation.        
+
+160
+00:10:25,225 --> 00:10:28,293
+   cellulose-fiber insulation   
+      has a higher r-value      
+
+161
+00:10:28,295 --> 00:10:30,828
+         than loose-fill        
+    mineral-fiber insulation    
+
+162
+00:10:30,830 --> 00:10:34,032
+     and, depending on which    
+  statistics you're looking at, 
+
+163
+00:10:34,034 --> 00:10:37,035
+   has either the same r-value  
+    as loose-fill fiberglass    
+
+164
+00:10:37,037 --> 00:10:39,604
+       or a higher r-value      
+        than fiberglass.        
+
+165
+00:10:45,578 --> 00:10:48,579
+    cellulose fiber is denser   
+      than other materials,     
+
+166
+00:10:48,581 --> 00:10:50,982
+      so it better resists      
+          air movement,         
+
+167
+00:10:50,984 --> 00:10:54,753
+  making it less likely to move 
+out of place after installation.
+
+168
+00:11:04,530 --> 00:11:08,066
+  narrator: the aluminum ladder 
+       is very convenient.      
+
+169
+00:11:08,068 --> 00:11:11,803
+     lightweight and sturdy,    
+   it makes any ascent easier.  
+
+170
+00:11:11,805 --> 00:11:15,540
+       back in the 1930s,       
+wooden ladders were the standard
+
+171
+00:11:15,542 --> 00:11:19,544
+    but were extremely heavy    
+   and difficult to position.   
+
+172
+00:11:19,546 --> 00:11:23,014
+ the use of aluminum took things
+      to a whole new level.     
+
+173
+00:11:25,218 --> 00:11:26,951
+ for a ladder to really hold up,
+
+174
+00:11:26,953 --> 00:11:29,087
+       the aluminum needs       
+       to be strengthened       
+
+175
+00:11:29,089 --> 00:11:30,622
+    with these ingredients --   
+
+176
+00:11:30,624 --> 00:11:34,024
+       silicon, magnesium,      
+
+177
+00:11:34,026 --> 00:11:36,828
+     manganese, and copper.     
+
+178
+00:11:36,830 --> 00:11:41,566
+           it all goes          
+    into an enormous furnace.   
+
+179
+00:11:41,568 --> 00:11:44,502
+        it takes a crane        
+      to transport a hopper     
+
+180
+00:11:44,504 --> 00:11:48,038
+        full of aluminum        
+      over to the furnace.      
+
+181
+00:11:48,040 --> 00:11:51,309
+        the hopper opens        
+    at the bottom to unload.    
+
+182
+00:11:51,311 --> 00:11:54,378
+      a worker opens a door     
+  at the front of the furnace.  
+
+183
+00:11:54,380 --> 00:11:56,648
+     he wears a face shield     
+         to protect him         
+
+184
+00:11:56,650 --> 00:11:59,150
+       from the blistering      
+    1,300 degrees fahrenheit.   
+
+185
+00:12:01,588 --> 00:12:03,855
+ he adds the other ingredients, 
+
+186
+00:12:03,857 --> 00:12:07,725
+    and the heat turns it all   
+       into a liquid mass.      
+
+187
+00:12:07,727 --> 00:12:10,595
+      the liquid flows out      
+  of the furnace into troughs.  
+
+188
+00:12:10,597 --> 00:12:13,064
+     it seeps through holes     
+         in the troughs         
+
+189
+00:12:13,066 --> 00:12:14,466
+     to molds in the ground.    
+
+190
+00:12:14,468 --> 00:12:17,268
+  the liquid cools and hardens  
+          in the molds.         
+
+191
+00:12:17,270 --> 00:12:22,474
+ this makes log shapes that are 
+    almost 23 feet in length.   
+
+192
+00:12:22,476 --> 00:12:25,476
+ a hydraulic lift extracts them 
+         from the molds         
+
+193
+00:12:25,478 --> 00:12:28,313
+      and slowly takes them     
+      to the next station.      
+
+194
+00:12:30,283 --> 00:12:32,217
+        you wouldn't want       
+        to rush this job.       
+
+195
+00:12:32,219 --> 00:12:35,152
+         each log weighs        
+       about 1,100 pounds,      
+
+196
+00:12:35,154 --> 00:12:38,757
+        and dropping one        
+    could do serious damage.    
+
+197
+00:12:38,759 --> 00:12:41,559
+  a saw cuts them into pellets. 
+
+198
+00:12:41,561 --> 00:12:44,628
+       the size depends on      
+ the type of ladder being made. 
+
+199
+00:12:44,630 --> 00:12:48,032
+   a mechanical lift delivers   
+ a heated pellet to an extruder,
+
+200
+00:12:48,034 --> 00:12:50,434
+       and a ram pushes it      
+        into the opening.       
+
+201
+00:12:50,436 --> 00:12:54,706
+     they move the die plate    
+         into position.         
+
+202
+00:12:58,111 --> 00:13:00,178
+  the ram forces the hot pellet 
+
+203
+00:13:00,180 --> 00:13:02,780
+        through the holes       
+        in the die plate.       
+
+204
+00:13:02,782 --> 00:13:06,417
+     this makes a rail shape    
+      about 130 feet long.      
+
+205
+00:13:11,124 --> 00:13:14,192
+     a puller drags the rail    
+          onto a table          
+
+206
+00:13:14,194 --> 00:13:17,061
+      and leaves it to cool     
+           and harden.          
+
+207
+00:13:17,063 --> 00:13:19,463
+  then a circular saw slices it 
+
+208
+00:13:19,465 --> 00:13:22,800
+   into manageable lengths --   
+          19 1/2 feet.          
+
+209
+00:13:22,802 --> 00:13:25,269
+     operators feed each end    
+       of the ladder rail       
+
+210
+00:13:25,271 --> 00:13:28,673
+  to jaw systems which pull it  
+ to make it completely straight.
+
+211
+00:13:39,419 --> 00:13:43,288
+     the straightened rails     
+now move on to the next station,
+
+212
+00:13:43,290 --> 00:13:46,357
+  where they rivet plastic feet 
+          onto the ends         
+
+213
+00:13:46,359 --> 00:13:50,494
+       to keep the ladder       
+         from slipping.         
+
+214
+00:13:50,496 --> 00:13:53,965
+  they stick safety information 
+         onto the rails.        
+
+215
+00:13:53,967 --> 00:13:57,902
+and now they assemble the ladder
+       one step at a time.      
+
+216
+00:14:02,775 --> 00:14:07,312
+      workers fit each step     
+in the rims of the ladder rails.
+
+217
+00:14:07,314 --> 00:14:09,514
+   they rivet them into place.  
+
+218
+00:14:11,985 --> 00:14:15,720
+     this will be the front     
+   of a light-duty stepladder.  
+
+219
+00:14:15,722 --> 00:14:17,889
+they install a diagonal brace...
+
+220
+00:14:20,594 --> 00:14:21,926
+   ...and turn the ladder over  
+
+221
+00:14:21,928 --> 00:14:23,995
+       to rivet the steps       
+      from the other side.      
+
+222
+00:14:23,997 --> 00:14:25,763
+       it's a little more       
+         reinforcement.         
+
+223
+00:14:27,867 --> 00:14:31,035
+  then they build the backside  
+       of the stepladder.       
+
+224
+00:14:34,474 --> 00:14:37,275
+           they rivet           
+   the sturdy blue plastic top  
+
+225
+00:14:37,277 --> 00:14:40,778
+ onto the front and back pieces,
+        joining the two.        
+
+226
+00:14:43,149 --> 00:14:44,749
+    they install a spreader,    
+
+227
+00:14:44,751 --> 00:14:47,118
+    securing it with rivets,    
+            as well.            
+
+228
+00:14:53,893 --> 00:14:55,693
+     and now this stepladder    
+
+229
+00:14:55,695 --> 00:14:59,563
+       is ready to provide      
+       a little elevation.      
+
+230
+00:14:59,565 --> 00:15:03,368
+     for a lot of elevation,    
+  they make extension ladders.  
+
+231
+00:15:03,370 --> 00:15:06,371
+      they use round rungs      
+      for greater strength.     
+
+232
+00:15:06,373 --> 00:15:08,706
+       they feed each rung      
+      to a coining machine,     
+
+233
+00:15:08,708 --> 00:15:11,642
+     which tapers the ends.     
+
+234
+00:15:11,644 --> 00:15:15,246
+     another machine presses    
+   aluminum ferrules on rings   
+
+235
+00:15:15,248 --> 00:15:17,581
+         onto each end.         
+
+236
+00:15:17,583 --> 00:15:22,053
+      this allows the rungs     
+    to fit snugly into slots    
+
+237
+00:15:22,055 --> 00:15:25,123
+    in the extension ladder's   
+           side rails.          
+
+238
+00:15:31,664 --> 00:15:34,599
+      hydraulic arms reach      
+      from above and below      
+
+239
+00:15:34,601 --> 00:15:36,968
+     to press-fit the rungs     
+      into the side rails.      
+
+240
+00:15:46,212 --> 00:15:48,479
+     finally, workers rivet     
+           rubber pads          
+
+241
+00:15:48,481 --> 00:15:50,548
+   onto the ends of the rails.  
+
+242
+00:15:50,550 --> 00:15:54,151
+          this provides         
+ a firm footing for the ladder. 
+
+243
+00:15:54,153 --> 00:15:57,088
+ these ladders are now complete.
+
+244
+00:15:57,090 --> 00:15:59,690
+    and if you're on your way   
+        up in the world,        
+
+245
+00:15:59,692 --> 00:16:01,492
+     they'll come in handy.     
+
+246
+00:16:09,102 --> 00:16:11,836
+            narrator:           
+the bamboo fly rod is a classic.
+
+247
+00:16:11,838 --> 00:16:14,172
+      the split-bamboo rod      
+         has been around        
+
+248
+00:16:14,174 --> 00:16:15,973
+  since the early 19th century, 
+
+249
+00:16:15,975 --> 00:16:19,577
+   and for many years, it was   
+ the only kind of rod available.
+
+250
+00:16:19,579 --> 00:16:21,646
+           these days,          
+     synthetic rods abound,     
+
+251
+00:16:21,648 --> 00:16:24,315
+     but bamboo still holds     
+      a traditional appeal      
+
+252
+00:16:24,317 --> 00:16:27,952
+       to those that like       
+ to fish the old-fashioned way. 
+
+253
+00:16:30,323 --> 00:16:31,655
+         going fishing?         
+
+254
+00:16:31,657 --> 00:16:34,258
+   a bamboo rod is considered   
+          a work of art         
+
+255
+00:16:34,260 --> 00:16:35,660
+     in fly-fishing circles.    
+
+256
+00:16:40,467 --> 00:16:45,136
+ to make one, a craftsman toasts
+ a bamboo pole on an open flame.
+
+257
+00:16:47,207 --> 00:16:50,408
+ he holds it close to the fire, 
+      but not too close --      
+
+258
+00:16:50,410 --> 00:16:54,011
+         one false move,        
+     and he could scorch it.    
+
+259
+00:16:54,013 --> 00:16:57,682
+ the goal is to turn the bamboo 
+         a golden brown.        
+
+260
+00:16:57,684 --> 00:17:02,619
+        he pounds a wedge       
+     into the toasted bamboo    
+
+261
+00:17:02,621 --> 00:17:05,690
+          and drives it         
+  down the length of the pole.  
+
+262
+00:17:08,361 --> 00:17:11,295
+    he pulls the pole apart,    
+      splitting it in two.      
+
+263
+00:17:11,297 --> 00:17:13,697
+        then he continues       
+      to split the bamboo,      
+
+264
+00:17:13,699 --> 00:17:17,902
+   making strips that are less  
+   than a half-inch in width.   
+
+265
+00:17:19,973 --> 00:17:23,908
+ he grinds down the bumps on the
+  exterior of each bamboo strip 
+
+266
+00:17:23,910 --> 00:17:25,410
+      using a belt sander.      
+
+267
+00:17:28,714 --> 00:17:31,516
+         next, it's over        
+     to the milling machine.    
+
+268
+00:17:31,518 --> 00:17:34,185
+     it tapers the underside    
+      of the bamboo strip,      
+
+269
+00:17:34,187 --> 00:17:37,254
+beveling it to a 60-degree angle
+        from end to end.        
+
+270
+00:17:37,256 --> 00:17:39,790
+ the tapering is a critical step
+
+271
+00:17:39,792 --> 00:17:42,860
+        that will affect        
+ the rod's casting performance. 
+
+272
+00:17:42,862 --> 00:17:46,663
+  each strip has to be perfect. 
+
+273
+00:17:46,665 --> 00:17:50,667
+   the rod maker inspects them  
+          for flaws...          
+
+274
+00:17:50,669 --> 00:17:55,673
+   and then fits six together   
+  in a hexagonal configuration. 
+
+275
+00:17:55,675 --> 00:17:57,675
+ he wraps them with cotton twine
+
+276
+00:17:57,677 --> 00:18:00,878
+      to hold them together     
+    very loosely at one end.    
+
+277
+00:18:06,820 --> 00:18:11,355
+ then he dips the bamboo strips 
+in a tank of thermosetting glue.
+
+278
+00:18:11,357 --> 00:18:13,958
+          he feeds them         
+      to a twining machine      
+
+279
+00:18:13,960 --> 00:18:16,561
+     which binds the strips     
+        tightly together.       
+
+280
+00:18:16,563 --> 00:18:19,097
+    it's a temporary wrap --    
+         a kind of clamp        
+
+281
+00:18:19,099 --> 00:18:21,566
+   to hold the pieces together  
+      while the glue dries.     
+
+282
+00:18:21,568 --> 00:18:24,235
+         the pieces are         
+     now laminated into one,    
+
+283
+00:18:24,237 --> 00:18:27,238
+        but the result is       
+    never perfectly straight,   
+
+284
+00:18:27,240 --> 00:18:31,976
+    so the rod maker heats it   
+       over an open flame.      
+
+285
+00:18:31,978 --> 00:18:35,947
+   the heat softens the bamboo  
+ so he can smooth out the kinks.
+
+286
+00:18:40,253 --> 00:18:43,588
+     next, he glues ferrules    
+     made from nickel silver    
+
+287
+00:18:43,590 --> 00:18:46,624
+       onto the laminated       
+         bamboo pieces.         
+
+288
+00:18:49,796 --> 00:18:51,729
+    this tubing will be used    
+
+289
+00:18:51,731 --> 00:18:54,265
+       to connect the tip       
+   and butt pieces of the rod.  
+
+290
+00:18:54,267 --> 00:18:57,000
+        the butt section        
+      now turns on a lathe      
+
+291
+00:18:57,002 --> 00:18:59,269
+   while a blade cuts into it.  
+
+292
+00:18:59,271 --> 00:19:01,338
+   it's slimming down sections  
+
+293
+00:19:01,340 --> 00:19:03,874
+    to accommodate the handle   
+         and reel seat.         
+
+294
+00:19:03,876 --> 00:19:08,145
+he slips on the walnut reel seat
+
+295
+00:19:08,147 --> 00:19:12,816
+   and then slides cork rings   
+onto the rod to make the handle.
+
+296
+00:19:12,818 --> 00:19:15,386
+       he glues each ring.      
+
+297
+00:19:17,890 --> 00:19:19,623
+        it takes 12 to 14       
+
+298
+00:19:19,625 --> 00:19:22,627
+        to make a handle        
+   for the typical bamboo rod.  
+
+299
+00:19:22,629 --> 00:19:27,231
+          it will allow         
+    for a soft, nonslip grip.   
+
+300
+00:19:27,233 --> 00:19:30,968
+     once the glue hardens,     
+ he shapes the cork on a lathe. 
+
+301
+00:19:35,642 --> 00:19:39,843
+           he sands it          
+     to give an even finish.    
+
+302
+00:19:39,845 --> 00:19:43,247
+       next, he heats glue      
+          over a flame.         
+
+303
+00:19:43,249 --> 00:19:45,983
+     he applies the hot glue    
+   to the stainless-steel tip   
+
+304
+00:19:45,985 --> 00:19:49,520
+ and sticks it on the narrow end
+           of the rod.          
+
+305
+00:19:54,193 --> 00:19:56,193
+      with black india ink,     
+
+306
+00:19:56,195 --> 00:20:00,665
+     he inscribes the model     
+ and serial number onto the rod.
+
+307
+00:20:00,667 --> 00:20:05,770
+ now they coat it with varnish, 
+     using a turkey baster.     
+
+308
+00:20:08,341 --> 00:20:10,874
+    he hangs the rods to dry.   
+
+309
+00:20:10,876 --> 00:20:13,878
+    it will take three coats    
+   to give them a nice gloss.   
+
+310
+00:20:13,880 --> 00:20:16,347
+           after that,          
+      they wind silk thread     
+
+311
+00:20:16,349 --> 00:20:18,949
+   to attach the steel guides   
+           to the rod.          
+
+312
+00:20:18,951 --> 00:20:21,852
+   they're the loops that the   
+  fishing line will go through. 
+
+313
+00:20:26,626 --> 00:20:29,760
+     they brush three coats     
+   of varnish onto the string.  
+
+314
+00:20:29,762 --> 00:20:32,296
+   this solidifies the wrap...  
+
+315
+00:20:34,767 --> 00:20:38,035
+   ...and fuses it to the rod.  
+
+316
+00:20:38,037 --> 00:20:40,971
+        they slide a ring       
+       onto the reel seat.      
+
+317
+00:20:40,973 --> 00:20:45,509
+ it provides a little separation
+       from the cork grip.      
+
+318
+00:20:47,112 --> 00:20:51,649
+they fit the butt and tip pieces
+   of the bamboo rod together   
+
+319
+00:20:51,651 --> 00:20:53,684
+   and do a final inspection.   
+
+320
+00:20:56,255 --> 00:21:00,524
+      it has taken 40 hours     
+  to make this bamboo fly rod.  
+
+321
+00:21:04,130 --> 00:21:07,531
+    but it shouldn't take you   
+ that long to catch the big one.
+
+322
+00:21:12,605 --> 00:21:14,871
+    if you have any comments    
+         about the show,        
+
+323
+00:21:14,873 --> 00:21:17,541
+   or if you'd like to suggest  
+    topics for future shows,    
+
+324
+00:21:17,543 --> 00:21:19,610
+      drop us a line at...      
+

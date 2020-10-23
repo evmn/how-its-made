@@ -1,0 +1,1387 @@
+1
+00:00:22,823 --> 00:00:26,224
+            narrator:           
+   today on "how it's made"...  
+
+2
+00:00:26,226 --> 00:00:28,160
+         motorcycles...         
+
+3
+00:00:32,233 --> 00:00:34,033
+        ...clay pipes...        
+
+4
+00:00:37,972 --> 00:00:39,538
+        ...drumsticks...        
+
+5
+00:00:43,577 --> 00:00:45,244
+        ...and whistles.        
+
+6
+00:00:53,254 --> 00:00:56,588
+ the invention of the motorcycle
+    late in the 19th century    
+
+7
+00:00:56,590 --> 00:00:57,922
+        was speed driven.       
+
+8
+00:00:57,924 --> 00:00:59,991
+          people wanted         
+       to go places faster      
+
+9
+00:00:59,993 --> 00:01:01,860
+  than they could on a bicycle. 
+
+10
+00:01:01,862 --> 00:01:05,130
+   so they strapped an engine   
+ on a bike -- a simple concept. 
+
+11
+00:01:05,132 --> 00:01:07,666
+        today's motorbike       
+      is much more complex,     
+
+12
+00:01:07,668 --> 00:01:10,803
+    and it leaves the earlier   
+      versions in the dust.     
+
+13
+00:01:15,342 --> 00:01:18,477
+        these motorbikes        
+    are an engineering feat.    
+
+14
+00:01:20,614 --> 00:01:24,349
+ they start by welding the frame
+  out of lightweight aluminum,  
+
+15
+00:01:24,351 --> 00:01:27,186
+     an advantage for speed     
+      and fuel efficiency.      
+
+16
+00:01:29,757 --> 00:01:33,892
+     the frames are cleaned,    
+         powder-painted,        
+
+17
+00:01:33,894 --> 00:01:36,495
+  then baked to cure the paint. 
+
+18
+00:01:44,038 --> 00:01:46,538
+      they fit a crankshaft     
+           and pistons          
+
+19
+00:01:46,540 --> 00:01:48,474
+  into the engine's left block. 
+
+20
+00:01:50,978 --> 00:01:53,779
+    they tighten the bearings   
+            and caps,           
+
+21
+00:01:53,781 --> 00:01:56,915
+  then slide in a u-shaped tool 
+          called a fork         
+
+22
+00:01:56,917 --> 00:01:59,751
+    that orients the pistons    
+    in an upright position.     
+
+23
+00:02:02,589 --> 00:02:05,724
+     next, they compress the    
+ piston rings with another tool 
+
+24
+00:02:05,726 --> 00:02:08,460
+       so that the pistons      
+     easily slide into place    
+
+25
+00:02:08,462 --> 00:02:11,430
+ as they install the other half 
+      of the engine block.      
+
+26
+00:02:17,805 --> 00:02:21,673
+       they place a gasket      
+   on the top of the block...   
+
+27
+00:02:21,675 --> 00:02:24,809
+        and then install        
+       the cylinder head.       
+
+28
+00:02:24,811 --> 00:02:28,280
+using torque-controlled electric
+  tools, they tighten the bolts 
+
+29
+00:02:28,282 --> 00:02:31,283
+   to attach the cylinder head  
+     to the block assembly.     
+
+30
+00:02:31,285 --> 00:02:34,486
+   they install the camshaft    
+   in the cylinder head unit.   
+
+31
+00:02:34,488 --> 00:02:36,488
+          the camshaft          
+      will drive the valves     
+
+32
+00:02:36,490 --> 00:02:39,158
+   that bring in air and fuel   
+    and let out the exhaust.    
+
+33
+00:02:46,033 --> 00:02:49,535
+   they rotate the crankshaft   
+    to fine-tune its action.    
+
+34
+00:02:53,507 --> 00:02:56,441
+      now it's time to give     
+ this engine a little test run. 
+
+35
+00:02:56,443 --> 00:02:58,844
+      they fill the engine      
+     with coolant and fuel,     
+
+36
+00:02:58,846 --> 00:03:00,912
+   then run through the gears.  
+
+37
+00:03:00,914 --> 00:03:04,048
+      they check for leaks      
+      and overall function.     
+
+38
+00:03:04,050 --> 00:03:06,518
+   when it passes inspection,   
+
+39
+00:03:06,520 --> 00:03:08,887
+     they purge the coolant     
+        from the engine.        
+
+40
+00:03:11,925 --> 00:03:14,593
+       a motorbike engine       
+   isn't only about function.   
+
+41
+00:03:14,595 --> 00:03:16,194
+    it also has to look good,   
+
+42
+00:03:16,196 --> 00:03:19,064
+       because it won't be      
+  totally hidden under a hood.  
+
+43
+00:03:22,936 --> 00:03:27,072
+       now they lower the       
+ 225-pound engine onto a cradle 
+
+44
+00:03:27,074 --> 00:03:30,675
+    that sits on a conveyor.    
+
+45
+00:03:30,677 --> 00:03:33,078
+  they mount the frame onto it. 
+
+46
+00:03:39,620 --> 00:03:44,623
+           they attach          
+   the rear wheel assembly...   
+
+47
+00:03:44,625 --> 00:03:46,825
+    and then the front wheel.   
+
+48
+00:03:54,368 --> 00:03:58,837
+    they attach the handlebar   
+ using torque-controlled tools. 
+
+49
+00:04:02,243 --> 00:04:05,577
+        and they tighten        
+      the brake assemblies.     
+
+50
+00:04:05,579 --> 00:04:09,481
+  next, they fill the radiator  
+        with antifreeze.        
+
+51
+00:04:15,189 --> 00:04:17,722
+           meanwhile,           
+  over in the paint department, 
+
+52
+00:04:17,724 --> 00:04:19,891
+    robots are hard at work.    
+
+53
+00:04:23,530 --> 00:04:27,065
+ they attach the painted pieces 
+         to the bike --         
+
+54
+00:04:27,067 --> 00:04:29,867
+    first the saddlebag body,   
+          then the lid,         
+
+55
+00:04:29,869 --> 00:04:31,803
+  and finally, the trunk body.  
+
+56
+00:04:31,805 --> 00:04:34,205
+       then they assemble       
+      the instrumentation.      
+
+57
+00:04:34,207 --> 00:04:36,007
+  the speedometer, fuel gauges, 
+
+58
+00:04:36,009 --> 00:04:39,144
+      and many other things     
+      all go onto one unit.     
+
+59
+00:04:39,146 --> 00:04:41,213
+       this part is called      
+         the front cowl,        
+
+60
+00:04:41,215 --> 00:04:44,182
+   and it goes right in front   
+     of the instrumentation.    
+
+61
+00:04:48,422 --> 00:04:53,058
+ they lower the front cowl with 
+  a meter panel onto the bike.  
+
+62
+00:04:57,764 --> 00:05:02,367
+  and then they bolt everything 
+          to the frame.         
+
+63
+00:05:02,369 --> 00:05:06,471
+  finally, they install a cover 
+      for the exhaust pipe.     
+
+64
+00:05:10,711 --> 00:05:14,646
+  they check everything to make 
+ sure it's solidly put together.
+
+65
+00:05:18,319 --> 00:05:20,786
+      and then they pull up     
+        to a dynamometer,       
+
+66
+00:05:20,788 --> 00:05:23,188
+     a machine that measures    
+        mechanical power.       
+
+67
+00:05:29,129 --> 00:05:31,930
+  they check the bike's speed,  
+          brakes, horn,         
+
+68
+00:05:31,932 --> 00:05:34,766
+       navigation system,       
+     and the cruise control.    
+
+69
+00:05:40,206 --> 00:05:43,208
+         every motorbike        
+    undergoes this scrutiny,    
+
+70
+00:05:43,210 --> 00:05:46,845
+        and if it passes,       
+it's ready for life on the road.
+
+71
+00:05:58,025 --> 00:06:01,426
+  narrator: clay pipes are part 
+ of a major underground network,
+
+72
+00:06:01,428 --> 00:06:03,829
+      one that's dedicated      
+      to proper drainage.       
+
+73
+00:06:03,831 --> 00:06:05,397
+   we flush without thinking,   
+
+74
+00:06:05,399 --> 00:06:07,365
+     but it may surprise you    
+            to learn            
+
+75
+00:06:07,367 --> 00:06:09,901
+         that clay pipes        
+    have been serving us well   
+
+76
+00:06:09,903 --> 00:06:11,169
+     for thousands of years,    
+
+77
+00:06:11,171 --> 00:06:13,905
+       ever since the days      
+      of ancient babylonia.     
+
+78
+00:06:13,907 --> 00:06:17,109
+   they're the sanitary sewer   
+     system's oldest secret.    
+
+79
+00:06:19,846 --> 00:06:22,114
+           these pipes          
+    can take a lot of stress.   
+
+80
+00:06:22,116 --> 00:06:25,316
+  they bear the weight of soil  
+    and structures overhead,    
+
+81
+00:06:25,318 --> 00:06:26,685
+     and they won't corrode.    
+
+82
+00:06:28,321 --> 00:06:31,790
+   they start with scrap clay   
+       from manufacturing,      
+
+83
+00:06:31,792 --> 00:06:35,260
+      raw clay, and shale.      
+
+84
+00:06:35,262 --> 00:06:38,196
+      after these materials     
+  have been roughly processed,  
+
+85
+00:06:38,198 --> 00:06:40,532
+     a loader scoops the mix    
+         onto a conveyor        
+
+86
+00:06:40,534 --> 00:06:43,268
+     that takes it to a mill    
+      for a finer grinding.     
+
+87
+00:06:50,410 --> 00:06:54,579
+   at this point, the mix has   
+   about 10% natural moisture,  
+
+88
+00:06:54,581 --> 00:06:57,682
+       but it's not enough      
+    for it to stick together,   
+
+89
+00:06:57,684 --> 00:07:01,119
+     so they add more water     
+    as it falls into a mixer.   
+
+90
+00:07:04,358 --> 00:07:07,492
+  the mixer evenly distributes  
+      the water in the mix,     
+
+91
+00:07:07,494 --> 00:07:09,961
+          then moves it         
+       towards an extruder      
+
+92
+00:07:09,963 --> 00:07:12,597
+      that pushes the clay      
+   through a pipe-shaped eye.   
+
+93
+00:07:16,970 --> 00:07:21,239
+   the clay pipe that emerges   
+   is 7.8 inches in diameter,   
+
+94
+00:07:21,241 --> 00:07:24,709
+ the size that typically serves 
+   a residential side street.   
+
+95
+00:07:24,711 --> 00:07:26,511
+  it has a bell-shaped opening. 
+
+96
+00:07:26,513 --> 00:07:28,446
+ it's the female part of a joint
+
+97
+00:07:28,448 --> 00:07:30,715
+  that will fit to the male end 
+        of another pipe.        
+
+98
+00:07:38,992 --> 00:07:42,928
+        a rotating blade        
+  trims away the ragged edges.  
+
+99
+00:07:42,930 --> 00:07:46,397
+    then an automated system    
+  loads several pipes at a time 
+
+100
+00:07:46,399 --> 00:07:48,834
+           onto a rack          
+     to await the next step.    
+
+101
+00:07:55,943 --> 00:07:58,076
+over on another production line,
+
+102
+00:07:58,078 --> 00:08:00,979
+   they're making flue liners   
+          for chimneys.         
+
+103
+00:08:08,288 --> 00:08:10,088
+     the clay is fairly soft    
+         at this point,         
+
+104
+00:08:10,090 --> 00:08:12,491
+       so lettering wheels      
+   easily engrave information,  
+
+105
+00:08:12,493 --> 00:08:16,361
+   and they can cut it to size  
+     using only a thin wire.    
+
+106
+00:08:21,902 --> 00:08:23,902
+         an upender lift        
+      stacks it on a pallet     
+
+107
+00:08:23,904 --> 00:08:26,471
+  to await further processing.  
+
+108
+00:08:29,109 --> 00:08:33,311
+     elsewhere in the plant,    
+a main trunk sewer pipe is born.
+
+109
+00:08:33,313 --> 00:08:36,714
+         with a diameter        
+   of over 15 inches, it's big  
+
+110
+00:08:36,716 --> 00:08:40,352
+and needs a substantial trim job
+ to get rid of the rough edges. 
+
+111
+00:08:42,055 --> 00:08:44,923
+ it weighs well over 660 pounds,
+
+112
+00:08:44,925 --> 00:08:48,393
+     nearly five times that     
+    of the residential pipe.    
+
+113
+00:08:50,931 --> 00:08:53,131
+    once they're fabricated,    
+
+114
+00:08:53,133 --> 00:08:57,202
+ every clay pipe goes into a big
+  dryer for at least 24 hours.  
+
+115
+00:09:00,139 --> 00:09:03,608
+      a trip through a kiln     
+ will toughen them up even more.
+
+116
+00:09:03,610 --> 00:09:06,210
+  they'll spend about 50 hours  
+            in here,            
+
+117
+00:09:06,212 --> 00:09:08,613
+           exposed to           
+     very high temperatures.    
+
+118
+00:09:08,615 --> 00:09:10,882
+            this step           
+    is called vitrification.    
+
+119
+00:09:10,884 --> 00:09:13,451
+ it fuses the mineral particles 
+            together.           
+
+120
+00:09:17,357 --> 00:09:21,893
+they tap each pipe with a hammer
+   to test it if it's solid...  
+
+121
+00:09:21,895 --> 00:09:25,764
+     and perform a thorough     
+       visual inspection.       
+
+122
+00:09:32,773 --> 00:09:34,906
+     to join lengths of pipe    
+            together,           
+
+123
+00:09:34,908 --> 00:09:38,109
+    they pour polyester resin   
+   into the female joint molds  
+
+124
+00:09:38,111 --> 00:09:40,912
+      that have been placed     
+    in the bell-shape pipes.    
+
+125
+00:09:40,914 --> 00:09:43,381
+       the resin hardens,       
+       forming an o-ring,       
+
+126
+00:09:43,383 --> 00:09:45,650
+         and the primer         
+       brushed on earlier       
+
+127
+00:09:45,652 --> 00:09:48,720
+    helps the new resin joint   
+    adhere to the clay pipe.    
+
+128
+00:09:53,527 --> 00:09:55,926
+  next, they make a male joint  
+
+129
+00:09:55,928 --> 00:09:58,396
+        by pouring resin        
+     around its spigot end.     
+
+130
+00:09:58,398 --> 00:10:01,533
+   this will make for a joint   
+       with a tight seal.       
+
+131
+00:10:14,747 --> 00:10:18,183
+      they test the joints      
+ by pumping water into the pipe.
+
+132
+00:10:20,820 --> 00:10:24,155
+   then they raise it as they   
+   place a load on the joint.   
+
+133
+00:10:24,157 --> 00:10:27,792
+     how much pressure will     
+this joint take without failing?
+
+134
+00:10:32,766 --> 00:10:36,901
+  over a ton, which more than   
+  meets industry requirements.  
+
+135
+00:10:38,705 --> 00:10:42,173
+now they do another type of test
+      on a basic clay pipe.     
+
+136
+00:10:42,175 --> 00:10:45,376
+        a hydraulic jack        
+  applies pressure on the pipe. 
+
+137
+00:10:45,378 --> 00:10:47,645
+     the number on the gauge    
+     far exceeds the burden     
+
+138
+00:10:47,647 --> 00:10:49,681
+  of being buried underground.  
+
+139
+00:10:52,151 --> 00:10:55,119
+and so these pipes are now ready
+         for civic duty         
+
+140
+00:10:55,121 --> 00:10:57,155
+       down in the sewers.      
+
+141
+00:11:03,396 --> 00:11:05,396
+            narrator:           
+     drumsticks are designed    
+
+142
+00:11:05,398 --> 00:11:06,797
+   for a life of hard knocks.   
+
+143
+00:11:06,799 --> 00:11:08,532
+they're usually made of hickory,
+
+144
+00:11:08,534 --> 00:11:11,202
+  which is heavier and sturdier 
+        than other woods.       
+
+145
+00:11:11,204 --> 00:11:13,471
+     hickory can also absorb    
+         a lot of shock,        
+
+146
+00:11:13,473 --> 00:11:15,606
+     which means a drumstick    
+          made from it          
+
+147
+00:11:15,608 --> 00:11:17,675
+     is easier on the hands     
+           and wrists,          
+
+148
+00:11:17,677 --> 00:11:20,378
+ so the drummer doesn't have to 
+      suffer for his music.     
+
+149
+00:11:31,624 --> 00:11:35,092
+     hickory drumsticks also    
+   have good balance and feel,  
+
+150
+00:11:35,094 --> 00:11:37,762
+         so it's easier         
+     to hit the right note.     
+
+151
+00:11:37,764 --> 00:11:41,499
+  to make them, automated arms  
+     serve up hickory dowels    
+
+152
+00:11:41,501 --> 00:11:45,436
+to a three-bladed cutting device
+      that moves on a rail.     
+
+153
+00:11:45,438 --> 00:11:50,174
+as the blades shape the spinning
+ dowels, they form a round tip, 
+
+154
+00:11:50,176 --> 00:11:55,346
+ a narrow shoulder, and a shaft 
+     that gradually widens.     
+
+155
+00:11:58,585 --> 00:12:02,520
+      they spray each stick     
+   with a protective coating.   
+
+156
+00:12:12,432 --> 00:12:14,665
+       these round blades       
+       lob off the stubs,       
+
+157
+00:12:14,667 --> 00:12:16,801
+    the ends where the sticks   
+            were held           
+
+158
+00:12:16,803 --> 00:12:18,570
+ during their initial machining.
+
+159
+00:12:20,874 --> 00:12:24,475
+     it's just a rough trim,    
+  and the ends need more work.  
+
+160
+00:12:24,477 --> 00:12:27,278
+        so they feed them       
+ to spinning chucks with blades.
+
+161
+00:12:27,280 --> 00:12:30,148
+      the chucks are inside     
+   a protective metal housing   
+
+162
+00:12:30,150 --> 00:12:34,319
+ because they spin very fast and
+ the blades are extremely sharp.
+
+163
+00:12:42,428 --> 00:12:43,761
+      for a demonstration,      
+
+164
+00:12:43,763 --> 00:12:46,965
+the housing on one of the chucks
+        has been removed,       
+
+165
+00:12:46,967 --> 00:12:48,499
+    and they turn it by hand.   
+
+166
+00:12:48,501 --> 00:12:51,236
+    the chuck usually rotates   
+         at 10,000 rpm,         
+
+167
+00:12:51,238 --> 00:12:52,703
+     but at this slow speed,    
+
+168
+00:12:52,705 --> 00:12:56,541
+ you can see just how it shaves 
+ an end into the desired shape. 
+
+169
+00:13:00,847 --> 00:13:04,649
+the stick comes out of the chuck
+   with a nicely rounded tip.   
+
+170
+00:13:08,922 --> 00:13:10,989
+    now they test the sticks.   
+
+171
+00:13:10,991 --> 00:13:13,257
+ each one rolls down steel rails
+
+172
+00:13:13,259 --> 00:13:15,994
+         that have been         
+       specially aligned.       
+
+173
+00:13:19,399 --> 00:13:22,734
+      if it rolls straight,     
+ it means the stick is straight.
+
+174
+00:13:22,736 --> 00:13:24,469
+   but if it wobbles, it isn't  
+
+175
+00:13:24,471 --> 00:13:26,937
+     and would be impossible    
+          to play with.         
+
+176
+00:13:26,939 --> 00:13:29,140
+    they reject those sticks.   
+
+177
+00:13:30,743 --> 00:13:34,378
+    next, a printer embosses    
+ the brand name and model number
+
+178
+00:13:34,380 --> 00:13:36,181
+  onto each of the drumsticks.  
+
+179
+00:13:47,427 --> 00:13:50,895
+  now they sort each drumstick  
+           by weight.           
+
+180
+00:13:50,897 --> 00:13:52,830
+       even if two sticks       
+         have been made         
+
+181
+00:13:52,832 --> 00:13:54,498
+exactly the same shape and size,
+
+182
+00:13:54,500 --> 00:13:57,635
+  their weight can vary because 
+  wood has different densities, 
+
+183
+00:13:57,637 --> 00:13:58,837
+      and that's something      
+
+184
+00:13:58,839 --> 00:14:01,172
+  that affects the stick's feel 
+            and tone.           
+
+185
+00:14:02,909 --> 00:14:06,477
+          for example,          
+ this drumstick weighs 53 grams.
+
+186
+00:14:09,115 --> 00:14:12,116
+but the next one comes in at 55.
+
+187
+00:14:15,455 --> 00:14:17,254
+  over at another work station, 
+
+188
+00:14:17,256 --> 00:14:20,258
+ they're making a different kind
+         of drumstick --        
+
+189
+00:14:20,260 --> 00:14:23,294
+        a felt-tip mount        
+ that will have a softer sound. 
+
+190
+00:14:26,399 --> 00:14:27,999
+    they press a wooden shaft   
+
+191
+00:14:28,001 --> 00:14:30,801
+    into the glue-filled hole   
+        of the felt ball.       
+
+192
+00:14:30,803 --> 00:14:33,137
+    the hole is a bit smaller   
+         than the shaft,        
+
+193
+00:14:33,139 --> 00:14:34,539
+    resulting in a tight bond   
+
+194
+00:14:34,541 --> 00:14:37,308
+        between the stick       
+         and felt head.         
+
+195
+00:14:45,885 --> 00:14:48,620
+      they do a sound check     
+      on the other sticks.      
+
+196
+00:14:54,294 --> 00:14:56,961
+ even though they've been sorted
+           by weight,           
+
+197
+00:14:56,963 --> 00:14:59,697
+         there are still        
+   subtle differences in tone.  
+
+198
+00:14:59,699 --> 00:15:03,668
+ a computer analyzes their sound
+       and matches pairs.       
+
+199
+00:15:09,442 --> 00:15:11,509
+ it's a bit like a dating game. 
+
+200
+00:15:11,511 --> 00:15:14,312
+       the unmated sticks       
+      go back into the mix,     
+
+201
+00:15:14,314 --> 00:15:16,781
+          and they try          
+     to match them up again.    
+
+202
+00:15:22,121 --> 00:15:24,989
+      this matching process     
+          is critical.          
+
+203
+00:15:24,991 --> 00:15:26,991
+          if one stick          
+     has a different pitch,     
+
+204
+00:15:26,993 --> 00:15:29,460
+ the sound will be off-balance. 
+
+205
+00:15:29,462 --> 00:15:33,965
+  they assign a numerical value 
+   to each pair of drumsticks.  
+
+206
+00:15:42,809 --> 00:15:46,277
+    a cardboard sleeve holds    
+   each matched pair together.  
+
+207
+00:15:50,816 --> 00:15:54,418
+    from a rough wooden dowel   
+      to a sleek drumstick,     
+
+208
+00:15:54,420 --> 00:15:57,322
+    a process that's designed   
+           for impact.          
+
+209
+00:16:08,768 --> 00:16:10,901
+            narrator:           
+  when you blow into a whistle, 
+
+210
+00:16:10,903 --> 00:16:13,905
+  part of the air stream exits  
+ the slot in a swirling motion, 
+
+211
+00:16:13,907 --> 00:16:15,172
+        generating sound.       
+
+212
+00:16:15,174 --> 00:16:16,573
+   the rest of the air stream   
+
+213
+00:16:16,575 --> 00:16:18,509
+         travels through        
+      the whistle chamber,      
+
+214
+00:16:18,511 --> 00:16:20,844
+      then exits the slot,      
+     reinforcing the sound.     
+
+215
+00:16:20,846 --> 00:16:22,313
+ the little ball rolling inside 
+
+216
+00:16:22,315 --> 00:16:24,382
+         puts the trill         
+      in the whistle blast.     
+
+217
+00:16:24,384 --> 00:16:26,651
+        quality whistles        
+     are made of solid brass    
+
+218
+00:16:26,653 --> 00:16:28,619
+      because nothing beats     
+         its resonance.         
+
+219
+00:16:30,924 --> 00:16:32,991
+        [ whistle blows ]       
+
+220
+00:16:37,464 --> 00:16:39,330
+        production begins       
+    with a narrow brass sheet   
+
+221
+00:16:39,332 --> 00:16:42,133
+   not quite 4/100 of an inch   
+             thick.             
+
+222
+00:16:42,135 --> 00:16:44,535
+          a punch press         
+    slices through the sheet,   
+
+223
+00:16:44,537 --> 00:16:47,071
+        cutting a square        
+    connected to two circles.   
+
+224
+00:16:47,073 --> 00:16:50,708
+ the factory calls these pieces 
+     the mickey mouse ears.     
+
+225
+00:16:52,878 --> 00:16:55,680
+           one by one           
+   they go into a second press  
+
+226
+00:16:55,682 --> 00:16:57,281
+  that folds the circles inward 
+
+227
+00:16:57,283 --> 00:16:59,550
+        to form the sides       
+     of the whistle's barrel    
+
+228
+00:16:59,552 --> 00:17:02,019
+      and bends the edges       
+      of the square inward      
+
+229
+00:17:02,021 --> 00:17:04,622
+    to form the top and sides   
+       of the mouthpiece.       
+
+230
+00:17:04,624 --> 00:17:08,159
+  at the same time, it strikes  
+  the mouthpiece against a die  
+
+231
+00:17:08,161 --> 00:17:11,095
+ that embosses the company logo 
+         into the metal.        
+
+232
+00:17:19,572 --> 00:17:21,972
+      another brass sheet       
+      feeds a third press.      
+
+233
+00:17:21,974 --> 00:17:25,042
+    this machine punches out    
+  and partially shapes the part 
+
+234
+00:17:25,044 --> 00:17:27,177
+       that forms the rest      
+         of the whistle.        
+
+235
+00:17:27,179 --> 00:17:28,513
+   it notches the tapered end,  
+
+236
+00:17:28,515 --> 00:17:30,982
+   which will be the underside  
+       of the mouthpiece,       
+
+237
+00:17:30,984 --> 00:17:32,884
+       giving your teeth        
+       something to grip.       
+
+238
+00:17:34,921 --> 00:17:38,189
+       now a fourth press       
+ finishes shaping these pieces. 
+
+239
+00:17:38,191 --> 00:17:41,359
+  it bends the other end into   
+  a circle to form the barrel.  
+
+240
+00:17:45,598 --> 00:17:48,466
+       the two main parts       
+  of the whistle are now ready. 
+
+241
+00:17:48,468 --> 00:17:50,868
+  a worker snaps them together  
+          with pliers.          
+
+242
+00:17:50,870 --> 00:17:55,139
+  note that on the bottom piece 
+     the barrel stops short     
+
+243
+00:17:55,141 --> 00:17:57,408
+       of meeting the top       
+       of the mouthpiece.       
+
+244
+00:17:57,410 --> 00:17:59,710
+          this creates          
+     the whistle's air slot.    
+
+245
+00:18:18,964 --> 00:18:21,766
+         this press cuts        
+     and folds a brass sheet    
+
+246
+00:18:21,768 --> 00:18:25,169
+  into the third and final part 
+ of the whistle, called the tip.
+
+247
+00:18:25,171 --> 00:18:26,770
+    it's a piece on the back    
+
+248
+00:18:26,772 --> 00:18:29,040
+        that holds a ring       
+    for hanging the whistle.    
+
+249
+00:18:32,978 --> 00:18:35,713
+ the tips go into a bowl feeder.
+
+250
+00:18:35,715 --> 00:18:38,582
+   the vibration orients them   
+      in the same direction     
+
+251
+00:18:38,584 --> 00:18:40,918
+      so that a robotic arm     
+        can pick them up        
+
+252
+00:18:40,920 --> 00:18:43,321
+    and put them in a holder.   
+
+253
+00:18:45,992 --> 00:18:48,993
+      tin and silver solder     
+     is applied to each tip.    
+
+254
+00:18:48,995 --> 00:18:51,462
+        this will bond it       
+         to the whistle.        
+
+255
+00:19:08,681 --> 00:19:10,347
+ to fuse all the parts together,
+
+256
+00:19:10,349 --> 00:19:13,784
+        solder is applied       
+     in six different spots.    
+
+257
+00:19:22,562 --> 00:19:24,028
+      the solder liquifies      
+
+258
+00:19:24,030 --> 00:19:28,032
+as a gas flame heats it to about
+    1,100 degrees fahrenheit.   
+
+259
+00:19:28,034 --> 00:19:29,967
+ it flows around all the seams, 
+
+260
+00:19:29,969 --> 00:19:32,636
+          filling them          
+     in a matter of seconds.    
+
+261
+00:19:32,638 --> 00:19:36,173
+       a blast of cold air      
+     solidifies the solder.     
+
+262
+00:19:36,175 --> 00:19:37,842
+ even then, it's still steaming 
+
+263
+00:19:37,844 --> 00:19:40,344
+         as the whistle         
+     comes off the machine.     
+
+264
+00:19:45,185 --> 00:19:47,518
+       the ball that goes       
+       inside the barrel        
+
+265
+00:19:47,520 --> 00:19:49,386
+is about a half inch in diameter
+
+266
+00:19:49,388 --> 00:19:52,856
+   and made of synthetic cork,  
+ which doesn't absorb moisture, 
+
+267
+00:19:52,858 --> 00:19:55,125
+  so the ball never gets soggy  
+           and stuck.           
+
+268
+00:19:55,127 --> 00:19:58,462
+  a worker holds each whistle,  
+     now plated with nickel,    
+
+269
+00:19:58,464 --> 00:20:00,331
+ against the insertion machine. 
+
+270
+00:20:00,333 --> 00:20:02,466
+        the device works        
+       like these pliers,       
+
+271
+00:20:02,468 --> 00:20:05,336
+    squeezing a ball through    
+    the whistle's air slot.     
+
+272
+00:20:07,207 --> 00:20:09,674
+   with one side of the barrel  
+            cut away,           
+
+273
+00:20:09,676 --> 00:20:12,343
+    you can see how the ball    
+        regains its shape       
+
+274
+00:20:12,345 --> 00:20:14,078
+ as soon as it clears the slot. 
+
+275
+00:20:15,815 --> 00:20:19,217
+    the last step is to hook    
+   a steel ring onto each tip.  
+
+276
+00:20:26,092 --> 00:20:28,159
+      the factory packages      
+          its whistles          
+
+277
+00:20:28,161 --> 00:20:30,428
+        with a nylon cord       
+        called a lanyard.       
+
+278
+00:20:30,430 --> 00:20:33,998
+   a hook on one end attaches   
+     to the whistle's ring.     
+
+279
+00:20:42,808 --> 00:20:44,708
+another accessory in the package
+
+280
+00:20:44,710 --> 00:20:47,044
+        is a rubber cover       
+       for the mouthpiece.      
+
+281
+00:20:47,046 --> 00:20:49,780
+  it makes holding the whistle  
+  in your mouth for a long time 
+
+282
+00:20:49,782 --> 00:20:51,082
+        more comfortable.       
+
+283
+00:20:54,988 --> 00:20:57,722
+     this factory also makes    
+      customized whistles.      
+
+284
+00:20:57,724 --> 00:21:00,124
+       you can order them       
+       with your own logo.      
+
+285
+00:21:00,126 --> 00:21:03,160
+ or to really blow someone away,
+      you can present them      
+
+286
+00:21:03,162 --> 00:21:06,330
+   with a 24-karat gold-plated  
+         award whistle.         
+
+287
+00:21:06,332 --> 00:21:09,333
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+288
+00:21:09,335 --> 00:21:12,803
+      captions paid for by      
+ discovery communications, inc. 
+
+289
+00:21:12,805 --> 00:21:14,872
+    if you have any comments    
+         about the show,        
+
+290
+00:21:14,874 --> 00:21:17,541
+   or if you'd like to suggest  
+    topics for future shows,    
+
+291
+00:21:17,543 --> 00:21:19,210
+      drop us a line at...      
+

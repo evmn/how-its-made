@@ -1,0 +1,1735 @@
+﻿1
+00:00:03,872 --> 00:00:07,006
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:07,008 --> 00:00:09,842
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:53,054 --> 00:00:54,920
+           narrator:            
+   l.e.d. tubes are designed    
+
+4
+00:00:54,922 --> 00:00:56,989
+       so they can easily       
+   replace fluorescent tubes    
+
+5
+00:00:56,991 --> 00:01:00,325
+    that are inside overhead    
+  commercial light fixtures.    
+
+6
+00:01:00,327 --> 00:01:03,195
+       unlike traditional       
+          incandescent          
+   and fluorescent lighting,    
+
+7
+00:01:03,197 --> 00:01:04,397
+    a light-emitting diode      
+
+8
+00:01:04,399 --> 00:01:06,732
+         produces light         
+     through a microchip.       
+
+9
+00:01:06,734 --> 00:01:10,536
+     it lasts twice as long     
+and uses half the electricity.  
+
+10
+00:01:14,275 --> 00:01:17,810
+    these l.e.d. tubes come     
+  in a selection of lengths.    
+
+11
+00:01:17,812 --> 00:01:20,746
+    they're designed to be a    
+             modern,            
+   energy-saving alternative    
+
+12
+00:01:20,748 --> 00:01:23,516
+      to fluorescent tube       
+        light fixtures.         
+
+13
+00:01:28,756 --> 00:01:32,691
+    the manufacturing process   
+             begins             
+ with a printed circuit board.  
+
+14
+00:01:32,693 --> 00:01:34,760
+ "printed" means the board has  
+           a network            
+
+15
+00:01:34,762 --> 00:01:39,365
+   of conductive copper lines   
+    and rectangular paths.      
+
+16
+00:01:39,367 --> 00:01:43,235
+        it's designed to        
+ electrically link components.  
+
+17
+00:01:43,237 --> 00:01:46,238
+      a technician places       
+ the circuit board on a track,  
+
+18
+00:01:46,240 --> 00:01:47,572
+      which ferries it to       
+
+19
+00:01:47,574 --> 00:01:50,642
+   the first computer-guided    
+     machine on the line.       
+
+20
+00:01:50,644 --> 00:01:53,445
+  the machine covers the board  
+     with a metal stencil.      
+
+21
+00:01:53,447 --> 00:01:56,182
+    the stencil has openings    
+    matching the locations      
+
+22
+00:01:56,184 --> 00:01:59,518
+      where the electronic      
+           components           
+ will be mounted to the board.  
+
+23
+00:01:59,520 --> 00:02:03,855
+  the machine spreads a layer   
+ of lead-free tin alloy solder  
+
+24
+00:02:03,857 --> 00:02:06,058
+       over the stencil.        
+
+25
+00:02:06,060 --> 00:02:08,060
+      this applies solder       
+         to the board           
+
+26
+00:02:08,062 --> 00:02:09,962
+ only where the components go.  
+
+27
+00:02:12,800 --> 00:02:15,333
+    the next computer-guided    
+             machine            
+          on the line           
+
+28
+00:02:15,335 --> 00:02:17,136
+        mounts the first        
+     of those components,       
+
+29
+00:02:17,138 --> 00:02:20,873
+   the light emitting diodes,   
+          or l.e.d.s.           
+
+30
+00:02:20,875 --> 00:02:24,743
+      they're composed of a     
+            microchip           
+     coated with a chemical     
+            phosphor            
+
+31
+00:02:24,745 --> 00:02:28,114
+  and come in different sizes,  
+  colors, and light outputs.    
+
+32
+00:02:30,485 --> 00:02:33,686
+      the factory programs      
+  the machine's chip shooter    
+
+33
+00:02:33,688 --> 00:02:36,955
+  to pick the required l.e.d.s  
+       off supply reels         
+
+34
+00:02:36,957 --> 00:02:38,958
+         and place them         
+on the solder-coated locations  
+
+35
+00:02:38,960 --> 00:02:42,160
+     on the circuit board.      
+
+36
+00:02:42,162 --> 00:02:44,897
+     the chip shooter works     
+   at an astonishing speed,     
+
+37
+00:02:44,899 --> 00:02:48,534
+         placing up to          
+   40,000 l.e.d.s per hour.     
+
+38
+00:02:51,238 --> 00:02:53,372
+ a camera trained on the board  
+         verifies that          
+
+39
+00:02:53,374 --> 00:02:56,575
+    every l.e.d.'s position     
+          is dead-on.           
+
+40
+00:02:58,713 --> 00:03:01,781
+   the circuit board moves to   
+     a third computer-guided    
+            machine             
+
+41
+00:03:01,783 --> 00:03:03,716
+          for the next          
+     electronic component,      
+
+42
+00:03:03,718 --> 00:03:04,983
+        the terminals.          
+
+43
+00:03:04,985 --> 00:03:06,718
+          they receive          
+     the electric current       
+
+44
+00:03:06,720 --> 00:03:10,522
+    to power the l.e.d. light   
+             tube.              
+
+45
+00:03:10,524 --> 00:03:13,192
+      the machine picks up      
+    one terminal at a time      
+
+46
+00:03:13,194 --> 00:03:15,561
+         and places it          
+     on the circuit board.      
+
+47
+00:03:21,002 --> 00:03:23,335
+       the circuit board        
+ moves into the final machine   
+
+48
+00:03:23,337 --> 00:03:25,937
+ on this line, a tunnel oven.   
+
+49
+00:03:25,939 --> 00:03:31,210
+  the temperature inside peaks  
+      at about 460 degrees      
+          fahrenheit.           
+
+50
+00:03:31,212 --> 00:03:32,878
+  the heat melts the solder,    
+
+51
+00:03:32,880 --> 00:03:35,814
+     fusing the components      
+         to the board.          
+
+52
+00:03:35,816 --> 00:03:38,551
+    solder is both adhesive     
+        and conductive.         
+
+53
+00:03:38,553 --> 00:03:40,419
+      the bond connects the     
+           components           
+
+54
+00:03:40,421 --> 00:03:44,156
+         to the board's         
+  copper electrical network.    
+
+55
+00:03:44,158 --> 00:03:47,426
+ for the high light output tube 
+  they're making in this run,   
+
+56
+00:03:47,428 --> 00:03:50,295
+    each board is comprised     
+       of eight strips.         
+
+57
+00:03:50,297 --> 00:03:54,232
+    each strip has dual rows    
+          of l.e.d.s.           
+
+58
+00:03:54,234 --> 00:03:57,069
+         they snap them         
+     into 12-inch strips.       
+
+59
+00:03:59,240 --> 00:04:03,375
+ the tube length they're making 
+     requires four strips.      
+
+60
+00:04:03,377 --> 00:04:05,578
+      a technician slides       
+      one with a terminal       
+
+61
+00:04:05,580 --> 00:04:09,515
+       and three without        
+    into an aluminum track.     
+
+62
+00:04:09,517 --> 00:04:11,784
+         he gives them          
+     a visible inspection,      
+
+63
+00:04:11,786 --> 00:04:15,921
+    then solders the strips     
+        to each other.          
+
+64
+00:04:15,923 --> 00:04:19,124
+   once soldered, the strips    
+   are electrically bridged     
+
+65
+00:04:19,126 --> 00:04:22,528
+  so the terminal on the first  
+               one              
+    can power all of them.      
+
+66
+00:04:25,333 --> 00:04:28,000
+       the aluminum track       
+   is called the heat sink.     
+
+67
+00:04:28,002 --> 00:04:30,669
+         it's critical          
+  to the tube's performance.    
+
+68
+00:04:30,671 --> 00:04:33,472
+ it has deep fins on the bottom 
+     which dissipate heat,      
+
+69
+00:04:33,474 --> 00:04:35,541
+     cooling the l.e.d.s.       
+
+70
+00:04:35,543 --> 00:04:38,143
+      this keeps the color      
+    of the light consistent     
+
+71
+00:04:38,145 --> 00:04:41,013
+ and extends the tube's life.   
+
+72
+00:04:41,015 --> 00:04:43,883
+      once the technician       
+     connects the strips,       
+
+73
+00:04:43,885 --> 00:04:47,386
+     he plugs power into the    
+            terminal            
+     to test the l.e.d.s.       
+
+74
+00:04:49,423 --> 00:04:52,090
+     next, he inserts wires     
+       into the terminal        
+
+75
+00:04:52,092 --> 00:04:54,693
+         and locks them         
+  in with a compression tool.   
+
+76
+00:04:57,431 --> 00:04:59,064
+       the opposite ends        
+         of the wires           
+
+77
+00:04:59,066 --> 00:05:02,368
+  connect to the power supply   
+     in the light fixture.      
+
+78
+00:05:02,370 --> 00:05:05,437
+      the technician snaps      
+   a transparent polycarbonate  
+              lens              
+
+79
+00:05:05,439 --> 00:05:08,240
+    into grooves on the side    
+       of the heat sink.        
+
+80
+00:05:10,378 --> 00:05:14,113
+       he closes the tube       
+ by placing a cap on each end.  
+
+81
+00:05:14,115 --> 00:05:18,049
+   he aligns each cap's pins    
+   with slots on the press.     
+
+82
+00:05:18,051 --> 00:05:19,985
+ then the press is activated,   
+
+83
+00:05:19,987 --> 00:05:22,320
+     which forces the caps      
+        onto the tube,          
+
+84
+00:05:22,322 --> 00:05:24,790
+  attaching them permanently.   
+
+85
+00:05:24,792 --> 00:05:25,925
+   the end with the terminal    
+
+86
+00:05:25,927 --> 00:05:29,595
+       has slots enabling       
+    the wires to protrude.      
+
+87
+00:05:29,597 --> 00:05:33,599
+   the light tube is finished   
+   and ready to be shipped.     
+
+88
+00:05:33,601 --> 00:05:36,668
+         to install this        
+        energy-efficient        
+         l.e.d. tube,           
+
+89
+00:05:36,670 --> 00:05:39,338
+     simply click the pins      
+        on the end caps         
+
+90
+00:05:39,340 --> 00:05:42,407
+      into receiving slots      
+     in the light fixture.      
+
+91
+00:05:42,409 --> 00:05:43,876
+    then connect the wires      
+
+92
+00:05:43,878 --> 00:05:47,012
+      to the power supply       
+   and the fixture's wiring.    
+
+93
+00:05:47,014 --> 00:05:49,615
+  thanks to those cooling fins  
+       on the heat sink,        
+
+94
+00:05:49,617 --> 00:05:53,551
+        this l.e.d. tube        
+  will last for 100,000 hours   
+
+95
+00:05:53,553 --> 00:05:56,188
+      and has a guaranteed      
+      10-year life-span.        
+
+96
+00:06:11,372 --> 00:06:13,372
+           narrator:            
+as any sweet tooth can attest,  
+
+97
+00:06:13,374 --> 00:06:17,575
+ there's no end to the flavors  
+ you can pair with chocolate.   
+
+98
+00:06:17,577 --> 00:06:19,445
+     a classic combination      
+       is milk chocolate        
+
+99
+00:06:19,447 --> 00:06:22,648
+      and peanut butter.        
+
+100
+00:06:22,650 --> 00:06:24,316
+         the saltiness          
+     of the peanut butter       
+
+101
+00:06:24,318 --> 00:06:25,517
+      is the perfect foil       
+
+102
+00:06:25,519 --> 00:06:27,686
+        to the sweetness        
+      of milk chocolate.        
+
+103
+00:06:31,258 --> 00:06:33,258
+    this bar features a thick   
+             layer              
+
+104
+00:06:33,260 --> 00:06:35,728
+       of milk chocolate        
+     around a sweet, salty      
+
+105
+00:06:35,730 --> 00:06:39,398
+   and crunchy peanut butter    
+         candy center.          
+
+106
+00:06:39,400 --> 00:06:43,535
+    making that peanut butter   
+              candy             
+  center is the tricky part.    
+
+107
+00:06:43,537 --> 00:06:45,404
+ to make the candy part of it,  
+
+108
+00:06:45,406 --> 00:06:48,474
+      the factory combines      
+   liquid sugar, corn syrup,    
+
+109
+00:06:48,476 --> 00:06:52,210
+  coconut oil, and molasses.    
+
+110
+00:06:52,212 --> 00:06:54,613
+       they mix and heat        
+       these ingredients        
+
+111
+00:06:54,615 --> 00:06:56,282
+     for about 8 minutes.       
+
+112
+00:07:01,021 --> 00:07:05,090
+   the cooked candy is poured   
+              into              
+ a large stainless steel bowl.  
+
+113
+00:07:10,097 --> 00:07:13,499
+ next, they add leftovers from  
+ the previous batch of candy.   
+
+114
+00:07:17,171 --> 00:07:19,171
+   they call these leftovers    
+           "rework"             
+
+115
+00:07:19,173 --> 00:07:22,041
+    because they rework them    
+     into this new batch.       
+
+116
+00:07:25,379 --> 00:07:28,514
+   once the rework has mixed    
+   with the hot, new candy,     
+
+117
+00:07:28,516 --> 00:07:32,184
+    they empty the bowl onto    
+ a cold stainless steel table.  
+
+118
+00:07:37,057 --> 00:07:38,390
+     they blend the candy       
+
+119
+00:07:38,392 --> 00:07:41,527
+      until the two merge       
+   into a sweet, gooey mess.    
+
+120
+00:07:45,065 --> 00:07:46,831
+   once the candy has cooled a  
+              bit,              
+
+121
+00:07:46,833 --> 00:07:52,738
+  workers fold it up and carry  
+               it               
+ over to the pulling station.   
+
+122
+00:07:52,740 --> 00:07:54,740
+   there, they make a pocket    
+         in the center          
+
+123
+00:07:54,742 --> 00:07:58,610
+          and fill it           
+     with vanilla extract.      
+
+124
+00:07:58,612 --> 00:08:00,079
+         they start up          
+     the pulling machine,       
+
+125
+00:08:00,081 --> 00:08:02,081
+        which stretches         
+       the candy nonstop        
+
+126
+00:08:02,083 --> 00:08:04,216
+     for about 5 minutes.       
+
+127
+00:08:04,218 --> 00:08:07,018
+   this infuses the candy with  
+              air               
+
+128
+00:08:07,020 --> 00:08:08,354
+    so that its consistency     
+
+129
+00:08:08,356 --> 00:08:11,390
+        resembles taffy         
+    rather than hard candy.     
+
+130
+00:08:13,761 --> 00:08:15,960
+    they transfer the candy     
+           to a belt            
+
+131
+00:08:15,962 --> 00:08:18,230
+       that carries to it       
+    to the weaving machine.     
+
+132
+00:08:23,838 --> 00:08:26,572
+     the machine's rollers      
+       flatten the candy        
+
+133
+00:08:26,574 --> 00:08:30,042
+      into a thin sheet.        
+
+134
+00:08:30,044 --> 00:08:31,910
+       then a pump draws        
+
+135
+00:08:31,912 --> 00:08:33,712
+    piping hot peanut butter    
+       from this tank...        
+
+136
+00:08:35,783 --> 00:08:38,050
+        and deposits it         
+      in a generous layer       
+
+137
+00:08:38,052 --> 00:08:39,551
+     onto the candy sheet.      
+
+138
+00:08:41,589 --> 00:08:42,988
+   workers roll up the sheet    
+
+139
+00:08:42,990 --> 00:08:45,491
+        until it reaches        
+     a specific diameter.       
+
+140
+00:08:47,661 --> 00:08:50,062
+    at that point, they fold    
+    and place it on a sheet     
+
+141
+00:08:50,064 --> 00:08:53,532
+     without peanut butter,     
+     called a blank sheet.      
+
+142
+00:08:53,534 --> 00:08:56,068
+    the next roller presses     
+     the folded roll flat       
+
+143
+00:08:56,070 --> 00:08:57,669
+     onto the blank sheet.      
+
+144
+00:08:59,807 --> 00:09:01,673
+    workers roll up the blank   
+             sheet,             
+
+145
+00:09:01,675 --> 00:09:04,543
+    sealing the peanut butter   
+              candy             
+            inside.             
+
+146
+00:09:04,545 --> 00:09:07,546
+     this complex assembly      
+is what forms the flaky layers  
+
+147
+00:09:07,548 --> 00:09:11,283
+ in the chocolate bar center.   
+
+148
+00:09:11,285 --> 00:09:14,018
+    workers round the sheet     
+      between two rollers       
+
+149
+00:09:14,020 --> 00:09:16,821
+and feed it to the rope sizer.  
+
+150
+00:09:16,823 --> 00:09:18,490
+          it stretches          
+    the peanut butter candy     
+
+151
+00:09:18,492 --> 00:09:21,026
+          into a rope           
+   that's the exact diameter    
+
+152
+00:09:21,028 --> 00:09:23,629
+ of the chocolate bar center.   
+
+153
+00:09:25,766 --> 00:09:28,700
+     the next machine makes     
+ a pinch mark every 5 inches,   
+
+154
+00:09:28,702 --> 00:09:31,570
+         or the length          
+      of a chocolate bar.       
+
+155
+00:09:31,572 --> 00:09:34,339
+       the linked centers       
+    enter a cooling tunnel.     
+
+156
+00:09:37,311 --> 00:09:40,446
+    they exit 5 minutes later   
+             rigid.             
+
+157
+00:09:40,448 --> 00:09:43,916
+   the links separate as they   
+              drop              
+  to the next conveyor belt.    
+
+158
+00:09:43,918 --> 00:09:46,652
+       they pass through        
+ a second refrigerated tunnel,  
+
+159
+00:09:46,654 --> 00:09:48,787
+ which finishes cooling them.   
+
+160
+00:09:48,789 --> 00:09:51,924
+  the centers move into lanes   
+    that feed the enrober,      
+
+161
+00:09:51,926 --> 00:09:55,861
+      a machine that coats      
+  the centers with chocolate.   
+
+162
+00:09:55,863 --> 00:09:58,263
+       workers make sure        
+  the centers are single file   
+
+163
+00:09:58,265 --> 00:10:00,999
+     and properly spaced.       
+
+164
+00:10:01,001 --> 00:10:05,137
+      the enrober is like       
+   a confectionery car wash.    
+
+165
+00:10:05,139 --> 00:10:09,675
+   centers pass through a hot   
+              rinse             
+   of milk chocolate first.     
+
+166
+00:10:09,677 --> 00:10:13,011
+    then, an overhead dryer     
+     blows off any excess,      
+
+167
+00:10:13,013 --> 00:10:16,148
+ leaving behind a 3-milliliter  
+      layer of chocolate.       
+
+168
+00:10:18,285 --> 00:10:22,254
+ the bars enter a final cooling 
+      tunnel to harden the      
+           chocolate.           
+
+169
+00:10:28,963 --> 00:10:31,563
+ workers transfer the finished  
+ chocolate peanut butter bars   
+
+170
+00:10:31,565 --> 00:10:33,899
+       to a conveyor belt       
+        for packaging.          
+
+171
+00:10:37,371 --> 00:10:39,837
+      as the bars approach      
+     the wrapping machine,      
+
+172
+00:10:39,839 --> 00:10:43,508
+  the in-feeder arranges them   
+        in single file.         
+
+173
+00:10:43,510 --> 00:10:45,843
+        rolls of printed        
+      plastic film unwind       
+
+174
+00:10:45,845 --> 00:10:48,113
+   into the machine's forming   
+              box.              
+
+175
+00:10:48,115 --> 00:10:51,516
+    in the blink of an eye,     
+   the machine folds, wraps,    
+
+176
+00:10:51,518 --> 00:10:54,986
+    and heat-seals the film     
+   around each passing bar.     
+
+177
+00:10:54,988 --> 00:10:58,323
+    a revolving knife slices    
+   the wrapper between bars.    
+
+178
+00:10:58,325 --> 00:11:00,525
+         then, it's off         
+ to the packaging department,   
+
+179
+00:11:00,527 --> 00:11:03,929
+    where workers pack them     
+         24 to a box.           
+
+180
+00:11:05,799 --> 00:11:07,466
+             these              
+ chocolate peanut butter bars   
+
+181
+00:11:07,468 --> 00:11:10,002
+    are ready to be devoured    
+     by anyone in the mood      
+
+182
+00:11:10,004 --> 00:11:13,372
+     for a crunchy, sweet,      
+  and salty chocolate snack.    
+
+183
+00:11:28,688 --> 00:11:30,689
+ narrator: at some pharmacies,  
+        robotic systems         
+
+184
+00:11:30,691 --> 00:11:33,491
+   are lending a helping hand   
+      behind the counter.       
+
+185
+00:11:33,493 --> 00:11:35,427
+ these machines can do it all.  
+
+186
+00:11:35,429 --> 00:11:38,363
+       they count pills,        
+   dispense them into vials,    
+
+187
+00:11:38,365 --> 00:11:40,499
+ cap the vials and label them.  
+
+188
+00:11:40,501 --> 00:11:43,101
+   when it comes to handling    
+       a heavy workload,        
+
+189
+00:11:43,103 --> 00:11:46,371
+  these robotic dispensers are  
+ just what the doctor ordered.  
+
+190
+00:11:50,511 --> 00:11:51,777
+ input the prescription data,   
+
+191
+00:11:51,779 --> 00:11:56,448
+  and this robotic medication   
+    dispenser goes to work.     
+
+192
+00:11:56,450 --> 00:11:58,584
+       it counts bottles        
+       and labels pills         
+
+193
+00:11:58,586 --> 00:12:00,953
+   in just 30 to 40 seconds.    
+
+194
+00:12:05,926 --> 00:12:08,860
+     making a robot starts      
+     with a retainer disk       
+
+195
+00:12:08,862 --> 00:12:11,129
+ for the vial-capping system.   
+
+196
+00:12:11,131 --> 00:12:14,933
+ computerized tools carve slots 
+  for the capping mechanism.    
+
+197
+00:12:14,935 --> 00:12:17,869
+     they measure the slots     
+   with an electronic probe.    
+
+198
+00:12:20,341 --> 00:12:23,275
+          tools sculpt          
+   the rough plastic blank,     
+
+199
+00:12:23,277 --> 00:12:26,144
+     transforming it into a     
+            platform            
+       for the pill vial        
+
+200
+00:12:26,146 --> 00:12:29,448
+        during capping.         
+
+201
+00:12:29,450 --> 00:12:33,418
+     the part takes shape in    
+            minutes.            
+
+202
+00:12:33,420 --> 00:12:35,754
+          an assembler          
+    installs two computers      
+
+203
+00:12:35,756 --> 00:12:37,022
+    in the dispenser frame.     
+
+204
+00:12:37,024 --> 00:12:40,292
+    one computer interfaces     
+   with the robotic system.     
+
+205
+00:12:40,294 --> 00:12:43,828
+       the other operates       
+      the drug inventory.       
+
+206
+00:12:43,830 --> 00:12:45,497
+      she installs a rack       
+
+207
+00:12:45,499 --> 00:12:49,968
+    that holds a power strip    
+     above the computers.       
+
+208
+00:12:49,970 --> 00:12:53,105
+      she lowers a battery      
+      into place beside the     
+           computers            
+
+209
+00:12:53,107 --> 00:12:55,840
+ and ties it to the framework.  
+
+210
+00:12:55,842 --> 00:12:57,776
+          this battery          
+     provides backup power      
+
+211
+00:12:57,778 --> 00:12:59,645
+  in the event of an outage.    
+
+212
+00:13:02,515 --> 00:13:05,517
+     next come the controls     
+     for the robotic arm.       
+
+213
+00:13:05,519 --> 00:13:09,454
+ she inserts them in the frame  
+      and plugs them in.        
+
+214
+00:13:09,456 --> 00:13:12,190
+   another member of the team   
+  assembles plastic brackets    
+
+215
+00:13:12,192 --> 00:13:14,259
+   to an aluminum manifold.     
+
+216
+00:13:14,261 --> 00:13:19,064
+  these brackets hold plastic   
+   cells filled with pills.     
+
+217
+00:13:19,066 --> 00:13:21,999
+   the manifold itself sends    
+    dispensing information      
+
+218
+00:13:22,001 --> 00:13:23,535
+         to the cells.          
+
+219
+00:13:23,537 --> 00:13:25,270
+it also delivers bursts of air  
+
+220
+00:13:25,272 --> 00:13:27,138
+   to move the pills through    
+           the cells            
+
+221
+00:13:27,140 --> 00:13:30,342
+ and into prescription vials.   
+
+222
+00:13:30,344 --> 00:13:35,347
+    she secures the brackets    
+ to the manifold with screws.   
+
+223
+00:13:35,349 --> 00:13:38,216
+ then, she attaches a long row  
+       of circuit boards        
+
+224
+00:13:38,218 --> 00:13:40,752
+       to the manifold.         
+
+225
+00:13:40,754 --> 00:13:43,021
+ these circuit boards send data 
+       between the cells        
+
+226
+00:13:43,023 --> 00:13:44,923
+ and the dispensing computer.   
+
+227
+00:13:49,496 --> 00:13:53,165
+   she connects ribbon cable    
+to the computer circuit board.  
+
+228
+00:13:53,167 --> 00:13:55,900
+   this cable will be linked    
+     to 18 other manifolds      
+
+229
+00:13:55,902 --> 00:13:57,569
+  in the dispensing machine.    
+
+230
+00:14:02,509 --> 00:14:04,376
+         they're ready          
+  to mount all the manifolds    
+
+231
+00:14:04,378 --> 00:14:08,513
+    to a large metal frame.     
+
+232
+00:14:08,515 --> 00:14:11,983
+  an employee slides the ends   
+  of each manifold into slots   
+
+233
+00:14:11,985 --> 00:14:13,685
+         in the rack.           
+
+234
+00:14:17,391 --> 00:14:19,257
+         she stacks up          
+      the cell manifolds,       
+
+235
+00:14:19,259 --> 00:14:21,693
+    creating a bank of 18.      
+
+236
+00:14:26,533 --> 00:14:29,768
+ plastic dividers are attached  
+       to the brackets.         
+
+237
+00:14:32,739 --> 00:14:36,808
+   this creates compartments    
+to hold the actual pill cells.  
+
+238
+00:14:38,344 --> 00:14:39,811
+    the dividers strengthen     
+
+239
+00:14:39,813 --> 00:14:42,180
+      the entire dispensing     
+            machine's           
+          structure.            
+
+240
+00:14:49,490 --> 00:14:51,690
+        a technician now        
+   installs a vertical rail     
+
+241
+00:14:51,692 --> 00:14:55,293
+        that's equipped         
+      with a robotic arm.       
+
+242
+00:14:55,295 --> 00:14:57,028
+he fits the bottom of the rail  
+
+243
+00:14:57,030 --> 00:14:59,364
+        into the grooves        
+     of a horizontal track      
+
+244
+00:14:59,366 --> 00:15:03,167
+   and attaches the top of the  
+              rail              
+      to an upper track.        
+
+245
+00:15:03,169 --> 00:15:05,070
+      he connects one end       
+        of a long pole,         
+
+246
+00:15:05,072 --> 00:15:06,571
+     called a link shaft,       
+
+247
+00:15:06,573 --> 00:15:09,708
+ to the robot and the other end 
+       to the top track.        
+
+248
+00:15:09,710 --> 00:15:12,643
+  this shaft moves the robotic  
+               arm              
+         horizontally           
+
+249
+00:15:12,645 --> 00:15:15,647
+  to collect pills in a vial.   
+
+250
+00:15:15,649 --> 00:15:19,251
+ the installer tests the shaft  
+  to confirm it moves the arm   
+
+251
+00:15:19,253 --> 00:15:23,321
+        along the track         
+     with no obstructions.      
+
+252
+00:15:23,323 --> 00:15:27,726
+  he programs the robotic arm   
+ to move up, down, need around  
+
+253
+00:15:27,728 --> 00:15:30,362
+   in order to collect pills    
+      during dispensing.        
+
+254
+00:15:32,398 --> 00:15:33,932
+   he attaches rubber flaps     
+
+255
+00:15:33,934 --> 00:15:37,602
+          to the back           
+ of all the pill compartments.  
+
+256
+00:15:37,604 --> 00:15:39,404
+     they absorb the sound      
+       of the equipment         
+
+257
+00:15:39,406 --> 00:15:43,408
+ to keep the noise level down.  
+
+258
+00:15:43,410 --> 00:15:46,678
+     he connects tanks full     
+of compressed air to the grid.  
+
+259
+00:15:46,680 --> 00:15:49,414
+   the compressed air will be   
+ pumped through the manifolds   
+
+260
+00:15:49,416 --> 00:15:53,818
+    to move pills through the   
+             cells.             
+
+261
+00:15:53,820 --> 00:15:58,089
+   a technician now assembles   
+    the exception carousel.     
+
+262
+00:15:58,091 --> 00:15:59,357
+    it captures medications     
+
+263
+00:15:59,359 --> 00:16:02,060
+          that haven't          
+   been perfectly dispensed.    
+
+264
+00:16:09,169 --> 00:16:12,103
+ he inserts the motor assembly  
+     in the center cavity       
+
+265
+00:16:12,105 --> 00:16:15,507
+ and snaps the top into place.  
+
+266
+00:16:15,509 --> 00:16:18,043
+  he screws a metal framework   
+        to the assembly         
+
+267
+00:16:18,045 --> 00:16:19,911
+          and confirms          
+    that it revolves freely     
+
+268
+00:16:19,913 --> 00:16:22,647
+     within the framework.      
+
+269
+00:16:22,649 --> 00:16:26,518
+   he scans the serial number   
+    for tracking purposes.      
+
+270
+00:16:26,520 --> 00:16:28,052
+      stay tuned for more       
+
+271
+00:16:28,054 --> 00:16:29,988
+        as they prepare         
+   this medication dispenser    
+
+272
+00:16:29,990 --> 00:16:32,157
+      for the workplace.        
+
+273
+00:16:46,406 --> 00:16:47,939
+           narrator:            
+  a technological revolution    
+
+274
+00:16:47,941 --> 00:16:51,276
+          is happening          
+ behind the pharmacy counter.   
+
+275
+00:16:51,278 --> 00:16:53,011
+        robotic systems         
+       are proving to be        
+
+276
+00:16:53,013 --> 00:16:56,213
+     fast and accurate pill     
+           counters.            
+
+277
+00:16:56,215 --> 00:17:00,418
+    these robotic dispensers    
+             bottle             
+  and label the medications.    
+
+278
+00:17:00,420 --> 00:17:01,819
+      in a busy pharmacy,       
+
+279
+00:17:01,821 --> 00:17:06,224
+         these machines         
+are a prescription for change.  
+
+280
+00:17:06,226 --> 00:17:09,494
+   the carousel that captures   
+       any prescriptions        
+
+281
+00:17:09,496 --> 00:17:12,631
+ that are improperly dispensed  
+       is now complete.         
+
+282
+00:17:12,633 --> 00:17:16,167
+     a technician mounts it     
+ to the center of the machine.  
+
+283
+00:17:16,169 --> 00:17:18,036
+          he attaches           
+     touch screen controls      
+
+284
+00:17:18,038 --> 00:17:19,838
+      above the carousel.       
+
+285
+00:17:24,378 --> 00:17:26,678
+     it's time to assemble      
+      the labeling system       
+
+286
+00:17:26,680 --> 00:17:28,580
+      for the pill vials.       
+
+287
+00:17:28,582 --> 00:17:30,582
+      the first component       
+         is the device          
+
+288
+00:17:30,584 --> 00:17:34,652
+      that spins the vials      
+  as the labels are applied.    
+
+289
+00:17:34,654 --> 00:17:38,390
+    she wires it to a motor,    
+then places it in the housing.  
+
+290
+00:17:43,062 --> 00:17:44,262
+     she connects a sensor      
+
+291
+00:17:44,264 --> 00:17:46,631
+        that will detect        
+    the presence of a vial.     
+
+292
+00:17:49,403 --> 00:17:52,871
+    she attaches the printer    
+ to a computer circuit board,   
+
+293
+00:17:52,873 --> 00:17:55,840
+     then tucks the printer     
+       into the housing.        
+
+294
+00:17:58,411 --> 00:18:00,411
+     it's time for a test.      
+
+295
+00:18:00,413 --> 00:18:01,879
+       she loads a vial.        
+
+296
+00:18:01,881 --> 00:18:04,815
+       then, the labeler        
+     takes it for a spin.       
+
+297
+00:18:04,817 --> 00:18:06,618
+   the system unwinds paper     
+
+298
+00:18:06,620 --> 00:18:09,888
+           and prints           
+ the prescribing information.   
+
+299
+00:18:09,890 --> 00:18:11,623
+          little arms           
+     wrap the sticky label      
+
+300
+00:18:11,625 --> 00:18:13,358
+   around the spinning vial.    
+
+301
+00:18:15,495 --> 00:18:19,297
+     she inspects the label     
+   for accuracy and clarity.    
+
+302
+00:18:19,299 --> 00:18:20,698
+    if it meets standards,      
+
+303
+00:18:20,700 --> 00:18:24,903
+    they install the labeler    
+ in the medication dispenser.   
+
+304
+00:18:24,905 --> 00:18:28,373
+  it's attached to the bottom   
+     of the robot's frame.      
+
+305
+00:18:30,176 --> 00:18:32,443
+         the technician         
+ mounts two vial storage units  
+
+306
+00:18:32,445 --> 00:18:34,245
+      above the labeler.        
+
+307
+00:18:34,247 --> 00:18:35,647
+   one is for smaller vials,    
+
+308
+00:18:35,649 --> 00:18:39,317
+         and the other          
+      is for larger ones.       
+
+309
+00:18:39,319 --> 00:18:41,118
+       mechanical levers        
+       inside each unit         
+
+310
+00:18:41,120 --> 00:18:45,323
+    hold vials until they're    
+      ready for labeling.       
+
+311
+00:18:45,325 --> 00:18:47,659
+       vials travel down        
+     these plastic chutes       
+
+312
+00:18:47,661 --> 00:18:50,395
+        to the printer.         
+
+313
+00:18:50,397 --> 00:18:52,664
+    beside the vial storage     
+     and delivery system,       
+
+314
+00:18:52,666 --> 00:18:54,165
+    he installs the capper      
+
+315
+00:18:54,167 --> 00:18:58,403
+      that twists the tops      
+        onto the vials.         
+
+316
+00:18:58,405 --> 00:19:04,208
+   next up are drop-off bins    
+        for the completed       
+         prescriptions.         
+
+317
+00:19:04,210 --> 00:19:06,678
+       another technician       
+  encases the control screen    
+
+318
+00:19:06,680 --> 00:19:09,648
+     and carousel below it      
+     with plastic framing.      
+
+319
+00:19:15,555 --> 00:19:17,422
+    he fits an emergency stop   
+             button             
+
+320
+00:19:17,424 --> 00:19:19,758
+         to the switch          
+   above the control screen.    
+
+321
+00:19:21,962 --> 00:19:24,429
+           to protect           
+  the sensitive electronics,    
+
+322
+00:19:24,431 --> 00:19:27,365
+ they attach plastic cabinetry  
+         to the front.          
+
+323
+00:19:30,236 --> 00:19:34,172
+  a technician now calibrates   
+the cells that hold the pills.  
+
+324
+00:19:34,174 --> 00:19:36,975
+ he connects them one at a time 
+        to a computer,          
+
+325
+00:19:36,977 --> 00:19:39,844
+       which communicates       
+    with the cell network.      
+
+326
+00:19:39,846 --> 00:19:42,646
+    he programs the number of   
+              pills             
+         to be counted          
+
+327
+00:19:42,648 --> 00:19:44,182
+         and the amount         
+    of air pressure needed      
+
+328
+00:19:44,184 --> 00:19:46,484
+          to move them          
+    through the throat of the   
+             cell.              
+
+329
+00:19:51,791 --> 00:19:54,926
+      after a pill cell is      
+           programmed,          
+         a technician           
+
+330
+00:19:54,928 --> 00:19:58,530
+  places the cell in its slot   
+ at the back of the dispenser.  
+
+331
+00:20:00,534 --> 00:20:04,068
+      there are up to 228       
+  uniquely programmed cells.    
+
+332
+00:20:04,070 --> 00:20:07,939
+   they'll hold the pharmacy's  
+              most              
+       commonly dispensed       
+          medications.          
+
+333
+00:20:10,576 --> 00:20:13,010
+   he now scans the bar codes   
+         on each cell           
+
+334
+00:20:13,012 --> 00:20:15,013
+  to log the pill inventory.    
+
+335
+00:20:23,623 --> 00:20:26,825
+        the bar code is         
+    the serial number for the   
+             cell.              
+
+336
+00:20:29,096 --> 00:20:31,096
+          this robotic          
+     medication dispenser       
+
+337
+00:20:31,098 --> 00:20:34,365
+    is ready to be put to the   
+             test.              
+
+338
+00:20:34,367 --> 00:20:35,900
+      he loads pill vials       
+
+339
+00:20:35,902 --> 00:20:40,038
+ into the storage compartments  
+         at the front.          
+
+340
+00:20:40,040 --> 00:20:41,439
+      caps are deposited        
+
+341
+00:20:41,441 --> 00:20:44,042
+       in the compartment       
+       beside the vials.        
+
+342
+00:20:46,980 --> 00:20:52,049
+        then, he stocks         
+ some of the cells with pills.  
+
+343
+00:20:52,051 --> 00:20:57,188
+ for the purpose of this test,  
+ the pills are plastic copies.  
+
+344
+00:20:57,190 --> 00:21:00,592
+      sensors in the cells      
+    count the pills that are    
+            loaded.             
+
+345
+00:21:02,395 --> 00:21:04,963
+         the technician         
+ inputs the test prescription.  
+
+346
+00:21:07,067 --> 00:21:10,268
+         a vial drops,          
+  and the printer labels it.    
+
+347
+00:21:10,270 --> 00:21:14,205
+ the robotic arm takes the vial 
+     to the correct cell.       
+
+348
+00:21:14,207 --> 00:21:18,075
+    the robotic arm rotates     
+     and slides sideways,       
+
+349
+00:21:18,077 --> 00:21:22,213
+      delivering the vial       
+   to the capping operation.    
+
+350
+00:21:22,215 --> 00:21:24,215
+      a second robotic arm      
+         then presses           
+
+351
+00:21:24,217 --> 00:21:26,417
+       and twists the cap       
+        onto the vial.          
+
+352
+00:21:28,888 --> 00:21:31,222
+     the prescription is now    
+            filled.             
+
+353
+00:21:31,224 --> 00:21:33,758
+         from labeling          
+   to dispensing to capping,    
+
+354
+00:21:33,760 --> 00:21:36,528
+     the process has taken      
+         mere seconds.          
+
+355
+00:21:38,832 --> 00:21:42,166
+ in the pharmacy, this robotic  
+     medication dispenser       
+
+356
+00:21:42,168 --> 00:21:43,902
+       should prove to be       
+        indispensable.          
+

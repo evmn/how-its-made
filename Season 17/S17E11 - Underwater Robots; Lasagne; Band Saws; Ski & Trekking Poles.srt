@@ -1,0 +1,3270 @@
+﻿1
+00:00:53,587 --> 00:00:59,058
+>> narrator: robots perform many
+underwater tasks, which are     
+impossible or too risky for     
+
+2
+00:00:59,060 --> 00:01:00,726
+underwater tasks, which are     
+impossible or too risky for     
+divers to carry out, like       
+
+3
+00:01:00,728 --> 00:01:02,594
+impossible or too risky for     
+divers to carry out, like       
+collecting samples from the     
+
+4
+00:01:02,596 --> 00:01:04,329
+divers to carry out, like       
+collecting samples from the     
+ocean floor for scientific      
+
+5
+00:01:04,331 --> 00:01:06,331
+collecting samples from the     
+ocean floor for scientific      
+research, exploring shipwrecks, 
+
+6
+00:01:06,333 --> 00:01:08,400
+ocean floor for scientific      
+research, exploring shipwrecks, 
+inspecting underwater pipelines,
+
+7
+00:01:08,402 --> 00:01:09,802
+research, exploring shipwrecks, 
+inspecting underwater pipelines,
+searching for planted           
+
+8
+00:01:09,804 --> 00:01:11,570
+inspecting underwater pipelines,
+searching for planted           
+explosives, or recovering       
+
+9
+00:01:11,572 --> 00:01:15,173
+searching for planted           
+explosives, or recovering       
+bodies.                         
+
+10
+00:01:15,175 --> 00:01:16,809
+explosives, or recovering       
+bodies.                         
+this particular underwater      
+
+11
+00:01:16,811 --> 00:01:18,344
+bodies.                         
+this particular underwater      
+robot is designed to find       
+
+12
+00:01:18,346 --> 00:01:20,245
+this particular underwater      
+robot is designed to find       
+unconscious drowning victims.   
+
+13
+00:01:20,247 --> 00:01:22,147
+robot is designed to find       
+unconscious drowning victims.   
+recent incidents have shown that
+
+14
+00:01:22,149 --> 00:01:23,882
+unconscious drowning victims.   
+recent incidents have shown that
+a person recovered within 90    
+
+15
+00:01:23,884 --> 00:01:25,550
+recent incidents have shown that
+a person recovered within 90    
+minutes can survive without     
+
+16
+00:01:25,552 --> 00:01:27,153
+a person recovered within 90    
+minutes can survive without     
+brain damage when rescuers      
+
+17
+00:01:27,155 --> 00:01:29,021
+minutes can survive without     
+brain damage when rescuers      
+follow a specific resuscitation 
+
+18
+00:01:29,023 --> 00:01:30,922
+brain damage when rescuers      
+follow a specific resuscitation 
+protocol.                       
+
+19
+00:01:30,924 --> 00:01:32,558
+follow a specific resuscitation 
+protocol.                       
+the robot uses a protruding,    
+
+20
+00:01:32,560 --> 00:01:34,226
+protocol.                       
+the robot uses a protruding,    
+interlocking jaw to grab the    
+
+21
+00:01:34,228 --> 00:01:36,095
+the robot uses a protruding,    
+interlocking jaw to grab the    
+victim by a limb and haul him or
+
+22
+00:01:36,097 --> 00:01:37,996
+interlocking jaw to grab the    
+victim by a limb and haul him or
+her to the surface.             
+
+23
+00:01:37,998 --> 00:01:39,498
+victim by a limb and haul him or
+her to the surface.             
+its onboard camera gives        
+
+24
+00:01:39,500 --> 00:01:41,167
+her to the surface.             
+its onboard camera gives        
+operators at the surface an     
+
+25
+00:01:41,169 --> 00:01:42,367
+its onboard camera gives        
+operators at the surface an     
+underwater view.                
+
+26
+00:01:42,369 --> 00:01:44,169
+operators at the surface an     
+underwater view.                
+when the water's too murky to   
+
+27
+00:01:44,171 --> 00:01:46,004
+underwater view.                
+when the water's too murky to   
+see anything, video-enhancing   
+
+28
+00:01:46,006 --> 00:01:47,707
+when the water's too murky to   
+see anything, video-enhancing   
+technology and imaging sonar    
+
+29
+00:01:47,709 --> 00:01:50,242
+see anything, video-enhancing   
+technology and imaging sonar    
+detect the outline of objects.  
+
+30
+00:01:50,244 --> 00:01:52,044
+technology and imaging sonar    
+detect the outline of objects.  
+several thrusters propel the    
+
+31
+00:01:52,046 --> 00:01:53,579
+detect the outline of objects.  
+several thrusters propel the    
+robot through the water.        
+
+32
+00:01:53,581 --> 00:01:55,181
+several thrusters propel the    
+robot through the water.        
+for each one, technicians       
+
+33
+00:01:55,183 --> 00:01:57,215
+robot through the water.        
+for each one, technicians       
+grease, then position a pair of 
+
+34
+00:01:57,217 --> 00:01:59,118
+for each one, technicians       
+grease, then position a pair of 
+o-rings onto end caps that they 
+
+35
+00:01:59,120 --> 00:02:00,819
+grease, then position a pair of 
+o-rings onto end caps that they 
+install on each end of the      
+
+36
+00:02:00,821 --> 00:02:04,156
+o-rings onto end caps that they 
+install on each end of the      
+thruster housing.               
+
+37
+00:02:04,158 --> 00:02:05,791
+install on each end of the      
+thruster housing.               
+the o-rings seal the end caps,  
+
+38
+00:02:05,793 --> 00:02:07,492
+thruster housing.               
+the o-rings seal the end caps,  
+keeping water out of the motor  
+
+39
+00:02:07,494 --> 00:02:10,129
+the o-rings seal the end caps,  
+keeping water out of the motor  
+located inside the housing.     
+
+40
+00:02:10,131 --> 00:02:11,863
+keeping water out of the motor  
+located inside the housing.     
+the motor shaft protrudes       
+
+41
+00:02:11,865 --> 00:02:13,765
+located inside the housing.     
+the motor shaft protrudes       
+through propeller the end cap.  
+
+42
+00:02:13,767 --> 00:02:15,668
+the motor shaft protrudes       
+through propeller the end cap.  
+a mechanical bale secures both  
+
+43
+00:02:15,670 --> 00:02:17,269
+through propeller the end cap.  
+a mechanical bale secures both  
+thruster end caps to the        
+
+44
+00:02:17,271 --> 00:02:19,771
+a mechanical bale secures both  
+thruster end caps to the        
+housing.                        
+
+45
+00:02:19,773 --> 00:02:21,474
+thruster end caps to the        
+housing.                        
+they fill the thruster with     
+
+46
+00:02:21,476 --> 00:02:22,040
+housing.                        
+they fill the thruster with     
+oil.                            
+
+47
+00:02:22,042 --> 00:02:23,942
+they fill the thruster with     
+oil.                            
+this prevents the thruster from 
+
+48
+00:02:23,944 --> 00:02:25,911
+oil.                            
+this prevents the thruster from 
+imploding under pressure as the 
+
+49
+00:02:25,913 --> 00:02:27,480
+this prevents the thruster from 
+imploding under pressure as the 
+robot descends deeper and       
+
+50
+00:02:27,482 --> 00:02:28,147
+imploding under pressure as the 
+robot descends deeper and       
+deeper.                         
+
+51
+00:02:28,149 --> 00:02:29,815
+robot descends deeper and       
+deeper.                         
+after filling, they draw a      
+
+52
+00:02:29,817 --> 00:02:31,817
+deeper.                         
+after filling, they draw a      
+vacuum to remove any air bubbles
+
+53
+00:02:31,819 --> 00:02:33,819
+after filling, they draw a      
+vacuum to remove any air bubbles
+and draw the oil into every nook
+
+54
+00:02:33,821 --> 00:02:34,720
+vacuum to remove any air bubbles
+and draw the oil into every nook
+and cranny.                     
+
+55
+00:02:34,722 --> 00:02:36,588
+and draw the oil into every nook
+and cranny.                     
+then then install a reservoir,  
+
+56
+00:02:36,590 --> 00:02:39,024
+and cranny.                     
+then then install a reservoir,  
+which they also fill with oil.  
+
+57
+00:02:39,026 --> 00:02:40,626
+then then install a reservoir,  
+which they also fill with oil.  
+when the underwater pressure    
+
+58
+00:02:40,628 --> 00:02:42,294
+which they also fill with oil.  
+when the underwater pressure    
+builds, this backup oil supply  
+
+59
+00:02:42,296 --> 00:02:44,029
+when the underwater pressure    
+builds, this backup oil supply  
+fills any remaining miniscule   
+
+60
+00:02:44,031 --> 00:02:45,698
+builds, this backup oil supply  
+fills any remaining miniscule   
+air gap the vacuum might have   
+
+61
+00:02:45,700 --> 00:02:47,632
+fills any remaining miniscule   
+air gap the vacuum might have   
+missed.                         
+
+62
+00:02:47,634 --> 00:02:49,435
+air gap the vacuum might have   
+missed.                         
+they close the reservoir with   
+
+63
+00:02:49,437 --> 00:02:51,303
+missed.                         
+they close the reservoir with   
+a sealing screw to prevent any  
+
+64
+00:02:51,305 --> 00:02:52,704
+they close the reservoir with   
+a sealing screw to prevent any  
+oil from leaking out.           
+
+65
+00:02:52,706 --> 00:02:54,640
+a sealing screw to prevent any  
+oil from leaking out.           
+now they turn their attention to
+
+66
+00:02:54,642 --> 00:02:56,508
+oil from leaking out.           
+now they turn their attention to
+the thruster's main component,  
+
+67
+00:02:56,510 --> 00:02:58,343
+now they turn their attention to
+the thruster's main component,  
+a two-blade propeller made of   
+
+68
+00:02:58,345 --> 00:02:59,311
+the thruster's main component,  
+a two-blade propeller made of   
+durable nylon.                  
+
+69
+00:02:59,313 --> 00:03:01,180
+a two-blade propeller made of   
+durable nylon.                  
+it goes on the back end of the  
+
+70
+00:03:01,182 --> 00:03:03,516
+durable nylon.                  
+it goes on the back end of the  
+thrusters.                      
+
+71
+00:03:03,518 --> 00:03:05,550
+it goes on the back end of the  
+thrusters.                      
+they install the camera chassis 
+
+72
+00:03:05,552 --> 00:03:06,618
+thrusters.                      
+they install the camera chassis 
+onto the robot.                 
+
+73
+00:03:06,620 --> 00:03:08,320
+they install the camera chassis 
+onto the robot.                 
+this chassis also carries the   
+
+74
+00:03:08,322 --> 00:03:09,921
+onto the robot.                 
+this chassis also carries the   
+majority of the robot's         
+
+75
+00:03:09,923 --> 00:03:11,457
+this chassis also carries the   
+majority of the robot's         
+electronics, such as the        
+
+76
+00:03:11,459 --> 00:03:13,024
+majority of the robot's         
+electronics, such as the        
+computer, communications        
+
+77
+00:03:13,026 --> 00:03:17,028
+electronics, such as the        
+computer, communications        
+equipment, and lighting.        
+
+78
+00:03:17,030 --> 00:03:18,630
+computer, communications        
+equipment, and lighting.        
+here they're hooking up the belt
+
+79
+00:03:18,632 --> 00:03:20,132
+equipment, and lighting.        
+here they're hooking up the belt
+for the tiny motor, which tilts 
+
+80
+00:03:20,134 --> 00:03:23,802
+here they're hooking up the belt
+for the tiny motor, which tilts 
+the camera to look up and down. 
+
+81
+00:03:23,804 --> 00:03:25,604
+for the tiny motor, which tilts 
+the camera to look up and down. 
+they cover the camera chassis   
+
+82
+00:03:25,606 --> 00:03:27,672
+the camera to look up and down. 
+they cover the camera chassis   
+with a transparent, acrylic dome
+
+83
+00:03:27,674 --> 00:03:29,274
+they cover the camera chassis   
+with a transparent, acrylic dome
+called the viewing port.        
+
+84
+00:03:29,276 --> 00:03:31,276
+with a transparent, acrylic dome
+called the viewing port.        
+a cap with an o-ring seal keeps 
+
+85
+00:03:31,278 --> 00:03:33,945
+called the viewing port.        
+a cap with an o-ring seal keeps 
+water out.                      
+
+86
+00:03:33,947 --> 00:03:35,681
+a cap with an o-ring seal keeps 
+water out.                      
+they install the robot's power  
+
+87
+00:03:35,683 --> 00:03:37,549
+water out.                      
+they install the robot's power  
+supply at the opposite end of   
+
+88
+00:03:37,551 --> 00:03:39,351
+they install the robot's power  
+supply at the opposite end of   
+the robot, then encase it in a  
+
+89
+00:03:39,353 --> 00:03:41,253
+supply at the opposite end of   
+the robot, then encase it in a  
+metal tube, sealed on both sides
+
+90
+00:03:41,255 --> 00:03:47,025
+the robot, then encase it in a  
+metal tube, sealed on both sides
+with an end cap and an o-ring.  
+
+91
+00:03:47,027 --> 00:03:48,794
+metal tube, sealed on both sides
+with an end cap and an o-ring.  
+for the thrusters to work at    
+
+92
+00:03:48,796 --> 00:03:50,629
+with an end cap and an o-ring.  
+for the thrusters to work at    
+maximum efficiency, the robot   
+
+93
+00:03:50,631 --> 00:03:52,297
+for the thrusters to work at    
+maximum efficiency, the robot   
+must be neutrally buoyant,      
+
+94
+00:03:52,299 --> 00:03:54,132
+maximum efficiency, the robot   
+must be neutrally buoyant,      
+meaning neither too light nor   
+
+95
+00:03:54,134 --> 00:03:54,933
+must be neutrally buoyant,      
+meaning neither too light nor   
+too heavy.                      
+
+96
+00:03:54,935 --> 00:03:56,935
+meaning neither too light nor   
+too heavy.                      
+so once the robot is fitted with
+
+97
+00:03:56,937 --> 00:03:58,303
+too heavy.                      
+so once the robot is fitted with
+all its thrusters and           
+
+98
+00:03:58,305 --> 00:04:00,239
+so once the robot is fitted with
+all its thrusters and           
+electronics, technicians install
+
+99
+00:04:00,241 --> 00:04:01,373
+all its thrusters and           
+electronics, technicians install
+the main float.                 
+
+100
+00:04:01,375 --> 00:04:03,308
+electronics, technicians install
+the main float.                 
+certain models have additional  
+
+101
+00:04:03,310 --> 00:04:04,977
+the main float.                 
+certain models have additional  
+floats.                         
+
+102
+00:04:04,979 --> 00:04:06,545
+certain models have additional  
+floats.                         
+they cap each propeller with a  
+
+103
+00:04:06,547 --> 00:04:07,913
+floats.                         
+they cap each propeller with a  
+vented cover called a kort      
+
+104
+00:04:07,915 --> 00:04:09,714
+they cap each propeller with a  
+vented cover called a kort      
+nozzle.                         
+
+105
+00:04:09,716 --> 00:04:11,483
+vented cover called a kort      
+nozzle.                         
+this isolates the water flow,   
+
+106
+00:04:11,485 --> 00:04:12,985
+nozzle.                         
+this isolates the water flow,   
+maximizing the propeller's      
+
+107
+00:04:12,987 --> 00:04:15,887
+this isolates the water flow,   
+maximizing the propeller's      
+efficiency.                     
+
+108
+00:04:15,889 --> 00:04:17,523
+maximizing the propeller's      
+efficiency.                     
+these bumper frames act like    
+
+109
+00:04:17,525 --> 00:04:18,690
+efficiency.                     
+these bumper frames act like    
+bumpers on a car.               
+
+110
+00:04:18,692 --> 00:04:20,559
+these bumper frames act like    
+bumpers on a car.               
+they absorb the force of impact,
+
+111
+00:04:20,561 --> 00:04:22,027
+bumpers on a car.               
+they absorb the force of impact,
+protecting the robot from       
+
+112
+00:04:22,029 --> 00:04:23,595
+they absorb the force of impact,
+protecting the robot from       
+damage when it encounters       
+
+113
+00:04:23,597 --> 00:04:26,932
+protecting the robot from       
+damage when it encounters       
+underwater objects.             
+
+114
+00:04:26,934 --> 00:04:28,834
+damage when it encounters       
+underwater objects.             
+the bumper frames also serve as 
+
+115
+00:04:28,836 --> 00:04:30,802
+underwater objects.             
+the bumper frames also serve as 
+a structure to attach lights and
+
+116
+00:04:30,804 --> 00:04:32,571
+the bumper frames also serve as 
+a structure to attach lights and
+other components, as well as    
+
+117
+00:04:32,573 --> 00:04:34,440
+a structure to attach lights and
+other components, as well as    
+specialized tools, such as that 
+
+118
+00:04:34,442 --> 00:04:36,341
+other components, as well as    
+specialized tools, such as that 
+quick-release jaw, which grabs  
+
+119
+00:04:36,343 --> 00:04:43,114
+specialized tools, such as that 
+quick-release jaw, which grabs  
+the victim by a limb.           
+
+120
+00:04:43,116 --> 00:04:44,883
+quick-release jaw, which grabs  
+the victim by a limb.           
+they install the jaw at an angle
+
+121
+00:04:44,885 --> 00:04:46,418
+the victim by a limb.           
+they install the jaw at an angle
+so that it doesn't block the    
+
+122
+00:04:46,420 --> 00:04:51,389
+they install the jaw at an angle
+so that it doesn't block the    
+camera's view.                  
+
+123
+00:04:51,391 --> 00:04:52,758
+so that it doesn't block the    
+camera's view.                  
+now the sonar unit.             
+
+124
+00:04:52,760 --> 00:04:54,693
+camera's view.                  
+now the sonar unit.             
+it also mounts to the bumper    
+
+125
+00:04:54,695 --> 00:04:55,393
+now the sonar unit.             
+it also mounts to the bumper    
+frames.                         
+
+126
+00:04:55,395 --> 00:04:57,495
+it also mounts to the bumper    
+frames.                         
+the sonar projects a 130-degree 
+
+127
+00:04:57,497 --> 00:04:59,497
+frames.                         
+the sonar projects a 130-degree 
+left-to-right 3-d image onto a  
+
+128
+00:04:59,499 --> 00:05:01,500
+the sonar projects a 130-degree 
+left-to-right 3-d image onto a  
+monitor at the surface, showing 
+
+129
+00:05:01,502 --> 00:05:03,535
+left-to-right 3-d image onto a  
+monitor at the surface, showing 
+the outline of objects around   
+
+130
+00:05:03,537 --> 00:05:09,941
+monitor at the surface, showing 
+the outline of objects around   
+the robot.                      
+
+131
+00:05:09,943 --> 00:05:11,577
+the outline of objects around   
+the robot.                      
+finally, at the top, they       
+
+132
+00:05:11,579 --> 00:05:13,411
+the robot.                      
+finally, at the top, they       
+install a strobe light -- a     
+
+133
+00:05:13,413 --> 00:05:15,114
+finally, at the top, they       
+install a strobe light -- a     
+flashing beacon that tells      
+
+134
+00:05:15,116 --> 00:05:17,249
+install a strobe light -- a     
+flashing beacon that tells      
+rescuers on the surface exactly 
+
+135
+00:05:17,251 --> 00:05:23,989
+flashing beacon that tells      
+rescuers on the surface exactly 
+where the robot is.             
+
+136
+00:05:23,991 --> 00:05:25,957
+rescuers on the surface exactly 
+where the robot is.             
+every underwater robot goes out 
+
+137
+00:05:25,959 --> 00:05:27,793
+where the robot is.             
+every underwater robot goes out 
+for a test drive.               
+
+138
+00:05:27,795 --> 00:05:29,528
+every underwater robot goes out 
+for a test drive.               
+they submerge it in a tank,     
+
+139
+00:05:29,530 --> 00:05:31,463
+for a test drive.               
+they submerge it in a tank,     
+which is essentially an aquarium
+
+140
+00:05:31,465 --> 00:05:32,998
+they submerge it in a tank,     
+which is essentially an aquarium
+inhabited by fish of the        
+
+141
+00:05:33,000 --> 00:05:35,567
+which is essentially an aquarium
+inhabited by fish of the        
+stick-on variety.               
+
+142
+00:05:35,569 --> 00:05:37,469
+inhabited by fish of the        
+stick-on variety.               
+these inanimate creatures adhere
+
+143
+00:05:37,471 --> 00:05:39,271
+stick-on variety.               
+these inanimate creatures adhere
+to the glass, provide colorful  
+
+144
+00:05:39,273 --> 00:05:40,872
+these inanimate creatures adhere
+to the glass, provide colorful  
+images on which testers can     
+
+145
+00:05:40,874 --> 00:05:45,043
+to the glass, provide colorful  
+images on which testers can     
+focus and unfocus the camera.   
+
+146
+00:05:45,045 --> 00:05:46,879
+images on which testers can     
+focus and unfocus the camera.   
+from there on in, the first     
+
+147
+00:05:46,881 --> 00:05:48,881
+focus and unfocus the camera.   
+from there on in, the first     
+mission in open water awaits.   
+
+148
+00:06:04,297 --> 00:06:10,035
+>> narrator: there are many ways
+to make lasagna, but no matter  
+how it stacks up, people seem to
+
+149
+00:06:10,037 --> 00:06:12,037
+to make lasagna, but no matter  
+how it stacks up, people seem to
+never get enough of this classic
+
+150
+00:06:12,039 --> 00:06:13,038
+how it stacks up, people seem to
+never get enough of this classic
+italian dish.                   
+
+151
+00:06:13,040 --> 00:06:14,973
+never get enough of this classic
+italian dish.                   
+popular in italy for centuries, 
+
+152
+00:06:14,975 --> 00:06:16,441
+italian dish.                   
+popular in italy for centuries, 
+its appeals transcends          
+
+153
+00:06:16,443 --> 00:06:17,977
+popular in italy for centuries, 
+its appeals transcends          
+boundaries and cultures.        
+
+154
+00:06:17,979 --> 00:06:19,712
+its appeals transcends          
+boundaries and cultures.        
+who anywhere can resist all     
+
+155
+00:06:19,714 --> 00:06:26,919
+boundaries and cultures.        
+who anywhere can resist all     
+those layers of flavor?         
+
+156
+00:06:26,921 --> 00:06:28,820
+who anywhere can resist all     
+those layers of flavor?         
+ruffled, flat noodles define    
+
+157
+00:06:28,822 --> 00:06:29,455
+those layers of flavor?         
+ruffled, flat noodles define    
+lasagna.                        
+
+158
+00:06:29,457 --> 00:06:31,056
+ruffled, flat noodles define    
+lasagna.                        
+they give it structure.         
+
+159
+00:06:31,058 --> 00:06:32,791
+lasagna.                        
+they give it structure.         
+in between the layers, the      
+
+160
+00:06:32,793 --> 00:06:34,459
+they give it structure.         
+in between the layers, the      
+possibilities are endless.      
+
+161
+00:06:34,461 --> 00:06:36,394
+in between the layers, the      
+possibilities are endless.      
+ingredients vary, depending on  
+
+162
+00:06:36,396 --> 00:06:38,797
+possibilities are endless.      
+ingredients vary, depending on  
+the recipe.                     
+
+163
+00:06:38,799 --> 00:06:40,665
+ingredients vary, depending on  
+the recipe.                     
+for a veggie lasagna, things    
+
+164
+00:06:40,667 --> 00:06:42,534
+the recipe.                     
+for a veggie lasagna, things    
+start off with sautéed onions,  
+
+165
+00:06:42,536 --> 00:06:47,806
+for a veggie lasagna, things    
+start off with sautéed onions,  
+seasoned with pepper and salt.  
+
+166
+00:06:47,808 --> 00:06:49,908
+start off with sautéed onions,  
+seasoned with pepper and salt.  
+they add pureed tomatoes to the 
+
+167
+00:06:49,910 --> 00:06:50,876
+seasoned with pepper and salt.  
+they add pureed tomatoes to the 
+pungent mix.                    
+
+168
+00:06:50,878 --> 00:06:52,944
+they add pureed tomatoes to the 
+pungent mix.                    
+blades stir the ingredients as  
+
+169
+00:06:52,946 --> 00:06:55,080
+pungent mix.                    
+blades stir the ingredients as  
+they simmer in this steam-heated
+
+170
+00:06:55,082 --> 00:06:58,884
+blades stir the ingredients as  
+they simmer in this steam-heated
+mixer, and in no time, they have
+
+171
+00:06:58,886 --> 00:07:01,754
+they simmer in this steam-heated
+mixer, and in no time, they have
+a full-body tomato sauce.       
+
+172
+00:07:01,756 --> 00:07:03,689
+mixer, and in no time, they have
+a full-body tomato sauce.       
+they pump the tomato sauce into 
+
+173
+00:07:03,691 --> 00:07:04,623
+a full-body tomato sauce.       
+they pump the tomato sauce into 
+lasagna tubs.                   
+
+174
+00:07:04,625 --> 00:07:06,458
+they pump the tomato sauce into 
+lasagna tubs.                   
+this saucy base is the first    
+
+175
+00:07:06,460 --> 00:07:08,193
+lasagna tubs.                   
+this saucy base is the first    
+layer of flavor, but it also    
+
+176
+00:07:08,195 --> 00:07:09,894
+this saucy base is the first    
+layer of flavor, but it also    
+serves a practical purpose,     
+
+177
+00:07:09,896 --> 00:07:11,563
+layer of flavor, but it also    
+serves a practical purpose,     
+preventing the noodles from     
+
+178
+00:07:11,565 --> 00:07:13,398
+serves a practical purpose,     
+preventing the noodles from     
+sticking to the bottom of the   
+
+179
+00:07:13,400 --> 00:07:14,699
+preventing the noodles from     
+sticking to the bottom of the   
+tray during baking.             
+
+180
+00:07:14,701 --> 00:07:16,435
+sticking to the bottom of the   
+tray during baking.             
+workers arrange the broad and   
+
+181
+00:07:16,437 --> 00:07:18,236
+tray during baking.             
+workers arrange the broad and   
+crinkled lasagna noodles over   
+
+182
+00:07:18,238 --> 00:07:19,037
+workers arrange the broad and   
+crinkled lasagna noodles over   
+the sauce.                      
+
+183
+00:07:19,039 --> 00:07:20,772
+crinkled lasagna noodles over   
+the sauce.                      
+these noodles have been made    
+
+184
+00:07:20,774 --> 00:07:22,741
+the sauce.                      
+these noodles have been made    
+from a blend of whole grain and 
+
+185
+00:07:22,743 --> 00:07:24,509
+these noodles have been made    
+from a blend of whole grain and 
+semolina flours for a texture   
+
+186
+00:07:24,511 --> 00:07:27,713
+from a blend of whole grain and 
+semolina flours for a texture   
+that's firm, yet tender.        
+
+187
+00:07:27,715 --> 00:07:29,681
+semolina flours for a texture   
+that's firm, yet tender.        
+now for the filling ingredients.
+
+188
+00:07:29,683 --> 00:07:31,450
+that's firm, yet tender.        
+now for the filling ingredients.
+this factory lasagna will be    
+
+189
+00:07:31,452 --> 00:07:33,018
+now for the filling ingredients.
+this factory lasagna will be    
+made of roasted, organic        
+
+190
+00:07:33,020 --> 00:07:33,919
+this factory lasagna will be    
+made of roasted, organic        
+vegetables.                     
+
+191
+00:07:33,921 --> 00:07:36,188
+made of roasted, organic        
+vegetables.                     
+they include chunks of broccoli 
+
+192
+00:07:36,190 --> 00:07:38,323
+vegetables.                     
+they include chunks of broccoli 
+and uniformly mixed peppers,    
+
+193
+00:07:38,325 --> 00:07:40,459
+they include chunks of broccoli 
+and uniformly mixed peppers,    
+onions, carrots, zucchini, and  
+
+194
+00:07:40,461 --> 00:07:43,862
+and uniformly mixed peppers,    
+onions, carrots, zucchini, and  
+mushrooms.                      
+
+195
+00:07:43,864 --> 00:07:45,563
+onions, carrots, zucchini, and  
+mushrooms.                      
+they load the sliced and diced  
+
+196
+00:07:45,565 --> 00:07:46,732
+mushrooms.                      
+they load the sliced and diced  
+veggies into the next           
+
+197
+00:07:46,734 --> 00:07:49,268
+they load the sliced and diced  
+veggies into the next           
+steam-heated mixer.             
+
+198
+00:07:49,270 --> 00:07:51,302
+veggies into the next           
+steam-heated mixer.             
+the blades swing into action to 
+
+199
+00:07:51,304 --> 00:07:53,071
+steam-heated mixer.             
+the blades swing into action to 
+stir the ingredients as they    
+
+200
+00:07:53,073 --> 00:07:54,006
+the blades swing into action to 
+stir the ingredients as they    
+brown in oil.                   
+
+201
+00:07:54,008 --> 00:07:55,941
+stir the ingredients as they    
+brown in oil.                   
+this causes the natural sugars  
+
+202
+00:07:55,943 --> 00:07:57,976
+brown in oil.                   
+this causes the natural sugars  
+to break down and the vegetables
+
+203
+00:07:57,978 --> 00:07:59,277
+this causes the natural sugars  
+to break down and the vegetables
+to become sweeter.              
+
+204
+00:07:59,279 --> 00:08:01,079
+to break down and the vegetables
+to become sweeter.              
+creamy mozzarella cheese will   
+
+205
+00:08:01,081 --> 00:08:03,048
+to become sweeter.              
+creamy mozzarella cheese will   
+offset the sugary taste of the  
+
+206
+00:08:03,050 --> 00:08:03,682
+creamy mozzarella cheese will   
+offset the sugary taste of the  
+veggies.                        
+
+207
+00:08:03,684 --> 00:08:05,284
+offset the sugary taste of the  
+veggies.                        
+they add the caramelized        
+
+208
+00:08:05,286 --> 00:08:06,785
+veggies.                        
+they add the caramelized        
+veggies, the shredded           
+
+209
+00:08:06,787 --> 00:08:08,420
+they add the caramelized        
+veggies, the shredded           
+mozzarella, and more pasta      
+
+210
+00:08:08,422 --> 00:08:10,388
+veggies, the shredded           
+mozzarella, and more pasta      
+noodles, building the layers of 
+
+211
+00:08:10,390 --> 00:08:11,023
+mozzarella, and more pasta      
+noodles, building the layers of 
+flavor.                         
+
+212
+00:08:11,025 --> 00:08:15,693
+noodles, building the layers of 
+flavor.                         
+and there's a lot more to come. 
+
+213
+00:08:15,695 --> 00:08:17,496
+flavor.                         
+and there's a lot more to come. 
+over in another steam-heated    
+
+214
+00:08:17,498 --> 00:08:19,364
+and there's a lot more to come. 
+over in another steam-heated    
+mixer, a combination of milk,   
+
+215
+00:08:19,366 --> 00:08:21,300
+over in another steam-heated    
+mixer, a combination of milk,   
+oil, and rice flour is on a low 
+
+216
+00:08:21,302 --> 00:08:23,769
+mixer, a combination of milk,   
+oil, and rice flour is on a low 
+boil.                           
+
+217
+00:08:23,771 --> 00:08:25,037
+oil, and rice flour is on a low 
+boil.                           
+paddles distribute the          
+
+218
+00:08:25,039 --> 00:08:26,571
+boil.                           
+paddles distribute the          
+ingredients, and the sauce      
+
+219
+00:08:26,573 --> 00:08:29,842
+paddles distribute the          
+ingredients, and the sauce      
+begins to thicken.              
+
+220
+00:08:29,844 --> 00:08:31,443
+ingredients, and the sauce      
+begins to thicken.              
+shredded monterey jack and      
+
+221
+00:08:31,445 --> 00:08:33,111
+begins to thicken.              
+shredded monterey jack and      
+parmesan cheeses will enhance   
+
+222
+00:08:33,113 --> 00:08:34,846
+shredded monterey jack and      
+parmesan cheeses will enhance   
+the creaminess and add another  
+
+223
+00:08:34,848 --> 00:08:39,084
+parmesan cheeses will enhance   
+the creaminess and add another  
+dimension of flavor.            
+
+224
+00:08:39,086 --> 00:08:41,319
+the creaminess and add another  
+dimension of flavor.            
+next, a serious dash of nutmeg  
+
+225
+00:08:41,321 --> 00:08:43,522
+dimension of flavor.            
+next, a serious dash of nutmeg  
+and another one of salt spices  
+
+226
+00:08:43,524 --> 00:08:45,724
+next, a serious dash of nutmeg  
+and another one of salt spices  
+it up.                          
+
+227
+00:08:45,726 --> 00:08:47,725
+and another one of salt spices  
+it up.                          
+and after more stirring action, 
+
+228
+00:08:47,727 --> 00:08:49,394
+it up.                          
+and after more stirring action, 
+the white sauce is velvety      
+
+229
+00:08:49,396 --> 00:08:50,996
+and after more stirring action, 
+the white sauce is velvety      
+smooth and substantially        
+
+230
+00:08:50,998 --> 00:08:53,599
+the white sauce is velvety      
+smooth and substantially        
+thicker.                        
+
+231
+00:08:53,601 --> 00:08:55,366
+smooth and substantially        
+thicker.                        
+meanwhile, a worker shovels     
+
+232
+00:08:55,368 --> 00:08:56,801
+thicker.                        
+meanwhile, a worker shovels     
+crust into a grinder.           
+
+233
+00:08:56,803 --> 00:08:58,537
+meanwhile, a worker shovels     
+crust into a grinder.           
+the crusts are broken pieces    
+
+234
+00:08:58,539 --> 00:09:00,405
+crust into a grinder.           
+the crusts are broken pieces    
+from a pizza production line,   
+
+235
+00:09:00,407 --> 00:09:02,141
+the crusts are broken pieces    
+from a pizza production line,   
+and they have been dried to a   
+
+236
+00:09:02,143 --> 00:09:04,042
+from a pizza production line,   
+and they have been dried to a   
+specific consistency, so they   
+
+237
+00:09:04,044 --> 00:09:06,812
+and they have been dried to a   
+specific consistency, so they   
+should grind up nicely.         
+
+238
+00:09:06,814 --> 00:09:08,680
+specific consistency, so they   
+should grind up nicely.         
+a spiraling blade turns the     
+
+239
+00:09:08,682 --> 00:09:10,715
+should grind up nicely.         
+a spiraling blade turns the     
+crusts into uniform crumbs -- a 
+
+240
+00:09:10,717 --> 00:09:12,450
+a spiraling blade turns the     
+crusts into uniform crumbs -- a 
+classic lasagna topping --      
+
+241
+00:09:12,452 --> 00:09:14,419
+crusts into uniform crumbs -- a 
+classic lasagna topping --      
+adding a bit of crunch to the   
+
+242
+00:09:14,421 --> 00:09:18,890
+classic lasagna topping --      
+adding a bit of crunch to the   
+recipe.                         
+
+243
+00:09:18,892 --> 00:09:20,759
+adding a bit of crunch to the   
+recipe.                         
+with these final ingredients,   
+
+244
+00:09:20,761 --> 00:09:22,494
+recipe.                         
+with these final ingredients,   
+they're ready to pile it on     
+
+245
+00:09:22,496 --> 00:09:23,094
+with these final ingredients,   
+they're ready to pile it on     
+thick.                          
+
+246
+00:09:23,096 --> 00:09:24,563
+they're ready to pile it on     
+thick.                          
+as the layering process         
+
+247
+00:09:24,565 --> 00:09:26,364
+thick.                          
+as the layering process         
+continues, this meal really     
+
+248
+00:09:26,366 --> 00:09:27,366
+as the layering process         
+continues, this meal really     
+comes together.                 
+
+249
+00:09:27,368 --> 00:09:29,134
+continues, this meal really     
+comes together.                 
+the cream sauce and bread       
+
+250
+00:09:29,136 --> 00:09:30,702
+comes together.                 
+the cream sauce and bread       
+crumbs are the finishing        
+
+251
+00:09:30,704 --> 00:09:34,906
+the cream sauce and bread       
+crumbs are the finishing        
+touches.                        
+
+252
+00:09:34,908 --> 00:09:36,307
+crumbs are the finishing        
+touches.                        
+with numerous sous chefs        
+
+253
+00:09:36,309 --> 00:09:38,076
+touches.                        
+with numerous sous chefs        
+involved, things happen a whole 
+
+254
+00:09:38,078 --> 00:09:39,845
+with numerous sous chefs        
+involved, things happen a whole 
+lot faster here than on the home
+
+255
+00:09:39,847 --> 00:09:41,313
+involved, things happen a whole 
+lot faster here than on the home
+front.                          
+
+256
+00:09:41,315 --> 00:09:43,248
+lot faster here than on the home
+front.                          
+they assemble 48 single-serving 
+
+257
+00:09:43,250 --> 00:09:45,117
+front.                          
+they assemble 48 single-serving 
+lasagna dishes per minute at    
+
+258
+00:09:45,119 --> 00:09:48,720
+they assemble 48 single-serving 
+lasagna dishes per minute at    
+this factory...                 
+
+259
+00:09:48,722 --> 00:09:50,522
+lasagna dishes per minute at    
+this factory...                 
+then place them on trays and    
+
+260
+00:09:50,524 --> 00:09:52,390
+this factory...                 
+then place them on trays and    
+transfer them to a specialized  
+
+261
+00:09:52,392 --> 00:09:56,795
+then place them on trays and    
+transfer them to a specialized  
+freezer.                        
+
+262
+00:09:56,797 --> 00:09:58,863
+transfer them to a specialized  
+freezer.                        
+this is a blast freezer, which  
+
+263
+00:09:58,865 --> 00:10:00,465
+freezer.                        
+this is a blast freezer, which  
+is also known as a shock        
+
+264
+00:10:00,467 --> 00:10:01,133
+this is a blast freezer, which  
+is also known as a shock        
+freezer.                        
+
+265
+00:10:01,135 --> 00:10:03,201
+is also known as a shock        
+freezer.                        
+it brings down the temperature  
+
+266
+00:10:03,203 --> 00:10:04,769
+freezer.                        
+it brings down the temperature  
+of foods very rapidly,          
+
+267
+00:10:04,771 --> 00:10:08,740
+it brings down the temperature  
+of foods very rapidly,          
+preserving the flavor.          
+
+268
+00:10:08,742 --> 00:10:10,608
+of foods very rapidly,          
+preserving the flavor.          
+on the next shift, they remove  
+
+269
+00:10:10,610 --> 00:10:12,510
+preserving the flavor.          
+on the next shift, they remove  
+the lasagnas from the freezer.  
+
+270
+00:10:12,512 --> 00:10:15,747
+on the next shift, they remove  
+the lasagnas from the freezer.  
+it's time to wrap up this meal. 
+
+271
+00:10:15,749 --> 00:10:17,549
+the lasagnas from the freezer.  
+it's time to wrap up this meal. 
+the lasagnas ride a conveyer    
+
+272
+00:10:17,551 --> 00:10:20,218
+it's time to wrap up this meal. 
+the lasagnas ride a conveyer    
+through a curtain of cellophane.
+
+273
+00:10:20,220 --> 00:10:21,819
+the lasagnas ride a conveyer    
+through a curtain of cellophane.
+an automated system heat-seals  
+
+274
+00:10:21,821 --> 00:10:25,857
+through a curtain of cellophane.
+an automated system heat-seals  
+the wrap around the trays.      
+
+275
+00:10:25,859 --> 00:10:27,559
+an automated system heat-seals  
+the wrap around the trays.      
+things move swiftly to prevent  
+
+276
+00:10:27,561 --> 00:10:30,962
+the wrap around the trays.      
+things move swiftly to prevent  
+thawing.                        
+
+277
+00:10:30,964 --> 00:10:32,764
+things move swiftly to prevent  
+thawing.                        
+they package 75 lasagnas per    
+
+278
+00:10:32,766 --> 00:10:34,633
+thawing.                        
+they package 75 lasagnas per    
+minute on this line, and then   
+
+279
+00:10:34,635 --> 00:10:36,501
+they package 75 lasagnas per    
+minute on this line, and then   
+it's back in the freezer to     
+
+280
+00:10:36,503 --> 00:10:41,739
+minute on this line, and then   
+it's back in the freezer to     
+await shipping.                 
+
+281
+00:10:41,741 --> 00:10:43,642
+it's back in the freezer to     
+await shipping.                 
+once something only mama made,  
+
+282
+00:10:43,644 --> 00:10:45,644
+await shipping.                 
+once something only mama made,  
+now workers and machines team up
+
+283
+00:10:45,646 --> 00:10:47,712
+once something only mama made,  
+now workers and machines team up
+to mass-produce this traditional
+
+284
+00:10:47,714 --> 00:10:53,851
+now workers and machines team up
+to mass-produce this traditional
+comfort food.                   
+
+285
+00:10:53,853 --> 00:10:55,753
+to mass-produce this traditional
+comfort food.                   
+so at mealtime, one only has to 
+
+286
+00:10:55,755 --> 00:10:57,456
+comfort food.                   
+so at mealtime, one only has to 
+pop the frozen lasagna in the   
+
+287
+00:10:57,458 --> 00:10:59,791
+so at mealtime, one only has to 
+pop the frozen lasagna in the   
+oven, and then mangia.          
+
+288
+00:11:14,941 --> 00:11:19,878
+>> narrator: from the home      
+workshop to the factory floor,  
+the band saw is one of the most 
+
+289
+00:11:19,880 --> 00:11:21,480
+workshop to the factory floor,  
+the band saw is one of the most 
+popular power tools around.     
+
+290
+00:11:21,482 --> 00:11:23,214
+the band saw is one of the most 
+popular power tools around.     
+it's called a band saw because  
+
+291
+00:11:23,216 --> 00:11:24,983
+popular power tools around.     
+it's called a band saw because  
+the blade is a metal band with  
+
+292
+00:11:24,985 --> 00:11:26,785
+it's called a band saw because  
+the blade is a metal band with  
+teeth that moves continuously in
+
+293
+00:11:26,787 --> 00:11:28,287
+the blade is a metal band with  
+teeth that moves continuously in
+a loop around two or three      
+
+294
+00:11:28,289 --> 00:11:30,021
+teeth that moves continuously in
+a loop around two or three      
+rotating wheels.                
+
+295
+00:11:30,023 --> 00:11:31,890
+a loop around two or three      
+rotating wheels.                
+it can make straight, curved,   
+
+296
+00:11:31,892 --> 00:11:37,562
+rotating wheels.                
+it can make straight, curved,   
+and angled cuts.                
+
+297
+00:11:37,564 --> 00:11:39,498
+it can make straight, curved,   
+and angled cuts.                
+this is an industrial band saw, 
+
+298
+00:11:39,500 --> 00:11:41,532
+and angled cuts.                
+this is an industrial band saw, 
+designed to cut wood, aluminum, 
+
+299
+00:11:41,534 --> 00:11:43,502
+this is an industrial band saw, 
+designed to cut wood, aluminum, 
+and composite materials, such as
+
+300
+00:11:43,504 --> 00:11:46,304
+designed to cut wood, aluminum, 
+and composite materials, such as
+plexiglass.                     
+
+301
+00:11:46,306 --> 00:11:48,072
+and composite materials, such as
+plexiglass.                     
+it can cut pieces up to 12      
+
+302
+00:11:48,074 --> 00:11:50,041
+plexiglass.                     
+it can cut pieces up to 12      
+inches thick and can divide a   
+
+303
+00:11:50,043 --> 00:11:52,044
+it can cut pieces up to 12      
+inches thick and can divide a   
+board up to 40 inches wide into 
+
+304
+00:11:52,046 --> 00:11:55,247
+inches thick and can divide a   
+board up to 40 inches wide into 
+two equal sections.             
+
+305
+00:11:55,249 --> 00:11:57,516
+board up to 40 inches wide into 
+two equal sections.             
+the tabletop tilts to a maximum 
+
+306
+00:11:57,518 --> 00:12:01,052
+two equal sections.             
+the tabletop tilts to a maximum 
+45 degrees for angled cuts.     
+
+307
+00:12:01,054 --> 00:12:04,055
+the tabletop tilts to a maximum 
+45 degrees for angled cuts.     
+it's made of sturdy cast iron.  
+
+308
+00:12:04,057 --> 00:12:05,657
+45 degrees for angled cuts.     
+it's made of sturdy cast iron.  
+the band-saw manufacturer       
+
+309
+00:12:05,659 --> 00:12:07,425
+it's made of sturdy cast iron.  
+the band-saw manufacturer       
+purchases it from a nearby      
+
+310
+00:12:07,427 --> 00:12:09,260
+the band-saw manufacturer       
+purchases it from a nearby      
+foundry, then uses a rotary     
+
+311
+00:12:09,262 --> 00:12:11,262
+purchases it from a nearby      
+foundry, then uses a rotary     
+grinder to make the surface, as 
+
+312
+00:12:11,264 --> 00:12:13,298
+foundry, then uses a rotary     
+grinder to make the surface, as 
+we can see on the right, smooth 
+
+313
+00:12:13,300 --> 00:12:17,535
+grinder to make the surface, as 
+we can see on the right, smooth 
+and shiny.                      
+
+314
+00:12:17,537 --> 00:12:19,537
+we can see on the right, smooth 
+and shiny.                      
+one of the saw's key components 
+
+315
+00:12:19,539 --> 00:12:21,273
+and shiny.                      
+one of the saw's key components 
+is this lower bearing case.     
+
+316
+00:12:21,275 --> 00:12:23,341
+one of the saw's key components 
+is this lower bearing case.     
+it links the motor to the lower 
+
+317
+00:12:23,343 --> 00:12:25,276
+is this lower bearing case.     
+it links the motor to the lower 
+of two cast-iron wheels, which  
+
+318
+00:12:25,278 --> 00:12:28,479
+it links the motor to the lower 
+of two cast-iron wheels, which  
+turn the saw blade.             
+
+319
+00:12:28,481 --> 00:12:30,114
+of two cast-iron wheels, which  
+turn the saw blade.             
+workers will later mount that   
+
+320
+00:12:30,116 --> 00:12:31,816
+turn the saw blade.             
+workers will later mount that   
+lower wheel on one end of the   
+
+321
+00:12:31,818 --> 00:12:34,620
+workers will later mount that   
+lower wheel on one end of the   
+bearing case shaft.             
+
+322
+00:12:34,622 --> 00:12:36,221
+lower wheel on one end of the   
+bearing case shaft.             
+now, on the opposite end of the 
+
+323
+00:12:36,223 --> 00:12:37,689
+bearing case shaft.             
+now, on the opposite end of the 
+shaft, they mount the drive     
+
+324
+00:12:37,691 --> 00:12:40,525
+now, on the opposite end of the 
+shaft, they mount the drive     
+pulley.                         
+
+325
+00:12:40,527 --> 00:12:42,427
+shaft, they mount the drive     
+pulley.                         
+the motor will rotate the drive 
+
+326
+00:12:42,429 --> 00:12:44,262
+pulley.                         
+the motor will rotate the drive 
+pulley, turning the shaft and   
+
+327
+00:12:44,264 --> 00:12:46,164
+the motor will rotate the drive 
+pulley, turning the shaft and   
+consequently the lower wheel on 
+
+328
+00:12:46,166 --> 00:12:47,999
+pulley, turning the shaft and   
+consequently the lower wheel on 
+the opposite end, which moves   
+
+329
+00:12:48,001 --> 00:12:49,901
+consequently the lower wheel on 
+the opposite end, which moves   
+the saw blade looped around the 
+
+330
+00:12:49,903 --> 00:12:55,473
+the opposite end, which moves   
+the saw blade looped around the 
+lower and upper wheels.         
+
+331
+00:12:55,475 --> 00:12:57,041
+the saw blade looped around the 
+lower and upper wheels.         
+those cast-iron wheels,         
+
+332
+00:12:57,043 --> 00:12:59,044
+lower and upper wheels.         
+those cast-iron wheels,         
+meanwhile, need a rubber edge to
+
+333
+00:12:59,046 --> 00:13:01,179
+those cast-iron wheels,         
+meanwhile, need a rubber edge to
+ensure the blade moves smoothly 
+
+334
+00:13:01,181 --> 00:13:04,049
+meanwhile, need a rubber edge to
+ensure the blade moves smoothly 
+and without slipping.           
+
+335
+00:13:04,051 --> 00:13:05,717
+ensure the blade moves smoothly 
+and without slipping.           
+workers position a guide over   
+
+336
+00:13:05,719 --> 00:13:07,385
+and without slipping.           
+workers position a guide over   
+the first wheel, then slip a    
+
+337
+00:13:07,387 --> 00:13:14,392
+workers position a guide over   
+the first wheel, then slip a    
+rubber band onto the guide.     
+
+338
+00:13:14,394 --> 00:13:16,260
+the first wheel, then slip a    
+rubber band onto the guide.     
+next, they coat both the edge of
+
+339
+00:13:16,262 --> 00:13:18,162
+rubber band onto the guide.     
+next, they coat both the edge of
+the wheel and the rubber band on
+
+340
+00:13:18,164 --> 00:13:19,865
+next, they coat both the edge of
+the wheel and the rubber band on
+the guide with contact cement   
+
+341
+00:13:19,867 --> 00:13:28,407
+the wheel and the rubber band on
+the guide with contact cement   
+adhesive.                       
+
+342
+00:13:28,409 --> 00:13:30,075
+the guide with contact cement   
+adhesive.                       
+then they carefully pull the    
+
+343
+00:13:30,077 --> 00:13:31,876
+adhesive.                       
+then they carefully pull the    
+rubber band off the guide, flip 
+
+344
+00:13:31,878 --> 00:13:33,478
+then they carefully pull the    
+rubber band off the guide, flip 
+it over, and press the glued    
+
+345
+00:13:33,480 --> 00:13:35,246
+rubber band off the guide, flip 
+it over, and press the glued    
+side against the glued surface  
+
+346
+00:13:35,248 --> 00:13:37,082
+it over, and press the glued    
+side against the glued surface  
+of the wheel.                   
+
+347
+00:13:45,491 --> 00:13:49,927
+the first wheel now has a       
+rubberized edge.                
+they repeat the same procedures 
+
+348
+00:13:49,929 --> 00:13:52,296
+rubberized edge.                
+they repeat the same procedures 
+for the second wheel.           
+
+349
+00:13:52,298 --> 00:13:53,698
+they repeat the same procedures 
+for the second wheel.           
+in the meantime, another        
+
+350
+00:13:53,700 --> 00:13:55,533
+for the second wheel.           
+in the meantime, another        
+department has welded the band  
+
+351
+00:13:55,535 --> 00:13:57,802
+in the meantime, another        
+department has welded the band  
+saw's steel steal cabinet.      
+
+352
+00:13:57,804 --> 00:13:59,437
+department has welded the band  
+saw's steel steal cabinet.      
+after the cabinet gets a paint  
+
+353
+00:13:59,439 --> 00:14:01,105
+saw's steel steal cabinet.      
+after the cabinet gets a paint  
+job, workers begin installing   
+
+354
+00:14:01,107 --> 00:14:03,674
+after the cabinet gets a paint  
+job, workers begin installing   
+the various components, among   
+
+355
+00:14:03,676 --> 00:14:05,176
+job, workers begin installing   
+the various components, among   
+them the support assembly for   
+
+356
+00:14:05,178 --> 00:14:11,383
+the various components, among   
+them the support assembly for   
+the upper wheel.                
+
+357
+00:14:11,385 --> 00:14:12,850
+them the support assembly for   
+the upper wheel.                
+behind the wall on which they   
+
+358
+00:14:12,852 --> 00:14:14,218
+the upper wheel.                
+behind the wall on which they   
+mount the upper wheel, down at  
+
+359
+00:14:14,220 --> 00:14:15,453
+behind the wall on which they   
+mount the upper wheel, down at  
+the bottom and protruding       
+
+360
+00:14:15,455 --> 00:14:16,921
+mount the upper wheel, down at  
+the bottom and protruding       
+forward through the hole in the 
+
+361
+00:14:16,923 --> 00:14:18,356
+the bottom and protruding       
+forward through the hole in the 
+wall, they install the support  
+
+362
+00:14:18,358 --> 00:14:21,393
+forward through the hole in the 
+wall, they install the support  
+for the lower wheel.            
+
+363
+00:14:21,395 --> 00:14:23,261
+wall, they install the support  
+for the lower wheel.            
+this support is the shaft of the
+
+364
+00:14:23,263 --> 00:14:24,996
+for the lower wheel.            
+this support is the shaft of the
+lower bearing case, the side    
+
+365
+00:14:24,998 --> 00:14:30,468
+this support is the shaft of the
+lower bearing case, the side    
+opposite the drive pulley.      
+
+366
+00:14:30,470 --> 00:14:32,203
+lower bearing case, the side    
+opposite the drive pulley.      
+after mounting the lower wheel, 
+
+367
+00:14:32,205 --> 00:14:33,671
+opposite the drive pulley.      
+after mounting the lower wheel, 
+they move behind the wall,      
+
+368
+00:14:33,673 --> 00:14:35,340
+after mounting the lower wheel, 
+they move behind the wall,      
+install an electric motor right 
+
+369
+00:14:35,342 --> 00:14:36,941
+they move behind the wall,      
+install an electric motor right 
+below the lower bearing case,   
+
+370
+00:14:36,943 --> 00:14:38,743
+install an electric motor right 
+below the lower bearing case,   
+and link the two with a pair of 
+
+371
+00:14:38,745 --> 00:14:40,278
+below the lower bearing case,   
+and link the two with a pair of 
+belts.                          
+
+372
+00:14:40,280 --> 00:14:42,214
+and link the two with a pair of 
+belts.                          
+so now when the motor runs, the 
+
+373
+00:14:42,216 --> 00:14:44,082
+belts.                          
+so now when the motor runs, the 
+pulley rotates, and the lower   
+
+374
+00:14:44,084 --> 00:14:45,550
+so now when the motor runs, the 
+pulley rotates, and the lower   
+wheel turns.                    
+
+375
+00:14:45,552 --> 00:14:47,285
+pulley rotates, and the lower   
+wheel turns.                    
+next, they bolt in the          
+
+376
+00:14:47,287 --> 00:14:48,219
+wheel turns.                    
+next, they bolt in the          
+tabletop.                       
+
+377
+00:14:48,221 --> 00:14:50,355
+next, they bolt in the          
+tabletop.                       
+it tilts on trunnions -- pairs  
+
+378
+00:14:50,357 --> 00:14:52,757
+tabletop.                       
+it tilts on trunnions -- pairs  
+of mating, cast-iron supports --
+
+379
+00:14:52,759 --> 00:14:54,760
+it tilts on trunnions -- pairs  
+of mating, cast-iron supports --
+one attached to the table's     
+
+380
+00:14:54,762 --> 00:14:56,360
+of mating, cast-iron supports --
+one attached to the table's     
+underside, the other to the     
+
+381
+00:14:56,362 --> 00:14:59,430
+one attached to the table's     
+underside, the other to the     
+cabinet's table frame.          
+
+382
+00:14:59,432 --> 00:15:01,332
+underside, the other to the     
+cabinet's table frame.          
+now for the most critical part  
+
+383
+00:15:01,334 --> 00:15:02,834
+cabinet's table frame.          
+now for the most critical part  
+of the assembly process.        
+
+384
+00:15:02,836 --> 00:15:04,502
+now for the most critical part  
+of the assembly process.        
+workers use this jig as a       
+
+385
+00:15:04,504 --> 00:15:06,270
+of the assembly process.        
+workers use this jig as a       
+precision guide to align the    
+
+386
+00:15:06,272 --> 00:15:06,938
+workers use this jig as a       
+precision guide to align the    
+wheels.                         
+
+387
+00:15:06,940 --> 00:15:08,640
+precision guide to align the    
+wheels.                         
+the wheels must be perfectly    
+
+388
+00:15:08,642 --> 00:15:10,641
+wheels.                         
+the wheels must be perfectly    
+balanced to keep the saw blades 
+
+389
+00:15:10,643 --> 00:15:13,611
+the wheels must be perfectly    
+balanced to keep the saw blades 
+stable while it's cutting.      
+
+390
+00:15:13,613 --> 00:15:15,380
+balanced to keep the saw blades 
+stable while it's cutting.      
+once the alignment's complete,  
+
+391
+00:15:15,382 --> 00:15:17,315
+stable while it's cutting.      
+once the alignment's complete,  
+workers remove the jig and loop 
+
+392
+00:15:17,317 --> 00:15:19,117
+once the alignment's complete,  
+workers remove the jig and loop 
+the steel saw blade around the  
+
+393
+00:15:19,119 --> 00:15:24,655
+workers remove the jig and loop 
+the steel saw blade around the  
+two wheels.                     
+
+394
+00:15:24,657 --> 00:15:26,057
+the steel saw blade around the  
+two wheels.                     
+they adjust the blade to the    
+
+395
+00:15:26,059 --> 00:15:27,459
+two wheels.                     
+they adjust the blade to the    
+correct tautness by simply      
+
+396
+00:15:27,461 --> 00:15:29,127
+they adjust the blade to the    
+correct tautness by simply      
+setting the tension gauge to the
+
+397
+00:15:29,129 --> 00:15:38,436
+correct tautness by simply      
+setting the tension gauge to the
+width of the blade.             
+
+398
+00:15:38,438 --> 00:15:40,171
+setting the tension gauge to the
+width of the blade.             
+and finally, the last step.     
+
+399
+00:15:40,173 --> 00:15:42,073
+width of the blade.             
+and finally, the last step.     
+above the tabletop, they mount  
+
+400
+00:15:42,075 --> 00:15:47,278
+and finally, the last step.     
+above the tabletop, they mount  
+bearings which guide the blade. 
+
+401
+00:15:47,280 --> 00:15:48,947
+above the tabletop, they mount  
+bearings which guide the blade. 
+without these, the blade would  
+
+402
+00:15:48,949 --> 00:15:50,682
+bearings which guide the blade. 
+without these, the blade would  
+wobble or drift offline due to  
+
+403
+00:15:50,684 --> 00:15:52,583
+without these, the blade would  
+wobble or drift offline due to  
+the force of cutting through the
+
+404
+00:15:52,585 --> 00:15:58,422
+wobble or drift offline due to  
+the force of cutting through the
+wood or other hard material.    
+
+405
+00:15:58,424 --> 00:16:00,324
+the force of cutting through the
+wood or other hard material.    
+now just a final check to ensure
+
+406
+00:16:00,326 --> 00:16:02,026
+wood or other hard material.    
+now just a final check to ensure
+everything runs smoothly and    
+
+407
+00:16:02,028 --> 00:16:03,762
+now just a final check to ensure
+everything runs smoothly and    
+make absolutely sure this band  
+
+408
+00:16:03,764 --> 00:16:05,697
+everything runs smoothly and    
+make absolutely sure this band  
+saw is up to speed when it comes
+
+409
+00:16:05,699 --> 00:16:07,098
+make absolutely sure this band  
+saw is up to speed when it comes
+to cutting construction         
+
+410
+00:16:07,100 --> 00:16:08,967
+saw is up to speed when it comes
+to cutting construction         
+materials.                      
+
+411
+00:16:25,851 --> 00:16:31,122
+>> narrator: whether skiing down
+a snowy slope or hiking up a    
+rocky one, pointed metal poles  
+
+412
+00:16:31,124 --> 00:16:33,057
+a snowy slope or hiking up a    
+rocky one, pointed metal poles  
+can provide much needed support.
+
+413
+00:16:33,059 --> 00:16:34,892
+rocky one, pointed metal poles  
+can provide much needed support.
+they add balance and rhythm to  
+
+414
+00:16:34,894 --> 00:16:36,193
+can provide much needed support.
+they add balance and rhythm to  
+both experiences.               
+
+415
+00:16:36,195 --> 00:16:37,929
+they add balance and rhythm to  
+both experiences.               
+aluminum poles were first       
+
+416
+00:16:37,931 --> 00:16:39,297
+both experiences.               
+aluminum poles were first       
+developed for skiing.           
+
+417
+00:16:39,299 --> 00:16:41,132
+aluminum poles were first       
+developed for skiing.           
+in recent years, the concept has
+
+418
+00:16:41,134 --> 00:16:42,867
+developed for skiing.           
+in recent years, the concept has
+been modified for trekking      
+
+419
+00:16:42,869 --> 00:16:47,272
+in recent years, the concept has
+been modified for trekking      
+poles.                          
+
+420
+00:16:47,274 --> 00:16:49,040
+been modified for trekking      
+poles.                          
+ski poles and trekking poles    
+
+421
+00:16:49,042 --> 00:16:50,542
+poles.                          
+ski poles and trekking poles    
+look alike, but there are       
+
+422
+00:16:50,544 --> 00:16:51,943
+ski poles and trekking poles    
+look alike, but there are       
+important differences.          
+
+423
+00:16:51,945 --> 00:16:53,611
+look alike, but there are       
+important differences.          
+ski poles are one set length,   
+
+424
+00:16:53,613 --> 00:16:55,313
+important differences.          
+ski poles are one set length,   
+while trekking poles can be     
+
+425
+00:16:55,315 --> 00:16:58,350
+ski poles are one set length,   
+while trekking poles can be     
+extended as needed.             
+
+426
+00:16:58,352 --> 00:17:00,018
+while trekking poles can be     
+extended as needed.             
+ski poles begin with hollow     
+
+427
+00:17:00,020 --> 00:17:01,819
+extended as needed.             
+ski poles begin with hollow     
+shafts made of aircraft-grade   
+
+428
+00:17:01,821 --> 00:17:02,554
+ski poles begin with hollow     
+shafts made of aircraft-grade   
+aluminum.                       
+
+429
+00:17:02,556 --> 00:17:04,221
+shafts made of aircraft-grade   
+aluminum.                       
+they bake them for up to 12     
+
+430
+00:17:04,223 --> 00:17:06,891
+aluminum.                       
+they bake them for up to 12     
+hours to stiffen the metal.     
+
+431
+00:17:06,893 --> 00:17:08,793
+they bake them for up to 12     
+hours to stiffen the metal.     
+next, the poles travel between  
+
+432
+00:17:08,795 --> 00:17:10,762
+hours to stiffen the metal.     
+next, the poles travel between  
+rollers, which apply pressure to
+
+433
+00:17:10,764 --> 00:17:12,630
+next, the poles travel between  
+rollers, which apply pressure to
+straighten them.                
+
+434
+00:17:12,632 --> 00:17:14,032
+rollers, which apply pressure to
+straighten them.                
+the stiffening of the metal     
+
+435
+00:17:14,034 --> 00:17:15,466
+straighten them.                
+the stiffening of the metal     
+beforehand is key here.         
+
+436
+00:17:15,468 --> 00:17:16,968
+the stiffening of the metal     
+beforehand is key here.         
+it ensures that the aluminum    
+
+437
+00:17:16,970 --> 00:17:18,369
+beforehand is key here.         
+it ensures that the aluminum    
+doesn't snap during this        
+
+438
+00:17:18,371 --> 00:17:22,240
+it ensures that the aluminum    
+doesn't snap during this        
+critical straightening.         
+
+439
+00:17:22,242 --> 00:17:23,841
+doesn't snap during this        
+critical straightening.         
+they insert one end of the      
+
+440
+00:17:23,843 --> 00:17:25,476
+critical straightening.         
+they insert one end of the      
+ski-pole shaft into a device    
+
+441
+00:17:25,478 --> 00:17:26,944
+they insert one end of the      
+ski-pole shaft into a device    
+that squeezes it down to        
+
+442
+00:17:26,946 --> 00:17:34,251
+ski-pole shaft into a device    
+that squeezes it down to        
+precisely tapered dimensions.   
+
+443
+00:17:34,253 --> 00:17:35,886
+that squeezes it down to        
+precisely tapered dimensions.   
+it's a shape that will better   
+
+444
+00:17:35,888 --> 00:17:37,455
+precisely tapered dimensions.   
+it's a shape that will better   
+resist breakage and will also   
+
+445
+00:17:37,457 --> 00:17:40,058
+it's a shape that will better   
+resist breakage and will also   
+make the pole easier to swing.  
+
+446
+00:17:40,060 --> 00:17:41,726
+resist breakage and will also   
+make the pole easier to swing.  
+an automated cutting tool       
+
+447
+00:17:41,728 --> 00:17:43,528
+make the pole easier to swing.  
+an automated cutting tool       
+spirals into the shaft to even  
+
+448
+00:17:43,530 --> 00:17:46,263
+an automated cutting tool       
+spirals into the shaft to even  
+the jagged edge.                
+
+449
+00:17:46,265 --> 00:17:47,732
+spirals into the shaft to even  
+the jagged edge.                
+another cutter spins around the 
+
+450
+00:17:47,734 --> 00:17:49,200
+the jagged edge.                
+another cutter spins around the 
+outside of the wider end of the 
+
+451
+00:17:49,202 --> 00:17:53,070
+another cutter spins around the 
+outside of the wider end of the 
+pole to trim it.                
+
+452
+00:17:53,072 --> 00:17:55,206
+outside of the wider end of the 
+pole to trim it.                
+next, a machine punches a little
+
+453
+00:17:55,208 --> 00:17:57,408
+pole to trim it.                
+next, a machine punches a little
+hole in that wider end.         
+
+454
+00:17:57,410 --> 00:17:58,876
+next, a machine punches a little
+hole in that wider end.         
+the hole will serve as a guide  
+
+455
+00:17:58,878 --> 00:18:00,345
+hole in that wider end.         
+the hole will serve as a guide  
+during the stenciling of the    
+
+456
+00:18:00,347 --> 00:18:01,880
+the hole will serve as a guide  
+during the stenciling of the    
+trade name and artwork onto the 
+
+457
+00:18:01,882 --> 00:18:04,315
+during the stenciling of the    
+trade name and artwork onto the 
+exterior.                       
+
+458
+00:18:04,317 --> 00:18:05,916
+trade name and artwork onto the 
+exterior.                       
+with the ski poles tapered and  
+
+459
+00:18:05,918 --> 00:18:07,251
+exterior.                       
+with the ski poles tapered and  
+trimmed, they head into an      
+
+460
+00:18:07,253 --> 00:18:09,354
+with the ski poles tapered and  
+trimmed, they head into an      
+inspection station.             
+
+461
+00:18:09,356 --> 00:18:11,222
+trimmed, they head into an      
+inspection station.             
+a supervisor scrutinizes each   
+
+462
+00:18:11,224 --> 00:18:11,789
+inspection station.             
+a supervisor scrutinizes each   
+one.                            
+
+463
+00:18:11,791 --> 00:18:13,658
+a supervisor scrutinizes each   
+one.                            
+once he gives them the thumbs   
+
+464
+00:18:13,660 --> 00:18:16,227
+one.                            
+once he gives them the thumbs   
+up, they're ready for sanding.  
+
+465
+00:18:16,229 --> 00:18:18,195
+once he gives them the thumbs   
+up, they're ready for sanding.  
+the ski poles spin between two  
+
+466
+00:18:18,197 --> 00:18:20,031
+up, they're ready for sanding.  
+the ski poles spin between two  
+sanding belts to remove dusty   
+
+467
+00:18:20,033 --> 00:18:22,033
+the ski poles spin between two  
+sanding belts to remove dusty   
+residue and rough up the surface
+
+468
+00:18:22,035 --> 00:18:24,235
+sanding belts to remove dusty   
+residue and rough up the surface
+so that the paint will adhere.  
+
+469
+00:18:24,237 --> 00:18:25,936
+residue and rough up the surface
+so that the paint will adhere.  
+the poles now twirl on an       
+
+470
+00:18:25,938 --> 00:18:27,772
+so that the paint will adhere.  
+the poles now twirl on an       
+overhead rail as a spray gun    
+
+471
+00:18:27,774 --> 00:18:33,111
+the poles now twirl on an       
+overhead rail as a spray gun    
+applies the paint.              
+
+472
+00:18:33,113 --> 00:18:34,980
+overhead rail as a spray gun    
+applies the paint.              
+an automated tool then squeegees
+
+473
+00:18:34,982 --> 00:18:36,580
+applies the paint.              
+an automated tool then squeegees
+paint through stencils to       
+
+474
+00:18:36,582 --> 00:18:38,316
+an automated tool then squeegees
+paint through stencils to       
+transfer designs and lettering  
+
+475
+00:18:38,318 --> 00:18:41,152
+paint through stencils to       
+transfer designs and lettering  
+onto the poles.                 
+
+476
+00:18:41,154 --> 00:18:42,987
+transfer designs and lettering  
+onto the poles.                 
+each pass of the squeegee-like  
+
+477
+00:18:42,989 --> 00:18:44,889
+onto the poles.                 
+each pass of the squeegee-like  
+tool applies a different color, 
+
+478
+00:18:44,891 --> 00:18:46,725
+each pass of the squeegee-like  
+tool applies a different color, 
+and this layering effect builds 
+
+479
+00:18:46,727 --> 00:18:49,260
+tool applies a different color, 
+and this layering effect builds 
+up the designs.                 
+
+480
+00:18:49,262 --> 00:18:51,195
+and this layering effect builds 
+up the designs.                 
+the poles now head towards an   
+
+481
+00:18:51,197 --> 00:18:52,063
+up the designs.                 
+the poles now head towards an   
+acid bath.                      
+
+482
+00:18:52,065 --> 00:18:53,998
+the poles now head towards an   
+acid bath.                      
+an electrical current ripples   
+
+483
+00:18:54,000 --> 00:18:55,800
+acid bath.                      
+an electrical current ripples   
+through the acid solution.      
+
+484
+00:18:55,802 --> 00:18:57,935
+an electrical current ripples   
+through the acid solution.      
+this causes the poles to oxidize
+
+485
+00:18:57,937 --> 00:18:59,970
+through the acid solution.      
+this causes the poles to oxidize
+for a scratch-resistant finish  
+
+486
+00:18:59,972 --> 00:19:06,377
+this causes the poles to oxidize
+for a scratch-resistant finish  
+called anodizing.               
+
+487
+00:19:06,379 --> 00:19:07,945
+for a scratch-resistant finish  
+called anodizing.               
+meanwhile, on the trekking      
+
+488
+00:19:07,947 --> 00:19:09,280
+called anodizing.               
+meanwhile, on the trekking      
+poles' production line,         
+
+489
+00:19:09,282 --> 00:19:11,016
+meanwhile, on the trekking      
+poles' production line,         
+machinery inserts long-wired,   
+
+490
+00:19:11,018 --> 00:19:12,616
+poles' production line,         
+machinery inserts long-wired,   
+bristled brushes into the       
+
+491
+00:19:12,618 --> 00:19:13,584
+machinery inserts long-wired,   
+bristled brushes into the       
+various shaft.                  
+
+492
+00:19:13,586 --> 00:19:15,052
+bristled brushes into the       
+various shaft.                  
+this roughs up the inner        
+
+493
+00:19:15,054 --> 00:19:15,686
+various shaft.                  
+this roughs up the inner        
+surface.                        
+
+494
+00:19:15,688 --> 00:19:17,488
+this roughs up the inner        
+surface.                        
+it's a step that will enable an 
+
+495
+00:19:17,490 --> 00:19:19,157
+surface.                        
+it's a step that will enable an 
+expander device to grip it to   
+
+496
+00:19:19,159 --> 00:19:21,959
+it's a step that will enable an 
+expander device to grip it to   
+extend the poles.               
+
+497
+00:19:21,961 --> 00:19:23,561
+expander device to grip it to   
+extend the poles.               
+next, a spray gun coats some    
+
+498
+00:19:23,563 --> 00:19:25,030
+extend the poles.               
+next, a spray gun coats some    
+unfinished poles with clear     
+
+499
+00:19:25,032 --> 00:19:27,198
+next, a spray gun coats some    
+unfinished poles with clear     
+lacquer.                        
+
+500
+00:19:27,200 --> 00:19:28,933
+unfinished poles with clear     
+lacquer.                        
+the owner of the factory now    
+
+501
+00:19:28,935 --> 00:19:30,769
+lacquer.                        
+the owner of the factory now    
+surveys a lineup of ski poles.  
+
+502
+00:19:30,771 --> 00:19:32,704
+the owner of the factory now    
+surveys a lineup of ski poles.  
+he's on the lookout for smudges 
+
+503
+00:19:32,706 --> 00:19:34,638
+surveys a lineup of ski poles.  
+he's on the lookout for smudges 
+or other flaws.                 
+
+504
+00:19:34,640 --> 00:19:36,373
+he's on the lookout for smudges 
+or other flaws.                 
+they meet his approval, and so  
+
+505
+00:19:36,375 --> 00:19:39,243
+or other flaws.                 
+they meet his approval, and so  
+it's on to the next step.       
+
+506
+00:19:39,245 --> 00:19:41,112
+they meet his approval, and so  
+it's on to the next step.       
+a carriage moves each ski pole  
+
+507
+00:19:41,114 --> 00:19:42,980
+it's on to the next step.       
+a carriage moves each ski pole  
+forward towards a carbide tip   
+
+508
+00:19:42,982 --> 00:19:44,815
+a carriage moves each ski pole  
+forward towards a carbide tip   
+and presses the tip into the    
+
+509
+00:19:44,817 --> 00:19:49,320
+forward towards a carbide tip   
+and presses the tip into the    
+tapered end.                    
+
+510
+00:19:49,322 --> 00:19:51,055
+and presses the tip into the    
+tapered end.                    
+with this tough tip in place,   
+
+511
+00:19:51,057 --> 00:19:52,923
+tapered end.                    
+with this tough tip in place,   
+the ski pole is now equipped to 
+
+512
+00:19:52,925 --> 00:19:57,361
+with this tough tip in place,   
+the ski pole is now equipped to 
+pierce any hard snow pack.      
+
+513
+00:19:57,363 --> 00:19:58,730
+the ski pole is now equipped to 
+pierce any hard snow pack.      
+next, a worker slides rubber    
+
+514
+00:19:58,732 --> 00:20:00,331
+pierce any hard snow pack.      
+next, a worker slides rubber    
+grips onto the handle end of the
+
+515
+00:20:00,333 --> 00:20:05,236
+next, a worker slides rubber    
+grips onto the handle end of the
+poles.                          
+
+516
+00:20:05,238 --> 00:20:06,937
+grips onto the handle end of the
+poles.                          
+like a big automated fist, a    
+
+517
+00:20:06,939 --> 00:20:08,740
+poles.                          
+like a big automated fist, a    
+hydraulic mechanism shoves the  
+
+518
+00:20:08,742 --> 00:20:10,608
+like a big automated fist, a    
+hydraulic mechanism shoves the  
+grip more tightly onto the pole.
+
+519
+00:20:19,552 --> 00:20:24,155
+there are many different kinds  
+of grips, each with a different 
+look and feel depending on the  
+
+520
+00:20:24,157 --> 00:20:25,957
+of grips, each with a different 
+look and feel depending on the  
+type of pole being made.        
+
+521
+00:20:25,959 --> 00:20:28,058
+look and feel depending on the  
+type of pole being made.        
+some ski-pole grips even have   
+
+522
+00:20:28,060 --> 00:20:29,961
+type of pole being made.        
+some ski-pole grips even have   
+clips for attaching gloves.     
+
+523
+00:20:29,963 --> 00:20:32,062
+some ski-pole grips even have   
+clips for attaching gloves.     
+trekking-pole shafts now roll   
+
+524
+00:20:32,064 --> 00:20:34,298
+clips for attaching gloves.     
+trekking-pole shafts now roll   
+down the production line.       
+
+525
+00:20:34,300 --> 00:20:36,234
+trekking-pole shafts now roll   
+down the production line.       
+an automated arm slides plastic 
+
+526
+00:20:36,236 --> 00:20:38,236
+down the production line.       
+an automated arm slides plastic 
+sleeves with carbide points onto
+
+527
+00:20:38,238 --> 00:20:43,107
+an automated arm slides plastic 
+sleeves with carbide points onto
+the lower shaft section.        
+
+528
+00:20:43,109 --> 00:20:44,842
+sleeves with carbide points onto
+the lower shaft section.        
+a spinning tool drives part of  
+
+529
+00:20:44,844 --> 00:20:46,444
+the lower shaft section.        
+a spinning tool drives part of  
+an expander mechanism into the  
+
+530
+00:20:46,446 --> 00:20:49,680
+a spinning tool drives part of  
+an expander mechanism into the  
+trekking pole's middle shaft.   
+
+531
+00:20:49,682 --> 00:20:51,015
+an expander mechanism into the  
+trekking pole's middle shaft.   
+this expander will allow the    
+
+532
+00:20:51,017 --> 00:20:52,183
+trekking pole's middle shaft.   
+this expander will allow the    
+pole to be lengthened or        
+
+533
+00:20:52,185 --> 00:20:53,417
+this expander will allow the    
+pole to be lengthened or        
+shortened to the user's         
+
+534
+00:20:53,419 --> 00:20:55,153
+pole to be lengthened or        
+shortened to the user's         
+preference.                     
+
+535
+00:20:55,454 --> 00:20:57,288
+machinery then inserts the other
+
+536
+00:20:57,456 --> 00:20:59,056
+part of the expander mechanism  
+
+537
+00:20:59,191 --> 00:21:02,359
+into the lower shaft.           
+
+538
+00:21:02,528 --> 00:21:04,094
+finally, a worker assembles the 
+
+539
+00:21:04,263 --> 00:21:05,796
+parts, sliding one section of   
+
+540
+00:21:05,931 --> 00:21:07,398
+the expander mechanism on the   
+
+541
+00:21:07,533 --> 00:21:12,203
+other.                          
+
+542
+00:21:12,337 --> 00:21:15,673
+finally, she sharpens the tips. 
+
+543
+00:21:15,807 --> 00:21:17,408
+and these poles are now ready   
+
+544
+00:21:17,542 --> 00:21:19,276
+for action.                     
+
+545
+00:21:19,278 --> 00:21:22,280
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+546
+00:21:22,282 --> 00:21:25,250
+      captions paid for by      
+    discovery communications    
+
+547
+00:21:31,490 --> 00:21:32,891
+if you have any comments about  
+
+548
+00:21:33,025 --> 00:21:34,491
+the show, or if you'd like to   
+
+549
+00:21:34,626 --> 00:21:36,094
+suggest topics for future shows,
+
+550
+00:21:36,228 --> 00:21:40,832
+drop us a line at...            
+

@@ -1,0 +1,1699 @@
+﻿1
+00:00:02,135 --> 00:00:05,070
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,072 --> 00:00:08,107
+      captions paid for by      
+ discovery communications, inc. 
+
+3
+00:00:22,623 --> 00:00:25,090
+         narrator: today        
+      on "how it's made"...     
+
+4
+00:00:26,760 --> 00:00:28,260
+       alkaline batteries.      
+
+5
+00:00:32,232 --> 00:00:33,699
+          wheelchairs.          
+
+6
+00:00:37,771 --> 00:00:38,837
+             flutes.            
+
+7
+00:00:43,310 --> 00:00:44,910
+        and cowboy boots.       
+
+8
+00:00:52,519 --> 00:00:55,187
+       a battery produces       
+       an electric current      
+
+9
+00:00:55,189 --> 00:00:57,456
+     when its positive end,     
+       called the cathode,      
+
+10
+00:00:57,458 --> 00:00:59,991
+      and its negative end,     
+    called the anode, connect   
+
+11
+00:00:59,993 --> 00:01:04,863
+    via a conductive pathway    
+ in the battery-operated device.
+
+12
+00:01:04,865 --> 00:01:07,466
+          this pathway          
+      conducts electricity      
+
+13
+00:01:07,468 --> 00:01:08,800
+    when three components --    
+
+14
+00:01:08,802 --> 00:01:11,870
+         two electrodes         
+ and an electrolyte -- interact.
+
+15
+00:01:13,941 --> 00:01:17,542
+    these alkaline batteries    
+   are the rechargeable type.   
+
+16
+00:01:17,544 --> 00:01:21,013
+      they last for years,      
+ depending on how you use them. 
+
+17
+00:01:21,015 --> 00:01:22,881
+  the factory begins production 
+
+18
+00:01:22,883 --> 00:01:25,884
+ by cutting nickel-plated steel 
+        into oval pieces,       
+
+19
+00:01:25,886 --> 00:01:28,954
+     then gradually shaping     
+     each piece into a tube,    
+
+20
+00:01:28,956 --> 00:01:31,156
+        called a console.       
+
+21
+00:01:31,158 --> 00:01:32,691
+       the console houses       
+
+22
+00:01:32,693 --> 00:01:34,693
+         some important         
+     chemical ingredients --    
+
+23
+00:01:34,695 --> 00:01:37,896
+            graphite,           
+  which conducts electricity... 
+
+24
+00:01:37,898 --> 00:01:42,100
+ silver catalyst, which reduces 
+  chemical-pressure buildup...  
+
+25
+00:01:42,102 --> 00:01:44,102
+       manganese dioxide,       
+
+26
+00:01:44,104 --> 00:01:45,971
+       the main ingredient      
+        in the cathode...       
+
+27
+00:01:45,973 --> 00:01:47,506
+         barium sulfate,        
+
+28
+00:01:47,508 --> 00:01:50,109
+           which binds          
+    the cathode ingredients,    
+
+29
+00:01:50,111 --> 00:01:53,978
+    zinc, the main ingredient   
+          in the anode,         
+
+30
+00:01:53,980 --> 00:01:57,115
+     a gelling agent to keep    
+  the zinc particles suspended, 
+
+31
+00:01:57,117 --> 00:01:59,918
+          and finally,          
+      potassium hydroxide,      
+
+32
+00:01:59,920 --> 00:02:04,456
+ which interacts with electrodes
+     to produce electricity.    
+
+33
+00:02:04,458 --> 00:02:08,526
+    this 25-head press shapes   
+the cathode's powdered chemicals
+
+34
+00:02:08,528 --> 00:02:09,995
+      into hollow pellets.      
+
+35
+00:02:09,997 --> 00:02:14,199
+      the press churns out      
+     25,000 pellets an hour.    
+
+36
+00:02:17,337 --> 00:02:19,338
+a machine called a console press
+
+37
+00:02:19,340 --> 00:02:22,407
+   then inserts three pellets   
+      into each console --      
+
+38
+00:02:22,409 --> 00:02:25,010
+   three because these pellets  
+         are so fragile         
+
+39
+00:02:25,012 --> 00:02:27,880
+    that three smaller ones     
+    are easier to manipulate    
+
+40
+00:02:27,882 --> 00:02:29,581
+  than one big pellet would be. 
+
+41
+00:02:32,686 --> 00:02:35,420
+      here's the insertion      
+         in slow motion.        
+
+42
+00:02:45,365 --> 00:02:49,634
+ the next machine makes a ridge 
+    on one end of the console   
+
+43
+00:02:49,636 --> 00:02:51,270
+        to help seal it.        
+
+44
+00:02:57,511 --> 00:03:00,846
+ plastic holders, called pucks, 
+     hold the consoles still    
+
+45
+00:03:00,848 --> 00:03:03,382
+   as nozzles apply a sealant   
+           to the top,          
+
+46
+00:03:03,384 --> 00:03:06,618
+    which is the negative end   
+         of the console.        
+
+47
+00:03:11,058 --> 00:03:14,526
+ next, they cut a roll of paper 
+       into small strips.       
+
+48
+00:03:14,528 --> 00:03:16,928
+          these strips          
+     are called separators.     
+
+49
+00:03:16,930 --> 00:03:20,666
+   they have microscopic holes  
+  that permit the flow of ions, 
+
+50
+00:03:20,668 --> 00:03:22,934
+      electrically-charged      
+           molecules,           
+
+51
+00:03:22,936 --> 00:03:25,304
+       between the cathode      
+         and the anode.         
+
+52
+00:03:27,941 --> 00:03:30,809
+a hot-melt glue machine deposits
+     a small amount of glue     
+
+53
+00:03:30,811 --> 00:03:32,944
+ into the separator, now rolled,
+
+54
+00:03:32,946 --> 00:03:36,248
+   and seals the positive end   
+       of the paper tube.       
+
+55
+00:03:37,884 --> 00:03:41,086
+   the glue cools and hardens   
+over the next minute and a half,
+
+56
+00:03:41,088 --> 00:03:45,157
+   as the consoles move along   
+           a conveyor.          
+
+57
+00:03:45,159 --> 00:03:48,092
+        the next machine        
+    injects an electrolyte --   
+
+58
+00:03:48,094 --> 00:03:50,162
+ a potassium hydroxide solution.
+
+59
+00:03:50,164 --> 00:03:52,964
+  it takes nine minutes to soak 
+   through the separator liner  
+
+60
+00:03:52,966 --> 00:03:54,700
+    into the cathode pellets.   
+
+61
+00:03:59,172 --> 00:04:02,774
+       nozzles then inject      
+  about .15 ounces of zinc gel  
+
+62
+00:04:02,776 --> 00:04:04,376
+     into the anode cavity.     
+
+63
+00:04:04,378 --> 00:04:07,713
+only about 2/3 of the gel weight
+        is actually zinc.       
+
+64
+00:04:07,715 --> 00:04:11,783
+ the other 1/3 is this company's
+  closely guarded trade secret. 
+
+65
+00:04:11,785 --> 00:04:15,320
+ it's what makes these batteries
+          rechargeable.         
+
+66
+00:04:15,322 --> 00:04:18,957
+     the zinc gives the gel     
+     its silver-gray color.     
+
+67
+00:04:23,930 --> 00:04:26,732
+        a welding machine       
+     fuses 1 1/2-inch nails     
+
+68
+00:04:26,734 --> 00:04:28,867
+  onto the cap of the battery.  
+
+69
+00:04:28,869 --> 00:04:32,804
+    this is where the current   
+collects before it's discharged.
+
+70
+00:04:40,014 --> 00:04:42,481
+   the machine ejects the cap   
+         when finished,         
+
+71
+00:04:42,483 --> 00:04:43,815
+ and another machine inserts it 
+
+72
+00:04:43,817 --> 00:04:45,684
+      into the negative end     
+         of the battery.        
+
+73
+00:04:45,686 --> 00:04:47,486
+        this cap includes       
+        a safety feature        
+
+74
+00:04:47,488 --> 00:04:49,688
+           crucial to           
+    rechargeable batteries --   
+
+75
+00:04:49,690 --> 00:04:52,090
+  it can resist high pressure.  
+
+76
+00:04:52,092 --> 00:04:54,826
+   but if heat or power surges  
+    cause excessive pressure,   
+
+77
+00:04:54,828 --> 00:04:57,829
+a tiny vent prevents the battery
+         from exploding.        
+
+78
+00:04:57,831 --> 00:05:01,232
+     the machine folds over     
+         the console lip        
+
+79
+00:05:01,234 --> 00:05:03,301
+    to enclose the contents.    
+
+80
+00:05:03,303 --> 00:05:05,570
+           a rotating,          
+   three-head crimping machine  
+
+81
+00:05:05,572 --> 00:05:07,905
+       then makes a ridge       
+     in the finished battery    
+
+82
+00:05:07,907 --> 00:05:10,709
+to reduce the chance of leakage.
+
+83
+00:05:17,184 --> 00:05:19,384
+  an electrical testing machine 
+
+84
+00:05:19,386 --> 00:05:22,720
+      contacts each battery     
+      for 200 milliseconds      
+
+85
+00:05:22,722 --> 00:05:25,724
+        to ensure it has        
+       at least 1.5 volts.      
+
+86
+00:05:25,726 --> 00:05:28,927
+  these batteries will be ready 
+       to use right away.       
+
+87
+00:05:28,929 --> 00:05:31,263
+  no need to charge them first. 
+
+88
+00:05:31,265 --> 00:05:34,199
+      the labeling machine      
+       uses light sensors       
+
+89
+00:05:34,201 --> 00:05:37,535
+      to time the labeling      
+     of each battery casing.    
+
+90
+00:05:37,537 --> 00:05:40,405
+        the plastic label       
+   lists technical information  
+
+91
+00:05:40,407 --> 00:05:43,008
+ and adds additional insulation.
+
+92
+00:05:43,010 --> 00:05:47,278
+  then three seconds in an oven 
+    at 388 degrees fahrenheit   
+
+93
+00:05:47,280 --> 00:05:50,515
+       shrinks the labels       
+         to a tight fit.        
+
+94
+00:05:58,025 --> 00:06:00,158
+            narrator:           
+     spain's king phillip ii    
+
+95
+00:06:00,160 --> 00:06:03,828
+  was the first disabled person 
+    to get around on wheels.    
+
+96
+00:06:03,830 --> 00:06:07,899
+  he ruled from a rolling chair 
+  with foot rests in the 1500s. 
+
+97
+00:06:07,901 --> 00:06:10,769
+       today's wheelchairs      
+      are widely available,     
+
+98
+00:06:10,771 --> 00:06:14,439
+ but at a price of a few hundred
+  to several thousand dollars,  
+
+99
+00:06:14,441 --> 00:06:15,941
+   depending on the features.   
+
+100
+00:06:20,714 --> 00:06:23,114
+       this wood, leather,      
+         and steel chair        
+
+101
+00:06:23,116 --> 00:06:25,049
+   is a world war ii antique.   
+
+102
+00:06:25,051 --> 00:06:28,787
+  a modern wheelchair literally 
+     runs circles around it.    
+
+103
+00:06:28,789 --> 00:06:31,790
+       with more than 150       
+    possible design options,    
+
+104
+00:06:31,792 --> 00:06:36,794
+today's wheelchair fits the user
+    and the user's lifestyle.   
+
+105
+00:06:36,796 --> 00:06:40,398
+   the wheel rim is aluminum.   
+      the spokes -- steel.      
+
+106
+00:06:40,400 --> 00:06:43,001
+    it's much like a bicycle,   
+       except for these --      
+
+107
+00:06:43,003 --> 00:06:44,535
+       six steel brackets       
+
+108
+00:06:44,537 --> 00:06:47,773
+        that later fasten       
+  to a hand rim for propulsion. 
+
+109
+00:06:50,510 --> 00:06:53,545
+   tires are either pneumatic,  
+   with an inner-tube of air,   
+
+110
+00:06:53,547 --> 00:06:57,482
+           or rigid --          
+ just one solid piece of rubber.
+
+111
+00:06:57,484 --> 00:07:01,286
+  a machine stretches the tire  
+      to fit the wheel rim.     
+
+112
+00:07:01,288 --> 00:07:05,623
+   workers install 12 washers,  
+         called spacers,        
+
+113
+00:07:05,625 --> 00:07:07,292
+       along the hand-rim.      
+
+114
+00:07:07,294 --> 00:07:10,862
+  six of these 1/2-inch spacers 
+      can be removed later      
+
+115
+00:07:10,864 --> 00:07:15,366
+      to adjust the chair's     
+  overall width, if necessary.  
+
+116
+00:07:15,368 --> 00:07:16,701
+   the spacers on the hand-rim  
+
+117
+00:07:16,703 --> 00:07:18,770
+     align with the brackets    
+          on the wheel.         
+
+118
+00:07:18,772 --> 00:07:21,105
+        workers join them       
+    with industrial-strength,   
+
+119
+00:07:21,107 --> 00:07:23,374
+    1 1/2-inch steel screws.    
+
+120
+00:07:23,376 --> 00:07:27,245
+        replacing a wheel       
+     and hand-rim like this     
+
+121
+00:07:27,247 --> 00:07:29,380
+      costs more than $100.     
+
+122
+00:07:29,382 --> 00:07:33,384
+    you buy replacement parts   
+  much like you do car parts -- 
+
+123
+00:07:33,386 --> 00:07:35,687
+through specialized dealerships.
+
+124
+00:07:42,195 --> 00:07:44,929
+    bearings make the wheels    
+         roll with ease.        
+
+125
+00:07:44,931 --> 00:07:47,665
+         installing them        
+    is a delicate operation.    
+
+126
+00:07:47,667 --> 00:07:50,202
+           workers use          
+     special custom tooling     
+
+127
+00:07:50,204 --> 00:07:53,572
+     to insert the bearings     
+     with extreme precision.    
+
+128
+00:08:06,420 --> 00:08:09,087
+       the tires are rigid      
+       and have no treads       
+
+129
+00:08:09,089 --> 00:08:12,557
+    because they're designed    
+   for smooth indoor surfaces.  
+
+130
+00:08:12,559 --> 00:08:16,961
+ an aluminum cross-frame is what
+   enables the chair to fold.   
+
+131
+00:08:16,963 --> 00:08:20,031
+    they assemble it with six   
+    or seven screws per side,   
+
+132
+00:08:20,033 --> 00:08:22,901
+  depending on the depth needed 
+          for the seat,         
+
+133
+00:08:22,903 --> 00:08:26,438
+ which they'll install later on.
+
+134
+00:08:26,440 --> 00:08:30,108
+the front part of the wheelchair
+   is called the front frame.   
+
+135
+00:08:30,110 --> 00:08:33,978
+   workers lubricate the parts  
+so they'll be easier to install.
+
+136
+00:08:33,980 --> 00:08:37,249
+this also enables the wheelchair
+       to fold with ease.       
+
+137
+00:08:39,119 --> 00:08:42,053
+   they install the rear frame  
+        of the wheelchair       
+
+138
+00:08:42,055 --> 00:08:45,023
+         then make sure         
+the cross-frame folds correctly.
+
+139
+00:08:47,527 --> 00:08:49,394
+          workers test          
+   the height-adjustment lever  
+
+140
+00:08:49,396 --> 00:08:51,796
+        for the armrest.        
+
+141
+00:08:51,798 --> 00:08:54,932
+        then they install       
+ a removable aluminum footrest, 
+
+142
+00:08:54,934 --> 00:08:57,268
+           setting it           
+     to the desired length.     
+
+143
+00:08:57,270 --> 00:08:58,537
+       it has a heel loop       
+
+144
+00:08:58,539 --> 00:09:01,339
+   to prevent the user's foot   
+       from slipping off.       
+
+145
+00:09:01,341 --> 00:09:03,875
+          the chair has         
+     a foldable sling seat.     
+
+146
+00:09:03,877 --> 00:09:05,543
+       it's made of nylon       
+
+147
+00:09:05,545 --> 00:09:09,648
+    and attaches to the frame   
+ with six screws on both sides. 
+
+148
+00:09:14,020 --> 00:09:17,288
+   you can adjust the armrest   
+   height from 8 to 11 inches   
+
+149
+00:09:17,290 --> 00:09:21,759
+ and the tension in the backrest
+      with 3 velcro straps.     
+
+150
+00:09:21,761 --> 00:09:23,495
+  the backrest is made of nylon 
+
+151
+00:09:23,497 --> 00:09:25,964
+            and comes           
+   in nine different heights.   
+
+152
+00:09:25,966 --> 00:09:29,634
+         workers insert         
+ the wheel axle into the frame, 
+
+153
+00:09:29,636 --> 00:09:32,570
+  adjusting it to fit with the  
+ optional features of the chair,
+
+154
+00:09:32,572 --> 00:09:35,640
+   such as a particular style   
+           of armrest.          
+
+155
+00:09:35,642 --> 00:09:37,775
+  the axle has a quick release  
+
+156
+00:09:37,777 --> 00:09:40,178
+   so you can remove the wheel  
+           in seconds.          
+
+157
+00:09:40,180 --> 00:09:44,382
+    this plastic-and-aluminum   
+ hand lever is a parking brake. 
+
+158
+00:09:44,384 --> 00:09:48,920
+  it keeps the chair still when 
+transferring to a bed or toilet.
+
+159
+00:09:50,657 --> 00:09:53,791
+      this motorized chair      
+  has an electrical controller. 
+
+160
+00:09:53,793 --> 00:09:56,194
+      the user commands it      
+        with a joystick.        
+
+161
+00:09:56,196 --> 00:09:59,530
+         the chair runs         
+    on two 12-volt batteries    
+
+162
+00:09:59,532 --> 00:10:02,133
+  that power up in eight hours  
+    from a household socket.    
+
+163
+00:10:02,135 --> 00:10:06,203
+ workers squeeze the inner tube 
+    into the rear wheel rim.    
+
+164
+00:10:06,205 --> 00:10:08,205
+   the air valve slips through  
+
+165
+00:10:08,207 --> 00:10:11,743
+  and the front and back parts  
+       attach with screws.      
+
+166
+00:10:11,745 --> 00:10:16,080
+       now the rear wheel       
+     can go onto the motor.     
+
+167
+00:10:16,082 --> 00:10:19,283
+      they attach the seat      
+      and the joystick box,     
+
+168
+00:10:19,285 --> 00:10:23,755
+        which has on/off        
+   and speed-control switches.  
+
+169
+00:10:23,757 --> 00:10:27,225
+        the battery-pack        
+    provides 85 amps an hour.   
+
+170
+00:10:27,227 --> 00:10:30,762
+       that's enough power      
+    for 16 hours or 25 miles.   
+
+171
+00:10:30,764 --> 00:10:33,564
+      the batteries connect     
+  to the charger and controller 
+
+172
+00:10:33,566 --> 00:10:36,034
+   to power up the wheelchair.  
+
+173
+00:10:36,036 --> 00:10:38,836
+   a steel bumper and plastic   
+   rear hood, called a shroud,  
+
+174
+00:10:38,838 --> 00:10:41,506
+       protect the back of      
+the wheelchair from the elements
+
+175
+00:10:41,508 --> 00:10:44,142
+  and against minor collisions. 
+
+176
+00:10:46,046 --> 00:10:49,847
+ this motorized model can glide 
+       at a leisurely pace      
+
+177
+00:10:49,849 --> 00:10:54,285
+ or zoom around at a top speed  
+ of just over 7 miles per hour. 
+
+178
+00:11:03,263 --> 00:11:06,664
+            narrator:           
+  the transverse flute has been 
+    an orchestral instrument    
+
+179
+00:11:06,666 --> 00:11:08,799
+        since the 1700s.        
+
+180
+00:11:08,801 --> 00:11:10,801
+           you play it          
+    in a horizontal position,   
+
+181
+00:11:10,803 --> 00:11:14,004
+   blowing across an oval hole  
+       in the mouthpiece.       
+
+182
+00:11:14,006 --> 00:11:17,408
+    the air hits a sharp edge   
+    inside, producing sound.    
+
+183
+00:11:17,410 --> 00:11:19,343
+ you turn that sound into notes 
+
+184
+00:11:19,345 --> 00:11:22,981
+ by pressing the keys that open 
+  and close the flute's holes.  
+
+185
+00:11:24,351 --> 00:11:27,819
+      [ flute music plays ]     
+
+186
+00:11:35,161 --> 00:11:36,895
+      they begin production     
+
+187
+00:11:36,897 --> 00:11:39,898
+ by inserting a solid steel bar 
+  into a sterling silver tube.  
+
+188
+00:11:39,900 --> 00:11:42,701
+      then, using a press,      
+ they lengthen it and taper it, 
+
+189
+00:11:42,703 --> 00:11:46,237
+      reducing the diameter     
+  to just under 3/4 of an inch. 
+
+190
+00:11:46,239 --> 00:11:48,907
+      this tube is part of      
+   what's called a head joint,  
+
+191
+00:11:48,909 --> 00:11:51,242
+      one of three sections     
+     that make up the flute.    
+
+192
+00:11:51,244 --> 00:11:54,446
+   the other sections are the   
+center joint and the foot joint.
+
+193
+00:11:54,448 --> 00:11:55,946
+    next, on another machine,   
+
+194
+00:11:55,948 --> 00:11:58,650
+    they insert a second tube   
+      for the center joint.     
+
+195
+00:11:58,652 --> 00:12:00,185
+ this device drills small holes 
+
+196
+00:12:00,187 --> 00:12:02,586
+      to mark the position      
+       of each tone hole,       
+
+197
+00:12:02,588 --> 00:12:05,790
+      the raised rim around     
+   each of the flute's holes.   
+
+198
+00:12:05,792 --> 00:12:08,225
+         now they insert        
+        titanium washers,       
+
+199
+00:12:08,227 --> 00:12:12,196
+  called spiders, in the holes  
+to help position the tone holes.
+
+200
+00:12:12,198 --> 00:12:15,600
+     they place a tone hole     
+       around each spider,      
+
+201
+00:12:15,602 --> 00:12:18,203
+     securing it temporarily    
+        with copper wire.       
+
+202
+00:12:18,205 --> 00:12:21,773
+ once they solder the tone hole,
+   they'll remove the spider.   
+
+203
+00:12:23,610 --> 00:12:26,277
+    they solder little posts    
+   onto three strips of metal,  
+
+204
+00:12:26,279 --> 00:12:27,679
+          called ribs.          
+
+205
+00:12:27,681 --> 00:12:31,883
+  the ribs and posts will later 
+ hold the flute's keys in place.
+
+206
+00:12:31,885 --> 00:12:34,351
+   next they use what's called  
+        a profile cutter        
+
+207
+00:12:34,353 --> 00:12:36,621
+     to shave the tone holes    
+       by minute amounts,       
+
+208
+00:12:36,623 --> 00:12:38,956
+  to perfect the flute's sound. 
+
+209
+00:12:38,958 --> 00:12:42,160
+    now, using a wax injector   
+        and rubber molds,       
+
+210
+00:12:42,162 --> 00:12:46,030
+   they create wax duplicates   
+   of the 120 different parts   
+
+211
+00:12:46,032 --> 00:12:49,367
+          that make up          
+      the flute's 20 keys.      
+
+212
+00:12:49,369 --> 00:12:52,503
+         now they build         
+      what's called a tree.     
+
+213
+00:12:52,505 --> 00:12:54,706
+using tweezers and a heated pen,
+
+214
+00:12:54,708 --> 00:12:57,342
+  they fuse the wax duplicates  
+         to a wax trunk         
+
+215
+00:12:57,344 --> 00:13:00,978
+ that's 6 1/2 to 10 inches tall,
+ depending on the type of flute.
+
+216
+00:13:00,980 --> 00:13:04,048
+    then they place the tree    
+   in a perforated steel flask  
+
+217
+00:13:04,050 --> 00:13:05,917
+    covered in masking tape.    
+
+218
+00:13:05,919 --> 00:13:07,518
+          they pour in          
+     1/4 gallon of plaster,     
+
+219
+00:13:07,520 --> 00:13:09,320
+ which hardens around the tree. 
+
+220
+00:13:09,322 --> 00:13:11,522
+    then they remove the tape   
+       and heat the flask.      
+
+221
+00:13:11,524 --> 00:13:13,324
+the wax melts through the holes,
+
+222
+00:13:13,326 --> 00:13:16,327
+    leaving plaster cavities    
+ in the shape of the key parts. 
+
+223
+00:13:16,329 --> 00:13:19,397
+  the keys are made from tiny   
+  particles of silver or gold.  
+
+224
+00:13:19,399 --> 00:13:20,932
+  these ones have a reddish hue 
+
+225
+00:13:20,934 --> 00:13:24,134
+        because of their        
+      high copper content.      
+
+226
+00:13:24,136 --> 00:13:26,404
+       the craftsmen pour       
+   a carefully measured amount  
+
+227
+00:13:26,406 --> 00:13:28,606
+   into the casting machine's   
+         upper chamber.         
+
+228
+00:13:28,608 --> 00:13:31,208
+   the machine heats the metal  
+         for 12 minutes.        
+
+229
+00:13:31,210 --> 00:13:34,945
+the plaster flask goes into the 
+casting machine's lower chamber.
+
+230
+00:13:34,947 --> 00:13:37,615
+    they release molten metal   
+       into the cavities.       
+
+231
+00:13:37,617 --> 00:13:39,817
+      once the metal cools,     
+
+232
+00:13:39,819 --> 00:13:42,420
+    they shatter the plaster    
+        under cold water,       
+
+233
+00:13:42,422 --> 00:13:44,889
+         exposing a tree        
+      of silver key parts.      
+
+234
+00:13:44,891 --> 00:13:46,491
+    using a pneumatic cutter,   
+
+235
+00:13:46,493 --> 00:13:48,626
+       craftsmen snip off       
+         the key parts.         
+
+236
+00:13:48,628 --> 00:13:52,096
+ they have a dull finish because
+ the silver isn't yet polished. 
+
+237
+00:13:52,098 --> 00:13:54,899
+         now they solder        
+     the key parts together     
+
+238
+00:13:54,901 --> 00:13:58,703
+  and polish each finished key  
+  with a soft rotating brush.   
+
+239
+00:13:58,705 --> 00:14:00,772
+  they also solder on a riser,  
+
+240
+00:14:00,774 --> 00:14:03,374
+         which attaches         
+   the mouthpiece's lip plate   
+
+241
+00:14:03,376 --> 00:14:06,710
+     to the head joint tube.    
+
+242
+00:14:06,712 --> 00:14:09,247
+   they cut away excess metal   
+
+243
+00:14:09,249 --> 00:14:13,517
+        from the opening        
+        of the lip plate.       
+
+244
+00:14:13,519 --> 00:14:15,453
+      then they use a lathe     
+
+245
+00:14:15,455 --> 00:14:17,922
+        to cut out a hole       
+     in the head joint tube.    
+
+246
+00:14:17,924 --> 00:14:21,459
+a template ensures they position
+       the hole correctly.      
+
+247
+00:14:24,530 --> 00:14:27,332
+           once again,          
+      they use copper wire      
+
+248
+00:14:27,334 --> 00:14:30,802
+   to hold the parts together   
+        until soldering.        
+
+249
+00:14:34,340 --> 00:14:35,873
+           they solder          
+     the lip plate assembly     
+
+250
+00:14:35,875 --> 00:14:40,544
+     to the head joint tube,    
+  using a gas-and-oxygen torch. 
+
+251
+00:14:40,546 --> 00:14:42,280
+    next, they mount the keys   
+
+252
+00:14:42,282 --> 00:14:45,216
+        using tiny wires        
+    called straight springs.    
+
+253
+00:14:45,218 --> 00:14:47,985
+        the spring helps        
+     open and close each key    
+
+254
+00:14:47,987 --> 00:14:50,421
+     over the corresponding     
+           tone hole.           
+
+255
+00:14:50,423 --> 00:14:54,158
+   they test each key's seal,   
+ called the pad, for air leaks. 
+
+256
+00:14:54,160 --> 00:14:58,296
+ a thin strip of plastic slides 
+ out if it's improperly sealed. 
+
+257
+00:14:58,298 --> 00:15:03,101
+ the pad is made up of a plastic
+   washer and a felt cushion,   
+
+258
+00:15:03,103 --> 00:15:07,638
+    surrounded by a synthetic   
+wrapper as thin as tissue paper.
+
+259
+00:15:07,640 --> 00:15:10,507
+a pad lasts for about five years
+
+260
+00:15:10,509 --> 00:15:14,244
+      and is very expensive     
+    to replace -- about $75.    
+
+261
+00:15:14,246 --> 00:15:17,515
+        it's just one of        
+up to 100 components in a flute,
+
+262
+00:15:17,517 --> 00:15:19,183
+     depending on the model.    
+
+263
+00:15:19,185 --> 00:15:23,187
+   this company's flutes come   
+ in silver, gold, and platinum. 
+
+264
+00:15:23,189 --> 00:15:27,358
+       they range in price      
+     from $8,000 to $43,000.    
+
+265
+00:15:29,396 --> 00:15:31,529
+ once all the keys are in place,
+
+266
+00:15:31,531 --> 00:15:34,732
+     a quick wipe to remove     
+     any pesky fingerprints.    
+
+267
+00:15:34,734 --> 00:15:38,937
+    an engraver inscribes the   
+ serial number and company logo.
+
+268
+00:15:38,939 --> 00:15:42,139
+         after 120 hours        
+      of painstaking work,      
+
+269
+00:15:42,141 --> 00:15:45,609
+       the flute is ready       
+     for its musical debut.     
+
+270
+00:15:45,611 --> 00:15:48,313
+      [ flute music plays ]     
+
+271
+00:16:08,634 --> 00:16:12,636
+narrator: cowboy boots have been
+kicking around since the 1800s. 
+
+272
+00:16:12,638 --> 00:16:14,238
+ you can wear them on the ranch 
+
+273
+00:16:14,240 --> 00:16:17,041
+   or just as a country-style   
+       fashion statement.       
+
+274
+00:16:17,043 --> 00:16:21,579
+  most cowboy boots are made of 
+cowhide and sell for about $200.
+
+275
+00:16:21,581 --> 00:16:23,981
+          for something         
+      more exotic, though,      
+
+276
+00:16:23,983 --> 00:16:28,186
+    how about a pair made of    
+  ostrich skin for a mere $500? 
+
+277
+00:16:33,059 --> 00:16:35,726
+production starts with a machine
+       called the clicker       
+
+278
+00:16:35,728 --> 00:16:37,261
+that works like a cookie cutter,
+
+279
+00:16:37,263 --> 00:16:40,131
+         slicing leather        
+   into various sizes of soles  
+
+280
+00:16:40,133 --> 00:16:42,133
+  from standard to extra wide.  
+
+281
+00:16:42,135 --> 00:16:44,535
+      the clicker also cuts     
+      the other boot parts,     
+
+282
+00:16:44,537 --> 00:16:47,138
+       such as the shaft,       
+  the section above the ankle.  
+
+283
+00:16:47,140 --> 00:16:50,207
+       this programmable,       
+   automated stitching machine  
+
+284
+00:16:50,209 --> 00:16:52,610
+       decorates the shaft      
+        with embroidery.        
+
+285
+00:16:52,612 --> 00:16:55,480
+        the machine works       
+   on a dozen boots at a time,  
+
+286
+00:16:55,482 --> 00:16:58,516
+    using up to 15 different    
+         thread colors.         
+
+287
+00:17:01,153 --> 00:17:04,021
+     workers steam the shaft    
+    to soften up the leather.   
+
+288
+00:17:04,023 --> 00:17:06,356
+           synthetics           
+   just don't mold to the foot  
+
+289
+00:17:06,358 --> 00:17:07,892
+    the way animal hides do,    
+
+290
+00:17:07,894 --> 00:17:10,627
+         so this company        
+   uses only the real thing --  
+
+291
+00:17:10,629 --> 00:17:12,963
+    python skin, walrus skin,   
+
+292
+00:17:12,965 --> 00:17:15,499
+ bison skin, even ostrich skin. 
+
+293
+00:17:15,501 --> 00:17:19,370
+ cow- and pig-skin boots make up
+ the bulk of production, though,
+
+294
+00:17:19,372 --> 00:17:22,440
+    because they're the most    
+           affordable.          
+
+295
+00:17:22,442 --> 00:17:24,575
+  workers perforate the shaft,  
+
+296
+00:17:24,577 --> 00:17:26,911
+ then layer a different-colored 
+       leather underneath       
+
+297
+00:17:26,913 --> 00:17:28,312
+       to create a design.      
+
+298
+00:17:28,314 --> 00:17:31,782
+          this company          
+   produces 20 basic patterns,  
+
+299
+00:17:31,784 --> 00:17:35,719
+      but clients can also      
+      order custom designs.     
+
+300
+00:17:35,721 --> 00:17:37,788
+       they line the shaft      
+          with pig skin         
+
+301
+00:17:37,790 --> 00:17:40,791
+   because it breathes better   
+    than a synthetic lining.    
+
+302
+00:17:40,793 --> 00:17:43,327
+     workers stitch together    
+       the shaft sections,      
+
+303
+00:17:43,329 --> 00:17:45,997
+    including the underlays,    
+      from the inside out.      
+
+304
+00:17:45,999 --> 00:17:48,132
+    piping covers the seams.    
+
+305
+00:17:50,002 --> 00:17:52,537
+ a roller turns the whole thing 
+         right side out,        
+
+306
+00:17:52,539 --> 00:17:55,339
+      flattening the piping     
+   for a more comfortable fit.  
+
+307
+00:18:04,750 --> 00:18:07,151
+        the next machine        
+      glues a cotton strip      
+
+308
+00:18:07,153 --> 00:18:09,153
+     to the leather insole.     
+
+309
+00:18:09,155 --> 00:18:12,457
+they'll later attach this strip 
+to the foot section of the boot.
+
+310
+00:18:16,563 --> 00:18:20,364
+  next, they temporarily attach 
+   the sole to a plastic mold,  
+
+311
+00:18:20,366 --> 00:18:22,366
+       called a boot last.      
+
+312
+00:18:22,368 --> 00:18:23,968
+    this makes the sole rigid   
+
+313
+00:18:23,970 --> 00:18:25,636
+  while they attach other parts 
+          of the boot.          
+
+314
+00:18:25,638 --> 00:18:29,173
+ they glue a hard, synthetic cup
+       to the heel section      
+
+315
+00:18:29,175 --> 00:18:31,175
+  to give it the desired shape. 
+
+316
+00:18:31,177 --> 00:18:33,978
+         then they apply        
+      a fibrous cotton form     
+
+317
+00:18:33,980 --> 00:18:37,148
+       between the layers       
+  that will shape the toe area. 
+
+318
+00:18:41,854 --> 00:18:44,589
+         now they attach        
+     the sole to the shaft.     
+
+319
+00:18:46,326 --> 00:18:48,458
+          using a laser         
+      as a centering guide,     
+
+320
+00:18:48,460 --> 00:18:51,195
+  they stretch the toe section  
+       over the boot last,      
+
+321
+00:18:51,197 --> 00:18:54,232
+ bringing the two largest pieces
+      of the boot together.     
+
+322
+00:18:58,271 --> 00:19:01,472
+ they stitch on a leather strip 
+     to attach the sections.    
+
+323
+00:19:01,474 --> 00:19:03,207
+   this strip, called a welt,   
+
+324
+00:19:03,209 --> 00:19:05,142
+      is a traditional part     
+         of boot-making.        
+
+325
+00:19:05,144 --> 00:19:08,212
+    it's what makes the boot    
+          very durable.         
+
+326
+00:19:13,753 --> 00:19:17,288
+    they attach a steel shank   
+       for arch support...      
+
+327
+00:19:17,290 --> 00:19:21,892
+     then apply a mixture of    
+  granulated cork and hot glue. 
+
+328
+00:19:21,894 --> 00:19:24,228
+           this layer           
+   will make the boot conform   
+
+329
+00:19:24,230 --> 00:19:27,030
+         to the contours        
+      of the wearer's foot.     
+
+330
+00:19:27,032 --> 00:19:29,367
+      they attach the sole      
+          to the shaft          
+
+331
+00:19:29,369 --> 00:19:31,301
+ with industrial-strength glue. 
+
+332
+00:19:31,303 --> 00:19:33,504
+    the fact that it's glued    
+       as well as stitched      
+
+333
+00:19:33,506 --> 00:19:37,441
+ means you can simply rip it out
+    and replace a worn sole.    
+
+334
+00:19:37,443 --> 00:19:41,779
+  this feature greatly extends  
+      the life of the boot.     
+
+335
+00:19:41,781 --> 00:19:45,249
+   a cutting machine trims off  
+       the excess leather.      
+
+336
+00:19:51,124 --> 00:19:53,858
+    then they stitch the sole   
+          to the welt.          
+
+337
+00:20:01,267 --> 00:20:03,601
+           they stitch          
+   using interlacing threads.   
+
+338
+00:20:03,603 --> 00:20:06,170
+      this binds the pieces     
+       even more strongly.      
+
+339
+00:20:09,008 --> 00:20:12,677
+   the final layer of the sole  
+can be either leather or rubber.
+
+340
+00:20:12,679 --> 00:20:16,147
+  it all depends on who will be 
+  wearing the boots and where.  
+
+341
+00:20:16,149 --> 00:20:19,283
+    a rancher in sunny texas    
+       may prefer leather.      
+
+342
+00:20:19,285 --> 00:20:22,787
+    but in the cold and snow,   
+ you're better off with rubber. 
+
+343
+00:20:27,093 --> 00:20:28,759
+       now for the heel...      
+
+344
+00:20:28,761 --> 00:20:31,361
+   they load a driving machine  
+           with nails.          
+
+345
+00:20:31,363 --> 00:20:34,231
+       the pattern varies       
+ according to the type of heel. 
+
+346
+00:20:34,233 --> 00:20:37,835
+      this company produces     
+       eight heel styles.       
+
+347
+00:20:37,837 --> 00:20:41,239
+          a laser guide         
+   ensures they nail the heel   
+
+348
+00:20:41,241 --> 00:20:43,641
+ to the boot perfectly centered.
+
+349
+00:20:46,579 --> 00:20:49,647
+with a brush, they coat both the
+  heel and the edge of the sole 
+
+350
+00:20:49,649 --> 00:20:52,516
+    in black or mahogany dye.   
+
+351
+00:20:54,887 --> 00:20:57,188
+       finally, they brand      
+     the manufacturer's name    
+
+352
+00:20:57,190 --> 00:20:59,257
+          in gold foil.         
+
+353
+00:20:59,259 --> 00:21:01,525
+   some boots have pull holes   
+           at the top           
+
+354
+00:21:01,527 --> 00:21:05,863
+for getting your boots on fast, 
+to make it to the rodeo on time.
+
+355
+00:21:12,939 --> 00:21:14,872
+    if you have any comments    
+         about the show,        
+
+356
+00:21:14,874 --> 00:21:17,474
+   or if you'd like to suggest  
+    topics for future shows,    
+
+357
+00:21:17,476 --> 00:21:19,277
+      drop us a line at...      
+

@@ -1,0 +1,1481 @@
+﻿1
+00:00:01,935 --> 00:00:05,002
+-- captions by vitac --
+www.vitac.com
+
+2
+00:00:05,005 --> 00:00:07,939
+captions paid for by
+discovery communications, inc.
+
+3
+00:00:23,223 --> 00:00:25,756
+narrator:
+today on "how it's made"...
+
+4
+00:00:25,759 --> 00:00:28,192
+compact discs...
+
+5
+00:00:32,033 --> 00:00:33,698
+...mozzarella cheese...
+
+6
+00:00:37,705 --> 00:00:39,270
+...pantyhose...
+
+7
+00:00:43,310 --> 00:00:46,177
+...and fluorescent tubes.
+
+8
+00:00:53,320 --> 00:00:55,853
+today there's virtually no limit
+
+9
+00:00:55,856 --> 00:01:00,058
+to the information
+we can store on compact discs.
+
+10
+00:01:00,061 --> 00:01:03,727
+millions of bits of data
+representing words, numbers,
+
+11
+00:01:03,730 --> 00:01:08,399
+music, graphics, or even video
+can be stored on the discs.
+
+12
+00:01:08,402 --> 00:01:12,537
+let's take a "spin"
+through a cd factory.
+
+13
+00:01:14,341 --> 00:01:16,674
+compact discs are copies made
+
+14
+00:01:16,677 --> 00:01:18,609
+from an original
+glass master disc.
+
+15
+00:01:18,612 --> 00:01:22,213
+a thin plate of glass
+is first placed in this unit,
+
+16
+00:01:22,216 --> 00:01:24,548
+which brushes the surface clean.
+
+17
+00:01:24,551 --> 00:01:26,884
+cleaning is done
+with de-ionized water
+
+18
+00:01:26,887 --> 00:01:28,619
+and a small goat-hair brush.
+
+19
+00:01:28,622 --> 00:01:30,754
+the excess water is eliminated
+
+20
+00:01:30,757 --> 00:01:33,291
+by the rapid rotation
+of the disc.
+
+21
+00:01:33,294 --> 00:01:36,027
+the disc then goes into
+this surface analyzer,
+
+22
+00:01:36,030 --> 00:01:39,730
+where a laser beam inspects
+the cleanliness of the surface.
+
+23
+00:01:48,442 --> 00:01:51,842
+at this stage,
+two chemicals are applied --
+
+24
+00:01:51,845 --> 00:01:54,912
+a primer
+and a photoresistant coating.
+
+25
+00:01:54,915 --> 00:01:56,380
+this operation is done
+
+26
+00:01:56,383 --> 00:01:59,250
+at a temperature
+of 70 degrees fahrenheit
+
+27
+00:01:59,253 --> 00:02:01,519
+and lasts three minutes.
+
+28
+00:02:01,522 --> 00:02:04,989
+the disc is carefully retrieved
+from the apparatus.
+
+29
+00:02:08,328 --> 00:02:13,498
+then the photoresistant coating
+dries in an oven for 30 minutes.
+
+30
+00:02:18,272 --> 00:02:21,071
+this developer has two spouts.
+
+31
+00:02:21,074 --> 00:02:25,142
+one applies a de-ionized water,
+and the other sprays a solution
+
+32
+00:02:25,145 --> 00:02:27,744
+to develop the data
+etched on the glass.
+
+33
+00:02:27,747 --> 00:02:30,548
+the information
+is now engraved on the disc.
+
+34
+00:02:30,551 --> 00:02:34,418
+then the disc is placed
+in this metal-coating equipment.
+
+35
+00:02:34,421 --> 00:02:37,087
+the next step consists
+of applying a thin coating
+
+36
+00:02:37,090 --> 00:02:38,822
+of nickel and vanadium.
+
+37
+00:02:38,825 --> 00:02:41,626
+this electroforming process
+results in the master
+
+38
+00:02:41,629 --> 00:02:43,927
+from which discs will be made.
+
+39
+00:02:43,930 --> 00:02:46,831
+the etched glass is immersed
+in a chemical solution
+
+40
+00:02:46,834 --> 00:02:48,432
+for 70 minutes.
+
+41
+00:02:48,435 --> 00:02:52,603
+then the plated piece is
+removed, thus obtaining a die.
+
+42
+00:02:54,575 --> 00:02:57,308
+the die is sent off
+for finishing.
+
+43
+00:02:57,311 --> 00:03:00,645
+it is stamped out
+into the desired shape.
+
+44
+00:03:00,648 --> 00:03:04,515
+the excess material is recycled.
+
+45
+00:03:04,518 --> 00:03:07,451
+next, the compact discs
+will be fabricated
+
+46
+00:03:07,454 --> 00:03:08,852
+from this master unit.
+
+47
+00:03:08,855 --> 00:03:13,124
+here we clearly see
+the stamping-out technique.
+
+48
+00:03:17,931 --> 00:03:20,698
+the master is taken out.
+
+49
+00:03:24,938 --> 00:03:26,737
+a technician peels off the film
+
+50
+00:03:26,740 --> 00:03:29,607
+which protected the data
+etched onto the die.
+
+51
+00:03:29,610 --> 00:03:32,076
+after a visual inspection,
+
+52
+00:03:32,079 --> 00:03:34,245
+the die is sent
+to the pressing department.
+
+53
+00:03:37,551 --> 00:03:40,284
+the die is delicately installed
+in the mold,
+
+54
+00:03:40,287 --> 00:03:43,054
+which will form compact discs.
+
+55
+00:03:48,629 --> 00:03:51,295
+discs are made
+from a very special plastic
+
+56
+00:03:51,298 --> 00:03:53,397
+called "polycarbonate."
+
+57
+00:03:53,400 --> 00:03:54,765
+the mold is closed,
+
+58
+00:03:54,768 --> 00:03:57,902
+and liquid polycarbonate
+is injected into the die.
+
+59
+00:03:57,905 --> 00:04:02,039
+it comes out as a small,
+hard, translucent disc.
+
+60
+00:04:02,042 --> 00:04:04,308
+it is now ready
+to be metal-coated
+
+61
+00:04:04,311 --> 00:04:06,977
+so it can be read
+by a compact-disc reader.
+
+62
+00:04:06,980 --> 00:04:10,381
+a robotic arm lifts the disc
+from the mold
+
+63
+00:04:10,384 --> 00:04:12,917
+and places it on these supports.
+
+64
+00:04:18,458 --> 00:04:23,060
+this metallizing process is
+extremely short and very simple,
+
+65
+00:04:23,063 --> 00:04:24,528
+taking but a second.
+
+66
+00:04:24,531 --> 00:04:26,530
+it consists of covering
+the plastic disc
+
+67
+00:04:26,533 --> 00:04:29,066
+with a very thin coating
+of aluminum.
+
+68
+00:04:41,548 --> 00:04:43,547
+here we see the inside
+of the mold,
+
+69
+00:04:43,550 --> 00:04:45,616
+where the aluminum coating
+is applied.
+
+70
+00:04:51,158 --> 00:04:54,892
+in this facility,
+almost everything is automated,
+
+71
+00:04:54,895 --> 00:04:59,397
+helping them produce over
+100,000 compact discs per day.
+
+72
+00:05:03,970 --> 00:05:07,571
+protecting the surface
+of the disc is essential,
+
+73
+00:05:07,574 --> 00:05:10,107
+so a coat of varnish is applied.
+
+74
+00:05:10,110 --> 00:05:13,244
+this also helps silk screening
+stick to the surface.
+
+75
+00:05:16,183 --> 00:05:20,051
+ultraviolet lamps
+quickly dry the varnish.
+
+76
+00:05:26,727 --> 00:05:30,060
+and here in the pressing room,
+they apply the label.
+
+77
+00:05:30,063 --> 00:05:32,396
+this step is also very fast
+
+78
+00:05:32,399 --> 00:05:36,334
+since the machine prints
+70 discs in 60 seconds.
+
+79
+00:05:36,337 --> 00:05:38,602
+once the silk-screening
+is completed,
+
+80
+00:05:38,605 --> 00:05:41,706
+the finished discs leave
+for packaging.
+
+81
+00:05:49,349 --> 00:05:52,416
+narrator: in a sandwich,
+as a topping, or all by itself,
+
+82
+00:05:52,419 --> 00:05:55,386
+cheese has always been
+a popular food.
+
+83
+00:05:55,389 --> 00:05:59,356
+this dairy product goes back
+thousands of years,
+
+84
+00:05:59,359 --> 00:06:02,760
+and it's always started
+with three basic ingredients --
+
+85
+00:06:02,763 --> 00:06:05,563
+milk, curds, and whey.
+
+86
+00:06:05,566 --> 00:06:07,998
+just ask little miss muffet.
+
+87
+00:06:11,038 --> 00:06:14,438
+like all cheeses,
+mozzarella starts from milk.
+
+88
+00:06:14,441 --> 00:06:16,440
+to assure good milk quality,
+
+89
+00:06:16,443 --> 00:06:19,577
+the interior and exterior
+of milk-transport trucks
+
+90
+00:06:19,580 --> 00:06:21,979
+must be washed
+after being emptied.
+
+91
+00:06:21,982 --> 00:06:23,714
+a tank such as this one
+
+92
+00:06:23,717 --> 00:06:27,384
+can carry an average
+of 8,000 gallons of raw milk
+
+93
+00:06:27,387 --> 00:06:31,922
+at temperatures between
+37 and 39 degrees fahrenheit.
+
+94
+00:06:31,925 --> 00:06:33,591
+raw milk destined
+for cheesemaking
+
+95
+00:06:33,594 --> 00:06:38,329
+contains 3.8% fats
+and 3.3% proteins.
+
+96
+00:06:38,332 --> 00:06:41,732
+they store the milk and whey,
+a milk by-product,
+
+97
+00:06:41,735 --> 00:06:43,467
+in these immense silos,
+
+98
+00:06:43,470 --> 00:06:47,871
+each with a capacity
+of 59,000 gallons.
+
+99
+00:06:47,874 --> 00:06:51,008
+this milk separator
+extracts surplus cream
+
+100
+00:06:51,011 --> 00:06:52,743
+to adjust the percentage of fat
+
+101
+00:06:52,746 --> 00:06:55,279
+according to
+the type of cheese to be made.
+
+102
+00:06:55,282 --> 00:06:57,481
+fabrication begins
+with this tank,
+
+103
+00:06:57,484 --> 00:06:59,483
+which feeds the pasteurizer.
+
+104
+00:06:59,486 --> 00:07:01,952
+pasteurization
+sterilizes beverages
+
+105
+00:07:01,955 --> 00:07:03,887
+which can easily ferment.
+
+106
+00:07:03,890 --> 00:07:05,756
+milk samples are drawn off
+
+107
+00:07:05,759 --> 00:07:09,093
+to accurately determine their
+milk-fat and protein content.
+
+108
+00:07:09,096 --> 00:07:11,962
+tests are carried out
+in this laboratory,
+
+109
+00:07:11,965 --> 00:07:13,764
+where they impose controls.
+
+110
+00:07:13,767 --> 00:07:16,500
+these test tubes
+contain milk samples
+
+111
+00:07:16,503 --> 00:07:20,104
+which will undergo
+microbiological analysis.
+
+112
+00:07:20,107 --> 00:07:22,606
+milk quality must be impeccable.
+
+113
+00:07:25,979 --> 00:07:30,781
+this is a curdler with
+a capacity of 6,600 gallons.
+
+114
+00:07:30,784 --> 00:07:34,452
+here milk and other essential
+ingredients are introduced,
+
+115
+00:07:34,455 --> 00:07:39,189
+such as the enzyme, rennet,
+that curdles the milk.
+
+116
+00:07:39,192 --> 00:07:41,925
+this mix must be well-stirred
+and cooked.
+
+117
+00:07:41,928 --> 00:07:45,396
+the agitators are used to
+cut the whey into little lumps.
+
+118
+00:07:45,399 --> 00:07:48,732
+this step takes
+about 30 minutes.
+
+119
+00:07:48,735 --> 00:07:50,100
+the temperature of the tanks
+
+120
+00:07:50,103 --> 00:07:53,136
+depends on the type of cheese
+they're making.
+
+121
+00:07:53,139 --> 00:07:57,474
+agitators
+continue stirring the milk.
+
+122
+00:07:57,477 --> 00:07:58,742
+once cooking is done,
+
+123
+00:07:58,745 --> 00:08:01,679
+the whey is pumped
+onto tables to be drained.
+
+124
+00:08:01,682 --> 00:08:05,749
+it stays there
+for about 25 minutes.
+
+125
+00:08:05,752 --> 00:08:10,988
+the solid and the liquid
+are now well-separated.
+
+126
+00:08:19,432 --> 00:08:23,166
+the liquid we see draining
+is called the "lactoserum."
+
+127
+00:08:23,169 --> 00:08:26,170
+the lactoserum
+will be concentrated
+
+128
+00:08:26,173 --> 00:08:29,306
+and transformed
+into milk by-products.
+
+129
+00:08:34,047 --> 00:08:36,981
+the water has been
+almost entirely extracted,
+
+130
+00:08:36,984 --> 00:08:40,751
+and the cheese particles
+are now sufficiently dry.
+
+131
+00:08:46,793 --> 00:08:48,592
+this large automated blade
+
+132
+00:08:48,595 --> 00:08:52,062
+then moves cheese particles
+towards the next step --
+
+133
+00:08:52,065 --> 00:08:53,631
+the molder.
+
+134
+00:09:01,808 --> 00:09:04,208
+in the molder,
+the cheese is cut up
+
+135
+00:09:04,211 --> 00:09:06,744
+before being carried
+to the cooker --
+
+136
+00:09:06,747 --> 00:09:10,013
+the final processing step.
+
+137
+00:09:10,016 --> 00:09:14,251
+it appears that this mozzarella
+has just the right texture.
+
+138
+00:09:28,368 --> 00:09:30,968
+the cheese finally arrives
+at the molder,
+
+139
+00:09:30,971 --> 00:09:33,570
+which will give it
+the proper shape.
+
+140
+00:09:33,573 --> 00:09:39,443
+each mold has a 5 1/2-pound
+capacity and is rectangular.
+
+141
+00:09:39,446 --> 00:09:44,515
+brine, a salt solution, cools
+and salts the cheese blocks.
+
+142
+00:09:44,518 --> 00:09:49,086
+the blocks are unmolded
+and fall into a brine tank.
+
+143
+00:09:53,660 --> 00:09:57,094
+the cheese blocks will remain
+in another brine solution
+
+144
+00:09:57,097 --> 00:09:58,528
+for a while.
+
+145
+00:09:58,531 --> 00:10:01,532
+then they're carried by
+a conveyor towards another tank,
+
+146
+00:10:01,535 --> 00:10:04,467
+where they will be immersed
+for 4 to 10 hours
+
+147
+00:10:04,470 --> 00:10:07,838
+at a temperature
+of 36 degrees fahrenheit.
+
+148
+00:10:12,745 --> 00:10:15,079
+sprays of brine remove the foam
+
+149
+00:10:15,082 --> 00:10:18,482
+which forms
+at the surface of the tank.
+
+150
+00:10:18,485 --> 00:10:20,684
+the 8,000 gallons of milk
+
+151
+00:10:20,687 --> 00:10:23,287
+we saw coming in by truck
+at the beginning
+
+152
+00:10:23,290 --> 00:10:27,558
+have enabled the factory to
+produce 1,400 blocks of cheese
+
+153
+00:10:27,561 --> 00:10:30,226
+in 8 to 12 hours.
+
+154
+00:10:30,229 --> 00:10:33,030
+finally, the cheese blocks
+are vacuum-packed
+
+155
+00:10:33,033 --> 00:10:35,399
+and ready for shipment.
+
+156
+00:10:43,577 --> 00:10:47,444
+narrator: there was a time
+when women wore silk stockings.
+
+157
+00:10:47,447 --> 00:10:49,980
+then came the invention
+of pantyhose,
+
+158
+00:10:49,983 --> 00:10:53,116
+a cheaper,
+more convenient alternative.
+
+159
+00:10:53,119 --> 00:10:56,786
+pantyhose are knitted
+from strands of raw nylon.
+
+160
+00:10:56,789 --> 00:10:59,523
+it's no "stretch"
+of the imagination to say
+
+161
+00:10:59,526 --> 00:11:03,427
+that when they go on sale,
+there's usually a "run" on them.
+
+162
+00:11:08,535 --> 00:11:11,935
+making a nylon stocking
+takes only a few minutes.
+
+163
+00:11:11,938 --> 00:11:14,738
+however,
+it's a complex operation
+
+164
+00:11:14,741 --> 00:11:17,608
+that involves the knitting
+of five to eight threads
+
+165
+00:11:17,611 --> 00:11:19,009
+as fine as a hair.
+
+166
+00:11:19,012 --> 00:11:21,878
+the threads,
+usually nylon and spandex,
+
+167
+00:11:21,881 --> 00:11:23,947
+are used along with elastic.
+
+168
+00:11:23,950 --> 00:11:26,750
+sometimes polyester or cotton
+are added.
+
+169
+00:11:26,753 --> 00:11:29,686
+the knitting machine
+goes into action.
+
+170
+00:11:29,689 --> 00:11:33,690
+this one fashions a tube for
+sheer stockings in 90 seconds.
+
+171
+00:11:33,693 --> 00:11:36,359
+in three minutes,
+it makes a tube for tights.
+
+172
+00:11:36,362 --> 00:11:40,230
+its speed is adjusted according
+to the product being made,
+
+173
+00:11:40,233 --> 00:11:44,968
+varying between 750 and 1,200
+revolutions per minute.
+
+174
+00:11:44,971 --> 00:11:48,839
+once the tube is knitted, it is
+sucked up and lands in a bag,
+
+175
+00:11:48,842 --> 00:11:51,175
+where it will be inspected.
+
+176
+00:11:51,178 --> 00:11:54,311
+more than 500 machines
+share the work,
+
+177
+00:11:54,314 --> 00:11:56,914
+each making a specific model.
+
+178
+00:12:00,520 --> 00:12:03,387
+the two ends must now be joined.
+
+179
+00:12:03,390 --> 00:12:07,057
+this automated machine assembles
+the two tubes together
+
+180
+00:12:07,060 --> 00:12:09,026
+to form the pantyhose.
+
+181
+00:12:15,135 --> 00:12:17,868
+then scissors
+cut the pantyhose,
+
+182
+00:12:17,871 --> 00:12:21,004
+a necessary step
+in production of a pair.
+
+183
+00:12:25,278 --> 00:12:28,145
+this opening is enlarged
+to allow for sewing,
+
+184
+00:12:28,148 --> 00:12:32,349
+which will join the two tubes
+at the top of the leg.
+
+185
+00:12:32,352 --> 00:12:34,885
+the label with the size
+or brand name
+
+186
+00:12:34,888 --> 00:12:38,688
+is sewn in place in 10 seconds
+by this robotic machine.
+
+187
+00:12:38,691 --> 00:12:43,894
+at this pace, it sews on
+4,800 labels in 8 hours.
+
+188
+00:12:43,897 --> 00:12:46,830
+installing a gusset
+requires some preparation.
+
+189
+00:12:46,833 --> 00:12:49,766
+scissors makes a hole
+at the joining point.
+
+190
+00:12:49,769 --> 00:12:52,970
+then the stocking
+is turned inside out by suction
+
+191
+00:12:52,973 --> 00:12:56,240
+so certain stitching
+can be done on the inside.
+
+192
+00:12:56,243 --> 00:13:00,210
+thus, these stitches
+will be less visible.
+
+193
+00:13:12,859 --> 00:13:15,325
+now the foot must be sewn.
+
+194
+00:13:15,328 --> 00:13:18,328
+this robotic machine
+places the foot in position.
+
+195
+00:13:18,331 --> 00:13:20,597
+then a sewing machine
+makes stitches
+
+196
+00:13:20,600 --> 00:13:24,601
+at the same time it cuts away
+excess material.
+
+197
+00:13:24,604 --> 00:13:28,938
+this step takes only 10 seconds.
+
+198
+00:13:28,941 --> 00:13:31,675
+then the pantyhose
+is turned right side out,
+
+199
+00:13:31,678 --> 00:13:34,244
+again using suction.
+
+200
+00:13:41,955 --> 00:13:45,288
+everything is ready
+for installation of the gusset.
+
+201
+00:13:45,291 --> 00:13:49,492
+the pantyhose is placed in a tub
+and taken to this department.
+
+202
+00:13:49,495 --> 00:13:51,628
+the stocking is again suctioned
+
+203
+00:13:51,631 --> 00:13:54,364
+and placed on a gusset machine
+by the operator.
+
+204
+00:13:54,367 --> 00:13:58,167
+this method assures that
+the gusset will be well-centered
+
+205
+00:13:58,170 --> 00:13:59,736
+without a pleat.
+
+206
+00:14:02,308 --> 00:14:05,308
+putting in the gusset is the
+final operation in the process.
+
+207
+00:14:05,311 --> 00:14:06,910
+a precut piece of cotton
+
+208
+00:14:06,913 --> 00:14:09,980
+is slid into the space
+reserved for the gusset
+
+209
+00:14:09,983 --> 00:14:13,183
+and automatically sewn in.
+
+210
+00:14:15,855 --> 00:14:17,854
+only aesthetic touches remain,
+
+211
+00:14:17,857 --> 00:14:21,124
+such as adding a little color
+to the pantyhose.
+
+212
+00:14:21,127 --> 00:14:23,193
+they're placed in this machine,
+
+213
+00:14:23,196 --> 00:14:26,263
+which has a large drum
+with four compartments
+
+214
+00:14:26,266 --> 00:14:28,265
+and a 99-pound capacity.
+
+215
+00:14:28,268 --> 00:14:31,001
+the pantyhose are washed
+in soapy water,
+
+216
+00:14:31,004 --> 00:14:32,535
+then immersed in dye.
+
+217
+00:14:32,538 --> 00:14:36,540
+temperature climbs gradually
+to 200 degrees fahrenheit.
+
+218
+00:14:36,543 --> 00:14:40,143
+after a 5-minute rinsing cycle,
+a softener is added.
+
+219
+00:14:40,146 --> 00:14:44,514
+this process takes 2 1/2 hours.
+
+220
+00:14:44,517 --> 00:14:47,484
+once dried,
+they proceed to inspection.
+
+221
+00:14:47,487 --> 00:14:50,153
+the pantyhose
+is placed onto a form
+
+222
+00:14:50,156 --> 00:14:52,289
+which stretches it
+to allow inspection
+
+223
+00:14:52,292 --> 00:14:54,624
+for any imperfections.
+
+224
+00:14:54,627 --> 00:14:55,826
+if all is well,
+
+225
+00:14:55,829 --> 00:14:59,029
+the pantyhose is transferred
+onto another metal form,
+
+226
+00:14:59,032 --> 00:15:00,564
+where it will be pressed.
+
+227
+00:15:04,304 --> 00:15:08,772
+the pantyhose's position
+is guided by a magic eye.
+
+228
+00:15:10,977 --> 00:15:14,311
+the pantyhose is then
+carried toward a steam room,
+
+229
+00:15:14,314 --> 00:15:17,180
+where it will stay
+for 2 1/2 seconds
+
+230
+00:15:17,183 --> 00:15:21,585
+before being dried in
+7 1/2 seconds at 280 degrees.
+
+231
+00:15:21,588 --> 00:15:25,989
+they fold and pack
+420 pantyhose per hour
+
+232
+00:15:25,992 --> 00:15:30,060
+and make 180,000 pairs per day.
+
+233
+00:15:39,472 --> 00:15:41,538
+narrator: throughout the ages,
+artificial light
+
+234
+00:15:41,541 --> 00:15:44,808
+has let people extend
+the convenience of daylight
+
+235
+00:15:44,811 --> 00:15:47,010
+long after the sun goes down.
+
+236
+00:15:47,013 --> 00:15:49,879
+fluorescent tubes
+are more energy-efficient
+
+237
+00:15:49,882 --> 00:15:51,214
+than light bulbs.
+
+238
+00:15:51,217 --> 00:15:55,085
+that's probably why they've
+become a "fixture," so to speak,
+
+239
+00:15:55,088 --> 00:15:58,355
+in stores, factories,
+and offices.
+
+240
+00:16:04,764 --> 00:16:08,498
+once, the only source of light
+was the flame of fire
+
+241
+00:16:08,501 --> 00:16:11,968
+in the forms of torch,
+candle, and oil lamps.
+
+242
+00:16:11,971 --> 00:16:15,305
+it remained so
+right up until the 19th century,
+
+243
+00:16:15,308 --> 00:16:18,909
+when gaslight made its first
+appearance around 1840.
+
+244
+00:16:18,912 --> 00:16:20,443
+almost 40 years later,
+
+245
+00:16:20,446 --> 00:16:24,514
+thomas edison invented his
+famous incandescent light bulb.
+
+246
+00:16:24,517 --> 00:16:25,982
+in 1909,
+
+247
+00:16:25,985 --> 00:16:29,853
+the frenchman georges claude
+developed the fluorescent tube,
+
+248
+00:16:29,856 --> 00:16:33,991
+a light that remains unaltered
+to this very day.
+
+249
+00:16:42,402 --> 00:16:46,669
+did you know that mercury
+allows us to see in the dark?
+
+250
+00:16:46,672 --> 00:16:49,673
+the production of fluorescent
+lamps is highly complex.
+
+251
+00:16:49,676 --> 00:16:53,944
+the fabrication process
+starts with glass tubes
+
+252
+00:16:53,947 --> 00:16:56,680
+that have been meticulously
+cleaned with warm water
+
+253
+00:16:56,683 --> 00:16:58,982
+to remove dirt and impurities.
+
+254
+00:17:01,954 --> 00:17:04,621
+then the tubes have to be
+specifically shaped
+
+255
+00:17:04,624 --> 00:17:05,956
+with a folder-shaper.
+
+256
+00:17:05,959 --> 00:17:08,291
+they're heated for 30 seconds,
+
+257
+00:17:08,294 --> 00:17:10,827
+then quickly curved
+using a template.
+
+258
+00:17:13,833 --> 00:17:18,668
+this automated machine
+can bend 14 tubes a minute.
+
+259
+00:17:25,311 --> 00:17:28,377
+the bent tubes go into
+the coating chamber,
+
+260
+00:17:28,380 --> 00:17:30,380
+where a thin coat of phosphorus
+
+261
+00:17:30,383 --> 00:17:32,949
+is applied
+to their inner surfaces.
+
+262
+00:17:32,952 --> 00:17:37,086
+phosphorus produces light by
+transforming ultraviolet photons
+
+263
+00:17:37,089 --> 00:17:40,957
+generated by the ionization
+of mercury.
+
+264
+00:17:42,996 --> 00:17:45,328
+the surplus phosphorus
+is removed
+
+265
+00:17:45,331 --> 00:17:48,731
+from the ends of the tube
+to facilitate sealing.
+
+266
+00:17:48,734 --> 00:17:52,935
+they now move
+to the electrical components.
+
+267
+00:17:52,938 --> 00:17:58,074
+the cathode mount is made
+in this auto mount.
+
+268
+00:17:58,077 --> 00:18:00,877
+here, they make the wire
+
+269
+00:18:00,880 --> 00:18:03,947
+that will carry the current
+from the mount.
+
+270
+00:18:03,950 --> 00:18:07,417
+the wire carrying the current
+is shaped.
+
+271
+00:18:09,889 --> 00:18:12,889
+and here, the wire is heated.
+
+272
+00:18:12,892 --> 00:18:14,825
+this prepares it
+for the next step.
+
+273
+00:18:14,828 --> 00:18:17,494
+it's essential to prevent
+the cathode coating
+
+274
+00:18:17,497 --> 00:18:19,629
+from spreading to the prongs.
+
+275
+00:18:19,632 --> 00:18:23,700
+the filaments are inserted
+into their mounts.
+
+276
+00:18:23,703 --> 00:18:26,702
+the emissive substance plays
+a crucial role.
+
+277
+00:18:26,705 --> 00:18:28,971
+when heated, it emits electrons,
+
+278
+00:18:28,974 --> 00:18:31,774
+which participate
+in producing light.
+
+279
+00:18:31,777 --> 00:18:34,777
+the emissive substance
+is actually this liquid.
+
+280
+00:18:34,780 --> 00:18:37,847
+the wiring mount is transferred
+from the auto mount
+
+281
+00:18:37,850 --> 00:18:41,918
+to the sealing machine.
+
+282
+00:18:41,921 --> 00:18:43,052
+at this stage,
+
+283
+00:18:43,055 --> 00:18:46,456
+the wiring mount
+and the glass tube are joined.
+
+284
+00:18:48,994 --> 00:18:51,895
+sealing is done
+at a very high temperature.
+
+285
+00:19:12,952 --> 00:19:15,885
+one important step remains.
+
+286
+00:19:16,689 --> 00:19:19,623
+this is where the glass tube
+is emptied of air
+
+287
+00:19:19,626 --> 00:19:21,824
+and filled with gas.
+
+288
+00:19:21,827 --> 00:19:24,160
+this machine also
+decarbonizes the tube
+
+289
+00:19:24,163 --> 00:19:27,497
+and introduces
+the drop of mercury
+
+290
+00:19:27,500 --> 00:19:30,433
+essential for producing light.
+
+291
+00:19:30,436 --> 00:19:33,436
+once the very tiny drop
+of mercury
+
+292
+00:19:33,439 --> 00:19:36,172
+is injected into the tube,
+
+293
+00:19:36,175 --> 00:19:39,342
+the fluorescent lamp
+is almost completed.
+
+294
+00:19:51,257 --> 00:19:53,790
+but one step remains.
+
+295
+00:19:53,793 --> 00:19:55,792
+this threader positions
+the wires
+
+296
+00:19:55,795 --> 00:19:57,527
+for insertion of the tube cap,
+
+297
+00:19:57,530 --> 00:20:00,263
+which establishes
+electrical contact.
+
+298
+00:20:00,266 --> 00:20:03,133
+the tube cap is placed
+into position
+
+299
+00:20:03,136 --> 00:20:05,869
+in preparation for sealing.
+
+300
+00:20:05,872 --> 00:20:08,138
+the cap must be
+securely attached
+
+301
+00:20:08,141 --> 00:20:10,607
+and installed
+in a watertight manner
+
+302
+00:20:10,610 --> 00:20:12,909
+to eliminate
+any risk of leaking.
+
+303
+00:20:16,082 --> 00:20:20,216
+the capper permanently seals
+the cap onto the tube,
+
+304
+00:20:20,219 --> 00:20:22,485
+and it's all finished.
+
+305
+00:20:30,563 --> 00:20:34,230
+each lamp is tested
+on a large testing wheel
+
+306
+00:20:34,233 --> 00:20:37,300
+to verify its quality
+and performance.
+
+307
+00:20:43,776 --> 00:20:46,042
+once the meticulous inspection
+is over,
+
+308
+00:20:46,045 --> 00:20:48,311
+the fluorescent lamps
+are carried
+
+309
+00:20:48,314 --> 00:20:50,146
+to the packaging department.
+
+310
+00:20:56,722 --> 00:20:59,389
+a robotic machine handles
+the lamps
+
+311
+00:20:59,392 --> 00:21:01,591
+and places them
+into the packages.
+
+312
+00:21:01,594 --> 00:21:06,263
+the glass tubes have now
+become fluorescent lamps.
+
+313
+00:21:12,805 --> 00:21:14,870
+if you have any comments
+about the show,
+
+314
+00:21:14,873 --> 00:21:17,607
+or if you'd like to suggest
+topics for future shows,
+
+315
+00:21:17,610 --> 00:21:19,509
+drop us a line at...
+

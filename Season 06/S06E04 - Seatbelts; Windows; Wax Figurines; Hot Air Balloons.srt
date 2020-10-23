@@ -1,0 +1,1823 @@
+1
+00:00:02,336 --> 00:00:05,336
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,338 --> 00:00:08,273
+      captions paid for by      
+ discovery communications, inc. 
+
+3
+00:00:22,423 --> 00:00:25,957
+            narrator:           
+    today on "how it's made,"   
+
+4
+00:00:25,959 --> 00:00:27,826
+          seatbelts...          
+
+5
+00:00:32,232 --> 00:00:34,266
+          ...windows...         
+
+6
+00:00:37,772 --> 00:00:39,671
+       ...wax figurines...      
+
+7
+00:00:43,377 --> 00:00:45,144
+    ...and hot air balloons.    
+
+8
+00:00:52,453 --> 00:00:56,054
+   it's an indisputable fact    
+   that seatbelts save lives.   
+
+9
+00:00:56,056 --> 00:00:58,457
+        when a car comes        
+        to a sudden stop,       
+
+10
+00:00:58,459 --> 00:01:00,926
+    the seatbelt prevents you   
+      from hurling forward.     
+
+11
+00:01:00,928 --> 00:01:02,994
+  it spreads the stopping force 
+
+12
+00:01:02,996 --> 00:01:04,596
+    across the sturdier parts   
+          of your body,         
+
+13
+00:01:04,598 --> 00:01:06,498
+namely your rib cage and pelvis.
+
+14
+00:01:06,500 --> 00:01:07,732
+      this spreading action     
+
+15
+00:01:07,734 --> 00:01:10,335
+      dilutes the strength      
+     of the stopping force,     
+
+16
+00:01:10,337 --> 00:01:11,904
+       minimizing injury.       
+
+17
+00:01:16,210 --> 00:01:19,011
+  before production can begin,  
+
+18
+00:01:19,013 --> 00:01:20,946
+    the factory has to adjust   
+       the seatbelt design      
+
+19
+00:01:20,948 --> 00:01:23,014
+ to fit the specific car model, 
+
+20
+00:01:23,016 --> 00:01:24,883
+   to make sure the belt path   
+            is clear,           
+
+21
+00:01:24,885 --> 00:01:27,619
+    that there's enough room    
+   for rotating parts to move,  
+
+22
+00:01:27,621 --> 00:01:29,154
+           and so on.           
+
+23
+00:01:29,156 --> 00:01:30,622
+      on the factory floor,     
+
+24
+00:01:30,624 --> 00:01:34,693
+      robots assemble most      
+  of the mechanical components. 
+
+25
+00:01:34,695 --> 00:01:37,095
+  this plastic disk, containing 
+     a spring and a weight,     
+
+26
+00:01:37,097 --> 00:01:38,697
+             is part            
+    of the locking mechanism.   
+
+27
+00:01:38,699 --> 00:01:41,700
+  it's what stops the seatbelt  
+  straps, called the webbing,   
+
+28
+00:01:41,702 --> 00:01:44,236
+        from lengthening        
+      when you jerk forward     
+
+29
+00:01:44,238 --> 00:01:47,039
+      due to a sudden stop      
+      or hard deceleration.     
+
+30
+00:01:47,041 --> 00:01:48,506
+      the locking mechanism     
+
+31
+00:01:48,508 --> 00:01:51,243
+    goes into the seatbelt's    
+      retractor mechanism,      
+
+32
+00:01:51,245 --> 00:01:53,979
+     the component that lets    
+ the webbing extend and retract.
+
+33
+00:01:53,981 --> 00:01:57,115
+      the webbing will wind     
+    onto this aluminum spool    
+
+34
+00:01:57,117 --> 00:01:58,450
+        in the retractor,       
+
+35
+00:01:58,452 --> 00:02:00,719
+a rewind spring keeping it taut.
+
+36
+00:02:00,721 --> 00:02:04,056
+       sudden deceleration      
+   will cause this silver ball  
+
+37
+00:02:04,058 --> 00:02:05,990
+           to trigger           
+     the locking mechanism.     
+
+38
+00:02:05,992 --> 00:02:09,862
+ this will stop the spool from  
+ rotating and lock the webbing. 
+
+39
+00:02:09,864 --> 00:02:11,263
+    this next robot assembles   
+
+40
+00:02:11,265 --> 00:02:13,665
+          what's called         
+   the pretensioner mechanism.  
+
+41
+00:02:13,667 --> 00:02:15,066
+   while the locking mechanism  
+
+42
+00:02:15,068 --> 00:02:17,068
+        stops the webbing       
+        from lengthening,       
+
+43
+00:02:17,070 --> 00:02:19,671
+ the pretensioner sharply pulls 
+        the webbing back,       
+
+44
+00:02:19,673 --> 00:02:21,006
+      tightening any slack.     
+
+45
+00:02:21,008 --> 00:02:24,343
+    the pretensioner kicks in   
+  only in the event of a crash. 
+
+46
+00:02:24,345 --> 00:02:27,145
+     the sudden deceleration    
+   on impact triggers sensors   
+
+47
+00:02:27,147 --> 00:02:30,081
+          which signal          
+   the air-bag control module   
+
+48
+00:02:30,083 --> 00:02:32,684
+  to send an electrical charge  
+      to the pretensioner.      
+
+49
+00:02:32,686 --> 00:02:35,086
+      this charge sets off      
+        a tiny explosion        
+
+50
+00:02:35,088 --> 00:02:37,222
+     that deslacks the belt.    
+
+51
+00:02:37,224 --> 00:02:40,759
+      this worker installs      
+      the explosive device,     
+
+52
+00:02:40,761 --> 00:02:44,096
+ called the micro gas generator,
+             or mgg.            
+
+53
+00:02:44,098 --> 00:02:47,366
+  after lubricating the inside  
+    of its aluminum cylinder    
+
+54
+00:02:47,368 --> 00:02:49,434
+          with grease,          
+
+55
+00:02:49,436 --> 00:02:51,703
+      she inserts a piston      
+          and the mgg.          
+
+56
+00:02:51,705 --> 00:02:55,106
+   the mgg contains a chemical  
+     called nitrocellulose.     
+
+57
+00:02:55,108 --> 00:02:58,443
+  the electrical charge coming  
+ from the air-bag control module
+
+58
+00:02:58,445 --> 00:03:01,780
+     ignites this chemical,     
+  causing a tiny gas explosion. 
+
+59
+00:03:01,782 --> 00:03:04,916
+     that generates pressure    
+      within the cylinder,      
+
+60
+00:03:04,918 --> 00:03:06,785
+    driving the piston upward   
+         at high speed.         
+
+61
+00:03:06,787 --> 00:03:10,522
+ this triggers a gear that winds
+  the retractor spool backward, 
+
+62
+00:03:10,524 --> 00:03:12,758
+       taking up any slack      
+         in the webbing.        
+
+63
+00:03:14,728 --> 00:03:17,930
+ after capping off the micro gas
+      generator's housing,      
+
+64
+00:03:17,932 --> 00:03:21,333
+ a robot transfers the completed
+     pretensioner mechanism     
+
+65
+00:03:21,335 --> 00:03:23,735
+    to the retractor's frame.   
+
+66
+00:03:23,737 --> 00:03:25,737
+        then it screws on       
+       a steel cover plate      
+
+67
+00:03:25,739 --> 00:03:27,706
+    to hold the pretensioner    
+            in place.           
+
+68
+00:03:31,011 --> 00:03:32,811
+ they install the rewind spring 
+
+69
+00:03:32,813 --> 00:03:35,280
+         onto the spool         
+   of the retractor mechanism.  
+
+70
+00:03:35,282 --> 00:03:38,217
+           this spring          
+   is what provides resistance  
+
+71
+00:03:38,219 --> 00:03:40,419
+  when you pull out the webbing 
+          to buckle up.         
+
+72
+00:03:40,421 --> 00:03:43,021
+    then, when you unbuckle,    
+      it rotates the spool      
+
+73
+00:03:43,023 --> 00:03:45,223
+     to rewind the webbing.     
+
+74
+00:03:45,225 --> 00:03:47,692
+     the car company decides    
+   what type of spring to use.  
+
+75
+00:03:47,694 --> 00:03:49,761
+     the thicker the spring     
+       and the more coils,      
+
+76
+00:03:49,763 --> 00:03:51,229
+    the greater the tension,    
+
+77
+00:03:51,231 --> 00:03:54,699
+    and therefore the faster    
+ and smoother the belt retracts.
+
+78
+00:03:54,701 --> 00:03:56,234
+  but the greater the tension,  
+
+79
+00:03:56,236 --> 00:04:00,038
+      the less comfortable      
+  the seatbelt is on the body.  
+
+80
+00:04:00,040 --> 00:04:02,640
+       the webbing is made      
+    of woven polyester fiber.   
+
+81
+00:04:02,642 --> 00:04:05,510
+    this machine sews one end   
+        over into a loop        
+
+82
+00:04:05,512 --> 00:04:08,513
+   for the pin that'll anchor   
+   the webbing to the spool.    
+
+83
+00:04:08,515 --> 00:04:11,183
+         the pin is made        
+   of either plastic or steel,  
+
+84
+00:04:11,185 --> 00:04:14,252
+      depending on the type     
+   of retractor they're using.  
+
+85
+00:04:14,254 --> 00:04:16,588
+  a worker now threads the end  
+        through a machine       
+
+86
+00:04:16,590 --> 00:04:18,390
+       that automatically       
+       winds the webbing        
+
+87
+00:04:18,392 --> 00:04:20,124
+    onto the retractor spool,   
+
+88
+00:04:20,126 --> 00:04:23,594
+       making sure the pin      
+      is properly attached.     
+
+89
+00:04:23,596 --> 00:04:27,265
+ at the same time, the machine  
+ checks the overall belt length 
+
+90
+00:04:27,267 --> 00:04:30,569
+    to make sure it conforms    
+ to the client's specifications.
+
+91
+00:04:37,611 --> 00:04:40,612
+        at this factory,        
+ every single seatbelt component
+
+92
+00:04:40,614 --> 00:04:43,348
+     has to pass a thorough     
+     quality-control check.     
+
+93
+00:04:43,350 --> 00:04:46,217
+      here a machine checks     
+      a key safety feature,     
+
+94
+00:04:46,219 --> 00:04:47,952
+  a lever-and-ratchet mechanism 
+
+95
+00:04:47,954 --> 00:04:50,555
+    that prevents the webbing   
+         from extending         
+
+96
+00:04:50,557 --> 00:04:52,958
+     after you've belted in     
+        a child car seat.       
+
+97
+00:04:54,994 --> 00:04:56,628
+   now for the final assembly.  
+
+98
+00:04:56,630 --> 00:04:59,297
+          workers load          
+all the seatbelt parts in a jig,
+
+99
+00:04:59,299 --> 00:05:01,433
+        a holding device        
+       that arranges them       
+
+100
+00:05:01,435 --> 00:05:02,968
+  in the proper configuration.  
+
+101
+00:05:02,970 --> 00:05:05,770
+   a worker feeds the webbing   
+   through the shoulder loop,   
+
+102
+00:05:05,772 --> 00:05:08,106
+   from which the belt hangs,   
+  and through the tongue plate, 
+
+103
+00:05:08,108 --> 00:05:10,508
+      the part that clicks      
+        into the buckle.        
+
+104
+00:05:10,510 --> 00:05:13,578
+      both these components     
+ are made of steel for strength,
+
+105
+00:05:13,580 --> 00:05:15,980
+     with plastic coverings     
+   matching the car interior.   
+
+106
+00:05:15,982 --> 00:05:18,383
+          the last step         
+      is to sew the anchor      
+
+107
+00:05:18,385 --> 00:05:21,053
+   to finish off the other end  
+         of the webbing.        
+
+108
+00:05:24,524 --> 00:05:27,592
+      every seatbelt design     
+ goes through extensive testing 
+
+109
+00:05:27,594 --> 00:05:29,327
+  before going into production. 
+
+110
+00:05:29,329 --> 00:05:30,595
+      this machine assesses     
+
+111
+00:05:30,597 --> 00:05:33,732
+    how much pull the webbing   
+   and retractor can withstand  
+
+112
+00:05:33,734 --> 00:05:35,267
+        before breaking.        
+
+113
+00:05:39,072 --> 00:05:42,073
+       this machine tests       
+    the webbing's durability,   
+
+114
+00:05:42,075 --> 00:05:44,943
+           running it           
+ through 50,000 abrasion cycles 
+
+115
+00:05:44,945 --> 00:05:48,213
+     to ensure the material     
+        doesn't wear out.       
+
+116
+00:06:02,830 --> 00:06:04,429
+            narrator:           
+      the earliest windows      
+
+117
+00:06:04,431 --> 00:06:06,631
+        were merely holes       
+       cut into the walls.      
+
+118
+00:06:06,633 --> 00:06:09,434
+ people living in warm climates 
+      left them uncovered,      
+
+119
+00:06:09,436 --> 00:06:12,170
+while people in harsher climates
+       used animals skins       
+
+120
+00:06:12,172 --> 00:06:13,972
+      to keep the cold out.     
+
+121
+00:06:13,974 --> 00:06:16,508
+ in the far east, people covered
+     the opening with paper.    
+
+122
+00:06:16,510 --> 00:06:18,109
+      then came glass panes     
+
+123
+00:06:18,111 --> 00:06:22,114
+ in sashes that swung in or out 
+  or hung one above the other.  
+
+124
+00:06:27,921 --> 00:06:31,456
+       this type of window      
+  is called a casement window.  
+
+125
+00:06:31,458 --> 00:06:34,593
+   a crank mechanism opens it   
+          at an angle.          
+
+126
+00:06:34,595 --> 00:06:37,328
+   to build the window frame,   
+       the factory begins       
+
+127
+00:06:37,330 --> 00:06:40,532
+    with 16 1/2-foot lengths    
+        of extruded pvc,        
+
+128
+00:06:40,534 --> 00:06:41,867
+       a type of plastic.       
+
+129
+00:06:41,869 --> 00:06:43,869
+ as clamps hold the pvc steady, 
+
+130
+00:06:43,871 --> 00:06:47,472
+ a computer-guided circular saw 
+     cuts the sizes required    
+
+131
+00:06:47,474 --> 00:06:49,007
+         for the frame.         
+
+132
+00:06:49,009 --> 00:06:51,609
+   the same machine also cuts   
+    the pieces for the sash,    
+
+133
+00:06:51,611 --> 00:06:54,879
+         the inner frame        
+        around the glass.       
+
+134
+00:06:54,881 --> 00:06:57,816
+       each frame is made       
+       from four pieces,        
+
+135
+00:06:57,818 --> 00:07:00,652
+     whose ends are mitered     
+     at a 45-degree angle.      
+
+136
+00:07:11,365 --> 00:07:13,264
+  now workers load eight pieces 
+
+137
+00:07:13,266 --> 00:07:15,967
+     onto a computer-guided     
+       welding machine --       
+
+138
+00:07:15,969 --> 00:07:18,904
+     eight, because it welds    
+      two frames at a time.     
+
+139
+00:07:18,906 --> 00:07:20,571
+     first a heating block,     
+
+140
+00:07:20,573 --> 00:07:23,842
+        whose temperature       
+   is 446 degrees fahrenheit,   
+
+141
+00:07:23,844 --> 00:07:25,710
+         melts the ends.        
+
+142
+00:07:25,712 --> 00:07:28,379
+        then the machine        
+      pushes them together.     
+
+143
+00:07:28,381 --> 00:07:30,549
+ they fuse, forming the frame's 
+          four corners.         
+
+144
+00:07:34,121 --> 00:07:36,955
+    here's the same process,    
+       viewed from above.       
+
+145
+00:07:44,264 --> 00:07:46,931
+     as the melted ends bond    
+         under pressure,        
+
+146
+00:07:46,933 --> 00:07:50,402
+      excess pvc oozes out      
+  at the joints, then hardens.  
+
+147
+00:07:50,404 --> 00:07:52,938
+        the next machine        
+       will clean that up.      
+
+148
+00:07:56,944 --> 00:08:00,479
+    a robot reads the profile   
+  of the specific frame style.  
+
+149
+00:08:00,481 --> 00:08:03,081
+        then it uses one        
+    of several cutting heads    
+
+150
+00:08:03,083 --> 00:08:05,684
+       to shave the excess      
+        off the corners.        
+
+151
+00:08:05,686 --> 00:08:08,553
+  from here, the sash and frame 
+       go to another area       
+
+152
+00:08:08,555 --> 00:08:10,588
+       to receive hinges.       
+
+153
+00:08:10,590 --> 00:08:13,491
+           meanwhile,           
+ workers cut the glass to size. 
+
+154
+00:08:13,493 --> 00:08:15,427
+  they start with a huge sheet, 
+
+155
+00:08:15,429 --> 00:08:17,963
+            measuring           
+  about 6 1/2 feet by 10 feet.. 
+
+156
+00:08:17,965 --> 00:08:20,499
+        it's very heavy,        
+        about 200 pounds.       
+
+157
+00:08:20,501 --> 00:08:22,901
+         so, they lay it        
+ on a specially designed table. 
+
+158
+00:08:22,903 --> 00:08:26,438
+      a blower sends up air     
+       through tiny holes.      
+
+159
+00:08:26,440 --> 00:08:29,040
+      this floats the glass     
+     just above the surface,    
+
+160
+00:08:29,042 --> 00:08:30,742
+ making it easy to move around. 
+
+161
+00:08:36,183 --> 00:08:39,851
+   they score the glass using   
+ a sharp carbide cutting wheel. 
+
+162
+00:08:39,853 --> 00:08:42,454
+      this window will have     
+   what's called a thermopane,  
+
+163
+00:08:42,456 --> 00:08:44,388
+       two panes of glass       
+    with argon gas in between   
+
+164
+00:08:44,390 --> 00:08:46,191
+         for insulation.        
+
+165
+00:08:46,193 --> 00:08:48,927
+      one of the panes has      
+ a transparent metallic coating 
+
+166
+00:08:48,929 --> 00:08:52,197
+      to reflect the heat       
+      back into the house.      
+
+167
+00:08:52,199 --> 00:08:54,132
+       they adhere a strip      
+        of silicone foam        
+
+168
+00:08:54,134 --> 00:08:56,267
+      around the perimeter      
+       of the first pane,       
+
+169
+00:08:56,269 --> 00:08:58,936
+   notching it for a good fit   
+       around the corners.      
+
+170
+00:08:58,938 --> 00:09:02,607
+ the foam is covered in a thin, 
+      strong polyester film     
+
+171
+00:09:02,609 --> 00:09:05,010
+       to prevent the gas       
+      from leaking through.     
+
+172
+00:09:05,012 --> 00:09:08,346
+ the strip is a spacer, creating
+   a gap between the two panes  
+
+173
+00:09:08,348 --> 00:09:10,348
+ that's just over 1/2 inch wide.
+
+174
+00:09:10,350 --> 00:09:11,950
+  that's where the gas will go. 
+
+175
+00:09:11,952 --> 00:09:14,151
+         they cut a hole        
+    at the top of the spacer    
+
+176
+00:09:14,153 --> 00:09:15,487
+   and another at the bottom.   
+
+177
+00:09:15,489 --> 00:09:17,155
+     you'll see why shortly.    
+
+178
+00:09:20,761 --> 00:09:24,563
+ this window features decorative
+  grid work called muntin bars. 
+
+179
+00:09:24,565 --> 00:09:28,099
+    they're made of aluminum    
+  and go between the two panes. 
+
+180
+00:09:28,101 --> 00:09:30,835
+     a worker lays the bars     
+      onto the first pane,      
+
+181
+00:09:30,837 --> 00:09:34,306
+  then uses this guide to line  
+  them up perfectly straight.   
+
+182
+00:09:37,110 --> 00:09:39,310
+  then she puts the second pane 
+             on top.            
+
+183
+00:09:39,312 --> 00:09:42,347
+    it sticks to the exposed    
+  adhesive edge of the spacer.  
+
+184
+00:09:44,851 --> 00:09:47,385
+   now the double-paned glass   
+      goes through a press,     
+
+185
+00:09:47,387 --> 00:09:48,786
+  whose rollers apply pressure  
+
+186
+00:09:48,788 --> 00:09:52,357
+       to ensure a strong       
+and thorough bond to the spacer.
+
+187
+00:09:54,528 --> 00:09:58,263
+after the glass exits the press,
+    workers pump in argon gas   
+
+188
+00:09:58,265 --> 00:10:01,199
+        through that hole       
+  at the bottom of the spacer.  
+
+189
+00:10:01,201 --> 00:10:03,201
+    the speed of the gas flow   
+          is critical.          
+
+190
+00:10:03,203 --> 00:10:04,669
+  if they pump it in too fast,  
+
+191
+00:10:04,671 --> 00:10:07,605
+     it'll mix with the air     
+     in between the panes,      
+
+192
+00:10:07,607 --> 00:10:11,609
+ rather than push it through the
+ hole at the top of the spacer. 
+
+193
+00:10:11,611 --> 00:10:13,211
+    after plugging the holes,   
+
+194
+00:10:13,213 --> 00:10:16,081
+      they coat the spacer      
+   in a polyurethane sealant.   
+
+195
+00:10:16,083 --> 00:10:20,285
+    this makes the thermopane   
+      completely airtight.      
+
+196
+00:10:20,287 --> 00:10:22,654
+      now it's ready to go      
+          in the sash.          
+
+197
+00:10:28,761 --> 00:10:32,097
+    a piece of pvc called the   
+  glazing stop holds it there.  
+
+198
+00:10:32,099 --> 00:10:34,499
+      they snap it in place     
+         using a roller.        
+
+199
+00:10:36,503 --> 00:10:37,836
+       a little pvc cement      
+
+200
+00:10:37,838 --> 00:10:40,905
+ to seal off any miniscule gaps 
+         in the corners,        
+
+201
+00:10:40,907 --> 00:10:43,642
+       then the sash goes       
+     into the window frame.     
+
+202
+00:10:47,647 --> 00:10:51,049
+  their respective hinge parts  
+      simply snap together.     
+
+203
+00:10:51,051 --> 00:10:54,953
+  the last step is to snap the  
+frame's crank arm onto the sash.
+
+204
+00:11:13,006 --> 00:11:15,473
+   narrator: making religious   
+      figurines out of wax      
+
+205
+00:11:15,475 --> 00:11:18,142
+    is a tradition the french   
+    brought to the new world.   
+
+206
+00:11:18,144 --> 00:11:19,344
+     for hundreds of years,     
+
+207
+00:11:19,346 --> 00:11:22,347
+       this delicate craft      
+   wasn't open to just anyone.  
+
+208
+00:11:22,349 --> 00:11:25,283
+     the technique remained     
+    a closely guarded secret,   
+
+209
+00:11:25,285 --> 00:11:27,218
+practiced only by monks and nuns
+
+210
+00:11:27,220 --> 00:11:30,722
+     within the confines of     
+ their monasteries and convents.
+
+211
+00:11:37,164 --> 00:11:39,898
+        this artisan uses       
+    a centuries-old technique   
+
+212
+00:11:39,900 --> 00:11:43,167
+  to restore antique figurines  
+      and to make new ones.     
+
+213
+00:11:43,169 --> 00:11:46,036
+  she begins with pure beeswax, 
+          paraffin wax,         
+
+214
+00:11:46,038 --> 00:11:49,440
+   some powdered chalk to make  
+   the waxes less transparent,  
+
+215
+00:11:49,442 --> 00:11:53,178
+  and a bit of solid animal fat 
+  to make the wax less fragile  
+
+216
+00:11:53,180 --> 00:11:54,311
+        once it hardens.        
+
+217
+00:11:54,313 --> 00:11:57,382
+she heats the can of ingredients
+        in a pot of water       
+
+218
+00:11:57,384 --> 00:11:58,783
+      for about two hours,      
+
+219
+00:11:58,785 --> 00:12:01,586
+    until everything's melted   
+         and homogenous.        
+
+220
+00:12:01,588 --> 00:12:04,923
+   then she tints the mixture   
+   using oil-paint pigments.    
+
+221
+00:12:04,925 --> 00:12:06,524
+    there's no exact recipe.    
+
+222
+00:12:06,526 --> 00:12:09,794
+    she goes by gut feeling,    
+  fiddling with various colors  
+
+223
+00:12:09,796 --> 00:12:13,464
+  until she creates the exact   
+  skin tone she's looking for.  
+
+224
+00:12:13,466 --> 00:12:15,934
+  once she's certain the color  
+     is uniform throughout,     
+
+225
+00:12:15,936 --> 00:12:18,536
+      she pours the mixture     
+       through a stocking.      
+
+226
+00:12:18,538 --> 00:12:20,538
+        this filters out        
+        any contaminants        
+
+227
+00:12:20,540 --> 00:12:23,007
+    or undissolved particles.   
+
+228
+00:12:23,009 --> 00:12:25,810
+    now she pours the mixture   
+      into a plaster mold.      
+
+229
+00:12:25,812 --> 00:12:28,780
+    there's a different mold    
+    for each figurine model.    
+
+230
+00:12:32,285 --> 00:12:34,485
+    this one's a baby jesus.    
+
+231
+00:12:34,487 --> 00:12:37,555
+ the wax takes about 10 minutes 
+          to solidify.          
+
+232
+00:12:37,557 --> 00:12:39,490
+ the figurine comes out easily, 
+
+233
+00:12:39,492 --> 00:12:42,760
+     because she had greased    
+   the mold cavity beforehand   
+
+234
+00:12:42,762 --> 00:12:44,829
+    with filtered sheep fat.    
+
+235
+00:12:44,831 --> 00:12:47,699
+   the figurine at this point   
+
+236
+00:12:47,701 --> 00:12:49,834
+         is firm enough         
+    to extract from the mold    
+
+237
+00:12:49,836 --> 00:12:52,070
+but still soft enough to sculpt.
+
+238
+00:13:00,713 --> 00:13:03,514
+     with a very fine blade     
+  that she heats over a flame,  
+
+239
+00:13:03,516 --> 00:13:07,452
+  the artisan now scrapes away  
+  the seam left by excess wax   
+
+240
+00:13:07,454 --> 00:13:10,789
+    that oozed out of the gap   
+ between the mold's two halves. 
+
+241
+00:13:13,860 --> 00:13:16,527
+   then she runs the figurine   
+        through the flame       
+
+242
+00:13:16,529 --> 00:13:19,264
+  just long enough to melt off  
+        any wax particles       
+
+243
+00:13:19,266 --> 00:13:20,999
+  left behind by the scraping.  
+
+244
+00:13:21,001 --> 00:13:23,734
+   after smoothing the surface  
+         with a solvent,        
+
+245
+00:13:23,736 --> 00:13:27,005
+    she signs the back of the   
+   figurine with her initials,  
+
+246
+00:13:27,007 --> 00:13:31,376
+ then uses the flame once again 
+to melt off the scraped-out wax.
+
+247
+00:13:34,013 --> 00:13:36,347
+  now that the figurine's body  
+          is finished,          
+
+248
+00:13:36,349 --> 00:13:38,817
+ she can begin the detail work. 
+
+249
+00:13:38,819 --> 00:13:42,020
+      she melts pine resin      
+   with beeswax to make glue,   
+
+250
+00:13:42,022 --> 00:13:44,656
+         then brushes it        
+     on the figurine's head.    
+
+251
+00:13:48,228 --> 00:13:50,762
+     then she takes strands     
+        of human hair --        
+
+252
+00:13:50,764 --> 00:13:53,497
+      clients often supply      
+    their children's hair --    
+
+253
+00:13:53,499 --> 00:13:56,767
+    and soaks them in water.    
+
+254
+00:13:56,769 --> 00:13:58,969
+   she wets strips of fabric,   
+            as well.            
+
+255
+00:13:58,971 --> 00:14:01,772
+    then she rolls the hair     
+    around a knitting needle    
+
+256
+00:14:01,774 --> 00:14:03,107
+      to make curly locks.      
+
+257
+00:14:03,109 --> 00:14:05,510
+      she winds the fabric      
+         over the curls         
+
+258
+00:14:05,512 --> 00:14:08,179
+      to hold them in place     
+       until they air-dry.      
+
+259
+00:14:08,181 --> 00:14:09,981
+   if she's pressed for time,   
+
+260
+00:14:09,983 --> 00:14:12,317
+   she'll dry them in the oven  
+          on low heat.          
+
+261
+00:14:12,319 --> 00:14:14,853
+      to make bigger curls      
+     for a larger figurine,     
+
+262
+00:14:14,855 --> 00:14:17,722
+         she simply uses        
+   a thicker knitting needle.   
+
+263
+00:14:17,724 --> 00:14:20,992
+     now, using a hot blade     
+to reheat and activate the glue,
+
+264
+00:14:20,994 --> 00:14:23,862
+she applies each length of curls
+          individually.         
+
+265
+00:14:38,745 --> 00:14:41,145
+       once she's finished      
+       covering the head,       
+
+266
+00:14:41,147 --> 00:14:43,881
+   she attaches a little halo   
+       made of brass wire,      
+
+267
+00:14:43,883 --> 00:14:46,618
+ heating the end so that the wax
+        melts on contact        
+
+268
+00:14:46,620 --> 00:14:48,319
+    and holds it in position.   
+
+269
+00:14:56,162 --> 00:14:57,762
+now, using a small, pointed tool
+
+270
+00:14:57,764 --> 00:14:59,964
+    that she repeatedly heats   
+          on the flame,         
+
+271
+00:14:59,966 --> 00:15:02,100
+           she sculpts          
+   the fine facial details --   
+
+272
+00:15:02,102 --> 00:15:06,304
+      the figurine's eyes,      
+  eyelids, nostrils, and lips.  
+
+273
+00:15:18,651 --> 00:15:22,220
+     again, a little solvent    
+  cleans off the wax particles. 
+
+274
+00:15:27,127 --> 00:15:29,527
+  now she brushes the figurine  
+           head to toe          
+
+275
+00:15:29,529 --> 00:15:31,796
+   with powder made of pumice   
+          and pigment.          
+
+276
+00:15:31,798 --> 00:15:36,067
+  this will help the watercolor 
+    paints adhere to the wax.   
+
+277
+00:15:36,069 --> 00:15:39,637
+  she paints the eyes, lashes,  
+        brows, and lips.        
+
+278
+00:15:52,685 --> 00:15:54,018
+      once the paint dries,     
+
+279
+00:15:54,020 --> 00:15:56,554
+ she applies a touch of varnish 
+           to the eyes          
+
+280
+00:15:56,556 --> 00:15:58,656
+ to make them shiny and bright. 
+
+281
+00:16:04,497 --> 00:16:06,163
+     once the varnish dries,    
+
+282
+00:16:06,165 --> 00:16:09,901
+    she dresses the figurine    
+and positions it in its setting.
+
+283
+00:16:23,249 --> 00:16:26,718
+            narrator:           
+    the first passengers ever   
+  to ride in a hot air balloon  
+
+284
+00:16:26,720 --> 00:16:29,120
+          were a sheep,         
+     a duck, and a chicken.     
+
+285
+00:16:29,122 --> 00:16:32,991
+    that eight-minute flight    
+  took place in france in 1783. 
+
+286
+00:16:32,993 --> 00:16:35,726
+    today's hot air balloons    
+  work on the same principle -- 
+
+287
+00:16:35,728 --> 00:16:37,328
+    the burner heats the air,   
+
+288
+00:16:37,330 --> 00:16:39,530
+      the balloon envelope      
+         holds the air,         
+
+289
+00:16:39,532 --> 00:16:42,066
+         and the basket         
+     carries the passengers.    
+
+290
+00:16:46,272 --> 00:16:49,407
+   hot air balloons fall under  
+government aircraft regulations,
+
+291
+00:16:49,409 --> 00:16:51,141
+so their engineering has to meet
+
+292
+00:16:51,143 --> 00:16:53,744
+    very specific performance   
+      and safety standards.     
+
+293
+00:16:53,746 --> 00:16:55,946
+    once the technical design   
+         gets approval,         
+
+294
+00:16:55,948 --> 00:16:58,015
+        the factory works       
+     on the graphic design.     
+
+295
+00:16:58,017 --> 00:17:00,350
+      the computer renders      
+     the graphics into plans    
+
+296
+00:17:00,352 --> 00:17:02,553
+          that resemble         
+     a giant jigsaw puzzle.     
+
+297
+00:17:02,555 --> 00:17:04,288
+  each piece has a code number. 
+
+298
+00:17:04,290 --> 00:17:07,358
+     the computer generates     
+ a paper template for each one. 
+
+299
+00:17:07,360 --> 00:17:09,894
+      balloons usually fly      
+      in the early morning,     
+
+300
+00:17:09,896 --> 00:17:12,163
+     when there's still dew     
+         on the ground.         
+
+301
+00:17:12,165 --> 00:17:15,166
+ so, the nylon fabric with which
+ they make the balloon envelope 
+
+302
+00:17:15,168 --> 00:17:16,567
+     has a silicone coating     
+
+303
+00:17:16,569 --> 00:17:19,236
+  to repel moisture that would  
+    generate mold and mildew.   
+
+304
+00:17:19,238 --> 00:17:22,306
+   after tracing each template  
+      with grease pencils,      
+
+305
+00:17:22,308 --> 00:17:23,707
+   they cut the fabric by hand  
+
+306
+00:17:23,709 --> 00:17:25,242
+   and mark the corresponding   
+           code number          
+
+307
+00:17:25,244 --> 00:17:27,145
+   on the back of each piece.   
+
+308
+00:17:33,920 --> 00:17:35,386
+    then, following the plan,   
+
+309
+00:17:35,388 --> 00:17:38,523
+  seamstresses sew the pieces   
+  together like a giant quilt,  
+
+310
+00:17:38,525 --> 00:17:41,458
+    using heavy-duty thread.    
+
+311
+00:17:41,460 --> 00:17:44,595
+  the type of seam they stitch  
+  is the strongest possible --  
+
+312
+00:17:44,597 --> 00:17:46,997
+what you typically see on jeans.
+
+313
+00:17:46,999 --> 00:17:49,934
+   they sew the seams to nylon  
+     straps, called webbing.    
+
+314
+00:17:49,936 --> 00:17:52,470
+   these run both horizontally  
+         and vertically,        
+
+315
+00:17:52,472 --> 00:17:53,737
+      forming a giant grid.     
+
+316
+00:17:53,739 --> 00:17:55,205
+     should the fabric rip,     
+
+317
+00:17:55,207 --> 00:17:59,010
+  the seam and webbing combined 
+prevent the tear from spreading.
+
+318
+00:17:59,012 --> 00:18:01,345
+  hot air balloons often carry  
+        a corporate logo.       
+
+319
+00:18:01,347 --> 00:18:03,881
+    workers divide the design   
+        into components,        
+
+320
+00:18:03,883 --> 00:18:06,484
+        project each one        
+     onto a piece of fabric,    
+
+321
+00:18:06,486 --> 00:18:09,486
+    trace it, and cut it out.   
+
+322
+00:18:09,488 --> 00:18:10,888
+        they first glue,        
+
+323
+00:18:10,890 --> 00:18:13,958
+   then sew the components to   
+ the balloon in one of two ways 
+
+324
+00:18:13,960 --> 00:18:17,128
+     either into the fabric,    
+or on top of it, as we see here.
+
+325
+00:18:19,632 --> 00:18:21,031
+ stainless-steel aircraft cable 
+
+326
+00:18:21,033 --> 00:18:24,302
+  connects the balloon envelope 
+      to the basket below.      
+
+327
+00:18:24,304 --> 00:18:27,438
+ workers slip a plastic sleeve, 
+      then a copper sleeve      
+
+328
+00:18:27,440 --> 00:18:29,607
+          over one end,         
+      then loop the cable.      
+
+329
+00:18:32,044 --> 00:18:34,711
+       they line the loop       
+ with a stainless-steel thimble.
+
+330
+00:18:34,713 --> 00:18:37,114
+    this thimble will protect   
+       the aircraft cable       
+
+331
+00:18:37,116 --> 00:18:38,983
+           from damage          
+      due to wear and tear.     
+
+332
+00:18:38,985 --> 00:18:43,621
+  they crimp the copper sleeve  
+        to lock the loop.       
+
+333
+00:18:50,930 --> 00:18:53,063
+          after taking          
+      various measurements      
+
+334
+00:18:53,065 --> 00:18:56,267
+  to ensure everything conforms 
+    to strict specifications,   
+
+335
+00:18:56,269 --> 00:18:59,137
+ they wrap tape around the sharp
+        end of the crimp,       
+
+336
+00:18:59,139 --> 00:19:01,539
+           then, using          
+     an industrial heat gun,    
+
+337
+00:19:01,541 --> 00:19:05,476
+ shrink-wrap the plastic sleeve 
+ over it to seal the connection.
+
+338
+00:19:10,016 --> 00:19:13,618
+  the basket is made of wicker  
+  or a similar natural material 
+
+339
+00:19:13,620 --> 00:19:15,886
+              woven             
+  over a stainless-steel frame. 
+
+340
+00:19:15,888 --> 00:19:17,421
+    wicker is flexible enough   
+
+341
+00:19:17,423 --> 00:19:19,823
+       to absorb the shock      
+       of a bumpy landing.      
+
+342
+00:19:19,825 --> 00:19:22,159
+   they cover the bottom edge   
+          with rawhide          
+
+343
+00:19:22,161 --> 00:19:25,696
+   to protect the wicker when   
+ it scrapes against the ground. 
+
+344
+00:19:25,698 --> 00:19:28,966
+  they pad, then cover the top  
+    edge in suede or leather    
+
+345
+00:19:28,968 --> 00:19:31,936
+ for comfort when you're leaning
+    on it to admire the view.   
+
+346
+00:19:33,840 --> 00:19:37,441
+    these nylon poles, called   
+  uprights, fit into the frame. 
+
+347
+00:19:37,443 --> 00:19:40,244
+    they support the burners    
+        above the basket.       
+
+348
+00:19:40,246 --> 00:19:42,380
+      hot air balloons run      
+           on propane,          
+
+349
+00:19:42,382 --> 00:19:45,716
+         the same stuff         
+       gas barbecues use.       
+
+350
+00:19:45,718 --> 00:19:49,987
+    only a barbecue produces    
+   about 70,000 btus of heat,   
+
+351
+00:19:49,989 --> 00:19:52,723
+    while a hot air balloon's   
+      two burners together      
+
+352
+00:19:52,725 --> 00:19:57,928
+    generate 30 million btus,   
+enough to warm a large building.
+
+353
+00:19:57,930 --> 00:20:01,398
+   after connecting the basket  
+to the burner frame with cables,
+
+354
+00:20:01,400 --> 00:20:04,468
+    they cover the cables and   
+ uprights in protective padding.
+
+355
+00:20:04,470 --> 00:20:07,205
+   then they hook up the hoses  
+    running from the burners    
+
+356
+00:20:07,207 --> 00:20:09,607
+      to the propane tanks      
+      housed in the basket.     
+
+357
+00:20:11,944 --> 00:20:13,744
+   now for the final assembly.  
+
+358
+00:20:13,746 --> 00:20:16,614
+   first, they tip the basket   
+         onto its side.         
+
+359
+00:20:16,616 --> 00:20:19,616
+   then they take those looped  
+    cables they made earlier    
+
+360
+00:20:19,618 --> 00:20:22,486
+  and hook one end to the frame 
+      of the burner system.     
+
+361
+00:20:22,488 --> 00:20:25,823
+ the other end is already hooked
+  up to the balloon envelope -- 
+
+362
+00:20:25,825 --> 00:20:28,425
+   one cable to every vertical  
+        strip of webbing.       
+
+363
+00:20:28,427 --> 00:20:33,497
+depending on its size, a balloon
+ has between 12 and 28 of them. 
+
+364
+00:20:33,499 --> 00:20:36,367
+     they form the skeleton     
+         of the balloon,        
+
+365
+00:20:36,369 --> 00:20:38,903
+carrying the weight of the craft
+       and its passengers.      
+
+366
+00:20:41,374 --> 00:20:43,774
+        after laying out        
+      the balloon envelope,     
+
+367
+00:20:43,776 --> 00:20:46,910
+  they use a fan to inflate it  
+     partway with cold air.     
+
+368
+00:20:46,912 --> 00:20:48,512
+   this takes 5 to 20 minutes,  
+
+369
+00:20:48,514 --> 00:20:50,848
+      depending on the size     
+         of the balloon.        
+
+370
+00:20:50,850 --> 00:20:53,918
+  then they fire up the burners 
+      to heat the cold air.     
+
+371
+00:20:53,920 --> 00:20:56,186
+it expands to fill the envelope.
+
+372
+00:20:56,188 --> 00:20:59,590
+   the fabric near the burners  
+       is fire-resistant.       
+
+373
+00:20:59,592 --> 00:21:03,261
+   because hot air weighs less  
+    than cold air, it rises,    
+
+374
+00:21:03,263 --> 00:21:06,196
+   pulling the balloon upright  
+       and off the ground.      
+
+375
+00:21:06,198 --> 00:21:07,798
+  you control vertical movement 
+
+376
+00:21:07,800 --> 00:21:10,600
+  by manipulating the envelope  
+        air temperature.        
+
+377
+00:21:10,602 --> 00:21:13,204
+       to ascend, you turn      
+    the burner flames higher.   
+
+378
+00:21:13,206 --> 00:21:16,207
+  to descend, you pull a cord   
+  to vent hot air out the top.  
+
+379
+00:21:16,209 --> 00:21:18,342
+     you can't really steer     
+          horizontally.         
+
+380
+00:21:18,344 --> 00:21:21,212
+      the trick is to ride      
+    different wind currents.    
+
+381
+00:21:27,019 --> 00:21:29,220
+    if you have any comments    
+         about the show,        
+
+382
+00:21:29,222 --> 00:21:31,822
+   or if you'd like to suggest  
+    topics for future shows,    
+
+383
+00:21:31,824 --> 00:21:33,891
+      drop us a line at...      
+

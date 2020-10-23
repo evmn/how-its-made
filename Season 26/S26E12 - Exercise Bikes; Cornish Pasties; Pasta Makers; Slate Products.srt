@@ -1,0 +1,1599 @@
+﻿1
+00:00:01,603 --> 00:00:04,670
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,672 --> 00:00:07,673
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:54,455 --> 00:00:58,791
+  narrator: exercise bikes can  
+     provide a great cardio     
+            workout.            
+
+4
+00:00:58,793 --> 00:01:00,058
+    their tension settings      
+
+5
+00:01:00,060 --> 00:01:04,196
+  are equivalent to the gears   
+        on a road bike.         
+
+6
+00:01:04,198 --> 00:01:07,532
+     cyclists can adjust the    
+             tension            
+   to control the intensity     
+
+7
+00:01:07,534 --> 00:01:10,836
+       of their workout,        
+    all while staying in one    
+             place.             
+
+8
+00:01:15,143 --> 00:01:19,277
+    riding an exercise bike     
+    can help burn calories,     
+
+9
+00:01:19,279 --> 00:01:22,415
+       increase strength,       
+   and reach fitness goals.     
+
+10
+00:01:24,351 --> 00:01:27,285
+      they start by making      
+        the bike frame,         
+
+11
+00:01:27,287 --> 00:01:29,822
+ which includes the handlebars, 
+         saddle post,           
+
+12
+00:01:29,824 --> 00:01:32,157
+     and flywheel housing.      
+
+13
+00:01:32,159 --> 00:01:36,962
+   an employee places all the   
+              parts             
+     in a welding fixture.      
+
+14
+00:01:36,964 --> 00:01:39,699
+       the welding system       
+       is computerized.         
+
+15
+00:01:39,701 --> 00:01:42,634
+  the fixture moves the parts   
+         into position          
+
+16
+00:01:42,636 --> 00:01:46,205
+     and a robot accurately     
+welds the joints of the frame.  
+
+17
+00:01:48,509 --> 00:01:53,045
+   it takes 20 welds to link    
+    all the parts of the bike   
+             frame.             
+
+18
+00:01:53,047 --> 00:01:56,648
+ at the next station, a machine 
+     shapes the handlebars      
+
+19
+00:01:56,650 --> 00:01:58,584
+        and saddle post         
+    to the correct profile.     
+
+20
+00:02:02,390 --> 00:02:05,658
+    then, a worker polishes     
+ the welds with a wire brush.   
+
+21
+00:02:08,396 --> 00:02:12,130
+    next, they apply a black    
+             plastic            
+     finish to the metal.       
+
+22
+00:02:12,132 --> 00:02:15,201
+     this process is called     
+        powder coating.         
+
+23
+00:02:15,203 --> 00:02:18,537
+ an employee applies a metallic 
+   decal of the company name    
+
+24
+00:02:18,539 --> 00:02:20,072
+  to the powder-coated frame.   
+
+25
+00:02:23,444 --> 00:02:26,278
+     he inserts the bearing     
+   for the pedal crank axle     
+
+26
+00:02:26,280 --> 00:02:28,614
+ and gently taps it into place  
+        with a hammer.          
+
+27
+00:02:30,284 --> 00:02:32,818
+  he attaches a circuit board   
+         to the base.           
+
+28
+00:02:32,820 --> 00:02:36,222
+ it will control the resistance 
+       of the flywheel.         
+
+29
+00:02:36,224 --> 00:02:38,624
+     he threads the wiring      
+   through the hollow frame     
+
+30
+00:02:38,626 --> 00:02:40,326
+  and out the handlebar post.   
+
+31
+00:02:43,497 --> 00:02:46,498
+        he drills holes         
+   in the saddle-bar tubing,    
+
+32
+00:02:46,500 --> 00:02:49,735
+   then, he installs the post   
+ and adjustable locking screw.  
+
+33
+00:02:52,373 --> 00:02:56,441
+     he installs a temporary    
+            clamping            
+      lever on the flywheel     
+           framework,           
+
+34
+00:02:56,443 --> 00:02:59,078
+ which will be used to tension  
+    the transmission build.     
+
+35
+00:03:03,251 --> 00:03:05,117
+ he installs the bike saddle.   
+
+36
+00:03:07,455 --> 00:03:11,123
+    then, he uses a hydraulic   
+             system             
+ to press an axle and bearing   
+
+37
+00:03:11,125 --> 00:03:12,825
+     into the center of the     
+           flywheel.            
+
+38
+00:03:18,532 --> 00:03:21,133
+ he places a product-name decal 
+       on the flywheel.         
+
+39
+00:03:23,003 --> 00:03:27,005
+     the cast-iron flywheel     
+   is the heart of the bike.    
+
+40
+00:03:27,007 --> 00:03:30,476
+ at about 40 pounds, it's heavy 
+ enough to stabilize the bike   
+
+41
+00:03:30,478 --> 00:03:32,044
+  during the stationary ride.   
+
+42
+00:03:36,217 --> 00:03:40,018
+ he loops the transmission belt 
+   around the flywheel axle,    
+
+43
+00:03:40,020 --> 00:03:42,288
+    then mounts the flywheel    
+       to the framework.        
+
+44
+00:03:44,491 --> 00:03:48,894
+   he installs magnetic brakes  
+               and              
+wires them to a bike computer.  
+
+45
+00:03:48,896 --> 00:03:51,363
+   the brakes allow the rider   
+   to control the resistance    
+
+46
+00:03:51,365 --> 00:03:52,631
+       during the ride.         
+
+47
+00:03:55,436 --> 00:03:58,037
+  he connects the pulley disk   
+   to the front of the bike.    
+
+48
+00:04:01,441 --> 00:04:03,976
+  then, he loops the other end  
+   of the transmission belt     
+
+49
+00:04:03,978 --> 00:04:05,077
+    around the pulley disk.     
+
+50
+00:04:06,847 --> 00:04:10,182
+    he uses a clamping lever    
+    to pull the belt tight.     
+
+51
+00:04:10,184 --> 00:04:12,117
+          he strums it          
+    and measures the sound      
+
+52
+00:04:12,119 --> 00:04:13,753
+     to confirm the tension     
+           is right.            
+
+53
+00:04:15,389 --> 00:04:17,455
+        the next worker         
+       removes the clamp        
+
+54
+00:04:17,457 --> 00:04:21,126
+      and places the bike       
+      in a test station.        
+
+55
+00:04:21,128 --> 00:04:24,330
+     it spins the flywheel      
+    and applies resistance.     
+
+56
+00:04:24,332 --> 00:04:26,665
+      a computer analyzes       
+    the bike's performance.     
+
+57
+00:04:28,535 --> 00:04:30,803
+        another employee        
+      wires the switches        
+
+58
+00:04:30,805 --> 00:04:33,038
+         for increasing         
+  and decreasing resistance.    
+
+59
+00:04:34,808 --> 00:04:37,676
+      she tucks the wiring      
+    inside the handlebars.      
+
+60
+00:04:37,678 --> 00:04:40,011
+     she attaches switches      
+        to the outside          
+
+61
+00:04:40,013 --> 00:04:41,714
+        for easy access         
+       during the ride.         
+
+62
+00:04:45,686 --> 00:04:48,888
+    she folds the lower half    
+  of the resistance wiring up   
+
+63
+00:04:48,890 --> 00:04:52,057
+ and installs the wiring sleeve 
+  in between the handlebars.    
+
+64
+00:04:54,295 --> 00:04:57,029
+     she screws the bracket     
+   to the handlebar housing,    
+
+65
+00:04:57,031 --> 00:04:59,765
+  then, she connects the wires  
+     to the ride computer       
+
+66
+00:04:59,767 --> 00:05:01,567
+     and attaches it to the     
+            bracket.            
+
+67
+00:05:03,503 --> 00:05:04,770
+    she opens the computer      
+
+68
+00:05:04,772 --> 00:05:08,707
+ and plugs the main power cable 
+        into the back.          
+
+69
+00:05:08,709 --> 00:05:12,577
+      then, she reinstalls      
+  the computer's back panel.    
+
+70
+00:05:12,579 --> 00:05:14,547
+         this completes         
+    the handlebar assembly.     
+
+71
+00:05:16,450 --> 00:05:19,051
+    the next worker encases     
+     the transmission belt      
+
+72
+00:05:19,053 --> 00:05:21,320
+      and electrical parts      
+     in a plastic housing.      
+
+73
+00:05:24,658 --> 00:05:26,692
+     he attaches the pedals     
+         to the axle.           
+
+74
+00:05:28,529 --> 00:05:30,929
+        then, he places         
+   plastic caps on the ends     
+
+75
+00:05:30,931 --> 00:05:32,698
+ and hammers them into place.   
+
+76
+00:05:35,803 --> 00:05:39,038
+    he packages the bike and    
+handlebar assembly separately.  
+
+77
+00:05:43,410 --> 00:05:47,680
+       this exercise bike       
+     is now ready to ride.      
+
+78
+00:05:47,682 --> 00:05:50,816
+     it may be stationary,      
+but, when it comes to fitness,  
+
+79
+00:05:50,818 --> 00:05:53,819
+     this bike should help      
+    riders go the distance.     
+
+80
+00:06:08,235 --> 00:06:10,769
+   a pasty is a common british  
+              meal              
+         consisting of          
+
+81
+00:06:10,771 --> 00:06:13,171
+  meat and vegetables wrapped   
+         in a pastry.           
+
+82
+00:06:13,173 --> 00:06:16,575
+    historically, the cornish   
+              pasty             
+   was served as a convenient   
+              meal              
+
+83
+00:06:16,577 --> 00:06:19,577
+   for miners in the cornwall   
+              area              
+    of the united kingdom.      
+
+84
+00:06:19,579 --> 00:06:21,647
+        the crimped edge        
+      served as a handle,       
+
+85
+00:06:21,649 --> 00:06:23,849
+        allowing workers        
+      to enjoy their food       
+
+86
+00:06:23,851 --> 00:06:26,285
+    without contaminating it    
+    with their dirty hands.     
+
+87
+00:06:29,790 --> 00:06:31,924
+       the cornish pasty        
+     is the national dish       
+
+88
+00:06:31,926 --> 00:06:33,926
+    of cornwall in the uk.      
+
+89
+00:06:33,928 --> 00:06:35,327
+  its signature crimped edge,   
+
+90
+00:06:35,329 --> 00:06:37,396
+           along with           
+    other characteristics,      
+
+91
+00:06:37,398 --> 00:06:39,798
+         are culturally         
+  and commercially protected.   
+
+92
+00:06:39,800 --> 00:06:41,866
+      under european union      
+         regulations,           
+
+93
+00:06:41,868 --> 00:06:44,736
+     only pasties made the      
+  traditional way in cornwall   
+
+94
+00:06:44,738 --> 00:06:46,772
+     can be sold as cornish     
+            pasties.            
+
+95
+00:06:48,742 --> 00:06:52,211
+     the traditional recipe     
+   begins with pastry dough.    
+
+96
+00:06:52,213 --> 00:06:55,147
+      workers combine lard      
+         and margarine          
+
+97
+00:06:55,149 --> 00:06:58,417
+     with salt and flour.       
+
+98
+00:06:58,419 --> 00:07:00,953
+   they mix these ingredients   
+         at low speeds          
+
+99
+00:07:00,955 --> 00:07:04,690
+   so they don't overheat the   
+             fats.              
+
+100
+00:07:04,692 --> 00:07:07,625
+         the solid fats         
+      break up gradually        
+
+101
+00:07:07,627 --> 00:07:09,361
+          and combine           
+    with the flour and salt     
+
+102
+00:07:09,363 --> 00:07:12,898
+            to form             
+  a bread-crumb-like texture.   
+
+103
+00:07:12,900 --> 00:07:15,567
+   after about five minutes,    
+        they add water.         
+
+104
+00:07:15,569 --> 00:07:17,502
+   then, they resume mixing,    
+        until the dough         
+
+105
+00:07:17,504 --> 00:07:20,773
+reaches the right consistency.  
+
+106
+00:07:20,775 --> 00:07:23,709
+    they let the dough rest     
+      for about an hour.        
+
+107
+00:07:23,711 --> 00:07:26,245
+    this relaxes the gluten     
+         in the flour,          
+
+108
+00:07:26,247 --> 00:07:29,381
+      preventing the dough      
+ from shrinking when it bakes.  
+
+109
+00:07:29,383 --> 00:07:31,116
+  they put it in an extruder,   
+
+110
+00:07:31,118 --> 00:07:34,520
+         which feeds it         
+    down an automated forming   
+             line.              
+
+111
+00:07:34,522 --> 00:07:38,057
+    at the first station, the   
+              dough             
+     passes through several     
+            rollers,            
+
+112
+00:07:38,059 --> 00:07:41,259
+      which progressively       
+   flatten it into a sheet.     
+
+113
+00:07:41,261 --> 00:07:44,530
+  they add flour to the dough,  
+               so               
+     it doesn't stick to the    
+            rollers.            
+
+114
+00:07:47,201 --> 00:07:50,135
+  the flattened dough finally   
+   exits the first station.     
+
+115
+00:07:52,673 --> 00:07:56,141
+      the next station uses     
+            revolving           
+  cutters to slice the dough    
+
+116
+00:07:56,143 --> 00:07:59,677
+      into 5-ounce disks.       
+
+117
+00:07:59,679 --> 00:08:01,280
+ the excess dough is collected  
+
+118
+00:08:01,282 --> 00:08:03,215
+          and reworked          
+     into the next batch.       
+
+119
+00:08:06,153 --> 00:08:08,820
+     flattening and cutting     
+    the dough heats it up,      
+
+120
+00:08:08,822 --> 00:08:10,556
+       so they put it in a      
+          refrigerator          
+
+121
+00:08:10,558 --> 00:08:13,058
+       for about an hour,       
+  to restore its elasticity.    
+
+122
+00:08:18,366 --> 00:08:22,034
+    meanwhile, they prepare     
+     the pasties' vegetable     
+            filling.            
+
+123
+00:08:24,171 --> 00:08:27,973
+  workers load washed potatoes  
+  into an industrial peeler.    
+
+124
+00:08:27,975 --> 00:08:32,211
+     it spins them inside an    
+            abrasive            
+    metal drum to remove the    
+             skins.             
+
+125
+00:08:37,785 --> 00:08:39,985
+     then, the potatoes go      
+       through a dicer,         
+
+126
+00:08:39,987 --> 00:08:42,588
+        which cuts them         
+      to a specific size.       
+
+127
+00:08:44,257 --> 00:08:46,791
+       the dicer deposits       
+    the potatoes in water,      
+
+128
+00:08:46,793 --> 00:08:49,862
+ to remove any excess starch.   
+
+129
+00:08:49,864 --> 00:08:51,663
+ workers combine the potatoes   
+
+130
+00:08:51,665 --> 00:08:55,934
+ with diced rutabaga and onion  
+     in a vegetable mixer.      
+
+131
+00:08:55,936 --> 00:08:58,537
+    they add melted butter,     
+to help caramelize the onions.  
+
+132
+00:09:00,741 --> 00:09:04,777
+  they also add salt, pepper,   
+      and a blend of other      
+          seasonings.           
+
+133
+00:09:08,215 --> 00:09:10,282
+       they run the mixer       
+    for about two minutes.      
+
+134
+00:09:14,621 --> 00:09:16,221
+  then, the vegetable filling   
+
+135
+00:09:16,223 --> 00:09:18,624
+   joins the other components   
+    on the production line.     
+
+136
+00:09:23,097 --> 00:09:25,631
+    workers place the dough     
+       on a moving belt         
+
+137
+00:09:25,633 --> 00:09:28,133
+      with the front edge       
+ of each disk on a white line.  
+
+138
+00:09:30,104 --> 00:09:32,905
+     this position ensures      
+ that the depositor's nozzles   
+
+139
+00:09:32,907 --> 00:09:34,773
+        drop the filling        
+     onto the right spot.       
+
+140
+00:09:37,711 --> 00:09:40,979
+   next, workers place fresh,   
+       lean skirt steak         
+
+141
+00:09:40,981 --> 00:09:43,515
+   on top of the vegetables.    
+
+142
+00:09:43,517 --> 00:09:47,319
+     the steak is cut from      
+the forequarter of prime beef.  
+
+143
+00:09:47,321 --> 00:09:49,655
+          according to          
+  european union regulations,   
+
+144
+00:09:49,657 --> 00:09:53,325
+    12.5% of a cornish pasty    
+         must be beef.          
+
+145
+00:09:53,327 --> 00:09:57,362
+ this company's pasties exceed  
+    that, containing at least   
+             17.5%.             
+
+146
+00:10:01,535 --> 00:10:03,001
+    highly skilled workers      
+
+147
+00:10:03,003 --> 00:10:06,071
+    close the cornish pasty     
+   with the signature crimped   
+             edge.              
+
+148
+00:10:08,275 --> 00:10:09,808
+ they fold the dough in half,   
+
+149
+00:10:09,810 --> 00:10:14,813
+   form 19 to 22 even crimps    
+ along the back of the pasty,   
+
+150
+00:10:14,815 --> 00:10:18,216
+  then, neatly tuck the end.    
+
+151
+00:10:18,218 --> 00:10:21,820
+       this must be done        
+with both precision and speed.  
+
+152
+00:10:21,822 --> 00:10:25,124
+ it takes these expert crimpers 
+  about 20 seconds per pasty.   
+
+153
+00:10:30,497 --> 00:10:33,298
+  workers collect the pasties   
+  and make a small incision,    
+
+154
+00:10:33,300 --> 00:10:35,067
+     to vent some moisture      
+         as the bake.           
+
+155
+00:10:37,905 --> 00:10:40,506
+      the remaining juices      
+  will infuse the vegetables,   
+
+156
+00:10:40,508 --> 00:10:42,508
+ producing a flavorful gravy.   
+
+157
+00:10:45,045 --> 00:10:48,046
+ the factory immediately cools  
+ the finished cornish pasties   
+
+158
+00:10:48,048 --> 00:10:50,716
+    to about 65 fahrenheit.     
+
+159
+00:10:50,718 --> 00:10:53,552
+ this keeps the raw ingredients 
+    fresh during packaging.     
+
+160
+00:10:57,724 --> 00:11:00,258
+       pasties are stored       
+      and shipped frozen,       
+
+161
+00:11:00,260 --> 00:11:02,161
+ then glazed and baked onsite.  
+
+162
+00:11:04,198 --> 00:11:06,999
+     after 45 to 50 minutes     
+         in the oven,           
+
+163
+00:11:07,001 --> 00:11:10,402
+   these traditional cornish    
+  pasties are ready to serve.   
+
+164
+00:11:26,086 --> 00:11:29,288
+    fresh pasta is made from    
+  a moist egg and flour dough   
+
+165
+00:11:29,290 --> 00:11:34,893
+     that's mixed, kneaded,     
+   and rolled into a sheet.     
+
+166
+00:11:34,895 --> 00:11:38,230
+     then, the dough is cut     
+  into soft noodles, ravioli,   
+
+167
+00:11:38,232 --> 00:11:40,499
+        or other shapes,        
+     using a pasta maker.       
+
+168
+00:11:45,505 --> 00:11:47,906
+       this italian-made        
+    industrial pasta maker      
+
+169
+00:11:47,908 --> 00:11:51,510
+  is designed for restaurants   
+ and smaller pasta suppliers.   
+
+170
+00:11:53,714 --> 00:11:56,648
+         the machine is         
+     only five feet wide,       
+
+171
+00:11:56,650 --> 00:11:58,850
+     but it's still capable     
+      of mixing the dough       
+
+172
+00:11:58,852 --> 00:12:01,653
+ and pressing it into a variety 
+       of pasta shapes.         
+
+173
+00:12:02,856 --> 00:12:05,190
+  the machine can turn dough    
+
+174
+00:12:05,192 --> 00:12:09,061
+ into ravioli or assorted types 
+   of long and short pasta.     
+
+175
+00:12:13,200 --> 00:12:14,666
+  the machine's three stations  
+               --               
+
+176
+00:12:14,668 --> 00:12:17,736
+    the extruder, the ravioli   
+             maker,             
+    and the pasta cutter --     
+
+177
+00:12:17,738 --> 00:12:20,239
+        are constructed         
+  from stainless-steel parts.   
+
+178
+00:12:23,276 --> 00:12:25,010
+ a computer-guided punch press  
+
+179
+00:12:25,012 --> 00:12:28,346
+    makes the required holes    
+          and slots.            
+
+180
+00:12:28,348 --> 00:12:30,682
+     workers insert pieces      
+         into a press           
+
+181
+00:12:30,684 --> 00:12:33,085
+          to bend them          
+    to the required shape.      
+
+182
+00:12:35,289 --> 00:12:37,856
+    this is a cover for one     
+ of the machine's components.   
+
+183
+00:12:42,830 --> 00:12:46,265
+ once all the pieces are ready, 
+  workers weld them together.   
+
+184
+00:12:52,306 --> 00:12:55,373
+   the machine's pasta cutter   
+              uses              
+     stainless-steel cutting    
+            rollers             
+
+185
+00:12:55,375 --> 00:12:56,908
+      to slice the pasta.       
+
+186
+00:12:59,179 --> 00:13:02,981
+     each roller starts out     
+   as a stainless-steal rod.    
+
+187
+00:13:02,983 --> 00:13:06,051
+     a computer-guided mill     
+    carves grooves into it.     
+
+188
+00:13:06,053 --> 00:13:09,588
+  the groove width determines   
+    the width of the pasta.     
+
+189
+00:13:09,590 --> 00:13:12,391
+   the pasta cutter contains    
+     four pairs of rollers      
+
+190
+00:13:12,393 --> 00:13:15,193
+       that cut the pasta       
+     to different widths:       
+
+191
+00:13:15,195 --> 00:13:17,529
+2-millimeter-wide taglionlini,  
+
+192
+00:13:17,531 --> 00:13:22,133
+ 4-millimeter-wide fettuccine,  
+8-millimeter-wide tagliatelle,  
+
+193
+00:13:22,135 --> 00:13:25,003
+     and 12-millimeter-wide     
+         pappardelle.           
+
+194
+00:13:25,005 --> 00:13:27,539
+     rollers are available      
+     in additional sizes.       
+
+195
+00:13:30,009 --> 00:13:32,410
+        workers install         
+   four corresponding pairs     
+
+196
+00:13:32,412 --> 00:13:34,946
+         of steel combs         
+    underneath the rollers.     
+
+197
+00:13:34,948 --> 00:13:37,883
+    the combs gently scrape     
+ the dough out of the grooves   
+
+198
+00:13:37,885 --> 00:13:39,818
+    to eject the cut pasta.     
+
+199
+00:13:45,358 --> 00:13:49,027
+    next, workers install the   
+              gears             
+    that turn the rollers.      
+
+200
+00:13:49,029 --> 00:13:51,029
+ the gears engage one another,  
+
+201
+00:13:51,031 --> 00:13:54,299
+  so that the rollers revolve   
+      at the same speed.        
+
+202
+00:13:54,301 --> 00:13:58,970
+  this ensures that the cutter  
+operates smoothly and quietly.  
+
+203
+00:13:58,972 --> 00:14:02,541
+   the motor turns the larger   
+              main              
+ gear, which moves the others.  
+
+204
+00:14:05,779 --> 00:14:08,246
+ they mount protective covers.  
+
+205
+00:14:08,248 --> 00:14:09,848
+ this critical safety feature   
+
+206
+00:14:09,850 --> 00:14:12,684
+  prevents users' fingers from  
+getting caught in the rollers.  
+
+207
+00:14:16,055 --> 00:14:17,722
+  at the base of the cutter,    
+
+208
+00:14:17,724 --> 00:14:20,925
+      they mount a smooth       
+      laminating roller.        
+
+209
+00:14:20,927 --> 00:14:22,994
+          this roller           
+     thins the dough sheet      
+
+210
+00:14:22,996 --> 00:14:24,763
+       before the cutting       
+       rollers slice it.        
+
+211
+00:14:27,668 --> 00:14:29,801
+        they install the        
+  electrically powered motor    
+
+212
+00:14:29,803 --> 00:14:31,203
+   that turns the main gear.    
+
+213
+00:14:35,942 --> 00:14:38,477
+  then, the handle that moves   
+    the laminating roller.      
+
+214
+00:14:44,083 --> 00:14:46,151
+     here, they've removed      
+     the protective covers      
+
+215
+00:14:46,153 --> 00:14:48,587
+       to demonstrate how       
+ the cutting rollers operate.   
+
+216
+00:14:52,092 --> 00:14:54,426
+next, they build the extruder.  
+
+217
+00:14:54,428 --> 00:14:56,428
+       they mount a blade       
+      in the dough mixer        
+
+218
+00:14:56,430 --> 00:14:58,397
+         and connect it         
+     to an electric motor.      
+
+219
+00:15:00,366 --> 00:15:04,503
+ the extrusion tube is located  
+    directly below the dough    
+             mixer.             
+
+220
+00:15:04,505 --> 00:15:06,638
+      the dough is pushed       
+     through a bronze die       
+
+221
+00:15:06,640 --> 00:15:09,040
+    in the extrusion tube.      
+
+222
+00:15:09,042 --> 00:15:12,778
+   the dies can be changed to   
+              make              
+   different types of pasta.    
+
+223
+00:15:12,780 --> 00:15:14,646
+         one die makes          
+    a flat sheet of dough,      
+
+224
+00:15:14,648 --> 00:15:17,616
+     for cutting long pasta     
+      or making ravioli.        
+
+225
+00:15:20,320 --> 00:15:22,520
+     other dies can be used     
+     to make short pasta,       
+
+226
+00:15:22,522 --> 00:15:24,923
+  such as fusilli or rotini.    
+
+227
+00:15:26,726 --> 00:15:30,595
+  the machine's third station   
+    is the motorized ravioli    
+             maker.             
+
+228
+00:15:30,597 --> 00:15:32,731
+          it also has           
+     interchangeable dies,      
+
+229
+00:15:32,733 --> 00:15:34,633
+    to make different shapes    
+          of ravioli.           
+
+230
+00:15:36,737 --> 00:15:39,804
+       now, this machine        
+    is ready to make pasta.     
+
+231
+00:15:39,806 --> 00:15:42,073
+      first, they pour in       
+     the dough ingredients      
+
+232
+00:15:42,075 --> 00:15:44,209
+    and mix for 15 minutes.     
+
+233
+00:15:44,211 --> 00:15:47,612
+   then, they pull a lever to   
+              feed              
+      the dough through the     
+           extruder.            
+
+234
+00:15:47,614 --> 00:15:49,881
+        this is the die         
+   that makes a dough sheet     
+
+235
+00:15:49,883 --> 00:15:52,851
+   for the long pasta cutter    
+       or ravioli maker.        
+
+236
+00:15:55,622 --> 00:15:58,089
+       they cut the dough       
+       off the extruder         
+
+237
+00:15:58,091 --> 00:16:01,226
+     and put it through the     
+            cutter's            
+ laminating roller to thin it.  
+
+238
+00:16:01,228 --> 00:16:03,094
+       then, they feed it       
+      through the rollers       
+
+239
+00:16:03,096 --> 00:16:06,898
+ in one of the cutting slots.   
+
+240
+00:16:06,900 --> 00:16:10,235
+        to make ravioli,        
+they extrude two narrow sheets  
+
+241
+00:16:10,237 --> 00:16:13,037
+          and put them          
+  through the ravioli maker.    
+
+242
+00:16:13,039 --> 00:16:15,373
+   a tube injects the filling   
+      between the sheets        
+
+243
+00:16:15,375 --> 00:16:19,110
+         before the die         
+     crimps them together.      
+
+244
+00:16:19,112 --> 00:16:21,112
+     a cooling system built     
+       into the extruder        
+
+245
+00:16:21,114 --> 00:16:22,714
+       prevents the dough       
+        from heating up         
+
+246
+00:16:22,716 --> 00:16:25,250
+   as it's forced through the   
+              die.              
+
+247
+00:16:25,252 --> 00:16:28,753
+   this keeps the pasta fresh   
+       for a long time.         
+
+248
+00:16:41,534 --> 00:16:44,402
+   slate was originally used    
+    to make roof shingles,      
+
+249
+00:16:44,404 --> 00:16:46,404
+    as well as floor and wall   
+             tiles,             
+
+250
+00:16:46,406 --> 00:16:51,609
+   but, now, this metamorphic   
+              rock              
+  is used all over the house.   
+
+251
+00:16:51,611 --> 00:16:54,211
+    artisans are using slate    
+   to create everyday items,    
+
+252
+00:16:54,213 --> 00:16:56,747
+      including tableware,      
+       address plaques,         
+
+253
+00:16:56,749 --> 00:16:58,517
+    and garden accessories.     
+
+254
+00:17:02,623 --> 00:17:05,957
+  these cornish slate products  
+               use              
+traditional building materials  
+
+255
+00:17:05,959 --> 00:17:07,559
+    in nontraditional ways.     
+
+256
+00:17:09,896 --> 00:17:11,363
+         in cornwall,           
+
+257
+00:17:11,365 --> 00:17:13,298
+  they have been mining slate   
+    for hundreds of years.      
+
+258
+00:17:16,369 --> 00:17:18,503
+ some of the craftsman's slate  
+          is old roof           
+
+259
+00:17:18,505 --> 00:17:22,173
+    or floor tile retrieved     
+  from the demolition sites.    
+
+260
+00:17:22,175 --> 00:17:26,243
+   other projects require new   
+ slate, fresh from the quarry.  
+
+261
+00:17:26,245 --> 00:17:27,512
+     the craftsman selects      
+
+262
+00:17:27,514 --> 00:17:29,848
+        and older piece         
+     from a cheese board.       
+
+263
+00:17:29,850 --> 00:17:33,651
+   he evaluates the color, as   
+              well              
+  as the thickness and shape.   
+
+264
+00:17:33,653 --> 00:17:36,788
+  older slate is weathered and  
+               has              
+   more colors running through  
+              it.               
+
+265
+00:17:41,928 --> 00:17:44,796
+   he scrapes the loose slate   
+       off the surface,         
+
+266
+00:17:44,798 --> 00:17:46,264
+  working carefully to avoid    
+
+267
+00:17:46,266 --> 00:17:48,900
+     fracturing the stone's     
+         thin layers.           
+
+268
+00:17:51,338 --> 00:17:52,804
+ he sweeps off the scrapings.   
+
+269
+00:17:55,408 --> 00:17:59,344
+ he scrubs the slate tile with  
+ a chemical cleaning solution   
+
+270
+00:17:59,346 --> 00:18:01,046
+  and rinses off the residue.   
+
+271
+00:18:03,283 --> 00:18:06,217
+  the slate dries in minutes.   
+
+272
+00:18:06,219 --> 00:18:10,288
+    as the water evaporates,    
+the color changes dramatically  
+
+273
+00:18:10,290 --> 00:18:12,791
+  from dark gray to light gray  
+      with a bluish hue.        
+
+274
+00:18:15,429 --> 00:18:17,228
+     he measures the slate      
+          for cutting           
+
+275
+00:18:17,230 --> 00:18:20,765
+     and scores it lightly      
+      with a sharp tool.        
+
+276
+00:18:20,767 --> 00:18:22,500
+      he places a template      
+        for the handle          
+
+277
+00:18:22,502 --> 00:18:24,936
+  within the scored boundaries  
+  and marks it for drilling.    
+
+278
+00:18:29,242 --> 00:18:32,710
+    then, he cuts the slate     
+   with a slate guillotine.     
+
+279
+00:18:32,712 --> 00:18:35,513
+   it's a double-bladed tool    
+  similar to a paper cutter.    
+
+280
+00:18:37,918 --> 00:18:39,884
+     he leaves a margin for     
+           trimming.            
+
+281
+00:18:44,925 --> 00:18:46,191
+   he breaks off the margin     
+
+282
+00:18:46,193 --> 00:18:49,794
+         by tapping it          
+ with a special slater's tool   
+
+283
+00:18:49,796 --> 00:18:52,364
+     and checks the edges,      
+ to confirm that they're neat.  
+
+284
+00:18:54,333 --> 00:18:59,070
+     then, he redefines the     
+            markings            
+     for the handle holds.      
+
+285
+00:18:59,072 --> 00:19:01,339
+   the craftsman drills holes   
+       through the slate        
+
+286
+00:19:01,341 --> 00:19:04,809
+       for the handles.         
+
+287
+00:19:04,811 --> 00:19:06,544
+then, he changes the drill bit  
+
+288
+00:19:06,546 --> 00:19:09,213
+    to cut a sloped profile     
+        into the holes.         
+
+289
+00:19:09,215 --> 00:19:12,684
+   this will allow the screws   
+    to sit flush against the    
+             slate.             
+
+290
+00:19:16,556 --> 00:19:19,357
+     he brushes the edges,      
+  to get rid of loose chips,    
+
+291
+00:19:19,359 --> 00:19:21,660
+      and refines the ends      
+      with a razor blade.       
+
+292
+00:19:24,297 --> 00:19:26,865
+ the craftsman washes the slate 
+        one more time.          
+
+293
+00:19:29,235 --> 00:19:34,105
+ the glues four small silicone  
+     knobs onto the base.       
+
+294
+00:19:34,107 --> 00:19:35,973
+    the knobs act as legs,      
+
+295
+00:19:35,975 --> 00:19:40,178
+      so the cheese plate       
+  can be set on any surface.    
+
+296
+00:19:40,180 --> 00:19:44,248
+    he applies two coats of     
+food-safe sealer to the slate.  
+
+297
+00:19:44,250 --> 00:19:47,318
+ each coat takes a day to dry.  
+
+298
+00:19:47,320 --> 00:19:49,888
+       then, he installs        
+ the stainless-steel handles.   
+
+299
+00:19:55,796 --> 00:19:58,830
+ this slate cheese board is now 
+  ready to hold a few snacks.   
+
+300
+00:20:03,670 --> 00:20:06,271
+     from an old roof tile      
+ to a nice piece of tableware.  
+
+301
+00:20:06,273 --> 00:20:07,939
+ it's quite a transformation.   
+
+302
+00:20:15,549 --> 00:20:17,481
+  next, the craftsman slices    
+
+303
+00:20:17,483 --> 00:20:19,617
+      a block of new slate      
+        with a wet saw.         
+
+304
+00:20:21,755 --> 00:20:24,355
+        new slate comes         
+      in thicker chunks.        
+
+305
+00:20:24,357 --> 00:20:26,124
+     it can be used to make     
+            signage.            
+
+306
+00:20:31,364 --> 00:20:34,565
+ he uses eight different grades 
+   of diamond abrasive pads     
+
+307
+00:20:34,567 --> 00:20:37,802
+     to polish the surface      
+  until it's completely flat.   
+
+308
+00:20:39,573 --> 00:20:42,106
+  then, he uses a computerized  
+        graphic cutter          
+
+309
+00:20:42,108 --> 00:20:43,641
+    to make a stencil out of    
+             vinyl.             
+
+310
+00:20:46,847 --> 00:20:48,980
+     he places the stencil      
+        over the slate          
+
+311
+00:20:48,982 --> 00:20:51,149
+       and sandblasts it        
+   with a special compound.     
+
+312
+00:20:54,521 --> 00:20:58,523
+   the process creates rough    
+     grooves in the slate.      
+
+313
+00:20:58,525 --> 00:21:01,493
+     the grooves will allow     
+ paint to adhere to the stone.  
+
+314
+00:21:04,397 --> 00:21:06,463
+        another employee        
+       uses the stencil         
+
+315
+00:21:06,465 --> 00:21:09,134
+ to apply paint to the slate.   
+
+316
+00:21:09,136 --> 00:21:11,069
+      she allows each coat      
+      of the paint to dry       
+
+317
+00:21:11,071 --> 00:21:12,637
+ before brushing on the next.   
+
+318
+00:21:16,276 --> 00:21:19,677
+    she applies four coats in   
+             total.             
+
+319
+00:21:19,679 --> 00:21:22,247
+      when she's finished,      
+   she peels off the vinyl.     
+
+320
+00:21:26,353 --> 00:21:30,755
+     this custom slate sign     
+ is ready of face the street.   
+
+321
+00:21:30,757 --> 00:21:34,826
+  it takes four days to craft,  
+   seal, and paint the sign.    
+
+322
+00:21:34,828 --> 00:21:36,294
+    now that it's complete,     
+
+323
+00:21:36,296 --> 00:21:39,130
+    the sign is sure to make    
+   a rock-solid impression.     
+

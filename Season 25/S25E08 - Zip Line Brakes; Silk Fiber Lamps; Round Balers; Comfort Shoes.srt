@@ -1,0 +1,1599 @@
+﻿1
+00:00:01,669 --> 00:00:04,670
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,672 --> 00:00:07,707
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:50,385 --> 00:00:53,719
+ narrator: many thrill-seekers  
+ find zip lines exhilarating.   
+
+4
+00:00:53,721 --> 00:00:55,988
+          but without           
+  the proper braking system,    
+
+5
+00:00:55,990 --> 00:00:58,524
+        they can quickly        
+      become terrifying.        
+
+6
+00:00:58,526 --> 00:01:02,328
+ magnetic brakes are hands-free 
+   and engage automatically.    
+
+7
+00:01:02,330 --> 00:01:03,996
+ so there's no need to panic.   
+
+8
+00:01:03,998 --> 00:01:06,399
+ just hang on, enjoy the ride,  
+
+9
+00:01:06,401 --> 00:01:09,101
+       and let the brake        
+   take care of the landing.    
+
+10
+00:01:11,339 --> 00:01:14,073
+    in early human history,     
+      zip lines were used       
+
+11
+00:01:14,075 --> 00:01:17,276
+      to transfer supplies      
+   across dangerous terrain.    
+
+12
+00:01:17,278 --> 00:01:19,812
+        today, zip lines        
+   are popular with tourists    
+
+13
+00:01:19,814 --> 00:01:23,349
+     and adrenaline junkies     
+      all over the world.       
+
+14
+00:01:23,351 --> 00:01:27,152
+    as the rider approaches     
+the landing, the brake engages  
+
+15
+00:01:27,154 --> 00:01:31,023
+ using magnets that induce eddy 
+ currents instead of friction.  
+
+16
+00:01:31,025 --> 00:01:34,060
+    this creates enough drag    
+       to stop the ride.        
+
+17
+00:01:37,031 --> 00:01:40,299
+   to make a zip line brake,    
+    they start with a drum.     
+
+18
+00:01:40,301 --> 00:01:44,102
+ it's made of zinc-coated steel 
+       to prevent rust.         
+
+19
+00:01:44,104 --> 00:01:47,740
+  a worker sends off the zinc   
+ so they can add the magnets.   
+
+20
+00:01:50,111 --> 00:01:53,980
+    he hammers locating pins    
+        into the metal.         
+
+21
+00:01:53,982 --> 00:01:56,582
+      he applies adhesive       
+     to the sanded areas,       
+
+22
+00:01:56,584 --> 00:02:00,786
+      then places magnets       
+      onto the adhesive.        
+
+23
+00:02:00,788 --> 00:02:04,456
+he uses steel pins as a guide.  
+
+24
+00:02:04,458 --> 00:02:08,227
+     as the adhesive cures,     
+the magnets bond to the metal.  
+
+25
+00:02:10,331 --> 00:02:13,933
+   next, he applies a bonding   
+              agent             
+      to a shaft bearing        
+
+26
+00:02:13,935 --> 00:02:17,136
+         and inserts it         
+ into the hole in the center.   
+
+27
+00:02:17,138 --> 00:02:18,737
+   using a hydraulic press,     
+
+28
+00:02:18,739 --> 00:02:21,440
+     he drives the bearing      
+    further into the hole.      
+
+29
+00:02:23,877 --> 00:02:26,812
+        these rotor arms        
+    will spin in the magnetic   
+             field              
+
+30
+00:02:26,814 --> 00:02:29,881
+ to create the braking force.   
+
+31
+00:02:29,883 --> 00:02:32,618
+      a worker fits gears       
+        into two plates         
+
+32
+00:02:32,620 --> 00:02:37,289
+    and bolts the plates to     
+     each side of the rotor     
+           assembly.            
+
+33
+00:02:37,291 --> 00:02:40,159
+    he tests the rotor arms     
+  and slides the rotor gears    
+
+34
+00:02:40,161 --> 00:02:43,095
+     onto the shaft already     
+            installed           
+      in the brake drum.        
+
+35
+00:02:45,099 --> 00:02:48,166
+      he opens the rotors       
+        and spins them.         
+
+36
+00:02:48,168 --> 00:02:49,501
+   he adds a ring of magnets    
+
+37
+00:02:49,503 --> 00:02:53,505
+     to surround the rotors     
+     in a magnetic field.       
+
+38
+00:02:53,507 --> 00:02:55,241
+    satisfied with the fit,     
+
+39
+00:02:55,243 --> 00:02:58,778
+ he removes the rotor assembly  
+   from the drum temporarily    
+
+40
+00:02:58,780 --> 00:03:01,646
+    and clips springs to the    
+             rotor.             
+
+41
+00:03:01,648 --> 00:03:05,984
+     these reaction springs     
+    will cushion the braking    
+            action.             
+
+42
+00:03:05,986 --> 00:03:10,856
+  now a worker reinstalls the   
+    rotor device in the brake   
+             drum.              
+
+43
+00:03:10,858 --> 00:03:13,993
+  he places the magnetic ring   
+         back on top.           
+
+44
+00:03:13,995 --> 00:03:17,296
+ the strong magnetic attraction 
+  secures it to the assembly.   
+
+45
+00:03:20,067 --> 00:03:24,670
+ the next part is a large ring  
+  with more gears inside it.    
+
+46
+00:03:24,672 --> 00:03:27,239
+           he hammers           
+ and then screws it in place.   
+
+47
+00:03:30,011 --> 00:03:33,579
+  he spins the assembly again   
+  to confirm it's functional.   
+
+48
+00:03:36,951 --> 00:03:40,752
+    he installs the final two   
+              gears             
+   on the end of the shaft.     
+
+49
+00:03:40,754 --> 00:03:44,690
+    this completes the core     
+    of the zip line brake.      
+
+50
+00:03:44,692 --> 00:03:47,693
+        another employee        
+  stitches a nylon hand grip    
+
+51
+00:03:47,695 --> 00:03:49,829
+ to tough, synthetic webbing.   
+
+52
+00:03:49,831 --> 00:03:53,165
+       when this webbing        
+  is pulled out of the brake,   
+
+53
+00:03:53,167 --> 00:03:55,034
+          it will set           
+   the rotor arms in motion     
+
+54
+00:03:55,036 --> 00:03:57,937
+  to create the eddy currents   
+  that are the braking force.   
+
+55
+00:04:00,174 --> 00:04:02,842
+   after protecting the brake   
+              core              
+      with a metal plate,       
+
+56
+00:04:02,844 --> 00:04:07,112
+     a worker puts the unit     
+      in a plastic case.        
+
+57
+00:04:07,114 --> 00:04:10,449
+   he installs a plate on the   
+              shaft             
+  for the webbing to sit on,    
+
+58
+00:04:10,451 --> 00:04:12,584
+     then loops the webbing     
+          around it.            
+
+59
+00:04:12,586 --> 00:04:16,455
+  he also places a drum on top  
+  for the retraction spring.    
+
+60
+00:04:16,457 --> 00:04:19,457
+  he applies silicone adhesive  
+       around the drum.         
+
+61
+00:04:19,459 --> 00:04:22,194
+          this secures          
+   the aluminum base plate.     
+
+62
+00:04:22,196 --> 00:04:25,197
+         he now inserts         
+    the retraction spring.      
+
+63
+00:04:25,199 --> 00:04:28,000
+       he caps the spring       
+      with a metal plate        
+
+64
+00:04:28,002 --> 00:04:30,869
+    and reinforces the clips    
+      with metallic tape.       
+
+65
+00:04:30,871 --> 00:04:35,607
+  using a crank, he winds more  
+of the webbing into the brake.  
+
+66
+00:04:35,609 --> 00:04:37,476
+ he tightens the metal shackle  
+
+67
+00:04:37,478 --> 00:04:40,479
+  that holds the two sections   
+      of webbing together       
+
+68
+00:04:40,481 --> 00:04:43,082
+    and winds the rest of it    
+       into the device.         
+
+69
+00:04:45,953 --> 00:04:48,087
+   he inserts a guide roller    
+        for the webbing         
+
+70
+00:04:48,089 --> 00:04:50,322
+      and adds a two-part       
+        retaining clip.         
+
+71
+00:04:54,829 --> 00:04:57,730
+      he secures the clip       
+   with a rounded metal pin.    
+
+72
+00:04:59,901 --> 00:05:04,770
+  this next part is a plastic   
+    insert for the top of the   
+             case.              
+
+73
+00:05:04,772 --> 00:05:09,041
+ he screws a nut onto the shaft 
+   to lock down the insert.     
+
+74
+00:05:09,043 --> 00:05:12,178
+   he places the top half of    
+     the case onto the brake    
+            assembly            
+
+75
+00:05:12,180 --> 00:05:16,048
+         and secures it         
+      to the lower half.        
+
+76
+00:05:16,050 --> 00:05:19,985
+     he snaps a dust cover      
+        onto the case.          
+
+77
+00:05:19,987 --> 00:05:23,856
+   they're now ready to test    
+  this zip line brake system.   
+
+78
+00:05:23,858 --> 00:05:25,791
+ a motor pulls out the webbing  
+
+79
+00:05:25,793 --> 00:05:27,593
+     to simulate different      
+         body weights           
+
+80
+00:05:27,595 --> 00:05:29,728
+    and different zip lining    
+            speeds,             
+
+81
+00:05:29,730 --> 00:05:34,800
+   while a computer analyzes    
+   the brake's performance.     
+
+82
+00:05:34,802 --> 00:05:36,868
+with magnetic zip line brakes,  
+
+83
+00:05:36,870 --> 00:05:39,738
+      riders can come down      
+   at a wide range of speeds    
+
+84
+00:05:39,740 --> 00:05:42,340
+      but still slow down       
+       at the same rate,        
+
+85
+00:05:42,342 --> 00:05:46,178
+     ensuring that everyone     
+   has a fun but safe ride.     
+
+86
+00:06:01,362 --> 00:06:03,562
+     narrator: silk fibres      
+   can be creatively crafted    
+
+87
+00:06:03,564 --> 00:06:05,898
+         into a variety         
+     of artistic objects,       
+
+88
+00:06:05,900 --> 00:06:10,436
+      from paper to fabric      
+   or even items like lamps.    
+
+89
+00:06:10,438 --> 00:06:12,103
+  the fibres are translucent,   
+
+90
+00:06:12,105 --> 00:06:14,039
+        so they can take        
+      bright, white light       
+
+91
+00:06:14,041 --> 00:06:16,842
+   and diffuse it into warm,    
+   beautiful mood lighting.     
+
+92
+00:06:22,316 --> 00:06:24,383
+this lamp doesn't have shades.  
+
+93
+00:06:24,385 --> 00:06:27,386
+        instead, it has         
+ natural-looking silk flowers   
+
+94
+00:06:27,388 --> 00:06:29,321
+   which conceal its lights.    
+
+95
+00:06:29,323 --> 00:06:31,891
+         the lamp base          
+     is made of branches.       
+
+96
+00:06:34,061 --> 00:06:36,061
+           to create            
+   this functional artwork,     
+
+97
+00:06:36,063 --> 00:06:38,063
+       the artisan begins       
+        with a roving.          
+
+98
+00:06:38,065 --> 00:06:39,932
+a roving is a bundle of fibres  
+
+99
+00:06:39,934 --> 00:06:43,468
+   harvested from a silk moth   
+     caterpillar's cocoon.      
+
+100
+00:06:43,470 --> 00:06:46,004
+      they've been cleaned      
+       and straightened.        
+
+101
+00:06:46,006 --> 00:06:48,940
+     she places the roving      
+     in a nylon mesh bag,       
+
+102
+00:06:48,942 --> 00:06:52,945
+       then submerges it        
+in a specially formulated dye.  
+
+103
+00:06:56,750 --> 00:07:00,152
+       she heats the dye        
+        to 185 degrees,         
+
+104
+00:07:00,154 --> 00:07:02,221
+       then sprinkles in        
+       more powdered dye        
+
+105
+00:07:02,223 --> 00:07:04,924
+      to produces splashes      
+       of bolder colors.        
+
+106
+00:07:07,762 --> 00:07:11,130
+   after a couple of minutes,   
+   she removes the roving...    
+
+107
+00:07:13,600 --> 00:07:15,935
+       ...and rinses off        
+        the excess dye.         
+
+108
+00:07:19,707 --> 00:07:23,509
+ she hangs the roving on a rack 
+  until it's completely dry.    
+
+109
+00:07:26,514 --> 00:07:30,249
+ roving is typically spun into  
+  thread to make silk fabric,   
+
+110
+00:07:30,251 --> 00:07:33,651
+        but this artisan        
+  has a different technique.    
+
+111
+00:07:33,653 --> 00:07:38,057
+  she spreads a sheet of tulle  
+      on her work table.        
+
+112
+00:07:38,059 --> 00:07:41,926
+   then she gently separates    
+  the fine, hair-like fibres    
+
+113
+00:07:41,928 --> 00:07:44,063
+    and lays them out on the    
+             tulle.             
+
+114
+00:07:50,137 --> 00:07:54,673
+ each pile will be turned into  
+    a flower for the lamp.      
+
+115
+00:07:54,675 --> 00:07:57,209
+    she folds over the tulle    
+      to create a barrier       
+
+116
+00:07:57,211 --> 00:08:01,747
+     that keeps the fibers      
+  from sticking to her hands.   
+
+117
+00:08:01,749 --> 00:08:03,482
+    she prepares the fibres     
+
+118
+00:08:03,484 --> 00:08:05,951
+     for the textile medium     
+      she'll apply next,        
+
+119
+00:08:05,953 --> 00:08:07,820
+      a polymer adhesive.       
+
+120
+00:08:07,822 --> 00:08:09,755
+    she saturates each pile     
+
+121
+00:08:09,757 --> 00:08:13,425
+  with water containing a few   
+drops of dishwashing detergent  
+
+122
+00:08:13,427 --> 00:08:15,360
+    to open up the fibres.      
+
+123
+00:08:15,362 --> 00:08:18,030
+      then she sponges up       
+       the excess water         
+
+124
+00:08:18,032 --> 00:08:21,233
+     and soaks up any other     
+    remaining moisture with a   
+             towel              
+
+125
+00:08:21,235 --> 00:08:24,436
+         so the medium          
+   does not become diluted.     
+
+126
+00:08:24,438 --> 00:08:28,707
+        now she's ready         
+to apply the polymer adhesive.  
+
+127
+00:08:28,709 --> 00:08:32,110
+    as the fibres absorb the    
+             medium,            
+      they fuse together,       
+
+128
+00:08:32,112 --> 00:08:35,147
+        forming a sheet         
+     of silk fibre paper.       
+
+129
+00:08:40,988 --> 00:08:42,921
+ after folding back the tulle,  
+
+130
+00:08:42,923 --> 00:08:46,091
+ she begins molding each paper  
+        into a flower.          
+
+131
+00:08:50,865 --> 00:08:53,065
+     she spreads the paper      
+        over a balloon          
+
+132
+00:08:53,067 --> 00:08:55,267
+  and lets it dry overnight.    
+
+133
+00:08:59,740 --> 00:09:01,673
+   with a few simple steps,     
+
+134
+00:09:01,675 --> 00:09:04,275
+      she has transformed       
+      a colorless roving        
+
+135
+00:09:04,277 --> 00:09:08,613
+      into colorful sheets      
+ of moldable silk fibre paper.  
+
+136
+00:09:08,615 --> 00:09:10,916
+         the next day,          
+     she pops the balloon.      
+
+137
+00:09:13,086 --> 00:09:16,055
+      the silk fibre paper      
+    holds its round shape.      
+
+138
+00:09:24,831 --> 00:09:26,831
+    using the textile medium    
+             again,             
+
+139
+00:09:26,833 --> 00:09:31,036
+    she glues her silk fibre    
+             flowers            
+     to juniper branches.       
+
+140
+00:09:36,576 --> 00:09:39,311
+        she secures them        
+   with a needle and thread,    
+
+141
+00:09:39,313 --> 00:09:41,446
+   matching the thread color    
+          to the silk           
+
+142
+00:09:41,448 --> 00:09:42,881
+     so that it blends in.      
+
+143
+00:09:46,854 --> 00:09:48,453
+     she further sculpts the    
+            flowers             
+
+144
+00:09:48,455 --> 00:09:51,924
+      with a stitch or two      
+       in select spots.         
+
+145
+00:09:51,926 --> 00:09:56,528
+    and dabs textile medium     
+  on the thread to secure it.   
+
+146
+00:09:56,530 --> 00:09:59,464
+  then she glues in a second,   
+   slightly smaller flower,     
+
+147
+00:09:59,466 --> 00:10:01,667
+creating two layers of petals.  
+
+148
+00:10:04,738 --> 00:10:07,138
+     she takes some fibres      
+        she dyed green          
+
+149
+00:10:07,140 --> 00:10:10,542
+    and glues them under the    
+             blooms             
+     to form wispy leaves.      
+
+150
+00:10:17,685 --> 00:10:21,019
+      finally, to turn this     
+            sculpture           
+   into a functioning lamp,     
+
+151
+00:10:21,021 --> 00:10:23,956
+  she places a battery powered  
+       l.e.d. push light        
+
+152
+00:10:23,958 --> 00:10:26,125
+ in the center of each flower.  
+
+153
+00:10:40,841 --> 00:10:42,841
+the lamp needs no inner wiring  
+
+154
+00:10:42,843 --> 00:10:46,378
+        and doesn't need        
+ to be plugged into an outlet.  
+
+155
+00:10:46,380 --> 00:10:48,513
+        you simply press        
+   the middle of each flower    
+
+156
+00:10:48,515 --> 00:10:51,650
+ to turn its hidden push light  
+          on or off.            
+
+157
+00:10:51,652 --> 00:10:55,687
+   a simple sculpture by day,   
+ and a gentle light by night.   
+
+158
+00:11:12,540 --> 00:11:17,676
+           narrator:            
+ round hay balers automatically 
+
+159
+00:11:17,678 --> 00:11:22,080
+ they can also wrap the rolled  
+   hay in twine or plastic.     
+
+160
+00:11:22,082 --> 00:11:24,349
+    this american invention     
+        allows farmers          
+
+161
+00:11:24,351 --> 00:11:28,554
+  to put down their pitchforks  
+               and              
+      leave the work to the     
+           machines.            
+
+162
+00:11:34,427 --> 00:11:38,162
+   the invention of the round   
+              baler             
+  was a farming breakthrough.   
+
+163
+00:11:38,164 --> 00:11:41,533
+       round bales of hay       
+stayed drier than square ones.  
+
+164
+00:11:45,372 --> 00:11:46,771
+   making a round hay baler     
+
+165
+00:11:46,773 --> 00:11:50,108
+   starts with a computerized   
+      fiber-optic laser.        
+
+166
+00:11:50,110 --> 00:11:53,845
+   it cuts steel sheaths into   
+ the shape of the side panels   
+
+167
+00:11:53,847 --> 00:11:58,049
+  and makes holes for hardware  
+    and machine components.     
+
+168
+00:11:58,051 --> 00:11:59,918
+ once the cuts have been made,  
+
+169
+00:11:59,920 --> 00:12:02,721
+         workers remove         
+    the leftover materials.     
+
+170
+00:12:02,723 --> 00:12:05,657
+      they'll be recycled       
+    into new steel sheets.      
+
+171
+00:12:05,659 --> 00:12:07,526
+  next, the baler side panel    
+
+172
+00:12:07,528 --> 00:12:10,395
+     goes to a computerized     
+       hydraulic folder.        
+
+173
+00:12:12,399 --> 00:12:16,068
+    it bends the edges of the   
+              panel             
+  to prepare it for assembly.   
+
+174
+00:12:18,805 --> 00:12:21,406
+      with the side panel       
+     clamped in a fixture,      
+
+175
+00:12:21,408 --> 00:12:26,411
+   a worker slides bolts into   
+    a part called the doubler   
+             plate.             
+
+176
+00:12:26,413 --> 00:12:30,616
+    this plate will be used     
+    to reinforce the panel.     
+
+177
+00:12:30,618 --> 00:12:34,619
+    he welds the heads of the   
+              bolts             
+     to the doubler plate.      
+
+178
+00:12:34,621 --> 00:12:36,021
+     the bolts protrude up      
+
+179
+00:12:36,023 --> 00:12:38,924
+  so bearings and other parts   
+    can be attached later.      
+
+180
+00:12:43,897 --> 00:12:46,098
+    he adds other reinforcing   
+             parts,             
+
+181
+00:12:46,100 --> 00:12:49,601
+     supports for rollers,      
+     and a box for twine.       
+
+182
+00:12:51,505 --> 00:12:53,772
+         then it's over         
+   to the paint department.     
+
+183
+00:12:53,774 --> 00:12:56,375
+      they prime and paint      
+    both sides of the panel     
+
+184
+00:12:56,377 --> 00:12:57,976
+     with an epoxy finish       
+
+185
+00:12:57,978 --> 00:13:00,612
+ in order to protect the steel  
+        from corrosion.         
+
+186
+00:13:03,450 --> 00:13:06,385
+     after the paint dries,     
+    cranes lift two panels      
+
+187
+00:13:06,387 --> 00:13:11,256
+  over to a fixture that holds  
+    several baler rollers.      
+
+188
+00:13:11,258 --> 00:13:13,324
+         workers insert         
+    the ends of the rollers     
+
+189
+00:13:13,326 --> 00:13:16,328
+into holes in the side panels.  
+
+190
+00:13:16,330 --> 00:13:18,263
+       they add an auger        
+      for moving the hay        
+
+191
+00:13:18,265 --> 00:13:21,332
+      away from the sides       
+         of the baler.          
+
+192
+00:13:21,334 --> 00:13:25,336
+    they secure all of these    
+    components with bolts.      
+
+193
+00:13:25,338 --> 00:13:28,272
+       next, they install       
+  a belt-tightening assembly.   
+
+194
+00:13:28,274 --> 00:13:30,275
+       the bars will hold       
+     the hay-shaping belts      
+
+195
+00:13:30,277 --> 00:13:31,643
+    at the correct tension.     
+
+196
+00:13:34,081 --> 00:13:37,082
+     after adding a bearing     
+  to the bottom feed roller,    
+
+197
+00:13:37,084 --> 00:13:39,151
+ a worker installs sprockets.   
+
+198
+00:13:39,153 --> 00:13:42,554
+      he also loops chains      
+         around them.           
+
+199
+00:13:42,556 --> 00:13:44,289
+   the sprockets and chains     
+
+200
+00:13:44,291 --> 00:13:48,360
+   will drive the 14 rollers    
+         in the baler.          
+
+201
+00:13:48,362 --> 00:13:51,163
+         the next part          
+  is known as the hay pickup,   
+
+202
+00:13:51,165 --> 00:13:52,497
+    because its steel teeth     
+
+203
+00:13:52,499 --> 00:13:56,501
+    lift hay from the field     
+      and into the baler.       
+
+204
+00:13:56,503 --> 00:13:59,838
+      it fits on the front      
+        of the machine.         
+
+205
+00:13:59,840 --> 00:14:02,306
+          now a worker          
+     installs the wheels.       
+
+206
+00:14:02,308 --> 00:14:04,643
+     he brushes a lubricant     
+         onto spindles          
+
+207
+00:14:04,645 --> 00:14:07,712
+        and inserts them        
+      in the wheel axles.       
+
+208
+00:14:07,714 --> 00:14:11,983
+   bolts secure the spindles    
+         to the axles.          
+
+209
+00:14:11,985 --> 00:14:14,452
+   then he mounts the wheels    
+        to the spindles         
+
+210
+00:14:14,454 --> 00:14:16,822
+    and locks them in place     
+          with nuts.            
+
+211
+00:14:21,394 --> 00:14:23,462
+      once the two wheels       
+        are installed,          
+
+212
+00:14:23,464 --> 00:14:26,531
+   a crane lifts the machine    
+   into an upright position     
+
+213
+00:14:26,533 --> 00:14:29,368
+      in order to install       
+       the rear chamber.        
+
+214
+00:14:34,608 --> 00:14:39,010
+     a crane lowers the rear    
+             chamber            
+   onto the baler assembly.     
+
+215
+00:14:39,012 --> 00:14:42,213
+   as the hay is shaped with    
+ a round bale by the machine,   
+
+216
+00:14:42,215 --> 00:14:46,218
+    it will gradually expand    
+       in this chamber.         
+
+217
+00:14:46,220 --> 00:14:50,055
+  these rubber belts will roll  
+   the hay into round bales.    
+
+218
+00:14:52,892 --> 00:14:55,627
+      the team loops them       
+  around tensioning rollers,    
+
+219
+00:14:55,629 --> 00:14:57,763
+     arranging them closely     
+           together.            
+
+220
+00:15:03,437 --> 00:15:05,904
+         a worker joins         
+     the ends of each belt      
+
+221
+00:15:05,906 --> 00:15:08,874
+     by pushing steel pins      
+    through riveted lacing.     
+
+222
+00:15:15,315 --> 00:15:19,351
+    an employee applies vinyl   
+             decals             
+ to the outside of the baler.   
+
+223
+00:15:24,391 --> 00:15:26,858
+       the decals display       
+       the company name         
+
+224
+00:15:26,860 --> 00:15:29,528
+     and the machine model      
+       in bold graphics.        
+
+225
+00:15:32,466 --> 00:15:35,266
+    the machine is equipped     
+   with hydraulic cylinders     
+
+226
+00:15:35,268 --> 00:15:39,538
+      so the rear chamber       
+  can be raised and lowered.    
+
+227
+00:15:39,540 --> 00:15:42,174
+          a technician          
+ syncs the tractor cab monitor  
+
+228
+00:15:42,176 --> 00:15:46,611
+ to sensors added to the baler  
+     during the assembly.       
+
+229
+00:15:46,613 --> 00:15:50,148
+      the sensors indicate      
+the position of the back gate,  
+
+230
+00:15:50,150 --> 00:15:52,416
+           the status           
+      of the bale wrapping      
+           equipment,           
+
+231
+00:15:52,418 --> 00:15:54,486
+     and the moisture level     
+          in the hay.           
+
+232
+00:15:56,423 --> 00:15:58,890
+  after a complete operational  
+            check,              
+
+233
+00:15:58,892 --> 00:16:02,627
+  this baler is ready to give   
+  farmers or ranchers a break   
+
+234
+00:16:02,629 --> 00:16:06,131
+   by automatically creating    
+      round bales of hay.       
+
+235
+00:16:22,449 --> 00:16:23,982
+   narrator: with footwear,     
+
+236
+00:16:23,984 --> 00:16:27,652
+     extremely comfortable      
+ used to mean extremely ugly.   
+
+237
+00:16:27,654 --> 00:16:29,387
+         not anymore.           
+
+238
+00:16:29,389 --> 00:16:33,258
+   today's comfort shoes don't  
+              look              
+  anything like they used to.   
+
+239
+00:16:33,260 --> 00:16:36,127
+  they can be just as stylish   
+      as any other shoe,        
+
+240
+00:16:36,129 --> 00:16:39,364
+    but also provide sturdy,    
+   cushioning foot support.     
+
+241
+00:16:43,269 --> 00:16:47,872
+ these comfort shoes come with  
+ two interchangeable insoles.   
+
+242
+00:16:47,874 --> 00:16:52,010
+ one is an anatomically shaped  
+     footbed with good arch     
+            support.            
+
+243
+00:16:52,012 --> 00:16:54,279
+           the other            
+   is a reflexology footbed     
+
+244
+00:16:54,281 --> 00:16:56,615
+    that massages your feet     
+        while you walk.         
+
+245
+00:16:59,018 --> 00:17:01,686
+      the top of the shoe       
+      is made of leather.       
+
+246
+00:17:01,688 --> 00:17:04,689
+     an operator spreads the    
+             cowhide            
+      on a cutting table        
+
+247
+00:17:04,691 --> 00:17:08,226
+         and positions          
+  a part-shaped steel die over  
+              it.               
+
+248
+00:17:08,228 --> 00:17:11,696
+   with a press, he forces the  
+               die              
+     through the leather.       
+
+249
+00:17:11,698 --> 00:17:13,965
+       the die has blades       
+        on both sides,          
+
+250
+00:17:13,967 --> 00:17:16,500
+        so after cutting        
+  a part for the right shoe,    
+
+251
+00:17:16,502 --> 00:17:20,438
+   he flips it over and cuts    
+   the same part for the left   
+             shoe.              
+
+252
+00:17:20,440 --> 00:17:22,707
+        they stencil on         
+   guide marks for stitching    
+
+253
+00:17:22,709 --> 00:17:25,309
+          and stamp on          
+     a production number.       
+
+254
+00:17:25,311 --> 00:17:28,513
+ due to the natural variations  
+        between hides,          
+
+255
+00:17:28,515 --> 00:17:30,315
+         they cut parts         
+      for a pair of shoes       
+
+256
+00:17:30,317 --> 00:17:32,784
+     from the same piece of     
+            leather.            
+
+257
+00:17:32,786 --> 00:17:34,719
+      a production number       
+        keeps the parts         
+
+258
+00:17:34,721 --> 00:17:39,190
+ from being inadvertently used  
+ on a different pair of shoes.  
+
+259
+00:17:39,192 --> 00:17:41,526
+      they place the part       
+       under a template         
+
+260
+00:17:41,528 --> 00:17:43,728
+       and run it through       
+       a lateral knife.         
+
+261
+00:17:43,730 --> 00:17:47,999
+  this thins the leather where  
+    it will overlap adjoining   
+             parts              
+
+262
+00:17:48,001 --> 00:17:52,003
+ so the thickness of the upper  
+  shoe is uniform throughout.   
+
+263
+00:17:52,005 --> 00:17:54,205
+    they apply reinforcement    
+             fabric             
+
+264
+00:17:54,207 --> 00:17:57,141
+  to the most wear-prone areas  
+         of the shoe.           
+
+265
+00:17:57,143 --> 00:18:00,544
+    this machine bonds these    
+ adhesive factory enforcements  
+
+266
+00:18:00,546 --> 00:18:02,814
+    with pressure and heat.     
+
+267
+00:18:02,816 --> 00:18:05,283
+        now sewers begin        
+     assembling the upper.      
+
+268
+00:18:05,285 --> 00:18:07,552
+      they glue the parts       
+    for the lining together     
+
+269
+00:18:07,554 --> 00:18:10,154
+   because stitches that are    
+   on the inside of the shoe    
+
+270
+00:18:10,156 --> 00:18:12,690
+   can sometimes irritate the   
+             foot.              
+
+271
+00:18:12,692 --> 00:18:15,426
+       the lining is made       
+     of soft calf leather,      
+
+272
+00:18:15,428 --> 00:18:18,696
+  except for a small piece of   
+   rougher goat leather at the  
+              back              
+
+273
+00:18:18,698 --> 00:18:20,065
+       to grip the heel.        
+
+274
+00:18:22,769 --> 00:18:26,638
+     they sew in the lining     
+    one section at a time.      
+
+275
+00:18:26,640 --> 00:18:31,442
+  this is the rear section of   
+   the upper, called the heel   
+              cap.              
+
+276
+00:18:31,444 --> 00:18:33,244
+    after sewing one side,      
+
+277
+00:18:33,246 --> 00:18:36,981
+   they insert a foam padding   
+   to cushion the back of the   
+             foot.              
+
+278
+00:18:36,983 --> 00:18:40,585
+ then they fold the lining over 
+    to encase the padding.      
+
+279
+00:18:45,192 --> 00:18:49,160
+ this machine punches holes and 
+embeds eyelets into the upper.  
+
+280
+00:18:53,066 --> 00:18:56,668
+     then a sewer attaches      
+ two more parts of the upper,   
+
+281
+00:18:56,670 --> 00:18:58,470
+   the tongue and the vamp.     
+
+282
+00:19:02,208 --> 00:19:06,177
+   another sewer finishes the   
+              upper             
+by stitching on the vamp ring.  
+
+283
+00:19:11,217 --> 00:19:14,619
+ they put the upper into a mold 
+     on a forming machine.      
+
+284
+00:19:14,621 --> 00:19:18,356
+    the machine works like an   
+              iron,             
+     applying both heat and     
+            pressure            
+
+285
+00:19:18,358 --> 00:19:21,726
+      to form the heel cap      
+    into the perfect shape.     
+
+286
+00:19:23,696 --> 00:19:26,764
+    the next forming machine    
+     uses the same process      
+
+287
+00:19:26,766 --> 00:19:28,833
+     to round the toe cap.      
+
+288
+00:19:38,178 --> 00:19:41,279
+  now a sewer stitches a hole   
+         to the upper.          
+
+289
+00:19:45,451 --> 00:19:48,720
+   then they steam the upper    
+      and insert a last.        
+
+290
+00:19:48,722 --> 00:19:51,256
+    a last is a foot-shaped     
+         plastic form           
+
+291
+00:19:51,258 --> 00:19:54,926
+    that matches the specific   
+              shape             
+     and size of the shoe.      
+
+292
+00:19:54,928 --> 00:19:57,996
+      they place the upper      
+      into a heat setter.       
+
+293
+00:19:57,998 --> 00:20:01,465
+    the heat forms the upper    
+   to the shape of the last.    
+
+294
+00:20:01,467 --> 00:20:02,934
+    they roll out wrinkles      
+
+295
+00:20:02,936 --> 00:20:05,837
+     and flatten any bulges     
+    with heat and pressure.     
+
+296
+00:20:08,141 --> 00:20:09,407
+     they place the upper       
+
+297
+00:20:09,409 --> 00:20:11,543
+         in a template          
+   of the shoe's outer sole     
+
+298
+00:20:11,545 --> 00:20:13,211
+      and trace the top.        
+
+299
+00:20:13,213 --> 00:20:15,747
+     they grind the leather     
+       below that line.         
+
+300
+00:20:15,749 --> 00:20:19,217
+   this roughens the surface    
+    to help with adhesion.      
+
+301
+00:20:19,219 --> 00:20:21,085
+they apply heat-activated glue  
+
+302
+00:20:21,087 --> 00:20:23,220
+     to the roughened area      
+         and the sole,          
+
+303
+00:20:23,222 --> 00:20:27,024
+         which is made          
+    of molded polyurethane.     
+
+304
+00:20:27,026 --> 00:20:29,026
+    they let the glue dry.      
+
+305
+00:20:29,028 --> 00:20:31,229
+  then they activate the glue   
+         with a heater          
+
+306
+00:20:31,231 --> 00:20:34,265
+ and join the upper and sole.   
+
+307
+00:20:34,267 --> 00:20:37,034
+      they place the shoe       
+      in a vacuum press.        
+
+308
+00:20:37,036 --> 00:20:38,837
+  the press sucks out the air   
+
+309
+00:20:38,839 --> 00:20:42,507
+   while drawing the upper and  
+              sole              
+       tightly together.        
+
+310
+00:20:42,509 --> 00:20:46,711
+ next, they add an anatomically 
+    shaped footbed insole.      
+
+311
+00:20:46,713 --> 00:20:49,180
+    it's made of a moisture     
+     absorbing combination      
+
+312
+00:20:49,182 --> 00:20:53,584
+       of cork and latex        
+     with leather on top.       
+
+313
+00:20:53,586 --> 00:20:56,187
+   then they lace the shoes     
+
+314
+00:20:56,189 --> 00:21:00,125
+     and insert cardboard to    
+             support            
+  the shape during transport.   
+
+315
+00:21:02,195 --> 00:21:04,728
+      they spray the upper      
+   with a chemical solution     
+
+316
+00:21:04,730 --> 00:21:07,098
+     that makes the leather     
+       water-resistant.         
+
+317
+00:21:10,136 --> 00:21:14,005
+   the second set of insoles    
+     goes in the shoe box.      
+
+318
+00:21:14,007 --> 00:21:16,274
+    these shoes are designed    
+       with enough room         
+
+319
+00:21:16,276 --> 00:21:19,177
+       to insert a custom       
+  orthotic device, if needed.   
+
+320
+00:21:28,355 --> 00:21:30,822
+    if you have any comments    
+        about the show,         
+
+321
+00:21:30,824 --> 00:21:33,158
+    or you'd like to suggest    
+   topics for future shows,     
+
+322
+00:21:33,160 --> 00:21:34,826
+     drop us a line at...       
+

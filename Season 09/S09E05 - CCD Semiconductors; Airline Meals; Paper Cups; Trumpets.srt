@@ -1,0 +1,2877 @@
+﻿1
+00:00:02,069 --> 00:00:05,071
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:05,073 --> 00:00:08,107
+      captions paid for by      
+  discovery communications, llc 
+
+3
+00:00:22,489 --> 00:00:32,331
+>> narrator: today on "how      
+it's made," ccd                 
+semiconductors...               
+
+4
+00:00:32,333 --> 00:00:38,637
+it's made," ccd                 
+semiconductors...               
+airline meals...                
+
+5
+00:00:38,639 --> 00:00:44,576
+semiconductors...               
+airline meals...                
+paper cups...                   
+
+6
+00:00:44,578 --> 00:00:52,985
+airline meals...                
+paper cups...                   
+and trumpets.                   
+
+7
+00:00:52,987 --> 00:00:55,121
+paper cups...                   
+and trumpets.                   
+a ccd semiconductor is the image
+
+8
+00:00:55,123 --> 00:00:57,155
+and trumpets.                   
+a ccd semiconductor is the image
+sensor in a digital camera or   
+
+9
+00:00:57,157 --> 00:00:57,956
+a ccd semiconductor is the image
+sensor in a digital camera or   
+camcorder.                      
+
+10
+00:00:57,958 --> 00:00:59,525
+sensor in a digital camera or   
+camcorder.                      
+when you snap the shutter or    
+
+11
+00:00:59,527 --> 00:01:01,193
+camcorder.                      
+when you snap the shutter or    
+press record, you expose the    
+
+12
+00:01:01,195 --> 00:01:03,528
+when you snap the shutter or    
+press record, you expose the    
+ccd to patterns of light.       
+
+13
+00:01:03,530 --> 00:01:04,997
+press record, you expose the    
+ccd to patterns of light.       
+it captures them electronically 
+
+14
+00:01:04,999 --> 00:01:06,465
+ccd to patterns of light.       
+it captures them electronically 
+by converting them into millions
+
+15
+00:01:06,467 --> 00:01:07,733
+it captures them electronically 
+by converting them into millions
+of electrical charges.          
+
+16
+00:01:07,735 --> 00:01:09,135
+by converting them into millions
+of electrical charges.          
+the camera's processor then     
+
+17
+00:01:09,137 --> 00:01:10,469
+of electrical charges.          
+the camera's processor then     
+reads these charges and         
+
+18
+00:01:10,471 --> 00:01:12,204
+the camera's processor then     
+reads these charges and         
+translates them into pictures or
+
+19
+00:01:12,206 --> 00:01:16,508
+reads these charges and         
+translates them into pictures or
+movies.                         
+
+20
+00:01:16,510 --> 00:01:19,345
+translates them into pictures or
+movies.                         
+ccds, or charge couple devices, 
+
+21
+00:01:19,347 --> 00:01:21,280
+movies.                         
+ccds, or charge couple devices, 
+are made of silicon, the main   
+
+22
+00:01:21,282 --> 00:01:22,548
+ccds, or charge couple devices, 
+are made of silicon, the main   
+element in sand.                
+
+23
+00:01:22,550 --> 00:01:24,916
+are made of silicon, the main   
+element in sand.                
+what's special about silicon?   
+
+24
+00:01:24,918 --> 00:01:26,518
+element in sand.                
+what's special about silicon?   
+when light hits it, you get     
+
+25
+00:01:26,520 --> 00:01:28,287
+what's special about silicon?   
+when light hits it, you get     
+electrons.                      
+
+26
+00:01:28,289 --> 00:01:30,255
+when light hits it, you get     
+electrons.                      
+production begins with a round  
+
+27
+00:01:30,257 --> 00:01:31,990
+electrons.                      
+production begins with a round  
+silicon wafer six inches in     
+
+28
+00:01:31,992 --> 00:01:33,992
+production begins with a round  
+silicon wafer six inches in     
+diameter and about as thick as a
+
+29
+00:01:33,994 --> 00:01:35,027
+silicon wafer six inches in     
+diameter and about as thick as a
+shirt cardboard.                
+
+30
+00:01:35,029 --> 00:01:36,829
+diameter and about as thick as a
+shirt cardboard.                
+it goes into a steam oven for   
+
+31
+00:01:36,831 --> 00:01:38,097
+shirt cardboard.                
+it goes into a steam oven for   
+three to four hours.            
+
+32
+00:01:38,099 --> 00:01:39,565
+it goes into a steam oven for   
+three to four hours.            
+the intense heat, along         
+
+33
+00:01:39,567 --> 00:01:41,166
+three to four hours.            
+the intense heat, along         
+with oxygen and hydrogen        
+
+34
+00:01:41,168 --> 00:01:42,901
+the intense heat, along         
+with oxygen and hydrogen        
+gases in the steam, create a    
+
+35
+00:01:42,903 --> 00:01:44,904
+with oxygen and hydrogen        
+gases in the steam, create a    
+glass-like layer on the wafer.  
+
+36
+00:01:44,906 --> 00:01:46,238
+gases in the steam, create a    
+glass-like layer on the wafer.  
+this insulates the silicon      
+
+37
+00:01:46,240 --> 00:01:47,339
+glass-like layer on the wafer.  
+this insulates the silicon      
+against the miniature           
+
+38
+00:01:47,341 --> 00:01:48,774
+this insulates the silicon      
+against the miniature           
+electrical circuitry that will  
+
+39
+00:01:48,776 --> 00:01:51,710
+against the miniature           
+electrical circuitry that will  
+be built on top of it.          
+
+40
+00:01:51,712 --> 00:01:53,713
+electrical circuitry that will  
+be built on top of it.          
+but first, the wafer is covered 
+
+41
+00:01:53,715 --> 00:01:56,381
+be built on top of it.          
+but first, the wafer is covered 
+in conductive material.         
+
+42
+00:01:56,383 --> 00:01:57,983
+but first, the wafer is covered 
+in conductive material.         
+this layer measures less than a 
+
+43
+00:01:57,985 --> 00:01:59,451
+in conductive material.         
+this layer measures less than a 
+micron.                         
+
+44
+00:01:59,453 --> 00:02:01,053
+this layer measures less than a 
+micron.                         
+a human hair is 100 times       
+
+45
+00:02:01,055 --> 00:02:03,221
+micron.                         
+a human hair is 100 times       
+thicker.                        
+
+46
+00:02:03,223 --> 00:02:04,956
+a human hair is 100 times       
+thicker.                        
+next, a robot applies a         
+
+47
+00:02:04,958 --> 00:02:06,792
+thicker.                        
+next, a robot applies a         
+one-micron-thick layer of       
+
+48
+00:02:06,794 --> 00:02:08,393
+next, a robot applies a         
+one-micron-thick layer of       
+photo-sensitive resin, which    
+
+49
+00:02:08,395 --> 00:02:10,162
+one-micron-thick layer of       
+photo-sensitive resin, which    
+will undergo a chemical reaction
+
+50
+00:02:10,164 --> 00:02:15,467
+photo-sensitive resin, which    
+will undergo a chemical reaction
+when exposed to light.          
+
+51
+00:02:15,469 --> 00:02:17,469
+will undergo a chemical reaction
+when exposed to light.          
+a technician places a mask over 
+
+52
+00:02:17,471 --> 00:02:18,804
+when exposed to light.          
+a technician places a mask over 
+the wafer.                      
+
+53
+00:02:18,806 --> 00:02:20,172
+a technician places a mask over 
+the wafer.                      
+the pattern on this mask is the 
+
+54
+00:02:20,174 --> 00:02:21,340
+the wafer.                      
+the pattern on this mask is the 
+scheme attic for part of the    
+
+55
+00:02:21,342 --> 00:02:22,140
+the pattern on this mask is the 
+scheme attic for part of the    
+circuitry.                      
+
+56
+00:02:22,142 --> 00:02:23,775
+scheme attic for part of the    
+circuitry.                      
+when you take a picture, you    
+
+57
+00:02:23,777 --> 00:02:25,377
+circuitry.                      
+when you take a picture, you    
+expose the silicon wafer to     
+
+58
+00:02:25,379 --> 00:02:26,812
+when you take a picture, you    
+expose the silicon wafer to     
+light and that generates        
+
+59
+00:02:26,814 --> 00:02:27,646
+expose the silicon wafer to     
+light and that generates        
+electrons.                      
+
+60
+00:02:27,648 --> 00:02:29,247
+light and that generates        
+electrons.                      
+the circuitry carries those     
+
+61
+00:02:29,249 --> 00:02:30,816
+electrons.                      
+the circuitry carries those     
+electrons to the camera's       
+
+62
+00:02:30,818 --> 00:02:32,217
+the circuitry carries those     
+electrons to the camera's       
+processor, which reads the      
+
+63
+00:02:32,219 --> 00:02:33,686
+electrons to the camera's       
+processor, which reads the      
+charges and translates them     
+
+64
+00:02:33,688 --> 00:02:36,021
+processor, which reads the      
+charges and translates them     
+into an image.                  
+
+65
+00:02:36,023 --> 00:02:38,056
+charges and translates them     
+into an image.                  
+this machine exposes the masked 
+
+66
+00:02:38,058 --> 00:02:40,158
+into an image.                  
+this machine exposes the masked 
+wafer to ultraviolet light.     
+
+67
+00:02:40,160 --> 00:02:41,393
+this machine exposes the masked 
+wafer to ultraviolet light.     
+the resin underneath            
+
+68
+00:02:41,395 --> 00:02:42,628
+wafer to ultraviolet light.     
+the resin underneath            
+the circuitry pattern           
+
+69
+00:02:42,630 --> 00:02:43,628
+the resin underneath            
+the circuitry pattern           
+remains intact,                 
+
+70
+00:02:43,630 --> 00:02:45,364
+the circuitry pattern           
+remains intact,                 
+protecting the conductive layer 
+
+71
+00:02:45,366 --> 00:02:46,465
+remains intact,                 
+protecting the conductive layer 
+beneath it.                     
+
+72
+00:02:46,467 --> 00:02:48,500
+protecting the conductive layer 
+beneath it.                     
+the resin on the areas not      
+
+73
+00:02:48,502 --> 00:02:50,302
+beneath it.                     
+the resin on the areas not      
+masked by the circuitry pattern 
+
+74
+00:02:50,304 --> 00:02:56,042
+the resin on the areas not      
+masked by the circuitry pattern 
+needs to be removed.            
+
+75
+00:02:56,044 --> 00:02:58,043
+masked by the circuitry pattern 
+needs to be removed.            
+chemicals are sprayed on.       
+
+76
+00:02:58,045 --> 00:02:59,245
+needs to be removed.            
+chemicals are sprayed on.       
+this dissolves the resin        
+
+77
+00:02:59,247 --> 00:03:00,713
+chemicals are sprayed on.       
+this dissolves the resin        
+exposing the conductive layer   
+
+78
+00:03:00,715 --> 00:03:03,516
+this dissolves the resin        
+exposing the conductive layer   
+underneath.                     
+
+79
+00:03:03,518 --> 00:03:05,651
+exposing the conductive layer   
+underneath.                     
+technicians repeat this entire  
+
+80
+00:03:05,653 --> 00:03:07,919
+underneath.                     
+technicians repeat this entire  
+process with anywhere from 13 to
+
+81
+00:03:07,921 --> 00:03:09,654
+technicians repeat this entire  
+process with anywhere from 13 to
+30 masks until they've built up 
+
+82
+00:03:09,656 --> 00:03:11,256
+process with anywhere from 13 to
+30 masks until they've built up 
+the full circuitry pattern on   
+
+83
+00:03:11,258 --> 00:03:18,196
+30 masks until they've built up 
+the full circuitry pattern on   
+the wafer.                      
+
+84
+00:03:18,198 --> 00:03:20,265
+the full circuitry pattern on   
+the wafer.                      
+next, technicians submerge the  
+
+85
+00:03:20,267 --> 00:03:22,501
+the wafer.                      
+next, technicians submerge the  
+wafer in acid, which eats away  
+
+86
+00:03:22,503 --> 00:03:24,336
+next, technicians submerge the  
+wafer in acid, which eats away  
+the uncovered conductive layer. 
+
+87
+00:03:24,338 --> 00:03:26,004
+wafer in acid, which eats away  
+the uncovered conductive layer. 
+so, now, the only conductive    
+
+88
+00:03:26,006 --> 00:03:27,806
+the uncovered conductive layer. 
+so, now, the only conductive    
+material left on the wafer is   
+
+89
+00:03:27,808 --> 00:03:34,913
+so, now, the only conductive    
+material left on the wafer is   
+the actual circuitry.           
+
+90
+00:03:34,915 --> 00:03:36,915
+material left on the wafer is   
+the actual circuitry.           
+next step, a thorough rinsing in
+
+91
+00:03:36,917 --> 00:03:41,186
+the actual circuitry.           
+next step, a thorough rinsing in
+tap water to remove the residue.
+
+92
+00:03:41,188 --> 00:03:42,888
+next step, a thorough rinsing in
+tap water to remove the residue.
+then a rinse with purified water
+
+93
+00:03:42,890 --> 00:03:44,556
+tap water to remove the residue.
+then a rinse with purified water
+to remove any impurities left   
+
+94
+00:03:44,558 --> 00:03:47,192
+then a rinse with purified water
+to remove any impurities left   
+by the tap water.               
+
+95
+00:03:47,194 --> 00:03:48,627
+to remove any impurities left   
+by the tap water.               
+throughout production,          
+
+96
+00:03:48,629 --> 00:03:50,362
+by the tap water.               
+throughout production,          
+contamination is a concern.     
+
+97
+00:03:50,364 --> 00:03:52,231
+throughout production,          
+contamination is a concern.     
+a single speck of dust can ruin 
+
+98
+00:03:52,233 --> 00:03:54,099
+contamination is a concern.     
+a single speck of dust can ruin 
+an entire wafer.                
+
+99
+00:03:54,101 --> 00:03:55,634
+a single speck of dust can ruin 
+an entire wafer.                
+to protect and insulate the     
+
+100
+00:03:55,636 --> 00:03:57,303
+an entire wafer.                
+to protect and insulate the     
+circuitry, the wafer is coated  
+
+101
+00:03:57,305 --> 00:03:59,371
+to protect and insulate the     
+circuitry, the wafer is coated  
+in liquid glass, then baked for 
+
+102
+00:03:59,373 --> 00:04:01,106
+circuitry, the wafer is coated  
+in liquid glass, then baked for 
+two hours, until the glass      
+
+103
+00:04:01,108 --> 00:04:02,574
+in liquid glass, then baked for 
+two hours, until the glass      
+hardens.                        
+
+104
+00:04:02,576 --> 00:04:04,276
+two hours, until the glass      
+hardens.                        
+the wafer surface is divided    
+
+105
+00:04:04,278 --> 00:04:06,245
+hardens.                        
+the wafer surface is divided    
+into 25 million tiny square     
+
+106
+00:04:06,247 --> 00:04:08,380
+the wafer surface is divided    
+into 25 million tiny square     
+cells called pixels.            
+
+107
+00:04:08,382 --> 00:04:10,015
+into 25 million tiny square     
+cells called pixels.            
+when you take a photo, each     
+
+108
+00:04:10,017 --> 00:04:11,317
+cells called pixels.            
+when you take a photo, each     
+pixel records the light         
+
+109
+00:04:11,319 --> 00:04:13,052
+when you take a photo, each     
+pixel records the light         
+intensity of a minute portion of
+
+110
+00:04:13,054 --> 00:04:14,820
+pixel records the light         
+intensity of a minute portion of
+the scene, generating an        
+
+111
+00:04:14,822 --> 00:04:16,154
+intensity of a minute portion of
+the scene, generating an        
+electrical charge.              
+
+112
+00:04:16,156 --> 00:04:18,190
+the scene, generating an        
+electrical charge.              
+a filter on the ccd translates  
+
+113
+00:04:18,192 --> 00:04:19,925
+electrical charge.              
+a filter on the ccd translates  
+each pixel charge into color.   
+
+114
+00:04:19,927 --> 00:04:21,660
+a filter on the ccd translates  
+each pixel charge into color.   
+the company makes this filter   
+
+115
+00:04:21,662 --> 00:04:23,461
+each pixel charge into color.   
+the company makes this filter   
+with three pigment powders --   
+
+116
+00:04:23,463 --> 00:04:25,598
+the company makes this filter   
+with three pigment powders --   
+red, green and blue.            
+
+117
+00:04:25,600 --> 00:04:27,465
+with three pigment powders --   
+red, green and blue.            
+these three colors combined in  
+
+118
+00:04:27,467 --> 00:04:29,335
+red, green and blue.            
+these three colors combined in  
+varying ratios can reproduce any
+
+119
+00:04:29,337 --> 00:04:29,901
+these three colors combined in  
+varying ratios can reproduce any
+color.                          
+
+120
+00:04:29,903 --> 00:04:31,770
+varying ratios can reproduce any
+color.                          
+the camera's processor reads and
+
+121
+00:04:31,772 --> 00:04:33,539
+color.                          
+the camera's processor reads and
+then reconstructs the photograph
+
+122
+00:04:33,541 --> 00:04:40,279
+the camera's processor reads and
+then reconstructs the photograph
+scene pixel by pixel.           
+
+123
+00:04:40,281 --> 00:04:42,347
+then reconstructs the photograph
+scene pixel by pixel.           
+each finished ccd undergoes a   
+
+124
+00:04:42,349 --> 00:04:44,449
+scene pixel by pixel.           
+each finished ccd undergoes a   
+battery of automated tests to   
+
+125
+00:04:44,451 --> 00:04:45,784
+each finished ccd undergoes a   
+battery of automated tests to   
+ensure that all the circuits are
+
+126
+00:04:45,786 --> 00:04:46,819
+battery of automated tests to   
+ensure that all the circuits are
+functional.                     
+
+127
+00:04:46,821 --> 00:04:48,153
+ensure that all the circuits are
+functional.                     
+the machine marks faulty        
+
+128
+00:04:48,155 --> 00:04:49,487
+functional.                     
+the machine marks faulty        
+circuits with ink.              
+
+129
+00:04:49,489 --> 00:04:51,389
+the machine marks faulty        
+circuits with ink.              
+just one bad circuit means the  
+
+130
+00:04:51,391 --> 00:04:52,858
+circuits with ink.              
+just one bad circuit means the  
+entire ccd needs to be          
+
+131
+00:04:52,860 --> 00:04:54,727
+just one bad circuit means the  
+entire ccd needs to be          
+discarded.                      
+
+132
+00:05:04,838 --> 00:05:09,909
+technicians then check every ccd
+under a microscope looking for  
+scratches that might have       
+
+133
+00:05:09,911 --> 00:05:11,110
+under a microscope looking for  
+scratches that might have       
+occurred during the production  
+
+134
+00:05:11,112 --> 00:05:19,652
+scratches that might have       
+occurred during the production  
+process.                        
+
+135
+00:05:19,654 --> 00:05:21,519
+occurred during the production  
+process.                        
+the number of pixels on a ccd   
+
+136
+00:05:21,521 --> 00:05:23,421
+process.                        
+the number of pixels on a ccd   
+varies depending on what type of
+
+137
+00:05:23,423 --> 00:05:25,257
+the number of pixels on a ccd   
+varies depending on what type of
+camera it's for.                
+
+138
+00:05:25,259 --> 00:05:28,360
+varies depending on what type of
+camera it's for.                
+this one is a 25 megapixel ccd, 
+
+139
+00:05:28,362 --> 00:05:30,095
+camera it's for.                
+this one is a 25 megapixel ccd, 
+meaning it has 25 million       
+
+140
+00:05:30,097 --> 00:05:31,263
+this one is a 25 megapixel ccd, 
+meaning it has 25 million       
+pixels.                         
+
+141
+00:05:31,265 --> 00:05:32,798
+meaning it has 25 million       
+pixels.                         
+this company even produces a    
+
+142
+00:05:32,800 --> 00:05:35,401
+pixels.                         
+this company even produces a    
+single ccd that has 111         
+
+143
+00:05:35,403 --> 00:05:37,168
+this company even produces a    
+single ccd that has 111         
+megapixels.                     
+
+144
+00:05:37,170 --> 00:05:38,603
+single ccd that has 111         
+megapixels.                     
+so the next time you say,       
+
+145
+00:05:38,605 --> 00:05:40,206
+megapixels.                     
+so the next time you say,       
+"cheese," remember that you're  
+
+146
+00:05:40,208 --> 00:05:42,007
+so the next time you say,       
+"cheese," remember that you're  
+producing a digital photo thanks
+
+147
+00:05:42,009 --> 00:05:43,609
+"cheese," remember that you're  
+producing a digital photo thanks
+to all that painstaking work    
+
+148
+00:05:43,611 --> 00:05:45,443
+producing a digital photo thanks
+to all that painstaking work    
+that went into the sophisticated
+
+149
+00:05:45,445 --> 00:05:47,012
+to all that painstaking work    
+that went into the sophisticated
+ccd semiconductor inside your   
+
+150
+00:05:47,014 --> 00:05:50,549
+that went into the sophisticated
+ccd semiconductor inside your   
+camera.                         
+
+151
+00:05:50,551 --> 00:05:52,250
+ccd semiconductor inside your   
+camera.                         
+>> when we return, creating the 
+
+152
+00:05:52,252 --> 00:05:53,619
+camera.                         
+>> when we return, creating the 
+ultimate to-go meals for        
+
+153
+00:05:53,621 --> 00:05:55,454
+>> when we return, creating the 
+ultimate to-go meals for        
+today's highflyers.             
+
+154
+00:06:02,028 --> 00:06:05,730
+>> narrator: in the earliest    
+days of air travel, passengers  
+really lived the high life.     
+
+155
+00:06:05,732 --> 00:06:06,498
+days of air travel, passengers  
+really lived the high life.     
+they were served                
+
+156
+00:06:06,500 --> 00:06:07,699
+really lived the high life.     
+they were served                
+multi-course meals that         
+
+157
+00:06:07,701 --> 00:06:09,434
+they were served                
+multi-course meals that         
+were actually prepared during   
+
+158
+00:06:09,436 --> 00:06:10,035
+multi-course meals that         
+were actually prepared during   
+flight.                         
+
+159
+00:06:10,037 --> 00:06:11,837
+were actually prepared during   
+flight.                         
+but as air travel boomed, this  
+
+160
+00:06:11,839 --> 00:06:13,038
+flight.                         
+but as air travel boomed, this  
+kind of service became          
+
+161
+00:06:13,040 --> 00:06:14,640
+but as air travel boomed, this  
+kind of service became          
+impractical, and airlines turned
+
+162
+00:06:14,642 --> 00:06:17,109
+kind of service became          
+impractical, and airlines turned
+to premade meals.               
+
+163
+00:06:26,652 --> 00:06:30,555
+not all food fares well at high 
+altitudes.                      
+that's why you don't see any    
+
+164
+00:06:30,557 --> 00:06:32,258
+altitudes.                      
+that's why you don't see any    
+souffles at 30,000 feet.        
+
+165
+00:06:32,260 --> 00:06:34,426
+that's why you don't see any    
+souffles at 30,000 feet.        
+they couldn't possibly rise to  
+
+166
+00:06:34,428 --> 00:06:35,260
+souffles at 30,000 feet.        
+they couldn't possibly rise to  
+the occasion.                   
+
+167
+00:06:35,262 --> 00:06:36,461
+they couldn't possibly rise to  
+the occasion.                   
+it's just one of the            
+
+168
+00:06:36,463 --> 00:06:38,263
+the occasion.                   
+it's just one of the            
+restrictions airline chefs need 
+
+169
+00:06:38,265 --> 00:06:39,898
+it's just one of the            
+restrictions airline chefs need 
+to consider when preparing a    
+
+170
+00:06:39,900 --> 00:06:44,302
+restrictions airline chefs need 
+to consider when preparing a    
+menu.                           
+
+171
+00:06:44,304 --> 00:06:46,304
+to consider when preparing a    
+menu.                           
+airline meals start with tons of
+
+172
+00:06:46,306 --> 00:06:47,806
+menu.                           
+airline meals start with tons of
+ingredients, literally.         
+
+173
+00:06:47,808 --> 00:06:49,475
+airline meals start with tons of
+ingredients, literally.         
+just one facility can turn out  
+
+174
+00:06:49,477 --> 00:06:54,146
+ingredients, literally.         
+just one facility can turn out  
+45,000 meals in a single day.   
+
+175
+00:06:54,148 --> 00:06:55,681
+just one facility can turn out  
+45,000 meals in a single day.   
+of course, the cooks wash their 
+
+176
+00:06:55,683 --> 00:06:57,115
+45,000 meals in a single day.   
+of course, the cooks wash their 
+hands very thoroughly because   
+
+177
+00:06:57,117 --> 00:06:58,683
+of course, the cooks wash their 
+hands very thoroughly because   
+they don't want any germs stowed
+
+178
+00:06:58,685 --> 00:07:05,623
+hands very thoroughly because   
+they don't want any germs stowed
+away in the meal.               
+
+179
+00:07:05,625 --> 00:07:07,092
+they don't want any germs stowed
+away in the meal.               
+they cook on grills that are    
+
+180
+00:07:07,094 --> 00:07:08,693
+away in the meal.               
+they cook on grills that are    
+five feet long.                 
+
+181
+00:07:08,695 --> 00:07:10,296
+they cook on grills that are    
+five feet long.                 
+at one end, they stir-fry       
+
+182
+00:07:10,298 --> 00:07:12,998
+five feet long.                 
+at one end, they stir-fry       
+vegetables, while at the other, 
+
+183
+00:07:13,000 --> 00:07:20,071
+at one end, they stir-fry       
+vegetables, while at the other, 
+they sauté potatoes.            
+
+184
+00:07:20,073 --> 00:07:23,108
+vegetables, while at the other, 
+they sauté potatoes.            
+then, they spice it up.         
+
+185
+00:07:23,110 --> 00:07:24,976
+they sauté potatoes.            
+then, they spice it up.         
+airline food isn't as bland as  
+
+186
+00:07:24,978 --> 00:07:28,079
+then, they spice it up.         
+airline food isn't as bland as  
+it's reputed to be.             
+
+187
+00:07:28,081 --> 00:07:29,647
+airline food isn't as bland as  
+it's reputed to be.             
+researchers believe that low    
+
+188
+00:07:29,649 --> 00:07:31,249
+it's reputed to be.             
+researchers believe that low    
+humidity and the pressurized    
+
+189
+00:07:31,251 --> 00:07:32,984
+researchers believe that low    
+humidity and the pressurized    
+environment cause our taste buds
+
+190
+00:07:32,986 --> 00:07:34,386
+humidity and the pressurized    
+environment cause our taste buds
+to work less efficiently in an  
+
+191
+00:07:34,388 --> 00:07:35,954
+environment cause our taste buds
+to work less efficiently in an  
+airplane, something to take into
+
+192
+00:07:35,956 --> 00:07:37,389
+to work less efficiently in an  
+airplane, something to take into
+account when you're traveling   
+
+193
+00:07:37,391 --> 00:07:38,990
+airplane, something to take into
+account when you're traveling   
+by air.                         
+
+194
+00:07:38,992 --> 00:07:40,525
+account when you're traveling   
+by air.                         
+recipes vary according to the   
+
+195
+00:07:40,527 --> 00:07:41,260
+by air.                         
+recipes vary according to the   
+route.                          
+
+196
+00:07:41,262 --> 00:07:43,729
+recipes vary according to the   
+route.                          
+flights to more exotic locales  
+
+197
+00:07:43,731 --> 00:07:45,697
+route.                          
+flights to more exotic locales  
+will offer spicier dishes, while
+
+198
+00:07:45,699 --> 00:07:47,533
+flights to more exotic locales  
+will offer spicier dishes, while
+a domestic north american flight
+
+199
+00:07:47,535 --> 00:07:49,201
+will offer spicier dishes, while
+a domestic north american flight
+usually calls for more moderate 
+
+200
+00:07:49,203 --> 00:07:56,808
+a domestic north american flight
+usually calls for more moderate 
+seasoning.                      
+
+201
+00:07:56,810 --> 00:07:58,344
+usually calls for more moderate 
+seasoning.                      
+cooks fire up different grills  
+
+202
+00:07:58,346 --> 00:08:02,747
+seasoning.                      
+cooks fire up different grills  
+for the meat.                   
+
+203
+00:08:02,749 --> 00:08:04,249
+cooks fire up different grills  
+for the meat.                   
+they prepare food for the crew  
+
+204
+00:08:04,251 --> 00:08:06,251
+for the meat.                   
+they prepare food for the crew  
+as well as the passengers.      
+
+205
+00:08:06,253 --> 00:08:08,086
+they prepare food for the crew  
+as well as the passengers.      
+on many airlines, the pilot and 
+
+206
+00:08:08,088 --> 00:08:09,721
+as well as the passengers.      
+on many airlines, the pilot and 
+co-pilot must eat different     
+
+207
+00:08:09,723 --> 00:08:11,423
+on many airlines, the pilot and 
+co-pilot must eat different     
+meals to minimize the risk of   
+
+208
+00:08:11,425 --> 00:08:12,791
+co-pilot must eat different     
+meals to minimize the risk of   
+food-related illness            
+
+209
+00:08:12,793 --> 00:08:14,927
+meals to minimize the risk of   
+food-related illness            
+compromising the flight.        
+
+210
+00:08:25,438 --> 00:08:33,579
+the cooked food will now be     
+blast chilled in special        
+fridges.                        
+
+211
+00:08:33,581 --> 00:08:35,180
+blast chilled in special        
+fridges.                        
+cooks scrub up again as they    
+
+212
+00:08:35,182 --> 00:08:41,453
+fridges.                        
+cooks scrub up again as they    
+prepare to assemble the meals.  
+
+213
+00:08:41,455 --> 00:08:42,721
+cooks scrub up again as they    
+prepare to assemble the meals.  
+they start with the food that   
+
+214
+00:08:42,723 --> 00:08:43,888
+prepare to assemble the meals.  
+they start with the food that   
+needs to be reheated on the     
+
+215
+00:08:43,890 --> 00:08:44,656
+they start with the food that   
+needs to be reheated on the     
+plane.                          
+
+216
+00:08:44,658 --> 00:08:46,958
+needs to be reheated on the     
+plane.                          
+it goes into foil containers.   
+
+217
+00:08:46,960 --> 00:08:49,094
+plane.                          
+it goes into foil containers.   
+smaller containers inside help  
+
+218
+00:08:49,096 --> 00:08:50,996
+it goes into foil containers.   
+smaller containers inside help  
+control the portion sizes.      
+
+219
+00:08:50,998 --> 00:08:52,531
+smaller containers inside help  
+control the portion sizes.      
+cooks must be careful not to    
+
+220
+00:08:52,533 --> 00:08:54,066
+control the portion sizes.      
+cooks must be careful not to    
+overstuff them because that     
+
+221
+00:08:54,068 --> 00:08:56,535
+cooks must be careful not to    
+overstuff them because that     
+could cause messy spills later. 
+
+222
+00:09:06,079 --> 00:09:11,216
+a little sauce and a generous   
+dab of herb butter, and you have
+the makings of a first-class    
+
+223
+00:09:11,218 --> 00:09:14,019
+dab of herb butter, and you have
+the makings of a first-class    
+meal.                           
+
+224
+00:09:14,021 --> 00:09:15,687
+the makings of a first-class    
+meal.                           
+finally, the food is covered    
+
+225
+00:09:15,689 --> 00:09:19,424
+meal.                           
+finally, the food is covered    
+with a vented lid.              
+
+226
+00:09:19,426 --> 00:09:20,959
+finally, the food is covered    
+with a vented lid.              
+with each menu change, chefs    
+
+227
+00:09:20,961 --> 00:09:22,193
+with a vented lid.              
+with each menu change, chefs    
+must meet with airline          
+
+228
+00:09:22,195 --> 00:09:23,661
+with each menu change, chefs    
+must meet with airline          
+representatives.                
+
+229
+00:09:23,663 --> 00:09:25,230
+must meet with airline          
+representatives.                
+they serve up sample dishes and 
+
+230
+00:09:25,232 --> 00:09:26,698
+representatives.                
+they serve up sample dishes and 
+discuss the ingredients with    
+
+231
+00:09:26,700 --> 00:09:28,433
+they serve up sample dishes and 
+discuss the ingredients with    
+them.                           
+
+232
+00:09:28,435 --> 00:09:29,634
+discuss the ingredients with    
+them.                           
+there's often a lot of          
+
+233
+00:09:29,636 --> 00:09:31,102
+them.                           
+there's often a lot of          
+negotiation before the final    
+
+234
+00:09:31,104 --> 00:09:40,311
+there's often a lot of          
+negotiation before the final    
+menu is agreed upon.            
+
+235
+00:09:40,313 --> 00:09:41,980
+negotiation before the final    
+menu is agreed upon.            
+every detail about an airline   
+
+236
+00:09:41,982 --> 00:09:43,782
+menu is agreed upon.            
+every detail about an airline   
+meal is carefully planned right 
+
+237
+00:09:43,784 --> 00:09:45,717
+every detail about an airline   
+meal is carefully planned right 
+down to the plates and bowls and
+
+238
+00:09:45,719 --> 00:09:46,452
+meal is carefully planned right 
+down to the plates and bowls and
+how they're placed on the       
+
+239
+00:09:46,454 --> 00:09:48,653
+down to the plates and bowls and
+how they're placed on the       
+serving tray.                   
+
+240
+00:09:48,655 --> 00:09:50,355
+how they're placed on the       
+serving tray.                   
+it takes a bit of arranging to  
+
+241
+00:09:50,357 --> 00:10:00,265
+serving tray.                   
+it takes a bit of arranging to  
+make everything fit.            
+
+242
+00:10:00,267 --> 00:10:01,833
+it takes a bit of arranging to  
+make everything fit.            
+once planners finalize the      
+
+243
+00:10:01,835 --> 00:10:03,535
+make everything fit.            
+once planners finalize the      
+arrangements, they follow that  
+
+244
+00:10:03,537 --> 00:10:09,207
+once planners finalize the      
+arrangements, they follow that  
+formula in the kitchen.         
+
+245
+00:10:09,209 --> 00:10:10,875
+arrangements, they follow that  
+formula in the kitchen.         
+as with any meal, presentation  
+
+246
+00:10:10,877 --> 00:10:17,315
+formula in the kitchen.         
+as with any meal, presentation  
+counts for a lot.               
+
+247
+00:10:17,317 --> 00:10:19,418
+as with any meal, presentation  
+counts for a lot.               
+of course, meals in economy     
+
+248
+00:10:19,420 --> 00:10:21,753
+counts for a lot.               
+of course, meals in economy     
+class are more simple, and the  
+
+249
+00:10:21,755 --> 00:10:31,029
+of course, meals in economy     
+class are more simple, and the  
+planning less detailed.         
+
+250
+00:10:31,031 --> 00:10:32,897
+class are more simple, and the  
+planning less detailed.         
+the food-laden trays go onto    
+
+251
+00:10:32,899 --> 00:10:34,766
+planning less detailed.         
+the food-laden trays go onto    
+trolleys and are rolled into a  
+
+252
+00:10:34,768 --> 00:10:36,101
+the food-laden trays go onto    
+trolleys and are rolled into a  
+big, refrigerated room, where   
+
+253
+00:10:36,103 --> 00:10:37,602
+trolleys and are rolled into a  
+big, refrigerated room, where   
+they're arranged according to   
+
+254
+00:10:37,604 --> 00:10:40,639
+big, refrigerated room, where   
+they're arranged according to   
+the flight number.              
+
+255
+00:10:40,641 --> 00:10:42,174
+they're arranged according to   
+the flight number.              
+they won't be here for long     
+
+256
+00:10:42,176 --> 00:10:43,842
+the flight number.              
+they won't be here for long     
+because every meal is made to be
+
+257
+00:10:43,844 --> 00:10:47,579
+they won't be here for long     
+because every meal is made to be
+served that day.                
+
+258
+00:10:47,581 --> 00:10:48,847
+because every meal is made to be
+served that day.                
+and all the groundwork          
+
+259
+00:10:48,849 --> 00:10:50,515
+served that day.                
+and all the groundwork          
+beforehand is sure to pay off   
+
+260
+00:10:50,517 --> 00:10:52,250
+and all the groundwork          
+beforehand is sure to pay off   
+once passengers and crew are in 
+
+261
+00:10:52,252 --> 00:11:00,658
+beforehand is sure to pay off   
+once passengers and crew are in 
+the air.                        
+
+262
+00:11:00,660 --> 00:11:02,560
+once passengers and crew are in 
+the air.                        
+up next, a popular product that 
+
+263
+00:11:02,562 --> 00:11:04,329
+the air.                        
+up next, a popular product that 
+lets us all enjoy one for the   
+
+264
+00:11:04,331 --> 00:11:05,430
+up next, a popular product that 
+lets us all enjoy one for the   
+road.                           
+
+265
+00:11:12,205 --> 00:11:16,608
+>> narrator: the paper cup was  
+invented around the turn of the 
+20th century to stop the spread 
+
+266
+00:11:16,610 --> 00:11:17,809
+invented around the turn of the 
+20th century to stop the spread 
+of disease.                     
+
+267
+00:11:17,811 --> 00:11:19,878
+20th century to stop the spread 
+of disease.                     
+today, it's an integral part of 
+
+268
+00:11:19,880 --> 00:11:21,146
+of disease.                     
+today, it's an integral part of 
+our culture.                    
+
+269
+00:11:21,148 --> 00:11:22,847
+today, it's an integral part of 
+our culture.                    
+paper cups provide a convenient 
+
+270
+00:11:22,849 --> 00:11:24,416
+our culture.                    
+paper cups provide a convenient 
+and hygienic way to serve food  
+
+271
+00:11:24,418 --> 00:11:26,718
+paper cups provide a convenient 
+and hygienic way to serve food  
+and beverages, and the lining of
+
+272
+00:11:26,720 --> 00:11:28,319
+and hygienic way to serve food  
+and beverages, and the lining of
+water-tight plastic or wax      
+
+273
+00:11:28,321 --> 00:11:36,027
+and beverages, and the lining of
+water-tight plastic or wax      
+prevents any nasty leaks.       
+
+274
+00:11:36,029 --> 00:11:37,528
+water-tight plastic or wax      
+prevents any nasty leaks.       
+and where would we be without   
+
+275
+00:11:37,530 --> 00:11:40,699
+prevents any nasty leaks.       
+and where would we be without   
+our disposable coffee cups?     
+
+276
+00:11:40,701 --> 00:11:42,467
+and where would we be without   
+our disposable coffee cups?     
+production starts with paper    
+
+277
+00:11:42,469 --> 00:11:44,303
+our disposable coffee cups?     
+production starts with paper    
+that has a thin plastic coating.
+
+278
+00:11:44,305 --> 00:11:46,204
+production starts with paper    
+that has a thin plastic coating.
+it unrolls into a printer that's
+
+279
+00:11:46,206 --> 00:11:53,779
+that has a thin plastic coating.
+it unrolls into a printer that's
+as long as a bowling lane.      
+
+280
+00:11:53,781 --> 00:11:55,413
+it unrolls into a printer that's
+as long as a bowling lane.      
+as the paper weaves through the 
+
+281
+00:11:55,415 --> 00:11:56,848
+as long as a bowling lane.      
+as the paper weaves through the 
+machine, printing cylinders     
+
+282
+00:11:56,850 --> 00:11:58,616
+as the paper weaves through the 
+machine, printing cylinders     
+layer an image onto the paper   
+
+283
+00:11:58,618 --> 00:12:08,626
+machine, printing cylinders     
+layer an image onto the paper   
+one color at a time.            
+
+284
+00:12:08,628 --> 00:12:10,328
+layer an image onto the paper   
+one color at a time.            
+when the image is complete, a   
+
+285
+00:12:10,330 --> 00:12:11,829
+one color at a time.            
+when the image is complete, a   
+rotary die cuts the paper       
+
+286
+00:12:11,831 --> 00:12:13,264
+when the image is complete, a   
+rotary die cuts the paper       
+into what's called a flat.      
+
+287
+00:12:13,266 --> 00:12:14,933
+rotary die cuts the paper       
+into what's called a flat.      
+the dimensions of the flat vary 
+
+288
+00:12:14,935 --> 00:12:16,668
+into what's called a flat.      
+the dimensions of the flat vary 
+depending on the size of the cup
+
+289
+00:12:16,670 --> 00:12:17,702
+the dimensions of the flat vary 
+depending on the size of the cup
+being made.                     
+
+290
+00:12:17,704 --> 00:12:19,437
+depending on the size of the cup
+being made.                     
+each flat will eventually become
+
+291
+00:12:19,439 --> 00:12:20,471
+being made.                     
+each flat will eventually become
+a paper cup.                    
+
+292
+00:12:20,473 --> 00:12:22,407
+each flat will eventually become
+a paper cup.                    
+they land on a conveyor in a    
+
+293
+00:12:22,409 --> 00:12:24,743
+a paper cup.                    
+they land on a conveyor in a    
+shingle-like lineup.            
+
+294
+00:12:24,745 --> 00:12:26,678
+they land on a conveyor in a    
+shingle-like lineup.            
+a computerized system counts the
+
+295
+00:12:26,680 --> 00:12:28,479
+shingle-like lineup.            
+a computerized system counts the
+flats and divvies them up into  
+
+296
+00:12:28,481 --> 00:12:37,689
+a computerized system counts the
+flats and divvies them up into  
+stacks of 200.                  
+
+297
+00:12:37,691 --> 00:12:39,457
+flats and divvies them up into  
+stacks of 200.                  
+the flats drop into an elevator 
+
+298
+00:12:39,459 --> 00:12:40,959
+stacks of 200.                  
+the flats drop into an elevator 
+stacker.                        
+
+299
+00:12:40,961 --> 00:12:42,594
+the flats drop into an elevator 
+stacker.                        
+it creates piles that workers   
+
+300
+00:12:42,596 --> 00:12:45,730
+stacker.                        
+it creates piles that workers   
+can easily collect.             
+
+301
+00:12:45,732 --> 00:12:46,965
+it creates piles that workers   
+can easily collect.             
+they load them into another     
+
+302
+00:12:46,967 --> 00:12:48,367
+can easily collect.             
+they load them into another     
+conveyor in a different part of 
+
+303
+00:12:48,369 --> 00:12:50,001
+they load them into another     
+conveyor in a different part of 
+the factory.                    
+
+304
+00:12:50,003 --> 00:12:51,236
+conveyor in a different part of 
+the factory.                    
+it moves the flats in a         
+
+305
+00:12:51,238 --> 00:12:52,804
+the factory.                    
+it moves the flats in a         
+vibrating shuffle up into the   
+
+306
+00:12:52,806 --> 00:12:58,644
+it moves the flats in a         
+vibrating shuffle up into the   
+cup machine.                    
+
+307
+00:12:58,646 --> 00:13:00,578
+vibrating shuffle up into the   
+cup machine.                    
+meanwhile, a roll of paper winds
+
+308
+00:13:00,580 --> 00:13:02,180
+cup machine.                    
+meanwhile, a roll of paper winds
+into the other side of that     
+
+309
+00:13:02,182 --> 00:13:04,116
+meanwhile, a roll of paper winds
+into the other side of that     
+machine, where a die punches out
+
+310
+00:13:04,118 --> 00:13:12,124
+into the other side of that     
+machine, where a die punches out
+bottoms for the paper cups.     
+
+311
+00:13:12,126 --> 00:13:13,591
+machine, where a die punches out
+bottoms for the paper cups.     
+this leaves a long strip of     
+
+312
+00:13:13,593 --> 00:13:15,059
+bottoms for the paper cups.     
+this leaves a long strip of     
+scrap paper which gets sucked   
+
+313
+00:13:15,061 --> 00:13:16,928
+this leaves a long strip of     
+scrap paper which gets sucked   
+away for recycling.             
+
+314
+00:13:28,207 --> 00:13:37,349
+meanwhile, the flats are relayed
+to a carousel.                  
+now the paper cup takes shape.  
+
+315
+00:13:37,351 --> 00:13:39,351
+to a carousel.                  
+now the paper cup takes shape.  
+mechanical jaws wrap each flat, 
+
+316
+00:13:39,353 --> 00:13:47,559
+now the paper cup takes shape.  
+mechanical jaws wrap each flat, 
+and a heat gun seals the seam.  
+
+317
+00:13:47,561 --> 00:13:49,361
+mechanical jaws wrap each flat, 
+and a heat gun seals the seam.  
+and now, you have a paper cup   
+
+318
+00:13:49,363 --> 00:13:52,964
+and a heat gun seals the seam.  
+and now, you have a paper cup   
+with no bottom.                 
+
+319
+00:13:52,966 --> 00:13:55,300
+and now, you have a paper cup   
+with no bottom.                 
+that crucial step comes next.   
+
+320
+00:14:03,642 --> 00:14:08,780
+bottoms are shoved onto the cups
+and heat-sealed in place by     
+melting the plastic backing on  
+
+321
+00:14:08,782 --> 00:14:11,649
+and heat-sealed in place by     
+melting the plastic backing on  
+the unprinted side of the paper.
+
+322
+00:14:11,651 --> 00:14:13,518
+melting the plastic backing on  
+the unprinted side of the paper.
+the cups then fall down a chute 
+
+323
+00:14:13,520 --> 00:14:15,253
+the unprinted side of the paper.
+the cups then fall down a chute 
+to the next operation, which    
+
+324
+00:14:15,255 --> 00:14:16,921
+the cups then fall down a chute 
+to the next operation, which    
+will give the cups a rim and    
+
+325
+00:14:16,923 --> 00:14:18,322
+to the next operation, which    
+will give the cups a rim and    
+allow you to take a sip without 
+
+326
+00:14:18,324 --> 00:14:26,330
+will give the cups a rim and    
+allow you to take a sip without 
+spilling.                       
+
+327
+00:14:26,332 --> 00:14:28,400
+allow you to take a sip without 
+spilling.                       
+a hot tool curls the top edge of
+
+328
+00:14:28,402 --> 00:14:29,834
+spilling.                       
+a hot tool curls the top edge of
+the paper.                      
+
+329
+00:14:29,836 --> 00:14:32,103
+a hot tool curls the top edge of
+the paper.                      
+then, the vacuum sucks each cup 
+
+330
+00:14:32,105 --> 00:14:34,672
+the paper.                      
+then, the vacuum sucks each cup 
+into ductwork overhead.         
+
+331
+00:14:34,674 --> 00:14:35,941
+then, the vacuum sucks each cup 
+into ductwork overhead.         
+each piece of ductwork comes    
+
+332
+00:14:35,943 --> 00:14:37,242
+into ductwork overhead.         
+each piece of ductwork comes    
+from a different production     
+
+333
+00:14:37,244 --> 00:14:38,476
+each piece of ductwork comes    
+from a different production     
+line.                           
+
+334
+00:14:38,478 --> 00:14:40,078
+from a different production     
+line.                           
+there are big cups and small    
+
+335
+00:14:40,080 --> 00:14:41,679
+line.                           
+there are big cups and small    
+cups, all traveling to the      
+
+336
+00:14:41,681 --> 00:14:43,148
+there are big cups and small    
+cups, all traveling to the      
+packing department, where they  
+
+337
+00:14:43,150 --> 00:14:47,752
+cups, all traveling to the      
+packing department, where they  
+land in stacking tubes.         
+
+338
+00:14:47,754 --> 00:14:49,554
+packing department, where they  
+land in stacking tubes.         
+a counter keeps a running tally 
+
+339
+00:14:49,556 --> 00:14:51,923
+land in stacking tubes.         
+a counter keeps a running tally 
+and portions out the stacks.    
+
+340
+00:15:02,901 --> 00:15:07,973
+the stacks then slide into a    
+curtain of plastic.             
+hot jaws seal the plastic wrap  
+
+341
+00:15:07,975 --> 00:15:16,581
+curtain of plastic.             
+hot jaws seal the plastic wrap  
+around the stack.               
+
+342
+00:15:16,583 --> 00:15:18,382
+hot jaws seal the plastic wrap  
+around the stack.               
+and now, the cups are ready to  
+
+343
+00:15:18,384 --> 00:15:21,853
+around the stack.               
+and now, the cups are ready to  
+be packed and shipped.          
+
+344
+00:15:21,855 --> 00:15:24,255
+and now, the cups are ready to  
+be packed and shipped.          
+meanwhile, over in the testing  
+
+345
+00:15:24,257 --> 00:15:26,524
+be packed and shipped.          
+meanwhile, over in the testing  
+department, this is no coffee   
+
+346
+00:15:26,526 --> 00:15:27,892
+meanwhile, over in the testing  
+department, this is no coffee   
+break.                          
+
+347
+00:15:27,894 --> 00:15:29,360
+department, this is no coffee   
+break.                          
+inspectors have pulled some cups
+
+348
+00:15:29,362 --> 00:15:30,529
+break.                          
+inspectors have pulled some cups
+off the production line to      
+
+349
+00:15:30,531 --> 00:15:31,762
+inspectors have pulled some cups
+off the production line to      
+check for leaks.                
+
+350
+00:15:31,764 --> 00:15:33,465
+off the production line to      
+check for leaks.                
+a mirror below reflects the     
+
+351
+00:15:33,467 --> 00:15:35,733
+check for leaks.                
+a mirror below reflects the     
+bottom line, but leaks are one  
+
+352
+00:15:35,735 --> 00:15:37,936
+a mirror below reflects the     
+bottom line, but leaks are one  
+in a million, so they made one  
+
+353
+00:15:37,938 --> 00:15:39,203
+bottom line, but leaks are one  
+in a million, so they made one  
+leak deliberately for           
+
+354
+00:15:39,205 --> 00:15:42,207
+in a million, so they made one  
+leak deliberately for           
+demonstration.                  
+
+355
+00:15:42,209 --> 00:15:43,742
+leak deliberately for           
+demonstration.                  
+in the case of a real leak,     
+
+356
+00:15:43,744 --> 00:15:45,209
+demonstration.                  
+in the case of a real leak,     
+production is halted and        
+
+357
+00:15:45,211 --> 00:15:46,844
+in the case of a real leak,     
+production is halted and        
+inspectors follow the paper     
+
+358
+00:15:46,846 --> 00:15:48,613
+production is halted and        
+inspectors follow the paper     
+trail until they determine the  
+
+359
+00:15:48,615 --> 00:15:52,950
+inspectors follow the paper     
+trail until they determine the  
+problem.                        
+
+360
+00:15:52,952 --> 00:15:54,318
+trail until they determine the  
+problem.                        
+it takes about a minute to      
+
+361
+00:15:54,320 --> 00:15:55,887
+problem.                        
+it takes about a minute to      
+transform pieces of paper into a
+
+362
+00:15:55,889 --> 00:15:58,289
+it takes about a minute to      
+transform pieces of paper into a
+cup.                            
+
+363
+00:15:58,291 --> 00:15:59,958
+transform pieces of paper into a
+cup.                            
+now, it's time to hit the road  
+
+364
+00:15:59,960 --> 00:16:02,194
+cup.                            
+now, it's time to hit the road  
+without any leakage.            
+
+365
+00:16:11,837 --> 00:16:15,740
+when we return, a factory       
+with something to trumpet about.
+
+366
+00:16:22,782 --> 00:16:27,518
+>> narrator: the ancestor of the
+modern trumpet was a straight   
+horn that could emit just a few 
+
+367
+00:16:27,520 --> 00:16:28,319
+modern trumpet was a straight   
+horn that could emit just a few 
+notes.                          
+
+368
+00:16:28,321 --> 00:16:30,922
+horn that could emit just a few 
+notes.                          
+by the 15th century, instrument 
+
+369
+00:16:30,924 --> 00:16:32,323
+notes.                          
+by the 15th century, instrument 
+makers learned how to bend a    
+
+370
+00:16:32,325 --> 00:16:33,824
+by the 15th century, instrument 
+makers learned how to bend a    
+horn, allowing for more notes to
+
+371
+00:16:33,826 --> 00:16:35,259
+makers learned how to bend a    
+horn, allowing for more notes to
+be produced.                    
+
+372
+00:16:35,261 --> 00:16:38,095
+horn, allowing for more notes to
+be produced.                    
+the invention of the valve in   
+
+373
+00:16:38,097 --> 00:16:40,198
+be produced.                    
+the invention of the valve in   
+the mid-1800s finally allowed   
+
+374
+00:16:40,200 --> 00:16:47,538
+the invention of the valve in   
+the mid-1800s finally allowed   
+the trumpet to play in any key. 
+
+375
+00:16:47,540 --> 00:16:49,407
+the mid-1800s finally allowed   
+the trumpet to play in any key. 
+a trumpet is made up of five    
+
+376
+00:16:49,409 --> 00:16:50,641
+the trumpet to play in any key. 
+a trumpet is made up of five    
+feet of tubing.                 
+
+377
+00:16:50,643 --> 00:16:52,143
+a trumpet is made up of five    
+feet of tubing.                 
+three valves allow air to flow  
+
+378
+00:16:52,145 --> 00:16:53,678
+feet of tubing.                 
+three valves allow air to flow  
+through additional tubing to    
+
+379
+00:16:53,680 --> 00:16:56,748
+three valves allow air to flow  
+through additional tubing to    
+alter the trumpet's pitch.      
+
+380
+00:16:56,750 --> 00:16:59,016
+through additional tubing to    
+alter the trumpet's pitch.      
+trumpets are made from sheets of
+
+381
+00:16:59,018 --> 00:17:00,685
+alter the trumpet's pitch.      
+trumpets are made from sheets of
+metal, most often brass.        
+
+382
+00:17:00,687 --> 00:17:02,653
+trumpets are made from sheets of
+metal, most often brass.        
+this factory combines different 
+
+383
+00:17:02,655 --> 00:17:04,289
+metal, most often brass.        
+this factory combines different 
+thicknesses of brass in a single
+
+384
+00:17:04,291 --> 00:17:05,556
+this factory combines different 
+thicknesses of brass in a single
+instrument to attain a          
+
+385
+00:17:05,558 --> 00:17:07,158
+thicknesses of brass in a single
+instrument to attain a          
+particular sound.               
+
+386
+00:17:07,160 --> 00:17:09,160
+instrument to attain a          
+particular sound.               
+workers first lay a template on 
+
+387
+00:17:09,162 --> 00:17:12,764
+particular sound.               
+workers first lay a template on 
+a brass sheet and trace it out. 
+
+388
+00:17:12,766 --> 00:17:14,665
+workers first lay a template on 
+a brass sheet and trace it out. 
+then they cut along the score   
+
+389
+00:17:14,667 --> 00:17:16,367
+a brass sheet and trace it out. 
+then they cut along the score   
+line with electric shears.      
+
+390
+00:17:16,369 --> 00:17:17,435
+then they cut along the score   
+line with electric shears.      
+this piece will become the      
+
+391
+00:17:17,437 --> 00:17:22,106
+line with electric shears.      
+this piece will become the      
+trumpet's bell.                 
+
+392
+00:17:22,108 --> 00:17:24,241
+this piece will become the      
+trumpet's bell.                 
+a manually operated press forms 
+
+393
+00:17:24,243 --> 00:17:31,316
+trumpet's bell.                 
+a manually operated press forms 
+a perfect fold down the middle. 
+
+394
+00:17:31,318 --> 00:17:39,591
+a manually operated press forms 
+a perfect fold down the middle. 
+then, they notch the edges.     
+
+395
+00:17:39,593 --> 00:17:41,325
+a perfect fold down the middle. 
+then, they notch the edges.     
+then, they close up the bell by 
+
+396
+00:17:41,327 --> 00:17:42,827
+then, they notch the edges.     
+then, they close up the bell by 
+hammering the notched pieces    
+
+397
+00:17:42,829 --> 00:17:44,396
+then, they close up the bell by 
+hammering the notched pieces    
+onto the opposite edge.         
+
+398
+00:17:44,398 --> 00:17:46,331
+hammering the notched pieces    
+onto the opposite edge.         
+they use a rawhide mallet       
+
+399
+00:17:46,333 --> 00:17:47,665
+onto the opposite edge.         
+they use a rawhide mallet       
+because anything harder would   
+
+400
+00:17:47,667 --> 00:17:50,935
+they use a rawhide mallet       
+because anything harder would   
+damage the brass.               
+
+401
+00:17:50,937 --> 00:17:53,137
+because anything harder would   
+damage the brass.               
+a brass alloy is melted along   
+
+402
+00:17:53,139 --> 00:17:54,940
+damage the brass.               
+a brass alloy is melted along   
+the joint.                      
+
+403
+00:17:54,942 --> 00:17:56,707
+a brass alloy is melted along   
+the joint.                      
+it solidifies in a metal seam   
+
+404
+00:17:56,709 --> 00:17:58,143
+the joint.                      
+it solidifies in a metal seam   
+that permanently bonds the      
+
+405
+00:17:58,145 --> 00:18:01,212
+it solidifies in a metal seam   
+that permanently bonds the      
+edges.                          
+
+406
+00:18:01,214 --> 00:18:03,114
+that permanently bonds the      
+edges.                          
+next, the bell goes over a      
+
+407
+00:18:03,116 --> 00:18:05,083
+edges.                          
+next, the bell goes over a      
+cone-shaped mandril where the   
+
+408
+00:18:05,085 --> 00:18:07,151
+next, the bell goes over a      
+cone-shaped mandril where the   
+brass is hammered until it, too,
+
+409
+00:18:07,153 --> 00:18:13,491
+cone-shaped mandril where the   
+brass is hammered until it, too,
+is cone-shaped.                 
+
+410
+00:18:13,493 --> 00:18:15,126
+brass is hammered until it, too,
+is cone-shaped.                 
+then the bell goes onto another 
+
+411
+00:18:15,128 --> 00:18:19,530
+is cone-shaped.                 
+then the bell goes onto another 
+mandril mounted on a lathe.     
+
+412
+00:18:19,532 --> 00:18:21,499
+then the bell goes onto another 
+mandril mounted on a lathe.     
+here, the brass cone is refined 
+
+413
+00:18:21,501 --> 00:18:23,968
+mandril mounted on a lathe.     
+here, the brass cone is refined 
+into a more refined shape.      
+
+414
+00:18:23,970 --> 00:18:27,938
+here, the brass cone is refined 
+into a more refined shape.      
+then, the metal is filed smooth.
+
+415
+00:18:27,940 --> 00:18:29,807
+into a more refined shape.      
+then, the metal is filed smooth.
+now for the bell's rim, called  
+
+416
+00:18:29,809 --> 00:18:30,575
+then, the metal is filed smooth.
+now for the bell's rim, called  
+the bead.                       
+
+417
+00:18:30,577 --> 00:18:32,743
+now for the bell's rim, called  
+the bead.                       
+a brass rod with a notch at the 
+
+418
+00:18:32,745 --> 00:18:34,478
+the bead.                       
+a brass rod with a notch at the 
+end catches the edge of the bell
+
+419
+00:18:34,480 --> 00:18:36,881
+a brass rod with a notch at the 
+end catches the edge of the bell
+and rolls it back into a rim.   
+
+420
+00:18:36,883 --> 00:18:38,717
+end catches the edge of the bell
+and rolls it back into a rim.   
+metalworkers use what's called a
+
+421
+00:18:38,719 --> 00:18:40,318
+and rolls it back into a rim.   
+metalworkers use what's called a
+concave roller to round the     
+
+422
+00:18:40,320 --> 00:18:45,790
+metalworkers use what's called a
+concave roller to round the     
+rim's jagged edge.              
+
+423
+00:18:45,792 --> 00:18:47,558
+concave roller to round the     
+rim's jagged edge.              
+then they slide a brass alloy   
+
+424
+00:18:47,560 --> 00:18:48,893
+rim's jagged edge.              
+then they slide a brass alloy   
+wire into the rim pocket.       
+
+425
+00:18:48,895 --> 00:18:50,462
+then they slide a brass alloy   
+wire into the rim pocket.       
+this makes the bell stronger and
+
+426
+00:18:50,464 --> 00:18:52,063
+wire into the rim pocket.       
+this makes the bell stronger and
+adds weight to the edge of the  
+
+427
+00:18:52,065 --> 00:18:53,698
+this makes the bell stronger and
+adds weight to the edge of the  
+flare to project the sound      
+
+428
+00:18:53,700 --> 00:18:58,069
+adds weight to the edge of the  
+flare to project the sound      
+better.                         
+
+429
+00:18:58,071 --> 00:18:59,804
+flare to project the sound      
+better.                         
+they roll the rim over even more
+
+430
+00:18:59,806 --> 00:19:06,344
+better.                         
+they roll the rim over even more
+to enclose the wire.            
+
+431
+00:19:06,346 --> 00:19:08,413
+they roll the rim over even more
+to enclose the wire.            
+now they heat the rim and apply 
+
+432
+00:19:08,415 --> 00:19:10,381
+to enclose the wire.            
+now they heat the rim and apply 
+acid flux to clean the surface  
+
+433
+00:19:10,383 --> 00:19:12,417
+now they heat the rim and apply 
+acid flux to clean the surface  
+for soldering.                  
+
+434
+00:19:12,419 --> 00:19:14,085
+acid flux to clean the surface  
+for soldering.                  
+silver solder ensures the wire  
+
+435
+00:19:14,087 --> 00:19:15,686
+for soldering.                  
+silver solder ensures the wire  
+won't rattle when the bell      
+
+436
+00:19:15,688 --> 00:19:20,492
+silver solder ensures the wire  
+won't rattle when the bell      
+vibrates.                       
+
+437
+00:19:20,494 --> 00:19:22,226
+won't rattle when the bell      
+vibrates.                       
+after wiping off the excess     
+
+438
+00:19:22,228 --> 00:19:24,095
+vibrates.                       
+after wiping off the excess     
+flux, the bell goes back on the 
+
+439
+00:19:24,097 --> 00:19:25,830
+after wiping off the excess     
+flux, the bell goes back on the 
+lathe to scrape off the excess  
+
+440
+00:19:25,832 --> 00:19:31,335
+flux, the bell goes back on the 
+lathe to scrape off the excess  
+solder.                         
+
+441
+00:19:31,337 --> 00:19:32,904
+lathe to scrape off the excess  
+solder.                         
+using an abrasive sponge,       
+
+442
+00:19:32,906 --> 00:19:34,372
+solder.                         
+using an abrasive sponge,       
+workers smooth away any         
+
+443
+00:19:34,374 --> 00:19:36,640
+using an abrasive sponge,       
+workers smooth away any         
+scratches left by the scraper.  
+
+444
+00:19:36,642 --> 00:19:38,809
+workers smooth away any         
+scratches left by the scraper.  
+then, they remove any solder    
+
+445
+00:19:38,811 --> 00:19:40,712
+scratches left by the scraper.  
+then, they remove any solder    
+bits trapped in the rim.        
+
+446
+00:19:40,714 --> 00:19:42,780
+then, they remove any solder    
+bits trapped in the rim.        
+now, the entire bell is filled  
+
+447
+00:19:42,782 --> 00:19:45,182
+bits trapped in the rim.        
+now, the entire bell is filled  
+with a soapy solution.          
+
+448
+00:19:45,184 --> 00:19:47,118
+now, the entire bell is filled  
+with a soapy solution.          
+then, it's frozen at minus 56   
+
+449
+00:19:47,120 --> 00:19:51,723
+with a soapy solution.          
+then, it's frozen at minus 56   
+degrees.                        
+
+450
+00:19:51,725 --> 00:19:53,591
+then, it's frozen at minus 56   
+degrees.                        
+when the solution is frozen, the
+
+451
+00:19:53,593 --> 00:19:57,862
+degrees.                        
+when the solution is frozen, the
+bell goes into a bending block. 
+
+452
+00:19:57,864 --> 00:19:59,664
+when the solution is frozen, the
+bell goes into a bending block. 
+the frozen solution provides    
+
+453
+00:19:59,666 --> 00:20:01,332
+bell goes into a bending block. 
+the frozen solution provides    
+counter pressure, preventing the
+
+454
+00:20:01,334 --> 00:20:03,234
+the frozen solution provides    
+counter pressure, preventing the
+brass from buckling inward, and 
+
+455
+00:20:03,236 --> 00:20:04,936
+counter pressure, preventing the
+brass from buckling inward, and 
+because there's soap mixed in,  
+
+456
+00:20:04,938 --> 00:20:06,804
+brass from buckling inward, and 
+because there's soap mixed in,  
+the pliable ice doesn't shatter 
+
+457
+00:20:06,806 --> 00:20:08,740
+because there's soap mixed in,  
+the pliable ice doesn't shatter 
+under the pressure.             
+
+458
+00:20:18,884 --> 00:20:26,590
+after the angle of the bend is  
+checked with a gauge, the bell  
+is defrosted.                   
+
+459
+00:20:26,592 --> 00:20:27,892
+checked with a gauge, the bell  
+is defrosted.                   
+in the mounting department,     
+
+460
+00:20:27,894 --> 00:20:29,226
+is defrosted.                   
+in the mounting department,     
+workers assemble smaller        
+
+461
+00:20:29,228 --> 00:20:30,562
+in the mounting department,     
+workers assemble smaller        
+components made of brass and    
+
+462
+00:20:30,564 --> 00:20:31,429
+workers assemble smaller        
+components made of brass and    
+nickel.                         
+
+463
+00:20:31,431 --> 00:20:33,965
+components made of brass and    
+nickel.                         
+valve casings, the sliding tubes
+
+464
+00:20:33,967 --> 00:20:35,500
+nickel.                         
+valve casings, the sliding tubes
+to which they connect, the      
+
+465
+00:20:35,502 --> 00:20:37,368
+valve casings, the sliding tubes
+to which they connect, the      
+slide for tuning the trumpet,   
+
+466
+00:20:37,370 --> 00:20:38,969
+to which they connect, the      
+slide for tuning the trumpet,   
+the pipe that holds the         
+
+467
+00:20:38,971 --> 00:20:41,405
+slide for tuning the trumpet,   
+the pipe that holds the         
+mouthpiece, then they solder on 
+
+468
+00:20:41,407 --> 00:20:48,079
+the pipe that holds the         
+mouthpiece, then they solder on 
+the bell.                       
+
+469
+00:20:48,446 --> 00:20:50,080
+they lubricate three pistons and
+
+470
+00:20:50,249 --> 00:20:51,549
+install one in each valve       
+
+471
+00:20:51,717 --> 00:20:51,950
+casing.                         
+
+472
+00:20:56,121 --> 00:20:57,655
+these slides have to be loose   
+
+473
+00:20:57,790 --> 00:20:59,590
+enough to move but tight enough 
+
+474
+00:20:59,725 --> 00:21:02,193
+to prevent air leaks.           
+
+475
+00:21:02,328 --> 00:21:04,094
+one slide has a finger ring for 
+
+476
+00:21:04,263 --> 00:21:07,865
+holding the trumpet.            
+
+477
+00:21:08,000 --> 00:21:09,467
+after polishing and lacquering  
+
+478
+00:21:09,601 --> 00:21:11,302
+the brass, workers test the     
+
+479
+00:21:11,470 --> 00:21:13,137
+trumpet for sound quality.      
+
+480
+00:21:13,271 --> 00:21:14,739
+this is one company that likes  
+
+481
+00:21:14,874 --> 00:21:16,640
+to blow its own horn.           
+
+482
+00:21:16,809 --> 00:21:22,280
+[ playing mid-tempo music ]     
+
+483
+00:21:22,414 --> 00:21:23,681
+if you have any comments about  
+
+484
+00:21:23,815 --> 00:21:24,949
+the show or if you'd like to    
+
+485
+00:21:25,083 --> 00:21:27,051
+suggest topics for future shows,
+
+486
+00:21:27,219 --> 00:21:29,020
+drop us a line at...            
+

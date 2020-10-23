@@ -1,0 +1,1507 @@
+﻿1
+00:00:22,356 --> 00:00:26,757
+narrator:
+today on "how it's made"...
+
+2
+00:00:26,760 --> 00:00:28,292
+copy paper --
+
+3
+00:00:28,295 --> 00:00:32,029
+we'll check it out again
+and again and again...
+
+4
+00:00:32,032 --> 00:00:33,697
+jeans --
+
+5
+00:00:33,700 --> 00:00:35,733
+stay tuned
+for a "denim-stration"...
+
+6
+00:00:37,238 --> 00:00:40,938
+...computers --
+here's some hard data for you...
+
+7
+00:00:43,310 --> 00:00:45,076
+...and plate glass --
+
+8
+00:00:45,079 --> 00:00:49,013
+we promise you full transparency
+in this report.
+
+9
+00:00:53,387 --> 00:00:57,789
+computers were supposed to send
+paper back to the stone age --
+
+10
+00:00:57,792 --> 00:01:00,124
+no more letters, just e-mails.
+
+11
+00:01:00,127 --> 00:01:04,261
+goodbye, typewritten reports.
+hello, floppy disks.
+
+12
+00:01:04,264 --> 00:01:06,797
+well, those predictions
+were wrong.
+
+13
+00:01:06,800 --> 00:01:08,999
+photocopiers and printers
+
+14
+00:01:09,002 --> 00:01:12,437
+have us using more paper
+than ever before.
+
+15
+00:01:15,142 --> 00:01:18,876
+paper production begins with
+the arrival of wood at the mill.
+
+16
+00:01:18,879 --> 00:01:21,979
+paper is made from a paste
+produced from a mix
+
+17
+00:01:21,982 --> 00:01:26,684
+of 65% maple, 25% birch,
+and 10% poplar.
+
+18
+00:01:26,687 --> 00:01:31,122
+they require two tons of wood
+to produce one ton of paste.
+
+19
+00:01:33,560 --> 00:01:36,094
+everything starts
+from this debarking drum,
+
+20
+00:01:36,097 --> 00:01:38,563
+which removes bark
+from the logs.
+
+21
+00:01:38,566 --> 00:01:40,898
+it's about
+a 20-minute operation.
+
+22
+00:01:40,901 --> 00:01:43,567
+the bark will be burned
+to produce steam,
+
+23
+00:01:43,570 --> 00:01:45,102
+for the operation of the mill.
+
+24
+00:01:45,105 --> 00:01:48,139
+the debarked logs are
+transported on this conveyor.
+
+25
+00:01:50,578 --> 00:01:52,710
+all is controlled
+by an operator.
+
+26
+00:02:00,921 --> 00:02:04,788
+now the logs are reduced into
+small pieces called kindling.
+
+27
+00:02:04,791 --> 00:02:07,024
+they're accumulated into a pile
+
+28
+00:02:07,027 --> 00:02:10,995
+and remain outdoors
+winter and summer.
+
+29
+00:02:10,998 --> 00:02:13,731
+the kindling looks like this.
+
+30
+00:02:15,402 --> 00:02:19,871
+these 5 piles total
+about 30,000 tons of kindling.
+
+31
+00:02:19,874 --> 00:02:23,007
+next step -- reduce the kindling
+into a paste.
+
+32
+00:02:23,010 --> 00:02:25,009
+they begin by washing it.
+
+33
+00:02:25,012 --> 00:02:28,612
+this screen verifies that
+the washer is properly loaded.
+
+34
+00:02:28,615 --> 00:02:31,015
+then comes alkaline cooking.
+
+35
+00:02:31,018 --> 00:02:35,019
+this diagram
+controls its operation.
+
+36
+00:02:35,022 --> 00:02:37,154
+this huge cylinder
+is the washer,
+
+37
+00:02:37,157 --> 00:02:39,957
+in which the kindling is cooked
+for several hours
+
+38
+00:02:39,960 --> 00:02:43,227
+at a temperature of 315 degrees.
+
+39
+00:02:43,230 --> 00:02:46,230
+and this is
+the recuperation boiler.
+
+40
+00:02:46,233 --> 00:02:49,300
+it burns wood lignite
+at 1,800 degrees.
+
+41
+00:02:49,303 --> 00:02:52,770
+certain chemical products,
+which come out fused as lava,
+
+42
+00:02:52,773 --> 00:02:54,772
+are recuperated.
+
+43
+00:02:54,775 --> 00:02:57,575
+this black lacquer,
+a reside of burned wood,
+
+44
+00:02:57,578 --> 00:02:59,510
+will be burned to produce steam.
+
+45
+00:02:59,513 --> 00:03:00,978
+exiting the washer,
+
+46
+00:03:00,981 --> 00:03:03,981
+the brown paste is washed
+and sent to the thickener.
+
+47
+00:03:03,984 --> 00:03:05,316
+with this spatula,
+
+48
+00:03:05,319 --> 00:03:09,053
+they verify the quality
+of the brown-paste washing.
+
+49
+00:03:09,056 --> 00:03:10,788
+the paste must be bleached.
+
+50
+00:03:10,791 --> 00:03:14,125
+this alkaline-extraction tower
+places the brown paste
+
+51
+00:03:14,128 --> 00:03:16,327
+in contact
+with chemical products.
+
+52
+00:03:16,330 --> 00:03:18,996
+it's bleached
+with chlorine dioxide
+
+53
+00:03:18,999 --> 00:03:21,399
+and gradually becomes
+more white.
+
+54
+00:03:21,402 --> 00:03:25,036
+then the water
+is partially drawn off.
+
+55
+00:03:30,877 --> 00:03:33,944
+water is extracted
+with this equipment,
+
+56
+00:03:33,947 --> 00:03:36,146
+the beloit bel baie iii
+paper machine,
+
+57
+00:03:36,149 --> 00:03:40,017
+operating at a speed
+of 3,500 feet a minute.
+
+58
+00:03:40,020 --> 00:03:41,952
+between the entry and the exit,
+
+59
+00:03:41,955 --> 00:03:46,824
+the concentration of water in
+the paste falls from 95% to 5%.
+
+60
+00:03:52,365 --> 00:03:55,699
+here we see the sheet of paper
+coming out of the presses.
+
+61
+00:03:55,702 --> 00:03:58,235
+then analyzers verify
+
+62
+00:03:58,238 --> 00:03:59,971
+the quality parameters
+of the paper
+
+63
+00:03:59,974 --> 00:04:02,306
+and signal any anomaly.
+
+64
+00:04:07,114 --> 00:04:09,179
+the paper is then rolled up.
+
+65
+00:04:09,182 --> 00:04:12,350
+this roller produces
+enormous main spools.
+
+66
+00:04:16,657 --> 00:04:18,923
+with this transfer arm,
+
+67
+00:04:18,926 --> 00:04:21,258
+they change a full spool
+for an empty one.
+
+68
+00:04:21,261 --> 00:04:23,861
+a roll weighs over 35 tons
+
+69
+00:04:23,864 --> 00:04:27,732
+and contains over 37 miles
+of paper.
+
+70
+00:04:27,735 --> 00:04:31,535
+the spooler cuts the main spools
+into smaller, less wide rolls.
+
+71
+00:04:31,538 --> 00:04:33,537
+some will be delivered as is,
+
+72
+00:04:33,540 --> 00:04:36,874
+while other will be shipped
+to paper cutters.
+
+73
+00:04:45,552 --> 00:04:48,686
+rolls are sent
+to an automated warehouse.
+
+74
+00:04:48,689 --> 00:04:52,857
+in the warehouse, they store
+rolls that will be cut later.
+
+75
+00:04:55,962 --> 00:04:58,496
+robots,
+guided on rails in the floor,
+
+76
+00:04:58,499 --> 00:05:01,231
+feed the bielomatik
+paper cutter.
+
+77
+00:05:01,234 --> 00:05:04,167
+this is the one
+that produces copy paper.
+
+78
+00:05:04,170 --> 00:05:06,570
+robots are controlled
+by a central computer
+
+79
+00:05:06,573 --> 00:05:08,706
+directed by operators.
+
+80
+00:05:14,782 --> 00:05:19,249
+production reaches
+55,000 sheets per minute.
+
+81
+00:05:19,252 --> 00:05:23,454
+we see here the transfer section
+of the cutter.
+
+82
+00:05:23,457 --> 00:05:26,323
+four automatic catchers
+and operators
+
+83
+00:05:26,326 --> 00:05:29,259
+verify paper quality
+before packaging.
+
+84
+00:05:29,262 --> 00:05:35,199
+in one hour, this mill produces
+6,600 packages of copy paper.
+
+85
+00:05:35,202 --> 00:05:37,801
+a single log allowed
+for the production
+
+86
+00:05:37,804 --> 00:05:41,339
+of at least 15
+of those packages.
+
+87
+00:05:48,682 --> 00:05:50,214
+narrator: jeans might be
+
+88
+00:05:50,217 --> 00:05:53,083
+the world's greatest
+rags-to-riches story.
+
+89
+00:05:53,086 --> 00:05:55,152
+when they were first invented,
+
+90
+00:05:55,155 --> 00:05:57,421
+nobody would be caught dead
+in them,
+
+91
+00:05:57,424 --> 00:06:00,757
+except for factory workers,
+farmers, and tradesmen.
+
+92
+00:06:00,760 --> 00:06:04,895
+yet, today, they're one of
+the most popular clothing items
+
+93
+00:06:04,898 --> 00:06:06,229
+in the world --
+
+94
+00:06:06,232 --> 00:06:08,199
+quite a fashion statement.
+
+95
+00:06:11,438 --> 00:06:15,573
+jeans are made from a highly
+rugged cotton called denim.
+
+96
+00:06:15,576 --> 00:06:19,777
+this enormous roll contains
+1,500 feet of fabric,
+
+97
+00:06:19,780 --> 00:06:24,481
+from which they will produce
+350 pairs of jeans.
+
+98
+00:06:24,484 --> 00:06:27,518
+several thicknesses
+of the material are unrolled
+
+99
+00:06:27,521 --> 00:06:29,052
+on this long table.
+
+100
+00:06:29,055 --> 00:06:31,721
+this knife can cut up
+to 100 thicknesses
+
+101
+00:06:31,724 --> 00:06:33,324
+of the material at a time.
+
+102
+00:06:33,327 --> 00:06:35,726
+by multiplying the thicknesses,
+
+103
+00:06:35,729 --> 00:06:39,563
+they produce a whole pile
+of pieces with one cut.
+
+104
+00:06:43,270 --> 00:06:47,404
+they shape the denim pieces
+following the cutting patterns.
+
+105
+00:06:47,407 --> 00:06:50,674
+each piece of the jeans
+has its own cutting pattern.
+
+106
+00:06:52,946 --> 00:06:56,280
+the little pieces of fabric
+are cut with a clicker,
+
+107
+00:06:56,283 --> 00:06:58,082
+also known as the stamper,
+
+108
+00:06:58,085 --> 00:07:00,951
+which cuts out pockets
+with a cutting mold.
+
+109
+00:07:00,954 --> 00:07:03,621
+exerting 1,500 pounds
+of pressure,
+
+110
+00:07:03,624 --> 00:07:05,956
+it can cut 20 pockets at a time.
+
+111
+00:07:05,959 --> 00:07:07,491
+they begin sewing.
+
+112
+00:07:07,494 --> 00:07:10,761
+jeans are sewn
+with 100%-cotton thread.
+
+113
+00:07:10,764 --> 00:07:14,532
+this needle pierces the fabric
+4,000 times a minute.
+
+114
+00:07:19,506 --> 00:07:24,374
+designs are embroidered on
+the pockets with this machine.
+
+115
+00:07:24,377 --> 00:07:28,179
+its needles move
+at 2,500 strokes per minute.
+
+116
+00:07:31,852 --> 00:07:33,851
+this pocket robot
+
+117
+00:07:33,854 --> 00:07:37,521
+will simultaneously fold,
+press, and sew a pocket.
+
+118
+00:07:37,524 --> 00:07:39,923
+this machine allows
+for the installation
+
+119
+00:07:39,926 --> 00:07:43,394
+of 75 pockets in 60 minutes.
+
+120
+00:07:51,338 --> 00:07:56,674
+the pocket is now
+sewn into place.
+
+121
+00:08:02,216 --> 00:08:05,015
+next step -- the buttonhole.
+
+122
+00:08:05,018 --> 00:08:07,618
+this machine sews the contours
+of the buttonhole
+
+123
+00:08:07,621 --> 00:08:11,422
+and a steel blade comes down
+to cut the opening.
+
+124
+00:08:11,425 --> 00:08:14,225
+the closing button
+is positioned.
+
+125
+00:08:20,567 --> 00:08:23,066
+this machine is used
+to make the loops,
+
+126
+00:08:23,069 --> 00:08:26,837
+which will hold the belt
+in place.
+
+127
+00:08:26,840 --> 00:08:30,774
+the loops are sewn, as usual,
+with cotton thread.
+
+128
+00:08:41,187 --> 00:08:44,588
+at this stage, they assemble the
+different pieces of the jeans.
+
+129
+00:08:44,591 --> 00:08:48,359
+this operator joins the two
+pieces of denim at the crotch.
+
+130
+00:08:52,266 --> 00:08:54,164
+then she sews it.
+
+131
+00:08:58,338 --> 00:09:01,805
+then they sew the exterior
+of the leg.
+
+132
+00:09:01,808 --> 00:09:04,608
+this sewing is done flat,
+with an overcaster,
+
+133
+00:09:04,611 --> 00:09:10,080
+which cuts excess material
+proportionately and to size.
+
+134
+00:09:10,083 --> 00:09:13,551
+now for the zipper.
+
+135
+00:09:17,223 --> 00:09:19,490
+this machine installs
+the zipper holdfast
+
+136
+00:09:19,493 --> 00:09:21,225
+and the slide.
+
+137
+00:09:26,166 --> 00:09:29,967
+the zipper is sewn
+into its position.
+
+138
+00:09:32,639 --> 00:09:36,173
+the final sewing step consists
+of installing the jeans belt,
+
+139
+00:09:36,176 --> 00:09:38,242
+a strip of fabric.
+
+140
+00:09:41,448 --> 00:09:46,650
+this operation requires
+only a few seconds.
+
+141
+00:09:55,128 --> 00:09:57,728
+the jeans were made up
+on the reverse side,
+
+142
+00:09:57,731 --> 00:10:00,296
+so that all stitches
+would be on the inside
+
+143
+00:10:00,299 --> 00:10:01,932
+when the jeans are worn.
+
+144
+00:10:01,935 --> 00:10:05,268
+the pant is then turned
+right side out with this turner,
+
+145
+00:10:05,271 --> 00:10:07,905
+which has 100-pound
+suction power.
+
+146
+00:10:11,811 --> 00:10:15,078
+all that now remains
+is to steam-press the jeans.
+
+147
+00:10:15,081 --> 00:10:17,681
+this operation lasts
+only 20 seconds
+
+148
+00:10:17,684 --> 00:10:19,483
+and eliminates any pleats.
+
+149
+00:10:19,486 --> 00:10:23,287
+this company makes
+1,500 jeans every day.
+
+150
+00:10:23,290 --> 00:10:25,989
+producing a pair of jeans
+
+151
+00:10:25,992 --> 00:10:30,361
+will have taken 12 minutes
+and 50 seconds of work
+
+152
+00:10:30,364 --> 00:10:36,800
+and will have required between
+3.6 and 3.9 feet of fabric.
+
+153
+00:10:44,644 --> 00:10:46,576
+narrator:
+just 30 years ago,
+
+154
+00:10:46,579 --> 00:10:49,579
+nobody could have told you
+what this object was,
+
+155
+00:10:49,582 --> 00:10:52,248
+let alone the kind of wonders
+you could work with it.
+
+156
+00:10:52,251 --> 00:10:53,784
+well, times change,
+
+157
+00:10:53,787 --> 00:10:58,455
+and today, it's hard to imagine
+a single modern home or office
+
+158
+00:10:58,458 --> 00:11:03,460
+without at least one
+of these revolutionary devices.
+
+159
+00:11:05,998 --> 00:11:09,666
+it takes about 90 minutes
+to assemble a computer.
+
+160
+00:11:09,669 --> 00:11:13,003
+its hard-disk drive saves
+information transmitted to it
+
+161
+00:11:13,006 --> 00:11:14,938
+for a long time.
+
+162
+00:11:14,941 --> 00:11:17,474
+the reading head
+reads the information.
+
+163
+00:11:17,477 --> 00:11:18,942
+it is extremely precise.
+
+164
+00:11:18,945 --> 00:11:22,145
+the space between the
+reading head and the hard disk
+
+165
+00:11:22,148 --> 00:11:24,548
+is as thin as a hair.
+
+166
+00:11:24,551 --> 00:11:28,352
+the hard disk is installed
+in its position
+
+167
+00:11:28,355 --> 00:11:30,153
+within the computer.
+
+168
+00:11:30,156 --> 00:11:34,023
+there are two other units
+which safeguard information --
+
+169
+00:11:34,026 --> 00:11:36,292
+the removable
+3-inch-disk reader,
+
+170
+00:11:36,295 --> 00:11:37,694
+and the cd-rom reader,
+
+171
+00:11:37,697 --> 00:11:40,464
+which allows for the reading
+and execution
+
+172
+00:11:40,467 --> 00:11:42,933
+of programs recorded
+on compact discs.
+
+173
+00:11:46,907 --> 00:11:50,641
+these two units
+are placed into position.
+
+174
+00:11:50,644 --> 00:11:54,310
+the spinal column of the
+computer is the motherboard.
+
+175
+00:11:54,313 --> 00:11:55,779
+it is to this unit
+
+176
+00:11:55,782 --> 00:11:59,049
+that the other elements
+of the computer are connected.
+
+177
+00:11:59,052 --> 00:12:03,253
+this cooler dissipates the heat
+generated by the chip set.
+
+178
+00:12:03,256 --> 00:12:04,654
+certain sound cards
+
+179
+00:12:04,657 --> 00:12:07,123
+are integrated
+directly on the motherboard.
+
+180
+00:12:07,126 --> 00:12:10,794
+these connections, in sequence,
+are the audio input,
+
+181
+00:12:10,797 --> 00:12:14,198
+its output,
+and the microphone port.
+
+182
+00:12:14,201 --> 00:12:19,603
+this agp retaining ring secures
+the video card during transport.
+
+183
+00:12:19,606 --> 00:12:22,472
+this thermal unit measures
+the temperature emitted
+
+184
+00:12:22,475 --> 00:12:25,609
+between the processor
+and the motherboard.
+
+185
+00:12:25,612 --> 00:12:28,011
+the processor is the brain
+of the system.
+
+186
+00:12:28,014 --> 00:12:29,880
+it interprets, calculates,
+
+187
+00:12:29,883 --> 00:12:33,016
+and executes the instructions
+given to it.
+
+188
+00:12:33,019 --> 00:12:35,752
+the processor has
+several million transistors.
+
+189
+00:12:35,755 --> 00:12:38,354
+and its cadence,
+its operating speed,
+
+190
+00:12:38,357 --> 00:12:40,223
+reaches the gigahertz level.
+
+191
+00:12:40,226 --> 00:12:43,159
+the processor rests
+on this base.
+
+192
+00:12:43,162 --> 00:12:46,429
+the processor's cooler
+dissipates the intense heat.
+
+193
+00:12:46,432 --> 00:12:49,433
+its efficiency depends
+on the type of material used,
+
+194
+00:12:49,436 --> 00:12:52,870
+and a conducting material
+assures better cooling.
+
+195
+00:12:55,108 --> 00:12:58,175
+the r.a.m. memory stores
+short-term information,
+
+196
+00:12:58,178 --> 00:13:00,978
+but erases it
+when the current is turned off.
+
+197
+00:13:00,981 --> 00:13:03,046
+this memory is more rapid
+
+198
+00:13:03,049 --> 00:13:06,216
+than that of the hard disk
+or cd-rom.
+
+199
+00:13:06,219 --> 00:13:08,918
+now they integrate everything
+in the case.
+
+200
+00:13:08,921 --> 00:13:11,121
+it protects
+the internal elements
+
+201
+00:13:11,124 --> 00:13:13,190
+from the external elements.
+
+202
+00:13:13,193 --> 00:13:14,591
+at this stage,
+
+203
+00:13:14,594 --> 00:13:18,295
+they install the electronic
+components in this case.
+
+204
+00:13:20,467 --> 00:13:22,199
+several connectors of the case
+
+205
+00:13:22,202 --> 00:13:24,468
+are connected
+to the motherboard,
+
+206
+00:13:24,471 --> 00:13:28,705
+such as the computator
+and various light indicators.
+
+207
+00:13:33,480 --> 00:13:36,279
+this is the output connection
+for the video card,
+
+208
+00:13:36,282 --> 00:13:38,615
+which links the computer
+to the monitor.
+
+209
+00:13:38,618 --> 00:13:40,484
+we also see the video chip,
+
+210
+00:13:40,487 --> 00:13:44,487
+which creates images
+in 2 and 3 dimensions.
+
+211
+00:13:44,490 --> 00:13:46,089
+here is the video memory.
+
+212
+00:13:46,092 --> 00:13:48,425
+the more its capacity
+is increased,
+
+213
+00:13:48,428 --> 00:13:51,761
+the clearer will be the image
+displayed on the monitor.
+
+214
+00:13:51,764 --> 00:13:54,565
+the video card is placed
+into its position.
+
+215
+00:13:54,568 --> 00:13:57,300
+the modem allows two computers
+to communicate.
+
+216
+00:13:57,303 --> 00:14:01,438
+its capacitors produce
+the perfectly clean phone signal
+
+217
+00:14:01,441 --> 00:14:03,974
+to facilitate communications.
+
+218
+00:14:03,977 --> 00:14:05,709
+these modem chip connectors
+
+219
+00:14:05,712 --> 00:14:09,446
+control information circulating
+between the two computers.
+
+220
+00:14:09,449 --> 00:14:12,649
+the fax modem is installed.
+
+221
+00:14:12,652 --> 00:14:15,118
+the power supply
+transforms electricity
+
+222
+00:14:15,121 --> 00:14:16,719
+according to the voltage
+
+223
+00:14:16,722 --> 00:14:19,089
+required by
+the different components.
+
+224
+00:14:23,663 --> 00:14:26,663
+the computer's internal cabling
+is installed.
+
+225
+00:14:26,666 --> 00:14:28,798
+it allows information
+to travel
+
+226
+00:14:28,801 --> 00:14:31,401
+between the different media
+and the motherboard.
+
+227
+00:14:31,404 --> 00:14:35,639
+the i.d.e. cable is connected
+and the cd-rom.
+
+228
+00:14:53,026 --> 00:14:54,757
+the last electrical wires
+
+229
+00:14:54,760 --> 00:14:57,728
+are connected to different
+computer components.
+
+230
+00:15:12,912 --> 00:15:17,447
+the assembly of 30 components
+of the computer is now finished.
+
+231
+00:15:17,450 --> 00:15:21,050
+just before closing the case,
+they test each computer
+
+232
+00:15:21,053 --> 00:15:24,187
+to verify the good functioning
+of the peripherals.
+
+233
+00:15:24,190 --> 00:15:27,524
+then they close up
+and proceed to packaging.
+
+234
+00:15:27,527 --> 00:15:32,029
+this company produces about
+300 computer units every day.
+
+235
+00:15:39,138 --> 00:15:41,337
+narrator:
+no need to adjust your set.
+
+236
+00:15:41,340 --> 00:15:44,942
+what you're looking at
+is supposed to be hard to see.
+
+237
+00:15:44,945 --> 00:15:46,743
+here at "how it's made,"
+
+238
+00:15:46,746 --> 00:15:50,147
+our job is to explore
+the everyday things around us
+
+239
+00:15:50,150 --> 00:15:51,948
+and how they came to be.
+
+240
+00:15:51,951 --> 00:15:55,218
+so let's start by making
+one thing perfectly clear --
+
+241
+00:15:55,221 --> 00:15:59,056
+manufacturing plate glass
+is anything but simple.
+
+242
+00:16:06,099 --> 00:16:08,098
+we can speak of the use of glass
+
+243
+00:16:08,101 --> 00:16:11,301
+since the time of the egyptians
+4,000 years ago.
+
+244
+00:16:11,304 --> 00:16:13,503
+it wasn't used
+in construction, though,
+
+245
+00:16:13,506 --> 00:16:16,640
+but merely to enclose
+small objects.
+
+246
+00:16:16,643 --> 00:16:20,310
+later, the romans became masters
+of glassmaking,
+
+247
+00:16:20,313 --> 00:16:24,047
+with their methods being used
+up until the 18th century.
+
+248
+00:16:24,050 --> 00:16:25,916
+by the end of the 19th century,
+
+249
+00:16:25,919 --> 00:16:28,452
+glass was no longer
+just a luxury item,
+
+250
+00:16:28,455 --> 00:16:30,787
+but became
+a construction material
+
+251
+00:16:30,790 --> 00:16:33,557
+as common
+as steel and concrete.
+
+252
+00:16:42,736 --> 00:16:45,802
+plate glass is made
+from several raw materials
+
+253
+00:16:45,805 --> 00:16:48,071
+mixed with a little water.
+
+254
+00:16:48,074 --> 00:16:50,941
+these materials
+are silica sand...
+
+255
+00:16:50,944 --> 00:16:52,675
+soda ash...
+
+256
+00:16:52,678 --> 00:16:54,344
+dolomite...
+
+257
+00:16:54,347 --> 00:16:56,479
+limestone...
+
+258
+00:16:56,482 --> 00:16:59,215
+nepheline syenite...
+
+259
+00:16:59,218 --> 00:17:01,251
+and salt cake.
+
+260
+00:17:04,757 --> 00:17:07,824
+it begins by dumping
+into a hopper
+
+261
+00:17:07,827 --> 00:17:12,095
+pieces of recycled glass
+together with the raw materials.
+
+262
+00:17:12,098 --> 00:17:13,830
+it will all be melted.
+
+263
+00:17:13,833 --> 00:17:15,699
+in a continuous stream,
+
+264
+00:17:15,702 --> 00:17:19,403
+the mixed materials go
+into a gas-fed furnace.
+
+265
+00:17:22,308 --> 00:17:27,110
+temperature inside the furnace
+is 2,700 degrees.
+
+266
+00:17:27,113 --> 00:17:30,180
+it contains 1,500 tons
+of molten glass.
+
+267
+00:17:30,183 --> 00:17:33,383
+they use 500 tons of it
+every day.
+
+268
+00:17:33,386 --> 00:17:35,585
+in this regenerating chamber,
+
+269
+00:17:35,588 --> 00:17:39,656
+combustion air is preheated
+to 1,800 degrees.
+
+270
+00:17:41,994 --> 00:17:44,594
+the materials of the mix
+begin fusing,
+
+271
+00:17:44,597 --> 00:17:47,130
+and the molten glass
+is stirred up.
+
+272
+00:17:47,133 --> 00:17:52,535
+the homogenizer mixes the glass
+to equalize its temperature.
+
+273
+00:17:52,538 --> 00:17:56,606
+pouring will be done
+within several hours.
+
+274
+00:17:56,609 --> 00:17:58,074
+in the glass industry,
+
+275
+00:17:58,077 --> 00:18:00,610
+they call this machine
+the top roller.
+
+276
+00:18:00,613 --> 00:18:03,546
+the glass is poured onto a bath
+of liquid tin,
+
+277
+00:18:03,549 --> 00:18:05,014
+on which it floats.
+
+278
+00:18:05,017 --> 00:18:08,151
+as soft as toffee,
+it is molded into a ribbon.
+
+279
+00:18:08,154 --> 00:18:11,555
+all equipment in the tin bath
+is cooled with water
+
+280
+00:18:11,558 --> 00:18:14,057
+so that it won't break
+from the heat.
+
+281
+00:18:16,496 --> 00:18:20,363
+coming out of the bath,
+the glass is at 600 degrees.
+
+282
+00:18:20,366 --> 00:18:22,699
+the glass must again be cooled,
+
+283
+00:18:22,702 --> 00:18:25,502
+and this unit
+is used to do that.
+
+284
+00:18:28,174 --> 00:18:32,576
+this huge ribbon of glass
+is 11 feet in width.
+
+285
+00:18:42,788 --> 00:18:45,589
+the ribbon of glass
+rolls gently on rollers,
+
+286
+00:18:45,592 --> 00:18:47,858
+gradually cooling along the way.
+
+287
+00:18:53,065 --> 00:18:55,198
+the glass is still soft.
+
+288
+00:18:55,201 --> 00:18:59,536
+the marks we see are imprints
+from the top roller.
+
+289
+00:18:59,539 --> 00:19:02,672
+the glass must have
+a uniform thickness.
+
+290
+00:19:02,675 --> 00:19:05,675
+this laser scanner measures
+its thickness
+
+291
+00:19:05,678 --> 00:19:08,612
+to within a hundredth
+of a millimeter.
+
+292
+00:19:08,615 --> 00:19:12,682
+the glass is now fairly hard.
+they proceed to cutting it.
+
+293
+00:19:12,685 --> 00:19:14,951
+this ultrahard
+tungsten-carbide roller
+
+294
+00:19:14,954 --> 00:19:21,091
+makes a longitudinal score
+before the glass can be cut.
+
+295
+00:19:21,094 --> 00:19:23,960
+now they proceed
+with transverse scoring,
+
+296
+00:19:23,963 --> 00:19:27,029
+made according to the dimensions
+customers have asked for.
+
+297
+00:19:27,032 --> 00:19:30,133
+the scored glass
+separates easily.
+
+298
+00:19:35,742 --> 00:19:40,443
+the glass strips are separated
+and continue along the conveyor.
+
+299
+00:19:49,789 --> 00:19:53,924
+these roller breakers cut
+the edges of the glass sheet.
+
+300
+00:19:57,730 --> 00:20:00,997
+leftover pieces fall
+to the ground and into a chute.
+
+301
+00:20:01,000 --> 00:20:02,999
+they will later be recycled.
+
+302
+00:20:07,940 --> 00:20:11,474
+these rubber-covered rollers
+move the glass sheets
+
+303
+00:20:11,477 --> 00:20:13,543
+to the inspection department.
+
+304
+00:20:15,414 --> 00:20:17,480
+when they arrive for inspection,
+
+305
+00:20:17,483 --> 00:20:20,916
+these immense glass sheets
+are handled with great care
+
+306
+00:20:20,919 --> 00:20:23,153
+and are positioned upright.
+
+307
+00:20:33,366 --> 00:20:35,565
+the glass is inspected
+for faults
+
+308
+00:20:35,568 --> 00:20:38,902
+with florescent lamps.
+
+309
+00:20:38,905 --> 00:20:41,104
+once inspected,
+
+310
+00:20:41,107 --> 00:20:43,573
+the glass sheets are handled
+one at a time
+
+311
+00:20:43,576 --> 00:20:45,909
+and stored vertically.
+
+312
+00:20:50,516 --> 00:20:54,184
+making the glass
+took several days of work.
+
+313
+00:20:54,187 --> 00:20:57,720
+it is now ready for delivery.
+
+314
+00:20:57,723 --> 00:21:01,057
+heat fusion has transformed
+solid ingredients
+
+315
+00:21:01,060 --> 00:21:03,860
+into transparent glass.
+
+316
+00:21:03,863 --> 00:21:06,796
+-- captions by vitac --
+www.vitac.com
+
+317
+00:21:06,799 --> 00:21:09,766
+captions paid for by
+discovery communications, inc.
+
+318
+00:21:12,871 --> 00:21:14,937
+if you have any comments
+about the show
+
+319
+00:21:14,940 --> 00:21:17,673
+or if you'd like to suggest
+topics for future shows,
+
+320
+00:21:17,676 --> 00:21:19,843
+drop us a line at...
+

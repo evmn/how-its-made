@@ -1,0 +1,1451 @@
+1
+00:00:01,602 --> 00:00:04,603
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,605 --> 00:00:07,606
+      captions paid for by      
+ discovery communications, inc. 
+
+3
+00:00:22,156 --> 00:00:25,290
+            narrator:           
+   today on "how it's made"...  
+
+4
+00:00:25,359 --> 00:00:27,960
+        engine blocks...        
+
+5
+00:00:32,299 --> 00:00:34,099
+        ...jawbreakers...       
+
+6
+00:00:37,772 --> 00:00:39,772
+        ...drum shells...       
+
+7
+00:00:43,544 --> 00:00:45,144
+          ...and drums.         
+
+8
+00:00:52,453 --> 00:00:56,187
+ the engine block is the largest
+ single piece of metal in a car 
+
+9
+00:00:56,223 --> 00:00:57,722
+    and also one of the most    
+           intricate.           
+
+10
+00:00:57,792 --> 00:01:00,191
+       it houses and links      
+   all the engine components,   
+
+11
+00:01:00,227 --> 00:01:02,127
+      such as the cylinders     
+          and pistons,          
+
+12
+00:01:02,196 --> 00:01:04,729
+    and it contains passages    
+    for circulating coolant.    
+
+13
+00:01:04,765 --> 00:01:07,032
+        the engine block        
+  is where combustion converts  
+
+14
+00:01:07,134 --> 00:01:09,734
+     into mechanical energy     
+  that drives the transmission, 
+
+15
+00:01:09,804 --> 00:01:11,470
+       propelling the car.      
+
+16
+00:01:16,877 --> 00:01:18,877
+  engine blocks used to be made 
+            of iron.            
+
+17
+00:01:19,012 --> 00:01:21,546
+      today, most are made      
+  of lightweight aluminum alloy 
+
+18
+00:01:21,582 --> 00:01:23,215
+      for fuel efficiency.      
+
+19
+00:01:23,284 --> 00:01:25,217
+         an engine block        
+    is a one-piece component    
+
+20
+00:01:25,286 --> 00:01:27,886
+     cast from a sand mold.     
+
+21
+00:01:27,888 --> 00:01:32,624
+        to make the mold,       
+    the factory mixes glue...   
+
+22
+00:01:32,660 --> 00:01:35,027
+        and a hardener...       
+
+23
+00:01:35,162 --> 00:01:37,229
+        with zircon sand.       
+
+24
+00:01:37,231 --> 00:01:38,630
+  this combination of materials 
+
+25
+00:01:38,765 --> 00:01:41,099
+ can withstand the intense heat 
+        of molten metal,        
+
+26
+00:01:41,168 --> 00:01:43,168
+    but only for one casting.   
+
+27
+00:01:47,040 --> 00:01:49,707
+      each mold is made up      
+    of sections called cores    
+
+28
+00:01:49,743 --> 00:01:50,976
+       that fit together.       
+
+29
+00:01:50,978 --> 00:01:52,043
+       to make each core,       
+
+30
+00:01:52,113 --> 00:01:54,512
+         a machine blows        
+    the sand-and-glue mixture   
+
+31
+00:01:54,548 --> 00:01:57,115
+into a master mold made of iron.
+
+32
+00:01:57,118 --> 00:01:59,718
+        it injects a gas        
+  that activates the hardener,  
+
+33
+00:01:59,853 --> 00:02:02,254
+  which solidifies the mixture. 
+
+34
+00:02:05,058 --> 00:02:08,627
+ this is the base core to which 
+    other cores will attach.    
+
+35
+00:02:17,138 --> 00:02:19,604
+   the base core travels down   
+        an assembly line        
+
+36
+00:02:19,640 --> 00:02:21,740
+   to receive the other cores.  
+
+37
+00:02:28,549 --> 00:02:31,416
+       the next core molds      
+the engine-block cylinder bores,
+
+38
+00:02:31,418 --> 00:02:34,052
+        which will house        
+      the motor's pistons.      
+
+39
+00:02:35,689 --> 00:02:39,490
+   a robot inserts iron liners  
+   into six holes in the core.  
+
+40
+00:02:39,527 --> 00:02:41,693
+ they prevent the aluminum walls
+          of the bores          
+
+41
+00:02:41,695 --> 00:02:43,829
+ from wearing out from abrasion.
+
+42
+00:02:45,766 --> 00:02:48,900
+     the base core receives     
+         17 other cores.        
+
+43
+00:02:48,903 --> 00:02:52,070
+ the ones for engine-block areas
+   through which oil will flow  
+
+44
+00:02:52,072 --> 00:02:53,705
+ are coated with talcum powder. 
+
+45
+00:02:53,707 --> 00:02:56,641
+    this keeps sand particles   
+  from sticking to the aluminum 
+
+46
+00:02:56,710 --> 00:02:58,410
+    and getting into the oil.   
+
+47
+00:03:04,051 --> 00:03:05,783
+ the machines glue certain cores
+
+48
+00:03:05,819 --> 00:03:09,121
+   so they'll stay intact when  
+the robots flip them upside down
+
+49
+00:03:09,256 --> 00:03:11,156
+  and attach them to the rest.  
+
+50
+00:03:15,729 --> 00:03:17,795
+  these are the last two cores. 
+
+51
+00:03:17,831 --> 00:03:20,899
+ the mold is now fully assembled
+     and ready for casting.     
+
+52
+00:03:31,345 --> 00:03:33,044
+  workers load aluminum ingots  
+
+53
+00:03:33,047 --> 00:03:35,480
+      into a device called      
+       an elevator bucket.      
+
+54
+00:03:35,482 --> 00:03:37,416
+     it positions them above    
+        the jet melter --       
+
+55
+00:03:37,551 --> 00:03:39,418
+      a gas-fired furnace.      
+
+56
+00:03:48,228 --> 00:03:49,628
+   the bucket drops the ingots  
+
+57
+00:03:49,630 --> 00:03:52,230
+          into the fire         
+that's 1,500 degrees fahrenheit,
+
+58
+00:03:52,266 --> 00:03:54,166
+    liquefying the aluminum.    
+
+59
+00:04:03,710 --> 00:04:05,043
+      just before casting,      
+
+60
+00:04:05,079 --> 00:04:06,778
+            they heat           
+    the cylinder-bore liners    
+
+61
+00:04:06,913 --> 00:04:08,714
+      using high-frequency      
+        electric current.       
+
+62
+00:04:08,716 --> 00:04:11,783
+    aluminum will bond better   
+          to hot metal.         
+
+63
+00:04:14,855 --> 00:04:16,454
+       they fill the molds      
+         from the bottom        
+
+64
+00:04:16,523 --> 00:04:19,992
+to avoid contaminating the metal
+      with aluminum oxide.      
+
+65
+00:04:20,127 --> 00:04:23,995
+oxide forms when molten aluminum
+comes into contact with the air.
+
+66
+00:04:24,031 --> 00:04:25,596
+pouring into the top of the mold
+
+67
+00:04:25,633 --> 00:04:27,399
+     would expose the metal     
+           to oxygen,           
+
+68
+00:04:27,401 --> 00:04:31,403
+  and the pouring action itself 
+     would mix in the oxide.    
+
+69
+00:04:38,612 --> 00:04:40,078
+       after the casting,       
+
+70
+00:04:40,147 --> 00:04:42,146
+    the mold spends six hours   
+        in what's called        
+
+71
+00:04:42,182 --> 00:04:44,015
+  a thermal sand reclaim oven.  
+
+72
+00:04:44,051 --> 00:04:47,486
+    that breaks down the glue   
+     so the sand falls away.    
+
+73
+00:04:47,621 --> 00:04:49,821
+    the heat also strengthens   
+           the metal.           
+
+74
+00:04:49,890 --> 00:04:53,091
+        the cast aluminum       
+      engine blocks emerge,     
+
+75
+00:04:53,226 --> 00:04:55,093
+          needing just          
+      some minor finishing.     
+
+76
+00:04:55,228 --> 00:04:59,831
+  robots turn them upside down  
+    to spill out loose sand.    
+
+77
+00:05:08,876 --> 00:05:11,276
+ machines saw off the risers -- 
+
+78
+00:05:11,378 --> 00:05:13,245
+      extra metal that fed      
+         the mold cavity        
+
+79
+00:05:13,380 --> 00:05:15,780
+      to compensate for the     
+    7% shrinkage that occurs    
+
+80
+00:05:15,816 --> 00:05:17,783
+when liquid aluminum solidifies.
+
+81
+00:05:20,888 --> 00:05:23,121
+    finally, computer-guided    
+        tooling equipment       
+
+82
+00:05:23,256 --> 00:05:25,657
+   performs a rough machining   
+          of the metal.         
+
+83
+00:05:25,792 --> 00:05:29,327
+  this brings the engine blocks 
+    to a near-finished state.   
+
+84
+00:05:29,396 --> 00:05:30,929
+ the engine plant that buys them
+
+85
+00:05:30,931 --> 00:05:35,200
+ does the final machining before
+  installing the engine parts.  
+
+86
+00:05:35,269 --> 00:05:37,402
+       every engine block       
+      this factory produces     
+
+87
+00:05:37,537 --> 00:05:39,604
+         passes through         
+   an automated vision system   
+
+88
+00:05:39,606 --> 00:05:41,473
+ that inspects the engine block 
+
+89
+00:05:41,475 --> 00:05:44,443
+       to ensure they have      
+     no defects whatsoever.     
+
+90
+00:05:58,759 --> 00:06:01,893
+     narrator: jawbreakers,     
+   also known as gobstoppers,   
+
+91
+00:06:01,962 --> 00:06:04,963
+  have preoccupied candy lovers 
+          for decades.          
+
+92
+00:06:05,032 --> 00:06:06,364
+         you pop one in         
+
+93
+00:06:06,400 --> 00:06:09,033
+         and slowly suck        
+ or chew through up to 10 layers
+
+94
+00:06:09,069 --> 00:06:11,102
+     of colors and flavors.     
+
+95
+00:06:11,171 --> 00:06:13,305
+  sometimes there's bubble gum  
+          in the middle         
+
+96
+00:06:13,440 --> 00:06:15,941
+   for an even longer-lasting   
+             finish.            
+
+97
+00:06:22,249 --> 00:06:24,649
+         the larger ones        
+       are just for show.       
+
+98
+00:06:24,685 --> 00:06:28,587
+   most jawbreakers are about   
+    the size of a golf ball.    
+
+99
+00:06:28,589 --> 00:06:30,122
+             to make            
+    their bubble gum centers,   
+
+100
+00:06:30,257 --> 00:06:32,991
+a worker blends synthetic rubber
+      with powdered resin,      
+
+101
+00:06:32,993 --> 00:06:34,893
+ which will dissolve the rubber.
+
+102
+00:06:39,900 --> 00:06:42,000
+      he adds a thickener,      
+         a preservative,        
+
+103
+00:06:42,135 --> 00:06:44,603
+        and an oil called       
+        soya palm stearin       
+
+104
+00:06:44,605 --> 00:06:46,805
+          so the candy          
+   won't stick to your teeth.   
+
+105
+00:06:50,143 --> 00:06:52,877
+    after mixing and steaming   
+    at 300 degrees fahrenheit   
+
+106
+00:06:52,946 --> 00:06:54,146
+         for four hours,        
+
+107
+00:06:54,281 --> 00:06:57,215
+   the batter pours into trays  
+            to cool.            
+
+108
+00:06:57,251 --> 00:07:00,752
+ sugar, coloring, and flavoring 
+ would deteriorate in the heat, 
+
+109
+00:07:00,821 --> 00:07:03,154
+   so workers add those later.  
+
+110
+00:07:03,157 --> 00:07:05,690
+   there's enough of this base  
+       to make gum centers      
+
+111
+00:07:05,692 --> 00:07:09,227
+ for 450,000 small jawbreakers. 
+
+112
+00:07:11,698 --> 00:07:14,632
+         after 24 hours,        
+       the batter is hard.      
+
+113
+00:07:14,701 --> 00:07:18,236
+       workers chop it up       
+  and blend it with corn syrup  
+
+114
+00:07:18,305 --> 00:07:20,872
+ to make it softer and sweeter. 
+
+115
+00:07:30,584 --> 00:07:33,251
+ they add just under 100 pounds 
+         of finished gum        
+
+116
+00:07:33,386 --> 00:07:35,587
+       that didn't make it      
+     into jawbreakers before    
+
+117
+00:07:35,656 --> 00:07:37,422
+        because it wasn't       
+        the right shape.        
+
+118
+00:07:41,829 --> 00:07:44,195
+      now they add natural      
+     and artificial flavors,    
+
+119
+00:07:44,231 --> 00:07:47,599
+which can include lemon, orange,
+       strawberry, grape,       
+
+120
+00:07:47,668 --> 00:07:49,367
+       even tutti-frutti.       
+
+121
+00:07:52,873 --> 00:07:54,473
+   then they add icing sugar.   
+
+122
+00:07:54,608 --> 00:07:58,076
+  it makes the gum smoother to  
+ chew than regular sugar would. 
+
+123
+00:07:58,211 --> 00:08:00,278
+     workers dump the batch     
+        into an extruder        
+
+124
+00:08:00,347 --> 00:08:04,015
+   that shapes two continuous   
+ streams of batter, called rope.
+
+125
+00:08:06,153 --> 00:08:09,954
+    another extruder divides    
+each rope into six hollow tubes.
+
+126
+00:08:09,990 --> 00:08:12,390
+        the cavity inside       
+   will become pockets of air   
+
+127
+00:08:12,392 --> 00:08:14,092
+     inside the gum centers.    
+
+128
+00:08:14,227 --> 00:08:16,428
+     the next machine slices    
+            the tubes           
+
+129
+00:08:16,463 --> 00:08:19,798
+     into segments that are     
+ three feet, three inches long. 
+
+130
+00:08:28,175 --> 00:08:30,375
+     a mechanical arm pushes    
+          the segments          
+
+131
+00:08:30,510 --> 00:08:32,510
+        into the channel        
+      of a forming machine.     
+
+132
+00:08:32,546 --> 00:08:34,846
+           steel rolls          
+  then slice through the tubes  
+
+133
+00:08:34,915 --> 00:08:37,048
+   and shape them into balls.   
+
+134
+00:08:37,183 --> 00:08:38,583
+  the balls range in diameter,  
+
+135
+00:08:38,585 --> 00:08:41,887
+    depending on the size of    
+ the jawbreakers being produced.
+
+136
+00:08:51,998 --> 00:08:54,532
+ air blows through perforations 
+       in a cooling tunnel      
+
+137
+00:08:54,568 --> 00:08:57,269
+  to cool and firm the centers. 
+
+138
+00:08:59,606 --> 00:09:01,472
+         then they fall         
+  into another forming machine, 
+
+139
+00:09:01,508 --> 00:09:03,875
+         which restores         
+       their round shape.       
+
+140
+00:09:06,079 --> 00:09:09,014
+        other jawbreakers       
+ have hard candy in the center. 
+
+141
+00:09:09,016 --> 00:09:11,282
+   the machine that makes them  
+           works like           
+
+142
+00:09:11,351 --> 00:09:14,018
+ the presses drug companies use 
+         to make pills.         
+
+143
+00:09:14,054 --> 00:09:16,687
+it feeds candy powder into dies,
+
+144
+00:09:16,723 --> 00:09:18,623
+          then applies          
+    up to five tons of force    
+
+145
+00:09:18,625 --> 00:09:21,059
+     to compress the powder     
+       into a solid candy.      
+
+146
+00:09:28,569 --> 00:09:30,835
+        now for the rest        
+       of the jawbreaker.       
+
+147
+00:09:30,871 --> 00:09:32,571
+             first,             
+   they dump the candy centers  
+
+148
+00:09:32,706 --> 00:09:34,372
+       into what's called       
+         a coating pan.         
+
+149
+00:09:34,441 --> 00:09:38,577
+they add a hot mixture of water,
+corn syrup, and food coloring...
+
+150
+00:09:41,682 --> 00:09:44,849
+        ...then dextrose,       
+    a type of powdered sugar.   
+
+151
+00:09:44,985 --> 00:09:46,918
+ the pan rotates for 20 minutes 
+
+152
+00:09:46,920 --> 00:09:49,654
+      as warm air dries the     
+  ingredients over the centers. 
+
+153
+00:09:49,690 --> 00:09:54,191
+  the factory repeats this step 
+    10 times for each layer.    
+
+154
+00:09:54,227 --> 00:09:56,260
+  talk about a sweet ordeal --  
+
+155
+00:09:56,330 --> 00:09:59,331
+    making a jawbreaker takes   
+           four days.           
+
+156
+00:10:01,535 --> 00:10:03,935
+     workers give this batch    
+       special treatment.       
+
+157
+00:10:04,070 --> 00:10:06,938
+ they speckle these jawbreakers 
+     with different colors,     
+
+158
+00:10:06,940 --> 00:10:10,375
+  giving them what this company 
+   calls the psychedelic look.  
+
+159
+00:10:17,684 --> 00:10:20,551
+  after letting the candies dry 
+          for 24 hours,         
+
+160
+00:10:20,621 --> 00:10:23,621
+      a worker adds pinches     
+    of powdered carnauba wax.   
+
+161
+00:10:23,624 --> 00:10:26,958
+   this gives the jawbreakers   
+         a shiny finish.        
+
+162
+00:10:33,100 --> 00:10:34,432
+          sliced open,          
+
+163
+00:10:34,434 --> 00:10:36,701
+  you can see these jawbreakers 
+         have 10 layers         
+
+164
+00:10:36,703 --> 00:10:39,170
+      of flavors and sugar      
+  surrounding either hard candy 
+
+165
+00:10:39,206 --> 00:10:41,840
+      or bubble gum cores.      
+
+166
+00:10:41,975 --> 00:10:44,575
+    they measure 2 1/4 inches   
+         in diameter --         
+
+167
+00:10:44,645 --> 00:10:47,044
+   as big as a billiard ball.   
+
+168
+00:10:47,080 --> 00:10:49,447
+and if you're counting calories,
+           forget it.           
+
+169
+00:10:49,582 --> 00:10:53,251
+   a jawbreaker is 90% sugar.   
+
+170
+00:11:03,397 --> 00:11:07,332
+ narrator: almost every culture 
+   has used drums in some way.  
+
+171
+00:11:07,467 --> 00:11:09,801
+     drums have been a part     
+   of different civilizations   
+
+172
+00:11:09,870 --> 00:11:11,469
+     for thousands of years.    
+
+173
+00:11:11,604 --> 00:11:14,673
+  the earliest drum shells were 
+  hollowed-out logs or gourds.  
+
+174
+00:11:14,808 --> 00:11:17,475
+         different sizes        
+    created different sounds.   
+
+175
+00:11:17,511 --> 00:11:22,080
+   today, drum shells are more  
+  sophisticated and consistent. 
+
+176
+00:11:29,089 --> 00:11:30,421
+      to make drum shells,      
+
+177
+00:11:30,457 --> 00:11:32,557
+     they slice an enormous     
+         rock maple log         
+
+178
+00:11:32,692 --> 00:11:35,226
+      into several boards.      
+
+179
+00:11:35,361 --> 00:11:37,962
+         maple is ideal         
+     for making drum shells     
+
+180
+00:11:38,031 --> 00:11:41,099
+   because its hardness allows  
+    sound to resonate fully.    
+
+181
+00:11:42,436 --> 00:11:43,968
+   each of these maple boards   
+
+182
+00:11:43,970 --> 00:11:46,771
+       will be transformed      
+      into one drum shell.      
+
+183
+00:11:55,315 --> 00:11:57,515
+     workers feed the boards    
+          to a ripsaw,          
+
+184
+00:11:57,551 --> 00:11:59,584
+         which cuts them        
+      to the correct width.     
+
+185
+00:11:59,653 --> 00:12:03,188
+    this varies depending on    
+the size of the drum being made.
+
+186
+00:12:04,725 --> 00:12:07,325
+         then each board        
+       goes into a planer,      
+
+187
+00:12:07,327 --> 00:12:08,927
+    which shaves it thinner.    
+
+188
+00:12:13,133 --> 00:12:16,634
+    a worker aligns the board   
+  with markings on a saw table. 
+
+189
+00:12:16,636 --> 00:12:19,937
+    this positions the board    
+to be cut to the correct length.
+
+190
+00:12:19,973 --> 00:12:22,974
+        a radial arm saw        
+      does the job neatly.      
+
+191
+00:12:26,513 --> 00:12:30,448
+   now he sizes up each board   
+  in preparation for tapering.  
+
+192
+00:12:33,453 --> 00:12:35,954
+  he places a board on an angle 
+            in a jig            
+
+193
+00:12:36,089 --> 00:12:40,492
+ and then moves the end against 
+  a router cutter to taper it.  
+
+194
+00:12:40,627 --> 00:12:43,361
+ it takes a few passes to get it
+           just right.          
+
+195
+00:12:43,430 --> 00:12:46,965
+      the taper needs to be     
+     about six inches long.     
+
+196
+00:12:49,336 --> 00:12:52,504
+    he thins the other end of   
+the board to the same dimension.
+
+197
+00:12:52,639 --> 00:12:55,239
+ these tapered ends will make it
+     easier to bend the wood    
+
+198
+00:12:55,308 --> 00:12:57,174
+    into a drum shape later.    
+
+199
+00:12:57,210 --> 00:12:59,177
+        they'll also act        
+         as scarf joints        
+
+200
+00:12:59,312 --> 00:13:01,446
+   which will fasten the ends   
+      of the board together     
+
+201
+00:13:01,581 --> 00:13:03,414
+      when it's bent round.     
+
+202
+00:13:22,535 --> 00:13:25,336
+   but first this board needs   
+       some softening up.       
+
+203
+00:13:25,372 --> 00:13:29,007
+    an hour in the steam box    
+         does the trick.        
+
+204
+00:13:34,047 --> 00:13:39,283
+   it's pliable enough to wind  
+ around a hot cylindrical form. 
+
+205
+00:13:39,352 --> 00:13:42,153
+ steel banding secures the board
+      to the bending form,      
+
+206
+00:13:42,288 --> 00:13:44,856
+       where it will spend      
+        10 to 15 minutes.       
+
+207
+00:13:59,105 --> 00:14:01,239
+a worker pries apart the ends...
+
+208
+00:14:03,109 --> 00:14:05,242
+...and applies a generous amount
+             of glue            
+
+209
+00:14:05,278 --> 00:14:07,212
+    between the tapered tips.   
+
+210
+00:14:13,386 --> 00:14:16,387
+  then he removes the shim that 
+   was holding the ends apart,  
+
+211
+00:14:16,389 --> 00:14:18,389
+  so that they stick together.  
+
+212
+00:14:18,391 --> 00:14:21,459
+    he places a wooden guard    
+      over the glued joint.     
+
+213
+00:14:23,163 --> 00:14:25,663
+this nylon mesh band is a clamp.
+
+214
+00:14:25,798 --> 00:14:27,198
+           he wraps it          
+      around the drum shell     
+
+215
+00:14:27,200 --> 00:14:30,268
+  and turns a screw to pull the 
+  band tightly around the wood  
+
+216
+00:14:30,270 --> 00:14:33,738
+        until it reaches        
+     14 inches in diameter.     
+
+217
+00:14:37,143 --> 00:14:41,446
+  then he fastens over a dozen  
+  steel clamps onto the joint.  
+
+218
+00:14:45,952 --> 00:14:48,219
+  all these clamps will prevent 
+            any gaps            
+
+219
+00:14:48,354 --> 00:14:51,890
+   from occurring in the joint  
+   as the glue sets overnight.  
+
+220
+00:14:56,963 --> 00:14:58,429
+     with the joint sealed,     
+
+221
+00:14:58,431 --> 00:15:01,766
+ the drum shell now spins while 
+ a cutter shaves down the edges 
+
+222
+00:15:01,835 --> 00:15:04,335
+ to make it a true round shell. 
+
+223
+00:15:09,609 --> 00:15:11,909
+       then they bring in       
+         another cutter.        
+
+224
+00:15:11,978 --> 00:15:13,444
+    it bores into the shell,    
+
+225
+00:15:13,579 --> 00:15:16,848
+      making a smooth edge      
+    and rounding the inside.    
+
+226
+00:15:25,091 --> 00:15:28,626
+ he turns the drum shell around 
+  to cut it from another angle. 
+
+227
+00:15:36,836 --> 00:15:38,469
+       as the shell spins,      
+
+228
+00:15:38,471 --> 00:15:42,139
+   a high-speed cutter shaves   
+ the outside from top to bottom.
+
+229
+00:15:42,175 --> 00:15:44,943
+     this makes the surface     
+          very smooth.          
+
+230
+00:15:50,016 --> 00:15:53,484
+  it takes about a week to make 
+  a drum shell from solid wood, 
+
+231
+00:15:53,619 --> 00:15:57,422
+ and it will be able to stand up
+      to some loud playing.     
+
+232
+00:16:08,835 --> 00:16:11,569
+   narrator: there's more than  
+     one way to beat a drum,    
+
+233
+00:16:11,571 --> 00:16:13,437
+  and there's more than one way 
+          to make one.          
+
+234
+00:16:13,506 --> 00:16:15,773
+     earlier, we showed you     
+  how they create a drum shell  
+
+235
+00:16:15,809 --> 00:16:18,042
+       from a maple plank.      
+
+236
+00:16:18,078 --> 00:16:21,846
+ but a newer technique involves 
+layering multiple plies of wood.
+
+237
+00:16:21,915 --> 00:16:24,048
+          this process          
+      is called laminating,     
+
+238
+00:16:24,084 --> 00:16:26,751
+and you can hear the difference.
+
+239
+00:16:40,600 --> 00:16:43,467
+       the laminated drum       
+   is an instrument of change.  
+
+240
+00:16:43,536 --> 00:16:44,802
+      its sound is crisper      
+
+241
+00:16:44,804 --> 00:16:47,672
+       than a drum crafted      
+  from a single piece of wood.  
+
+242
+00:16:47,807 --> 00:16:50,675
+          to make one,          
+ they layer 11 sheets of maple. 
+
+243
+00:16:50,677 --> 00:16:53,010
+     here, a worker glues on    
+          the final ply         
+
+244
+00:16:53,046 --> 00:16:55,880
+    using a special adhesive.   
+
+245
+00:16:55,949 --> 00:16:59,951
+       this outer layer is      
+  a luxurious bird's-eye maple. 
+
+246
+00:17:00,086 --> 00:17:02,420
+          rollers press         
+     all the layers together    
+
+247
+00:17:02,489 --> 00:17:05,023
+      to ensure they stick      
+        without any gaps.       
+
+248
+00:17:07,594 --> 00:17:09,159
+      then they cut through     
+           the overlap          
+
+249
+00:17:09,195 --> 00:17:11,129
+    to create a perfect seam.   
+
+250
+00:17:19,606 --> 00:17:22,039
+ a robotic drill now takes over.
+
+251
+00:17:22,042 --> 00:17:24,375
+         it drills holes        
+      of various diameters.     
+
+252
+00:17:24,510 --> 00:17:26,844
+         the small ones         
+       will hold hardware.      
+
+253
+00:17:26,846 --> 00:17:29,814
+ this larger one is an air vent.
+
+254
+00:17:34,287 --> 00:17:37,121
+ a computerized router then cuts
+        the bearing edges       
+
+255
+00:17:37,190 --> 00:17:39,190
+      to a 45-degree angle,     
+
+256
+00:17:39,325 --> 00:17:41,826
+  and a worker sands it smooth. 
+
+257
+00:17:45,598 --> 00:17:47,131
+     he uses a level surface    
+
+258
+00:17:47,200 --> 00:17:49,534
+  to ensure that all the edges  
+          are perfect.          
+
+259
+00:17:49,536 --> 00:17:52,670
+  if they're not, the drumheads 
+       won't fit properly.      
+
+260
+00:17:55,141 --> 00:17:57,208
+     he applies an adhesive     
+         to the air hole        
+
+261
+00:17:57,343 --> 00:18:00,078
+   and inserts a plastic vent.  
+
+262
+00:18:04,684 --> 00:18:06,817
+   next, he inserts brackets,   
+          called lugs,          
+
+263
+00:18:06,853 --> 00:18:09,954
+      into the other holes      
+       and screws them in.      
+
+264
+00:18:09,956 --> 00:18:13,824
+       there are 10 lugs,       
+    spaced 36 degrees apart.    
+
+265
+00:18:13,827 --> 00:18:15,026
+      they'll hold the rods     
+
+266
+00:18:15,028 --> 00:18:17,228
+   that will attach the heads   
+        to the drum shell       
+
+267
+00:18:17,363 --> 00:18:18,629
+   and also enable the drummer  
+
+268
+00:18:18,698 --> 00:18:20,965
+      to adjust the tension     
+          on the heads.         
+
+269
+00:18:23,903 --> 00:18:27,438
+   here he attaches a lever to  
+  control wires, called snares, 
+
+270
+00:18:27,507 --> 00:18:30,040
+      that are to be strung     
+     across the bottom head.    
+
+271
+00:18:30,076 --> 00:18:32,110
+  it's called a snare strainer. 
+
+272
+00:18:35,815 --> 00:18:39,383
+ then he fits a plastic drumhead
+  over the bottom of the shell. 
+
+273
+00:18:39,519 --> 00:18:41,585
+ the counter hoop goes on next. 
+
+274
+00:18:41,654 --> 00:18:46,390
+       it has little tabs       
+ which he aligns with each lug. 
+
+275
+00:18:46,459 --> 00:18:49,794
+     he slides tension rods     
+   into the holes in the tabs.  
+
+276
+00:18:51,264 --> 00:18:52,730
+        using a drum key,       
+
+277
+00:18:52,865 --> 00:18:55,466
+   he tightens the head to an   
+ even tension across the shell. 
+
+278
+00:19:01,975 --> 00:19:03,941
+now he blasts it with a heat gun
+
+279
+00:19:03,977 --> 00:19:07,311
+      to shrink the plastic     
+    and remove any wrinkles.    
+
+280
+00:19:15,355 --> 00:19:18,956
+  now he places another plastic 
+  head on the top bearing edge. 
+
+281
+00:19:18,958 --> 00:19:21,092
+   since this head is the one   
+        that gets played,       
+
+282
+00:19:21,094 --> 00:19:23,761
+       it's twice as thick      
+       as the bottom one.       
+
+283
+00:19:25,465 --> 00:19:29,133
+ he places the chrome rim on it 
+ and tightens the tension rods. 
+
+284
+00:19:31,838 --> 00:19:35,906
+ these brass brackets will hold 
+        the snare wires.        
+
+285
+00:19:35,975 --> 00:19:37,641
+ he slides them under the snares
+
+286
+00:19:37,710 --> 00:19:39,777
+   that are stretched tightly   
+          across a jig,         
+
+287
+00:19:39,779 --> 00:19:41,913
+    putting one at each end.    
+
+288
+00:19:45,752 --> 00:19:47,251
+     he measures the length,    
+
+289
+00:19:47,320 --> 00:19:50,688
+  then solders the snare wires  
+        to the brackets.        
+
+290
+00:19:52,959 --> 00:19:55,426
+       he snips the wires       
+         on both ends...        
+
+291
+00:19:57,263 --> 00:20:00,097
+    ...and unlocks each wire    
+    from the holding device.    
+
+292
+00:20:01,601 --> 00:20:03,267
+   when he removes the snares,  
+
+293
+00:20:03,269 --> 00:20:05,770
+      they're held together     
+        by the brackets.        
+
+294
+00:20:10,310 --> 00:20:12,944
+     he slides a nylon strap    
+    into one of the brackets,   
+
+295
+00:20:13,079 --> 00:20:15,146
+     then attaches the strap    
+          to a fixture          
+
+296
+00:20:15,148 --> 00:20:17,415
+   just above the bottom head.  
+
+297
+00:20:26,692 --> 00:20:29,359
+   the other end of the snare   
+ is attached to the strainer -- 
+
+298
+00:20:29,395 --> 00:20:31,762
+    the lever that will apply   
+     tension and release it,    
+
+299
+00:20:31,897 --> 00:20:34,198
+         controlling its        
+        distinctive buzz.       
+
+300
+00:20:39,238 --> 00:20:42,039
+       for a bigger sound,      
+     there's the bass drum.     
+
+301
+00:20:42,174 --> 00:20:44,041
+  it's made with wooden hoops.  
+
+302
+00:20:44,077 --> 00:20:47,044
+  they attach the hoops to the  
+  drum shell with steel claws.  
+
+303
+00:20:52,485 --> 00:20:54,385
+     as they screw the claws    
+          to the hoop,          
+
+304
+00:20:54,387 --> 00:20:56,454
+     the drumhead is pulled     
+       just tightly enough      
+
+305
+00:20:56,589 --> 00:21:00,324
+   to produce that low-pitched  
+        bass drum sound.        
+
+306
+00:21:00,360 --> 00:21:03,227
+   now it's off to be played.   
+
+307
+00:21:12,538 --> 00:21:14,472
+    if you have any comments    
+         about the show,        
+
+308
+00:21:14,607 --> 00:21:17,341
+   or if you'd like to suggest  
+    topics for future shows,    
+
+309
+00:21:17,343 --> 00:21:22,179
+      drop us a line at...      
+

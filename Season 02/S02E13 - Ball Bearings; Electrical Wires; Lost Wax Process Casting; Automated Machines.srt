@@ -1,0 +1,1203 @@
+﻿1
+00:00:23,090 --> 00:00:26,758
+            narrator:           
+   today on "how it's made"...  
+
+2
+00:00:26,760 --> 00:00:28,961
+        ball bearings...        
+
+3
+00:00:28,963 --> 00:00:31,096
+       electrical wires...      
+
+4
+00:00:31,098 --> 00:00:32,764
+       lost wax casting...      
+
+5
+00:00:32,766 --> 00:00:35,034
+     and automated machines.    
+
+6
+00:00:37,771 --> 00:00:40,505
+  with all the high-tech hoopla 
+           these days,          
+
+7
+00:00:40,507 --> 00:00:43,108
+     the lowly ball bearing     
+         gets forgotten.        
+
+8
+00:00:43,110 --> 00:00:46,244
+     but many machine parts     
+  need ball bearings to rotate. 
+
+9
+00:00:46,246 --> 00:00:49,247
+they're in household appliances,
+      industrial machines,      
+
+10
+00:00:49,249 --> 00:00:53,118
+      and car engine parts      
+  such as alternators and fans. 
+
+11
+00:00:57,191 --> 00:00:58,523
+      this is what's called     
+
+12
+00:00:58,525 --> 00:01:01,326
+      a deep groove radial      
+          ball bearing.         
+
+13
+00:01:01,328 --> 00:01:05,063
+  it has steel balls that move  
+ inside tracks called raceways. 
+
+14
+00:01:05,065 --> 00:01:09,400
+  the raceways are carved into  
+a set of heavy-duty steel rings.
+
+15
+00:01:09,402 --> 00:01:13,472
+       the balls are made       
+   of the same type of steel.   
+
+16
+00:01:13,474 --> 00:01:15,741
+       they first prepare       
+       to shape the rings       
+
+17
+00:01:15,743 --> 00:01:18,210
+     to the right thickness.    
+
+18
+00:01:18,212 --> 00:01:21,980
+   they insert the inner ring   
+      into the outer ring.      
+
+19
+00:01:21,982 --> 00:01:24,283
+       the set then passes      
+        through a grinder       
+
+20
+00:01:24,285 --> 00:01:27,352
+      that alters the width     
+    to the correct thickness.   
+
+21
+00:01:27,354 --> 00:01:31,757
+    a gauge checks the width    
+    of each ring as it exits.   
+
+22
+00:01:31,759 --> 00:01:34,759
+        now they separate       
+    the inner and outer rings   
+
+23
+00:01:34,761 --> 00:01:36,695
+        in order to grind       
+    their outer circumference   
+
+24
+00:01:36,697 --> 00:01:38,464
+      on separate machines.     
+
+25
+00:01:41,635 --> 00:01:43,902
+         the outer ring         
+       enters the grinder,      
+
+26
+00:01:43,904 --> 00:01:45,703
+ which shapes its outer surface 
+
+27
+00:01:45,705 --> 00:01:48,373
+     to a precise roundness     
+          and diameter.         
+
+28
+00:01:52,313 --> 00:01:55,847
+      a water-based liquid      
+keeps the ring from overheating,
+
+29
+00:01:55,849 --> 00:01:58,116
+   which would cause warping.   
+
+30
+00:01:58,118 --> 00:01:59,518
+   the ring exits the grinder   
+
+31
+00:01:59,520 --> 00:02:02,321
+         through a gauge        
+    that checks the diameter.   
+
+32
+00:02:06,927 --> 00:02:10,729
+ next, the outer ring's raceway 
+       goes for grinding.       
+
+33
+00:02:10,731 --> 00:02:13,232
+      abrasive stone wheels     
+       with an oil coolant      
+
+34
+00:02:13,234 --> 00:02:17,402
+ shape the surface to precisely 
+ the correct roundness and size.
+
+35
+00:02:17,404 --> 00:02:21,940
+   the inner ring and raceway   
+  go through a similar machine. 
+
+36
+00:02:21,942 --> 00:02:24,143
+ now the rings go for polishing.
+
+37
+00:02:24,145 --> 00:02:27,412
+        an abrasive stone       
+       lubricated with oil      
+
+38
+00:02:27,414 --> 00:02:31,550
+   polishes the steel surface   
+ until you can see a reflection.
+
+39
+00:02:31,552 --> 00:02:34,486
+  here's the before and after.  
+
+40
+00:02:34,488 --> 00:02:37,488
+      next stop -- washing.     
+
+41
+00:02:37,490 --> 00:02:39,157
+       they coat the rings      
+         with thick oil         
+
+42
+00:02:39,159 --> 00:02:40,959
+     and a fine stone grit.     
+
+43
+00:02:40,961 --> 00:02:44,830
+     they clean the raceways    
+         with kerosene.         
+
+44
+00:02:44,832 --> 00:02:46,564
+     elsewhere in the plant,    
+
+45
+00:02:46,566 --> 00:02:49,568
+  they classify the steel balls 
+       according to size.       
+
+46
+00:02:49,570 --> 00:02:52,570
+     these balls started out    
+         as steel wire.         
+
+47
+00:02:52,572 --> 00:02:54,640
+ a machine cut them into pieces 
+
+48
+00:02:54,642 --> 00:02:57,842
+     and a die punched them     
+        into rough balls.       
+
+49
+00:02:57,844 --> 00:03:00,212
+       those rough balls        
+       go into a grinder,       
+
+50
+00:03:00,214 --> 00:03:01,846
+    which removes the bumps.    
+
+51
+00:03:01,848 --> 00:03:03,649
+       then other machines      
+         round them out         
+
+52
+00:03:03,651 --> 00:03:05,450
+ and give them a mirror finish. 
+
+53
+00:03:05,452 --> 00:03:09,655
+       this entire process      
+        takes a few days.       
+
+54
+00:03:09,657 --> 00:03:13,258
+ the balls go through a furnace 
+           to harden.           
+
+55
+00:03:13,260 --> 00:03:17,195
+      then they get a bath      
+      in cleaning solvent.      
+
+56
+00:03:17,197 --> 00:03:19,397
+  after several quality checks, 
+
+57
+00:03:19,399 --> 00:03:23,335
+       the finished balls       
+        go into hoppers.        
+
+58
+00:03:23,337 --> 00:03:26,939
+      the hoppers load onto     
+ the automatic assembly machine.
+
+59
+00:03:28,475 --> 00:03:32,211
+ the ball feeder sends the balls
+          through tubes         
+
+60
+00:03:32,213 --> 00:03:35,614
+   to a ball pusher that feeds  
+  the correct quantity of balls 
+
+61
+00:03:35,616 --> 00:03:37,015
+        into the raceways       
+
+62
+00:03:37,017 --> 00:03:40,418
+     of the now-reassembled     
+     inner and outer rings.     
+
+63
+00:03:40,420 --> 00:03:43,622
+    a ball divider positions    
+        the balls evenly        
+
+64
+00:03:43,624 --> 00:03:45,290
+      around the raceways.      
+
+65
+00:03:52,098 --> 00:03:54,366
+    next comes the ball cage,   
+
+66
+00:03:54,368 --> 00:03:56,902
+    a metal cage that retains   
+      the balls in position     
+
+67
+00:03:56,904 --> 00:03:58,837
+      around the raceways.      
+
+68
+00:03:58,839 --> 00:04:01,773
+        the first machine       
+   installs half of the cage,   
+
+69
+00:04:01,775 --> 00:04:03,842
+   the half with rivet holes.   
+
+70
+00:04:03,844 --> 00:04:06,311
+        the next machine        
+       carefully positions      
+
+71
+00:04:06,313 --> 00:04:09,848
+   the other half of the cage,  
+      the half with rivets.     
+
+72
+00:04:28,135 --> 00:04:30,602
+     the machine test-spins     
+          the bearing,          
+
+73
+00:04:30,604 --> 00:04:34,005
+   then rivets the two halves   
+   of the ball cage together.   
+
+74
+00:04:34,007 --> 00:04:36,675
+           the bearing          
+     is now fully assembled.    
+
+75
+00:04:43,817 --> 00:04:46,284
+now it goes into a solvent bath,
+
+76
+00:04:46,286 --> 00:04:49,821
+  then to a series of automated 
+     quality-control tests.     
+
+77
+00:04:49,823 --> 00:04:51,757
+   this noise-vibration tester  
+
+78
+00:04:51,759 --> 00:04:55,827
+   makes sure the ball bearing  
+        operates quietly.       
+
+79
+00:04:55,829 --> 00:04:58,997
+     some types of bearings     
+   are lubricated with grease.  
+
+80
+00:04:58,999 --> 00:05:03,034
+ a machine squirts grease evenly
+  into the bearings' raceways,  
+
+81
+00:05:03,036 --> 00:05:06,838
+   then inserts a rubber seal   
+     to contain the grease.     
+
+82
+00:05:08,708 --> 00:05:11,176
+ a final quality-control test --
+
+83
+00:05:11,178 --> 00:05:14,178
+       an automated scale       
+   tosses out any bum bearings  
+
+84
+00:05:14,180 --> 00:05:16,047
+that aren't the required weight.
+
+85
+00:05:16,049 --> 00:05:18,116
+      the good ones move on     
+          to the laser,         
+
+86
+00:05:18,118 --> 00:05:19,785
+        which marks them        
+        with information        
+
+87
+00:05:19,787 --> 00:05:22,187
+     such as the part number    
+       and the trademark.       
+
+88
+00:05:29,062 --> 00:05:32,597
+        narrator: what is       
+   genetically modified food?   
+
+89
+00:05:32,599 --> 00:05:35,333
+      scientists manipulate     
+     the genes in crop seeds    
+
+90
+00:05:35,335 --> 00:05:36,734
+        to increase yield       
+
+91
+00:05:36,736 --> 00:05:38,603
+       or to make the crop      
+         more resistant         
+
+92
+00:05:38,605 --> 00:05:40,271
+     to disease or insects.     
+
+93
+00:05:40,273 --> 00:05:41,873
+   there's a worldwide debate   
+
+94
+00:05:41,875 --> 00:05:45,343
+ over whether this manipulation 
+     of nature poses a risk     
+
+95
+00:05:45,345 --> 00:05:48,046
+          to our health         
+     or to the environment.     
+
+96
+00:05:53,554 --> 00:05:56,288
+      we're so used to them     
+      that we barely notice     
+
+97
+00:05:56,290 --> 00:05:59,224
+      that electrical wires     
+       are all around us.       
+
+98
+00:05:59,226 --> 00:06:01,626
+        they're in aerial       
+     and underground cables     
+
+99
+00:06:01,628 --> 00:06:03,962
+    running along our streets   
+        and to our homes.       
+
+100
+00:06:03,964 --> 00:06:05,563
+    they're behind our walls    
+
+101
+00:06:05,565 --> 00:06:08,166
+           and inside           
+   our electrical appliances.   
+
+102
+00:06:11,972 --> 00:06:14,839
+       to make color-coded      
+        electrical wires,       
+
+103
+00:06:14,841 --> 00:06:16,708
+   they use what's called rod,  
+
+104
+00:06:16,710 --> 00:06:19,911
+   made of either solid copper  
+       or solid aluminum.       
+
+105
+00:06:33,327 --> 00:06:36,928
+they feed the rod into a machine
+        that draws it out       
+
+106
+00:06:36,930 --> 00:06:40,599
+ through a series of lubricated 
+       pulleys and dies --      
+
+107
+00:06:40,601 --> 00:06:44,236
+    stretching, lengthening,    
+     and thinning it out...     
+
+108
+00:07:00,220 --> 00:07:03,989
+  ...and eventually winding it  
+      onto a large bobbin.      
+
+109
+00:07:06,160 --> 00:07:09,828
+       what was once a rod      
+   4/10 of an inch in diameter  
+
+110
+00:07:09,830 --> 00:07:12,431
+  is now just 8/100 of an inch, 
+
+111
+00:07:12,433 --> 00:07:15,300
+       the width of about       
+      a dozen human hairs.      
+
+112
+00:07:17,237 --> 00:07:18,904
+      they load the bobbin      
+
+113
+00:07:18,906 --> 00:07:21,440
+       onto what's called       
+      a stranding machine.      
+
+114
+00:07:26,479 --> 00:07:30,048
+     they cold-weld the end     
+    of one bobbin to another,   
+
+115
+00:07:30,050 --> 00:07:32,584
+          guaranteeing          
+      an uninterrupted flow     
+
+116
+00:07:32,586 --> 00:07:35,020
+ once they start up the machine.
+
+117
+00:07:43,864 --> 00:07:45,196
+         at high speed,         
+
+118
+00:07:45,198 --> 00:07:48,599
+      the stranding machine     
+  twists seven wires together,  
+
+119
+00:07:48,601 --> 00:07:50,602
+forming an electrical conductor,
+
+120
+00:07:50,604 --> 00:07:53,238
+  also called a bear conductor. 
+
+121
+00:07:55,876 --> 00:07:58,343
+      this is a low-voltage     
+          conductor --          
+
+122
+00:07:58,345 --> 00:08:00,812
+      under 1,000 volts --      
+
+123
+00:08:00,814 --> 00:08:02,614
+ the kind you find in the cables
+
+124
+00:08:02,616 --> 00:08:05,683
+      that run electricity      
+          to your home.         
+
+125
+00:08:05,685 --> 00:08:08,619
+         bear conductors        
+      need to be insulated      
+
+126
+00:08:08,621 --> 00:08:12,089
+  so the people handling them   
+  won't get an electric shock.  
+
+127
+00:08:12,091 --> 00:08:13,692
+   a plastic extrusion machine  
+
+128
+00:08:13,694 --> 00:08:17,896
+       coats the conductor      
+    with polyethylene or pvc.   
+
+129
+00:08:17,898 --> 00:08:21,032
+  this insulates the conductor. 
+
+130
+00:08:21,034 --> 00:08:25,103
+  this is what the polyethylene 
+   looks like in its raw form.  
+
+131
+00:08:34,180 --> 00:08:36,247
+     as the conductor exits     
+           the machine          
+
+132
+00:08:36,249 --> 00:08:37,982
+    with its new insulation,    
+
+133
+00:08:37,984 --> 00:08:40,719
+        a precision laser       
+       gauges the diameter      
+
+134
+00:08:40,721 --> 00:08:43,054
+   to make sure the insulation  
+           is uniform           
+
+135
+00:08:43,056 --> 00:08:45,590
+    and the right dimension.    
+
+136
+00:08:45,592 --> 00:08:48,660
+      the extrusion process     
+  has heated up the conductor,  
+
+137
+00:08:48,662 --> 00:08:51,596
+   so it has to be cooled down  
+           with water.          
+
+138
+00:08:55,135 --> 00:08:59,337
+sometimes two or more conductors
+      are twisted together.     
+
+139
+00:08:59,339 --> 00:09:00,739
+      when that's the case,     
+
+140
+00:09:00,741 --> 00:09:02,941
+   a printing machine applies   
+         a white stripe         
+
+141
+00:09:02,943 --> 00:09:05,143
+   to identify which is which.  
+
+142
+00:09:08,748 --> 00:09:10,682
+    the client who's ordered    
+         the conductors         
+
+143
+00:09:10,684 --> 00:09:13,418
+      specifies the colors      
+         of insulation.         
+
+144
+00:09:13,420 --> 00:09:16,154
+    it chooses them based on    
+   how it wants to color-code   
+
+145
+00:09:16,156 --> 00:09:17,789
+     its electrical wiring.     
+
+146
+00:09:28,569 --> 00:09:30,969
+       several conductors       
+   are often grouped together   
+
+147
+00:09:30,971 --> 00:09:33,104
+        to form a cable.        
+
+148
+00:09:33,106 --> 00:09:35,373
+       the plant performs       
+         a voltage test,        
+
+149
+00:09:35,375 --> 00:09:37,042
+  immersing the cables in water 
+
+150
+00:09:37,044 --> 00:09:40,245
+          to make sure          
+    they don't short-circuit.   
+
+151
+00:09:40,247 --> 00:09:42,314
+   these medium-voltage cables  
+            can carry           
+
+152
+00:09:42,316 --> 00:09:46,851
+   from 1,000 to 46,000 volts   
+         of electricity.        
+
+153
+00:09:46,853 --> 00:09:49,854
+      they're the type used     
+  for underground power lines.  
+
+154
+00:10:00,867 --> 00:10:05,737
+ they're insulated the same way 
+     low-voltage cables are.    
+
+155
+00:10:13,413 --> 00:10:17,148
+    the plant prints the date   
+  of manufacture, the voltage,  
+
+156
+00:10:17,150 --> 00:10:21,219
+    and any other information   
+    the client has requested.   
+
+157
+00:10:21,221 --> 00:10:23,488
+       the cable goes onto      
+       a reel to be tested      
+
+158
+00:10:23,490 --> 00:10:26,958
+     before it's shipped out    
+       to its destination.      
+
+159
+00:10:26,960 --> 00:10:28,492
+   in the middle of the cable,  
+
+160
+00:10:28,494 --> 00:10:30,629
+          surrounded by         
+     copper grounding wires     
+
+161
+00:10:30,631 --> 00:10:32,496
+ and a host of other components 
+
+162
+00:10:32,498 --> 00:10:34,833
+          is the heart          
+   of the electrical cable --   
+
+163
+00:10:34,835 --> 00:10:36,768
+       the bear conductor.      
+
+164
+00:10:44,511 --> 00:10:48,079
+  narrator: many machine parts  
+ are simply stamped or machined 
+
+165
+00:10:48,081 --> 00:10:49,314
+       out of solid metal,      
+
+166
+00:10:49,316 --> 00:10:52,384
+  but parts with complex shapes 
+          or thin walls         
+
+167
+00:10:52,386 --> 00:10:53,918
+     can't be made that way.    
+
+168
+00:10:53,920 --> 00:10:55,453
+      they have to be cast      
+
+169
+00:10:55,455 --> 00:10:59,491
+    using a technique called    
+   "lost wax process casting."  
+
+170
+00:11:02,796 --> 00:11:05,730
+  it takes anywhere from a week 
+           to a month           
+
+171
+00:11:05,732 --> 00:11:07,998
+         to manufacture         
+       a cast-metal part,       
+
+172
+00:11:08,000 --> 00:11:10,267
+  depending on its complexity.  
+
+173
+00:11:10,269 --> 00:11:14,271
+ the first step is to inject wax
+      into an aluminum die,     
+
+174
+00:11:14,273 --> 00:11:15,874
+   which is essentially a mold  
+
+175
+00:11:15,876 --> 00:11:18,809
+  whose cavity is in the shape  
+          of the part.          
+
+176
+00:11:18,811 --> 00:11:20,878
+    this creates a wax model    
+
+177
+00:11:20,880 --> 00:11:24,215
+      slightly larger than      
+   the finished part will be.   
+
+178
+00:11:24,217 --> 00:11:26,084
+   they'll use this wax model   
+
+179
+00:11:26,086 --> 00:11:29,086
+         to make a mold         
+   out of a ceramic material.   
+
+180
+00:11:29,088 --> 00:11:31,623
+    the mold has to be larger   
+     than the finished part     
+
+181
+00:11:31,625 --> 00:11:34,826
+      because metal shrinks     
+          as it cools.          
+
+182
+00:11:34,828 --> 00:11:37,829
+  once the wax model is ready,  
+
+183
+00:11:37,831 --> 00:11:40,365
+      they stamp on a code      
+   to tell the foundry workers  
+
+184
+00:11:40,367 --> 00:11:43,368
+    what type of metal to use   
+    when they cast the part.    
+
+185
+00:11:45,205 --> 00:11:47,438
+     next, using a hot iron,    
+
+186
+00:11:47,440 --> 00:11:49,640
+   they attach wax components   
+
+187
+00:11:49,642 --> 00:11:52,911
+     to create what's called    
+   a metal delivery system --   
+
+188
+00:11:52,913 --> 00:11:55,313
+    channels that will funnel   
+        the molten metal        
+
+189
+00:11:55,315 --> 00:11:57,048
+     into the mold's cavity.    
+
+190
+00:12:14,601 --> 00:12:17,402
+next, they dip this wax assembly
+
+191
+00:12:17,404 --> 00:12:20,472
+     into a ceramic solution    
+        called "slurry."        
+
+192
+00:12:20,474 --> 00:12:23,608
+      they do this by hand      
+    to prevent imperfections    
+
+193
+00:12:23,610 --> 00:12:26,477
+    that would cause defects    
+         in the casting.        
+
+194
+00:12:26,479 --> 00:12:28,079
+    to strengthen the slurry,   
+
+195
+00:12:28,081 --> 00:12:30,815
+          they coat it          
+    in a fine zirconium sand,   
+
+196
+00:12:30,817 --> 00:12:32,817
+        then let it dry.        
+
+197
+00:12:34,287 --> 00:12:38,156
+  a robot then keeps repeating  
+  the process with coarser sand 
+
+198
+00:12:38,158 --> 00:12:41,359
+     until the ceramic shell    
+  surrounding the wax assembly  
+
+199
+00:12:41,361 --> 00:12:43,761
+ is about 3/10 of an inch thick.
+
+200
+00:12:43,763 --> 00:12:47,031
+      this takes five days.     
+
+201
+00:12:47,033 --> 00:12:49,567
+     now the ceramic-covered    
+          wax assembly          
+
+202
+00:12:49,569 --> 00:12:52,370
+   is ready for what they call  
+           the dewax.           
+
+203
+00:12:52,372 --> 00:12:56,106
+ workers place it in a hot-steam
+   chamber called an autoclave  
+
+204
+00:12:56,108 --> 00:12:57,976
+      for 5 to 10 minutes.      
+
+205
+00:12:57,978 --> 00:13:00,778
+       this melts the wax       
+     right out of the shell,    
+
+206
+00:13:00,780 --> 00:13:02,246
+     creating a ceramic mold    
+
+207
+00:13:02,248 --> 00:13:06,517
+  whose cavity is in the shape  
+          of the part.          
+
+208
+00:13:06,519 --> 00:13:08,452
+  once the mold has dried out,  
+
+209
+00:13:08,454 --> 00:13:11,656
+        workers can begin       
+        to cast the part.       
+
+210
+00:13:11,658 --> 00:13:14,459
+  first they put the cold mold  
+          into an oven          
+
+211
+00:13:14,461 --> 00:13:17,528
+         and heat it up         
+     for two to three hours.    
+
+212
+00:13:17,530 --> 00:13:20,497
+     this prevents the mold     
+    from cracking from shock    
+
+213
+00:13:20,499 --> 00:13:23,268
+   when it comes into contact   
+        with molten metal       
+
+214
+00:13:23,270 --> 00:13:26,604
+  that's close to 2,200 degrees 
+           fahrenheit.          
+
+215
+00:13:27,941 --> 00:13:31,008
+       they pour the metal      
+     into the mold's cavity,    
+
+216
+00:13:31,010 --> 00:13:34,012
+        then let it cool        
+ and harden at room temperature.
+
+217
+00:13:34,014 --> 00:13:39,117
+it takes two hours for aluminum,
+  four to five hours for steel. 
+
+218
+00:13:41,154 --> 00:13:43,821
+    once the metal has cooled   
+         and solidified,        
+
+219
+00:13:43,823 --> 00:13:47,892
+ they break off the ceramic mold
+    using a vibrating hammer.   
+
+220
+00:13:47,894 --> 00:13:50,195
+ this takes about five minutes. 
+
+221
+00:13:54,968 --> 00:13:58,203
+          they saw off          
+  the metal delivery system...  
+
+222
+00:14:13,119 --> 00:14:16,154
+          ...then grind         
+       the surface smooth.      
+
+223
+00:14:29,002 --> 00:14:31,268
+ the final step is to make sure 
+
+224
+00:14:31,270 --> 00:14:33,804
+        the part came to        
+      the exact dimensions      
+
+225
+00:14:33,806 --> 00:14:36,674
+            specified           
+    in the technical drawing.   
+
+226
+00:14:36,676 --> 00:14:38,742
+    this is called "sizing."    
+
+227
+00:14:38,744 --> 00:14:42,146
+steel parts have to be heated up
+     in an oven for sizing.     
+
+228
+00:14:42,148 --> 00:14:45,116
+ aluminum parts are sized cold. 
+
+229
+00:14:48,021 --> 00:14:51,155
+    technicians use a series    
+      of tools and presses      
+
+230
+00:14:51,157 --> 00:14:52,624
+      to measure the part.      
+
+231
+00:14:52,626 --> 00:14:54,626
+       if it doesn't meet       
+         specifications,        
+
+232
+00:14:54,628 --> 00:14:58,096
+      it's either reworked      
+      or simply discarded.      
+
+233
+00:15:00,433 --> 00:15:04,302
+they use sophisticated equipment
+such as this optical comparator 
+
+234
+00:15:04,304 --> 00:15:06,771
+to check the angles and radiuses
+
+235
+00:15:06,773 --> 00:15:11,276
+  and this coordinate measuring 
+  machine to verify dimensions. 
+
+236
+00:15:19,452 --> 00:15:22,987
+    lost wax process casting    
+   is used to make metal parts  
+
+237
+00:15:22,989 --> 00:15:25,322
+    for all types of machines   
+         and equipment,         
+
+238
+00:15:25,324 --> 00:15:28,993
+everything from military weapons
+         to snowmobiles.        
+
+239
+00:15:36,336 --> 00:15:38,870
+            narrator:           
+since the industrial revolution,
+
+240
+00:15:38,872 --> 00:15:42,473
+    manufacturing has become    
+    increasingly automated.     
+
+241
+00:15:42,475 --> 00:15:45,543
+         it's about time        
+  "how it's made" paid tribute  
+
+242
+00:15:45,545 --> 00:15:48,212
+     to that marvelous feat     
+         of engineering,        
+
+243
+00:15:48,214 --> 00:15:50,148
+     the automated machine.     
+
+244
+00:15:57,690 --> 00:16:00,091
+        until the 1780s,        
+
+245
+00:16:00,093 --> 00:16:04,228
+   goods were made one by one   
+     in a home or workshop.     
+
+246
+00:16:04,230 --> 00:16:06,830
+            then came           
+   the industrial revolution,   
+
+247
+00:16:06,832 --> 00:16:11,903
+ the mass production of products
+       in huge factories.       
+
+248
+00:16:11,905 --> 00:16:15,039
+   industry's next revolution   
+         was automation,        
+
+249
+00:16:15,041 --> 00:16:18,977
+          made possible         
+     by computer technology.    
+
+250
+00:16:18,979 --> 00:16:20,912
+          by the 1970s,         
+
+251
+00:16:20,914 --> 00:16:24,848
+  two centuries after the start 
+  of the industrial revolution, 
+
+252
+00:16:24,850 --> 00:16:29,187
+  robots began replacing humans 
+    on the production lines.    
+
+253
+00:20:34,834 --> 00:20:37,901
+     --<font color="#ffff00"> captions by vitac</font> --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+254
+00:20:37,903 --> 00:20:40,871
+      captions paid for by      
+ discovery communications, inc. 
+
+255
+00:21:08,601 --> 00:21:10,868
+    if you have any comments    
+         about the show,        
+
+256
+00:21:10,870 --> 00:21:13,470
+   or if you'd like to suggest  
+    topics for future shows,    
+
+257
+00:21:13,472 --> 00:21:16,707
+      drop us a line at...      
+

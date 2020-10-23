@@ -1,0 +1,1561 @@
+﻿1
+00:00:01,869 --> 00:00:04,937
+   -- <font color="#ffff00"> captions by vitac</font>  --    
+         <font color="#00ffff"> www.vitac.com</font>         
+
+2
+00:00:04,939 --> 00:00:08,040
+      captions paid for by      
+   discovery communications     
+
+3
+00:00:52,453 --> 00:00:54,587
+           narrator:            
+     the first armored car      
+
+4
+00:00:54,589 --> 00:00:57,256
+         was developed          
+   in the late 19th century.    
+
+5
+00:00:57,258 --> 00:00:59,659
+           first used           
+     as scouting vehicles,      
+
+6
+00:00:59,661 --> 00:01:03,596
+  they quickly became a source  
+     of protection in modern    
+            warfare.            
+
+7
+00:01:03,598 --> 00:01:07,199
+     today, private armored     
+            vehicles            
+   are made for celebrities,    
+
+8
+00:01:07,201 --> 00:01:10,670
+            c.e.o.s,            
+   and government officials.    
+
+9
+00:01:14,342 --> 00:01:18,411
+      this armored s.u.v.       
+  looks like an ordinary car,   
+
+10
+00:01:18,413 --> 00:01:21,280
+      but it's reinforced       
+    with bulletproof steel      
+
+11
+00:01:21,282 --> 00:01:26,151
+            and has             
+  transparent armor windows.    
+
+12
+00:01:26,153 --> 00:01:28,420
+           a designer           
+   integrates armored parts     
+
+13
+00:01:28,422 --> 00:01:34,960
+  into the original design of   
+the car using a 3d cad system.  
+
+14
+00:01:34,962 --> 00:01:36,896
+       a c.n.c. precision       
+         laser cutter           
+
+15
+00:01:36,898 --> 00:01:40,700
+    shapes the armored parts    
+    out of a ballistic steel    
+             sheet.             
+
+16
+00:01:49,777 --> 00:01:52,912
+  a mechanic tests the steel's  
+     ballistic resistance       
+
+17
+00:01:52,914 --> 00:01:55,514
+   using a high-power rifle.    
+
+18
+00:01:55,516 --> 00:01:57,116
+    he makes sure the armor     
+
+19
+00:01:57,118 --> 00:02:00,853
+      meets international       
+  ballistic impact standards.   
+
+20
+00:02:00,855 --> 00:02:02,121
+       a mechanic starts        
+
+21
+00:02:02,123 --> 00:02:05,257
+ by removing the inside covers  
+    and liners of the car,      
+
+22
+00:02:05,259 --> 00:02:07,893
+       stripping it down        
+     to the chassis frame.      
+
+23
+00:02:10,197 --> 00:02:13,666
+       now the mechanics        
+    can install the armor.      
+
+24
+00:02:13,668 --> 00:02:17,770
+  they weld bulletproof steel   
+ sheets to the chassis frame.   
+
+25
+00:02:20,608 --> 00:02:22,742
+         they reinforce         
+         the car floor          
+
+26
+00:02:22,744 --> 00:02:25,411
+      with blast-absorbent      
+         steel sheets           
+
+27
+00:02:25,413 --> 00:02:27,946
+          and install           
+    ballistic armored steel     
+
+28
+00:02:27,948 --> 00:02:31,350
+            to cover            
+   the interior cabin walls.    
+
+29
+00:02:31,352 --> 00:02:34,286
+      a mechanic now uses       
+      an electric grinder       
+
+30
+00:02:34,288 --> 00:02:39,291
+  to remove the standard-steel  
+     panels from the door.      
+
+31
+00:02:39,293 --> 00:02:43,295
+      armored steel plates      
+designed to fit to the chassis  
+
+32
+00:02:43,297 --> 00:02:45,698
+     are welded in place.       
+
+33
+00:02:48,369 --> 00:02:50,970
+           at the end           
+        of the process,         
+
+34
+00:02:50,972 --> 00:02:55,107
+     the vehicle is armored     
+      from top to bottom.       
+
+35
+00:02:55,109 --> 00:02:58,244
+ the armor adds around two tons 
+   of weight to the vehicle,    
+
+36
+00:02:58,246 --> 00:02:59,979
+    depending on the model,     
+
+37
+00:02:59,981 --> 00:03:06,184
+   so each vehicle is equipped  
+              with              
+ an adapted suspension system.  
+
+38
+00:03:06,186 --> 00:03:10,656
+ a welder assembles a fuel-tank 
+ casing using ballistic steel.  
+
+39
+00:03:10,658 --> 00:03:15,060
+  he arranges the metal to form 
+                a               
+   protective shell around the  
+              tank              
+
+40
+00:03:15,062 --> 00:03:17,863
+           then welds           
+     the pieces together.       
+
+41
+00:03:24,338 --> 00:03:27,606
+     another worker applies     
+   electrostatic, anti-rust,    
+
+42
+00:03:27,608 --> 00:03:29,274
+  and flame-retardant paint,    
+
+43
+00:03:29,276 --> 00:03:31,409
+      designed to prevent       
+    the tank from exploding     
+
+44
+00:03:31,411 --> 00:03:33,579
+  if exposed to open flames.    
+
+45
+00:03:37,218 --> 00:03:42,220
+ a welder attaches the fuel pan 
+  to the bulletproof casing.    
+
+46
+00:03:42,222 --> 00:03:47,092
+     he uses a mig torch to     
+            tack-weld           
+    the pan onto the armored    
+             steel.             
+
+47
+00:03:47,094 --> 00:03:52,198
+   the c.n.c.-designed casing   
+    fits perfectly around the   
+             tank.              
+
+48
+00:03:59,173 --> 00:04:02,040
+    mechanics now reassemble    
+     the interior fitting,      
+
+49
+00:04:02,042 --> 00:04:03,441
+   air-conditioning system,     
+
+50
+00:04:03,443 --> 00:04:07,979
+     and electrical wiring      
+   running through the roof.    
+
+51
+00:04:07,981 --> 00:04:10,849
+   another worker reattaches    
+      the original panels       
+
+52
+00:04:10,851 --> 00:04:14,587
+   to the armored door frame    
+
+53
+00:04:14,589 --> 00:04:18,891
+   and puts the door-lock and   
+window controls back in place.  
+
+54
+00:04:22,396 --> 00:04:25,798
+ they cover the blast-absorbent 
+    steel with floor mats,      
+
+55
+00:04:25,800 --> 00:04:28,601
+       then they bring in       
+    the rear bulkhead door,     
+
+56
+00:04:28,603 --> 00:04:31,736
+      which is upholstered      
+      to match the original     
+           interior.            
+
+57
+00:04:31,738 --> 00:04:35,941
+   the bulletproof door can be  
+              used              
+ as an emergency escape hatch.  
+
+58
+00:04:35,943 --> 00:04:37,743
+     it opens horizontally      
+
+59
+00:04:37,745 --> 00:04:45,150
+ because the door is too heavy  
+  for hatch lifts to support.   
+
+60
+00:04:45,152 --> 00:04:48,287
+        now they install        
+        the windshield.         
+
+61
+00:04:48,289 --> 00:04:50,889
+           it's made            
+ of transparent armored glass.  
+
+62
+00:04:50,891 --> 00:04:52,491
+  the thickness of the glass    
+
+63
+00:04:52,493 --> 00:04:56,629
+    depends on the ballistic    
+    standard the car needs to   
+             meet.              
+
+64
+00:04:56,631 --> 00:05:00,299
+  he installs runflat devices   
+   made of composite plastic    
+
+65
+00:05:00,301 --> 00:05:02,567
+      inside the wheels.        
+
+66
+00:05:02,569 --> 00:05:04,970
+      this allows the car       
+to keep rolling on a flat tire  
+
+67
+00:05:04,972 --> 00:05:06,438
+      for 40 to 50 miles        
+
+68
+00:05:06,440 --> 00:05:10,376
+         at a speed of          
+   up to 50 miles per hour.     
+
+69
+00:05:13,581 --> 00:05:15,848
+      a mechanic tightens       
+   the device around the rim    
+
+70
+00:05:15,850 --> 00:05:20,052
+      before a robotic arm      
+    attaches the tire to the    
+             wheel.             
+
+71
+00:05:22,523 --> 00:05:24,322
+           he labels            
+     the reinforced wheel       
+
+72
+00:05:24,324 --> 00:05:27,593
+    with the specifications     
+     of the runflat device      
+
+73
+00:05:27,595 --> 00:05:29,929
+         and mounts it          
+       back on the car.         
+
+74
+00:05:35,469 --> 00:05:37,669
+        a keen observer         
+      may see the overlap       
+
+75
+00:05:37,671 --> 00:05:41,073
+    between the edge of the     
+doorframe and the main chassis  
+
+76
+00:05:41,075 --> 00:05:43,876
+      or notice the unusual     
+            thickness           
+        of the windows,         
+
+77
+00:05:43,878 --> 00:05:45,744
+         but the design         
+         of these cars          
+
+78
+00:05:45,746 --> 00:05:48,480
+        makes them look         
+    perfectly normal to most    
+            people,             
+
+79
+00:05:48,482 --> 00:05:51,650
+      even though they are      
+as protected as armored tanks.  
+
+80
+00:06:04,698 --> 00:06:06,298
+           narrator:            
+   a tension fabric building    
+
+81
+00:06:06,300 --> 00:06:08,433
+     combines the benefits      
+   of a tent and a building     
+
+82
+00:06:08,435 --> 00:06:11,870
+   into a single structure.     
+
+83
+00:06:11,872 --> 00:06:14,439
+        it has a strong,        
+      load-resistant roof       
+
+84
+00:06:14,441 --> 00:06:15,908
+ and a sturdy steel structure   
+
+85
+00:06:15,910 --> 00:06:18,510
+       but can be quickly       
+ dismantled and reconstructed   
+
+86
+00:06:18,512 --> 00:06:19,912
+      at a new location.        
+
+87
+00:06:24,251 --> 00:06:26,318
+         you often see          
+   tension fabric buildings     
+
+88
+00:06:26,320 --> 00:06:29,254
+            on farms            
+   or at public works yards.    
+
+89
+00:06:29,256 --> 00:06:31,123
+       they're often used       
+      to store equipment        
+
+90
+00:06:31,125 --> 00:06:34,259
+       and bulk materials       
+   like gravel or road salt.    
+
+91
+00:06:34,261 --> 00:06:40,733
+    tension fabric buildings    
+      can also house small      
+           factories.           
+
+92
+00:06:40,735 --> 00:06:43,802
+        the fabric cover        
+ is high-density polyethylene,  
+
+93
+00:06:43,804 --> 00:06:47,473
+        a material known        
+ for its exceptional strength.  
+
+94
+00:06:47,475 --> 00:06:53,078
+ it can withstand strong winds  
+ and heavy snow accumulation.   
+
+95
+00:06:53,080 --> 00:06:55,080
+           following            
+     the engineer's plan,       
+
+96
+00:06:55,082 --> 00:06:59,017
+          workers cut           
+the required sheets of fabric.  
+
+97
+00:06:59,019 --> 00:07:01,620
+       then, the assembly       
+        process begins.         
+
+98
+00:07:01,622 --> 00:07:06,558
+   they flatten and tape down   
+  the first sheet to immobilize 
+               it               
+
+99
+00:07:06,560 --> 00:07:10,829
+ then overlap the second sheet  
+        by two inches.          
+
+100
+00:07:10,831 --> 00:07:16,302
+   they tape down that sheet    
+    to keep it in position.     
+
+101
+00:07:16,304 --> 00:07:21,407
+  then, with a hot-air welder,  
+    they melt the overlapping   
+             edges              
+
+102
+00:07:21,409 --> 00:07:25,243
+    and press them together     
+      with heavy wheels.        
+
+103
+00:07:25,245 --> 00:07:28,547
+      this fuses the edges      
+      into a strong seam.       
+
+104
+00:07:33,921 --> 00:07:37,923
+ workers use this same process  
+  to weld on tension pockets    
+
+105
+00:07:37,925 --> 00:07:40,992
+          two feet in           
+  from the bottom and sides.    
+
+106
+00:07:40,994 --> 00:07:43,996
+    each pocket will contain    
+      a steel or pvc tube       
+
+107
+00:07:43,998 --> 00:07:45,930
+     holding nylon straps.      
+
+108
+00:07:45,932 --> 00:07:48,800
+     the straps are spaced      
+      2 to 10 feet apart,       
+
+109
+00:07:48,802 --> 00:07:51,536
+          depending on          
+      the building size.        
+
+110
+00:07:51,538 --> 00:07:53,271
+      they apply tension        
+
+111
+00:07:53,273 --> 00:07:57,943
+   to fasten the fabric down    
+   over the steel structure.    
+
+112
+00:07:57,945 --> 00:08:00,879
+      the assembled sheets      
+      form a single cover       
+
+113
+00:08:00,881 --> 00:08:04,215
+    that goes over the sides    
+   and roof of the building.    
+
+114
+00:08:04,217 --> 00:08:08,820
+    separate covers are made    
+ for the front and back walls.  
+
+115
+00:08:08,822 --> 00:08:12,491
+ the covers of larger buildings 
+     are made differently.      
+
+116
+00:08:12,493 --> 00:08:18,030
+    workers connect multiple    
+             covers             
+     with a keter system.       
+
+117
+00:08:18,032 --> 00:08:21,767
+    keter is an ultra-strong    
+      pvc or nylon rope.        
+
+118
+00:08:21,769 --> 00:08:25,303
+          an automated          
+        hot-air welder          
+
+119
+00:08:25,305 --> 00:08:27,740
+ folds the edges of each cover  
+        over the keter.         
+
+120
+00:08:30,711 --> 00:08:34,379
+  the fabric-sealed rope edge   
+
+121
+00:08:34,381 --> 00:08:36,448
+       will slide snugly        
+   into an aluminum channel     
+
+122
+00:08:36,450 --> 00:08:38,517
+       in the building's        
+        roof structure.         
+
+123
+00:08:42,790 --> 00:08:45,123
+  when the cover is finished,   
+
+124
+00:08:45,125 --> 00:08:47,559
+    workers fan-fold it...      
+
+125
+00:08:50,530 --> 00:08:54,033
+     ...then roll it up for     
+            transport           
+   to the installation site.    
+
+126
+00:08:58,138 --> 00:08:59,805
+       for the building's       
+       steel structure,         
+
+127
+00:08:59,807 --> 00:09:01,807
+          the factory           
+      orders steel tubing       
+
+128
+00:09:01,809 --> 00:09:04,876
+        and cuts pieces         
+   to the required lengths.     
+
+129
+00:09:04,878 --> 00:09:08,547
+ the steel is coated with zinc  
+     to prevent corrosion.      
+
+130
+00:09:15,088 --> 00:09:17,489
+      works put the tubes       
+         into a press           
+
+131
+00:09:17,491 --> 00:09:21,226
+      to flatten the ends       
+  into connectable surfaces.    
+
+132
+00:09:21,228 --> 00:09:26,565
+  at the same time, the press   
+   punches holes for bolts.     
+
+133
+00:09:28,835 --> 00:09:30,836
+         for buildings          
+      with a rounded top,       
+
+134
+00:09:30,838 --> 00:09:33,238
+        works bend tubes        
+       for the trusses,         
+
+135
+00:09:33,240 --> 00:09:38,043
+        a main component        
+     of the roof framing.       
+
+136
+00:09:38,045 --> 00:09:40,845
+          the operator          
+    programs in the required    
+            radius,             
+
+137
+00:09:40,847 --> 00:09:43,715
+        and the machine         
+automatically adjusts the dies  
+
+138
+00:09:43,717 --> 00:09:46,118
+       to curve the tube        
+         accordingly.           
+
+139
+00:09:49,923 --> 00:09:52,858
+  workers then place the parts  
+    for each truss segment      
+
+140
+00:09:52,860 --> 00:09:56,061
+       in an assembly jig       
+    to prepare for welding.     
+
+141
+00:10:00,868 --> 00:10:02,400
+         they tack-weld         
+      the parts together        
+
+142
+00:10:02,402 --> 00:10:08,339
+    so they come off the jig    
+       as a single unit.        
+
+143
+00:10:08,341 --> 00:10:11,610
+      at the next station,      
+  workers finish the welding.   
+
+144
+00:10:11,612 --> 00:10:14,612
+       this truss segment       
+ will connect with six others,  
+
+145
+00:10:14,614 --> 00:10:19,217
+    forming a 200-foot truss    
+             running            
+      the full width of the     
+           building.            
+
+146
+00:10:19,219 --> 00:10:23,288
+    to keep up with the high    
+             demand,            
+   robots do all the welding    
+
+147
+00:10:23,290 --> 00:10:27,960
+       for this factory's       
+     most-popular models.       
+
+148
+00:10:27,962 --> 00:10:30,094
+        welding removes         
+      the galvanization,        
+
+149
+00:10:30,096 --> 00:10:32,631
+     which keeps the steel      
+     corrosion-resistant,       
+
+150
+00:10:32,633 --> 00:10:36,768
+  so the last step is to spray  
+ zinc-rich paint on the welds   
+
+151
+00:10:36,770 --> 00:10:39,371
+           to restore           
+       that protection.         
+
+152
+00:10:41,842 --> 00:10:45,377
+   a tension fabric building    
+
+153
+00:10:45,379 --> 00:10:49,381
+ typically takes a team of four 
+  just a few days to set up.    
+
+154
+00:10:49,383 --> 00:10:50,648
+     it can be customized       
+
+155
+00:10:50,650 --> 00:10:52,984
+  to attach to different types  
+        of foundations          
+
+156
+00:10:52,986 --> 00:10:57,022
+        and be designed         
+with windows and garage doors.  
+
+157
+00:11:14,875 --> 00:11:18,076
+   narrator: rowing machines    
+    were invented in the late   
+             1800s.             
+
+158
+00:11:18,078 --> 00:11:20,612
+      these early versions      
+       were rudimentary         
+
+159
+00:11:20,614 --> 00:11:23,348
+ but helped competitive rowers  
+   train in the off-season.     
+
+160
+00:11:23,350 --> 00:11:25,817
+    as technology improved,     
+
+161
+00:11:25,819 --> 00:11:28,220
+        rowing machines         
+  gained a much wider appeal.   
+
+162
+00:11:28,222 --> 00:11:31,356
+     today's machines offer     
+ a realistic rowing experience  
+
+163
+00:11:31,358 --> 00:11:34,126
+        without putting         
+     an oar in the water.       
+
+164
+00:11:39,700 --> 00:11:41,099
+   when the weather is bad,     
+
+165
+00:11:41,101 --> 00:11:45,637
+        a rowing machine        
+can bring the workout indoors.  
+
+166
+00:11:45,639 --> 00:11:48,373
+        to make a rower,        
+      a computerized tool       
+
+167
+00:11:48,375 --> 00:11:51,509
+     punches assembly holes     
+     in high-carbon steel.      
+
+168
+00:11:51,511 --> 00:11:55,113
+    then, a laser carves out    
+  the parts around the holes.   
+
+169
+00:11:55,115 --> 00:11:58,116
+    these parts will be used    
+     to create the housing      
+
+170
+00:11:58,118 --> 00:12:01,186
+        for the rower's         
+     flywheel and brakes.       
+
+171
+00:12:01,188 --> 00:12:06,858
+  they fold the edges using a   
+    bench press, making neat    
+             flaps.             
+
+172
+00:12:11,265 --> 00:12:14,198
+    next up is the main tube    
+        for the rower.          
+
+173
+00:12:14,200 --> 00:12:17,602
+    all the other components    
+   will attach to this part.    
+
+174
+00:12:17,604 --> 00:12:23,275
+  a punch cuts assembly holes   
+     into the steel tube.       
+
+175
+00:12:23,277 --> 00:12:29,214
+    then, an employee places    
+the tube in a welding fixture.  
+
+176
+00:12:29,216 --> 00:12:33,885
+     he positions the stand     
+ of the seat frame at one end.  
+
+177
+00:12:33,887 --> 00:12:36,888
+         a robot welds          
+     the stand to the tube      
+
+178
+00:12:36,890 --> 00:12:40,425
+        and welds mounts        
+      for the seat rail.        
+
+179
+00:12:40,427 --> 00:12:43,628
+    they apply a powder-coat    
+             finish             
+       to the assembly,         
+
+180
+00:12:43,630 --> 00:12:47,399
+making it corrosion-resistant.  
+
+181
+00:12:47,401 --> 00:12:52,503
+     an employee places the     
+            flywheel            
+  housing parts in a fixture    
+
+182
+00:12:52,505 --> 00:12:55,573
+         and activates          
+     an automated welder,       
+
+183
+00:12:55,575 --> 00:12:59,044
+   which fuses them together    
+         at the seams.          
+
+184
+00:12:59,046 --> 00:13:02,981
+        they powder-coat        
+      this assembly, too.       
+
+185
+00:13:02,983 --> 00:13:05,450
+         plastic wheels         
+      with metal bearings       
+
+186
+00:13:05,452 --> 00:13:08,587
+         allow the seat         
+    to slide on the rails.      
+
+187
+00:13:08,589 --> 00:13:10,389
+            a worker            
+      screws four wheels        
+
+188
+00:13:10,391 --> 00:13:14,926
+      to the carrier plate      
+     under the rower seat.      
+
+189
+00:13:14,928 --> 00:13:18,263
+    now an employee applies     
+ a decal with the company name  
+
+190
+00:13:18,265 --> 00:13:21,399
+       to the main tube.        
+
+191
+00:13:21,401 --> 00:13:25,070
+ he inserts a pulley in a notch 
+    at the end of the tube.     
+
+192
+00:13:25,072 --> 00:13:30,876
+    next, he sets the chrome    
+    seat rail on the mounts     
+
+193
+00:13:30,878 --> 00:13:33,678
+  and secures it with screws.   
+
+194
+00:13:33,680 --> 00:13:36,348
+      he attaches the ends      
+      of the chrome rail        
+
+195
+00:13:36,350 --> 00:13:38,216
+   to eyelets on the stand.     
+
+196
+00:13:40,487 --> 00:13:44,756
+     he screws plastic feet     
+  to the bottom of the stand.   
+
+197
+00:13:44,758 --> 00:13:46,358
+      at another station,       
+
+198
+00:13:46,360 --> 00:13:49,961
+   a worker places a bearing    
+ in the center of the flywheel  
+
+199
+00:13:49,963 --> 00:13:52,831
+        and uses a press        
+         to secure it.          
+
+200
+00:13:52,833 --> 00:13:55,434
+    next, he pulls a black,     
+ plastic cord through a spool   
+
+201
+00:13:55,436 --> 00:13:57,836
+   and knots it at the end.     
+
+202
+00:14:02,909 --> 00:14:05,377
+     he also pulls a white,     
+   rubberized cord through,     
+
+203
+00:14:05,379 --> 00:14:10,848
+     then mounts the spool      
+  to a shaft in the flywheel.   
+
+204
+00:14:10,850 --> 00:14:15,053
+    he locks the spool to the   
+              shaft             
+   with a special steel ring    
+
+205
+00:14:15,055 --> 00:14:20,192
+    and winds the black cord    
+       around the spool.        
+
+206
+00:14:20,194 --> 00:14:22,460
+      he puts the flywheel      
+     in the steel housing       
+
+207
+00:14:22,462 --> 00:14:27,265
+    and screws it in place.     
+
+208
+00:14:27,267 --> 00:14:29,200
+     using a hooked tool,       
+
+209
+00:14:29,202 --> 00:14:32,504
+    he grabs a spring linked    
+     to the magnetic braking    
+            system.             
+
+210
+00:14:36,009 --> 00:14:37,943
+           he fastens           
+    this end of the spring      
+
+211
+00:14:37,945 --> 00:14:41,046
+           to a hole            
+   in the flywheel housing.     
+
+212
+00:14:44,284 --> 00:14:48,019
+  a team now threads the white  
+   pull cord through the main   
+              tube              
+
+213
+00:14:48,021 --> 00:14:52,356
+ and uses the pulley at the end 
+       to loop it back.         
+
+214
+00:14:52,358 --> 00:14:57,829
+     a piece of metal cable     
+            attached            
+   the end of the pull cord     
+
+215
+00:14:57,831 --> 00:15:01,633
+    makes it easier to snake    
+  the cord through the tube.    
+
+216
+00:15:03,503 --> 00:15:07,706
+      now a worker unwinds      
+    some of the black cord.     
+
+217
+00:15:07,708 --> 00:15:10,775
+ he threads it through a guide  
+    on the flywheel housing     
+
+218
+00:15:10,777 --> 00:15:12,577
+        and attaches it         
+       to the handlebar,        
+
+219
+00:15:12,579 --> 00:15:16,047
+    also known as the oar.      
+
+220
+00:15:16,049 --> 00:15:19,584
+         he pushes caps         
+      into the ends of the      
+           handlebar,           
+
+221
+00:15:19,586 --> 00:15:24,990
+      then rests it on top      
+   of the flywheel housing.     
+
+222
+00:15:24,992 --> 00:15:28,193
+    another employee builds     
+ a protective outer structure   
+
+223
+00:15:28,195 --> 00:15:29,928
+      around the flywheel       
+         steel housing          
+
+224
+00:15:29,930 --> 00:15:32,063
+          using molded          
+        plastic parts.          
+
+225
+00:15:34,934 --> 00:15:37,869
+       he installs a port       
+   for the electrical system    
+
+226
+00:15:37,871 --> 00:15:40,405
+          that powers           
+     the workout computer.      
+
+227
+00:15:40,407 --> 00:15:44,743
+   the top part of the casing   
+    contains the computer.      
+
+228
+00:15:44,745 --> 00:15:49,681
+     the computer measures      
+    row strokes and calories    
+            burned.             
+
+229
+00:15:49,683 --> 00:15:51,883
+          after making          
+all the necessary connections,  
+
+230
+00:15:51,885 --> 00:15:55,286
+    he screws it in place.      
+
+231
+00:15:55,288 --> 00:15:58,089
+        a plastic cradle        
+    supports the assembly.      
+
+232
+00:15:58,091 --> 00:16:00,225
+     it snaps into place.       
+
+233
+00:16:02,963 --> 00:16:04,963
+         once the seat          
+         is attached,           
+
+234
+00:16:04,965 --> 00:16:09,534
+      this rowing machine       
+    is ready for a workout.     
+
+235
+00:16:22,649 --> 00:16:27,185
+           narrator:            
+ until recently, if a sculptor  
+    wanted to create a large    
+
+236
+00:16:27,187 --> 00:16:29,454
+        they had to make        
+     their model by hand,       
+
+237
+00:16:29,456 --> 00:16:30,722
+       but now an artist        
+
+238
+00:16:30,724 --> 00:16:33,391
+ can make a small-scale replica 
+        of their statue         
+
+239
+00:16:33,393 --> 00:16:34,860
+     and have a large copy      
+         made in foam.          
+
+240
+00:16:34,862 --> 00:16:37,061
+           the artist           
+    can then use this model     
+
+241
+00:16:37,063 --> 00:16:39,464
+    to make their full-size     
+          sculpture,            
+
+242
+00:16:39,466 --> 00:16:43,001
+          saving them           
+   a lot of time and money.     
+
+243
+00:16:43,003 --> 00:16:47,138
+  a full-size sculpture starts  
+               out              
+    as a small clay model.      
+
+244
+00:16:47,140 --> 00:16:49,074
+           the artist           
+      uses the clay model       
+
+245
+00:16:49,076 --> 00:16:52,210
+         to make a mold         
+out of wax, plaster, or resin.  
+
+246
+00:16:52,212 --> 00:16:55,480
+     the artist then sends      
+  the copy, called a maquette   
+
+247
+00:16:55,482 --> 00:16:58,283
+        to a specialist,        
+       who produces a foam      
+          enlargement           
+
+248
+00:16:58,285 --> 00:17:03,822
+     to be used as a model      
+      to cast the full-size     
+           sculpture.           
+
+249
+00:17:03,824 --> 00:17:08,093
+     the specialist places      
+ the maquette on a turntable.   
+
+250
+00:17:08,095 --> 00:17:12,097
+  he spins it at an event pace  
+      while scanning it.        
+
+251
+00:17:12,099 --> 00:17:13,965
+  the scanner's five cameras    
+
+252
+00:17:13,967 --> 00:17:16,635
+        take continuous         
+    high-resolution photos      
+
+253
+00:17:16,637 --> 00:17:18,970
+        and upload them         
+        to a computer.          
+
+254
+00:17:18,972 --> 00:17:22,240
+   the computer then converts   
+ these photos into a 3d image.  
+
+255
+00:17:22,242 --> 00:17:24,576
+            he scans            
+  the maquette several times    
+
+256
+00:17:24,578 --> 00:17:27,445
+    to make sure he captures    
+         every detail.          
+
+257
+00:17:27,447 --> 00:17:29,447
+       then, he combines        
+     the pictures together      
+
+258
+00:17:29,449 --> 00:17:34,386
+   and divides the sculpture    
+        into sections.          
+
+259
+00:17:34,388 --> 00:17:35,653
+    he uses another program     
+
+260
+00:17:35,655 --> 00:17:38,590
+          to calculate          
+   the scale of enlargement.    
+
+261
+00:17:38,592 --> 00:17:39,858
+   this helps him determine     
+
+262
+00:17:39,860 --> 00:17:42,527
+     how many and what size     
+    blocks of foam he needs     
+
+263
+00:17:42,529 --> 00:17:45,463
+           to produce           
+         each section.          
+
+264
+00:17:45,465 --> 00:17:48,799
+      he uses a dense foam      
+       with a fine grain        
+
+265
+00:17:48,801 --> 00:17:54,339
+ called extruded polystyrene.   
+
+266
+00:17:54,341 --> 00:17:56,674
+           he secures           
+      the foam with tape,       
+
+267
+00:17:56,676 --> 00:17:59,877
+           then uses            
+   a computer-guided router     
+
+268
+00:17:59,879 --> 00:18:03,048
+ to carve the enlarged sections 
+       of the sculpture.        
+
+269
+00:18:09,089 --> 00:18:11,222
+           the larger           
+  and more detailed the part,   
+
+270
+00:18:11,224 --> 00:18:14,692
+           the longer           
+      this process takes.       
+
+271
+00:18:14,694 --> 00:18:19,230
+   for example, this half of    
+     the dog's head took 45     
+            minutes,            
+
+272
+00:18:19,232 --> 00:18:25,169
+    while carving half a leg    
+would take just eight minutes.  
+
+273
+00:18:25,171 --> 00:18:27,706
+  he uses a hot-wire machine    
+
+274
+00:18:27,708 --> 00:18:31,643
+   to slice through the block   
+   and free the carved part.    
+
+275
+00:18:38,584 --> 00:18:42,721
+ the specialist removes excess  
+  foam with a sanding block.    
+
+276
+00:18:53,066 --> 00:18:56,468
+     he makes sure adjacent     
+            sections            
+       line up properly,        
+
+277
+00:18:56,470 --> 00:18:58,536
+   then tapes them together.    
+
+278
+00:19:03,543 --> 00:19:09,547
+    he scrapes off the seam     
+  with a horse-grooming comb,   
+
+279
+00:19:09,549 --> 00:19:14,052
+      then sands it down.       
+
+280
+00:19:16,690 --> 00:19:19,090
+       next, he measures        
+         the sections           
+
+281
+00:19:19,092 --> 00:19:22,560
+   so he can cut a steel pipe   
+    to the correct length.      
+
+282
+00:19:22,562 --> 00:19:26,831
+     the steel pipe is used     
+        as a stiffener          
+
+283
+00:19:26,833 --> 00:19:30,301
+      to make the sections      
+          more rigid.           
+
+284
+00:19:30,303 --> 00:19:34,572
+        it also connects        
+  adjacent sections together.   
+
+285
+00:19:38,311 --> 00:19:40,245
+            he uses             
+    a standard pipe bender      
+
+286
+00:19:40,247 --> 00:19:45,917
+   to match the stiffeners to   
+   the sections they're going   
+             into.              
+
+287
+00:19:45,919 --> 00:19:48,720
+     to embed the stiffener     
+       in the dog's leg,        
+
+288
+00:19:48,722 --> 00:19:51,723
+       he first traces it       
+    on one side of the leg,     
+
+289
+00:19:51,725 --> 00:19:53,525
+       then he carves out       
+           a trough             
+
+290
+00:19:53,527 --> 00:19:55,527
+        to the depth of         
+   the stiffener's diameter.    
+
+291
+00:20:02,536 --> 00:20:05,870
+  he cleans out the loose foam  
+     with a narrow brush.       
+
+292
+00:20:05,872 --> 00:20:09,407
+     he checks to make sure     
+    the stiffener will fit.     
+
+293
+00:20:14,681 --> 00:20:21,953
+  then, he applies an adhesive  
+ designed especially for foam   
+
+294
+00:20:21,955 --> 00:20:24,456
+  and inserts the stiffener.    
+
+295
+00:20:29,896 --> 00:20:32,363
+    he places the other half    
+      of the leg on top,        
+
+296
+00:20:32,365 --> 00:20:36,701
+    encasing the stiffener.     
+
+297
+00:20:36,703 --> 00:20:40,104
+   he leaves about six inches   
+   sticking out of the leg.     
+
+298
+00:20:40,106 --> 00:20:42,173
+           he inserts           
+   the protruding steel rod     
+
+299
+00:20:42,175 --> 00:20:46,511
+      into a hole drilled       
+      in the enlargement.       
+
+300
+00:20:48,782 --> 00:20:51,382
+     once he has assembled      
+       all the sections,        
+
+301
+00:20:51,384 --> 00:20:55,252
+     he tapes them together     
+   to check their alignment.    
+
+302
+00:20:55,254 --> 00:20:57,455
+         the completed          
+     sculpture enlargement      
+
+303
+00:20:57,457 --> 00:21:00,591
+   is about four times bigger   
+  than the original maquette.   
+
+304
+00:21:00,593 --> 00:21:03,595
+         it's now ready         
+     to be sent back to the     
+           sculptor,            
+
+305
+00:21:03,597 --> 00:21:05,863
+        where he or she         
+    will cover it with clay     
+
+306
+00:21:05,865 --> 00:21:10,335
+   and add fine details that    
+ can't be reproduced in foam.   
+
+307
+00:21:10,337 --> 00:21:11,936
+      once this is done,        
+
+308
+00:21:11,938 --> 00:21:15,473
+       the sculptor sends       
+    the clay model to a mold    
+             maker,             
+
+309
+00:21:15,475 --> 00:21:18,877
+        who casts a mold        
+     and sends it to a metal    
+            foundry             
+
+310
+00:21:18,879 --> 00:21:22,147
+           to create            
+     the final sculpture.       
+
+311
+00:21:28,154 --> 00:21:30,487
+    if you have any comments    
+        about the show,         
+
+312
+00:21:30,489 --> 00:21:33,891
+  or if you'd like to suggest   
+   topics for future shows,     
+
+313
+00:21:33,893 --> 00:21:36,194
+     drop us a line at...       
+
