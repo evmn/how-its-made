@@ -87,7 +87,7 @@ S07E04|Balloons|Wallpaper|Frozen French Fries|Incandescent Light Bulbs
 S07E05|Matches|Carousel Horses|Fine Porcelain|Automobile Fuel Tanks
 S07E06|Glass Cookware|Soap Bars|Steel Drums|Firefighter Uniforms
 S07E07|Crayons|Wooden Kayaks|Lawnmowers|Gold Chains
-**S07E08|Inflatable Safety Devices|Braille Typewriters|Carbon-Fibre Cellos**
+S07E08|Inflatable Safety Devices|Braille Typewriters|Carbon-Fibre Cellos
 S07E09|Carbon-Fibre Masts|Fortune Cookies|IMAX Projectors|Roller Chains
 S07E10|Firefighter Helmets|Nautical Compasses|Packaging Tubes|Hand Saws
 S07E11|Halogen Bulbs|Cellulose Insulation|Aluminum Ladders|Bamboo Fly Rods
@@ -214,7 +214,7 @@ S17E01|Decorative Sombreros|Salad Dressings|Cap Guns|Regenerative Medicine
 S17E02|Cheese Graters|Hot Sauce|Silver Jewelery|Traditional Mexican Chairs
 S17E03|Game Calls|Mayonnaise|Traditional Razor Blades|Butterfly Safety Razors
 S17E04|Corn Tortillas|Crankshafts & Camshafts|Bush Planes|Aluminum Bike Wheels
-S17E05|Folding Kayaks|Pi%F1atas|Garbage Trucks|Ceramic Composite Brake Discs
+S17E05|Folding Kayaks|Piñatas|Garbage Trucks|Ceramic Composite Brake Discs
 S17E06|Rolled Wafers|Wood Pellets|Class & Championship Rings
 S17E07|Speed Skates|Synthetic Rubber|Cocoa Beans|Bulk Chocolate
 S17E08|Custom Steering Wheels|Aerospace Fuel Lines|Apple Pies|Household Radiators
@@ -391,7 +391,7 @@ S30E10|Throttle Bodies|Limestone Fireplace Mantels|Candied Fruit & Fruit Jellies
 S30E11|Rubber Balls|Motion Chairs|Montreal Smoked Meat|Motorized Scooters
 S30E12|Aerospace Fasteners|Cactus Pear Puree|Lab Reactors
 S30E13|Wall Beds|Sundae Cups|Digital Paintings|Badminton Rackets
-S31E01|Basque Pelota Balls, Pallet Trucks, Dumplings, Brass Faucets
+S31E01|Basque Pelota Balls|Pallet Trucks|Dumplings|Brass Faucets
 S31E02|Laptops|Panettone|Saxophones
 S31E03|Spinning Reels|Plasma Protein Therapies|3D Cups|Stainless Steel Beer Kegs
 S31E04|Steamer Baskets|Three-Wheel Scooters|Prefabricated Conservatories|Copper Cookware
