@@ -10,14 +10,13 @@ def rename_file(keyword, title):
 		ext = old[-4:]
 		if ext == '.mp4':
 			new = title + ext
-			print("{}  ---> {}".format(old,new))
 		elif ext == '.srt':
 			new = title + ".en" + ext
-			print("{}  ---> {}".format(old,new))
 		elif ext == '.jpg':
 			new = title + "-thumb" + ext
+		if new:
 			print("{}  ---> {}".format(old,new))
-#		os.rename(old, new)
+			os.rename(old, new)
 
 def main():
 	with open("lists", 'r') as csv_file:
