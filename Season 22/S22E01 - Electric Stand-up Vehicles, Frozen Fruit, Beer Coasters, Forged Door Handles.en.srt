@@ -1,152 +1,131 @@
 ﻿1
 00:00:01,602 --> 00:00:04,603
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,605 --> 00:00:07,573
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,853 --> 00:00:54,586
- narrator: in the 21st century, 
+narrator: in the 21st century, 
 
 4
 00:00:54,588 --> 00:00:57,723
-    there's more than one way   
-  to chase down a perpetrator.  
+there's more than one way to chase down a perpetrator.  
 
 5
 00:00:57,725 --> 00:00:59,325
-  the electric stand-up vehicle 
+the electric stand-up vehicle 
 
 6
 00:00:59,327 --> 00:01:02,594
-  goes where traditional police 
-   and security cars can't --   
+goes where traditional police and security cars can't --   
 
 7
 00:01:02,596 --> 00:01:05,931
-        sidewalks, parks,       
- shopping malls, even airports. 
+sidewalks, parks, shopping malls, even airports. 
 
 8
 00:01:05,933 --> 00:01:08,801
-       the officer stands       
-     for better visibility.     
+the officer stands for better visibility.     
 
 9
 00:01:08,803 --> 00:01:11,837
-         for a suspect,         
-  there may be nowhere to run.  
+for a suspect, there may be nowhere to run.  
 
 10
 00:01:14,542 --> 00:01:16,342
-   this electric three-wheeler  
+this electric three-wheeler  
 
 11
 00:01:16,344 --> 00:01:18,944
-       is the latest thing      
-       on the police beat.      
+is the latest thing on the police beat.      
 
 12
 00:01:18,946 --> 00:01:22,481
- not only can it travel in areas
- that are inaccessible to cars, 
+not only can it travel in areas
+that are inaccessible to cars, 
 
 13
 00:01:22,483 --> 00:01:24,417
- but its environmental footprint
+but its environmental footprint
 
 14
 00:01:24,419 --> 00:01:26,885
-           is lighter           
- than a regular police cruiser. 
+is lighter than a regular police cruiser. 
 
 15
 00:01:26,887 --> 00:01:28,087
-      it's energy efficient     
+it's energy efficient     
 
 16
 00:01:28,089 --> 00:01:30,389
-        and it generates        
-      no local pollutants.      
+and it generates no local pollutants.      
 
 17
 00:01:32,159 --> 00:01:35,094
-        production starts       
-    with the vehicle's frame.   
+production starts with the vehicle's frame.   
 
 18
 00:01:35,096 --> 00:01:38,030
-      an employee assembles     
-      the tube steel parts      
+an employee assembles the tube steel parts      
 
 19
 00:01:38,032 --> 00:01:39,565
-    and welds them together.    
+and welds them together.    
 
 20
 00:01:42,036 --> 00:01:43,702
-    the next worker attaches    
+the next worker attaches    
 
 21
 00:01:43,704 --> 00:01:46,171
-          the vehicle's         
-       control-board panel      
+the vehicle's control-board panel      
 
 22
 00:01:46,173 --> 00:01:48,307
-      to the welded frame.      
+to the welded frame.      
 
 23
 00:01:48,309 --> 00:01:51,177
-  he inserts the steering shaft 
-         into the column        
+he inserts the steering shaft into the column        
 
 24
 00:01:51,179 --> 00:01:54,647
-   and slides a plastic collar  
-  onto the bottom of the shaft. 
+and slides a plastic collar onto the bottom of the shaft. 
 
 25
 00:01:54,649 --> 00:01:57,383
-      he secures the collar     
-           with screws          
+he secures the collar with screws          
 
 26
 00:01:57,385 --> 00:02:00,419
-          and tightens          
-    the adjustment mechanism.   
+and tightens the adjustment mechanism.   
 
 27
 00:02:04,325 --> 00:02:07,793
-  he installs the second collar 
-        on the upper part       
+he installs the second collar on the upper part       
 
 28
 00:02:07,795 --> 00:02:09,395
-     of the steering shaft.     
+of the steering shaft.     
 
 29
 00:02:09,397 --> 00:02:12,465
-         the two collars        
-    will stabilize the shaft    
+the two collars will stabilize the shaft    
 
 30
 00:02:12,467 --> 00:02:15,735
-    to keep the front wheel     
-    of the vehicle straight.    
+to keep the front wheel of the vehicle straight.    
 
 31
 00:02:15,737 --> 00:02:19,538
-            he plugs            
-    the electric motor cable    
+he plugs the electric motor cable    
 
 32
 00:02:19,540 --> 00:02:21,273
-     into the control panel.    
+into the control panel.    
 
 33
 00:02:25,947 --> 00:02:28,748
@@ -154,68 +133,60 @@ next, another member of the team
 
 34
 00:02:28,750 --> 00:02:31,150
-     sprays a uniform layer     
-          of a gel coat         
+sprays a uniform layer of a gel coat         
 
 35
 00:02:31,152 --> 00:02:34,086
-      onto a two-part mold      
-     of the vehicle chassis.    
+onto a two-part mold of the vehicle chassis.    
 
 36
 00:02:34,088 --> 00:02:36,355
-        the gel will act        
-       as a release agent       
+the gel will act as a release agent       
 
 37
 00:02:36,357 --> 00:02:37,890
-    for the finished chassis.   
+for the finished chassis.   
 
 38
 00:02:39,960 --> 00:02:42,628
-      they make the chassis     
-        from fiberglass.        
+they make the chassis from fiberglass.        
 
 39
 00:02:42,630 --> 00:02:46,065
-       he sprays it evenly      
- into the crevices of the molds.
+he sprays it evenly into the crevices of the molds.
 
 40
 00:02:48,236 --> 00:02:51,837
-   he presses out air bubbles   
-     using a rubber roller.     
+he presses out air bubbles using a rubber roller.     
 
 41
 00:02:54,241 --> 00:02:56,976
-      the fiberglass dries      
-         and solidifies,        
+the fiberglass dries and solidifies,        
 
 42
 00:02:56,978 --> 00:03:00,178
-  taking the shape of the mold. 
+taking the shape of the mold. 
 
 43
 00:03:00,180 --> 00:03:01,847
-     the surface is smooth,     
+the surface is smooth,     
 
 44
 00:03:01,849 --> 00:03:05,517
- but there are some ragged bits 
-        around the edges.       
+but there are some ragged bits around the edges.       
 
 45
 00:03:05,519 --> 00:03:07,019
-        those are sanded.       
+those are sanded.       
 
 46
 00:03:10,792 --> 00:03:13,859
-       he cuts out a slot       
+he cuts out a slot       
 in the upper part of the chassis
 
 47
 00:03:13,861 --> 00:03:15,494
-   for a police warning light.  
+for a police warning light.  
 
 48
 00:03:20,334 --> 00:03:24,804
@@ -228,271 +199,235 @@ he paints the wheel wells black,
 
 50
 00:03:29,610 --> 00:03:33,479
-         and with that,         
- the outer chassis is complete. 
+and with that, the outer chassis is complete. 
 
 51
 00:03:33,481 --> 00:03:35,214
-    there's an interior panel   
+there's an interior panel   
 
 52
 00:03:35,216 --> 00:03:37,616
-          and it's made         
-       of fiberglass, too.      
+and it's made of fiberglass, too.      
 
 53
 00:03:37,618 --> 00:03:39,752
- a member of the team mounts it 
+a member of the team mounts it 
 
 54
 00:03:39,754 --> 00:03:42,688
-          to the inside         
-  of the steel-frame assembly.  
+to the inside of the steel-frame assembly.  
 
 55
 00:03:42,690 --> 00:03:46,692
- he then secures the outer panel
-      to the vehicle frame.     
+he then secures the outer panel
+to the vehicle frame.     
 
 56
 00:03:49,230 --> 00:03:51,897
-          this electric         
-  three-wheel vehicle is ready  
+this electric three-wheel vehicle is ready  
 
 57
 00:03:51,899 --> 00:03:54,967
-     for the rear-wheel hubs    
-        and brake rotors.       
+for the rear-wheel hubs and brake rotors.       
 
 58
 00:03:57,705 --> 00:04:01,240
-    he clamps brake calipers    
-         to the rotors.         
+he clamps brake calipers to the rotors.         
 
 59
 00:04:05,379 --> 00:04:06,779
-      the wheels are next.      
+the wheels are next.      
 
 60
 00:04:06,781 --> 00:04:09,448
-          the rear ones         
-     are motorcycle wheels.     
+the rear ones are motorcycle wheels.     
 
 61
 00:04:16,924 --> 00:04:20,092
-         for the front,         
-   they use a golf-cart wheel.  
+for the front, they use a golf-cart wheel.  
 
 62
 00:04:23,463 --> 00:04:26,799
-      he equips the wheel       
-      with a pulley system      
+he equips the wheel with a pulley system      
 
 63
 00:04:26,801 --> 00:04:29,868
-       to transfer energy       
-         from the motor.        
+to transfer energy from the motor.        
 
 64
 00:04:29,870 --> 00:04:32,671
-           he installs          
-     the 1-horsepower motor     
+he installs the 1-horsepower motor     
 
 65
 00:04:32,673 --> 00:04:34,473
- and attaches the pulley to it. 
+and attaches the pulley to it. 
 
 66
 00:04:34,475 --> 00:04:36,876
-      the motor is the size     
-       of a lunch bucket,       
+the motor is the size of a lunch bucket,       
 
 67
 00:04:36,878 --> 00:04:41,213
-  but can pull up to 450 pounds 
-  and reach 20 miles per hour.  
+but can pull up to 450 pounds and reach 20 miles per hour.  
 
 68
 00:04:41,215 --> 00:04:46,085
- he hooks up the front wheel to 
+he hooks up the front wheel to 
 testing equipment and powers up.
 
 69
 00:04:46,087 --> 00:04:49,221
-          it evaluates          
-   the motor speed and noise.   
+it evaluates the motor speed and noise.   
 
 70
 00:04:49,223 --> 00:04:53,225
 it also detects any undue strain
-       or wheel wobbling.       
+or wheel wobbling.       
 
 71
 00:04:57,098 --> 00:05:00,065
-            satisfied           
- with the front-wheel assembly, 
+satisfied with the front-wheel assembly, 
 
 72
 00:05:00,067 --> 00:05:02,168
- he installs it on the vehicle. 
+he installs it on the vehicle. 
 
 73
 00:05:06,841 --> 00:05:10,842
-   he wires, and then attaches  
- the throttle and brake control 
+he wires, and then attaches the throttle and brake control 
 
 74
 00:05:10,844 --> 00:05:12,211
-        to the handlebar.       
+to the handlebar.       
 
 75
 00:05:17,585 --> 00:05:20,719
-      they carpet the floor     
-  with non-slip rubberized foam 
+they carpet the floor with non-slip rubberized foam 
 
 76
 00:05:20,721 --> 00:05:23,856
-         and then slide         
- the two rechargeable batteries 
+and then slide the two rechargeable batteries 
 
 77
 00:05:23,858 --> 00:05:26,525
-      into their respective     
-          compartments.         
+into their respective compartments.         
 
 78
 00:05:26,527 --> 00:05:29,127
-         the charge time        
-     is three to four hours.    
+the charge time is three to four hours.    
 
 79
 00:05:29,129 --> 00:05:31,730
-     next, this grab handle     
-        gives the driver        
+next, this grab handle gives the driver        
 
 80
 00:05:31,732 --> 00:05:33,599
- something extra to hang on to. 
+something extra to hang on to. 
 
 81
 00:05:33,601 --> 00:05:36,602
-     they equip the vehicle     
-       with warning lights      
+they equip the vehicle with warning lights      
 
 82
 00:05:36,604 --> 00:05:39,271
-   and a high-beam headlight.   
+and a high-beam headlight.   
 
 83
 00:05:39,273 --> 00:05:40,806
-  this electric patrol vehicle  
+this electric patrol vehicle  
 
 84
 00:05:40,808 --> 00:05:43,942
-       has been six hours       
-         in the making,         
+has been six hours in the making,         
 
 85
 00:05:43,944 --> 00:05:46,812
- and it's now ready for a spin. 
+and it's now ready for a spin. 
 
 86
 00:06:04,632 --> 00:06:06,198
-            narrator:           
+narrator:           
 nowadays, you don't have to wait
 
 87
 00:06:06,200 --> 00:06:08,267
-     for your favorite fruit    
-        to be in season.        
+for your favorite fruit to be in season.        
 
 88
 00:06:08,269 --> 00:06:09,668
-    you can buy it year-round   
+you can buy it year-round   
 
 89
 00:06:09,670 --> 00:06:12,338
-     in the freezer section     
-   of your local supermarket.   
+in the freezer section of your local supermarket.   
 
 90
 00:06:12,340 --> 00:06:14,940
-          frozen fruit          
-    is useful to have on hand   
+frozen fruit is useful to have on hand   
 
 91
 00:06:14,942 --> 00:06:16,074
-           for baking,          
+for baking,          
 
 92
 00:06:16,076 --> 00:06:18,544
-     for making fruit salads    
-          or smoothies,         
+for making fruit salads or smoothies,         
 
 93
 00:06:18,546 --> 00:06:20,012
-      to use as a topping,      
+to use as a topping,      
 
 94
 00:06:20,014 --> 00:06:21,981
-  or to eat as a healthy snack. 
+or to eat as a healthy snack. 
 
 95
 00:06:26,420 --> 00:06:28,487
-      timing is everything.     
+timing is everything.     
 
 96
 00:06:28,489 --> 00:06:31,090
-   for example, strawberries,   
-        when sold fresh,        
+for example, strawberries, when sold fresh,        
 
 97
 00:06:31,092 --> 00:06:33,425
-           are picked           
-    well before they're ripe    
+are picked well before they're ripe    
 
 98
 00:06:33,427 --> 00:06:36,361
-       so they won't spoil      
-  before reaching store shelves 
+so they won't spoil before reaching store shelves 
 
 99
 00:06:36,363 --> 00:06:37,763
-    as much as a week later.    
+as much as a week later.    
 
 100
 00:06:37,765 --> 00:06:40,632
-       but if the berries       
-  are for the freezer section,  
+but if the berries are for the freezer section,  
 
 101
 00:06:40,634 --> 00:06:42,834
-        they're harvested       
-        when fully ripe.        
+they're harvested when fully ripe.        
 
 102
 00:06:42,836 --> 00:06:45,704
-    that state of perfection    
-     will be frozen in time     
+that state of perfection will be frozen in time     
 
 103
 00:06:45,706 --> 00:06:46,772
-        within 36 hours.        
+within 36 hours.        
 
 104
 00:06:46,774 --> 00:06:49,374
-          farm workers          
-    pick the berries by hand    
+farm workers pick the berries by hand    
 
 105
 00:06:49,376 --> 00:06:51,576
-          and trim them         
-       right in the field       
+and trim them right in the field       
 
 106
 00:06:51,578 --> 00:06:54,480
-       with one swipe over      
- a sharp stainless-steel blade. 
+with one swipe over a sharp stainless-steel blade. 
 
 107
 00:06:59,720 --> 00:07:02,721
@@ -500,140 +435,119 @@ within 90 minutes of harvesting,
 
 108
 00:07:02,723 --> 00:07:04,656
-        the strawberries        
-        are on their way        
+the strawberries are on their way        
 
 109
 00:07:04,658 --> 00:07:07,326
-      by refrigerated truck     
- to the nearby processing plant 
+by refrigerated truck to the nearby processing plant 
 
 110
 00:07:07,328 --> 00:07:09,962
-     for cleaning, sorting,     
-       and quick freezing.      
+for cleaning, sorting, and quick freezing.      
 
 111
 00:07:12,733 --> 00:07:14,866
-           first stop           
-     on the processing line,    
+first stop on the processing line,    
 
 112
 00:07:14,868 --> 00:07:18,737
-      a bath in fresh water     
-      to remove field dirt.     
+a bath in fresh water to remove field dirt.     
 
 113
 00:07:18,739 --> 00:07:21,840
-   this wheel gently submerges  
-     every last strawberry.     
+this wheel gently submerges every last strawberry.     
 
 114
 00:07:23,811 --> 00:07:26,779
-         then, a shower         
-      of clean rinse water.     
+then, a shower of clean rinse water.     
 
 115
 00:07:28,949 --> 00:07:32,884
-    followed by a spray rinse   
-  with highly-chlorinated water 
+followed by a spray rinse with highly-chlorinated water 
 
 116
 00:07:32,886 --> 00:07:34,753
-    to sanitize the berries.    
+to sanitize the berries.    
 
 117
 00:07:37,024 --> 00:07:40,358
-    next, eagle-eyed workers    
-      pick out and discard      
+next, eagle-eyed workers pick out and discard      
 
 118
 00:07:40,360 --> 00:07:42,894
-           any bruised          
-     or under-ripe berries.     
+any bruised or under-ripe berries.     
 
 119
 00:07:42,896 --> 00:07:47,166
- the rest receive a final rinse 
+the rest receive a final rinse 
 en route to the freezing tunnel.
 
 120
 00:07:47,168 --> 00:07:52,103
-         temperature --         
-     -34 degrees fahrenheit.    
+temperature -- -34 degrees fahrenheit.    
 
 121
 00:07:52,105 --> 00:07:55,173
-        the cooling coils       
-    contain liquid ammonia --   
+the cooling coils contain liquid ammonia --   
 
 122
 00:07:55,175 --> 00:07:59,978
-   a refrigerant commonly used  
- for industrial-scale freezing. 
+a refrigerant commonly used for industrial-scale freezing. 
 
 123
 00:07:59,980 --> 00:08:01,246
-       inside the tunnel,       
+inside the tunnel,       
 
 124
 00:08:01,248 --> 00:08:04,115
- where the frigid air circulates
-         at high speed,         
+where the frigid air circulates
+at high speed,         
 
 125
 00:08:04,117 --> 00:08:06,718
-       the berries freeze       
-      in about 20 minutes.      
+the berries freeze in about 20 minutes.      
 
 126
 00:08:06,720 --> 00:08:09,722
- upon exiting, they ride through
-       a sorting machine.       
+upon exiting, they ride through
+a sorting machine.       
 
 127
 00:08:09,724 --> 00:08:12,724
-       the smaller berries      
-   drop through narrower gaps   
+the smaller berries drop through narrower gaps   
 
 128
 00:08:12,726 --> 00:08:14,793
-       between the rollers      
-          near the top,         
+between the rollers near the top,         
 
 129
 00:08:14,795 --> 00:08:18,063
-      the medium-size ones      
+the medium-size ones      
 through wider gaps partway down,
 
 130
 00:08:18,065 --> 00:08:20,866
-      while the larger ones     
-     continue to the bottom.    
+while the larger ones continue to the bottom.    
 
 131
 00:08:20,868 --> 00:08:24,403
-         these peaches,         
-   also handpicked when ripe,   
+these peaches, also handpicked when ripe,   
 
 132
 00:08:24,405 --> 00:08:28,807
-  go through the same cleaning  
-  process as the strawberries.  
+go through the same cleaning process as the strawberries.  
 
 133
 00:08:28,809 --> 00:08:32,110
-  first a bath, then a shower.  
+first a bath, then a shower.  
 
 134
 00:08:32,112 --> 00:08:36,147
-     then a sanitizing rinse    
-     with chlorinated water.    
+then a sanitizing rinse with chlorinated water.    
 
 135
 00:08:36,149 --> 00:08:39,284
-          after workers         
-     pick out leaves, twigs,    
+after workers pick out leaves, twigs,    
 
 136
 00:08:39,286 --> 00:08:41,686
@@ -641,242 +555,204 @@ and any less-than-perfect fruit,
 
 137
 00:08:41,688 --> 00:08:45,157
-     a sorting machine sorts    
-     the peaches by size --     
+a sorting machine sorts the peaches by size --     
 
 138
 00:08:45,159 --> 00:08:47,225
-   small, medium, and large --  
+small, medium, and large --  
 
 139
 00:08:47,227 --> 00:08:50,695
-        sending each size       
-  to a separate conveyor belt.  
+sending each size to a separate conveyor belt.  
 
 140
 00:08:50,697 --> 00:08:52,698
-            each belt           
-    leads to a different line   
+each belt leads to a different line   
 
 141
 00:08:52,700 --> 00:08:54,833
-       of stainless-steel       
-       pitting machines,        
+of stainless-steel pitting machines,        
 
 142
 00:08:54,835 --> 00:08:57,236
-     adjusted for the size      
-     of the incoming fruit.     
+adjusted for the size of the incoming fruit.     
 
 143
 00:09:01,308 --> 00:09:06,311
-       first, the machine       
-  places the peaches stem-down. 
+first, the machine places the peaches stem-down. 
 
 144
 00:09:06,313 --> 00:09:11,583
-  next, a knife cuts the peach  
- in half along its natural line.
+next, a knife cuts the peach in half along its natural line.
 
 145
 00:09:11,585 --> 00:09:15,653
-      then mechanical jaws      
-      grab the stone inside     
+then mechanical jaws grab the stone inside     
 
 146
 00:09:15,655 --> 00:09:18,457
-   and dislodge it by twisting  
-   the two halves of the peach  
+and dislodge it by twisting the two halves of the peach  
 
 147
 00:09:18,459 --> 00:09:20,526
-     in opposite directions.    
+in opposite directions.    
 
 148
 00:09:20,528 --> 00:09:23,128
-      each machine can pit      
-     90 peaches per minute,     
+each machine can pit 90 peaches per minute,     
 
 149
 00:09:23,130 --> 00:09:26,398
-     so the only way to see     
- that action is in slow motion. 
+so the only way to see that action is in slow motion. 
 
 150
 00:09:31,405 --> 00:09:35,207
- all the peach halves and stones
-    coming out of the pitters   
+all the peach halves and stones
+coming out of the pitters   
 
 151
 00:09:35,209 --> 00:09:38,476
-             tumble             
-   onto a vibrating conveyor.   
+tumble onto a vibrating conveyor.   
 
 152
 00:09:38,478 --> 00:09:40,278
-           the stones           
-     fall through the holes     
+the stones fall through the holes     
 
 153
 00:09:40,280 --> 00:09:42,480
-       while the peaches,       
-     larger than the holes,     
+while the peaches, larger than the holes,     
 
 154
 00:09:42,482 --> 00:09:43,582
-          continue on.          
+continue on.          
 
 155
 00:09:45,686 --> 00:09:48,486
-      a conveyor flips them     
-           cut-side up          
+a conveyor flips them cut-side up          
 
 156
 00:09:48,488 --> 00:09:52,758
-   so that workers can inspect  
- and remove any stone fragments.
+so that workers can inspect and remove any stone fragments.
 
 157
 00:09:57,831 --> 00:10:02,300
-  the next conveyor gradually   
-  lines them up in single file  
+the next conveyor gradually lines them up in single file  
 
 158
 00:10:02,302 --> 00:10:04,703
- to enter the slicing machines. 
+to enter the slicing machines. 
 
 159
 00:10:04,705 --> 00:10:09,107
- the slicer blades cut each half
-    into four to six pieces,    
+the slicer blades cut each half
+into four to six pieces,    
 
 160
 00:10:09,109 --> 00:10:12,244
-    depending on what format    
-      the customer ordered.     
+depending on what format the customer ordered.     
 
 161
 00:10:15,316 --> 00:10:18,617
-         then the slices        
-  go into the freezing tunnel.  
+then the slices go into the freezing tunnel.  
 
 162
 00:10:18,619 --> 00:10:21,253
-          peach slices          
-      take slightly longer      
+peach slices take slightly longer      
 
 163
 00:10:21,255 --> 00:10:24,322
- than strawberries to freeze -- 
-        about 25 minutes.       
+than strawberries to freeze -- about 25 minutes.       
 
 164
 00:10:24,324 --> 00:10:27,192
-   to prevent the frozen fruit  
-        from defrosting,        
+to prevent the frozen fruit from defrosting,        
 
 165
 00:10:27,194 --> 00:10:29,994
-       the air temperature      
-      in the packaging area     
+the air temperature in the packaging area     
 
 166
 00:10:29,996 --> 00:10:32,931
-           is a frigid          
-     39 degrees fahrenheit.     
+is a frigid 39 degrees fahrenheit.     
 
 167
 00:10:32,933 --> 00:10:37,468
- an automated scales weighs out 
-    the per-package quantity,   
+an automated scales weighs out the per-package quantity,   
 
 168
 00:10:37,470 --> 00:10:40,873
-     then drops the berries     
-       into a retail bag.       
+then drops the berries into a retail bag.       
 
 169
 00:10:44,611 --> 00:10:47,145
-           the machine          
-     then heat seals the bag    
+the machine then heat seals the bag    
 
 170
 00:10:47,147 --> 00:10:49,747
-         and deposits it        
-     on the final conveyor,     
+and deposits it on the final conveyor,     
 
 171
 00:10:49,749 --> 00:10:52,417
-           which goes           
-  to the pre-shipping freezer.  
+which goes to the pre-shipping freezer.  
 
 172
 00:10:52,419 --> 00:10:55,888
-   only 15 minutes have passed  
-   since the fruit was frozen,  
+only 15 minutes have passed since the fruit was frozen,  
 
 173
 00:10:55,890 --> 00:10:58,824
-        and just 24 hours       
-   since it was field picked.   
+and just 24 hours since it was field picked.   
 
 174
 00:11:15,576 --> 00:11:17,909
-  narrator: liquid refreshment  
+narrator: liquid refreshment  
 can leave its mark on the table.
 
 175
 00:11:17,911 --> 00:11:19,644
-      coasters come between     
-       the glass and that.      
+coasters come between the glass and that.      
 
 176
 00:11:19,646 --> 00:11:22,447
-     but two centuries ago,     
-   coasters were mainly placed  
+but two centuries ago, coasters were mainly placed  
 
 177
 00:11:22,449 --> 00:11:25,584
-     on the rim of the glass    
-       to keep out flies.       
+on the rim of the glass to keep out flies.       
 
 178
 00:11:25,586 --> 00:11:28,654
-          made of felt,         
+made of felt,         
 they unfortunately spread germs,
 
 179
 00:11:28,656 --> 00:11:30,989
-    so the cardboard coaster    
-          was invented          
+so the cardboard coaster was invented          
 
 180
 00:11:30,991 --> 00:11:33,458
-       to improve hygiene       
-       on the pub scene.        
+to improve hygiene on the pub scene.        
 
 181
 00:11:36,597 --> 00:11:39,264
-        beverage coasters       
-        protect the table       
+beverage coasters protect the table       
 
 182
 00:11:39,266 --> 00:11:41,399
- and are also a marketing tool. 
+and are also a marketing tool. 
 
 183
 00:11:41,401 --> 00:11:44,335
- raise the glass, and you'll see
-    advertising catchphrases    
+raise the glass, and you'll see
+advertising catchphrases    
 
 184
 00:11:44,337 --> 00:11:46,338
-    and promotional graphics.   
+and promotional graphics.   
 
 185
 00:11:46,340 --> 00:11:50,475
-    in fact, some bar hoppers   
-    consider coasters pub art   
+in fact, some bar hoppers consider coasters pub art   
 
 186
 00:11:50,477 --> 00:11:53,144
@@ -884,62 +760,53 @@ and accumulate vast collections.
 
 187
 00:11:53,146 --> 00:11:55,880
-           production           
-   at this facility in germany  
+production at this facility in germany  
 
 188
 00:11:55,882 --> 00:11:57,616
-    starts with spruce wood.    
+starts with spruce wood.    
 
 189
 00:11:57,618 --> 00:12:00,886
-    in this case, it's from     
-    the black forest nearby.    
+in this case, it's from the black forest nearby.    
 
 190
 00:12:02,889 --> 00:12:06,825
- they spray the wood with water 
-      to moisten the bark.      
+they spray the wood with water to moisten the bark.      
 
 191
 00:12:06,827 --> 00:12:09,761
-    then it's into a tumbler    
-   that tosses the wood logs.   
+then it's into a tumbler that tosses the wood logs.   
 
 192
 00:12:09,763 --> 00:12:14,233
-      as they knock against     
- each other, the bark peels off.
+as they knock against each other, the bark peels off.
 
 193
 00:12:14,235 --> 00:12:18,370
-       the de-barked wood       
+the de-barked wood       
 exits onto a conveyor with slots
 
 194
 00:12:18,372 --> 00:12:21,807
 to correctly orient it for entry
-     into a massive grinder.    
+into a massive grinder.    
 
 195
 00:12:26,713 --> 00:12:28,780
-             inside,            
-   chains press the wood logs   
+inside, chains press the wood logs   
 
 196
 00:12:28,782 --> 00:12:32,384
-   against the grinding stone,  
-   shredding them into chips.   
+against the grinding stone, shredding them into chips.   
 
 197
 00:12:32,386 --> 00:12:34,986
-           water flows          
-     over the grinding stone    
+water flows over the grinding stone    
 
 198
 00:12:34,988 --> 00:12:37,522
-           to cool it           
-    and carry away the chips,   
+to cool it and carry away the chips,   
 
 199
 00:12:37,524 --> 00:12:39,524
@@ -947,356 +814,308 @@ which are then mixed into a mash
 
 200
 00:12:39,526 --> 00:12:42,126
-    that has a porridge-like    
-          consistency.          
+that has a porridge-like consistency.          
 
 201
 00:12:42,128 --> 00:12:44,529
-      it's pure wood pulp.      
+it's pure wood pulp.      
 
 202
 00:12:44,531 --> 00:12:46,265
-  they now add leftover product 
+they now add leftover product 
 
 203
 00:12:46,267 --> 00:12:49,201
-   from previous beer-coaster   
-     production to the pulp.    
+from previous beer-coaster production to the pulp.    
 
 204
 00:12:49,203 --> 00:12:50,802
-    this will be used to make   
+this will be used to make   
 
 205
 00:12:50,804 --> 00:12:53,305
-        the middle layer        
-      of the beer coasters.     
+the middle layer of the beer coasters.     
 
 206
 00:12:57,777 --> 00:13:00,945
 finally, they mix residual paper
-      from the manufacturer     
+from the manufacturer     
 
 207
 00:13:00,947 --> 00:13:03,348
-   of magazines and envelopes   
-           with water.          
+of magazines and envelopes with water.          
 
 208
 00:13:03,350 --> 00:13:05,617
-          this creates          
-     a lighter-colored pulp.    
+this creates a lighter-colored pulp.    
 
 209
 00:13:05,619 --> 00:13:08,353
-         it will be used        
-   for the printable surfaces   
+it will be used for the printable surfaces   
 
 210
 00:13:08,355 --> 00:13:09,755
-      of the beer coaster.      
+of the beer coaster.      
 
 211
 00:13:13,026 --> 00:13:17,095
- they spray the pulp onto a mesh
-   that drains water from it.   
+they spray the pulp onto a mesh
+that drains water from it.   
 
 212
 00:13:17,097 --> 00:13:19,431
-      the fibrous wood core     
-     goes between the layers    
+the fibrous wood core goes between the layers    
 
 213
 00:13:19,433 --> 00:13:21,366
-      of the lighter pulp.      
+of the lighter pulp.      
 
 214
 00:13:23,570 --> 00:13:26,504
-       spigots apply a mix      
-    of wheat starch and water   
+spigots apply a mix of wheat starch and water   
 
 215
 00:13:26,506 --> 00:13:30,042
-       that acts as a glue      
-       between the layers.      
+that acts as a glue between the layers.      
 
 216
 00:13:30,044 --> 00:13:32,511
-   off the mesh conveyors now,  
+off the mesh conveyors now,  
 
 217
 00:13:32,513 --> 00:13:34,379
-         the pulp board         
-    travels between cylinders   
+the pulp board travels between cylinders   
 
 218
 00:13:34,381 --> 00:13:36,715
- that squeeze out the moisture. 
+that squeeze out the moisture. 
 
 219
 00:13:36,717 --> 00:13:39,250
-  more heated cylinders dry it. 
+more heated cylinders dry it. 
 
 220
 00:13:39,252 --> 00:13:43,054
-    knives now cut the board    
-      into large rectangles     
+knives now cut the board into large rectangles     
 
 221
 00:13:43,056 --> 00:13:48,660
- sized for the coaster-printing 
-     and cutting machinery.     
+sized for the coaster-printing and cutting machinery.     
 
 222
 00:13:48,662 --> 00:13:53,598
-    this specialty cardboard    
-  is known as wood-pulp board.  
+this specialty cardboard is known as wood-pulp board.  
 
 223
 00:13:53,600 --> 00:13:56,802
-        it's lightweight        
-      yet highly absorbent.     
+it's lightweight yet highly absorbent.     
 
 224
 00:13:56,804 --> 00:13:59,003
-         next it's over         
-   to the printing department   
+next it's over to the printing department   
 
 225
 00:13:59,005 --> 00:14:02,541
- to put the beer-coaster artwork
-     on the wood-pulp board.    
+to put the beer-coaster artwork
+on the wood-pulp board.    
 
 226
 00:14:02,543 --> 00:14:04,342
-   they use offset printing --  
+they use offset printing --  
 
 227
 00:14:04,344 --> 00:14:07,678
-     a process that involves    
-    more revolving cylinders.   
+a process that involves more revolving cylinders.   
 
 228
 00:14:07,680 --> 00:14:10,682
-   color cylinders pick up ink  
-         and transfer it        
+color cylinders pick up ink and transfer it        
 
 229
 00:14:10,684 --> 00:14:12,417
-   to the printing cylinders.   
+to the printing cylinders.   
 
 230
 00:14:12,419 --> 00:14:15,887
-   from there, the image goes   
-  to a rubber-wrapped cylinder  
+from there, the image goes to a rubber-wrapped cylinder  
 
 231
 00:14:15,889 --> 00:14:18,423
-       that then prints it      
-        onto the sheets.        
+that then prints it onto the sheets.        
 
 232
 00:14:21,028 --> 00:14:24,429
- a print specialist scrutinizes 
-     the print job close up     
+a print specialist scrutinizes the print job close up     
 
 233
 00:14:24,431 --> 00:14:26,431
-    with a magnifying glass.    
+with a magnifying glass.    
 
 234
 00:14:26,433 --> 00:14:28,367
- he checks the color and clarity
-          of the images         
+he checks the color and clarity
+of the images         
 
 235
 00:14:28,369 --> 00:14:30,702
-    and confirms that they're   
-      correctly positioned      
+and confirms that they're correctly positioned      
 
 236
 00:14:30,704 --> 00:14:31,770
-          on the sheet.         
+on the sheet.         
 
 237
 00:14:34,374 --> 00:14:36,908
-    the borders of the images   
-          must line up          
+the borders of the images must line up          
 
 238
 00:14:36,910 --> 00:14:40,212
-     with the grid of blades    
-  on the die-cutting machinery. 
+with the grid of blades on the die-cutting machinery. 
 
 239
 00:14:42,315 --> 00:14:45,183
-        if the alignment        
-      is even slightly off,     
+if the alignment is even slightly off,     
 
 240
 00:14:45,185 --> 00:14:47,853
-   every coaster on the sheet   
-         would be ruined        
+every coaster on the sheet would be ruined        
 
 241
 00:14:47,855 --> 00:14:51,189
-        as the die cutter       
-    punches out the coasters,   
+as the die cutter punches out the coasters,   
 
 242
 00:14:51,191 --> 00:14:53,258
-  dozens of them in one swoop.  
+dozens of them in one swoop.  
 
 243
 00:14:53,260 --> 00:14:56,328
-       the coasters end up      
-       over little chutes,      
+the coasters end up over little chutes,      
 
 244
 00:14:56,330 --> 00:14:58,463
- and pushers give them a nudge. 
+and pushers give them a nudge. 
 
 245
 00:14:58,465 --> 00:15:01,867
-    they fall down the chutes   
-         and land neatly        
+they fall down the chutes and land neatly        
 
 246
 00:15:01,869 --> 00:15:04,769
-       on a pallet below.       
+on a pallet below.       
 
 247
 00:15:04,771 --> 00:15:06,404
-     the coasters stack up,     
+the coasters stack up,     
 
 248
 00:15:06,406 --> 00:15:09,407
-  and when there are 100 or so  
-          in each pile,         
+and when there are 100 or so in each pile,         
 
 249
 00:15:09,409 --> 00:15:12,677
-  they're ready for packaging.  
+they're ready for packaging.  
 
 250
 00:15:12,679 --> 00:15:15,013
-     machinery shrink wraps     
-           the stacks,          
+machinery shrink wraps the stacks,          
 
 251
 00:15:15,015 --> 00:15:17,549
-        and they're ready       
-     for the thirsty masses.    
+and they're ready for the thirsty masses.    
 
 252
 00:15:17,551 --> 00:15:20,152
-          this factory          
-     can produce and package    
+this factory can produce and package    
 
 253
 00:15:20,154 --> 00:15:23,621
-    10 million offset-printed   
-    beer coasters every day,    
+10 million offset-printed beer coasters every day,    
 
 254
 00:15:23,623 --> 00:15:26,858
- so there should be no shortage 
-        at cocktail hour.       
+so there should be no shortage at cocktail hour.       
 
 255
 00:15:28,895 --> 00:15:32,164
-    they also print coasters    
+they also print coasters    
 using a centuries-old technology
 
 256
 00:15:32,166 --> 00:15:34,099
-      known as letterpress.     
+known as letterpress.     
 
 257
 00:15:37,237 --> 00:15:39,237
-    blank coasters drop down    
-        into the machine.       
+blank coasters drop down into the machine.       
 
 258
 00:15:39,239 --> 00:15:43,508
-  a rolling wheel presses each  
-  coaster against an ink plate. 
+a rolling wheel presses each coaster against an ink plate. 
 
 259
 00:15:43,510 --> 00:15:46,244
-          it's a system         
-   that both prints the image   
+it's a system that both prints the image   
 
 260
 00:15:46,246 --> 00:15:49,581
-         and embosses it        
-        on the cardboard.       
+and embosses it on the cardboard.       
 
 261
 00:15:49,583 --> 00:15:52,684
-        it's a difference       
-   you can both see and feel.   
+it's a difference you can both see and feel.   
 
 262
 00:15:54,854 --> 00:15:57,922
-     letterpress production     
-  is lower volume than offset,  
+letterpress production is lower volume than offset,  
 
 263
 00:15:57,924 --> 00:16:01,459
-           generating           
-    100,000 coasters per day.   
+generating 100,000 coasters per day.   
 
 264
 00:16:01,461 --> 00:16:05,796
-    for coasters, the design    
-   possibilities are endless.   
+for coasters, the design possibilities are endless.   
 
 265
 00:16:05,798 --> 00:16:08,600
-  just raise a glass and enjoy. 
+just raise a glass and enjoy. 
 
 266
 00:16:26,553 --> 00:16:28,352
-     narrator: a door handle    
-     is a decorative detail     
+narrator: a door handle is a decorative detail     
 
 267
 00:16:28,354 --> 00:16:31,222
-  that delivers tremendous bang 
-          for the buck.         
+that delivers tremendous bang for the buck.         
 
 268
 00:16:31,224 --> 00:16:32,690
-     it's quite inexpensive,    
+it's quite inexpensive,    
 
 269
 00:16:32,692 --> 00:16:35,627
-     yet through its design,    
-      material, and finish,     
+yet through its design, material, and finish,     
 
 270
 00:16:35,629 --> 00:16:37,028
-      contributes immensely     
+contributes immensely     
 
 271
 00:16:37,030 --> 00:16:39,364
-      to defining the style     
-           of a space,          
+to defining the style of a space,          
 
 272
 00:16:39,366 --> 00:16:41,600
-        from traditional        
-        to ultra modern.        
+from traditional to ultra modern.        
 
 273
 00:16:45,972 --> 00:16:48,306
- these hand-forged iron handles 
+these hand-forged iron handles 
 
 274
 00:16:48,308 --> 00:16:52,043
-    open the door to a rustic   
-     english country decor.     
+open the door to a rustic english country decor.     
 
 275
 00:16:52,045 --> 00:16:54,379
@@ -1304,399 +1123,337 @@ while the handle itself is iron,
 
 276
 00:16:54,381 --> 00:16:57,248
-     the backplate behind it    
-            is steel.           
+the backplate behind it is steel.           
 
 277
 00:16:57,250 --> 00:17:00,118
- a computer-guided water machine
-       cuts the backplate       
+a computer-guided water machine
+cuts the backplate       
 
 278
 00:17:00,120 --> 00:17:02,653
-   out of a 3-millimeter-thick  
-          steel sheet.          
+out of a 3-millimeter-thick steel sheet.          
 
 279
 00:17:02,655 --> 00:17:04,856
-           the machine          
-    slices through the steel    
+the machine slices through the steel    
 
 280
 00:17:04,858 --> 00:17:06,591
-    not with a blade or saw,    
+not with a blade or saw,    
 
 281
 00:17:06,593 --> 00:17:10,194
-     but with a concentrated    
-   high-pressure jet of water.  
+but with a concentrated high-pressure jet of water.  
 
 282
 00:17:10,196 --> 00:17:13,465
 the water contains a tiny amount
-    of a super-fine abrasive    
+of a super-fine abrasive    
 
 283
 00:17:13,467 --> 00:17:16,735
-   and cuts through the steel   
-  with 2,000 times the pressure 
+and cuts through the steel with 2,000 times the pressure 
 
 284
 00:17:16,737 --> 00:17:18,402
-         of a car tire.         
+of a car tire.         
 
 285
 00:17:18,404 --> 00:17:21,406
-    the jet cuts the contour    
-        of the backplate,       
+the jet cuts the contour of the backplate,       
 
 286
 00:17:21,408 --> 00:17:25,143
-     then holes for the key,    
- the mechanism, and the screws, 
+then holes for the key, the mechanism, and the screws, 
 
 287
 00:17:25,145 --> 00:17:27,645
-      which affix the plate     
-          to the door.          
+which affix the plate to the door.          
 
 288
 00:17:27,647 --> 00:17:31,082
- next, with a beveling machine, 
-      they cut a neat angle     
+next, with a beveling machine, they cut a neat angle     
 
 289
 00:17:31,084 --> 00:17:32,884
-        on all four sides       
-        of the backplate.       
+on all four sides of the backplate.       
 
 290
 00:17:32,886 --> 00:17:35,220
-  this smooths the sharp edges  
+this smooths the sharp edges  
 
 291
 00:17:35,222 --> 00:17:38,823
-     and gives the backplate    
-        a finished look.        
+and gives the backplate a finished look.        
 
 292
 00:17:42,762 --> 00:17:45,363
-           meanwhile,           
-   on a computer-guided lave,   
+meanwhile, on a computer-guided lave,   
 
 293
 00:17:45,365 --> 00:17:48,300
-  a knife progressively shapes  
-        a round steel bar       
+a knife progressively shapes a round steel bar       
 
 294
 00:17:48,302 --> 00:17:51,770
-     into the main component    
- of the door-handle mechanism --
+into the main component of the door-handle mechanism --
 
 295
 00:17:51,772 --> 00:17:53,071
-        the inner barrel.       
+the inner barrel.       
 
 296
 00:17:57,110 --> 00:18:01,112
 the next tool bores a hole in it
-    to receive the spindle --   
+to receive the spindle --   
 
 297
 00:18:01,114 --> 00:18:03,581
-             a bolt             
-   that runs through the door,  
+a bolt that runs through the door,  
 
 298
 00:18:03,583 --> 00:18:06,851
-     connecting the handles     
-         on either side.        
+connecting the handles on either side.        
 
 299
 00:18:06,853 --> 00:18:08,452
-       to make the handle,      
+to make the handle,      
 
 300
 00:18:08,454 --> 00:18:11,255
-      a blacksmith heats up     
-           an iron bar          
+a blacksmith heats up an iron bar          
 
 301
 00:18:11,257 --> 00:18:14,059
-    in the 1,600-degree heat    
-           of a forge           
+in the 1,600-degree heat of a forge           
 
 302
 00:18:14,061 --> 00:18:16,227
-         and hammers it         
-       to a tapered point.      
+and hammers it to a tapered point.      
 
 303
 00:18:20,200 --> 00:18:23,868
-   then he repeatedly reheats   
-       and works the iron,      
+then he repeatedly reheats and works the iron,      
 
 304
 00:18:23,870 --> 00:18:25,403
-     hammering it some more     
+hammering it some more     
 
 305
 00:18:25,405 --> 00:18:28,540
-         and bending it         
-  against a steel forming jig.  
+and bending it against a steel forming jig.  
 
 306
 00:18:28,542 --> 00:18:30,274
-         with each bend,        
+with each bend,        
 
 307
 00:18:30,276 --> 00:18:33,345
-     the handle comes closer    
-       to the final shape.      
+the handle comes closer to the final shape.      
 
 308
 00:18:46,559 --> 00:18:49,360
-       once the blacksmith      
-     has completed his work     
+once the blacksmith has completed his work     
 
 309
 00:18:49,362 --> 00:18:51,229
- and the iron handle has cooled,
+and the iron handle has cooled,
 
 310
 00:18:51,231 --> 00:18:54,032
-        they drill a hole       
-    to receive the mechanism.   
+they drill a hole to receive the mechanism.   
 
 311
 00:18:54,034 --> 00:18:55,633
-     then with another tool,    
+then with another tool,    
 
 312
 00:18:55,635 --> 00:18:58,169
-      they angle the edges      
-          of the hole.          
+they angle the edges of the hole.          
 
 313
 00:18:58,171 --> 00:19:00,105
- this increases the surface area
+this increases the surface area
 
 314
 00:19:00,107 --> 00:19:03,041
-     to which they now weld     
-  the mechanism's inner barrel. 
+to which they now weld the mechanism's inner barrel. 
 
 315
 00:19:03,043 --> 00:19:06,444
-   the larger the welded area,  
-     the stronger the weld.     
+the larger the welded area, the stronger the weld.     
 
 316
 00:19:06,446 --> 00:19:08,780
-        the welder places       
-         both components        
+the welder places both components        
 
 317
 00:19:08,782 --> 00:19:12,850
-      in a positioning jig      
-  to get the proper alignment,  
+in a positioning jig to get the proper alignment,  
 
 318
 00:19:12,852 --> 00:19:15,420
-    then welds them together.   
+then welds them together.   
 
 319
 00:19:17,524 --> 00:19:19,924
-     he removes the assembly    
-          from the jig,         
+he removes the assembly from the jig,         
 
 320
 00:19:19,926 --> 00:19:22,394
-            flips it,           
- and welds from the other side. 
+flips it, and welds from the other side. 
 
 321
 00:19:25,331 --> 00:19:30,434
- they grind the weld lines flat,
-  rendering them unnoticeable.  
+they grind the weld lines flat,
+rendering them unnoticeable.  
 
 322
 00:19:30,436 --> 00:19:33,738
-  if the handle is supposed to  
-     have a hammered finish,    
+if the handle is supposed to have a hammered finish,    
 
 323
 00:19:33,740 --> 00:19:36,141
-    this is when they create    
-          that texture          
+this is when they create that texture          
 
 324
 00:19:36,143 --> 00:19:39,477
- with, you guessed it, a hammer.
+with, you guessed it, a hammer.
 
 325
 00:19:39,479 --> 00:19:41,212
-          now they heat         
-       the handle assembly      
+now they heat the handle assembly      
 
 326
 00:19:41,214 --> 00:19:43,214
-     and the steel backplate    
-          in the forge,         
+and the steel backplate in the forge,         
 
 327
 00:19:43,216 --> 00:19:46,217
-          then dip them         
-      in a vat of beeswax.      
+then dip them in a vat of beeswax.      
 
 328
 00:19:46,219 --> 00:19:50,688
-   this protects against rust   
-       when used indoors.       
+this protects against rust when used indoors.       
 
 329
 00:19:50,690 --> 00:19:53,424
-    with the main components    
-           now ready,           
+with the main components now ready,           
 
 330
 00:19:53,426 --> 00:19:56,561
-    final assembly can begin,   
-  starting with the mechanism.  
+final assembly can begin, starting with the mechanism.  
 
 331
 00:19:56,563 --> 00:19:59,430
-    they slip a nylon washer,   
-       then a steel spring      
+they slip a nylon washer, then a steel spring      
 
 332
 00:19:59,432 --> 00:20:00,832
-     over the inner barrel.     
+over the inner barrel.     
 
 333
 00:20:03,236 --> 00:20:06,838
-   next, they grease the outer  
-   barrel made of forged iron   
+next, they grease the outer barrel made of forged iron   
 
 334
 00:20:06,840 --> 00:20:09,908
-          and place it          
-     over the inner barrel.     
+and place it over the inner barrel.     
 
 335
 00:20:09,910 --> 00:20:12,910
-      the washer in between     
- the barrels eliminates friction
+the washer in between the barrels eliminates friction
 
 336
 00:20:12,912 --> 00:20:14,979
-         when they move         
-       against each other.      
+when they move against each other.      
 
 337
 00:20:14,981 --> 00:20:19,918
-    this prevents the barrel    
- from wearing out and squeaking.
+this prevents the barrel from wearing out and squeaking.
 
 338
 00:20:19,920 --> 00:20:23,454
-    they install a tab washer   
-  made of nickel-plated steel.  
+they install a tab washer made of nickel-plated steel.  
 
 339
 00:20:23,456 --> 00:20:26,724
-       this tab restricts       
-      the barrel's rotation     
+this tab restricts the barrel's rotation     
 
 340
 00:20:26,726 --> 00:20:30,061
-       so that it doesn't       
- simply spin around and around. 
+so that it doesn't simply spin around and around. 
 
 341
 00:20:30,063 --> 00:20:32,797
-       this high-strength       
-    steel locking clip holds    
+this high-strength steel locking clip holds    
 
 342
 00:20:32,799 --> 00:20:34,331
-   the inner and outer barrels  
+the inner and outer barrels  
 
 343
 00:20:34,333 --> 00:20:36,935
-  and that important tab washer 
-            in place.           
+and that important tab washer in place.           
 
 344
 00:20:40,540 --> 00:20:42,540
-       now that the handle      
-   and mechanism are complete,  
+now that the handle and mechanism are complete,  
 
 345
 00:20:42,542 --> 00:20:46,210
-  all that remains is to align  
-       backplate to handle      
+all that remains is to align backplate to handle      
 
 346
 00:20:46,212 --> 00:20:49,647
-    and secure it in position   
-          with screws.          
+and secure it in position with screws.          
 
 347
 00:20:53,486 --> 00:20:55,286
-  each retail package contains  
+each retail package contains  
 
 348
 00:20:55,288 --> 00:20:57,688
-           two handles          
-      and two backplates --     
+two handles and two backplates --     
 
 349
 00:20:57,690 --> 00:21:00,158
- one for each side of the door. 
+one for each side of the door. 
 
 350
 00:21:00,160 --> 00:21:02,693
-        also in the box,        
-        the steel spindle       
+also in the box, the steel spindle       
 
 351
 00:21:02,695 --> 00:21:05,630
-   that goes through the door,  
-     connecting the barrels     
+that goes through the door, connecting the barrels     
 
 352
 00:21:05,632 --> 00:21:07,699
-    so that the handles turn    
-            in unison           
+so that the handles turn in unison           
 
 353
 00:21:07,701 --> 00:21:10,068
-      to retract the latch      
-       and open the door.       
+to retract the latch and open the door.       
 
 354
 00:21:13,173 --> 00:21:16,107
-      while their mechanics     
-      are hidden from view,     
+while their mechanics are hidden from view,     
 
 355
 00:21:16,109 --> 00:21:19,911
-  these hand-forged handles are 
-  certainly a sight to be seen. 
+these hand-forged handles are certainly a sight to be seen. 
 
 356
 00:21:30,256 --> 00:21:32,656
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 357
 00:21:32,658 --> 00:21:35,526
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 358
 00:21:35,528 --> 00:21:37,762
-      drop us a line at...      
+drop us a line at...      
 

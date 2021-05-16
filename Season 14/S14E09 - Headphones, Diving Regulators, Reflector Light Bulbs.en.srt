@@ -1,721 +1,617 @@
 ﻿1
 00:00:52,520 --> 00:00:55,120
-   narrator: in the early part  
-      of the 20th century,      
+narrator: in the early part of the 20th century,      
 
 2
 00:00:55,122 --> 00:00:56,588
-   headphones were used mainly  
+headphones were used mainly  
 
 3
 00:00:56,590 --> 00:00:59,859
-     by telephone operators     
-     and radio technicians.     
+by telephone operators and radio technicians.     
 
 4
 00:00:59,861 --> 00:01:01,193
-        but in the 1930s,       
+but in the 1930s,       
 
 5
 00:01:01,195 --> 00:01:04,596
-      they were redesigned      
-   and marketed to the public,  
+they were redesigned and marketed to the public,  
 
 6
 00:01:04,598 --> 00:01:07,133
-   so music lovers everywhere   
-           plugged in           
+so music lovers everywhere plugged in           
 
 7
 00:01:07,135 --> 00:01:10,136
-  and turned on to the concept. 
+and turned on to the concept. 
 
 8
 00:01:13,808 --> 00:01:15,807
-   everyone is a music critic,  
+everyone is a music critic,  
 
 9
 00:01:15,809 --> 00:01:18,744
-   but headphones allow people  
-     to crank up the volume     
+but headphones allow people to crank up the volume     
 
 10
 00:01:18,746 --> 00:01:22,281
-    without negative feedback   
-         from neighbors.        
+without negative feedback from neighbors.        
 
 11
 00:01:22,283 --> 00:01:24,149
-  to make high-end headphones,  
+to make high-end headphones,  
 
 12
 00:01:24,151 --> 00:01:28,120
-  an injection-molding machine  
+an injection-molding machine  
 first makes plastic back covers.
 
 13
 00:01:29,757 --> 00:01:32,758
-    the mesh area will allow    
-   sound waves to pass through  
+the mesh area will allow sound waves to pass through  
 
 14
 00:01:32,760 --> 00:01:35,361
-   instead of reflecting back   
-       into the headphone.      
+instead of reflecting back into the headphone.      
 
 15
 00:01:39,834 --> 00:01:41,166
-         down the line,         
+down the line,         
 
 16
 00:01:41,168 --> 00:01:43,836
-   equipment stamps trademark   
-      and other information     
+equipment stamps trademark and other information     
 
 17
 00:01:43,838 --> 00:01:46,171
-          onto two more         
-      casing components --      
+onto two more casing components --      
 
 18
 00:01:46,173 --> 00:01:49,342
-    a decorative metal disk,    
-     and a plastic housing.     
+a decorative metal disk, and a plastic housing.     
 
 19
 00:01:53,114 --> 00:01:55,648
-        the next machine        
-        winds copper wire       
+the next machine winds copper wire       
 
 20
 00:01:55,650 --> 00:01:57,583
-  that's as thin as human hair  
+that's as thin as human hair  
 
 21
 00:01:57,585 --> 00:01:59,918
-       around a cylinder        
-       hundreds of times.       
+around a cylinder hundreds of times.       
 
 22
 00:01:59,920 --> 00:02:02,454
-           the winding          
-     is computer controlled     
+the winding is computer controlled     
 
 23
 00:02:02,456 --> 00:02:04,657
-           to produce           
-     a critical component --    
+to produce a critical component --    
 
 24
 00:02:04,659 --> 00:02:07,526
-   the headphone's voice coil.  
+the headphone's voice coil.  
 
 25
 00:02:07,528 --> 00:02:10,729
-         when magnetized        
-     by an incoming signal,     
+when magnetized by an incoming signal,     
 
 26
 00:02:10,731 --> 00:02:12,998
-         the voice coil         
-      vibrates a diaphragm,     
+the voice coil vibrates a diaphragm,     
 
 27
 00:02:13,000 --> 00:02:15,334
-    causing it to emit sound.   
+causing it to emit sound.   
 
 28
 00:02:15,336 --> 00:02:17,803
- that diaphragm now takes shape 
+that diaphragm now takes shape 
 
 29
 00:02:17,805 --> 00:02:22,207
-   as a press applies heat and  
- pressure to a plastic membrane.
+as a press applies heat and pressure to a plastic membrane.
 
 30
 00:02:22,209 --> 00:02:25,211
-  these tools mold the plastic  
-      to the desired shape.     
+these tools mold the plastic to the desired shape.     
 
 31
 00:02:25,213 --> 00:02:28,013
-   the press molds the plastic  
-      thicker in the center     
+the press molds the plastic thicker in the center     
 
 32
 00:02:28,015 --> 00:02:29,881
-           and thinner          
-      around the outer zone     
+and thinner around the outer zone     
 
 33
 00:02:29,883 --> 00:02:33,819
-       for a wide and flat      
-     audio-frequency range.     
+for a wide and flat audio-frequency range.     
 
 34
 00:02:33,821 --> 00:02:37,089
-    a technician punches out    
-        the molded shape.       
+a technician punches out the molded shape.       
 
 35
 00:02:40,961 --> 00:02:43,629
-   she applies a bead of glue   
-        to the diaphragm,       
+she applies a bead of glue to the diaphragm,       
 
 36
 00:02:43,631 --> 00:02:48,233
- then positions the copper voice
-   coil in an assembly device.  
+then positions the copper voice
+coil in an assembly device.  
 
 37
 00:02:48,235 --> 00:02:52,038
-  she aligns the glued section  
- of the diaphragm with the coil.
+she aligns the glued section of the diaphragm with the coil.
 
 38
 00:02:52,040 --> 00:02:54,774
-       ultraviolet light        
-       activates the glue       
+ultraviolet light activates the glue       
 
 39
 00:02:54,776 --> 00:02:57,109
-        to seal the coil        
-        to the diaphragm.       
+to seal the coil to the diaphragm.       
 
 40
 00:03:01,449 --> 00:03:03,782
-      the plastic housings      
-     each contain a magnet.     
+the plastic housings each contain a magnet.     
 
 41
 00:03:03,784 --> 00:03:07,787
-       the next technician      
-     installs the diaphragm     
+the next technician installs the diaphragm     
 
 42
 00:03:07,789 --> 00:03:11,123
-     and voice-coil assembly    
-        on that housing.        
+and voice-coil assembly on that housing.        
 
 43
 00:03:11,125 --> 00:03:12,791
-        this takes skill        
+this takes skill        
 
 44
 00:03:12,793 --> 00:03:15,127
-    because the coil must be    
-      positioned precisely      
+because the coil must be positioned precisely      
 
 45
 00:03:15,129 --> 00:03:17,196
-   for the best sound quality.  
+for the best sound quality.  
 
 46
 00:03:19,534 --> 00:03:22,734
-   and this headphone speaker   
+and this headphone speaker   
 is now ready for an audio check.
 
 47
 00:03:22,736 --> 00:03:26,471
-       a technician tests       
-   the audio-frequency range,   
+a technician tests the audio-frequency range,   
 
 48
 00:03:26,473 --> 00:03:29,808
- distortion, and other factors. 
+distortion, and other factors. 
 
 49
 00:03:29,810 --> 00:03:32,812
-    here, a technician joins    
-    the ends of curved wires    
+here, a technician joins the ends of curved wires    
 
 50
 00:03:32,814 --> 00:03:35,013
-       in a plastic clip.       
+in a plastic clip.       
 
 51
 00:03:35,015 --> 00:03:37,616
-           these wires          
-     serve a dual function.     
+these wires serve a dual function.     
 
 52
 00:03:37,618 --> 00:03:40,218
-    they hold the headphones    
-      snugly over the ears      
+they hold the headphones snugly over the ears      
 
 53
 00:03:40,220 --> 00:03:41,686
-    and deliver audio signals   
+and deliver audio signals   
 
 54
 00:03:41,688 --> 00:03:44,190
-       from the left side       
-  of the headphones the right.  
+from the left side of the headphones the right.  
 
 55
 00:03:47,961 --> 00:03:50,362
-      the next technician       
-      installs a connector      
+the next technician installs a connector      
 
 56
 00:03:50,364 --> 00:03:53,699
- for the headphone's audio cable
-  and a plastic strain relief.  
+for the headphone's audio cable
+and a plastic strain relief.  
 
 57
 00:03:57,304 --> 00:03:59,972
-       an adjustable band       
-    will allow the headphones   
+an adjustable band will allow the headphones   
 
 58
 00:03:59,974 --> 00:04:02,441
-         to fit on heads        
-    of all shapes and sizes.    
+to fit on heads of all shapes and sizes.    
 
 59
 00:04:02,443 --> 00:04:06,512
- the operator presses the parts 
- together with a hydraulic tool.
+the operator presses the parts together with a hydraulic tool.
 
 60
 00:04:12,520 --> 00:04:14,119
-      moving down the line,     
+moving down the line,     
 
 61
 00:04:14,121 --> 00:04:17,923
- a technician now joins the two 
- halves of the speaker housing. 
+a technician now joins the two halves of the speaker housing. 
 
 62
 00:04:17,925 --> 00:04:19,992
-           she forces           
-     the two parts together     
+she forces the two parts together     
 
 63
 00:04:19,994 --> 00:04:22,862
-    with a pneumatic tool...    
+with a pneumatic tool...    
 
 64
 00:04:22,864 --> 00:04:26,332
-       and finishes it off      
-  with a decorative metal ring. 
+and finishes it off with a decorative metal ring. 
 
 65
 00:04:33,407 --> 00:04:35,407
-           she inserts          
-      the speaker mechanism     
+she inserts the speaker mechanism     
 
 66
 00:04:35,409 --> 00:04:37,142
-  in the center of the housing, 
+in the center of the housing, 
 
 67
 00:04:37,144 --> 00:04:40,813
-  then places plastic brackets  
-     over it for protection.    
+then places plastic brackets over it for protection.    
 
 68
 00:04:42,716 --> 00:04:46,285
-   she then secures the entire  
-    assembly to the housing.    
+she then secures the entire assembly to the housing.    
 
 69
 00:04:51,959 --> 00:04:56,362
-   next, she solders two wires  
-   to each headphone speaker.   
+next, she solders two wires to each headphone speaker.   
 
 70
 00:04:56,364 --> 00:04:59,497
-    a plastic ring and cover    
-           protect it           
+a plastic ring and cover protect it           
 
 71
 00:04:59,499 --> 00:05:02,902
- while still allowing the wires 
-          to protrude.          
+while still allowing the wires to protrude.          
 
 72
 00:05:06,440 --> 00:05:09,575
-     she attaches the end of    
- the headband to the speakers...
+she attaches the end of the headband to the speakers...
 
 73
 00:05:12,780 --> 00:05:15,414
-    ...then solders the wires   
-        from the speaker        
+...then solders the wires from the speaker        
 
 74
 00:05:15,416 --> 00:05:18,316
-       to those protruding      
-       from the headband.       
+to those protruding from the headband.       
 
 75
 00:05:18,318 --> 00:05:21,186
-  she presses a plastic grille  
-           into place           
+she presses a plastic grille into place           
 
 76
 00:05:21,188 --> 00:05:23,188
-        over each speaker       
-         very carefully,        
+over each speaker very carefully,        
 
 77
 00:05:23,190 --> 00:05:26,458
-     to prevent scratching.     
+to prevent scratching.     
 
 78
 00:05:26,460 --> 00:05:30,262
- these headphones are now wired 
-      and ready for audio.      
+these headphones are now wired and ready for audio.      
 
 79
 00:05:30,264 --> 00:05:32,198
-      and whether it's rock     
-          or classical,         
+and whether it's rock or classical,         
 
 80
 00:05:32,200 --> 00:05:34,266
-       the choice of music      
-         will be silent         
+the choice of music will be silent         
 
 81
 00:05:34,268 --> 00:05:37,136
-   to all but one individual.   
+to all but one individual.   
 
 82
 00:05:55,089 --> 00:05:59,424
-            narrator:           
-    the diving regulator is a   
+narrator: the diving regulator is a   
 lifeline when you're underwater.
 
 83
 00:05:59,426 --> 00:06:01,426
-        invented in 1937,       
+invented in 1937,       
 
 84
 00:06:01,428 --> 00:06:04,430
-      this device converts      
+this device converts      
 compressed air from diving tanks
 
 85
 00:06:04,432 --> 00:06:06,165
-     into a breathable form     
+into a breathable form     
 
 86
 00:06:06,167 --> 00:06:08,834
-  and delivers it to the diver  
-        via a mouthpiece.       
+and delivers it to the diver via a mouthpiece.       
 
 87
 00:06:08,836 --> 00:06:11,103
-         and that means,        
-  once you've taken the plunge, 
+and that means, once you've taken the plunge, 
 
 88
 00:06:11,105 --> 00:06:13,339
-      you can breathe easy.     
+you can breathe easy.     
 
 89
 00:06:16,777 --> 00:06:21,846
- the two main parts of a diving 
-  regulator are called stages.  
+the two main parts of a diving regulator are called stages.  
 
 90
 00:06:21,848 --> 00:06:24,850
-       computerized tools       
-   transform a piece of brass   
+computerized tools transform a piece of brass   
 
 91
 00:06:24,852 --> 00:06:27,653
-  into the first-stage housing. 
+into the first-stage housing. 
 
 92
 00:06:27,655 --> 00:06:29,788
-  they carve a cavity and holes 
+they carve a cavity and holes 
 
 93
 00:06:29,790 --> 00:06:32,725
-       for attaching hoses      
-      and other components.     
+for attaching hoses and other components.     
 
 94
 00:06:34,061 --> 00:06:37,596
- a blade cuts the part to size. 
+a blade cuts the part to size. 
 
 95
 00:06:37,598 --> 00:06:39,597
-  then, a drill creates a space 
+then, a drill creates a space 
 
 96
 00:06:39,599 --> 00:06:42,133
-             for the            
-    pressure-reduction valve.   
+for the pressure-reduction valve.   
 
 97
 00:06:42,135 --> 00:06:46,271
-    this end also gets holes    
-      for more attachments.     
+this end also gets holes for more attachments.     
 
 98
 00:06:46,273 --> 00:06:49,975
 another tool sculpts the side to
- reduce the weight of the part. 
+reduce the weight of the part. 
 
 99
 00:06:53,547 --> 00:06:54,813
-         sliced in two,         
+sliced in two,         
 
 100
 00:06:54,815 --> 00:06:57,950
-   this is how the first-stage  
-      housing looks inside.     
+this is how the first-stage housing looks inside.     
 
 101
 00:07:00,421 --> 00:07:02,021
- after it's been chrome-plated, 
+after it's been chrome-plated, 
 
 102
 00:07:02,023 --> 00:07:05,023
- they insert plugs for the holes
-     that will later be used    
+they insert plugs for the holes
+that will later be used    
 
 103
 00:07:05,025 --> 00:07:08,193
-  for attaching gauges, hoses,  
-        and other parts.        
+for attaching gauges, hoses, and other parts.        
 
 104
 00:07:12,166 --> 00:07:15,567
-    the fitting that connects   
- the regulator to the scuba tank
+the fitting that connects the regulator to the scuba tank
 
 105
 00:07:15,569 --> 00:07:17,369
-   goes into a holding device,  
+goes into a holding device,  
 
 106
 00:07:17,371 --> 00:07:20,038
-      while the technician      
-    assembles a special valve   
+while the technician assembles a special valve   
 
 107
 00:07:20,040 --> 00:07:23,175
-   for keeping salt water out.  
+for keeping salt water out.  
 
 108
 00:07:23,177 --> 00:07:25,778
-        he fits a piston        
-    onto the end of a spring,   
+he fits a piston onto the end of a spring,   
 
 109
 00:07:25,780 --> 00:07:28,314
-   and then slips the assembly  
-         through a hole         
+and then slips the assembly through a hole         
 
 110
 00:07:28,316 --> 00:07:31,116
- to confirm it's the right size.
+to confirm it's the right size.
 
 111
 00:07:31,118 --> 00:07:35,354
-      he installs a filter      
- on the other end of the spring.
+he installs a filter on the other end of the spring.
 
 112
 00:07:37,858 --> 00:07:42,327
-    now he inserts the valve    
-         in the fitting.        
+now he inserts the valve in the fitting.        
 
 113
 00:07:42,329 --> 00:07:45,197
-          he secures it         
-     with this rubber ring,     
+he secures it with this rubber ring,     
 
 114
 00:07:45,199 --> 00:07:48,033
-    pressing it into a groove   
-         in the fitting.        
+pressing it into a groove in the fitting.        
 
 115
 00:07:50,471 --> 00:07:54,006
-        the valve appears       
-    to be firmly entrenched.    
+the valve appears to be firmly entrenched.    
 
 116
 00:07:54,008 --> 00:07:58,877
-    he presses it to confirm    
-     it operates correctly.     
+he presses it to confirm it operates correctly.     
 
 117
 00:07:58,879 --> 00:08:02,080
-       and he pumps water       
- into a bunch of these fittings 
+and he pumps water into a bunch of these fittings 
 
 118
 00:08:02,082 --> 00:08:05,484
-  to confirm the valves inside  
-    are, indeed, watertight.    
+to confirm the valves inside are, indeed, watertight.    
 
 119
 00:08:06,821 --> 00:08:09,421
-   he attaches a rubber cover   
-    and a chrome-plated yoke    
+he attaches a rubber cover and a chrome-plated yoke    
 
 120
 00:08:09,423 --> 00:08:11,023
-         to the fitting,        
+to the fitting,        
 
 121
 00:08:11,025 --> 00:08:13,892
-   then installs this assembly  
-         in the housing,        
+then installs this assembly in the housing,        
 
 122
 00:08:13,894 --> 00:08:17,629
-   using a long-handled socket  
- wrench to get the right torque.
+using a long-handled socket wrench to get the right torque.
 
 123
 00:08:19,767 --> 00:08:23,702
-   this yoke swivels to give    
-   the diver some flexibility   
+this yoke swivels to give the diver some flexibility   
 
 124
 00:08:23,704 --> 00:08:26,705
-         in attaching it        
-       to the diving tank.      
+in attaching it to the diving tank.      
 
 125
 00:08:26,707 --> 00:08:29,307
-        he now assembles        
-     a crucial component --     
+he now assembles a crucial component --     
 
 126
 00:08:29,309 --> 00:08:31,577
-        the high-pressure       
-        reduction valve.        
+the high-pressure reduction valve.        
 
 127
 00:08:31,579 --> 00:08:33,712
-        installed inside        
-    the first-stage housing,    
+installed inside the first-stage housing,    
 
 128
 00:08:33,714 --> 00:08:37,715
-    it converts high pressure   
-       to medium pressure.      
+it converts high pressure to medium pressure.      
 
 129
 00:08:37,717 --> 00:08:39,785
-  he caps the yoke with a knob, 
+he caps the yoke with a knob, 
 
 130
 00:08:39,787 --> 00:08:42,654
-          then inserts          
-  a pressure-sensing mechanism  
+then inserts a pressure-sensing mechanism  
 
 131
 00:08:42,656 --> 00:08:45,524
-           at one end           
-   of the first-stage housing.  
+at one end of the first-stage housing.  
 
 132
 00:08:45,526 --> 00:08:48,193
-          he covers it          
-     with a rubber membrane.    
+he covers it with a rubber membrane.    
 
 133
 00:08:48,195 --> 00:08:50,328
-      as the diver inhales,     
+as the diver inhales,     
 
 134
 00:08:50,330 --> 00:08:54,466
-   this membrane will trigger   
- the valve to release more air. 
+this membrane will trigger the valve to release more air. 
 
 135
 00:08:54,468 --> 00:08:58,470
-     the diving regulator's     
-  first stage is now complete.  
+the diving regulator's first stage is now complete.  
 
 136
 00:08:58,472 --> 00:09:03,008
- he just needs to calibrate the 
+he just needs to calibrate the 
 pressure-reduction valve inside.
 
 137
 00:09:03,010 --> 00:09:06,277
 he hooks it up to compressed air
-      and adjusts the valve     
+and adjusts the valve     
 
 138
 00:09:06,279 --> 00:09:09,882
-   so it reduces air pressure   
-       to a precise level.      
+so it reduces air pressure to a precise level.      
 
 139
 00:09:18,692 --> 00:09:21,893
-     he immerses it in water    
-     to test for air leaks.     
+he immerses it in water to test for air leaks.     
 
 140
 00:09:21,895 --> 00:09:24,630
-     there are a few bubbles    
-  from plunging it underwater,  
+there are a few bubbles from plunging it underwater,  
 
 141
 00:09:24,632 --> 00:09:28,633
- but nothing that would indicate
-           a problem.           
+but nothing that would indicate
+a problem.           
 
 142
 00:09:28,635 --> 00:09:32,704
- they now move on to the diving 
-    regulator's second stage,   
+they now move on to the diving regulator's second stage,   
 
 143
 00:09:32,706 --> 00:09:35,173
-       which will convert       
-     the medium-pressure air    
+which will convert the medium-pressure air    
 
 144
 00:09:35,175 --> 00:09:37,509
-      from the first stage      
-     to a breathable level.     
+from the first stage to a breathable level.     
 
 145
 00:09:37,511 --> 00:09:39,578
-      the diver's breathing     
-   will trigger this diaphragm  
+the diver's breathing will trigger this diaphragm  
 
 146
 00:09:39,580 --> 00:09:40,913
-     to open the air valve.     
+to open the air valve.     
 
 147
 00:09:43,183 --> 00:09:45,517
- he attached a protective cover,
+he attached a protective cover,
 
 148
 00:09:45,519 --> 00:09:49,121
-    and he's ready to install   
-     the second-stage valve.    
+and he's ready to install the second-stage valve.    
 
 149
 00:09:53,594 --> 00:09:56,528
-       after he inserts it      
-  in the second-stage housing,  
+after he inserts it in the second-stage housing,  
 
 150
 00:09:56,530 --> 00:10:00,064
-      the technician makes      
-     an initial adjustment.     
+the technician makes an initial adjustment.     
 
 151
 00:10:00,066 --> 00:10:04,269
- then, using a special tool, he 
- precisely calibrates the valve.
+then, using a special tool, he precisely calibrates the valve.
 
 152
 00:10:09,810 --> 00:10:15,114
@@ -724,41 +620,35 @@ last steps, so he reinstalls it.
 
 153
 00:10:18,819 --> 00:10:21,686
-    then, it's over to a guy    
-    with an ear for the job.    
+then, it's over to a guy with an ear for the job.    
 
 154
 00:10:21,688 --> 00:10:24,355
-      as air is pumped into     
-        the second stage,       
+as air is pumped into the second stage,       
 
 155
 00:10:24,357 --> 00:10:27,893
-      he listens for hisses     
-   that would indicate a leak.  
+he listens for hisses that would indicate a leak.  
 
 156
 00:10:27,895 --> 00:10:29,494
-    satisfied there are none,   
+satisfied there are none,   
 
 157
 00:10:29,496 --> 00:10:31,430
-     he hooks the regulator     
-         up to a device         
+he hooks the regulator up to a device         
 
 158
 00:10:31,432 --> 00:10:33,098
-    that simulates breathing    
+that simulates breathing    
 
 159
 00:10:33,100 --> 00:10:35,634
-     and measures the effort    
-       required to inhale.      
+and measures the effort required to inhale.      
 
 160
 00:10:35,636 --> 00:10:39,171
-   if it checks out, they link  
-   the two stages with a hose,  
+if it checks out, they link the two stages with a hose,  
 
 161
 00:10:39,173 --> 00:10:42,875
@@ -768,278 +658,239 @@ equipped to handle the pressure.
 162
 00:10:58,792 --> 00:11:01,526
 narrator: good lighting is often
-     a matter of reflection,    
+a matter of reflection,    
 
 163
 00:11:01,528 --> 00:11:02,927
-    and that's why, early on,   
+and that's why, early on,   
 
 164
 00:11:02,929 --> 00:11:05,397
-        lamps often came        
-        with reflectors.        
+lamps often came with reflectors.        
 
 165
 00:11:05,399 --> 00:11:09,467
- but, in 1935, a company figured
-   out how to make light bulbs  
+but, in 1935, a company figured
+out how to make light bulbs  
 
 166
 00:11:09,469 --> 00:11:11,203
-    with built-in reflectors.   
+with built-in reflectors.   
 
 167
 00:11:11,205 --> 00:11:13,672
-     sealing the reflectors     
-         inside the bulb        
+sealing the reflectors inside the bulb        
 
 168
 00:11:13,674 --> 00:11:16,074
-         kept them clean        
-      and maintenance-free.     
+kept them clean and maintenance-free.     
 
 169
 00:11:19,947 --> 00:11:23,214
-         as track lights        
-    or in recessed fixtures,    
+as track lights or in recessed fixtures,    
 
 170
 00:11:23,216 --> 00:11:27,819
-  reflector bulbs can light up  
+reflector bulbs can light up  
 a room at the flick of a switch.
 
 171
 00:11:27,821 --> 00:11:30,822
-   the creation of these bulbs  
-   begins with the bulb shell,  
+the creation of these bulbs begins with the bulb shell,  
 
 172
 00:11:30,824 --> 00:11:33,558
-  known as the glass envelope.  
+known as the glass envelope.  
 
 173
 00:11:33,560 --> 00:11:38,564
- it's comprised of numerous raw 
- ingredients and recycled glass.
+it's comprised of numerous raw ingredients and recycled glass.
 
 174
 00:11:38,566 --> 00:11:41,967
-      production is almost      
-      entirely automated.       
+production is almost entirely automated.       
 
 175
 00:11:41,969 --> 00:11:46,171
- an operator activates equipment
-   that weighs the ingredients  
+an operator activates equipment
+that weighs the ingredients  
 
 176
 00:11:46,173 --> 00:11:48,707
-        and releases them       
-       into a huge hopper,      
+and releases them into a huge hopper,      
 
 177
 00:11:48,709 --> 00:11:50,709
- where they're mixed thoroughly.
+where they're mixed thoroughly.
 
 178
 00:11:53,513 --> 00:11:55,580
-         this concoction        
-    then flows into a furnace   
+this concoction then flows into a furnace   
 
 179
 00:11:55,582 --> 00:11:58,817
-     heated to 2,700 degrees    
-           fahrenheit.          
+heated to 2,700 degrees fahrenheit.          
 
 180
 00:12:04,258 --> 00:12:05,791
-     it takes up to 24 hours    
+it takes up to 24 hours    
 
 181
 00:12:05,793 --> 00:12:09,861
-       for the mix to melt      
-     into a taffylike glass.    
+for the mix to melt into a taffylike glass.    
 
 182
 00:12:09,863 --> 00:12:13,732
-    it flows between rollers    
-  that shape it into a ribbon.  
+it flows between rollers that shape it into a ribbon.  
 
 183
 00:12:13,734 --> 00:12:16,602
-  one roller has little pockets 
-         on the surface,        
+one roller has little pockets on the surface,        
 
 184
 00:12:16,604 --> 00:12:18,904
-      which form the ribbon     
-         into segments.         
+which form the ribbon into segments.         
 
 185
 00:12:20,874 --> 00:12:22,941
-         these devices,         
-       called blow heads,       
+these devices, called blow heads,       
 
 186
 00:12:22,943 --> 00:12:24,543
-   inflate the glass segments   
+inflate the glass segments   
 
 187
 00:12:24,545 --> 00:12:26,612
-          through holes         
-     in the conveyor chain.     
+through holes in the conveyor chain.     
 
 188
 00:12:31,752 --> 00:12:35,854
-  this stretches the glass into 
-  oblong bubbles called blanks. 
+this stretches the glass into oblong bubbles called blanks. 
 
 189
 00:12:43,497 --> 00:12:47,532
-   iron molds encase the warm   
-   and pliable glass blanks.    
+iron molds encase the warm and pliable glass blanks.    
 
 190
 00:12:51,838 --> 00:12:56,275
-   the molds spin as the glass  
- hardens into the desired shape.
+the molds spin as the glass hardens into the desired shape.
 
 191
 00:12:58,779 --> 00:13:03,515
- the glass blanks now look like 
-  upside-down martini glasses.  
+the glass blanks now look like upside-down martini glasses.  
 
 192
 00:13:03,517 --> 00:13:06,985
-  this is the reflector bulb's  
-         glass envelope.        
+this is the reflector bulb's glass envelope.        
 
 193
 00:13:06,987 --> 00:13:10,322
-    it takes just seconds for   
- a glass blank to be transformed
+it takes just seconds for a glass blank to be transformed
 
 194
 00:13:10,324 --> 00:13:12,624
-   inside one of these molds.   
+inside one of these molds.   
 
 195
 00:13:16,463 --> 00:13:19,931
- the envelopes are still linked 
+the envelopes are still linked 
 by a ribbon of glass at the top,
 
 196
 00:13:19,933 --> 00:13:23,468
-     so an automated hammer     
-  now gently knocks them free.  
+so an automated hammer now gently knocks them free.  
 
 197
 00:13:25,405 --> 00:13:28,073
-       the glass envelopes      
-        cool down slowly.       
+the glass envelopes cool down slowly.       
 
 198
 00:13:28,075 --> 00:13:30,075
-  this stage, called annealing, 
+this stage, called annealing, 
 
 199
 00:13:30,077 --> 00:13:33,312
-       toughens the glass       
-     to reduce brittleness.     
+toughens the glass to reduce brittleness.     
 
 200
 00:13:37,418 --> 00:13:39,751
-   they measure the thickness   
-          and diameter          
+they measure the thickness and diameter          
 
 201
 00:13:39,753 --> 00:13:41,152
-    of one of the envelopes.    
+of one of the envelopes.    
 
 202
 00:13:41,154 --> 00:13:42,820
-  if it's not up to standards,  
+if it's not up to standards,  
 
 203
 00:13:42,822 --> 00:13:46,158
-    the entire production run   
-        will be crushed,        
+the entire production run will be crushed,        
 
 204
 00:13:46,160 --> 00:13:48,493
-     and the glass recycled     
-         into new ones.         
+and the glass recycled into new ones.         
 
 205
 00:13:48,495 --> 00:13:53,298
-    but the envelope is good,   
-  and so production continues.  
+but the envelope is good, and so production continues.  
 
 206
 00:13:53,300 --> 00:13:55,700
-    they lower the envelopes    
-          over nozzles          
+they lower the envelopes over nozzles          
 
 207
 00:13:55,702 --> 00:13:57,369
- that inject hydrofluoric acid. 
+that inject hydrofluoric acid. 
 
 208
 00:13:57,371 --> 00:14:00,972
- it coats the inner surface of  
- the glass with a frosty finish 
+it coats the inner surface of the glass with a frosty finish 
 
 209
 00:14:00,974 --> 00:14:03,508
-   that will smooth the light   
-       emitted by the bulb      
+that will smooth the light emitted by the bulb      
 
 210
 00:14:03,510 --> 00:14:05,444
-       and widen the beam.      
+and widen the beam.      
 
 211
 00:14:10,718 --> 00:14:13,251
-          the envelopes         
-     now head down a chute,     
+the envelopes now head down a chute,     
 
 212
 00:14:13,253 --> 00:14:15,854
-      into a padded channel     
-    that cushions their fall.   
+into a padded channel that cushions their fall.   
 
 213
 00:14:21,127 --> 00:14:22,928
-  guides gently position them.  
+guides gently position them.  
 
 214
 00:14:22,930 --> 00:14:25,730
-       then, other devices      
-    thrust them into holders    
+then, other devices thrust them into holders    
 
 215
 00:14:25,732 --> 00:14:27,599
- which move them down the line. 
+which move them down the line. 
 
 216
 00:14:30,336 --> 00:14:34,406
-      next, a robot inserts     
- aluminum wire in a heating coil
+next, a robot inserts aluminum wire in a heating coil
 
 217
 00:14:34,408 --> 00:14:37,776
-     and places a protective    
-      metal dome over top.      
+and places a protective metal dome over top.      
 
 218
 00:14:42,749 --> 00:14:45,817
-          suction cups          
-   pick up the glass envelopes  
+suction cups pick up the glass envelopes  
 
 219
 00:14:45,819 --> 00:14:49,220
-       and slide them onto      
-  the wire-and-dome assemblies. 
+and slide them onto the wire-and-dome assemblies. 
 
 220
 00:14:49,222 --> 00:14:51,022
@@ -1047,21 +898,20 @@ a pump pulls air out of the bulb
 
 221
 00:14:51,024 --> 00:14:53,959
-    as an electrical current    
-   energizes the heating coil   
+as an electrical current energizes the heating coil   
 
 222
 00:14:53,961 --> 00:14:57,428
-   to melt the aluminum wire.   
+to melt the aluminum wire.   
 
 223
 00:14:57,430 --> 00:15:00,899
-   the aluminum adheres to the  
+the aluminum adheres to the  
 walls of the light bulb's shell,
 
 224
 00:15:00,901 --> 00:15:02,968
- giving it a reflective finish. 
+giving it a reflective finish. 
 
 225
 00:15:04,638 --> 00:15:06,505
@@ -1069,78 +919,70 @@ the glass envelopes then move on
 
 226
 00:15:06,507 --> 00:15:10,175
- to be stamped with the company 
+to be stamped with the company 
 trademark and other information.
 
 227
 00:15:14,648 --> 00:15:16,781
-           meanwhile,           
-   on another production line,  
+meanwhile, on another production line,  
 
 228
 00:15:16,783 --> 00:15:18,717
-        they're preparing       
-        the glass mounts        
+they're preparing the glass mounts        
 
 229
 00:15:18,719 --> 00:15:20,585
-        for the filament        
-       and wire contacts.       
+for the filament and wire contacts.       
 
 230
 00:15:20,587 --> 00:15:24,523
-         a cutting wheel        
-      slices them to size.      
+a cutting wheel slices them to size.      
 
 231
 00:15:25,926 --> 00:15:28,727
-   the tubes then travel past   
-            a flame,            
+the tubes then travel past a flame,            
 
 232
 00:15:28,729 --> 00:15:32,864
- which melts the ends just a bit
-    to make the edges smooth.   
+which melts the ends just a bit
+to make the edges smooth.   
 
 233
 00:15:32,866 --> 00:15:34,131
-      once they've cooled,      
+once they've cooled,      
 
 234
 00:15:34,133 --> 00:15:36,935
-   grippers deliver the tubes   
-    to a more intense flame,    
+grippers deliver the tubes to a more intense flame,    
 
 235
 00:15:36,937 --> 00:15:39,537
-  which flares them at one end. 
+which flares them at one end. 
 
 236
 00:15:39,539 --> 00:15:42,340
- coming up next, we'll show you 
-       the inner workings       
+coming up next, we'll show you the inner workings       
 
 237
 00:15:42,342 --> 00:15:45,143
-  of the reflector light bulb.  
+of the reflector light bulb.  
 
 238
 00:16:02,295 --> 00:16:05,030
 narrator: a reflector light bulb
-   can cast one's surroundings  
+can cast one's surroundings  
 
 239
 00:16:05,032 --> 00:16:06,565
-     in a whole new light --    
+in a whole new light --    
 
 240
 00:16:06,567 --> 00:16:09,167
-     one that's more intense    
-          and focused.          
+one that's more intense and focused.          
 
 241
 00:16:09,169 --> 00:16:12,704
-   the source of this light is  
+the source of this light is  
 an electrified filament of wire.
 
 242
@@ -1150,31 +992,28 @@ the bulb is a very delicate task
 
 243
 00:16:16,577 --> 00:16:19,411
-        that's performed        
-      entirely by machines.     
+that's performed entirely by machines.     
 
 244
 00:16:23,850 --> 00:16:26,450
-     production now focuses     
-        on the glass tube       
+production now focuses on the glass tube       
 
 245
 00:16:26,452 --> 00:16:28,920
-  that will serve as the mount  
-        for the filament        
+that will serve as the mount for the filament        
 
 246
 00:16:28,922 --> 00:16:32,189
-  and its electrical contacts.  
+and its electrical contacts.  
 
 247
 00:16:32,191 --> 00:16:35,793
-        machinery inserts       
+machinery inserts       
 two copper wires into each tube.
 
 248
 00:16:35,795 --> 00:16:37,128
-    these are the lead wires    
+these are the lead wires    
 
 249
 00:16:37,130 --> 00:16:39,998
@@ -1183,182 +1022,160 @@ base of the bulb to the filament
 
 250
 00:16:40,000 --> 00:16:41,967
-           and deliver          
-      the electric current.     
+and deliver the electric current.     
 
 251
 00:16:45,606 --> 00:16:48,139
-     these long glass tubes     
-          will be used          
+these long glass tubes will be used          
 
 252
 00:16:48,141 --> 00:16:49,741
-           to suck air          
-     out of the light bulb,     
+to suck air out of the light bulb,     
 
 253
 00:16:49,743 --> 00:16:55,413
- preventing oxygen from reaching
- the filament and destroying it.
+preventing oxygen from reaching
+the filament and destroying it.
 
 254
 00:16:55,415 --> 00:16:57,415
-          they protrude         
-      from the glass mount,     
+they protrude from the glass mount,     
 
 255
 00:16:57,417 --> 00:16:59,016
-   but that's just temporary.   
+but that's just temporary.   
 
 256
 00:16:59,018 --> 00:17:01,319
- they will later be cut shorter.
+they will later be cut shorter.
 
 257
 00:17:03,823 --> 00:17:06,224
-        torches now melt        
-        the glass mount,        
+torches now melt the glass mount,        
 
 258
 00:17:06,226 --> 00:17:08,960
-           lead wires,          
-   and exhaust tube together.   
+lead wires, and exhaust tube together.   
 
 259
 00:17:12,498 --> 00:17:15,767
-  mechanized fingers then pinch 
-      the layers together,      
+mechanized fingers then pinch the layers together,      
 
 260
 00:17:15,769 --> 00:17:18,436
-          and the wires         
-    are now encased in glass    
+and the wires are now encased in glass    
 
 261
 00:17:18,438 --> 00:17:21,039
-          but protrude          
-      from the glass base.      
+but protrude from the glass base.      
 
 262
 00:17:25,912 --> 00:17:29,114
-        grippers transfer       
+grippers transfer       
 the closed mounts to a carousel.
 
 263
 00:17:29,116 --> 00:17:32,249
- it revolves to allow the mounts
-        to receive a coil       
+it revolves to allow the mounts
+to receive a coil       
 
 264
 00:17:32,251 --> 00:17:34,586
-     made of tungsten metal.    
+made of tungsten metal.    
 
 265
 00:17:34,588 --> 00:17:37,522
-    this coil is the filament   
-  of the reflector light bulb.  
+this coil is the filament of the reflector light bulb.  
 
 266
 00:17:41,194 --> 00:17:44,329
-       mechanized fingers       
-      attach the small coil     
+mechanized fingers attach the small coil     
 
 267
 00:17:44,331 --> 00:17:46,797
- to hooks on the two lead wires.
+to hooks on the two lead wires.
 
 268
 00:17:46,799 --> 00:17:50,201
- the coiled filament is wobbly, 
+the coiled filament is wobbly, 
 
 269
 00:17:50,203 --> 00:17:53,738
-  so next it gets some support. 
+so next it gets some support. 
 
 270
 00:17:53,740 --> 00:17:56,674
-     first, machinery bends     
-         the lead wires         
+first, machinery bends the lead wires         
 
 271
 00:17:56,676 --> 00:17:59,210
-  to move them and the filament 
-         out of the way.        
+to move them and the filament out of the way.        
 
 272
 00:17:59,212 --> 00:18:02,413
-  then, a robot presses the tip 
-    of the glass exhaust tube   
+then, a robot presses the tip of the glass exhaust tube   
 
 273
 00:18:02,415 --> 00:18:03,682
-         onto a burner.         
+onto a burner.         
 
 274
 00:18:03,684 --> 00:18:05,016
-         the tip melts,         
+the tip melts,         
 
 275
 00:18:05,018 --> 00:18:08,920
-  allowing a metal support wire 
-     to be embedded into it.    
+allowing a metal support wire to be embedded into it.    
 
 276
 00:18:14,427 --> 00:18:16,895
-          another robot         
-      bends the lead wires      
+another robot bends the lead wires      
 
 277
 00:18:16,897 --> 00:18:20,398
-    to position the filament    
-  adjacent to the support wire. 
+to position the filament adjacent to the support wire. 
 
 278
 00:18:22,569 --> 00:18:26,638
- the next station loops the wire
-      around the filament.      
+the next station loops the wire
+around the filament.      
 
 279
 00:18:26,640 --> 00:18:29,240
-     this gives the filament    
-     the necessary support,     
+this gives the filament the necessary support,     
 
 280
 00:18:29,242 --> 00:18:30,575
-     and it stops wobbling.     
+and it stops wobbling.     
 
 281
 00:18:34,514 --> 00:18:38,016
-   this 2-pronged device then   
- straightens out the lead wires.
+this 2-pronged device then straightens out the lead wires.
 
 282
 00:18:44,124 --> 00:18:47,392
-    the mount is now upright    
-  and riding another carousel.  
+the mount is now upright and riding another carousel.  
 
 283
 00:18:48,795 --> 00:18:52,329
-    flippers set it straight    
+flippers set it straight    
 so a metal disk can be installed
 
 284
 00:18:52,331 --> 00:18:54,699
-     on the pinched section     
-          of the mount.         
+on the pinched section of the mount.         
 
 285
 00:18:57,537 --> 00:18:59,604
-    this disk is reflective.    
+this disk is reflective.    
 
 286
 00:18:59,606 --> 00:19:01,138
-  it will bounce light downward 
+it will bounce light downward 
 
 287
 00:19:01,140 --> 00:19:03,541
-      to the shiny coating      
-     inside the light bulb,     
+to the shiny coating inside the light bulb,     
 
 288
 00:19:03,543 --> 00:19:07,012
@@ -1370,149 +1187,127 @@ with the disk wrapped around it,
 
 290
 00:19:09,883 --> 00:19:14,485
- the assembly is now positioned 
-     on the next turntable.     
+the assembly is now positioned on the next turntable.     
 
 291
 00:19:14,487 --> 00:19:18,289
- suction cups deposit the glass 
-    envelope on the assembly,   
+suction cups deposit the glass envelope on the assembly,   
 
 292
 00:19:18,291 --> 00:19:21,793
-     to encase the filament     
-   and reflective disk inside.  
+to encase the filament and reflective disk inside.  
 
 293
 00:19:28,968 --> 00:19:33,038
 the holder twirls the bulb as it
- travels past a row of torches. 
+travels past a row of torches. 
 
 294
 00:19:33,040 --> 00:19:36,373
-    the flames melt the neck    
-     of the glass envelope,     
+the flames melt the neck of the glass envelope,     
 
 295
 00:19:36,375 --> 00:19:39,444
-          and it closes         
-     around the glass mount.    
+and it closes around the glass mount.    
 
 296
 00:19:41,381 --> 00:19:45,249
-   this secures the filament,   
-  contacts, and reflective disk 
+this secures the filament, contacts, and reflective disk 
 
 297
 00:19:45,251 --> 00:19:47,285
-        inside the bulb.        
+inside the bulb.        
 
 298
 00:19:49,656 --> 00:19:53,190
- another set of torches, heated 
- to a much higher temperature,  
+another set of torches, heated to a much higher temperature,  
 
 299
 00:19:53,192 --> 00:19:55,393
-   trims the base of the bulb.  
+trims the base of the bulb.  
 
 300
 00:19:58,064 --> 00:20:01,199
-   molding devices now move in  
- to shape the bottom of the bulb
+molding devices now move in to shape the bottom of the bulb
 
 301
 00:20:01,201 --> 00:20:03,802
-         so a metal base        
-      can be fitted to it.      
+so a metal base can be fitted to it.      
 
 302
 00:20:06,406 --> 00:20:09,473
-       a gripper then puts      
-   that metal base on a track   
+a gripper then puts that metal base on a track   
 
 303
 00:20:09,475 --> 00:20:12,143
-         to meet up with        
-    the reflector light bulb.   
+to meet up with the reflector light bulb.   
 
 304
 00:20:12,145 --> 00:20:15,547
-        by now, the bulb        
-   has been flushed of oxygen   
+by now, the bulb has been flushed of oxygen   
 
 305
 00:20:15,549 --> 00:20:19,216
-    and filled with argon gas   
-     so it will last longer.    
+and filled with argon gas so it will last longer.    
 
 306
 00:20:19,218 --> 00:20:21,286
- the metal base finishes it off 
+the metal base finishes it off 
 
 307
 00:20:21,288 --> 00:20:25,090
-   and will allow the bulb to   
+and will allow the bulb to   
 be screwed into a light fixture.
 
 308
 00:20:25,092 --> 00:20:27,225
-          another flame         
-      heats the metal base      
+another flame heats the metal base      
 
 309
 00:20:27,227 --> 00:20:29,627
-        to cure adhesive        
-       that was preapplied      
+to cure adhesive that was preapplied      
 
 310
 00:20:29,629 --> 00:20:31,963
- for a strong bond to the bulb. 
+for a strong bond to the bulb. 
 
 311
 00:20:35,234 --> 00:20:38,035
-      then, robots cut off      
-         protruding wire        
+then, robots cut off protruding wire        
 
 312
 00:20:38,037 --> 00:20:40,638
- and form a contact on the base.
+and form a contact on the base.
 
 313
 00:20:44,443 --> 00:20:46,377
-  it has taken just 12 minutes  
+it has taken just 12 minutes  
 
 314
 00:20:46,379 --> 00:20:49,114
-           to assemble          
-   this reflector light bulb,   
+to assemble this reflector light bulb,   
 
 315
 00:20:49,116 --> 00:20:52,983
-       but it will provide      
-   about 2,000 hours of light.  
+but it will provide about 2,000 hours of light.  
 
 316
 00:20:52,985 --> 00:20:55,920
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 317
 00:20:55,922 --> 00:20:58,923
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 318
 00:21:02,395 --> 00:21:05,396
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 319
 00:21:05,398 --> 00:21:08,132
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 320
 00:21:08,134 --> 00:21:10,435
-      drop us a line at...      
+drop us a line at...      
 

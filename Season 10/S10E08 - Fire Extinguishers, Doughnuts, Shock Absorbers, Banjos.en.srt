@@ -1,228 +1,194 @@
 ﻿1
 00:00:21,956 --> 00:00:24,824
-           narrator:            
-  today on "how it's made"...   
+narrator: today on "how it's made"...   
 
 2
 00:00:24,826 --> 00:00:27,493
-     fire extinguishers...      
+fire extinguishers...      
 
 3
 00:00:31,099 --> 00:00:33,065
-        ...doughnuts...         
+...doughnuts...         
 
 4
 00:00:37,305 --> 00:00:39,071
-     ...shock absorbers...      
+...shock absorbers...      
 
 5
 00:00:43,378 --> 00:00:44,877
-        ...and banjos.          
+...and banjos.          
 
 6
 00:00:52,920 --> 00:00:55,387
-  the first fire extinguisher   
-           on record            
+the first fire extinguisher on record            
 
 7
 00:00:55,389 --> 00:00:57,856
-      was built in europe       
-      in the middle ages.       
+was built in europe in the middle ages.       
 
 8
 00:00:57,858 --> 00:01:02,595
- it worked like a giant syringe 
+it worked like a giant syringe 
 that squirted water at a fire.  
 
 9
 00:01:02,597 --> 00:01:06,131
-  the modern extinguisher uses  
+the modern extinguisher uses  
 compressed air as a propellant  
 
 10
 00:01:06,133 --> 00:01:09,534
-    and douses the fire with    
-     flame-retardant liquid,    
-            powder,             
+and douses the fire with flame-retardant liquid, powder,             
 
 11
 00:01:09,536 --> 00:01:10,770
-           or foam.             
+or foam.             
 
 12
 00:01:13,941 --> 00:01:16,475
-      squeezing the lever       
-         opens a valve          
+squeezing the lever opens a valve          
 
 13
 00:01:16,477 --> 00:01:17,944
- that releases compressed air.  
+that releases compressed air.  
 
 14
 00:01:17,946 --> 00:01:21,614
-   the pressure then propels    
- the chemical through the hose  
+the pressure then propels the chemical through the hose  
 
 15
 00:01:21,616 --> 00:01:22,882
-      and out the nozzle.       
+and out the nozzle.       
 
 16
 00:01:22,884 --> 00:01:24,617
-    production of the release   
-             valve              
+production of the release valve              
 
 17
 00:01:24,619 --> 00:01:28,287
- starts with cylindrical pieces 
-  of aluminum called blanks.    
+starts with cylindrical pieces of aluminum called blanks.    
 
 18
 00:01:28,289 --> 00:01:33,359
-    a carousel runs each one    
-             through            
-     16 different machining     
-           stations.            
+a carousel runs each one through 16 different machining stations.            
 
 19
 00:01:33,361 --> 00:01:36,428
-         at each stop,          
- under a shower of lubricant,   
+at each stop, under a shower of lubricant,   
 
 20
 00:01:36,430 --> 00:01:40,632
-     tools shape the blank      
-      for 6 1/2 seconds.        
+tools shape the blank for 6 1/2 seconds.        
 
 21
 00:01:40,634 --> 00:01:44,169
-         as each blank          
-    completes the circuit,      
+as each blank completes the circuit,      
 
 22
 00:01:44,171 --> 00:01:47,173
-  it comes off the carousel.    
+it comes off the carousel.    
 
 23
 00:01:47,175 --> 00:01:50,843
-      from blank to valve       
-  in a minute and a quarter.    
+from blank to valve in a minute and a quarter.    
 
 24
 00:01:53,981 --> 00:01:57,383
-  now the fire extinguisher's   
-        aluminum handle         
+now the fire extinguisher's aluminum handle         
 
 25
 00:01:57,385 --> 00:02:00,052
-  is riveted onto the valve.    
+is riveted onto the valve.    
 
 26
 00:02:02,457 --> 00:02:04,624
-      it pivots on a pin.       
+it pivots on a pin.       
 
 27
 00:02:07,194 --> 00:02:11,197
-    next, an aluminum lever     
-  is riveted onto the handle.   
+next, an aluminum lever is riveted onto the handle.   
 
 28
 00:02:11,199 --> 00:02:15,333
- this is the lever you squeeze  
- to use the fire extinguisher.  
+this is the lever you squeeze to use the fire extinguisher.  
 
 29
 00:02:15,335 --> 00:02:19,472
-  then comes the valve stem --  
-  the valve's inner workings.   
+then comes the valve stem -- the valve's inner workings.   
 
 30
 00:02:19,474 --> 00:02:22,274
-     workers simply place it    
-            inside,             
+workers simply place it inside,             
 
 31
 00:02:22,276 --> 00:02:26,045
-        and an automated        
-    assembly machine does the   
-             rest.              
+and an automated assembly machine does the rest.              
 
 32
 00:02:28,349 --> 00:02:30,682
-     it positions a spring      
-         over the stem          
+it positions a spring over the stem          
 
 33
 00:02:30,684 --> 00:02:33,619
-      to create resistance      
-  when you squeeze the lever.   
+to create resistance when you squeeze the lever.   
 
 34
 00:02:36,891 --> 00:02:38,490
-     then comes a retainer      
+then comes a retainer      
 
 35
 00:02:38,492 --> 00:02:41,494
-    to hold both the stem and   
-             spring             
-         in position.           
+to hold both the stem and spring in position.           
 
 36
 00:02:43,831 --> 00:02:46,032
-      now workers slip on       
-       a plastic thimble        
+now workers slip on a plastic thimble        
 
 37
 00:02:46,034 --> 00:02:49,368
-   to position the rubber "o"   
-              ring              
-      that goes on next.        
+to position the rubber "o" ring that goes on next.        
 
 38
 00:02:49,370 --> 00:02:52,772
-  the "o" ring acts as a seal   
+the "o" ring acts as a seal   
 between the valve and cylinder  
 
 39
 00:02:52,774 --> 00:02:54,373
-     so nothing leaks out.      
+so nothing leaks out.      
 
 40
 00:02:54,375 --> 00:02:58,444
- the siphon tube runs from the  
- valve down into the cylinder.  
+the siphon tube runs from the valve down into the cylinder.  
 
 41
 00:02:58,446 --> 00:03:01,313
-   the firefighting chemical    
-      goes up this tube,        
+the firefighting chemical goes up this tube,        
 
 42
 00:03:01,315 --> 00:03:02,581
-     then out the nozzle.       
+then out the nozzle.       
 
 43
 00:03:02,583 --> 00:03:05,050
-       the compressed air       
-      inside the cylinder       
+the compressed air inside the cylinder       
 
 44
 00:03:05,052 --> 00:03:06,786
- is what propels the chemical.  
+is what propels the chemical.  
 
 45
 00:03:06,788 --> 00:03:09,588
-        this gauge shows        
+this gauge shows        
 if there's sufficient pressure  
 
 46
 00:03:09,590 --> 00:03:10,789
-      for that to happen.       
+for that to happen.       
 
 47
 00:03:10,791 --> 00:03:13,058
-         after coating          
-   the gauge's threaded stem    
+after coating the gauge's threaded stem    
 
 48
 00:03:13,060 --> 00:03:14,994
@@ -230,84 +196,67 @@ with sealant to prevent leaks,
 
 49
 00:03:14,996 --> 00:03:17,263
-       a worker screws it       
-        onto the valve.         
+a worker screws it onto the valve.         
 
 50
 00:03:17,265 --> 00:03:20,399
-     the valve unit is now      
-   fully assembled, tested,     
+the valve unit is now fully assembled, tested,     
 
 51
 00:03:20,401 --> 00:03:23,736
-   and ready for installation   
-    on top of the cylinder.     
+and ready for installation on top of the cylinder.     
 
 52
 00:03:26,207 --> 00:03:29,942
-   to attach it, the cylinder   
-              needs             
-      a threaded collar.        
+to attach it, the cylinder needs a threaded collar.        
 
 53
 00:03:29,944 --> 00:03:33,512
-   with the help of a press,    
-    a worker positions it.      
+with the help of a press, a worker positions it.      
 
 54
 00:03:38,218 --> 00:03:41,086
-    the cylinder also needs     
-           a bottom.            
+the cylinder also needs a bottom.            
 
 55
 00:03:41,088 --> 00:03:44,824
-   the technique this factory   
-              uses              
- to fuse the bottom and collar  
+the technique this factory uses to fuse the bottom and collar  
 
 56
 00:03:44,826 --> 00:03:45,891
-      is called brazing.        
+is called brazing.        
 
 57
 00:03:45,893 --> 00:03:47,760
-   it's similar to soldering    
+it's similar to soldering    
 
 58
 00:03:47,762 --> 00:03:50,896
-     but with a copper ring     
-      as a bonding metal.       
+but with a copper ring as a bonding metal.       
 
 59
 00:03:50,898 --> 00:03:53,032
-   after positioning a brazing  
-              ring              
+after positioning a brazing ring              
 
 60
 00:03:53,034 --> 00:03:55,568
-          at the base           
-     of the open cylinder,      
+at the base of the open cylinder,      
 
 61
 00:03:55,570 --> 00:03:58,771
-         a steel bottom         
-    is pressed into place.      
+a steel bottom is pressed into place.      
 
 62
 00:03:58,773 --> 00:04:02,475
-     then workers position      
-     a brazing ring over the    
-            collar.             
+then workers position a brazing ring over the collar.             
 
 63
 00:04:04,979 --> 00:04:09,715
-   now into a brazing furnace   
-  for an hour and 45 minutes.   
+now into a brazing furnace for an hour and 45 minutes.   
 
 64
 00:04:09,717 --> 00:04:12,785
-     the 2,000-degree heat      
-  melts the two copper rings,   
+the 2,000-degree heat melts the two copper rings,   
 
 65
 00:04:12,787 --> 00:04:14,887
@@ -315,419 +264,348 @@ boding the parts they connect.
 
 66
 00:04:21,262 --> 00:04:23,529
-           next stop,           
-    the static-paint booth,     
+next stop, the static-paint booth,     
 
 67
 00:04:23,531 --> 00:04:26,465
-      where workers apply       
- a positive electrical charge   
+where workers apply a positive electrical charge   
 
 68
 00:04:26,467 --> 00:04:27,933
-    to the paint particles      
+to the paint particles      
 
 69
 00:04:27,935 --> 00:04:30,535
-     and a negative charge      
-       to the cylinders.        
+and a negative charge to the cylinders.        
 
 70
 00:04:30,537 --> 00:04:33,272
-      this draws the paint      
-   onto the surface evenly.     
+this draws the paint onto the surface evenly.     
 
 71
 00:04:33,274 --> 00:04:37,376
-   then it's into an oven for   
- 45 minutes to bake the paint.  
+then it's into an oven for 45 minutes to bake the paint.  
 
 72
 00:04:39,680 --> 00:04:43,148
-    once the cylinders cool,    
+once the cylinders cool,    
 automated machinery fills them  
 
 73
 00:04:43,150 --> 00:04:45,751
-   with a fire-extinguishing    
-            powder.             
+with a fire-extinguishing powder.             
 
 74
 00:04:45,753 --> 00:04:48,954
-      the main ingredient       
-     is a form of ammonia.      
+the main ingredient is a form of ammonia.      
 
 75
 00:04:48,956 --> 00:04:50,623
- when it's sprayed on a fire,   
+when it's sprayed on a fire,   
 
 76
 00:04:50,625 --> 00:04:53,158
-  the heat melts the particles  
-          of powder,            
+the heat melts the particles of powder,            
 
 77
 00:04:53,160 --> 00:04:55,493
-        fusing them into        
-  an oxygen-blocking blanket    
+fusing them into an oxygen-blocking blanket    
 
 78
 00:04:55,495 --> 00:04:57,496
-   that smothers the flames.    
+that smothers the flames.    
 
 79
 00:05:00,033 --> 00:05:03,502
-     after the cylinders are    
-             filled,            
-     an automated machine       
+after the cylinders are filled, an automated machine       
 
 80
 00:05:03,504 --> 00:05:06,105
-         screws a valve         
- onto the collar of each one.   
+screws a valve onto the collar of each one.   
 
 81
 00:05:09,710 --> 00:05:12,511
-  now it's time to pressurize   
-         the cylinder.          
+now it's time to pressurize the cylinder.          
 
 82
 00:05:12,513 --> 00:05:15,047
-     the lever is squeezed      
-      to open the valve,        
+the lever is squeezed to open the valve,        
 
 83
 00:05:15,049 --> 00:05:18,384
-     enabling a compressor      
+enabling a compressor      
 to fill the cylinder with air.  
 
 84
 00:05:18,386 --> 00:05:21,987
-  they keep filling until the   
- air pressure reaches 13 bars,  
+they keep filling until the air pressure reaches 13 bars,  
 
 85
 00:05:21,989 --> 00:05:24,723
-  about six times the pressure  
-        in a car tire.          
+about six times the pressure in a car tire.          
 
 86
 00:05:24,725 --> 00:05:26,992
-     next, workers screw on     
-          the nozzle            
+next, workers screw on the nozzle            
 
 87
 00:05:26,994 --> 00:05:28,593
-  and install a locking pin.    
+and install a locking pin.    
 
 88
 00:05:28,595 --> 00:05:30,396
-  this immobilizes the lever    
+this immobilizes the lever    
 
 89
 00:05:30,398 --> 00:05:33,566
-      so the extinguisher       
- can't discharge accidentally.  
+so the extinguisher can't discharge accidentally.  
 
 90
 00:05:33,568 --> 00:05:37,269
-   as the instruction sticker   
-              says,             
-       in case of fire,         
+as the instruction sticker says, in case of fire,         
 
 91
 00:05:37,271 --> 00:05:39,938
-  you just pull the pin, aim,   
-          and spray.            
+you just pull the pin, aim, and spray.            
 
 92
 00:05:39,940 --> 00:05:43,542
- this mounting bracket lets you 
-  hang the fire extinguisher    
+this mounting bracket lets you hang the fire extinguisher    
 
 93
 00:05:43,544 --> 00:05:47,246
- in an accessible spot so it's  
- close at hand if you need it.  
+in an accessible spot so it's close at hand if you need it.  
 
 94
 00:05:51,285 --> 00:05:55,888
- when we return, frying up one  
- of america's favorite treats.  
+when we return, frying up one of america's favorite treats.  
 
 95
 00:06:04,565 --> 00:06:06,699
-      narrator: doughnuts       
- used to be called oily cakes   
+narrator: doughnuts used to be called oily cakes   
 
 96
 00:06:06,701 --> 00:06:09,168
-  because they were deep fried  
-         in pork fat.           
+because they were deep fried in pork fat.           
 
 97
 00:06:09,170 --> 00:06:12,104
-   when dutch pilgrims first    
-   brought them to america,     
+when dutch pilgrims first brought them to america,     
 
 98
 00:06:12,106 --> 00:06:13,571
-    they were ball-shaped.      
+they were ball-shaped.      
 
 99
 00:06:13,573 --> 00:06:14,974
-    but then someone found      
+but then someone found      
 
 100
 00:06:14,976 --> 00:06:17,376
-  that removing a nut of dough  
-        from the center         
+that removing a nut of dough from the center         
 
 101
 00:06:17,378 --> 00:06:19,378
-        helped them cook        
-       far more evenly.         
+helped them cook far more evenly.         
 
 102
 00:06:19,380 --> 00:06:21,814
- and so the doughnut was born.  
+and so the doughnut was born.  
 
 103
 00:06:26,787 --> 00:06:30,389
-   in the world of doughnuts,   
- there are two basic types --   
+in the world of doughnuts, there are two basic types --   
 
 104
 00:06:30,391 --> 00:06:33,058
-        yeast doughnuts         
-      and cake doughnuts.       
+yeast doughnuts and cake doughnuts.       
 
 105
 00:06:36,197 --> 00:06:39,464
- the batter for cake doughnuts  
-     drops from the mixer       
+the batter for cake doughnuts drops from the mixer       
 
 106
 00:06:39,466 --> 00:06:41,333
-           right into           
-    boiling vegetable oil.      
+right into boiling vegetable oil.      
 
 107
 00:06:41,335 --> 00:06:44,603
-  the nozzles shape the dough   
-         as it passes.          
+the nozzles shape the dough as it passes.          
 
 108
 00:06:44,605 --> 00:06:47,806
-       the doughnuts fry        
+the doughnuts fry        
 for about a minute and a half.  
 
 109
 00:06:47,808 --> 00:06:50,042
-  then a conveyor carries them  
-    out of the vat to cool.     
+then a conveyor carries them out of the vat to cool.     
 
 110
 00:06:53,614 --> 00:06:56,748
-        yeast doughnuts         
-  require more time to make.    
+yeast doughnuts require more time to make.    
 
 111
 00:06:56,750 --> 00:06:59,485
-       a high-speed mixer       
-    works the yeast dough,      
+a high-speed mixer works the yeast dough,      
 
 112
 00:06:59,487 --> 00:07:02,721
-    then workers pull it off    
-    the machine into bins.      
+then workers pull it off the machine into bins.      
 
 113
 00:07:09,063 --> 00:07:11,764
-          from there,           
-     it goes into a hopper      
+from there, it goes into a hopper      
 
 114
 00:07:11,766 --> 00:07:14,500
-    that extrudes the dough     
-          as a sheet.           
+that extrudes the dough as a sheet.           
 
 115
 00:07:17,571 --> 00:07:19,705
-          then it's on          
-   to another conveyor belt     
+then it's on to another conveyor belt     
 
 116
 00:07:19,707 --> 00:07:22,374
-   where a series of rollers    
-    flatten the dough sheet     
+where a series of rollers flatten the dough sheet     
 
 117
 00:07:22,376 --> 00:07:24,276
- to just 3/4 of an inch thick.  
+to just 3/4 of an inch thick.  
 
 118
 00:07:37,258 --> 00:07:42,528
-    the sheet passes under a    
-             shower             
-        of cinnamon...          
+the sheet passes under a shower of cinnamon...          
 
 119
 00:07:42,530 --> 00:07:47,199
- then hits a rotating cylinder  
-   that rolls it into a log.    
+then hits a rotating cylinder that rolls it into a log.    
 
 120
 00:07:47,201 --> 00:07:51,870
-  a small metal rod sprinkles   
-     the dough with water.      
+a small metal rod sprinkles the dough with water.      
 
 121
 00:07:51,872 --> 00:07:54,073
-  this keeps it sticky enough   
-       to hold its shape        
+this keeps it sticky enough to hold its shape        
 
 122
 00:07:54,075 --> 00:07:57,142
-       while going under        
-  another flattening roller.    
+while going under another flattening roller.    
 
 123
 00:08:02,883 --> 00:08:06,218
-    a dusting of cornstarch     
- keeps the dough from sticking  
+a dusting of cornstarch keeps the dough from sticking  
 
 124
 00:08:06,220 --> 00:08:09,188
- to the blade that now cuts it  
-         into pieces.           
+to the blade that now cuts it into pieces.           
 
 125
 00:08:14,161 --> 00:08:18,763
-  a retractable arm drops the   
+a retractable arm drops the   
 blocks of dough four at a time  
 
 126
 00:08:18,765 --> 00:08:20,666
-     onto wire-mesh trays.      
+onto wire-mesh trays.      
 
 127
 00:08:22,370 --> 00:08:25,504
- then it's off to the proofer,  
+then it's off to the proofer,  
 
 128
 00:08:25,506 --> 00:08:27,839
-      a machine much like       
-       a large bread box        
+a machine much like a large bread box        
 
 129
 00:08:27,841 --> 00:08:30,909
-   in which heat and humidity   
-  help the yeast dough rise.    
+in which heat and humidity help the yeast dough rise.    
 
 130
 00:08:30,911 --> 00:08:34,179
-     this leavening process     
-    takes about 20 minutes,     
+this leavening process takes about 20 minutes,     
 
 131
 00:08:34,181 --> 00:08:37,582
- during which time the trays -- 
-      over 300 of them --       
+during which time the trays -- over 300 of them --       
 
 132
 00:08:37,584 --> 00:08:40,953
-         go up and down         
-  and then out to the fryer.    
+go up and down and then out to the fryer.    
 
 133
 00:08:43,323 --> 00:08:46,791
-   a gate slows the doughnuts   
-              down              
-     just before the drop       
+a gate slows the doughnuts down just before the drop       
 
 134
 00:08:46,793 --> 00:08:50,128
-        so they slide in        
-  without splashing hot oil.    
+so they slide in without splashing hot oil.    
 
 135
 00:08:50,130 --> 00:08:53,599
-    gas burners keep the oil    
-      at a constant boil.       
+gas burners keep the oil at a constant boil.       
 
 136
 00:08:53,601 --> 00:08:57,136
-      anything less and the     
-            doughnuts           
-  would come out partly raw.    
+anything less and the doughnuts would come out partly raw.    
 
 137
 00:08:57,138 --> 00:08:59,805
-   halfway through, they get a  
-              flip              
+halfway through, they get a flip              
 
 138
 00:08:59,807 --> 00:09:02,141
-     so they'll cook evenly     
-          throughout.           
+so they'll cook evenly throughout.           
 
 139
 00:09:05,412 --> 00:09:08,013
-       after two minutes,       
- the doughnuts leave the fryer  
+after two minutes, the doughnuts leave the fryer  
 
 140
 00:09:08,015 --> 00:09:10,349
-   and move through a curtain   
-        of sweet glaze.         
+and move through a curtain of sweet glaze.         
 
 141
 00:09:14,088 --> 00:09:17,289
-      a strong air current      
-     blows off the excess.      
+a strong air current blows off the excess.      
 
 142
 00:09:17,291 --> 00:09:20,492
-      and these fry cakes       
-       are ready to eat.        
+and these fry cakes are ready to eat.        
 
 143
 00:09:20,494 --> 00:09:21,760
-      they gradually cool       
+they gradually cool       
 
 144
 00:09:21,762 --> 00:09:24,296
-     as they spiral through     
-      the production area       
+as they spiral through the production area       
 
 145
 00:09:24,298 --> 00:09:25,964
-  on their way to packaging.    
+on their way to packaging.    
 
 146
 00:09:29,503 --> 00:09:33,972
-  now let's see how they make   
-    doughnuts with filling.     
+now let's see how they make doughnuts with filling.     
 
 147
 00:09:33,974 --> 00:09:38,443
-    a machine separates the     
+a machine separates the     
 yeast dough into little blobs,  
 
 148
 00:09:38,445 --> 00:09:41,313
-    then sends them rolling     
-     down plastic tunnels.      
+then sends them rolling down plastic tunnels.      
 
 149
 00:09:43,783 --> 00:09:46,318
-     this shapes them first     
-          into pucks,           
+this shapes them first into pucks,           
 
 150
 00:09:46,320 --> 00:09:48,187
- then into round dough balls.   
+then into round dough balls.   
 
 151
 00:09:55,462 --> 00:09:57,529
@@ -735,245 +613,197 @@ rollers then flatten the balls
 
 152
 00:09:57,531 --> 00:09:59,865
- before they enter the proofer  
-           to rise.             
+before they enter the proofer to rise.             
 
 153
 00:09:59,867 --> 00:10:03,335
-  there's cornstarch everywhere 
-               to               
-     prevent the dough from     
-            sticking            
+there's cornstarch everywhere to prevent the dough from sticking            
 
 154
 00:10:03,337 --> 00:10:05,737
-        to the machinery        
-   or to the conveyor belt.     
+to the machinery or to the conveyor belt.     
 
 155
 00:10:05,739 --> 00:10:11,209
-   row after row of doughnuts   
-       fry in hot oil...        
+row after row of doughnuts fry in hot oil...        
 
 156
 00:10:11,211 --> 00:10:14,345
-  then slide into a large drum  
-   that tumbles them around,    
+then slide into a large drum that tumbles them around,    
 
 157
 00:10:14,347 --> 00:10:16,348
-         covering them          
-    with a sugary coating.      
+covering them with a sugary coating.      
 
 158
 00:10:21,422 --> 00:10:24,756
-      now it's time for the     
-            doughnuts           
-        to get filled.          
+now it's time for the doughnuts to get filled.          
 
 159
 00:10:24,758 --> 00:10:28,293
-      these nozzles inject      
-    just the right amount of    
-             jelly.             
+these nozzles inject just the right amount of jelly.             
 
 160
 00:10:28,295 --> 00:10:30,929
-          each worker           
- fills 45 doughnuts a minute.   
+each worker fills 45 doughnuts a minute.   
 
 161
 00:10:41,909 --> 00:10:45,176
-      after filling, these      
-           doughnuts,           
-      known as bismarcks,       
+after filling, these doughnuts, known as bismarcks,       
 
 162
 00:10:45,178 --> 00:10:47,112
-      are ready to go on to     
-           packaging.           
+are ready to go on to packaging.           
 
 163
 00:10:47,114 --> 00:10:49,781
-  they're just one of the many  
-      delicious varieties       
+they're just one of the many delicious varieties       
 
 164
 00:10:49,783 --> 00:10:52,918
-  that this factory turns out   
-       on a daily basis.        
+that this factory turns out on a daily basis.        
 
 165
 00:11:02,463 --> 00:11:04,662
-   next, the shocking truth     
+next, the shocking truth     
 
 166
 00:11:04,664 --> 00:11:07,099
-    behind one of your car's    
-     most critical parts.       
+behind one of your car's most critical parts.       
 
 167
 00:11:15,809 --> 00:11:17,943
-  narrator: shock absorbers do  
-   more than just smooth your   
-             ride.              
+narrator: shock absorbers do more than just smooth your ride.              
 
 168
 00:11:17,945 --> 00:11:20,212
-   they counteract the bounce   
-     when you hit a bump,       
+they counteract the bounce when you hit a bump,       
 
 169
 00:11:20,214 --> 00:11:22,413
-    holding your tires to the   
-             road.              
+holding your tires to the road.              
 
 170
 00:11:22,415 --> 00:11:25,083
-     without that traction,     
-    you could lose control.     
+without that traction, you could lose control.     
 
 171
 00:11:25,085 --> 00:11:29,154
-   so by affecting steering,    
-   stopping, and stability,     
+so by affecting steering, stopping, and stability,     
 
 172
 00:11:29,156 --> 00:11:32,291
-      shocks are actually       
-   a vital safety component.    
+shocks are actually a vital safety component.    
 
 173
 00:11:36,563 --> 00:11:40,632
-    wheel vibrations cause a    
-             piston             
-   inside the shock absorber    
+wheel vibrations cause a piston inside the shock absorber    
 
 174
 00:11:40,634 --> 00:11:42,834
- to force oil through a valve.  
+to force oil through a valve.  
 
 175
 00:11:42,836 --> 00:11:46,305
-      this absorbs energy,      
+this absorbs energy,      
 reducing the vehicle's bounce.  
 
 176
 00:11:46,307 --> 00:11:49,374
-    all this happens within     
-   the shock's two tubes --     
+all this happens within the shock's two tubes --     
 
 177
 00:11:49,376 --> 00:11:52,578
-  the reserve tube and, inside  
-               it,              
-      the pressure tube,        
+the reserve tube and, inside it, the pressure tube,        
 
 178
 00:11:52,580 --> 00:11:55,580
-     housing the piston rod     
-    and compression valve.      
+housing the piston rod and compression valve.      
 
 179
 00:11:55,582 --> 00:11:58,116
-      both of these tubes       
+both of these tubes       
 
 180
 00:11:58,118 --> 00:12:01,253
-  are made from a steel sheet   
-      sliced into strips.       
+are made from a steel sheet sliced into strips.       
 
 181
 00:12:02,722 --> 00:12:04,790
-    inside this tube mill,      
+inside this tube mill,      
 
 182
 00:12:04,792 --> 00:12:07,525
-  coolant prevents the passing  
-    strip from overheating      
+coolant prevents the passing strip from overheating      
 
 183
 00:12:07,527 --> 00:12:09,594
-     as one forming roller      
-         after another          
+as one forming roller after another          
 
 184
 00:12:09,596 --> 00:12:11,964
-   gradually rounds it into a   
-             tube.              
+gradually rounds it into a tube.              
 
 185
 00:12:13,933 --> 00:12:18,270
-  then, a copper welding wheel  
-    fuses the tube closed.      
+then, a copper welding wheel fuses the tube closed.      
 
 186
 00:12:18,272 --> 00:12:21,606
-    as the 6-yard-long tube     
-      comes off the mill,       
+as the 6-yard-long tube comes off the mill,       
 
 187
 00:12:21,608 --> 00:12:24,476
-    a cutting tool chops it     
- into shock-absorber lengths.   
+a cutting tool chops it into shock-absorber lengths.   
 
 188
 00:12:26,747 --> 00:12:28,947
-    the tube-making process     
-          is the same           
+the tube-making process is the same           
 
 189
 00:12:28,949 --> 00:12:31,083
-        for the reserve         
-      and pressure tubes,       
+for the reserve and pressure tubes,       
 
 190
 00:12:31,085 --> 00:12:34,219
- except that the reserve tubes  
-   undergo one extra step --    
+except that the reserve tubes undergo one extra step --    
 
 191
 00:12:34,221 --> 00:12:36,355
-     compressing the ends.      
+compressing the ends.      
 
 192
 00:12:36,357 --> 00:12:39,624
-     this enables the shock     
+this enables the shock     
 to house a larger reserve tube  
 
 193
 00:12:39,626 --> 00:12:41,760
-    that can hold more oil.     
+that can hold more oil.     
 
 194
 00:12:41,762 --> 00:12:44,829
- the reserve tube's final stop  
-          is a press.           
+the reserve tube's final stop is a press.           
 
 195
 00:12:44,831 --> 00:12:47,632
-          a die inside          
-    stamps the part number,     
+a die inside stamps the part number,     
 
 196
 00:12:47,634 --> 00:12:50,435
-    the manufacturing date,     
-      and the brand name.       
+the manufacturing date, and the brand name.       
 
 197
 00:12:50,437 --> 00:12:53,238
-    many components are made    
-     of powdered metal --       
+many components are made of powdered metal --       
 
 198
 00:12:53,240 --> 00:12:57,375
- mostly iron powder mixed with  
-   some graphite and copper.    
+mostly iron powder mixed with some graphite and copper.    
 
 199
 00:12:57,377 --> 00:12:59,978
-     after a press compacts     
-     the powder in a die,       
+after a press compacts the powder in a die,       
 
 200
 00:12:59,980 --> 00:13:01,913
@@ -981,311 +811,257 @@ a furnace fuses the particles.
 
 201
 00:13:01,915 --> 00:13:04,316
-    this powdered-metal part    
-         is the valve           
+this powdered-metal part is the valve           
 
 202
 00:13:04,318 --> 00:13:06,785
-    through which the piston    
-        forces the oil.         
+through which the piston forces the oil.         
 
 203
 00:13:06,787 --> 00:13:10,055
-    steel discs and a spring    
-    help control the speed      
+steel discs and a spring help control the speed      
 
 204
 00:13:10,057 --> 00:13:13,792
- with which the valve operates  
-       for varying driving      
-          conditions.           
+with which the valve operates for varying driving conditions.           
 
 205
 00:13:13,794 --> 00:13:16,261
-        a stamping tool         
-  crimps the end of the tube,   
+a stamping tool crimps the end of the tube,   
 
 206
 00:13:16,263 --> 00:13:18,063
-      holding the spring in     
-           position.            
+holding the spring in position.            
 
 207
 00:13:20,668 --> 00:13:22,868
-      the valve, now fully      
-           assembled,           
+the valve, now fully assembled,           
 
 208
 00:13:22,870 --> 00:13:25,470
-        seals the bottom        
-     of the pressure tube.      
+seals the bottom of the pressure tube.      
 
 209
 00:13:27,408 --> 00:13:30,475
-   meanwhile, a press punches   
-       round steel discs        
+meanwhile, a press punches round steel discs        
 
 210
 00:13:30,477 --> 00:13:32,077
-    into other components.      
+into other components.      
 
 211
 00:13:35,415 --> 00:13:38,883
-     these loops mount the      
+these loops mount the      
 shock absorber to the vehicle.  
 
 212
 00:13:38,885 --> 00:13:41,686
-    a worker positions a cup    
-         on each one,           
+a worker positions a cup on each one,           
 
 213
 00:13:41,688 --> 00:13:43,822
-          then a robot          
-     welds them together.       
+then a robot welds them together.       
 
 214
 00:13:51,098 --> 00:13:54,832
-   they insert a cup-and-mount  
-              unit              
-    on one end of the reserve   
-             tube,              
+they insert a cup-and-mount unit on one end of the reserve tube,              
 
 215
 00:13:54,834 --> 00:13:57,435
-       then weld it on.         
+then weld it on.         
 
 216
 00:13:57,437 --> 00:14:00,072
-      this unit is called       
-      the base assembly.        
+this unit is called the base assembly.        
 
 217
 00:14:07,714 --> 00:14:11,049
-      the base assemblies       
-     now go on a conveyor,      
+the base assemblies now go on a conveyor,      
 
 218
 00:14:11,051 --> 00:14:13,051
-  open end up so that workers   
+open end up so that workers   
 
 219
 00:14:13,053 --> 00:14:15,654
-    can drop a pressure tube    
-       inside each one.         
+can drop a pressure tube inside each one.         
 
 220
 00:14:18,592 --> 00:14:21,726
-  automated injectors now fill  
-      the tubes with oil        
+automated injectors now fill the tubes with oil        
 
 221
 00:14:21,728 --> 00:14:24,796
-   that's specially designed    
-  to maintain its consistency   
+that's specially designed to maintain its consistency   
 
 222
 00:14:24,798 --> 00:14:27,065
-       despite changes in       
-          temperature.          
+despite changes in temperature.          
 
 223
 00:14:29,937 --> 00:14:32,069
- next comes the head assembly,  
+next comes the head assembly,  
 
 224
 00:14:32,071 --> 00:14:34,606
-         which includes         
-     the steel piston rod       
+which includes the steel piston rod       
 
 225
 00:14:34,608 --> 00:14:38,143
- and the mount on the other end 
-    of the shock absorber.      
+and the mount on the other end of the shock absorber.      
 
 226
 00:14:38,145 --> 00:14:41,546
-   two copper welding wheels    
-    fuse the head assembly      
+two copper welding wheels fuse the head assembly      
 
 227
 00:14:41,548 --> 00:14:43,882
-   to the base assembly with a  
-              cap.              
+to the base assembly with a cap.              
 
 228
 00:14:43,884 --> 00:14:47,219
-     this closes the unit,      
-    sealing the oil inside.     
+this closes the unit, sealing the oil inside.     
 
 229
 00:14:48,489 --> 00:14:51,289
-     next, workers weld on      
-       a dirt shield --         
+next, workers weld on a dirt shield --         
 
 230
 00:14:51,291 --> 00:14:53,691
-         a steel casing         
-      that prevents dirt        
+a steel casing that prevents dirt        
 
 231
 00:14:53,693 --> 00:14:56,361
-  from hindering the movement   
-      of the piston rod.        
+from hindering the movement of the piston rod.        
 
 232
 00:15:02,502 --> 00:15:06,571
-    a piece called a bushing    
-  is pressed into each mount.   
+a piece called a bushing is pressed into each mount.   
 
 233
 00:15:06,573 --> 00:15:08,373
-      this helps tone down      
-        the vibrations          
+this helps tone down the vibrations          
 
 234
 00:15:08,375 --> 00:15:09,908
-   coming from the vehicle.     
+coming from the vehicle.     
 
 235
 00:15:12,378 --> 00:15:15,380
-          now it's on           
-   to an automated carousel.    
+now it's on to an automated carousel.    
 
 236
 00:15:15,382 --> 00:15:19,784
-  robots pierce a hole in each  
- shock and inject nitrogen gas  
+robots pierce a hole in each shock and inject nitrogen gas  
 
 237
 00:15:19,786 --> 00:15:22,087
-   to prevent the oil inside    
-         from foaming.          
+to prevent the oil inside from foaming.          
 
 238
 00:15:24,258 --> 00:15:27,058
-        after injection,        
-   the robot seals the hole     
+after injection, the robot seals the hole     
 
 239
 00:15:27,060 --> 00:15:28,660
-   by welding on a tiny steel   
-             ball.              
+by welding on a tiny steel ball.              
 
 240
 00:15:30,597 --> 00:15:33,532
-            and now             
-  for the finishing touch --    
+and now for the finishing touch --    
 
 241
 00:15:33,534 --> 00:15:35,534
-  an electrostatic paint job.   
+an electrostatic paint job.   
 
 242
 00:15:35,536 --> 00:15:38,069
-         a machine runs         
- a positive electrical current  
+a machine runs a positive electrical current  
 
 243
 00:15:38,071 --> 00:15:39,604
-      through the shocks        
+through the shocks        
 
 244
 00:15:39,606 --> 00:15:41,673
-       and a negative one       
- through the paint particles.   
+and a negative one through the paint particles.   
 
 245
 00:15:41,675 --> 00:15:44,476
-         like a magnet,         
-    the static electricity      
+like a magnet, the static electricity      
 
 246
 00:15:44,478 --> 00:15:49,014
-    draws the paint onto the    
-             shocks             
-      in a flawless coat.       
+draws the paint onto the shocks in a flawless coat.       
 
 247
 00:15:49,016 --> 00:15:51,482
-        in the factory's        
-     quality-control lab,       
+in the factory's quality-control lab,       
 
 248
 00:15:51,484 --> 00:15:53,885
-        technicians use         
-    sophisticated equipment     
+technicians use sophisticated equipment     
 
 249
 00:15:53,887 --> 00:15:56,822
-  to evaluate how well a shock  
-       dampens movement         
+to evaluate how well a shock dampens movement         
 
 250
 00:15:56,824 --> 00:15:59,090
-     at different speeds.       
+at different speeds.       
 
 251
 00:15:59,092 --> 00:16:03,628
-       the tube-and-valve       
-          configuration         
-   inside varies by vehicle,    
+the tube-and-valve configuration inside varies by vehicle,    
 
 252
 00:16:03,630 --> 00:16:06,164
-         so the shocks          
+so the shocks          
 on a ground-hugging sports car  
 
 253
 00:16:06,166 --> 00:16:08,834
-      are quite different       
- from those on a luxury sedan   
+are quite different from those on a luxury sedan   
 
 254
 00:16:08,836 --> 00:16:10,769
-     or on a light truck.       
+or on a light truck.       
 
 255
 00:16:13,440 --> 00:16:15,707
- coming up, a production line   
+coming up, a production line   
 
 256
 00:16:15,709 --> 00:16:18,143
-    that comes with strings     
-           attached.            
+that comes with strings attached.            
 
 257
 00:16:25,719 --> 00:16:27,118
-           narrator:            
-    the twang of the banjo      
+narrator: the twang of the banjo      
 
 258
 00:16:27,120 --> 00:16:30,322
-     resonates in american      
- country music and bluegrass,   
+resonates in american country music and bluegrass,   
 
 259
 00:16:30,324 --> 00:16:32,257
-   but this down-home sound     
+but this down-home sound     
 
 260
 00:16:32,259 --> 00:16:34,459
-     actually has its roots     
-          in africa.            
+actually has its roots in africa.            
 
 261
 00:16:34,461 --> 00:16:37,061
-   slaves brought to america    
-       wanted something         
+slaves brought to america wanted something         
 
 262
 00:16:37,063 --> 00:16:39,931
-       that sounded like        
-  the instruments from home,    
+that sounded like the instruments from home,    
 
 263
 00:16:39,933 --> 00:16:41,866
-  so they devised the banjo.    
+so they devised the banjo.    
 
 264
 00:16:41,868 --> 00:16:44,603
@@ -1293,17 +1069,15 @@ and the rest is music history.
 
 265
 00:16:44,605 --> 00:16:47,072
-   [ "yankee doodle" plays ]    
+[ "yankee doodle" plays ]    
 
 266
 00:16:54,881 --> 00:16:58,083
-        to make a banjo,        
-   a lip is carved into wood    
+to make a banjo, a lip is carved into wood    
 
 267
 00:16:58,085 --> 00:17:01,953
-      that's been steamed       
- and bent into a circular rim.  
+that's been steamed and bent into a circular rim.  
 
 268
 00:17:01,955 --> 00:17:04,556
@@ -1311,299 +1085,253 @@ the rim is carefully measured.
 
 269
 00:17:04,558 --> 00:17:08,059
-    it must be a perfect fit    
-   for this metal tone ring.    
+it must be a perfect fit for this metal tone ring.    
 
 270
 00:17:12,632 --> 00:17:16,234
-  the wooden back of the banjo  
-  acts as a sound resonator,    
+the wooden back of the banjo acts as a sound resonator,    
 
 271
 00:17:16,236 --> 00:17:19,704
- and some plastic trim gives it 
-     a more stylish look.       
+and some plastic trim gives it a more stylish look.       
 
 272
 00:17:26,580 --> 00:17:29,514
-     a chemical accelerator     
-      helps the glue dry        
+a chemical accelerator helps the glue dry        
 
 273
 00:17:29,516 --> 00:17:32,784
-  so the plastic trim adheres   
-       almost instantly.        
+so the plastic trim adheres almost instantly.        
 
 274
 00:17:38,392 --> 00:17:40,124
-  the surface is then sanded    
+the surface is then sanded    
 
 275
 00:17:40,126 --> 00:17:42,928
-   until the plastic is flush   
-         to the wood.           
+until the plastic is flush to the wood.           
 
 276
 00:17:45,732 --> 00:17:49,034
-    this long piece of wood     
- will become the banjo's neck.  
+this long piece of wood will become the banjo's neck.  
 
 277
 00:17:52,606 --> 00:17:56,808
- using a table saw, an artisan  
+using a table saw, an artisan  
 cuts a long slot into the neck  
 
 278
 00:17:56,810 --> 00:18:00,912
- so that a metal adjusting rod  
-    can be installed later.     
+so that a metal adjusting rod can be installed later.     
 
 279
 00:18:04,550 --> 00:18:07,819
- he widens the end of the neck  
-    with two pieces of wood     
+he widens the end of the neck with two pieces of wood     
 
 280
 00:18:07,821 --> 00:18:09,955
-    to form the instrument's    
-           peg head.            
+to form the instrument's peg head.            
 
 281
 00:18:12,058 --> 00:18:15,626
-           next comes           
-   some very delicate work,     
+next comes some very delicate work,     
 
 282
 00:18:15,628 --> 00:18:17,962
-    as tiny mother-of-pearl     
-          decorations           
+as tiny mother-of-pearl decorations           
 
 283
 00:18:17,964 --> 00:18:20,665
-          are embedded          
-     in a piece of ebony.       
+are embedded in a piece of ebony.       
 
 284
 00:18:23,102 --> 00:18:24,970
-  that inlaid piece of ebony    
+that inlaid piece of ebony    
 
 285
 00:18:24,972 --> 00:18:29,140
- is then glued onto the banjo's 
- peg head and clamped to dry.   
+is then glued onto the banjo's peg head and clamped to dry.   
 
 286
 00:18:33,180 --> 00:18:37,515
-     now it's over to a saw     
-        with 22 blades.         
+now it's over to a saw with 22 blades.         
 
 287
 00:18:37,517 --> 00:18:40,685
-     a long piece of ebony      
-  is passed over those blades   
+a long piece of ebony is passed over those blades   
 
 288
 00:18:40,687 --> 00:18:42,320
-    to make the banjo's fret    
-             slots.             
+to make the banjo's fret slots.             
 
 289
 00:18:42,322 --> 00:18:44,922
-       this is the banjo's      
-          fingerboard.          
+this is the banjo's fingerboard.          
 
 290
 00:18:44,924 --> 00:18:48,593
-     once it's been adorned     
- with more inlaid decorations,  
+once it's been adorned with more inlaid decorations,  
 
 291
 00:18:48,595 --> 00:18:51,730
-    the fingerboard is glued    
-     onto the banjo neck.       
+the fingerboard is glued onto the banjo neck.       
 
 292
 00:18:51,732 --> 00:18:54,733
-        next, the edges         
+next, the edges         
 of the banjo neck and peg head  
 
 293
 00:18:54,735 --> 00:18:57,168
-   are trimmed down to size.    
+are trimmed down to size.    
 
 294
 00:19:01,608 --> 00:19:04,341
-       using this router,       
-    artisans give the back      
+using this router, artisans give the back      
 
 295
 00:19:04,343 --> 00:19:07,412
-  and sides of the banjo neck   
-      smoother contours.        
+and sides of the banjo neck smoother contours.        
 
 296
 00:19:10,350 --> 00:19:14,085
-  the rounded edges will make   
- the instrument easier to hold  
+the rounded edges will make the instrument easier to hold  
 
 297
 00:19:14,087 --> 00:19:15,453
-           and play.            
+and play.            
 
 298
 00:19:17,524 --> 00:19:20,425
-    they finalize the shape     
-   of the neck with a rasp,     
+they finalize the shape of the neck with a rasp,     
 
 299
 00:19:20,427 --> 00:19:22,293
-     then give it a thorough    
-            sanding.            
+then give it a thorough sanding.            
 
 300
 00:19:27,300 --> 00:19:30,034
- here, metal frets are tapped   
+here, metal frets are tapped   
 
 301
 00:19:30,036 --> 00:19:32,303
-         into the slots         
-      on the fingerboard,       
+into the slots on the fingerboard,       
 
 302
 00:19:32,305 --> 00:19:33,605
-  and the overlap is trimmed.   
+and the overlap is trimmed.   
 
 303
 00:19:36,642 --> 00:19:39,310
-         now it's time          
-      for a little color.       
+now it's time for a little color.       
 
 304
 00:19:39,312 --> 00:19:42,280
-        stain is rubbed         
-     onto the banjo parts.      
+stain is rubbed onto the banjo parts.      
 
 305
 00:19:45,451 --> 00:19:47,185
-     when the stain dries,      
+when the stain dries,      
 
 306
 00:19:47,187 --> 00:19:51,523
-   it's followed by 12 coats    
-         of lacquer...          
+it's followed by 12 coats of lacquer...          
 
 307
 00:19:51,525 --> 00:19:54,459
-     and finally, a thorough    
-            buffing.            
+and finally, a thorough buffing.            
 
 308
 00:19:59,332 --> 00:20:01,799
-       now all the pieces       
-        come together,          
+now all the pieces come together,          
 
 309
 00:20:01,801 --> 00:20:05,403
- beginning with the pre-fitted  
-   tone ring and wooden rim.    
+beginning with the pre-fitted tone ring and wooden rim.    
 
 310
 00:20:05,405 --> 00:20:09,273
- the plastic head through which 
+the plastic head through which 
 the banjo's sound will radiate  
 
 311
 00:20:09,275 --> 00:20:11,476
-    fits on the tone ring.      
+fits on the tone ring.      
 
 312
 00:20:11,478 --> 00:20:14,212
-      the head is secured       
-      with a tension hoop       
+the head is secured with a tension hoop       
 
 313
 00:20:14,214 --> 00:20:15,613
-    and a series of hooks.      
+and a series of hooks.      
 
 314
 00:20:17,483 --> 00:20:20,819
-     tightening these hooks     
- will stretch the plastic head  
+tightening these hooks will stretch the plastic head  
 
 315
 00:20:20,821 --> 00:20:22,887
-   to adjust the instrument's   
-             tone.              
+to adjust the instrument's tone.              
 
 316
 00:20:26,692 --> 00:20:29,360
-   the banjo neck and its peg   
-              head              
-         are attached           
+the banjo neck and its peg head are attached           
 
 317
 00:20:29,362 --> 00:20:31,563
- and secured with metal rods.   
+and secured with metal rods.   
 
 318
 00:20:34,834 --> 00:20:38,236
-  the tuning pegs are screwed   
-      into the peg head.        
+the tuning pegs are screwed into the peg head.        
 
 319
 00:20:38,238 --> 00:20:42,240
-    then the banjo's strings    
-  are attached and tightened.   
+then the banjo's strings are attached and tightened.   
 
 320
 00:20:49,983 --> 00:20:52,784
-   this little wooden bridge    
-   sits on the plastic head     
+this little wooden bridge sits on the plastic head     
 
 321
 00:20:52,786 --> 00:20:55,954
-   and is only held in place    
+and is only held in place    
 by the tension of the strings.  
 
 322
 00:20:59,059 --> 00:21:04,395
- finally, the back of the banjo 
-       goes into place.         
+finally, the back of the banjo goes into place.         
 
 323
 00:21:04,397 --> 00:21:06,998
-  and now this finely crafted   
-          instrument            
+and now this finely crafted instrument            
 
 324
 00:21:07,000 --> 00:21:08,800
-    is ready to strum away.     
+is ready to strum away.     
 
 325
 00:21:08,802 --> 00:21:11,469
-   [ "yankee doodle" plays ]    
+[ "yankee doodle" plays ]    
 
 326
 00:21:11,471 --> 00:21:14,405
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 327
 00:21:14,407 --> 00:21:17,408
-      captions paid for by      
- discovery communications, llc  
+captions paid for by discovery communications, llc  
 
 328
 00:21:23,216 --> 00:21:25,750
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 329
 00:21:25,752 --> 00:21:28,419
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 330
 00:21:28,421 --> 00:21:30,221
-     drop us a line at...       
+drop us a line at...       
 

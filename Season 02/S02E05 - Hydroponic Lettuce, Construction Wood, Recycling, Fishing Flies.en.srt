@@ -1,246 +1,215 @@
 ﻿1
 00:00:02,269 --> 00:00:05,204
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 2
 00:00:05,206 --> 00:00:08,240
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 3
 00:00:23,691 --> 00:00:27,492
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 4
 00:00:27,494 --> 00:00:29,428
-       hydroponic lettuce,      
+hydroponic lettuce,
 
 5
 00:00:29,430 --> 00:00:31,096
-       construction wood,       
+construction wood,
 
 6
 00:00:31,098 --> 00:00:32,297
-           recycling,           
+recycling,
 
 7
 00:00:32,299 --> 00:00:34,233
-       and fishing flies.       
+and fishing flies.
 
 8
 00:00:37,772 --> 00:00:40,372
-         bet you thought        
-  the only way to grow lettuce  
+bet you thought the only way to grow lettuce
 
 9
 00:00:40,374 --> 00:00:42,241
-        was in a garden.        
+was in a garden.
 
 10
 00:00:42,243 --> 00:00:44,910
-        well, vegetables        
-  don't necessarily need soil.  
+well, vegetables don't necessarily need soil.
 
 11
 00:00:44,912 --> 00:00:46,578
-  they can also grow in water,  
+they can also grow in water,
 
 12
 00:00:46,580 --> 00:00:50,049
- provided it contains the proper
-   nutrients and fertilizers.   
+provided it contains the proper
+nutrients and fertilizers.
 
 13
 00:00:50,051 --> 00:00:52,484
-   that's called hydroponics.   
+that's called hydroponics.
 
 14
 00:00:56,523 --> 00:00:59,324
-     this method of growing     
-       hydroponic lettuce       
+this method of growing hydroponic lettuce
 
 15
 00:00:59,326 --> 00:01:02,327
-      is called "deep pool      
-   floating raft technology."   
+is called "deep pool floating raft technology."
 
 16
 00:01:02,329 --> 00:01:06,131
-  it sounds pretty complicated, 
-  but it's really quite simple, 
+it sounds pretty complicated, but it's really quite simple,
 
 17
 00:01:06,133 --> 00:01:08,466
-        and it all starts       
-     in the germination area    
+and it all starts in the germination area
 
 18
 00:01:08,468 --> 00:01:09,634
-       with lettuce seeds.      
+with lettuce seeds.
 
 19
 00:01:09,636 --> 00:01:12,737
-         to plant them,         
-    workers use a steel tray    
+to plant them, workers use a steel tray
 
 20
 00:01:12,739 --> 00:01:14,673
-   connected to a vacuum hose.  
+connected to a vacuum hose.
 
 21
 00:01:14,675 --> 00:01:16,875
-     the tray has 276 holes,    
+the tray has 276 holes,
 
 22
 00:01:16,877 --> 00:01:20,812
-    and a vacuum sucks a seed   
-         into each one.         
+and a vacuum sucks a seed into each one.
 
 23
 00:01:20,814 --> 00:01:25,083
-   next they take a foam block  
-    with corresponding holes    
+next they take a foam block with corresponding holes
 
 24
 00:01:25,085 --> 00:01:29,154
-         called an oasis        
- and position it into the tray. 
+called an oasis and position it into the tray.
 
 25
 00:01:29,156 --> 00:01:33,892
-  a quick flip deposits a seed  
-  into each hole of the oasis.  
+a quick flip deposits a seed into each hole of the oasis.
 
 26
 00:01:33,894 --> 00:01:35,694
-  the seeds are coated in clay. 
+the seeds are coated in clay.
 
 27
 00:01:35,696 --> 00:01:38,564
-     clay holds in moisture     
-       to nourish the seed      
+clay holds in moisture to nourish the seed
 
 28
 00:01:38,566 --> 00:01:42,101
-  but also breaks apart easily  
-     to let the seed sprout.    
+but also breaks apart easily to let the seed sprout.
 
 29
 00:01:51,846 --> 00:01:53,578
-  on the way to the greenhouse, 
+on the way to the greenhouse,
 
 30
 00:01:53,580 --> 00:01:56,582
-          the seeds get         
-      their first watering.     
+the seeds get their first watering.
 
 31
 00:01:56,584 --> 00:01:58,650
-  then workers set them afloat. 
+then workers set them afloat.
 
 32
 00:01:58,652 --> 00:02:02,421
-        the pool of water       
-    is about 12 inches deep.    
+the pool of water is about 12 inches deep.
 
 33
 00:02:05,259 --> 00:02:08,594
 technicians continuously monitor
-         and manipulate         
+and manipulate
 
 34
 00:02:08,596 --> 00:02:11,196
-      its levels of oxygen      
-         and fertilizer.        
+its levels of oxygen and fertilizer.
 
 35
 00:02:11,198 --> 00:02:13,798
-         that's the key         
-     to hydroponic growing.     
+that's the key to hydroponic growing.
 
 36
 00:02:13,800 --> 00:02:16,801
-  the water is never discarded, 
-         just topped off        
+the water is never discarded, just topped off
 
 37
 00:02:16,803 --> 00:02:20,272
 to replace what the plants drink
-      and what evaporates.      
+and what evaporates.
 
 38
 00:02:25,679 --> 00:02:28,613
-        on the first day,       
-they water the seeds frequently.
+on the first day, they water the seeds frequently.
 
 39
 00:02:28,615 --> 00:02:31,816
-    within a couple of days,    
- the seedlings start to appear. 
+within a couple of days, the seedlings start to appear.
 
 40
 00:02:31,818 --> 00:02:35,620
- they water and fertilize them. 
+they water and fertilize them.
 
 41
 00:02:35,622 --> 00:02:37,289
-    by about the fourth day,    
+by about the fourth day,
 
 42
 00:02:37,291 --> 00:02:40,225
-    there's some significant    
-        sprouting action.       
+there's some significant sprouting action.
 
 43
 00:02:40,227 --> 00:02:44,029
-        again, they water       
-    and fertilize the plants.   
+again, they water and fertilize the plants.
 
 44
 00:02:44,031 --> 00:02:47,899
 the first leaves emerge on about
- the seventh day in the summer, 
+the seventh day in the summer,
 
 45
 00:02:47,901 --> 00:02:50,369
-      on about the 11th day     
-         in the winter.         
+on about the 11th day in the winter.
 
 46
 00:02:50,371 --> 00:02:53,905
 the winter growth rate is slower
-    because there's less sun.   
+because there's less sun.
 
 47
 00:02:53,907 --> 00:02:55,307
-         at this point,         
+at this point,
 
 48
 00:02:55,309 --> 00:02:59,244
-     it's time for the first    
-   in a series of transplants.  
+it's time for the first in a series of transplants.
 
 49
 00:02:59,246 --> 00:03:04,049
-  workers transfer the lettuces 
-    from the 276-plant oasis    
+workers transfer the lettuces from the 276-plant oasis
 
 50
 00:03:04,051 --> 00:03:09,454
-      to a styrofoam board      
- that holds more plants -- 288. 
+to a styrofoam board that holds more plants -- 288.
 
 51
 00:03:09,456 --> 00:03:13,058
-   they set the boards afloat   
-      in the nursery zone.      
+they set the boards afloat in the nursery zone.
 
 52
 00:03:13,060 --> 00:03:15,928
-    at about the 13-day mark    
-        in the summer --        
+at about the 13-day mark in the summer --
 
 53
 00:03:15,930 --> 00:03:17,795
@@ -248,56 +217,48 @@ the 20-day mark in the winter --
 
 54
 00:03:17,797 --> 00:03:21,399
-       transplant number 2      
-     takes place, this time     
+transplant number 2 takes place, this time
 
 55
 00:03:21,401 --> 00:03:23,534
-        to a less crowded       
-         styrofoam board        
+to a less crowded styrofoam board
 
 56
 00:03:23,536 --> 00:03:25,136
-   that holds just 72 plants.   
+that holds just 72 plants.
 
 57
 00:03:25,138 --> 00:03:29,408
 this gives the plants more light
-     and more room to grow.     
+and more room to grow.
 
 58
 00:03:29,410 --> 00:03:32,344
-       workers use a hook       
-  to avoid damaging the roots.  
+workers use a hook to avoid damaging the roots.
 
 59
 00:03:32,346 --> 00:03:36,548
-   a plant needs healthy roots  
- to absorb water and nutrients. 
+a plant needs healthy roots to absorb water and nutrients.
 
 60
 00:03:42,690 --> 00:03:46,024
-   the last transplant happens  
-      on about the 26th day     
+the last transplant happens on about the 26th day
 
 61
 00:03:46,026 --> 00:03:48,760
-         in the summer,         
-   the 45th day in the winter.  
+in the summer, the 45th day in the winter.
 
 62
 00:03:48,762 --> 00:03:51,964
-    now the lettuces go from    
-       the 72-plant board       
+now the lettuces go from the 72-plant board
 
 63
 00:03:51,966 --> 00:03:54,166
- to a board that holds just 18. 
+to a board that holds just 18.
 
 64
 00:03:54,168 --> 00:03:57,235
-        by now the plants       
-        have long roots,        
+by now the plants have long roots,
 
 65
 00:03:57,237 --> 00:03:59,638
@@ -305,8 +266,7 @@ so they're harder to manipulate.
 
 66
 00:04:13,053 --> 00:04:15,520
-          the lettuces          
-  go into the production zone,  
+the lettuces go into the production zone,
 
 67
 00:04:15,522 --> 00:04:17,489
@@ -314,263 +274,219 @@ the last move before harvesting.
 
 68
 00:04:27,868 --> 00:04:29,867
-     these pools are bigger,    
+these pools are bigger,
 
 69
 00:04:29,869 --> 00:04:33,138
-      so automatic machines     
-     move the boards around.    
+so automatic machines move the boards around.
 
 70
 00:04:40,547 --> 00:04:42,481
-     this hydroponic system     
+this hydroponic system
 
 71
 00:04:42,483 --> 00:04:45,684
-       produces 500 plants      
-        per square yard,        
+produces 500 plants per square yard,
 
 72
 00:04:45,686 --> 00:04:48,620
-   almost five times the yield  
-     of field-grown lettuce,    
+almost five times the yield of field-grown lettuce,
 
 73
 00:04:48,622 --> 00:04:50,088
-      and it's safer, too.      
+and it's safer, too.
 
 74
 00:04:50,090 --> 00:04:54,025
-      there's no need here      
-  for pesticides or fungicides, 
+there's no need here for pesticides or fungicides,
 
 75
 00:04:54,027 --> 00:04:55,627
-  and because it's all indoors, 
+and because it's all indoors,
 
 76
 00:04:55,629 --> 00:04:58,363
-        fertilizer can't        
-  contaminate the environment.  
+fertilizer can't contaminate the environment.
 
 77
 00:04:58,365 --> 00:05:01,433
-      by about the 45th day     
-         in the summer,         
+by about the 45th day in the summer,
 
 78
 00:05:01,435 --> 00:05:03,502
-   the 75th day in the winter,  
+the 75th day in the winter,
 
 79
 00:05:03,504 --> 00:05:07,305
-    the lettuces are finally    
-      ready for harvesting.     
+the lettuces are finally ready for harvesting.
 
 80
 00:05:07,307 --> 00:05:10,775
-         workers cut off        
-the yellowed leaves at the base,
+workers cut off the yellowed leaves at the base,
 
 81
 00:05:10,777 --> 00:05:13,912
-  then either cut off the roots 
-  or wrap them around the stem, 
+then either cut off the roots or wrap them around the stem,
 
 82
 00:05:13,914 --> 00:05:16,315
-          depending on          
-   how this crop will be sold.  
+depending on how this crop will be sold.
 
 83
 00:05:16,317 --> 00:05:20,519
-   then they vacuum-cool each   
- lettuce for longer shelf life. 
+then they vacuum-cool each lettuce for longer shelf life.
 
 84
 00:05:28,595 --> 00:05:30,528
-            narrator:           
-      an american engineer      
+narrator: an american engineer
 
 85
 00:05:30,530 --> 00:05:32,998
-          has invented          
-     a self-mending plastic     
+has invented a self-mending plastic
 
 86
 00:05:33,000 --> 00:05:36,134
-      to use for components     
-    that vibrate and weaken.    
+to use for components that vibrate and weaken.
 
 87
 00:05:36,136 --> 00:05:39,937
-  when the plastic tears, tiny  
-  capsules inside it also tear, 
+when the plastic tears, tiny capsules inside it also tear,
 
 88
 00:05:39,939 --> 00:05:42,807
-       releasing a liquid,      
-     like blood from a cut.     
+releasing a liquid, like blood from a cut.
 
 89
 00:05:42,809 --> 00:05:45,677
-     then a catalyzing agent    
-       also in the plastic      
+then a catalyzing agent also in the plastic
 
 90
 00:05:45,679 --> 00:05:48,046
-   seals the tear like a scar.  
+seals the tear like a scar.
 
 91
 00:05:53,754 --> 00:05:55,019
-        there was a time        
+there was a time
 
 92
 00:05:55,021 --> 00:05:57,355
-      when if you wanted to     
-  build something out of wood,  
+when if you wanted to build something out of wood,
 
 93
 00:05:57,357 --> 00:06:00,024
-    you had to pick up an ax    
-    and go chop down a tree.    
+you had to pick up an ax and go chop down a tree.
 
 94
 00:06:00,026 --> 00:06:02,961
-  thankfully for city dwellers, 
-       all it takes today       
+thankfully for city dwellers, all it takes today
 
 95
 00:06:02,963 --> 00:06:05,230
-        is a trip to your       
-  local home-improvement center 
+is a trip to your local home-improvement center
 
 96
 00:06:05,232 --> 00:06:08,567
-     to buy 2x4's, 2x10's --    
-          you name it.          
+to buy 2x4's, 2x10's -- you name it.
 
 97
 00:06:11,905 --> 00:06:15,706
-      they start with logs      
-  cut from spruce or fir trees. 
+they start with logs cut from spruce or fir trees.
 
 98
 00:06:15,708 --> 00:06:19,711
- turning them into construction 
-  wood isn't that complicated.  
+turning them into construction wood isn't that complicated.
 
 99
 00:06:19,713 --> 00:06:23,047
-    first they soak the logs    
-      for about 20 minutes.     
+first they soak the logs for about 20 minutes.
 
 100
 00:06:23,049 --> 00:06:24,583
-      this removes the mud      
+this removes the mud
 
 101
 00:06:24,585 --> 00:06:28,019
-      and softens the bark      
-  to make it easier to remove.  
+and softens the bark to make it easier to remove.
 
 102
 00:06:39,065 --> 00:06:42,200
-          next the logs         
-    go through the debarker,    
+next the logs go through the debarker,
 
 103
 00:06:42,202 --> 00:06:45,937
-     a machine with a rotor     
-    that shaves off the bark.   
+a machine with a rotor that shaves off the bark.
 
 104
 00:06:45,939 --> 00:06:48,340
- the rotor has six sharp blades 
+the rotor has six sharp blades
 
 105
 00:06:48,342 --> 00:06:51,376
-    that take just 10 seconds   
-      to shave a log bare.      
+that take just 10 seconds to shave a log bare.
 
 106
 00:07:05,225 --> 00:07:06,758
-       in the filing room,      
+in the filing room,
 
 107
 00:07:06,760 --> 00:07:10,328
-     they regularly sharpen     
-   and inspect the saw blades   
+they regularly sharpen and inspect the saw blades
 
 108
 00:07:10,330 --> 00:07:13,031
-           they'll use          
-     to cut the shaved logs,    
+they'll use to cut the shaved logs,
 
 109
 00:07:13,033 --> 00:07:16,468
-       straightening them       
- back into shape when necessary.
+straightening them back into shape when necessary.
 
 110
 00:07:24,578 --> 00:07:27,846
-        in this sawmill,        
- there are two production lines.
+in this sawmill, there are two production lines.
 
 111
 00:07:27,848 --> 00:07:30,248
-         the wider logs         
-      go through this saw.      
+the wider logs go through this saw.
 
 112
 00:07:33,186 --> 00:07:35,787
-   the worker at the controls   
-          uses a laser          
+the worker at the controls uses a laser
 
 113
 00:07:35,789 --> 00:07:39,457
-      to help him position      
-     and reposition each log    
+to help him position and reposition each log
 
 114
 00:07:39,459 --> 00:07:41,993
-  as he runs it through the saw 
-          several times         
+as he runs it through the saw several times
 
 115
 00:07:41,995 --> 00:07:46,398
-     to cut it into as many     
-  4x10-inch pieces as possible. 
+to cut it into as many 4x10-inch pieces as possible.
 
 116
 00:07:46,400 --> 00:07:50,802
-  an average log usually yields 
-  about seven or eight pieces.  
+an average log usually yields about seven or eight pieces.
 
 117
 00:08:18,232 --> 00:08:21,900
-        the narrower logs       
-   go through a different saw.  
+the narrower logs go through a different saw.
 
 118
 00:08:21,902 --> 00:08:24,969
-   this saw first cuts a board  
-         off each side,         
+this saw first cuts a board off each side,
 
 119
 00:08:24,971 --> 00:08:28,139
-     then sends what's left     
-  of the log on to another saw. 
+then sends what's left of the log on to another saw.
 
 120
 00:08:35,115 --> 00:08:37,582
-          the 4x10's on         
-    the first production line   
+the 4x10's on the first production line
 
 121
 00:08:37,584 --> 00:08:41,119
-       go for a second cut      
-        called the resaw.       
+go for a second cut called the resaw.
 
 122
 00:08:41,121 --> 00:08:44,655
@@ -578,179 +494,154 @@ they're cut in half into 2x10's.
 
 123
 00:08:44,657 --> 00:08:47,858
-     the logs on the second     
-   production line end up here  
+the logs on the second production line end up here
 
 124
 00:08:47,860 --> 00:08:50,395
-        in what's called        
-    the canter-bull machine.    
+in what's called the canter-bull machine.
 
 125
 00:08:50,397 --> 00:08:52,797
-          it has eight          
-    adjustable circular saws    
+it has eight adjustable circular saws
 
 126
 00:08:52,799 --> 00:08:56,468
-      that can cut the log      
-   into various sizes of wood   
+that can cut the log into various sizes of wood
 
 127
 00:08:56,470 --> 00:09:00,739
-  anywhere from 2x3's to 2x8's, 
-depending on the log's diameter.
+anywhere from 2x3's to 2x8's, depending on the log's diameter.
 
 128
 00:09:24,431 --> 00:09:27,699
- both production lines feed to  
- machines that smooth the edges 
+both production lines feed to machines that smooth the edges
 
 129
 00:09:27,701 --> 00:09:30,701
-    and trim off any defects    
-  that can effect the strength  
+and trim off any defects that can effect the strength
 
 130
 00:09:30,703 --> 00:09:32,604
-   or resistance of the wood.   
+or resistance of the wood.
 
 131
 00:09:50,257 --> 00:09:53,992
-    then an automated sorter    
-    drops the wood into bins    
+then an automated sorter drops the wood into bins
 
 132
 00:09:53,994 --> 00:09:55,460
-    according to their size.    
+according to their size.
 
 133
 00:10:07,340 --> 00:10:10,809
-       each bin then feeds      
-      the stacking machine.     
+each bin then feeds the stacking machine.
 
 134
 00:10:13,747 --> 00:10:16,814
- from here they'll put the wood 
-     into a kiln to be dried    
+from here they'll put the wood into a kiln to be dried
 
 135
 00:10:16,816 --> 00:10:19,484
-     to about 15% humidity.     
+to about 15% humidity.
 
 136
 00:10:21,488 --> 00:10:23,621
-  then they'll grade the pieces 
+then they'll grade the pieces
 
 137
 00:10:23,623 --> 00:10:28,460
-  and ship them to a lumberyard 
-   or home-improvement store.   
+and ship them to a lumberyard or home-improvement store.
 
 138
 00:10:44,378 --> 00:10:47,045
-   narrator: if you care about  
-        our environment,        
+narrator: if you care about our environment,
 
 139
 00:10:47,047 --> 00:10:49,914
-    chances are you separate    
-      your recyclable waste     
+chances are you separate your recyclable waste
 
 140
 00:10:49,916 --> 00:10:51,382
-     from your other garbage    
+from your other garbage
 
 141
 00:10:51,384 --> 00:10:53,384
-       and either take it       
-      to a recycling center     
+and either take it to a recycling center
 
 142
 00:10:53,386 --> 00:10:55,319
-    or put it out at the curb   
-           for pickup.          
+or put it out at the curb for pickup.
 
 143
 00:10:55,321 --> 00:10:58,857
-   but have you ever wondered   
-   where it goes from there?    
+but have you ever wondered where it goes from there?
 
 144
 00:11:07,400 --> 00:11:08,933
-     when the truck arrives,    
+when the truck arrives,
 
 145
 00:11:08,935 --> 00:11:11,803
-   your recyclables go through  
-      their first sorting.      
+your recyclables go through their first sorting.
 
 146
 00:11:15,008 --> 00:11:19,677
- the worker puts paper and boxes
-       in one receptacle,       
+the worker puts paper and boxes
+in one receptacle,
 
 147
 00:11:19,679 --> 00:11:22,647
-   glass, plastics, and metals  
-           in another.          
+glass, plastics, and metals in another.
 
 148
 00:11:25,285 --> 00:11:27,018
-      at the sorting plant      
+at the sorting plant
 
 149
 00:11:27,020 --> 00:11:31,289
- the truck dumps each receptacle
-      into a separate area.     
+the truck dumps each receptacle
+into a separate area.
 
 150
 00:11:31,291 --> 00:11:34,892
-    then it's on to separate    
-conveyor belts for more sorting.
+then it's on to separate conveyor belts for more sorting.
 
 151
 00:11:34,894 --> 00:11:36,761
-  on the paper-and-boxes line,  
+on the paper-and-boxes line,
 
 152
 00:11:36,763 --> 00:11:39,831
-      workers first remove      
-  any plastic, metal, or glass  
+workers first remove any plastic, metal, or glass
 
 153
 00:11:39,833 --> 00:11:41,299
-   that got there by mistake.   
+that got there by mistake.
 
 154
 00:11:41,301 --> 00:11:44,969
-   then they sort what's left   
-    into three categories --    
+then they sort what's left into three categories --
 
 155
 00:11:44,971 --> 00:11:48,839
- first, corrugated cardboard -- 
- what brown boxes are made of --
+first, corrugated cardboard -- what brown boxes are made of --
 
 156
 00:11:48,841 --> 00:11:52,309
-       second, newsprint,       
-  and third, mixed-fiber paper  
+second, newsprint, and third, mixed-fiber paper
 
 157
 00:11:52,311 --> 00:11:56,648
 such as cereal boxes, envelopes,
-       and greeting cards.      
+and greeting cards.
 
 158
 00:11:56,650 --> 00:11:59,851
-      on the glass, metal,      
-   and plastics conveyor belt,  
+on the glass, metal, and plastics conveyor belt,
 
 159
 00:11:59,853 --> 00:12:02,787
-      workers first remove      
-      the big bulky items       
+workers first remove the big bulky items
 
 160
 00:12:02,789 --> 00:12:04,923
@@ -758,268 +649,231 @@ such as gallon-sized containers.
 
 161
 00:12:04,925 --> 00:12:07,659
-         a jumbo magnet         
-    picks up everything metal   
+a jumbo magnet picks up everything metal
 
 162
 00:12:07,661 --> 00:12:09,928
-      except for aluminum,      
-      which isn't magnetic.     
+except for aluminum, which isn't magnetic.
 
 163
 00:12:09,930 --> 00:12:14,132
-     workers then sort milk     
- and juice cartons to one area, 
+workers then sort milk and juice cartons to one area,
 
 164
 00:12:14,134 --> 00:12:15,466
-      aluminum to another.      
+aluminum to another.
 
 165
 00:12:15,468 --> 00:12:18,470
-     they separate plastics     
-     into three categories,     
+they separate plastics into three categories,
 
 166
 00:12:18,472 --> 00:12:20,939
-       glass into two --        
-       clear and colored.       
+glass into two -- clear and colored.
 
 167
 00:12:20,941 --> 00:12:22,873
-        once everything's       
-         been separated,        
+once everything's been separated,
 
 168
 00:12:22,875 --> 00:12:27,011
 each category goes into a baler,
-      which compacts it...      
+which compacts it...
 
 169
 00:12:30,217 --> 00:12:34,953
-   ...then binds it with wire   
-   like a giant bale of hay.    
+...then binds it with wire like a giant bale of hay.
 
 170
 00:12:34,955 --> 00:12:36,887
- then it's off to the warehouse 
+then it's off to the warehouse
 
 171
 00:12:36,889 --> 00:12:39,224
-       until they're sold       
-         to a recycler.         
+until they're sold to a recycler.
 
 172
 00:12:43,696 --> 00:12:47,565
-  at the recycling plant, they  
-  cut open a bale of plastics,  
+at the recycling plant, they cut open a bale of plastics,
 
 173
 00:12:47,567 --> 00:12:50,435
-      then load everything      
-     onto the conveyor belt.    
+then load everything onto the conveyor belt.
 
 174
 00:12:53,439 --> 00:12:55,573
-          the plastics          
-      pass through magnets      
+the plastics pass through magnets
 
 175
 00:12:55,575 --> 00:12:58,843
-       to remove any metal      
-that might have slipped through.
+to remove any metal that might have slipped through.
 
 176
 00:12:58,845 --> 00:13:01,846
-  then it's into the shredder.  
+then it's into the shredder.
 
 177
 00:13:01,848 --> 00:13:04,783
-      it takes the shredder     
-          just an hour          
+it takes the shredder just an hour
 
 178
 00:13:04,785 --> 00:13:07,152
-  to shred two tons of plastic. 
+to shred two tons of plastic.
 
 179
 00:13:25,204 --> 00:13:27,071
-      all those containers      
+all those containers
 
 180
 00:13:27,073 --> 00:13:30,542
-          are now tiny,         
-     little plastic flakes.     
+are now tiny, little plastic flakes.
 
 181
 00:13:30,544 --> 00:13:33,278
-   next, cleaning by friction   
-           and water.           
+next, cleaning by friction and water.
 
 182
 00:13:33,280 --> 00:13:36,014
-       any remaining glass      
-      or other contaminants     
+any remaining glass or other contaminants
 
 183
 00:13:36,016 --> 00:13:37,682
-     now sink to the bottom     
+now sink to the bottom
 
 184
 00:13:37,684 --> 00:13:40,618
 while the lighter plastic flakes
-        float to the top.       
+float to the top.
 
 185
 00:13:40,620 --> 00:13:42,754
-         the dirty water        
-   will be chemically filtered  
+the dirty water will be chemically filtered
 
 186
 00:13:42,756 --> 00:13:44,656
-         and used again.        
+and used again.
 
 187
 00:13:47,027 --> 00:13:49,627
- they dry the flakes by hot air,
+they dry the flakes by hot air,
 
 188
 00:13:49,629 --> 00:13:52,664
-    then put them into silos    
-        to be compacted.        
+then put them into silos to be compacted.
 
 189
 00:13:56,503 --> 00:14:01,639
-      inside the compactor,     
-  it's 320 degrees fahrenheit.  
+inside the compactor, it's 320 degrees fahrenheit.
 
 190
 00:14:01,641 --> 00:14:04,108
-    the heat partially melts    
-          the plastic,          
+the heat partially melts the plastic,
 
 191
 00:14:04,110 --> 00:14:06,710
-        fusing the pieces       
-        as they compact.        
+fusing the pieces as they compact.
 
 192
 00:14:06,712 --> 00:14:07,912
-           the flakes           
+the flakes
 
 193
 00:14:07,914 --> 00:14:10,381
-   go through the compactor's   
-     perforated inner drum,     
+go through the compactor's perforated inner drum,
 
 194
 00:14:10,383 --> 00:14:12,283
-   much like a pasta press...   
+much like a pasta press...
 
 195
 00:14:14,321 --> 00:14:17,422
-         ...and come out        
-  looking a bit like macaroni.  
+...and come out looking a bit like macaroni.
 
 196
 00:14:30,202 --> 00:14:34,005
- they're now officially recycled
-             plastic            
+they're now officially recycled
+plastic
 
 197
 00:14:34,007 --> 00:14:36,540
-      in raw-material form.     
+in raw-material form.
 
 198
 00:14:36,542 --> 00:14:39,877
-      next they're melted,      
-    pressed through a screen,   
+next they're melted, pressed through a screen,
 
 199
 00:14:39,879 --> 00:14:42,480
-      then cut into pellets     
-         1/8 inch long.         
+then cut into pellets 1/8 inch long.
 
 200
 00:14:42,482 --> 00:14:46,651
-  they drop into water to cool, 
-      then go into a dryer.     
+they drop into water to cool, then go into a dryer.
 
 201
 00:14:49,956 --> 00:14:52,089
-   factories buy these pellets  
+factories buy these pellets
 
 202
 00:14:52,091 --> 00:14:55,159
-          and use them          
-    to make plastic products.   
+and use them to make plastic products.
 
 203
 00:14:59,232 --> 00:15:02,901
-   this recycling plant takes   
- the plastic flakes it produces 
+this recycling plant takes the plastic flakes it produces
 
 204
 00:15:02,903 --> 00:15:04,969
-   to mold warehouse pallets.   
+to mold warehouse pallets.
 
 205
 00:15:04,971 --> 00:15:08,106
-        the mold goes in        
-    at 446 degrees fahrenheit   
+the mold goes in at 446 degrees fahrenheit
 
 206
 00:15:08,108 --> 00:15:11,242
-         for just about         
-     seven or eight minutes.    
+for just about seven or eight minutes.
 
 207
 00:15:11,244 --> 00:15:15,847
-   it takes just 2 1/2 minutes  
-   to mold a recycling bin...   
+it takes just 2 1/2 minutes to mold a recycling bin...
 
 208
 00:15:18,985 --> 00:15:21,385
-   ...something to help ensure  
-         a steady supply        
+...something to help ensure a steady supply
 
 209
 00:15:21,387 --> 00:15:26,024
-  of what the factory needs to  
-keep producing recycled plastic.
+of what the factory needs to keep producing recycled plastic.
 
 210
 00:15:35,401 --> 00:15:38,670
-     narrator: still moping     
-  about the one that got away?  
+narrator: still moping about the one that got away?
 
 211
 00:15:38,672 --> 00:15:41,739
-      well, maybe you just      
-    didn't use the right fly.   
+well, maybe you just didn't use the right fly.
 
 212
 00:15:41,741 --> 00:15:44,542
-      fly-fishing is one of     
-   the most challenging types   
+fly-fishing is one of the most challenging types
 
 213
 00:15:44,544 --> 00:15:45,743
-        of sport fishing,       
+of sport fishing,
 
 214
 00:15:45,745 --> 00:15:48,346
-      and tying a good fly      
-     to the end of your line    
+and tying a good fly to the end of your line
 
 215
 00:15:48,348 --> 00:15:50,515
-  can make all the difference.  
+can make all the difference.
 
 216
 00:15:56,289 --> 00:16:01,159
- in about 300 a.d., people began
- decorating their fishing hooks 
+in about 300 a.d., people began
+decorating their fishing hooks
 
 217
 00:16:01,161 --> 00:16:03,428
@@ -1027,322 +881,277 @@ to mimic insects and small fish.
 
 218
 00:16:05,365 --> 00:16:08,299
-   the macedonians were known   
-      to use a fishing fly      
+the macedonians were known to use a fishing fly
 
 219
 00:16:08,301 --> 00:16:11,269
-        made of red yarn        
-      and rooster feathers.     
+made of red yarn and rooster feathers.
 
 220
 00:16:12,972 --> 00:16:16,174
-  today, with so many synthetic 
-      materials available,      
+today, with so many synthetic materials available,
 
 221
 00:16:16,176 --> 00:16:19,644
-    the design possibilities    
-          are endless.          
+the design possibilities are endless.
 
 222
 00:16:19,646 --> 00:16:21,378
-      but every fishing fly     
+but every fishing fly
 
 223
 00:16:21,380 --> 00:16:24,382
-     is still based on that     
-     centuries-old technique    
+is still based on that centuries-old technique
 
 224
 00:16:24,384 --> 00:16:28,353
-   of attaching bird feathers   
-   or animal hairs to a hook.   
+of attaching bird feathers or animal hairs to a hook.
 
 225
 00:16:38,398 --> 00:16:41,332
-         the whole idea         
-      is to trick the fish.     
+the whole idea is to trick the fish.
 
 226
 00:16:41,334 --> 00:16:45,136
-        the fly imitates        
- an aquatic insect or tiny fish,
+the fly imitates an aquatic insect or tiny fish,
 
 227
 00:16:45,138 --> 00:16:48,272
-    something the fish you're   
-  trying to catch likes to eat. 
+something the fish you're trying to catch likes to eat.
 
 228
 00:16:48,274 --> 00:16:52,043
-       the flymaker starts      
-  by placing a hook in a vise.  
+the flymaker starts by placing a hook in a vise.
 
 229
 00:16:54,414 --> 00:16:57,681
-          using a tool          
-     called a bobbin holder,    
+using a tool called a bobbin holder,
 
 230
 00:16:57,683 --> 00:17:00,151
-  he winds a waxed nylon thread 
+he winds a waxed nylon thread
 
 231
 00:17:00,153 --> 00:17:03,021
-      carefully and tightly     
- around the shank of the hook...
+carefully and tightly around the shank of the hook...
 
 232
 00:17:03,023 --> 00:17:05,823
-    then cuts off the excess.   
+then cuts off the excess.
 
 233
 00:17:07,894 --> 00:17:11,362
-    this fly will simulate a    
-mothlike insect called a caddis,
+this fly will simulate a mothlike insect called a caddis,
 
 234
 00:17:11,364 --> 00:17:13,231
-   a primary food for trout --  
+a primary food for trout --
 
 235
 00:17:13,233 --> 00:17:16,434
-   a caddis in the pupal stage  
-       of its life cycle,       
+a caddis in the pupal stage of its life cycle,
 
 236
 00:17:16,436 --> 00:17:19,770
-         just before it         
-    transforms into an adult.   
+just before it transforms into an adult.
 
 237
 00:17:20,973 --> 00:17:24,308
-   the flymaker first attaches  
-    a special synthetic yarn    
+the flymaker first attaches a special synthetic yarn
 
 238
 00:17:24,310 --> 00:17:25,777
-       to create the tail.      
+to create the tail.
 
 239
 00:17:34,320 --> 00:17:37,522
-       he secures it along      
-     the middle of the hook.    
+he secures it along the middle of the hook.
 
 240
 00:17:48,401 --> 00:17:51,869
- he then takes another synthetic
-     material called dubbing    
+he then takes another synthetic
+material called dubbing
 
 241
 00:17:51,871 --> 00:17:54,539
-       to create the body.      
+to create the body.
 
 242
 00:17:54,541 --> 00:17:58,609
-  he spins the dubbing between  
-  his fingers onto the thread.  
+he spins the dubbing between his fingers onto the thread.
 
 243
 00:17:58,611 --> 00:18:01,412
-      the wax on the thread     
-        helps it adhere.        
+the wax on the thread helps it adhere.
 
 244
 00:18:05,484 --> 00:18:09,587
- he winds the dubbing over the  
- base of yarn to form the body. 
+he winds the dubbing over the base of yarn to form the body.
 
 245
 00:18:20,633 --> 00:18:23,500
-     then he folds some yarn    
-        over the dubbing        
+then he folds some yarn over the dubbing
 
 246
 00:18:23,502 --> 00:18:26,270
-         and attaches it        
-     with more nylon thread.    
+and attaches it with more nylon thread.
 
 247
 00:18:31,377 --> 00:18:33,911
-  then he cuts off the excess.  
+then he cuts off the excess.
 
 248
 00:18:37,517 --> 00:18:41,319
-   good fishing flies not only  
-    look like the real thing,   
+good fishing flies not only look like the real thing,
 
 249
 00:18:41,321 --> 00:18:45,589
 they also act like it, mimicking
-the insect's natural movements. 
+the insect's natural movements.
 
 250
 00:18:45,591 --> 00:18:49,393
-   when a caddis pupa is ready  
-   to transform into an adult,  
+when a caddis pupa is ready to transform into an adult,
 
 251
 00:18:49,395 --> 00:18:53,597
- it swims to the surface of the 
- water, then deploys its wings. 
+it swims to the surface of the water, then deploys its wings.
 
 252
 00:18:53,599 --> 00:18:55,866
-       the shimmering yarn      
-       on this fake caddis      
+the shimmering yarn on this fake caddis
 
 253
 00:18:55,868 --> 00:18:58,069
-     will give the illusion     
-       of the air bubbles       
+will give the illusion of the air bubbles
 
 254
 00:18:58,071 --> 00:19:01,939
-   this voyage to the surface   
-            creates.            
+this voyage to the surface creates.
 
 255
 00:19:01,941 --> 00:19:03,474
-     to simulate the wings,     
+to simulate the wings,
 
 256
 00:19:03,476 --> 00:19:07,010
-    the flymaker uses dubbing   
-        made of deer fur.       
+the flymaker uses dubbing made of deer fur.
 
 257
 00:19:07,012 --> 00:19:10,748
-  he cuts off the long, coarse  
-  hairs known as guard hairs... 
+he cuts off the long, coarse hairs known as guard hairs...
 
 258
 00:19:17,156 --> 00:19:19,757
-       ...then places them      
-          into a device         
+...then places them into a device
 
 259
 00:19:19,759 --> 00:19:22,226
-     called a hair stacker.     
+called a hair stacker.
 
 260
 00:19:22,228 --> 00:19:24,328
-         he shakes it...        
+he shakes it...
 
 261
 00:19:27,433 --> 00:19:30,434
-   ...turns it to the side...   
+...turns it to the side...
 
 262
 00:19:30,436 --> 00:19:32,570
-        then opens it up.       
+then opens it up.
 
 263
 00:19:32,572 --> 00:19:35,706
-          all the hairs         
-     are now evenly aligned.    
+all the hairs are now evenly aligned.
 
 264
 00:19:42,648 --> 00:19:46,684
- he measures the length he needs
-   to create the fly's wings.   
+he measures the length he needs
+to create the fly's wings.
 
 265
 00:19:52,191 --> 00:19:53,590
-      then he attaches it,      
+then he attaches it,
 
 266
 00:19:53,592 --> 00:19:56,393
- leaving a portion sticking out 
-            the front           
+leaving a portion sticking out the front
 
 267
 00:19:56,395 --> 00:19:59,263
-   to form the insect's head.   
+to form the insect's head.
 
 268
 00:19:59,265 --> 00:20:02,867
-       next he uses a tool      
-     called a whip finisher     
+next he uses a tool called a whip finisher
 
 269
 00:20:02,869 --> 00:20:06,537
-      to tie a sturdy knot      
-     made of several loops.     
+to tie a sturdy knot made of several loops.
 
 270
 00:20:09,142 --> 00:20:11,209
-    this caddis fly imposter    
+this caddis fly imposter
 
 271
 00:20:11,211 --> 00:20:13,811
-          is now ready          
-      to trick some trout.      
+is now ready to trick some trout.
 
 272
 00:20:16,683 --> 00:20:19,349
-  there are thousands of styles 
-            of flies.           
+there are thousands of styles of flies.
 
 273
 00:20:19,351 --> 00:20:20,818
-     you choose which to use    
+you choose which to use
 
 274
 00:20:20,820 --> 00:20:24,388
-     according to what fish     
-  are feeding on at the moment. 
+according to what fish are feeding on at the moment.
 
 275
 00:20:27,827 --> 00:20:31,696
-   flymakers use many types of  
- natural and synthetic dubbings 
+flymakers use many types of natural and synthetic dubbings
 
 276
 00:20:31,698 --> 00:20:34,698
-      to form and decorate      
-         their flies --         
+to form and decorate their flies --
 
 277
 00:20:34,700 --> 00:20:37,034
- feathers, animal hairs, metals,
+feathers, animal hairs, metals,
 
 278
 00:20:37,036 --> 00:20:40,338
-     and plastics often dyed    
-        brilliant colors.       
+and plastics often dyed brilliant colors.
 
 279
 00:20:51,317 --> 00:20:55,252
- tying a great fly won't always 
- snag you the catch of the day, 
+tying a great fly won't always snag you the catch of the day,
 
 280
 00:20:55,254 --> 00:20:57,054
-   but if you maneuver the fly  
+but if you maneuver the fly
 
 281
 00:20:57,056 --> 00:20:59,790
-   to make realistic movements  
-          in the water,         
+to make realistic movements in the water,
 
 282
 00:20:59,792 --> 00:21:03,060
-     the fish will buy it --    
-     hook, line, and sinker.    
+the fish will buy it -- hook, line, and sinker.
 
 283
 00:21:09,602 --> 00:21:12,002
-    if you have any comments    
-         about the show         
+if you have any comments about the show
 
 284
 00:21:12,004 --> 00:21:14,472
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,
 
 285
 00:21:14,474 --> 00:21:16,507
-      drop us a line at...      
+drop us a line at...
+
 

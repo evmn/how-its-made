@@ -1,953 +1,814 @@
 ﻿1
 00:00:22,490 --> 00:00:25,157
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 2
 00:00:26,493 --> 00:00:29,294
-   ...horse-drawn carriages...  
+...horse-drawn carriages...
 
 3
 00:00:31,966 --> 00:00:34,400
-      ...artificial eyes...     
+...artificial eyes...
 
 4
 00:00:37,972 --> 00:00:39,338
-     ...dog and cat food...     
+...dog and cat food...
 
 5
 00:00:42,176 --> 00:00:45,044
-         ...and mirrors.        
+...and mirrors.
 
 6
 00:00:52,453 --> 00:00:55,187
-        nothing takes you       
-        back to the past        
+nothing takes you back to the past
 
 7
 00:00:55,189 --> 00:00:58,390
-        quite like a ride       
-   in a horse-drawn carriage,   
+quite like a ride in a horse-drawn carriage,
 
 8
 00:00:58,392 --> 00:01:02,995
-   a timeless vehicle in both   
-  appearance and construction.  
+a timeless vehicle in both appearance and construction.
 
 9
 00:01:02,997 --> 00:01:06,065
-       building one today       
-  still requires the expertise  
+building one today still requires the expertise
 
 10
 00:01:06,067 --> 00:01:08,533
-           of several           
-    traditional craftspeople,   
+of several traditional craftspeople,
 
 11
 00:01:08,535 --> 00:01:12,337
-        from ironworkers        
-        to wheelwrights.        
+from ironworkers to wheelwrights.
 
 12
 00:01:12,339 --> 00:01:15,740
 the carriage's turning mechanism
-        is a fifth wheel        
+is a fifth wheel
 
 13
 00:01:15,742 --> 00:01:20,011
- that is positioned horizontally
-   above the two front wheels.  
+that is positioned horizontally
+above the two front wheels.
 
 14
 00:01:20,013 --> 00:01:23,948
-  workers weld the fifth wheel  
-  to the carriage's steel frame 
+workers weld the fifth wheel to the carriage's steel frame
 
 15
 00:01:23,950 --> 00:01:26,552
-  then weld the boarding steps  
-          to the frame.         
+then weld the boarding steps to the frame.
 
 16
 00:01:26,554 --> 00:01:30,488
-       until now the frame      
-has been positioned upside down.
+until now the frame has been positioned upside down.
 
 17
 00:01:30,490 --> 00:01:34,626
- now they turn it right side up 
- to install the driver's seat.  
+now they turn it right side up to install the driver's seat.
 
 18
 00:01:34,628 --> 00:01:36,561
-  first they measure carefully  
+first they measure carefully
 
 19
 00:01:36,563 --> 00:01:39,231
-            to ensure           
-    it's perfectly centered.    
+to ensure it's perfectly centered.
 
 20
 00:01:39,233 --> 00:01:41,967
-   then they weld it in place.  
+then they weld it in place.
 
 21
 00:01:41,969 --> 00:01:44,169
-   once the frame is complete,  
+once the frame is complete,
 
 22
 00:01:44,171 --> 00:01:48,840
-  it goes through an acid wash  
-     to remove any residue.     
+it goes through an acid wash to remove any residue.
 
 23
 00:01:48,842 --> 00:01:54,580
 then they buff the welded joints
-  to smooth out their surface.  
+to smooth out their surface.
 
 24
 00:01:54,582 --> 00:01:57,649
-  the carriage has drum brakes. 
+the carriage has drum brakes.
 
 25
 00:01:57,651 --> 00:02:00,185
-      workers install them      
-          onto the axle         
+workers install them onto the axle
 
 26
 00:02:00,187 --> 00:02:05,190
- then assemble the steel springs
-   that make up the suspension  
+then assemble the steel springs
+that make up the suspension
 
 27
 00:02:05,192 --> 00:02:08,259
-   and bolt them onto the axle  
-            as well.            
+and bolt them onto the axle as well.
 
 28
 00:02:08,261 --> 00:02:13,298
-       next, they connect       
-         the brake line.        
+next, they connect the brake line.
 
 29
 00:02:13,300 --> 00:02:16,135
-       then they install        
-       the whole assembly       
+then they install the whole assembly
 
 30
 00:02:16,137 --> 00:02:19,471
-   under the carriage's frame.  
+under the carriage's frame.
 
 31
 00:02:19,473 --> 00:02:21,940
-     like in the olden days,    
+like in the olden days,
 
 32
 00:02:21,942 --> 00:02:24,008
-      they make the wheels      
-          out of wood.          
+they make the wheels out of wood.
 
 33
 00:02:24,010 --> 00:02:27,946
-   metal isn't flexible enough  
- to withstand bumps in the road.
+metal isn't flexible enough to withstand bumps in the road.
 
 34
 00:02:27,948 --> 00:02:29,281
-          they use ash          
+they use ash
 
 35
 00:02:29,283 --> 00:02:33,552
-  because it's a very hard wood 
-    that doesn't rot easily.    
+because it's a very hard wood that doesn't rot easily.
 
 36
 00:02:33,554 --> 00:02:37,756
-   workers position 16 spokes   
-       around a steel hub.      
+workers position 16 spokes around a steel hub.
 
 37
 00:02:37,758 --> 00:02:39,758
- they clamp the spokes in place,
+they clamp the spokes in place,
 
 38
 00:02:39,760 --> 00:02:43,228
-        compressing them        
-        against the hub.        
+compressing them against the hub.
 
 39
 00:02:43,230 --> 00:02:46,798
-      then they secure them     
-      with nuts and bolts.      
+then they secure them with nuts and bolts.
 
 40
 00:02:54,441 --> 00:02:57,509
-   next, they mark the spokes   
-         in two places.         
+next, they mark the spokes in two places.
 
 41
 00:02:57,511 --> 00:03:01,580
-      the first line shows      
-   how long to cut each spoke,  
+the first line shows how long to cut each spoke,
 
 42
 00:03:01,582 --> 00:03:05,850
-         the second line        
-    how far to dowel the end.   
+the second line how far to dowel the end.
 
 43
 00:03:05,852 --> 00:03:08,120
-       to form the dowel,       
+to form the dowel,
 
 44
 00:03:08,122 --> 00:03:10,389
-    they first shape the end    
-          into a cone.          
+they first shape the end into a cone.
 
 45
 00:03:12,626 --> 00:03:15,294
-   then the cone into a dowel.  
+then the cone into a dowel.
 
 46
 00:03:17,798 --> 00:03:20,932
-  those doweled spokes will fit 
-    into corresponding holes    
+those doweled spokes will fit into corresponding holes
 
 47
 00:03:20,934 --> 00:03:25,536
-     they now drill into two    
-  semicircular strips of wood.  
+they now drill into two semicircular strips of wood.
 
 48
 00:03:25,538 --> 00:03:28,807
-         the strips form        
-    what's called the fellow,   
+the strips form what's called the fellow,
 
 49
 00:03:28,809 --> 00:03:31,043
-  the round part of the wheel.  
+the round part of the wheel.
 
 50
 00:03:34,748 --> 00:03:36,281
-     workers tighten the hub    
+workers tighten the hub
 
 51
 00:03:36,283 --> 00:03:39,985
- then press a steel band called 
- a channel against the fellow.  
+then press a steel band called a channel against the fellow.
 
 52
 00:03:43,957 --> 00:03:46,692
-  they cut the channel to size. 
+they cut the channel to size.
 
 53
 00:03:48,695 --> 00:03:52,431
-  then weld the ends together.  
+then weld the ends together.
 
 54
 00:03:52,433 --> 00:03:55,700
-            finally,            
-   they buff the joint smooth.  
+finally, they buff the joint smooth.
 
 55
 00:03:55,702 --> 00:03:58,837
-  next, they drill eight holes  
-       through the channel      
+next, they drill eight holes through the channel
 
 56
 00:03:58,839 --> 00:04:00,505
-  then, using a tapering tool,  
+then, using a tapering tool,
 
 57
 00:04:00,507 --> 00:04:02,841
-        thread the holes        
-        to fit the bolts        
+thread the holes to fit the bolts
 
 58
 00:04:02,843 --> 00:04:05,710
-      that bind the channel     
-         to the fellow.         
+that bind the channel to the fellow.
 
 59
 00:04:05,712 --> 00:04:09,714
- finally, they tighten the bolts
-       with a special gun.      
+finally, they tighten the bolts
+with a special gun.
 
 60
 00:04:09,716 --> 00:04:12,784
-  the tires are made of rubber. 
+the tires are made of rubber.
 
 61
 00:04:12,786 --> 00:04:14,786
-  they contain two steel wires  
+they contain two steel wires
 
 62
 00:04:14,788 --> 00:04:16,788
-      to hold them in place     
-         over the wheel.        
+to hold them in place over the wheel.
 
 63
 00:04:16,790 --> 00:04:20,191
-   workers grease the channel   
-    of the now-painted wheel    
+workers grease the channel of the now-painted wheel
 
 64
 00:04:20,193 --> 00:04:22,794
-        so that the tire        
-      will slip on easily.      
+so that the tire will slip on easily.
 
 65
 00:04:22,796 --> 00:04:24,129
-    then they mount the wheel   
+then they mount the wheel
 
 66
 00:04:24,131 --> 00:04:26,398
-        on the automated        
-   tire-installation machine,   
+on the automated tire-installation machine,
 
 67
 00:04:26,400 --> 00:04:28,066
-    which pulls on the wires,   
+which pulls on the wires,
 
 68
 00:04:28,068 --> 00:04:31,436
-       installing the tire      
-     tightly over the wheel.    
+installing the tire tightly over the wheel.
 
 69
 00:04:33,407 --> 00:04:36,141
-    they solder the wire ends   
-            together            
+they solder the wire ends together
 
 70
 00:04:36,143 --> 00:04:39,211
-       using bronze solder      
-      for a stronger joint.     
+using bronze solder for a stronger joint.
 
 71
 00:04:41,882 --> 00:04:44,349
-       then -- here comes       
-      the high-tech part --     
+then -- here comes the high-tech part --
 
 72
 00:04:44,351 --> 00:04:47,552
-     they bang the wheel on     
-  the ground four or five times 
+they bang the wheel on the ground four or five times
 
 73
 00:04:47,554 --> 00:04:50,555
-       until the distance       
-  between the tire ends closes, 
+until the distance between the tire ends closes,
 
 74
 00:04:50,557 --> 00:04:54,059
-   covering the soldered wires  
-             inside.            
+covering the soldered wires inside.
 
 75
 00:04:56,630 --> 00:04:59,965
-       a tap of the hammer      
-    followed by a final bang    
+a tap of the hammer followed by a final bang
 
 76
 00:04:59,967 --> 00:05:02,501
-     ensures the tire joint     
-           is secure.           
+ensures the tire joint is secure.
 
 77
 00:05:02,503 --> 00:05:05,503
-  now they can mount the wheels 
-         onto the axles         
+now they can mount the wheels onto the axles
 
 78
 00:05:05,505 --> 00:05:09,775
-      and install the axles     
- under the body of the carriage.
+and install the axles under the body of the carriage.
 
 79
 00:05:16,250 --> 00:05:21,553
-  after testing the fifth wheel 
-        and the brakes...       
+after testing the fifth wheel and the brakes...
 
 80
 00:05:23,590 --> 00:05:27,592
-      ...it's time to apply     
- the finishing artistic touches.
+...it's time to apply the finishing artistic touches.
 
 81
 00:05:35,402 --> 00:05:39,338
-        all they need now       
-     is a little horsepower.    
+all they need now is a little horsepower.
 
 82
 00:05:47,948 --> 00:05:50,882
-            narrator:           
-the ancient romans and egyptians
+narrator: the ancient romans and egyptians
 
 83
 00:05:50,884 --> 00:05:53,418
-    fashioned artificial eyes   
-      out of painted clay.      
+fashioned artificial eyes out of painted clay.
 
 84
 00:05:53,420 --> 00:05:55,420
-          by the 1500s,         
+by the 1500s,
 
 85
 00:05:55,422 --> 00:05:58,356
-  europeans started making them 
-      out of enameled gold      
+europeans started making them out of enameled gold
 
 86
 00:05:58,358 --> 00:05:59,891
-     and soon out of glass,     
+and soon out of glass,
 
 87
 00:05:59,893 --> 00:06:03,895
-     which remained the norm    
-     for hundreds of years.     
+which remained the norm for hundreds of years.
 
 88
 00:06:03,897 --> 00:06:07,899
-   today most artificial eyes   
-      are made of acrylic.      
+today most artificial eyes are made of acrylic.
 
 89
 00:06:09,903 --> 00:06:14,238
-      if you've lost an eye     
- in an accident or to a disease,
+if you've lost an eye in an accident or to a disease,
 
 90
 00:06:14,240 --> 00:06:16,708
-          a specialist          
-      known as an ocularist     
+a specialist known as an ocularist
 
 91
 00:06:16,710 --> 00:06:19,044
-           can fit you          
-     with an artificial eye.    
+can fit you with an artificial eye.
 
 92
 00:06:19,046 --> 00:06:23,381
- you can get a ready-made model 
-  or a custom-made prosthesis,  
+you can get a ready-made model or a custom-made prosthesis,
 
 93
 00:06:23,383 --> 00:06:27,118
-     like the one for which     
-  this patient is being fitted. 
+like the one for which this patient is being fitted.
 
 94
 00:06:27,120 --> 00:06:29,654
-   no two people's eye sockets  
-          are the same,         
+no two people's eye sockets are the same,
 
 95
 00:06:29,656 --> 00:06:32,524
-        so the first step       
-    is to take an impression.   
+so the first step is to take an impression.
 
 96
 00:06:32,526 --> 00:06:34,926
-         after inserting        
-       an impression tray,      
+after inserting an impression tray,
 
 97
 00:06:34,928 --> 00:06:37,395
-     they inject a material     
-        called alginate,        
+they inject a material called alginate,
 
 98
 00:06:37,397 --> 00:06:39,931
-       filling the entire       
-         socket cavity.         
+filling the entire socket cavity.
 
 99
 00:06:39,933 --> 00:06:44,268
-       after 90 seconds,        
-       the alginate sets,       
+after 90 seconds, the alginate sets,
 
 100
 00:06:44,270 --> 00:06:47,005
-       and they can remove      
-    the hardened impression.    
+and they can remove the hardened impression.
 
 101
 00:06:47,007 --> 00:06:50,375
-    they place the impression   
-           in a mold.           
+they place the impression in a mold.
 
 102
 00:06:52,212 --> 00:06:55,947
- and pour in a type of plaster. 
+and pour in a type of plaster.
 
 103
 00:06:55,949 --> 00:06:58,016
- when the plaster has hardened, 
+when the plaster has hardened,
 
 104
 00:06:58,018 --> 00:07:01,686
- they remove the impression tray
- and then the impression itself.
+they remove the impression tray
+and then the impression itself.
 
 105
 00:07:01,688 --> 00:07:06,157
-   what's left in the mold is   
-a plaster replica of the socket.
+what's left in the mold is a plaster replica of the socket.
 
 106
 00:07:06,159 --> 00:07:10,028
- now they put a wad of acrylic  
- plastic dough into the mold... 
+now they put a wad of acrylic plastic dough into the mold...
 
 107
 00:07:12,098 --> 00:07:14,899
- ...lock the mold into a press, 
+...lock the mold into a press,
 
 108
 00:07:14,901 --> 00:07:18,169
-         and submerge it        
- in a high-pressure curing unit 
+and submerge it in a high-pressure curing unit
 
 109
 00:07:18,171 --> 00:07:19,838
-         for 25 minutes.        
+for 25 minutes.
 
 110
 00:07:19,840 --> 00:07:22,907
-     then they cool the mold    
-         in cold water.         
+then they cool the mold in cold water.
 
 111
 00:07:22,909 --> 00:07:25,510
- here's the original impression 
+here's the original impression
 
 112
 00:07:25,512 --> 00:07:28,647
-  compared to the acrylic model 
-       they've just cast.       
+compared to the acrylic model they've just cast.
 
 113
 00:07:28,649 --> 00:07:31,516
-      this model is called      
-        the fitting shape       
+this model is called the fitting shape
 
 114
 00:07:31,518 --> 00:07:32,984
-       because they use it      
+because they use it
 
 115
 00:07:32,986 --> 00:07:36,455
- to fit and mark the positioning
-        of the fake iris.       
+to fit and mark the positioning
+of the fake iris.
 
 116
 00:07:40,794 --> 00:07:42,794
-  they accentuate the markings, 
+they accentuate the markings,
 
 117
 00:07:42,796 --> 00:07:46,398
-        then attach a peg       
-       with a drop of wax.      
+then attach a peg with a drop of wax.
 
 118
 00:07:46,400 --> 00:07:48,867
-        the peg indicates       
-  the natural angle of the iris 
+the peg indicates the natural angle of the iris
 
 119
 00:07:48,869 --> 00:07:51,670
-        when the patient        
-       is looking forward.      
+when the patient is looking forward.
 
 120
 00:07:51,672 --> 00:07:54,339
-       next, they add wax       
-      around the perimeter      
+next, they add wax around the perimeter
 
 121
 00:07:54,341 --> 00:07:56,340
-  to enlarge the fitting shape. 
+to enlarge the fitting shape.
 
 122
 00:07:56,342 --> 00:07:58,944
-           this excess          
-     will give the ocularist    
+this excess will give the ocularist
 
 123
 00:07:58,946 --> 00:08:02,214
-     some room to work with     
-     for the final sizing.      
+some room to work with for the final sizing.
 
 124
 00:08:02,216 --> 00:08:05,750
-   now they take this marked    
-   and enlarged fitting shape   
+now they take this marked and enlarged fitting shape
 
 125
 00:08:05,752 --> 00:08:07,619
-    and make a plaster mold.    
+and make a plaster mold.
 
 126
 00:08:07,621 --> 00:08:10,087
-  they will later use that mold 
+they will later use that mold
 
 127
 00:08:10,089 --> 00:08:12,424
-             to cast            
-   the actual artificial eye.   
+to cast the actual artificial eye.
 
 128
 00:08:12,426 --> 00:08:15,159
-   but first they have to make  
-            the iris.           
+but first they have to make the iris.
 
 129
 00:08:15,161 --> 00:08:18,296
-       they take a curved,      
-       black acrylic disc       
+they take a curved, black acrylic disc
 
 130
 00:08:18,298 --> 00:08:20,832
-          and paint it          
-  as realistically as possible  
+and paint it as realistically as possible
 
 131
 00:08:20,834 --> 00:08:22,501
- with high-quality artist oils. 
+with high-quality artist oils.
 
 132
 00:08:22,503 --> 00:08:27,505
-  the patient has to be present 
- so they can match the real eye.
+the patient has to be present so they can match the real eye.
 
 133
 00:08:27,507 --> 00:08:29,908
-         next, they glue        
-        an acrylic cornea       
+next, they glue an acrylic cornea
 
 134
 00:08:29,910 --> 00:08:34,045
- with an appropriate-sized pupil
-     onto the painted iris.     
+with an appropriate-sized pupil
+onto the painted iris.
 
 135
 00:08:34,047 --> 00:08:35,313
-         at this point,         
+at this point,
 
 136
 00:08:35,315 --> 00:08:38,649
-       the artificial iris      
-  is half an inch in diameter.  
+the artificial iris is half an inch in diameter.
 
 137
 00:08:38,651 --> 00:08:41,719
-   if the patient's real iris   
-           is smaller,          
+if the patient's real iris is smaller,
 
 138
 00:08:41,721 --> 00:08:44,455
-   they trim down the replica   
-            to match.           
+they trim down the replica to match.
 
 139
 00:08:44,457 --> 00:08:47,392
-       the iris then goes       
-      into the plaster mold     
+the iris then goes into the plaster mold
 
 140
 00:08:47,394 --> 00:08:49,727
-          covered with          
-      white acrylic dough.      
+covered with white acrylic dough.
 
 141
 00:08:49,729 --> 00:08:53,731
-  after the same high-pressure  
-    curing process as before,   
+after the same high-pressure curing process as before,
 
 142
 00:08:53,733 --> 00:08:55,734
-  out comes the artificial eye  
+out comes the artificial eye
 
 143
 00:08:55,736 --> 00:08:59,804
-          covered with          
-      excess white acrylic.     
+covered with excess white acrylic.
 
 144
 00:08:59,806 --> 00:09:02,673
-    they trim off that excess   
-           and the peg          
+they trim off that excess and the peg
 
 145
 00:09:02,675 --> 00:09:05,276
-      using a grinding tool     
-          and a cutter.         
+using a grinding tool and a cutter.
 
 146
 00:09:05,278 --> 00:09:07,545
-     this refines the shape     
+this refines the shape
 
 147
 00:09:07,547 --> 00:09:10,081
-      and exposes the iris      
-       buried underneath.       
+and exposes the iris buried underneath.
 
 148
 00:09:10,083 --> 00:09:13,151
-    they smooth the surface     
-    against a grinding stone    
+they smooth the surface against a grinding stone
 
 149
 00:09:13,153 --> 00:09:15,954
-  and verify the measurements.  
+and verify the measurements.
 
 150
 00:09:15,956 --> 00:09:18,757
-              then,             
-  using hard coloring pencils,  
+then, using hard coloring pencils,
 
 151
 00:09:18,759 --> 00:09:20,959
-   they add finishing touches   
-           to the iris          
+they add finishing touches to the iris
 
 152
 00:09:20,961 --> 00:09:23,027
-     and draw blood vessels.    
+and draw blood vessels.
 
 153
 00:09:23,029 --> 00:09:25,764
-       they label the eye       
-   with the patient's initials  
+they label the eye with the patient's initials
 
 154
 00:09:25,766 --> 00:09:28,032
-         and then apply         
-       an acrylic coating       
+and then apply an acrylic coating
 
 155
 00:09:28,034 --> 00:09:29,968
-    to seal the pencil marks.   
+to seal the pencil marks.
 
 156
 00:09:36,843 --> 00:09:38,977
-         to create veins        
-      with some dimension,      
+to create veins with some dimension,
 
 157
 00:09:38,979 --> 00:09:40,978
-            they use            
-    the same acrylic coating    
+they use the same acrylic coating
 
 158
 00:09:40,980 --> 00:09:43,715
-           to stick on          
-   some delicate silk threads.  
+to stick on some delicate silk threads.
 
 159
 00:09:50,591 --> 00:09:51,990
-     once they're satisfied     
+once they're satisfied
 
 160
 00:09:51,992 --> 00:09:54,593
-       the artificial eye       
-       is a perfect match,      
+the artificial eye is a perfect match,
 
 161
 00:09:54,595 --> 00:09:58,129
-      they seal the artwork     
-  with another acrylic coating. 
+they seal the artwork with another acrylic coating.
 
 162
 00:09:58,131 --> 00:10:00,131
-        once that cures,        
+once that cures,
 
 163
 00:10:00,133 --> 00:10:04,936
- they polish the eye to a shine 
-      with a cotton wheel.      
+they polish the eye to a shine with a cotton wheel.
 
 164
 00:10:04,938 --> 00:10:08,739
-      the shapes and colors     
- of artificial eyes are endless 
+the shapes and colors of artificial eyes are endless
 
 165
 00:10:08,741 --> 00:10:12,811
-  because patients' eye sockets 
-    and irises vary greatly,    
+because patients' eye sockets and irises vary greatly,
 
 166
 00:10:12,813 --> 00:10:15,480
-      as do their scleras,      
-      the white of the eye.     
+as do their scleras, the white of the eye.
 
 167
 00:10:15,482 --> 00:10:21,352
-      this artificial eye,      
- or ocular prosthesis, is ready.
+this artificial eye, or ocular prosthesis, is ready.
 
 168
 00:10:21,354 --> 00:10:24,756
-   the final step is to ensure  
-    that the fit is perfect.    
+the final step is to ensure that the fit is perfect.
 
 169
 00:10:24,758 --> 00:10:28,159
-  the patient's ocular muscles  
-     attach to the implant,     
+the patient's ocular muscles attach to the implant,
 
 170
 00:10:28,161 --> 00:10:30,695
-   enabling his artificial eye  
+enabling his artificial eye
 
 171
 00:10:30,697 --> 00:10:32,998
-       to move in unison        
-       with his real eye.       
+to move in unison with his real eye.
 
 172
 00:10:43,176 --> 00:10:46,911
-  narrator: so much for feeding 
-   fido scraps from the table.  
+narrator: so much for feeding fido scraps from the table.
 
 173
 00:10:46,913 --> 00:10:48,713
-        today's pet food        
+today's pet food
 
 174
 00:10:48,715 --> 00:10:52,050
-  is the stuff of sophisticated 
-      nutritional science.      
+is the stuff of sophisticated nutritional science.
 
 175
 00:10:52,052 --> 00:10:54,852
-       it's about protein,      
-         carbohydrates,         
+it's about protein, carbohydrates,
 
 176
 00:10:54,854 --> 00:10:58,256
-      vitamins, minerals --     
-      a well-balanced diet.     
+vitamins, minerals -- a well-balanced diet.
 
 177
 00:10:58,258 --> 00:11:02,327
- want to bet some dogs and cats 
-eat healthier than their owners?
+want to bet some dogs and cats eat healthier than their owners?
 
 178
 00:11:06,866 --> 00:11:09,667
-          the formulas          
-   for dog and cat food differ  
+the formulas for dog and cat food differ
 
 179
 00:11:09,669 --> 00:11:11,135
-      because dogs and cats     
+because dogs and cats
 
 180
 00:11:11,137 --> 00:11:13,671
-         have different         
-    nutritional requirements.   
+have different nutritional requirements.
 
 181
 00:11:13,673 --> 00:11:15,206
-       cats, for instance,      
+cats, for instance,
 
 182
 00:11:15,208 --> 00:11:18,343
-    need more fat and protein   
-   in their diet than dogs do.  
+need more fat and protein in their diet than dogs do.
 
 183
 00:11:18,345 --> 00:11:21,279
-    but the basic ingredients   
-     that factories grind up    
+but the basic ingredients that factories grind up
 
 184
 00:11:21,281 --> 00:11:23,881
-    to make dog and cat food    
-          are similar.          
+to make dog and cat food are similar.
 
 185
 00:11:23,883 --> 00:11:27,519
-      first, corn kernels.      
+first, corn kernels.
 
 186
 00:11:36,363 --> 00:11:41,232
- then cereals, such as barley...
+then cereals, such as barley...
 
 187
 00:11:41,234 --> 00:11:43,701
-            wheat...            
+wheat...
 
 188
 00:11:43,703 --> 00:11:45,369
-            and rice.           
+and rice.
 
 189
 00:11:45,371 --> 00:11:48,706
- workers weigh the ingredients, 
-      grind them in a mill,     
+workers weigh the ingredients, grind them in a mill,
 
 190
 00:11:48,708 --> 00:11:50,842
-     then combine everything    
-           in a mixer           
+then combine everything in a mixer
 
 191
 00:11:50,844 --> 00:11:54,044
-    until they have an even     
-    and well-blended powder.    
+until they have an even and well-blended powder.
 
 192
 00:11:54,046 --> 00:11:59,116
-  a machine called the extruder 
-     transforms that powder     
+a machine called the extruder transforms that powder
 
 193
 00:11:59,118 --> 00:12:02,186
-     into bite-sized pieces     
-          of pet food.          
+into bite-sized pieces of pet food.
 
 194
 00:12:02,188 --> 00:12:04,555
-   it steam-coats the mixture,  
+it steam-coats the mixture,
 
 195
 00:12:04,557 --> 00:12:07,592
-   then forces it through dies  
-        at high pressure.       
+then forces it through dies at high pressure.
 
 196
 00:12:07,594 --> 00:12:11,129
-       the dies shape it,       
- the way the tip of a pastry bag
+the dies shape it, the way the tip of a pastry bag
 
 197
 00:12:11,131 --> 00:12:13,832
-    shapes icing into swirls    
-            or roses.           
+shapes icing into swirls or roses.
 
 198
 00:12:13,834 --> 00:12:17,068
-  check out this dog-bone die.  
+check out this dog-bone die.
 
 199
 00:12:17,070 --> 00:12:21,206
-    as the continuous stream    
-of shaped mixture exits the die,
+as the continuous stream of shaped mixture exits the die,
 
 200
 00:12:21,208 --> 00:12:24,709
-        a spinning knife        
-      cuts it into pieces.      
+a spinning knife cuts it into pieces.
 
 201
 00:12:29,682 --> 00:12:33,685
- the company has different dies 
-  to produce different shapes.  
+the company has different dies to produce different shapes.
 
 202
 00:12:37,490 --> 00:12:40,859
@@ -955,212 +816,182 @@ this is a batch of round pieces.
 
 203
 00:12:47,234 --> 00:12:51,435
-   next stop, a hot-air dryer   
-         for 25 minutes.        
+next stop, a hot-air dryer for 25 minutes.
 
 204
 00:12:51,437 --> 00:12:54,972
-       it heats the pieces      
-    to 300 degrees fahrenheit   
+it heats the pieces to 300 degrees fahrenheit
 
 205
 00:12:54,974 --> 00:12:56,374
-    to draw out the moisture,   
+to draw out the moisture,
 
 206
 00:12:56,376 --> 00:12:59,144
-         then cools them        
-      at room temperature.      
+then cools them at room temperature.
 
 207
 00:13:05,118 --> 00:13:09,854
- once the pieces exit the dryer,
-  they enter a revolving drum,  
+once the pieces exit the dryer,
+they enter a revolving drum,
 
 208
 00:13:09,856 --> 00:13:12,523
- where they're sprayed with fat 
-         and flavoring.         
+where they're sprayed with fat and flavoring.
 
 209
 00:13:12,525 --> 00:13:15,660
-       the fat is designed      
-       to add food energy       
+the fat is designed to add food energy
 
 210
 00:13:15,662 --> 00:13:17,729
-       while the flavoring      
-     gives the bland pieces     
+while the flavoring gives the bland pieces
 
 211
 00:13:17,731 --> 00:13:20,198
- an appetizing odor and taste --
+an appetizing odor and taste --
 
 212
 00:13:20,200 --> 00:13:22,834
-  appetizing for pets, that is. 
+appetizing for pets, that is.
 
 213
 00:13:26,439 --> 00:13:31,009
- the rotation ensures the pieces
-       get coated evenly.       
+the rotation ensures the pieces
+get coated evenly.
 
 214
 00:13:38,084 --> 00:13:42,220
-    from here, the pieces go    
-       into storage silos.      
+from here, the pieces go into storage silos.
 
 215
 00:13:42,222 --> 00:13:44,889
-    when they leave the silos   
-          for bagging,          
+when they leave the silos for bagging,
 
 216
 00:13:44,891 --> 00:13:47,792
-    the machinery screens out   
-           any crumbs.          
+the machinery screens out any crumbs.
 
 217
 00:13:51,164 --> 00:13:54,899
- the pet-food industry has made 
- some interesting observations  
+the pet-food industry has made some interesting observations
 
 218
 00:13:54,901 --> 00:13:58,369
-  about the likes and dislikes  
-  of its four-legged clientele. 
+about the likes and dislikes of its four-legged clientele.
 
 219
 00:13:58,371 --> 00:14:02,240
-    apparently, cats and dogs   
-     aren't crazy about food    
+apparently, cats and dogs aren't crazy about food
 
 220
 00:14:02,242 --> 00:14:06,110
-         that's too dry,        
- too hard to chew, or too mushy.
+that's too dry, too hard to chew, or too mushy.
 
 221
 00:14:06,112 --> 00:14:09,247
-  if the pieces are too small,  
-   they'll swallow them whole   
+if the pieces are too small, they'll swallow them whole
 
 222
 00:14:09,249 --> 00:14:11,916
-         without chewing        
-  and not digest them properly. 
+without chewing and not digest them properly.
 
 223
 00:14:11,918 --> 00:14:14,585
- but if the pieces are too big, 
+but if the pieces are too big,
 
 224
 00:14:14,587 --> 00:14:18,489
- they'll gag and get turned off 
-     to the food altogether.    
+they'll gag and get turned off to the food altogether.
 
 225
 00:14:20,594 --> 00:14:22,593
-  in the packaging department,  
+in the packaging department,
 
 226
 00:14:22,595 --> 00:14:26,664
-     automated scales weigh     
- the exact quantity per package.
+automated scales weigh the exact quantity per package.
 
 227
 00:14:26,666 --> 00:14:30,768
- this batch is destined for bags
-  weighing about 6 1/2 pounds.  
+this batch is destined for bags
+weighing about 6 1/2 pounds.
 
 228
 00:14:39,545 --> 00:14:43,881
-     the package sizes range    
-    from just under one pound   
+the package sizes range from just under one pound
 
 229
 00:14:43,883 --> 00:14:47,051
-  all the way up to 44 pounds.  
+all the way up to 44 pounds.
 
 230
 00:14:48,321 --> 00:14:51,356
-      shelf life is from 12     
-          to 16 months,         
+shelf life is from 12 to 16 months,
 
 231
 00:14:51,358 --> 00:14:53,258
-    depending on the formula.   
+depending on the formula.
 
 232
 00:15:04,671 --> 00:15:06,570
-      pet-food experts say      
+pet-food experts say
 
 233
 00:15:06,572 --> 00:15:09,974
-    dogs and cats prefer food   
-     with a fattier content     
+dogs and cats prefer food with a fattier content
 
 234
 00:15:09,976 --> 00:15:12,577
-         and a combined         
-     meat-and-cereal formula    
+and a combined meat-and-cereal formula
 
 235
 00:15:12,579 --> 00:15:15,580
-     over just cereal alone,    
+over just cereal alone,
 
 236
 00:15:15,582 --> 00:15:19,317
-   but too much meat flavoring  
-       can turn them off.       
+but too much meat flavoring can turn them off.
 
 237
 00:15:19,319 --> 00:15:22,387
-        cats, as a rule,        
-      are more particular.      
+cats, as a rule, are more particular.
 
 238
 00:15:22,389 --> 00:15:24,322
-  they favor more acidic food,  
+they favor more acidic food,
 
 239
 00:15:24,324 --> 00:15:26,857
-     while dogs tend to have    
-        a sweeter tooth.        
+while dogs tend to have a sweeter tooth.
 
 240
 00:15:26,859 --> 00:15:30,662
-      and you thought kids      
-       were fussy eaters.       
+and you thought kids were fussy eaters.
 
 241
 00:15:39,005 --> 00:15:42,073
-      narrator: no bathroom     
-    is complete without one.    
+narrator: no bathroom is complete without one.
 
 242
 00:15:42,075 --> 00:15:43,941
-  and any parent will tell you  
+and any parent will tell you
 
 243
 00:15:43,943 --> 00:15:46,810
-        that no teenager        
-    can survive without one.    
+that no teenager can survive without one.
 
 244
 00:15:46,812 --> 00:15:51,482
-   mirror, mirror on the wall,  
-how do they make you, after all?
+mirror, mirror on the wall, how do they make you, after all?
 
 245
 00:15:51,484 --> 00:15:54,485
-      well, "how it's made"     
-      is about to show you.     
+well, "how it's made" is about to show you.
 
 246
 00:15:54,487 --> 00:15:58,589
-    but first, let's reflect    
-   on the history of mirrors.   
+but first, let's reflect on the history of mirrors.
 
 247
 00:16:03,630 --> 00:16:08,966
@@ -1169,144 +1000,120 @@ pieces of highly polished metal,
 
 248
 00:16:08,968 --> 00:16:10,935
-    such as brass or bronze.    
+such as brass or bronze.
 
 249
 00:16:10,937 --> 00:16:14,038
-     they're even mentioned     
-          in the bible.         
+they're even mentioned in the bible.
 
 250
 00:16:14,040 --> 00:16:16,174
-   then, in the 14th century,   
+then, in the 14th century,
 
 251
 00:16:16,176 --> 00:16:19,510
-     the venetians invented     
-    very crude glass mirrors    
+the venetians invented very crude glass mirrors
 
 252
 00:16:19,512 --> 00:16:22,046
-       that reflected off       
-       a metallic backing.      
+that reflected off a metallic backing.
 
 253
 00:16:22,048 --> 00:16:24,515
-      they later perfected      
-         this technique         
+they later perfected this technique
 
 254
 00:16:24,517 --> 00:16:27,051
-        using an amalgam        
-       of tin and mercury.      
+using an amalgam of tin and mercury.
 
 255
 00:16:27,053 --> 00:16:30,187
-     eventually, the secret     
-     of mirror-making spread    
+eventually, the secret of mirror-making spread
 
 256
 00:16:30,189 --> 00:16:31,722
-        to other cities.        
+to other cities.
 
 257
 00:16:31,724 --> 00:16:34,792
-            by 1835,            
-   a german chemist developed   
+by 1835, a german chemist developed
 
 258
 00:16:34,794 --> 00:16:38,663
-    the silver-backed mirror    
-       that we know today.      
+the silver-backed mirror that we know today.
 
 259
 00:16:46,806 --> 00:16:49,807
-       a mirror starts out      
-         as clear glass.        
+a mirror starts out as clear glass.
 
 260
 00:16:49,809 --> 00:16:53,878
-     a robot lays each panel    
-horizontally on a conveyor belt,
+a robot lays each panel horizontally on a conveyor belt,
 
 261
 00:16:53,880 --> 00:16:58,082
-       which transports it      
-     to the washing station.    
+which transports it to the washing station.
 
 262
 00:16:58,084 --> 00:17:02,219
- there, sprayers blast the glass
-  with water and cerium oxide,  
+there, sprayers blast the glass
+with water and cerium oxide,
 
 263
 00:17:02,221 --> 00:17:05,222
-        a powder derived        
-      from a type of soil.      
+a powder derived from a type of soil.
 
 264
 00:17:05,224 --> 00:17:08,426
-     rotating brushes scrub     
-           and polish           
+rotating brushes scrub and polish
 
 265
 00:17:08,428 --> 00:17:11,695
-          both the top          
-      and bottom surfaces,      
+both the top and bottom surfaces,
 
 266
 00:17:11,697 --> 00:17:14,031
-          removing oils         
-     and other contaminants.    
+removing oils and other contaminants.
 
 267
 00:17:14,033 --> 00:17:18,369
-   this washing process takes   
-   about a minute per panel.    
+this washing process takes about a minute per panel.
 
 268
 00:17:18,371 --> 00:17:21,105
- next, sprayers rinse the glass 
+next, sprayers rinse the glass
 
 269
 00:17:21,107 --> 00:17:23,908
-         with piping-hot        
-      demineralized water,      
+with piping-hot demineralized water,
 
 270
 00:17:23,910 --> 00:17:27,178
-      demineralized because     
- the minerals in plain tap water
+demineralized because the minerals in plain tap water
 
 271
 00:17:27,180 --> 00:17:30,380
-     would damage the metals    
-        they apply next.        
+would damage the metals they apply next.
 
 272
 00:17:30,382 --> 00:17:33,784
-         the first metal        
-        is liquefied tin,       
+the first metal is liquefied tin,
 
 273
 00:17:33,786 --> 00:17:37,655
-   which goes on what will be   
-     the back of the mirror.    
+which goes on what will be the back of the mirror.
 
 274
 00:17:37,657 --> 00:17:41,392
-   it allows the second metal,  
-        silver, to adhere       
+it allows the second metal, silver, to adhere
 
 275
 00:17:41,394 --> 00:17:44,394
-   because silver won't stick   
-       directly to glass.       
+because silver won't stick directly to glass.
 
 276
 00:17:44,396 --> 00:17:46,997
-           the silver           
-     is also in liquid form     
+the silver is also in liquid form
 
 277
 00:17:46,999 --> 00:17:49,667
@@ -1314,32 +1121,27 @@ mixed with a chemical activator.
 
 278
 00:17:49,669 --> 00:17:53,204
-  within seconds of interacting 
-    with the tin, it hardens.   
+within seconds of interacting with the tin, it hardens.
 
 279
 00:17:53,206 --> 00:17:56,673
-         and as it does,        
- you begin to see a reflection. 
+and as it does, you begin to see a reflection.
 
 280
 00:17:56,675 --> 00:17:58,609
-    it's this silver backing    
+it's this silver backing
 
 281
 00:17:58,611 --> 00:18:02,146
-   that transforms clear glass  
-         into a mirror.         
+that transforms clear glass into a mirror.
 
 282
 00:18:02,148 --> 00:18:04,748
-       sprayers rinse off       
-       the excess silver,       
+sprayers rinse off the excess silver,
 
 283
 00:18:04,750 --> 00:18:08,019
-       which gets recycled      
-      back into the system.     
+which gets recycled back into the system.
 
 284
 00:18:10,956 --> 00:18:15,026
@@ -1348,239 +1150,203 @@ backing with two coats of paint.
 
 285
 00:18:15,028 --> 00:18:16,560
-    paint by itself, however,   
+paint by itself, however,
 
 286
 00:18:16,562 --> 00:18:19,830
-     isn't enough to protect    
-  the silver in the long term.  
+isn't enough to protect the silver in the long term.
 
 287
 00:18:19,832 --> 00:18:23,501
-     so they first spray on     
-       a layer of copper.       
+so they first spray on a layer of copper.
 
 288
 00:18:31,844 --> 00:18:34,378
-       sprayers rinse off       
-       the excess copper.       
+sprayers rinse off the excess copper.
 
 289
 00:18:34,380 --> 00:18:37,048
-  then the panel passes through 
-             a dryer            
+then the panel passes through a dryer
 
 290
 00:18:37,050 --> 00:18:40,384
-      at almost 160 degrees     
-           fahrenheit.          
+at almost 160 degrees fahrenheit.
 
 291
 00:18:40,386 --> 00:18:43,054
-  this evaporates the moisture  
-         on the surface         
+this evaporates the moisture on the surface
 
 292
 00:18:43,056 --> 00:18:45,423
-       in just 75 seconds.      
+in just 75 seconds.
 
 293
 00:18:47,193 --> 00:18:49,327
-      now the panel passes,     
-         copper side up,        
+now the panel passes, copper side up,
 
 294
 00:18:49,329 --> 00:18:51,996
-     through what is called     
-       the curtain coater,      
+through what is called the curtain coater,
 
 295
 00:18:51,998 --> 00:18:55,466
-       a machine that runs      
-  a continuous curtain of paint 
+a machine that runs a continuous curtain of paint
 
 296
 00:18:55,468 --> 00:18:57,534
-    across the conveyor belt.   
+across the conveyor belt.
 
 297
 00:18:57,536 --> 00:19:00,737
-  with its fresh coat of paint, 
+with its fresh coat of paint,
 
 298
 00:19:00,739 --> 00:19:02,907
- the mirror then passes through 
-             an oven            
+the mirror then passes through an oven
 
 299
 00:19:02,909 --> 00:19:04,741
-      heated to 210 degrees     
-           fahrenheit.          
+heated to 210 degrees fahrenheit.
 
 300
 00:19:04,743 --> 00:19:09,680
- after a minute and 45 seconds, 
-       the paint is cured.      
+after a minute and 45 seconds, the paint is cured.
 
 301
 00:19:09,682 --> 00:19:12,082
-  now the second coat of paint. 
+now the second coat of paint.
 
 302
 00:19:12,084 --> 00:19:14,418
-        there's no reason       
-     for the different color    
+there's no reason for the different color
 
 303
 00:19:14,420 --> 00:19:17,020
-   other than to differentiate  
-           the coats.           
+other than to differentiate the coats.
 
 304
 00:19:17,022 --> 00:19:20,291
-  this time, the curing period  
-        is twice as long        
+this time, the curing period is twice as long
 
 305
 00:19:20,293 --> 00:19:25,763
-  and at a higher temperature,  
-close to 245 degrees fahrenheit.
+and at a higher temperature, close to 245 degrees fahrenheit.
 
 306
 00:19:25,765 --> 00:19:29,299
-  after an acid wash to remove  
-       any metal residues,      
+after an acid wash to remove any metal residues,
 
 307
 00:19:29,301 --> 00:19:34,038
-  they stand the panel upright  
-         to inspect it.         
+they stand the panel upright to inspect it.
 
 308
 00:19:34,040 --> 00:19:37,441
-      if they find a fault,     
- such as a bubble in the glass, 
+if they find a fault, such as a bubble in the glass,
 
 309
 00:19:37,443 --> 00:19:40,011
-   they cut that portion out.   
+they cut that portion out.
 
 310
 00:19:43,249 --> 00:19:46,516
-      the factory now cuts      
-       these large panels       
+the factory now cuts these large panels
 
 311
 00:19:46,518 --> 00:19:49,387
-  into whatever size and shape  
-    the customer has ordered    
+into whatever size and shape the customer has ordered
 
 312
 00:19:49,389 --> 00:19:52,523
-         using a special        
-     mirror-cutting machine     
+using a special mirror-cutting machine
 
 313
 00:19:52,525 --> 00:19:56,327
-     that's precision-guided    
-      by computer software.     
+that's precision-guided by computer software.
 
 314
 00:19:59,732 --> 00:20:03,201
-      it scores the mirror      
-     using a carbide wheel.     
+it scores the mirror using a carbide wheel.
 
 315
 00:20:03,203 --> 00:20:05,803
-   carbide is a strong metal.   
+carbide is a strong metal.
 
 316
 00:20:07,940 --> 00:20:09,540
-     to make round mirrors,     
+to make round mirrors,
 
 317
 00:20:09,542 --> 00:20:12,810
-    the machine first scores    
-    the panel into squares.     
+the machine first scores the panel into squares.
 
 318
 00:20:12,812 --> 00:20:15,212
-      then, in each square,     
-       it scores a circle.      
+then, in each square, it scores a circle.
 
 319
 00:20:15,214 --> 00:20:17,481
-      using special tools,      
+using special tools,
 
 320
 00:20:17,483 --> 00:20:20,952
-  workers separate the squares, 
-        then the circles.       
+workers separate the squares, then the circles.
 
 321
 00:20:32,165 --> 00:20:34,332
-    to make beveled mirrors,    
+to make beveled mirrors,
 
 322
 00:20:34,334 --> 00:20:37,068
-     they use what's called     
-    the shape-bevel machine.    
+they use what's called the shape-bevel machine.
 
 323
 00:20:39,839 --> 00:20:42,807
- first, it carves out the edge. 
+first, it carves out the edge.
 
 324
 00:20:44,777 --> 00:20:49,480
-   then polishes it to a shine  
-using concentrated cerium oxide,
+then polishes it to a shine using concentrated cerium oxide,
 
 325
 00:20:49,482 --> 00:20:52,049
-       a stronger version       
-    of what they used earlier   
+a stronger version of what they used earlier
 
 326
 00:20:52,051 --> 00:20:55,853
-   to clean the glass surface   
- before plating it with metals. 
+to clean the glass surface before plating it with metals.
 
 327
 00:20:59,124 --> 00:21:01,659
-        mirror factories        
-     also ship whole panels     
+mirror factories also ship whole panels
 
 328
 00:21:01,661 --> 00:21:04,528
-  to shops that do the cutting  
-           themselves,          
+to shops that do the cutting themselves,
 
 329
 00:21:04,530 --> 00:21:09,066
- a fragile feat that's certainly
-   not for the superstitious.   
+a fragile feat that's certainly
+not for the superstitious.
 
 330
 00:21:09,068 --> 00:21:12,136
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 331
 00:21:12,138 --> 00:21:15,072
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 332
 00:21:16,943 --> 00:21:19,076
-    if you have any comments    
-         about the show         
+if you have any comments about the show
 
 333
 00:21:19,078 --> 00:21:21,745
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,
 
 334
 00:21:21,747 --> 00:21:23,381
-      drop us a line at...      
+drop us a line at...
+
 

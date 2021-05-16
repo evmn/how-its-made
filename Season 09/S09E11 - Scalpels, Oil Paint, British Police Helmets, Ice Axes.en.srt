@@ -2542,13 +2542,11 @@ help you scale new heights.
 
 428
 00:20:57,857 --> 00:21:00,791
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 429
 00:21:00,793 --> 00:21:03,861
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 430
 00:21:07,065 --> 00:21:08,365

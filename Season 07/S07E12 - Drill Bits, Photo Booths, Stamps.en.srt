@@ -1,247 +1,214 @@
 1
 00:00:22,489 --> 00:00:26,491
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:26,493 --> 00:00:28,127
-          drill bits...         
+drill bits...         
 
 3
 00:00:32,366 --> 00:00:33,565
-       ...photo booths...       
+...photo booths...       
 
 4
 00:00:38,705 --> 00:00:40,706
-         ...and stamps.         
+...and stamps.         
 
 5
 00:00:52,719 --> 00:00:54,586
-   drill bits are attachments   
+drill bits are attachments   
 
 6
 00:00:54,588 --> 00:00:56,121
-  you fasten to drilling tools. 
+you fasten to drilling tools. 
 
 7
 00:00:56,123 --> 00:00:58,123
-       a taper-point drill      
-       narrows to a point       
+a taper-point drill narrows to a point       
 
 8
 00:00:58,125 --> 00:01:00,192
-   so the threads of the screw  
-         grab the wood.         
+so the threads of the screw grab the wood.         
 
 9
 00:01:00,194 --> 00:01:03,195
-   a countersink makes the top  
-  of the hole the same diameter 
+a countersink makes the top of the hole the same diameter 
 
 10
 00:01:03,197 --> 00:01:04,462
-        as the screw head       
+as the screw head       
 
 11
 00:01:04,464 --> 00:01:06,732
-   so that the head lies flush  
-      or below the surface.     
+so that the head lies flush or below the surface.     
 
 12
 00:01:06,734 --> 00:01:08,934
-      a plug cutter removes     
-      a round piece of wood     
+a plug cutter removes a round piece of wood     
 
 13
 00:01:08,936 --> 00:01:10,869
-       with which you plug      
-       the hole afterward       
+with which you plug the hole afterward       
 
 14
 00:01:10,871 --> 00:01:12,137
-    to hide the sunken screw.   
+to hide the sunken screw.   
 
 15
 00:01:14,341 --> 00:01:18,544
-  countersinks and plug cutters 
-    start out as steel bars.    
+countersinks and plug cutters start out as steel bars.    
 
 16
 00:01:18,546 --> 00:01:19,677
-     to make a countersink,     
+to make a countersink,     
 
 17
 00:01:19,679 --> 00:01:21,613
-      this computer-guided      
-         tooling machine        
+this computer-guided tooling machine        
 
 18
 00:01:21,615 --> 00:01:23,482
-       uses what's called       
-         a center drill         
+uses what's called a center drill         
 
 19
 00:01:23,484 --> 00:01:24,750
-   to pierce a starting hole,   
+to pierce a starting hole,   
 
 20
 00:01:24,752 --> 00:01:28,753
 then switches to its main drill,
-   which bores right through.   
+which bores right through.   
 
 21
 00:01:28,755 --> 00:01:31,223
-   next, it uses what's called  
-      a rough turning tool      
+next, it uses what's called a rough turning tool      
 
 22
 00:01:31,225 --> 00:01:35,360
-   to shape the countersink's   
-   angled nose, then its body.  
+to shape the countersink's angled nose, then its body.  
 
 23
 00:01:35,362 --> 00:01:38,297
-    the machine now switches    
-      to a milling cutter.      
+the machine now switches to a milling cutter.      
 
 24
 00:01:38,299 --> 00:01:41,233
-        this tool shapes        
- the countersink's four blades. 
+this tool shapes the countersink's four blades. 
 
 25
 00:01:45,972 --> 00:01:49,441
-   a cross-drilling tool bores  
-    a hole for the two screws   
+a cross-drilling tool bores a hole for the two screws   
 
 26
 00:01:49,443 --> 00:01:52,377
-  that'll hold the countersink  
-          to the drill.         
+that'll hold the countersink to the drill.         
 
 27
 00:01:52,379 --> 00:01:54,779
-       a tap cuts threads       
-         into the hole.         
+a tap cuts threads into the hole.         
 
 28
 00:01:54,781 --> 00:01:58,984
- next, a tool called a dovetail 
-   cutter sharpens the blades.  
+next, a tool called a dovetail cutter sharpens the blades.  
 
 29
 00:02:00,588 --> 00:02:04,323
-  then, finally, a cutoff blade 
-        removes the tool.       
+then, finally, a cutoff blade removes the tool.       
 
 30
 00:02:09,996 --> 00:02:12,063
-        the same machine        
-       makes plug cutters.      
+the same machine makes plug cutters.      
 
 31
 00:02:12,065 --> 00:02:14,266
-        its center drill        
-     makes a starting hole,     
+its center drill makes a starting hole,     
 
 32
 00:02:14,268 --> 00:02:17,402
-  but this time, the main drill 
-   doesn't bore right through.  
+but this time, the main drill doesn't bore right through.  
 
 33
 00:02:17,404 --> 00:02:20,739
- it stops at the depth that the 
- plug cutter is designed to cut.
+it stops at the depth that the plug cutter is designed to cut.
 
 34
 00:02:20,741 --> 00:02:24,076
-    just as before, the rough   
-  turning tool shapes the body, 
+just as before, the rough turning tool shapes the body, 
 
 35
 00:02:24,078 --> 00:02:26,879
-     and the milling cutter     
-    sculpts the four blades.    
+and the milling cutter sculpts the four blades.    
 
 36
 00:02:28,882 --> 00:02:31,683
- some plug cutters on the market
-       have fewer blades.       
+some plug cutters on the market
+have fewer blades.       
 
 37
 00:02:31,685 --> 00:02:33,018
-     this company makes four    
+this company makes four    
 
 38
 00:02:33,020 --> 00:02:36,154
-    so the cutter will clear    
- the wood chips more efficiently
+so the cutter will clear the wood chips more efficiently
 
 39
 00:02:36,156 --> 00:02:38,690
- when it tunnels into the wood. 
+when it tunnels into the wood. 
 
 40
 00:02:38,692 --> 00:02:41,560
-    after the dovetail cutter   
-      sharpens the blades,      
+after the dovetail cutter sharpens the blades,      
 
 41
 00:02:41,562 --> 00:02:44,963
-   a tool called a boring bar   
- refines the hole in the center,
+a tool called a boring bar refines the hole in the center,
 
 42
 00:02:44,965 --> 00:02:46,632
-   making it the proper size.   
+making it the proper size.   
 
 43
 00:02:46,634 --> 00:02:49,101
-      another turning tool      
-      now forms the shank,      
+another turning tool now forms the shank,      
 
 44
 00:02:49,103 --> 00:02:50,835
-   the stem of the plug cutter  
+the stem of the plug cutter  
 
 45
 00:02:50,837 --> 00:02:53,505
-         that you insert        
-      into the power tool.      
+that you insert into the power tool.      
 
 46
 00:02:53,507 --> 00:02:56,041
-      then the cutoff blade     
-      slices the tool off.      
+then the cutoff blade slices the tool off.      
 
 47
 00:02:59,112 --> 00:03:01,779
- now for some manual touch-ups. 
+now for some manual touch-ups. 
 
 48
 00:03:01,781 --> 00:03:05,183
-   first, they grind the plug   
+first, they grind the plug   
 cutter against an abrasive wheel
 
 49
 00:03:05,185 --> 00:03:07,586
-     to remove excess metal     
-        from the cutoff.        
+to remove excess metal from the cutoff.        
 
 50
 00:03:09,256 --> 00:03:11,856
-   then they do what's called   
-         side-chipping,         
+then they do what's called side-chipping,         
 
 51
 00:03:11,858 --> 00:03:15,193
 grinding the sides of each blade
-      to a particular shape     
+to a particular shape     
 
 52
 00:03:15,195 --> 00:03:16,995
-  that'll clear the wood chips. 
+that'll clear the wood chips. 
 
 53
 00:03:19,199 --> 00:03:21,066
@@ -249,114 +216,98 @@ here's how the plug cutter looks
 
 54
 00:03:21,068 --> 00:03:23,602
-  before and after grinding off 
-           the excess           
+before and after grinding off the excess           
 
 55
 00:03:23,604 --> 00:03:25,804
-      and before and after      
-         side-chipping.         
+and before and after side-chipping.         
 
 56
 00:03:29,276 --> 00:03:30,876
-  and now for making the drills 
+and now for making the drills 
 
 57
 00:03:30,878 --> 00:03:33,044
-    to which the countersinks   
-             attach.            
+to which the countersinks attach.            
 
 58
 00:03:33,046 --> 00:03:35,614
-          it all starts         
-  with a tapered piece of steel 
+it all starts with a tapered piece of steel 
 
 59
 00:03:35,616 --> 00:03:38,283
-    because this will become    
-      a taper-point drill.      
+because this will become a taper-point drill.      
 
 60
 00:03:38,285 --> 00:03:41,086
-     straight drills begin      
-     with a straight piece.     
+straight drills begin with a straight piece.     
 
 61
 00:03:41,088 --> 00:03:44,489
-  a mechanical arm inserts this 
-  drill blank, as it's called,  
+a mechanical arm inserts this drill blank, as it's called,  
 
 62
 00:03:44,491 --> 00:03:46,357
- into a computer-guided grinder.
+into a computer-guided grinder.
 
 63
 00:03:46,359 --> 00:03:49,827
-   the machine has two wheels   
- made of boron nitrite granules,
+the machine has two wheels made of boron nitrite granules,
 
 64
 00:03:49,829 --> 00:03:52,564
- a natural material that's tough
-          and abrasive.         
+a natural material that's tough
+and abrasive.         
 
 65
 00:03:52,566 --> 00:03:54,900
-         the first wheel        
-     shapes the smooth blank    
+the first wheel shapes the smooth blank    
 
 66
 00:03:54,902 --> 00:03:57,369
-     into lengthwise spirals    
-         called flutes.         
+into lengthwise spirals called flutes.         
 
 67
 00:03:57,371 --> 00:04:00,772
 a second wheel then grinds sharp
-   cutting edges on the flutes  
+cutting edges on the flutes  
 
 68
 00:04:00,774 --> 00:04:04,642
- and shapes the tip of the drill
-           to a point.          
+and shapes the tip of the drill
+to a point.          
 
 69
 00:04:04,644 --> 00:04:06,578
-  back to the countersinks now. 
+back to the countersinks now. 
 
 70
 00:04:06,580 --> 00:04:09,247
-       the steel is still       
-      relatively malleable,     
+the steel is still relatively malleable,     
 
 71
 00:04:09,249 --> 00:04:12,184
-   so a worker runs each one    
-   through a stamping machine   
+so a worker runs each one through a stamping machine   
 
 72
 00:04:12,186 --> 00:04:16,321
-    that imprints the size of   
- the tool and the company name. 
+that imprints the size of the tool and the company name. 
 
 73
 00:04:16,323 --> 00:04:19,457
-  whereas the drills are made   
-  of a different type of steel  
+whereas the drills are made of a different type of steel  
 
 74
 00:04:19,459 --> 00:04:20,926
-   that's already hard enough,  
+that's already hard enough,  
 
 75
 00:04:20,928 --> 00:04:22,994
-        the countersinks        
-        and plug cutters        
+the countersinks and plug cutters        
 
 76
 00:04:22,996 --> 00:04:25,863
-  must undergo a heat-treating  
-      process to harden --      
+must undergo a heat-treating process to harden --      
 
 77
 00:04:25,865 --> 00:04:27,666
@@ -364,175 +315,153 @@ about 20 minutes in a fiery oven
 
 78
 00:04:27,668 --> 00:04:30,001
-   along with a secret recipe   
-          of chemicals.         
+along with a secret recipe of chemicals.         
 
 79
 00:04:30,003 --> 00:04:33,271
-       the intense heat --      
-   1,750 degrees fahrenheit --  
+the intense heat -- 1,750 degrees fahrenheit --  
 
 80
 00:04:33,273 --> 00:04:35,607
-   transforms those chemicals   
-           into gases           
+transforms those chemicals into gases           
 
 81
 00:04:35,609 --> 00:04:38,277
-       which then permeate      
-      and harden the steel.     
+which then permeate and harden the steel.     
 
 82
 00:04:38,279 --> 00:04:42,213
-   after cooling in warm water  
-  and oil for about 15 minutes, 
+after cooling in warm water and oil for about 15 minutes, 
 
 83
 00:04:42,215 --> 00:04:43,815
-   workers submerge the tools   
+workers submerge the tools   
 
 84
 00:04:43,817 --> 00:04:45,817
-    in an industrial-strength   
-        cleaning solution       
+in an industrial-strength cleaning solution       
 
 85
 00:04:45,819 --> 00:04:48,152
- that removes all the oil grit, 
+that removes all the oil grit, 
 
 86
 00:04:48,154 --> 00:04:51,723
-       then a bath in acid      
-  to remove soot from the oven. 
+then a bath in acid to remove soot from the oven. 
 
 87
 00:04:53,560 --> 00:04:56,428
-    then, finally, 20 minutes   
-    in a blackening solution,   
+then, finally, 20 minutes in a blackening solution,   
 
 88
 00:04:56,430 --> 00:04:58,630
-    the ingredients of which    
-           are, again,          
+the ingredients of which are, again,          
 
 89
 00:04:58,632 --> 00:05:00,632
-        a closely guarded       
-         company secret.        
+a closely guarded company secret.        
 
 90
 00:05:00,634 --> 00:05:02,768
-         this last step         
-       is purely cosmetic.      
+this last step is purely cosmetic.      
 
 91
 00:05:05,372 --> 00:05:09,174
- so, how do the three drill bits
-  we've seen all work together? 
+so, how do the three drill bits
+we've seen all work together? 
 
 92
 00:05:09,176 --> 00:05:12,110
- first, you use the plug cutter 
-        to make the plug.       
+first, you use the plug cutter to make the plug.       
 
 93
 00:05:12,112 --> 00:05:14,946
-    then you pop out the plug   
-       with a screwdriver.      
+then you pop out the plug with a screwdriver.      
 
 94
 00:05:18,852 --> 00:05:21,853
- next, mounting the countersink,
-        that black tool,        
+next, mounting the countersink,
+that black tool,        
 
 95
 00:05:21,855 --> 00:05:23,521
-   onto the taper-point drill.  
+onto the taper-point drill.  
 
 96
 00:05:23,523 --> 00:05:26,792
- you drill a hole for the screw.
+you drill a hole for the screw.
 
 97
 00:05:26,794 --> 00:05:29,261
-    then you drive the screw    
-         into the hole,         
+then you drive the screw into the hole,         
 
 98
 00:05:29,263 --> 00:05:31,129
-  sinking it below the surface. 
+sinking it below the surface. 
 
 99
 00:05:33,600 --> 00:05:36,601
-      then you cap the hole     
-          with a plug.          
+then you cap the hole with a plug.          
 
 100
 00:05:41,341 --> 00:05:45,610
 these tools come in an extensive
-    range of sizes and grades   
+range of sizes and grades   
 
 101
 00:05:45,612 --> 00:05:49,014
-        for both amateur        
-  and professional woodworkers  
+for both amateur and professional woodworkers  
 
 102
 00:05:49,016 --> 00:05:51,049
-  and for industrial machines.  
+and for industrial machines.  
 
 103
 00:05:58,758 --> 00:06:02,294
-   narrator: photo booths were  
-  first introduced in the 1920s 
+narrator: photo booths were first introduced in the 1920s 
 
 104
 00:06:02,296 --> 00:06:03,628
-      in the united states.     
+in the united states.     
 
 105
 00:06:03,630 --> 00:06:07,098
 today, the small, private cabins
-   still enable us to be kooky  
+still enable us to be kooky  
 
 106
 00:06:07,100 --> 00:06:10,102
-      in several snapshots      
-      or one large picture.     
+in several snapshots or one large picture.     
 
 107
 00:06:10,104 --> 00:06:13,038
- the booths are quaint reminders
-       of our pop culture,      
+the booths are quaint reminders
+of our pop culture,      
 
 108
 00:06:13,040 --> 00:06:15,240
-     but they use the latest    
-           technology           
+but they use the latest technology           
 
 109
 00:06:15,242 --> 00:06:17,342
-        to make portraits       
-        worth treasuring.       
+to make portraits worth treasuring.       
 
 110
 00:06:21,248 --> 00:06:23,314
- this model simulates a painting
+this model simulates a painting
 
 111
 00:06:23,316 --> 00:06:27,185
- or a drawing based on the photo
-        it takes of you.        
+or a drawing based on the photo
+it takes of you.        
 
 112
 00:06:27,187 --> 00:06:29,654
-          to customize          
-     the preassembled cabin,    
+to customize the preassembled cabin,    
 
 113
 00:06:29,656 --> 00:06:32,190
-    a worker applies stickers   
-         to the outside.        
+a worker applies stickers to the outside.        
 
 114
 00:06:32,192 --> 00:06:34,192
@@ -540,479 +469,408 @@ these advertise local businesses
 
 115
 00:06:34,194 --> 00:06:36,327
-         or the booth's         
-       eventual location,       
+or the booth's eventual location,       
 
 116
 00:06:36,329 --> 00:06:39,164
-     such as a shopping mall    
-       or amusement park.       
+such as a shopping mall or amusement park.       
 
 117
 00:06:44,604 --> 00:06:47,939
- inside, there are five shelves 
-         for equipment.         
+inside, there are five shelves for equipment.         
 
 118
 00:06:50,010 --> 00:06:52,610
-    two layers of plexiglass    
-         glued together         
+two layers of plexiglass glued together         
 
 119
 00:06:52,612 --> 00:06:54,212
-    will act as safety glass,   
+will act as safety glass,   
 
 120
 00:06:54,214 --> 00:06:56,214
-    protecting the equipment    
-          from vandals.         
+protecting the equipment from vandals.         
 
 121
 00:06:56,216 --> 00:06:58,150
-     it fits over an opening    
-           in the wall          
+it fits over an opening in the wall          
 
 122
 00:06:58,152 --> 00:06:59,750
-  that divides the seating area 
+that divides the seating area 
 
 123
 00:06:59,752 --> 00:07:02,187
-         from the camera        
-        and a tv monitor.       
+from the camera and a tv monitor.       
 
 124
 00:07:04,157 --> 00:07:07,758
-   the worker installs a metal  
-    plate in another opening.   
+the worker installs a metal plate in another opening.   
 
 125
 00:07:07,760 --> 00:07:09,494
- it will cover the coin acceptor
+it will cover the coin acceptor
 
 126
 00:07:09,496 --> 00:07:12,029
-   and give the booth operator  
-       access to the money      
+and give the booth operator access to the money      
 
 127
 00:07:12,031 --> 00:07:14,566
-       people pay to have       
-       their photo taken.       
+people pay to have their photo taken.       
 
 128
 00:07:14,568 --> 00:07:17,035
-        the coin acceptor       
-      attaches to brackets      
+the coin acceptor attaches to brackets      
 
 129
 00:07:17,037 --> 00:07:18,503
-    on the back of the door.    
+on the back of the door.    
 
 130
 00:07:18,505 --> 00:07:21,840
-  they'll program it to accept  
- tokens or specific currencies. 
+they'll program it to accept tokens or specific currencies. 
 
 131
 00:07:21,842 --> 00:07:25,310
-     a black-and-white photo    
-        usually costs $3.       
+a black-and-white photo usually costs $3.       
 
 132
 00:07:25,312 --> 00:07:26,611
-          color is $5.          
+color is $5.          
 
 133
 00:07:31,784 --> 00:07:35,420
-   this 15-watt bulb provides   
-   some light for your photo.   
+this 15-watt bulb provides some light for your photo.   
 
 134
 00:07:35,422 --> 00:07:38,423
-       it goes in a panel       
-    that fits into the wall.    
+it goes in a panel that fits into the wall.    
 
 135
 00:07:41,061 --> 00:07:44,529
-    next, a motorized tripod    
-       to hold the camera.      
+next, a motorized tripod to hold the camera.      
 
 136
 00:07:44,531 --> 00:07:45,864
-         in this model,         
+in this model,         
 
 137
 00:07:45,866 --> 00:07:50,001
-   they use a digital camera    
-   with an 8-millimeter lens.   
+they use a digital camera with an 8-millimeter lens.   
 
 138
 00:07:50,003 --> 00:07:52,403
-     "up" and "down" buttons    
-      on the control panel      
+"up" and "down" buttons on the control panel      
 
 139
 00:07:52,405 --> 00:07:54,539
-    adjust the camera angle.    
+adjust the camera angle.    
 
 140
 00:07:54,541 --> 00:07:56,407
-      a computerized voice      
-         from a speaker         
+a computerized voice from a speaker         
 
 141
 00:07:56,409 --> 00:07:59,677
-         will prompt you        
-       to make selections.      
+will prompt you to make selections.      
 
 142
 00:07:59,679 --> 00:08:03,748
-  a fan attaches to the ceiling 
-        to vent the cabin       
+a fan attaches to the ceiling to vent the cabin       
 
 143
 00:08:03,750 --> 00:08:06,417
-     and keep the equipment     
-        from overheating.       
+and keep the equipment from overheating.       
 
 144
 00:08:06,419 --> 00:08:08,286
-         and two 40-watt        
-        florescent lights       
+and two 40-watt florescent lights       
 
 145
 00:08:08,288 --> 00:08:11,289
 will provide most of the frontal
-    lighting for the subject.   
+lighting for the subject.   
 
 146
 00:08:12,892 --> 00:08:16,094
-     another 15-watt light      
-     behind a frosted panel     
+another 15-watt light behind a frosted panel     
 
 147
 00:08:16,096 --> 00:08:19,230
-  provides some diffuse light.  
+provides some diffuse light.  
 
 148
 00:08:19,232 --> 00:08:21,633
-     the booth's power panel    
-         has connections        
+the booth's power panel has connections        
 
 149
 00:08:21,635 --> 00:08:23,635
-       for up to 19 pieces      
-          of equipment.         
+for up to 19 pieces of equipment.         
 
 150
 00:08:23,637 --> 00:08:28,172
-      here, a worker plugs      
-        in the camera...        
+here, a worker plugs in the camera...        
 
 151
 00:08:28,174 --> 00:08:31,309
-      then a tv monitor...      
+then a tv monitor...      
 
 152
 00:08:31,311 --> 00:08:33,244
-     and an ink-jet printer.    
+and an ink-jet printer.    
 
 153
 00:08:33,246 --> 00:08:35,246
-      software will process     
-           the photos,          
+software will process the photos,          
 
 154
 00:08:35,248 --> 00:08:38,517
- and the printer will print them
-     on photo-quality paper.    
+and the printer will print them
+on photo-quality paper.    
 
 155
 00:08:45,458 --> 00:08:48,793
-       a plexiglass window      
-  protects the 15-inch monitor  
+a plexiglass window protects the 15-inch monitor  
 
 156
 00:08:48,795 --> 00:08:52,097
-     that's used for viewing    
-     and making selections.     
+that's used for viewing and making selections.     
 
 157
 00:08:53,667 --> 00:08:55,934
-       two other monitors       
-     fit in windowed panels     
+two other monitors fit in windowed panels     
 
 158
 00:08:55,936 --> 00:08:57,335
-  on the outside of the cabin.  
+on the outside of the cabin.  
 
 159
 00:08:57,337 --> 00:08:59,471
-    the monitors all connect    
-         to the computer        
+the monitors all connect to the computer        
 
 160
 00:08:59,473 --> 00:09:01,872
-    and show the same images    
-        at the same time,       
+and show the same images at the same time,       
 
 161
 00:09:01,874 --> 00:09:05,176
-     including what stage of    
- development your picture is at.
+including what stage of development your picture is at.
 
 162
 00:09:08,882 --> 00:09:10,415
-    they install a dispenser    
+they install a dispenser    
 
 163
 00:09:10,417 --> 00:09:14,052
-  that sells optional cardboard 
-    frames for your portrait.   
+that sells optional cardboard frames for your portrait.   
 
 164
 00:09:17,357 --> 00:09:20,558
-     money from these sales     
-      falls through a slot      
+money from these sales falls through a slot      
 
 165
 00:09:20,560 --> 00:09:23,461
-      into a metal coin box     
-        inside the cabin.       
+into a metal coin box inside the cabin.       
 
 166
 00:09:30,837 --> 00:09:34,372
-       the dispenser holds      
-   up to 100 cardboard frames,  
+the dispenser holds up to 100 cardboard frames,  
 
 167
 00:09:34,374 --> 00:09:36,374
-    each large enough to hold   
-          one portrait          
+each large enough to hold one portrait          
 
 168
 00:09:36,376 --> 00:09:37,976
-    measuring 8 by 11 inches.   
+measuring 8 by 11 inches.   
 
 169
 00:09:37,978 --> 00:09:39,444
-    if the dispenser is out,    
+if the dispenser is out,    
 
 170
 00:09:39,446 --> 00:09:42,647
- a sign reading "out of frames" 
-      drops into the tray.      
+a sign reading "out of frames" drops into the tray.      
 
 171
 00:09:45,852 --> 00:09:46,984
-          for security,         
+for security,         
 
 172
 00:09:46,986 --> 00:09:49,120
-          the two doors         
-     enclosing the equipment    
+the two doors enclosing the equipment    
 
 173
 00:09:49,122 --> 00:09:50,588
-    each have two key locks,    
+each have two key locks,    
 
 174
 00:09:50,590 --> 00:09:52,857
-         one at the top         
-     and one at the bottom.     
+one at the top and one at the bottom.     
 
 175
 00:09:55,128 --> 00:09:58,263
- the worker installs four signs 
-       on the cabin roof.       
+the worker installs four signs on the cabin roof.       
 
 176
 00:09:58,265 --> 00:10:00,198
-    they're plexiglass boxes    
+they're plexiglass boxes    
 
 177
 00:10:00,200 --> 00:10:02,467
-       with vinyl posters       
-     and florescent lights.     
+with vinyl posters and florescent lights.     
 
 178
 00:10:02,469 --> 00:10:05,536
-  the cabin's curtain lets you  
-  make goofy faces in private,  
+the cabin's curtain lets you make goofy faces in private,  
 
 179
 00:10:05,538 --> 00:10:08,440
-   but is short enough to let   
-  people know you're in there.  
+but is short enough to let people know you're in there.  
 
 180
 00:10:10,677 --> 00:10:11,876
-        inside the cabin,       
+inside the cabin,       
 
 181
 00:10:11,878 --> 00:10:14,478
-   the control panel helps you  
-        guide the camera.       
+the control panel helps you guide the camera.       
 
 182
 00:10:14,480 --> 00:10:17,515
-    you press "up" or "down"    
-   to adjust the camera angle.  
+you press "up" or "down" to adjust the camera angle.  
 
 183
 00:10:22,355 --> 00:10:27,425
-  then you choose one of three  
- photos the camera has captured.
+then you choose one of three photos the camera has captured.
 
 184
 00:10:27,427 --> 00:10:30,128
- the computer bases its portrait
-         on this photo.         
+the computer bases its portrait
+on this photo.         
 
 185
 00:10:33,366 --> 00:10:35,834
-     you can tell it to make    
-          a caricature,         
+you can tell it to make a caricature,         
 
 186
 00:10:35,836 --> 00:10:37,502
-    a simulated work of art,    
+a simulated work of art,    
 
 187
 00:10:37,504 --> 00:10:40,939
-     or four small portraits    
-  in different artistic media.  
+or four small portraits in different artistic media.  
 
 188
 00:10:45,378 --> 00:10:49,380
- you can choose an oil painting,
-        a pencil sketch,        
+you can choose an oil painting,
+a pencil sketch,        
 
 189
 00:10:49,382 --> 00:10:52,384
-    or a drawing in charcoal    
-           or pastel.           
+or a drawing in charcoal or pastel.           
 
 190
 00:10:52,386 --> 00:10:55,954
-  now you've got a masterpiece  
-          starring you.         
+now you've got a masterpiece starring you.         
 
 191
 00:11:03,463 --> 00:11:05,730
-      narrator: the world's     
-       first postage stamp      
+narrator: the world's first postage stamp      
 
 192
 00:11:05,732 --> 00:11:08,333
-    was introduced in england   
-             in 1840            
+was introduced in england in 1840            
 
 193
 00:11:08,335 --> 00:11:11,269
-    as part of a major reform   
-      of the postal system.     
+as part of a major reform of the postal system.     
 
 194
 00:11:11,271 --> 00:11:14,605
 until then, the letter recipient
-     had to pay the postage.    
+had to pay the postage.    
 
 195
 00:11:14,607 --> 00:11:17,408
-   this first stamp was called  
-         the penny black        
+this first stamp was called the penny black        
 
 196
 00:11:17,410 --> 00:11:18,943
-    because it cost one penny   
+because it cost one penny   
 
 197
 00:11:18,945 --> 00:11:21,279
-          and featured          
-    queen victoria's profile    
+and featured queen victoria's profile    
 
 198
 00:11:21,281 --> 00:11:22,580
-     on a black background.     
+on a black background.     
 
 199
 00:11:27,086 --> 00:11:31,289
- today's postage stamps feature 
-   all types of illustrations.  
+today's postage stamps feature all types of illustrations.  
 
 200
 00:11:31,291 --> 00:11:33,891
-    a graphic artist produces   
-        a design concept,       
+a graphic artist produces a design concept,       
 
 201
 00:11:33,893 --> 00:11:37,228
-  working the computer cursor   
-  like a paintbrush on canvas.  
+working the computer cursor like a paintbrush on canvas.  
 
 202
 00:11:37,230 --> 00:11:39,631
-        the concept goes        
-     to the postal service's    
+the concept goes to the postal service's    
 
 203
 00:11:39,633 --> 00:11:41,366
- design authority for approval. 
+design authority for approval. 
 
 204
 00:11:41,368 --> 00:11:44,635
-    once approved, the design   
-  goes to the printing company. 
+once approved, the design goes to the printing company. 
 
 205
 00:11:44,637 --> 00:11:46,771
-      the printer produces      
-        one type of stamp       
+the printer produces one type of stamp       
 
 206
 00:11:46,773 --> 00:11:49,174
-    using two different types   
-      of printing presses,      
+using two different types of printing presses,      
 
 207
 00:11:49,176 --> 00:11:51,509
-      one of which requires     
-   an engraved printing plate.  
+one of which requires an engraved printing plate.  
 
 208
 00:11:51,511 --> 00:11:53,711
-  the company's master engraver 
+the company's master engraver 
 
 209
 00:11:53,713 --> 00:11:56,715
-       draws his artistic       
-  interpretation of the concept 
+draws his artistic interpretation of the concept 
 
 210
 00:11:56,717 --> 00:11:59,918
-    using photographs of real   
-    subjects for inspiration.   
+using photographs of real subjects for inspiration.   
 
 211
 00:11:59,920 --> 00:12:02,587
-   then he paints his drawing   
-         in watercolors.        
+then he paints his drawing in watercolors.        
 
 212
 00:12:02,589 --> 00:12:04,054
-       the shading is key       
+the shading is key       
 
 213
 00:12:04,056 --> 00:12:07,191
-   because it indicates where   
- the engraving will have depth. 
+because it indicates where the engraving will have depth. 
 
 214
 00:12:07,193 --> 00:12:09,694
-     this helps him envision    
-        the end product.        
+this helps him envision the end product.        
 
 215
 00:12:13,266 --> 00:12:15,266
@@ -1020,643 +878,558 @@ once he's happy with the result,
 
 216
 00:12:15,268 --> 00:12:17,602
-       he scans the image       
-         into a computer        
+he scans the image into a computer        
 
 217
 00:12:17,604 --> 00:12:21,239
- and shrinks the digitized image
-    to the actual stamp size.   
+and shrinks the digitized image
+to the actual stamp size.   
 
 218
 00:12:25,679 --> 00:12:30,148
-  then he lays a sheet of clear 
-   acetate over the reduction.  
+then he lays a sheet of clear acetate over the reduction.  
 
 219
 00:12:30,150 --> 00:12:31,883
-   with a tool called a point,  
+with a tool called a point,  
 
 220
 00:12:31,885 --> 00:12:34,819
-   he etches the main elements  
-         into the sheet.        
+he etches the main elements into the sheet.        
 
 221
 00:12:34,821 --> 00:12:37,722
-  this etching process is known 
-          as scribing.          
+this etching process is known as scribing.          
 
 222
 00:12:49,903 --> 00:12:54,172
- now he tapes the scribed sheet 
-   onto a piece of soft steel.  
+now he tapes the scribed sheet onto a piece of soft steel.  
 
 223
 00:12:54,174 --> 00:12:56,907
-       he lifts the sheet       
-   and coats the metal surface  
+he lifts the sheet and coats the metal surface  
 
 224
 00:12:56,909 --> 00:12:58,543
-          with beeswax.         
+with beeswax.         
 
 225
 00:13:03,116 --> 00:13:05,383
-     then he lays the sheet     
-           down again           
+then he lays the sheet down again           
 
 226
 00:13:05,385 --> 00:13:07,652
-          and, rubbing          
-     with a burnishing tool,    
+and, rubbing with a burnishing tool,    
 
 227
 00:13:07,654 --> 00:13:10,588
-   transfers the scribed image  
-       to the wax coating.      
+transfers the scribed image to the wax coating.      
 
 228
 00:13:15,461 --> 00:13:19,130
-  now, under a microscope that  
+now, under a microscope that  
 magnifies the image seven times,
 
 229
 00:13:19,132 --> 00:13:20,397
-      he etches the design      
+he etches the design      
 
 230
 00:13:20,399 --> 00:13:22,834
-       using what's called      
-       a pointing-in tool.      
+using what's called a pointing-in tool.      
 
 231
 00:13:28,341 --> 00:13:32,243
-  then he sharpens another tool 
-    called a lozenge graver.    
+then he sharpens another tool called a lozenge graver.    
 
 232
 00:13:34,614 --> 00:13:36,948
-           with that,           
-   he deepens the etched lines  
+with that, he deepens the etched lines  
 
 233
 00:13:36,950 --> 00:13:38,682
-  of the design's focal point.  
+of the design's focal point.  
 
 234
 00:13:38,684 --> 00:13:40,017
-        this adds depth,        
+this adds depth,        
 
 235
 00:13:40,019 --> 00:13:43,020
- which will make the deer appear
-    almost three-dimensional    
+which will make the deer appear
+almost three-dimensional    
 
 236
 00:13:43,022 --> 00:13:44,389
-     on the finished stamp.     
+on the finished stamp.     
 
 237
 00:14:05,645 --> 00:14:09,180
-  once complete, the engraving  
-  will be copied multiple times 
+once complete, the engraving will be copied multiple times 
 
 238
 00:14:09,182 --> 00:14:10,848
-  onto a plastic master plate.  
+onto a plastic master plate.  
 
 239
 00:14:10,850 --> 00:14:13,117
-    workers coat the plastic    
-           with silver          
+workers coat the plastic with silver          
 
 240
 00:14:13,119 --> 00:14:15,453
-     so that it will conduct    
-          electricity,          
+so that it will conduct electricity,          
 
 241
 00:14:15,455 --> 00:14:18,923
-  then submerge it into a bath  
-  containing baskets of nickel. 
+then submerge it into a bath containing baskets of nickel. 
 
 242
 00:14:18,925 --> 00:14:22,327
- they run an electrical current 
-   in both the bath and plate.  
+they run an electrical current in both the bath and plate.  
 
 243
 00:14:22,329 --> 00:14:25,396
-    this dissolves the nickel   
-   and draws it onto the plate  
+this dissolves the nickel and draws it onto the plate  
 
 244
 00:14:25,398 --> 00:14:27,065
-  in a thorough and even coat.  
+in a thorough and even coat.  
 
 245
 00:14:30,203 --> 00:14:31,569
-      with a nipping tool,      
+with a nipping tool,      
 
 246
 00:14:31,571 --> 00:14:34,939
 workers remove the excess nickel
-      along the perimeter,      
+along the perimeter,      
 
 247
 00:14:34,941 --> 00:14:37,675
-       then extract their       
-     nickel printing plate.     
+then extract their nickel printing plate.     
 
 248
 00:14:37,677 --> 00:14:40,477
 then they plate the nickel plate
-           in chrome.           
+in chrome.           
 
 249
 00:14:40,479 --> 00:14:43,815
-   now it's ready to go on to   
-  the intaglio printing press,  
+now it's ready to go on to the intaglio printing press,  
 
 250
 00:14:43,817 --> 00:14:46,618
-   a specialized machine used   
-  to print only select elements 
+a specialized machine used to print only select elements 
 
 251
 00:14:46,620 --> 00:14:48,152
-   on certain types of stamps.  
+on certain types of stamps.  
 
 252
 00:14:48,154 --> 00:14:50,688
-   we will explain why later.   
+we will explain why later.   
 
 253
 00:14:51,958 --> 00:14:53,758
-    this machine, meanwhile,    
+this machine, meanwhile,    
 
 254
 00:14:53,760 --> 00:14:55,093
-     produces the templates     
+produces the templates     
 
 255
 00:14:55,095 --> 00:14:57,228
-           for carving          
-    what are called chablons,   
+for carving what are called chablons,   
 
 256
 00:14:57,230 --> 00:14:59,096
-           the rollers          
-      on the intaglio press     
+the rollers on the intaglio press     
 
 257
 00:14:59,098 --> 00:15:01,466
-        that transfer ink       
-     to the printing plates.    
+that transfer ink to the printing plates.    
 
 258
 00:15:03,370 --> 00:15:05,503
-        here, the machine       
-        traces a pattern        
+here, the machine traces a pattern        
 
 259
 00:15:05,505 --> 00:15:08,172
-     for one of the stamp's     
-       intaglio elements,       
+for one of the stamp's intaglio elements,       
 
 260
 00:15:08,174 --> 00:15:10,842
-  guiding a router on the other 
-       end to reproduce it      
+guiding a router on the other end to reproduce it      
 
 261
 00:15:10,844 --> 00:15:13,311
-        in half the size        
-        in thick plastic.       
+in half the size in thick plastic.       
 
 262
 00:15:17,250 --> 00:15:20,785
- at another machine, meanwhile, 
-  a worker makes the chablons.  
+at another machine, meanwhile, a worker makes the chablons.  
 
 263
 00:15:20,787 --> 00:15:22,720
- he takes several ingredients --
+he takes several ingredients --
 
 264
 00:15:22,722 --> 00:15:25,990
-   what they are is a closely   
-   guarded company secret --    
+what they are is a closely guarded company secret --    
 
 265
 00:15:25,992 --> 00:15:28,860
-       and pours them into      
-    a roller forming machine.   
+and pours them into a roller forming machine.   
 
 266
 00:15:28,862 --> 00:15:31,796
-     the mix heats to about     
-     350 degrees fahrenheit,    
+the mix heats to about 350 degrees fahrenheit,    
 
 267
 00:15:31,798 --> 00:15:33,664
-         and over about         
-       an hour and a half,      
+and over about an hour and a half,      
 
 268
 00:15:33,666 --> 00:15:36,667
-    it thickens and hardens.    
+it thickens and hardens.    
 
 269
 00:15:36,669 --> 00:15:40,738
- now an automated router machine
-       with multiple heads      
+now an automated router machine
+with multiple heads      
 
 270
 00:15:40,740 --> 00:15:41,973
-          goes to work.         
+goes to work.         
 
 271
 00:15:43,810 --> 00:15:45,676
- following the plastic template,
+following the plastic template,
 
 272
 00:15:45,678 --> 00:15:47,878
-      the heads carve away      
-         at the rubber,         
+the heads carve away at the rubber,         
 
 273
 00:15:47,880 --> 00:15:51,015
- leaving behind a raised design 
-  in the shape of the elements  
+leaving behind a raised design in the shape of the elements  
 
 274
 00:15:51,017 --> 00:15:53,051
- the intaglio press will print. 
+the intaglio press will print. 
 
 275
 00:15:55,755 --> 00:15:58,889
-     it's this raised area      
-     that transfers the ink     
+it's this raised area that transfers the ink     
 
 276
 00:15:58,891 --> 00:16:00,525
-     to the printing plate.     
+to the printing plate.     
 
 277
 00:16:08,835 --> 00:16:11,302
-   narrator: why do they print  
-      some parts of a stamp     
+narrator: why do they print some parts of a stamp     
 
 278
 00:16:11,304 --> 00:16:12,470
-     using one type of press    
+using one type of press    
 
 279
 00:16:12,472 --> 00:16:14,439
-      and other parts of it     
-       using another type?      
+and other parts of it using another type?      
 
 280
 00:16:14,441 --> 00:16:15,706
-             simple.            
+simple.            
 
 281
 00:16:15,708 --> 00:16:18,109
-    off-set printing presses    
-      are widely available,     
+off-set printing presses are widely available,     
 
 282
 00:16:18,111 --> 00:16:20,978
- so if the entire stamp will be 
- printed using that technology, 
+so if the entire stamp will be printed using that technology, 
 
 283
 00:16:20,980 --> 00:16:22,780
-         counterfeiters         
-       would have it easy.      
+counterfeiters would have it easy.      
 
 284
 00:16:22,782 --> 00:16:24,982
-   intaglio printing presses,   
-       on the other hand,       
+intaglio printing presses, on the other hand,       
 
 285
 00:16:24,984 --> 00:16:28,853
- are harder to come by, making  
- fake stamps harder to produce. 
+are harder to come by, making fake stamps harder to produce. 
 
 286
 00:16:30,322 --> 00:16:33,123
-      the sheets first run      
-    through the offset press.   
+the sheets first run through the offset press.   
 
 287
 00:16:33,125 --> 00:16:34,859
- it prints one color at a time, 
+it prints one color at a time, 
 
 288
 00:16:34,861 --> 00:16:37,862
 making a separate printing plate
-         for each color.        
+for each color.        
 
 289
 00:16:37,864 --> 00:16:40,198
-      the plate is wrapped      
-       around a cylinder.       
+the plate is wrapped around a cylinder.       
 
 290
 00:16:40,200 --> 00:16:41,399
-         as it revolves,        
+as it revolves,        
 
 291
 00:16:41,401 --> 00:16:43,935
- the plate transfers or offsets 
-          the ink image         
+the plate transfers or offsets the ink image         
 
 292
 00:16:43,937 --> 00:16:46,471
-      to a rubber cylinder      
-      rotating against it.      
+to a rubber cylinder rotating against it.      
 
 293
 00:16:46,473 --> 00:16:48,005
-     as that cylinder turns,    
+as that cylinder turns,    
 
 294
 00:16:48,007 --> 00:16:51,242
-    it transfers the image to   
-  the paper passing underneath. 
+it transfers the image to the paper passing underneath. 
 
 295
 00:16:52,745 --> 00:16:56,147
-   a postal-service official    
-   inspects the press output.   
+a postal-service official inspects the press output.   
 
 296
 00:16:56,149 --> 00:16:57,748
-    using a magnifying glass,   
+using a magnifying glass,   
 
 297
 00:16:57,750 --> 00:17:00,818
-    she scrutinizes the color   
-       and print quality,       
+she scrutinizes the color and print quality,       
 
 298
 00:17:00,820 --> 00:17:02,553
-   circling any problem areas   
+circling any problem areas   
 
 299
 00:17:02,555 --> 00:17:05,757
-     for the press operator     
-   to investigate and correct.  
+for the press operator to investigate and correct.  
 
 300
 00:17:09,495 --> 00:17:13,831
- now the offset printed sheets  
- move on to the intaglio press. 
+now the offset printed sheets move on to the intaglio press. 
 
 301
 00:17:18,504 --> 00:17:20,772
- the intaglio's chablon rollers 
-           spread ink           
+the intaglio's chablon rollers spread ink           
 
 302
 00:17:20,774 --> 00:17:22,974
-     over the printing plate    
-      the factory produced      
+over the printing plate the factory produced      
 
 303
 00:17:22,976 --> 00:17:24,308
-       from the engraving.      
+from the engraving.      
 
 304
 00:17:24,310 --> 00:17:26,978
 the ink fills the recessed lines
-          of the image.         
+of the image.         
 
 305
 00:17:26,980 --> 00:17:29,981
-    the press runs the plate    
-    against the paper sheets,   
+the press runs the plate against the paper sheets,   
 
 306
 00:17:29,983 --> 00:17:32,583
-     transferring the image.    
+transferring the image.    
 
 307
 00:17:32,585 --> 00:17:35,586
 intaglio printing leaves the ink
-         slightly raised        
+slightly raised        
 
 308
 00:17:35,588 --> 00:17:37,588
- above the surface of the paper.
+above the surface of the paper.
 
 309
 00:17:37,590 --> 00:17:40,525
-  this gives the image height,  
-       a third dimension.       
+this gives the image height, a third dimension.       
 
 310
 00:17:45,465 --> 00:17:48,199
-    once again, the inspector   
-       checks the result.       
+once again, the inspector checks the result.       
 
 311
 00:17:48,201 --> 00:17:51,135
-  it's up to the press operator 
-      to correct any error.     
+it's up to the press operator to correct any error.     
 
 312
 00:17:51,137 --> 00:17:54,605
- the cause can be as complicated
-   as a printing plate problem  
+the cause can be as complicated
+as a printing plate problem  
 
 313
 00:17:54,607 --> 00:17:57,341
- or as simple as a speck of dirt
-         in the machine.        
+or as simple as a speck of dirt
+in the machine.        
 
 314
 00:17:59,812 --> 00:18:01,412
-     the printing now done,     
+the printing now done,     
 
 315
 00:18:01,414 --> 00:18:03,347
- a worker loads the stamp sheets
+a worker loads the stamp sheets
 
 316
 00:18:03,349 --> 00:18:06,150
-     into a computer-guided     
-      perforating machine.      
+into a computer-guided perforating machine.      
 
 317
 00:18:06,152 --> 00:18:09,687
 grippers pull the sheets forward
-     one section at a time.     
+one section at a time.     
 
 318
 00:18:14,627 --> 00:18:17,095
-   down comes a die with rows   
-         of steel pins,         
+down comes a die with rows of steel pins,         
 
 319
 00:18:17,097 --> 00:18:19,830
- each just a fraction of an inch
-          in diameter.          
+each just a fraction of an inch
+in diameter.          
 
 320
 00:18:19,832 --> 00:18:21,499
-  they punch through the sheet, 
+they punch through the sheet, 
 
 321
 00:18:21,501 --> 00:18:23,767
-       framing each stamp       
-         with tiny holes        
+framing each stamp with tiny holes        
 
 322
 00:18:23,769 --> 00:18:26,237
-      spaced less than 1/16     
-        of an inch apart.       
+spaced less than 1/16 of an inch apart.       
 
 323
 00:18:26,239 --> 00:18:29,440
-  the machine knows just where  
-  to punch these perforations   
+the machine knows just where to punch these perforations   
 
 324
 00:18:29,442 --> 00:18:31,675
-       by reading the line      
-        of florescent ink       
+by reading the line of florescent ink       
 
 325
 00:18:31,677 --> 00:18:34,178
-   that runs along the borders  
-         of each stamp.         
+that runs along the borders of each stamp.         
 
 326
 00:18:34,180 --> 00:18:35,646
-    this ink, called tagging,   
+this ink, called tagging,   
 
 327
 00:18:35,648 --> 00:18:38,115
-      is visible only under     
-       ultraviolet light.       
+is visible only under ultraviolet light.       
 
 328
 00:18:38,117 --> 00:18:40,184
-    tagging also plays a role   
-            later on.           
+tagging also plays a role later on.           
 
 329
 00:18:40,186 --> 00:18:42,653
-     the automated machines     
-        that process mail       
+the automated machines that process mail       
 
 330
 00:18:42,655 --> 00:18:45,923
-    at the sorting plants are   
- programmed to scan for tagging.
+at the sorting plants are programmed to scan for tagging.
 
 331
 00:18:45,925 --> 00:18:48,192
-    they reject all envelopes   
-           without it.          
+they reject all envelopes without it.          
 
 332
 00:18:48,194 --> 00:18:50,661
-    those letters are either    
-         missing a stamp        
+those letters are either missing a stamp        
 
 333
 00:18:50,663 --> 00:18:52,463
-  or bear counterfeit postage.  
+or bear counterfeit postage.  
 
 334
 00:18:58,538 --> 00:19:01,004
-         after stacking         
-     the perforated sheets,     
+after stacking the perforated sheets,     
 
 335
 00:19:01,006 --> 00:19:03,874
-     workers trim them down     
-     to the finished size,      
+workers trim them down to the finished size,      
 
 336
 00:19:03,876 --> 00:19:06,210
-      usually sheets of 10      
-          called panes.         
+usually sheets of 10 called panes.         
 
 337
 00:19:06,212 --> 00:19:07,545
-     their trimming machine     
+their trimming machine     
 
 338
 00:19:07,547 --> 00:19:10,080
-     is appropriately called    
-         the guillotine,        
+is appropriately called the guillotine,        
 
 339
 00:19:10,082 --> 00:19:12,482
-           but unlike           
-   the head-chopping version,   
+but unlike the head-chopping version,   
 
 340
 00:19:12,484 --> 00:19:15,419
- this one slices with a sideways
-        shearing action.        
+this one slices with a sideways
+shearing action.        
 
 341
 00:19:15,421 --> 00:19:17,555
-       that puts less wear      
-          on the blade.         
+that puts less wear on the blade.         
 
 342
 00:19:21,628 --> 00:19:23,828
-   the machine holds the stack  
-            in place            
+the machine holds the stack in place            
 
 343
 00:19:23,830 --> 00:19:26,363
-   with more than 8,800 pounds  
-           of pressure          
+with more than 8,800 pounds of pressure          
 
 344
 00:19:26,365 --> 00:19:29,567
-    so that it doesn't budge    
- under the weight of the blade. 
+so that it doesn't budge under the weight of the blade. 
 
 345
 00:19:29,569 --> 00:19:32,069
-       the blade rings in       
-      at almost 71 pounds.      
+the blade rings in at almost 71 pounds.      
 
 346
 00:19:36,576 --> 00:19:39,977
 now it's time to group the panes
-   into manageable-sized packs  
+into manageable-sized packs  
 
 347
 00:19:39,979 --> 00:19:42,580
-        for post offices        
-   and other stamp retailers.   
+for post offices and other stamp retailers.   
 
 348
 00:19:42,582 --> 00:19:45,115
-     this machine is called     
-      a vacuumatic counter      
+this machine is called a vacuumatic counter      
 
 349
 00:19:45,117 --> 00:19:47,652
-     because it uses suction    
-        to draw the panes       
+because it uses suction to draw the panes       
 
 350
 00:19:47,654 --> 00:19:50,021
-      across a paddle wheel     
-       which counts them.       
+across a paddle wheel which counts them.       
 
 351
 00:19:56,129 --> 00:19:58,795
@@ -1664,135 +1437,114 @@ this stack adds up to 503 panes,
 
 352
 00:19:58,797 --> 00:20:02,733
-   so the worker removes three  
-      to make an even 500.      
+so the worker removes three to make an even 500.      
 
 353
 00:20:02,735 --> 00:20:06,837
-    the counter inserts a tab   
-        between every 50.       
+the counter inserts a tab between every 50.       
 
 354
 00:20:09,275 --> 00:20:12,209
-     some stamps go through     
-     what's called bursting,    
+some stamps go through what's called bursting,    
 
 355
 00:20:12,211 --> 00:20:15,213
-     the process of manually    
-   separating pairs of stamps   
+the process of manually separating pairs of stamps   
 
 356
 00:20:15,215 --> 00:20:18,683
-    for different post office   
+for different post office   
 product lines such as gift sets.
 
 357
 00:20:18,685 --> 00:20:21,886
-   some burst stamps go onto    
-   first day cover envelopes,   
+some burst stamps go onto first day cover envelopes,   
 
 358
 00:20:21,888 --> 00:20:24,488
-  one popular collector's item. 
+one popular collector's item. 
 
 359
 00:20:24,490 --> 00:20:26,690
-    an automated pad picks up   
-           the stamps           
+an automated pad picks up the stamps           
 
 360
 00:20:26,692 --> 00:20:28,893
-          and runs them         
-      against a wet roller      
+and runs them against a wet roller      
 
 361
 00:20:28,895 --> 00:20:31,361
-   that activates the adhesive  
-          on the back.          
+that activates the adhesive on the back.          
 
 362
 00:20:31,363 --> 00:20:33,698
-    after a worker positions    
-           an envelope          
+after a worker positions an envelope          
 
 363
 00:20:33,700 --> 00:20:35,032
-     against the guide bar,     
+against the guide bar,     
 
 364
 00:20:35,034 --> 00:20:37,634
-    the pad places the stamps   
-        in a precise spot       
+the pad places the stamps in a precise spot       
 
 365
 00:20:37,636 --> 00:20:39,837
-    and applies even pressure   
-            over them           
+and applies even pressure over them           
 
 366
 00:20:39,839 --> 00:20:42,573
-    so that they'll lay flat    
-      and adhere securely.      
+so that they'll lay flat and adhere securely.      
 
 367
 00:20:44,310 --> 00:20:47,311
-      many stamps are still     
-   the old lick-and-stick type  
+many stamps are still the old lick-and-stick type  
 
 368
 00:20:47,313 --> 00:20:49,112
- printed on paper that's coated 
+printed on paper that's coated 
 
 369
 00:20:49,114 --> 00:20:53,183
-   with a moisture-activated    
-   adhesive on the back side.   
+with a moisture-activated adhesive on the back side.   
 
 370
 00:20:53,185 --> 00:20:55,519
-   however, the most commonly   
-         issued stamps,         
+however, the most commonly issued stamps,         
 
 371
 00:20:55,521 --> 00:20:56,787
-      known as definitives,     
+known as definitives,     
 
 372
 00:20:56,789 --> 00:20:59,523
-  are printed on what's called  
-    pressure-sensitive paper.   
+are printed on what's called pressure-sensitive paper.   
 
 373
 00:20:59,525 --> 00:21:02,059
-     that's a technical term    
-      for peel-and-stick --     
+that's a technical term for peel-and-stick --     
 
 374
 00:21:02,061 --> 00:21:04,662
-  no water or saliva required.  
+no water or saliva required.  
 
 375
 00:21:04,664 --> 00:21:07,732
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 376
 00:21:07,734 --> 00:21:10,635
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 377
 00:21:12,605 --> 00:21:14,805
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 378
 00:21:14,807 --> 00:21:17,407
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 379
 00:21:17,409 --> 00:21:18,943
-      drop us a line at...      
+drop us a line at...      
 

@@ -1,448 +1,387 @@
 ﻿1
 00:00:02,069 --> 00:00:05,071
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,073 --> 00:00:08,107
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:22,289 --> 00:00:25,491
-       narrator: today on       
-       "how it's made"...       
+narrator: today on "how it's made"...       
 
 4
 00:00:25,493 --> 00:00:31,297
-       metal detectors...       
+metal detectors...       
 
 5
 00:00:31,299 --> 00:00:36,769
-             rum...             
+rum...             
 
 6
 00:00:36,771 --> 00:00:42,241
-    tiffany reproductions...    
+tiffany reproductions...    
 
 7
 00:00:42,243 --> 00:00:51,183
-      and aircraft engines.     
+and aircraft engines.     
 
 8
 00:00:51,185 --> 00:00:54,119
-          airports use          
-    handheld metal detectors    
+airports use handheld metal detectors    
 
 9
 00:00:54,121 --> 00:00:55,520
-      to safeguard flights.     
+to safeguard flights.     
 
 10
 00:00:55,522 --> 00:00:58,123
-      treasure hunters use      
-      hobby metal detectors     
+treasure hunters use hobby metal detectors     
 
 11
 00:00:58,125 --> 00:00:59,392
-      to find buried loot.      
+to find buried loot.      
 
 12
 00:00:59,394 --> 00:01:01,060
-   vastly different purposes.   
+vastly different purposes.   
 
 13
 00:01:01,062 --> 00:01:03,930
- yet the technology behind them 
-         is identical --        
+yet the technology behind them is identical --        
 
 14
 00:01:03,932 --> 00:01:06,065
-       a principle called       
-       magnetic induction.      
+a principle called magnetic induction.      
 
 15
 00:01:06,067 --> 00:01:08,334
-          it all hinges         
-   on tiny electrical currents  
+it all hinges on tiny electrical currents  
 
 16
 00:01:08,336 --> 00:01:10,636
-    creating magnetic fields.   
+creating magnetic fields.   
 
 17
 00:01:13,874 --> 00:01:15,273
-    a tiny electrical current   
+a tiny electrical current   
 
 18
 00:01:15,275 --> 00:01:17,743
-    runs through a wire coil    
-      inside the detector,      
+runs through a wire coil inside the detector,      
 
 19
 00:01:17,745 --> 00:01:19,145
-   creating a magnetic field.   
+creating a magnetic field.   
 
 20
 00:01:21,281 --> 00:01:23,949
-  when the detector passes over 
-         a metal object,        
+when the detector passes over a metal object,        
 
 21
 00:01:23,951 --> 00:01:25,685
-     the field is disturbed,    
+the field is disturbed,    
 
 22
 00:01:25,687 --> 00:01:27,420
-            producing           
-    a small voltage variation   
+producing a small voltage variation   
 
 23
 00:01:27,422 --> 00:01:28,821
-    that triggers the alarm.    
+that triggers the alarm.    
 
 24
 00:01:32,693 --> 00:01:34,626
-        to make the coil,       
-      they use copper wire      
+to make the coil, they use copper wire      
 
 25
 00:01:34,628 --> 00:01:37,696
-          that's coated         
-     with nylon insulation.     
+that's coated with nylon insulation.     
 
 26
 00:01:37,698 --> 00:01:40,699
 they wind it around the two ends
-       of a plastic bobbin      
+of a plastic bobbin      
 
 27
 00:01:40,701 --> 00:01:43,235
-   a specific number of times.  
+a specific number of times.  
 
 28
 00:01:43,237 --> 00:01:46,572
-         polyester tape         
-    keeps it from unraveling.   
+polyester tape keeps it from unraveling.   
 
 29
 00:01:46,574 --> 00:01:49,508
-    security metal detectors    
-         need pure iron         
+security metal detectors need pure iron         
 
 30
 00:01:49,510 --> 00:01:50,910
-      glued into the bobbin     
+glued into the bobbin     
 
 31
 00:01:50,912 --> 00:01:55,114
- to increase the magnetic-field 
-   strength the coil produces.  
+to increase the magnetic-field strength the coil produces.  
 
 32
 00:01:55,116 --> 00:01:58,517
- without it, the coil would have
-   to be several times larger   
+without it, the coil would have
+to be several times larger   
 
 33
 00:01:58,519 --> 00:02:01,454
-     and wouldn't fit inside    
-        a handheld wand.        
+and wouldn't fit inside a handheld wand.        
 
 34
 00:02:01,456 --> 00:02:06,391
- the next step is to solder the 
- coil leads to a circuit board, 
+the next step is to solder the coil leads to a circuit board, 
 
 35
 00:02:06,393 --> 00:02:10,128
- then solder a vibrator motor to
- enable the detector to vibrate 
+then solder a vibrator motor to
+enable the detector to vibrate 
 
 36
 00:02:10,130 --> 00:02:12,598
-         as well as beep        
-      when it finds metal.      
+as well as beep when it finds metal.      
 
 37
 00:02:12,600 --> 00:02:15,534
-       the board contains       
-       a microprocessor,        
+the board contains a microprocessor,        
 
 38
 00:02:15,536 --> 00:02:17,670
-      the detector's alarm,     
-      and other components      
+the detector's alarm, and other components      
 
 39
 00:02:17,672 --> 00:02:21,273
-    that react to the signals   
-      coming from the coil.     
+that react to the signals coming from the coil.     
 
 40
 00:02:21,275 --> 00:02:22,808
-   the coil and circuit board   
+the coil and circuit board   
 
 41
 00:02:22,810 --> 00:02:25,077
-     now go into the wand's     
-        plastic housing.        
+now go into the wand's plastic housing.        
 
 42
 00:02:25,079 --> 00:02:28,981
-     a retaining clip holds     
-  the vibrator motor in place.  
+a retaining clip holds the vibrator motor in place.  
 
 43
 00:02:32,954 --> 00:02:36,154
-    they temporarily hook up    
+they temporarily hook up    
 power to the battery compartment
 
 44
 00:02:36,156 --> 00:02:38,557
-        and push a button       
-      on the circuit board.     
+and push a button on the circuit board.     
 
 45
 00:02:38,559 --> 00:02:41,527
-    this calibrates the board   
-          to the coil.          
+this calibrates the board to the coil.          
 
 46
 00:02:43,230 --> 00:02:47,533
-   they install a sliding cap   
+they install a sliding cap   
 on the detector's on-off switch.
 
 47
 00:02:52,640 --> 00:02:54,706
-    now they can close her up   
+now they can close her up   
 
 48
 00:02:54,708 --> 00:02:57,509
-          and stick on          
-    the manufacturer's label.   
+and stick on the manufacturer's label.   
 
 49
 00:02:58,579 --> 00:03:03,115
-   the last step is to install  
-       the 9-volt battery.      
+the last step is to install the 9-volt battery.      
 
 50
 00:03:03,117 --> 00:03:05,584
-       no metal detector        
-       leaves the factory       
+no metal detector leaves the factory       
 
 51
 00:03:05,586 --> 00:03:08,854
-   before undergoing extensive  
-    quality-control testing.    
+before undergoing extensive quality-control testing.    
 
 52
 00:03:12,593 --> 00:03:16,195
-  metal detectors for treasure  
-    hunting have larger coils   
+metal detectors for treasure hunting have larger coils   
 
 53
 00:03:16,197 --> 00:03:19,264
- so they don't need iron inserts
-  to boost the magnetic field.  
+so they don't need iron inserts
+to boost the magnetic field.  
 
 54
 00:03:19,266 --> 00:03:22,801
-    in fact, hobby detectors    
-        have two coils --       
+in fact, hobby detectors have two coils --       
 
 55
 00:03:22,803 --> 00:03:25,070
-         one to transmit        
-       and one to receive.      
+one to transmit and one to receive.      
 
 56
 00:03:25,072 --> 00:03:27,740
-       this configuration       
-     lets you set the device    
+this configuration lets you set the device    
 
 57
 00:03:27,742 --> 00:03:30,742
-    to detect only the types    
-   of metal you want to find.   
+to detect only the types of metal you want to find.   
 
 58
 00:03:30,744 --> 00:03:32,611
-          like before,          
+like before,          
 
 59
 00:03:32,613 --> 00:03:36,382
-     polyester tape prevents    
- the wound wire from unraveling.
+polyester tape prevents the wound wire from unraveling.
 
 60
 00:03:39,353 --> 00:03:41,954
-   the leads go into a device   
-       called a stripper,       
+the leads go into a device called a stripper,       
 
 61
 00:03:41,956 --> 00:03:45,825
-   which bares the copper wire  
-             inside.            
+which bares the copper wire inside.            
 
 62
 00:03:45,827 --> 00:03:47,359
-        a testing machine       
+a testing machine       
 
 63
 00:03:47,361 --> 00:03:51,197
-      ensures the coil meet     
- the engineering specifications.
+ensures the coil meet the engineering specifications.
 
 64
 00:03:53,568 --> 00:03:57,169
 next, they place a circuit board
-      in the coil housing.      
+in the coil housing.      
 
 65
 00:03:57,171 --> 00:04:00,706
- a cable runs from this housing 
-      to the detector head,     
+a cable runs from this housing to the detector head,     
 
 66
 00:04:00,708 --> 00:04:03,441
-   where components interpret   
-       the coil's signals.      
+where components interpret the coil's signals.      
 
 67
 00:04:03,443 --> 00:04:05,911
-   after installing the coils,  
+after installing the coils,  
 
 68
 00:04:05,913 --> 00:04:10,249
-   they solder the coil leads   
-          to the board.         
+they solder the coil leads to the board.         
 
 69
 00:04:10,251 --> 00:04:13,252
-   they immobilize everything   
-         with hot glue,         
+they immobilize everything with hot glue,         
 
 70
 00:04:13,254 --> 00:04:18,324
- then seal the components inside
-     the housing with epoxy.    
+then seal the components inside
+the housing with epoxy.    
 
 71
 00:04:18,326 --> 00:04:20,525
-       next, they install       
-         a circuit board        
+next, they install a circuit board        
 
 72
 00:04:20,527 --> 00:04:24,329
-   inside the metal detector's  
-          control pad.          
+inside the metal detector's control pad.          
 
 73
 00:04:24,331 --> 00:04:27,132
-   they plug the cable coming   
-  from the coils into the board 
+they plug the cable coming from the coils into the board 
 
 74
 00:04:27,134 --> 00:04:29,067
-          and power up.         
+and power up.         
 
 75
 00:04:29,069 --> 00:04:32,404
-    this calibrates the coils   
-      to the circuit board.     
+this calibrates the coils to the circuit board.     
 
 76
 00:04:36,144 --> 00:04:37,810
-  now they test the calibration 
+now they test the calibration 
 
 77
 00:04:37,812 --> 00:04:39,678
-   with three different types   
-           of material          
+with three different types of material          
 
 78
 00:04:39,680 --> 00:04:41,413
-  the metal detector might find 
-        in the ground --        
+the metal detector might find in the ground --        
 
 79
 00:04:41,415 --> 00:04:45,150
-    iron, silver, and nickel.   
+iron, silver, and nickel.   
 
 80
 00:04:45,152 --> 00:04:49,221
- if everything works perfectly, 
-       assembly continues.      
+if everything works perfectly, assembly continues.      
 
 81
 00:04:55,896 --> 00:05:00,499
-  they install a small speaker  
-         for the alarm.         
+they install a small speaker for the alarm.         
 
 82
 00:05:00,501 --> 00:05:02,835
 then they attach the control pad
-           to the head          
+to the head          
 
 83
 00:05:02,837 --> 00:05:04,970
-      and apply the decals.     
+and apply the decals.     
 
 84
 00:05:07,508 --> 00:05:12,511
-    they attach a handle and    
- arm support, then a long stem. 
+they attach a handle and arm support, then a long stem. 
 
 85
 00:05:12,513 --> 00:05:15,514
-     the cable from the coil    
-  winds upward around the stem  
+the cable from the coil winds upward around the stem  
 
 86
 00:05:15,516 --> 00:05:18,050
-            and plugs           
-     into the detector head.    
+and plugs into the detector head.    
 
 87
 00:05:18,052 --> 00:05:19,385
-      signals from the coil     
+signals from the coil     
 
 88
 00:05:19,387 --> 00:05:22,721
-       travel up the cable      
- to the electronics in the head.
+travel up the cable to the electronics in the head.
 
 89
 00:05:22,723 --> 00:05:25,457
-    a small computer analyzes   
-          these signals         
+a small computer analyzes these signals         
 
 90
 00:05:25,459 --> 00:05:28,794
-      to determine whether      
-  the detector has found metal. 
+to determine whether the detector has found metal. 
 
 91
 00:05:28,796 --> 00:05:31,130
-     if it has, the computer    
-       activates a circuit      
+if it has, the computer activates a circuit      
 
 92
 00:05:31,132 --> 00:05:33,932
-      to set off the alarm      
-     and display a message.     
+to set off the alarm and display a message.     
 
 93
 00:05:33,934 --> 00:05:36,201
-        but the ground's        
-     by no means the limit.     
+but the ground's by no means the limit.     
 
 94
 00:05:36,203 --> 00:05:39,138
- there are even metal detectors 
-    designed for scuba diving   
+there are even metal detectors designed for scuba diving   
 
 95
 00:05:39,140 --> 00:05:41,540
@@ -450,13 +389,11 @@ that are completely submersible.
 
 96
 00:05:55,756 --> 00:05:57,756
-            narrator:           
-   rum comes from by-products   
-     of the sugar industry,     
+narrator: rum comes from by-products of the sugar industry,     
 
 97
 00:05:57,758 --> 00:05:59,158
-         like molasses.         
+like molasses.         
 
 98
 00:05:59,160 --> 00:06:02,294
@@ -465,50 +402,44 @@ produce much of the world's rum.
 
 99
 00:06:02,296 --> 00:06:05,497
-   light rums are the base for  
+light rums are the base for  
 cocktails like the minty mojito.
 
 100
 00:06:05,499 --> 00:06:08,300
-  amber rums are medium-bodied  
-      and aged for flavor.      
+amber rums are medium-bodied and aged for flavor.      
 
 101
 00:06:08,302 --> 00:06:10,035
-  they're often drunk straight, 
+they're often drunk straight, 
 
 102
 00:06:10,037 --> 00:06:13,372
-         as is dark rum,        
-  the strongest-tasting of all. 
+as is dark rum, the strongest-tasting of all. 
 
 103
 00:06:19,246 --> 00:06:20,512
-       this fine amber rum      
+this fine amber rum      
 
 104
 00:06:20,514 --> 00:06:23,248
-         is the product         
-  of a long and complex process 
+is the product of a long and complex process 
 
 105
 00:06:23,250 --> 00:06:27,419
-  that begins with the harvest  
-  of mature sugarcane plants.   
+that begins with the harvest of mature sugarcane plants.   
 
 106
 00:06:31,125 --> 00:06:34,126
-      the cut cane goes to      
- a sugar mill where they wash it
+the cut cane goes to a sugar mill where they wash it
 
 107
 00:06:34,128 --> 00:06:37,930
-          then crush it         
-   to extract its sweet juice.  
+then crush it to extract its sweet juice.  
 
 108
 00:06:37,932 --> 00:06:40,332
-       they boil it down.       
+they boil it down.       
 
 109
 00:06:40,334 --> 00:06:42,133
@@ -516,52 +447,44 @@ this produces a kind of molasses
 
 110
 00:06:42,135 --> 00:06:44,536
-        that then goes on       
-     to a centrifuge machine    
+that then goes on to a centrifuge machine    
 
 111
 00:06:44,538 --> 00:06:47,206
- that draws out excess moisture.
+that draws out excess moisture.
 
 112
 00:06:49,410 --> 00:06:53,679
-  rum making really beings here 
-  in these distillation towers. 
+rum making really beings here in these distillation towers. 
 
 113
 00:06:53,681 --> 00:06:57,850
- this is where ferment made from
- molasses distills into raw rum.
+this is where ferment made from
+molasses distills into raw rum.
 
 114
 00:06:59,753 --> 00:07:02,888
-   to make ferment, molasses    
-   mixed with water and yeast   
+to make ferment, molasses mixed with water and yeast   
 
 115
 00:07:02,890 --> 00:07:06,091
-       heats in open tanks      
-       for about 30 hours.      
+heats in open tanks for about 30 hours.      
 
 116
 00:07:06,093 --> 00:07:08,494
-       this converts sugar      
-          into alcohol.         
+this converts sugar into alcohol.         
 
 117
 00:07:10,764 --> 00:07:13,699
-    here's a sample straight    
-    from one of these tanks.    
+here's a sample straight from one of these tanks.    
 
 118
 00:07:13,701 --> 00:07:19,237
-  notice that foamy top layer?  
- that's fermentation in action. 
+notice that foamy top layer? that's fermentation in action. 
 
 119
 00:07:19,239 --> 00:07:22,240
- before distilling the contents 
-          of the tank,          
+before distilling the contents of the tank,          
 
 120
 00:07:22,242 --> 00:07:24,510
@@ -569,101 +492,87 @@ technicians first test a sample.
 
 121
 00:07:24,512 --> 00:07:27,513
-      in this glass still,      
-     steam heats the ferment    
+in this glass still, steam heats the ferment    
 
 122
 00:07:27,515 --> 00:07:29,448
-   and releases alcohol vapors  
+and releases alcohol vapors  
 
 123
 00:07:29,450 --> 00:07:32,718
-          that condense         
-    at the top of the column.   
+that condense at the top of the column.   
 
 124
 00:07:32,720 --> 00:07:35,788
-       as they travel down      
-       the still's spiral,      
+as they travel down the still's spiral,      
 
 125
 00:07:35,790 --> 00:07:38,990
-         the vapors cool        
-     and condense even more.    
+the vapors cool and condense even more.    
 
 126
 00:07:38,992 --> 00:07:42,995
-    the liquid that collects    
-  in the beaker is 80% alcohol. 
+the liquid that collects in the beaker is 80% alcohol. 
 
 127
 00:07:42,997 --> 00:07:46,264
-      it's the same process     
- inside the distillation towers 
+it's the same process inside the distillation towers 
 
 128
 00:07:46,266 --> 00:07:48,534
-     on a much larger scale.    
+on a much larger scale.    
 
 129
 00:07:52,606 --> 00:07:56,342
-     the ferment must reach     
-     176 degrees fahrenheit     
+the ferment must reach 176 degrees fahrenheit     
 
 130
 00:07:56,344 --> 00:07:58,276
-    to distill into raw rum.    
+to distill into raw rum.    
 
 131
 00:07:58,278 --> 00:08:01,279
-    then it's stored in these   
-    13,000-gallon containers    
+then it's stored in these 13,000-gallon containers    
 
 132
 00:08:01,281 --> 00:08:04,750
- until they test it for quality.
+until they test it for quality.
 
 133
 00:08:04,752 --> 00:08:06,685
-    these gas-powered boilers   
+these gas-powered boilers   
 
 134
 00:08:06,687 --> 00:08:10,155
-     provide the steam heat     
-  for the distillation towers.  
+provide the steam heat for the distillation towers.  
 
 135
 00:08:13,026 --> 00:08:16,228
- workers monitor the distilling 
-      towers day and night.     
+workers monitor the distilling towers day and night.     
 
 136
 00:08:16,230 --> 00:08:17,830
-    this facility can produce   
+this facility can produce   
 
 137
 00:08:17,832 --> 00:08:21,032
-    more than 10,000 gallons    
-        of raw rum a day,       
+more than 10,000 gallons of raw rum a day,       
 
 138
 00:08:21,034 --> 00:08:25,237
-           all stored           
-    in these gigantic silos.    
+all stored in these gigantic silos.    
 
 139
 00:08:25,239 --> 00:08:28,974
-     from there, the raw rum    
- goes into charred oak barrels. 
+from there, the raw rum goes into charred oak barrels. 
 
 140
 00:08:28,976 --> 00:08:31,110
-      it's mixed with water     
+it's mixed with water     
 
 141
 00:08:31,112 --> 00:08:34,680
-         and left to age        
-  anywhere from 1 to 12 years.  
+and left to age anywhere from 1 to 12 years.  
 
 142
 00:08:36,050 --> 00:08:38,516
@@ -671,241 +580,204 @@ the charred wood produces asters
 
 143
 00:08:38,518 --> 00:08:41,719
-        that give the rum       
-    color, flavor, and aroma.   
+that give the rum color, flavor, and aroma.   
 
 144
 00:08:41,721 --> 00:08:45,090
-       the longer it ages,      
-  the more intense the flavor.  
+the longer it ages, the more intense the flavor.  
 
 145
 00:08:46,861 --> 00:08:48,593
-    technicians perform tests   
+technicians perform tests   
 
 146
 00:08:48,595 --> 00:08:51,196
-           on a sample          
- at the distillery's laboratory,
+on a sample at the distillery's laboratory,
 
 147
 00:08:51,198 --> 00:08:54,666
-       closely monitoring       
-       the aging process.       
+closely monitoring the aging process.       
 
 148
 00:08:54,668 --> 00:08:57,002
-   first, using a hydrometer,   
+first, using a hydrometer,   
 
 149
 00:08:57,004 --> 00:08:59,370
-     they measure the amount    
-    of alcohol in the samples   
+they measure the amount of alcohol in the samples   
 
 150
 00:08:59,372 --> 00:09:02,007
-          to make sure          
- it's in the standard 50% range.
+to make sure it's in the standard 50% range.
 
 151
 00:09:05,479 --> 00:09:07,612
-  next, they smell each sample  
+next, they smell each sample  
 
 152
 00:09:07,614 --> 00:09:10,749
-          to make sure          
-   the aromas are in balance.   
+to make sure the aromas are in balance.   
 
 153
 00:09:10,751 --> 00:09:14,019
-       they keep a journal      
-   of all their observations.   
+they keep a journal of all their observations.   
 
 154
 00:09:14,021 --> 00:09:15,354
-         quality control        
+quality control        
 
 155
 00:09:15,356 --> 00:09:18,757
-     is the key to producing    
+is the key to producing    
 a consistent, flavorful product.
 
 156
 00:09:20,428 --> 00:09:23,095
-        once it has aged,       
-       the rum is bottled.      
+once it has aged, the rum is bottled.      
 
 157
 00:09:23,097 --> 00:09:25,763
- it's a fully automated process.
+it's a fully automated process.
 
 158
 00:09:25,765 --> 00:09:27,432
-      first, they sterilize     
-           new bottles          
+first, they sterilize new bottles          
 
 159
 00:09:27,434 --> 00:09:29,234
- in a sodium-carbonate solution.
+in a sodium-carbonate solution.
 
 160
 00:09:29,236 --> 00:09:32,104
-   then a conveyer moves them   
-      to a filling station      
+then a conveyer moves them to a filling station      
 
 161
 00:09:32,106 --> 00:09:35,274
-  that can process 150 bottles  
-            a minute.           
+that can process 150 bottles a minute.           
 
 162
 00:09:37,178 --> 00:09:40,512
-     rotating wheels deliver    
-  the bottles to a lever system 
+rotating wheels deliver the bottles to a lever system 
 
 163
 00:09:40,514 --> 00:09:43,982
-     that raises them up to     
- the nozzles on pneumatic pumps.
+that raises them up to the nozzles on pneumatic pumps.
 
 164
 00:09:43,984 --> 00:09:47,886
-  they fill up with rum -- more 
-  than 72,000 of them each day. 
+they fill up with rum -- more than 72,000 of them each day. 
 
 165
 00:09:51,725 --> 00:09:54,793
-   next, aluminum bottle caps   
-        come down a chute       
+next, aluminum bottle caps come down a chute       
 
 166
 00:09:54,795 --> 00:09:56,662
-   right onto the bottle tops.  
+right onto the bottle tops.  
 
 167
 00:09:56,664 --> 00:09:59,131
-   a piston valve pushes down   
-           on the caps          
+a piston valve pushes down on the caps          
 
 168
 00:09:59,133 --> 00:10:02,067
- and tightly seals each bottle. 
+and tightly seals each bottle. 
 
 169
 00:10:02,069 --> 00:10:04,002
-     next stop -- labeling.     
+next stop -- labeling.     
 
 170
 00:10:04,004 --> 00:10:06,538
-    first, a spinning roller    
-          applies glue          
+first, a spinning roller applies glue          
 
 171
 00:10:06,540 --> 00:10:10,142
-            to panels           
-    set on a rotating wheel.    
+to panels set on a rotating wheel.    
 
 172
 00:10:10,144 --> 00:10:14,613
-  the panels pass a dispenser,  
-  and a label glues onto them.  
+the panels pass a dispenser, and a label glues onto them.  
 
 173
 00:10:14,615 --> 00:10:18,016
-  another rotating wheel grabs  
-    the labels from the panel   
+another rotating wheel grabs the labels from the panel   
 
 174
 00:10:18,018 --> 00:10:19,952
-       and transfers them       
-       onto the bottles.        
+and transfers them onto the bottles.        
 
 175
 00:10:19,954 --> 00:10:23,188
-       sponges press them       
-       neatly into place.       
+sponges press them neatly into place.       
 
 176
 00:10:24,625 --> 00:10:27,960
-      as the bottles convey     
-  out of the labeling station,  
+as the bottles convey out of the labeling station,  
 
 177
 00:10:27,962 --> 00:10:30,796
- brushes smooth out each label. 
+brushes smooth out each label. 
 
 178
 00:10:32,899 --> 00:10:37,835
-   finally, the bottles lower   
-     into boxes 12 at a time    
+finally, the bottles lower into boxes 12 at a time    
 
 179
 00:10:37,837 --> 00:10:40,439
-      to ship to customers      
-      all over the world.       
+to ship to customers all over the world.       
 
 180
 00:10:58,325 --> 00:11:00,459
-     narrator: tiffany lamps    
-   were invented and produced   
+narrator: tiffany lamps were invented and produced   
 
 181
 00:11:00,461 --> 00:11:02,126
-           by designer          
-      louis comfort tiffany     
+by designer louis comfort tiffany     
 
 182
 00:11:02,128 --> 00:11:03,929
-            starting            
-    in the late 19th century.   
+starting in the late 19th century.   
 
 183
 00:11:03,931 --> 00:11:06,397
-  they were renowned for their  
- elaborate stained-glass shades,
+they were renowned for their elaborate stained-glass shades,
 
 184
 00:11:06,399 --> 00:11:07,933
-    crafted entirely by hand.   
+crafted entirely by hand.   
 
 185
 00:11:07,935 --> 00:11:11,136
-    the term tiffany has come   
-  to be used as a generic term  
+the term tiffany has come to be used as a generic term  
 
 186
 00:11:11,138 --> 00:11:13,405
-          for any lamp          
-    or hanging light fixture    
+for any lamp or hanging light fixture    
 
 187
 00:11:13,407 --> 00:11:16,108
-   with a stained-glass shade.  
+with a stained-glass shade.  
 
 188
 00:11:20,547 --> 00:11:24,148
- this lighting company produces 
- original stained-glass lamps,  
+this lighting company produces original stained-glass lamps,  
 
 189
 00:11:24,150 --> 00:11:28,553
-    as well as reproductions    
-   of renown tiffany designs.   
+as well as reproductions of renown tiffany designs.   
 
 190
 00:11:28,555 --> 00:11:30,489
-         there's nothing        
-       machine-made here.       
+there's nothing machine-made here.       
 
 191
 00:11:30,491 --> 00:11:35,827
-     each and every creation    
-  is meticulously handcrafted.  
+each and every creation is meticulously handcrafted.  
 
 192
 00:11:35,829 --> 00:11:39,231
-  the lamp designer first draws 
-  a pencil sketch of the shade, 
+the lamp designer first draws a pencil sketch of the shade, 
 
 193
 00:11:39,233 --> 00:11:41,900
@@ -913,132 +785,116 @@ then prepares a color rendition.
 
 194
 00:11:43,570 --> 00:11:46,371
-      he produces a pattern     
-    in the lamp's actual size   
+he produces a pattern in the lamp's actual size   
 
 195
 00:11:46,373 --> 00:11:48,573
-      and assigns a number      
-     to each pattern piece,     
+and assigns a number to each pattern piece,     
 
 196
 00:11:48,575 --> 00:11:50,441
-   then records by code number  
+then records by code number  
 
 197
 00:11:50,443 --> 00:11:54,046
- the specific glass they'll use 
-         for each piece.        
+the specific glass they'll use for each piece.        
 
 198
 00:12:00,120 --> 00:12:03,188
-       next, they cut out       
-  the numbered pattern pieces,  
+next, they cut out the numbered pattern pieces,  
 
 199
 00:12:03,190 --> 00:12:05,257
-            lay them            
-   on the corresponding glass,  
+lay them on the corresponding glass,  
 
 200
 00:12:05,259 --> 00:12:07,258
-  and trace them with a marker. 
+and trace them with a marker. 
 
 201
 00:12:07,260 --> 00:12:11,863
 using a glass cutter, they score
- the trace lines and snap them. 
+the trace lines and snap them. 
 
 202
 00:12:12,800 --> 00:12:16,335
-    when a piece is too small   
+when a piece is too small   
 to get enough snapping leverage,
 
 203
 00:12:16,337 --> 00:12:20,305
 they grip the glass with special
-     pliers called groziers.    
+pliers called groziers.    
 
 204
 00:12:25,679 --> 00:12:29,348
 next, they sand-smooth the rough
-     edges of the cut pieces    
+edges of the cut pieces    
 
 205
 00:12:29,350 --> 00:12:30,616
-     so they won't puncture     
+so they won't puncture     
 
 206
 00:12:30,618 --> 00:12:34,086
-    the adhesive copper foil    
-       that goes on next.       
+the adhesive copper foil that goes on next.       
 
 207
 00:12:37,157 --> 00:12:40,559
-   after wrapping each piece,   
-  they crimp the foil tightly,  
+after wrapping each piece, they crimp the foil tightly,  
 
 208
 00:12:40,561 --> 00:12:44,096
-    first with their fingers,   
-    then with a flat object.    
+first with their fingers, then with a flat object.    
 
 209
 00:12:50,304 --> 00:12:54,772
-     this design, like many,    
-   incorporates glass jewels.   
+this design, like many, incorporates glass jewels.   
 
 210
 00:12:54,774 --> 00:12:58,310
- these come from glass suppliers
-           ready-made.          
+these come from glass suppliers
+ready-made.          
 
 211
 00:13:05,118 --> 00:13:07,452
-          the next step         
- is to coat the foil with flux, 
+the next step is to coat the foil with flux, 
 
 212
 00:13:07,454 --> 00:13:10,756
-           a chemical           
-  that enables solder to stick. 
+a chemical that enables solder to stick. 
 
 213
 00:13:12,793 --> 00:13:14,525
-   now with a soldering iron,   
+now with a soldering iron,   
 
 214
 00:13:14,527 --> 00:13:18,063
-  they melt tin and lead solder 
-      onto the copper foil.     
+they melt tin and lead solder onto the copper foil.     
 
 215
 00:13:18,065 --> 00:13:21,332
-    initially, they just tack   
-    all the pieces together,    
+initially, they just tack all the pieces together,    
 
 216
 00:13:21,334 --> 00:13:23,935
-     completing one section     
-     of the shade at a time.    
+completing one section of the shade at a time.    
 
 217
 00:13:23,937 --> 00:13:26,204
-   then they lay the sections   
-          side by side          
+then they lay the sections side by side          
 
 218
 00:13:26,206 --> 00:13:28,073
-    in a curved plaster mold.   
+in a curved plaster mold.   
 
 219
 00:13:28,075 --> 00:13:31,243
-         this bends them        
-      to the correct shape.     
+this bends them to the correct shape.     
 
 220
 00:13:34,280 --> 00:13:35,747
-           more flux.           
+more flux.           
 
 221
 00:13:35,749 --> 00:13:39,818
@@ -1047,96 +903,83 @@ tack the sections to each other,
 
 222
 00:13:39,820 --> 00:13:43,021
- then solder the whole interior.
+then solder the whole interior.
 
 223
 00:13:51,498 --> 00:13:54,499
-  once that's done, they remove 
-     the shape from the mold    
+once that's done, they remove the shape from the mold    
 
 224
 00:13:54,501 --> 00:13:57,469
- and solder the whole exterior. 
+and solder the whole exterior. 
 
 225
 00:14:02,041 --> 00:14:06,578
-   now they top the shade with  
- a brass cap and solder that on.
+now they top the shade with a brass cap and solder that on.
 
 226
 00:14:12,186 --> 00:14:13,451
-      this lampshade design     
+this lampshade design     
 
 227
 00:14:13,453 --> 00:14:16,320
-      features dragonflies      
-   with brass filigree wings.   
+features dragonflies with brass filigree wings.   
 
 228
 00:14:16,322 --> 00:14:19,190
-    after soldering the wings   
-            in place,           
+after soldering the wings in place,           
 
 229
 00:14:19,192 --> 00:14:22,327
-   it's time for what's called  
-      the final beading --      
+it's time for what's called the final beading --      
 
 230
 00:14:22,329 --> 00:14:25,330
-        a final soldering       
- over the existing solder lines 
+a final soldering over the existing solder lines 
 
 231
 00:14:25,332 --> 00:14:28,266
- to make them even and rounded. 
+to make them even and rounded. 
 
 232
 00:14:28,268 --> 00:14:31,736
-     now they wash the shade    
-    in an antiquing solution,   
+now they wash the shade in an antiquing solution,   
 
 233
 00:14:31,738 --> 00:14:34,806
-  which dulls the shine of both 
-  the solder and the brass cap, 
+which dulls the shine of both the solder and the brass cap, 
 
 234
 00:14:34,808 --> 00:14:37,576
-      giving the lampshade      
-          an aged look.         
+giving the lampshade an aged look.         
 
 235
 00:14:39,679 --> 00:14:41,012
-     in another department,     
+in another department,     
 
 236
 00:14:41,014 --> 00:14:43,748
-   they install what's called   
-       the light cluster,       
+they install what's called the light cluster,       
 
 237
 00:14:43,750 --> 00:14:46,350
-    a rod with light sockets    
-        and a pull chain,       
+a rod with light sockets and a pull chain,       
 
 238
 00:14:46,352 --> 00:14:48,353
-        into a lamp base.       
+into a lamp base.       
 
 239
 00:14:52,225 --> 00:14:56,027
-    they fish the power cord    
-  up the base and out the top,  
+they fish the power cord up the base and out the top,  
 
 240
 00:14:56,029 --> 00:15:00,065
-  then connect the cord to the  
- wires coming from the sockets. 
+then connect the cord to the wires coming from the sockets. 
 
 241
 00:15:04,838 --> 00:15:07,372
-   they tuck in the wiring...   
+they tuck in the wiring...   
 
 242
 00:15:07,374 --> 00:15:09,774
@@ -1144,287 +987,245 @@ apply thread-locking solution...
 
 243
 00:15:09,776 --> 00:15:14,112
-   then screw the base closed.  
+then screw the base closed.  
 
 244
 00:15:14,114 --> 00:15:16,113
-       for the time being,      
+for the time being,      
 
 245
 00:15:16,115 --> 00:15:19,684
-     they attach the finial     
- that goes on top of the shade. 
+they attach the finial that goes on top of the shade. 
 
 246
 00:15:22,189 --> 00:15:25,456
-  and now a light-bulb moment.  
+and now a light-bulb moment.  
 
 247
 00:15:25,458 --> 00:15:27,058
- if everything works perfectly, 
+if everything works perfectly, 
 
 248
 00:15:27,060 --> 00:15:31,729
-         the tags go on         
-  and the base gets its shade.  
+the tags go on and the base gets its shade.  
 
 249
 00:15:31,731 --> 00:15:35,667
-    the bases of the original   
- tiffanies were made of bronze. 
+the bases of the original tiffanies were made of bronze. 
 
 250
 00:15:35,669 --> 00:15:39,737
- these, both for tabletop lamps 
-      and hanging fixtures,     
+these, both for tabletop lamps and hanging fixtures,     
 
 251
 00:15:39,739 --> 00:15:45,377
- are cast from zinc -- the same 
+are cast from zinc -- the same 
 look at a fraction of the price.
 
 252
 00:16:00,093 --> 00:16:01,893
-            narrator:           
-       for safety reasons,      
+narrator: for safety reasons,      
 
 253
 00:16:01,895 --> 00:16:05,029
-      aircraft engines have     
-  built-in redundancy features, 
+aircraft engines have built-in redundancy features, 
 
 254
 00:16:05,031 --> 00:16:07,899
-      like dual spark plugs     
-    and dual ignition systems   
+like dual spark plugs and dual ignition systems   
 
 255
 00:16:07,901 --> 00:16:10,502
-    so that vital components    
-         have a backup.         
+so that vital components have a backup.         
 
 256
 00:16:10,504 --> 00:16:12,771
-        rising gas prices       
-        and eco awareness       
+rising gas prices and eco awareness       
 
 257
 00:16:12,773 --> 00:16:15,974
-  are compelling manufacturers  
-    to build aircraft engines   
+are compelling manufacturers to build aircraft engines   
 
 258
 00:16:15,976 --> 00:16:18,677
-     that are more efficient    
-       and less polluting.      
+that are more efficient and less polluting.      
 
 259
 00:16:21,581 --> 00:16:26,451
- aircraft engines are remarkable
-     pieces of engineering.     
+aircraft engines are remarkable
+pieces of engineering.     
 
 260
 00:16:26,453 --> 00:16:30,856
 to build a four-cylinder engine,
-  a worker wraps abrasive tape  
+a worker wraps abrasive tape  
 
 261
 00:16:30,858 --> 00:16:34,593
- around what's called a bearing 
-    journal on a crankshaft.    
+around what's called a bearing journal on a crankshaft.    
 
 262
 00:16:39,199 --> 00:16:40,899
-     using a polishing jack,    
+using a polishing jack,    
 
 263
 00:16:40,901 --> 00:16:44,402
-    he polishes the journal     
-    to the correct diameter,    
+he polishes the journal to the correct diameter,    
 
 264
 00:16:44,404 --> 00:16:47,272
-        which he verifies       
-    with a digital snap gage.   
+which he verifies with a digital snap gage.   
 
 265
 00:16:50,077 --> 00:16:52,544
-           an operator          
-      then oils the journal     
+an operator then oils the journal     
 
 266
 00:16:52,546 --> 00:16:54,412
- and attaches a connecting rod. 
+and attaches a connecting rod. 
 
 267
 00:16:54,414 --> 00:16:57,281
-     these link the pistons     
-       to the crankshaft,       
+these link the pistons to the crankshaft,       
 
 268
 00:16:57,283 --> 00:17:00,886
- which turns to generate power. 
+which turns to generate power. 
 
 269
 00:17:00,888 --> 00:17:04,556
- then he applies gasket sealant 
-  on the edge of the crankcase  
+then he applies gasket sealant on the edge of the crankcase  
 
 270
 00:17:04,558 --> 00:17:06,757
-         and silk thread        
-     that acts like a gasket    
+and silk thread that acts like a gasket    
 
 271
 00:17:06,759 --> 00:17:09,827
-     so when the two halves     
-  of the crankcase are joined,  
+so when the two halves of the crankcase are joined,  
 
 272
 00:17:09,829 --> 00:17:12,230
-   the engine won't leak oil.   
+the engine won't leak oil.   
 
 273
 00:17:17,638 --> 00:17:21,038
-      he places a camshaft      
- into one side of the crankcase 
+he places a camshaft into one side of the crankcase 
 
 274
 00:17:21,040 --> 00:17:24,910
-   and measures the clearance   
- to make sure it's a tight fit. 
+and measures the clearance to make sure it's a tight fit. 
 
 275
 00:17:24,912 --> 00:17:28,680
-         then he oils it        
- to ensure there is no friction.
+then he oils it to ensure there is no friction.
 
 276
 00:17:31,852 --> 00:17:35,654
-  they place the crankshaft and 
+they place the crankshaft and 
 rod assembly into the crankcase,
 
 277
 00:17:35,656 --> 00:17:37,956
-    then join the two halves    
-            together.           
+then join the two halves together.           
 
 278
 00:17:43,196 --> 00:17:44,729
- to prevent the connecting rods 
+to prevent the connecting rods 
 
 279
 00:17:44,731 --> 00:17:46,797
-     from hitting the sides     
-         of the housing,        
+from hitting the sides of the housing,        
 
 280
 00:17:46,799 --> 00:17:48,934
-   they put on what are called  
-         torque plates.         
+they put on what are called torque plates.         
 
 281
 00:17:51,605 --> 00:17:55,006
-    he adds a little sealant    
-    to hold a gasket in place   
+he adds a little sealant to hold a gasket in place   
 
 282
 00:17:55,008 --> 00:17:57,275
-          then attaches         
-      an accessory housing,     
+then attaches an accessory housing,     
 
 283
 00:17:57,277 --> 00:17:59,343
-    which holds all the gears   
-            and hoses           
+which holds all the gears and hoses           
 
 284
 00:17:59,345 --> 00:18:01,913
-        that are mounted        
-   on the back of the engine.   
+that are mounted on the back of the engine.   
 
 285
 00:18:06,219 --> 00:18:09,687
-      he installs the sump      
-   that holds the oil supply,   
+he installs the sump that holds the oil supply,   
 
 286
 00:18:09,689 --> 00:18:13,191
-     then attaches a piston     
-     to each connecting rod.    
+then attaches a piston to each connecting rod.    
 
 287
 00:18:18,297 --> 00:18:21,032
-    now he mounts a cylinder    
-          onto a piston         
+now he mounts a cylinder onto a piston         
 
 288
 00:18:21,034 --> 00:18:23,634
-     and connects the parts     
-         to the engine.         
+and connects the parts to the engine.         
 
 289
 00:18:23,636 --> 00:18:27,038
-     he'll mount and secure     
-  all four cylinders this way.  
+he'll mount and secure all four cylinders this way.  
 
 290
 00:18:29,710 --> 00:18:35,180
-  he inserts hydraulic tappets  
-     and then shroud tubes.     
+he inserts hydraulic tappets and then shroud tubes.     
 
 291
 00:18:36,783 --> 00:18:41,986
 he attaches them to the cylinder
-        using a retainer.       
+using a retainer.       
 
 292
 00:18:41,988 --> 00:18:45,523
-      he inserts a pushrod      
-         into each tube         
+he inserts a pushrod into each tube         
 
 293
 00:18:45,525 --> 00:18:48,860
-      and fits a rocker arm     
-    onto each rod, completing   
+and fits a rocker arm onto each rod, completing   
 
 294
 00:18:48,862 --> 00:18:51,763
-  the cylinder-and-valve-action 
-            assembly.           
+the cylinder-and-valve-action assembly.           
 
 295
 00:18:55,802 --> 00:18:58,936
-   he steam-cleans the engine.  
+he steam-cleans the engine.  
 
 296
 00:18:58,938 --> 00:19:03,207
-        then he paints it       
- with rustproofing enamel paint.
+then he paints it with rustproofing enamel paint.
 
 297
 00:19:03,209 --> 00:19:05,276
-  next come the spark plugs --  
+next come the spark plugs --  
 
 298
 00:19:05,278 --> 00:19:08,947
-     one on the top and one     
- on the bottom of each cylinder.
+one on the top and one on the bottom of each cylinder.
 
 299
 00:19:12,952 --> 00:19:16,354
-  he grounds and then installs  
-          two magnetos.         
+he grounds and then installs two magnetos.         
 
 300
 00:19:16,356 --> 00:19:19,824
-   these devices generate the   
+these devices generate the   
 electricity for the spark plugs,
 
 301
 00:19:19,826 --> 00:19:22,327
-      which ignite the fuel     
-        in the cylinder.        
+which ignite the fuel in the cylinder.        
 
 302
 00:19:27,567 --> 00:19:29,567
@@ -1432,8 +1233,7 @@ he attaches the spark-plug wires
 
 303
 00:19:29,569 --> 00:19:32,103
-        from the magneto        
-       to the spark plugs,      
+from the magneto to the spark plugs,      
 
 304
 00:19:32,105 --> 00:19:34,906
@@ -1441,54 +1241,47 @@ then verifies the engine timing.
 
 305
 00:19:37,177 --> 00:19:39,777
-  next come the heat shields... 
+next come the heat shields... 
 
 306
 00:19:39,779 --> 00:19:42,379
-       the intake pipes...      
+the intake pipes...      
 
 307
 00:19:42,381 --> 00:19:45,650
- all the spark-plug connections 
-        and drain tubes,        
+all the spark-plug connections and drain tubes,        
 
 308
 00:19:45,652 --> 00:19:48,253
-  and finally, a fuel injector. 
+and finally, a fuel injector. 
 
 309
 00:19:51,858 --> 00:19:54,592
-    an operator then attaches   
-       a testing propeller      
+an operator then attaches a testing propeller      
 
 310
 00:19:54,594 --> 00:19:57,495
-  to the engine to keep it cool 
-         during testing.        
+to the engine to keep it cool during testing.        
 
 311
 00:20:01,000 --> 00:20:04,869
-    he runs the engine using    
- controls like a pilot would use
+he runs the engine using controls like a pilot would use
 
 312
 00:20:04,871 --> 00:20:08,406
-  and certifies everything from 
-  engine speed and temperature  
+and certifies everything from engine speed and temperature  
 
 313
 00:20:08,408 --> 00:20:11,009
-  to fuel pressure and airflow. 
+to fuel pressure and airflow. 
 
 314
 00:20:13,413 --> 00:20:16,214
-          hours later,          
-    he checks the oil filter    
+hours later, he checks the oil filter    
 
 315
 00:20:16,216 --> 00:20:19,350
-  for signs of foreign material 
-        or contamination.       
+for signs of foreign material or contamination.       
 
 316
 00:20:19,352 --> 00:20:22,287
@@ -1496,8 +1289,8 @@ and this engine passes the test.
 
 317
 00:20:24,758 --> 00:20:29,094
- a worker then puts preservative
-     oil into the cylinders.    
+a worker then puts preservative
+oil into the cylinders.    
 
 318
 00:20:29,096 --> 00:20:32,964
@@ -1506,43 +1299,38 @@ engine en route to the customer,
 
 319
 00:20:32,966 --> 00:20:35,900
-         whether they be        
- general aviation manufacturers 
+whether they be general aviation manufacturers 
 
 320
 00:20:35,902 --> 00:20:38,770
-      or individual owners.     
+or individual owners.     
 
 321
 00:20:40,373 --> 00:20:42,440
- once installed in the airplane 
+once installed in the airplane 
 
 322
 00:20:42,442 --> 00:20:45,443
-     and after the standard     
-   preflight checks are done,   
+and after the standard preflight checks are done,   
 
 323
 00:20:45,445 --> 00:20:47,979
-    the four-cylinder engine    
-        allows the pilot        
+the four-cylinder engine allows the pilot        
 
 324
 00:20:47,981 --> 00:20:52,150
- to take to the clear-blue skies
-      in total confidence.      
+to take to the clear-blue skies
+in total confidence.      
 
 325
 00:20:59,526 --> 00:21:02,193
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 326
 00:21:02,195 --> 00:21:04,863
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 327
 00:21:04,865 --> 00:21:06,931
-      drop us a line at...      
+drop us a line at...      
 

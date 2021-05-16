@@ -1,12 +1,10 @@
 ﻿1
 00:00:01,870 --> 00:00:05,004
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,006 --> 00:00:07,940
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,252 --> 00:00:56,989

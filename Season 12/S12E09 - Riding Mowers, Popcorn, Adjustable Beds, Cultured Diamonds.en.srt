@@ -1,204 +1,173 @@
 ﻿1
 00:00:01,870 --> 00:00:05,004
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,006 --> 00:00:07,940
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,586 --> 00:00:55,387
-            narrator:           
-  when it comes to sitting down 
-           on the job,          
+narrator: when it comes to sitting down on the job,          
 
 4
 00:00:55,389 --> 00:00:57,422
-        the riding mower        
-      is just the vehicle.      
+the riding mower is just the vehicle.      
 
 5
 00:00:57,424 --> 00:01:01,193
- animals powered the first ones 
- in england in the 19th century.
+animals powered the first ones in england in the 19th century.
 
 6
 00:01:01,195 --> 00:01:04,530
 when motorized mowers came along
-      in the 20th century,      
+in the 20th century,      
 
 7
 00:01:04,532 --> 00:01:06,198
-  they improved on the concept, 
+they improved on the concept, 
 
 8
 00:01:06,200 --> 00:01:09,135
-     and we were on our way     
-      to greener pastures.      
+and we were on our way to greener pastures.      
 
 9
 00:01:16,076 --> 00:01:18,410
-    step behind the controls    
-       of a riding mower,       
+step behind the controls of a riding mower,       
 
 10
 00:01:18,412 --> 00:01:20,346
-        and you can tame        
-        that unruly lawn        
+and you can tame that unruly lawn        
 
 11
 00:01:20,348 --> 00:01:22,348
- without even breaking a sweat. 
+without even breaking a sweat. 
 
 12
 00:01:24,485 --> 00:01:26,085
-  the job can be done speedily  
+the job can be done speedily  
 
 13
 00:01:26,087 --> 00:01:29,488
-     because a riding mower     
-     moves at quite a clip.     
+because a riding mower moves at quite a clip.     
 
 14
 00:01:34,228 --> 00:01:38,030
-  to make one, a robot delivers 
-   a sheet of steel to a die.   
+to make one, a robot delivers a sheet of steel to a die.   
 
 15
 00:01:38,032 --> 00:01:40,766
-         the die closes         
-    with 1,000 tons of force    
+the die closes with 1,000 tons of force    
 
 16
 00:01:40,768 --> 00:01:42,634
-    to make a big impression.   
+to make a big impression.   
 
 17
 00:01:42,636 --> 00:01:46,572
-   it shapes it into the part   
- that holds the mowing blades --
+it shapes it into the part that holds the mowing blades --
 
 18
 00:01:46,574 --> 00:01:49,342
-  what's called the mower deck. 
+what's called the mower deck. 
 
 19
 00:01:53,580 --> 00:01:57,916
-  they transfer the mower decks 
-     to a series of presses.    
+they transfer the mower decks to a series of presses.    
 
 20
 00:01:57,918 --> 00:02:02,355
- they punch holes for the blade 
- attachments and trim the edges.
+they punch holes for the blade attachments and trim the edges.
 
 21
 00:02:05,326 --> 00:02:08,227
-     workers stack the decks    
-          for washing.          
+workers stack the decks for washing.          
 
 22
 00:02:10,865 --> 00:02:13,666
-        after a treatment       
- with a chemical rust inhibitor,
+after a treatment with a chemical rust inhibitor,
 
 23
 00:02:13,668 --> 00:02:17,403
-    it's time to plunge them    
-    into a primer solution.     
+it's time to plunge them into a primer solution.     
 
 24
 00:02:17,405 --> 00:02:21,207
-   the overhead rack delivers   
- a negative charge to the decks,
+the overhead rack delivers a negative charge to the decks,
 
 25
 00:02:21,209 --> 00:02:23,476
-        while the primer        
-     has a positive charge,     
+while the primer has a positive charge,     
 
 26
 00:02:23,478 --> 00:02:26,078
-  which draws it onto the decks 
-        in an even coat.        
+which draws it onto the decks in an even coat.        
 
 27
 00:02:26,080 --> 00:02:29,347
-  this is called electrostatic  
-            painting.           
+this is called electrostatic painting.           
 
 28
 00:02:29,349 --> 00:02:31,550
-  they assemble three spindles  
-        to mowing blades        
+they assemble three spindles to mowing blades        
 
 29
 00:02:31,552 --> 00:02:35,020
-    and hoist the mower deck    
-   over the blade assemblies.   
+and hoist the mower deck over the blade assemblies.   
 
 30
 00:02:35,022 --> 00:02:39,625
 they bolt the head of each blade
- subassembly to the mower deck. 
+subassembly to the mower deck. 
 
 31
 00:02:41,829 --> 00:02:43,829
-  then they thread rubber belts 
-         around pulleys         
+then they thread rubber belts around pulleys         
 
 32
 00:02:43,831 --> 00:02:44,897
-      to drive the blades.      
+to drive the blades.      
 
 33
 00:02:47,367 --> 00:02:49,301
-       assembly continues       
-       with gauge wheels,       
+assembly continues with gauge wheels,       
 
 34
 00:02:49,303 --> 00:02:52,437
-    a protective belt casing,   
+a protective belt casing,   
 
 35
 00:02:52,439 --> 00:02:55,408
- and a chute for the cut grass. 
+and a chute for the cut grass. 
 
 36
 00:02:57,644 --> 00:03:00,345
-        next, they clamp        
-      a set of steel rails      
+next, they clamp a set of steel rails      
 
 37
 00:03:00,347 --> 00:03:03,582
-   along with some attachments  
-       to a welding table.      
+along with some attachments to a welding table.      
 
 38
 00:03:03,584 --> 00:03:08,387
- the welding table swings around
- to an awaiting crew of robots. 
+the welding table swings around
+to an awaiting crew of robots. 
 
 39
 00:03:08,389 --> 00:03:12,925
-   the robots move in and weld  
-  the attachments to the rails. 
+the robots move in and weld the attachments to the rails. 
 
 40
 00:03:12,927 --> 00:03:15,127
-           these rails          
-   will serve as the framework  
+these rails will serve as the framework  
 
 41
 00:03:15,129 --> 00:03:16,328
-      for the riding mower.     
+for the riding mower.     
 
 42
 00:03:16,330 --> 00:03:19,465
-         the attachments        
-    are for the front wheels.   
+the attachments are for the front wheels.   
 
 43
 00:03:19,467 --> 00:03:21,867
@@ -206,37 +175,32 @@ once the rails have been primed,
 
 44
 00:03:21,869 --> 00:03:26,005
-      an overhead conveyor      
- takes them into a paint booth. 
+an overhead conveyor takes them into a paint booth. 
 
 45
 00:03:26,007 --> 00:03:29,141
-  nozzles spray a powder paint  
-         onto the parts         
+nozzles spray a powder paint onto the parts         
 
 46
 00:03:29,143 --> 00:03:31,009
-   for an enamel-like finish.   
+for an enamel-like finish.   
 
 47
 00:03:31,011 --> 00:03:33,746
-  the powder that doesn't stick 
-          is recycled.          
+the powder that doesn't stick is recycled.          
 
 48
 00:03:38,419 --> 00:03:40,886
-      they lower the engine     
-    subassembly into position   
+they lower the engine subassembly into position   
 
 49
 00:03:40,888 --> 00:03:43,222
-            to build            
+to build            
 the vehicle framework around it,
 
 50
 00:03:43,224 --> 00:03:46,092
-      then bolt the welded      
- and freshly glossed side rails 
+then bolt the welded and freshly glossed side rails 
 
 51
 00:03:46,094 --> 00:03:47,893
@@ -244,130 +208,108 @@ to tubing at the front and back.
 
 52
 00:03:51,432 --> 00:03:54,633
-    they attach the footrest    
-          to the frame,         
+they attach the footrest to the frame,         
 
 53
 00:03:54,635 --> 00:03:58,104
-    then install the platform   
-          for the seat.         
+then install the platform for the seat.         
 
 54
 00:03:58,106 --> 00:04:00,172
-          they assemble         
-  those nifty steering levers,  
+they assemble those nifty steering levers,  
 
 55
 00:04:00,174 --> 00:04:03,542
-       which can be moved       
-       into 15 positions.       
+which can be moved into 15 positions.       
 
 56
 00:04:05,580 --> 00:04:09,448
-  then they install metal yokes 
-      on the front wheels.      
+then they install metal yokes on the front wheels.      
 
 57
 00:04:09,450 --> 00:04:12,250
-   they slot the yoke's shaft   
-      into the frame rail,      
+they slot the yoke's shaft into the frame rail,      
 
 58
 00:04:12,252 --> 00:04:15,721
-           securing it          
-     with a metal snap ring.    
+securing it with a metal snap ring.    
 
 59
 00:04:15,723 --> 00:04:17,656
-   now comes the front grill,   
+now comes the front grill,   
 
 60
 00:04:17,658 --> 00:04:21,993
-    that's vented to protect    
-  the engine from overheating.  
+that's vented to protect the engine from overheating.  
 
 61
 00:04:21,995 --> 00:04:23,596
-   the rear wheels go on next.  
+the rear wheels go on next.  
 
 62
 00:04:23,598 --> 00:04:26,398
-    they're more substantial    
-       than the front ones      
+they're more substantial than the front ones      
 
 63
 00:04:26,400 --> 00:04:29,802
-          because this          
- is a rear-wheel-drive machine. 
+because this is a rear-wheel-drive machine. 
 
 64
 00:04:29,804 --> 00:04:33,205
-       it's time to mount       
-    the mower deck and blades   
+it's time to mount the mower deck and blades   
 
 65
 00:04:33,207 --> 00:04:34,606
-        onto the vehicle.       
+onto the vehicle.       
 
 66
 00:04:34,608 --> 00:04:39,678
-    they position it in front   
-  and roll the vehicle over it. 
+they position it in front and roll the vehicle over it. 
 
 67
 00:04:39,680 --> 00:04:42,748
-   the workers activate a lift  
-   that elevates the worktable  
+the workers activate a lift that elevates the worktable  
 
 68
 00:04:42,750 --> 00:04:45,217
-           to a height          
-  that makes it easier for them 
+to a height that makes it easier for them 
 
 69
 00:04:45,219 --> 00:04:47,686
-    to secure the mower deck    
-        to the framework.       
+to secure the mower deck to the framework.       
 
 70
 00:04:47,688 --> 00:04:52,091
-      they attach the belts     
+they attach the belts     
 on the mower deck to the engine.
 
 71
 00:04:52,093 --> 00:04:55,627
-    monitoring equipment will   
-  help them see if this mower's 
+monitoring equipment will help them see if this mower's 
 
 72
 00:04:55,629 --> 00:04:58,764
-        got what it takes       
-  to mow down the competition.  
+got what it takes to mow down the competition.  
 
 73
 00:04:58,766 --> 00:05:02,368
-      they put it in gear       
-      and check the wheels      
+they put it in gear and check the wheels      
 
 74
 00:05:02,370 --> 00:05:05,571
-    to confirm that they turn   
-      at the correct speed.     
+to confirm that they turn at the correct speed.     
 
 75
 00:05:05,573 --> 00:05:08,374
-  they adjust the transmission  
-         if they're not.        
+they adjust the transmission if they're not.        
 
 76
 00:05:08,376 --> 00:05:11,043
-         they also check        
-   the electrical components,   
+they also check the electrical components,   
 
 77
 00:05:11,045 --> 00:05:13,779
-   and if all systems are go,   
-   they complete the assembly.  
+and if all systems are go, they complete the assembly.  
 
 78
 00:05:13,781 --> 00:05:17,383
@@ -375,565 +317,480 @@ they bolt a side panel in place,
 
 79
 00:05:17,385 --> 00:05:20,185
-            followed            
-    by the instrument panel.    
+followed by the instrument panel.    
 
 80
 00:05:20,187 --> 00:05:23,722
-    and last comes the seat,    
-    complete with armrests.     
+and last comes the seat, complete with armrests.     
 
 81
 00:05:26,794 --> 00:05:30,529
- it takes 72 minutes to assemble
-   one of these riding mowers,  
+it takes 72 minutes to assemble
+one of these riding mowers,  
 
 82
 00:05:30,531 --> 00:05:33,399
-      and it should be good     
+and it should be good     
 for at least a decade of mowing.
 
 83
 00:05:33,401 --> 00:05:54,119
-    good thing, because it's    
- workload is constantly growing.
+good thing, because it's workload is constantly growing.
 
 84
 00:05:54,121 --> 00:05:56,021
-            narrator:           
-      we don't know exactly     
+narrator: we don't know exactly     
 
 85
 00:05:56,023 --> 00:05:59,157
-   when popcorn first exploded  
-      onto the snack scene,     
+when popcorn first exploded onto the snack scene,     
 
 86
 00:05:59,159 --> 00:06:01,693
-        but it was likely       
-     thousands of years ago.    
+but it was likely thousands of years ago.    
 
 87
 00:06:01,695 --> 00:06:04,696
-   popcorn grains dating back   
-       nearly 5,600 years       
+popcorn grains dating back nearly 5,600 years       
 
 88
 00:06:04,698 --> 00:06:07,166
-  have been discovered in caves 
-         in new mexico.         
+have been discovered in caves in new mexico.         
 
 89
 00:06:07,168 --> 00:06:08,700
-   and down through the ages,   
+and down through the ages,   
 
 90
 00:06:08,702 --> 00:06:12,037
-        this unique grain       
-     just keeps popping up.     
+this unique grain just keeps popping up.     
 
 91
 00:06:17,111 --> 00:06:20,645
-   nothing says it's showtime   
-   like a big bowl of popcorn.  
+nothing says it's showtime like a big bowl of popcorn.  
 
 92
 00:06:20,647 --> 00:06:24,717
 this grain has certainly made it
-  big in the entertainment biz. 
+big in the entertainment biz. 
 
 93
 00:06:24,719 --> 00:06:28,254
 this success story has its roots
-     on the farm, of course.    
+on the farm, of course.    
 
 94
 00:06:30,724 --> 00:06:33,125
-      popcorn is one of six     
-         types of corn,         
+popcorn is one of six types of corn,         
 
 95
 00:06:33,127 --> 00:06:36,061
-     and it's the only kind     
-           that pops.           
+and it's the only kind that pops.           
 
 96
 00:06:38,933 --> 00:06:41,066
-         they even breed        
-        the popcorn plant       
+they even breed the popcorn plant       
 
 97
 00:06:41,068 --> 00:06:45,671
-  to enhance traits like color, 
-     taste, and popability.     
+to enhance traits like color, taste, and popability.     
 
 98
 00:06:45,673 --> 00:06:49,675
-            by fall,            
-  the crop is ready to harvest. 
+by fall, the crop is ready to harvest. 
 
 99
 00:06:49,677 --> 00:06:50,876
-     peeling back the husks     
+peeling back the husks     
 
 100
 00:06:50,878 --> 00:06:53,278
-         reveals kernels        
-   that are smaller and harder  
+reveals kernels that are smaller and harder  
 
 101
 00:06:53,280 --> 00:06:55,814
-    than those of other corn.   
+than those of other corn.   
 
 102
 00:06:55,816 --> 00:07:01,353
-   at harvesting, popcorn has   
- moisture content of 16% to 20%.
+at harvesting, popcorn has moisture content of 16% to 20%.
 
 103
 00:07:01,355 --> 00:07:03,155
-     that's a bit too high.     
+that's a bit too high.     
 
 104
 00:07:03,157 --> 00:07:04,890
-   so to bring it down to 14%,  
+so to bring it down to 14%,  
 
 105
 00:07:04,892 --> 00:07:07,760
-     they condition the crop    
-      in these giant bins,      
+they condition the crop in these giant bins,      
 
 106
 00:07:07,762 --> 00:07:12,230
- pumping warm air up through it 
-    to accelerate the drying.   
+pumping warm air up through it to accelerate the drying.   
 
 107
 00:07:12,232 --> 00:07:13,899
-      it's a critical step.     
+it's a critical step.     
 
 108
 00:07:13,901 --> 00:07:16,302
-     popcorn that's too dry     
-          may not pop.          
+popcorn that's too dry may not pop.          
 
 109
 00:07:16,304 --> 00:07:20,906
-      and if it's too wet,      
-   it could spoil when stored.  
+and if it's too wet, it could spoil when stored.  
 
 110
 00:07:20,908 --> 00:07:24,176
-         in the factory,        
- a series of oscillating screens
+in the factory, a series of oscillating screens
 
 111
 00:07:24,178 --> 00:07:26,512
-       sift chunks of cob       
-       and broken kernels       
+sift chunks of cob and broken kernels       
 
 112
 00:07:26,514 --> 00:07:28,781
-       out of the popcorn.      
+out of the popcorn.      
 
 113
 00:07:30,785 --> 00:07:35,320
-   vacuum pipes pull the finer  
- impurities to a dust collector 
+vacuum pipes pull the finer impurities to a dust collector 
 
 114
 00:07:35,322 --> 00:07:38,991
- and suck the larger impurities 
-          into a chute.         
+and suck the larger impurities into a chute.         
 
 115
 00:07:38,993 --> 00:07:41,126
-   they end up in a waste bin   
+they end up in a waste bin   
 
 116
 00:07:41,128 --> 00:07:44,430
-         to be discarded        
-     or used in animal feed.    
+to be discarded or used in animal feed.    
 
 117
 00:07:47,401 --> 00:07:50,468
-  at this junction, the system  
-  funnels the filtered popcorn  
+at this junction, the system funnels the filtered popcorn  
 
 118
 00:07:50,470 --> 00:07:54,273
-        in one direction        
- and the impurities in another. 
+in one direction and the impurities in another. 
 
 119
 00:07:54,275 --> 00:07:56,207
-  it's the perfect opportunity  
+it's the perfect opportunity  
 
 120
 00:07:56,209 --> 00:07:59,378
-      to see the difference     
-    between the two streams.    
+to see the difference between the two streams.    
 
 121
 00:08:02,350 --> 00:08:07,285
-    the purification process    
- continues at the gravity table.
+the purification process continues at the gravity table.
 
 122
 00:08:07,287 --> 00:08:10,956
-      its vibrating action,     
-    along with powerful fans,   
+its vibrating action, along with powerful fans,   
 
 123
 00:08:10,958 --> 00:08:14,026
-    cause the popcorn to rise   
-        and float on air.       
+cause the popcorn to rise and float on air.       
 
 124
 00:08:14,028 --> 00:08:17,429
-     in the process, kernels    
- that are too heavy or too light
+in the process, kernels that are too heavy or too light
 
 125
 00:08:17,431 --> 00:08:22,434
- gravitate away from the center 
-     and are shunted aside.     
+gravitate away from the center and are shunted aside.     
 
 126
 00:08:22,436 --> 00:08:25,771
-   the grains in the middle of  
- the mass are the optimal size, 
+the grains in the middle of the mass are the optimal size, 
 
 127
 00:08:25,773 --> 00:08:28,040
- but leaving nothing to chance, 
+but leaving nothing to chance, 
 
 128
 00:08:28,042 --> 00:08:30,843
-         they go through        
-       one more screening.      
+they go through one more screening.      
 
 129
 00:08:30,845 --> 00:08:34,680
-    the kernels now head into   
+the kernels now head into   
 a very different kind of sorter.
 
 130
 00:08:38,986 --> 00:08:42,187
-       inside, the kernels      
-     fly by an electric eye.    
+inside, the kernels fly by an electric eye.    
 
 131
 00:08:42,189 --> 00:08:46,058
-   it detects remaining debris  
-      or defective grains.      
+it detects remaining debris or defective grains.      
 
 132
 00:08:46,060 --> 00:08:49,928
 the machine sends a blast of air
-       to get rid of them.      
+to get rid of them.      
 
 133
 00:08:49,930 --> 00:08:53,698
-   it's time to test a sample   
-     of the production run.     
+it's time to test a sample of the production run.     
 
 134
 00:08:53,700 --> 00:08:57,736
-    he pours in a half pound    
- of kernels along with some oil.
+he pours in a half pound of kernels along with some oil.
 
 135
 00:08:57,738 --> 00:09:00,538
-       as the pot reaches       
-     446 degrees fahrenheit,    
+as the pot reaches 446 degrees fahrenheit,    
 
 136
 00:09:00,540 --> 00:09:03,141
-     the water in the kernel    
-        starts to steam.        
+the water in the kernel starts to steam.        
 
 137
 00:09:03,143 --> 00:09:04,676
-     as the pressure builds,    
+as the pressure builds,    
 
 138
 00:09:04,678 --> 00:09:07,346
-      those kernels explode     
-      and turn inside out.      
+those kernels explode and turn inside out.      
 
 139
 00:09:07,348 --> 00:09:10,549
-          this reveals          
- the starchy part of the kernel 
+this reveals the starchy part of the kernel 
 
 140
 00:09:10,551 --> 00:09:13,185
-           and creates          
-      a white, fluffy puff.     
+and creates a white, fluffy puff.     
 
 141
 00:09:16,823 --> 00:09:18,823
-       to pass this test,       
+to pass this test,       
 
 142
 00:09:18,825 --> 00:09:23,662
-    the popcorn has to expand   
- 44.5 times the original volume.
+the popcorn has to expand 44.5 times the original volume.
 
 143
 00:09:27,568 --> 00:09:29,568
-        the tester loads        
-        the popped puffs        
+the tester loads the popped puffs        
 
 144
 00:09:29,570 --> 00:09:31,637
-           into a tube          
-    with measurements on it,    
+into a tube with measurements on it,    
 
 145
 00:09:31,639 --> 00:09:35,841
-    and this bach of popcorn    
-      is right on the mark.     
+and this bach of popcorn is right on the mark.     
 
 146
 00:09:35,843 --> 00:09:38,243
-         as you can see,        
-     a little bit of popcorn    
+as you can see, a little bit of popcorn    
 
 147
 00:09:38,245 --> 00:09:40,578
-    can really go a long way,   
+can really go a long way,   
 
 148
 00:09:40,580 --> 00:09:43,649
-     from a pea-sized kernel    
-     to a puffy, white treat    
+from a pea-sized kernel to a puffy, white treat    
 
 149
 00:09:43,651 --> 00:09:45,317
-     in a matter of minutes.    
+in a matter of minutes.    
 
 150
 00:09:47,922 --> 00:09:51,256
-  and although popcorn kernels  
-   come in a range of colors,   
+and although popcorn kernels come in a range of colors,   
 
 151
 00:09:51,258 --> 00:09:55,561
 that starchy part that's exposed
-   by popping is always white.  
+by popping is always white.  
 
 152
 00:09:56,930 --> 00:09:58,464
- now it's all in the packaging. 
+now it's all in the packaging. 
 
 153
 00:09:58,466 --> 00:10:01,533
- maintaining the correct amount 
-   of moisture in each kernel   
+maintaining the correct amount of moisture in each kernel   
 
 154
 00:10:01,535 --> 00:10:03,535
-          is critical.          
+is critical.          
 
 155
 00:10:03,537 --> 00:10:05,671
-      heat-sealing the bag      
-      locks in the grains       
+heat-sealing the bag locks in the grains       
 
 156
 00:10:05,673 --> 00:10:09,041
-  to keep them from drying out  
-        on a store shelf.       
+to keep them from drying out on a store shelf.       
 
 157
 00:10:14,949 --> 00:10:17,282
-     this paper bag destined    
-   for the concession market,   
+this paper bag destined for the concession market,   
 
 158
 00:10:17,284 --> 00:10:20,285
-      like movie theaters,      
-        is multilayered.        
+like movie theaters, is multilayered.        
 
 159
 00:10:20,287 --> 00:10:25,691
-   it includes a vapor barrier  
-    to control moisture loss.   
+it includes a vapor barrier to control moisture loss.   
 
 160
 00:10:25,693 --> 00:10:28,827
-      it's taken six months     
-      to grow this popcorn      
+it's taken six months to grow this popcorn      
 
 161
 00:10:28,829 --> 00:10:31,697
-   and a couple of weeks more   
-         to process it.         
+and a couple of weeks more to process it.         
 
 162
 00:10:31,699 --> 00:10:34,099
-   but it will all be worth it  
-         at snack time,         
+but it will all be worth it at snack time,         
 
 163
 00:10:34,101 --> 00:10:35,634
-    because when these grains   
+because when these grains   
 
 164
 00:10:35,636 --> 00:10:37,769
-             explode            
-  into a mountain of munchies,  
+explode into a mountain of munchies,  
 
 165
 00:10:37,771 --> 00:10:56,455
-     there should be enough     
-       for the whole gang.      
+there should be enough for the whole gang.      
 
 166
 00:10:56,457 --> 00:10:59,391
-      narrator: some people     
-    enjoy the health benefits   
+narrator: some people enjoy the health benefits   
 
 167
 00:10:59,393 --> 00:11:01,259
- that adjustable beds may give. 
+that adjustable beds may give. 
 
 168
 00:11:01,261 --> 00:11:03,528
-           others like          
-   the built-in massage system  
+others like the built-in massage system  
 
 169
 00:11:03,530 --> 00:11:05,931
- that gently rocks them to sleep
-           each night.          
+that gently rocks them to sleep
+each night.          
 
 170
 00:11:05,933 --> 00:11:07,666
-   whatever a person's fancy,   
+whatever a person's fancy,   
 
 171
 00:11:07,668 --> 00:11:10,268
-         adjustable beds        
-       can be custom-made       
+adjustable beds can be custom-made       
 
 172
 00:11:10,270 --> 00:11:14,039
-     to suit their lifestyle    
-  and total comfort and class.  
+to suit their lifestyle and total comfort and class.  
 
 173
 00:11:19,146 --> 00:11:21,947
-   an adjustable bed helps you  
+an adjustable bed helps you  
 sleep with a push of the button.
 
 174
 00:11:21,949 --> 00:11:23,881
-  this convenient hand control  
+this convenient hand control  
 
 175
 00:11:23,883 --> 00:11:26,818
-         easily adjusts         
-   the head and foot positions  
+easily adjusts the head and foot positions  
 
 176
 00:11:26,820 --> 00:11:29,188
-  to the contours of your body. 
+to the contours of your body. 
 
 177
 00:11:31,825 --> 00:11:34,826
-          it all starts         
-    with a quilting machine.    
+it all starts with a quilting machine.    
 
 178
 00:11:34,828 --> 00:11:38,029
-      it sews foam padding,     
-    fire retardant material,    
+it sews foam padding, fire retardant material,    
 
 179
 00:11:38,031 --> 00:11:40,933
-    and two layers of backing   
-            together.           
+and two layers of backing together.           
 
 180
 00:11:43,570 --> 00:11:46,104
-      hundreds of thousands     
-           of stitches          
+hundreds of thousands of stitches          
 
 181
 00:11:46,106 --> 00:11:50,409
-   produce a quilted top panel  
- with comfort and style in mind.
+produce a quilted top panel with comfort and style in mind.
 
 182
 00:11:51,778 --> 00:11:56,315
-    a machine cuts the panel    
-    to a specific bed size.     
+a machine cuts the panel to a specific bed size.     
 
 183
 00:11:56,317 --> 00:11:59,985
-  the four layers that make up  
-      the quilted top panel     
+the four layers that make up the quilted top panel     
 
 184
 00:11:59,987 --> 00:12:04,856
-     add luxury and security    
-        to the mattress.        
+add luxury and security to the mattress.        
 
 185
 00:12:04,858 --> 00:12:09,261
-    meanwhile, another worker   
-    prepares the coil spring.   
+meanwhile, another worker prepares the coil spring.   
 
 186
 00:12:09,263 --> 00:12:13,865
-          he covers it          
-    with protective netting.    
+he covers it with protective netting.    
 
 187
 00:12:13,867 --> 00:12:18,937
-   this high-density foam pad   
-           comes next.          
+this high-density foam pad comes next.          
 
 188
 00:12:18,939 --> 00:12:22,474
- he staples the pad and netting 
-       to the coil spring.      
+he staples the pad and netting to the coil spring.      
 
 189
 00:12:23,877 --> 00:12:25,811
-     he puts a bottom cover     
-         on the mattress        
+he puts a bottom cover on the mattress        
 
 190
 00:12:25,813 --> 00:12:28,947
-       and tucks the foam       
-     and coil spring inside.    
+and tucks the foam and coil spring inside.    
 
 191
 00:12:34,888 --> 00:12:38,690
-   he turns the mattress over,  
-     covers it with netting,    
+he turns the mattress over, covers it with netting,    
 
 192
 00:12:38,692 --> 00:12:41,826
-        then staples it.        
+then staples it.        
 
 193
 00:12:41,828 --> 00:12:44,363
-  he puts another high-density  
-      foam pad on this side     
+he puts another high-density foam pad on this side     
 
 194
 00:12:44,365 --> 00:12:46,764
-         and staples it.        
+and staples it.        
 
 195
 00:12:46,766 --> 00:12:49,368
-        then he lays down       
-     the quilted top panel.     
+then he lays down the quilted top panel.     
 
 196
 00:12:52,039 --> 00:12:54,172
@@ -941,70 +798,60 @@ he holds on to the backing layer
 
 197
 00:12:54,174 --> 00:12:57,442
-    and staples the top panel   
-        onto the spring.        
+and staples the top panel onto the spring.        
 
 198
 00:12:57,444 --> 00:13:00,379
-      he fills the corners      
-          with packing,         
+he fills the corners with packing,         
 
 199
 00:13:00,381 --> 00:13:03,315
-        which gives them        
-       a nice, firm edge.       
+which gives them a nice, firm edge.       
 
 200
 00:13:03,317 --> 00:13:05,517
-          then he sews          
-      the mattress together     
+then he sews the mattress together     
 
 201
 00:13:05,519 --> 00:13:07,652
-   with the tape-edge machine   
+with the tape-edge machine   
 
 202
 00:13:07,654 --> 00:13:12,123
-     that uses binding tape     
-   and fire-retardant thread.   
+that uses binding tape and fire-retardant thread.   
 
 203
 00:13:12,125 --> 00:13:13,458
-      the tape-edge machine     
+the tape-edge machine     
 
 204
 00:13:13,460 --> 00:13:15,927
-      makes a perfect seam      
-       all the way around       
+makes a perfect seam all the way around       
 
 205
 00:13:15,929 --> 00:13:17,429
-   and finishes the mattress.   
+and finishes the mattress.   
 
 206
 00:13:20,267 --> 00:13:24,603
-   next, a length of steel rod  
+next, a length of steel rod  
 goes into a thread-roll machine.
 
 207
 00:13:24,605 --> 00:13:27,406
-      its threaded rollers      
-     use hydraulic pressure     
+its threaded rollers use hydraulic pressure     
 
 208
 00:13:27,408 --> 00:13:30,876
-      to transform the rod      
-       into a worm screw.       
+to transform the rod into a worm screw.       
 
 209
 00:13:33,881 --> 00:13:37,415
-   they put the worm screw and  
- gear assembly inside a casing. 
+they put the worm screw and gear assembly inside a casing. 
 
 210
 00:13:37,417 --> 00:13:40,952
-    the worm and nylon gears    
-    will turn a steel shaft,    
+the worm and nylon gears will turn a steel shaft,    
 
 211
 00:13:40,954 --> 00:13:43,588
@@ -1012,173 +859,151 @@ which raises and lowers the bed.
 
 212
 00:13:46,026 --> 00:13:49,160
-            a worker            
-    closes the motor casing.    
+a worker closes the motor casing.    
 
 213
 00:13:49,162 --> 00:13:52,964
-         another worker         
- assembles the bed's foundation.
+another worker assembles the bed's foundation.
 
 214
 00:13:52,966 --> 00:13:56,368
-  he puts flexible nylon hinges 
-     between platform boards    
+he puts flexible nylon hinges between platform boards    
 
 215
 00:13:56,370 --> 00:13:59,971
-   and staples them in place.   
+and staples them in place.   
 
 216
 00:13:59,973 --> 00:14:04,575
-   he turns the platform over   
-     and staples them again.    
+he turns the platform over and staples them again.    
 
 217
 00:14:04,577 --> 00:14:09,214
-    he protects the platform    
-  with a polyester dust cover.  
+he protects the platform with a polyester dust cover.  
 
 218
 00:14:12,852 --> 00:14:16,888
 a worker now bolts a steel frame
-        to the platform.        
+to the platform.        
 
 219
 00:14:21,061 --> 00:14:24,529
-     he fastens a head motor    
-   to one of the metal tubes.   
+he fastens a head motor to one of the metal tubes.   
 
 220
 00:14:25,999 --> 00:14:29,868
-     to another metal tube,     
-     he bolts a foot motor.     
+to another metal tube, he bolts a foot motor.     
 
 221
 00:14:34,408 --> 00:14:37,742
-            finally,            
-  he attaches a massage motor.  
+finally, he attaches a massage motor.  
 
 222
 00:14:37,744 --> 00:14:41,880
- then a worker covers a support 
+then a worker covers a support 
 fixture with a cotton bed cover.
 
 223
 00:14:41,882 --> 00:14:44,682
-          he puts down          
-  four-inch high density foam,  
+he puts down four-inch high density foam,  
 
 224
 00:14:44,684 --> 00:14:47,853
-         then places the        
-  fully assembled frame on top. 
+then places the fully assembled frame on top. 
 
 225
 00:14:49,957 --> 00:14:53,792
-    he pulls up the bed cover   
- and upholsters it to the base. 
+he pulls up the bed cover and upholsters it to the base. 
 
 226
 00:14:55,495 --> 00:14:58,430
-        the bed is ready        
- for its adjustable bed sheets, 
+the bed is ready for its adjustable bed sheets, 
 
 227
 00:14:58,432 --> 00:15:02,667
- but not before a final testing 
-      for quality control.      
+but not before a final testing for quality control.      
 
 228
 00:15:06,239 --> 00:15:10,842
 every part must pass a flex test
-     the operator controls.     
+the operator controls.     
 
 229
 00:15:13,980 --> 00:15:16,981
- the paper-protected foundation,
-        the steel frame,        
+the paper-protected foundation,
+the steel frame,        
 
 230
 00:15:16,983 --> 00:15:18,316
-      and all three motors      
+and all three motors      
 
 231
 00:15:18,318 --> 00:15:21,586
-       must allow the bed       
+must allow the bed       
 to rise and descend with gentle,
 
 232
 00:15:21,588 --> 00:15:23,454
-   uninterrupted precision --   
+uninterrupted precision --   
 
 233
 00:15:23,456 --> 00:15:27,259
-       exactly as it would      
+exactly as it would      
 in the comfort of your own home.
 
 234
 00:15:36,804 --> 00:15:39,804
-        all you need now        
- is a bowl of popcorn, a movie, 
+all you need now is a bowl of popcorn, a movie, 
 
 235
 00:15:39,806 --> 00:15:58,956
- and perhaps a soothing massage,
-    and then it's lights-out.   
+and perhaps a soothing massage,
+and then it's lights-out.   
 
 236
 00:15:58,958 --> 00:16:02,761
- narrator: diamonds are a flash 
+narrator: diamonds are a flash 
 of brilliance for mother nature.
 
 237
 00:16:02,763 --> 00:16:06,163
-   formed in the earth's crust  
-  by intense heat and pressure, 
+formed in the earth's crust by intense heat and pressure, 
 
 238
 00:16:06,165 --> 00:16:09,033
-         they're prized         
-  for their crystalline beauty. 
+they're prized for their crystalline beauty. 
 
 239
 00:16:09,035 --> 00:16:12,304
-      but now mother nature     
-  has some serious competition, 
+but now mother nature has some serious competition, 
 
 240
 00:16:12,306 --> 00:16:14,171
-  because gem-quality diamonds  
+because gem-quality diamonds  
 
 241
 00:16:14,173 --> 00:16:16,975
-    are actually being grown    
-        in laboratories.        
+are actually being grown in laboratories.        
 
 242
 00:16:22,916 --> 00:16:26,451
-     diamonds grown in labs     
- are dazzling even the skeptics.
+diamonds grown in labs are dazzling even the skeptics.
 
 243
 00:16:26,453 --> 00:16:27,986
-   while lower-grade diamonds   
+while lower-grade diamonds   
 
 244
 00:16:27,988 --> 00:16:30,188
-      have long been grown      
-      for industrial use,       
+have long been grown for industrial use,       
 
 245
 00:16:30,190 --> 00:16:32,590
-       they were more grit      
-          than glitter.         
+they were more grit than glitter.         
 
 246
 00:16:32,592 --> 00:16:36,228
-       but these diamonds       
- have that gem-quality sparkle. 
+but these diamonds have that gem-quality sparkle. 
 
 247
 00:16:39,066 --> 00:16:41,933
@@ -1186,139 +1011,121 @@ they start with a robotic laser.
 
 248
 00:16:41,935 --> 00:16:45,070
-        it slices slivers       
-  from a chunk of real diamond  
+it slices slivers from a chunk of real diamond  
 
 249
 00:16:45,072 --> 00:16:48,607
-     to produce tiny wafers.    
+to produce tiny wafers.    
 
 250
 00:16:48,609 --> 00:16:52,277
-  they're five millimeters wide 
- and a quarter millimeter thick.
+they're five millimeters wide and a quarter millimeter thick.
 
 251
 00:16:52,279 --> 00:16:55,647
-      that's about as thin      
-        as a human hair.        
+that's about as thin as a human hair.        
 
 252
 00:16:57,484 --> 00:16:59,618
- the laser blackens the diamond,
+the laser blackens the diamond,
 
 253
 00:16:59,620 --> 00:17:04,356
-        so they place it        
- on a steel block for polishing.
+so they place it on a steel block for polishing.
 
 254
 00:17:04,358 --> 00:17:08,793
-  they rim the wafer with epoxy 
- to keep it from sliding around.
+they rim the wafer with epoxy to keep it from sliding around.
 
 255
 00:17:15,635 --> 00:17:18,102
-           this epoxy           
-     requires an activator,     
+this epoxy requires an activator,     
 
 256
 00:17:18,104 --> 00:17:20,171
-    so they brush it on next.   
+so they brush it on next.   
 
 257
 00:17:20,173 --> 00:17:24,442
-  the chemical reaction causes  
+the chemical reaction causes  
 the epoxy to solidify in seconds
 
 258
 00:17:24,444 --> 00:17:27,512
-   to firmly secure the sliver  
-          on the block.         
+to firmly secure the sliver on the block.         
 
 259
 00:17:30,717 --> 00:17:33,051
-      they screw the block      
-        to a threaded rod       
+they screw the block to a threaded rod       
 
 260
 00:17:33,053 --> 00:17:36,121
- that's attached to a metal arm.
+that's attached to a metal arm.
 
 261
 00:17:36,123 --> 00:17:39,190
-      they lower the block      
-      and its diamond wafer     
+they lower the block and its diamond wafer     
 
 262
 00:17:39,192 --> 00:17:41,993
-  onto a wheel that's swirling  
-       with diamond grit.       
+onto a wheel that's swirling with diamond grit.       
 
 263
 00:17:41,995 --> 00:17:48,066
-   they apply weights to press  
+they apply weights to press  
 the diamond wafer into the grit.
 
 264
 00:17:48,068 --> 00:17:49,601
-     and as the wheel spins,    
+and as the wheel spins,    
 
 265
 00:17:49,603 --> 00:17:52,003
-           it creates           
-     the necessary friction     
+it creates the necessary friction     
 
 266
 00:17:52,005 --> 00:17:53,605
-    to polish away the grime.   
+to polish away the grime.   
 
 267
 00:17:53,607 --> 00:17:57,942
-   a level confirms the wafer   
-    is correctly positioned.    
+a level confirms the wafer is correctly positioned.    
 
 268
 00:17:57,944 --> 00:18:00,612
-            diamonds            
-  are the hardest of minerals,  
+diamonds are the hardest of minerals,  
 
 269
 00:18:00,614 --> 00:18:04,015
-     and only other diamonds    
-   can effectively polish one.  
+and only other diamonds can effectively polish one.  
 
 270
 00:18:04,017 --> 00:18:06,551
-  the difference is impressive. 
+the difference is impressive. 
 
 271
 00:18:08,622 --> 00:18:11,956
-   the diamond wafer has gone   
-  from sooty to crystal clear,  
+the diamond wafer has gone from sooty to crystal clear,  
 
 272
 00:18:11,958 --> 00:18:14,392
-   and now it's ready to grow.  
+and now it's ready to grow.  
 
 273
 00:18:17,630 --> 00:18:19,764
-          a technician          
-      places several wafers     
+a technician places several wafers     
 
 274
 00:18:19,766 --> 00:18:23,602
-   on a special metal pedestal  
-      using a suction tool.     
+on a special metal pedestal using a suction tool.     
 
 275
 00:18:25,772 --> 00:18:28,640
-        he arranges them        
-      in a uniform pattern,     
+he arranges them in a uniform pattern,     
 
 276
 00:18:28,642 --> 00:18:30,975
-   giving them room to expand,  
+giving them room to expand,  
 
 277
 00:18:30,977 --> 00:18:36,047
@@ -1327,184 +1134,160 @@ are destined for bigger things.
 
 278
 00:18:44,458 --> 00:18:47,559
-    he lowers a metal chamber   
-           over them.           
+he lowers a metal chamber over them.           
 
 279
 00:18:51,264 --> 00:18:54,165
-      pumps inject hydrogen     
-        and methane gas,        
+pumps inject hydrogen and methane gas,        
 
 280
 00:18:54,167 --> 00:18:57,535
-   and the machine heats them   
-     to thousands of degrees    
+and the machine heats them to thousands of degrees    
 
 281
 00:18:57,537 --> 00:18:59,470
-   at just the right pressure.  
+at just the right pressure.  
 
 282
 00:18:59,472 --> 00:19:01,940
-    the gasses form a plasma,   
+the gasses form a plasma,   
 
 283
 00:19:01,942 --> 00:19:06,778
-  which rains onto the diamond  
- wafers and causes them to grow.
+which rains onto the diamond wafers and causes them to grow.
 
 284
 00:19:09,082 --> 00:19:10,682
-      after just two weeks,     
+after just two weeks,     
 
 285
 00:19:10,684 --> 00:19:12,817
-       the diamond slivers      
-     have grown into stones     
+the diamond slivers have grown into stones     
 
 286
 00:19:12,819 --> 00:19:16,087
-       at least 10 times        
-       the original size.       
+at least 10 times the original size.       
 
 287
 00:19:16,089 --> 00:19:18,223
-  it's quite a transformation.  
+it's quite a transformation.  
 
 288
 00:19:18,225 --> 00:19:20,624
- but these diamonds in the rough
+but these diamonds in the rough
 
 289
 00:19:20,626 --> 00:19:24,162
-      need a lot more work      
-       to really sparkle.       
+need a lot more work to really sparkle.       
 
 290
 00:19:24,164 --> 00:19:27,499
-   that dab epoxy onto the tip  
-     of a pointed steel rod     
+that dab epoxy onto the tip of a pointed steel rod     
 
 291
 00:19:27,501 --> 00:19:28,766
-          called a dop          
+called a dop          
 
 292
 00:19:28,768 --> 00:19:33,571
 and center the lab-grown diamond
-    on the epoxy-coated tip.    
+on the epoxy-coated tip.    
 
 293
 00:19:37,911 --> 00:19:40,178
- then it's into the laser booth,
+then it's into the laser booth,
 
 294
 00:19:40,180 --> 00:19:43,248
-          where the dop         
-  is gripped by a robotic arm.  
+where the dop is gripped by a robotic arm.  
 
 295
 00:19:47,520 --> 00:19:50,921
-     it turns it so a laser     
- can trim the lab-grown diamond 
+it turns it so a laser can trim the lab-grown diamond 
 
 296
 00:19:50,923 --> 00:19:52,923
-         from all sides.        
+from all sides.        
 
 297
 00:19:52,925 --> 00:19:57,228
-       the process exposes      
- the crystal clarity of the gem.
+the process exposes the crystal clarity of the gem.
 
 298
 00:20:04,003 --> 00:20:07,204
- a technician checks the quality
-    of the lab-grown diamond    
+a technician checks the quality
+of the lab-grown diamond    
 
 299
 00:20:07,206 --> 00:20:09,407
-        with a jeweler's        
-        magnifying glass.       
+with a jeweler's magnifying glass.       
 
 300
 00:20:09,409 --> 00:20:11,876
-       then she lowers it       
-  into another polishing wheel. 
+then she lowers it into another polishing wheel. 
 
 301
 00:20:11,878 --> 00:20:14,345
-     it's similar to the one    
-    that was used to clean it   
+it's similar to the one that was used to clean it   
 
 302
 00:20:14,347 --> 00:20:16,080
-   when it was just a sliver.   
+when it was just a sliver.   
 
 303
 00:20:16,082 --> 00:20:19,017
-    but this wheel actually     
-    contours the grown stone    
+but this wheel actually contours the grown stone    
 
 304
 00:20:19,019 --> 00:20:21,419
-           to give it           
-   that classic diamond shape.  
+to give it that classic diamond shape.  
 
 305
 00:20:21,421 --> 00:20:25,022
-     the process brings out     
-  all of its glittering facets. 
+the process brings out all of its glittering facets. 
 
 306
 00:20:25,024 --> 00:20:29,360
-    it's taken just a couple    
- of weeks to grow this diamond. 
+it's taken just a couple of weeks to grow this diamond. 
 
 307
 00:20:29,362 --> 00:20:32,163
-           the process          
-  puts geology on fast-forward, 
+the process puts geology on fast-forward, 
 
 308
 00:20:32,165 --> 00:20:34,899
-        because it takes        
-    tens of millions of years   
+because it takes tens of millions of years   
 
 309
 00:20:34,901 --> 00:20:39,570
-  for real forces to push real  
+for real forces to push real  
 diamonds to the earth's surface.
 
 310
 00:20:39,572 --> 00:20:41,639
- only very sophisticated testing
+only very sophisticated testing
 
 311
 00:20:41,641 --> 00:20:45,443
-   can separate the lab-grown   
-  diamonds from the mined ones. 
+can separate the lab-grown diamonds from the mined ones. 
 
 312
 00:20:45,445 --> 00:20:48,045
-  but since they cost 15% less, 
+but since they cost 15% less, 
 
 313
 00:20:48,047 --> 00:20:52,083
-  you'll notice the difference  
-       in your pocketbook.      
+you'll notice the difference in your pocketbook.      
 
 314
 00:21:00,726 --> 00:21:03,060
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 315
 00:21:03,062 --> 00:21:05,997
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 316
 00:21:05,999 --> 00:21:08,600
-      drop us a line at...      
+drop us a line at...      
 

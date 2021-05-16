@@ -1,80 +1,70 @@
 1
 00:00:01,068 --> 00:00:11,010
-                     ♪♪         
+♪♪         
 
 2
 00:00:11,012 --> 00:00:16,348
-                     ♪♪         
+♪♪         
 
 3
 00:00:16,350 --> 00:00:19,384
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 4
 00:00:19,386 --> 00:00:22,520
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 5
 00:00:22,522 --> 00:00:32,397
-                     ♪♪         
+♪♪         
 
 6
 00:00:32,399 --> 00:00:42,540
-                     ♪♪         
+♪♪         
 
 7
 00:00:42,542 --> 00:00:52,418
-                     ♪♪         
+♪♪         
 
 8
 00:00:52,420 --> 00:00:56,721
-  narrator: looking to get high 
-      on a new water sport?     
+narrator: looking to get high on a new water sport?     
 
 9
 00:00:56,723 --> 00:01:00,159
-     well, you literally can    
-   riding a flying water bike.  
+well, you literally can riding a flying water bike.  
 
 10
 00:01:00,161 --> 00:01:03,662
-  it attaches with a long hose  
-    to the back of a jet ski,   
+it attaches with a long hose to the back of a jet ski,   
 
 11
 00:01:03,664 --> 00:01:06,899
-   elevating you up to almost   
-     40 feet above the water    
+elevating you up to almost 40 feet above the water    
 
 12
 00:01:06,901 --> 00:01:09,835
-      where you can perform     
-     aerial flips and spins.    
+where you can perform aerial flips and spins.    
 
 13
 00:01:13,307 --> 00:01:16,875
-   the jet ski's water thrust   
-     feeds three jet nozzles    
+the jet ski's water thrust feeds three jet nozzles    
 
 14
 00:01:16,877 --> 00:01:19,044
-    on the flying water bike.   
+on the flying water bike.   
 
 15
 00:01:19,046 --> 00:01:21,213
-  one propels the bike upward.  
+one propels the bike upward.  
 
 16
 00:01:21,215 --> 00:01:26,218
- the other two feed jet control 
- nozzles that maneuver the bike.
+the other two feed jet control nozzles that maneuver the bike.
 
 17
 00:01:26,220 --> 00:01:29,020
-    the bike's frame is made    
-      out of aluminum parts     
+the bike's frame is made out of aluminum parts     
 
 18
 00:01:29,022 --> 00:01:30,889
@@ -82,75 +72,64 @@ because it has to be lightweight
 
 19
 00:01:30,891 --> 00:01:33,792
-      as well as relatively     
-      corrosion-resistant,      
+as well as relatively corrosion-resistant,      
 
 20
 00:01:33,794 --> 00:01:37,029
-    especially if it is going   
-    to be used in saltwater.    
+especially if it is going to be used in saltwater.    
 
 21
 00:01:37,031 --> 00:01:41,500
-        this curved tube        
-  will become the lifting jet.  
+this curved tube will become the lifting jet.  
 
 22
 00:01:41,502 --> 00:01:43,468
-          to build each         
-       jet control nozzle,      
+to build each jet control nozzle,      
 
 23
 00:01:43,470 --> 00:01:47,072
-    a worker places a housing   
-     on an alignment fixture    
+a worker places a housing on an alignment fixture    
 
 24
 00:01:47,074 --> 00:01:50,342
-     then hammers an endcap     
-         into position.         
+then hammers an endcap into position.         
 
 25
 00:01:50,344 --> 00:01:52,578
-   holding the housing steady   
-          with a clamp,         
+holding the housing steady with a clamp,         
 
 26
 00:01:52,580 --> 00:01:55,213
- the worker welds on the endcap.
+the worker welds on the endcap.
 
 27
 00:01:55,215 --> 00:01:57,283
-     this housing will cover    
-    the bushing at the heart    
+this housing will cover the bushing at the heart    
 
 28
 00:01:57,285 --> 00:02:00,385
-   of the jet-control nozzle.   
+of the jet-control nozzle.   
 
 29
 00:02:00,387 --> 00:02:03,556
-    he inserts an elbow into    
-    the opening in the endcap   
+he inserts an elbow into the opening in the endcap   
 
 30
 00:02:03,558 --> 00:02:05,591
-  and welds the parts together. 
+and welds the parts together. 
 
 31
 00:02:08,128 --> 00:02:12,197
- after welding a jet nozzle cone
- to the other end of the elbow, 
+after welding a jet nozzle cone
+to the other end of the elbow, 
 
 32
 00:02:12,199 --> 00:02:15,300
-      he welds a handlebar      
-         to the housing.        
+he welds a handlebar to the housing.        
 
 33
 00:02:15,302 --> 00:02:17,636
-     these five welded parts    
-        make up the body        
+these five welded parts make up the body        
 
 34
 00:02:17,638 --> 00:02:19,972
@@ -158,192 +137,166 @@ of the first jet control nozzle.
 
 35
 00:02:22,209 --> 00:02:25,143
-      to prep for painting,     
-   the manufacturers rough up   
+to prep for painting, the manufacturers rough up   
 
 36
 00:02:25,145 --> 00:02:26,478
-     all the aluminum parts     
+all the aluminum parts     
 
 37
 00:02:26,480 --> 00:02:29,414
-        by tumbling them        
-      with abrasive stones.     
+by tumbling them with abrasive stones.     
 
 38
 00:02:29,416 --> 00:02:32,517
-      this component splits     
- the portion of the water thrust
+this component splits the portion of the water thrust
 
 39
 00:02:32,519 --> 00:02:34,753
- that bypasses the lifting jet, 
+that bypasses the lifting jet, 
 
 40
 00:02:34,755 --> 00:02:36,555
-           sending it           
-     in opposite directions     
+sending it in opposite directions     
 
 41
 00:02:36,557 --> 00:02:40,092
-   to the jet control nozzles.  
+to the jet control nozzles.  
 
 42
 00:02:40,094 --> 00:02:44,029
-  the lifting jet tube now has  
+the lifting jet tube now has  
 a nozzle cone welded to one end,
 
 43
 00:02:44,031 --> 00:02:47,299
-    a coupling for attaching    
-   the fire hose to the other,  
+a coupling for attaching the fire hose to the other,  
 
 44
 00:02:47,301 --> 00:02:49,434
- and an oval hole in the curve, 
+and an oval hole in the curve, 
 
 45
 00:02:49,436 --> 00:02:52,071
 which aligns with the angled end
-       of a straight tube       
+of a straight tube       
 
 46
 00:02:52,073 --> 00:02:54,006
-         in the middle,         
-      called the backbone.      
+in the middle, called the backbone.      
 
 47
 00:02:54,008 --> 00:02:59,544
-                     ♪♪         
+♪♪         
 
 48
 00:02:59,546 --> 00:03:01,746
-        after positioning       
-      parallel support bars     
+after positioning parallel support bars     
 
 49
 00:03:01,748 --> 00:03:03,215
-     between the lifting jet    
+between the lifting jet    
 
 50
 00:03:03,217 --> 00:03:06,952
-  and the splitter, the welder  
-  fuses all the parts together. 
+and the splitter, the welder fuses all the parts together. 
 
 51
 00:03:09,423 --> 00:03:12,958
- then he flips the assembly jig 
- and welds on the seat support. 
+then he flips the assembly jig and welds on the seat support. 
 
 52
 00:03:17,298 --> 00:03:19,698
-    the seat support attaches   
-      where the lifting jet     
+the seat support attaches where the lifting jet     
 
 53
 00:03:19,700 --> 00:03:22,367
-       and backbone meet.       
+and backbone meet.       
 
 54
 00:03:22,369 --> 00:03:24,669
-     after masking the ends     
-        of the splitter,        
+after masking the ends of the splitter,        
 
 55
 00:03:24,671 --> 00:03:28,207
-  a worker sprays the completed 
-   frame, jet control nozzles   
+a worker sprays the completed frame, jet control nozzles   
 
 56
 00:03:28,209 --> 00:03:31,042
-    and other aluminum parts    
-        with powder coat.       
+and other aluminum parts with powder coat.       
 
 57
 00:03:31,044 --> 00:03:35,380
-       this helps protect       
-       against corrosion.       
+this helps protect against corrosion.       
 
 58
 00:03:35,382 --> 00:03:38,550
-    the parts go into an oven   
-      for up to a half hour     
+the parts go into an oven for up to a half hour     
 
 59
 00:03:38,552 --> 00:03:42,354
-     to bake the powder coat    
-       to a shiny finish.       
+to bake the powder coat to a shiny finish.       
 
 60
 00:03:42,356 --> 00:03:45,591
-      then workers install      
-       an aluminum camlock      
+then workers install an aluminum camlock      
 
 61
 00:03:45,593 --> 00:03:49,661
-       to securely fasten       
- the fire hose to the coupling. 
+to securely fasten the fire hose to the coupling. 
 
 62
 00:03:49,663 --> 00:03:52,164
-     another worker attaches    
-    the remaining components    
+another worker attaches the remaining components    
 
 63
 00:03:52,166 --> 00:03:53,332
-          to the frame.         
+to the frame.         
 
 64
 00:03:53,334 --> 00:03:55,734
-  first, he screws in the pair  
-          of footplates         
+first, he screws in the pair of footplates         
 
 65
 00:03:55,736 --> 00:03:57,535
-   on which the rider stands.   
+on which the rider stands.   
 
 66
 00:03:57,537 --> 00:03:59,904
-    then he bolts the bottom    
-       half of each plate       
+then he bolts the bottom half of each plate       
 
 67
 00:03:59,906 --> 00:04:01,640
-  to the parallel support bars  
+to the parallel support bars  
 
 68
 00:04:01,642 --> 00:04:04,510
-       and the top half to      
-   just ahead of the camlock.   
+and the top half to just ahead of the camlock.   
 
 69
 00:04:08,515 --> 00:04:12,050
-     he mounts a padded knee    
-    rest to the support bars.   
+he mounts a padded knee rest to the support bars.   
 
 70
 00:04:12,052 --> 00:04:15,821
 it can be easily repositioned to
- accommodate the rider's height.
+accommodate the rider's height.
 
 71
 00:04:18,191 --> 00:04:20,926
-      on each unpainted end     
-        of the splitter,        
+on each unpainted end of the splitter,        
 
 72
 00:04:20,928 --> 00:04:24,029
-           he installs          
-    an internal support ring,   
+he installs an internal support ring,   
 
 73
 00:04:24,031 --> 00:04:27,366
-   then a precision-fit nylon   
-             bushing            
+then a precision-fit nylon bushing            
 
 74
 00:04:27,368 --> 00:04:29,234
-  and an external support ring, 
+and an external support ring, 
 
 75
 00:04:29,236 --> 00:04:31,202
@@ -351,564 +304,486 @@ which he screws to the splitter.
 
 76
 00:04:31,204 --> 00:04:37,208
-                     ♪♪         
+♪♪         
 
 77
 00:04:37,210 --> 00:04:40,044
-        the worker slides       
- the jet control nozzle housing 
+the worker slides the jet control nozzle housing 
 
 78
 00:04:40,046 --> 00:04:43,816
- over the bushing and screws it 
-  to the internal support ring. 
+over the bushing and screws it to the internal support ring. 
 
 79
 00:04:43,818 --> 00:04:47,085
-     the two control nozzles    
-    maneuver the water bike.    
+the two control nozzles maneuver the water bike.    
 
 80
 00:04:47,087 --> 00:04:50,054
-    to ascend, you pull back    
-   gradually on both of them,   
+to ascend, you pull back gradually on both of them,   
 
 81
 00:04:50,056 --> 00:04:51,689
-         simultaneously.        
+simultaneously.        
 
 82
 00:04:51,691 --> 00:04:54,727
-      to descend, you push      
-        forward on both.        
+to descend, you push forward on both.        
 
 83
 00:04:54,729 --> 00:04:58,664
-      to spin, you move one     
-      forward and one back.     
+to spin, you move one forward and one back.     
 
 84
 00:04:58,666 --> 00:05:00,665
-      and to do a backflip,     
+and to do a backflip,     
 
 85
 00:05:00,667 --> 00:05:05,170
-  you yank both control nozzles 
-        all the way back.       
+you yank both control nozzles all the way back.       
 
 86
 00:05:05,172 --> 00:05:07,606
-     he assembles the water     
-          bike's body.          
+he assembles the water bike's body.          
 
 87
 00:05:07,608 --> 00:05:11,476
 it's made of molded polyethylene
- with a waterproof urethane pad 
+with a waterproof urethane pad 
 
 88
 00:05:11,478 --> 00:05:14,046
-      to cushion the front      
-      of the rider's body.      
+to cushion the front of the rider's body.      
 
 89
 00:05:14,048 --> 00:05:17,482
-  the seat is made of the same  
-        padded material.        
+the seat is made of the same padded material.        
 
 90
 00:05:17,484 --> 00:05:20,619
-    both pad and seat attach    
-       with plastic clips.      
+both pad and seat attach with plastic clips.      
 
 91
 00:05:23,324 --> 00:05:26,191
-       the hollow body is       
-     completely watertight,     
+the hollow body is completely watertight,     
 
 92
 00:05:26,193 --> 00:05:28,193
-  which is why the bike floats. 
+which is why the bike floats. 
 
 93
 00:05:30,397 --> 00:05:34,233
-    the final step is to mate   
-     the body to the frame.     
+the final step is to mate the body to the frame.     
 
 94
 00:05:34,235 --> 00:05:39,370
-   the completed water bicycle  
-        weighs 30 pounds.       
+the completed water bicycle weighs 30 pounds.       
 
 95
 00:05:39,372 --> 00:05:43,108
-   once connected to a jet ski  
-       with the fire hose,      
+once connected to a jet ski with the fire hose,      
 
 96
 00:05:43,110 --> 00:05:47,813
 this water bike flies at a speed
-   of up to 20 miles per hour.  
+of up to 20 miles per hour.  
 
 97
 00:05:47,815 --> 00:05:51,049
- by maneuvering the jet nozzles,
-       it does backflips,       
+by maneuvering the jet nozzles,
+it does backflips,       
 
 98
 00:05:51,051 --> 00:05:53,151
-         multiple spins,        
+multiple spins,        
 
 99
 00:05:53,153 --> 00:05:55,888
-         and even dives         
-       20 feet underwater.      
+and even dives 20 feet underwater.      
 
 100
 00:06:05,900 --> 00:06:10,769
-                     ♪♪         
+♪♪         
 
 101
 00:06:10,771 --> 00:06:13,205
-  narrator: a throttle position 
-   sensor reports the position  
+narrator: a throttle position sensor reports the position  
 
 102
 00:06:13,207 --> 00:06:16,007
-      of the throttle plate     
-     to the engine computer     
+of the throttle plate to the engine computer     
 
 103
 00:06:16,009 --> 00:06:17,843
-      so that it can decide     
-          how much fuel         
+so that it can decide how much fuel         
 
 104
 00:06:17,845 --> 00:06:21,412
-    to inject into the engine   
-     and many other things.     
+to inject into the engine and many other things.     
 
 105
 00:06:21,414 --> 00:06:25,183
-  without this critical sensor, 
-  the ratio of the air-fuel mix 
+without this critical sensor, the ratio of the air-fuel mix 
 
 106
 00:06:25,185 --> 00:06:26,652
-      would be compromised,     
+would be compromised,     
 
 107
 00:06:26,654 --> 00:06:28,954
-         and the engine         
-       would likely stall.      
+and the engine would likely stall.      
 
 108
 00:06:32,192 --> 00:06:35,493
- in internal combustion engines,
-  the throttle position sensor  
+in internal combustion engines,
+the throttle position sensor  
 
 109
 00:06:35,495 --> 00:06:37,729
-      is on constant alert,     
+is on constant alert,     
 
 110
 00:06:37,731 --> 00:06:42,201
-   sending the necessary power  
+sending the necessary power  
 demands to ensure a smooth ride.
 
 111
 00:06:42,203 --> 00:06:45,637
-   making these sensors starts  
-  with printed circuit boards.  
+making these sensors starts with printed circuit boards.  
 
 112
 00:06:45,639 --> 00:06:48,807
-  these boards will ultimately  
-      process physical data     
+these boards will ultimately process physical data     
 
 113
 00:06:48,809 --> 00:06:51,276
-        and convert this        
-        into information        
+and convert this into information        
 
 114
 00:06:51,278 --> 00:06:53,812
-       the engine computer      
-        will understand.        
+the engine computer will understand.        
 
 115
 00:06:53,814 --> 00:06:56,881
-  a robot transfers the boards  
-          to a conveyor         
+a robot transfers the boards to a conveyor         
 
 116
 00:06:56,883 --> 00:06:59,885
-       which takes them to      
-    a solder screen printer.    
+which takes them to a solder screen printer.    
 
 117
 00:06:59,887 --> 00:07:03,588
-  the printer squeegees solder  
-  through a stencil to deposit  
+the printer squeegees solder through a stencil to deposit  
 
 118
 00:07:03,590 --> 00:07:07,626
-    it in specific locations    
-         on the boards.         
+it in specific locations on the boards.         
 
 119
 00:07:07,628 --> 00:07:10,629
-    the squeegee and stencil    
-          then retract,         
+the squeegee and stencil then retract,         
 
 120
 00:07:10,631 --> 00:07:12,797
-     and the conveyor shoves    
-       the boards forward       
+and the conveyor shoves the boards forward       
 
 121
 00:07:12,799 --> 00:07:15,300
-     to the next operation.     
+to the next operation.     
 
 122
 00:07:17,370 --> 00:07:21,073
-     here, a robot retrieves    
- electronic components from tape
+here, a robot retrieves electronic components from tape
 
 123
 00:07:21,075 --> 00:07:23,208
-     on a reel and deposits     
+on a reel and deposits     
 
 124
 00:07:23,210 --> 00:07:25,711
-      them on the soldered      
-      spots on the boards.      
+them on the soldered spots on the boards.      
 
 125
 00:07:28,115 --> 00:07:31,549
-   it collects multiple parts   
-    from the reel at one time   
+it collects multiple parts from the reel at one time   
 
 126
 00:07:31,551 --> 00:07:33,151
- and installs them on the boards
+and installs them on the boards
 
 127
 00:07:33,153 --> 00:07:35,020
-       faster than you can      
-          blink an eye.         
+faster than you can blink an eye.         
 
 128
 00:07:37,124 --> 00:07:39,557
-         moving forward,        
-   the printed circuit boards   
+moving forward, the printed circuit boards   
 
 129
 00:07:39,559 --> 00:07:42,560
-   arrive at a camera station.  
+arrive at a camera station.  
 
 130
 00:07:42,562 --> 00:07:45,597
-     the camera clicks away     
+the camera clicks away     
 and sends pictures of the boards
 
 131
 00:07:45,599 --> 00:07:47,699
-         to a computer.         
+to a computer.         
 
 132
 00:07:47,701 --> 00:07:51,036
-      the computer analyzes     
+the computer analyzes     
 the placement of each component.
 
 133
 00:07:54,174 --> 00:07:57,208
-    with the computer's okay,   
-  the boards head into an oven  
+with the computer's okay, the boards head into an oven  
 
 134
 00:07:57,210 --> 00:08:00,445
-  with different heating zones. 
+with different heating zones. 
 
 135
 00:08:00,447 --> 00:08:03,081
-    the oven melts the solder   
-     and then cools it down     
+the oven melts the solder and then cools it down     
 
 136
 00:08:03,083 --> 00:08:05,651
-     to fuse the components     
-         to the boards.         
+to fuse the components to the boards.         
 
 137
 00:08:09,023 --> 00:08:13,025
-      the oven then ejects      
-       the sensor boards.       
+the oven then ejects the sensor boards.       
 
 138
 00:08:13,027 --> 00:08:19,231
- next, a technician serves them 
-  up to automated test probes.  
+next, a technician serves them up to automated test probes.  
 
 139
 00:08:19,233 --> 00:08:22,567
-       the probes energize      
-  the components on the boards  
+the probes energize the components on the boards  
 
 140
 00:08:22,569 --> 00:08:25,403
-      and, in the process,      
-      collect information.      
+and, in the process, collect information.      
 
 141
 00:08:25,405 --> 00:08:28,006
-       they send the data       
-         to a computer,         
+they send the data to a computer,         
 
 142
 00:08:28,008 --> 00:08:30,943
- which analyzes the function of 
-   the components on the board  
+which analyzes the function of the components on the board  
 
 143
 00:08:30,945 --> 00:08:33,445
-    and to make sure they're    
-       fully operational.       
+and to make sure they're fully operational.       
 
 144
 00:08:36,750 --> 00:08:39,785
-      then the boards move      
-      to a pneumatic punch.     
+then the boards move to a pneumatic punch.     
 
 145
 00:08:39,787 --> 00:08:42,954
-       it separates the 18      
-      sensor circuit boards     
+it separates the 18 sensor circuit boards     
 
 146
 00:08:42,956 --> 00:08:45,624
-       by cutting the tabs      
-    that hold them together.    
+by cutting the tabs that hold them together.    
 
 147
 00:08:48,095 --> 00:08:49,861
-       a worker assembles       
-         a metal spring         
+a worker assembles a metal spring         
 
 148
 00:08:49,863 --> 00:08:53,465
-   to a plastic magnet holder.  
+to a plastic magnet holder.  
 
 149
 00:08:53,467 --> 00:08:57,169
-  he places a high-wear washer  
+he places a high-wear washer  
 over the neck the magnet holder.
 
 150
 00:09:00,240 --> 00:09:02,307
-   then he inserts the magnet   
-         holder assembly        
+then he inserts the magnet holder assembly        
 
 151
 00:09:02,309 --> 00:09:07,345
 into the throttle-sensor housing
- and places the unit in a tray. 
+and places the unit in a tray. 
 
 152
 00:09:07,347 --> 00:09:12,784
- after glue has been injected in
- the holders, a robot moves in. 
+after glue has been injected in
+the holders, a robot moves in. 
 
 153
 00:09:12,786 --> 00:09:14,886
-      it scans the holders      
-          and confirms          
+it scans the holders and confirms          
 
 154
 00:09:14,888 --> 00:09:18,289
-       that there is glue       
-         in each cavity.        
+that there is glue in each cavity.        
 
 155
 00:09:18,291 --> 00:09:20,926
-     it then inserts magnets    
-         in the holders.        
+it then inserts magnets in the holders.        
 
 156
 00:09:24,130 --> 00:09:27,565
-   a worker installs a torsion  
-     spring in the housing.     
+a worker installs a torsion spring in the housing.     
 
 157
 00:09:27,567 --> 00:09:30,869
- it will hold the magnet holder 
-   tight to the throttle body.  
+it will hold the magnet holder tight to the throttle body.  
 
 158
 00:09:33,273 --> 00:09:35,407
-   he now inserts the printed   
-         circuit boards         
+he now inserts the printed circuit boards         
 
 159
 00:09:35,409 --> 00:09:39,177
-    into the sensor housings.   
+into the sensor housings.   
 
 160
 00:09:39,179 --> 00:09:42,614
- terminals in the housings mate 
-     to slots in the boards.    
+terminals in the housings mate to slots in the boards.    
 
 161
 00:09:46,153 --> 00:09:48,152
-    he solders the terminals    
-          to the boards         
+he solders the terminals to the boards         
 
 162
 00:09:48,154 --> 00:09:50,288
-  to establish the connections. 
+to establish the connections. 
 
 163
 00:09:50,290 --> 00:09:55,326
-                     ♪♪         
+♪♪         
 
 164
 00:09:55,328 --> 00:09:58,864
- all the parts are now in place 
- for throttle position sensing. 
+all the parts are now in place for throttle position sensing. 
 
 165
 00:10:01,034 --> 00:10:04,736
-   a worker places covers over  
- the sensor board compartments. 
+a worker places covers over the sensor board compartments. 
 
 166
 00:10:07,274 --> 00:10:11,876
- an ultrasonic welder then melts
- the plastic at the interfaces. 
+an ultrasonic welder then melts
+the plastic at the interfaces. 
 
 167
 00:10:11,878 --> 00:10:17,548
- once it hardens, the weld bonds
-  the cover to the sensor body. 
+once it hardens, the weld bonds
+the cover to the sensor body. 
 
 168
 00:10:17,550 --> 00:10:21,486
- a robot pipes silicone adhesive
-       on the welded seam       
+a robot pipes silicone adhesive
+on the welded seam       
 
 169
 00:10:21,488 --> 00:10:24,923
-       to create a double       
-      layer of protection.      
+to create a double layer of protection.      
 
 170
 00:10:24,925 --> 00:10:28,093
- the sensors ride on a conveyor 
-   that goes through an oven.   
+the sensors ride on a conveyor that goes through an oven.   
 
 171
 00:10:28,095 --> 00:10:31,329
-  this cures both the silicone  
-       on the welded seam       
+this cures both the silicone on the welded seam       
 
 172
 00:10:31,331 --> 00:10:36,468
-  and the glue inside to secure 
-    the magnet to the holder.   
+and the glue inside to secure the magnet to the holder.   
 
 173
 00:10:36,470 --> 00:10:38,903
-        out of the oven,        
-   the sensors travel through   
+out of the oven, the sensors travel through   
 
 174
 00:10:38,905 --> 00:10:42,574
-       a cooling station.       
+a cooling station.       
 
 175
 00:10:42,576 --> 00:10:45,844
-  probes then power the devices 
-       and calibrate them       
+probes then power the devices and calibrate them       
 
 176
 00:10:45,846 --> 00:10:49,481
-  for use in specific vehicles. 
+for use in specific vehicles. 
 
 177
 00:10:49,483 --> 00:10:52,818
-    a robot holds the sensor    
-      in front of a laser,      
+a robot holds the sensor in front of a laser,      
 
 178
 00:10:52,820 --> 00:10:55,353
-      which etches the date     
-         of manufacture.        
+which etches the date of manufacture.        
 
 179
 00:10:55,355 --> 00:10:58,689
 back on a conveyor, the throttle
-     position sensor travels    
+position sensor travels    
 
 180
 00:10:58,691 --> 00:11:00,792
-    under a magnifying glass    
+under a magnifying glass    
 
 181
 00:11:00,794 --> 00:11:04,729
-  so that the laser-etching job 
-       can be scrutinized.      
+so that the laser-etching job can be scrutinized.      
 
 182
 00:11:04,731 --> 00:11:09,634
-  this throttle position sensor 
+this throttle position sensor 
 is now ready for detection duty.
 
 183
 00:11:17,010 --> 00:11:22,681
-                     ♪♪         
+♪♪         
 
 184
 00:11:22,683 --> 00:11:25,116
-   narrator: cinnamon cordial   
-   marries the pungent flavor   
+narrator: cinnamon cordial marries the pungent flavor   
 
 185
 00:11:25,118 --> 00:11:28,520
-     of one of our favorite     
-      spices with alcohol.      
+of one of our favorite spices with alcohol.      
 
 186
 00:11:28,522 --> 00:11:32,357
-   think of it as the liqueur   
-  equivalent of a cinnamon bun. 
+think of it as the liqueur equivalent of a cinnamon bun. 
 
 187
 00:11:32,359 --> 00:11:35,626
- on its own or as in ingredient 
-      in a specialty drink,     
+on its own or as in ingredient in a specialty drink,     
 
 188
 00:11:35,628 --> 00:11:39,698
-  cinnamon cordial can add some 
- serious spice to cocktail hour.
+cinnamon cordial can add some serious spice to cocktail hour.
 
 189
 00:11:43,403 --> 00:11:45,704
-       cinnamon cordial is      
-      the distilled spirit      
+cinnamon cordial is the distilled spirit      
 
 190
 00:11:45,706 --> 00:11:48,573
-  that is both sweet and spicy. 
+that is both sweet and spicy. 
 
 191
 00:11:48,575 --> 00:11:50,108
- it's this complexity of flavor 
+it's this complexity of flavor 
 
 192
 00:11:50,110 --> 00:11:54,112
-      that is at that heart     
-         of its appeal.         
+that is at that heart of its appeal.         
 
 193
 00:11:54,114 --> 00:11:56,047
@@ -916,105 +791,92 @@ this particular cinnamon cordial
 
 194
 00:11:56,049 --> 00:11:57,782
-       starts with a blend      
-          of california         
+starts with a blend of california         
 
 195
 00:11:57,784 --> 00:12:01,419
-    grape brandy that's been    
-        aged for 2 years.       
+grape brandy that's been aged for 2 years.       
 
 196
 00:12:01,421 --> 00:12:04,555
-     the distiller measures     
- the amount the recipe calls for
+the distiller measures the amount the recipe calls for
 
 197
 00:12:04,557 --> 00:12:08,326
-    and pours the brandy into   
-   the main production vessel.  
+and pours the brandy into the main production vessel.  
 
 198
 00:12:08,328 --> 00:12:10,395
-      he then pumps neutral     
-          grain spirits         
+he then pumps neutral grain spirits         
 
 199
 00:12:10,397 --> 00:12:12,164
-    out of a big holding tank   
+out of a big holding tank   
 
 200
 00:12:12,166 --> 00:12:14,765
- and into the measuring bucket. 
+and into the measuring bucket. 
 
 201
 00:12:14,767 --> 00:12:17,501
-    this spirit is 190 proof,   
+this spirit is 190 proof,   
 
 202
 00:12:17,503 --> 00:12:22,440
-     which means that it is     
-       95 percent alcohol.      
+which means that it is 95 percent alcohol.      
 
 203
 00:12:22,442 --> 00:12:25,042
- he adds it to the grape brandy.
+he adds it to the grape brandy.
 
 204
 00:12:25,044 --> 00:12:27,378
-      together, the brandy      
-     and the neutral spirits    
+together, the brandy and the neutral spirits    
 
 205
 00:12:27,380 --> 00:12:31,516
- will serve as the alcohol base 
-    for the cinnamon cordial.   
+will serve as the alcohol base for the cinnamon cordial.   
 
 206
 00:12:31,518 --> 00:12:35,019
-  the brandy contributes color  
-       and a little flavor      
+the brandy contributes color and a little flavor      
 
 207
 00:12:35,021 --> 00:12:37,589
-     while the clear spirits    
-          add potency.          
+while the clear spirits add potency.          
 
 208
 00:12:40,594 --> 00:12:44,262
-   next up are the spices that  
+next up are the spices that  
 provide a first layer of flavor.
 
 209
 00:12:47,334 --> 00:12:48,633
-         using a scale,         
+using a scale,         
 
 210
 00:12:48,635 --> 00:12:51,303
-     the distiller measures     
-   the amounts for the recipe,  
+the distiller measures the amounts for the recipe,  
 
 211
 00:12:51,305 --> 00:12:53,237
- beginning with whole coriander,
+beginning with whole coriander,
 
 212
 00:12:53,239 --> 00:12:55,106
-    a spice that will impart    
-            a citrusy           
+a spice that will impart a citrusy           
 
 213
 00:12:55,108 --> 00:12:59,277
-  zest to the cinnamon cordial. 
+zest to the cinnamon cordial. 
 
 214
 00:12:59,279 --> 00:13:02,147
- the next ingredient is cloves. 
+the next ingredient is cloves. 
 
 215
 00:13:02,149 --> 00:13:04,950
-     this spice has a sweet     
-      and peppery essence.      
+this spice has a sweet and peppery essence.      
 
 216
 00:13:07,721 --> 00:13:11,322
@@ -1022,273 +884,234 @@ finally, he adds dry bay leaves.
 
 217
 00:13:11,324 --> 00:13:15,560
-   he crumbles them to release  
-     their herbal fragrance.    
+he crumbles them to release their herbal fragrance.    
 
 218
 00:13:15,562 --> 00:13:18,062
-       these three spices       
-     will ultimately provide    
+these three spices will ultimately provide    
 
 219
 00:13:18,064 --> 00:13:19,130
-       background flavor,       
+background flavor,       
 
 220
 00:13:19,132 --> 00:13:21,032
-       while the cinnamon       
-    that's to be added later    
+while the cinnamon that's to be added later    
 
 221
 00:13:21,034 --> 00:13:23,468
-     will be the main event.    
+will be the main event.    
 
 222
 00:13:25,639 --> 00:13:28,540
-      the distiller reopens     
- the production tank and drapes 
+the distiller reopens the production tank and drapes 
 
 223
 00:13:28,542 --> 00:13:31,576
-       a mesh nylon sachet      
-        over the opening.       
+a mesh nylon sachet over the opening.       
 
 224
 00:13:34,281 --> 00:13:37,548
-     he pours the carefully     
-  measured spices into the bag, 
+he pours the carefully measured spices into the bag, 
 
 225
 00:13:37,550 --> 00:13:39,985
-    and they become immersed    
-         in the alcohol.        
+and they become immersed in the alcohol.        
 
 226
 00:13:42,455 --> 00:13:44,956
- he draws the bag of spices shut
+he draws the bag of spices shut
 
 227
 00:13:44,958 --> 00:13:48,593
-        and leaves it in        
-    the alcohol for 2 weeks.    
+and leaves it in the alcohol for 2 weeks.    
 
 228
 00:13:48,595 --> 00:13:49,827
-        during this time,       
+during this time,       
 
 229
 00:13:49,829 --> 00:13:53,431
-      the alcohol extracts      
-    flavors from the spices.    
+the alcohol extracts flavors from the spices.    
 
 230
 00:13:53,433 --> 00:13:56,401
-   staying true to the recipe   
-          is critical.          
+staying true to the recipe is critical.          
 
 231
 00:13:56,403 --> 00:13:58,236
-  adding too much of one spice  
+adding too much of one spice  
 
 232
 00:13:58,238 --> 00:14:00,104
-      or leaving the spices     
-         in the alcohol         
+or leaving the spices in the alcohol         
 
 233
 00:14:00,106 --> 00:14:03,842
-          for too long          
-      could ruin the batch.     
+for too long could ruin the batch.     
 
 234
 00:14:03,844 --> 00:14:08,046
-   after steeping, the liqueur  
+after steeping, the liqueur  
 is ready for the cinnamon spice.
 
 235
 00:14:08,048 --> 00:14:12,317
-  he adds two kinds -- cassia,  
-    which is from indonesia,    
+he adds two kinds -- cassia, which is from indonesia,    
 
 236
 00:14:12,319 --> 00:14:13,952
-       china, and vietnam,      
+china, and vietnam,      
 
 237
 00:14:13,954 --> 00:14:18,189
-      and ceylon cinnamon,      
- which originates in sri lanka. 
+and ceylon cinnamon, which originates in sri lanka. 
 
 238
 00:14:18,191 --> 00:14:20,091
-          he breaks up          
-     the cinnamon tree bark     
+he breaks up the cinnamon tree bark     
 
 239
 00:14:20,093 --> 00:14:24,562
-     to increase the surface    
-       area for steeping.       
+to increase the surface area for steeping.       
 
 240
 00:14:24,564 --> 00:14:26,931
-   he also adds two different   
-       powdered cinnamons       
+he also adds two different powdered cinnamons       
 
 241
 00:14:26,933 --> 00:14:28,833
-   for extra flavor and color.  
+for extra flavor and color.  
 
 242
 00:14:28,835 --> 00:14:34,572
-                     ♪♪         
+♪♪         
 
 243
 00:14:34,574 --> 00:14:38,376
-    he now makes simple syrup   
-  from organic sugar and water  
+he now makes simple syrup from organic sugar and water  
 
 244
 00:14:38,378 --> 00:14:40,845
-   and adds it to the mixture.  
+and adds it to the mixture.  
 
 245
 00:14:40,847 --> 00:14:44,516
-  this syrup provides sweetness 
- and dilutes the alcohol content
+this syrup provides sweetness and dilutes the alcohol content
 
 246
 00:14:44,518 --> 00:14:48,453
-         substantially,         
-  bringing it down to 68 proof. 
+substantially, bringing it down to 68 proof. 
 
 247
 00:14:51,191 --> 00:14:55,393
-       he leaves the blend      
-      to steep for a week.      
+he leaves the blend to steep for a week.      
 
 248
 00:14:55,395 --> 00:14:59,030
-  during this time, he samples  
-  the beverage daily to confirm 
+during this time, he samples the beverage daily to confirm 
 
 249
 00:14:59,032 --> 00:15:01,432
-         that the drink         
-     is developing correctly    
+that the drink is developing correctly    
 
 250
 00:15:01,434 --> 00:15:06,371
-  and that the cinnamon flavor  
-      is properly balanced.     
+and that the cinnamon flavor is properly balanced.     
 
 251
 00:15:06,373 --> 00:15:09,541
-     the color change during    
-     this week is dramatic,     
+the color change during this week is dramatic,     
 
 252
 00:15:09,543 --> 00:15:12,877
-    and it's an indication of   
- the cordial's deepening flavor.
+and it's an indication of the cordial's deepening flavor.
 
 253
 00:15:16,583 --> 00:15:19,417
-    when the taste and color    
-        seem just right,        
+when the taste and color seem just right,        
 
 254
 00:15:19,419 --> 00:15:21,753
- he removes the spices and pumps
+he removes the spices and pumps
 
 255
 00:15:21,755 --> 00:15:26,457
-      the cinnamon cordial      
-     into 25-ounce bottles.     
+the cinnamon cordial into 25-ounce bottles.     
 
 256
 00:15:26,459 --> 00:15:28,859
-      this bottling system      
-    is equipped with a filter   
+this bottling system is equipped with a filter   
 
 257
 00:15:28,861 --> 00:15:32,330
-    to remove any impurities.   
+to remove any impurities.   
 
 258
 00:15:32,332 --> 00:15:34,833
- once full, he corks the bottle.
+once full, he corks the bottle.
 
 259
 00:15:38,538 --> 00:15:42,039
-    using a special labeling    
- machine, he rolls on the label 
+using a special labeling machine, he rolls on the label 
 
 260
 00:15:42,041 --> 00:15:44,476
-         that identifies        
-   the product for marketing.   
+that identifies the product for marketing.   
 
 261
 00:15:49,449 --> 00:15:52,650
- he then heat-shrinks a plastic 
-      seal around the cork.     
+he then heat-shrinks a plastic seal around the cork.     
 
 262
 00:15:56,690 --> 00:16:00,491
-   he puts a signature on it,   
-    and this cinnamon cordial   
+he puts a signature on it, and this cinnamon cordial   
 
 263
 00:16:00,493 --> 00:16:02,627
-          is ready for          
-      the cocktail circuit.     
+is ready for the cocktail circuit.     
 
 264
 00:16:02,629 --> 00:16:08,767
-                     ♪♪         
+♪♪         
 
 265
 00:16:15,876 --> 00:16:21,011
-                     ♪♪         
+♪♪         
 
 266
 00:16:21,013 --> 00:16:24,182
- narrator: tour the workshop of 
-  a cabinetmaker or woodcarver, 
+narrator: tour the workshop of a cabinetmaker or woodcarver, 
 
 267
 00:16:24,184 --> 00:16:27,986
-     and you're sure to come    
-  across a collection of rasps. 
+and you're sure to come across a collection of rasps. 
 
 268
 00:16:27,988 --> 00:16:31,422
 a rasp is a hand tool with teeth
-      that you push forward     
+that you push forward     
 
 269
 00:16:31,424 --> 00:16:34,058
-          with pressure         
-     over wood to shape it.     
+with pressure over wood to shape it.     
 
 270
 00:16:34,060 --> 00:16:37,228
- rasps come in various textures,
-         called grains,         
+rasps come in various textures,
+called grains,         
 
 271
 00:16:37,230 --> 00:16:39,364
-  ranging from coarse to fine.  
+ranging from coarse to fine.  
 
 272
 00:16:41,401 --> 00:16:44,903
-       machine-made rasps       
-   may suffice for hobbyists,   
+machine-made rasps may suffice for hobbyists,   
 
 273
 00:16:44,905 --> 00:16:48,606
-  but fine woodworking requires 
-    premium rasps like these,   
+but fine woodworking requires premium rasps like these,   
 
 274
 00:16:48,608 --> 00:16:50,742
@@ -1296,89 +1119,75 @@ which are made entirely by hand.
 
 275
 00:16:53,380 --> 00:16:57,916
-  a rasp starts out as a steel  
-      bar, called a blank.      
+a rasp starts out as a steel bar, called a blank.      
 
 276
 00:16:57,918 --> 00:17:01,219
-  first, a worker heats one end 
-     of the blank in an oven    
+first, a worker heats one end of the blank in an oven    
 
 277
 00:17:01,221 --> 00:17:02,854
-        at a temperature        
-        of approximately        
+at a temperature of approximately        
 
 278
 00:17:02,856 --> 00:17:05,490
-    1,500 degrees fahrenheit.   
+1,500 degrees fahrenheit.   
 
 279
 00:17:05,492 --> 00:17:09,093
- when the steel glows somewhere 
-     between orange and red,    
+when the steel glows somewhere between orange and red,    
 
 280
 00:17:09,095 --> 00:17:14,298
-   he immediately cuts the end  
- to a crude point with a press. 
+he immediately cuts the end to a crude point with a press. 
 
 281
 00:17:14,300 --> 00:17:17,168
-     then he places the end     
-      under a spring hammer     
+then he places the end under a spring hammer     
 
 282
 00:17:17,170 --> 00:17:20,404
-        which strikes it        
-    repeatedly against a die,   
+which strikes it repeatedly against a die,   
 
 283
 00:17:20,406 --> 00:17:23,274
-     forging the crude point    
-        to a refined one.       
+forging the crude point to a refined one.       
 
 284
 00:17:23,276 --> 00:17:28,412
-                     ♪♪         
+♪♪         
 
 285
 00:17:28,414 --> 00:17:31,349
-   after repeating these steps  
-     on the opposite end...     
+after repeating these steps on the opposite end...     
 
 286
 00:17:34,387 --> 00:17:38,322
-      he inserts the blank      
-    into a shearing machine.    
+he inserts the blank into a shearing machine.    
 
 287
 00:17:38,324 --> 00:17:40,057
-  this cuts across the middle,  
+this cuts across the middle,  
 
 288
 00:17:40,059 --> 00:17:42,793
-       dividing the blank       
-      into two flat rasps,      
+dividing the blank into two flat rasps,      
 
 289
 00:17:42,795 --> 00:17:45,430
-     each with a pointed end    
-         and a flat end.        
+each with a pointed end and a flat end.        
 
 290
 00:17:50,237 --> 00:17:53,470
-    the worker puts the flat    
-       end into the oven.       
+the worker puts the flat end into the oven.       
 
 291
 00:17:53,472 --> 00:17:55,472
-         once it reaches        
-      working temperature,      
+once it reaches working temperature,      
 
 292
 00:17:55,474 --> 00:17:57,775
-    he places it in a press.    
+he places it in a press.    
 
 293
 00:17:57,777 --> 00:18:00,478
@@ -1386,85 +1195,73 @@ the first strike tapers the end.
 
 294
 00:18:00,480 --> 00:18:03,548
-    the second cuts off steel   
-   to form the tool's handle,   
+the second cuts off steel to form the tool's handle,   
 
 295
 00:18:03,550 --> 00:18:06,784
-        called the tang.        
+called the tang.        
 
 296
 00:18:06,786 --> 00:18:09,854
- the rasp shape is fully forged.
+the rasp shape is fully forged.
 
 297
 00:18:09,856 --> 00:18:14,325
-    an experienced craftsman    
-     now begins refining it.    
+an experienced craftsman now begins refining it.    
 
 298
 00:18:14,327 --> 00:18:16,661
-    first, he runs it against   
-        a grinding wheel        
+first, he runs it against a grinding wheel        
 
 299
 00:18:16,663 --> 00:18:20,565
-     to remove excess steel.    
+to remove excess steel.    
 
 300
 00:18:20,567 --> 00:18:23,868
-       because steel warps      
-     in the forging process,    
+because steel warps in the forging process,    
 
 301
 00:18:23,870 --> 00:18:25,470
-   he hammers along the tang,   
+he hammers along the tang,   
 
 302
 00:18:25,472 --> 00:18:28,973
-        point, and length       
-     to straighten the rasp.    
+point, and length to straighten the rasp.    
 
 303
 00:18:28,975 --> 00:18:32,543
-      this step is critical     
-     for structural strength    
+this step is critical for structural strength    
 
 304
 00:18:32,545 --> 00:18:35,846
-   because if the grain of the  
- steel isn't perfectly straight,
+because if the grain of the steel isn't perfectly straight,
 
 305
 00:18:35,848 --> 00:18:38,883
-     the rasp will warp when    
-   the craftsman later hardens  
+the rasp will warp when the craftsman later hardens  
 
 306
 00:18:38,885 --> 00:18:41,151
-     the steel by tempering.    
+the steel by tempering.    
 
 307
 00:18:41,153 --> 00:18:43,521
-   once the rasp is straight,   
+once the rasp is straight,   
 
 308
 00:18:43,523 --> 00:18:46,591
-   he grinds the flat surfaces  
-       on a grinding belt.      
+he grinds the flat surfaces on a grinding belt.      
 
 309
 00:18:49,228 --> 00:18:51,328
-       then he returns to       
-       the grinding wheel       
+then he returns to the grinding wheel       
 
 310
 00:18:51,330 --> 00:18:54,065
-     to remove excess steel     
-        around the point.       
+to remove excess steel around the point.       
 
 311
 00:18:58,671 --> 00:21:17,808
-    by the time he completes    
-           this step,           
+by the time he completes this step,           
 

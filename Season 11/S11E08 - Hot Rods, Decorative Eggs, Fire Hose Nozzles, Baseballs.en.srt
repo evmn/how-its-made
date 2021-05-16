@@ -1,267 +1,230 @@
 ﻿1
 00:00:01,869 --> 00:00:04,936
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,938 --> 00:00:07,906
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:50,451 --> 00:00:52,784
-            narrator:           
-    a hot rod is a normal car   
+narrator: a hot rod is a normal car   
 
 4
 00:00:52,786 --> 00:00:54,453
- that's been radically modified 
+that's been radically modified 
 
 5
 00:00:54,455 --> 00:00:56,721
-        to look snazzier        
-        and drive faster.       
+to look snazzier and drive faster.       
 
 6
 00:00:56,723 --> 00:00:59,725
-     some amateur mechanics     
-   tinker away at building one  
+some amateur mechanics tinker away at building one  
 
 7
 00:00:59,727 --> 00:01:00,792
-        in their garage,        
+in their garage,        
 
 8
 00:01:00,794 --> 00:01:03,195
-      while other car buffs     
-        custom-order one        
+while other car buffs custom-order one        
 
 9
 00:01:03,197 --> 00:01:04,930
-   from a specialty auto shop.  
+from a specialty auto shop.  
 
 10
 00:01:04,932 --> 00:01:08,333
-   either way, hot-rod lovers   
-   are driven by their passion  
+either way, hot-rod lovers are driven by their passion  
 
 11
 00:01:08,335 --> 00:01:10,536
-    for these mean machines.    
+for these mean machines.    
 
 12
 00:01:14,608 --> 00:01:17,009
-     hot rods are customized    
-         inside and out.        
+hot rods are customized inside and out.        
 
 13
 00:01:17,011 --> 00:01:19,277
-        the classic cars        
-        they start out as       
+the classic cars they start out as       
 
 14
 00:01:19,279 --> 00:01:21,012
-  are pretty scarce these days, 
+are pretty scarce these days, 
 
 15
 00:01:21,014 --> 00:01:24,283
-  so specialty shops now design 
-    and build hot-rod bodies    
+so specialty shops now design and build hot-rod bodies    
 
 16
 00:01:24,285 --> 00:01:25,350
-          from scratch,         
+from scratch,         
 
 17
 00:01:25,352 --> 00:01:28,353
-     using state-of-the-art     
-          technologies.         
+using state-of-the-art technologies.         
 
 18
 00:01:28,355 --> 00:01:32,290
-    it all starts with curved   
-    steel rails 15 feet long    
+it all starts with curved steel rails 15 feet long    
 
 19
 00:01:32,292 --> 00:01:34,893
-       that form the basis      
-         of the chassis.        
+that form the basis of the chassis.        
 
 20
 00:01:34,895 --> 00:01:40,165
-  every 12 inches, workers weld 
-  the rails to the car's frame. 
+every 12 inches, workers weld the rails to the car's frame. 
 
 21
 00:01:40,167 --> 00:01:44,403
 next they position cross members
-     to reinforce the frame.    
+to reinforce the frame.    
 
 22
 00:01:46,540 --> 00:01:49,107
-      with utmost concern       
-      for quality control,      
+with utmost concern for quality control,      
 
 23
 00:01:49,109 --> 00:01:52,310
-  they'll assemble and install  
-    by hand the transmission,   
+they'll assemble and install by hand the transmission,   
 
 24
 00:01:52,312 --> 00:01:54,846
-         the suspension,        
-     and the shock absorbers    
+the suspension, and the shock absorbers    
 
 25
 00:01:54,848 --> 00:01:57,649
 and weld those precisely aligned
-          cross members         
+cross members         
 
 26
 00:01:57,651 --> 00:02:00,085
-      to the curved rails.      
+to the curved rails.      
 
 27
 00:02:03,723 --> 00:02:07,593
-   elsewhere, someone polishes  
-   the stainless-steel wings,   
+elsewhere, someone polishes the stainless-steel wings,   
 
 28
 00:02:07,595 --> 00:02:09,327
-   which have been laser cut.   
+which have been laser cut.   
 
 29
 00:02:09,329 --> 00:02:12,764
-     these wings make up the    
+these wings make up the    
 hot rod's signature front grill.
 
 30
 00:02:20,608 --> 00:02:22,941
-    mounting the disc brakes    
-  onto such a high-end machine  
+mounting the disc brakes onto such a high-end machine  
 
 31
 00:02:22,943 --> 00:02:25,143
-       takes specialists.       
+takes specialists.       
 
 32
 00:02:25,145 --> 00:02:28,113
- first, they screw the spindles 
-    to the suspension arm...    
+first, they screw the spindles to the suspension arm...    
 
 33
 00:02:30,284 --> 00:02:32,784
-         ...then grease         
-  the ball-bearing mechanism... 
+...then grease the ball-bearing mechanism... 
 
 34
 00:02:34,488 --> 00:02:37,890
-  ...and finally block the disc 
-     brake with a cotter pin    
+...and finally block the disc brake with a cotter pin    
 
 35
 00:02:37,892 --> 00:02:39,958
- to fasten the pieces together. 
+to fasten the pieces together. 
 
 36
 00:02:39,960 --> 00:02:43,228
-    the brake system has four   
-    calipers, one per wheel.    
+the brake system has four calipers, one per wheel.    
 
 37
 00:02:43,230 --> 00:02:46,564
-   each one holds two brackets  
-     called the brake shoes.    
+each one holds two brackets called the brake shoes.    
 
 38
 00:02:46,566 --> 00:02:48,900
-         they close down        
-        on the brake disc       
+they close down on the brake disc       
 
 39
 00:02:48,902 --> 00:02:51,703
-          to slow down          
- and stop the wheel's rotation. 
+to slow down and stop the wheel's rotation. 
 
 40
 00:02:51,705 --> 00:02:55,040
-     a couple of slide pins     
-  lock the caliper into place.  
+a couple of slide pins lock the caliper into place.  
 
 41
 00:02:55,042 --> 00:02:57,042
- brake shoes are prone to wear, 
+brake shoes are prone to wear, 
 
 42
 00:02:57,044 --> 00:03:01,980
-  so their alignment and oiling 
-        must be perfect.        
+so their alignment and oiling must be perfect.        
 
 43
 00:03:01,982 --> 00:03:04,649
-    time has come to install    
-       a hydraulic device       
+time has come to install a hydraulic device       
 
 44
 00:03:04,651 --> 00:03:07,586
-   that reacts to the steering  
-        wheel's movement,       
+that reacts to the steering wheel's movement,       
 
 45
 00:03:07,588 --> 00:03:11,156
- directing the tie rods to turn 
- the front wheels accordingly.  
+directing the tie rods to turn the front wheels accordingly.  
 
 46
 00:03:12,459 --> 00:03:13,659
-    a pneumatic tool is used    
+a pneumatic tool is used    
 
 47
 00:03:13,661 --> 00:03:16,061
-       to affix the pinion      
-   of the steering mechanism.   
+to affix the pinion of the steering mechanism.   
 
 48
 00:03:19,600 --> 00:03:25,470
-  at every step, workers check  
-  and double-check each part.   
+at every step, workers check and double-check each part.   
 
 49
 00:03:25,472 --> 00:03:27,138
-          using a jack,         
+using a jack,         
 
 50
 00:03:27,140 --> 00:03:29,741
-   they lift the differential   
-     housing into position.     
+they lift the differential housing into position.     
 
 51
 00:03:29,743 --> 00:03:32,144
-   it anchors the rear wheels'  
-        propulsion system       
+it anchors the rear wheels' propulsion system       
 
 52
 00:03:32,146 --> 00:03:33,612
-       to the car's frame.      
+to the car's frame.      
 
 53
 00:03:33,614 --> 00:03:38,617
- they attach the suspension arms
-    to the axles at an angle.   
+they attach the suspension arms
+to the axles at an angle.   
 
 54
 00:03:38,619 --> 00:03:42,220
-   meanwhile, a painter sprays  
-       a coat of resin gel      
+meanwhile, a painter sprays a coat of resin gel      
 
 55
 00:03:42,222 --> 00:03:43,821
-      on the plastic molds      
+on the plastic molds      
 
 56
 00:03:43,823 --> 00:03:46,691
- with which they make the car's 
-     fiberglass body parts.     
+with which they make the car's fiberglass body parts.     
 
 57
 00:03:46,693 --> 00:03:48,426
@@ -269,139 +232,119 @@ the gel coating eases extraction
 
 58
 00:03:48,428 --> 00:03:51,696
-    and gives the fiberglass    
-      a high-gloss finish.      
+and gives the fiberglass a high-gloss finish.      
 
 59
 00:03:51,698 --> 00:03:53,098
-       to mold the parts,       
+to mold the parts,       
 
 60
 00:03:53,100 --> 00:03:56,100
-     a worker spreads resin     
-      on fiberglass cloth.      
+a worker spreads resin on fiberglass cloth.      
 
 61
 00:03:56,102 --> 00:03:59,504
-       they call this step      
-  "wetting the fiberglass map." 
+they call this step "wetting the fiberglass map." 
 
 62
 00:03:59,506 --> 00:04:03,642
- they lay the map on the mold --
- in this case, on a door mold --
+they lay the map on the mold --
+in this case, on a door mold --
 
 63
 00:04:03,644 --> 00:04:07,646
- then with a roller, carefully  
- press out all the air bubbles. 
+then with a roller, carefully press out all the air bubbles. 
 
 64
 00:04:07,648 --> 00:04:09,314
-    it takes about 40 minutes   
+it takes about 40 minutes   
 
 65
 00:04:09,316 --> 00:04:12,116
-  for the resin-impregnated map 
-          to solidify.          
+for the resin-impregnated map to solidify.          
 
 66
 00:04:12,118 --> 00:04:15,186
-    extracting the body part    
-     is a tricky procedure.     
+extracting the body part is a tricky procedure.     
 
 67
 00:04:15,188 --> 00:04:18,790
-   they hammer wood wedges in   
- between the hardened fiberglass
+they hammer wood wedges in between the hardened fiberglass
 
 68
 00:04:18,792 --> 00:04:21,193
-          in the mold.          
+in the mold.          
 
 69
 00:04:21,195 --> 00:04:24,128
- it's crucial to angle the wedge
-           just right.          
+it's crucial to angle the wedge
+just right.          
 
 70
 00:04:24,130 --> 00:04:26,465
-           otherwise,           
-     the mold may collapse.     
+otherwise, the mold may collapse.     
 
 71
 00:04:26,467 --> 00:04:29,134
-       it typically takes       
-      about 25 molded parts     
+it typically takes about 25 molded parts     
 
 72
 00:04:29,136 --> 00:04:31,536
-           to make up           
-    a complete hot-rod body.    
+to make up a complete hot-rod body.    
 
 73
 00:04:31,538 --> 00:04:35,006
-    after three week's work,    
-     final assembly begins.     
+after three week's work, final assembly begins.     
 
 74
 00:04:35,008 --> 00:04:37,876
-      after the back panels     
-        comes the front,        
+after the back panels comes the front,        
 
 75
 00:04:37,878 --> 00:04:40,011
-  otherwise known as the nose.  
+otherwise known as the nose.  
 
 76
 00:04:40,013 --> 00:04:43,882
-     next come the fenders,     
- then the stylish running board.
+next come the fenders, then the stylish running board.
 
 77
 00:04:43,884 --> 00:04:47,352
-   and no hot rod is complete   
-  without its signature grill.  
+and no hot rod is complete without its signature grill.  
 
 78
 00:04:47,354 --> 00:04:50,154
-      the windshield frame      
-     helps support the roof,    
+the windshield frame helps support the roof,    
 
 79
 00:04:50,156 --> 00:04:53,024
-         or "carson top"        
-        in hot-rod lingo.       
+or "carson top" in hot-rod lingo.       
 
 80
 00:04:53,026 --> 00:04:57,129
-    the front hood completes    
-  this '37-ford-inspired body.  
+the front hood completes this '37-ford-inspired body.  
 
 81
 00:04:58,565 --> 00:05:00,899
-          it ships out          
-      without a paint job.      
+it ships out without a paint job.      
 
 82
 00:05:00,901 --> 00:05:04,903
- that's because customization is
- everything in the hot-rod biz. 
+that's because customization is
+everything in the hot-rod biz. 
 
 83
 00:05:04,905 --> 00:05:07,572
-        the buyer decides       
-      how to finish the car     
+the buyer decides how to finish the car     
 
 84
 00:05:07,574 --> 00:05:10,575
-    by choosing, for example,   
-      this retro dashboard      
+by choosing, for example, this retro dashboard      
 
 85
 00:05:10,577 --> 00:05:14,246
- designed to blend spectacularly
-    with the rest of the car.   
+designed to blend spectacularly
+with the rest of the car.   
 
 86
 00:05:17,718 --> 00:05:19,917
@@ -409,97 +352,84 @@ even car junkies can be forgiven
 
 87
 00:05:19,919 --> 00:05:21,986
-         for struggling         
-       to keep up to speed      
+for struggling to keep up to speed      
 
 88
 00:05:21,988 --> 00:05:25,057
-      with the ever-growing     
+with the ever-growing     
 customization options out there.
 
 89
 00:05:26,994 --> 00:05:31,663
-   from the engine to the rims  
-  to the seats to the chrome -- 
+from the engine to the rims to the seats to the chrome -- 
 
 90
 00:05:31,665 --> 00:05:34,399
-          when it comes         
-  to customizing your hot rod,  
+when it comes to customizing your hot rod,  
 
 91
 00:05:34,401 --> 00:05:36,735
-  you're in the driver's seat.  
+you're in the driver's seat.  
 
 92
 00:05:51,018 --> 00:05:52,351
-            narrator:           
-    egg decorating is a craft   
+narrator: egg decorating is a craft   
 
 93
 00:05:52,353 --> 00:05:53,951
-   practiced around the world   
-         for centuries.         
+practiced around the world for centuries.         
 
 94
 00:05:53,953 --> 00:05:56,287
-      the ancient persians      
-     painted eggs for noruz,    
+the ancient persians painted eggs for noruz,    
 
 95
 00:05:56,289 --> 00:05:57,689
-   their new year celebration,  
+their new year celebration,  
 
 96
 00:05:57,691 --> 00:05:59,824
-           a tradition          
-      that continues today.     
+a tradition that continues today.     
 
 97
 00:05:59,826 --> 00:06:01,293
-    probably the most famous    
+probably the most famous    
 
 98
 00:06:01,295 --> 00:06:03,895
-  are the exquisitely decorated 
-          fabergé eggs,         
+are the exquisitely decorated fabergé eggs,         
 
 99
 00:06:03,897 --> 00:06:05,764
- except they aren't eggs at all.
+except they aren't eggs at all.
 
 100
 00:06:05,766 --> 00:06:08,700
-   they're made from precious   
-      metals and gemstones.     
+they're made from precious metals and gemstones.     
 
 101
 00:06:13,640 --> 00:06:16,708
-  each one of these decorative  
-     eggs is a unique piece.    
+each one of these decorative eggs is a unique piece.    
 
 102
 00:06:16,710 --> 00:06:19,711
-     the artist paints them,    
-   collages images and fabric,  
+the artist paints them, collages images and fabric,  
 
 103
 00:06:19,713 --> 00:06:21,979
-       and creates jewelry      
-         and music boxes        
+and creates jewelry and music boxes        
 
 104
 00:06:21,981 --> 00:06:24,115
-   or hangs them as ornaments.  
+or hangs them as ornaments.  
 
 105
 00:06:24,117 --> 00:06:26,451
- she always works with real eggs
+she always works with real eggs
 
 106
 00:06:26,453 --> 00:06:31,456
-    from birds like the rhea,   
-   the emu, geese, or turkeys.  
+from birds like the rhea, the emu, geese, or turkeys.  
 
 107
 00:06:31,458 --> 00:06:33,592
@@ -507,92 +437,77 @@ here, she selects an ostrich egg
 
 108
 00:06:33,594 --> 00:06:37,229
-  and gently clamps it in place 
-     on an egg-marker stand.    
+and gently clamps it in place on an egg-marker stand.    
 
 109
 00:06:45,739 --> 00:06:49,140
-  on the underside of the stand 
-   are a series of guidelines   
+on the underside of the stand are a series of guidelines   
 
 110
 00:06:49,142 --> 00:06:52,344
-     to help divide the egg     
-  into two or more equal parts. 
+to help divide the egg into two or more equal parts. 
 
 111
 00:06:52,346 --> 00:06:54,880
-     working with the pencil    
-        held in a brace,        
+working with the pencil held in a brace,        
 
 112
 00:06:54,882 --> 00:06:57,816
-       she divides the egg      
-     into four equal parts.     
+she divides the egg into four equal parts.     
 
 113
 00:07:05,158 --> 00:07:08,226
 then she draws a horizontal line
-         across the egg         
+across the egg         
 
 114
 00:07:08,228 --> 00:07:10,962
-   where she'll cut it in half  
-        to create a lid.        
+where she'll cut it in half to create a lid.        
 
 115
 00:07:10,964 --> 00:07:13,965
-       she'll use a hinge       
-    to hold the lid in place,   
+she'll use a hinge to hold the lid in place,   
 
 116
 00:07:13,967 --> 00:07:16,902
-            so first,           
-    she draws the contour...    
+so first, she draws the contour...    
 
 117
 00:07:16,904 --> 00:07:21,306
-     then a loose, wavy line    
+then a loose, wavy line    
 all along the egg circumference,
 
 118
 00:07:21,308 --> 00:07:24,376
-   using the pencil guidelines  
-          as reference.         
+using the pencil guidelines as reference.         
 
 119
 00:07:24,378 --> 00:07:28,179
-   a rotating cutter equipped   
-   with a diamond dusted blade  
+a rotating cutter equipped with a diamond dusted blade  
 
 120
 00:07:28,181 --> 00:07:30,615
-           makes a cut          
-    where the hinge will be.    
+makes a cut where the hinge will be.    
 
 121
 00:07:37,124 --> 00:07:40,459
-     the artist now prepares    
-  some five-minute epoxy glue.  
+the artist now prepares some five-minute epoxy glue.  
 
 122
 00:07:40,461 --> 00:07:43,795
-      she has a neat trick      
- to apply just the right amount.
+she has a neat trick to apply just the right amount.
 
 123
 00:07:43,797 --> 00:07:46,864
-     she works with a strand    
-     of uncooked spaghetti,     
+she works with a strand of uncooked spaghetti,     
 
 124
 00:07:46,866 --> 00:07:49,501
-  then sets the hinge in place. 
+then sets the hinge in place. 
 
 125
 00:07:54,207 --> 00:07:57,342
-     once the hinge has set,    
-  she cuts all around the egg,  
+once the hinge has set, she cuts all around the egg,  
 
 126
 00:07:57,344 --> 00:08:01,279
@@ -601,13 +516,11 @@ sure that hinge works properly.
 
 127
 00:08:01,281 --> 00:08:04,282
-       it's the first time      
-  she sees the egg's interior.  
+it's the first time she sees the egg's interior.  
 
 128
 00:08:04,284 --> 00:08:06,551
-      if it needs cleaning,     
-         now's the time.        
+if it needs cleaning, now's the time.        
 
 129
 00:08:06,553 --> 00:08:08,486
@@ -615,174 +528,151 @@ though this artist often chooses
 
 130
 00:08:08,488 --> 00:08:11,022
-      to leave ostrich eggs     
-      their natural color,      
+to leave ostrich eggs their natural color,      
 
 131
 00:08:11,024 --> 00:08:13,291
-       here she's decided       
-         to give the lid        
+here she's decided to give the lid        
 
 132
 00:08:13,293 --> 00:08:15,026
-  a thin coat of acrylic paint. 
+a thin coat of acrylic paint. 
 
 133
 00:08:15,028 --> 00:08:17,829
-       for the lower half,      
-    she chooses a dark tone.    
+for the lower half, she chooses a dark tone.    
 
 134
 00:08:17,831 --> 00:08:20,498
-    acrylic paint allows her    
-        to work quickly,        
+acrylic paint allows her to work quickly,        
 
 135
 00:08:20,500 --> 00:08:23,535
-           as it tries          
-     in just a few seconds.     
+as it tries in just a few seconds.     
 
 136
 00:08:28,242 --> 00:08:30,374
-  next, she uses a special glue 
+next, she uses a special glue 
 
 137
 00:08:30,376 --> 00:08:34,245
-  to collage strips of japanese 
-    rice paper onto the egg.    
+to collage strips of japanese rice paper onto the egg.    
 
 138
 00:08:34,247 --> 00:08:38,383
-   she layers small pieces to   
+she layers small pieces to   
 achieve a tortoise-shell finish.
 
 139
 00:08:48,529 --> 00:08:51,129
-   she's ready to set the egg   
-          on its stand,         
+she's ready to set the egg on its stand,         
 
 140
 00:08:51,131 --> 00:08:54,532
 so she coats the rim with epoxy,
-     then sets the egg down,    
+then sets the egg down,    
 
 141
 00:08:54,534 --> 00:08:58,036
- making sure the hinge is level 
-      with the stand's rim.     
+making sure the hinge is level with the stand's rim.     
 
 142
 00:09:00,741 --> 00:09:04,475
-    the artist now turns her    
+the artist now turns her    
 attention to the egg's interior.
 
 143
 00:09:04,477 --> 00:09:07,211
-        she lightly glues       
-      perfumed cotton balls     
+she lightly glues perfumed cotton balls     
 
 144
 00:09:07,213 --> 00:09:09,948
-           to fill out          
-    the top and bottom parts.   
+to fill out the top and bottom parts.   
 
 145
 00:09:09,950 --> 00:09:12,951
-      then she applies glue     
-      along the inner rims      
+then she applies glue along the inner rims      
 
 146
 00:09:12,953 --> 00:09:16,021
-      and clips on a piece      
-         of ivory satin.        
+and clips on a piece of ivory satin.        
 
 147
 00:09:16,023 --> 00:09:19,624
-    by the time she makes it    
-       around both halves,      
+by the time she makes it around both halves,      
 
 148
 00:09:19,626 --> 00:09:21,426
-    she can remove the clips.   
+she can remove the clips.   
 
 149
 00:09:21,428 --> 00:09:24,129
-      the fabric now holds      
-        firmly in place.        
+the fabric now holds firmly in place.        
 
 150
 00:09:30,503 --> 00:09:34,739
- next, she glues a fabric braid 
-    to trim the satin's edge.   
+next, she glues a fabric braid to trim the satin's edge.   
 
 151
 00:09:37,844 --> 00:09:41,779
-  here, the artist lays down a  
- delicate strand of rhinestones.
+here, the artist lays down a delicate strand of rhinestones.
 
 152
 00:09:41,781 --> 00:09:43,247
-      she applies more glue     
+she applies more glue     
 
 153
 00:09:43,249 --> 00:09:46,151
-      to add another braid      
-     along the lower rim...     
+to add another braid along the lower rim...     
 
 154
 00:09:47,787 --> 00:09:51,590
-  ...then places a final strand 
-     to complete the effect.    
+...then places a final strand to complete the effect.    
 
 155
 00:09:57,263 --> 00:09:59,264
-  she sets in a tiny rhinestone 
+she sets in a tiny rhinestone 
 
 156
 00:09:59,266 --> 00:10:03,334
-    to decorate the metallic    
- filigree that hides the hinges.
+to decorate the metallic filigree that hides the hinges.
 
 157
 00:10:03,336 --> 00:10:06,805
-    even the egg's underside    
-    gets special attention.     
+even the egg's underside gets special attention.     
 
 158
 00:10:06,807 --> 00:10:08,273
-   she glues another filigree   
+she glues another filigree   
 
 159
 00:10:08,275 --> 00:10:11,142
- to cover the hole through which
-      they emptied the egg,     
+to cover the hole through which
+they emptied the egg,     
 
 160
 00:10:11,144 --> 00:10:13,478
-          then applies          
-     a water-based varnish.     
+then applies a water-based varnish.     
 
 161
 00:10:13,480 --> 00:10:16,748
-    this strengthens the egg    
-  and gives it a glossy finish. 
+this strengthens the egg and gives it a glossy finish. 
 
 162
 00:10:17,617 --> 00:10:19,751
-  here's the finished piece --  
+here's the finished piece --  
 
 163
 00:10:19,753 --> 00:10:21,219
-     a delicate jewelry box     
+a delicate jewelry box     
 
 164
 00:10:21,221 --> 00:10:23,888
-    that opens with the help    
-         of a fine chain        
+that opens with the help of a fine chain        
 
 165
 00:10:23,890 --> 00:10:26,891
-  to reveal its satin interior. 
+to reveal its satin interior. 
 
 166
 00:10:26,893 --> 00:10:29,160
@@ -790,102 +680,85 @@ there's no end to the creativity
 
 167
 00:10:29,162 --> 00:10:32,364
-     that goes into making      
-     these decorative eggs.     
+that goes into making these decorative eggs.     
 
 168
 00:10:34,368 --> 00:10:38,069
-           this model           
- even has a music box built in. 
+this model even has a music box built in. 
 
 169
 00:10:49,783 --> 00:10:51,649
-    narrator: precision tools   
-    that perform their tasks    
+narrator: precision tools that perform their tasks    
 
 170
 00:10:51,651 --> 00:10:53,184
-     with split-second speed    
-          and accuracy          
+with split-second speed and accuracy          
 
 171
 00:10:53,186 --> 00:10:55,920
-         are key in jobs        
- where time is off the essence. 
+are key in jobs where time is off the essence. 
 
 172
 00:10:55,922 --> 00:10:59,390
- take for example the nozzle at 
- the end of a firefighting hose.
+take for example the nozzle at the end of a firefighting hose.
 
 173
 00:10:59,392 --> 00:11:00,725
-     it allows a firefighter    
+it allows a firefighter    
 
 174
 00:11:00,727 --> 00:11:03,862
-     to regular the pressure    
- of the water exiting the hose, 
+to regular the pressure of the water exiting the hose, 
 
 175
 00:11:03,864 --> 00:11:07,065
-     no matter how confined     
-    or widespread the flames.   
+no matter how confined or widespread the flames.   
 
 176
 00:11:11,204 --> 00:11:14,805
-    a fire-hose nozzle isn't    
+a fire-hose nozzle isn't    
 a simple point-and-shoot device.
 
 177
 00:11:14,807 --> 00:11:17,742
-     it enables firefighters    
-     to tailor their tactics    
+it enables firefighters to tailor their tactics    
 
 178
 00:11:17,744 --> 00:11:21,613
-   by firing water in a stream  
-            or flush.           
+by firing water in a stream or flush.           
 
 179
 00:11:21,615 --> 00:11:25,550
-        production begins       
-   with a long aluminum tube.   
+production begins with a long aluminum tube.   
 
 180
 00:11:25,552 --> 00:11:29,287
- a saw slices off 6-inch pieces 
-         called blanks.         
+a saw slices off 6-inch pieces called blanks.         
 
 181
 00:11:29,289 --> 00:11:32,824
-          just one tube         
-     makes about 46 blanks.     
+just one tube makes about 46 blanks.     
 
 182
 00:11:34,761 --> 00:11:38,963
-   a robotic arms swoops down   
-  to transport them to a lathe. 
+a robotic arms swoops down to transport them to a lathe. 
 
 183
 00:11:43,570 --> 00:11:45,970
-          cutting tools         
-      form the valve body,      
+cutting tools form the valve body,      
 
 184
 00:11:45,972 --> 00:11:48,373
-     which controls the flow    
-            of water.           
+which controls the flow of water.           
 
 185
 00:11:48,375 --> 00:11:52,010
- then they rough up the surface,
-    making it easier to grip.   
+then they rough up the surface,
+making it easier to grip.   
 
 186
 00:11:59,118 --> 00:12:01,986
-     they make a ball groove    
-       on the outside rim       
+they make a ball groove on the outside rim       
 
 187
 00:12:01,988 --> 00:12:04,055
@@ -893,306 +766,264 @@ for attaching the hose coupling.
 
 188
 00:12:04,057 --> 00:12:06,124
-  next, they form the interior. 
+next, they form the interior. 
 
 189
 00:12:06,126 --> 00:12:08,793
-       technicians verify       
-       the inside shaping       
+technicians verify the inside shaping       
 
 190
 00:12:08,795 --> 00:12:12,196
- with computer-imaging software.
+with computer-imaging software.
 
 191
 00:12:12,198 --> 00:12:14,132
- it's on to the milling process.
+it's on to the milling process.
 
 192
 00:12:14,134 --> 00:12:17,001
-     a computer-guided drill    
-       bores several holes      
+a computer-guided drill bores several holes      
 
 193
 00:12:17,003 --> 00:12:19,003
-         for the nozzle         
-      and grip attachments.     
+for the nozzle and grip attachments.     
 
 194
 00:12:19,005 --> 00:12:21,806
-       coolant washes away      
-         the metal chips        
+coolant washes away the metal chips        
 
 195
 00:12:21,808 --> 00:12:24,942
-     and keeps the drill bit    
-        from overheating.       
+and keeps the drill bit from overheating.       
 
 196
 00:12:24,944 --> 00:12:28,346
-       the transformation       
-   from a blank to valve body   
+the transformation from a blank to valve body   
 
 197
 00:12:28,348 --> 00:12:31,082
-    is structurally complete.   
+is structurally complete.   
 
 198
 00:12:31,084 --> 00:12:34,352
-      a laser now engraves      
-      the flow indication.      
+a laser now engraves the flow indication.      
 
 199
 00:12:38,624 --> 00:12:40,825
- workers install rubber o-rings 
+workers install rubber o-rings 
 
 200
 00:12:40,827 --> 00:12:43,962
-    on a mandrel shaped like    
-    the valve-body interior.    
+on a mandrel shaped like the valve-body interior.    
 
 201
 00:12:43,964 --> 00:12:45,429
-      the rings keep water      
+the rings keep water      
 
 202
 00:12:45,431 --> 00:12:48,166
-    from leaking out the side   
-         of the nozzle.         
+from leaking out the side of the nozzle.         
 
 203
 00:12:48,168 --> 00:12:51,168
-  they position the valve body  
-        over the mandrel        
+they position the valve body over the mandrel        
 
 204
 00:12:51,170 --> 00:12:54,072
-  and blow the rings into place 
-      with a blast of air.      
+and blow the rings into place with a blast of air.      
 
 205
 00:12:58,644 --> 00:13:01,312
-       automated machines       
-     now mate the valve body    
+automated machines now mate the valve body    
 
 206
 00:13:01,314 --> 00:13:03,982
-     to the nozzle's handle.    
+to the nozzle's handle.    
 
 207
 00:13:08,855 --> 00:13:11,455
-          a heated mold         
-     melts granulated rubber    
+a heated mold melts granulated rubber    
 
 208
 00:13:11,457 --> 00:13:15,192
-    and casts it into ridges    
+and casts it into ridges    
 at the top of a rubber cylinder.
 
 209
 00:13:15,194 --> 00:13:18,596
-     this makes the shaper,     
-  the nozzle's adjustable head  
+this makes the shaper, the nozzle's adjustable head  
 
 210
 00:13:18,598 --> 00:13:22,400
-  that switches the water from  
+that switches the water from  
 a wide spray to a narrow stream.
 
 211
 00:13:22,402 --> 00:13:24,869
-        workers snip off        
-       any excess rubber,       
+workers snip off any excess rubber,       
 
 212
 00:13:24,871 --> 00:13:27,639
-     then ensure the rubber     
-       is solidly molded.       
+then ensure the rubber is solidly molded.       
 
 213
 00:13:30,743 --> 00:13:33,011
-     next, they apply grease    
-          to the inside         
+next, they apply grease to the inside         
 
 214
 00:13:33,013 --> 00:13:35,947
-     to lubricate the parts     
-     and prevent corrosion.     
+to lubricate the parts and prevent corrosion.     
 
 215
 00:13:35,949 --> 00:13:37,882
-  two more o-rings are inserted 
+two more o-rings are inserted 
 
 216
 00:13:37,884 --> 00:13:40,718
- to keep water from leaking out 
-        under the shaper.       
+to keep water from leaking out under the shaper.       
 
 217
 00:13:43,823 --> 00:13:46,156
-   using a specially designed   
-             spoon,             
+using a specially designed spoon,             
 
 218
 00:13:46,158 --> 00:13:48,893
-          they scoop up         
-   tiny, plastic ball bearings  
+they scoop up tiny, plastic ball bearings  
 
 219
 00:13:48,895 --> 00:13:51,562
-   and drop them into a groove  
-         in the shaper.         
+and drop them into a groove in the shaper.         
 
 220
 00:13:51,564 --> 00:13:54,232
-     these allow the shaper     
-        to rotate easily.       
+these allow the shaper to rotate easily.       
 
 221
 00:13:54,234 --> 00:13:56,634
-      the shaper then goes      
-        over a barrel --        
+the shaper then goes over a barrel --        
 
 222
 00:13:56,636 --> 00:13:59,237
-     a metal tube that helps    
-    form the stream of water.   
+a metal tube that helps form the stream of water.   
 
 223
 00:13:59,239 --> 00:14:00,705
-          to attach it,         
+to attach it,         
 
 224
 00:14:00,707 --> 00:14:04,509
-  they apply an adhesive to the 
-  threads on the shaper's base, 
+they apply an adhesive to the threads on the shaper's base, 
 
 225
 00:14:04,511 --> 00:14:07,145
- then slide the part into place.
+then slide the part into place.
 
 226
 00:14:10,783 --> 00:14:14,385
- workers insert a pair of hard  
- plastic balls into the shaper. 
+workers insert a pair of hard plastic balls into the shaper. 
 
 227
 00:14:14,387 --> 00:14:18,055
 these enable the shaper to glide
-  back and forth on the barrel  
+back and forth on the barrel  
 
 228
 00:14:18,057 --> 00:14:20,158
-   to shape the water stream.   
+to shape the water stream.   
 
 229
 00:14:22,596 --> 00:14:24,995
-          now it's time         
-    to build the sub-baffle,    
+now it's time to build the sub-baffle,    
 
 230
 00:14:24,997 --> 00:14:27,865
-      the nozzle component      
-  that controls water pressure. 
+the nozzle component that controls water pressure. 
 
 231
 00:14:27,867 --> 00:14:30,601
-        first they insert       
-  a pressure-regulation spring  
+first they insert a pressure-regulation spring  
 
 232
 00:14:30,603 --> 00:14:31,869
-      into the baffle body,     
+into the baffle body,     
 
 233
 00:14:31,871 --> 00:14:33,337
-      then snap on a knob,      
+then snap on a knob,      
 
 234
 00:14:33,339 --> 00:14:37,575
- which changes between standard 
+which changes between standard 
 water pressure and low pressure.
 
 235
 00:14:38,878 --> 00:14:41,646
-     the whole device slides    
-    directly into the barrel.   
+the whole device slides directly into the barrel.   
 
 236
 00:14:49,222 --> 00:14:53,891
- on the other end of the barrel,
-  they screw on the valve body. 
+on the other end of the barrel,
+they screw on the valve body. 
 
 237
 00:14:53,893 --> 00:14:57,228
-        a rotating wheel        
-    simplifies this process.    
+a rotating wheel simplifies this process.    
 
 238
 00:14:57,230 --> 00:15:00,632
-         they now affix         
-      a pistol-style grip.      
+they now affix a pistol-style grip.      
 
 239
 00:15:00,634 --> 00:15:04,302
-   finally, the gasket grabber  
-            goes in.            
+finally, the gasket grabber goes in.            
 
 240
 00:15:04,304 --> 00:15:06,971
-     the steel screen keeps     
-   out nozzle-clogging debris   
+the steel screen keeps out nozzle-clogging debris   
 
 241
 00:15:06,973 --> 00:15:08,706
-      coming from the hose.     
+coming from the hose.     
 
 242
 00:15:08,708 --> 00:15:11,909
-    with the nozzle assembly    
-          now complete,         
+with the nozzle assembly now complete,         
 
 243
 00:15:11,911 --> 00:15:14,379
-  it's time for what they call  
-           a damp run.          
+it's time for what they call a damp run.          
 
 244
 00:15:14,381 --> 00:15:15,913
-    workers check everything    
+workers check everything    
 
 245
 00:15:15,915 --> 00:15:18,916
-      to ensure the nozzle      
-        performs its task       
+to ensure the nozzle performs its task       
 
 246
 00:15:18,918 --> 00:15:20,485
-    at every twist and turn.    
+at every twist and turn.    
 
 247
 00:15:24,924 --> 00:15:28,192
-  from the old-fashioned nozzle 
-      to the modern variety     
+from the old-fashioned nozzle to the modern variety     
 
 248
 00:15:28,194 --> 00:15:31,996
-   that comes in an assortment  
- of flows, pressures, and sizes,
+that comes in an assortment of flows, pressures, and sizes,
 
 249
 00:15:31,998 --> 00:15:34,599
-          the evolution         
-    of the fire-house nozzle    
+the evolution of the fire-house nozzle    
 
 250
 00:15:34,601 --> 00:15:36,868
-   is undoubtedly a lifesaver.  
+is undoubtedly a lifesaver.  
 
 251
 00:15:48,615 --> 00:15:50,348
-    narrator: when they make    
-    baseballs for the pros,     
+narrator: when they make baseballs for the pros,     
 
 252
 00:15:50,350 --> 00:15:51,549
@@ -1201,17 +1032,16 @@ they aren't just playing around.
 253
 00:15:51,551 --> 00:15:55,153
 they build these balls precisely
-      to league standards.      
+to league standards.      
 
 254
 00:15:55,155 --> 00:15:58,690
- and incredibly, those standards
-       date back to 1872.       
+and incredibly, those standards
+date back to 1872.       
 
 255
 00:15:58,692 --> 00:16:02,360
-      each ball is uniform      
-   in circumference and weight  
+each ball is uniform in circumference and weight  
 
 256
 00:16:02,362 --> 00:16:04,929
@@ -1219,127 +1049,110 @@ so the game is an equal contest.
 
 257
 00:16:09,969 --> 00:16:13,571
-  crowds will go wild for these 
-     professional baseballs.    
+crowds will go wild for these professional baseballs.    
 
 258
 00:16:13,573 --> 00:16:17,308
-  and at the heart of each one  
-  is something called the pill. 
+and at the heart of each one is something called the pill. 
 
 259
 00:16:17,310 --> 00:16:19,844
-       the pill is smaller      
-        than a golf ball.       
+the pill is smaller than a golf ball.       
 
 260
 00:16:19,846 --> 00:16:22,846
-     it's about 4 1/2 inches    
-        in circumference.       
+it's about 4 1/2 inches in circumference.       
 
 261
 00:16:22,848 --> 00:16:26,517
- inside the pill's rubber casing
-      is a sphere of cork.      
+inside the pill's rubber casing
+is a sphere of cork.      
 
 262
 00:16:28,588 --> 00:16:30,254
-    they pour latex adhesive    
+they pour latex adhesive    
 
 263
 00:16:30,256 --> 00:16:33,291
-     over hundreds of pills     
-       loaded into a drum.      
+over hundreds of pills loaded into a drum.      
 
 264
 00:16:37,397 --> 00:16:40,398
-      rollers spin the drum     
-    to evenly coat the pills    
+rollers spin the drum to evenly coat the pills    
 
 265
 00:16:40,400 --> 00:16:42,300
-       with the adhesive.       
+with the adhesive.       
 
 266
 00:16:44,204 --> 00:16:46,738
-          this adhesive         
-   never dries out completely,  
+this adhesive never dries out completely,  
 
 267
 00:16:46,740 --> 00:16:49,474
-   and the pills remain sticky  
-          to the touch.         
+and the pills remain sticky to the touch.         
 
 268
 00:16:52,611 --> 00:16:56,346
-  next, they loop four-ply wool 
-        around the pill.        
+next, they loop four-ply wool around the pill.        
 
 269
 00:16:56,348 --> 00:17:00,618
-   this machine spins the pill  
-   to wind the yarn around it.  
+this machine spins the pill to wind the yarn around it.  
 
 270
 00:17:00,620 --> 00:17:04,354
-   this winding substantially   
-        fattens the pill.       
+this winding substantially fattens the pill.       
 
 271
 00:17:04,356 --> 00:17:06,824
-  it's the first time a camera  
-      has ever been allowed     
+it's the first time a camera has ever been allowed     
 
 272
 00:17:06,826 --> 00:17:09,560
-            to record           
-    this proprietary machine,   
+to record this proprietary machine,   
 
 273
 00:17:09,562 --> 00:17:11,896
- so we can't show you all of it.
+so we can't show you all of it.
 
 274
 00:17:14,233 --> 00:17:17,635
 they wind a second layer of wool
-        around the pills.       
+around the pills.       
 
 275
 00:17:17,637 --> 00:17:21,839
- this yarn is three-ply, and it 
+this yarn is three-ply, and it 
 thickens the ball a little more.
 
 276
 00:17:21,841 --> 00:17:23,240
-      for a third winding,      
+for a third winding,      
 
 277
 00:17:23,242 --> 00:17:26,978
-   they use another three-play  
-  yard, but it's a bit lighter. 
+they use another three-play yard, but it's a bit lighter. 
 
 278
 00:17:26,980 --> 00:17:28,713
-   the various layers of yarn   
+the various layers of yarn   
 
 279
 00:17:28,715 --> 00:17:31,315
-   are what give the baseball   
-           resilience,          
+are what give the baseball resilience,          
 
 280
 00:17:31,317 --> 00:17:35,086
-  so it springs back into shape 
-  despite being hit repeatedly. 
+so it springs back into shape despite being hit repeatedly. 
 
 281
 00:17:36,322 --> 00:17:37,655
-     for the final winding,     
+for the final winding,     
 
 282
 00:17:37,657 --> 00:17:40,057
-     they use a much thinner    
-         poly/wool blend        
+they use a much thinner poly/wool blend        
 
 283
 00:17:40,059 --> 00:17:42,393
@@ -1347,236 +1160,201 @@ because its surface is smoother.
 
 284
 00:17:45,398 --> 00:17:48,866
-    this wound pill is called   
-           the center.          
+this wound pill is called the center.          
 
 285
 00:17:48,868 --> 00:17:52,270
-          they weigh it         
- and measure its circumference, 
+they weigh it and measure its circumference, 
 
 286
 00:17:52,272 --> 00:17:55,073
-         which should be        
-       about nine inches.       
+which should be about nine inches.       
 
 287
 00:17:58,678 --> 00:18:02,480
-        they add adhesive       
-       to a spinning drum,      
+they add adhesive to a spinning drum,      
 
 288
 00:18:02,482 --> 00:18:04,415
- then load the centers into it. 
+then load the centers into it. 
 
 289
 00:18:06,819 --> 00:18:09,687
-     as the centers tumble,     
-     they absorb the glue,      
+as the centers tumble, they absorb the glue,      
 
 290
 00:18:09,689 --> 00:18:12,423
-      and the wound fibers      
-      adhere to each other.     
+and the wound fibers adhere to each other.     
 
 291
 00:18:15,495 --> 00:18:19,697
 the centers air dry for 48 hours
-       but remain sticky.       
+but remain sticky.       
 
 292
 00:18:22,502 --> 00:18:24,502
-   using this hydraulic press,  
+using this hydraulic press,  
 
 293
 00:18:24,504 --> 00:18:27,171
-   they punch out figure-eight  
-      shapes from leather,      
+they punch out figure-eight shapes from leather,      
 
 294
 00:18:27,173 --> 00:18:29,573
-       complete with holes      
-      around the periphery,     
+complete with holes around the periphery,     
 
 295
 00:18:29,575 --> 00:18:32,510
-  allowing them to be stitched  
-      into baseball covers.     
+allowing them to be stitched into baseball covers.     
 
 296
 00:18:33,713 --> 00:18:37,248
- but first, they stamp the date 
-    and lot number onto them.   
+but first, they stamp the date and lot number onto them.   
 
 297
 00:18:39,719 --> 00:18:41,852
-       then they wrap them      
-         in wet towels.         
+then they wrap them in wet towels.         
 
 298
 00:18:41,854 --> 00:18:44,989
-   the moisture will make the   
- leather pliable enough to sew. 
+the moisture will make the leather pliable enough to sew. 
 
 299
 00:18:50,329 --> 00:18:52,396
-            they roll           
-    the water-based adhesive    
+they roll the water-based adhesive    
 
 300
 00:18:52,398 --> 00:18:53,998
-  onto one side of the cutouts, 
+onto one side of the cutouts, 
 
 301
 00:18:54,000 --> 00:18:57,267
-          which sticks          
-      to the moist leather.     
+which sticks to the moist leather.     
 
 302
 00:18:57,269 --> 00:19:01,338
-     they press two cutouts     
- to the center's sticky surface.
+they press two cutouts to the center's sticky surface.
 
 303
 00:19:01,340 --> 00:19:02,807
-       it's an exact fit.       
+it's an exact fit.       
 
 304
 00:19:06,879 --> 00:19:12,550
-   they clamp the leather ball  
+they clamp the leather ball  
 in a vice, and it's time to sew.
 
 305
 00:19:12,552 --> 00:19:13,884
-    working with two needles,   
+working with two needles,   
 
 306
 00:19:13,886 --> 00:19:16,354
-     the sewer pulls thread     
-    through the ball's center   
+the sewer pulls thread through the ball's center   
 
 307
 00:19:16,356 --> 00:19:18,889
-    and up through the holes    
-      in the leather pieces     
+and up through the holes in the leather pieces     
 
 308
 00:19:18,891 --> 00:19:21,959
- to cross-stitch them together. 
+to cross-stitch them together. 
 
 309
 00:19:21,961 --> 00:19:24,495
-    he rubs wax on the thread   
-         to stiffen it,         
+he rubs wax on the thread to stiffen it,         
 
 310
 00:19:24,497 --> 00:19:27,765
-     because if it slackens,    
-   it's more likely to tangle.  
+because if it slackens, it's more likely to tangle.  
 
 311
 00:19:27,767 --> 00:19:29,967
-          when it comes         
-       to cross-stitching,      
+when it comes to cross-stitching,      
 
 312
 00:19:29,969 --> 00:19:33,104
-  these workers are in a league 
-          of their own.         
+these workers are in a league of their own.         
 
 313
 00:19:36,976 --> 00:19:41,179
-     they make quick work of    
- the 108 stitches in each ball. 
+they make quick work of the 108 stitches in each ball. 
 
 314
 00:19:41,181 --> 00:19:44,315
-      there are 350 sewers      
-        in this factory,        
+there are 350 sewers in this factory,        
 
 315
 00:19:44,317 --> 00:19:47,185
-        and they produce        
- 8,000 to 10,000 balls per day. 
+and they produce 8,000 to 10,000 balls per day. 
 
 316
 00:19:47,187 --> 00:19:49,453
-   that's a lot of home runs.   
+that's a lot of home runs.   
 
 317
 00:19:55,928 --> 00:19:58,729
-  the final stitch goes through 
-   the center of the baseball   
+the final stitch goes through the center of the baseball   
 
 318
 00:19:58,731 --> 00:20:00,731
-     and out the other side.    
+and out the other side.    
 
 319
 00:20:00,733 --> 00:20:05,402
-  the sewer then pulls stitches 
-    into a "v" configuration    
+the sewer then pulls stitches into a "v" configuration    
 
 320
 00:20:05,404 --> 00:20:08,506
-        to give the ball        
-   a consistent look and feel.  
+to give the ball a consistent look and feel.  
 
 321
 00:20:10,476 --> 00:20:14,745
- the balls now roll into a press
-  that smoothes down the seams. 
+the balls now roll into a press
+that smoothes down the seams. 
 
 322
 00:20:14,747 --> 00:20:17,415
-         smoother balls         
-       are harder to grip,      
+smoother balls are harder to grip,      
 
 323
 00:20:17,417 --> 00:20:20,351
-     and they make pitching     
-   a bit tougher for the pros.  
+and they make pitching a bit tougher for the pros.  
 
 324
 00:20:20,353 --> 00:20:23,620
- finally, a three-headed stamper
-     gives it the trademark,    
+finally, a three-headed stamper
+gives it the trademark,    
 
 325
 00:20:23,622 --> 00:20:26,757
-        league logo, and        
-  the commissioner's signature. 
+league logo, and the commissioner's signature. 
 
 326
 00:20:30,229 --> 00:20:31,562
-       with drying cycles,      
+with drying cycles,      
 
 327
 00:20:31,564 --> 00:20:34,898
-    it takes a week to make     
-    a professional baseball.    
+it takes a week to make a professional baseball.    
 
 328
 00:20:34,900 --> 00:20:38,369
- it will be whacked and slammed 
-    out of the playing field.   
+it will be whacked and slammed out of the playing field.   
 
 329
 00:20:38,371 --> 00:20:40,705
-         but that's life        
-       in the big leagues.      
+but that's life in the big leagues.      
 
 330
 00:20:46,980 --> 00:20:49,313
-    if you have any comments    
-         about the show         
+if you have any comments about the show         
 
 331
 00:20:49,315 --> 00:20:52,183
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 332
 00:20:52,185 --> 00:20:54,852
-      drop us a line at...      
+drop us a line at...      
 

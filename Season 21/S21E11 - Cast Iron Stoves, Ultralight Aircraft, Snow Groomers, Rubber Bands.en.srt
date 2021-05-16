@@ -1,18 +1,14 @@
 ﻿1
 00:00:01,802 --> 00:00:04,937
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,939 --> 00:00:07,907
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:53,388 --> 00:00:56,655
-           narrator:            
-   cast-iron stoves have been   
-    adding warmth to people's l 
+narrator: cast-iron stoves have been adding warmth to people's l 
 
 4
 00:00:56,657 --> 00:00:58,724
@@ -20,85 +16,71 @@ for more than three centuries.
 
 5
 00:00:58,726 --> 00:01:02,461
-  today there are new reasons   
- to cozy up to this invention.  
+today there are new reasons to cozy up to this invention.  
 
 6
 00:01:02,463 --> 00:01:04,196
-   it's had a major update.     
+it's had a major update.     
 
 7
 00:01:04,198 --> 00:01:07,600
-    modern stoves burn wood     
- more cleanly and efficiently,  
+modern stoves burn wood more cleanly and efficiently,  
 
 8
 00:01:07,602 --> 00:01:08,801
-        providing heat          
+providing heat          
 
 9
 00:01:08,803 --> 00:01:11,370
-   without the dirty fallout    
-       from the chimney.        
+without the dirty fallout from the chimney.        
 
 10
 00:01:15,743 --> 00:01:18,811
-    modern cast-iron stoves     
-        hardly resemble         
+modern cast-iron stoves hardly resemble         
 
 11
 00:01:18,813 --> 00:01:22,080
-     their smoke-belching,      
-  soot-spewing predecessors.    
+their smoke-belching, soot-spewing predecessors.    
 
 12
 00:01:22,082 --> 00:01:24,617
-       the design creates       
-        a hotter fire,          
+the design creates a hotter fire,          
 
 13
 00:01:24,619 --> 00:01:28,353
-    so it requires less fuel    
-  and releases little smoke.    
+so it requires less fuel and releases little smoke.    
 
 14
 00:01:28,355 --> 00:01:32,091
-         it all starts          
-  with a pile of iron scrap,    
+it all starts with a pile of iron scrap,    
 
 15
 00:01:32,093 --> 00:01:37,530
- things like old stoves, sinks, 
-   brake drums, and rotors.     
+things like old stoves, sinks, brake drums, and rotors.     
 
 16
 00:01:40,101 --> 00:01:44,036
-       a magnetized crane       
-      transfers the scrap       
+a magnetized crane transfers the scrap       
 
 17
 00:01:44,038 --> 00:01:46,839
- to a propane-fired preheater.  
+to a propane-fired preheater.  
 
 18
 00:01:49,777 --> 00:01:51,577
-           12 minutes           
-    spent in the preheater      
+12 minutes spent in the preheater      
 
 19
 00:01:51,579 --> 00:01:54,847
-        removes moisture        
-     from the iron scrap.       
+removes moisture from the iron scrap.       
 
 20
 00:01:54,849 --> 00:01:57,850
-         the scrap iron         
-     spills into a hopper       
+the scrap iron spills into a hopper       
 
 21
 00:01:57,852 --> 00:02:01,087
-        that funnels it         
-   into an electric furnace.    
+that funnels it into an electric furnace.    
 
 22
 00:02:03,591 --> 00:02:05,590
@@ -106,284 +88,233 @@ the temperature in the furnace
 
 23
 00:02:05,592 --> 00:02:08,193
-        is a blistering         
-   2,700 degrees fahrenheit,    
+is a blistering 2,700 degrees fahrenheit,    
 
 24
 00:02:08,195 --> 00:02:12,798
-       and the iron melts       
-     into a fiery liquid.       
+and the iron melts into a fiery liquid.       
 
 25
 00:02:12,800 --> 00:02:16,001
-       the furnace tilts        
-    to pour the molten iron     
+the furnace tilts to pour the molten iron     
 
 26
 00:02:16,003 --> 00:02:18,671
-  into a ladle for transfer.    
+into a ladle for transfer.    
 
 27
 00:02:26,547 --> 00:02:29,347
-   next, they make the molds    
-      of the stove parts,       
+next, they make the molds of the stove parts,       
 
 28
 00:02:29,349 --> 00:02:32,951
-   using a mix of sand, clay,   
-       water, and coal.         
+using a mix of sand, clay, water, and coal.         
 
 29
 00:02:32,953 --> 00:02:37,022
-   they blow the ingredients    
+they blow the ingredients    
 between the aluminum patterns.  
 
 30
 00:02:37,024 --> 00:02:42,028
-  a hydraulic system squeezes   
-    the patterns together.      
+a hydraulic system squeezes the patterns together.      
 
 31
 00:02:42,030 --> 00:02:47,365
-    the sand mix compacts and   
-              takes             
-  the shape of the patterns.    
+the sand mix compacts and takes the shape of the patterns.    
 
 32
 00:02:47,367 --> 00:02:49,635
-   they now have sand molds.    
+they now have sand molds.    
 
 33
 00:02:54,708 --> 00:02:56,375
-    the molten iron arrives     
+the molten iron arrives     
 
 34
 00:02:56,377 --> 00:03:00,312
-    and flows into a channel    
-     leading to the molds.      
+and flows into a channel leading to the molds.      
 
 35
 00:03:00,314 --> 00:03:02,314
-  as the liquid metal cools,    
+as the liquid metal cools,    
 
 36
 00:03:02,316 --> 00:03:05,650
-  it solidifies into the shape  
-         of the mold.           
+it solidifies into the shape of the mold.           
 
 37
 00:03:05,652 --> 00:03:10,790
-  a vibrating conveyor shakes   
-   and breaks the sand molds    
+a vibrating conveyor shakes and breaks the sand molds    
 
 38
 00:03:10,792 --> 00:03:15,861
-           to reveal            
-  the cast-iron stove parts.    
+to reveal the cast-iron stove parts.    
 
 39
 00:03:15,863 --> 00:03:18,931
-      a worker knocks off       
-        unwanted bits,          
+a worker knocks off unwanted bits,          
 
 40
 00:03:18,933 --> 00:03:21,434
-            and then            
-  it's into a blast cleaner.    
+and then it's into a blast cleaner.    
 
 41
 00:03:23,805 --> 00:03:26,004
-   inside the blast cleaner,    
+inside the blast cleaner,    
 
 42
 00:03:26,006 --> 00:03:28,808
-      steel grit bombards       
-        the stove parts         
+steel grit bombards the stove parts         
 
 43
 00:03:28,810 --> 00:03:32,010
-       to remove remnants       
-       of the sand molds        
+to remove remnants of the sand molds        
 
 44
 00:03:32,012 --> 00:03:33,879
-     and expose the metal.      
+and expose the metal.      
 
 45
 00:03:37,618 --> 00:03:43,222
- essentially it blasts the dirt 
- off, and they come out clean.  
+essentially it blasts the dirt off, and they come out clean.  
 
 46
 00:03:43,224 --> 00:03:47,092
-  an employee grinds the edges  
-   of the metal stove parts.    
+an employee grinds the edges of the metal stove parts.    
 
 47
 00:03:47,094 --> 00:03:49,028
- he blends in the line created  
+he blends in the line created  
 
 48
 00:03:49,030 --> 00:03:52,631
-   where the two parts of the   
-              mold              
- came together during casting.  
+where the two parts of the mold came together during casting.  
 
 49
 00:03:54,502 --> 00:03:57,836
-   it takes 40 parts to make    
-    one woodburning stove,      
+it takes 40 parts to make one woodburning stove,      
 
 50
 00:03:57,838 --> 00:04:01,574
-    and each one is cast in     
-     a sand mold made from a    
-            pattern.            
+and each one is cast in a sand mold made from a pattern.            
 
 51
 00:04:05,445 --> 00:04:08,313
- next, a worker drills threads  
-         for the bolts          
+next, a worker drills threads for the bolts          
 
 52
 00:04:08,315 --> 00:04:11,250
-  that will hold all the parts  
-    of the stove together.      
+that will hold all the parts of the stove together.      
 
 53
 00:04:15,790 --> 00:04:19,859
- once the surface of the parts  
-       has been prepped,        
+once the surface of the parts has been prepped,        
 
 54
 00:04:19,861 --> 00:04:25,997
-  they spray an enamel coating  
-   onto them and bake it on.    
+they spray an enamel coating onto them and bake it on.    
 
 55
 00:04:25,999 --> 00:04:28,800
-     a laser then cuts out      
-      a steel heat shield       
+a laser then cuts out a steel heat shield       
 
 56
 00:04:28,802 --> 00:04:31,403
-    for the back of the wood    
-             stove.             
+for the back of the wood stove.             
 
 57
 00:04:31,405 --> 00:04:35,074
-       the intricate cuts       
-     are computer driven.       
+the intricate cuts are computer driven.       
 
 58
 00:04:38,612 --> 00:04:43,482
-     an employee bends the      
- heat shield to fit the stove.  
+an employee bends the heat shield to fit the stove.  
 
 59
 00:04:43,484 --> 00:04:46,352
-      next, a worker packs      
-       a kind of mortar         
+next, a worker packs a kind of mortar         
 
 60
 00:04:46,354 --> 00:04:49,154
-      into a silicone mold      
-        of the firebox.         
+into a silicone mold of the firebox.         
 
 61
 00:04:49,156 --> 00:04:52,491
-   the table its on vibrates    
-    to settle the material      
+the table its on vibrates to settle the material      
 
 62
 00:04:52,493 --> 00:04:54,559
-   and eliminate air pockets    
+and eliminate air pockets    
 
 63
 00:04:54,561 --> 00:04:58,764
-  so the firebox will be able   
-        to withstand high       
-         temperatures.          
+so the firebox will be able to withstand high temperatures.          
 
 64
 00:04:58,766 --> 00:05:00,499
-   the shape of the firebox     
+the shape of the firebox     
 
 65
 00:05:00,501 --> 00:05:04,035
-   is crucial to the stove's    
-      energy efficiency,        
+is crucial to the stove's energy efficiency,        
 
 66
 00:05:04,037 --> 00:05:07,840
-      and so are the holes      
+and so are the holes      
 that have been molded into it.  
 
 67
 00:05:07,842 --> 00:05:10,041
-      these strategically       
-         located holes          
+these strategically located holes          
 
 68
 00:05:10,043 --> 00:05:11,577
-   will introduce fresh air     
+will introduce fresh air     
 
 69
 00:05:11,579 --> 00:05:14,980
-    to burn gases that would    
-   otherwise go up in smoke,    
+to burn gases that would otherwise go up in smoke,    
 
 70
 00:05:14,982 --> 00:05:18,551
-     preventing energy loss     
-    and pollution at the same   
-             time.              
+preventing energy loss and pollution at the same time.              
 
 71
 00:05:20,788 --> 00:05:22,721
-           the parts            
-   have all been fabricated,    
+the parts have all been fabricated,    
 
 72
 00:05:22,723 --> 00:05:25,257
-       and they're ready        
-  to put the pieces together.   
+and they're ready to put the pieces together.   
 
 73
 00:05:25,259 --> 00:05:27,993
-    they assemble the stove     
-      from the bottom up.       
+they assemble the stove from the bottom up.       
 
 74
 00:05:27,995 --> 00:05:31,463
-  they bolt the parts and seal  
-               the              
- joints to make them airtight.  
+they bolt the parts and seal the joints to make them airtight.  
 
 75
 00:05:31,465 --> 00:05:34,767
-       the assembly takes       
-        about an hour.          
+the assembly takes about an hour.          
 
 76
 00:05:39,673 --> 00:05:42,074
-      this cast-iron stove      
-         is now ready           
+this cast-iron stove is now ready           
 
 77
 00:05:42,076 --> 00:05:45,945
-  to keep these fires burning   
-    for many years to come.     
+to keep these fires burning for many years to come.     
 
 78
 00:06:04,164 --> 00:06:05,898
-           narrator:            
-    an ultralight aircraft      
+narrator: an ultralight aircraft      
 
 79
 00:06:05,900 --> 00:06:08,234
-       is a lightweight,        
-   motorized flying machine     
+is a lightweight, motorized flying machine     
 
 80
 00:06:08,236 --> 00:06:09,902
@@ -391,67 +322,56 @@ that looks like a hang glider.
 
 81
 00:06:09,904 --> 00:06:12,638
-     hang gliding inspired      
- the invention of ultralights   
+hang gliding inspired the invention of ultralights   
 
 82
 00:06:12,640 --> 00:06:14,105
-    back in the late 1970s.     
+back in the late 1970s.     
 
 83
 00:06:14,107 --> 00:06:15,840
-    the idea was to create      
+the idea was to create      
 
 84
 00:06:15,842 --> 00:06:18,978
-  a slow but affordable method  
-      of motorized flight       
+a slow but affordable method of motorized flight       
 
 85
 00:06:18,980 --> 00:06:22,381
-       subject to minimal       
-    aerospace regulations.      
+subject to minimal aerospace regulations.      
 
 86
 00:06:25,319 --> 00:06:28,220
-   they're called ultralights   
-        or microlights.         
+they're called ultralights or microlights.         
 
 87
 00:06:28,222 --> 00:06:33,058
-  this made-in-france 2-seater  
+this made-in-france 2-seater  
 model weighs about 485 pounds.  
 
 88
 00:06:33,060 --> 00:06:34,659
-        to be classified        
-       as an ultralight         
+to be classified as an ultralight         
 
 89
 00:06:34,661 --> 00:06:36,862
-      by the international      
-    air sports federation,      
+by the international air sports federation,      
 
 90
 00:06:36,864 --> 00:06:40,266
-         takeoff weight         
-    can't exceed 990 pounds     
+takeoff weight can't exceed 990 pounds     
 
 91
 00:06:40,268 --> 00:06:44,570
-     and minimum speed can't    
-             surpass            
-      40 miles per hour.        
+and minimum speed can't surpass 40 miles per hour.        
 
 92
 00:06:44,572 --> 00:06:47,339
-       the wing surface,        
-       called the sail,         
+the wing surface, called the sail,         
 
 93
 00:06:47,341 --> 00:06:50,876
-      is made of a sturdy       
-   polyester-based material     
+is made of a sturdy polyester-based material     
 
 94
 00:06:50,878 --> 00:06:52,144
@@ -459,79 +379,63 @@ treated with a special coating
 
 95
 00:06:52,146 --> 00:06:54,880
-        that protects it        
-   from the sun's ultraviolet   
-             rays.              
+that protects it from the sun's ultraviolet rays.              
 
 96
 00:06:54,882 --> 00:06:58,149
-  they unroll different colors  
-        of this fabric          
+they unroll different colors of this fabric          
 
 97
 00:06:58,151 --> 00:07:00,819
-      onto a cutting table      
-     marked with patterns       
+onto a cutting table marked with patterns       
 
 98
 00:07:00,821 --> 00:07:03,622
-     for the four separate      
-        sail sections.          
+for the four separate sail sections.          
 
 99
 00:07:06,294 --> 00:07:08,360
-    they staple the fabrics     
-         to the table           
+they staple the fabrics to the table           
 
 100
 00:07:08,362 --> 00:07:11,163
-      to hold them steady       
-  while tracing the patterns.   
+to hold them steady while tracing the patterns.   
 
 101
 00:07:11,165 --> 00:07:14,433
-   once they finish tracing,    
-   they cut out the pieces,     
+once they finish tracing, they cut out the pieces,     
 
 102
 00:07:14,435 --> 00:07:17,436
-       then connect them        
-   with double-sided adhesive   
-              tape              
+then connect them with double-sided adhesive tape              
 
 103
 00:07:17,438 --> 00:07:19,838
-   to position them correctly   
-          for sewing.           
+to position them correctly for sewing.           
 
 104
 00:07:19,840 --> 00:07:21,507
-  they reinforce select areas   
+they reinforce select areas   
 
 105
 00:07:21,509 --> 00:07:24,410
-      with adhesive-backed      
-    polyester mesh fabric.      
+with adhesive-backed polyester mesh fabric.      
 
 106
 00:07:27,247 --> 00:07:30,115
-     then a sewer stitches      
-      the pieces together       
+then a sewer stitches the pieces together       
 
 107
 00:07:30,117 --> 00:07:32,984
-      with high-strength,       
-    u.v.-resistant thread.      
+with high-strength, u.v.-resistant thread.      
 
 108
 00:07:32,986 --> 00:07:35,788
-      in this first stage       
-    of the sewing process,      
+in this first stage of the sewing process,      
 
 109
 00:07:35,790 --> 00:07:39,792
-      they stitch together      
-  1/4 of the sail at a time.    
+they stitch together 1/4 of the sail at a time.    
 
 110
 00:07:39,794 --> 00:07:43,061
@@ -539,130 +443,108 @@ in the second stage of sewing,
 
 111
 00:07:43,063 --> 00:07:47,066
-   they sew together the top    
-    and undersurfaces of each   
-             side.              
+they sew together the top and undersurfaces of each side.              
 
 112
 00:07:47,068 --> 00:07:49,134
-   then, in the final stage,    
+then, in the final stage,    
 
 113
 00:07:49,136 --> 00:07:52,938
-          they stitch           
- the right and left together.   
+they stitch the right and left together.   
 
 114
 00:07:52,940 --> 00:07:55,074
-     in another part of the     
-            factory,            
+in another part of the factory,            
 
 115
 00:07:55,076 --> 00:07:58,544
-    the body of the aircraft    
-     begins taking shape.       
+the body of the aircraft begins taking shape.       
 
 116
 00:07:58,546 --> 00:08:01,213
-     it's called the trike      
-    because it sits on three    
-            wheels,             
+it's called the trike because it sits on three wheels,             
 
 117
 00:08:01,215 --> 00:08:02,814
-       like a tricycle.         
+like a tricycle.         
 
 118
 00:08:02,816 --> 00:08:04,416
-  they build it in sections,    
+they build it in sections,    
 
 119
 00:08:04,418 --> 00:08:07,486
-        welding together        
+welding together        
 several stainless-steel tubes.  
 
 120
 00:08:07,488 --> 00:08:10,823
-   after the sections receive   
-   a baked-on coat of paint,    
+after the sections receive a baked-on coat of paint,    
 
 121
 00:08:10,825 --> 00:08:12,891
-     workers assemble them      
-         to each other          
+workers assemble them to each other          
 
 122
 00:08:12,893 --> 00:08:14,827
-     around the fuel tank.      
+around the fuel tank.      
 
 123
 00:08:14,829 --> 00:08:19,164
-   the 17-gallon tank is made   
- of lightweight polypropylene,  
+the 17-gallon tank is made of lightweight polypropylene,  
 
 124
 00:08:19,166 --> 00:08:21,834
-       a type of plastic        
-     that's u.v. resistant      
+a type of plastic that's u.v. resistant      
 
 125
 00:08:21,836 --> 00:08:24,236
-     and impact resistant.      
+and impact resistant.      
 
 126
 00:08:24,238 --> 00:08:28,173
-         once the trike         
-      is fully assembled,       
+once the trike is fully assembled,       
 
 127
 00:08:28,175 --> 00:08:30,175
-           they mount           
-    the three small wheels,     
+they mount the three small wheels,     
 
 128
 00:08:30,177 --> 00:08:33,345
-        similar to those        
-    on motorized scooters.      
+similar to those on motorized scooters.      
 
 129
 00:08:41,388 --> 00:08:44,990
-        next, they bolt a       
-         100-horsepower         
-       gasoline engine,         
+next, they bolt a 100-horsepower gasoline engine,         
 
 130
 00:08:44,992 --> 00:08:47,326
-    similar to a full-sized     
-      motorcycle engine,        
+similar to a full-sized motorcycle engine,        
 
 131
 00:08:47,328 --> 00:08:49,395
-   to the back of the trike.    
+to the back of the trike.    
 
 132
 00:08:54,801 --> 00:08:58,070
-   on the front of the trike,   
-      they install pedals       
+on the front of the trike, they install pedals       
 
 133
 00:08:58,072 --> 00:09:00,672
-    for propelling the craft    
-       on the ground...         
+for propelling the craft on the ground...         
 
 134
 00:09:00,674 --> 00:09:05,344
- and a motorcycle-style plastic 
-   console with windshield.     
+and a motorcycle-style plastic console with windshield.     
 
 135
 00:09:05,346 --> 00:09:08,247
-       the console houses       
-  the instrumentation panel.    
+the console houses the instrumentation panel.    
 
 136
 00:09:11,218 --> 00:09:14,153
-    they mount the radiator     
-  in the center of the trike,   
+they mount the radiator in the center of the trike,   
 
 137
 00:09:14,155 --> 00:09:16,288
@@ -670,45 +552,39 @@ cover it with foam and fabric,
 
 138
 00:09:16,290 --> 00:09:18,423
-          then install          
-  a pair of upholstered seats   
+then install a pair of upholstered seats   
 
 139
 00:09:18,425 --> 00:09:20,759
-   for pilot and passenger.     
+for pilot and passenger.     
 
 140
 00:09:20,761 --> 00:09:24,029
-  then they protect the engine  
-    with a plastic housing.     
+then they protect the engine with a plastic housing.     
 
 141
 00:09:24,031 --> 00:09:26,931
-    they mount an aluminum-     
-  and-carbon-fiber propeller    
+they mount an aluminum- and-carbon-fiber propeller    
 
 142
 00:09:26,933 --> 00:09:31,036
-  on the shaft of the gearbox   
-   connected to the engine.     
+on the shaft of the gearbox connected to the engine.     
 
 143
 00:09:31,038 --> 00:09:32,604
-       now for the wing.        
+now for the wing.        
 
 144
 00:09:32,606 --> 00:09:36,241
- its main structure is made up  
-   of hinged aluminum tubes     
+its main structure is made up of hinged aluminum tubes     
 
 145
 00:09:36,243 --> 00:09:38,243
-   which fold for transport.    
+which fold for transport.    
 
 146
 00:09:38,245 --> 00:09:40,845
-    aluminum is lightweight     
-        and rustproof,          
+aluminum is lightweight and rustproof,          
 
 147
 00:09:40,847 --> 00:09:42,581
@@ -716,596 +592,497 @@ which is essential for flight.
 
 148
 00:09:42,583 --> 00:09:47,252
-  they slip the sail over the   
- tubing, then unfold the wing.  
+they slip the sail over the tubing, then unfold the wing.  
 
 149
 00:09:47,254 --> 00:09:51,790
-  thin aluminum tubes provide   
- crosswise structural support.  
+thin aluminum tubes provide crosswise structural support.  
 
 150
 00:09:51,792 --> 00:09:57,329
-    a system of cables keeps    
+a system of cables keeps    
 the wing in the open position.  
 
 151
 00:09:57,331 --> 00:09:59,664
-   another system of cables,    
-      called the corset,        
+another system of cables, called the corset,        
 
 152
 00:09:59,666 --> 00:10:02,468
-          manipulates           
-  the billowing of the sail.    
+manipulates the billowing of the sail.    
 
 153
 00:10:02,470 --> 00:10:05,537
-     this enables the pilot     
-   to alter the aerodynamics    
+this enables the pilot to alter the aerodynamics    
 
 154
 00:10:05,539 --> 00:10:08,474
- to increase or reduce speed.   
+to increase or reduce speed.   
 
 155
 00:10:08,476 --> 00:10:11,276
-        under the wing,         
-   they install the a-frame,    
+under the wing, they install the a-frame,    
 
 156
 00:10:11,278 --> 00:10:13,578
-        the ultralight's        
-      steering mechanism.       
+the ultralight's steering mechanism.       
 
 157
 00:10:13,580 --> 00:10:17,415
-   the pilot manipulates the    
+the pilot manipulates the    
 a-frame with a horizontal bar,  
 
 158
 00:10:17,417 --> 00:10:21,553
-      changing the trike's      
- body position under the wing.  
+changing the trike's body position under the wing.  
 
 159
 00:10:21,555 --> 00:10:25,958
-  the last step is to bolt the  
+the last step is to bolt the  
 front of the trike to the wing  
 
 160
 00:10:25,960 --> 00:10:30,162
-          and hook up           
-   the safety backup cables.    
+and hook up the safety backup cables.    
 
 161
 00:10:30,164 --> 00:10:32,564
-      the pilot steers the      
-           ultralight           
+the pilot steers the ultralight           
 
 162
 00:10:32,566 --> 00:10:35,567
-       by weight-shifting       
-     with the a-frame bar,      
+by weight-shifting with the a-frame bar,      
 
 163
 00:10:35,569 --> 00:10:38,636
-       tilting the trike        
- toward the front to descend,   
+tilting the trike toward the front to descend,   
 
 164
 00:10:38,638 --> 00:10:41,373
-  to the right to veer right,   
-          and so on.            
+to the right to veer right, and so on.            
 
 165
 00:10:41,375 --> 00:10:46,311
-     typical cruising speed     
- is around 75 miles per hour.   
+typical cruising speed is around 75 miles per hour.   
 
 166
 00:10:46,313 --> 00:10:47,512
-     with an open cockpit,      
+with an open cockpit,      
 
 167
 00:10:47,514 --> 00:10:49,648
-        air temperature         
-       and oxygen levels        
+air temperature and oxygen levels        
 
 168
 00:10:49,650 --> 00:10:53,585
-         limit how high         
-   an ultralight aircraft can   
-              fly.              
+limit how high an ultralight aircraft can fly.              
 
 169
 00:10:53,587 --> 00:10:56,254
-        maximum altitude        
-     is about 3,300 feet,       
+maximum altitude is about 3,300 feet,       
 
 170
 00:10:56,256 --> 00:10:58,323
- high enough for a thrill ride  
+high enough for a thrill ride  
 
 171
 00:10:58,325 --> 00:11:01,960
-      yet still low enough      
-    for a spectacular view.     
+yet still low enough for a spectacular view.     
 
 172
 00:11:14,408 --> 00:11:17,476
-   narrator: after a busy day   
-  of skiing and snowboarding,   
+narrator: after a busy day of skiing and snowboarding,   
 
 173
 00:11:17,478 --> 00:11:19,678
-   ski slopes get worn down     
+ski slopes get worn down     
 
 174
 00:11:19,680 --> 00:11:23,548
-    and develop ruts, bumps,    
-     ice, and bare spots.       
+and develop ruts, bumps, ice, and bare spots.       
 
 175
 00:11:23,550 --> 00:11:26,618
- ski resorts typically refresh  
-     the slopes overnight       
+ski resorts typically refresh the slopes overnight       
 
 176
 00:11:26,620 --> 00:11:30,222
-      by grooming the snow      
-     with specialized track     
-           machines.            
+by grooming the snow with specialized track machines.            
 
 177
 00:11:30,224 --> 00:11:33,058
-          by morning,           
- the runs are as good as new.   
+by morning, the runs are as good as new.   
 
 178
 00:11:36,096 --> 00:11:38,830
-     a snow groomer is like     
-    a bulldozer on tracks,      
+a snow groomer is like a bulldozer on tracks,      
 
 179
 00:11:38,832 --> 00:11:41,899
-    except instead of pushing   
-              dirt,             
-        it pushes snow.         
+except instead of pushing dirt, it pushes snow.         
 
 180
 00:11:41,901 --> 00:11:45,771
-  it uses grooming implements   
+it uses grooming implements   
 mounted to the front and back.  
 
 181
 00:11:45,773 --> 00:11:47,372
-   to build a snow groomer,     
+to build a snow groomer,     
 
 182
 00:11:47,374 --> 00:11:50,375
-   workers begin by aligning    
-     front and rear frames      
+workers begin by aligning front and rear frames      
 
 183
 00:11:50,377 --> 00:11:51,977
- with the vehicle's main frame  
+with the vehicle's main frame  
 
 184
 00:11:51,979 --> 00:11:54,713
-         with the help          
-     of positioning jigs.       
+with the help of positioning jigs.       
 
 185
 00:11:56,850 --> 00:11:59,184
-  then a welder gets to work.   
+then a welder gets to work.   
 
 186
 00:11:59,186 --> 00:12:01,853
-             first,             
- he tacks everything together.  
+first, he tacks everything together.  
 
 187
 00:12:01,855 --> 00:12:03,722
- then, with a mechanical lift,  
+then, with a mechanical lift,  
 
 188
 00:12:03,724 --> 00:12:06,325
-      he raises and tilts       
-       the tacked frame         
+he raises and tilts the tacked frame         
 
 189
 00:12:06,327 --> 00:12:08,860
-         to gain access         
-     from various angles.       
+to gain access from various angles.       
 
 190
 00:12:08,862 --> 00:12:11,663
-        after welding on        
-       additional parts,        
+after welding on additional parts,        
 
 191
 00:12:11,665 --> 00:12:13,064
-      including 10 axles,       
+including 10 axles,       
 
 192
 00:12:13,066 --> 00:12:15,600
-    they prime and paint the    
-             frame.             
+they prime and paint the frame.             
 
 193
 00:12:15,602 --> 00:12:19,938
-    then a mechanic installs    
+then a mechanic installs    
 a heavy-duty suspension system  
 
 194
 00:12:19,940 --> 00:12:22,140
-    designed to automatically   
-             adapt              
+designed to automatically adapt              
 
 195
 00:12:22,142 --> 00:12:24,343
-     to the type and shape      
-          of terrain,           
+to the type and shape of terrain,           
 
 196
 00:12:24,345 --> 00:12:25,811
-     maximizing traction.       
+maximizing traction.       
 
 197
 00:12:25,813 --> 00:12:29,214
- next, he greases the 10 axles  
+next, he greases the 10 axles  
 
 198
 00:12:29,216 --> 00:12:33,285
-    and installs a wheel hub    
-   and bearings on each one.    
+and installs a wheel hub and bearings on each one.    
 
 199
 00:12:36,323 --> 00:12:37,822
-   he then mounts the wheel,    
+he then mounts the wheel,    
 
 200
 00:12:37,824 --> 00:12:40,692
-      tightening the bolts      
-     to a specified torque      
+tightening the bolts to a specified torque      
 
 201
 00:12:40,694 --> 00:12:45,230
- to ensure optimal performance  
-        and durability.         
+to ensure optimal performance and durability.         
 
 202
 00:12:48,969 --> 00:12:53,839
-  meanwhile, another mechanic   
- installs the hydraulic hoses.  
+meanwhile, another mechanic installs the hydraulic hoses.  
 
 203
 00:12:53,841 --> 00:12:56,641
-         these control          
-    the grooming implements     
+these control the grooming implements     
 
 204
 00:12:56,643 --> 00:12:59,044
-        and the sprocket        
-  on which each track turns.    
+and the sprocket on which each track turns.    
 
 205
 00:12:59,046 --> 00:13:03,715
-   then he connects the hoses   
- to the main hydraulic valve.   
+then he connects the hoses to the main hydraulic valve.   
 
 206
 00:13:03,717 --> 00:13:05,250
-    at another workstation,     
+at another workstation,     
 
 207
 00:13:05,252 --> 00:13:08,186
-      a mechanic assembles      
-      the diesel engine,        
+a mechanic assembles the diesel engine,        
 
 208
 00:13:08,188 --> 00:13:11,189
-       the transmission,        
-   and four hydraulic pumps.    
+the transmission, and four hydraulic pumps.    
 
 209
 00:13:11,191 --> 00:13:14,393
-  two of these pumps drive oil  
-   to the hydraulic motors,     
+two of these pumps drive oil to the hydraulic motors,     
 
 210
 00:13:14,395 --> 00:13:17,329
-    which propel the vehicle    
-     forward and backward.      
+which propel the vehicle forward and backward.      
 
 211
 00:13:17,331 --> 00:13:19,731
-         the two others         
-     pump hydraulic fluid       
+the two others pump hydraulic fluid       
 
 212
 00:13:19,733 --> 00:13:22,934
-   to operate the implements    
-    and the cooling system.     
+to operate the implements and the cooling system.     
 
 213
 00:13:22,936 --> 00:13:25,670
- they lower this assembled unit 
-        into the frame          
+they lower this assembled unit into the frame          
 
 214
 00:13:25,672 --> 00:13:29,073
-      and make the required     
-           electrical           
-  and hydraulic connections.    
+and make the required electrical and hydraulic connections.    
 
 215
 00:13:29,075 --> 00:13:32,077
-     meanwhile, another team    
-            prepares            
-        the next unit,          
+meanwhile, another team prepares the next unit,          
 
 216
 00:13:32,079 --> 00:13:34,346
-            starting            
-   with the cooling system,     
+starting with the cooling system,     
 
 217
 00:13:34,348 --> 00:13:36,748
-       two powerful fans        
-     which cool the engine      
+two powerful fans which cool the engine      
 
 218
 00:13:36,750 --> 00:13:38,616
-     and hydraulic fluid.       
+and hydraulic fluid.       
 
 219
 00:13:38,618 --> 00:13:41,019
-       next, they install       
-      the exhaust system        
+next, they install the exhaust system        
 
 220
 00:13:41,021 --> 00:13:43,488
-       and two batteries        
-     to power the engine.       
+and two batteries to power the engine.       
 
 221
 00:13:43,490 --> 00:13:46,758
- they mount this assembled unit 
-    above the transmission      
+they mount this assembled unit above the transmission      
 
 222
 00:13:46,760 --> 00:13:48,893
-            and make            
+and make            
 all the necessary connections.  
 
 223
 00:13:48,895 --> 00:13:51,229
-       they lower the cab       
-        onto the frame,         
+they lower the cab onto the frame,         
 
 224
 00:13:51,231 --> 00:13:54,232
-    connect more electrical     
-     and hydraulic lines,       
+connect more electrical and hydraulic lines,       
 
 225
 00:13:54,234 --> 00:13:58,503
-      and fill all systems      
- with their respective fluids.  
+and fill all systems with their respective fluids.  
 
 226
 00:13:58,505 --> 00:14:00,772
-   the vehicle now undergoes    
-       extensive testing        
+the vehicle now undergoes extensive testing        
 
 227
 00:14:00,774 --> 00:14:02,173
-       in a dynamometer,        
+in a dynamometer,        
 
 228
 00:14:02,175 --> 00:14:04,242
-   which operates the engine    
-   and hydraulic components     
+which operates the engine and hydraulic components     
 
 229
 00:14:04,244 --> 00:14:07,446
-     at maximum capacity.       
+at maximum capacity.       
 
 230
 00:14:07,448 --> 00:14:11,516
-     if all systems perform     
-            according           
+if all systems perform according           
 to engineering specifications,  
 
 231
 00:14:11,518 --> 00:14:13,652
- the vehicle gets the go-ahead  
+the vehicle gets the go-ahead  
 
 232
 00:14:13,654 --> 00:14:16,921
-           to receive           
- the snow-grooming implements.  
+to receive the snow-grooming implements.  
 
 233
 00:14:16,923 --> 00:14:18,756
-     the rear implement is a    
-            tiller,             
+the rear implement is a tiller,             
 
 234
 00:14:18,758 --> 00:14:21,593
-    which breaks up the snow    
-     into small particles       
+which breaks up the snow into small particles       
 
 235
 00:14:21,595 --> 00:14:24,129
-   and shapes narrowly spaced   
-        parallel lines          
+and shapes narrowly spaced parallel lines          
 
 236
 00:14:24,131 --> 00:14:26,798
-     on the trail surface.      
+on the trail surface.      
 
 237
 00:14:26,800 --> 00:14:29,067
-          a powerful,           
-   built-in hydraulic motor     
+a powerful, built-in hydraulic motor     
 
 238
 00:14:29,069 --> 00:14:31,803
- spins the steel-toothed rotors 
-           at speeds            
+spins the steel-toothed rotors at speeds            
 
 239
 00:14:31,805 --> 00:14:34,473
-   of up to 1,350 revolutions   
-          per minute.           
+of up to 1,350 revolutions per minute.           
 
 240
 00:14:34,475 --> 00:14:37,208
-          this ensures          
-   even grooming throughout.    
+this ensures even grooming throughout.    
 
 241
 00:14:37,210 --> 00:14:42,347
- the groomer's tracks are made  
-    of ultra-durable steel.     
+the groomer's tracks are made of ultra-durable steel.     
 
 242
 00:14:42,349 --> 00:14:45,083
-       a mechanic guides        
-    the edge of each track      
+a mechanic guides the edge of each track      
 
 243
 00:14:45,085 --> 00:14:47,685
-      onto a high-strength      
-       urethane sprocket        
+onto a high-strength urethane sprocket        
 
 244
 00:14:47,687 --> 00:14:50,555
-    bolted to the rear of the   
-             frame              
+bolted to the rear of the frame              
 
 245
 00:14:50,557 --> 00:14:53,558
- while another mechanic slowly  
-  drives the vehicle forward    
+while another mechanic slowly drives the vehicle forward    
 
 246
 00:14:53,560 --> 00:14:55,961
-       to pull the track        
-       over the wheels.         
+to pull the track over the wheels.         
 
 247
 00:14:58,766 --> 00:15:01,099
-  then they clamp the two ends  
-           together             
+then they clamp the two ends together             
 
 248
 00:15:01,101 --> 00:15:05,370
-    and join them with giant    
-             hinges,            
-       closing the loop.        
+and join them with giant hinges, closing the loop.        
 
 249
 00:15:08,241 --> 00:15:11,109
-       it's time to mount       
- the snow-grooming implements.  
+it's time to mount the snow-grooming implements.  
 
 250
 00:15:11,111 --> 00:15:13,378
-     they attach the tiller     
-    to the rear mechanism,      
+they attach the tiller to the rear mechanism,      
 
 251
 00:15:13,380 --> 00:15:15,513
-         which carries          
-   the hydraulic connections    
+which carries the hydraulic connections    
 
 252
 00:15:15,515 --> 00:15:18,382
-      for the implement's       
-        onboard motor.          
+for the implement's onboard motor.          
 
 253
 00:15:18,384 --> 00:15:23,121
-     they attach a blade to     
+they attach a blade to     
 the identical front mechanism.  
 
 254
 00:15:23,123 --> 00:15:24,389
-     the blade plows snow       
+the blade plows snow       
 
 255
 00:15:24,391 --> 00:15:26,524
-      and sculpts features      
-      such as half-pipes,       
+and sculpts features such as half-pipes,       
 
 256
 00:15:26,526 --> 00:15:30,462
-          those giant,          
-    u-shaped bowls of snow      
+those giant, u-shaped bowls of snow      
 
 257
 00:15:30,464 --> 00:15:35,133
-   in which freestyle skiers    
-   and daredevil snowboarders   
-             ride.              
+in which freestyle skiers and daredevil snowboarders ride.              
 
 258
 00:15:35,135 --> 00:15:38,069
-          for safety,           
+for safety,           
 the cabin has a steel skeleton  
 
 259
 00:15:38,071 --> 00:15:40,138
-   with roll-over protection    
-           features.            
+with roll-over protection features.            
 
 260
 00:15:40,140 --> 00:15:42,207
- a specially designed joystick  
+a specially designed joystick  
 
 261
 00:15:42,209 --> 00:15:44,876
-        gives the driver        
-       precision control        
+gives the driver precision control        
 
 262
 00:15:44,878 --> 00:15:46,611
-  over the blade and tiller.    
+over the blade and tiller.    
 
 263
 00:15:46,613 --> 00:15:50,147
-      the state-of-the-art      
-           electronics          
-   include three computers,     
+the state-of-the-art electronics include three computers,     
 
 264
 00:15:50,149 --> 00:15:51,616
-    which enable the driver     
+which enable the driver     
 
 265
 00:15:51,618 --> 00:15:54,819
-      to select and adjust      
+to select and adjust      
 different functions and modes,  
 
 266
 00:15:54,821 --> 00:15:57,755
-      all of it displaying      
-      on a color monitor.       
+all of it displaying on a color monitor.       
 
 267
 00:15:57,757 --> 00:16:00,424
-          the vehicle           
-   never sinks into the snow    
+the vehicle never sinks into the snow    
 
 268
 00:16:00,426 --> 00:16:04,229
-      because its weight is     
-            optimally           
-    balanced on the tracks.     
+because its weight is optimally balanced on the tracks.     
 
 269
 00:16:04,231 --> 00:16:06,164
@@ -1313,28 +1090,23 @@ this 22,000-pound snow groomer
 
 270
 00:16:06,166 --> 00:16:09,234
- actually exerts less pressure  
-          on the snow           
+actually exerts less pressure on the snow           
 
 271
 00:16:09,236 --> 00:16:12,504
-   than a single person does    
-           on foot.             
+than a single person does on foot.             
 
 272
 00:16:25,452 --> 00:16:27,652
-   narrator: the rubber band    
-    was invented in england     
+narrator: the rubber band was invented in england     
 
 273
 00:16:27,654 --> 00:16:30,055
-         in the middle          
-     of the 19th century.       
+in the middle of the 19th century.       
 
 274
 00:16:30,057 --> 00:16:32,924
-    the key to its success,     
-  of course, is flexibility.    
+the key to its success, of course, is flexibility.    
 
 275
 00:16:32,926 --> 00:16:34,860
@@ -1342,380 +1114,311 @@ a rubber band can be stretched
 
 276
 00:16:34,862 --> 00:16:37,228
-          around items          
-  of various shapes and sizes   
+around items of various shapes and sizes   
 
 277
 00:16:37,230 --> 00:16:38,597
-    to hold them together,      
+to hold them together,      
 
 278
 00:16:38,599 --> 00:16:40,599
-      so in the rubber-band     
-           industry,            
+so in the rubber-band industry,            
 
 279
 00:16:40,601 --> 00:16:43,335
-      the possibilities for     
-            expansion           
-         are numerous.          
+the possibilities for expansion are numerous.          
 
 280
 00:16:46,806 --> 00:16:50,141
-   rubber bands come in handy   
- for a whole bunch of things.   
+rubber bands come in handy for a whole bunch of things.   
 
 281
 00:16:50,143 --> 00:16:51,809
-     if you have a bunch of     
-           anything,            
+if you have a bunch of anything,            
 
 282
 00:16:51,811 --> 00:16:54,012
-         a rubber band          
-     can keep it together.      
+a rubber band can keep it together.      
 
 283
 00:16:54,014 --> 00:16:58,749
-   production of rubber bands   
-  starts with natural rubber.   
+production of rubber bands starts with natural rubber.   
 
 284
 00:16:58,751 --> 00:17:00,552
-       these spongy slabs       
-        have been made          
+these spongy slabs have been made          
 
 285
 00:17:00,554 --> 00:17:02,420
- from the sap of rubber trees.  
+from the sap of rubber trees.  
 
 286
 00:17:02,422 --> 00:17:04,756
-         natural rubber         
-    has greater elasticity      
+natural rubber has greater elasticity      
 
 287
 00:17:04,758 --> 00:17:06,824
-   than the synthetic kind,     
+than the synthetic kind,     
 
 288
 00:17:06,826 --> 00:17:09,494
-   making it a better choice    
-       for rubber bands.        
+making it a better choice for rubber bands.        
 
 289
 00:17:09,496 --> 00:17:12,831
-  a worker measures and pours   
-     rubber processing oil      
+a worker measures and pours rubber processing oil      
 
 290
 00:17:12,833 --> 00:17:14,833
-    into a kneader machine.     
+into a kneader machine.     
 
 291
 00:17:14,835 --> 00:17:18,436
-  he adds powdered pigment --   
+he adds powdered pigment --   
 in this case, yellow and white  
 
 292
 00:17:18,438 --> 00:17:22,907
-   for a pale yellow shade.     
+for a pale yellow shade.     
 
 293
 00:17:22,909 --> 00:17:25,309
- he feeds several rubber slabs  
+he feeds several rubber slabs  
 
 294
 00:17:25,311 --> 00:17:29,247
-        to the kneader's        
-      spiral-shaped jaws.       
+to the kneader's spiral-shaped jaws.       
 
 295
 00:17:29,249 --> 00:17:34,719
- the spiraling blades intersect 
-    to break up the rubber      
+the spiraling blades intersect to break up the rubber      
 
 296
 00:17:34,721 --> 00:17:38,056
-          and blend in          
-    the other ingredients.      
+and blend in the other ingredients.      
 
 297
 00:17:38,058 --> 00:17:43,127
- the kneading process generates 
+the kneading process generates 
 heat which softens the rubber,  
 
 298
 00:17:43,129 --> 00:17:45,897
-        making it easier        
-      to form into dough.       
+making it easier to form into dough.       
 
 299
 00:17:48,468 --> 00:17:51,102
-     the kneader spits out      
-     rubber-dough chunks.       
+the kneader spits out rubber-dough chunks.       
 
 300
 00:17:54,341 --> 00:17:57,675
-   next, a giant rolling pin    
-     transforms the dough       
+next, a giant rolling pin transforms the dough       
 
 301
 00:17:57,677 --> 00:18:00,211
-    into wide, thin pieces.     
+into wide, thin pieces.     
 
 302
 00:18:03,684 --> 00:18:05,616
-      he slices the strips      
-       and bundles them.        
+he slices the strips and bundles them.        
 
 303
 00:18:05,618 --> 00:18:07,018
-         in this form,          
+in this form,          
 
 304
 00:18:07,020 --> 00:18:09,887
-  it will be easier to control  
-   the weight of the rubber     
+it will be easier to control the weight of the rubber     
 
 305
 00:18:09,889 --> 00:18:12,724
-    in relation to chemicals    
-     that are added next.       
+in relation to chemicals that are added next.       
 
 306
 00:18:15,095 --> 00:18:16,561
-     they roll the rubber       
+they roll the rubber       
 
 307
 00:18:16,563 --> 00:18:19,163
-    with a precise amount of    
-             sulfur             
-      and other chemicals       
+with a precise amount of sulfur and other chemicals       
 
 308
 00:18:19,165 --> 00:18:22,167
-   that strengthen the rubber   
-   and make it more elastic.    
+that strengthen the rubber and make it more elastic.    
 
 309
 00:18:26,706 --> 00:18:29,907
-   they then roll the rubber    
-          very thin.            
+they then roll the rubber very thin.            
 
 310
 00:18:29,909 --> 00:18:32,710
-  a worker twists and cuts it   
-      into small bundles        
+a worker twists and cuts it into small bundles        
 
 311
 00:18:32,712 --> 00:18:35,914
-   that fit into the opening    
-   of an extruding machine.     
+that fit into the opening of an extruding machine.     
 
 312
 00:18:38,051 --> 00:18:40,051
-    it forces the still-warm    
-     and malleable rubber       
+it forces the still-warm and malleable rubber       
 
 313
 00:18:40,053 --> 00:18:44,456
-    through dies to shape it    
-   into long, hollow tubes.     
+through dies to shape it into long, hollow tubes.     
 
 314
 00:18:44,458 --> 00:18:47,258
-    the extruder injects air    
-   and talcum powder into the   
-             tubes              
+the extruder injects air and talcum powder into the tubes              
 
 315
 00:18:47,260 --> 00:18:49,661
-       to keep the walls        
-        from collapsing         
+to keep the walls from collapsing         
 
 316
 00:18:49,663 --> 00:18:52,263
-     and sticking together      
-          while warm.           
+and sticking together while warm.           
 
 317
 00:18:52,265 --> 00:18:55,266
-      the tubes cool down       
-     in a trough of water,      
+the tubes cool down in a trough of water,      
 
 318
 00:18:55,268 --> 00:18:59,136
-        and they deflate        
-       as the injected air      
-          dissipates.           
+and they deflate as the injected air dissipates.           
 
 319
 00:18:59,138 --> 00:19:02,339
-   next, these aluminum poles   
-      will serve as molds       
+next, these aluminum poles will serve as molds       
 
 320
 00:19:02,341 --> 00:19:04,075
- for the tubes during curing,   
+for the tubes during curing,   
 
 321
 00:19:04,077 --> 00:19:08,546
- giving them the correct shape  
-         and diameter.          
+giving them the correct shape and diameter.          
 
 322
 00:19:11,818 --> 00:19:14,218
-  the worker slides the tubes   
-        onto the molds.         
+the worker slides the tubes onto the molds.         
 
 323
 00:19:14,220 --> 00:19:18,089
-   the talcum powder injected   
-              into              
-     the tubes during their     
-           extrusion            
+the talcum powder injected into the tubes during their extrusion            
 
 324
 00:19:18,091 --> 00:19:20,291
-         will also act          
-      as a release agent,       
+will also act as a release agent,       
 
 325
 00:19:20,293 --> 00:19:23,762
-   keeping them from sticking   
-  to the molds during curing.   
+keeping them from sticking to the molds during curing.   
 
 326
 00:19:25,432 --> 00:19:27,865
-      they load the tubes       
-      into a steam oven,        
+they load the tubes into a steam oven,        
 
 327
 00:19:27,867 --> 00:19:30,235
-      and the intense heat      
-           vulcanizes           
-          the rubber            
+and the intense heat vulcanizes the rubber            
 
 328
 00:19:30,237 --> 00:19:34,272
- to boost its tensile strength  
-        and elasticity.         
+to boost its tensile strength and elasticity.         
 
 329
 00:19:38,712 --> 00:19:40,178
-       out of the oven,         
+out of the oven,         
 
 330
 00:19:40,180 --> 00:19:42,847
-   workers inject air between   
-   the tubes and the molds,     
+workers inject air between the tubes and the molds,     
 
 331
 00:19:42,849 --> 00:19:47,619
-    making it easier to peel    
- the now-vulcanized tubes off.  
+making it easier to peel the now-vulcanized tubes off.  
 
 332
 00:19:50,724 --> 00:19:54,592
-  they rinse the rubber tubes   
-     to remove talcum-powder    
-            residue.            
+they rinse the rubber tubes to remove talcum-powder residue.            
 
 333
 00:19:54,594 --> 00:19:57,762
- there's so much that the water 
-      turns milky white.        
+there's so much that the water turns milky white.        
 
 334
 00:20:00,399 --> 00:20:03,734
-   they hang the rubber tubes   
-    to drain away some of the   
-             water.             
+they hang the rubber tubes to drain away some of the water.             
 
 335
 00:20:03,736 --> 00:20:07,605
-   by the time they're ready    
+by the time they're ready    
 to cut, they're a bit too dry,  
 
 336
 00:20:07,607 --> 00:20:10,809
-   so a worker splashes water   
-          onto them.            
+so a worker splashes water onto them.            
 
 337
 00:20:10,811 --> 00:20:12,210
-   with the tubes moistened,    
+with the tubes moistened,    
 
 338
 00:20:12,212 --> 00:20:15,013
-       the next operation       
-    will run more smoothly.     
+the next operation will run more smoothly.     
 
 339
 00:20:15,015 --> 00:20:18,817
- he feeds several tubes at once 
-      to a rotating blade       
+he feeds several tubes at once to a rotating blade       
 
 340
 00:20:18,819 --> 00:20:20,418
-      which carves them.        
+which carves them.        
 
 341
 00:20:20,420 --> 00:20:24,956
-   this creates elastic bands   
-    that are exactly the same   
-             width.             
+this creates elastic bands that are exactly the same width.             
 
 342
 00:20:24,958 --> 00:20:27,826
-         in this case,          
-    that's 1.5 millimeters,     
+in this case, that's 1.5 millimeters,     
 
 343
 00:20:27,828 --> 00:20:31,296
-      an average thickness      
-      for a rubber band.        
+an average thickness for a rubber band.        
 
 344
 00:20:34,468 --> 00:20:37,902
- with this system, they can cut 
-  1/2 a million rubber bands    
+with this system, they can cut 1/2 a million rubber bands    
 
 345
 00:20:37,904 --> 00:20:40,704
-          in an hour.           
+in an hour.           
 
 346
 00:20:40,706 --> 00:20:43,508
-      it doesn't take long      
- for the inventory to pile up.  
+it doesn't take long for the inventory to pile up.  
 
 347
 00:20:43,510 --> 00:20:46,443
-       there are millions       
-     of rubber bands here.      
+there are millions of rubber bands here.      
 
 348
 00:20:46,445 --> 00:20:51,750
-  a worker scoops them up and   
+a worker scoops them up and   
 examines each one for defects.  
 
 349
 00:20:54,587 --> 00:20:58,122
- once approved, all that's left 
-       is the packaging.        
+once approved, all that's left is the packaging.        
 
 350
 00:20:58,124 --> 00:21:00,058
-     the rubber bands ride a    
-            conveyor            
+the rubber bands ride a conveyor            
 
 351
 00:21:00,060 --> 00:21:03,595
-      that releases them in     
-           increments           
-      into plastic bags.        
+that releases them in increments into plastic bags.        
 
 352
 00:21:05,398 --> 00:21:06,865
@@ -1723,30 +1426,26 @@ it has taken about three hours
 
 353
 00:21:06,867 --> 00:21:09,734
-      to produce this bag       
-       of rubber bands.         
+to produce this bag of rubber bands.         
 
 354
 00:21:09,736 --> 00:21:14,539
- on a normal day, this factory  
+on a normal day, this factory  
 generates 40 million elastics.  
 
 355
 00:21:14,541 --> 00:21:18,943
-  that's a lot by any stretch   
-      of the imagination.       
+that's a lot by any stretch of the imagination.       
 
 356
 00:21:31,024 --> 00:21:33,424
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 357
 00:21:33,426 --> 00:21:36,094
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 358
 00:21:36,096 --> 00:21:38,663
-     drop us a line at...       
+drop us a line at...       
 

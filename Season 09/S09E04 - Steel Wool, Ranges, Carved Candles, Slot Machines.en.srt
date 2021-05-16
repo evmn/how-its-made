@@ -2603,13 +2603,11 @@ casino revenues.
 
 440
 00:21:12,739 --> 00:21:15,806
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 441
 00:21:15,808 --> 00:21:18,777
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 442
 00:21:22,147 --> 00:21:23,414

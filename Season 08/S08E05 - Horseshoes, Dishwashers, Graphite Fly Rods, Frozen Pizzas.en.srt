@@ -1,278 +1,240 @@
 1
 00:00:22,423 --> 00:00:26,224
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:26,226 --> 00:00:28,093
-           pistons...           
+pistons...           
 
 3
 00:00:32,232 --> 00:00:33,966
-       ...paint rollers...      
+...paint rollers...      
 
 4
 00:00:37,972 --> 00:00:39,671
-        ...parachutes...        
+...parachutes...        
 
 5
 00:00:43,710 --> 00:00:46,545
-        ...and chimneys.        
+...and chimneys.        
 
 6
 00:00:53,320 --> 00:00:56,655
-       pistons are key to       
- the internal combustion process
+pistons are key to the internal combustion process
 
 7
 00:00:56,657 --> 00:00:58,056
-      that drives engines.      
+that drives engines.      
 
 8
 00:00:58,058 --> 00:01:00,725
-       a piston is a plug       
-     that slides up and down    
+a piston is a plug that slides up and down    
 
 9
 00:01:00,727 --> 00:01:02,528
-  inside each engine cylinder,  
+inside each engine cylinder,  
 
 10
 00:01:02,530 --> 00:01:05,997
-    compressing gas and air     
-    ignited by a spark plug.    
+compressing gas and air ignited by a spark plug.    
 
 11
 00:01:05,999 --> 00:01:08,867
-      the resulting energy      
-      turns the crankshaft      
+the resulting energy turns the crankshaft      
 
 12
 00:01:08,869 --> 00:01:10,402
-     and drives the engine.     
+and drives the engine.     
 
 13
 00:01:19,480 --> 00:01:23,348
-    this company makes 9,000    
-   different types of pistons   
+this company makes 9,000 different types of pistons   
 
 14
 00:01:23,350 --> 00:01:28,087
- for everything from dirt bikes 
-         to car engines.        
+for everything from dirt bikes to car engines.        
 
 15
 00:01:28,089 --> 00:01:32,491
-     a piston starts out as     
-  a 10-foot-long aluminum rod.  
+a piston starts out as a 10-foot-long aluminum rod.  
 
 16
 00:01:32,493 --> 00:01:35,494
-        aluminum is ideal       
-   because it's a lightweight   
+aluminum is ideal because it's a lightweight   
 
 17
 00:01:35,496 --> 00:01:39,364
-    and rust-resistant metal    
-       that's easy to cut.      
+and rust-resistant metal that's easy to cut.      
 
 18
 00:01:39,366 --> 00:01:41,633
-          a rotary saw          
-   slices the rod into slugs,   
+a rotary saw slices the rod into slugs,   
 
 19
 00:01:41,635 --> 00:01:43,635
-       the length of which      
-         can be changed         
+the length of which can be changed         
 
 20
 00:01:43,637 --> 00:01:45,370
- by adjusting the feeder machine
+by adjusting the feeder machine
 
 21
 00:01:45,372 --> 00:01:49,107
-         to push the rod        
-     at different intervals.    
+to push the rod at different intervals.    
 
 22
 00:01:49,109 --> 00:01:53,912
-        this piston model       
-    requires 2.7-inch slugs.    
+this piston model requires 2.7-inch slugs.    
 
 23
 00:01:53,914 --> 00:01:58,584
-      the factory recycles      
-    excess aluminum shavings.   
+the factory recycles excess aluminum shavings.   
 
 24
 00:02:03,257 --> 00:02:04,856
-     the punch press and die    
+the punch press and die    
 
 25
 00:02:04,858 --> 00:02:07,592
-          are preheated         
-   to 800 degrees fahrenheit,   
+are preheated to 800 degrees fahrenheit,   
 
 26
 00:02:07,594 --> 00:02:11,063
-    the temperature required    
-       to forge the slugs.      
+the temperature required to forge the slugs.      
 
 27
 00:02:11,065 --> 00:02:14,566
-  the slugs are brought to the  
-  same temperature in an oven.  
+the slugs are brought to the same temperature in an oven.  
 
 28
 00:02:18,004 --> 00:02:20,872
-  the punch applies 2,000 tons  
-           of pressure          
+the punch applies 2,000 tons of pressure          
 
 29
 00:02:20,874 --> 00:02:23,842
-         to form it into        
+to form it into        
 the initial shape of the piston.
 
 30
 00:02:26,947 --> 00:02:30,749
- he dunks about 1 in 10 forgings
- in water to check for defects. 
+he dunks about 1 in 10 forgings
+in water to check for defects. 
 
 31
 00:02:37,892 --> 00:02:39,558
-     to make forging easier,    
+to make forging easier,    
 
 32
 00:02:39,560 --> 00:02:42,694
-     they pre-lube the slugs    
-      before heating them.      
+they pre-lube the slugs before heating them.      
 
 33
 00:02:42,696 --> 00:02:45,897
-  that's why the slug flames up 
-    when struck by the press.   
+that's why the slug flames up when struck by the press.   
 
 34
 00:02:45,899 --> 00:02:49,167
-    it only takes two seconds   
-  for the press to do its job,  
+it only takes two seconds for the press to do its job,  
 
 35
 00:02:49,169 --> 00:02:51,036
-  but the forgings are so hot,  
+but the forgings are so hot,  
 
 36
 00:02:51,038 --> 00:02:55,307
-   they need at least an hour   
-  to cool before the next step. 
+they need at least an hour to cool before the next step. 
 
 37
 00:02:55,309 --> 00:02:57,843
-    workers heat the forgings   
-           twice more,          
+workers heat the forgings twice more,          
 
 38
 00:02:57,845 --> 00:03:01,512
 the first time at very high heat
-    to strengthen the metal,    
+to strengthen the metal,    
 
 39
 00:03:01,514 --> 00:03:04,316
- the second time at a lower heat
-        to stabilize it.        
+the second time at a lower heat
+to stabilize it.        
 
 40
 00:03:11,925 --> 00:03:14,193
-    now they insert each slug   
-           in a lathe           
+now they insert each slug in a lathe           
 
 41
 00:03:14,195 --> 00:03:16,594
-       to give the forging      
-        the correct shape       
+to give the forging the correct shape       
 
 42
 00:03:16,596 --> 00:03:18,797
-          for machines          
-      that handle it later.     
+for machines that handle it later.     
 
 43
 00:03:24,738 --> 00:03:27,472
-   these small holes allow oil  
-         to flow through        
+these small holes allow oil to flow through        
 
 44
 00:03:27,474 --> 00:03:30,108
-     to lubricate the piston    
-        when it's in use.       
+to lubricate the piston when it's in use.       
 
 45
 00:03:32,813 --> 00:03:36,481
-    another lathe reduces the   
- diameter by an 1/8 of an inch. 
+another lathe reduces the diameter by an 1/8 of an inch. 
 
 46
 00:03:36,483 --> 00:03:39,217
-        the same machine        
-    then cuts three grooves,    
+the same machine then cuts three grooves,    
 
 47
 00:03:39,219 --> 00:03:43,088
-  two for compression rings and 
+two for compression rings and 
 another for an oil-control ring.
 
 48
 00:03:43,090 --> 00:03:45,223
-           these rings          
-      help the piston glide     
+these rings help the piston glide     
 
 49
 00:03:45,225 --> 00:03:47,993
-    and enable it to provide    
-        an airtight seal.       
+and enable it to provide an airtight seal.       
 
 50
 00:03:50,497 --> 00:03:52,564
- this hole is for the wrist pin 
+this hole is for the wrist pin 
 
 51
 00:03:52,566 --> 00:03:55,267
-   that will attach the piston  
-      to a connecting rod.      
+that will attach the piston to a connecting rod.      
 
 52
 00:03:58,505 --> 00:04:00,772
-        a milling machine       
-         then shaves off        
+a milling machine then shaves off        
 
 53
 00:04:00,774 --> 00:04:04,309
-  up to 3/4 of an inch of metal 
-  from two sides of the piston  
+up to 3/4 of an inch of metal from two sides of the piston  
 
 54
 00:04:04,311 --> 00:04:06,444
-  to reduce the overall weight. 
+to reduce the overall weight. 
 
 55
 00:04:06,446 --> 00:04:10,148
-  the white liquid is lubricant 
+the white liquid is lubricant 
 to cool the area during cutting.
 
 56
 00:04:13,921 --> 00:04:15,787
-     another milling machine    
+another milling machine    
 
 57
 00:04:15,789 --> 00:04:18,123
-         cuts away part         
-   of what they call the dome.  
+cuts away part of what they call the dome.  
 
 58
 00:04:18,125 --> 00:04:19,791
-            this way            
-    it will clear other parts   
+this way it will clear other parts   
 
 59
 00:04:19,793 --> 00:04:21,793
@@ -280,150 +242,126 @@ when moving inside the cylinder.
 
 60
 00:04:21,795 --> 00:04:25,130
-    the pistons must be just    
-    the right shape and size.   
+the pistons must be just the right shape and size.   
 
 61
 00:04:25,132 --> 00:04:29,200
 some of them move up and down as
- much as 6,000 times per minute 
+much as 6,000 times per minute 
 
 62
 00:04:29,202 --> 00:04:31,136
-   when the engine is running.  
+when the engine is running.  
 
 63
 00:04:35,075 --> 00:04:38,576
-      next, a lathe shaves      
- a hair width more of the metal 
+next, a lathe shaves a hair width more of the metal 
 
 64
 00:04:38,578 --> 00:04:40,078
-        from the outside.       
+from the outside.       
 
 65
 00:04:40,080 --> 00:04:42,747
-   this cut enables the piston  
-       to expand slightly       
+this cut enables the piston to expand slightly       
 
 66
 00:04:42,749 --> 00:04:45,150
-      when heat builds up       
-      inside the cylinder.      
+when heat builds up inside the cylinder.      
 
 67
 00:04:45,152 --> 00:04:48,487
-  an automated drill makes two  
-  intersecting oil-drain holes  
+an automated drill makes two intersecting oil-drain holes  
 
 68
 00:04:48,489 --> 00:04:50,956
-     to enhance lubrication     
-        of the wrist pin.       
+to enhance lubrication of the wrist pin.       
 
 69
 00:04:58,565 --> 00:05:02,801
-  another machine now engraves  
-   model and production data.   
+another machine now engraves model and production data.   
 
 70
 00:05:06,573 --> 00:05:08,973
-         here, a worker         
-       removes sharp edges      
+here, a worker removes sharp edges      
 
 71
 00:05:08,975 --> 00:05:11,376
-         created during         
-      previous operations.      
+created during previous operations.      
 
 72
 00:05:11,378 --> 00:05:15,647
-  he then uses a belt sander to 
- further smooth out the surface.
+he then uses a belt sander to further smooth out the surface.
 
 73
 00:05:15,649 --> 00:05:18,350
-           sharp edges          
-  could damage cylinder walls.  
+sharp edges could damage cylinder walls.  
 
 74
 00:05:20,721 --> 00:05:23,655
-      this cutting machine      
-    shaves off a bit of metal   
+this cutting machine shaves off a bit of metal   
 
 75
 00:05:23,657 --> 00:05:24,923
-       inside the pinhole       
+inside the pinhole       
 
 76
 00:05:24,925 --> 00:05:27,526
-        so the wrist pin        
-     will fit snugly inside.    
+so the wrist pin will fit snugly inside.    
 
 77
 00:05:30,397 --> 00:05:33,432
-  once the cutting is complete, 
-       high-pressure jets       
+once the cutting is complete, high-pressure jets       
 
 78
 00:05:33,434 --> 00:05:36,401
-        spray the pistons       
-   with hot, deionized water.   
+spray the pistons with hot, deionized water.   
 
 79
 00:05:36,403 --> 00:05:39,871
 this cleaning removes all traces
-      of lubricant and oil.     
+of lubricant and oil.     
 
 80
 00:05:39,873 --> 00:05:42,074
-        after a blow-dry        
-        with an air gun,        
+after a blow-dry with an air gun,        
 
 81
 00:05:42,076 --> 00:05:44,676
-      the pistons are ready     
-        to be installed.        
+the pistons are ready to be installed.        
 
 82
 00:05:58,025 --> 00:06:00,292
-            narrator:           
-   norman breakey, a canadian,  
+narrator: norman breakey, a canadian,  
 
 83
 00:06:00,294 --> 00:06:02,427
-    invented the paint roller   
-            in 1940.            
+invented the paint roller in 1940.            
 
 84
 00:06:02,429 --> 00:06:05,563
-   it revolutionized painting,  
-   but breakey never got rich   
+it revolutionized painting, but breakey never got rich   
 
 85
 00:06:05,565 --> 00:06:08,633
- because he lacked the financial
-   means to defend his patent.  
+because he lacked the financial
+means to defend his patent.  
 
 86
 00:06:08,635 --> 00:06:11,169
-   over the next 60-odd years,  
-        the paint roller,       
+over the next 60-odd years, the paint roller,       
 
 87
 00:06:11,171 --> 00:06:13,505
-      with its replaceable      
-      cylindrical refill,       
+with its replaceable cylindrical refill,       
 
 88
 00:06:13,507 --> 00:06:17,209
-   became the primary painting  
- tool, alongside the paintbrush.
+became the primary painting tool, alongside the paintbrush.
 
 89
 00:06:22,649 --> 00:06:25,250
-      the refill is a tube      
-        covered in fabric       
+the refill is a tube covered in fabric       
 
 90
 00:06:25,252 --> 00:06:27,319
@@ -431,255 +369,216 @@ made from either polyester fiber
 
 91
 00:06:27,321 --> 00:06:30,989
-      or lint-free acrylic      
-        and nylon fiber.        
+or lint-free acrylic and nylon fiber.        
 
 92
 00:06:30,991 --> 00:06:35,927
-    regardless of fabric, all   
- refills are made the same way. 
+regardless of fabric, all refills are made the same way. 
 
 93
 00:06:35,929 --> 00:06:40,732
-     the fabric is processed    
-   into a 2.8-inch-wide strip.  
+the fabric is processed into a 2.8-inch-wide strip.  
 
 94
 00:06:40,734 --> 00:06:44,035
-  it goes into a machine called 
-    an automatic tube winder.   
+it goes into a machine called an automatic tube winder.   
 
 95
 00:06:45,806 --> 00:06:48,673
-   it first applies epoxy glue  
+it first applies epoxy glue  
 
 96
 00:06:48,675 --> 00:06:51,142
-         to the surface         
-      of pvc plastic tubes.     
+to the surface of pvc plastic tubes.     
 
 97
 00:06:51,144 --> 00:06:53,878
-    as the tension bar pulls    
-     the fabric strip taut,     
+as the tension bar pulls the fabric strip taut,     
 
 98
 00:06:53,880 --> 00:06:56,481
-  the machine winds the fabric  
-         around a tube.         
+the machine winds the fabric around a tube.         
 
 99
 00:06:56,483 --> 00:06:59,351
-     an air jet pushes aside    
-        the wound fabric        
+an air jet pushes aside the wound fabric        
 
 100
 00:06:59,353 --> 00:07:02,087
-         to avoid bumps         
-       as more is applied.      
+to avoid bumps as more is applied.      
 
 101
 00:07:05,559 --> 00:07:07,892
-    once the tube is covered    
-          with fabric,          
+once the tube is covered with fabric,          
 
 102
 00:07:07,894 --> 00:07:10,495
-           the machine          
-  simultaneously wraps the end  
+the machine simultaneously wraps the end  
 
 103
 00:07:10,497 --> 00:07:13,465
- and the start of the next tube 
-        in masking tape.        
+and the start of the next tube in masking tape.        
 
 104
 00:07:15,302 --> 00:07:17,769
-     once the glue has dried    
-        for eight hours,        
+once the glue has dried for eight hours,        
 
 105
 00:07:17,771 --> 00:07:21,406
- the tubes enter a machine that 
- cuts them into several refills.
+the tubes enter a machine that cuts them into several refills.
 
 106
 00:07:31,718 --> 00:07:34,118
-  the tube spins as it passes,  
+the tube spins as it passes,  
 
 107
 00:07:34,120 --> 00:07:37,522
-   so one small cut is enough   
-          to sever it.          
+so one small cut is enough to sever it.          
 
 108
 00:07:37,524 --> 00:07:41,593
-       one tube produces 9      
-     7 1/2-inch-long refills    
+one tube produces 9 7 1/2-inch-long refills    
 
 109
 00:07:41,595 --> 00:07:44,796
-              or 7              
-    9 1/2-inch-long refills,    
+or 7 9 1/2-inch-long refills,    
 
 110
 00:07:44,798 --> 00:07:47,098
-     the two standard sizes     
-         on the market.         
+the two standard sizes on the market.         
 
 111
 00:07:53,607 --> 00:07:57,609
- the next machine first runs a  
- wire brush against the fabric. 
+the next machine first runs a wire brush against the fabric. 
 
 112
 00:07:57,611 --> 00:08:00,111
-      this lifts and fluffs     
-           the pile...          
+this lifts and fluffs the pile...          
 
 113
 00:08:02,015 --> 00:08:04,783
-  ...then makes a beveled edge  
-          on each end.          
+...then makes a beveled edge on each end.          
 
 114
 00:08:10,757 --> 00:08:15,894
-  to fluff the fabric further,  
- a high-speed spin at 3,500 rpm.
+to fluff the fabric further, a high-speed spin at 3,500 rpm.
 
 115
 00:08:15,896 --> 00:08:20,799
- during all these operations, a 
- vacuum sucks away loose fibers.
+during all these operations, a vacuum sucks away loose fibers.
 
 116
 00:08:26,306 --> 00:08:29,707
-   meanwhile, the paint-roller  
-       handles take shape.      
+meanwhile, the paint-roller handles take shape.      
 
 117
 00:08:29,709 --> 00:08:31,776
-  an injection molding machine  
+an injection molding machine  
 
 118
 00:08:31,778 --> 00:08:35,313
-      shoots molten plastic     
-  into handle-shaped cavities.  
+shoots molten plastic into handle-shaped cavities.  
 
 119
 00:08:35,315 --> 00:08:36,981
-    a built-in cooling system   
+a built-in cooling system   
 
 120
 00:08:36,983 --> 00:08:39,384
-       hardens the plastic      
-         within seconds.        
+hardens the plastic within seconds.        
 
 121
 00:08:41,989 --> 00:08:44,589
-      the handles are made      
-        of polypropylene,       
+the handles are made of polypropylene,       
 
 122
 00:08:44,591 --> 00:08:46,324
-   a semi-tough thermoplastic,  
+a semi-tough thermoplastic,  
 
 123
 00:08:46,326 --> 00:08:49,995
- and some colored polyethylene, 
-  a lightweight thermoplastic.  
+and some colored polyethylene, a lightweight thermoplastic.  
 
 124
 00:08:49,997 --> 00:08:52,664
 now that the handles and refills
-            are made,           
+are made,           
 
 125
 00:08:52,666 --> 00:08:55,066
-       it's just a matter       
-       of assembling them.      
+it's just a matter of assembling them.      
 
 126
 00:08:55,068 --> 00:08:58,136
-     these plastic bearings     
-  hold the components together. 
+these plastic bearings hold the components together. 
 
 127
 00:09:00,541 --> 00:09:03,642
-          the assembly          
-     is entirely automated.     
+the assembly is entirely automated.     
 
 128
 00:09:06,480 --> 00:09:08,280
-       the bottom bearing       
-         goes on first.         
+the bottom bearing goes on first.         
 
 129
 00:09:08,282 --> 00:09:11,016
-    it rests against the part   
-      called the shoulder.      
+it rests against the part called the shoulder.      
 
 130
 00:09:13,286 --> 00:09:15,654
-        next, the refill.       
+next, the refill.       
 
 131
 00:09:18,091 --> 00:09:21,960
- the bottom bearing slots right 
- into the open end of the tube. 
+the bottom bearing slots right into the open end of the tube. 
 
 132
 00:09:26,900 --> 00:09:29,801
-  now the top bearing goes on.  
+now the top bearing goes on.  
 
 133
 00:09:39,579 --> 00:09:43,114
- a metal clip locks the bearings
-      and roller in place.      
+a metal clip locks the bearings
+and roller in place.      
 
 134
 00:09:52,926 --> 00:09:56,795
- and, voilà, a three-inch roller
- for painting windows and trims.
+and, voilà, a three-inch roller
+for painting windows and trims.
 
 135
 00:09:58,998 --> 00:10:02,267
-     this factory also makes    
- disposable plastic paint trays 
+this factory also makes disposable plastic paint trays 
 
 136
 00:10:02,269 --> 00:10:03,802
-        and tray liners.        
+and tray liners.        
 
 137
 00:10:03,804 --> 00:10:07,739
-  they're made of polyethylene  
+they're made of polyethylene  
 terephthalate, p.e.t. for short,
 
 138
 00:10:07,741 --> 00:10:10,609
- a type of plastic that's strong
-          yet flexible.         
+a type of plastic that's strong
+yet flexible.         
 
 139
 00:10:16,617 --> 00:10:20,084
-     this thermoform machine    
-      heats a p.e.t. sheet,     
+this thermoform machine heats a p.e.t. sheet,     
 
 140
 00:10:20,086 --> 00:10:23,221
-         then vacuums it        
-    into a tray-shaped mold.    
+then vacuums it into a tray-shaped mold.    
 
 141
 00:10:23,223 --> 00:10:25,690
-      fans cool and harden      
-          the plastic.          
+fans cool and harden the plastic.          
 
 142
 00:10:25,692 --> 00:10:29,360
-  this heat mold-and-cool cycle 
-  takes just 30 to 50 seconds,  
+this heat mold-and-cool cycle takes just 30 to 50 seconds,  
 
 143
 00:10:29,362 --> 00:10:32,631
@@ -687,174 +586,148 @@ depending on the tray thickness.
 
 144
 00:10:32,633 --> 00:10:35,099
-        the molded sheets       
-        go into a cutter.       
+the molded sheets go into a cutter.       
 
 145
 00:10:35,101 --> 00:10:37,702
-       it excises the tray      
-          in one slice.         
+it excises the tray in one slice.         
 
 146
 00:10:37,704 --> 00:10:40,638
-      the factory grinds up     
-      the leftover plastic      
+the factory grinds up the leftover plastic      
 
 147
 00:10:40,640 --> 00:10:44,576
-        and sends it back       
- to the supplier for recycling. 
+and sends it back to the supplier for recycling. 
 
 148
 00:10:44,578 --> 00:10:48,579
- this factory also makes roller 
- refills for applying solvents. 
+this factory also makes roller refills for applying solvents. 
 
 149
 00:10:48,581 --> 00:10:52,651
- instead of pvc, the tube inside
- is made of a tougher material, 
+instead of pvc, the tube inside
+is made of a tougher material, 
 
 150
 00:10:52,653 --> 00:10:56,388
 either a chemically strengthened
-  cardboard or a polypropylene. 
+cardboard or a polypropylene. 
 
 151
 00:11:03,597 --> 00:11:07,132
-    narrator: daredevils have   
+narrator: daredevils have   
 parachuted from cliffs or towers
 
 152
 00:11:07,134 --> 00:11:08,399
-         for centuries.         
+for centuries.         
 
 153
 00:11:08,401 --> 00:11:10,001
- when airplanes first took off, 
+when airplanes first took off, 
 
 154
 00:11:10,003 --> 00:11:12,537
-        so did parachutes       
-       as the best escape.      
+so did parachutes as the best escape.      
 
 155
 00:11:12,539 --> 00:11:15,273
-      today's aerodynamic,      
-       lightweight chutes       
+today's aerodynamic, lightweight chutes       
 
 156
 00:11:15,275 --> 00:11:18,008
-     enable cargo and people    
-        to descend safely       
+enable cargo and people to descend safely       
 
 157
 00:11:18,010 --> 00:11:20,245
-    and land right on target.   
+and land right on target.   
 
 158
 00:11:27,554 --> 00:11:30,621
-          this company          
-   makes military parachutes.   
+this company makes military parachutes.   
 
 159
 00:11:30,623 --> 00:11:35,060
- each one has a 30-foot wingspan
-  and carries up to 440 pounds. 
+each one has a 30-foot wingspan
+and carries up to 440 pounds. 
 
 160
 00:11:40,701 --> 00:11:43,100
-    making the chute's canopy   
+making the chute's canopy   
 
 161
 00:11:43,102 --> 00:11:46,838
-   starts with a rugged woven   
+starts with a rugged woven   
 nylon fabric with nylon ribbing.
 
 162
 00:11:46,840 --> 00:11:50,841
- this light table lets a worker 
- detect any flaws in the fabric.
+this light table lets a worker detect any flaws in the fabric.
 
 163
 00:11:50,843 --> 00:11:53,511
-      the alignment between     
- the ribbing must be consistent,
+the alignment between the ribbing must be consistent,
 
 164
 00:11:53,513 --> 00:11:56,614
-         spaced no more         
-     than 1.5 inches apart.     
+spaced no more than 1.5 inches apart.     
 
 165
 00:11:59,119 --> 00:12:01,385
-     they test the strength     
-          of the fabric         
+they test the strength of the fabric         
 
 166
 00:12:01,387 --> 00:12:03,521
-     by pulling the material    
-         until it rips.         
+by pulling the material until it rips.         
 
 167
 00:12:03,523 --> 00:12:05,990
-            to pass,            
-    the fabric must withstand   
+to pass, the fabric must withstand   
 
 168
 00:12:05,992 --> 00:12:08,760
-     a minimum of 44 pounds     
-        of pulling force.       
+a minimum of 44 pounds of pulling force.       
 
 169
 00:12:15,602 --> 00:12:18,469
-        a laser cuts out        
-      the parachute parts,      
+a laser cuts out the parachute parts,      
 
 170
 00:12:18,471 --> 00:12:21,739
-       30 to 100 of them,       
-     depending on the model.    
+30 to 100 of them, depending on the model.    
 
 171
 00:12:21,741 --> 00:12:24,342
-         a vacuum system        
-      stabilizes the fabric     
+a vacuum system stabilizes the fabric     
 
 172
 00:12:24,344 --> 00:12:27,411
-   by sucking it to the table   
-         during cutting.        
+by sucking it to the table during cutting.        
 
 173
 00:12:27,413 --> 00:12:29,013
-           the fabric           
-    is usually silver-colored   
+the fabric is usually silver-colored   
 
 174
 00:12:29,015 --> 00:12:32,484
-       to blend in against      
-        the daytime sky.        
+to blend in against the daytime sky.        
 
 175
 00:12:37,557 --> 00:12:40,425
-          a seamstress          
-     now sews on nylon tape     
+a seamstress now sews on nylon tape     
 
 176
 00:12:40,427 --> 00:12:43,761
-       to attach the parts      
-    and reinforce the seams.    
+to attach the parts and reinforce the seams.    
 
 177
 00:12:43,763 --> 00:12:46,765
-  some panels have holes about  
-   the size of a dinner plate   
+some panels have holes about the size of a dinner plate   
 
 178
 00:12:46,767 --> 00:12:49,567
-      to funnel air between     
-  the two layers of the canopy  
+to funnel air between the two layers of the canopy  
 
 179
 00:12:49,569 --> 00:12:51,870
@@ -862,168 +735,146 @@ and keep it rigid during flight.
 
 180
 00:12:53,640 --> 00:12:55,039
-    once they finish sewing,    
+once they finish sewing,    
 
 181
 00:12:55,041 --> 00:12:57,842
-  workers meticulously inspect  
-         the stitching.         
+workers meticulously inspect the stitching.         
 
 182
 00:12:57,844 --> 00:13:01,913
-  every inch of stitching must  
- have between 7 and 10 stitches.
+every inch of stitching must have between 7 and 10 stitches.
 
 183
 00:13:05,051 --> 00:13:07,785
-  if the stitching is too close 
-        or too far apart,       
+if the stitching is too close or too far apart,       
 
 184
 00:13:07,787 --> 00:13:11,055
 the fabric could rip, and that's
-     the last thing you want    
+the last thing you want    
 
 185
 00:13:11,057 --> 00:13:12,723
-  when your chute is descending 
+when your chute is descending 
 
 186
 00:13:12,725 --> 00:13:15,126
-            at a rate           
-  of up to 13 feet per second.  
+at a rate of up to 13 feet per second.  
 
 187
 00:13:15,128 --> 00:13:18,062
- so they mark any problem spots 
-        with a red ribbon       
+so they mark any problem spots with a red ribbon       
 
 188
 00:13:18,064 --> 00:13:19,631
-         and resew them.        
+and resew them.        
 
 189
 00:13:25,605 --> 00:13:27,605
- here, a worker sews nylon tape 
+here, a worker sews nylon tape 
 
 190
 00:13:27,607 --> 00:13:30,141
-          to reinforce          
-     an area called a flare,    
+to reinforce an area called a flare,    
 
 191
 00:13:30,143 --> 00:13:32,810
-   which is a triangular patch  
-            of nylon            
+which is a triangular patch of nylon            
 
 192
 00:13:32,812 --> 00:13:35,880
-           reinforced           
-     with silicone coating.     
+reinforced with silicone coating.     
 
 193
 00:13:35,882 --> 00:13:38,749
-       she loops the tape       
-  at one of the flare's points  
+she loops the tape at one of the flare's points  
 
 194
 00:13:38,751 --> 00:13:41,686
-         to later insert        
+to later insert        
 what's called a suspension line.
 
 195
 00:13:41,688 --> 00:13:45,089
- the 60 lines link the 60 flares
-          on the canopy         
+the 60 lines link the 60 flares
+on the canopy         
 
 196
 00:13:45,091 --> 00:13:48,025
-    to the jumper's harness.    
+to the jumper's harness.    
 
 197
 00:13:48,027 --> 00:13:49,761
-    to reinforce each flare,    
+to reinforce each flare,    
 
 198
 00:13:49,763 --> 00:13:53,131
-   she sews 42 zigzag stitches  
-        in a 1-inch area.       
+she sews 42 zigzag stitches in a 1-inch area.       
 
 199
 00:13:57,170 --> 00:13:59,971
-    the nylon suspension line   
-       arrives on spools,       
+the nylon suspension line arrives on spools,       
 
 200
 00:13:59,973 --> 00:14:03,274
-   so workers use this machine  
-     to stretch it straight.    
+so workers use this machine to stretch it straight.    
 
 201
 00:14:21,995 --> 00:14:25,663
-       a worker marks off       
-   up to 14 1/2 feet per line   
+a worker marks off up to 14 1/2 feet per line   
 
 202
 00:14:25,665 --> 00:14:29,200
-     and cuts it on an angle    
-       to reduce fraying.       
+and cuts it on an angle to reduce fraying.       
 
 203
 00:14:29,202 --> 00:14:31,435
-   workers later sew the ends   
-           into loops           
+workers later sew the ends into loops           
 
 204
 00:14:31,437 --> 00:14:34,572
-   so they can attach each one  
-   to the loop on the flares.   
+so they can attach each one to the loop on the flares.   
 
 205
 00:14:37,077 --> 00:14:40,077
-         a worker makes         
- a lark's head knot in each line
+a worker makes a lark's head knot in each line
 
 206
 00:14:40,079 --> 00:14:41,546
-     and ties it to a flare.    
+and ties it to a flare.    
 
 207
 00:14:41,548 --> 00:14:45,616
-  this type of knot is easy to  
- undo if a line needs replacing.
+this type of knot is easy to undo if a line needs replacing.
 
 208
 00:14:45,618 --> 00:14:49,087
-     connecting the 60 lines    
-    to the canopy's 60 flares   
+connecting the 60 lines to the canopy's 60 flares   
 
 209
 00:14:49,089 --> 00:14:50,421
-     takes about two hours.     
+takes about two hours.     
 
 210
 00:14:50,423 --> 00:14:52,690
-   only after all these knots   
-           are secure           
+only after all these knots are secure           
 
 211
 00:14:52,692 --> 00:14:55,092
-     can they pack the chute    
-        into the backpack       
+can they pack the chute into the backpack       
 
 212
 00:14:55,094 --> 00:14:57,161
-  and ship it to the customer.  
+and ship it to the customer.  
 
 213
 00:14:59,499 --> 00:15:02,901
-       the nylon backpack       
-  has two identical parachutes, 
+the nylon backpack has two identical parachutes, 
 
 214
 00:15:02,903 --> 00:15:05,035
-  the main chute and a reserve. 
+the main chute and a reserve. 
 
 215
 00:15:05,037 --> 00:15:07,238
@@ -1031,90 +882,77 @@ this worker is sewing the panels
 
 216
 00:15:07,240 --> 00:15:09,707
-        that will encase        
-       the reserve chute.       
+that will encase the reserve chute.       
 
 217
 00:15:09,709 --> 00:15:11,442
-   extra stitching reinforces   
+extra stitching reinforces   
 
 218
 00:15:11,444 --> 00:15:14,178
-      the strap connecting      
-        the steel buckle,       
+the strap connecting the steel buckle,       
 
 219
 00:15:14,180 --> 00:15:17,448
-   which fastens an extra pack  
-      for up to 100 pounds.     
+which fastens an extra pack for up to 100 pounds.     
 
 220
 00:15:19,519 --> 00:15:22,920
 it's critical to strictly follow
-   the company's instructions   
+the company's instructions   
 
 221
 00:15:22,922 --> 00:15:24,255
-     when packing the chute.    
+when packing the chute.    
 
 222
 00:15:24,257 --> 00:15:28,192
-       you roll the ends,       
- then fold the rest into layers.
+you roll the ends, then fold the rest into layers.
 
 223
 00:15:28,194 --> 00:15:31,262
-        before each jump,       
- you have to untangle the lines 
+before each jump, you have to untangle the lines 
 
 224
 00:15:31,264 --> 00:15:34,165
-     and check for any tears    
-     from the previous jump.    
+and check for any tears from the previous jump.    
 
 225
 00:15:35,802 --> 00:15:39,237
-    then you insert the lines   
-    and canopy into the pack.   
+then you insert the lines and canopy into the pack.   
 
 226
 00:15:41,941 --> 00:15:46,543
-   you pull on this red nylon   
+you pull on this red nylon   
 handle to deploy the main chute.
 
 227
 00:15:46,545 --> 00:15:49,414
-        the yellow handle       
-    is for the reserve chute.   
+the yellow handle is for the reserve chute.   
 
 228
 00:15:49,416 --> 00:15:51,749
-        there are straps        
-       over the shoulders,      
+there are straps over the shoulders,      
 
 229
 00:15:51,751 --> 00:15:53,551
-     chest, belly, and legs.    
+chest, belly, and legs.    
 
 230
 00:15:53,553 --> 00:15:57,322
-    and three buckles attach    
-   the harness to the jumper.   
+and three buckles attach the harness to the jumper.   
 
 231
 00:16:09,302 --> 00:16:12,503
-  narrator: your home's chimney 
-    vents hot gases or smoke    
+narrator: your home's chimney vents hot gases or smoke    
 
 232
 00:16:12,505 --> 00:16:14,638
-       from your fireplace      
-         to the outside.        
+from your fireplace to the outside.        
 
 233
 00:16:14,640 --> 00:16:18,042
-   some types also channel air  
- to the fire to keep it burning.
+some types also channel air to the fire to keep it burning.
 
 234
 00:16:18,044 --> 00:16:19,977
@@ -1122,75 +960,66 @@ although the concept's very old,
 
 235
 00:16:19,979 --> 00:16:22,513
-        today's chimneys        
-      have come a long way.     
+today's chimneys have come a long way.     
 
 236
 00:16:22,515 --> 00:16:24,716
-    they're energy-efficient    
-          and modular,          
+they're energy-efficient and modular,          
 
 237
 00:16:24,718 --> 00:16:27,218
- so you can easily assemble them
-            yourself.           
+so you can easily assemble them
+yourself.           
 
 238
 00:16:30,724 --> 00:16:32,656
-   this company makes chimneys  
+this company makes chimneys  
 
 239
 00:16:32,658 --> 00:16:35,660
-          for gas-fired         
-  and wood-burning fireplaces.  
+for gas-fired and wood-burning fireplaces.  
 
 240
 00:16:38,665 --> 00:16:41,465
-    a chimney's inner chamber   
-        is called a flue.       
+a chimney's inner chamber is called a flue.       
 
 241
 00:16:41,467 --> 00:16:43,400
-  for a wood-burning fireplace, 
+for a wood-burning fireplace, 
 
 242
 00:16:43,402 --> 00:16:45,803
-       they make the flue       
-      from stainless steel.     
+they make the flue from stainless steel.     
 
 243
 00:16:45,805 --> 00:16:47,405
-     workers unwind a sheet,    
+workers unwind a sheet,    
 
 244
 00:16:47,407 --> 00:16:51,409
-  then slice it to the size of  
+then slice it to the size of  
 the flue section they're making.
 
 245
 00:16:51,411 --> 00:16:55,679
-     the sections are up to     
- 10 inches wide and 4 feet long.
+the sections are up to 10 inches wide and 4 feet long.
 
 246
 00:16:55,681 --> 00:17:00,484
-  they assemble as many as they 
+they assemble as many as they 
 need to make a complete chimney.
 
 247
 00:17:00,486 --> 00:17:03,487
- here, a worker folds the edges 
-     in opposite directions,    
+here, a worker folds the edges in opposite directions,    
 
 248
 00:17:03,489 --> 00:17:05,623
-     which will enable them     
-          to interlock.         
+which will enable them to interlock.         
 
 249
 00:17:05,625 --> 00:17:08,358
-   rollers then curl the sheet  
-        into a cylinder.        
+rollers then curl the sheet into a cylinder.        
 
 250
 00:17:08,360 --> 00:17:10,294
@@ -1198,111 +1027,94 @@ the metal is only about as thick
 
 251
 00:17:10,296 --> 00:17:12,830
-     as four pieces of paper    
-        stacked together.       
+as four pieces of paper stacked together.       
 
 252
 00:17:12,832 --> 00:17:15,099
-     this keeps the chimney     
-          lightweight.          
+this keeps the chimney lightweight.          
 
 253
 00:17:19,639 --> 00:17:22,239
-   they weld together the top   
-        and bottom ends,        
+they weld together the top and bottom ends,        
 
 254
 00:17:22,241 --> 00:17:24,509
-          and a roller          
-    flattens the welded seam.   
+and a roller flattens the welded seam.   
 
 255
 00:17:29,983 --> 00:17:33,717
-     they insert the bottom     
+they insert the bottom     
 of the flue between two rollers.
 
 256
 00:17:33,719 --> 00:17:37,388
-   they form a ridge to which   
-  a coupler will later attach.  
+they form a ridge to which a coupler will later attach.  
 
 257
 00:17:37,390 --> 00:17:42,126
- they crimp the metal at the top
- so it can also hold a coupler. 
+they crimp the metal at the top
+so it can also hold a coupler. 
 
 258
 00:17:46,665 --> 00:17:50,001
-    to make top-end couplers,   
-     a die punches the shape    
+to make top-end couplers, a die punches the shape    
 
 259
 00:17:50,003 --> 00:17:53,070
-     from lubricated sheets     
-       of stainless steel.      
+from lubricated sheets of stainless steel.      
 
 260
 00:17:53,072 --> 00:17:55,940
-          a robotic arm         
-  then suctions out the coupler 
+a robotic arm then suctions out the coupler 
 
 261
 00:17:55,942 --> 00:17:57,808
-          and places it         
-      onto another machine      
+and places it onto another machine      
 
 262
 00:17:57,810 --> 00:18:00,044
-        that cuts threads       
-      into the sides of it.     
+that cuts threads into the sides of it.     
 
 263
 00:18:04,150 --> 00:18:06,884
-          these threads         
-   enable the chimney sections  
+these threads enable the chimney sections  
 
 264
 00:18:06,886 --> 00:18:08,619
-   to twist and lock together.  
+to twist and lock together.  
 
 265
 00:18:13,092 --> 00:18:14,558
-     to attach the coupler,     
+to attach the coupler,     
 
 266
 00:18:14,560 --> 00:18:17,228
-      the worker mounts it      
-      on top of the flue.       
+the worker mounts it on top of the flue.       
 
 267
 00:18:20,867 --> 00:18:24,035
-  a roller then pushes against  
-    the flue in the coupler.    
+a roller then pushes against the flue in the coupler.    
 
 268
 00:18:24,037 --> 00:18:27,438
-     this expands the metal     
+this expands the metal     
 and secures the pieces together.
 
 269
 00:18:29,508 --> 00:18:32,109
-      now to join the flue      
-     with the outer casing.     
+now to join the flue with the outer casing.     
 
 270
 00:18:32,111 --> 00:18:34,912
-  an eight-sided die pushes out 
-        against a coupler       
+an eight-sided die pushes out against a coupler       
 
 271
 00:18:34,914 --> 00:18:37,348
-    to attach it to the flue    
-         in the casing.         
+to attach it to the flue in the casing.         
 
 272
 00:18:40,520 --> 00:18:43,588
-    they insulate the chimney   
-   with shredded ceramic fiber  
+they insulate the chimney with shredded ceramic fiber  
 
 273
 00:18:43,590 --> 00:18:45,389
@@ -1310,23 +1122,20 @@ that can withstand a temperature
 
 274
 00:18:45,391 --> 00:18:48,792
-            of up to            
-    2,100 degrees fahrenheit.   
+of up to 2,100 degrees fahrenheit.   
 
 275
 00:18:48,794 --> 00:18:51,129
-     workers feed the fiber     
-         into a machine         
+workers feed the fiber into a machine         
 
 276
 00:18:51,131 --> 00:18:54,799
-  that packs it into the cavity 
+that packs it into the cavity 
 between the flue and the casing.
 
 277
 00:18:59,939 --> 00:19:03,007
-     the machine then moves     
- the chimney to another station 
+the machine then moves the chimney to another station 
 
 278
 00:19:03,009 --> 00:19:06,177
@@ -1335,66 +1144,56 @@ bottom end to close the cavity.
 
 279
 00:19:12,819 --> 00:19:15,619
-     after a quick brushing     
-    to remove any fiber dust,   
+after a quick brushing to remove any fiber dust,   
 
 280
 00:19:15,621 --> 00:19:17,755
-        a mechanical arm        
-        lifts the chimney       
+a mechanical arm lifts the chimney       
 
 281
 00:19:17,757 --> 00:19:20,057
-    and moves it to be boxed    
-          and shipped.          
+and moves it to be boxed and shipped.          
 
 282
 00:19:24,430 --> 00:19:27,165
-     a gas-burning fireplace    
-       generates less heat      
+a gas-burning fireplace generates less heat      
 
 283
 00:19:27,167 --> 00:19:28,832
-   and fewer corrosive gases,   
+and fewer corrosive gases,   
 
 284
 00:19:28,834 --> 00:19:32,169
-   so the chimney flue is made  
-    of aluminum-coated steel    
+so the chimney flue is made of aluminum-coated steel    
 
 285
 00:19:32,171 --> 00:19:34,972
-          and a casing          
-   of a zinc-aluminum alloy --  
+and a casing of a zinc-aluminum alloy --  
 
 286
 00:19:34,974 --> 00:19:36,641
-   more-affordable materials,   
+more-affordable materials,   
 
 287
 00:19:36,643 --> 00:19:39,310
-      yet still well above      
-        safety standards.       
+yet still well above safety standards.       
 
 288
 00:19:39,312 --> 00:19:41,846
- the air space between the flue 
-           and casing           
+the air space between the flue and casing           
 
 289
 00:19:41,848 --> 00:19:45,116
-            provides            
-    the required insulation.    
+provides the required insulation.    
 
 290
 00:19:45,118 --> 00:19:48,785
-    a worker places the flue    
-   inside an automated welder.  
+a worker places the flue inside an automated welder.  
 
 291
 00:19:48,787 --> 00:19:52,523
- it fuses the edges with a laser
- that's as thin as a human hair.
+it fuses the edges with a laser
+that's as thin as a human hair.
 
 292
 00:19:52,525 --> 00:19:54,524
@@ -1402,89 +1201,74 @@ this is called a butt laser weld
 
 293
 00:19:54,526 --> 00:19:58,596
- because the machine butts the  
- edges together and bonds them. 
+because the machine butts the edges together and bonds them. 
 
 294
 00:20:05,004 --> 00:20:09,339
 next, an eight-sided die indents
- the section with three ridges. 
+the section with three ridges. 
 
 295
 00:20:09,341 --> 00:20:12,910
-      a component will fit      
- into these indentations later. 
+a component will fit into these indentations later. 
 
 296
 00:20:15,215 --> 00:20:18,482
-     here, a machine creates    
-     a star-shaped component    
+here, a machine creates a star-shaped component    
 
 297
 00:20:18,484 --> 00:20:19,750
-        called a spacer.        
+called a spacer.        
 
 298
 00:20:19,752 --> 00:20:23,020
- they use two of them to center 
-     the flue in the casing.    
+they use two of them to center the flue in the casing.    
 
 299
 00:20:34,700 --> 00:20:37,969
-      a worker installs one     
-    at each end of the flue.    
+a worker installs one at each end of the flue.    
 
 300
 00:20:42,508 --> 00:20:45,042
-    he then inserts the flue    
-         into the casing        
+he then inserts the flue into the casing        
 
 301
 00:20:45,044 --> 00:20:48,112
-      and twists it to lock     
-  the spacers into the ridges.  
+and twists it to lock the spacers into the ridges.  
 
 302
 00:20:48,114 --> 00:20:52,116
-    this connects and aligns    
- the chimney sections properly. 
+this connects and aligns the chimney sections properly. 
 
 303
 00:20:54,753 --> 00:20:57,588
-      the tops of chimneys      
-      have steel rain caps.     
+the tops of chimneys have steel rain caps.     
 
 304
 00:20:57,590 --> 00:21:00,791
-  they let smoke and gases vent 
-       but keep rain out,       
+they let smoke and gases vent but keep rain out,       
 
 305
 00:21:00,793 --> 00:21:04,061
-  ensuring that where's there's 
-  smoke, there is indeed fire.  
+ensuring that where's there's smoke, there is indeed fire.  
 
 306
 00:21:04,063 --> 00:21:07,130
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 307
 00:21:07,132 --> 00:21:10,067
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 308
 00:21:12,471 --> 00:21:14,672
-    if you have any comments    
-         about the show         
+if you have any comments about the show         
 
 309
 00:21:14,674 --> 00:21:17,341
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 310
 00:21:17,343 --> 00:21:18,743
-     drop us at a line at...    
+drop us at a line at...    
 

@@ -1,279 +1,236 @@
 ﻿1
 00:00:02,536 --> 00:00:05,471
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,473 --> 00:00:08,507
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:22,423 --> 00:00:25,491
-            narrator:           
-    today on "how it's made,"   
+narrator: today on "how it's made,"   
 
 4
 00:00:25,493 --> 00:00:27,359
-      firefighter boots...      
+firefighter boots...      
 
 5
 00:00:31,165 --> 00:00:33,165
-       ...garden tools...       
+...garden tools...       
 
 6
 00:00:37,070 --> 00:00:38,737
-    ...automated machines...    
+...automated machines...    
 
 7
 00:00:41,842 --> 00:00:44,576
-      ...and gypsum board.      
+...and gypsum board.      
 
 8
 00:00:51,452 --> 00:00:55,654
-     firefighters need boots    
- they can pull on lightning fast
+firefighters need boots they can pull on lightning fast
 
 9
 00:00:55,656 --> 00:00:58,390
-       to get to the blaze      
-     as quickly as possible.    
+to get to the blaze as quickly as possible.    
 
 10
 00:00:58,392 --> 00:01:02,661
-     those boots have to be     
- fire-resistant and waterproof. 
+those boots have to be fire-resistant and waterproof. 
 
 11
 00:01:02,663 --> 00:01:05,531
- they have to provide good grip 
-      for climbing ladders      
+they have to provide good grip for climbing ladders      
 
 12
 00:01:05,533 --> 00:01:07,732
-      and be sturdy enough      
-         not to puncture        
+and be sturdy enough not to puncture        
 
 13
 00:01:07,734 --> 00:01:10,302
-          when stepping         
-      through sharp debris.     
+when stepping through sharp debris.     
 
 14
 00:01:14,275 --> 00:01:18,077
-  firefighter boots start out   
-  as a chunky block of rubber.  
+firefighter boots start out as a chunky block of rubber.  
 
 15
 00:01:20,747 --> 00:01:23,949
-    the first step is to put    
-    the block through a mill.   
+the first step is to put the block through a mill.   
 
 16
 00:01:23,951 --> 00:01:27,753
-  it passes through the rollers 
-       over and over again      
+it passes through the rollers over and over again      
 
 17
 00:01:27,755 --> 00:01:31,056
-   until it gradually flattens  
-         and thins out.         
+until it gradually flattens and thins out.         
 
 18
 00:01:33,227 --> 00:01:35,561
-  workers then add chemicals -- 
+workers then add chemicals -- 
 
 19
 00:01:35,563 --> 00:01:38,964
-     anywhere from 15 to 35     
-       different types --       
+anywhere from 15 to 35 different types --       
 
 20
 00:01:38,966 --> 00:01:41,233
- depending on the model of boot 
-         they're making.        
+depending on the model of boot they're making.        
 
 21
 00:01:41,235 --> 00:01:45,504
- the rubber formulation is what 
- makes the boot fire-resistant. 
+the rubber formulation is what makes the boot fire-resistant. 
 
 22
 00:01:47,975 --> 00:01:50,442
-         once the rubber        
-    is smooth and malleable,    
+once the rubber is smooth and malleable,    
 
 23
 00:01:50,444 --> 00:01:52,911
-      about the consistency     
-       of modeling dough,       
+about the consistency of modeling dough,       
 
 24
 00:01:52,913 --> 00:01:55,647
-    they form it into sheets    
-     from which they'll cut     
+they form it into sheets from which they'll cut     
 
 25
 00:01:55,649 --> 00:01:58,183
-       the various pieces       
-     that make up the boot.     
+the various pieces that make up the boot.     
 
 26
 00:01:58,185 --> 00:02:00,652
-      they feed this sheet      
-         through rollers        
+they feed this sheet through rollers        
 
 27
 00:02:00,654 --> 00:02:03,588
-   that imprint vertical lines  
-         on the rubber.         
+that imprint vertical lines on the rubber.         
 
 28
 00:02:03,590 --> 00:02:06,458
-      they'll cut the sheet     
-        along these lines       
+they'll cut the sheet along these lines       
 
 29
 00:02:06,460 --> 00:02:10,061
 to make the strips that run down
-      the back of the boot.     
+the back of the boot.     
 
 30
 00:02:10,063 --> 00:02:13,532
-  from another sheet of rubber, 
-      using a handheld die,     
+from another sheet of rubber, using a handheld die,     
 
 31
 00:02:13,534 --> 00:02:17,802
-       they cut one layer       
-    of the multilayered sole.   
+they cut one layer of the multilayered sole.   
 
 32
 00:02:17,804 --> 00:02:20,472
-  they run an extra-thick sheet 
-            of rubber           
+they run an extra-thick sheet of rubber           
 
 33
 00:02:20,474 --> 00:02:23,809
-         through rollers        
-  that imprint a tread pattern. 
+through rollers that imprint a tread pattern. 
 
 34
 00:02:23,811 --> 00:02:27,446
-      then workers cut out      
-        the bottom soles.       
+then workers cut out the bottom soles.       
 
 35
 00:02:36,957 --> 00:02:39,625
-     they mark the boot size    
-         on the bottom.         
+they mark the boot size on the bottom.         
 
 36
 00:02:39,627 --> 00:02:44,429
- using yellow rubber, they cut  
- out the boot's toe-cap covers. 
+using yellow rubber, they cut out the boot's toe-cap covers. 
 
 37
 00:02:46,366 --> 00:02:48,566
-         the boot's leg         
-       has a stiff lining       
+the boot's leg has a stiff lining       
 
 38
 00:02:48,568 --> 00:02:50,235
-  to prevent it from wobbling.  
+to prevent it from wobbling.  
 
 39
 00:02:50,237 --> 00:02:53,905
-       workers cut it from      
-  a rubber-backed cotton fabric 
+workers cut it from a rubber-backed cotton fabric 
 
 40
 00:02:53,907 --> 00:02:55,440
-      following a pattern.      
+following a pattern.      
 
 41
 00:02:55,442 --> 00:02:57,242
-  once all the pieces are cut,  
+once all the pieces are cut,  
 
 42
 00:02:57,244 --> 00:02:59,978
-  workers can assemble the boot 
-           on a form.           
+workers can assemble the boot on a form.           
 
 43
 00:02:59,980 --> 00:03:03,715
-  they start with the lining,   
-  wrapping it around the front  
+they start with the lining, wrapping it around the front  
 
 44
 00:03:03,717 --> 00:03:06,251
-      and gluing it closed      
-          at the back.          
+and gluing it closed at the back.          
 
 45
 00:03:06,253 --> 00:03:08,387
-  then they glue on the insole. 
+then they glue on the insole. 
 
 46
 00:03:08,389 --> 00:03:11,923
-    for this model, it's made   
-     of rubber-backed felt.     
+for this model, it's made of rubber-backed felt.     
 
 47
 00:03:11,925 --> 00:03:14,926
-   they secure the lining seam  
+they secure the lining seam  
 
 48
 00:03:14,928 --> 00:03:18,230
-  and seal it with one of those 
-  rubber strips we saw earlier. 
+and seal it with one of those rubber strips we saw earlier. 
 
 49
 00:03:20,801 --> 00:03:22,934
-         now the van --         
+now the van --         
 
 50
 00:03:22,936 --> 00:03:26,538
-   a piece of felt reinforced   
-  with a thin layer of rubber.  
+a piece of felt reinforced with a thin layer of rubber.  
 
 51
 00:03:26,540 --> 00:03:29,541
-  this gives the boot strength. 
+this gives the boot strength. 
 
 52
 00:03:29,543 --> 00:03:33,945
-     next, a toe-cap sponge     
-    made of rubber compounds.   
+next, a toe-cap sponge made of rubber compounds.   
 
 53
 00:03:33,947 --> 00:03:35,480
-    when they cure the boot,    
+when they cure the boot,    
 
 54
 00:03:35,482 --> 00:03:39,084
 the sponge will inflate and hold
-   the steel toe cap in place.  
+the steel toe cap in place.  
 
 55
 00:03:41,755 --> 00:03:43,755
-           to protect           
-     the firefighter's feet     
+to protect the firefighter's feet     
 
 56
 00:03:43,757 --> 00:03:45,757
-          when walking          
-      through sharp debris,     
+when walking through sharp debris,     
 
 57
 00:03:45,759 --> 00:03:48,627
-      they add a steel arch     
-        and a steel sole.       
+they add a steel arch and a steel sole.       
 
 58
 00:03:48,629 --> 00:03:52,364
-    next, an adhesive-backed    
-         toe-cap cover.         
+next, an adhesive-backed toe-cap cover.         
 
 59
 00:03:54,501 --> 00:03:59,104
@@ -282,23 +239,19 @@ firefighter's foot against heat.
 
 60
 00:03:59,106 --> 00:04:01,306
-       it has a steel arch      
-         for stability,         
+it has a steel arch for stability,         
 
 61
 00:04:01,308 --> 00:04:04,576
-   useful when the firefighter  
-    needs to climb a ladder.    
+useful when the firefighter needs to climb a ladder.    
 
 62
 00:04:04,578 --> 00:04:07,112
-         after applying         
-  a rubber heel-reinforcement,  
+after applying a rubber heel-reinforcement,  
 
 63
 00:04:07,114 --> 00:04:09,781
-    they cover the lower part   
-           of the boot          
+they cover the lower part of the boot          
 
 64
 00:04:09,783 --> 00:04:11,984
@@ -306,23 +259,19 @@ with yellow foam for insulation.
 
 65
 00:04:16,656 --> 00:04:19,725
-         they secure it         
-    using a strip of rubber.    
+they secure it using a strip of rubber.    
 
 66
 00:04:19,727 --> 00:04:24,529
-   now they finish the bottom   
-  of the boot in black rubber.  
+now they finish the bottom of the boot in black rubber.  
 
 67
 00:04:24,531 --> 00:04:30,068
-     they reinforce the back    
-  and sides in yellow rubber... 
+they reinforce the back and sides in yellow rubber... 
 
 68
 00:04:30,070 --> 00:04:33,472
-       and finish them off      
-        in black rubber.        
+and finish them off in black rubber.        
 
 69
 00:04:40,481 --> 00:04:43,882
@@ -330,37 +279,32 @@ next comes the yellow toe cap...
 
 70
 00:04:43,884 --> 00:04:47,152
-        then a rubber pad       
+then a rubber pad       
 to protect the front of the boot
 
 71
 00:04:47,154 --> 00:04:50,622
-      when it rubs against      
-    the rungs of the ladder.    
+when it rubs against the rungs of the ladder.    
 
 72
 00:04:50,624 --> 00:04:54,492
-      now the bottom sole.      
+now the bottom sole.      
 
 73
 00:04:54,494 --> 00:04:58,096
-        they use a press        
-      to seal it in place.      
+they use a press to seal it in place.      
 
 74
 00:04:58,098 --> 00:05:01,833
-     rubber bonds to rubber     
-         under pressure.        
+rubber bonds to rubber under pressure.        
 
 75
 00:05:01,835 --> 00:05:04,036
-    they apply a rubber trim    
-        around the bottom       
+they apply a rubber trim around the bottom       
 
 76
 00:05:04,038 --> 00:05:07,839
-      using a small roller      
-      to press it in place.     
+using a small roller to press it in place.     
 
 77
 00:05:07,841 --> 00:05:12,710
@@ -369,189 +313,162 @@ to ensure they're well-adhered.
 
 78
 00:05:12,712 --> 00:05:15,781
- then it's into a vacuum machine
-     for about four seconds     
+then it's into a vacuum machine
+for about four seconds     
 
 79
 00:05:15,783 --> 00:05:18,317
-   to create an airtight bond.  
+to create an airtight bond.  
 
 80
 00:05:18,319 --> 00:05:23,054
-            finally,            
- the boots go into a giant oven 
+finally, the boots go into a giant oven 
 
 81
 00:05:23,056 --> 00:05:26,124
-         that heats them        
-   to 280-degrees fahrenheit.   
+that heats them to 280-degrees fahrenheit.   
 
 82
 00:05:26,126 --> 00:05:31,797
-  an hour and 45 minutes later, 
+an hour and 45 minutes later, 
 the rubber is cured and hardened
 
 83
 00:05:31,799 --> 00:05:34,399
-       and all the pieces       
-      have fused together.      
+and all the pieces have fused together.      
 
 84
 00:05:34,401 --> 00:05:38,136
-           these boots          
-   are ready to take the heat.  
+these boots are ready to take the heat.  
 
 85
 00:05:46,947 --> 00:05:50,348
-  narrator: anyone with a green 
-    thumb knows that it takes   
+narrator: anyone with a green thumb knows that it takes   
 
 86
 00:05:50,350 --> 00:05:53,818
-     both skill and patience    
-   to make a garden flourish.   
+both skill and patience to make a garden flourish.   
 
 87
 00:05:53,820 --> 00:05:57,422
-      it also helps to have     
-    the proper tools on hand.   
+it also helps to have the proper tools on hand.   
 
 88
 00:05:57,424 --> 00:06:00,758
-   an avid gardener's arsenal   
-     can contain everything     
+an avid gardener's arsenal can contain everything     
 
 89
 00:06:00,760 --> 00:06:03,094
-     from shears, trimmers,     
-           and pruners          
+from shears, trimmers, and pruners          
 
 90
 00:06:03,096 --> 00:06:06,865
-   to rakes, hoes, and spades.  
+to rakes, hoes, and spades.  
 
 91
 00:06:09,836 --> 00:06:13,505
-  the handles of these garden   
-  tools are made of white ash,  
+the handles of these garden tools are made of white ash,  
 
 92
 00:06:13,507 --> 00:06:15,306
-          a sturdy wood         
-  that can withstand the force  
+a sturdy wood that can withstand the force  
 
 93
 00:06:15,308 --> 00:06:17,975
-     of shoveling, digging,     
-           or raking.           
+of shoveling, digging, or raking.           
 
 94
 00:06:17,977 --> 00:06:22,514
-     these dried-ash dowels     
- measure two to seven feet long,
+these dried-ash dowels measure two to seven feet long,
 
 95
 00:06:22,516 --> 00:06:25,049
-      depending on the tool     
-           being made.          
+depending on the tool being made.          
 
 96
 00:06:25,051 --> 00:06:27,853
-        they first enter        
+they first enter        
 what's called the chucking line,
 
 97
 00:06:27,855 --> 00:06:30,589
-    where specially designed,   
-       automated machines       
+where specially designed, automated machines       
 
 98
 00:06:30,591 --> 00:06:33,858
-    shape them into handles.    
+shape them into handles.    
 
 99
 00:06:33,860 --> 00:06:36,327
-       the first operation      
-        rounds the dowels       
+the first operation rounds the dowels       
 
 100
 00:06:36,329 --> 00:06:38,062
-   to the required diameter --  
+to the required diameter --  
 
 101
 00:06:38,064 --> 00:06:40,599
-        about two inches,       
-     depending on the tool.     
+about two inches, depending on the tool.     
 
 102
 00:06:40,601 --> 00:06:44,469
-   the next operation cuts the  
-  dowels to the required length 
+the next operation cuts the dowels to the required length 
 
 103
 00:06:44,471 --> 00:06:47,005
-    and profiles their ends.    
+and profiles their ends.    
 
 104
 00:06:55,215 --> 00:06:58,082
-       two chucking heads,      
-        one on each side,       
+two chucking heads, one on each side,       
 
 105
 00:06:58,084 --> 00:07:00,418
- carve the ends simultaneously. 
+carve the ends simultaneously. 
 
 106
 00:07:00,420 --> 00:07:04,222
-  one shapes the bottom of the  
- handle to fit the tool's blade.
+one shapes the bottom of the handle to fit the tool's blade.
 
 107
 00:07:04,224 --> 00:07:07,025
-         certain blades         
-   go over the wooden handle,   
+certain blades go over the wooden handle,   
 
 108
 00:07:07,027 --> 00:07:08,893
-    while others go into it.    
+while others go into it.    
 
 109
 00:07:08,895 --> 00:07:11,363
-      for inserted blades,      
+for inserted blades,      
 
 110
 00:07:11,365 --> 00:07:14,298
-      another chucking head     
-     hollows out the handle.    
+another chucking head hollows out the handle.    
 
 111
 00:07:14,300 --> 00:07:17,168
-  meanwhile, the chucking head  
-        on the other side       
+meanwhile, the chucking head on the other side       
 
 112
 00:07:17,170 --> 00:07:19,370
-           rounds off           
-     the top of the handle.     
+rounds off the top of the handle.     
 
 113
 00:07:19,372 --> 00:07:23,308
-      the finished handles      
-   spin against a sanding belt  
+the finished handles spin against a sanding belt  
 
 114
 00:07:23,310 --> 00:07:26,511
- as they exit the chucking line.
+as they exit the chucking line.
 
 115
 00:07:26,513 --> 00:07:28,713
-          this smoothes         
-    the surface of the wood,    
+this smoothes the surface of the wood,    
 
 116
 00:07:28,715 --> 00:07:33,384
-    preparing the handles for   
-  a coat of protective varnish. 
+preparing the handles for a coat of protective varnish. 
 
 117
 00:07:33,386 --> 00:07:37,923
@@ -560,13 +477,11 @@ what's called a steel d-grip --
 
 118
 00:07:37,925 --> 00:07:41,792
-       a steel handle grip      
-      with a wooden insert.     
+a steel handle grip with a wooden insert.     
 
 119
 00:07:41,794 --> 00:07:44,929
-       an automated lathe       
-   first shapes a piece of ash  
+an automated lathe first shapes a piece of ash  
 
 120
 00:07:44,931 --> 00:07:47,065
@@ -574,190 +489,164 @@ to the right length and profile.
 
 121
 00:07:47,067 --> 00:07:50,435
-     then an automated drill    
-         pierces a hole.        
+then an automated drill pierces a hole.        
 
 122
 00:07:54,674 --> 00:07:56,874
- to make the sides of the grip, 
+to make the sides of the grip, 
 
 123
 00:07:56,876 --> 00:08:01,279
- workers begin with two precut  
- pieces of steel called blanks. 
+workers begin with two precut pieces of steel called blanks. 
 
 124
 00:08:01,281 --> 00:08:04,549
-         they place them        
-  in a manually operated press  
+they place them in a manually operated press  
 
 125
 00:08:04,551 --> 00:08:08,553
-        that shapes them        
-     in a two-step process.     
+that shapes them in a two-step process.     
 
 126
 00:08:08,555 --> 00:08:12,023
-        they use the heat       
- of a strong electrical current 
+they use the heat of a strong electrical current 
 
 127
 00:08:12,025 --> 00:08:15,293
-        to melt the steel       
-  and fuse the pieces together. 
+to melt the steel and fuse the pieces together. 
 
 128
 00:08:15,295 --> 00:08:19,430
-         this is called         
-       resistance welding.      
+this is called resistance welding.      
 
 129
 00:08:19,432 --> 00:08:21,766
-  next, they feed a steel rivet 
+next, they feed a steel rivet 
 
 130
 00:08:21,768 --> 00:08:24,269
-        through the sides       
-      and wooden insert...      
+through the sides and wooden insert...      
 
 131
 00:08:26,506 --> 00:08:29,107
-          ...and fasten         
-      everything together.      
+...and fasten everything together.      
 
 132
 00:08:32,779 --> 00:08:35,647
-    elsewhere in the factory,   
-    a heated forming machine    
+elsewhere in the factory, a heated forming machine    
 
 133
 00:08:35,649 --> 00:08:39,784
- stamps out the steel blanks the
- workers will shape into blades.
+stamps out the steel blanks the
+workers will shape into blades.
 
 134
 00:08:46,726 --> 00:08:49,861
-          a robotic arm         
- loads the blanks into an oven. 
+a robotic arm loads the blanks into an oven. 
 
 135
 00:08:57,137 --> 00:08:58,937
-      in just four minutes,     
+in just four minutes,     
 
 136
 00:08:58,939 --> 00:09:03,575
 the oven heats the steel to over
-    1,800-degrees fahrenheit.   
+1,800-degrees fahrenheit.   
 
 137
 00:09:13,486 --> 00:09:17,122
-        this intense heat       
-   makes the metal malleable.   
+this intense heat makes the metal malleable.   
 
 138
 00:09:21,962 --> 00:09:26,564
-      workers then take out     
- and shape one blank at a time. 
+workers then take out and shape one blank at a time. 
 
 139
 00:09:26,566 --> 00:09:28,633
-  they only have a few seconds  
+they only have a few seconds  
 
 140
 00:09:28,635 --> 00:09:30,902
-        to form the steel       
-      before it cools off.      
+to form the steel before it cools off.      
 
 141
 00:09:34,574 --> 00:09:37,175
-         the first press        
-       forms the blade --       
+the first press forms the blade --       
 
 142
 00:09:37,177 --> 00:09:40,244
-      in this case a shovel     
-      and a partial socket.     
+in this case a shovel and a partial socket.     
 
 143
 00:09:40,246 --> 00:09:43,982
-      then the second press     
-       closes the socket.       
+then the second press closes the socket.       
 
 144
 00:09:43,984 --> 00:09:46,918
- they quickly submerge the blade
-        in lukewarm water       
+they quickly submerge the blade
+in lukewarm water       
 
 145
 00:09:46,920 --> 00:09:49,120
-     to cool the metal down.    
+to cool the metal down.    
 
 146
 00:09:49,122 --> 00:09:51,790
-        by now, the steel       
-      is extremely brittle,     
+by now, the steel is extremely brittle,     
 
 147
 00:09:51,792 --> 00:09:55,526
-  so the blades go into what's  
-   called a tempering furnace   
+so the blades go into what's called a tempering furnace   
 
 148
 00:09:55,528 --> 00:09:57,062
-         for 15 minutes.        
+for 15 minutes.        
 
 149
 00:09:57,064 --> 00:09:59,664
-           this alters          
- the metal's internal structure,
+this alters the metal's internal structure,
 
 150
 00:09:59,666 --> 00:10:01,799
-     restoring its strength.    
+restoring its strength.    
 
 151
 00:10:01,801 --> 00:10:05,936
-        the steel d-grip        
-  has been cleaned and painted. 
+the steel d-grip has been cleaned and painted. 
 
 152
 00:10:05,938 --> 00:10:10,808
 workers insert the wooden handle
-  and nail the parts together.  
+and nail the parts together.  
 
 153
 00:10:10,810 --> 00:10:13,278
-        on the other end,       
-     they attach the blade,     
+on the other end, they attach the blade,     
 
 154
 00:10:13,280 --> 00:10:18,149
-     which, by now, has been    
- varnished to prevent corrosion.
+which, by now, has been varnished to prevent corrosion.
 
 155
 00:10:18,151 --> 00:10:21,552
-  after drilling a hole through 
-  both the metal and the wood,  
+after drilling a hole through both the metal and the wood,  
 
 156
 00:10:21,554 --> 00:10:25,356
-   they fasten the blade using  
+they fasten the blade using  
 a rivet if it's a high-end tool,
 
 157
 00:10:25,358 --> 00:10:28,026
- a nail if it's a budget model. 
+a nail if it's a budget model. 
 
 158
 00:10:28,028 --> 00:10:30,695
-     these hot-off-the-press    
-          garden tools          
+these hot-off-the-press garden tools          
 
 159
 00:10:30,697 --> 00:10:34,699
-        are finally ready       
-  to put in a hard day's work.  
+are finally ready to put in a hard day's work.  
 
 160
 00:10:42,242 --> 00:10:46,645
@@ -766,55 +655,47 @@ after the industrial revolution,
 
 161
 00:10:46,647 --> 00:10:49,514
-         mass production        
-        met automation --       
+mass production met automation --       
 
 162
 00:10:49,516 --> 00:10:54,319
-   a match made not in heaven   
-     but in high technology.    
+a match made not in heaven but in high technology.    
 
 163
 00:10:54,321 --> 00:10:55,986
-    in this special segment,    
+in this special segment,    
 
 164
 00:10:55,988 --> 00:10:59,124
-     "how it's made" honors     
-     the automated machine      
+"how it's made" honors the automated machine      
 
 165
 00:10:59,126 --> 00:11:01,359
-   with this "moving" tribute.  
+with this "moving" tribute.  
 
 166
 00:15:37,737 --> 00:15:41,539
-      narrator: it's called     
-  "gypsum board" or "drywall,"  
+narrator: it's called "gypsum board" or "drywall,"  
 
 167
 00:15:41,541 --> 00:15:45,476
-   and chances are your walls   
-  and ceilings are made of it.  
+and chances are your walls and ceilings are made of it.  
 
 168
 00:15:45,478 --> 00:15:50,614
- years ago, it replaced plaster 
- as the wall material of choice.
+years ago, it replaced plaster as the wall material of choice.
 
 169
 00:15:50,616 --> 00:15:53,684
-  workers just mount the sheets 
-       onto wood framing,       
+workers just mount the sheets onto wood framing,       
 
 170
 00:15:53,686 --> 00:15:57,522
-      plaster the joints,       
-      then sand and paint.      
+plaster the joints, then sand and paint.      
 
 171
 00:16:02,829 --> 00:16:06,163
-  gypsum is a natural mineral.  
+gypsum is a natural mineral.  
 
 172
 00:16:06,165 --> 00:16:10,901
@@ -823,13 +704,12 @@ mined to produce gypsum plaster.
 
 173
 00:16:10,903 --> 00:16:15,173
- in fact, there's gypsum plaster
-      in egypt's pyramids.      
+in fact, there's gypsum plaster
+in egypt's pyramids.      
 
 174
 00:16:15,175 --> 00:16:18,976
-   in 1894, a man by the name   
-      of augustine sackett      
+in 1894, a man by the name of augustine sackett      
 
 175
 00:16:18,978 --> 00:16:23,981
@@ -838,142 +718,123 @@ which he called "plasterboard."
 
 176
 00:16:23,983 --> 00:16:26,417
-  but it didn't become the norm 
-         in construction        
+but it didn't become the norm in construction        
 
 177
 00:16:26,419 --> 00:16:30,121
-     until the building boom    
-   that followed world war ii,  
+until the building boom that followed world war ii,  
 
 178
 00:16:30,123 --> 00:16:33,057
-      when busy contractors     
-        abandoned plaster       
+when busy contractors abandoned plaster       
 
 179
 00:16:33,059 --> 00:16:37,762
-     in favor of this faster    
- and cheaper way to build walls.
+in favor of this faster and cheaper way to build walls.
 
 180
 00:16:45,939 --> 00:16:49,473
-  the process of making gypsum  
-  board begins at the quarry,   
+the process of making gypsum board begins at the quarry,   
 
 181
 00:16:49,475 --> 00:16:53,411
-  where crews mine the gypsum,  
-          a soft rock.          
+where crews mine the gypsum, a soft rock.          
 
 182
 00:16:53,413 --> 00:16:57,214
-  the loaders dump their haul   
-  into what's called an apron.  
+the loaders dump their haul into what's called an apron.  
 
 183
 00:16:57,216 --> 00:17:00,351
-  the apron channels the gypsum 
-        onto a conveyor,        
+the apron channels the gypsum onto a conveyor,        
 
 184
 00:17:00,353 --> 00:17:03,754
-   breaking up the big chunks   
-         along the way.         
+breaking up the big chunks along the way.         
 
 185
 00:17:03,756 --> 00:17:07,358
-      from there, it's sent     
-    to a giant rotating drum.   
+from there, it's sent to a giant rotating drum.   
 
 186
 00:17:07,360 --> 00:17:08,759
-        within 8 minutes,       
+within 8 minutes,       
 
 187
 00:17:08,761 --> 00:17:13,097
- this hot-air rock dryer removes
-   5% to 10% of the moisture,   
+this hot-air rock dryer removes
+5% to 10% of the moisture,   
 
 188
 00:17:13,099 --> 00:17:16,033
-    turning the gypsum white.   
+turning the gypsum white.   
 
 189
 00:17:16,035 --> 00:17:19,303
-  next stop, a gas-fired silo,  
-        called a kettle.        
+next stop, a gas-fired silo, called a kettle.        
 
 190
 00:17:19,305 --> 00:17:23,908
-       it cooks the gypsum      
-   at 300 degrees fahrenheit,   
+it cooks the gypsum at 300 degrees fahrenheit,   
 
 191
 00:17:23,910 --> 00:17:26,577
-   until most of the remaining  
-      moisture evaporates.      
+until most of the remaining moisture evaporates.      
 
 192
 00:17:26,579 --> 00:17:28,579
-   the kettle is fed by a mill  
+the kettle is fed by a mill  
 
 193
 00:17:28,581 --> 00:17:32,517
-   that grinds the lumpy rock   
-  into what's called "stucco,"  
+that grinds the lumpy rock into what's called "stucco,"  
 
 194
 00:17:32,519 --> 00:17:35,586
-  a fine powder the consistency 
-         of wheat flour.        
+a fine powder the consistency of wheat flour.        
 
 195
 00:17:37,724 --> 00:17:40,191
-        in a mixing tank,       
-      workers combine water     
+in a mixing tank, workers combine water     
 
 196
 00:17:40,193 --> 00:17:42,526
- with several powdered chemicals
-          and minerals          
+with several powdered chemicals
+and minerals          
 
 197
 00:17:42,528 --> 00:17:45,329
-      and a chemical soap.      
+and a chemical soap.      
 
 198
 00:17:45,331 --> 00:17:49,066
 the dry additives give the board
-     the required structure,    
+the required structure,    
 
 199
 00:17:49,068 --> 00:17:51,469
-     while the soap creates     
-           air bubbles          
+while the soap creates air bubbles          
 
 200
 00:17:51,471 --> 00:17:54,404
-   to make the board lighter.   
+to make the board lighter.   
 
 201
 00:17:54,406 --> 00:17:57,942
- in a separate machine, they mix
- the stucco with an accelerator 
+in a separate machine, they mix
+the stucco with an accelerator 
 
 202
 00:17:57,944 --> 00:18:02,146
- to make the gypsum set faster. 
+to make the gypsum set faster. 
 
 203
 00:18:02,148 --> 00:18:04,515
-        now they combine        
-    the two separate batches,   
+now they combine the two separate batches,   
 
 204
 00:18:04,517 --> 00:18:07,284
-       creating a mixture       
-        called a slurry.        
+creating a mixture called a slurry.        
 
 205
 00:18:07,286 --> 00:18:09,353
@@ -981,80 +842,68 @@ it looks like thick, white soup.
 
 206
 00:18:09,355 --> 00:18:12,089
-       now they'll form it      
-       into gypsum board,       
+now they'll form it into gypsum board,       
 
 207
 00:18:12,091 --> 00:18:14,758
-       which is basically       
-       a slurry sandwich.       
+which is basically a slurry sandwich.       
 
 208
 00:18:14,760 --> 00:18:18,829
-    the bread is this thick,    
-       heavyweight paper.       
+the bread is this thick, heavyweight paper.       
 
 209
 00:18:18,831 --> 00:18:21,899
-  as the roll unwinds, "creaser 
-   wheels," as they're called,  
+as the roll unwinds, "creaser wheels," as they're called,  
 
 210
 00:18:21,901 --> 00:18:24,568
-   score a line about one inch  
-        toward the middle       
+score a line about one inch toward the middle       
 
 211
 00:18:24,570 --> 00:18:27,238
-        from both edges.        
+from both edges.        
 
 212
 00:18:27,240 --> 00:18:29,573
-  then a machine evenly spreads 
-           the slurry,          
+then a machine evenly spreads the slurry,          
 
 213
 00:18:29,575 --> 00:18:30,974
-    like a sandwich filling,    
+like a sandwich filling,    
 
 214
 00:18:30,976 --> 00:18:33,544
-   between the top and bottom   
-        sheets of paper.        
+between the top and bottom sheets of paper.        
 
 215
 00:18:35,448 --> 00:18:38,048
-     then the paper-folding     
-        operation begins,       
+then the paper-folding operation begins,       
 
 216
 00:18:38,050 --> 00:18:40,184
-          most of which         
-       is a company secret      
+most of which is a company secret      
 
 217
 00:18:40,186 --> 00:18:41,852
- and off-limits to our cameras. 
+and off-limits to our cameras. 
 
 218
 00:18:41,854 --> 00:18:45,456
-       they fold the edges      
-      along the scorelines,     
+they fold the edges along the scorelines,     
 
 219
 00:18:45,458 --> 00:18:48,659
-     the bottom edges upward    
-   and the top ones downward,   
+the bottom edges upward and the top ones downward,   
 
 220
 00:18:48,661 --> 00:18:52,396
 gluing them over the bottom ones
-   to trap the slurry inside.   
+to trap the slurry inside.   
 
 221
 00:18:52,398 --> 00:18:55,933
-    drops of water smooth out   
-           any ridges,          
+drops of water smooth out any ridges,          
 
 222
 00:18:55,935 --> 00:19:00,004
@@ -1062,136 +911,119 @@ ensuring a smooth and even fold.
 
 223
 00:19:00,006 --> 00:19:02,473
-    forming plates then shape   
-        the folded edges        
+forming plates then shape the folded edges        
 
 224
 00:19:02,475 --> 00:19:04,942
-      into straight sides.      
+into straight sides.      
 
 225
 00:19:07,947 --> 00:19:12,216
-    an optical sensor checks    
+an optical sensor checks    
 the depth of the board's recess.
 
 226
 00:19:12,218 --> 00:19:14,418
-   the recess is where you put  
-         the joint tape         
+the recess is where you put the joint tape         
 
 227
 00:19:14,420 --> 00:19:17,355
 to connect one board to the next
-  when you're building a wall.  
+when you're building a wall.  
 
 228
 00:19:20,693 --> 00:19:23,694
-  the forming station spews out 
-      1,000 continuous feet     
+the forming station spews out 1,000 continuous feet     
 
 229
 00:19:23,696 --> 00:19:26,230
-        of gypsum board.        
+of gypsum board.        
 
 230
 00:19:26,232 --> 00:19:28,566
-       a cutter now chops       
-         that megaboard         
+a cutter now chops that megaboard         
 
 231
 00:19:28,568 --> 00:19:31,636
-       into whatever size       
- they're producing in this run. 
+into whatever size they're producing in this run. 
 
 232
 00:19:35,308 --> 00:19:37,374
- as the boards exit the cutter, 
+as the boards exit the cutter, 
 
 233
 00:19:37,376 --> 00:19:41,578
-   automated prongs flip them   
-         recess-side up.        
+automated prongs flip them recess-side up.        
 
 234
 00:19:41,580 --> 00:19:44,048
-     the recess side will be    
-        the wall surface,       
+the recess side will be the wall surface,       
 
 235
 00:19:44,050 --> 00:19:46,317
-   and they don't want to risk  
-           damaging it          
+and they don't want to risk damaging it          
 
 236
 00:19:46,319 --> 00:19:49,153
-    on the rollers that lead    
-     to the drying station.     
+on the rollers that lead to the drying station.     
 
 237
 00:19:53,859 --> 00:19:55,793
-  this gas-fired hot-air dryer  
+this gas-fired hot-air dryer  
 
 238
 00:19:55,795 --> 00:19:59,396
-         is kind of like        
-  a multilevel parking garage.  
+is kind of like a multilevel parking garage.  
 
 239
 00:19:59,398 --> 00:20:05,002
-    it's almost 500 feet long   
-        and has 8 decks.        
+it's almost 500 feet long and has 8 decks.        
 
 240
 00:20:05,004 --> 00:20:09,740
-  the factory can cure hundreds 
-      of boards at a time.      
+the factory can cure hundreds of boards at a time.      
 
 241
 00:20:09,742 --> 00:20:11,074
-       it takes 40 minutes      
+it takes 40 minutes      
 
 242
 00:20:11,076 --> 00:20:13,744
-   to move through the dryer's  
-      4 temperature zones,      
+to move through the dryer's 4 temperature zones,      
 
 243
 00:20:13,746 --> 00:20:17,014
-           which start          
-    at 660 degrees fahrenheit   
+which start at 660 degrees fahrenheit   
 
 244
 00:20:17,016 --> 00:20:20,918
-  and get progressively cooler, 
-         to 300 degrees.        
+and get progressively cooler, to 300 degrees.        
 
 245
 00:20:22,488 --> 00:20:24,889
-  the boards are sold in pairs, 
+the boards are sold in pairs, 
 
 246
 00:20:24,891 --> 00:20:28,826
- so the machinery stacks them in
- twos, then tapes them together.
+so the machinery stacks them in
+twos, then tapes them together.
 
 247
 00:20:30,363 --> 00:20:32,363
- the tape bears the brand name, 
+the tape bears the brand name, 
 
 248
 00:20:32,365 --> 00:20:35,032
-       as well as the size      
-   and thickness of the board.  
+as well as the size and thickness of the board.  
 
 249
 00:20:35,034 --> 00:20:38,502
-     standard lengths range     
-       from 8 to 14 feet,       
+standard lengths range from 8 to 14 feet,       
 
 250
 00:20:38,504 --> 00:20:42,673
- and the most common thicknesses
-   are 1/2 inch and 5/8 inch.   
+and the most common thicknesses
+are 1/2 inch and 5/8 inch.   
 
 251
 00:20:49,782 --> 00:20:54,251
@@ -1200,39 +1032,33 @@ what type of gypsum board it is.
 
 252
 00:20:54,253 --> 00:20:57,922
-   there's a standard drywall   
-  for building walls in homes.  
+there's a standard drywall for building walls in homes.  
 
 253
 00:20:57,924 --> 00:21:00,791
-  there's a moisture-resistant  
-    version for humid areas,    
+there's a moisture-resistant version for humid areas,    
 
 254
 00:21:00,793 --> 00:21:02,126
-       such as bathrooms,       
+such as bathrooms,       
 
 255
 00:21:02,128 --> 00:21:05,062
-   and there's fire-resistant   
-          gypsum board,         
+and there's fire-resistant gypsum board,         
 
 256
 00:21:05,064 --> 00:21:08,733
-     usually required by law    
-    for commercial buildings.   
+usually required by law for commercial buildings.   
 
 257
 00:21:16,542 --> 00:21:18,542
-    if you have any comments    
-         about the show         
+if you have any comments about the show         
 
 258
 00:21:18,544 --> 00:21:21,279
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 259
 00:21:21,281 --> 00:21:23,247
-      drop us a line at...      
+drop us a line at...      
 

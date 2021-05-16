@@ -1,757 +1,640 @@
 ﻿1
 00:00:52,586 --> 00:00:55,655
-     narrator: the invention    
-  of the socket wrench in 1864  
+narrator: the invention of the socket wrench in 1864  
 
 2
 00:00:55,657 --> 00:00:58,323
-      put a whole new twist     
-      on fastening things.      
+put a whole new twist on fastening things.      
 
 3
 00:00:58,325 --> 00:01:01,060
-    with the socket wrench's    
-       ratchet mechanism,       
+with the socket wrench's ratchet mechanism,       
 
 4
 00:01:01,062 --> 00:01:04,130
-  the user could tighten bolts  
-     in a continuous motion     
+the user could tighten bolts in a continuous motion     
 
 5
 00:01:04,132 --> 00:01:07,600
-    without breaking to refit   
-   the wrench to the fastener.  
+without breaking to refit the wrench to the fastener.  
 
 6
 00:01:07,602 --> 00:01:09,235
-    it was a real time-saver.   
+it was a real time-saver.   
 
 7
 00:01:14,608 --> 00:01:16,074
-     modern socket wrenches     
+modern socket wrenches     
 
 8
 00:01:16,076 --> 00:01:18,878
-  come with a range of sockets  
-         and extensions         
+come with a range of sockets and extensions         
 
 9
 00:01:18,880 --> 00:01:22,281
-  to handle the nuts and bolts  
-     of many different jobs.    
+to handle the nuts and bolts of many different jobs.    
 
 10
 00:01:22,283 --> 00:01:25,084
-    they start with this coil   
-         of thick steel.        
+they start with this coil of thick steel.        
 
 11
 00:01:25,086 --> 00:01:27,753
-    it travels through a die    
-      which straightens it      
+it travels through a die which straightens it      
 
 12
 00:01:27,755 --> 00:01:31,690
-    to a knife that slices it   
-       into short billets.      
+to a knife that slices it into short billets.      
 
 13
 00:01:31,692 --> 00:01:34,493
-      a machine then drives     
-    a series of forming tools   
+a machine then drives a series of forming tools   
 
 14
 00:01:34,495 --> 00:01:36,562
-        into the billets.       
+into the billets.       
 
 15
 00:01:39,567 --> 00:01:41,967
-      the tools force them      
-      into a socket shape       
+the tools force them into a socket shape       
 
 16
 00:01:41,969 --> 00:01:44,837
-  and create the all-important  
-        hexagonal opening       
+and create the all-important hexagonal opening       
 
 17
 00:01:44,839 --> 00:01:48,174
-    that matches the profile    
-     of the nuts and bolts.     
+that matches the profile of the nuts and bolts.     
 
 18
 00:01:50,678 --> 00:01:53,112
-     to get rid of lingering    
-        lubricating oil,        
+to get rid of lingering lubricating oil,        
 
 19
 00:01:53,114 --> 00:01:54,646
-    the parts go for a tumble   
+the parts go for a tumble   
 
 20
 00:01:54,648 --> 00:01:57,750
-        through a spiral        
-      washer/dryer system.      
+through a spiral washer/dryer system.      
 
 21
 00:02:01,855 --> 00:02:06,058
-    a conveyor delivers them    
- to a computerized cutting tool.
+a conveyor delivers them to a computerized cutting tool.
 
 22
 00:02:06,060 --> 00:02:08,594
-     it removes sharp edges     
+it removes sharp edges     
 
 23
 00:02:08,596 --> 00:02:10,929
-       and sculpts a bevel      
-    on the socket's inner rim   
+and sculpts a bevel on the socket's inner rim   
 
 24
 00:02:10,931 --> 00:02:13,833
-   so it will slide onto bolts  
-          more easily.          
+so it will slide onto bolts more easily.          
 
 25
 00:02:15,403 --> 00:02:18,938
 it takes just seconds to improve
-     this socket's profile.     
+this socket's profile.     
 
 26
 00:02:21,142 --> 00:02:23,876
-   different tools then sculpt  
-       the square opening       
+different tools then sculpt the square opening       
 
 27
 00:02:23,878 --> 00:02:26,078
- in the drive end of the socket.
+in the drive end of the socket.
 
 28
 00:02:26,080 --> 00:02:29,348
- that's the part that locks onto
- the end of the ratchet wrench. 
+that's the part that locks onto
+the end of the ratchet wrench. 
 
 29
 00:02:31,752 --> 00:02:33,419
-    a powerful rolling stamp    
+a powerful rolling stamp    
 
 30
 00:02:33,421 --> 00:02:36,756
-  now engraves the part's size  
-  and the company name onto it. 
+now engraves the part's size and the company name onto it. 
 
 31
 00:02:36,758 --> 00:02:39,758
-       once those details       
-       are out of the way,      
+once those details are out of the way,      
 
 32
 00:02:39,760 --> 00:02:41,694
-    it's into a flaming oven    
+it's into a flaming oven    
 
 33
 00:02:41,696 --> 00:02:44,630
-           to undergo           
-    a heat-treating process.    
+to undergo a heat-treating process.    
 
 34
 00:02:44,632 --> 00:02:48,167
-        a rapid cooldown        
-   follows the heat treatment,  
+a rapid cooldown follows the heat treatment,  
 
 35
 00:02:48,169 --> 00:02:49,869
-      hardening the metal.      
+hardening the metal.      
 
 36
 00:02:51,905 --> 00:02:55,040
-   the sockets now toss about   
-    in this rotating chamber    
+the sockets now toss about in this rotating chamber    
 
 37
 00:02:55,042 --> 00:02:59,445
-       as they're blasted       
- with very fine steel particles.
+as they're blasted with very fine steel particles.
 
 38
 00:02:59,447 --> 00:03:02,715
-      this cleans the parts     
-      and buffs the parts,      
+this cleans the parts and buffs the parts,      
 
 39
 00:03:02,717 --> 00:03:06,118
- but there's much more polishing
-            to come.            
+but there's much more polishing
+to come.            
 
 40
 00:03:06,120 --> 00:03:09,755
-     they clamp the sockets     
-     onto a rotating table.     
+they clamp the sockets onto a rotating table.     
 
 41
 00:03:11,993 --> 00:03:14,727
-      it delivers the part      
-       to a grinding belt       
+it delivers the part to a grinding belt       
 
 42
 00:03:14,729 --> 00:03:17,930
- for a very vigorous polishing. 
+for a very vigorous polishing. 
 
 43
 00:03:17,932 --> 00:03:20,332
-           you can see          
-    the difference this makes   
+you can see the difference this makes   
 
 44
 00:03:20,334 --> 00:03:21,934
-    in the part on the right,   
+in the part on the right,   
 
 45
 00:03:21,936 --> 00:03:25,004
-  but these sockets need to be  
-      absolutely flawless.      
+but these sockets need to be absolutely flawless.      
 
 46
 00:03:25,006 --> 00:03:28,541
-   so they next go into a tub   
-       of ceramic stones.       
+so they next go into a tub of ceramic stones.       
 
 47
 00:03:28,543 --> 00:03:30,876
-       they rub mild acid       
-         onto the parts         
+they rub mild acid onto the parts         
 
 48
 00:03:30,878 --> 00:03:33,379
-     to get rid of any small    
-     blemishes that remain.     
+to get rid of any small blemishes that remain.     
 
 49
 00:03:36,284 --> 00:03:39,151
-     the parts then receive     
-   a thorough wash and rinse,   
+the parts then receive a thorough wash and rinse,   
 
 50
 00:03:39,153 --> 00:03:41,587
-       which prepares them      
-       for chrome plating.      
+which prepares them for chrome plating.      
 
 51
 00:03:44,959 --> 00:03:46,291
-      now freshly chromed,      
+now freshly chromed,      
 
 52
 00:03:46,293 --> 00:03:48,294
-  the sockets look way too nice 
+the sockets look way too nice 
 
 53
 00:03:48,296 --> 00:03:50,896
-         to be immersed         
-     in this brownish stuff,    
+to be immersed in this brownish stuff,    
 
 54
 00:03:50,898 --> 00:03:54,166
-        but it's actually       
-     a rustproofing solution    
+but it's actually a rustproofing solution    
 
 55
 00:03:54,168 --> 00:03:56,368
- to protect them from corrosion.
+to protect them from corrosion.
 
 56
 00:03:56,370 --> 00:03:59,704
-  they lock the tub of sockets  
-    in a centrifuge machine.    
+they lock the tub of sockets in a centrifuge machine.    
 
 57
 00:03:59,706 --> 00:04:00,906
-       it spins the parts       
+it spins the parts       
 
 58
 00:04:00,908 --> 00:04:03,743
-    to get rid of the excess    
-      rustproofing liquid.      
+to get rid of the excess rustproofing liquid.      
 
 59
 00:04:06,380 --> 00:04:11,383
-      and now these sockets     
- are ready to shine on the job. 
+and now these sockets are ready to shine on the job. 
 
 60
 00:04:11,385 --> 00:04:15,387
-  attachable extensions improve 
- the reach of the socket wrench.
+attachable extensions improve the reach of the socket wrench.
 
 61
 00:04:15,389 --> 00:04:18,057
-        forming equipment       
-       swings into action,      
+forming equipment swings into action,      
 
 62
 00:04:18,059 --> 00:04:20,392
-     pressing steel billets     
-            into dies           
+pressing steel billets into dies           
 
 63
 00:04:20,394 --> 00:04:23,829
-   to mold them into the rough  
-     shape of an extension.     
+to mold them into the rough shape of an extension.     
 
 64
 00:04:26,867 --> 00:04:29,802
-      after a wash and dry,     
-      it's over to a lathe.     
+after a wash and dry, it's over to a lathe.     
 
 65
 00:04:29,804 --> 00:04:31,470
-   and as the extension spins,  
+and as the extension spins,  
 
 66
 00:04:31,472 --> 00:04:34,206
-      cutting tools create      
-      the squared opening       
+cutting tools create the squared opening       
 
 67
 00:04:34,208 --> 00:04:37,143
-  that allows it to be attached 
-         to the wrench.         
+that allows it to be attached to the wrench.         
 
 68
 00:04:40,948 --> 00:04:43,615
-     cutters then go to work    
-        on the other end.       
+cutters then go to work on the other end.       
 
 69
 00:04:43,617 --> 00:04:46,752
-  they shape it so it will fit  
-      into various sockets      
+they shape it so it will fit into various sockets      
 
 70
 00:04:46,754 --> 00:04:49,321
-       and shave the shank      
-     to reduce its diameter.    
+and shave the shank to reduce its diameter.    
 
 71
 00:04:55,429 --> 00:04:59,031
-   next, a rolling stamp cuts   
-        a knurled texture       
+next, a rolling stamp cuts a knurled texture       
 
 72
 00:04:59,033 --> 00:05:00,899
-     into the socket-wrench     
-           extension,           
+into the socket-wrench extension,           
 
 73
 00:05:00,901 --> 00:05:03,736
-  creating a much less slippery 
-     surface to hang on to.     
+creating a much less slippery surface to hang on to.     
 
 74
 00:05:07,842 --> 00:05:10,176
-           they insert          
-    a stainless-steel spring    
+they insert a stainless-steel spring    
 
 75
 00:05:10,178 --> 00:05:13,846
-  into a hole formed at the end 
-       of the extension...      
+into a hole formed at the end of the extension...      
 
 76
 00:05:13,848 --> 00:05:16,381
-   then scoop up a steel ball   
+then scoop up a steel ball   
 
 77
 00:05:16,383 --> 00:05:19,718
-    so it sits in the cavity    
-        above the spring.       
+so it sits in the cavity above the spring.       
 
 78
 00:05:19,720 --> 00:05:22,921
-  a machine then press-fits it  
-        to the extension.       
+a machine then press-fits it to the extension.       
 
 79
 00:05:22,923 --> 00:05:26,859
-    this creates a mechanism    
- onto which the sockets attach. 
+this creates a mechanism onto which the sockets attach. 
 
 80
 00:05:29,196 --> 00:05:32,598
-    it takes about three days   
-  to complete this socket set,  
+it takes about three days to complete this socket set,  
 
 81
 00:05:32,600 --> 00:05:35,868
-      but it will equip you     
-  to handle jobs of many sizes  
+but it will equip you to handle jobs of many sizes  
 
 82
 00:05:35,870 --> 00:05:38,871
-         and just about         
-      any tight situation.      
+and just about any tight situation.      
 
 83
 00:05:55,822 --> 00:05:58,623
-   narrator: if you're a lover  
-        of fine footwear,       
+narrator: if you're a lover of fine footwear,       
 
 84
 00:05:58,625 --> 00:06:00,959
-    when it comes to dressing   
-           your feet,           
+when it comes to dressing your feet,           
 
 85
 00:06:00,961 --> 00:06:02,360
-      nothing beats leather     
+nothing beats leather     
 
 86
 00:06:02,362 --> 00:06:04,630
-            because,            
-   unlike synthetic materials,  
+because, unlike synthetic materials,  
 
 87
 00:06:04,632 --> 00:06:06,798
- leather lets your feet breathe.
+leather lets your feet breathe.
 
 88
 00:06:06,800 --> 00:06:10,569
-   and high-end leather shoes   
-  feature superior construction 
+and high-end leather shoes feature superior construction 
 
 89
 00:06:10,571 --> 00:06:14,106
-   that makes them lightweight  
-    and comfortable to wear.    
+that makes them lightweight and comfortable to wear.    
 
 90
 00:06:19,446 --> 00:06:21,180
-      the vision originates     
+the vision originates     
 
 91
 00:06:21,182 --> 00:06:24,850
-     with a design sketched     
-  on a flexible plastic sheet.  
+with a design sketched on a flexible plastic sheet.  
 
 92
 00:06:24,852 --> 00:06:27,786
-       to help the stylist      
-       perfect the design,      
+to help the stylist perfect the design,      
 
 93
 00:06:27,788 --> 00:06:32,524
 they put it on a rigid foot form
-         called a last.         
+called a last.         
 
 94
 00:06:32,526 --> 00:06:35,794
-        exotic skins have       
- natural variations throughout, 
+exotic skins have natural variations throughout, 
 
 95
 00:06:35,796 --> 00:06:39,131
-  so a specialist must hand-cut 
-       the pattern pieces       
+so a specialist must hand-cut the pattern pieces       
 
 96
 00:06:39,133 --> 00:06:42,134
-  to ensure the right and left  
-        shoes match well.       
+to ensure the right and left shoes match well.       
 
 97
 00:06:45,406 --> 00:06:47,139
-  they use a splitting machine  
+they use a splitting machine  
 
 98
 00:06:47,141 --> 00:06:49,475
-      to shave off a layer      
-      from the underside,       
+to shave off a layer from the underside,       
 
 99
 00:06:49,477 --> 00:06:52,878
-    equalizing the thickness    
-       of all the pieces.       
+equalizing the thickness of all the pieces.       
 
 100
 00:06:52,880 --> 00:06:55,748
-     then a skiving machine     
-         thins the edges        
+then a skiving machine thins the edges        
 
 101
 00:06:55,750 --> 00:06:59,217
-  so the pieces will be easier  
-        to sew together.        
+so the pieces will be easier to sew together.        
 
 102
 00:06:59,219 --> 00:07:02,154
-   they punch decorative holes  
-       into certain pieces      
+they punch decorative holes into certain pieces      
 
 103
 00:07:02,156 --> 00:07:03,422
-      with a manual press,      
+with a manual press,      
 
 104
 00:07:03,424 --> 00:07:04,890
-   so it's up to the operator   
+so it's up to the operator   
 
 105
 00:07:04,892 --> 00:07:07,760
-    to make sure the distance   
-  between holes is consistent.  
+to make sure the distance between holes is consistent.  
 
 106
 00:07:10,765 --> 00:07:13,165
-      the top of the shoe       
-      is called the upper.      
+the top of the shoe is called the upper.      
 
 107
 00:07:13,167 --> 00:07:15,233
-        they sew together       
-        the upper pieces,       
+they sew together the upper pieces,       
 
 108
 00:07:15,235 --> 00:07:20,305
 then hammer the stitches to make
-    the seam smooth and flat.   
+the seam smooth and flat.   
 
 109
 00:07:20,307 --> 00:07:22,641
-         next they glue         
-     a narrow leather strip     
+next they glue a narrow leather strip     
 
 110
 00:07:22,643 --> 00:07:24,309
-  along the border of the upper 
+along the border of the upper 
 
 111
 00:07:24,311 --> 00:07:26,645
-      to hide the leather's     
-        unfinished edge.        
+to hide the leather's unfinished edge.        
 
 112
 00:07:26,647 --> 00:07:29,081
-       this also produces       
-       a decorative trim.       
+this also produces a decorative trim.       
 
 113
 00:07:34,588 --> 00:07:38,857
-  now they attach a lining made 
-    of goat leather and flax.   
+now they attach a lining made of goat leather and flax.   
 
 114
 00:07:38,859 --> 00:07:41,526
-      this style of lining      
-   fits snugly over the last,   
+this style of lining fits snugly over the last,   
 
 115
 00:07:41,528 --> 00:07:43,528
-        a particular type       
-         of construction        
+a particular type of construction        
 
 116
 00:07:43,530 --> 00:07:46,298
-     that allows for a more     
-   comfortable type of insole.  
+that allows for a more comfortable type of insole.  
 
 117
 00:07:48,336 --> 00:07:50,669
-       they put the lining      
-        inside the upper        
+they put the lining inside the upper        
 
 118
 00:07:50,671 --> 00:07:54,339
-  and slip them onto the last.  
+and slip them onto the last.  
 
 119
 00:07:54,341 --> 00:07:56,542
-  then they glue on the insole. 
+then they glue on the insole. 
 
 120
 00:07:56,544 --> 00:07:59,344
-       this type consists       
-      of a rigid section --     
+this type consists of a rigid section --     
 
 121
 00:07:59,346 --> 00:08:01,079
-        the black part --       
+the black part --       
 
 122
 00:08:01,081 --> 00:08:03,615
- and a more flexible section -- 
-         the white part.        
+and a more flexible section -- the white part.        
 
 123
 00:08:06,086 --> 00:08:08,287
-    now they glue the lining    
-          to the upper          
+now they glue the lining to the upper          
 
 124
 00:08:08,289 --> 00:08:10,956
- and put the front of the shoe, 
-        called the point,       
+and put the front of the shoe, called the point,       
 
 125
 00:08:10,958 --> 00:08:14,026
-    into a machine that grips   
-     the edge of the leather    
+into a machine that grips the edge of the leather    
 
 126
 00:08:14,028 --> 00:08:15,394
-     and pulls it straight.     
+and pulls it straight.     
 
 127
 00:08:23,037 --> 00:08:25,437
-       the next machine's       
-       mechanical fingers       
+the next machine's mechanical fingers       
 
 128
 00:08:25,439 --> 00:08:27,573
-    wrap the edge underneath    
-          and glue it,          
+wrap the edge underneath and glue it,          
 
 129
 00:08:27,575 --> 00:08:31,610
-  pulling evenly all around so  
- that everything's symmetrical. 
+pulling evenly all around so that everything's symmetrical. 
 
 130
 00:08:37,050 --> 00:08:40,786
- the next machine does the same 
- thing at the back of the shoe. 
+the next machine does the same thing at the back of the shoe. 
 
 131
 00:08:49,329 --> 00:08:51,597
-         they grind down        
-        the leather edge,       
+they grind down the leather edge,       
 
 132
 00:08:51,599 --> 00:08:55,467
-  creating a flat, even surface 
-   that's ready for the sole.   
+creating a flat, even surface that's ready for the sole.   
 
 133
 00:08:55,469 --> 00:08:57,803
-   next they heat the leather   
-      to make it malleable      
+next they heat the leather to make it malleable      
 
 134
 00:08:57,805 --> 00:09:00,072
-           and hammer           
-         until the upper        
+and hammer until the upper        
 
 135
 00:09:00,074 --> 00:09:02,341
-        assumes the shape       
-       of the last inside.      
+assumes the shape of the last inside.      
 
 136
 00:09:02,343 --> 00:09:05,010
-     the hammering also rids    
-  the leather of any wrinkles.  
+the hammering also rids the leather of any wrinkles.  
 
 137
 00:09:10,550 --> 00:09:13,618
-     they coat the underside    
-            with glue           
+they coat the underside with glue           
 
 138
 00:09:13,620 --> 00:09:16,755
-     and carefully position     
-    the shoe's leather sole.    
+and carefully position the shoe's leather sole.    
 
 139
 00:09:16,757 --> 00:09:19,625
- the glue takes about 10 minutes
-             to dry.            
+the glue takes about 10 minutes
+to dry.            
 
 140
 00:09:24,364 --> 00:09:26,164
-     then they run the edge     
-           of the sole          
+then they run the edge of the sole          
 
 141
 00:09:26,166 --> 00:09:29,101
-  through a splitting machine.  
+through a splitting machine.  
 
 142
 00:09:29,103 --> 00:09:34,439
-   this separates a thin layer  
+this separates a thin layer  
 which they now sew to the upper.
 
 143
 00:09:34,441 --> 00:09:37,509
-          durable twine         
-  and a heavy-duty loop stitch  
+durable twine and a heavy-duty loop stitch  
 
 144
 00:09:37,511 --> 00:09:40,712
-    ensure the upper and sole   
-       remain inseparable.      
+ensure the upper and sole remain inseparable.      
 
 145
 00:09:49,990 --> 00:09:54,226
 to hide the stitching, they glue
-    and grind down the edge.    
+and grind down the edge.    
 
 146
 00:10:06,006 --> 00:10:10,943
-   a thorough polishing gives   
+a thorough polishing gives   
 the sole a slick-looking finish.
 
 147
 00:10:16,583 --> 00:10:19,351
-       every pair of shoes      
-      this factory produces     
+every pair of shoes this factory produces     
 
 148
 00:10:19,353 --> 00:10:21,086
-  is polished by a specialist,  
+is polished by a specialist,  
 
 149
 00:10:21,088 --> 00:10:23,355
-           who creates          
-     just the right shading     
+who creates just the right shading     
 
 150
 00:10:23,357 --> 00:10:25,958
-   to bring out the leather's   
-         best features.         
+to bring out the leather's best features.         
 
 151
 00:10:28,361 --> 00:10:31,763
-      this is the last step     
+this is the last step     
 of roughly 200 manual operations
 
 152
 00:10:31,765 --> 00:10:34,365
-     that go into producing     
-       just a single pair       
+that go into producing just a single pair       
 
 153
 00:10:34,367 --> 00:10:36,502
-            of these            
-    luxurious leather shoes.    
+of these luxurious leather shoes.    
 
 154
 00:10:58,926 --> 00:11:00,792
-            narrator:           
-       it was swiss hikers      
+narrator: it was swiss hikers      
 
 155
 00:11:00,794 --> 00:11:03,261
-     who carried the first      
-     aluminum drink bottles     
+who carried the first aluminum drink bottles     
 
 156
 00:11:03,263 --> 00:11:05,530
-        in the early part       
-      of the 20th century.      
+in the early part of the 20th century.      
 
 157
 00:11:05,532 --> 00:11:09,601
-   today's lightweight bottles  
-    can be reused endlessly,    
+today's lightweight bottles can be reused endlessly,    
 
 158
 00:11:09,603 --> 00:11:12,137
@@ -759,136 +642,116 @@ meaning less waste in landfills.
 
 159
 00:11:12,139 --> 00:11:14,273
-   they can also be recycled,   
+they can also be recycled,   
 
 160
 00:11:14,275 --> 00:11:17,009
-          so making one         
-     is not a wasted effort.    
+so making one is not a wasted effort.    
 
 161
 00:11:21,348 --> 00:11:25,284
 some of those first trailblazing
-  bottles still survive today,  
+bottles still survive today,  
 
 162
 00:11:25,286 --> 00:11:29,421
-   reminding us that this kind  
-  of container is made to last. 
+reminding us that this kind of container is made to last. 
 
 163
 00:11:34,628 --> 00:11:37,896
-      today's bottle starts     
-      with an aluminum puck     
+today's bottle starts with an aluminum puck     
 
 164
 00:11:37,898 --> 00:11:39,565
-    2 3/4 inches in diameter.   
+2 3/4 inches in diameter.   
 
 165
 00:11:43,971 --> 00:11:47,039
-  the puck travels down a chute 
-       into a punch press.      
+the puck travels down a chute into a punch press.      
 
 166
 00:11:47,041 --> 00:11:49,241
-    it uses 660 tons of force   
+it uses 660 tons of force   
 
 167
 00:11:49,243 --> 00:11:50,842
-   to stretch that little puck  
+to stretch that little puck  
 
 168
 00:11:50,844 --> 00:11:55,180
-      into a long cylinder      
-         with a bottom.         
+into a long cylinder with a bottom.         
 
 169
 00:11:55,182 --> 00:11:58,984
-   a blade chops the open end   
-   down to the correct size,    
+a blade chops the open end down to the correct size,    
 
 170
 00:11:58,986 --> 00:12:01,520
-    and then a tool pushes it   
-         onto a conveyor        
+and then a tool pushes it onto a conveyor        
 
 171
 00:12:01,522 --> 00:12:05,057
-  that sends it down the line.  
+that sends it down the line.  
 
 172
 00:12:08,795 --> 00:12:11,463
-      the aluminum cylinder     
-        lands on a wheel        
+the aluminum cylinder lands on a wheel        
 
 173
 00:12:11,465 --> 00:12:14,199
-         which relays it        
-      to the next station.      
+which relays it to the next station.      
 
 174
 00:12:14,201 --> 00:12:17,469
-     there, machinery moves     
-     the cylinder's open end    
+there, machinery moves the cylinder's open end    
 
 175
 00:12:17,471 --> 00:12:19,071
-     into position for tools    
+into position for tools    
 
 176
 00:12:19,073 --> 00:12:22,407
-          to squeeze it         
-       into a bottleneck.       
+to squeeze it into a bottleneck.       
 
 177
 00:12:22,409 --> 00:12:26,477
-    the tools pinch the metal   
-       a total of 26 times      
+the tools pinch the metal a total of 26 times      
 
 178
 00:12:26,479 --> 00:12:30,015
-    to draw the open end down   
- to half its original diameter. 
+to draw the open end down to half its original diameter. 
 
 179
 00:12:30,017 --> 00:12:31,350
-   this gentle forming process  
+this gentle forming process  
 
 180
 00:12:31,352 --> 00:12:34,486
-     results in less stress     
-          on the metal.         
+results in less stress on the metal.         
 
 181
 00:12:41,362 --> 00:12:44,162
-          the last tool         
-     presses a threaded ring    
+the last tool presses a threaded ring    
 
 182
 00:12:44,164 --> 00:12:47,165
-  into the inside of the bottle 
-    for screwing on the cap.    
+into the inside of the bottle for screwing on the cap.    
 
 183
 00:12:49,436 --> 00:12:51,903
-       the process leaves       
-       the threaded neck        
+the process leaves the threaded neck        
 
 184
 00:12:51,905 --> 00:12:54,572
-   a lot thicker than the rest  
-          of the bottle         
+a lot thicker than the rest of the bottle         
 
 185
 00:12:54,574 --> 00:12:56,908
-       so it will hold up       
-         to heavy usage.        
+so it will hold up to heavy usage.        
 
 186
 00:12:58,979 --> 00:13:03,181
-      now the bottles head      
-      into a wash station.      
+now the bottles head into a wash station.      
 
 187
 00:13:03,183 --> 00:13:04,582
@@ -896,468 +759,399 @@ they get a really good scrubbing
 
 188
 00:13:04,584 --> 00:13:07,119
-  to remove the lubricating oil 
-    from the forming process.   
+to remove the lubricating oil from the forming process.   
 
 189
 00:13:12,659 --> 00:13:14,993
-        they then travel        
-        through a dryer,        
+they then travel through a dryer,        
 
 190
 00:13:14,995 --> 00:13:16,728
-    and after a few minutes,    
+and after a few minutes,    
 
 191
 00:13:16,730 --> 00:13:20,365
-   they emerge clean and ready  
-     for the next operation.    
+they emerge clean and ready for the next operation.    
 
 192
 00:13:27,941 --> 00:13:30,876
-        the interior wall       
-  of the aluminum drink bottle  
+the interior wall of the aluminum drink bottle  
 
 193
 00:13:30,878 --> 00:13:34,279
-    is about to be lined with   
- a microthin, high-tech polymer.
+is about to be lined with a microthin, high-tech polymer.
 
 194
 00:13:36,350 --> 00:13:40,485
- this revolving device picks up 
-    each bottle using suction   
+this revolving device picks up each bottle using suction   
 
 195
 00:13:40,487 --> 00:13:42,921
-         and delivers it        
-    to an individual sprayer.   
+and delivers it to an individual sprayer.   
 
 196
 00:13:45,625 --> 00:13:48,493
-     the spray nozzle coats     
-  the inside of this container  
+the spray nozzle coats the inside of this container  
 
 197
 00:13:48,495 --> 00:13:50,162
-         with a polymer.        
+with a polymer.        
 
 198
 00:13:53,433 --> 00:13:56,034
-       the liner has been       
-      specially formulated      
+the liner has been specially formulated      
 
 199
 00:13:56,036 --> 00:13:57,702
-     to be chemically inert,    
+to be chemically inert,    
 
 200
 00:13:57,704 --> 00:14:01,840
-   which means it won't absorb  
-      or transfer flavors.      
+which means it won't absorb or transfer flavors.      
 
 201
 00:14:01,842 --> 00:14:04,176
-         at this point,         
-     the coating is powdery,    
+at this point, the coating is powdery,    
 
 202
 00:14:04,178 --> 00:14:06,912
-    and you could wipe it off   
-        with your finger,       
+and you could wipe it off with your finger,       
 
 203
 00:14:06,914 --> 00:14:08,914
-   but that's just temporary.   
+but that's just temporary.   
 
 204
 00:14:08,916 --> 00:14:12,049
-        as they bake it,        
-    the powder will solidify    
+as they bake it, the powder will solidify    
 
 205
 00:14:12,051 --> 00:14:15,287
-       and bond completely      
-  to the inside of the bottle.  
+and bond completely to the inside of the bottle.  
 
 206
 00:14:17,791 --> 00:14:19,858
-           the bottles          
-      move through an oven      
+the bottles move through an oven      
 
 207
 00:14:19,860 --> 00:14:22,461
-          that's heated         
-    to 356 degrees fahrenheit   
+that's heated to 356 degrees fahrenheit   
 
 208
 00:14:22,463 --> 00:14:24,296
-         for 10 minutes.        
+for 10 minutes.        
 
 209
 00:14:27,934 --> 00:14:30,535
-      the liner doesn't add     
-   much weight to the bottle.   
+the liner doesn't add much weight to the bottle.   
 
 210
 00:14:30,537 --> 00:14:33,671
-       here they weigh one      
-    before lining and after,    
+here they weigh one before lining and after,    
 
 211
 00:14:33,673 --> 00:14:36,174
-       and the difference       
-      is just a few grams.      
+and the difference is just a few grams.      
 
 212
 00:14:39,012 --> 00:14:42,414
-      now the bottles spin      
-   by a gauntlet of spray guns  
+now the bottles spin by a gauntlet of spray guns  
 
 213
 00:14:42,416 --> 00:14:44,149
-   for an even coat of paint.   
+for an even coat of paint.   
 
 214
 00:14:44,151 --> 00:14:45,951
-      like the inner liner,     
+like the inner liner,     
 
 215
 00:14:45,953 --> 00:14:50,021
-        this outer veneer       
-    will need to be baked on.   
+this outer veneer will need to be baked on.   
 
 216
 00:14:50,023 --> 00:14:53,291
-    when it dries, the paint    
-    takes on a glossy look.     
+when it dries, the paint takes on a glossy look.     
 
 217
 00:14:55,496 --> 00:14:57,095
-      an automated squeegee     
+an automated squeegee     
 
 218
 00:14:57,097 --> 00:14:59,765
-      silk-screens designs      
-        onto the bottles.       
+silk-screens designs onto the bottles.       
 
 219
 00:15:06,039 --> 00:15:09,241
-   a jet of air dries the ink   
-        between printings       
+a jet of air dries the ink between printings       
 
 220
 00:15:09,243 --> 00:15:11,777
-  as they build up the artwork  
-     using different colors.    
+as they build up the artwork using different colors.    
 
 221
 00:15:18,318 --> 00:15:21,519
-        and now it's time       
-      to screw on the cap.      
+and now it's time to screw on the cap.      
 
 222
 00:15:21,521 --> 00:15:23,454
-     as she caps the bottle,    
+as she caps the bottle,    
 
 223
 00:15:23,456 --> 00:15:26,691
-  this worker performs a final  
-   inspection of the product.   
+this worker performs a final inspection of the product.   
 
 224
 00:15:30,464 --> 00:15:34,533
-   from a small aluminum puck   
-   to a handy drink bottle --   
+from a small aluminum puck to a handy drink bottle --   
 
 225
 00:15:34,535 --> 00:15:39,070
- incredibly, this transformation
-   has taken just three hours.  
+incredibly, this transformation
+has taken just three hours.  
 
 226
 00:15:39,072 --> 00:15:41,273
-   and in its various styles,   
+and in its various styles,   
 
 227
 00:15:41,275 --> 00:15:45,977
-  this reusable bottle is sure  
-  to make a lasting impression. 
+this reusable bottle is sure to make a lasting impression. 
 
 228
 00:16:01,695 --> 00:16:04,962
-  narrator: pedaling a bicycle  
-     causes a chain reaction    
+narrator: pedaling a bicycle causes a chain reaction    
 
 229
 00:16:04,964 --> 00:16:06,697
-   that sets wheels in motion.  
+that sets wheels in motion.  
 
 230
 00:16:06,699 --> 00:16:09,568
-         a bicycle chain        
- is essentially a roller chain. 
+a bicycle chain is essentially a roller chain. 
 
 231
 00:16:09,570 --> 00:16:12,570
-   it's designed specifically   
-     to transfer pedal power    
+it's designed specifically to transfer pedal power    
 
 232
 00:16:12,572 --> 00:16:14,773
-        to the bicycle's        
-        rear drive wheel.       
+to the bicycle's rear drive wheel.       
 
 233
 00:16:14,775 --> 00:16:17,242
-   with a good bicycle chain,   
-         you can go far         
+with a good bicycle chain, you can go far         
 
 234
 00:16:17,244 --> 00:16:18,643
-     or, at the very least,     
+or, at the very least,     
 
 235
 00:16:18,645 --> 00:16:20,612
-        take a short spin       
-        around the hood.        
+take a short spin around the hood.        
 
 236
 00:16:26,653 --> 00:16:28,453
- the chain is the driving force 
+the chain is the driving force 
 
 237
 00:16:28,455 --> 00:16:31,056
-         in a bicycle's         
-      transmission system.      
+in a bicycle's transmission system.      
 
 238
 00:16:31,058 --> 00:16:33,791
-      it travels over gears     
-       in a perpetual loop      
+it travels over gears in a perpetual loop      
 
 239
 00:16:33,793 --> 00:16:36,261
-       to keep the cyclist      
-         moving forward.        
+to keep the cyclist moving forward.        
 
 240
 00:16:36,263 --> 00:16:40,265
-   actions like shifting gears  
-           or braking           
+actions like shifting gears or braking           
 
 241
 00:16:40,267 --> 00:16:43,368
-     will regularly put this    
- critical mechanism to the test.
+will regularly put this critical mechanism to the test.
 
 242
 00:16:49,609 --> 00:16:51,876
-          it all starts         
-     with this punch press.     
+it all starts with this punch press.     
 
 243
 00:16:51,878 --> 00:16:53,878
-    it cuts and presses steel   
+it cuts and presses steel   
 
 244
 00:16:53,880 --> 00:16:56,414
-         into the shape         
-   of the chain's inner links,  
+into the shape of the chain's inner links,  
 
 245
 00:16:56,416 --> 00:16:58,850
-        which looks a lot       
-      like a figure eight.      
+which looks a lot like a figure eight.      
 
 246
 00:17:04,223 --> 00:17:08,293
-    incredibly, it generates    
-     10,000 links per hour.     
+incredibly, it generates 10,000 links per hour.     
 
 247
 00:17:13,500 --> 00:17:18,036
 each of these figure-eight links
- has been made to interconnect, 
+has been made to interconnect, 
 
 248
 00:17:18,038 --> 00:17:19,771
-  and their contours allow them 
+and their contours allow them 
 
 249
 00:17:19,773 --> 00:17:22,641
-     to travel easily across    
-   the bike's gear sprockets.   
+to travel easily across the bike's gear sprockets.   
 
 250
 00:17:29,182 --> 00:17:32,249
- they send samples of the links 
-     to a measuring station     
+they send samples of the links to a measuring station     
 
 251
 00:17:32,251 --> 00:17:34,452
-      to confirm the space      
-        between the holes       
+to confirm the space between the holes       
 
 252
 00:17:34,454 --> 00:17:37,289
- is precisely 12.7 millimeters. 
+is precisely 12.7 millimeters. 
 
 253
 00:17:39,526 --> 00:17:43,060
-     the tester also gauges     
-   the diameter of the holes,   
+the tester also gauges the diameter of the holes,   
 
 254
 00:17:43,062 --> 00:17:46,665
 which must be accurate to within
-   a fraction of a millimeter.  
+a fraction of a millimeter.  
 
 255
 00:17:48,468 --> 00:17:50,534
- then the links bake in an oven 
+then the links bake in an oven 
 
 256
 00:17:50,536 --> 00:17:53,471
-             at more            
- than 1,500 degrees fahrenheit. 
+at more than 1,500 degrees fahrenheit. 
 
 257
 00:17:53,473 --> 00:17:56,408
-        the blazing heat,       
-  followed by a quick cooldown, 
+the blazing heat, followed by a quick cooldown, 
 
 258
 00:17:56,410 --> 00:17:58,109
-       hardens the steel.       
+hardens the steel.       
 
 259
 00:18:00,680 --> 00:18:02,747
-         they now shovel        
-        these inner links       
+they now shovel these inner links       
 
 260
 00:18:02,749 --> 00:18:04,416
- into a doughnut-shaped machine.
+into a doughnut-shaped machine.
 
 261
 00:18:09,088 --> 00:18:13,357
-        they add ceramic        
-      and silica powders...     
+they add ceramic and silica powders...     
 
 262
 00:18:13,359 --> 00:18:16,494
-           and pour in          
-    a small amount of water.    
+and pour in a small amount of water.    
 
 263
 00:18:16,496 --> 00:18:19,497
-     they then screw the lid    
-        on this machine.        
+they then screw the lid on this machine.        
 
 264
 00:18:19,499 --> 00:18:22,500
-      it shakes vigorously,     
+it shakes vigorously,     
 
 265
 00:18:22,502 --> 00:18:25,570
-  causing the powders and water 
-    to form an abrasive paste   
+causing the powders and water to form an abrasive paste   
 
 266
 00:18:25,572 --> 00:18:28,440
-    that polishes the links.    
+that polishes the links.    
 
 267
 00:18:28,442 --> 00:18:31,375
-     they load the polished     
- inner links into a metal basket
+they load the polished inner links into a metal basket
 
 268
 00:18:31,377 --> 00:18:33,244
-       and shut the door.       
+and shut the door.       
 
 269
 00:18:36,916 --> 00:18:40,852
-  machinery plunges the basket  
- into a series of chemical baths
+machinery plunges the basket into a series of chemical baths
 
 270
 00:18:40,854 --> 00:18:46,324
-    to give these inner links   
-     a nickel-teflon veneer.    
+to give these inner links a nickel-teflon veneer.    
 
 271
 00:18:46,326 --> 00:18:50,194
-    the nickel-teflon surface   
-     will resist corrosion,     
+the nickel-teflon surface will resist corrosion,     
 
 272
 00:18:50,196 --> 00:18:52,130
-     and its smooth texture     
-      will allow the chain      
+and its smooth texture will allow the chain      
 
 273
 00:18:52,132 --> 00:18:54,899
-        to travel easily        
-      over gear sprockets.      
+to travel easily over gear sprockets.      
 
 274
 00:18:58,472 --> 00:19:02,407
-  the bike chain's outer links  
- get a different kind of finish.
+the bike chain's outer links get a different kind of finish.
 
 275
 00:19:02,409 --> 00:19:03,875
-     unlike the inner links,    
+unlike the inner links,    
 
 276
 00:19:03,877 --> 00:19:06,077
-        they don't travel       
-         over sprockets,        
+they don't travel over sprockets,        
 
 277
 00:19:06,079 --> 00:19:08,580
-   so a simple nickel plating   
-            will do.            
+so a simple nickel plating will do.            
 
 278
 00:19:12,018 --> 00:19:14,351
-        they're now ready       
-      to assemble the chain     
+they're now ready to assemble the chain     
 
 279
 00:19:14,353 --> 00:19:15,954
-     one section at a time.     
+one section at a time.     
 
 280
 00:19:19,893 --> 00:19:24,696
- tubes feed the parts one by one
-   into this assembly machine.  
+tubes feed the parts one by one
+into this assembly machine.  
 
 281
 00:19:24,698 --> 00:19:27,365
-          gripper arms          
-      adjust their position     
+gripper arms adjust their position     
 
 282
 00:19:27,367 --> 00:19:29,834
-      to assemble the links     
-   to other chain components,   
+to assemble the links to other chain components,   
 
 283
 00:19:29,836 --> 00:19:33,004
-     such as retainer rings     
-          and spacers.          
+such as retainer rings and spacers.          
 
 284
 00:19:37,243 --> 00:19:40,111
-   the machinery presses pins   
-      into the links' holes     
+the machinery presses pins into the links' holes     
 
 285
 00:19:40,113 --> 00:19:43,648
-     to secure the assembly.    
+to secure the assembly.    
 
 286
 00:19:43,650 --> 00:19:47,852
@@ -1366,107 +1160,90 @@ section of chain down the line.
 
 287
 00:19:49,522 --> 00:19:51,789
-      it takes a whole lot      
-        of little pieces        
+it takes a whole lot of little pieces        
 
 288
 00:19:51,791 --> 00:19:54,592
-   to build one short section   
-        of bicycle chain.       
+to build one short section of bicycle chain.       
 
 289
 00:19:57,864 --> 00:20:00,931
 the sections are linked together
-       in one long chain,       
+in one long chain,       
 
 290
 00:20:00,933 --> 00:20:03,401
-         which now winds        
-    by an inspection station    
+which now winds by an inspection station    
 
 291
 00:20:03,403 --> 00:20:05,537
-    to be examined for flaws.   
+to be examined for flaws.   
 
 292
 00:20:09,208 --> 00:20:12,544
-   after that, the chain takes  
-        a dip in hot oil,       
+after that, the chain takes a dip in hot oil,       
 
 293
 00:20:12,546 --> 00:20:14,212
-   which lubricates the links   
+which lubricates the links   
 
 294
 00:20:14,214 --> 00:20:19,117
-     to prevent squeakiness     
-     and wear down the road.    
+to prevent squeakiness and wear down the road.    
 
 295
 00:20:19,119 --> 00:20:21,619
-         the chain exits        
-     the lubricating station    
+the chain exits the lubricating station    
 
 296
 00:20:21,621 --> 00:20:24,155
-       and travels by wads      
-     of absorbent material,     
+and travels by wads of absorbent material,     
 
 297
 00:20:24,157 --> 00:20:26,257
-         which soaks up         
-       the excess grease.       
+which soaks up the excess grease.       
 
 298
 00:20:30,630 --> 00:20:32,497
-    a laser tool then signals   
+a laser tool then signals   
 
 299
 00:20:32,499 --> 00:20:34,766
-  the location where the chain  
-          is to be cut,         
+the location where the chain is to be cut,         
 
 300
 00:20:34,768 --> 00:20:39,236
-      and a blade chops it      
-       at the exact spot.       
+and a blade chops it at the exact spot.       
 
 301
 00:20:39,238 --> 00:20:43,575
-    a standard bike chain is    
- just over 56 inches in length. 
+a standard bike chain is just over 56 inches in length. 
 
 302
 00:20:43,577 --> 00:20:48,780
- it consists of 114 inner links 
-     and 114 external ones,     
+it consists of 114 inner links and 114 external ones,     
 
 303
 00:20:48,782 --> 00:20:53,184
-    so it's got what it takes   
-       to go the distance.      
+so it's got what it takes to go the distance.      
 
 304
 00:20:53,186 --> 00:20:56,254
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 305
 00:20:56,256 --> 00:20:59,257
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 306
 00:21:02,262 --> 00:21:04,461
-    if you have any questions   
-         about the show,        
+if you have any questions about the show,        
 
 307
 00:21:04,463 --> 00:21:07,132
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 308
 00:21:07,134 --> 00:21:08,900
-      drop us a line at...      
+drop us a line at...      
 

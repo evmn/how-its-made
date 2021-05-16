@@ -2304,13 +2304,11 @@ roll.
 
 385
 00:20:38,170 --> 00:20:41,105
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 386
 00:20:41,107 --> 00:20:44,141
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 387
 00:20:44,443 --> 00:20:46,443

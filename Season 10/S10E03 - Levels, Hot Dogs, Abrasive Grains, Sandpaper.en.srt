@@ -1,278 +1,236 @@
 ﻿1
 00:00:22,689 --> 00:00:25,290
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:25,292 --> 00:00:26,759
-            levels...           
+levels...           
 
 3
 00:00:31,298 --> 00:00:32,998
-         ...hot dogs...         
+...hot dogs...         
 
 4
 00:00:37,237 --> 00:00:39,038
-      ...abrasive grain...      
+...abrasive grain...      
 
 5
 00:00:43,310 --> 00:00:45,177
-        ...and sandpaper.       
+...and sandpaper.       
 
 6
 00:00:45,179 --> 00:00:48,247
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 7
 00:00:48,249 --> 00:00:51,183
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 8
 00:00:53,254 --> 00:00:56,187
-     the level was invented     
-       in the 17th century      
+the level was invented in the 17th century      
 
 9
 00:00:56,189 --> 00:00:58,790
-       to keep structures       
-         plumb and true.        
+to keep structures plumb and true.        
 
 10
 00:00:58,792 --> 00:01:00,859
-           without it,          
-      buildings would lean,     
+without it, buildings would lean,     
 
 11
 00:01:00,861 --> 00:01:02,394
-    floors would be crooked,    
+floors would be crooked,    
 
 12
 00:01:02,396 --> 00:01:05,798
- and maps would have inaccurate 
-     elevation information.     
+and maps would have inaccurate elevation information.     
 
 13
 00:01:05,800 --> 00:01:07,466
-  no matter what you're making, 
+no matter what you're making, 
 
 14
 00:01:07,468 --> 00:01:10,536
-       this critical tool       
+this critical tool       
 always gives it to you straight.
 
 15
 00:01:17,411 --> 00:01:20,812
-  it's a centuries-old concept, 
-     but still measures up.     
+it's a centuries-old concept, but still measures up.     
 
 16
 00:01:20,814 --> 00:01:23,949
-    center the little bubble,   
- and you're perfectly straight. 
+center the little bubble, and you're perfectly straight. 
 
 17
 00:01:26,420 --> 00:01:29,755
- production begins with a length
-     of laminated birchwood.    
+production begins with a length
+of laminated birchwood.    
 
 18
 00:01:29,757 --> 00:01:33,692
-       an automated router      
-    carves out several holes,   
+an automated router carves out several holes,   
 
 19
 00:01:33,694 --> 00:01:37,362
-         three of which         
-     will enclose the vials.    
+three of which will enclose the vials.    
 
 20
 00:01:37,364 --> 00:01:40,265
-          the other two         
-    will serve as handgrips.    
+the other two will serve as handgrips.    
 
 21
 00:01:46,540 --> 00:01:50,008
-         next, it's time        
- to tackle the wood's perimeter.
+next, it's time to tackle the wood's perimeter.
 
 22
 00:01:53,380 --> 00:01:55,914
-         grooves are cut        
-  along the length of the wood  
+grooves are cut along the length of the wood  
 
 23
 00:01:55,916 --> 00:01:57,449
- for the level's brass binding. 
+for the level's brass binding. 
 
 24
 00:02:00,454 --> 00:02:04,422
-   strips of brass are unwound  
-     into a forming machine.    
+strips of brass are unwound into a forming machine.    
 
 25
 00:02:05,392 --> 00:02:09,061
-    rollers iron out the curl   
-        from the coiling.       
+rollers iron out the curl from the coiling.       
 
 26
 00:02:09,063 --> 00:02:12,731
-          other rollers         
-      then crimp the brass.     
+other rollers then crimp the brass.     
 
 27
 00:02:12,733 --> 00:02:14,666
-     this process will allow    
-            the strip           
+this process will allow the strip           
 
 28
 00:02:14,668 --> 00:02:17,002
-    to fit into those grooves   
-          in the wood.          
+to fit into those grooves in the wood.          
 
 29
 00:02:25,946 --> 00:02:27,546
-    lengths of brass binding    
+lengths of brass binding    
 
 30
 00:02:27,548 --> 00:02:30,815
-    are loaded into a machine   
-  that slides them into place.  
+are loaded into a machine that slides them into place.  
 
 31
 00:02:30,817 --> 00:02:33,418
-         this reinforces        
-     the edges of the wood.     
+this reinforces the edges of the wood.     
 
 32
 00:02:36,490 --> 00:02:38,156
-    over at another station,    
+over at another station,    
 
 33
 00:02:38,158 --> 00:02:42,427
-   a machine melts and molds    
-   the plastic for the vials.   
+a machine melts and molds the plastic for the vials.   
 
 34
 00:02:42,429 --> 00:02:44,763
-            each one            
-    is slightly curved inside   
+each one is slightly curved inside   
 
 35
 00:02:44,765 --> 00:02:48,700
-          so the bubble         
-       has a place to sit.      
+so the bubble has a place to sit.      
 
 36
 00:02:48,702 --> 00:02:52,171
-    the vials wind their way    
-   through a vibratory feeder.  
+the vials wind their way through a vibratory feeder.  
 
 37
 00:02:55,508 --> 00:02:57,175
-   it takes them to a gripper   
+it takes them to a gripper   
 
 38
 00:02:57,177 --> 00:03:00,512
-      that rotates each one     
-    so the open end faces up.   
+that rotates each one so the open end faces up.   
 
 39
 00:03:02,716 --> 00:03:05,383
-        in goes a squirt        
-   of yellow mineral spirits,   
+in goes a squirt of yellow mineral spirits,   
 
 40
 00:03:05,385 --> 00:03:08,020
-    leaving just enough room    
-      for a bubble to form.     
+leaving just enough room for a bubble to form.     
 
 41
 00:03:11,992 --> 00:03:15,561
-  a robotic arm plugs the vials 
-       with plastic caps.       
+a robotic arm plugs the vials with plastic caps.       
 
 42
 00:03:17,998 --> 00:03:21,733
-     then this sonic welder     
-  melts the caps onto the vials 
+then this sonic welder melts the caps onto the vials 
 
 43
 00:03:21,735 --> 00:03:24,336
-      using high-frequency      
-          sound waves.          
+using high-frequency sound waves.          
 
 44
 00:03:24,338 --> 00:03:27,406
-  now it's time for inspection. 
+now it's time for inspection. 
 
 45
 00:03:27,408 --> 00:03:29,541
-          a tiny camera         
-     photographs the bubble     
+a tiny camera photographs the bubble     
 
 46
 00:03:29,543 --> 00:03:31,542
-      and sends the picture     
-          to a computer         
+and sends the picture to a computer         
 
 47
 00:03:31,544 --> 00:03:34,746
-   that makes sure the bubbles  
-       are the right size.      
+that makes sure the bubbles are the right size.      
 
 48
 00:03:34,748 --> 00:03:36,348
-    for this production run,    
+for this production run,    
 
 49
 00:03:36,350 --> 00:03:39,284
-      the bubble should be      
-    about half an inch wide.    
+the bubble should be about half an inch wide.    
 
 50
 00:03:39,286 --> 00:03:41,486
-      if it's on the mark,      
+if it's on the mark,      
 
 51
 00:03:41,488 --> 00:03:43,589
-          the computer          
-   allows the vial to move on.  
+the computer allows the vial to move on.  
 
 52
 00:03:52,432 --> 00:03:56,768
-    a printer then hot-stamps   
- centering marks onto the vial. 
+a printer then hot-stamps centering marks onto the vial. 
 
 53
 00:04:00,107 --> 00:04:03,574
-      but this spirit vial      
- isn't quite ready for business.
+but this spirit vial isn't quite ready for business.
 
 54
 00:04:03,576 --> 00:04:06,778
-     first it needs to bake     
-          for 24 hours.         
+first it needs to bake for 24 hours.         
 
 55
 00:04:06,780 --> 00:04:08,580
-   the heat exposes any flaws,  
+the heat exposes any flaws,  
 
 56
 00:04:08,582 --> 00:04:11,183
-     and the defective vials    
-          are rejected.         
+and the defective vials are rejected.         
 
 57
 00:04:14,120 --> 00:04:17,055
-     the vial is illuminated    
-     with a bright red light    
+the vial is illuminated with a bright red light    
 
 58
 00:04:17,057 --> 00:04:19,858
-       as it slowly spins       
-        between rollers.        
+as it slowly spins between rollers.        
 
 59
 00:04:19,860 --> 00:04:22,393
@@ -280,60 +238,52 @@ a camera photographs the bubble,
 
 60
 00:04:22,395 --> 00:04:25,864
- and a computer scans the image 
-     to check for shifting.     
+and a computer scans the image to check for shifting.     
 
 61
 00:04:25,866 --> 00:04:30,335
-     too much shifting could    
+too much shifting could    
 compromise the level's accuracy.
 
 62
 00:04:33,540 --> 00:04:37,275
-  the vials that pass the test  
- then go on to a molding system.
+the vials that pass the test then go on to a molding system.
 
 63
 00:04:37,277 --> 00:04:40,145
-   melted plastic is injected   
-        into the crevices       
+melted plastic is injected into the crevices       
 
 64
 00:04:40,147 --> 00:04:42,381
- to make a cradle for each vial.
+to make a cradle for each vial.
 
 65
 00:04:49,423 --> 00:04:51,823
-       next, a technician       
-     glues the cradled vials    
+next, a technician glues the cradled vials    
 
 66
 00:04:51,825 --> 00:04:54,159
-         in the openings        
-    in the wooden framework.    
+in the openings in the wooden framework.    
 
 67
 00:04:58,565 --> 00:05:00,632
-     this is precision work.    
+this is precision work.    
 
 68
 00:05:00,634 --> 00:05:03,134
-      each vial has to sit      
-        perfectly level,        
+each vial has to sit perfectly level,        
 
 69
 00:05:03,136 --> 00:05:06,104
-      so technicians rely       
-      on a magnified image      
+so technicians rely on a magnified image      
 
 70
 00:05:06,106 --> 00:05:07,739
-    to check their progress.    
+to check their progress.    
 
 71
 00:05:10,577 --> 00:05:13,044
-    some vials are installed    
-           vertically           
+some vials are installed vertically           
 
 72
 00:05:13,046 --> 00:05:15,046
@@ -341,47 +291,40 @@ to gauge if the walls are plumb,
 
 73
 00:05:15,048 --> 00:05:18,083
-  while the horizontal ones let 
- you know if the floor is level.
+while the horizontal ones let you know if the floor is level.
 
 74
 00:05:22,589 --> 00:05:25,123
-     acrylic-rimmed windows     
-    are fitted over the vials   
+acrylic-rimmed windows are fitted over the vials   
 
 75
 00:05:25,125 --> 00:05:26,825
-        to protect them.        
+to protect them.        
 
 76
 00:05:32,265 --> 00:05:35,367
-     rubber caps are screwed    
-  on to both ends of the level. 
+rubber caps are screwed on to both ends of the level. 
 
 77
 00:05:38,271 --> 00:05:41,673
-          and finally,          
-  the trademark stamp goes on.  
+and finally, the trademark stamp goes on.  
 
 78
 00:05:44,277 --> 00:05:48,747
-   these levels are now ready   
-  to straighten up any jobsite. 
+these levels are now ready to straighten up any jobsite. 
 
 79
 00:05:52,820 --> 00:05:56,855
- when we return, the real skinny
-  on an all-american favorite.  
+when we return, the real skinny
+on an all-american favorite.  
 
 80
 00:06:00,094 --> 00:06:02,026
-    narrator: hot dogs are      
-    an all-american fare.       
+narrator: hot dogs are an all-american fare.       
 
 81
 00:06:02,028 --> 00:06:04,563
-         but most likely        
-  it was german sausage makers  
+but most likely it was german sausage makers  
 
 82
 00:06:04,565 --> 00:06:06,298
@@ -389,147 +332,127 @@ who first came up with the idea.
 
 83
 00:06:06,300 --> 00:06:08,833
-   in fact, there are reports   
-      of german immigrants      
+in fact, there are reports of german immigrants      
 
 84
 00:06:08,835 --> 00:06:11,369
-   selling them from pushcarts  
-      in new york's bowery      
+selling them from pushcarts in new york's bowery      
 
 85
 00:06:11,371 --> 00:06:13,971
-    as far back as the 1860s.   
+as far back as the 1860s.   
 
 86
 00:06:13,973 --> 00:06:15,507
-   a century and a half later,  
+a century and a half later,  
 
 87
 00:06:15,509 --> 00:06:18,310
-     hot dogs are still the     
- number-one treat on the street.
+hot dogs are still the number-one treat on the street.
 
 88
 00:06:24,184 --> 00:06:25,784
-      traditional hot dogs      
+traditional hot dogs      
 
 89
 00:06:25,786 --> 00:06:29,654
-       are made from a mix      
-   of pork, beef, and chicken.  
+are made from a mix of pork, beef, and chicken.  
 
 90
 00:06:29,656 --> 00:06:32,724
-    the cuts they start with    
-    are called trimmings --     
+the cuts they start with are called trimmings --     
 
 91
 00:06:32,726 --> 00:06:36,194
-  pieces of meat left over from 
-  cutting steaks or pork chops. 
+pieces of meat left over from cutting steaks or pork chops. 
 
 92
 00:06:42,469 --> 00:06:44,001
-    the trimmings are ground    
+the trimmings are ground    
 
 93
 00:06:44,003 --> 00:06:46,604
-      the same way butchers     
-    chop up hamburger meat --   
+the same way butchers chop up hamburger meat --   
 
 94
 00:06:46,606 --> 00:06:49,574
-       by pushing the cuts      
-  through grated metal plates.  
+by pushing the cuts through grated metal plates.  
 
 95
 00:06:59,219 --> 00:07:02,621
-   processed chicken trimmings  
-  are added to the ground meat, 
+processed chicken trimmings are added to the ground meat, 
 
 96
 00:07:02,623 --> 00:07:08,627
- followed by food starch, salt, 
-      and other flavorings.     
+followed by food starch, salt, and other flavorings.     
 
 97
 00:07:08,629 --> 00:07:11,162
-      these flavorings vary     
+these flavorings vary     
 
 98
 00:07:11,164 --> 00:07:13,798
-       depending on where       
-   the hot dogs are to be sold  
+depending on where the hot dogs are to be sold  
 
 99
 00:07:13,800 --> 00:07:16,935
-   because people in different  
- regions have different tastes. 
+because people in different regions have different tastes. 
 
 100
 00:07:23,777 --> 00:07:25,777
- water is sprayed into the mix, 
+water is sprayed into the mix, 
 
 101
 00:07:25,779 --> 00:07:28,780
-    and everything is blended   
-     together in a big vat.     
+and everything is blended together in a big vat.     
 
 102
 00:07:33,587 --> 00:07:36,755
-           corn syrup           
-    adds a dash of sweetness.   
+corn syrup adds a dash of sweetness.   
 
 103
 00:07:46,332 --> 00:07:47,999
- the addition of even more water
+the addition of even more water
 
 104
 00:07:48,001 --> 00:07:50,068
-        helps to disperse       
-         the ingredients        
+helps to disperse the ingredients        
 
 105
 00:07:50,070 --> 00:07:52,603
- and make the hot dogs juicier. 
+and make the hot dogs juicier. 
 
 106
 00:07:52,605 --> 00:07:55,473
-         another machine        
-   then purees the meat batter  
+another machine then purees the meat batter  
 
 107
 00:07:55,475 --> 00:07:58,477
-      into a fine emulsion      
-    and vacuums out any air.    
+into a fine emulsion and vacuums out any air.    
 
 108
 00:08:03,750 --> 00:08:05,884
- long rolls of cellulose tubing 
+long rolls of cellulose tubing 
 
 109
 00:08:05,886 --> 00:08:08,687
-           are loaded           
-   into the stuffing machine.   
+are loaded into the stuffing machine.   
 
 110
 00:08:11,158 --> 00:08:13,825
-     it pumps the meat puree    
-       into these casings,      
+it pumps the meat puree into these casings,      
 
 111
 00:08:13,827 --> 00:08:15,961
-           twisting it          
-      every 5 1/4 inches --     
+twisting it every 5 1/4 inches --     
 
 112
 00:08:15,963 --> 00:08:18,563
-   the length of one hot dog.   
+the length of one hot dog.   
 
 113
 00:08:18,565 --> 00:08:20,465
-    it takes just 35 seconds    
+it takes just 35 seconds    
 
 114
 00:08:20,467 --> 00:08:25,270
@@ -538,226 +461,192 @@ would span a soccer field twice.
 
 115
 00:08:30,977 --> 00:08:32,978
-           then three           
-     of those hot-dog chains    
+then three of those hot-dog chains    
 
 116
 00:08:32,980 --> 00:08:35,580
-       are linked together      
- to make an even longer string, 
+are linked together to make an even longer string, 
 
 117
 00:08:35,582 --> 00:08:38,517
-   and they're loaded several   
- at a time into another machine,
+and they're loaded several at a time into another machine,
 
 118
 00:08:38,519 --> 00:08:41,920
-    which drapes the hot dogs   
-       onto moving racks.       
+which drapes the hot dogs onto moving racks.       
 
 119
 00:08:41,922 --> 00:08:43,722
- the process is carefully timed 
+the process is carefully timed 
 
 120
 00:08:43,724 --> 00:08:46,424
-         so that a twist        
-    always lands on the bar.    
+so that a twist always lands on the bar.    
 
 121
 00:08:50,663 --> 00:08:53,932
-  the racks shunt the hot dogs  
- through a liquid smoke shower, 
+the racks shunt the hot dogs through a liquid smoke shower, 
 
 122
 00:08:53,934 --> 00:08:56,601
-        then into an oven       
-   with several cooking zones.  
+then into an oven with several cooking zones.  
 
 123
 00:08:56,603 --> 00:08:59,137
-        the liquid smoke        
-    seeps through the casing    
+the liquid smoke seeps through the casing    
 
 124
 00:08:59,139 --> 00:09:01,606
-   and adds flavor to the dogs  
-          as they bake.         
+and adds flavor to the dogs as they bake.         
 
 125
 00:09:06,346 --> 00:09:07,612
-      hot out of the oven,      
+hot out of the oven,      
 
 126
 00:09:07,614 --> 00:09:10,548
-    these franks are drenched   
-      in cold, salty water      
+these franks are drenched in cold, salty water      
 
 127
 00:09:10,550 --> 00:09:13,251
-  to chill them in preparation  
-         for packaging.         
+to chill them in preparation for packaging.         
 
 128
 00:09:18,558 --> 00:09:21,560
-   the hot dogs then file down  
-      to an unloading zone.     
+the hot dogs then file down to an unloading zone.     
 
 129
 00:09:23,163 --> 00:09:27,132
-   here, a machine pulls them   
-  off the bars onto a conveyor. 
+here, a machine pulls them off the bars onto a conveyor. 
 
 130
 00:09:30,704 --> 00:09:34,839
- then the hot dogs slide off the
- conveyor into metal containers.
+then the hot dogs slide off the
+conveyor into metal containers.
 
 131
 00:09:35,976 --> 00:09:37,242
-    if you've been wondering    
+if you've been wondering    
 
 132
 00:09:37,244 --> 00:09:39,644
-    about those black stripes   
-         on the casings,        
+about those black stripes on the casings,        
 
 133
 00:09:39,646 --> 00:09:41,246
-  all is about to be revealed.  
+all is about to be revealed.  
 
 134
 00:09:43,850 --> 00:09:46,651
-     the stripe is a marker     
-     attached to the casing.    
+the stripe is a marker attached to the casing.    
 
 135
 00:09:46,653 --> 00:09:48,252
-  the absence of a black stripe 
+the absence of a black stripe 
 
 136
 00:09:48,254 --> 00:09:51,089
-   means the hot dog is cooked  
-    and ready for packaging.    
+means the hot dog is cooked and ready for packaging.    
 
 137
 00:09:57,197 --> 00:09:59,197
-   inside the peeler machine,   
+inside the peeler machine,   
 
 138
 00:09:59,199 --> 00:10:03,068
-       a tiny knife slits       
-   each casing along the top.   
+a tiny knife slits each casing along the top.   
 
 139
 00:10:03,070 --> 00:10:06,204
-      then steamy air blows     
- the casings right off the dogs.
+then steamy air blows the casings right off the dogs.
 
 140
 00:10:08,474 --> 00:10:12,010
-       this machine peels       
-     700 hot dogs a minute.     
+this machine peels 700 hot dogs a minute.     
 
 141
 00:10:17,417 --> 00:10:18,750
-     an inspector makes sure    
+an inspector makes sure    
 
 142
 00:10:18,752 --> 00:10:21,086
-           the casing           
-   has been completely removed  
+the casing has been completely removed  
 
 143
 00:10:21,088 --> 00:10:23,554
-  and that there are no defects 
-          in the dogs.          
+and that there are no defects in the dogs.          
 
 144
 00:10:23,556 --> 00:10:24,956
-     then it's into a device    
+then it's into a device    
 
 145
 00:10:24,958 --> 00:10:27,292
-         that looks like        
-    a plastic bicycle chain.    
+that looks like a plastic bicycle chain.    
 
 146
 00:10:27,294 --> 00:10:30,695
-     the sprockets position     
-   the hot dogs for packaging.  
+the sprockets position the hot dogs for packaging.  
 
 147
 00:10:34,167 --> 00:10:35,967
-    this factory manufactures   
+this factory manufactures   
 
 148
 00:10:35,969 --> 00:10:39,771
- an incredible 300,000 hot dogs 
-            an hour.            
+an incredible 300,000 hot dogs an hour.            
 
 149
 00:10:39,773 --> 00:10:42,907
-          that's close          
-   to 2 1/2 million per shift.  
+that's close to 2 1/2 million per shift.  
 
 150
 00:10:42,909 --> 00:10:46,844
-         they really do         
-  churn them out like sausages. 
+they really do churn them out like sausages. 
 
 151
 00:10:46,846 --> 00:10:48,512
-       fire up the grill,       
+fire up the grill,       
 
 152
 00:10:48,514 --> 00:10:51,449
-    and a mouthwatering meal    
-      is just minutes away.     
+and a mouthwatering meal is just minutes away.     
 
 153
 00:10:58,325 --> 00:11:02,027
-     up next, the hot scoop     
-       on abrasive grains.      
+up next, the hot scoop on abrasive grains.      
 
 154
 00:11:06,066 --> 00:11:08,066
-  narrator: it takes true grit  
-       to make sandpaper,       
+narrator: it takes true grit to make sandpaper,       
 
 155
 00:11:08,068 --> 00:11:09,667
-     as in abrasive grains.     
+as in abrasive grains.     
 
 156
 00:11:09,669 --> 00:11:11,870
-     people have been using     
-        abrasive minerals       
+people have been using abrasive minerals       
 
 157
 00:11:11,872 --> 00:11:14,338
-    to sand and polish things   
-         for centuries.         
+to sand and polish things for centuries.         
 
 158
 00:11:14,340 --> 00:11:17,942
-      today, these minerals     
-    undergo heavy processing    
+today, these minerals undergo heavy processing    
 
 159
 00:11:17,944 --> 00:11:19,344
-       to make the grade,       
+to make the grade,       
 
 160
 00:11:19,346 --> 00:11:22,981
-       from very superfine      
-         to very coarse.        
+from very superfine to very coarse.        
 
 161
 00:11:29,022 --> 00:11:31,222
-     whether you're working     
-        on metal or wood,       
+whether you're working on metal or wood,       
 
 162
 00:11:31,224 --> 00:11:33,024
@@ -765,8 +654,7 @@ the right grade of abrasive grit
 
 163
 00:11:33,026 --> 00:11:34,959
-          is essential          
-     for finishing the job.     
+is essential for finishing the job.     
 
 164
 00:11:39,566 --> 00:11:41,833
@@ -774,146 +662,122 @@ the factory starts with bauxite,
 
 165
 00:11:41,835 --> 00:11:45,003
-  a naturally occurring mineral 
-      that resembles clay.      
+a naturally occurring mineral that resembles clay.      
 
 166
 00:11:46,839 --> 00:11:48,440
-        they add alumina,       
+they add alumina,       
 
 167
 00:11:48,442 --> 00:11:52,377
- a white powdery material that's
- actually derived from bauxite. 
+a white powdery material that's
+actually derived from bauxite. 
 
 168
 00:11:54,114 --> 00:11:57,248
-  the bauxite and alumina are   
-  blended with other minerals,  
+the bauxite and alumina are blended with other minerals,  
 
 169
 00:11:57,250 --> 00:11:59,617
-          then released         
-  into an electric arc furnace. 
+then released into an electric arc furnace. 
 
 170
 00:12:02,588 --> 00:12:06,323
-  here, three large electrodes  
- use intense electrical current 
+here, three large electrodes use intense electrical current 
 
 171
 00:12:06,325 --> 00:12:09,527
-       to heat the mix to       
- over 3,600 degrees fahrenheit. 
+to heat the mix to over 3,600 degrees fahrenheit. 
 
 172
 00:12:09,529 --> 00:12:12,330
-          that's hotter         
-     than an active volcano.    
+that's hotter than an active volcano.    
 
 173
 00:12:12,332 --> 00:12:15,733
-      in fact, the mixture      
-      looks a lot like lava     
+in fact, the mixture looks a lot like lava     
 
 174
 00:12:15,735 --> 00:12:18,703
-      as the minerals melt      
-      and blend together.       
+as the minerals melt and blend together.       
 
 175
 00:12:24,344 --> 00:12:27,145
-       standing well back       
-     and using a long ladle,    
+standing well back and using a long ladle,    
 
 176
 00:12:27,147 --> 00:12:30,481
-   a technician takes a sample  
-     for chemical analysis.     
+a technician takes a sample for chemical analysis.     
 
 177
 00:12:30,483 --> 00:12:32,683
-      if the mix is right,      
+if the mix is right,      
 
 178
 00:12:32,685 --> 00:12:35,854
- the molten minerals are emptied
-      into a big steel pot.     
+the molten minerals are emptied
+into a big steel pot.     
 
 179
 00:12:46,633 --> 00:12:49,367
-       the searing liquid       
-      weighs several tons,      
+the searing liquid weighs several tons,      
 
 180
 00:12:49,369 --> 00:12:52,604
-     so a crane is needed to    
- transport it to a cooling area.
+so a crane is needed to transport it to a cooling area.
 
 181
 00:13:01,848 --> 00:13:04,582
-         24 hours later,        
-   with the material hardened,  
+24 hours later, with the material hardened,  
 
 182
 00:13:04,584 --> 00:13:07,652
-      it's time to bring in     
-       the wrecking ball.       
+it's time to bring in the wrecking ball.       
 
 183
 00:13:09,322 --> 00:13:11,522
-         it cracks open         
-    the hardened concoction,    
+it cracks open the hardened concoction,    
 
 184
 00:13:11,524 --> 00:13:14,993
-    which is still quite hot    
-          at the core.          
+which is still quite hot at the core.          
 
 185
 00:13:21,134 --> 00:13:23,401
-        the wrecking ball       
-      is dropped repeatedly     
+the wrecking ball is dropped repeatedly     
 
 186
 00:13:23,403 --> 00:13:25,470
-           to break up          
-     the hardened minerals.     
+to break up the hardened minerals.     
 
 187
 00:13:31,544 --> 00:13:34,945
-         next, the lumps        
-      of abrasive material      
+next, the lumps of abrasive material      
 
 188
 00:13:34,947 --> 00:13:38,416
-         are transferred        
-      to a conveyor system.     
+are transferred to a conveyor system.     
 
 189
 00:13:41,154 --> 00:13:45,990
 metal-plated crushers break them
-   up into fist-sized chunks.   
+up into fist-sized chunks.   
 
 190
 00:13:50,763 --> 00:13:54,299
-        a magnet picks up       
-        any excess iron.        
+a magnet picks up any excess iron.        
 
 191
 00:13:55,435 --> 00:13:57,568
-            and then            
-   it's into the roll crusher,  
+and then it's into the roll crusher,  
 
 192
 00:13:57,570 --> 00:14:00,738
-      where iron cylinders      
-    grind the chunks to bits.   
+where iron cylinders grind the chunks to bits.   
 
 193
 00:14:05,378 --> 00:14:08,445
-    workers assemble screens    
-    in decreasing mesh sizes    
+workers assemble screens in decreasing mesh sizes    
 
 194
 00:14:08,447 --> 00:14:10,381
@@ -921,12 +785,11 @@ to make a kind of shaking sieve.
 
 195
 00:14:10,383 --> 00:14:12,050
- it sifts the mineral particles 
+it sifts the mineral particles 
 
 196
 00:14:12,052 --> 00:14:14,652
-       through the screen       
-    with largest mesh first,    
+through the screen with largest mesh first,    
 
 197
 00:14:14,654 --> 00:14:19,190
@@ -935,51 +798,45 @@ in progressively smaller sizes.
 
 198
 00:14:19,192 --> 00:14:20,791
-      for some perspective,     
+for some perspective,     
 
 199
 00:14:20,793 --> 00:14:24,461
-       we placed a quarter      
- against the various mesh sizes.
+we placed a quarter against the various mesh sizes.
 
 200
 00:14:24,463 --> 00:14:25,997
-         as you can see,        
+as you can see,        
 
 201
 00:14:25,999 --> 00:14:29,868
- only the finest particles could
-  pass through tightest weave.  
+only the finest particles could
+pass through tightest weave.  
 
 202
 00:14:35,942 --> 00:14:39,076
-        the bits of grit        
-    bounce across the screens   
+the bits of grit bounce across the screens   
 
 203
 00:14:39,078 --> 00:14:42,680
-    and fall into hoppers --    
- a different one for each size. 
+and fall into hoppers -- a different one for each size. 
 
 204
 00:14:43,883 --> 00:14:47,418
 the coarsest grains will be used
-     for rough-sanding jobs.    
+for rough-sanding jobs.    
 
 205
 00:14:47,420 --> 00:14:50,722
-     the smaller the grain,     
-     the finer the finish.      
+the smaller the grain, the finer the finish.      
 
 206
 00:14:53,960 --> 00:14:57,495
-        the finest grits        
-   are virtually microscopic.   
+the finest grits are virtually microscopic.   
 
 207
 00:15:03,903 --> 00:15:07,238
-   the next step is to inspect  
-       the grain's shape.       
+the next step is to inspect the grain's shape.       
 
 208
 00:15:07,240 --> 00:15:09,573
@@ -987,431 +844,367 @@ a sample is funneled into a cup.
 
 209
 00:15:09,575 --> 00:15:12,243
-       then it's weighed.       
+then it's weighed.       
 
 210
 00:15:12,245 --> 00:15:15,179
- a higher weight means the bits 
-       are densely stacked      
+a higher weight means the bits are densely stacked      
 
 211
 00:15:15,181 --> 00:15:17,582
- and therefore blockish in shape
-        with blunt edges.       
+and therefore blockish in shape
+with blunt edges.       
 
 212
 00:15:17,584 --> 00:15:20,652
-         a lower weight         
-  means they're flat and sharp. 
+a lower weight means they're flat and sharp. 
 
 213
 00:15:22,455 --> 00:15:26,590
-    a different test is used    
-  for the most minuscule grits. 
+a different test is used for the most minuscule grits. 
 
 214
 00:15:26,592 --> 00:15:30,661
-   the particles are suspended  
- in an an electrolyte solution. 
+the particles are suspended in an an electrolyte solution. 
 
 215
 00:15:30,663 --> 00:15:32,796
-    then an electrical charge   
-           is applied.          
+then an electrical charge is applied.          
 
 216
 00:15:32,798 --> 00:15:35,733
-     this allows inspectors     
- to count and evaluate the grits
+this allows inspectors to count and evaluate the grits
 
 217
 00:15:35,735 --> 00:15:37,268
-          via computer.         
+via computer.         
 
 218
 00:15:39,205 --> 00:15:41,806
-    now these abrasive grits    
-    are ready to be packaged    
+now these abrasive grits are ready to be packaged    
 
 219
 00:15:41,808 --> 00:15:42,907
-        and shipped out.        
+and shipped out.        
 
 220
 00:15:51,418 --> 00:15:54,218
-       coming up, we'll go      
-    to the sandpaper factory,   
+coming up, we'll go to the sandpaper factory,   
 
 221
 00:15:54,220 --> 00:15:57,288
-  where the abrasive grits meet 
-     their ultimate destiny.    
+where the abrasive grits meet their ultimate destiny.    
 
 222
 00:16:00,960 --> 00:16:04,162
-   we'll have the nitty-gritty  
-      on that process next.     
+we'll have the nitty-gritty on that process next.     
 
 223
 00:16:11,904 --> 00:16:14,705
-  narrator: to make sandpaper,  
-     you need a lot of grit.    
+narrator: to make sandpaper, you need a lot of grit.    
 
 224
 00:16:14,707 --> 00:16:17,575
-       there are thousands      
-     of tiny abrasive grains    
+there are thousands of tiny abrasive grains    
 
 225
 00:16:17,577 --> 00:16:19,043
-       on a single sheet.       
+on a single sheet.       
 
 226
 00:16:19,045 --> 00:16:21,378
-         the whole idea         
-     is to create friction.     
+the whole idea is to create friction.     
 
 227
 00:16:21,380 --> 00:16:24,248
-    by rubbing the sandpaper    
-     against wood or metal,     
+by rubbing the sandpaper against wood or metal,     
 
 228
 00:16:24,250 --> 00:16:28,853
-     you can remove defects     
-  and create a uniform surface. 
+you can remove defects and create a uniform surface. 
 
 229
 00:16:36,396 --> 00:16:38,729
-   it's ironic that something   
-           so abrasive          
+it's ironic that something so abrasive          
 
 230
 00:16:38,731 --> 00:16:41,265
- can make things look so smooth 
-          and polished.         
+can make things look so smooth and polished.         
 
 231
 00:16:43,203 --> 00:16:46,270
-   sandpaper often isn't made   
-       from paper at all,       
+sandpaper often isn't made from paper at all,       
 
 232
 00:16:46,272 --> 00:16:48,806
-  but fabric like poly cotton.  
+but fabric like poly cotton.  
 
 233
 00:16:48,808 --> 00:16:52,343
-    the cloth is unwound into   
+the cloth is unwound into   
 a machine with a printing press.
 
 234
 00:16:52,345 --> 00:16:54,679
-          rollers lined         
-      with rubber printers      
+rollers lined with rubber printers      
 
 235
 00:16:54,681 --> 00:16:57,148
-    stamp product information   
-         onto the cloth.        
+stamp product information onto the cloth.        
 
 236
 00:17:01,487 --> 00:17:04,088
-     the cloth then travels     
- underneath the printing press, 
+the cloth then travels underneath the printing press, 
 
 237
 00:17:04,090 --> 00:17:06,958
-    where more rollers apply    
-    a heat-setting adhesive     
+where more rollers apply a heat-setting adhesive     
 
 238
 00:17:06,960 --> 00:17:08,393
-     to the unprinted side.     
+to the unprinted side.     
 
 239
 00:17:19,705 --> 00:17:23,174
- a computerized system measures 
-   the density of the coating   
+a computerized system measures the density of the coating   
 
 240
 00:17:23,176 --> 00:17:25,977
 to ensure that it's been applied
-           correctly.           
+correctly.           
 
 241
 00:17:34,053 --> 00:17:36,654
-         then the cloth         
-    is pulled one floor down    
+then the cloth is pulled one floor down    
 
 242
 00:17:36,656 --> 00:17:38,790
-    to the electrostatic pit.   
+to the electrostatic pit.   
 
 243
 00:17:38,792 --> 00:17:42,393
-  here, the environment is kept 
-        hot and humid --        
+here, the environment is kept hot and humid --        
 
 244
 00:17:42,395 --> 00:17:44,862
-      perfect for applying      
-         abrasive grains        
+perfect for applying abrasive grains        
 
 245
 00:17:44,864 --> 00:17:47,197
-          to the cloth          
-       electrostatically.       
+to the cloth electrostatically.       
 
 246
 00:17:47,199 --> 00:17:50,534
-      the grains are poured     
+the grains are poured     
 onto a conveyor belt in the pit.
 
 247
 00:17:50,536 --> 00:17:53,337
-  the conveyor moves the grains 
-     under the rolling cloth    
+the conveyor moves the grains under the rolling cloth    
 
 248
 00:17:53,339 --> 00:17:57,008
-     and between electrodes     
-       and ground plates.       
+and between electrodes and ground plates.       
 
 249
 00:17:57,010 --> 00:17:59,810
-      the system generates      
-      an electrical field       
+the system generates an electrical field       
 
 250
 00:17:59,812 --> 00:18:02,346
- that triggers a mini sandstorm.
+that triggers a mini sandstorm.
 
 251
 00:18:05,285 --> 00:18:07,284
-         once airborne,         
+once airborne,         
 
 252
 00:18:07,286 --> 00:18:10,154
-    the abrasive grains stick   
-  to the adhesive-coated cloth  
+the abrasive grains stick to the adhesive-coated cloth  
 
 253
 00:18:10,156 --> 00:18:12,523
-   and become embedded in it.   
+and become embedded in it.   
 
 254
 00:18:12,525 --> 00:18:16,093
-   this method allows for even  
-   distribution of the grains   
+this method allows for even distribution of the grains   
 
 255
 00:18:16,095 --> 00:18:17,762
-        across the cloth.       
+across the cloth.       
 
 256
 00:18:25,571 --> 00:18:28,705
-     the grain-coated cloth     
-    now rolls out of the pit    
+the grain-coated cloth now rolls out of the pit    
 
 257
 00:18:28,707 --> 00:18:31,375
-  and back up to the main level 
-         of the factory.        
+and back up to the main level of the factory.        
 
 258
 00:18:37,183 --> 00:18:40,050
-   a technician cuts a swatch   
-        of the sandpaper,       
+a technician cuts a swatch of the sandpaper,       
 
 259
 00:18:40,052 --> 00:18:43,654
 then peels away layers and makes
-   three different cutouts --   
+three different cutouts --   
 
 260
 00:18:43,656 --> 00:18:45,723
-     one of the cloth alone,    
+one of the cloth alone,    
 
 261
 00:18:45,725 --> 00:18:48,526
-      another of the cloth      
-   with the adhesive coating,   
+another of the cloth with the adhesive coating,   
 
 262
 00:18:48,528 --> 00:18:52,330
-     and a third, the grain-    
-   and adhesive-coated cloth.   
+and a third, the grain- and adhesive-coated cloth.   
 
 263
 00:18:53,399 --> 00:18:54,866
-      he weighs each cutout     
+he weighs each cutout     
 
 264
 00:18:54,868 --> 00:18:58,135
-  to confirm that the sandpaper 
-       has been formulated      
+to confirm that the sandpaper has been formulated      
 
 265
 00:18:58,137 --> 00:18:59,737
-   precisely to specification.  
+precisely to specification.  
 
 266
 00:19:01,207 --> 00:19:04,675
-   he also examines the gritty  
-   surface under a microscope   
+he also examines the gritty surface under a microscope   
 
 267
 00:19:04,677 --> 00:19:07,378
-     to make sure the grains    
-     are standing up evenly.    
+to make sure the grains are standing up evenly.    
 
 268
 00:19:11,151 --> 00:19:13,751
-       this production run      
-       gets the go-ahead,       
+this production run gets the go-ahead,       
 
 269
 00:19:13,753 --> 00:19:15,353
-  so workers move the sandpaper 
+so workers move the sandpaper 
 
 270
 00:19:15,355 --> 00:19:17,088
-             through            
-    a hundred-yard-long oven.   
+through a hundred-yard-long oven.   
 
 271
 00:19:19,359 --> 00:19:21,759
-          it has three          
-    different heating zones,    
+it has three different heating zones,    
 
 272
 00:19:21,761 --> 00:19:23,961
-   each progressively hotter.   
+each progressively hotter.   
 
 273
 00:19:23,963 --> 00:19:28,332
-    the increasing heat bakes   
-  the grains into the adhesive. 
+the increasing heat bakes the grains into the adhesive. 
 
 274
 00:19:31,838 --> 00:19:34,238
-          the sandpaper         
-      is now rough enough,      
+the sandpaper is now rough enough,      
 
 275
 00:19:34,240 --> 00:19:36,574
-    but it's not quite ready    
-            for use.            
+but it's not quite ready for use.            
 
 276
 00:19:38,777 --> 00:19:40,510
-        in the next step,       
+in the next step,       
 
 277
 00:19:40,512 --> 00:19:43,114
-    a coat of resin is rolled   
-    over the gritty surface,    
+a coat of resin is rolled over the gritty surface,    
 
 278
 00:19:43,116 --> 00:19:45,582
- binding the grains to the base.
+binding the grains to the base.
 
 279
 00:19:45,584 --> 00:19:48,719
-         after the resin        
-    is cured to the surface,    
+after the resin is cured to the surface,    
 
 280
 00:19:48,721 --> 00:19:52,056
- these jumbo rolls of sandpaper 
-    are stored in a warehouse   
+these jumbo rolls of sandpaper are stored in a warehouse   
 
 281
 00:19:52,058 --> 00:19:54,592
-         until it's time        
-    to cut them down to size.   
+until it's time to cut them down to size.   
 
 282
 00:20:01,668 --> 00:20:04,268
-      some rolls are sliced     
-        into big sheets.        
+some rolls are sliced into big sheets.        
 
 283
 00:20:04,270 --> 00:20:06,870
-       these will be made       
+these will be made       
 into commercial sanding belts --
 
 284
 00:20:06,872 --> 00:20:08,706
-          the kind used         
-     in heavy manufacturing.    
+the kind used in heavy manufacturing.    
 
 285
 00:20:17,417 --> 00:20:20,518
-         another machine        
-   punches out sanding discs.   
+another machine punches out sanding discs.   
 
 286
 00:20:27,960 --> 00:20:30,895
-      and at this station,      
-     four rolls of sandpaper    
+and at this station, four rolls of sandpaper    
 
 287
 00:20:30,897 --> 00:20:34,431
-   are simultaneously unwound   
-         into a machine.        
+are simultaneously unwound into a machine.        
 
 288
 00:20:34,433 --> 00:20:37,301
-    it carves the four layers   
-        into rectangles.        
+it carves the four layers into rectangles.        
 
 289
 00:20:38,570 --> 00:20:41,239
-        these rectangles        
-   won't be used for sanding,   
+these rectangles won't be used for sanding,   
 
 290
 00:20:41,241 --> 00:20:43,741
-        but as grip tape        
-        for skateboards.        
+but as grip tape for skateboards.        
 
 291
 00:20:45,578 --> 00:20:47,377
- from refinishing your furniture
+from refinishing your furniture
 
 292
 00:20:47,379 --> 00:20:49,647
-        to nose-grinding        
-       at the skate park,       
+to nose-grinding at the skate park,       
 
 293
 00:20:49,649 --> 00:20:52,183
-            sandpaper           
-  will always give you an edge. 
+sandpaper will always give you an edge. 
 
 294
 00:20:52,185 --> 00:20:54,851
-     and with so many grits     
-         to choose from,        
+and with so many grits to choose from,        
 
 295
 00:20:54,853 --> 00:20:57,855
-   there really is a sandpaper  
-         for every job.         
+there really is a sandpaper for every job.         
 
 296
 00:21:07,800 --> 00:21:09,867
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 297
 00:21:09,869 --> 00:21:12,470
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 298
 00:21:12,472 --> 00:21:15,273
-      drop us a line at...      
+drop us a line at...      
 

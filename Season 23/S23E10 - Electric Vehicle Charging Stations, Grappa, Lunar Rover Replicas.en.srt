@@ -1,184 +1,159 @@
 ﻿1
 00:00:22,624 --> 00:00:25,725
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:51,819 --> 00:00:53,519
-   cars powered by electricity  
+cars powered by electricity  
 
 3
 00:00:53,654 --> 00:00:58,524
-  were being developed as early 
-          as the 1820s.         
+were being developed as early as the 1820s.         
 
 4
 00:00:58,593 --> 00:00:59,791
-        in recent years,        
+in recent years,        
 
 5
 00:00:59,827 --> 00:01:03,128
-     legislative initiatives    
-       improved batteries,      
+legislative initiatives improved batteries,      
 
 6
 00:01:03,164 --> 00:01:05,331
-     and accessible methods     
-          of recharging         
+and accessible methods of recharging         
 
 7
 00:01:05,400 --> 00:01:07,867
-       have made electric       
-     vehicles more popular.     
+have made electric vehicles more popular.     
 
 8
 00:01:13,441 --> 00:01:16,409
-        charging stations       
+charging stations       
 provide electricity to customers
 
 9
 00:01:16,411 --> 00:01:18,477
-     with electric vehicles.    
+with electric vehicles.    
 
 10
 00:01:18,613 --> 00:01:20,946
-      it's simply a matter      
-    of swiping an access card   
+it's simply a matter of swiping an access card   
 
 11
 00:01:21,015 --> 00:01:23,415
-       across the reader,       
+across the reader,       
 
 12
 00:01:23,484 --> 00:01:26,552
-    verifying the customer's    
-            account,            
+verifying the customer's account,            
 
 13
 00:01:26,554 --> 00:01:28,954
-        and then plugging       
- the charging station connector 
+and then plugging the charging station connector 
 
 14
 00:01:29,023 --> 00:01:30,323
-        into the vehicle.       
+into the vehicle.       
 
 15
 00:01:33,194 --> 00:01:34,426
-      the charging station      
+the charging station      
 
 16
 00:01:34,495 --> 00:01:37,295
-      provides electricity      
- to the charger in the vehicle. 
+provides electricity to the charger in the vehicle. 
 
 17
 00:01:37,332 --> 00:01:40,966
-  it can take one to six hours  
-  before it's fully recharged.  
+it can take one to six hours before it's fully recharged.  
 
 18
 00:01:41,035 --> 00:01:42,534
-    the blinking light stops,   
+the blinking light stops,   
 
 19
 00:01:42,570 --> 00:01:44,770
-     charging is under way.     
+charging is under way.     
 
 20
 00:01:44,806 --> 00:01:48,974
-         a laser cutter         
+a laser cutter         
 
 21
 00:01:48,977 --> 00:01:52,845
-  automatically slices through  
-    oxidized aluminum sheets.   
+automatically slices through oxidized aluminum sheets.   
 
 22
 00:01:52,914 --> 00:01:54,313
-     in a matter of minutes,    
+in a matter of minutes,    
 
 23
 00:01:54,382 --> 00:01:56,582
-     the pre-programmed cuts    
-          are complete.         
+the pre-programmed cuts are complete.         
 
 24
 00:01:59,053 --> 00:02:02,588
-   a worker carefully removes   
-   the cut pieces of aluminum.  
+a worker carefully removes the cut pieces of aluminum.  
 
 25
 00:02:02,590 --> 00:02:04,490
- unused pieces will be recycled.
+unused pieces will be recycled.
 
 26
 00:02:07,061 --> 00:02:11,863
-      another worker bends      
- the aluminum on a bending post.
+another worker bends the aluminum on a bending post.
 
 27
 00:02:11,899 --> 00:02:14,734
-  he places the aluminum piece  
-      in a bending machine.     
+he places the aluminum piece in a bending machine.     
 
 28
 00:02:18,039 --> 00:02:20,005
-              then,             
-   he positions the bent piece  
+then, he positions the bent piece  
 
 29
 00:02:20,041 --> 00:02:22,575
-       in a pre-programmed      
-    robotic welding machine.    
+in a pre-programmed robotic welding machine.    
 
 30
 00:02:26,947 --> 00:02:29,281
-  it automatically and quickly  
+it automatically and quickly  
 
 31
 00:02:29,283 --> 00:02:32,752
-  welds the pieces of aluminum  
-            together.           
+welds the pieces of aluminum together.           
 
 32
 00:02:32,754 --> 00:02:36,355
- the worker polishes the welded 
-    joints using a soft cloth   
+the worker polishes the welded joints using a soft cloth   
 
 33
 00:02:36,357 --> 00:02:39,491
-         to make certain        
-  they're smooth to the touch.  
+to make certain they're smooth to the touch.  
 
 34
 00:02:39,527 --> 00:02:42,561
-   polishing away rough edges   
-  makes the finished face plate 
+polishing away rough edges makes the finished face plate 
 
 35
 00:02:42,597 --> 00:02:44,397
-   safe for use by customers.   
+safe for use by customers.   
 
 36
 00:02:47,101 --> 00:02:49,367
-       a worker assembles       
-     the painted face plate     
+a worker assembles the painted face plate     
 
 37
 00:02:49,404 --> 00:02:51,704
-          and the head          
-    of the charging station.    
+and the head of the charging station.    
 
 38
 00:02:51,773 --> 00:02:53,906
-    he screws the face plate    
-           to the head          
+he screws the face plate to the head          
 
 39
 00:02:54,041 --> 00:02:56,708
-          and attaches          
- the user interface protection, 
+and attaches the user interface protection, 
 
 40
 00:02:56,744 --> 00:02:58,678
@@ -186,283 +161,244 @@ which is made of tempered glass.
 
 41
 00:03:01,049 --> 00:03:03,915
-   he places a flexible strip   
-    of light-emitting diodes    
+he places a flexible strip of light-emitting diodes    
 
 42
 00:03:03,985 --> 00:03:06,719
-      around the perimeter      
-     of the light diffuser.     
+around the perimeter of the light diffuser.     
 
 43
 00:03:06,854 --> 00:03:08,787
-    different colored lights    
-        tell the customer       
+different colored lights tell the customer       
 
 44
 00:03:08,856 --> 00:03:10,656
-       whether the station      
-          is available          
+whether the station is available          
 
 45
 00:03:10,725 --> 00:03:13,993
-  and whether vehicle charging  
-          is under way.         
+and whether vehicle charging is under way.         
 
 46
 00:03:13,995 --> 00:03:17,262
 he then places the protector cap
-   containing the light strip   
+containing the light strip   
 
 47
 00:03:17,298 --> 00:03:21,734
-   and the antenna on the head  
-    of the charging station.    
+and the antenna on the head of the charging station.    
 
 48
 00:03:23,871 --> 00:03:26,738
-  next, he connects the various 
-  components housed in the head 
+next, he connects the various components housed in the head 
 
 49
 00:03:26,774 --> 00:03:29,141
-    of the charging station.    
+of the charging station.    
 
 50
 00:03:29,177 --> 00:03:32,278
-  these include circuit boards, 
-     the antenna connection,    
+these include circuit boards, the antenna connection,    
 
 51
 00:03:32,280 --> 00:03:34,613
-        digital display,        
-        and card reader.        
+digital display, and card reader.        
 
 52
 00:03:37,518 --> 00:03:39,752
-     he inserts the control     
-         circuit board,         
+he inserts the control circuit board,         
 
 53
 00:03:39,754 --> 00:03:42,154
-            which has           
-  the central processing unit,  
+which has the central processing unit,  
 
 54
 00:03:42,223 --> 00:03:43,822
-     the antenna interface,     
+the antenna interface,     
 
 55
 00:03:43,858 --> 00:03:47,626
-      digital display, and      
- card reader on the other side. 
+digital display, and card reader on the other side. 
 
 56
 00:03:47,695 --> 00:03:51,030
- he uses a flat cable to connect
-     the 40 small connectors    
+he uses a flat cable to connect
+the 40 small connectors    
 
 57
 00:03:51,165 --> 00:03:53,032
-     of the control-printed     
-          circuit board         
+of the control-printed circuit board         
 
 58
 00:03:53,167 --> 00:03:55,100
-      to the power-printed      
-         circuit board.         
+to the power-printed circuit board.         
 
 59
 00:03:55,103 --> 00:03:57,837
-   he inserts it into the head  
-    of the charging station,    
+he inserts it into the head of the charging station,    
 
 60
 00:03:57,972 --> 00:04:00,505
-  on top of the control-printed 
-         circuit board.         
+on top of the control-printed circuit board.         
 
 61
 00:04:00,541 --> 00:04:02,842
-      he finishes attaching     
-      the quick connecters.     
+he finishes attaching the quick connecters.     
 
 62
 00:04:05,713 --> 00:04:08,781
-    a worker seals the edges    
-  of the charging station head  
+a worker seals the edges of the charging station head  
 
 63
 00:04:08,916 --> 00:04:10,248
-      with rubber stripping     
+with rubber stripping     
 
 64
 00:04:10,318 --> 00:04:13,352
 to protect the components inside
-   from the elements outside.   
+from the elements outside.   
 
 65
 00:04:17,725 --> 00:04:19,925
-          he positions          
-     the aluminum back plate    
+he positions the aluminum back plate    
 
 66
 00:04:19,927 --> 00:04:21,660
-  on the charging station head, 
+on the charging station head, 
 
 67
 00:04:21,729 --> 00:04:23,328
-    and once that's in place,   
+and once that's in place,   
 
 68
 00:04:23,364 --> 00:04:25,397
-           he attaches          
-   the charging cable assembly  
+he attaches the charging cable assembly  
 
 69
 00:04:25,466 --> 00:04:26,899
-    to the connector module.    
+to the connector module.    
 
 70
 00:04:31,472 --> 00:04:33,806
-        the worker slips        
-    the charging cable wires    
+the worker slips the charging cable wires    
 
 71
 00:04:33,808 --> 00:04:35,875
-         into the frame         
-     of the connector module    
+into the frame of the connector module    
 
 72
 00:04:36,010 --> 00:04:37,643
-   and securely tightens them.  
+and securely tightens them.  
 
 73
 00:04:40,982 --> 00:04:43,682
-       then, he positions       
-    the connector module door   
+then, he positions the connector module door   
 
 74
 00:04:43,718 --> 00:04:46,018
-        against the frame       
-     that holds it in place.    
+against the frame that holds it in place.    
 
 75
 00:04:48,956 --> 00:04:52,091
-    he attaches them securely   
-         to each other,         
+he attaches them securely to each other,         
 
 76
 00:04:52,093 --> 00:04:54,026
- using quick-connect connecters,
+using quick-connect connecters,
 
 77
 00:04:54,161 --> 00:04:56,695
-  he attaches part of the plug  
- that links the charging station
+he attaches part of the plug that links the charging station
 
 78
 00:04:56,731 --> 00:04:58,130
-         to the vehicle.        
+to the vehicle.        
 
 79
 00:05:00,835 --> 00:05:03,235
-     to make sure everything    
-      is working properly,      
+to make sure everything is working properly,      
 
 80
 00:05:03,370 --> 00:05:08,841
 the worker tests the door sensor
-  and the door locking system.  
+and the door locking system.  
 
 81
 00:05:08,976 --> 00:05:11,844
-  his test confirms the sensor  
-         is functioning,        
+his test confirms the sensor is functioning,        
 
 82
 00:05:11,913 --> 00:05:13,512
-  and the door locks correctly. 
+and the door locks correctly. 
 
 83
 00:05:17,051 --> 00:05:19,385
-         he now attaches        
-      the connector module      
+he now attaches the connector module      
 
 84
 00:05:19,520 --> 00:05:21,954
-           to the head          
-    of the charging station.    
+to the head of the charging station.    
 
 85
 00:05:25,126 --> 00:05:27,726
-    then, he places the head    
-     of the charging station    
+then, he places the head of the charging station    
 
 86
 00:05:27,728 --> 00:05:29,295
-     onto its pedestal base.    
+onto its pedestal base.    
 
 87
 00:05:33,000 --> 00:05:36,134
-   whether it's being removed   
-    or attached to a vehicle,   
+whether it's being removed or attached to a vehicle,   
 
 88
 00:05:36,204 --> 00:05:39,605
-   one safety feature is that   
+one safety feature is that   
 the connector is never energized
 
 89
 00:05:39,607 --> 00:05:42,741
-       when being handled       
-         by a customer.         
+when being handled by a customer.         
 
 90
 00:05:42,877 --> 00:05:46,378
-  once the charge is complete,  
-  the vehicle is ready to roll. 
+once the charge is complete, the vehicle is ready to roll. 
 
 91
 00:06:02,830 --> 00:06:04,162
-            narrator:           
-  grappa is an italian brandy,  
+narrator: grappa is an italian brandy,  
 
 92
 00:06:04,232 --> 00:06:06,765
-          traditionally         
-     an after dinner drink.     
+traditionally an after dinner drink.     
 
 93
 00:06:06,801 --> 00:06:08,166
-     it's made from pomace,     
+it's made from pomace,     
 
 94
 00:06:08,236 --> 00:06:09,368
-      what's left of grapes     
+what's left of grapes     
 
 95
 00:06:09,370 --> 00:06:11,904
-       after they've been       
-      pressed to make wine.     
+after they've been pressed to make wine.     
 
 96
 00:06:11,973 --> 00:06:13,505
- distilleries ferment the pomace
+distilleries ferment the pomace
 
 97
 00:06:13,574 --> 00:06:15,708
-      to convert the sugars     
-          into alcohol,         
+to convert the sugars into alcohol,         
 
 98
 00:06:15,843 --> 00:06:19,044
-  then distill it to transform  
- the alcohol and other compounds
+then distill it to transform the alcohol and other compounds
 
 99
 00:06:19,080 --> 00:06:20,679
-          into grappa.          
+into grappa.          
 
 100
 00:06:24,352 --> 00:06:26,585
@@ -470,41 +406,35 @@ traditional grappa is colorless.
 
 101
 00:06:26,654 --> 00:06:28,720
-       it can also be aged      
-        in wooden barrels       
+it can also be aged in wooden barrels       
 
 102
 00:06:28,789 --> 00:06:30,455
- to produce different varieties,
+to produce different varieties,
 
 103
 00:06:30,524 --> 00:06:35,193
-     with a specific color,     
-        taste, and aroma.       
+with a specific color, taste, and aroma.       
 
 104
 00:06:35,229 --> 00:06:38,530
-  you can't make grappa without 
-   someone first making wine,   
+you can't make grappa without someone first making wine,   
 
 105
 00:06:38,566 --> 00:06:43,335
-  because wine-making leftovers 
-    are the sole ingredient.    
+because wine-making leftovers are the sole ingredient.    
 
 106
 00:06:43,371 --> 00:06:45,070
-   in italy, the wine harvest   
+in italy, the wine harvest   
 
 107
 00:06:45,205 --> 00:06:47,673
-      begins in late summer     
-         or early fall,         
+begins in late summer or early fall,         
 
 108
 00:06:47,675 --> 00:06:50,676
-    depending on the weather    
-   and region of the country.   
+depending on the weather and region of the country.   
 
 109
 00:06:50,811 --> 00:06:55,147
@@ -513,36 +443,31 @@ from the vineyard to the winery.
 
 110
 00:06:55,216 --> 00:06:58,284
-    there, the first machine    
-   pulls them off the stocks,   
+there, the first machine pulls them off the stocks,   
 
 111
 00:06:58,419 --> 00:07:00,752
-    which are later composted   
-         into fertilizer        
+which are later composted into fertilizer        
 
 112
 00:07:00,821 --> 00:07:03,288
-    for farms and nurseries.    
+for farms and nurseries.    
 
 113
 00:07:03,357 --> 00:07:06,759
-      the destocked grapes      
-   enter a cylindrical press.   
+the destocked grapes enter a cylindrical press.   
 
 114
 00:07:06,794 --> 00:07:08,426
-         they're crushed        
-        against the walls       
+they're crushed against the walls       
 
 115
 00:07:08,462 --> 00:07:10,229
-   with an airbag-like device   
+with an airbag-like device   
 
 116
 00:07:10,231 --> 00:07:12,964
-  to extract the juice and pulp 
-        for making wine.        
+to extract the juice and pulp for making wine.        
 
 117
 00:07:12,967 --> 00:07:15,500
@@ -550,106 +475,97 @@ what's left behind in the press,
 
 118
 00:07:15,536 --> 00:07:17,635
-         once the juice         
-       and pulp drain out,      
+once the juice and pulp drain out,      
 
 119
 00:07:17,672 --> 00:07:22,107
-   are the skins, seeds, some   
-    residual juice, and pulp.   
+are the skins, seeds, some residual juice, and pulp.   
 
 120
 00:07:22,109 --> 00:07:23,976
-     this is called pomace.     
+this is called pomace.     
 
 121
 00:07:24,045 --> 00:07:25,910
-           the winery           
-    sells it to distilleries    
+the winery sells it to distilleries    
 
 122
 00:07:25,947 --> 00:07:28,179
-      that produce grappa.      
+that produce grappa.      
 
 123
 00:07:28,215 --> 00:07:32,651
- this small artisanal distillery
- produces premium quality grappa
+this small artisanal distillery
+produces premium quality grappa
 
 124
 00:07:32,653 --> 00:07:36,455
 by using only pomace from grapes
-   pressed that very same day.  
+pressed that very same day.  
 
 125
 00:07:36,590 --> 00:07:40,859
 the pomace goes into temperature
-  controlled fermentation tanks 
+controlled fermentation tanks 
 
 126
 00:07:40,995 --> 00:07:42,528
-     as soon as it arrives.     
+as soon as it arrives.     
 
 127
 00:07:45,099 --> 00:07:48,400
-  large industrial distilleries 
-      operate differently,      
+large industrial distilleries operate differently,      
 
 128
 00:07:48,469 --> 00:07:51,403
-  typically warehousing pomace  
-      prior to processing,      
+typically warehousing pomace prior to processing,      
 
 129
 00:07:51,538 --> 00:07:53,539
-      sometimes for months.     
+sometimes for months.     
 
 130
 00:07:53,674 --> 00:07:57,409
- this delay produces high levels
- of potentially toxic methanol, 
+this delay produces high levels
+of potentially toxic methanol, 
 
 131
 00:07:57,544 --> 00:08:00,145
-      which the distillery      
-       then has to remove       
+which the distillery then has to remove       
 
 132
 00:08:00,147 --> 00:08:02,114
- using an additional procedure. 
+using an additional procedure. 
 
 133
 00:08:04,218 --> 00:08:07,886
-    the distillers monitor ph   
- and alcohol levels to determine
+the distillers monitor ph and alcohol levels to determine
 
 134
 00:08:07,955 --> 00:08:11,757
-  when the conversion of sugars 
-     to alcohol is complete.    
+when the conversion of sugars to alcohol is complete.    
 
 135
 00:08:11,826 --> 00:08:14,827
-           the process          
+the process          
 takes from three days to a week,
 
 136
 00:08:14,829 --> 00:08:16,095
-    depending on the variety    
+depending on the variety    
 
 137
 00:08:16,230 --> 00:08:20,132
-   of grape and other factors,  
+of grape and other factors,  
 such as the outdoor temperature.
 
 138
 00:08:22,770 --> 00:08:24,303
-    when the pomace is ready,   
+when the pomace is ready,   
 
 139
 00:08:24,305 --> 00:08:27,139
-        they transfer it        
-   to wood-clad copper stills.  
+they transfer it to wood-clad copper stills.  
 
 140
 00:08:29,576 --> 00:08:31,709
@@ -657,118 +573,101 @@ they heat the stills with steam,
 
 141
 00:08:31,746 --> 00:08:33,979
-       bringing the pomace      
-      to the boiling point,     
+bringing the pomace to the boiling point,     
 
 142
 00:08:34,114 --> 00:08:38,117
-  which transforms the alcohol  
- and other compounds into steam.
+which transforms the alcohol and other compounds into steam.
 
 143
 00:08:38,252 --> 00:08:42,454
-    this alcohol steam inside   
-   the still rises to the top   
+this alcohol steam inside the still rises to the top   
 
 144
 00:08:42,523 --> 00:08:44,523
- and exits through a side hole. 
+and exits through a side hole. 
 
 145
 00:08:44,658 --> 00:08:47,526
- it travels through copper pipes
-      and other equipment,      
+it travels through copper pipes
+and other equipment,      
 
 146
 00:08:47,595 --> 00:08:50,195
-           ultimately           
-    to a condensation system,   
+ultimately to a condensation system,   
 
 147
 00:08:50,197 --> 00:08:52,597
-   which cools the steam back   
-           to liquid.           
+which cools the steam back to liquid.           
 
 148
 00:08:52,666 --> 00:08:55,333
-     this liquid is grappa.     
+this liquid is grappa.     
 
 149
 00:08:55,369 --> 00:08:57,402
-    as it exits distillation,   
+as it exits distillation,   
 
 150
 00:08:57,471 --> 00:08:59,471
-      the master distiller      
-          meticulously          
+the master distiller meticulously          
 
 151
 00:08:59,507 --> 00:09:03,142
-    monitors the temperature    
-       and alcohol level.       
+monitors the temperature and alcohol level.       
 
 152
 00:09:03,144 --> 00:09:06,010
-    she discards the initial    
-        and final flows,        
+she discards the initial and final flows,        
 
 153
 00:09:06,047 --> 00:09:09,614
-         capturing only         
-  the perfectly pure mid flow,  
+capturing only the perfectly pure mid flow,  
 
 154
 00:09:09,650 --> 00:09:12,617
-    referred to as the heart    
-         of the grappa.         
+referred to as the heart of the grappa.         
 
 155
 00:09:12,686 --> 00:09:16,622
- its alcohol level at this point
-         is 70% to 77%.         
+its alcohol level at this point
+is 70% to 77%.         
 
 156
 00:09:18,692 --> 00:09:21,160
-        certain varieties       
-      now go to the cellar,     
+certain varieties now go to the cellar,     
 
 157
 00:09:21,162 --> 00:09:25,164
-    into small wooden barrels   
-             to age.            
+into small wooden barrels to age.            
 
 158
 00:09:25,166 --> 00:09:26,831
-   over time, both the grappa   
+over time, both the grappa   
 
 159
 00:09:26,867 --> 00:09:29,501
-     and the wooden barrels     
-       exchange compounds,      
+and the wooden barrels exchange compounds,      
 
 160
 00:09:29,636 --> 00:09:33,104
-  which influence taste, aroma, 
-           and color.           
+which influence taste, aroma, and color.           
 
 161
 00:09:33,140 --> 00:09:36,174
-   for example, a barrel made   
-   of cherry wood will produce  
+for example, a barrel made of cherry wood will produce  
 
 162
 00:09:36,210 --> 00:09:40,311
-    different characteristics   
-      than one made of oak.     
+different characteristics than one made of oak.     
 
 163
 00:09:40,347 --> 00:09:41,847
-    the distilleries' experts   
+the distilleries' experts   
 
 164
 00:09:41,849 --> 00:09:44,849
-    analyze and taste samples   
-     following distillation     
+analyze and taste samples following distillation     
 
 165
 00:09:44,885 --> 00:09:46,718
@@ -776,415 +675,361 @@ and throughout the aging period.
 
 166
 00:09:46,754 --> 00:09:48,319
-    depending on the variety,   
+depending on the variety,   
 
 167
 00:09:48,322 --> 00:09:52,124
-  this can range from just one  
-   year to more than 20 years.  
+this can range from just one year to more than 20 years.  
 
 168
 00:09:55,429 --> 00:09:58,997
-   whether the grappa is aged   
-   or not, prior to bottling,   
+whether the grappa is aged or not, prior to bottling,   
 
 169
 00:09:59,133 --> 00:10:02,668
-    they filter and dilute it   
-   with the mineralized water.  
+they filter and dilute it with the mineralized water.  
 
 170
 00:10:02,670 --> 00:10:04,770
- this lowers the alcohol content
+this lowers the alcohol content
 
 171
 00:10:04,872 --> 00:10:07,806
-     from an average of 77%     
-       after distillation       
+from an average of 77% after distillation       
 
 172
 00:10:07,941 --> 00:10:10,876
-       to the target level      
-         of 41% to 50%.         
+to the target level of 41% to 50%.         
 
 173
 00:10:18,919 --> 00:10:20,218
-      they seal the bottles     
+they seal the bottles     
 
 174
 00:10:20,254 --> 00:10:23,155
-      with stoppers made of     
-  food-safe synthetic materials 
+with stoppers made of food-safe synthetic materials 
 
 175
 00:10:23,290 --> 00:10:26,224
- rather than traditional corks. 
+rather than traditional corks. 
 
 176
 00:10:26,260 --> 00:10:29,361
-      natural cork contains     
-   certain organic compounds,   
+natural cork contains certain organic compounds,   
 
 177
 00:10:29,363 --> 00:10:32,731
-   which can alter the flavor,  
- aroma, and color of the grappa.
+which can alter the flavor, aroma, and color of the grappa.
 
 178
 00:10:35,603 --> 00:10:38,904
-      they seal the stopper     
-    with shrink wrap plastic.   
+they seal the stopper with shrink wrap plastic.   
 
 179
 00:10:39,039 --> 00:10:41,039
-        an unbroken seal        
-        assures the buyer       
+an unbroken seal assures the buyer       
 
 180
 00:10:41,175 --> 00:10:44,243
-         that the bottle        
- has not been previously opened.
+that the bottle has not been previously opened.
 
 181
 00:10:44,378 --> 00:10:46,911
-        then the bottles        
+then the bottles        
 pass through a labeling station.
 
 182
 00:10:46,947 --> 00:10:51,849
-    the grappa is ready to be   
- poured as an after-dinner drink
+the grappa is ready to be poured as an after-dinner drink
 
 183
 00:10:51,886 --> 00:10:54,253
-     or enjoyed on its own.     
+or enjoyed on its own.     
 
 184
 00:10:54,388 --> 00:10:57,489
-  as the italians say, "salut!" 
+as the italians say, "salut!" 
 
 185
 00:11:13,007 --> 00:11:15,340
-            narrator:           
-        on july 26, 1971,       
+narrator: on july 26, 1971,       
 
 186
 00:11:15,475 --> 00:11:18,810
-   the apollo 15 space module   
-    touched down on the moon,   
+the apollo 15 space module touched down on the moon,   
 
 187
 00:11:18,946 --> 00:11:21,413
-     and astronauts emerged     
-       with a new vehicle,      
+and astronauts emerged with a new vehicle,      
 
 188
 00:11:21,415 --> 00:11:22,681
-        the lunar rover.        
+the lunar rover.        
 
 189
 00:11:22,816 --> 00:11:24,550
- they took it for a test drive. 
+they took it for a test drive. 
 
 190
 00:11:24,685 --> 00:11:27,352
-  it handled well on the rough  
-      surface of the moon,      
+it handled well on the rough surface of the moon,      
 
 191
 00:11:27,388 --> 00:11:29,887
-  so they could venture further 
-     from the landing sight     
+so they could venture further from the landing sight     
 
 192
 00:11:29,924 --> 00:11:31,190
-       and really explore.      
+and really explore.      
 
 193
 00:11:34,962 --> 00:11:38,096
-         the lunar rover        
-  was no ordinary four wheeler. 
+the lunar rover was no ordinary four wheeler. 
 
 194
 00:11:38,165 --> 00:11:39,965
- millions of dollars of research
+millions of dollars of research
 
 195
 00:11:40,034 --> 00:11:42,301
-         went into this         
-     one-horsepower wonder,     
+went into this one-horsepower wonder,     
 
 196
 00:11:42,436 --> 00:11:45,903
-       which became known       
-       as the moon buggy.       
+which became known as the moon buggy.       
 
 197
 00:11:45,940 --> 00:11:49,441
-        today, craftsmen        
+today, craftsmen        
 build replicas for space museums
 
 198
 00:11:49,443 --> 00:11:51,476
-   and to use as movie props.   
+and to use as movie props.   
 
 199
 00:11:54,048 --> 00:11:57,382
-      the team starts with      
+the team starts with      
 a substantial suspension system,
 
 200
 00:11:57,518 --> 00:12:00,819
-   designed to smooth the ride  
- over the moon's rocky terrain. 
+designed to smooth the ride over the moon's rocky terrain. 
 
 201
 00:12:03,023 --> 00:12:05,457
-  they then install a steering  
-       plate at the front.      
+they then install a steering plate at the front.      
 
 202
 00:12:08,061 --> 00:12:09,461
-     they attach actuators,     
+they attach actuators,     
 
 203
 00:12:09,530 --> 00:12:11,897
-      which are mechanisms      
-    that assist in steering.    
+which are mechanisms that assist in steering.    
 
 204
 00:12:15,302 --> 00:12:18,503
- they connect the actuator drive
-   bars to the steering plate.  
+they connect the actuator drive
+bars to the steering plate.  
 
 205
 00:12:22,543 --> 00:12:24,276
-  together, the steering plate  
+together, the steering plate  
 
 206
 00:12:24,278 --> 00:12:26,210
-          and actuators         
-      give the lunar rover      
+and actuators give the lunar rover      
 
 207
 00:12:26,247 --> 00:12:28,981
-       an incredibly tight      
-   turning radius of 10 feet.   
+an incredibly tight turning radius of 10 feet.   
 
 208
 00:12:33,954 --> 00:12:36,355
-   they screw support brackets  
-        for the actuators       
+they screw support brackets for the actuators       
 
 209
 00:12:36,490 --> 00:12:38,023
- to the corners of the chassis. 
+to the corners of the chassis. 
 
 210
 00:12:41,962 --> 00:12:44,296
- they then connect the actuators
-            to them.            
+they then connect the actuators
+to them.            
 
 211
 00:12:48,936 --> 00:12:52,770
-         they use steel         
-  and aluminum bolts and parts. 
+they use steel and aluminum bolts and parts. 
 
 212
 00:12:52,806 --> 00:12:55,107
-            however,            
-   on the original moon buggy,  
+however, on the original moon buggy,  
 
 213
 00:12:55,109 --> 00:12:57,175
-           many parts           
-     were made of titanium,     
+many parts were made of titanium,     
 
 214
 00:12:57,311 --> 00:13:00,579
-      because it lightened      
-  the load carried into space.  
+because it lightened the load carried into space.  
 
 215
 00:13:00,581 --> 00:13:05,450
-    titanium is expensive and   
-  unnecessary for this replica. 
+titanium is expensive and unnecessary for this replica. 
 
 216
 00:13:05,486 --> 00:13:07,786
-      the fenders are next.     
+the fenders are next.     
 
 217
 00:13:07,788 --> 00:13:10,188
-      they are extra large      
-      to protect astronauts     
+they are extra large to protect astronauts     
 
 218
 00:13:10,190 --> 00:13:12,391
-         from lunar dust        
-     kicked up by the rover.    
+from lunar dust kicked up by the rover.    
 
 219
 00:13:15,062 --> 00:13:17,329
- they insert a locking mechanism
-            in a slit           
+they insert a locking mechanism
+in a slit           
 
 220
 00:13:17,464 --> 00:13:20,065
-  at the end of the drive shaft 
+at the end of the drive shaft 
 
 221
 00:13:20,067 --> 00:13:22,200
-     and slide the wheel hub    
-         onto the shaft.        
+and slide the wheel hub onto the shaft.        
 
 222
 00:13:25,472 --> 00:13:28,974
-        they turn the hub       
-      to lock it in place.      
+they turn the hub to lock it in place.      
 
 223
 00:13:29,076 --> 00:13:31,142
-        they're now ready       
-         for the wheels.        
+they're now ready for the wheels.        
 
 224
 00:13:31,211 --> 00:13:33,678
-    in the atmospheric vacuum   
-          of the moon,          
+in the atmospheric vacuum of the moon,          
 
 225
 00:13:33,747 --> 00:13:37,549
-     air-filled rubber tires    
-    were out of the question,   
+air-filled rubber tires were out of the question,   
 
 226
 00:13:37,584 --> 00:13:40,819
-      so the original rover     
-      had wire-mesh tires.      
+so the original rover had wire-mesh tires.      
 
 227
 00:13:40,954 --> 00:13:42,220
-       to mimic the look,       
+to mimic the look,       
 
 228
 00:13:42,222 --> 00:13:46,958
- they've wrapped a wire lattice 
-      around rubber tires.      
+they've wrapped a wire lattice around rubber tires.      
 
 229
 00:13:47,094 --> 00:13:49,828
-   the team secures the wheel   
-           to the hub           
+the team secures the wheel to the hub           
 
 230
 00:13:49,897 --> 00:13:52,030
- with a plastic and aluminum cap
+with a plastic and aluminum cap
 
 231
 00:13:52,165 --> 00:13:54,766
-         that's equipped        
-       with locking pins.       
+that's equipped with locking pins.       
 
 232
 00:13:54,768 --> 00:13:58,070
- they give it a spin and install
-     the other three wheels.    
+they give it a spin and install
+the other three wheels.    
 
 233
 00:14:02,976 --> 00:14:06,778
-       next, a technician       
- assembles the instrument panel.
+next, a technician assembles the instrument panel.
 
 234
 00:14:06,847 --> 00:14:10,115
-   he inserts various switches  
- and gauges into their slots... 
+he inserts various switches and gauges into their slots... 
 
 235
 00:14:13,120 --> 00:14:16,121
-          ...including          
-    this system reset switch.   
+...including this system reset switch.   
 
 236
 00:14:16,123 --> 00:14:19,057
- it's used to bring the displays
-          back to zero          
+it's used to bring the displays
+back to zero          
 
 237
 00:14:19,059 --> 00:14:20,625
-     prior to an expedition.    
+prior to an expedition.    
 
 238
 00:14:24,998 --> 00:14:28,467
-  he closes a two piece collar  
+he closes a two piece collar  
 around the bottom of the switch.
 
 239
 00:14:34,141 --> 00:14:36,274
-      he locks it in place      
-         with a top cap.        
+he locks it in place with a top cap.        
 
 240
 00:14:41,749 --> 00:14:43,815
- he then flips the panel around 
+he then flips the panel around 
 
 241
 00:14:43,851 --> 00:14:46,518
-      and tightens the nut      
- on the back part of the switch.
+and tightens the nut on the back part of the switch.
 
 242
 00:14:52,259 --> 00:14:55,426
-  with the system reset switch  
-          now attached,         
+with the system reset switch now attached,         
 
 243
 00:14:55,462 --> 00:14:58,029
-      the instrument panel      
-          is complete.          
+the instrument panel is complete.          
 
 244
 00:14:58,098 --> 00:14:59,698
-  he places it in the housing.  
+he places it in the housing.  
 
 245
 00:15:03,904 --> 00:15:06,237
-     he installs metal bars     
-       around the switches      
+he installs metal bars around the switches      
 
 246
 00:15:06,273 --> 00:15:08,774
-          to keep them          
+to keep them          
 from being accidentally tripped.
 
 247
 00:15:11,978 --> 00:15:13,578
-    he assembles the steering   
-             handle,            
+he assembles the steering handle,            
 
 248
 00:15:13,713 --> 00:15:18,916
-  which is a t-shaped joystick, 
-  next to the instrument panel. 
+which is a t-shaped joystick, next to the instrument panel. 
 
 249
 00:15:18,952 --> 00:15:21,720
- they now transfer the steering 
-  and instrument panel assembly 
+they now transfer the steering and instrument panel assembly 
 
 250
 00:15:21,855 --> 00:15:22,888
-         to the vehicle.        
+to the vehicle.        
 
 251
 00:15:27,060 --> 00:15:28,926
-           they fasten          
-      the actuator switches     
+they fasten the actuator switches     
 
 252
 00:15:28,962 --> 00:15:33,999
-    to the steering housing,    
+to the steering housing,    
 
 253
 00:15:34,134 --> 00:15:37,936
@@ -1193,189 +1038,168 @@ to the floor of the lunar rover.
 
 254
 00:15:40,941 --> 00:15:42,540
-      they cover the bottom     
-          of the rover          
+they cover the bottom of the rover          
 
 255
 00:15:42,576 --> 00:15:44,276
- with flame-resistant material. 
+with flame-resistant material. 
 
 256
 00:15:49,016 --> 00:15:52,149
-    they lower the electrical   
-    control panel and battery   
+they lower the electrical control panel and battery   
 
 257
 00:15:52,186 --> 00:15:54,418
-        into the chassis        
-        and connect them.       
+into the chassis and connect them.       
 
 258
 00:15:54,455 --> 00:15:57,355
-       the original rover       
-    had two small batteries,    
+the original rover had two small batteries,    
 
 259
 00:15:57,391 --> 00:16:02,093
-      but the mechanics of      
+but the mechanics of      
 this replica have had an update.
 
 260
 00:16:02,095 --> 00:16:03,494
-      stay tuned for more,      
+stay tuned for more,      
 
 261
 00:16:03,530 --> 00:16:06,498
- as this lunar rover replication
-       mission continues.       
+as this lunar rover replication
+mission continues.       
 
 262
 00:16:24,251 --> 00:16:26,251
-            narrator:           
-    the original lunar rover    
+narrator: the original lunar rover    
 
 263
 00:16:26,253 --> 00:16:27,586
-    weighed just 460 pounds,    
+weighed just 460 pounds,    
 
 264
 00:16:27,588 --> 00:16:30,054
-  or 77 pounds in moon weight.  
+or 77 pounds in moon weight.  
 
 265
 00:16:30,090 --> 00:16:33,791
-      it could carry a load     
-       of over twice that.      
+it could carry a load of over twice that.      
 
 266
 00:16:33,827 --> 00:16:36,528
-       at minimal gravity       
-   and an atmospheric vacuum,   
+at minimal gravity and an atmospheric vacuum,   
 
 267
 00:16:36,597 --> 00:16:39,331
-  it was the only way to travel 
-   on the surface of the moon   
+it was the only way to travel on the surface of the moon   
 
 268
 00:16:39,333 --> 00:16:40,765
-            in 1971.            
+in 1971.            
 
 269
 00:16:45,606 --> 00:16:48,073
-         the production         
-   of this lunar rover replica  
+the production of this lunar rover replica  
 
 270
 00:16:48,208 --> 00:16:50,876
- continues with the fabrication 
-        of a brake disk.        
+continues with the fabrication of a brake disk.        
 
 271
 00:16:53,013 --> 00:16:55,680
-    the technician carefully    
-     measures the dimensions    
+the technician carefully measures the dimensions    
 
 272
 00:16:55,716 --> 00:16:58,950
-   and draws them onto a sheet  
-  of plastic-covered aluminum.  
+and draws them onto a sheet of plastic-covered aluminum.  
 
 273
 00:17:03,823 --> 00:17:05,223
-     he drills a large hole     
+he drills a large hole     
 
 274
 00:17:05,225 --> 00:17:08,193
-    for the main drive shaft    
-      and four screw holes.     
+for the main drive shaft and four screw holes.     
 
 275
 00:17:13,967 --> 00:17:15,500
-   he then cuts out the disk,   
+he then cuts out the disk,   
 
 276
 00:17:15,502 --> 00:17:17,168
-  following the penciled lines. 
+following the penciled lines. 
 
 277
 00:17:20,707 --> 00:17:24,442
-   he smoothes the rough edges  
+he smoothes the rough edges  
 using a fine grit abrasive belt.
 
 278
 00:17:34,721 --> 00:17:36,988
- he sands off the plastic liner,
+he sands off the plastic liner,
 
 279
 00:17:36,990 --> 00:17:39,958
 and abrades the aluminum surface
-       to a satiny sheen.       
+to a satiny sheen.       
 
 280
 00:17:48,802 --> 00:17:52,270
-   the brake disk is now ready  
+the brake disk is now ready  
 for assembly to the lunar rover.
 
 281
 00:17:55,742 --> 00:17:58,009
-         he attaches it         
-    to the main drive shaft,    
+he attaches it to the main drive shaft,    
 
 282
 00:17:58,144 --> 00:18:00,211
-     and lowers the assembly    
-        into the vehicle.       
+and lowers the assembly into the vehicle.       
 
 283
 00:18:03,750 --> 00:18:05,883
-        he bolts the disk       
-         to the chassis,        
+he bolts the disk to the chassis,        
 
 284
 00:18:05,919 --> 00:18:07,819
-       where it will serve      
-      as a friction surface     
+where it will serve as a friction surface     
 
 285
 00:18:07,888 --> 00:18:09,688
-       for the brake pads.      
+for the brake pads.      
 
 286
 00:18:09,690 --> 00:18:11,423
-     he installs those next.    
+he installs those next.    
 
 287
 00:18:17,764 --> 00:18:19,564
-         he connects it         
-      to a spring mechanism     
+he connects it to a spring mechanism     
 
 288
 00:18:19,633 --> 00:18:21,166
-  for engaging the disk brake.  
+for engaging the disk brake.  
 
 289
 00:18:23,903 --> 00:18:26,371
-    he tests the drive shaft    
-         and disk brake         
+he tests the drive shaft and disk brake         
 
 290
 00:18:26,373 --> 00:18:28,607
-        and confirms that       
- they're both in working order. 
+and confirms that they're both in working order. 
 
 291
 00:18:34,781 --> 00:18:37,315
-    he loops the roller chain   
-    around the sprocket gear    
+he loops the roller chain around the sprocket gear    
 
 292
 00:18:37,317 --> 00:18:38,850
-    for the rear wheel drive,   
+for the rear wheel drive,   
 
 293
 00:18:38,985 --> 00:18:41,186
-    and the teeth intermesh.    
+and the teeth intermesh.    
 
 294
 00:18:41,188 --> 00:18:42,988
@@ -1383,163 +1207,140 @@ he drives pins through the links
 
 295
 00:18:43,123 --> 00:18:45,323
-        to join the ends,       
-        closing the loop.       
+to join the ends, closing the loop.       
 
 296
 00:18:45,325 --> 00:18:49,060
-   this drive chain is powered  
-      by an electric motor.     
+this drive chain is powered by an electric motor.     
 
 297
 00:18:49,062 --> 00:18:51,463
-     it's another mechanical    
-          modification.         
+it's another mechanical modification.         
 
 298
 00:18:51,465 --> 00:18:52,931
-     on the original rover,     
+on the original rover,     
 
 299
 00:18:52,933 --> 00:18:55,000
-     there was a small motor    
-         for every wheel        
+there was a small motor for every wheel        
 
 300
 00:18:55,135 --> 00:18:57,469
-       and no drive chain.      
+and no drive chain.      
 
 301
 00:18:57,471 --> 00:18:59,704
-    the lawn-chair-like seats   
-            are next.           
+the lawn-chair-like seats are next.           
 
 302
 00:19:02,742 --> 00:19:05,010
-      they cover the shocks     
-    and battery at the front    
+they cover the shocks and battery at the front    
 
 303
 00:19:05,145 --> 00:19:06,411
-     with an aluminum hood.     
+with an aluminum hood.     
 
 304
 00:19:12,753 --> 00:19:16,421
-    they also install a cover   
- over the mechanics at the back.
+they also install a cover over the mechanics at the back.
 
 305
 00:19:16,423 --> 00:19:19,958
-      it doubles as a rack      
+it doubles as a rack      
 for geological excavation tools.
 
 306
 00:19:24,665 --> 00:19:27,799
 they attach the umbrella antenna
-          to the rover.         
+to the rover.         
 
 307
 00:19:27,868 --> 00:19:30,502
-  it was used to beam pictures  
-       and data to earth.       
+it was used to beam pictures and data to earth.       
 
 308
 00:19:32,772 --> 00:19:36,174
-   next, an aluminum cylinder   
-        spins in a lathe,       
+next, an aluminum cylinder spins in a lathe,       
 
 309
 00:19:36,243 --> 00:19:39,177
-  as cutting tools transform it 
-      into a camera mount.      
+as cutting tools transform it into a camera mount.      
 
 310
 00:19:44,885 --> 00:19:48,119
-   they also create a bracket   
-  for a communications antenna. 
+they also create a bracket for a communications antenna. 
 
 311
 00:19:52,859 --> 00:19:54,526
-  it's quite a transformation.  
+it's quite a transformation.  
 
 312
 00:19:59,066 --> 00:20:00,465
-       using the bracket,       
+using the bracket,       
 
 313
 00:20:00,534 --> 00:20:04,736
- a member of the crew now erects
-   the communications antenna.  
+a member of the crew now erects
+the communications antenna.  
 
 314
 00:20:04,805 --> 00:20:07,405
-   he then installs the mount   
-      for the film camera.      
+he then installs the mount for the film camera.      
 
 315
 00:20:10,844 --> 00:20:13,812
-   next, using a sheer press,   
+next, using a sheer press,   
 
 316
 00:20:13,814 --> 00:20:16,081
-       he lops off a piece      
-      of an aluminum sheet.     
+he lops off a piece of an aluminum sheet.     
 
 317
 00:20:22,856 --> 00:20:24,622
-   he switches to a hand tool   
+he switches to a hand tool   
 
 318
 00:20:24,691 --> 00:20:27,158
- and cuts out a geometric shape 
-           with flaps.          
+and cuts out a geometric shape with flaps.          
 
 319
 00:20:34,735 --> 00:20:37,435
-      he folds up the flaps     
-      using a brake press,      
+he folds up the flaps using a brake press,      
 
 320
 00:20:37,504 --> 00:20:39,804
-         creating a box         
-   to cover the main battery.   
+creating a box to cover the main battery.   
 
 321
 00:20:45,946 --> 00:20:47,778
-         after the seams        
-        have been welded,       
+after the seams have been welded,       
 
 322
 00:20:47,814 --> 00:20:51,549
-  he wraps the cover in mylar,  
- which is a strong plastic film.
+he wraps the cover in mylar, which is a strong plastic film.
 
 323
 00:20:54,887 --> 00:20:56,921
-   the wrap is an extra layer   
-          of protection         
+the wrap is an extra layer of protection         
 
 324
 00:20:56,923 --> 00:21:00,625
-  against wind-borne particles, 
-   known as mircrometeoroids.   
+against wind-borne particles, known as mircrometeoroids.   
 
 325
 00:21:03,196 --> 00:21:04,529
-    they also wrap the camera   
+they also wrap the camera   
 
 326
 00:21:04,531 --> 00:21:06,564
-         and other parts        
-    of the rover with mylar.    
+and other parts of the rover with mylar.    
 
 327
 00:21:11,938 --> 00:21:14,539
-          this replica          
-    of the apollo lunar rover   
+this replica of the apollo lunar rover   
 
 328
 00:21:14,541 --> 00:21:17,041
-      is complete and ready     
-          for display.          
+is complete and ready for display.          
 

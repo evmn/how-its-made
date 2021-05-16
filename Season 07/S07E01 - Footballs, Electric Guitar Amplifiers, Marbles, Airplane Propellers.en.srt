@@ -1,11 +1,10 @@
 1
 00:00:22,823 --> 00:00:26,291
-            narrator:           
-  today, on "how it's made"...  
+narrator: today, on "how it's made"...  
 
 2
 00:00:26,327 --> 00:00:28,360
-          footballs...          
+footballs...          
 
 3
 00:00:32,333 --> 00:00:35,901
@@ -13,59 +12,52 @@
 
 4
 00:00:37,905 --> 00:00:39,972
-          ...marbles...         
+...marbles...         
 
 5
 00:00:43,644 --> 00:00:45,644
-   ...and airplane propellers.  
+...and airplane propellers.  
 
 6
 00:00:52,920 --> 00:00:57,422
-  in 1869, players in the first 
+in 1869, players in the first 
 football game used a round ball,
 
 7
 00:00:57,458 --> 00:00:58,790
-         like in soccer.        
+like in soccer.        
 
 8
 00:00:58,793 --> 00:01:01,460
-      it was tough to carry     
-      and awkward to throw,     
+it was tough to carry and awkward to throw,     
 
 9
 00:01:01,462 --> 00:01:04,396
-       so they changed it       
- to look more like a watermelon.
+so they changed it to look more like a watermelon.
 
 10
 00:01:04,465 --> 00:01:06,464
-        the current shape       
-      enables a better grip     
+the current shape enables a better grip     
 
 11
 00:01:06,467 --> 00:01:09,802
-      and passing on an arc     
-   that's unique to football.   
+and passing on an arc that's unique to football.   
 
 12
 00:01:18,813 --> 00:01:20,746
-         a lot of people        
-        handle a football       
+a lot of people handle a football       
 
 13
 00:01:20,881 --> 00:01:22,881
-       before it ever gets      
-          to the field.         
+before it ever gets to the field.         
 
 14
 00:01:22,917 --> 00:01:24,216
-    they start with cowhide.    
+they start with cowhide.    
 
 15
 00:01:24,351 --> 00:01:27,285
-   footballs are traditionally  
-      made of this leather      
+footballs are traditionally made of this leather      
 
 16
 00:01:27,321 --> 00:01:29,221
@@ -73,64 +65,55 @@ because it wears well over time.
 
 17
 00:01:29,290 --> 00:01:32,223
-  with a die, a worker cuts out 
-        the four sections       
+with a die, a worker cuts out the four sections       
 
 18
 00:01:32,259 --> 00:01:34,059
-  that make up the ball's skin. 
+that make up the ball's skin. 
 
 19
 00:01:38,499 --> 00:01:42,301
- a stamping machine then brands 
- the skin with the company logo.
+a stamping machine then brands the skin with the company logo.
 
 20
 00:01:42,303 --> 00:01:44,703
-   they may put other markings  
-     elsewhere on the ball,     
+they may put other markings elsewhere on the ball,     
 
 21
 00:01:44,705 --> 00:01:47,239
-     depending on the design    
-  of the model they're making.  
+depending on the design of the model they're making.  
 
 22
 00:01:53,180 --> 00:01:55,581
-      each of the sections      
-       goes into a machine      
+each of the sections goes into a machine      
 
 23
 00:01:55,716 --> 00:01:58,517
-     that trims the pieces'     
-  combined weight down to spec. 
+that trims the pieces' combined weight down to spec. 
 
 24
 00:02:05,726 --> 00:02:07,091
-     to strengthen the skin,    
+to strengthen the skin,    
 
 25
 00:02:07,128 --> 00:02:09,594
-          a seamstress          
-  sews cotton and vinyl linings 
+a seamstress sews cotton and vinyl linings 
 
 26
 00:02:09,630 --> 00:02:10,996
-     onto all four sections.    
+onto all four sections.    
 
 27
 00:02:16,270 --> 00:02:18,203
-  then she places them in a die 
+then she places them in a die 
 
 28
 00:02:18,272 --> 00:02:22,474
-       that positions them      
-  for another set of markings.  
+that positions them for another set of markings.  
 
 29
 00:02:22,543 --> 00:02:25,544
-     these four white lines     
-      will form two stripes     
+these four white lines will form two stripes     
 
 30
 00:02:25,546 --> 00:02:27,546
@@ -138,407 +121,343 @@ when the sections come together.
 
 31
 00:02:27,615 --> 00:02:29,281
-    this is purely aesthetic    
+this is purely aesthetic    
 
 32
 00:02:29,283 --> 00:02:31,884
-      and varies according      
-     to the football model.     
+and varies according to the football model.     
 
 33
 00:02:32,019 --> 00:02:34,753
-      now it's time to sew      
-    the top sections together   
+now it's time to sew the top sections together   
 
 34
 00:02:34,822 --> 00:02:37,222
-    and then the bottom ones    
-         to each other.         
+and then the bottom ones to each other.         
 
 35
 00:02:37,357 --> 00:02:39,624
-    exactly how many stitches   
-           this takes           
+exactly how many stitches this takes           
 
 36
 00:02:39,660 --> 00:02:43,295
-        is this company's       
-     closely guarded secret.    
+is this company's closely guarded secret.    
 
 37
 00:02:43,364 --> 00:02:46,164
-     this press makes a hole    
-   in one of the top sections   
+this press makes a hole in one of the top sections   
 
 38
 00:02:46,200 --> 00:02:47,833
-       for the air valve.       
+for the air valve.       
 
 39
 00:02:50,738 --> 00:02:52,904
-      they make eight holes     
-       in the top sections      
+they make eight holes in the top sections      
 
 40
 00:02:52,973 --> 00:02:55,173
-    for laces that will hold    
-        the skin tightly        
+for laces that will hold the skin tightly        
 
 41
 00:02:55,176 --> 00:03:00,111
-     around an inflated bag     
-        called a bladder.       
+around an inflated bag called a bladder.       
 
 42
 00:03:00,214 --> 00:03:02,914
-       to join the ball's       
-    top and bottom sections,    
+to join the ball's top and bottom sections,    
 
 43
 00:03:02,983 --> 00:03:04,716
- the seamstress first cups them 
+the seamstress first cups them 
 
 44
 00:03:04,851 --> 00:03:06,985
-         and then joins         
-       the edges together.      
+and then joins the edges together.      
 
 45
 00:03:07,120 --> 00:03:08,920
- she sews the leather inside out
+she sews the leather inside out
 
 46
 00:03:08,989 --> 00:03:11,189
-      to make the stitches      
-          less visible.         
+to make the stitches less visible.         
 
 47
 00:03:11,258 --> 00:03:13,791
-    later, workers will turn    
-     the skin right-side out    
+later, workers will turn the skin right-side out    
 
 48
 00:03:13,827 --> 00:03:16,595
- by reaching through the opening
-     between the lace holes.    
+by reaching through the opening
+between the lace holes.    
 
 49
 00:03:16,730 --> 00:03:19,164
-       this is also where       
-   they'll insert the bladder.  
+this is also where they'll insert the bladder.  
 
 50
 00:03:22,269 --> 00:03:24,936
-         it's important         
-   to flatten the four seams.   
+it's important to flatten the four seams.   
 
 51
 00:03:24,939 --> 00:03:27,939
-   to do this, a worker places  
-      each one on a wheel,      
+to do this, a worker places each one on a wheel,      
 
 52
 00:03:27,975 --> 00:03:30,142
-           as a roller          
-      passes over the top.      
+as a roller passes over the top.      
 
 53
 00:03:30,144 --> 00:03:32,143
-       this keeps the ball      
-        from being bumpy        
+this keeps the ball from being bumpy        
 
 54
 00:03:32,213 --> 00:03:34,680
-   when they stretch the skin   
-        over the bladder.       
+when they stretch the skin over the bladder.       
 
 55
 00:03:38,919 --> 00:03:41,620
-        a 15-second steam       
-       softens the leather      
+a 15-second steam softens the leather      
 
 56
 00:03:41,689 --> 00:03:44,289
-       and makes it easier      
-         to manipulate.         
+and makes it easier to manipulate.         
 
 57
 00:03:45,959 --> 00:03:49,094
-         a concave press        
- flattens the seams at the tips.
+a concave press flattens the seams at the tips.
 
 58
 00:03:49,096 --> 00:03:52,697
-  this will also keep the ball  
-  smooth when they inflate it.  
+this will also keep the ball smooth when they inflate it.  
 
 59
 00:03:52,766 --> 00:03:56,100
-      time to turn the skin     
-         right-side out.        
+time to turn the skin right-side out.        
 
 60
 00:03:56,136 --> 00:03:58,237
-      the worker places it      
-         on a metal bar,        
+the worker places it on a metal bar,        
 
 61
 00:03:58,372 --> 00:04:01,306
-   then, reaching through the   
- opening between the lace holes,
+then, reaching through the opening between the lace holes,
 
 62
 00:04:01,342 --> 00:04:04,643
-   he grabs the other side of   
- the skin and pulls it through. 
+he grabs the other side of the skin and pulls it through. 
 
 63
 00:04:04,778 --> 00:04:07,112
-      then he runs the bar      
-        along the inside        
+then he runs the bar along the inside        
 
 64
 00:04:07,114 --> 00:04:08,680
-      to reshape the skin.      
+to reshape the skin.      
 
 65
 00:04:12,786 --> 00:04:16,054
-     the bladder is made of     
+the bladder is made of     
 polyurethane, a type of plastic,
 
 66
 00:04:16,123 --> 00:04:19,857
-       with a vinyl patch       
-  reinforcing the lacing area.  
+with a vinyl patch reinforcing the lacing area.  
 
 67
 00:04:19,893 --> 00:04:22,594
-   after squeezing the bladder  
-        inside the skin,        
+after squeezing the bladder inside the skin,        
 
 68
 00:04:22,596 --> 00:04:25,263
-       a worker snips off       
-    the end of the air valve    
+a worker snips off the end of the air valve    
 
 69
 00:04:25,266 --> 00:04:28,066
-   to keep it out of the way.   
+to keep it out of the way.   
 
 70
 00:04:28,068 --> 00:04:30,602
-        then she inflates       
-        the bladder a bit       
+then she inflates the bladder a bit       
 
 71
 00:04:30,671 --> 00:04:33,272
-     to make it rigid enough    
-           for lacing.          
+to make it rigid enough for lacing.          
 
 72
 00:04:35,075 --> 00:04:37,275
-    after steadying the ball    
-          with clamps,          
+after steadying the ball with clamps,          
 
 73
 00:04:37,344 --> 00:04:40,412
-    she uses an awl to thread   
-  the lace through the holes -- 
+she uses an awl to thread the lace through the holes -- 
 
 74
 00:04:40,547 --> 00:04:44,949
-      just one vinyl lace,      
-      measuring four feet.      
+just one vinyl lace, measuring four feet.      
 
 75
 00:04:44,985 --> 00:04:47,885
-   it worms through both sides  
-    and then down the center    
+it worms through both sides and then down the center    
 
 76
 00:04:47,921 --> 00:04:50,155
-    and through all the holes   
-           once again.          
+and through all the holes once again.          
 
 77
 00:04:53,894 --> 00:04:56,427
-      the lacing is spaced      
-   about a half inch apart --   
+the lacing is spaced about a half inch apart --   
 
 78
 00:04:56,463 --> 00:04:58,096
- wide enough to comfortably grip
+wide enough to comfortably grip
 
 79
 00:04:58,165 --> 00:05:00,432
-       for that magic pass      
-       you've got in mind.      
+for that magic pass you've got in mind.      
 
 80
 00:05:04,471 --> 00:05:08,373
-    next, workers temporarily   
-     overinflate the balls.     
+next, workers temporarily overinflate the balls.     
 
 81
 00:05:08,375 --> 00:05:10,375
-    steel molds surround them   
+steel molds surround them   
 
 82
 00:05:10,377 --> 00:05:12,644
-    to ensure they'll assume    
-       the correct shape.       
+to ensure they'll assume the correct shape.       
 
 83
 00:05:12,713 --> 00:05:15,781
-        after 90 seconds,       
-    the extra air seeps out.    
+after 90 seconds, the extra air seeps out.    
 
 84
 00:05:15,916 --> 00:05:18,850
-            finally,            
- the factory inspects the balls 
+finally, the factory inspects the balls 
 
 85
 00:05:18,886 --> 00:05:21,386
-            to ensure           
-     they're up to standard.    
+to ensure they're up to standard.    
 
 86
 00:05:21,521 --> 00:05:26,058
-   fully inflated, a ball must  
-  weigh no more than 15 ounces. 
+fully inflated, a ball must weigh no more than 15 ounces. 
 
 87
 00:05:27,961 --> 00:05:30,996
- it should measure 21 1/2 inches
-       through the middle       
+it should measure 21 1/2 inches
+through the middle       
 
 88
 00:05:31,131 --> 00:05:34,966
- and 28 inches around both ends.
+and 28 inches around both ends.
 
 89
 00:05:39,539 --> 00:05:42,274
-        after a five-day        
-     manufacturing process,     
+after a five-day manufacturing process,     
 
 90
 00:05:42,276 --> 00:05:44,843
-      these balls are ready     
-         for the field.         
+these balls are ready for the field.         
 
 91
 00:05:58,392 --> 00:06:01,827
-            narrator:           
- you have to plug an electrical 
-    guitar into an amplifier    
+narrator: you have to plug an electrical guitar into an amplifier    
 
 92
 00:06:01,962 --> 00:06:04,362
-    if you want it to be more   
-      than barely audible.      
+if you want it to be more than barely audible.      
 
 93
 00:06:04,398 --> 00:06:06,765
-       a guitar amplifier       
-   is typically a boxed unit,   
+a guitar amplifier is typically a boxed unit,   
 
 94
 00:06:06,900 --> 00:06:09,434
-        containing an amp       
- to boost the electronic signal 
+containing an amp to boost the electronic signal 
 
 95
 00:06:09,470 --> 00:06:10,768
-       and a loudspeaker.       
+and a loudspeaker.       
 
 96
 00:06:10,804 --> 00:06:12,103
-         some amplifiers        
+some amplifiers        
 
 97
 00:06:12,139 --> 00:06:14,840
-      use state-of-the-art      
-     silicon-chip circuitry,    
+use state-of-the-art silicon-chip circuitry,    
 
 98
 00:06:14,842 --> 00:06:18,110
-          while others          
-  use traditional vacuum tubes. 
+while others use traditional vacuum tubes. 
 
 99
 00:06:18,245 --> 00:06:21,046
-    [ mid-tempo music plays ]   
+[ mid-tempo music plays ]   
 
 100
 00:06:26,153 --> 00:06:28,987
 the amp's electronics are housed
-     inside a metal chassis.    
+inside a metal chassis.    
 
 101
 00:06:29,056 --> 00:06:31,590
-  this model's chassis is made  
-      from a sheet of metal     
+this model's chassis is made from a sheet of metal     
 
 102
 00:06:31,725 --> 00:06:33,858
-        that's less than        
-        .04 inches thick.       
+that's less than .04 inches thick.       
 
 103
 00:06:33,894 --> 00:06:36,728
-    a computer-guided machine   
-      called a turret punch     
+a computer-guided machine called a turret punch     
 
 104
 00:06:36,730 --> 00:06:38,730
-        cuts the contour        
+cuts the contour        
 
 105
 00:06:38,732 --> 00:06:40,732
-      and pierces a series      
-       of holes and slots       
+and pierces a series of holes and slots       
 
 106
 00:06:40,734 --> 00:06:42,000
-        for the controls.       
+for the controls.       
 
 107
 00:06:46,573 --> 00:06:48,874
-       a worker then uses       
-    a computer-guided bender    
+a worker then uses a computer-guided bender    
 
 108
 00:06:48,876 --> 00:06:51,042
-  to shape the chassis cutout.  
+to shape the chassis cutout.  
 
 109
 00:06:57,217 --> 00:06:58,550
-    elsewhere in the factory,   
+elsewhere in the factory,   
 
 110
 00:06:58,652 --> 00:07:00,885
-     the amp's circuit board    
-          takes shape.          
+the amp's circuit board takes shape.          
 
 111
 00:07:00,954 --> 00:07:02,887
-  it'll go inside the chassis.  
+it'll go inside the chassis.  
 
 112
 00:07:02,956 --> 00:07:05,290
-     a computer-guided drill    
-        makes tiny holes        
+a computer-guided drill makes tiny holes        
 
 113
 00:07:05,359 --> 00:07:08,426
-       in a laminate board      
-   that's coated with copper.   
+in a laminate board that's coated with copper.   
 
 114
 00:07:08,462 --> 00:07:12,430
-  the holes are for the board's 
- various electronic components. 
+the holes are for the board's various electronic components. 
 
 115
 00:07:12,466 --> 00:07:14,366
@@ -546,47 +465,41 @@ an automated silk-screen printer
 
 116
 00:07:14,368 --> 00:07:17,435
-      now applies a diagram     
-   of the electrical circuitry  
+now applies a diagram of the electrical circuitry  
 
 117
 00:07:17,438 --> 00:07:19,237
-    in ammonia-resistant ink.   
+in ammonia-resistant ink.   
 
 118
 00:07:19,273 --> 00:07:22,174
-       then the board goes      
+then the board goes      
 into a machine called an etcher,
 
 119
 00:07:22,309 --> 00:07:25,776
-       which uses ammonia       
- to dissolve the copper coating.
+which uses ammonia to dissolve the copper coating.
 
 120
 00:07:25,813 --> 00:07:28,980
-         copper shielded        
+copper shielded        
 by the ink diagram stays intact.
 
 121
 00:07:29,115 --> 00:07:30,982
-           the machine          
-      then rinses the board     
+the machine then rinses the board     
 
 122
 00:07:31,117 --> 00:07:33,518
-      with sodium hydroxide     
-      to dissolve the ink,      
+with sodium hydroxide to dissolve the ink,      
 
 123
 00:07:33,653 --> 00:07:37,055
-     leaving behind just the    
-  circuitry diagram and copper. 
+leaving behind just the circuitry diagram and copper. 
 
 124
 00:07:37,124 --> 00:07:40,058
-    this copper configuration   
-    will conduct electricity    
+this copper configuration will conduct electricity    
 
 125
 00:07:40,193 --> 00:07:42,060
@@ -594,84 +507,74 @@ to the circuit-board components.
 
 126
 00:07:52,806 --> 00:07:57,075
-       automated machines       
- insert the smaller components. 
+automated machines insert the smaller components. 
 
 127
 00:07:57,077 --> 00:08:00,312
-   here's what that looks like  
-        in slow motion...       
+here's what that looks like in slow motion...       
 
 128
 00:08:02,349 --> 00:08:04,449
-     ...and at actual speed.    
+...and at actual speed.    
 
 129
 00:08:09,890 --> 00:08:12,224
-      as a worker provides      
-        counterpressure,        
+as a worker provides counterpressure,        
 
 130
 00:08:12,359 --> 00:08:15,826
- a machine folds over the leaves
-    of some larger components   
+a machine folds over the leaves
+of some larger components   
 
 131
 00:08:15,863 --> 00:08:17,963
-   to secure them to the board  
-     until they're soldered.    
+to secure them to the board until they're soldered.    
 
 132
 00:08:18,098 --> 00:08:21,432
-   workers then install large,  
-    irregular parts by hand,    
+workers then install large, irregular parts by hand,    
 
 133
 00:08:21,468 --> 00:08:24,969
-          among them --         
- the sockets that hold the tubes
+among them -- the sockets that hold the tubes
 
 134
 00:08:25,038 --> 00:08:26,505
-     which power the amp...     
+which power the amp...     
 
 135
 00:08:35,716 --> 00:08:37,048
-    ...the ribbon connecters    
+...the ribbon connecters    
 
 136
 00:08:37,183 --> 00:08:40,018
-    that join different areas   
-     of the circuit board...    
+that join different areas of the circuit board...    
 
 137
 00:08:44,791 --> 00:08:47,258
-        ...and the wires        
+...and the wires        
 that connect external components
 
 138
 00:08:47,261 --> 00:08:48,527
-          to the board.         
+to the board.         
 
 139
 00:08:50,697 --> 00:08:53,965
- the factory permanently affixes
-     everything in one shot,    
+the factory permanently affixes
+everything in one shot,    
 
 140
 00:08:54,034 --> 00:08:56,468
-         using a process        
-     called wave soldering.     
+using a process called wave soldering.     
 
 141
 00:08:56,470 --> 00:09:00,071
- the circuit board runs through 
- a bath of molten tin and lead. 
+the circuit board runs through a bath of molten tin and lead. 
 
 142
 00:09:00,140 --> 00:09:03,341
-  in just a couple of seconds,  
-  the liquefied metal hardens,  
+in just a couple of seconds, the liquefied metal hardens,  
 
 143
 00:09:03,377 --> 00:09:06,144
@@ -679,250 +582,220 @@ bonding the components securely.
 
 144
 00:09:06,279 --> 00:09:07,612
-   back to that steel chassis   
+back to that steel chassis   
 
 145
 00:09:07,648 --> 00:09:09,614
-        we saw them bend        
-       into shape earlier.      
+we saw them bend into shape earlier.      
 
 146
 00:09:09,716 --> 00:09:11,816
-           since then,          
-    they've painted it black.   
+since then, they've painted it black.   
 
 147
 00:09:11,818 --> 00:09:13,284
-   with a silk screen printer,  
+with a silk screen printer,  
 
 148
 00:09:13,287 --> 00:09:17,155
 they apply the control markings,
-  logos, and other information. 
+logos, and other information. 
 
 149
 00:09:24,231 --> 00:09:26,197
- they begin the final assembly. 
+they begin the final assembly. 
 
 150
 00:09:26,233 --> 00:09:29,100
-      first, they screw the     
- circuit board into the chassis.
+first, they screw the circuit board into the chassis.
 
 151
 00:09:29,136 --> 00:09:31,235
- then they plug the preamp tube 
+then they plug the preamp tube 
 
 152
 00:09:31,271 --> 00:09:34,372
-   into the appropriate socket  
-          on the board.         
+into the appropriate socket on the board.         
 
 153
 00:09:34,374 --> 00:09:37,375
- this tube boosts the electrical
-  signal coming from the guitar 
+this tube boosts the electrical
+signal coming from the guitar 
 
 154
 00:09:37,411 --> 00:09:39,844
-          and feeds it          
-      to the output tubes,      
+and feeds it to the output tubes,      
 
 155
 00:09:39,846 --> 00:09:41,646
-   which up the voltage level,  
+which up the voltage level,  
 
 156
 00:09:41,682 --> 00:09:44,382
-        making the signal       
-      stronger and louder.      
+making the signal stronger and louder.      
 
 157
 00:09:44,384 --> 00:09:46,051
- after installing control knobs 
+after installing control knobs 
 
 158
 00:09:46,186 --> 00:09:48,519
-     and covering the bottom    
-         of the chassis,        
+and covering the bottom of the chassis,        
 
 159
 00:09:48,589 --> 00:09:51,189
-         workers insert         
-   and clamp the output tubes,  
+workers insert and clamp the output tubes,  
 
 160
 00:09:51,191 --> 00:09:53,258
-       the number of which      
-         usually varies         
+the number of which usually varies         
 
 161
 00:09:53,393 --> 00:09:55,593
-          according to          
-     how many watts of power    
+according to how many watts of power    
 
 162
 00:09:55,662 --> 00:09:57,862
- the amp is designed to produce.
+the amp is designed to produce.
 
 163
 00:09:57,931 --> 00:10:01,666
-       the chassis housing      
+the chassis housing      
 the electronics goes into a box.
 
 164
 00:10:01,801 --> 00:10:03,802
-  this factory builds its boxes 
+this factory builds its boxes 
 
 165
 00:10:03,937 --> 00:10:06,805
-         from high-grade        
-      baltic birch plywood,     
+from high-grade baltic birch plywood,     
 
 166
 00:10:06,807 --> 00:10:10,675
-       but other companies      
+but other companies      
 often use domestic plywood, mdf,
 
 167
 00:10:10,677 --> 00:10:13,344
-        or even plastic.        
+or even plastic.        
 
 168
 00:10:13,413 --> 00:10:15,480
-     after covering the box     
-         in leatherette         
+after covering the box in leatherette         
 
 169
 00:10:15,549 --> 00:10:17,281
-           and adding           
-     corner reinforcements,     
+and adding corner reinforcements,     
 
 170
 00:10:17,317 --> 00:10:19,350
-          they install          
- the two remaining components --
+they install the two remaining components --
 
 171
 00:10:19,453 --> 00:10:21,119
-      the spring reverb...      
+the spring reverb...      
 
 172
 00:10:23,357 --> 00:10:26,558
-       ...and the speaker.      
+...and the speaker.      
 
 173
 00:10:26,560 --> 00:10:29,761
-   as the guitar's electrical   
-  signals run through the amp,  
+as the guitar's electrical signals run through the amp,  
 
 174
 00:10:29,763 --> 00:10:31,429
-  part of the electrical signal 
+part of the electrical signal 
 
 175
 00:10:31,465 --> 00:10:34,132
-       diverts to one end       
-  of the spring, vibrating it.  
+diverts to one end of the spring, vibrating it.  
 
 176
 00:10:34,234 --> 00:10:36,968
-     the spring's other end     
-     picks up this vibration    
+the spring's other end picks up this vibration    
 
 177
 00:10:36,970 --> 00:10:40,371
-    and sends it back through   
-  the amp as a delayed signal.  
+and sends it back through the amp as a delayed signal.  
 
 178
 00:10:40,407 --> 00:10:43,641
-   that reverberation combines  
-    with the original signal    
+that reverberation combines with the original signal    
 
 179
 00:10:43,710 --> 00:10:45,643
-   to produce a bigger sound.   
+to produce a bigger sound.   
 
 180
 00:10:45,712 --> 00:10:47,879
-    [ mid-tempo music plays ]   
+[ mid-tempo music plays ]   
 
 181
 00:11:03,764 --> 00:11:05,663
-            narrator:           
-    people have been playing    
+narrator: people have been playing    
 
 182
 00:11:05,666 --> 00:11:07,799
-        with small balls        
-    of stone, clay, or marble   
+with small balls of stone, clay, or marble   
 
 183
 00:11:07,868 --> 00:11:10,468
-     since ancient egyptian     
-        and roman times.        
+since ancient egyptian and roman times.        
 
 184
 00:11:10,537 --> 00:11:13,337
-         today's marbles        
-   are actually made of glass   
+today's marbles are actually made of glass   
 
 185
 00:11:13,373 --> 00:11:16,474
-  and used for industrial tasks 
-        as well as games.       
+and used for industrial tasks as well as games.       
 
 186
 00:11:16,543 --> 00:11:18,877
-        glass is not only       
-    inexpensive and durable,    
+glass is not only inexpensive and durable,    
 
 187
 00:11:18,879 --> 00:11:21,046
-    but also quite beautiful.   
+but also quite beautiful.   
 
 188
 00:11:28,288 --> 00:11:29,754
-        to make marbles,        
+to make marbles,        
 
 189
 00:11:29,790 --> 00:11:33,224
-   this company melts recycled  
- glass with marbles made earlier
+this company melts recycled glass with marbles made earlier
 
 190
 00:11:33,359 --> 00:11:35,794
-          but rejected          
-    for being the wrong size.   
+but rejected for being the wrong size.   
 
 191
 00:11:38,698 --> 00:11:40,765
-    all this goes into a kiln   
+all this goes into a kiln   
 
 192
 00:11:40,767 --> 00:11:43,668
-     heated to 2,200 degrees    
-           fahrenheit.          
+heated to 2,200 degrees fahrenheit.          
 
 193
 00:11:45,572 --> 00:11:49,106
 after 16 hours, they open a door
-   at the bottom of the kiln,   
+at the bottom of the kiln,   
 
 194
 00:11:49,142 --> 00:11:51,142
- and the molten glass flows out.
+and the molten glass flows out.
 
 195
 00:11:54,581 --> 00:11:57,381
-     a shearing device cuts     
- the stream every half a second,
+a shearing device cuts the stream every half a second,
 
 196
 00:11:57,417 --> 00:12:01,986
-  forming segments called slugs 
-      that become marbles.      
+forming segments called slugs that become marbles.      
 
 197
 00:12:01,988 --> 00:12:03,988
@@ -930,109 +803,93 @@ to make different-sized marbles,
 
 198
 00:12:03,990 --> 00:12:08,159
-  they adjust the device to cut 
- at shorter or longer intervals.
+they adjust the device to cut at shorter or longer intervals.
 
 199
 00:12:09,663 --> 00:12:11,596
-  the slugs slide down chutes,  
+the slugs slide down chutes,  
 
 200
 00:12:11,665 --> 00:12:15,199
-     landing between grooves    
-  on spinning cast-iron rolls.  
+landing between grooves on spinning cast-iron rolls.  
 
 201
 00:12:15,268 --> 00:12:18,869
-  the spinning keeps the slugs  
-         from sticking.         
+the spinning keeps the slugs from sticking.         
 
 202
 00:12:18,905 --> 00:12:22,407
-      they'll need 72 hours     
-       to cool completely,      
+they'll need 72 hours to cool completely,      
 
 203
 00:12:22,409 --> 00:12:24,675
-   but their final appearance   
-         is already set.        
+but their final appearance is already set.        
 
 204
 00:12:24,778 --> 00:12:26,944
-       that was determined      
-        back in the kiln,       
+that was determined back in the kiln,       
 
 205
 00:12:27,013 --> 00:12:28,979
-        when the airflow        
-         drove the heat         
+when the airflow drove the heat         
 
 206
 00:12:29,015 --> 00:12:31,149
-        to melt the glass       
-       and mix the colors.      
+to melt the glass and mix the colors.      
 
 207
 00:12:34,020 --> 00:12:36,887
-     these channels separate    
-     the good from the bad.     
+these channels separate the good from the bad.     
 
 208
 00:12:36,923 --> 00:12:38,556
-     openings along the way     
+openings along the way     
 
 209
 00:12:38,625 --> 00:12:41,426
-        weed out the ones       
-  that are too big or too small 
+weed out the ones that are too big or too small 
 
 210
 00:12:41,561 --> 00:12:44,062
-      and collect the ones      
-      that are just right.      
+and collect the ones that are just right.      
 
 211
 00:12:49,503 --> 00:12:52,137
-     more intricate marbles     
-          are handmade.         
+more intricate marbles are handmade.         
 
 212
 00:12:54,674 --> 00:12:57,041
-  this craftsman first preheats 
-        some clear glass        
+this craftsman first preheats some clear glass        
 
 213
 00:12:57,177 --> 00:12:58,743
-        in a small oven.        
+in a small oven.        
 
 214
 00:13:00,680 --> 00:13:05,249
-   then he breaks off a piece   
-        of colored glass.       
+then he breaks off a piece of colored glass.       
 
 215
 00:13:05,318 --> 00:13:08,119
 after the clear glass has melted
-    in the furnace overnight,   
+in the furnace overnight,   
 
 216
 00:13:08,254 --> 00:13:10,054
- he gathers some on a steel rod 
+he gathers some on a steel rod 
 
 217
 00:13:10,123 --> 00:13:13,724
-    then picks up a chunk of    
+then picks up a chunk of    
 preheated colored glass with it.
 
 218
 00:13:13,760 --> 00:13:17,061
-    he forms a knob and works   
-   the mass into a long string  
+he forms a knob and works the mass into a long string  
 
 219
 00:13:17,197 --> 00:13:20,431
-  that's up to 16 1/2 feet long 
-      and thin as a noodle.     
+that's up to 16 1/2 feet long and thin as a noodle.     
 
 220
 00:13:24,871 --> 00:13:27,004
@@ -1040,132 +897,114 @@ he'll use them in various colors
 
 221
 00:13:27,073 --> 00:13:30,408
-   to decorate the clear glass  
-      cores of the marbles.     
+to decorate the clear glass cores of the marbles.     
 
 222
 00:13:30,543 --> 00:13:34,078
-       he gathers a clump       
+he gathers a clump       
 of melted clear glass on the rod
 
 223
 00:13:34,080 --> 00:13:36,547
-          and shapes it         
-       with wet newspaper,      
+and shapes it with wet newspaper,      
 
 224
 00:13:36,583 --> 00:13:38,682
- which won't stick to hot glass.
+which won't stick to hot glass.
 
 225
 00:13:38,718 --> 00:13:40,284
-     after shaping the end,     
+after shaping the end,     
 
 226
 00:13:40,320 --> 00:13:44,522
-  he rolls the clump on several 
+he rolls the clump on several 
 preheated colored glass strings.
 
 227
 00:13:47,527 --> 00:13:49,227
- then it's back in the furnace. 
+then it's back in the furnace. 
 
 228
 00:13:49,362 --> 00:13:51,763
-     he repeats these steps     
-        up to three times       
+he repeats these steps up to three times       
 
 229
 00:13:51,898 --> 00:13:54,098
-       and rolls the clump      
-        on a metal table        
+and rolls the clump on a metal table        
 
 230
 00:13:54,167 --> 00:13:57,501
- to even out the surface between
-    each trip to the furnace.   
+to even out the surface between
+each trip to the furnace.   
 
 231
 00:13:57,537 --> 00:14:01,172
-      then he adds a layer      
-     of clear glass on top.     
+then he adds a layer of clear glass on top.     
 
 232
 00:14:04,444 --> 00:14:05,910
-     with another tool now,     
+with another tool now,     
 
 233
 00:14:05,946 --> 00:14:08,913
-     he stretches the clump     
-    to about 1 1/2 feet long.   
+he stretches the clump to about 1 1/2 feet long.   
 
 234
 00:14:08,915 --> 00:14:11,449
-         he'll use this         
-     to make several cores.     
+he'll use this to make several cores.     
 
 235
 00:14:11,451 --> 00:14:13,918
-    to make the second layer    
-          of the core,          
+to make the second layer of the core,          
 
 236
 00:14:14,053 --> 00:14:15,920
- he rolls a 2-inch-long segment 
+he rolls a 2-inch-long segment 
 
 237
 00:14:15,956 --> 00:14:18,756
-   onto colored glass slivers   
-         called ribbons.        
+onto colored glass slivers called ribbons.        
 
 238
 00:14:20,927 --> 00:14:23,861
-       after rolling them       
-  in the furnace to melt them,  
+after rolling them in the furnace to melt them,  
 
 239
 00:14:23,864 --> 00:14:26,130
-     he flattens the ribbons    
-           with pliers          
+he flattens the ribbons with pliers          
 
 240
 00:14:26,199 --> 00:14:28,566
-    and snips off the excess    
-          at the ends.          
+and snips off the excess at the ends.          
 
 241
 00:14:36,075 --> 00:14:38,342
-        he wraps the core       
-         and the ribbons        
+he wraps the core and the ribbons        
 
 242
 00:14:38,378 --> 00:14:42,146
-   in a layer of clear glass,   
-      then hand-shapes it.      
+in a layer of clear glass, then hand-shapes it.      
 
 243
 00:14:45,418 --> 00:14:48,353
-      now he rolls the core     
-     on more glass strings.     
+now he rolls the core on more glass strings.     
 
 244
 00:14:48,488 --> 00:14:51,489
-  then it's back in the furnace 
-          to meld them.         
+then it's back in the furnace to meld them.         
 
 245
 00:14:54,160 --> 00:14:56,694
-        he adds one more        
-       clear glass layer,       
+he adds one more clear glass layer,       
 
 246
 00:14:56,696 --> 00:14:58,563
-   and the inside is finished.  
+and the inside is finished.  
 
 247
 00:14:58,565 --> 00:15:01,632
-  that's a total of six layers  
-        for this marble.        
+that's a total of six layers for this marble.        
 
 248
 00:15:01,701 --> 00:15:05,169
@@ -1173,308 +1012,264 @@ other models have fewer or more.
 
 249
 00:15:05,205 --> 00:15:07,572
- the craftsman shapes the glass 
+the craftsman shapes the glass 
 
 250
 00:15:07,707 --> 00:15:10,174
-       with several metal       
-        and wooden tools.       
+with several metal and wooden tools.       
 
 251
 00:15:14,514 --> 00:15:17,515
-    he measures the diameter    
-       with metal calipers      
+he measures the diameter with metal calipers      
 
 252
 00:15:17,584 --> 00:15:19,517
- and gradually sculpts a sphere.
+and gradually sculpts a sphere.
 
 253
 00:15:19,586 --> 00:15:22,720
-  he'll make up to five marbles 
-       from this segment,       
+he'll make up to five marbles from this segment,       
 
 254
 00:15:22,722 --> 00:15:25,323
-     ranging up to the size     
-         of a golf ball.        
+ranging up to the size of a golf ball.        
 
 255
 00:15:28,194 --> 00:15:30,527
-     after scoring the glass    
-          with a knife,         
+after scoring the glass with a knife,         
 
 256
 00:15:30,563 --> 00:15:34,598
-  he places it in the open end  
-      of a pipe to hold it.     
+he places it in the open end of a pipe to hold it.     
 
 257
 00:15:34,668 --> 00:15:37,001
-  then he gently taps the rod,  
+then he gently taps the rod,  
 
 258
 00:15:37,070 --> 00:15:39,670
-     which breaks the glass     
-    and releases the sphere.    
+which breaks the glass and releases the sphere.    
 
 259
 00:15:39,739 --> 00:15:44,075
- he melts away the bump left at 
- the spot where the glass broke.
+he melts away the bump left at the spot where the glass broke.
 
 260
 00:15:44,077 --> 00:15:46,610
-      next, the marble goes     
-          into an oven          
+next, the marble goes into an oven          
 
 261
 00:15:46,680 --> 00:15:49,414
-   at 986 degrees fahrenheit.   
+at 986 degrees fahrenheit.   
 
 262
 00:15:49,416 --> 00:15:54,018
- the oven slowly cools overnight
-    to strengthen the glass.    
+the oven slowly cools overnight
+to strengthen the glass.    
 
 263
 00:15:54,153 --> 00:15:55,753
-      clearly a cut above,      
+clearly a cut above,      
 
 264
 00:15:55,789 --> 00:15:58,222
-       this eye-catching,       
-       handcrafted marble       
+this eye-catching, handcrafted marble       
 
 265
 00:15:58,291 --> 00:16:00,625
-  is already an object of art.  
+is already an object of art.  
 
 266
 00:16:09,402 --> 00:16:12,236
-            narrator:           
-  an airplane propeller usually 
- has two, three, or four blades,
+narrator: an airplane propeller usually has two, three, or four blades,
 
 267
 00:16:12,238 --> 00:16:14,372
-       the angles of which      
-      the pilot can adjust      
+the angles of which the pilot can adjust      
 
 268
 00:16:14,441 --> 00:16:16,840
-     in response to airspeed    
-     and flight conditions.     
+in response to airspeed and flight conditions.     
 
 269
 00:16:16,876 --> 00:16:19,176
-    a propeller's main parts    
-      are made of aluminum      
+a propeller's main parts are made of aluminum      
 
 270
 00:16:19,245 --> 00:16:22,180
 because it's critical to keep it
-   as lightweight as possible.  
+as lightweight as possible.  
 
 271
 00:16:22,315 --> 00:16:24,983
-   the blades and hub are made  
-   of aerospace-grade aluminum  
+the blades and hub are made of aerospace-grade aluminum  
 
 272
 00:16:25,118 --> 00:16:27,218
-      that resist corrosion     
-       and metal fatigue.       
+that resist corrosion and metal fatigue.       
 
 273
 00:16:34,227 --> 00:16:36,527
-     the propeller's blades     
-        attach to a hub.        
+the propeller's blades attach to a hub.        
 
 274
 00:16:36,529 --> 00:16:39,664
-    this piece of aluminum is   
+this piece of aluminum is   
 on its way to becoming that hub.
 
 275
 00:16:39,799 --> 00:16:41,933
-    like the starting pieces    
-         for all parts,         
+like the starting pieces for all parts,         
 
 276
 00:16:42,068 --> 00:16:43,801
-    it was forged beforehand    
+it was forged beforehand    
 
 277
 00:16:43,837 --> 00:16:46,404
-      into a rough version      
-       of the final shape.      
+into a rough version of the final shape.      
 
 278
 00:16:46,473 --> 00:16:49,007
-       this sophisticated,      
-      computer-guided mill      
+this sophisticated, computer-guided mill      
 
 279
 00:16:49,142 --> 00:16:50,741
-     now machines the piece.    
+now machines the piece.    
 
 280
 00:16:50,777 --> 00:16:52,276
-        40 minutes later,       
+40 minutes later,       
 
 281
 00:16:52,278 --> 00:16:55,279
-  the hub is finished and ready 
-   for assembly to the engine.  
+the hub is finished and ready for assembly to the engine.  
 
 282
 00:16:55,315 --> 00:16:57,748
-    this roughly shaped piece   
+this roughly shaped piece   
 
 283
 00:16:57,751 --> 00:17:01,752
-       is about to become       
- one of the propeller's blades. 
+is about to become one of the propeller's blades. 
 
 284
 00:17:01,755 --> 00:17:06,491
-     a computer-guided lathe    
- machines it to the final shape.
+a computer-guided lathe machines it to the final shape.
 
 285
 00:17:06,626 --> 00:17:09,360
-  liquid lubricant washes away  
-       the metal shavings       
+liquid lubricant washes away the metal shavings       
 
 286
 00:17:09,362 --> 00:17:11,629
-            and cools           
-  the friction-generated heat.  
+and cools the friction-generated heat.  
 
 287
 00:17:11,698 --> 00:17:13,698
-      the lathe first forms     
-          the shank --          
+the lathe first forms the shank --          
 
 288
 00:17:13,833 --> 00:17:16,401
-      the end of the blade      
-     that fits into the hub.    
+the end of the blade that fits into the hub.    
 
 289
 00:17:21,041 --> 00:17:24,108
-    the next milling machine    
-     cuts the blade's shape.    
+the next milling machine cuts the blade's shape.    
 
 290
 00:17:40,994 --> 00:17:42,527
-   now the finishing steps --   
+now the finishing steps --   
 
 291
 00:17:42,662 --> 00:17:46,464
-          done manually         
+done manually         
 because they require a keen eye.
 
 292
 00:17:46,533 --> 00:17:49,067
-  workers use a rotary sander,  
+workers use a rotary sander,  
 
 293
 00:17:49,202 --> 00:17:50,868
-       then a belt sander       
-     to grind away the marks    
+then a belt sander to grind away the marks    
 
 294
 00:17:50,937 --> 00:17:53,604
-      the machining process     
-          left behind.          
+the machining process left behind.          
 
 295
 00:17:53,640 --> 00:17:57,041
-       they buff the metal      
-    with a polishing wheel...   
+they buff the metal with a polishing wheel...   
 
 296
 00:18:01,214 --> 00:18:02,547
-    ...then clean the blades    
+...then clean the blades    
 
 297
 00:18:02,682 --> 00:18:04,948
-         by dipping them        
-     in a strong detergent.     
+by dipping them in a strong detergent.     
 
 298
 00:18:04,984 --> 00:18:08,152
- this acidic solution eats away 
-    any dirt, oil, or grease    
+this acidic solution eats away any dirt, oil, or grease    
 
 299
 00:18:08,188 --> 00:18:09,854
-  on the surface of the metal.  
+on the surface of the metal.  
 
 300
 00:18:14,561 --> 00:18:16,360
- after that, they dip the blades
+after that, they dip the blades
 
 301
 00:18:16,429 --> 00:18:18,763
-       in a bath of water       
-        and chromic acid.       
+in a bath of water and chromic acid.       
 
 302
 00:18:18,765 --> 00:18:20,898
-      this seals the pores      
-          in the metal,         
+this seals the pores in the metal,         
 
 303
 00:18:20,967 --> 00:18:22,366
-     fending off corrosion.     
+fending off corrosion.     
 
 304
 00:18:34,848 --> 00:18:38,448
- the factory tests all critical 
-    parts for surface defects   
+the factory tests all critical parts for surface defects   
 
 305
 00:18:38,485 --> 00:18:41,185
-         by dipping them        
-    in a fluorescent solution   
+by dipping them in a fluorescent solution   
 
 306
 00:18:41,254 --> 00:18:44,388
-          that leaches          
-     into any imperfections.    
+that leaches into any imperfections.    
 
 307
 00:18:44,390 --> 00:18:48,226
-         after rinsing,         
+after rinsing,         
 an inspection under black light.
 
 308
 00:18:48,328 --> 00:18:50,928
-        a blue glow means       
-      the parts are a-okay.     
+a blue glow means the parts are a-okay.     
 
 309
 00:18:50,930 --> 00:18:54,331
-    any imperfections show up   
-  as bright, fluorescent green. 
+any imperfections show up as bright, fluorescent green. 
 
 310
 00:18:54,367 --> 00:18:56,800
-       the defective part       
-       is either repaired       
+the defective part is either repaired       
 
 311
 00:18:56,870 --> 00:18:59,270
-           or rejected          
-    from the production line.   
+or rejected from the production line.   
 
 312
 00:18:59,405 --> 00:19:02,406
-    blades that make the cut    
-   move onto the paint shop --  
+blades that make the cut move onto the paint shop --  
 
 313
 00:19:02,408 --> 00:19:04,408
@@ -1482,195 +1277,166 @@ a coat of black on the back side
 
 314
 00:19:04,410 --> 00:19:07,078
-    to prevent sun reflection   
-      into the pilot's eyes     
+to prevent sun reflection into the pilot's eyes     
 
 315
 00:19:07,080 --> 00:19:08,946
-     and stripes for safety,    
+and stripes for safety,    
 
 316
 00:19:09,015 --> 00:19:12,149
-             to make            
-  the spinning blades visible.  
+to make the spinning blades visible.  
 
 317
 00:19:12,152 --> 00:19:14,018
-  next comes a de-icing boot -- 
+next comes a de-icing boot -- 
 
 318
 00:19:14,087 --> 00:19:16,887
-        a rubber-encased        
-    electric heating element    
+a rubber-encased electric heating element    
 
 319
 00:19:16,923 --> 00:19:18,689
-   that prevents ice buildup.   
+that prevents ice buildup.   
 
 320
 00:19:18,691 --> 00:19:20,558
-  the rubber is highly durable, 
+the rubber is highly durable, 
 
 321
 00:19:20,627 --> 00:19:24,195
-   yet flexible enough to mold  
-   to the curve of the blade.   
+yet flexible enough to mold to the curve of the blade.   
 
 322
 00:19:26,933 --> 00:19:30,501
-   next, they lubricate a part  
- of the blade shank with grease,
+next, they lubricate a part of the blade shank with grease,
 
 323
 00:19:30,636 --> 00:19:33,704
-      then install a strong     
-   steel-ball-bearing system.   
+then install a strong steel-ball-bearing system.   
 
 324
 00:19:33,740 --> 00:19:36,640
-    this will hold the blade    
-      securely in the hub,      
+this will hold the blade securely in the hub,      
 
 325
 00:19:36,676 --> 00:19:39,844
-  yet still enable it to pivot  
-      to change its angle.      
+yet still enable it to pivot to change its angle.      
 
 326
 00:19:45,318 --> 00:19:46,984
- the shanks of the three blades 
+the shanks of the three blades 
 
 327
 00:19:47,053 --> 00:19:49,720
- fit right into this steel part 
-        called the fork.        
+fit right into this steel part called the fork.        
 
 328
 00:19:49,855 --> 00:19:52,323
-     it keeps all the blades    
-       at the same angle.       
+it keeps all the blades at the same angle.       
 
 329
 00:19:55,328 --> 00:19:58,729
-      now for what's called     
-      the pitch change rod.     
+now for what's called the pitch change rod.     
 
 330
 00:19:58,798 --> 00:20:01,866
-     the term "pitch" refers    
-   to the angle of the blades.  
+the term "pitch" refers to the angle of the blades.  
 
 331
 00:20:02,001 --> 00:20:04,201
-      engine oil will exert     
-       hydraulic pressure       
+engine oil will exert hydraulic pressure       
 
 332
 00:20:04,204 --> 00:20:06,470
-     on a piston that moves     
-         the pitch rod,         
+on a piston that moves the pitch rod,         
 
 333
 00:20:06,539 --> 00:20:08,138
-    which advances the fork,    
+which advances the fork,    
 
 334
 00:20:08,174 --> 00:20:10,942
-       rotating the blades      
-     to the required angle.     
+rotating the blades to the required angle.     
 
 335
 00:20:11,077 --> 00:20:14,211
-       after removing the       
-  pitch change rod temporarily, 
+after removing the pitch change rod temporarily, 
 
 336
 00:20:14,280 --> 00:20:16,213
-       they apply sealant       
-   to the top half of the hub   
+they apply sealant to the top half of the hub   
 
 337
 00:20:16,216 --> 00:20:18,548
-          and place it          
-      over the bottom half      
+and place it over the bottom half      
 
 338
 00:20:18,585 --> 00:20:20,952
-          that contains         
-      the ball-bearing set.     
+that contains the ball-bearing set.     
 
 339
 00:20:23,356 --> 00:20:26,090
-      a rubber o-ring seal,     
+a rubber o-ring seal,     
 
 340
 00:20:26,159 --> 00:20:30,428
- then a sturdy spring to provide
-  the required counterpressure. 
+then a sturdy spring to provide
+the required counterpressure. 
 
 341
 00:20:34,934 --> 00:20:37,901
-  workers thread and torque the 
- piston and pitch change rod -- 
+workers thread and torque the piston and pitch change rod -- 
 
 342
 00:20:37,937 --> 00:20:40,972
-  now attached to each other -- 
-          to the fork.          
+now attached to each other -- to the fork.          
 
 343
 00:20:44,310 --> 00:20:46,310
-    another rubber o-ring --    
+another rubber o-ring --    
 
 344
 00:20:46,346 --> 00:20:48,979
-    this one to prevent leaks   
- out of the top of the cylinder 
+this one to prevent leaks out of the top of the cylinder 
 
 345
 00:20:49,015 --> 00:20:51,315
-        that will contain       
-         the engine oil.        
+that will contain the engine oil.        
 
 346
 00:20:51,384 --> 00:20:52,916
-     they use a special tool    
+they use a special tool    
 
 347
 00:20:52,986 --> 00:20:56,320
- to tightly torque the cylinder 
-      down against the hub.     
+to tightly torque the cylinder down against the hub.     
 
 348
 00:20:56,455 --> 00:20:58,456
-     with assembly complete,    
+with assembly complete,    
 
 349
 00:20:58,591 --> 00:21:02,860
-  this propeller is ready to be 
- installed on today's airplanes.
+this propeller is ready to be installed on today's airplanes.
 
 350
 00:21:02,995 --> 00:21:05,929
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 351
 00:21:05,965 --> 00:21:08,933
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 352
 00:21:12,005 --> 00:21:14,605
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 353
 00:21:14,740 --> 00:21:17,341
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 354
 00:21:17,410 --> 00:21:20,144
-      drop us a line at...      
+drop us a line at...      
 

@@ -1,78 +1,68 @@
 ﻿1
 00:00:02,002 --> 00:00:05,004
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,006 --> 00:00:08,007
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,052 --> 00:00:53,786
- narrator: its name can be a bit
-     of a tongue-twister --     
+narrator: its name can be a bit
+of a tongue-twister --     
 
 4
 00:00:53,788 --> 00:00:56,722
-     "wuss-te-shire" sauce,     
-     "woos-ter-sheer" sauce,    
+"wuss-te-shire" sauce, "woos-ter-sheer" sauce,    
 
 5
 00:00:56,724 --> 00:00:58,257
-      "wuss-te-sure" sauce.     
+"wuss-te-sure" sauce.     
 
 6
 00:00:58,259 --> 00:01:00,726
-    all those pronunciations    
-         are acceptable,        
+all those pronunciations are acceptable,        
 
 7
 00:01:00,728 --> 00:01:03,596
-     as are the endless ways    
-     to use this condiment,     
+as are the endless ways to use this condiment,     
 
 8
 00:01:03,598 --> 00:01:06,499
-   from flavoring beef recipes  
-       and salad dressings      
+from flavoring beef recipes and salad dressings      
 
 9
 00:01:06,501 --> 00:01:10,803
-     to joining tomato juice    
-   and vodka in a bloody mary.  
+to joining tomato juice and vodka in a bloody mary.  
 
 10
 00:01:10,805 --> 00:01:12,938
-       in the early 1800s,      
+in the early 1800s,      
 
 11
 00:01:12,940 --> 00:01:15,474
-       an english nobleman      
-   in the county of worcester   
+an english nobleman in the county of worcester   
 
 12
 00:01:15,476 --> 00:01:17,476
-    hired two local chemists,   
+hired two local chemists,   
 
 13
 00:01:17,478 --> 00:01:19,211
-  john lea and william perrins, 
+john lea and william perrins, 
 
 14
 00:01:19,213 --> 00:01:22,881
-   to duplicate a sauce he had  
+to duplicate a sauce he had  
 tasted while traveling in india.
 
 15
 00:01:22,883 --> 00:01:25,550
-    the resulting concoction    
-        was unpalatable,        
+the resulting concoction was unpalatable,        
 
 16
 00:01:25,552 --> 00:01:27,819
-      so they relegated it      
-         to the cellar.         
+so they relegated it to the cellar.         
 
 17
 00:01:27,821 --> 00:01:29,622
@@ -80,207 +70,176 @@ years later, they came across it
 
 18
 00:01:29,624 --> 00:01:32,558
-     during a cellar cleanup    
-   and gave it another taste.   
+during a cellar cleanup and gave it another taste.   
 
 19
 00:01:32,560 --> 00:01:36,228
-  lo and behold, the sauce had  
- matured and was now delicious. 
+lo and behold, the sauce had matured and was now delicious. 
 
 20
 00:01:36,230 --> 00:01:39,699
- they christened their creation 
-     "worcestershire sauce"     
+they christened their creation "worcestershire sauce"     
 
 21
 00:01:39,701 --> 00:01:41,299
-     and went into business.    
+and went into business.    
 
 22
 00:01:41,301 --> 00:01:44,303
-             today,             
-   more than 170 years later,   
+today, more than 170 years later,   
 
 23
 00:01:44,305 --> 00:01:46,839
-        that same company       
-   produces that very recipe,   
+that same company produces that very recipe,   
 
 24
 00:01:46,841 --> 00:01:50,108
-  the specifics of which remain 
-    a closely-guarded secret.   
+the specifics of which remain a closely-guarded secret.   
 
 25
 00:01:50,110 --> 00:01:52,578
-       the process begins       
-     with onions and garlic     
+the process begins with onions and garlic     
 
 26
 00:01:52,580 --> 00:01:55,247
-     pickled in malt vinegar    
-      for one to two years.     
+pickled in malt vinegar for one to two years.     
 
 27
 00:01:55,249 --> 00:01:59,585
-  inside the pickling barrels,  
-    the bulbs slowly liquefy,   
+inside the pickling barrels, the bulbs slowly liquefy,   
 
 28
 00:01:59,587 --> 00:02:02,455
-          their flavor          
-      infusing the liquid.      
+their flavor infusing the liquid.      
 
 29
 00:02:05,593 --> 00:02:07,859
- other barrels contain anchovies
+other barrels contain anchovies
 
 30
 00:02:07,861 --> 00:02:10,229
-          cured in salt         
-       for several months.      
+cured in salt for several months.      
 
 31
 00:02:12,734 --> 00:02:18,871
- additional ingredients include 
- salt, sugar, white vinegar...  
+additional ingredients include salt, sugar, white vinegar...  
 
 32
 00:02:18,873 --> 00:02:22,007
-         malt vinegar...        
+malt vinegar...        
 
 33
 00:02:22,009 --> 00:02:24,543
-     tamarind concentrate...    
+tamarind concentrate...    
 
 34
 00:02:24,545 --> 00:02:26,746
-           molasses...          
+molasses...          
 
 35
 00:02:26,748 --> 00:02:31,684
-     and a top-secret blend     
-    of flavorings and spices.   
+and a top-secret blend of flavorings and spices.   
 
 36
 00:02:31,686 --> 00:02:33,618
- starting with the two vinegars,
+starting with the two vinegars,
 
 37
 00:02:33,620 --> 00:02:36,355
-  workers pour the ingredients  
-          one at a time         
+workers pour the ingredients one at a time         
 
 38
 00:02:36,357 --> 00:02:38,157
-  into gigantic blending tanks. 
+into gigantic blending tanks. 
 
 39
 00:02:38,159 --> 00:02:41,727
-           there goes           
-    the tamarind concentrate.   
+there goes the tamarind concentrate.   
 
 40
 00:02:43,698 --> 00:02:46,265
-       now the anchovies.       
+now the anchovies.       
 
 41
 00:03:00,915 --> 00:03:03,782
-   the ingredient proportions   
-         are top secret,        
+the ingredient proportions are top secret,        
 
 42
 00:03:03,784 --> 00:03:09,855
 as is the prescribed mixing time
-      between ingredients.      
+between ingredients.      
 
 43
 00:03:09,857 --> 00:03:12,892
-     now the pickled onions     
-          and garlic...         
+now the pickled onions and garlic...         
 
 44
 00:03:22,670 --> 00:03:25,337
-      ...sugar and salt...      
+...sugar and salt...      
 
 45
 00:03:25,339 --> 00:03:29,608
-      and that secret blend     
-    of flavorings and spices.   
+and that secret blend of flavorings and spices.   
 
 46
 00:03:29,610 --> 00:03:32,878
-   next, they pump the mixture  
-     into maturation tanks.     
+next, they pump the mixture into maturation tanks.     
 
 47
 00:03:32,880 --> 00:03:35,548
-     there, over the course     
-       of several months,       
+there, over the course of several months,       
 
 48
 00:03:35,550 --> 00:03:38,817
-       the ingredients age      
-  and interact with each other, 
+the ingredients age and interact with each other, 
 
 49
 00:03:38,819 --> 00:03:41,954
-   undergoing complex changes   
-   in their natural chemistry   
+undergoing complex changes in their natural chemistry   
 
 50
 00:03:41,956 --> 00:03:44,757
-    which produce the sauce's   
-       distinctive flavor.      
+which produce the sauce's distinctive flavor.      
 
 51
 00:03:44,759 --> 00:03:47,092
- agitators rotate intermittently
+agitators rotate intermittently
 
 52
 00:03:47,094 --> 00:03:49,495
-     to keep the ingredients    
-          well-blended.         
+to keep the ingredients well-blended.         
 
 53
 00:03:49,497 --> 00:03:51,764
-            the sauce           
-   then goes through a sieve,   
+the sauce then goes through a sieve,   
 
 54
 00:03:51,766 --> 00:03:53,098
-      then through a press,     
+then through a press,     
 
 55
 00:03:53,100 --> 00:03:56,435
-   followed by another cycle    
-   of blending and straining.   
+followed by another cycle of blending and straining.   
 
 56
 00:03:56,437 --> 00:03:59,371
-  the sauce is a smooth liquid  
-    by the time it progresses   
+the sauce is a smooth liquid by the time it progresses   
 
 57
 00:03:59,373 --> 00:04:01,974
-      to the next phase --      
-         pasteurization.        
+to the next phase -- pasteurization.        
 
 58
 00:04:01,976 --> 00:04:05,710
-  this process heats the sauce  
-     to kill off organisms,     
+this process heats the sauce to kill off organisms,     
 
 59
 00:04:05,712 --> 00:04:08,914
-     ensuring optimal flavor    
-     for at least 18 months.    
+ensuring optimal flavor for at least 18 months.    
 
 60
 00:04:08,916 --> 00:04:12,985
-  the sauce needs no artificial 
-    preservatives whatsoever    
+the sauce needs no artificial preservatives whatsoever    
 
 61
 00:04:12,987 --> 00:04:15,187
@@ -288,23 +247,19 @@ because the vinegars it contains
 
 62
 00:04:15,189 --> 00:04:17,690
-           are natural          
-      antimicrobial agents.     
+are natural antimicrobial agents.     
 
 63
 00:04:20,528 --> 00:04:23,929
-      the bottling process      
-     is entirely automated.     
+the bottling process is entirely automated.     
 
 64
 00:04:23,931 --> 00:04:26,631
-      the factory produces      
-       different formats.       
+the factory produces different formats.       
 
 65
 00:04:26,633 --> 00:04:30,435
-  this one is modeled after the 
- original bottle from the 1830s.
+this one is modeled after the original bottle from the 1830s.
 
 66
 00:04:30,437 --> 00:04:32,537
@@ -312,66 +267,55 @@ the machinery closes each bottle
 
 67
 00:04:32,539 --> 00:04:35,608
-        with a one-piece,       
-      plastic flip-top cap.     
+with a one-piece, plastic flip-top cap.     
 
 68
 00:04:35,610 --> 00:04:38,543
-  inside, there's a small hole  
-       to ensure the sauce      
+inside, there's a small hole to ensure the sauce      
 
 69
 00:04:38,545 --> 00:04:41,213
-            dispenses           
-     at the right flow rate.    
+dispenses at the right flow rate.    
 
 70
 00:04:41,215 --> 00:04:44,784
-   this prevents accidentally   
-     pouring too much sauce.    
+this prevents accidentally pouring too much sauce.    
 
 71
 00:04:56,830 --> 00:04:59,698
-         as each bottle         
-  enters the labeling machine,  
+as each bottle enters the labeling machine,  
 
 72
 00:04:59,700 --> 00:05:02,301
-  an arm descends onto the cap. 
+an arm descends onto the cap. 
 
 73
 00:05:02,303 --> 00:05:04,770
-    the machine applies glue    
-           to a label,          
+the machine applies glue to a label,          
 
 74
 00:05:04,772 --> 00:05:06,638
-     slaps it on the bottle,    
+slaps it on the bottle,    
 
 75
 00:05:06,640 --> 00:05:09,041
-  then the arm spins the bottle 
-         against brushes        
+then the arm spins the bottle against brushes        
 
 76
 00:05:09,043 --> 00:05:11,744
-       that push the edges      
-       of the label flat.       
+that push the edges of the label flat.       
 
 77
 00:05:14,048 --> 00:05:16,581
-  then, depending on the format 
-       they're packaging,       
+then, depending on the format they're packaging,       
 
 78
 00:05:16,583 --> 00:05:19,784
-      the equipment groups      
-    6 or 12 bottles together    
+the equipment groups 6 or 12 bottles together    
 
 79
 00:05:19,786 --> 00:05:23,188
-      and, from underneath,     
-   folds a carton around them.  
+and, from underneath, folds a carton around them.  
 
 80
 00:05:23,190 --> 00:05:25,391
@@ -379,265 +323,223 @@ then it shrink-wraps the carton,
 
 81
 00:05:25,393 --> 00:05:28,260
-     which then joins others    
-          on a pallet.          
+which then joins others on a pallet.          
 
 82
 00:05:32,400 --> 00:05:34,533
-     the production process     
-           and recipe           
+the production process and recipe           
 
 83
 00:05:34,535 --> 00:05:36,869
-          have remained         
-      essentially the same      
+have remained essentially the same      
 
 84
 00:05:36,871 --> 00:05:41,707
-   since worcestershire sauce   
-   was first bottled in 1835.   
+since worcestershire sauce was first bottled in 1835.   
 
 85
 00:05:53,888 --> 00:05:57,156
-     narrator: lawn bowling     
-   is a quiet, civilized game,  
+narrator: lawn bowling is a quiet, civilized game,  
 
 86
 00:05:57,158 --> 00:05:59,758
-          not something         
-  you'd expect to be outlawed.  
+not something you'd expect to be outlawed.  
 
 87
 00:05:59,760 --> 00:06:01,760
-  but in 16th-century england,  
+but in 16th-century england,  
 
 88
 00:06:01,762 --> 00:06:04,763
- henry viii banned lawn bowling 
-         among commoners        
+henry viii banned lawn bowling among commoners        
 
 89
 00:06:04,765 --> 00:06:07,299
-  because it was a distraction  
-           from work.           
+because it was a distraction from work.           
 
 90
 00:06:07,301 --> 00:06:10,569
-  it took a couple of centuries 
-   before his ban was lifted,   
+it took a couple of centuries before his ban was lifted,   
 
 91
 00:06:10,571 --> 00:06:13,339
-          and the game          
-    became completely legit.    
+and the game became completely legit.    
 
 92
 00:06:15,976 --> 00:06:19,778
-    in lawn bowling, the path   
-   to victory is not straight.  
+in lawn bowling, the path to victory is not straight.  
 
 93
 00:06:19,780 --> 00:06:22,715
-      the bowl is designed      
-       to roll in a curve       
+the bowl is designed to roll in a curve       
 
 94
 00:06:22,717 --> 00:06:24,383
-   towards the object ball --   
+towards the object ball --   
 
 95
 00:06:24,385 --> 00:06:27,252
-     the smaller yellow one     
-        called the jack.        
+the smaller yellow one called the jack.        
 
 96
 00:06:27,254 --> 00:06:30,789
-   for many years, lawn bowls   
+for many years, lawn bowls   
 were made of a tropical hardwood
 
 97
 00:06:30,791 --> 00:06:32,858
-      called lignum vitae,      
+called lignum vitae,      
 
 98
 00:06:32,860 --> 00:06:35,194
-        but as this wood        
-  has become increasingly rare, 
+but as this wood has become increasingly rare, 
 
 99
 00:06:35,196 --> 00:06:37,930
-          manufacturers         
-    have turned to melamine.    
+manufacturers have turned to melamine.    
 
 100
 00:06:37,932 --> 00:06:40,866
-        and unlike wood,        
-  melamine doesn't change shape 
+and unlike wood, melamine doesn't change shape 
 
 101
 00:06:40,868 --> 00:06:44,736
-        with temperature        
-   and humidity fluctuations.   
+with temperature and humidity fluctuations.   
 
 102
 00:06:44,738 --> 00:06:47,072
-        production begins       
-     with melamine granules     
+production begins with melamine granules     
 
 103
 00:06:47,074 --> 00:06:49,208
-     that have been pre-dyed    
-     in a variety of colors     
+that have been pre-dyed in a variety of colors     
 
 104
 00:06:49,210 --> 00:06:51,743
-            to appeal           
-   to individual preferences.   
+to appeal to individual preferences.   
 
 105
 00:06:51,745 --> 00:06:55,681
- an employee scoops the granules
-   into a tub and weighs them.  
+an employee scoops the granules
+into a tub and weighs them.  
 
 106
 00:06:55,683 --> 00:06:59,218
-   lawn bowls come in a range   
+lawn bowls come in a range   
 of sizes to fit different hands,
 
 107
 00:06:59,220 --> 00:07:02,688
-      so the weight varies      
-          accordingly.          
+so the weight varies accordingly.          
 
 108
 00:07:05,892 --> 00:07:08,560
-        he drapes a cloth       
-   over the melamine granules   
+he drapes a cloth over the melamine granules   
 
 109
 00:07:08,562 --> 00:07:10,963
-      and holds it in place     
-      with pieces of wood.      
+and holds it in place with pieces of wood.      
 
 110
 00:07:10,965 --> 00:07:14,033
-    then it's into a machine    
-      called a pre-heater.      
+then it's into a machine called a pre-heater.      
 
 111
 00:07:14,035 --> 00:07:16,568
-     it uses high-frequency     
-           radio waves          
+it uses high-frequency radio waves          
 
 112
 00:07:16,570 --> 00:07:18,770
- to melt the plastic into putty.
+to melt the plastic into putty.
 
 113
 00:07:18,772 --> 00:07:22,508
-   the cloth absorbs moisture   
-   generated in the process.    
+the cloth absorbs moisture generated in the process.    
 
 114
 00:07:25,379 --> 00:07:29,515
 all those melamine bits have now
-  merged into a malleable mass. 
+merged into a malleable mass. 
 
 115
 00:07:29,517 --> 00:07:32,250
-         he squeezes it         
-       to reshape it a bit      
+he squeezes it to reshape it a bit      
 
 116
 00:07:32,252 --> 00:07:35,387
-      so it can be inserted     
-      into a molding press.     
+so it can be inserted into a molding press.     
 
 117
 00:07:35,389 --> 00:07:40,859
-  this 150-ton press forces the 
-  plastic dough into a hot mold 
+this 150-ton press forces the plastic dough into a hot mold 
 
 118
 00:07:40,861 --> 00:07:43,462
-  to shape it into a lawn bowl. 
+to shape it into a lawn bowl. 
 
 119
 00:07:43,464 --> 00:07:47,666
- this lawn bowl may look round, 
- but it's not a perfect sphere. 
+this lawn bowl may look round, but it's not a perfect sphere. 
 
 120
 00:07:47,668 --> 00:07:49,334
-  this slightly irregular shape 
+this slightly irregular shape 
 
 121
 00:07:49,336 --> 00:07:51,203
-          will cause it         
-      to roll into a curve.     
+will cause it to roll into a curve.     
 
 122
 00:07:51,205 --> 00:07:53,938
-        he marks the size       
- and other information onto it, 
+he marks the size and other information onto it, 
 
 123
 00:07:53,940 --> 00:07:58,143
-       and then it's over       
-    to a computerized lathe.    
+and then it's over to a computerized lathe.    
 
 124
 00:07:58,145 --> 00:08:01,346
-     it spins the lawn bowl     
-    while the blade carves it   
+it spins the lawn bowl while the blade carves it   
 
 125
 00:08:01,348 --> 00:08:05,617
-           to perfect           
-    that asymmetrical shape.    
+to perfect that asymmetrical shape.    
 
 126
 00:08:05,619 --> 00:08:11,090
- other tools then etch two rows 
- of half-moons onto the surface.
+other tools then etch two rows of half-moons onto the surface.
 
 127
 00:08:11,092 --> 00:08:14,793
-   this engraved pattern makes  
-  the lawn bowl easier to grip. 
+this engraved pattern makes the lawn bowl easier to grip. 
 
 128
 00:08:16,964 --> 00:08:19,564
-         the next blade         
-       slices off the nubs      
+the next blade slices off the nubs      
 
 129
 00:08:19,566 --> 00:08:22,634
-   used to spin the lawn bowl   
-          in the lathe.         
+used to spin the lawn bowl in the lathe.         
 
 130
 00:08:22,636 --> 00:08:24,370
-  it also smoothes the surface  
+it also smoothes the surface  
 
 131
 00:08:24,372 --> 00:08:27,572
-       until all evidence       
-     of the nubs disappears.    
+until all evidence of the nubs disappears.    
 
 132
 00:08:27,574 --> 00:08:30,109
-         this receptacle        
-       uses suction power       
+this receptacle uses suction power       
 
 133
 00:08:30,111 --> 00:08:32,378
-  to hold the lawn bowl steady  
+to hold the lawn bowl steady  
 
 134
 00:08:32,380 --> 00:08:34,380
-        while a carousel        
-        moves it forward        
+while a carousel moves it forward        
 
 135
 00:08:34,382 --> 00:08:36,682
@@ -645,18 +547,15 @@ to undergo a vigorous polishing.
 
 136
 00:08:39,320 --> 00:08:42,287
-     the polisher rubs paste    
-        onto the surface        
+the polisher rubs paste onto the surface        
 
 137
 00:08:42,289 --> 00:08:45,323
-      to buff the lawn bowl     
-        to an even sheen.       
+to buff the lawn bowl to an even sheen.       
 
 138
 00:08:45,325 --> 00:08:48,927
-       a robot then turns       
-    the lawn bowl upside down   
+a robot then turns the lawn bowl upside down   
 
 139
 00:08:48,929 --> 00:08:53,131
@@ -664,13 +563,11 @@ to expose the unpolished side...
 
 140
 00:08:53,133 --> 00:08:54,800
-        then puts it back       
-        in the receptacle       
+then puts it back in the receptacle       
 
 141
 00:08:54,802 --> 00:08:58,237
-    so the polisher can buff    
-   this side of the lawn bowl.  
+so the polisher can buff this side of the lawn bowl.  
 
 142
 00:09:01,809 --> 00:09:05,343
@@ -678,398 +575,338 @@ the entire lawn bowl now gleams,
 
 143
 00:09:05,345 --> 00:09:09,881
-   and an unpolished bowl next  
- to it looks dull by comparison.
+and an unpolished bowl next to it looks dull by comparison.
 
 144
 00:09:09,883 --> 00:09:12,618
-   but there's more polishing   
-            to come.            
+but there's more polishing to come.            
 
 145
 00:09:12,620 --> 00:09:15,888
- the next machine spins the lawn
- bowl against another polisher. 
+the next machine spins the lawn
+bowl against another polisher. 
 
 146
 00:09:15,890 --> 00:09:19,458
- this one applies a finer-grade 
-         compound to it.        
+this one applies a finer-grade compound to it.        
 
 147
 00:09:22,362 --> 00:09:25,430
-         down the line,         
-      lasers move in unison     
+down the line, lasers move in unison     
 
 148
 00:09:25,432 --> 00:09:28,567
-   to engrave the same emblem   
-        onto four bowls.        
+to engrave the same emblem onto four bowls.        
 
 149
 00:09:28,569 --> 00:09:30,435
-    it's a scottish thistle,    
+it's a scottish thistle,    
 
 150
 00:09:30,437 --> 00:09:33,238
-        one of over 4,000       
-    team insignias available    
+one of over 4,000 team insignias available    
 
 151
 00:09:33,240 --> 00:09:35,173
-  in this production facility.  
+in this production facility.  
 
 152
 00:09:35,175 --> 00:09:38,110
-    each lawn bowl then goes    
-        for another spin,       
+each lawn bowl then goes for another spin,       
 
 153
 00:09:38,112 --> 00:09:41,380
-   and an employee paints over  
-      all the detail work.      
+and an employee paints over all the detail work.      
 
 154
 00:09:43,116 --> 00:09:45,116
-       he wipes the paint       
-       from the surface,        
+he wipes the paint from the surface,        
 
 155
 00:09:45,118 --> 00:09:48,654
 but it remains in the engravings
-       to accentuate them.      
+to accentuate them.      
 
 156
 00:09:56,196 --> 00:09:59,264
-         some lawn bowls        
-    get two-tone paint jobs.    
+some lawn bowls get two-tone paint jobs.    
 
 157
 00:09:59,266 --> 00:10:02,267
-  the worker brushes red paint  
-     into a hawk engraving,     
+the worker brushes red paint into a hawk engraving,     
 
 158
 00:10:02,269 --> 00:10:05,704
- which provides a nice contrast 
-   to the yellow detail work.   
+which provides a nice contrast to the yellow detail work.   
 
 159
 00:10:11,812 --> 00:10:14,879
-         then it's over         
-   to the testing department,   
+then it's over to the testing department,   
 
 160
 00:10:14,881 --> 00:10:19,017
- where they roll each bowl down 
- a chute and check its swerve.  
+where they roll each bowl down a chute and check its swerve.  
 
 161
 00:10:21,755 --> 00:10:23,821
- they also verify that each bowl
+they also verify that each bowl
 
 162
 00:10:23,823 --> 00:10:27,492
- lands in approximately the same
-    spot as the master bowl,    
+lands in approximately the same
+spot as the master bowl,    
 
 163
 00:10:27,494 --> 00:10:29,494
-  which means they're all equal 
+which means they're all equal 
 
 164
 00:10:29,496 --> 00:10:31,964
-        and they conform        
-       to world standards.      
+and they conform to world standards.      
 
 165
 00:10:31,966 --> 00:10:35,567
-     including cooling time     
-       between processes,       
+including cooling time between processes,       
 
 166
 00:10:35,569 --> 00:10:38,237
-     it takes about two days    
-      to make a lawn bowl.      
+it takes about two days to make a lawn bowl.      
 
 167
 00:10:38,239 --> 00:10:42,508
-   but once the work is done,   
-     it's all fun and games.    
+but once the work is done, it's all fun and games.    
 
 168
 00:10:56,323 --> 00:10:58,590
-            narrator:           
-   radio-controlled model jets  
+narrator: radio-controlled model jets  
 
 169
 00:10:58,592 --> 00:11:01,326
-    first flew onto the radar   
-          in the 1970s          
+first flew onto the radar in the 1970s          
 
 170
 00:11:01,328 --> 00:11:05,130
-   and have since evolved into  
- sophisticated flying machines. 
+and have since evolved into sophisticated flying machines. 
 
 171
 00:11:05,132 --> 00:11:08,133
-    many have turbine engines   
-     and use real jet fuel.     
+many have turbine engines and use real jet fuel.     
 
 172
 00:11:08,135 --> 00:11:11,069
-   they allow people who would  
-   otherwise never pilot a jet  
+they allow people who would otherwise never pilot a jet  
 
 173
 00:11:11,071 --> 00:11:13,138
-    to experience the thrill    
-            of flight           
+to experience the thrill of flight           
 
 174
 00:11:13,140 --> 00:11:15,541
-  with both feet on the ground. 
+with both feet on the ground. 
 
 175
 00:11:18,545 --> 00:11:24,049
- radio-controlled model jets can
- roll and dive like actual jets.
+radio-controlled model jets can
+roll and dive like actual jets.
 
 176
 00:11:26,353 --> 00:11:30,756
-    and they can reach speeds   
-   of up to 280 miles an hour.  
+and they can reach speeds of up to 280 miles an hour.  
 
 177
 00:11:30,758 --> 00:11:33,392
-          operating one         
-       isn't child's play.      
+operating one isn't child's play.      
 
 178
 00:11:33,394 --> 00:11:35,160
-   it takes practice and skill  
+it takes practice and skill  
 
 179
 00:11:35,162 --> 00:11:37,629
-       to pilot this kind       
-       of model aircraft.       
+to pilot this kind of model aircraft.       
 
 180
 00:11:39,566 --> 00:11:44,369
-       it also takes money      
+it also takes money      
 because they cost up to $20,000.
 
 181
 00:11:51,111 --> 00:11:54,446
-       making a model jet       
-   begins with the paint job.   
+making a model jet begins with the paint job.   
 
 182
 00:11:54,448 --> 00:11:56,448
-      they airbrush designs     
-     directly into the molds    
+they airbrush designs directly into the molds    
 
 183
 00:11:56,450 --> 00:11:59,318
-        that will be used       
-     to shape various parts.    
+that will be used to shape various parts.    
 
 184
 00:11:59,320 --> 00:12:01,653
-      this particular mold      
-          will be used          
+this particular mold will be used          
 
 185
 00:12:01,655 --> 00:12:03,922
-        to make one half        
-        of a wing shell.        
+to make one half of a wing shell.        
 
 186
 00:12:06,927 --> 00:12:12,197
- when the paint dries, they roll
-  epoxy resin into the mold...  
+when the paint dries, they roll
+epoxy resin into the mold...  
 
 187
 00:12:13,600 --> 00:12:16,501
-    ...then put down a layer    
-         of fiberglass.         
+...then put down a layer of fiberglass.         
 
 188
 00:12:19,473 --> 00:12:23,809
- they reinforce the fiberglass  
- with superstrong carbon fiber, 
+they reinforce the fiberglass with superstrong carbon fiber, 
 
 189
 00:12:23,811 --> 00:12:27,212
- then brush on more epoxy resin.
+then brush on more epoxy resin.
 
 190
 00:12:27,214 --> 00:12:29,147
-    the next layer is balsa,    
+the next layer is balsa,    
 
 191
 00:12:29,149 --> 00:12:32,951
-       a lightweight wood       
-       from south america.      
+a lightweight wood from south america.      
 
 192
 00:12:34,421 --> 00:12:37,689
-     they apply carbon fiber    
-     to sections of the wing    
+they apply carbon fiber to sections of the wing    
 
 193
 00:12:37,691 --> 00:12:39,891
- where parts are to be attached.
+where parts are to be attached.
 
 194
 00:12:39,893 --> 00:12:45,764
-  another sheet of fiberglass,  
-  and epoxy is the final layer. 
+another sheet of fiberglass, and epoxy is the final layer. 
 
 195
 00:12:45,766 --> 00:12:48,433
-      now they add a layer      
-     of absorbent material,     
+now they add a layer of absorbent material,     
 
 196
 00:12:48,435 --> 00:12:53,171
-     then sandwich the mold     
-        in plastic film.        
+then sandwich the mold in plastic film.        
 
 197
 00:12:53,173 --> 00:12:57,075
-  they install a connector for  
-  a vacuum hose and hook it up. 
+they install a connector for a vacuum hose and hook it up. 
 
 198
 00:13:00,714 --> 00:13:06,051
- the vacuum pulls out the air,  
- squeezing the layers together. 
+the vacuum pulls out the air, squeezing the layers together. 
 
 199
 00:13:06,053 --> 00:13:09,588
-    then they bake the unit,    
-   which activates the epoxy,   
+then they bake the unit, which activates the epoxy,   
 
 200
 00:13:09,590 --> 00:13:11,989
- fusing the materials together. 
+fusing the materials together. 
 
 201
 00:13:11,991 --> 00:13:16,928
- next, they assemble the wooden 
-    framework for the wings.    
+next, they assemble the wooden framework for the wings.    
 
 202
 00:13:16,930 --> 00:13:20,065
-        they reinforce it       
-   with strips of carbon fiber  
+they reinforce it with strips of carbon fiber  
 
 203
 00:13:20,067 --> 00:13:23,101
-  and apply epoxy on the edges. 
+and apply epoxy on the edges. 
 
 204
 00:13:25,739 --> 00:13:28,673
-   the model makers carefully   
-      install the framework     
+the model makers carefully install the framework     
 
 205
 00:13:28,675 --> 00:13:31,476
-       on the wing shell.       
+on the wing shell.       
 
 206
 00:13:31,478 --> 00:13:35,013
-     they apply an extra rib    
-      along the wing tip...     
+they apply an extra rib along the wing tip...     
 
 207
 00:13:37,818 --> 00:13:40,818
-  ...slide aluminum cylinders   
-  into tubes in the framework,  
+...slide aluminum cylinders into tubes in the framework,  
 
 208
 00:13:40,820 --> 00:13:44,890
-   then bead more epoxy along   
-   the wing shell's perimeter.  
+then bead more epoxy along the wing shell's perimeter.  
 
 209
 00:13:46,426 --> 00:13:48,560
- they use high-strength adhesive
+they use high-strength adhesive
 
 210
 00:13:48,562 --> 00:13:50,495
-       in strategic parts       
-        of the framework        
+in strategic parts of the framework        
 
 211
 00:13:50,497 --> 00:13:53,699
-    to attach the other half    
-       of the molded wing.      
+to attach the other half of the molded wing.      
 
 212
 00:13:57,371 --> 00:13:59,571
-  they bolt the molds together  
+they bolt the molds together  
 
 213
 00:13:59,573 --> 00:14:02,908
-   and set the assembly aside   
-   to allow the epoxy to cure.  
+and set the assembly aside to allow the epoxy to cure.  
 
 214
 00:14:02,910 --> 00:14:05,710
-       after a few hours,       
-     they extract the wing,     
+after a few hours, they extract the wing,     
 
 215
 00:14:05,712 --> 00:14:07,712
- its artwork nicely transferred 
+its artwork nicely transferred 
 
 216
 00:14:07,714 --> 00:14:10,182
-     from the inside surface    
-          of the mold.          
+from the inside surface of the mold.          
 
 217
 00:14:10,184 --> 00:14:12,717
-    machinery then cuts holes   
-           in the wing          
+machinery then cuts holes in the wing          
 
 218
 00:14:12,719 --> 00:14:17,656
-   for installing landing gear  
-    and motors called servos.   
+for installing landing gear and motors called servos.   
 
 219
 00:14:17,658 --> 00:14:20,591
-           this router          
-     is computer programmed     
+this router is computer programmed     
 
 220
 00:14:20,593 --> 00:14:23,795
-  to make perfect cuts without  
+to make perfect cuts without  
 damaging the internal framework.
 
 221
 00:14:23,797 --> 00:14:27,665
-    this is critical because    
- just a fraction of an inch off,
+this is critical because just a fraction of an inch off,
 
 222
 00:14:27,667 --> 00:14:31,503
-  and the router would destroy  
-  the carefully crafted wing.   
+and the router would destroy the carefully crafted wing.   
 
 223
 00:14:36,009 --> 00:14:39,878
- the modeler now perforates the 
- fiberglass layer of the wing.  
+the modeler now perforates the fiberglass layer of the wing.  
 
 224
 00:14:39,880 --> 00:14:43,215
- he's creating a hinged section 
-       called an aileron.       
+he's creating a hinged section called an aileron.       
 
 225
 00:14:43,217 --> 00:14:47,486
@@ -1078,17 +915,15 @@ cause the plane to turn or roll.
 
 226
 00:14:52,693 --> 00:14:55,426
-          the ailerons          
-   and other control surfaces   
+the ailerons and other control surfaces   
 
 227
 00:14:55,428 --> 00:14:57,295
- will be powered by servomotors.
+will be powered by servomotors.
 
 228
 00:15:01,835 --> 00:15:04,836
-    the front fuselage shell    
-         has been molded        
+the front fuselage shell has been molded        
 
 229
 00:15:04,838 --> 00:15:07,239
@@ -1096,245 +931,214 @@ and is now ready to be revealed.
 
 230
 00:15:13,714 --> 00:15:16,248
-         like the wings,        
-   the body of this model jet   
+like the wings, the body of this model jet   
 
 231
 00:15:16,250 --> 00:15:18,183
-  needs a supporting framework  
+needs a supporting framework  
 
 232
 00:15:18,185 --> 00:15:22,654
-       along with brackets      
-        for attachments.        
+along with brackets for attachments.        
 
 233
 00:15:22,656 --> 00:15:24,389
-   another computerized router  
+another computerized router  
 
 234
 00:15:24,391 --> 00:15:27,893
- carves them out of multilayered
-       carbon-fiber board.      
+carves them out of multilayered
+carbon-fiber board.      
 
 235
 00:15:32,266 --> 00:15:35,200
-  the modeler glues these parts 
-       inside the fuselage      
+the modeler glues these parts inside the fuselage      
 
 236
 00:15:35,202 --> 00:15:38,136
-    and the tail of the jet.    
+and the tail of the jet.    
 
 237
 00:15:38,138 --> 00:15:39,938
-         coming up next,        
+coming up next,        
 
 238
 00:15:39,940 --> 00:15:44,009
-  this model jet gets its wings 
-    and prepares for takeoff.   
+this model jet gets its wings and prepares for takeoff.   
 
 239
 00:15:59,893 --> 00:16:02,894
-    narrator: controlling one   
-  of these jets is challenging  
+narrator: controlling one of these jets is challenging  
 
 240
 00:16:02,896 --> 00:16:05,030
-   and requires concentration.  
+and requires concentration.  
 
 241
 00:16:05,032 --> 00:16:08,500
-    these are expensive toys,   
+these are expensive toys,   
 and the learning curve is steep.
 
 242
 00:16:08,502 --> 00:16:09,834
-        one bad landing,        
+one bad landing,        
 
 243
 00:16:09,836 --> 00:16:12,838
- and this model jet could end up
-       in a crumpled heap.      
+and this model jet could end up
+in a crumpled heap.      
 
 244
 00:16:12,840 --> 00:16:15,907
-      it's why flyers hone      
-    their skills at airfields   
+it's why flyers hone their skills at airfields   
 
 245
 00:16:15,909 --> 00:16:18,877
-          and test them         
- in international competitions. 
+and test them in international competitions. 
 
 246
 00:16:21,581 --> 00:16:23,715
-      back at the factory,      
+back at the factory,      
 
 247
 00:16:23,717 --> 00:16:27,786
-    the molded pieces of this   
- model jet are coming together. 
+the molded pieces of this model jet are coming together. 
 
 248
 00:16:27,788 --> 00:16:30,655
-      they attach the wings     
-         to the fuselage        
+they attach the wings to the fuselage        
 
 249
 00:16:30,657 --> 00:16:33,458
-       using the cylinders      
-       installed earlier.       
+using the cylinders installed earlier.       
 
 250
 00:16:33,460 --> 00:16:36,394
-        then the modeler        
-  moves to the aircraft's tail  
+then the modeler moves to the aircraft's tail  
 
 251
 00:16:36,396 --> 00:16:39,797
- and attaches the stabilizers...
+and attaches the stabilizers...
 
 252
 00:16:39,799 --> 00:16:43,000
-          the rudder...         
+the rudder...         
 
 253
 00:16:43,002 --> 00:16:45,670
-      and the vertical fin.     
+and the vertical fin.     
 
 254
 00:16:45,672 --> 00:16:50,207
-       super-strength glue      
-      cements the assembly.     
+super-strength glue cements the assembly.     
 
 255
 00:16:50,209 --> 00:16:52,677
-   next, they build the motor.  
+next, they build the motor.  
 
 256
 00:16:52,679 --> 00:16:55,614
-    this one is a ducted-fan    
-        electric system,        
+this one is a ducted-fan electric system,        
 
 257
 00:16:55,616 --> 00:16:58,082
-  a type used in smaller jets.  
+a type used in smaller jets.  
 
 258
 00:16:58,084 --> 00:17:00,618
-   the modeler first assembles  
-           the casing           
+the modeler first assembles the casing           
 
 259
 00:17:00,620 --> 00:17:03,088
-     that will hold the fan     
-         and its motor.         
+that will hold the fan and its motor.         
 
 260
 00:17:03,090 --> 00:17:05,423
-       he slides airfoils       
-         into the casing        
+he slides airfoils into the casing        
 
 261
 00:17:05,425 --> 00:17:06,824
-      to create four ducts,     
+to create four ducts,     
 
 262
 00:17:06,826 --> 00:17:10,695
-   which will properly channel  
-        the flow of air.        
+which will properly channel the flow of air.        
 
 263
 00:17:10,697 --> 00:17:14,499
-  he slides the electric motor  
-    into the aluminum hub...    
+he slides the electric motor into the aluminum hub...    
 
 264
 00:17:18,104 --> 00:17:20,038
-  ...then anchors the assembly  
+...then anchors the assembly  
 
 265
 00:17:20,040 --> 00:17:22,207
-          with a screw          
-      from the other side.      
+with a screw from the other side.      
 
 266
 00:17:25,646 --> 00:17:28,379
-          the next part         
-  is a speed-control mechanism. 
+the next part is a speed-control mechanism. 
 
 267
 00:17:28,381 --> 00:17:32,083
-  he solders its wires to those 
-   protruding from the motor.   
+he solders its wires to those protruding from the motor.   
 
 268
 00:17:33,720 --> 00:17:37,522
-    he encloses the mechanism   
-        in a vented tube,       
+he encloses the mechanism in a vented tube,       
 
 269
 00:17:37,524 --> 00:17:42,226
-  then sets the assembly aside  
-          temporarily.          
+then sets the assembly aside temporarily.          
 
 270
 00:17:42,228 --> 00:17:44,729
-   now focus turns to the fan,  
+now focus turns to the fan,  
 
 271
 00:17:44,731 --> 00:17:47,465
-        which he hooks up       
-      to a testing device.      
+which he hooks up to a testing device.      
 
 272
 00:17:47,467 --> 00:17:48,733
-        as the fan spins,       
+as the fan spins,       
 
 273
 00:17:48,735 --> 00:17:51,202
-     the machine analyzes it    
-         for vibrations         
+the machine analyzes it for vibrations         
 
 274
 00:17:51,204 --> 00:17:54,439
- that would indicate the blades 
-       are out of balance.      
+that would indicate the blades are out of balance.      
 
 275
 00:17:54,441 --> 00:17:57,141
-         the gauge shows        
-    it's vibrating slightly,    
+the gauge shows it's vibrating slightly,    
 
 276
 00:17:57,143 --> 00:18:00,678
-    so he makes adjustments,    
- and then it's ready to install.
+so he makes adjustments, and then it's ready to install.
 
 277
 00:18:00,680 --> 00:18:03,214
-       he attaches the fan      
-       to the motor shaft       
+he attaches the fan to the motor shaft       
 
 278
 00:18:03,216 --> 00:18:05,984
-   and secures it with a bolt   
-         in the center.         
+and secures it with a bolt in the center.         
 
 279
 00:18:08,355 --> 00:18:12,090
-    it's now time to power up   
-  this motor at a test station. 
+it's now time to power up this motor at a test station. 
 
 280
 00:18:12,092 --> 00:18:14,425
-          [ whirring ]          
+[ whirring ]          
 
 281
 00:18:14,427 --> 00:18:17,696
-    [ whirring intensifies ]    
+[ whirring intensifies ]    
 
 282
 00:18:17,698 --> 00:18:20,831
@@ -1342,36 +1146,31 @@ he brings it up to full throttle
 
 283
 00:18:20,833 --> 00:18:22,901
-     and measures the thrust    
-          it generates.         
+and measures the thrust it generates.         
 
 284
 00:18:25,972 --> 00:18:27,772
-       it passes the test,      
+it passes the test,      
 
 285
 00:18:27,774 --> 00:18:31,709
-        so he installs it       
-  in the model jet's fuselage.  
+so he installs it in the model jet's fuselage.  
 
 286
 00:18:31,711 --> 00:18:33,511
-  later, this ducted fan motor  
+later, this ducted fan motor  
 
 287
 00:18:33,513 --> 00:18:36,781
-       will be connected        
-       to a battery pack.       
+will be connected to a battery pack.       
 
 288
 00:18:36,783 --> 00:18:39,250
-         now he moves on        
-       to the landing gear      
+now he moves on to the landing gear      
 
 289
 00:18:39,252 --> 00:18:42,787
-   and attaches air cylinders   
-  to the front and rear wheels. 
+and attaches air cylinders to the front and rear wheels. 
 
 290
 00:18:42,789 --> 00:18:44,723
@@ -1380,145 +1179,130 @@ pumping air into these cylinders
 291
 00:18:44,725 --> 00:18:47,859
 will cause the wheels to retract
-         after takeoff.         
+after takeoff.         
 
 292
 00:18:50,664 --> 00:18:55,500
- this system will also cause the
-  wheels to engage for landing. 
+this system will also cause the
+wheels to engage for landing. 
 
 293
 00:18:59,205 --> 00:19:03,140
-     next, a sheet of clear     
-  thermoplastic is transformed  
+next, a sheet of clear thermoplastic is transformed  
 
 294
 00:19:03,142 --> 00:19:05,644
-   into cockpit-canopy parts.   
+into cockpit-canopy parts.   
 
 295
 00:19:07,681 --> 00:19:09,814
-  a machine heats the plastic,  
+a machine heats the plastic,  
 
 296
 00:19:09,816 --> 00:19:12,684
-     then vacuum-shrinks it     
-          to two molds.         
+then vacuum-shrinks it to two molds.         
 
 297
 00:19:12,686 --> 00:19:15,620
- the plastic hardens in seconds 
+the plastic hardens in seconds 
 
 298
 00:19:15,622 --> 00:19:18,957
-   to create two clear plastic  
-   bubbles for the jet canopy.  
+to create two clear plastic bubbles for the jet canopy.  
 
 299
 00:19:21,628 --> 00:19:24,229
-   they mold the cockpit shell  
-         in two sections        
+they mold the cockpit shell in two sections        
 
 300
 00:19:24,231 --> 00:19:26,364
-    using the same technique.   
+using the same technique.   
 
 301
 00:19:35,776 --> 00:19:40,111
- with the cockpit now installed 
-     and a doll for a pilot,    
+with the cockpit now installed and a doll for a pilot,    
 
 302
 00:19:40,113 --> 00:19:44,582
-  this '50s-era korean war jet  
-  replica is in fighting form.  
+this '50s-era korean war jet replica is in fighting form.  
 
 303
 00:19:44,584 --> 00:19:48,853
-  all that's left is to install 
-    the radio-control system,   
+all that's left is to install the radio-control system,   
 
 304
 00:19:48,855 --> 00:19:51,656
-       which will be done       
- by the operator after purchase.
+which will be done by the operator after purchase.
 
 305
 00:19:51,658 --> 00:19:57,529
 from nose to tail, the attention
-    to detail<i> is</i> impressive.    
+to detail<i> is</i> impressive.    
 
 306
 00:19:57,531 --> 00:20:01,332
-    some of these model jets    
-  even have gas-turbine engines 
+some of these model jets even have gas-turbine engines 
 
 307
 00:20:01,334 --> 00:20:05,269
-     for added authenticity.    
+for added authenticity.    
 
 308
 00:20:05,271 --> 00:20:07,605
- with radio controls installed, 
+with radio controls installed, 
 
 309
 00:20:07,607 --> 00:20:11,876
- this turbine model jet is ready
-    to taxi down the runway.    
+this turbine model jet is ready
+to taxi down the runway.    
 
 310
 00:20:11,878 --> 00:20:15,947
 the operator does one last check
-    of the control surfaces,    
+of the control surfaces,    
 
 311
 00:20:15,949 --> 00:20:18,383
-   then it's time for takeoff.  
+then it's time for takeoff.  
 
 312
 00:20:23,690 --> 00:20:25,556
-    miniature turbine engines   
+miniature turbine engines   
 
 313
 00:20:25,558 --> 00:20:28,827
-    sound and work like those   
-          of a big jet.         
+sound and work like those of a big jet.         
 
 314
 00:20:28,829 --> 00:20:30,895
-   these jets rumble and soar   
+these jets rumble and soar   
 
 315
 00:20:30,897 --> 00:20:34,766
-   and can be made to perform   
-     many aerobatic stunts.     
+and can be made to perform many aerobatic stunts.     
 
 316
 00:20:34,768 --> 00:20:38,770
 of course, it all hinges on both
-    the skill of the operator   
+the skill of the operator   
 
 317
 00:20:38,772 --> 00:20:41,773
-       and a job well done      
-         at the factory.        
+and a job well done at the factory.        
 
 318
 00:20:45,511 --> 00:20:48,413
-       but this looks like      
-   another successful landing.  
+but this looks like another successful landing.  
 
 319
 00:21:01,862 --> 00:21:03,995
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 320
 00:21:03,997 --> 00:21:06,865
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 321
 00:21:06,867 --> 00:21:08,967
-      drop us a line at...      
+drop us a line at...      
 

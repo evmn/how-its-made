@@ -1,85 +1,71 @@
 ﻿1
 00:00:01,870 --> 00:00:05,004
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,006 --> 00:00:07,940
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,518 --> 00:00:53,853
-            narrator:           
-    when the pressure is on,    
+narrator: when the pressure is on,    
 
 4
 00:00:53,855 --> 00:00:56,588
-    the juices start flowing    
-       for quick results.       
+the juices start flowing for quick results.       
 
 5
 00:00:56,590 --> 00:00:58,657
-       the pressure cooker      
-       traps steam inside       
+the pressure cooker traps steam inside       
 
 6
 00:00:58,659 --> 00:01:02,394
 to raise the cooking temperature
- and produce a meal in minutes. 
+and produce a meal in minutes. 
 
 7
 00:01:02,396 --> 00:01:05,197
- the technology has been around 
-          for centuries         
+the technology has been around for centuries         
 
 8
 00:01:05,199 --> 00:01:08,200
-      but was only adapted      
- for household use in the 1930s,
+but was only adapted for household use in the 1930s,
 
 9
 00:01:08,202 --> 00:01:10,670
-        when the concept        
-     really picked up steam.    
+when the concept really picked up steam.    
 
 10
 00:01:14,341 --> 00:01:17,743
-  modern pressure cookers have  
-   new lid-locking technology   
+modern pressure cookers have new lid-locking technology   
 
 11
 00:01:17,745 --> 00:01:19,011
-      and safety features,      
+and safety features,      
 
 12
 00:01:19,013 --> 00:01:20,612
- keeping it on the front burner 
+keeping it on the front burner 
 
 13
 00:01:20,614 --> 00:01:22,848
-      in the kitchen-gadget     
-           department.          
+in the kitchen-gadget department.          
 
 14
 00:01:26,421 --> 00:01:30,222
-    a pressure cooker starts    
-  with a stainless-steel disk.  
+a pressure cooker starts with a stainless-steel disk.  
 
 15
 00:01:30,224 --> 00:01:33,959
-     a dip of some lubricant    
-  will aid the forming process, 
+a dip of some lubricant will aid the forming process, 
 
 16
 00:01:33,961 --> 00:01:37,663
-  as equipment pushes the disk  
-     over a pot-shaped die.     
+as equipment pushes the disk over a pot-shaped die.     
 
 17
 00:01:46,106 --> 00:01:49,041
-      that flat disk is now     
-      a nicely rounded pot.     
+that flat disk is now a nicely rounded pot.     
 
 18
 00:01:54,515 --> 00:01:56,648
@@ -87,207 +73,177 @@ next, this punch cutter moves in
 
 19
 00:01:56,650 --> 00:01:59,085
-         to make notches        
-        in the pot's rim.       
+to make notches in the pot's rim.       
 
 20
 00:02:01,322 --> 00:02:04,724
-  these notches will interlock  
-  with the pressure-cooker lid, 
+these notches will interlock with the pressure-cooker lid, 
 
 21
 00:02:04,726 --> 00:02:07,760
-  allowing it to hold up tight  
-     against steam pressure.    
+allowing it to hold up tight against steam pressure.    
 
 22
 00:02:11,332 --> 00:02:14,000
-              next,             
-  they submerge aluminum disks  
+next, they submerge aluminum disks  
 
 23
 00:02:14,002 --> 00:02:17,069
-         in a liquid mix        
-     of aluminum and silicon    
+in a liquid mix of aluminum and silicon    
 
 24
 00:02:17,071 --> 00:02:19,538
-  to give them an even coating. 
+to give them an even coating. 
 
 25
 00:02:19,540 --> 00:02:21,740
-  while the disk is still damp, 
+while the disk is still damp, 
 
 26
 00:02:21,742 --> 00:02:24,543
-         they arrange it        
-    on the bottom of the pot,   
+they arrange it on the bottom of the pot,   
 
 27
 00:02:24,545 --> 00:02:27,346
- then set a stainless-steel disk
-          on top of it.         
+then set a stainless-steel disk
+on top of it.         
 
 28
 00:02:29,283 --> 00:02:32,017
-  a turntable delivers the pot  
-          to an element         
+a turntable delivers the pot to an element         
 
 29
 00:02:32,019 --> 00:02:35,087
-   that's heated to more than   
-   1,100 degrees fahrenheit.    
+that's heated to more than 1,100 degrees fahrenheit.    
 
 30
 00:02:35,089 --> 00:02:36,355
-        this intense heat       
+this intense heat       
 
 31
 00:02:36,357 --> 00:02:39,091
-     activates the aluminum     
-      and silicon solution      
+activates the aluminum and silicon solution      
 
 32
 00:02:39,093 --> 00:02:42,061
-        to fuse the disk        
-    to the bottom of the pot.   
+to fuse the disk to the bottom of the pot.   
 
 33
 00:02:48,302 --> 00:02:49,969
- then it's into a cooling tank, 
+then it's into a cooling tank, 
 
 34
 00:02:49,971 --> 00:02:52,071
-      where the pots float      
-    towards the next station.   
+where the pots float towards the next station.   
 
 35
 00:02:58,046 --> 00:03:00,579
-        there, two blades       
-   shave away the ragged edges  
+there, two blades shave away the ragged edges  
 
 36
 00:03:00,581 --> 00:03:03,182
-       of the fused layers      
-    on the bottom of the pot.   
+of the fused layers on the bottom of the pot.   
 
 37
 00:03:03,184 --> 00:03:07,586
-           it creates           
-   a cosmetic beveled effect.   
+it creates a cosmetic beveled effect.   
 
 38
 00:03:09,990 --> 00:03:13,391
-     that layer of aluminum     
-  sandwiched between the steel  
+that layer of aluminum sandwiched between the steel  
 
 39
 00:03:13,393 --> 00:03:15,895
-          will improve          
-  the pot's heat conductivity.  
+will improve the pot's heat conductivity.  
 
 40
 00:03:18,399 --> 00:03:20,799
-        and now it's time       
-    for some grit and polish.   
+and now it's time for some grit and polish.   
 
 41
 00:03:20,801 --> 00:03:22,334
-    in this special chamber,    
+in this special chamber,    
 
 42
 00:03:22,336 --> 00:03:25,471
-    sanding and buffing tools   
-     add luster to the pots.    
+sanding and buffing tools add luster to the pots.    
 
 43
 00:03:30,144 --> 00:03:31,477
-     the pressure-cooker pot    
+the pressure-cooker pot    
 
 44
 00:03:31,479 --> 00:03:34,079
-        then takes a trip       
-    through a washing station   
+then takes a trip through a washing station   
 
 45
 00:03:34,081 --> 00:03:36,115
-          to clean off          
-      the sanding residue.      
+to clean off the sanding residue.      
 
 46
 00:03:39,086 --> 00:03:42,020
-       and now it's ready       
-    for the crowning touch --   
+and now it's ready for the crowning touch --   
 
 47
 00:03:42,022 --> 00:03:43,355
-            the lid.            
+the lid.            
 
 48
 00:03:43,357 --> 00:03:46,826
 it takes six pressing operations
-     to shape it completely.    
+to shape it completely.    
 
 49
 00:03:46,828 --> 00:03:48,360
-     the holes at the center    
+the holes at the center    
 
 50
 00:03:48,362 --> 00:03:51,696
-  are for the pressure cooker's 
-       two safety valves.       
+are for the pressure cooker's two safety valves.       
 
 51
 00:03:51,698 --> 00:03:53,766
-   to install the main valve,   
+to install the main valve,   
 
 52
 00:03:53,768 --> 00:03:57,369
-   they align a retaining ring  
-   with the lid's larger hole,  
+they align a retaining ring with the lid's larger hole,  
 
 53
 00:03:57,371 --> 00:04:00,172
-    then pop the spring valve   
-         into that hole.        
+then pop the spring valve into that hole.        
 
 54
 00:04:00,174 --> 00:04:05,443
- an automated device underneath 
- tightly screws it into place.  
+an automated device underneath tightly screws it into place.  
 
 55
 00:04:05,445 --> 00:04:08,981
-        the backup valve        
-    goes in the smaller hole.   
+the backup valve goes in the smaller hole.   
 
 56
 00:04:08,983 --> 00:04:11,517
-  these two valves are crucial. 
+these two valves are crucial. 
 
 57
 00:04:11,519 --> 00:04:14,320
-  they'll release excess steam  
-     to avert an explosion.     
+they'll release excess steam to avert an explosion.     
 
 58
 00:04:14,322 --> 00:04:17,856
-      a rubber ring creates     
- an airtight seal with the pot. 
+a rubber ring creates an airtight seal with the pot. 
 
 59
 00:04:17,858 --> 00:04:20,993
-      they test the valves      
-   and check the sealing ring,  
+they test the valves and check the sealing ring,  
 
 60
 00:04:20,995 --> 00:04:24,430
-      along with the lid's      
-       closing mechanism.       
+along with the lid's closing mechanism.       
 
 61
 00:04:27,602 --> 00:04:31,937
-   this plastic cooking guide   
+this plastic cooking guide   
 encircles the main safety valve,
 
 62
@@ -296,126 +252,107 @@ but doesn't impede its function.
 
 63
 00:04:35,676 --> 00:04:40,012
-     they weld several bolts    
-  into the pot on either side.  
+they weld several bolts into the pot on either side.  
 
 64
 00:04:43,818 --> 00:04:45,484
-    they leave a bit of space   
+they leave a bit of space   
 
 65
 00:04:45,486 --> 00:04:48,220
-     between the bolt heads     
-          and the pot.          
+between the bolt heads and the pot.          
 
 66
 00:04:48,222 --> 00:04:51,957
-   this allows them to install  
-  the brackets for the handles. 
+this allows them to install the brackets for the handles. 
 
 67
 00:04:56,563 --> 00:04:58,030
-      they torque the bolts     
+they torque the bolts     
 
 68
 00:04:58,032 --> 00:05:00,966
-        to tightly secure       
-     the bracketed handles.     
+to tightly secure the bracketed handles.     
 
 69
 00:05:00,968 --> 00:05:03,569
-           after all,           
- a pressure cooker is one thing 
+after all, a pressure cooker is one thing 
 
 70
 00:05:03,571 --> 00:05:05,571
-     you don't want to lose     
-          your grip on.         
+you don't want to lose your grip on.         
 
 71
 00:05:09,777 --> 00:05:14,513
-  and now this pressure cooker  
-     is in the homestretch.     
+and now this pressure cooker is in the homestretch.     
 
 72
 00:05:14,515 --> 00:05:16,515
-     there's one last test,     
+there's one last test,     
 
 73
 00:05:16,517 --> 00:05:20,920
-       which they perform       
-   on randomly selected pots.   
+which they perform on randomly selected pots.   
 
 74
 00:05:20,922 --> 00:05:25,390
-  they pump the pot full of air 
- to simulate the effect of steam
+they pump the pot full of air to simulate the effect of steam
 
 75
 00:05:25,392 --> 00:05:28,928
-    and confirm that this pot   
-    can handle the pressure.    
+and confirm that this pot can handle the pressure.    
 
 76
 00:05:28,930 --> 00:05:33,665
-  pressure cookers with double  
-  walls are another innovation. 
+pressure cookers with double walls are another innovation. 
 
 77
 00:05:33,667 --> 00:05:36,735
-          they'll keep          
-      that stew warm longer     
+they'll keep that stew warm longer     
 
 78
 00:05:36,737 --> 00:05:39,738
-      to ease the pressure      
-          on the chef.          
+to ease the pressure on the chef.          
 
 79
 00:05:55,222 --> 00:05:59,091
-            narrator:           
-    mechanical singing birds    
-    first appeared in 1780,     
+narrator: mechanical singing birds first appeared in 1780,     
 
 80
 00:05:59,093 --> 00:06:00,559
-      adorning snuffboxes.      
+adorning snuffboxes.      
 
 81
 00:06:00,561 --> 00:06:02,227
-     the swiss-made novelty     
+the swiss-made novelty     
 
 82
 00:06:02,229 --> 00:06:05,431
-      soon became the rage      
-     among classy europeans.    
+soon became the rage among classy europeans.    
 
 83
 00:06:05,433 --> 00:06:06,765
-      a few decades later,      
+a few decades later,      
 
 84
 00:06:06,767 --> 00:06:09,902
-       a french watchmaker      
- perfected the sound mechanism, 
+a french watchmaker perfected the sound mechanism, 
 
 85
 00:06:09,904 --> 00:06:12,571
-       making the birdsong      
-     virtually indiscernible    
+making the birdsong virtually indiscernible    
 
 86
 00:06:12,573 --> 00:06:13,839
-      from the real thing.      
+from the real thing.      
 
 87
 00:06:17,244 --> 00:06:19,778
-          [ chirping ]          
+[ chirping ]          
 
 88
 00:06:19,780 --> 00:06:23,181
-       switzerland is home      
-  to the last remaining company 
+switzerland is home to the last remaining company 
 
 89
 00:06:23,183 --> 00:06:25,117
@@ -423,131 +360,117 @@ making these singing automatons.
 
 90
 00:06:25,119 --> 00:06:28,520
- the workshop crafts large ones 
-      that go in birdcages      
+the workshop crafts large ones that go in birdcages      
 
 91
 00:06:28,522 --> 00:06:32,190
-   and small ones that pop out  
-    of boxes and clock cases.   
+and small ones that pop out of boxes and clock cases.   
 
 92
 00:06:32,192 --> 00:06:34,326
-          [ chirping ]          
+[ chirping ]          
 
 93
 00:06:34,328 --> 00:06:36,595
-   the first step is to adjust  
+the first step is to adjust  
 
 94
 00:06:36,597 --> 00:06:39,465
-         the bird's two         
-    spring-loaded steel rods.   
+the bird's two spring-loaded steel rods.   
 
 95
 00:06:39,467 --> 00:06:44,069
-   one pivots the bird's head   
+one pivots the bird's head   
 and the other its beak and tail.
 
 96
 00:06:44,071 --> 00:06:48,139
-     then it's time to dress    
-        the bird's body.        
+then it's time to dress the bird's body.        
 
 97
 00:06:48,141 --> 00:06:50,942
-     it's illegal to harvest    
-       real bird feathers,      
+it's illegal to harvest real bird feathers,      
 
 98
 00:06:50,944 --> 00:06:53,479
-       so the artist uses       
-      real antique feathers     
+so the artist uses real antique feathers     
 
 99
 00:06:53,481 --> 00:06:55,147
-    in a couple of key spots    
+in a couple of key spots    
 
 100
 00:06:55,149 --> 00:06:59,485
- and realistic-looking synthetic
-    feathers everywhere else.   
+and realistic-looking synthetic
+feathers everywhere else.   
 
 101
 00:06:59,487 --> 00:07:01,420
-       to craft the tail,       
+to craft the tail,       
 
 102
 00:07:01,422 --> 00:07:04,956
-       she glues feathers       
-       onto stiff paper,        
+she glues feathers onto stiff paper,        
 
 103
 00:07:04,958 --> 00:07:08,127
-       then folds it over       
-   and adheres it to the bird.  
+then folds it over and adheres it to the bird.  
 
 104
 00:07:11,098 --> 00:07:13,598
-  then she adds more feathers,  
+then she adds more feathers,  
 
 105
 00:07:13,600 --> 00:07:16,568
-      meticulously creating     
-        colorful layers.        
+meticulously creating colorful layers.        
 
 106
 00:07:16,570 --> 00:07:20,272
-        the plumage alone       
-  takes about four hours' work. 
+the plumage alone takes about four hours' work. 
 
 107
 00:07:24,578 --> 00:07:29,081
-     no two birds are alike.    
- each is a unique piece of art. 
+no two birds are alike. each is a unique piece of art. 
 
 108
 00:07:31,986 --> 00:07:33,786
-  in the technical department,  
+in the technical department,  
 
 109
 00:07:33,788 --> 00:07:35,387
-    they screw the windup key   
+they screw the windup key   
 
 110
 00:07:35,389 --> 00:07:38,523
-   to the mechanical movement   
-    that animates the birds.    
+to the mechanical movement that animates the birds.    
 
 111
 00:07:38,525 --> 00:07:43,128
-   the movement is made up of   
- 250 brass and steel components 
+the movement is made up of 250 brass and steel components 
 
 112
 00:07:43,130 --> 00:07:44,463
-       assembled manually.      
+assembled manually.      
 
 113
 00:07:44,465 --> 00:07:46,264
-  they connect leather bellows. 
+they connect leather bellows. 
 
 114
 00:07:46,266 --> 00:07:48,066
- the movement pumps the bellows,
+the movement pumps the bellows,
 
 115
 00:07:48,068 --> 00:07:50,469
-         which sends air        
-     through a tiny whistle,    
+which sends air through a tiny whistle,    
 
 116
 00:07:50,471 --> 00:07:53,805
-     producing the birdsong.    
+producing the birdsong.    
 
 117
 00:07:53,807 --> 00:07:56,542
-       now for the birdie.      
+now for the birdie.      
 
 118
 00:07:56,544 --> 00:07:58,344
@@ -555,165 +478,139 @@ this one's the small pop-up kind
 
 119
 00:07:58,346 --> 00:08:00,545
-       that goes in a box       
-         or clock case.         
+that goes in a box or clock case.         
 
 120
 00:08:00,547 --> 00:08:03,215
-         they screw him         
-   to a lever in the movement,  
+they screw him to a lever in the movement,  
 
 121
 00:08:03,217 --> 00:08:06,418
-  then, using a brass template, 
-     position him correctly.    
+then, using a brass template, position him correctly.    
 
 122
 00:08:13,094 --> 00:08:17,096
-  this rack gear moves the bird 
-        from side to side       
+this rack gear moves the bird from side to side       
 
 123
 00:08:17,098 --> 00:08:19,164
-   while he's up and singing.   
+while he's up and singing.   
 
 124
 00:08:19,166 --> 00:08:23,068
-   this pin attaches that gear  
-        to the movement.        
+this pin attaches that gear to the movement.        
 
 125
 00:08:26,040 --> 00:08:28,239
-    this lever pops the bird    
-        out of his nest,        
+this lever pops the bird out of his nest,        
 
 126
 00:08:28,241 --> 00:08:32,177
-      moves the rack gear,      
-     and pumps the bellows.     
+moves the rack gear, and pumps the bellows.     
 
 127
 00:08:36,650 --> 00:08:39,985
-  a push button on the movement 
-       triggers the lever,      
+a push button on the movement triggers the lever,      
 
 128
 00:08:39,987 --> 00:08:41,719
-   setting all this in motion.  
+setting all this in motion.  
 
 129
 00:08:41,721 --> 00:08:44,656
-          [ chirping ]          
+[ chirping ]          
 
 130
 00:08:44,658 --> 00:08:49,862
-  now they install the movement 
-    into its decorative box.    
+now they install the movement into its decorative box.    
 
 131
 00:08:49,864 --> 00:08:53,866
-   birdcage models require an   
- identical but larger movement. 
+birdcage models require an identical but larger movement. 
 
 132
 00:08:53,868 --> 00:08:57,803
-      the base of the cage      
-       sits on top of it.       
+the base of the cage sits on top of it.       
 
 133
 00:08:57,805 --> 00:09:00,072
-    the rods that manipulate    
-            the birds           
+the rods that manipulate the birds           
 
 134
 00:09:00,074 --> 00:09:04,409
-     connect to the movement    
- through tubes in brass perches.
+connect to the movement through tubes in brass perches.
 
 135
 00:09:04,411 --> 00:09:07,212
-          [ chirping ]          
+[ chirping ]          
 
 136
 00:09:12,353 --> 00:09:14,553
-        workers construct       
-       the top of the cage      
+workers construct the top of the cage      
 
 137
 00:09:14,555 --> 00:09:16,354
-       over a curved form.      
+over a curved form.      
 
 138
 00:09:16,356 --> 00:09:19,357
-      first, they slide on      
-         two brass rings        
+first, they slide on two brass rings        
 
 139
 00:09:19,359 --> 00:09:22,227
-    and position a brass disk   
-           at the top.          
+and position a brass disk at the top.          
 
 140
 00:09:22,229 --> 00:09:24,896
-        then, they feed         
-        thick brass wire        
+then, they feed thick brass wire        
 
 141
 00:09:24,898 --> 00:09:26,799
-   through holes in the rings.  
+through holes in the rings.  
 
 142
 00:09:28,902 --> 00:09:32,237
-       they lock each wire      
-   onto the disk temporarily,   
+they lock each wire onto the disk temporarily,   
 
 143
 00:09:32,239 --> 00:09:35,307
-    then, with a bit of acid    
-      to help the process,      
+then, with a bit of acid to help the process,      
 
 144
 00:09:35,309 --> 00:09:38,177
-        solder the wires        
-    to the disk permanently.    
+solder the wires to the disk permanently.    
 
 145
 00:09:43,917 --> 00:09:46,718
-        after making sure       
-  everything's well-positioned, 
+after making sure everything's well-positioned, 
 
 146
 00:09:46,720 --> 00:09:49,288
-     they solder the wires      
-     to the rings, as well.     
+they solder the wires to the rings, as well.     
 
 147
 00:09:57,064 --> 00:09:59,865
- once the structure is soldered,
+once the structure is soldered,
 
 148
 00:09:59,867 --> 00:10:03,402
-            the cage            
-  can safely come off the form. 
+the cage can safely come off the form. 
 
 149
 00:10:03,404 --> 00:10:08,406
-  decorative brass rings cover  
-      the structural ones.      
+decorative brass rings cover the structural ones.      
 
 150
 00:10:08,408 --> 00:10:13,612
-           they, too,           
-  have to be soldered in place. 
+they, too, have to be soldered in place. 
 
 151
 00:10:13,614 --> 00:10:17,682
-          this requires         
-    a light brush of acid...    
+this requires a light brush of acid...    
 
 152
 00:10:17,684 --> 00:10:20,285
-         lead pellets...        
+lead pellets...        
 
 153
 00:10:22,423 --> 00:10:24,556
@@ -721,81 +618,68 @@ this one's the small pop-up kind
 
 154
 00:10:24,558 --> 00:10:26,959
-             bonding            
-   the outer and inner rings.   
+bonding the outer and inner rings.   
 
 155
 00:10:29,296 --> 00:10:31,964
-  every mechanical singing bird 
-      this company produces     
+every mechanical singing bird this company produces     
 
 156
 00:10:31,966 --> 00:10:35,300
-      is a work of artistic     
-   and technical craftsmanship  
+is a work of artistic and technical craftsmanship  
 
 157
 00:10:35,302 --> 00:10:37,903
-   that delivers a performance  
-           on command.          
+that delivers a performance on command.          
 
 158
 00:10:37,905 --> 00:10:40,339
-          [ chirping ]          
+[ chirping ]          
 
 159
 00:10:57,791 --> 00:11:01,860
-            narrator:           
-   oceanographic buoys enable   
-  scientists to study the sea,  
+narrator: oceanographic buoys enable scientists to study the sea,  
 
 160
 00:11:01,862 --> 00:11:04,263
-       help meteorologists      
-        predict weather,        
+help meteorologists predict weather,        
 
 161
 00:11:04,265 --> 00:11:07,132
-        and rescue teams        
-  better define a search area.  
+and rescue teams better define a search area.  
 
 162
 00:11:07,134 --> 00:11:09,935
-    the top part of the buoy    
-     houses instrumentation     
+the top part of the buoy houses instrumentation     
 
 163
 00:11:09,937 --> 00:11:12,403
-    that tracks temperature,    
-        surface currents,       
+that tracks temperature, surface currents,       
 
 164
 00:11:12,405 --> 00:11:13,805
-      and other conditions.     
+and other conditions.     
 
 165
 00:11:13,807 --> 00:11:17,309
- its antenna transmits the data 
+its antenna transmits the data 
 via satellite to a base station.
 
 166
 00:11:20,347 --> 00:11:22,948
-         this model has         
-   a ball-shaped surface float  
+this model has a ball-shaped surface float  
 
 167
 00:11:22,950 --> 00:11:24,349
-       with a tether cable      
+with a tether cable      
 
 168
 00:11:24,351 --> 00:11:27,285
-  connecting a long fabric tube 
-        called a drogue.        
+connecting a long fabric tube called a drogue.        
 
 169
 00:11:27,287 --> 00:11:29,754
-           the drogue           
-     detects water movements    
+the drogue detects water movements    
 
 170
 00:11:29,756 --> 00:11:31,957
@@ -803,49 +687,44 @@ several yards below the surface.
 
 171
 00:11:31,959 --> 00:11:35,294
-   the component that connects  
- the surface float to the cable 
+the component that connects the surface float to the cable 
 
 172
 00:11:35,296 --> 00:11:37,095
-  is called the stress relief.  
+is called the stress relief.  
 
 173
 00:11:37,097 --> 00:11:39,965
-   the factory makes this part  
-           in a mold,           
+the factory makes this part in a mold,           
 
 174
 00:11:39,967 --> 00:11:41,833
-      casting 10 at a time.     
+casting 10 at a time.     
 
 175
 00:11:41,835 --> 00:11:46,104
- workers inject liquid urethane 
-     into the mold cavities.    
+workers inject liquid urethane into the mold cavities.    
 
 176
 00:11:46,106 --> 00:11:47,706
-     it's the same material     
+it's the same material     
 
 177
 00:11:47,708 --> 00:11:49,708
-           from which           
- in-line skate wheels are made. 
+from which in-line skate wheels are made. 
 
 178
 00:11:53,580 --> 00:11:55,046
-       after three hours,       
+after three hours,       
 
 179
 00:11:55,048 --> 00:11:59,618
-   they extract the castings,   
+they extract the castings,   
 which then cure for a full week.
 
 180
 00:12:02,722 --> 00:12:05,390
-        the surface float       
-   contains a barometer sensor  
+the surface float contains a barometer sensor  
 
 181
 00:12:05,392 --> 00:12:07,192
@@ -853,192 +732,168 @@ that collects air-pressure data,
 
 182
 00:12:07,194 --> 00:12:11,863
- as well as a temperature sensor
-     and a locating system.     
+as well as a temperature sensor
+and a locating system.     
 
 183
 00:12:11,865 --> 00:12:16,935
-    a 13.5-volt battery pack    
-  powers all these instruments. 
+a 13.5-volt battery pack powers all these instruments. 
 
 184
 00:12:16,937 --> 00:12:18,203
-        workers build it        
+workers build it        
 
 185
 00:12:18,205 --> 00:12:21,339
-    by arranging 36 standard    
-        d-cell batteries.       
+by arranging 36 standard d-cell batteries.       
 
 186
 00:12:21,341 --> 00:12:24,543
-      using nickel strips,      
-        they make pairs,        
+using nickel strips, they make pairs,        
 
 187
 00:12:24,545 --> 00:12:28,880
-    linking the negative end    
-       to a positive end.       
+linking the negative end to a positive end.       
 
 188
 00:12:28,882 --> 00:12:32,551
 then, they spot-weld the strips,
-    creating circuit pathways   
+creating circuit pathways   
 
 189
 00:12:32,553 --> 00:12:35,020
-           along which          
-     electricity will flow.     
+along which electricity will flow.     
 
 190
 00:12:42,429 --> 00:12:44,963
-              next,             
-  they immobilize the batteries 
+next, they immobilize the batteries 
 
 191
 00:12:44,965 --> 00:12:48,300
-      by filling the spaces     
-   between them with hot glue.  
+by filling the spaces between them with hot glue.  
 
 192
 00:12:51,638 --> 00:12:54,105
-         then, they weld        
-      the final connections     
+then, they weld the final connections     
 
 193
 00:12:54,107 --> 00:12:55,574
-     and solder on the leads    
+and solder on the leads    
 
 194
 00:12:55,576 --> 00:12:59,344
-  that will connect the battery 
-  pack to the instrumentation.  
+that will connect the battery pack to the instrumentation.  
 
 195
 00:13:02,850 --> 00:13:05,317
-         now they apply         
-    special insulating paper    
+now they apply special insulating paper    
 
 196
 00:13:05,319 --> 00:13:07,919
-   to prevent the battery pack  
-         from shorting,         
+to prevent the battery pack from shorting,         
 
 197
 00:13:07,921 --> 00:13:11,122
-   should it come into contact  
-      with a metal object.      
+should it come into contact with a metal object.      
 
 198
 00:13:11,124 --> 00:13:13,325
- a wide band of electrical tape 
+a wide band of electrical tape 
 
 199
 00:13:13,327 --> 00:13:16,261
-          safely seals          
-   this 13-pound battery pack.  
+safely seals this 13-pound battery pack.  
 
 200
 00:13:28,541 --> 00:13:30,342
- the nylon/polypropylene drogue 
+the nylon/polypropylene drogue 
 
 201
 00:13:30,344 --> 00:13:33,011
-       is too lightweight       
+is too lightweight       
 to hang vertically in the water,
 
 202
 00:13:33,013 --> 00:13:35,480
-      so it needs something     
-        to weigh it down.       
+so it needs something to weigh it down.       
 
 203
 00:13:35,482 --> 00:13:37,783
-         that something         
-    is a heavy, plastic hoop.   
+that something is a heavy, plastic hoop.   
 
 204
 00:13:40,487 --> 00:13:44,556
-  they make the hoop by blowing 
+they make the hoop by blowing 
 sand into a plastic garden hose.
 
 205
 00:13:44,558 --> 00:13:46,325
-    the sand makes it heavy.    
+the sand makes it heavy.    
 
 206
 00:13:53,967 --> 00:13:55,634
-     after capping the hose,    
+after capping the hose,    
 
 207
 00:13:55,636 --> 00:13:59,637
-   they insert it in a pocket   
-  at the bottom of the drogue.  
+they insert it in a pocket at the bottom of the drogue.  
 
 208
 00:13:59,639 --> 00:14:02,574
-       so now the drogue,       
-       all 26 feet of it,       
+so now the drogue, all 26 feet of it,       
 
 209
 00:14:02,576 --> 00:14:05,811
-    will dangle straight down   
-         into the water.        
+will dangle straight down into the water.        
 
 210
 00:14:13,053 --> 00:14:15,854
-   now for that stress relief   
-     they molded earlier on.    
+now for that stress relief they molded earlier on.    
 
 211
 00:14:15,856 --> 00:14:17,856
-           it attaches          
-   underneath the bottom half   
+it attaches underneath the bottom half   
 
 212
 00:14:17,858 --> 00:14:21,059
-      of the surface float.     
+of the surface float.     
 
 213
 00:14:21,061 --> 00:14:25,997
-     inside the bottom half,    
+inside the bottom half,    
 they install the battery pack...
 
 214
 00:14:25,999 --> 00:14:28,200
-     then a control board...    
+then a control board...    
 
 215
 00:14:28,202 --> 00:14:30,067
-        a transmitter...        
+a transmitter...        
 
 216
 00:14:30,069 --> 00:14:31,837
-         and an antenna.        
+and an antenna.        
 
 217
 00:14:35,209 --> 00:14:38,944
-        the surface float       
-   is made of a.b.s. plastic,   
+the surface float is made of a.b.s. plastic,   
 
 218
 00:14:38,946 --> 00:14:42,481
-     the top surface coated     
-       for u.v. protection      
+the top surface coated for u.v. protection      
 
 219
 00:14:42,483 --> 00:14:46,083
-   because it will be exposed   
-       to direct sunlight.      
+because it will be exposed to direct sunlight.      
 
 220
 00:14:46,085 --> 00:14:49,287
-       they attach one end      
-       of the tether cable      
+they attach one end of the tether cable      
 
 221
 00:14:49,289 --> 00:14:50,956
-      to the stress relief      
+to the stress relief      
 
 222
 00:14:50,958 --> 00:14:53,325
@@ -1046,472 +901,399 @@ and the other end to the drogue.
 
 223
 00:14:59,432 --> 00:15:02,467
-  they reinforce the connection 
-           with epoxy.          
+they reinforce the connection with epoxy.          
 
 224
 00:15:03,837 --> 00:15:05,237
-        this type of buoy       
+this type of buoy       
 
 225
 00:15:05,239 --> 00:15:08,039
-     is designed to monitor     
-   only the top yard of water,  
+is designed to monitor only the top yard of water,  
 
 226
 00:15:08,041 --> 00:15:10,508
-       so it doesn't have       
-     a long vertical drogue     
+so it doesn't have a long vertical drogue     
 
 227
 00:15:10,510 --> 00:15:11,709
-       like the other one.      
+like the other one.      
 
 228
 00:15:11,711 --> 00:15:13,778
-        what it<i> does</i> have       
-         is a parachute,        
+what it<i> does</i> have is a parachute,        
 
 229
 00:15:13,780 --> 00:15:16,448
-      because it's designed     
-    to be dropped by aircraft   
+because it's designed to be dropped by aircraft   
 
 230
 00:15:16,450 --> 00:15:18,516
-     in a search-and-rescue     
-           operation,           
+in a search-and-rescue operation,           
 
 231
 00:15:18,518 --> 00:15:21,086
-      to mark the location      
-         of an incident.        
+to mark the location of an incident.        
 
 232
 00:15:25,592 --> 00:15:29,460
-   as the demonstration shows,  
-    the buoy opens on impact.   
+as the demonstration shows, the buoy opens on impact.   
 
 233
 00:15:29,462 --> 00:15:32,397
-       all the components       
-      are spring-loaded --      
+all the components are spring-loaded --      
 
 234
 00:15:32,399 --> 00:15:33,965
-      floats made of foam,      
+floats made of foam,      
 
 235
 00:15:33,967 --> 00:15:36,801
-         drogues around         
-      the central cylinder      
+drogues around the central cylinder      
 
 236
 00:15:36,803 --> 00:15:38,870
-  housing the instrumentation,  
+housing the instrumentation,  
 
 237
 00:15:38,872 --> 00:15:40,138
-     and on top an antenna.     
+and on top an antenna.     
 
 238
 00:15:40,140 --> 00:15:44,209
-      the buoy packaging is     
+the buoy packaging is     
 water-soluble and biodegradable,
 
 239
 00:15:44,211 --> 00:15:46,277
-         so, over time,         
-    it simply disintegrates.    
+so, over time, it simply disintegrates.    
 
 240
 00:15:46,279 --> 00:15:48,647
-    no need to retrieve them.   
+no need to retrieve them.   
 
 241
 00:16:00,994 --> 00:16:04,596
-            narrator:           
-  stainless-steel tank trailers 
-  carry all kinds of products,  
+narrator: stainless-steel tank trailers carry all kinds of products,  
 
 242
 00:16:04,598 --> 00:16:06,798
-        from milk, sugar,       
-         and animal feed        
+from milk, sugar, and animal feed        
 
 243
 00:16:06,800 --> 00:16:09,033
-     to fertilizer, shampoo,    
-          or even wine.         
+to fertilizer, shampoo, or even wine.         
 
 244
 00:16:09,035 --> 00:16:12,270
-  some tank trailers only haul  
-    chemicals like methanol.    
+some tank trailers only haul chemicals like methanol.    
 
 245
 00:16:12,272 --> 00:16:14,739
-     made of stainless steel    
-         inside and out,        
+made of stainless steel inside and out,        
 
 246
 00:16:14,741 --> 00:16:17,876
-   they keep all the products   
-      they're transporting      
+they keep all the products they're transporting      
 
 247
 00:16:17,878 --> 00:16:19,010
-        contaminant-free.       
+contaminant-free.       
 
 248
 00:16:23,617 --> 00:16:25,884
-  stainless-steel tank trailers 
+stainless-steel tank trailers 
 
 249
 00:16:25,886 --> 00:16:29,687
-          carry as much         
-  as 12,000 gallons of product. 
+carry as much as 12,000 gallons of product. 
 
 250
 00:16:29,689 --> 00:16:32,557
-           they start           
-  with a laser cutting machine  
+they start with a laser cutting machine  
 
 251
 00:16:32,559 --> 00:16:35,560
-        which cuts pieces       
-    like this manhole opening   
+which cuts pieces like this manhole opening   
 
 252
 00:16:35,562 --> 00:16:39,297
- from the stainless-steel sheet 
-     used to make the tank.     
+from the stainless-steel sheet used to make the tank.     
 
 253
 00:16:39,299 --> 00:16:43,368
-  the laser that cuts the steel 
-          is as precise         
+the laser that cuts the steel is as precise         
 
 254
 00:16:43,370 --> 00:16:46,271
-       as the pen you use       
-       to sign your name.       
+as the pen you use to sign your name.       
 
 255
 00:16:49,843 --> 00:16:53,711
-         next, they make        
-  the larger pieces of the tank 
+next, they make the larger pieces of the tank 
 
 256
 00:16:53,713 --> 00:16:56,914
-      by putting two sheets     
-       of stainless steel       
+by putting two sheets of stainless steel       
 
 257
 00:16:56,916 --> 00:17:00,185
-      into a machine called     
-      a plasma seam welder.     
+into a machine called a plasma seam welder.     
 
 258
 00:17:00,187 --> 00:17:04,789
-   using stainless-steel wire   
-       as a filler metal,       
+using stainless-steel wire as a filler metal,       
 
 259
 00:17:04,791 --> 00:17:06,525
- the computer-controlled machine
+the computer-controlled machine
 
 260
 00:17:06,527 --> 00:17:08,860
-      welds the two sheets      
-       of steel together.       
+welds the two sheets of steel together.       
 
 261
 00:17:13,133 --> 00:17:16,801
 a worker then uses a belt sander
-      that rides on a track     
+that rides on a track     
 
 262
 00:17:16,803 --> 00:17:20,405
-     to smooth out the weld     
- evenly and in a straight line. 
+to smooth out the weld evenly and in a straight line. 
 
 263
 00:17:25,679 --> 00:17:28,613
-   the sheet then goes through  
-        a rolling machine       
+the sheet then goes through a rolling machine       
 
 264
 00:17:28,615 --> 00:17:30,615
- that shapes it into a cylinder.
+that shapes it into a cylinder.
 
 265
 00:17:30,617 --> 00:17:33,685
- it takes two to four cylinders 
-         to make a tank,        
+it takes two to four cylinders to make a tank,        
 
 266
 00:17:33,687 --> 00:17:35,353
-     depending on the size.     
+depending on the size.     
 
 267
 00:17:38,091 --> 00:17:40,157
-           meanwhile,           
-     a ring-rolling machine     
+meanwhile, a ring-rolling machine     
 
 268
 00:17:40,159 --> 00:17:42,160
-       makes what's called      
-          channel rings         
+makes what's called channel rings         
 
 269
 00:17:42,162 --> 00:17:44,028
-      that will strengthen      
-          the cylinders         
+that will strengthen the cylinders         
 
 270
 00:17:44,030 --> 00:17:46,364
-          and help them         
-     keep their round shape.    
+and help them keep their round shape.    
 
 271
 00:17:46,366 --> 00:17:47,966
-     the rings are also made    
+the rings are also made    
 
 272
 00:17:47,968 --> 00:17:50,835
-     of corrosion-resistant     
-        stainless steel.        
+of corrosion-resistant stainless steel.        
 
 273
 00:17:50,837 --> 00:17:54,406
-    some tanks need up to 12    
-  of these reinforcement rings. 
+some tanks need up to 12 of these reinforcement rings. 
 
 274
 00:18:01,715 --> 00:18:05,717
-       a worker then welds      
+a worker then welds      
 the channel rings onto the tank,
 
 275
 00:18:05,719 --> 00:18:09,087
-      stopping periodically     
-      to inspect the weld.      
+stopping periodically to inspect the weld.      
 
 276
 00:18:14,528 --> 00:18:17,262
-   next, they weld tank heads   
-        to the cylinder.        
+next, they weld tank heads to the cylinder.        
 
 277
 00:18:17,264 --> 00:18:19,930
-          welding parts         
-   on the outside of the tank   
+welding parts on the outside of the tank   
 
 278
 00:18:19,932 --> 00:18:23,334
-    causes heat discoloration   
-   to the steel on the inside.  
+causes heat discoloration to the steel on the inside.  
 
 279
 00:18:23,336 --> 00:18:26,737
-    that's why a worker then    
-  polishes the stainless steel, 
+that's why a worker then polishes the stainless steel, 
 
 280
 00:18:26,739 --> 00:18:29,140
-    giving the full interior    
-           of the tank          
+giving the full interior of the tank          
 
 281
 00:18:29,142 --> 00:18:31,943
-       a noticeably clean       
-       and bright finish.       
+a noticeably clean and bright finish.       
 
 282
 00:18:37,550 --> 00:18:41,753
- then, they attach polyurethane 
-    spacer bands to the tank.   
+then, they attach polyurethane spacer bands to the tank.   
 
 283
 00:18:45,225 --> 00:18:48,360
-    these create the sections   
-            they need           
+these create the sections they need           
 
 284
 00:18:48,362 --> 00:18:51,696
- to mount fiberglass insulation 
-        around the tank,        
+to mount fiberglass insulation around the tank,        
 
 285
 00:18:51,698 --> 00:18:54,399
-     which keeps the product    
-      either warm or cold.      
+which keeps the product either warm or cold.      
 
 286
 00:18:56,235 --> 00:18:59,970
-    workers then install thin   
-   sections of stainless steel  
+workers then install thin sections of stainless steel  
 
 287
 00:18:59,972 --> 00:19:03,308
-         around the tank        
-   to protect the insulation.   
+around the tank to protect the insulation.   
 
 288
 00:19:03,310 --> 00:19:06,411
-       this steel is shiny      
-   for cosmetic reasons only.   
+this steel is shiny for cosmetic reasons only.   
 
 289
 00:19:09,649 --> 00:19:12,517
-     they hold the sections     
-      in place temporarily      
+they hold the sections in place temporarily      
 
 290
 00:19:12,519 --> 00:19:14,452
-      using leather belts.      
+using leather belts.      
 
 291
 00:19:14,454 --> 00:19:18,723
-  they secure this entire outer 
-  wrapper so it fits properly.  
+they secure this entire outer wrapper so it fits properly.  
 
 292
 00:19:18,725 --> 00:19:21,793
-         then, they weld        
-      each section of steel     
+then, they weld each section of steel     
 
 293
 00:19:21,795 --> 00:19:23,662
-    to the frame of the tank.   
+to the frame of the tank.   
 
 294
 00:19:26,400 --> 00:19:28,533
-       next, they prepare       
-     the outer wrapper heads    
+next, they prepare the outer wrapper heads    
 
 295
 00:19:28,535 --> 00:19:31,602
-      using what's called       
-      a lock-seam flanger.      
+using what's called a lock-seam flanger.      
 
 296
 00:19:31,604 --> 00:19:34,673
-        that makes a lip        
-    in the edge of the heads.   
+that makes a lip in the edge of the heads.   
 
 297
 00:19:34,675 --> 00:19:37,542
-           they attach          
-    the front and rear heads    
+they attach the front and rear heads    
 
 298
 00:19:37,544 --> 00:19:39,077
-      to the outer wrapper      
+to the outer wrapper      
 
 299
 00:19:39,079 --> 00:19:42,814
-     by fitting the lip into    
+by fitting the lip into    
 the outer wrapper's grooved edge
 
 300
 00:19:42,816 --> 00:19:45,350
-   and crimping them together   
-         using a hammer.        
+and crimping them together using a hammer.        
 
 301
 00:19:52,159 --> 00:19:56,428
- next, they install the aluminum
-  fenders over the rear tires.  
+next, they install the aluminum
+fenders over the rear tires.  
 
 302
 00:19:59,966 --> 00:20:03,635
-     after that, they attach    
-  a stainless-steel tube ladder 
+after that, they attach a stainless-steel tube ladder 
 
 303
 00:20:03,637 --> 00:20:06,504
 that gives access to the manhole
-     at the top of the tank,    
+at the top of the tank,    
 
 304
 00:20:06,506 --> 00:20:08,940
-  where they load the product.  
+where they load the product.  
 
 305
 00:20:11,778 --> 00:20:13,645
- they put the mudguards on next,
+they put the mudguards on next,
 
 306
 00:20:13,647 --> 00:20:16,448
-   followed by the reflective   
-        conspicuity tape        
+followed by the reflective conspicuity tape        
 
 307
 00:20:16,450 --> 00:20:18,916
-     that goes on both sides    
-           of the tank          
+that goes on both sides of the tank          
 
 308
 00:20:18,918 --> 00:20:21,352
-  and on the two rear bumpers.  
+and on the two rear bumpers.  
 
 309
 00:20:25,525 --> 00:20:28,126
-   they install the stoplights  
-         and taillights         
+they install the stoplights and taillights         
 
 310
 00:20:28,128 --> 00:20:30,695
-        into a light box        
-   at the rear of the trailer.  
+into a light box at the rear of the trailer.  
 
 311
 00:20:34,935 --> 00:20:37,668
-    after that, they install    
-       the turn indicators      
+after that, they install the turn indicators      
 
 312
 00:20:37,670 --> 00:20:39,537
-   on the sides of the trailer  
+on the sides of the trailer  
 
 313
 00:20:39,539 --> 00:20:43,140
-     and test them to ensure    
-     they function properly.    
+and test them to ensure they function properly.    
 
 314
 00:20:43,142 --> 00:20:45,410
-       finally, they check      
-       all the connections      
+finally, they check all the connections      
 
 315
 00:20:45,412 --> 00:20:47,612
-         used to operate        
-        the tank trailer,       
+used to operate the tank trailer,       
 
 316
 00:20:47,614 --> 00:20:50,347
-  so when it leaves the plant,  
-       it works perfectly       
+so when it leaves the plant, it works perfectly       
 
 317
 00:20:50,349 --> 00:20:53,852
- and the customer can transport 
-      their product safely.     
+and the customer can transport their product safely.     
 
 318
 00:21:01,895 --> 00:21:04,361
-    if you have any questions   
-         about the show,        
+if you have any questions about the show,        
 
 319
 00:21:04,363 --> 00:21:07,298
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 320
 00:21:07,300 --> 00:21:09,567
-      drop us a line at...      
+drop us a line at...      
 

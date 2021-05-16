@@ -1,624 +1,537 @@
 ﻿1
 00:00:01,002 --> 00:00:03,335
-                     ♪♪         
+♪♪         
 
 2
 00:00:03,337 --> 00:00:06,272
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 3
 00:00:06,274 --> 00:00:09,341
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 4
 00:00:09,343 --> 00:00:15,748
-                     ♪♪         
+♪♪         
 
 5
 00:00:15,750 --> 00:00:22,255
-                     ♪♪         
+♪♪         
 
 6
 00:00:28,028 --> 00:00:32,064
-                     ♪♪         
+♪♪         
 
 7
 00:00:34,102 --> 00:00:38,104
-                     ♪♪         
+♪♪         
 
 8
 00:00:39,974 --> 00:00:44,043
-                     ♪♪         
+♪♪         
 
 9
 00:00:45,846 --> 00:00:52,317
-                     ♪♪         
+♪♪         
 
 10
 00:00:52,453 --> 00:00:56,121
-  narrator: mountain bike tires 
-     are true trailblazers,     
+narrator: mountain bike tires are true trailblazers,     
 
 11
 00:00:56,123 --> 00:00:59,391
-      specifically designed     
-      for off-road riding.      
+specifically designed for off-road riding.      
 
 12
 00:00:59,393 --> 00:01:01,193
- wider than regular road tires, 
+wider than regular road tires, 
 
 13
 00:01:01,195 --> 00:01:04,263
-       mountain bike tires      
-    have raised knobs or lugs   
+mountain bike tires have raised knobs or lugs   
 
 14
 00:01:04,265 --> 00:01:07,333
-       that add stability       
-       on uneven terrain.       
+that add stability on uneven terrain.       
 
 15
 00:01:07,335 --> 00:01:11,370
-  built to withstand the trail, 
- these tires can handle it all. 
+built to withstand the trail, these tires can handle it all. 
 
 16
 00:01:14,275 --> 00:01:17,610
- when the rubber hits the dirt, 
-     it's all about control.    
+when the rubber hits the dirt, it's all about control.    
 
 17
 00:01:17,612 --> 00:01:20,279
 mountain bike tires are designed
-       to grip the ground       
+to grip the ground       
 
 18
 00:01:20,281 --> 00:01:24,416
- and provide traction off-road. 
+and provide traction off-road. 
 
 19
 00:01:24,418 --> 00:01:27,686
-      first, designers use      
-   a computer model of a tire   
+first, designers use a computer model of a tire   
 
 20
 00:01:27,688 --> 00:01:31,423
-     to simulate the effects    
- of different rubber compounds. 
+to simulate the effects of different rubber compounds. 
 
 21
 00:01:31,425 --> 00:01:34,159
-    construction begins with    
-        rubber compounds        
+construction begins with rubber compounds        
 
 22
 00:01:34,161 --> 00:01:37,964
-      being mixed together      
-  to create parts of the tire.  
+being mixed together to create parts of the tire.  
 
 23
 00:01:37,966 --> 00:01:41,100
-  ingredients include synthetic 
-      and natural rubbers,      
+ingredients include synthetic and natural rubbers,      
 
 24
 00:01:41,102 --> 00:01:44,303
-             sulfur,            
-      and other chemicals.      
+sulfur, and other chemicals.      
 
 25
 00:01:44,305 --> 00:01:47,773
-     rotating spiral blades     
-    break down the materials.   
+rotating spiral blades break down the materials.   
 
 26
 00:01:47,775 --> 00:01:50,776
-    friction from the mixing    
-     heats and softens them.    
+friction from the mixing heats and softens them.    
 
 27
 00:01:50,778 --> 00:01:52,845
- this transforms the ingredients
+this transforms the ingredients
 
 28
 00:01:52,847 --> 00:01:55,381
-        into a dough-like       
-        rubber compound.        
+into a dough-like rubber compound.        
 
 29
 00:01:55,383 --> 00:01:59,785
-  powerful rollers squeeze the  
- compound into thick long sheets
+powerful rollers squeeze the compound into thick long sheets
 
 30
 00:01:59,787 --> 00:02:04,390
 and blades cut the rolled rubber
-       into narrow strips.      
+into narrow strips.      
 
 31
 00:02:04,392 --> 00:02:07,059
-     then the rubber travels    
-      through more rollers      
+then the rubber travels through more rollers      
 
 32
 00:02:07,061 --> 00:02:11,329
-      that squeeze it down      
-    to the desired thickness.   
+that squeeze it down to the desired thickness.   
 
 33
 00:02:11,331 --> 00:02:15,067
-     the rubber sheets land     
-    on a cart, ready for use.   
+the rubber sheets land on a cart, ready for use.   
 
 34
 00:02:15,069 --> 00:02:19,338
-                     ♪♪         
+♪♪         
 
 35
 00:02:19,340 --> 00:02:21,540
-       technicians incase       
-         steel bead wire        
+technicians incase steel bead wire        
 
 36
 00:02:21,542 --> 00:02:23,676
-  with one of these compounds.  
+with one of these compounds.  
 
 37
 00:02:23,678 --> 00:02:25,610
-    the bead wire is the part   
-           of the tire          
+the bead wire is the part of the tire          
 
 38
 00:02:25,612 --> 00:02:28,013
-          that connects         
-       to the wheel's rim.      
+that connects to the wheel's rim.      
 
 39
 00:02:28,015 --> 00:02:30,883
-      as steel wire travels     
-      through an aperture,      
+as steel wire travels through an aperture,      
 
 40
 00:02:30,885 --> 00:02:34,686
-     the rubber is extruded     
-       to form the casing.      
+the rubber is extruded to form the casing.      
 
 41
 00:02:34,688 --> 00:02:36,422
-      the machine delivers      
-          the bead wire         
+the machine delivers the bead wire         
 
 42
 00:02:36,424 --> 00:02:39,425
-       to a spinning disk.      
+to a spinning disk.      
 
 43
 00:02:39,427 --> 00:02:41,360
-  the disk winds the bead wire, 
+the disk winds the bead wire, 
 
 44
 00:02:41,362 --> 00:02:44,964
-      shaping it into rings     
-    which fit to a wheel rim.   
+shaping it into rings which fit to a wheel rim.   
 
 45
 00:02:44,966 --> 00:02:50,102
-                     ♪♪         
+♪♪         
 
 46
 00:02:50,104 --> 00:02:52,638
-    to maintain the diameter    
-          of the wire,          
+to maintain the diameter of the wire,          
 
 47
 00:02:52,640 --> 00:02:55,174
-      the technician tapes      
-       the ends together,       
+the technician tapes the ends together,       
 
 48
 00:02:55,176 --> 00:02:58,177
-     holding the shape until    
-  the next stage of production. 
+holding the shape until the next stage of production. 
 
 49
 00:03:00,281 --> 00:03:03,449
-    next, rubber sheets with    
-     varying characteristics    
+next, rubber sheets with varying characteristics    
 
 50
 00:03:03,451 --> 00:03:05,451
-       enter an extruder.       
+enter an extruder.       
 
 51
 00:03:05,453 --> 00:03:06,919
-    using heat and pressure,    
+using heat and pressure,    
 
 52
 00:03:06,921 --> 00:03:10,122
-       the extruder forces      
-    the rubber through dies.    
+the extruder forces the rubber through dies.    
 
 53
 00:03:10,124 --> 00:03:12,792
-       this process merges      
-      their characteristics     
+this process merges their characteristics     
 
 54
 00:03:12,794 --> 00:03:14,793
-      into a single sheet.      
+into a single sheet.      
 
 55
 00:03:14,795 --> 00:03:18,464
-     the sheet will be used     
-  to make the bicycle's tread.  
+the sheet will be used to make the bicycle's tread.  
 
 56
 00:03:18,466 --> 00:03:23,668
-    the tread rubber travels    
+the tread rubber travels    
 through a channel of cool water.
 
 57
 00:03:23,670 --> 00:03:26,405
- meanwhile, rollers coat fabric 
-           with rubber          
+meanwhile, rollers coat fabric with rubber          
 
 58
 00:03:26,407 --> 00:03:29,475
-          to make plies         
-      for the tire casing.      
+to make plies for the tire casing.      
 
 59
 00:03:29,477 --> 00:03:33,345
-     a moving blade cuts it     
-          into strips.          
+a moving blade cuts it into strips.          
 
 60
 00:03:33,347 --> 00:03:35,214
- this rubber is naturally tacky,
+this rubber is naturally tacky,
 
 61
 00:03:35,216 --> 00:03:37,850
-          so the pieces         
-     can be easily spliced.     
+so the pieces can be easily spliced.     
 
 62
 00:03:40,487 --> 00:03:45,423
-   the system feeds the strips  
-    to tire-building machine.   
+the system feeds the strips to tire-building machine.   
 
 63
 00:03:45,425 --> 00:03:48,694
-    a skilled assembler wraps   
- the strips to the machine drum 
+a skilled assembler wraps the strips to the machine drum 
 
 64
 00:03:48,696 --> 00:03:50,429
-     to form the tire casing    
+to form the tire casing    
 
 65
 00:03:50,431 --> 00:03:53,232
-           and splices          
- the rubber where the ends meet.
+and splices the rubber where the ends meet.
 
 66
 00:03:56,704 --> 00:04:01,173
-     next, robots slide two     
-  wire beads around the casing. 
+next, robots slide two wire beads around the casing. 
 
 67
 00:04:01,175 --> 00:04:03,576
-    the ends of the drum fold   
-     the sides of the casing    
+the ends of the drum fold the sides of the casing    
 
 68
 00:04:03,578 --> 00:04:05,844
-      over the bead wires.      
+over the bead wires.      
 
 69
 00:04:05,846 --> 00:04:08,314
-     the technician applies     
-      rubber-coated fabric      
+the technician applies rubber-coated fabric      
 
 70
 00:04:08,316 --> 00:04:11,283
-       to the bead wires,       
-     strengthening the area.    
+to the bead wires, strengthening the area.    
 
 71
 00:04:13,921 --> 00:04:16,722
-   the tread rubber is placed   
-         in the center.         
+the tread rubber is placed in the center.         
 
 72
 00:04:16,724 --> 00:04:19,992
-    a roller applies pressure   
-        as the drum spins       
+a roller applies pressure as the drum spins       
 
 73
 00:04:19,994 --> 00:04:23,262
-        to wind the tread       
-       around the casing.       
+to wind the tread around the casing.       
 
 74
 00:04:23,264 --> 00:04:27,132
-        then the ends are       
-   pressed together manually.   
+then the ends are pressed together manually.   
 
 75
 00:04:27,134 --> 00:04:30,136
-  and one more turn of the drum 
-    secures the tread rubber    
+and one more turn of the drum secures the tread rubber    
 
 76
 00:04:30,138 --> 00:04:31,871
-         to the casing.         
+to the casing.         
 
 77
 00:04:34,341 --> 00:04:37,076
-    once vent holes have been   
-       cut in the rubber,       
+once vent holes have been cut in the rubber,       
 
 78
 00:04:37,078 --> 00:04:40,846
- it's over to an expanding mold,
-   where the tire takes shape.  
+it's over to an expanding mold,
+where the tire takes shape.  
 
 79
 00:04:45,619 --> 00:04:48,220
- the technician inserts a rubber
-         curing bladder         
+the technician inserts a rubber
+curing bladder         
 
 80
 00:04:48,222 --> 00:04:50,589
-           to maintain          
-     the shape of the tire.     
+to maintain the shape of the tire.     
 
 81
 00:04:55,095 --> 00:04:58,764
 then he places the mountain bike
-     tires in curing molds.     
+tires in curing molds.     
 
 82
 00:04:58,766 --> 00:05:00,499
-     these individual molds     
+these individual molds     
 
 83
 00:05:00,501 --> 00:05:02,635
-    will steam-cook the tires   
-         under pressure         
+will steam-cook the tires under pressure         
 
 84
 00:05:02,637 --> 00:05:04,203
-     to further shape them.     
+to further shape them.     
 
 85
 00:05:07,975 --> 00:05:10,909
-    this process forms knobs    
-      and other protrusions     
+this process forms knobs and other protrusions     
 
 86
 00:05:10,911 --> 00:05:12,378
-       on the tire surface      
+on the tire surface      
 
 87
 00:05:12,380 --> 00:05:14,980
-    that are designed to grip   
-        a rugged terrain.       
+that are designed to grip a rugged terrain.       
 
 88
 00:05:17,117 --> 00:05:20,119
-     like a big waffle iron,    
-      this mold has cooked      
+like a big waffle iron, this mold has cooked      
 
 89
 00:05:20,121 --> 00:05:22,788
-           and formed           
-     the mountain bike tire.    
+and formed the mountain bike tire.    
 
 90
 00:05:22,790 --> 00:05:25,724
-     the tire is then placed    
-       on a rack to cool.       
+the tire is then placed on a rack to cool.       
 
 91
 00:05:29,597 --> 00:05:32,998
-  next, the bike tire undergoes 
-        a durability test       
+next, the bike tire undergoes a durability test       
 
 92
 00:05:33,000 --> 00:05:35,935
-    while a computer measures   
-       rolling resistance.      
+while a computer measures rolling resistance.      
 
 93
 00:05:35,937 --> 00:05:38,871
-     that's the energy lost     
-      when the tire rotates     
+that's the energy lost when the tire rotates     
 
 94
 00:05:38,873 --> 00:05:44,009
-      and an indication of      
- how easily the tire will roll. 
+and an indication of how easily the tire will roll. 
 
 95
 00:05:44,011 --> 00:05:45,344
-     this mountain bike tire    
+this mountain bike tire    
 
 96
 00:05:45,346 --> 00:05:48,814
-         is now cleared         
- to travel off the beaten path. 
+is now cleared to travel off the beaten path. 
 
 97
 00:05:48,816 --> 00:05:51,150
-                     ♪♪         
+♪♪         
 
 98
 00:05:59,293 --> 00:06:04,897
-                     ♪♪         
+♪♪         
 
 99
 00:06:04,899 --> 00:06:06,431
-            narrator:           
-    a leaf and debris vacuum    
+narrator: a leaf and debris vacuum    
 
 100
 00:06:06,433 --> 00:06:10,569
-     automatically collects     
-   all types of fallen debris.  
+automatically collects all types of fallen debris.  
 
 101
 00:06:10,571 --> 00:06:12,638
-    instead of spending hours   
-             raking,            
+instead of spending hours raking,            
 
 102
 00:06:12,640 --> 00:06:15,173
-       this device quickly      
-          does it all,          
+this device quickly does it all,          
 
 103
 00:06:15,175 --> 00:06:17,743
-        making yard work        
-        easier than ever.       
+making yard work easier than ever.       
 
 104
 00:06:21,715 --> 00:06:23,248
-    a leaf and debris vacuum    
+a leaf and debris vacuum    
 
 105
 00:06:23,250 --> 00:06:25,985
-          is powered by         
-     a gas or diesel engine.    
+is powered by a gas or diesel engine.    
 
 106
 00:06:25,987 --> 00:06:27,986
-  the engine spins an impeller, 
+the engine spins an impeller, 
 
 107
 00:06:27,988 --> 00:06:33,659
-    which creates the suction   
-   and also shreds the leaves.  
+which creates the suction and also shreds the leaves.  
 
 108
 00:06:33,661 --> 00:06:37,262
-    the machine is comprised    
-  of about 100 different parts, 
+the machine is comprised of about 100 different parts, 
 
 109
 00:06:37,264 --> 00:06:40,733
-  all cut from 0.11-inch-thick  
-         sheets of steel        
+all cut from 0.11-inch-thick sheets of steel        
 
 110
 00:06:40,735 --> 00:06:44,669
-   using this computer-guided   
-          punch press.          
+using this computer-guided punch press.          
 
 111
 00:06:44,671 --> 00:06:48,073
-  this part is the rear flange  
-    for the impeller housing.   
+this part is the rear flange for the impeller housing.   
 
 112
 00:06:52,013 --> 00:06:55,147
-      to make the side wall     
+to make the side wall     
 of the housing, called the wrap,
 
 113
 00:06:55,149 --> 00:06:57,282
-       a technician bends       
-        this steel strip        
+a technician bends this steel strip        
 
 114
 00:06:57,284 --> 00:06:58,951
-      with a pinch roller.      
+with a pinch roller.      
 
 115
 00:07:02,556 --> 00:07:07,292
-  another technician positions  
-   the wrap on the rear flange  
+another technician positions the wrap on the rear flange  
 
 116
 00:07:07,294 --> 00:07:09,361
-  and tack welds them together. 
+and tack welds them together. 
 
 117
 00:07:09,363 --> 00:07:17,436
-                     ♪♪         
+♪♪         
 
 118
 00:07:17,438 --> 00:07:19,972
-      the craftsman places      
-   the housing's front flange   
+the craftsman places the housing's front flange   
 
 119
 00:07:19,974 --> 00:07:21,373
-       on top of the wrap,      
+on top of the wrap,      
 
 120
 00:07:21,375 --> 00:07:24,109
-       aligns its notches       
-      with the wrap's tabs,     
+aligns its notches with the wrap's tabs,     
 
 121
 00:07:24,111 --> 00:07:26,512
-         and tack welds         
-       the parts together.      
+and tack welds the parts together.      
 
 122
 00:07:26,514 --> 00:07:31,383
-                     ♪♪         
+♪♪         
 
 123
 00:07:31,385 --> 00:07:34,687
-    he completes the housing    
-  with this rectangular piece.  
+he completes the housing with this rectangular piece.  
 
 124
 00:07:37,524 --> 00:07:39,591
-       the shredded leaves      
-        exit the housing        
+the shredded leaves exit the housing        
 
 125
 00:07:39,593 --> 00:07:41,193
-      through this opening.     
+through this opening.     
 
 126
 00:07:41,195 --> 00:07:47,532
-                     ♪♪         
+♪♪         
 
 127
 00:07:47,534 --> 00:07:51,070
-   next, the parts are placed   
-   on a rotary welding table,   
+next, the parts are placed on a rotary welding table,   
 
 128
 00:07:51,072 --> 00:07:53,805
-      and the tacked joints     
-      are welded together.      
+and the tacked joints are welded together.      
 
 129
 00:07:53,807 --> 00:07:58,543
-     the fused seams ensure     
-    the housing is airtight.    
+the fused seams ensure the housing is airtight.    
 
 130
 00:07:58,545 --> 00:08:01,547
-        a computer guides       
- this fiber-optic laser cutter, 
+a computer guides this fiber-optic laser cutter, 
 
 131
 00:08:01,549 --> 00:08:03,348
- slicing out the impeller blades
+slicing out the impeller blades
 
 132
 00:08:03,350 --> 00:08:06,351
-          from a sheet          
-  of abrasion-resistance steel. 
+from a sheet of abrasion-resistance steel. 
 
 133
 00:08:06,353 --> 00:08:08,420
@@ -626,678 +539,582 @@ this steel is four times thicker
 
 134
 00:08:08,422 --> 00:08:10,789
-       than the steel used      
-       for the body parts.      
+than the steel used for the body parts.      
 
 135
 00:08:14,161 --> 00:08:17,429
-  each impeller has four blades 
-        with sharp edges        
+each impeller has four blades with sharp edges        
 
 136
 00:08:17,431 --> 00:08:19,498
-   that help shred the leaves.  
+that help shred the leaves.  
 
 137
 00:08:21,635 --> 00:08:27,172
- the welder mounts the impeller 
-   components onto a fixture.   
+the welder mounts the impeller components onto a fixture.   
 
 138
 00:08:27,174 --> 00:08:29,308
-  each blade has alignment tabs 
+each blade has alignment tabs 
 
 139
 00:08:29,310 --> 00:08:32,644
-     which fit into notches     
-       on a backing plate.      
+which fit into notches on a backing plate.      
 
 140
 00:08:32,646 --> 00:08:35,380
-    after clamping each blade   
-          in position,          
+after clamping each blade in position,          
 
 141
 00:08:35,382 --> 00:08:37,916
-          he fuses them         
-      to the backing plate.     
+he fuses them to the backing plate.     
 
 142
 00:08:37,918 --> 00:08:45,524
-                     ♪♪         
+♪♪         
 
 143
 00:08:45,526 --> 00:08:48,460
-      next, he welds steel      
-      reinforcement straps      
+next, he welds steel reinforcement straps      
 
 144
 00:08:48,462 --> 00:08:51,063
-          between each          
-       of the four blades.      
+between each of the four blades.      
 
 145
 00:08:51,065 --> 00:08:53,532
-     the straps add strength    
-         and stability,         
+the straps add strength and stability,         
 
 146
 00:08:53,534 --> 00:08:56,435
-       thereby increasing       
- the life-span of the impeller. 
+thereby increasing the life-span of the impeller. 
 
 147
 00:09:00,074 --> 00:09:02,007
-         the technician         
-     completes the assembly     
+the technician completes the assembly     
 
 148
 00:09:02,009 --> 00:09:04,877
-  by bolting a compression hub  
-         to the center.         
+by bolting a compression hub to the center.         
 
 149
 00:09:04,879 --> 00:09:07,612
-    the hub holds the engine    
-      crankshaft together,      
+the hub holds the engine crankshaft together,      
 
 150
 00:09:07,614 --> 00:09:09,381
-   which rotates the impeller.  
+which rotates the impeller.  
 
 151
 00:09:12,286 --> 00:09:15,287
-         then he inserts        
-     a simulated crankshaft     
+then he inserts a simulated crankshaft     
 
 152
 00:09:15,289 --> 00:09:17,289
-          and tightens          
-      the compression hub.      
+and tightens the compression hub.      
 
 153
 00:09:21,295 --> 00:09:25,363
-     he places the impeller     
- on this machine to balance it. 
+he places the impeller on this machine to balance it. 
 
 154
 00:09:25,365 --> 00:09:27,499
-       since the impeller       
-       can spin at a speed      
+since the impeller can spin at a speed      
 
 155
 00:09:27,501 --> 00:09:30,636
- of more than 3,000 revolutions 
-           per minute,          
+of more than 3,000 revolutions per minute,          
 
 156
 00:09:30,638 --> 00:09:34,839
-      this step is critical     
+this step is critical     
 for the machine to run smoothly.
 
 157
 00:09:34,841 --> 00:09:38,510
-     to maintain stability,     
-  the welder adds beads of weld 
+to maintain stability, the welder adds beads of weld 
 
 158
 00:09:38,512 --> 00:09:42,014
-       to the lighter side      
-  until the impeller balances.  
+to the lighter side until the impeller balances.  
 
 159
 00:09:44,184 --> 00:09:47,086
-  then he removes the simulated 
-           crankshaft.          
+then he removes the simulated crankshaft.          
 
 160
 00:09:51,258 --> 00:09:55,394
-  meanwhile an assembler mounts 
-  the 29-horsepower gas engine  
+meanwhile an assembler mounts the 29-horsepower gas engine  
 
 161
 00:09:55,396 --> 00:09:58,263
-       to the engine deck       
-      of the trailer frame.     
+to the engine deck of the trailer frame.     
 
 162
 00:09:58,265 --> 00:10:03,869
-  the crankshaft pokes through  
+the crankshaft pokes through  
 a hole in the frame's faceplate.
 
 163
 00:10:03,871 --> 00:10:06,271
- he bolts the impeller housing, 
-     which has been painted,    
+he bolts the impeller housing, which has been painted,    
 
 164
 00:10:06,273 --> 00:10:07,940
-        to the faceplate.       
+to the faceplate.       
 
 165
 00:10:07,942 --> 00:10:15,814
-                     ♪♪         
+♪♪         
 
 166
 00:10:15,816 --> 00:10:18,750
-     the technician installs    
- the impeller on the crankshaft 
+the technician installs the impeller on the crankshaft 
 
 167
 00:10:18,752 --> 00:10:20,419
-        with a shear key.       
+with a shear key.       
 
 168
 00:10:24,692 --> 00:10:27,559
-          then he bolts         
- a protective steel cover plate 
+then he bolts a protective steel cover plate 
 
 169
 00:10:27,561 --> 00:10:30,262
-     and attaches everything    
-      with a central bolt.      
+and attaches everything with a central bolt.      
 
 170
 00:10:34,168 --> 00:10:38,436
- next, he applies a brand decal 
- on the housing's front cover...
+next, he applies a brand decal on the housing's front cover...
 
 171
 00:10:38,438 --> 00:10:43,375
-                     ♪♪         
+♪♪         
 
 172
 00:10:43,377 --> 00:10:47,312
-     ...and bolts the cover     
-         to the housing.        
+...and bolts the cover to the housing.        
 
 173
 00:10:47,314 --> 00:10:51,717
-       when ready for use,      
-   the debris chute, the hose,  
+when ready for use, the debris chute, the hose,  
 
 174
 00:10:51,719 --> 00:10:55,154
-       and the intake hose      
- are attached to the front end. 
+and the intake hose are attached to the front end. 
 
 175
 00:10:57,725 --> 00:11:01,593
-  as this demonstration shows,  
-  the impeller can shred leaves 
+as this demonstration shows, the impeller can shred leaves 
 
 176
 00:11:01,595 --> 00:11:05,964
-   into particles small enough  
-     to be used as compost.     
+into particles small enough to be used as compost.     
 
 177
 00:11:14,675 --> 00:11:19,077
-                     ♪♪         
+♪♪         
 
 178
 00:11:19,947 --> 00:11:21,813
-            narrator:           
-  with so much on their plates, 
+narrator: with so much on their plates, 
 
 179
 00:11:21,815 --> 00:11:26,218
-  busy people rely on shortcuts 
-     to help prepare meals.     
+busy people rely on shortcuts to help prepare meals.     
 
 180
 00:11:26,220 --> 00:11:28,153
-            nowadays,           
-    you can stock your pantry   
+nowadays, you can stock your pantry   
 
 181
 00:11:28,155 --> 00:11:30,355
-   with cans of precooked meat  
+with cans of precooked meat  
 
 182
 00:11:30,357 --> 00:11:33,425
-   so there's always something  
-  on hand to use in sandwiches, 
+so there's always something on hand to use in sandwiches, 
 
 183
 00:11:33,427 --> 00:11:37,196
-       stews, stir-fries,       
-     and other tasty dishes.    
+stews, stir-fries, and other tasty dishes.    
 
 184
 00:11:39,767 --> 00:11:43,035
-       this canned meat is      
-   meticulously hand produced   
+this canned meat is meticulously hand produced   
 
 185
 00:11:43,037 --> 00:11:46,738
-       by a craft cannery       
-   and made in small batches.   
+by a craft cannery and made in small batches.   
 
 186
 00:11:49,042 --> 00:11:52,577
-    it contains no artificial   
-  ingredients or preservatives, 
+it contains no artificial ingredients or preservatives, 
 
 187
 00:11:52,579 --> 00:11:55,113
-     just meat and sea salt.    
+just meat and sea salt.    
 
 188
 00:11:55,115 --> 00:11:57,716
-     when a shipment of meat    
-     arrives at the cannery,    
+when a shipment of meat arrives at the cannery,    
 
 189
 00:11:57,718 --> 00:12:00,652
-   the quality control manager  
-      records its lot code      
+the quality control manager records its lot code      
 
 190
 00:12:00,654 --> 00:12:03,188
-     for tracking purposes.     
+for tracking purposes.     
 
 191
 00:12:03,190 --> 00:12:04,856
-  as a food-safety precaution,  
+as a food-safety precaution,  
 
 192
 00:12:04,858 --> 00:12:07,192
-   he confirms the temperature  
-          of the meat,          
+he confirms the temperature of the meat,          
 
 193
 00:12:07,194 --> 00:12:12,130
-   which must come in between   
-   0 to 39 degrees fahrenheit.  
+which must come in between 0 to 39 degrees fahrenheit.  
 
 194
 00:12:12,132 --> 00:12:15,200
-        a skilled butcher       
-     then inspects the meat     
+a skilled butcher then inspects the meat     
 
 195
 00:12:15,202 --> 00:12:17,402
-  and trims off the excess fat. 
+and trims off the excess fat. 
 
 196
 00:12:17,404 --> 00:12:22,874
-                     ♪♪         
+♪♪         
 
 197
 00:12:22,876 --> 00:12:24,342
-     if it's a large piece,     
+if it's a large piece,     
 
 198
 00:12:24,344 --> 00:12:26,878
-       the butcher slices       
-     it into smaller pieces     
+the butcher slices it into smaller pieces     
 
 199
 00:12:26,880 --> 00:12:29,481
-   so that it can pass through  
-       the dicing machine.      
+so that it can pass through the dicing machine.      
 
 200
 00:12:32,353 --> 00:12:35,687
-     the dicer cuts the meat    
-      into one-inch cubes.      
+the dicer cuts the meat into one-inch cubes.      
 
 201
 00:12:35,689 --> 00:12:42,027
-                     ♪♪         
+♪♪         
 
 202
 00:12:42,029 --> 00:12:43,495
-     at the filling station,    
+at the filling station,    
 
 203
 00:12:43,497 --> 00:12:47,399
-     aluminum cans circulate    
-    around a rotating table.    
+aluminum cans circulate around a rotating table.    
 
 204
 00:12:47,401 --> 00:12:51,503
 as one worker shovels cubed meat
-  onto the center of the table, 
+onto the center of the table, 
 
 205
 00:12:51,505 --> 00:12:53,705
-    others manually fill cans   
+others manually fill cans   
 
 206
 00:12:53,707 --> 00:12:57,442
- while simultaneously performing
-      a quality inspection.     
+while simultaneously performing
+a quality inspection.     
 
 207
 00:12:57,444 --> 00:13:00,512
- workers will discard any cubes 
-       that are discolored      
+workers will discard any cubes that are discolored      
 
 208
 00:13:00,514 --> 00:13:04,049
-          or too fatty.         
+or too fatty.         
 
 209
 00:13:04,051 --> 00:13:07,519
-     next, technicians place    
-    a single cube of sea salt   
+next, technicians place a single cube of sea salt   
 
 210
 00:13:07,521 --> 00:13:09,755
-  in each can filled with meat. 
+in each can filled with meat. 
 
 211
 00:13:12,993 --> 00:13:15,527
-        this is the only        
-        added ingredient.       
+this is the only added ingredient.       
 
 212
 00:13:15,529 --> 00:13:23,935
-                     ♪♪         
+♪♪         
 
 213
 00:13:23,937 --> 00:13:27,539
-  at the next station, workers  
-   weigh each can individually  
+at the next station, workers weigh each can individually  
 
 214
 00:13:27,541 --> 00:13:31,710
-  and either add or remove meat 
-  to reach the required weight. 
+and either add or remove meat to reach the required weight. 
 
 215
 00:13:34,882 --> 00:13:37,616
-         the filled cans        
-  now travel on a conveyer belt 
+the filled cans now travel on a conveyer belt 
 
 216
 00:13:37,618 --> 00:13:40,418
-        to the cook room.       
+to the cook room.       
 
 217
 00:13:40,420 --> 00:13:42,287
-        there, they enter       
-         the pre-heater,        
+there, they enter the pre-heater,        
 
 218
 00:13:42,289 --> 00:13:46,157
-  which blasts them with steam  
-         for 20 seconds.        
+which blasts them with steam for 20 seconds.        
 
 219
 00:13:46,159 --> 00:13:49,528
- this expels air that's trapped 
-   between the cubes of meat.   
+this expels air that's trapped between the cubes of meat.   
 
 220
 00:13:51,698 --> 00:13:55,066
-       next, the cans move      
-    into the closing machine.   
+next, the cans move into the closing machine.   
 
 221
 00:13:55,068 --> 00:13:58,370
- the machine compresses the meat
- to provide sufficient clearance
+the machine compresses the meat
+to provide sufficient clearance
 
 222
 00:13:58,372 --> 00:14:00,171
-     at the top of the can.     
+at the top of the can.     
 
 223
 00:14:00,173 --> 00:14:03,107
-         this head space        
-   creates a vacuum on the can  
+this head space creates a vacuum on the can  
 
 224
 00:14:03,109 --> 00:14:05,911
-           to draw out          
-       the remaining air.       
+to draw out the remaining air.       
 
 225
 00:14:08,648 --> 00:14:10,982
- then a device attaches the lid 
+then a device attaches the lid 
 
 226
 00:14:10,984 --> 00:14:14,252
-          by a process          
-    known as double seaming.    
+by a process known as double seaming.    
 
 227
 00:14:14,254 --> 00:14:18,256
-   the process rolls the edges  
-  of the lid and can together,  
+the process rolls the edges of the lid and can together,  
 
 228
 00:14:18,258 --> 00:14:21,193
-          forming a rim         
- that provides an airtight seal.
+forming a rim that provides an airtight seal.
 
 229
 00:14:24,131 --> 00:14:26,864
-    it's time to get cooking.   
+it's time to get cooking.   
 
 230
 00:14:26,866 --> 00:14:28,467
-    a worker lowers the cans    
+a worker lowers the cans    
 
 231
 00:14:28,469 --> 00:14:31,503
-     into a commercial-sized    
-        pressure cooker.        
+into a commercial-sized pressure cooker.        
 
 232
 00:14:34,475 --> 00:14:36,340
-  cooking under steam pressure  
+cooking under steam pressure  
 
 233
 00:14:36,342 --> 00:14:39,010
 produces the tenderizing effects
-         of slow cooking        
+of slow cooking        
 
 234
 00:14:39,012 --> 00:14:40,946
-   in a fraction of the time.   
+in a fraction of the time.   
 
 235
 00:14:43,817 --> 00:14:46,284
-         the meat cooks         
-       in its own juices.       
+the meat cooks in its own juices.       
 
 236
 00:14:46,286 --> 00:14:49,287
- the cooking temperature varies 
-  depending on the type of meat 
+the cooking temperature varies depending on the type of meat 
 
 237
 00:14:49,289 --> 00:14:51,022
-        and the can size.       
+and the can size.       
 
 238
 00:14:54,627 --> 00:14:58,163
-     when the meat is ready,    
- the technician removes the cans
+when the meat is ready, the technician removes the cans
 
 239
 00:14:58,165 --> 00:15:00,565
-       and sets them aside      
-        for about an hour       
+and sets them aside for about an hour       
 
 240
 00:15:00,567 --> 00:15:01,933
-        to cool and dry.        
+to cool and dry.        
 
 241
 00:15:05,572 --> 00:15:08,440
-     the cans are then moved    
-     to the packaging area.     
+the cans are then moved to the packaging area.     
 
 242
 00:15:10,710 --> 00:15:13,177
-        as a worker loads       
-      the labeling machine,     
+as a worker loads the labeling machine,     
 
 243
 00:15:13,179 --> 00:15:19,183
-      he inspects each can      
-   for dents or damaged seals.  
+he inspects each can for dents or damaged seals.  
 
 244
 00:15:19,185 --> 00:15:22,721
- one by one, the cans roll over 
-       a glue applicator,       
+one by one, the cans roll over a glue applicator,       
 
 245
 00:15:22,723 --> 00:15:24,589
-     then a stack of labels,    
+then a stack of labels,    
 
 246
 00:15:24,591 --> 00:15:27,926
-       wrapping themselves      
-        and the top seal.       
+wrapping themselves and the top seal.       
 
 247
 00:15:27,928 --> 00:15:31,696
-  at the same time, the machine 
-   counts the number of cans.   
+at the same time, the machine counts the number of cans.   
 
 248
 00:15:36,603 --> 00:15:38,736
-        after rolling off       
-      the labeling machine,     
+after rolling off the labeling machine,     
 
 249
 00:15:38,738 --> 00:15:41,273
-      the cans pass through     
-       an ink-jet printer       
+the cans pass through an ink-jet printer       
 
 250
 00:15:41,275 --> 00:15:43,808
-          which applies         
-     the best-used-by date.     
+which applies the best-used-by date.     
 
 251
 00:15:43,810 --> 00:15:48,079
-                     ♪♪         
+♪♪         
 
 252
 00:15:48,081 --> 00:15:50,681
-        that date is next       
-        to the lot code,        
+that date is next to the lot code,        
 
 253
 00:15:50,683 --> 00:15:54,886
-    which the closing machine   
+which the closing machine   
 printed while attaching the lid.
 
 254
 00:15:54,888 --> 00:15:57,822
-        this can of meat        
-   has a five-year shelf life   
+this can of meat has a five-year shelf life   
 
 255
 00:15:57,824 --> 00:16:00,225
-  due to two crucial factors -- 
+due to two crucial factors -- 
 
 256
 00:16:00,227 --> 00:16:04,762
-     it is cooked properly,     
- and the can's seal is airtight.
+it is cooked properly, and the can's seal is airtight.
 
 257
 00:16:04,764 --> 00:16:08,400
-                     ♪♪         
+♪♪         
 
 258
 00:16:16,309 --> 00:16:21,179
-                     ♪♪         
+♪♪         
 
 259
 00:16:21,181 --> 00:16:22,647
-            narrator:           
-        have fish to fry?       
+narrator: have fish to fry?       
 
 260
 00:16:22,649 --> 00:16:24,181
-    if it's fresh and whole,    
+if it's fresh and whole,    
 
 261
 00:16:24,183 --> 00:16:26,518
-         a fillet knife         
-       will come in handy.      
+a fillet knife will come in handy.      
 
 262
 00:16:26,520 --> 00:16:28,786
-       this is no ordinary      
-         kitchen knife,         
+this is no ordinary kitchen knife,         
 
 263
 00:16:28,788 --> 00:16:32,924
-      equipped with a thin,     
- flexible blade and a sharp tip.
+equipped with a thin, flexible blade and a sharp tip.
 
 264
 00:16:32,926 --> 00:16:36,928
- this design allows the user to 
- move easily along the backbone 
+this design allows the user to move easily along the backbone 
 
 265
 00:16:36,930 --> 00:16:38,997
- and under the skin of the meat.
+and under the skin of the meat.
 
 266
 00:16:42,536 --> 00:16:45,403
-         a fillet knife         
-  is a precision cutting tool.  
+a fillet knife is a precision cutting tool.  
 
 267
 00:16:45,405 --> 00:16:46,671
-        it makes the work       
+it makes the work       
 
 268
 00:16:46,673 --> 00:16:51,409
-   of removing bones and skin   
-       from fish possible.      
+of removing bones and skin from fish possible.      
 
 269
 00:16:51,411 --> 00:16:52,944
-      making a fillet knife     
+making a fillet knife     
 
 270
 00:16:52,946 --> 00:16:56,681
-   starts with a sheet of thin  
-  and pliable stainless steel.  
+starts with a sheet of thin and pliable stainless steel.  
 
 271
 00:16:56,683 --> 00:17:01,419
-  a computer-guided laser cuts  
-  the steel into blade blanks.  
+a computer-guided laser cuts the steel into blade blanks.  
 
 272
 00:17:01,421 --> 00:17:04,488
-  a craftsman clamps the blank  
-          in a fixture.         
+a craftsman clamps the blank in a fixture.         
 
 273
 00:17:04,490 --> 00:17:07,492
-   the fixture moves the blank  
-    across a grinding wheel,    
+the fixture moves the blank across a grinding wheel,    
 
 274
 00:17:07,494 --> 00:17:13,231
-  beveling it from the spine to 
- the cutting edge on both sides.
+beveling it from the spine to the cutting edge on both sides.
 
 275
 00:17:13,233 --> 00:17:17,002
-   then sanding belts are used  
-    to shape the blade blank.   
+then sanding belts are used to shape the blade blank.   
 
 276
 00:17:19,839 --> 00:17:22,440
-       a craftsman rounds       
-     the spine of the blank     
+a craftsman rounds the spine of the blank     
 
 277
 00:17:22,442 --> 00:17:24,508
@@ -1305,114 +1122,100 @@ using a rough-grit sanding belt,
 
 278
 00:17:24,510 --> 00:17:27,512
-      eventually graduating     
-         to a finer one.        
+eventually graduating to a finer one.        
 
 279
 00:17:27,514 --> 00:17:33,117
- with a rounder spine, the blade
-    will be safer to handle.    
+with a rounder spine, the blade
+will be safer to handle.    
 
 280
 00:17:33,119 --> 00:17:35,987
-      at the next station,      
-    a craftsman drills a hole   
+at the next station, a craftsman drills a hole   
 
 281
 00:17:35,989 --> 00:17:38,456
-       into a solid block       
-      of composite material     
+into a solid block of composite material     
 
 282
 00:17:38,458 --> 00:17:41,326
-      that contains resin.      
+that contains resin.      
 
 283
 00:17:41,328 --> 00:17:43,928
-       the material is cut      
-      into smaller chunks.      
+the material is cut into smaller chunks.      
 
 284
 00:17:43,930 --> 00:17:47,765
-     each one will be formed    
+each one will be formed    
 into a handle end cap or pommel.
 
 285
 00:17:47,767 --> 00:17:50,535
-   the center hole will house   
-            the tang.           
+the center hole will house the tang.           
 
 286
 00:17:50,537 --> 00:17:54,673
-    he slices other pieces of   
- the material almost wafer thin.
+he slices other pieces of the material almost wafer thin.
 
 287
 00:17:54,675 --> 00:17:58,009
-     they'll become spacers     
-   for the handle's other end.  
+they'll become spacers for the handle's other end.  
 
 288
 00:17:58,011 --> 00:18:00,945
-    these compound parts will   
-   support the center material  
+these compound parts will support the center material  
 
 289
 00:18:00,947 --> 00:18:02,614
-      for the cork handle.      
+for the cork handle.      
 
 290
 00:18:04,818 --> 00:18:09,420
- the craftsman stacks the parts 
-    of the handle on a stand.   
+the craftsman stacks the parts of the handle on a stand.   
 
 291
 00:18:09,422 --> 00:18:12,357
-   he brushes waterproof glue   
-         onto the spacer        
+he brushes waterproof glue onto the spacer        
 
 292
 00:18:12,359 --> 00:18:15,960
- and slides eight pieces of cork
-         onto the prong.        
+and slides eight pieces of cork
+onto the prong.        
 
 293
 00:18:15,962 --> 00:18:18,963
-         he applies glue        
-        between each one.       
+he applies glue between each one.       
 
 294
 00:18:18,965 --> 00:18:21,766
-      he places the pommel      
-        piece on the end.       
+he places the pommel piece on the end.       
 
 295
 00:18:21,768 --> 00:18:23,501
-     since cork is buoyant,     
+since cork is buoyant,     
 
 296
 00:18:23,503 --> 00:18:25,303
-          if the knife          
-      is dropped in water,      
+if the knife is dropped in water,      
 
 297
 00:18:25,305 --> 00:18:29,040
-          it will float         
-  and can be easily retrieved.  
+it will float and can be easily retrieved.  
 
 298
 00:18:29,042 --> 00:18:32,577
 once the glue dries, the handles
-        are transferred,        
+are transferred,        
 
 299
 00:18:32,579 --> 00:18:34,846
-  two at a time, to a fixture.  
+two at a time, to a fixture.  
 
 300
 00:18:34,848 --> 00:18:38,916
 the fixture moves back and forth
-  as a rotor rounds the spacer, 
+as a rotor rounds the spacer, 
 
 301
 00:18:38,918 --> 00:18:41,452
@@ -1420,55 +1223,49 @@ carving the cork and the pommel.
 
 302
 00:18:41,454 --> 00:18:43,855
-      at the next station,      
-         a worker places        
+at the next station, a worker places        
 
 303
 00:18:43,857 --> 00:18:48,460
-        one of the fillet       
+one of the fillet       
 knife blades in a rubber holder.
 
 304
 00:18:48,462 --> 00:18:50,594
-      he clamps the holder      
-          in a fixture,         
+he clamps the holder in a fixture,         
 
 305
 00:18:50,596 --> 00:18:55,132
-    stabilizing the blade for   
+stabilizing the blade for   
 the installation of the bolster.
 
 306
 00:18:55,134 --> 00:18:58,536
-  the bolster is the steel ring 
- that acts as a transition piece
+the bolster is the steel ring that acts as a transition piece
 
 307
 00:18:58,538 --> 00:19:01,072
-  between the blade and handle. 
+between the blade and handle. 
 
 308
 00:19:01,074 --> 00:19:03,074
- then the craftsman applies glue
+then the craftsman applies glue
 
 309
 00:19:03,076 --> 00:19:05,476
-     to the composite spacer    
-         on the handle.         
+to the composite spacer on the handle.         
 
 310
 00:19:05,478 --> 00:19:08,580
-      he slides the handle      
-   onto the tang of the knife.  
+he slides the handle onto the tang of the knife.  
 
 311
 00:19:11,684 --> 00:19:15,353
-   he inserts a hexagonal nut   
-  into the hole and the pommel  
+he inserts a hexagonal nut into the hole and the pommel  
 
 312
 00:19:15,355 --> 00:19:18,423
-     as well as some epoxy.     
+as well as some epoxy.     
 
 313
 00:19:18,425 --> 00:19:20,825
@@ -1476,13 +1273,11 @@ he screws the nut onto the tang,
 
 314
 00:19:20,827 --> 00:19:23,428
-       securing the blade       
-         to the handle.         
+securing the blade to the handle.         
 
 315
 00:19:23,430 --> 00:19:27,899
-       the epoxy provides       
-         reinforcement.         
+the epoxy provides reinforcement.         
 
 316
 00:19:27,901 --> 00:19:32,704
@@ -1491,83 +1286,71 @@ and works on shaping the handle.
 
 317
 00:19:32,706 --> 00:19:35,306
-  he sculpts it with rough-grit 
-           sandpaper.           
+he sculpts it with rough-grit sandpaper.           
 
 318
 00:19:39,913 --> 00:19:42,180
-      he angles the outside     
-         of the pommel,         
+he angles the outside of the pommel,         
 
 319
 00:19:42,182 --> 00:19:46,518
-       making it smoother       
-      and more attractive.      
+making it smoother and more attractive.      
 
 320
 00:19:46,520 --> 00:19:48,853
- switching to a finer abrasive, 
+switching to a finer abrasive, 
 
 321
 00:19:48,855 --> 00:19:51,990
-        he sands the cork       
-  to blend the layers together  
+he sands the cork to blend the layers together  
 
 322
 00:19:51,992 --> 00:19:54,893
-      so they appear to be      
-       one uniform piece.       
+so they appear to be one uniform piece.       
 
 323
 00:19:57,664 --> 00:20:00,331
-      next, a worker drills     
-         into the pommel        
+next, a worker drills into the pommel        
 
 324
 00:20:00,333 --> 00:20:02,800
- to widen and slope the opening.
+to widen and slope the opening.
 
 325
 00:20:02,802 --> 00:20:06,604
-       he pipes more epoxy      
-        into the recess.        
+he pipes more epoxy into the recess.        
 
 326
 00:20:06,606 --> 00:20:08,005
-        he inserts a snap       
+he inserts a snap       
 
 327
 00:20:08,007 --> 00:20:10,809
-        that will be used       
- to retain the knife in a sheath
+that will be used to retain the knife in a sheath
 
 328
 00:20:10,811 --> 00:20:15,813
-      and drives it further     
- into the recess using a press. 
+and drives it further into the recess using a press. 
 
 329
 00:20:15,815 --> 00:20:17,816
-      once the epoxy cures,     
+once the epoxy cures,     
 
 330
 00:20:17,818 --> 00:20:20,552
-          he submerges          
-     the knives into water.     
+he submerges the knives into water.     
 
 331
 00:20:20,554 --> 00:20:24,622
- this step is a test to confirm 
-      the knives can float.     
+this step is a test to confirm the knives can float.     
 
 332
 00:20:24,624 --> 00:20:26,424
-     after the handle dries,    
+after the handle dries,    
 
 333
 00:20:26,426 --> 00:20:28,493
-       the knife undergoes      
-         a final sanding        
+the knife undergoes a final sanding        
 
 334
 00:20:28,495 --> 00:20:30,595
@@ -1575,59 +1358,52 @@ for the user's gripping comfort.
 
 335
 00:20:32,766 --> 00:20:34,833
-   you can see the difference   
-        the sanding makes       
+you can see the difference the sanding makes       
 
 336
 00:20:34,835 --> 00:20:36,568
-   in the knife on the right.   
+in the knife on the right.   
 
 337
 00:20:38,638 --> 00:20:42,373
-  next, the craftsman works on  
+next, the craftsman works on  
 the fillet knife's cutting edge,
 
 338
 00:20:42,375 --> 00:20:44,743
-      sharpening it against     
-         a sanding belt.        
+sharpening it against a sanding belt.        
 
 339
 00:20:46,847 --> 00:20:50,915
-   the blade slices a sheet of  
- paper cleanly without snagging,
+the blade slices a sheet of paper cleanly without snagging,
 
 340
 00:20:50,917 --> 00:20:53,084
-     proving that it's been     
-           well-honed.          
+proving that it's been well-honed.          
 
 341
 00:20:55,321 --> 00:20:59,858
- finally, another worker cleans 
+finally, another worker cleans 
 and lubricates the fillet knife.
 
 342
 00:20:59,860 --> 00:21:01,926
-          she slides it         
-      into a leather sheath     
+she slides it into a leather sheath     
 
 343
 00:21:01,928 --> 00:21:06,130
- and snaps the tab of the sheath
-    to the end of the pommel.   
+and snaps the tab of the sheath
+to the end of the pommel.   
 
 344
 00:21:06,132 --> 00:21:09,667
-  with all the work that's gone 
-     into this fillet knife,    
+with all the work that's gone into this fillet knife,    
 
 345
 00:21:09,669 --> 00:21:14,738
-     the customer will be in    
-  for one tasty, well-cut meal. 
+the customer will be in for one tasty, well-cut meal. 
 
 346
 00:21:14,740 --> 00:21:17,609
-                     ♪♪         
+♪♪         
 

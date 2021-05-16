@@ -1,702 +1,575 @@
 ﻿1
 00:00:01,603 --> 00:00:04,670
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,672 --> 00:00:07,607
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:22,890 --> 00:00:26,291
-           narrator:            
-  today on "how it's made" --   
+narrator: today on "how it's made" --   
 
 4
 00:00:26,293 --> 00:00:28,027
-  ...stile and rail doors...    
+...stile and rail doors...    
 
 5
 00:00:32,233 --> 00:00:33,933
-     ...steam cleaners...       
+...steam cleaners...       
 
 6
 00:00:38,506 --> 00:00:39,939
-    ...hand-held pizzas...      
+...hand-held pizzas...      
 
 7
 00:00:44,178 --> 00:00:45,845
-     ...and power brushes.      
+...and power brushes.      
 
 8
 00:00:53,253 --> 00:00:56,722
-      many doors are made       
-  of a single piece of wood.    
+many doors are made of a single piece of wood.    
 
 9
 00:00:56,724 --> 00:00:59,859
-    but stile and rail doors    
-  contain a rectangular frame   
+but stile and rail doors contain a rectangular frame   
 
 10
 00:00:59,861 --> 00:01:03,062
-           around one           
-    or more central panels.     
+around one or more central panels.     
 
 11
 00:01:03,064 --> 00:01:07,333
-     the term stile refers      
-     to the frame's vertical    
-            pieces.             
+the term stile refers to the frame's vertical pieces.             
 
 12
 00:01:07,335 --> 00:01:10,269
-        and rail refers         
-    to its horizontal ones.     
+and rail refers to its horizontal ones.     
 
 13
 00:01:14,342 --> 00:01:17,876
-  stile and rail doors come in  
-    many different shapes and   
-             sizes.             
+stile and rail doors come in many different shapes and sizes.             
 
 14
 00:01:17,878 --> 00:01:20,612
- they have several components.  
+they have several components.  
 
 15
 00:01:20,614 --> 00:01:23,382
-         some even have         
-    sectioned glass panels.     
+some even have sectioned glass panels.     
 
 16
 00:01:26,354 --> 00:01:30,289
-      they use poplar wood      
-    for paint-grade doors.      
+they use poplar wood for paint-grade doors.      
 
 17
 00:01:30,291 --> 00:01:32,291
- if the door will be stained,   
+if the door will be stained,   
 
 18
 00:01:32,293 --> 00:01:35,361
-   customers can choose from    
-     several different wood     
-            options,            
+customers can choose from several different wood options,            
 
 19
 00:01:35,363 --> 00:01:40,199
-     including oak, cherry,     
- maple, and african mahogany.   
+including oak, cherry, maple, and african mahogany.   
 
 20
 00:01:41,702 --> 00:01:44,770
-   they feed the rough lumber   
-       through a planer.        
+they feed the rough lumber through a planer.        
 
 21
 00:01:44,772 --> 00:01:46,105
-    the first two stations      
+the first two stations      
 
 22
 00:01:46,107 --> 00:01:49,809
-  simultaneously shave the top  
-    and bottom of the wood.     
+simultaneously shave the top and bottom of the wood.     
 
 23
 00:01:53,381 --> 00:01:57,049
-       the third station        
-    has multiple saw blades     
+the third station has multiple saw blades     
 
 24
 00:01:57,051 --> 00:01:59,752
-       that cut the piece       
-     into several strips.       
+that cut the piece into several strips.       
 
 25
 00:02:02,857 --> 00:02:06,492
-   workers line up the strips   
- and coat one side with glue.   
+workers line up the strips and coat one side with glue.   
 
 26
 00:02:11,065 --> 00:02:15,134
-  then they transfer the wood   
- strips to a clamping machine.  
+then they transfer the wood strips to a clamping machine.  
 
 27
 00:02:15,136 --> 00:02:17,936
-      they stack one piece      
-    of linear-strand lumber     
+they stack one piece of linear-strand lumber     
 
 28
 00:02:17,938 --> 00:02:23,341
-   in between the glued sides   
-   of two solid-wood strips.    
+in between the glued sides of two solid-wood strips.    
 
 29
 00:02:23,343 --> 00:02:26,145
-     linear-strand lumber,      
-     called lsl for short,      
+linear-strand lumber, called lsl for short,      
 
 30
 00:02:26,147 --> 00:02:29,682
-      is a piece of lumber      
- made from glued wood fibers.   
+is a piece of lumber made from glued wood fibers.   
 
 31
 00:02:32,687 --> 00:02:35,888
-  the robot holds the assembly  
-     in place for an hour       
+the robot holds the assembly in place for an hour       
 
 32
 00:02:35,890 --> 00:02:38,224
-     until the glue dries.      
+until the glue dries.      
 
 33
 00:02:41,962 --> 00:02:45,630
- then they put this engineered  
-      lumber through a glue     
-           spreader.            
+then they put this engineered lumber through a glue spreader.            
 
 34
 00:02:45,632 --> 00:02:47,833
-        it coats the top        
-      and bottom surfaces       
+it coats the top and bottom surfaces       
 
 35
 00:02:47,835 --> 00:02:50,069
-   with heat-activated glue.    
+with heat-activated glue.    
 
 36
 00:02:53,174 --> 00:02:54,773
-   they sandwich the lumber     
+they sandwich the lumber     
 
 37
 00:02:54,775 --> 00:02:58,044
-   between two thin sheets of   
-              wood              
-        called veneer.          
+between two thin sheets of wood called veneer.          
 
 38
 00:02:58,046 --> 00:02:59,178
-    for a paint-grade door,     
+for a paint-grade door,     
 
 39
 00:02:59,180 --> 00:03:01,981
-   they use ultra-thin mdf,     
+they use ultra-thin mdf,     
 
 40
 00:03:01,983 --> 00:03:04,416
-   medium-density fiberboard,   
-           instead.             
+medium-density fiberboard, instead.             
 
 41
 00:03:04,418 --> 00:03:06,852
-  mdf is a man-made material    
+mdf is a man-made material    
 
 42
 00:03:06,854 --> 00:03:10,055
-         with a smooth,         
-    paint-friendly surface.     
+with a smooth, paint-friendly surface.     
 
 43
 00:03:10,057 --> 00:03:13,859
-   they place the pieces into   
- a hot press for two minutes.   
+they place the pieces into a hot press for two minutes.   
 
 44
 00:03:13,861 --> 00:03:15,995
- the heat activates the glue,   
+the heat activates the glue,   
 
 45
 00:03:15,997 --> 00:03:19,498
-  while the pressure flattens   
+while the pressure flattens   
 the veneer against the lumber.  
 
 46
 00:03:21,668 --> 00:03:25,371
-    these pieces will become    
- the door's stiles and rails.   
+these pieces will become the door's stiles and rails.   
 
 47
 00:03:27,074 --> 00:03:31,377
-  the panels inside the stiles  
-  and rails are made of mdf.    
+the panels inside the stiles and rails are made of mdf.    
 
 48
 00:03:34,749 --> 00:03:36,415
-      for a stained door,       
+for a stained door,       
 
 49
 00:03:36,417 --> 00:03:39,818
-    workers apply the veneer    
-     before they contour the    
-            pieces.             
+workers apply the veneer before they contour the pieces.             
 
 50
 00:03:39,820 --> 00:03:43,355
-    workers carve the pieces    
-    using a shaper machine.     
+workers carve the pieces using a shaper machine.     
 
 51
 00:03:43,357 --> 00:03:47,393
-  they change the machine heads 
-               in               
-     order to cut different     
-            designs.            
+they change the machine heads in order to cut different designs.            
 
 52
 00:03:50,565 --> 00:03:53,265
-          the workers           
-     used a different shaper    
-            machine             
+the workers used a different shaper machine             
 
 53
 00:03:53,267 --> 00:03:56,635
-    to carve the inside edge    
-        of the stiles.          
+to carve the inside edge of the stiles.          
 
 54
 00:03:56,637 --> 00:03:58,637
-    they also drilled holes     
-        for the dowels          
+they also drilled holes for the dowels          
 
 55
 00:03:58,639 --> 00:04:00,773
-    of the adjoining rails.     
+of the adjoining rails.     
 
 56
 00:04:00,775 --> 00:04:02,441
-       they apply glue,         
+they apply glue,         
 
 57
 00:04:02,443 --> 00:04:06,912
-    then attach the matching    
-             bottom             
-   rail to the first stile.     
+then attach the matching bottom rail to the first stile.     
 
 58
 00:04:06,914 --> 00:04:11,316
-   they insert the panel into   
-    a groove in the rail and    
-             stile.             
+they insert the panel into a groove in the rail and stile.             
 
 59
 00:04:11,318 --> 00:04:13,786
-      they are assembling       
-       a two-panel door.        
+they are assembling a two-panel door.        
 
 60
 00:04:13,788 --> 00:04:17,456
-   so next, they fit a middle   
-              rail              
-      and another panel.        
+so next, they fit a middle rail and another panel.        
 
 61
 00:04:19,726 --> 00:04:23,929
-    they install a top rail     
-  and then the second stile.    
+they install a top rail and then the second stile.    
 
 62
 00:04:26,267 --> 00:04:28,533
-           they place           
-   the newly-assembled door     
+they place the newly-assembled door     
 
 63
 00:04:28,535 --> 00:04:30,770
- in a large clamping machine.   
+in a large clamping machine.   
 
 64
 00:04:37,211 --> 00:04:39,344
-   it applies pressure on the   
-              door              
-          for an hour           
+it applies pressure on the door for an hour           
 
 65
 00:04:39,346 --> 00:04:41,547
-     while the glue dries.      
+while the glue dries.      
 
 66
 00:04:46,854 --> 00:04:50,555
- the machine transfers the door 
-      to a cutting table.       
+the machine transfers the door to a cutting table.       
 
 67
 00:04:50,557 --> 00:04:55,127
-   then a computer-guided saw   
-              trims             
-    the top and bottom of the   
-             door.              
+then a computer-guided saw trims the top and bottom of the door.              
 
 68
 00:04:57,965 --> 00:04:59,832
-      the machine switches      
-      to a different tool       
+the machine switches to a different tool       
 
 69
 00:04:59,834 --> 00:05:04,236
-      that bevels the edge      
-         of the door.           
+that bevels the edge of the door.           
 
 70
 00:05:04,238 --> 00:05:05,770
-    it switches tools again     
+it switches tools again     
 
 71
 00:05:05,772 --> 00:05:09,641
-        and drills holes        
-   for the door's hardware.     
+and drills holes for the door's hardware.     
 
 72
 00:05:09,643 --> 00:05:13,078
-    the stile and rail door     
-  is now ready for finishing.   
+the stile and rail door is now ready for finishing.   
 
 73
 00:05:16,450 --> 00:05:18,851
-   workers sand the surface     
+workers sand the surface     
 
 74
 00:05:18,853 --> 00:05:21,854
-         to prepare it          
-     for either staining or     
-           painting.            
+to prepare it for either staining or painting.            
 
 75
 00:05:26,928 --> 00:05:28,527
-    then the stained doors      
+then the stained doors      
 
 76
 00:05:28,529 --> 00:05:33,732
-    receive a coat of sealer    
-     and two coats of clear     
-            lacquer.            
+receive a coat of sealer and two coats of clear lacquer.            
 
 77
 00:05:33,734 --> 00:05:37,069
-         this protects          
-      the wood's surface.       
+this protects the wood's surface.       
 
 78
 00:05:37,071 --> 00:05:39,405
-        the panels used         
-    in stile and rail doors     
+the panels used in stile and rail doors     
 
 79
 00:05:39,407 --> 00:05:41,273
-   are never glued in place.    
+are never glued in place.    
 
 80
 00:05:41,275 --> 00:05:45,010
-  they sit inside the frame.    
+they sit inside the frame.    
 
 81
 00:05:45,012 --> 00:05:49,281
- this leaves space for the wood 
-  and mdf to naturally expand   
+this leaves space for the wood and mdf to naturally expand   
 
 82
 00:05:49,283 --> 00:05:51,951
-        without warping         
-     or cracking the door.      
+without warping or cracking the door.      
 
 83
 00:06:06,099 --> 00:06:07,766
-    narrator: in the 1960s,     
+narrator: in the 1960s,     
 
 84
 00:06:07,768 --> 00:06:11,436
-  italian boilermakers figured  
-               out              
+italian boilermakers figured out              
 how to harness steam to clean.  
 
 85
 00:06:11,438 --> 00:06:14,106
-  steam cleaning is much safer  
-   than traditional methods     
+steam cleaning is much safer than traditional methods     
 
 86
 00:06:14,108 --> 00:06:17,042
-   because dirt and bacteria    
-       can be eliminated        
+because dirt and bacteria can be eliminated        
 
 87
 00:06:17,044 --> 00:06:19,311
-        without the use         
-     of harmful chemicals.      
+without the use of harmful chemicals.      
 
 88
 00:06:19,313 --> 00:06:21,579
-         high-pressure,         
- low-moisture steam is enough   
+high-pressure, low-moisture steam is enough   
 
 89
 00:06:21,581 --> 00:06:24,283
-    to vaporize most germs.     
+to vaporize most germs.     
 
 90
 00:06:27,188 --> 00:06:28,787
- the water in a steam cleaner   
+the water in a steam cleaner   
 
 91
 00:06:28,789 --> 00:06:31,589
-           is heated            
-       to over 200 degrees      
-          fahrenheit.           
+is heated to over 200 degrees fahrenheit.           
 
 92
 00:06:31,591 --> 00:06:36,595
-        it's safe to use        
-      on both hard and soft     
-           surfaces.            
+it's safe to use on both hard and soft surfaces.            
 
 93
 00:06:36,597 --> 00:06:39,598
-    steam cleaners start out    
-     as a computer design.      
+steam cleaners start out as a computer design.      
 
 94
 00:06:39,600 --> 00:06:41,000
-  this is a commercial model    
+this is a commercial model    
 
 95
 00:06:41,002 --> 00:06:43,869
-       that will be used        
- to clean hotels, restaurants,  
+that will be used to clean hotels, restaurants,  
 
 96
 00:06:43,871 --> 00:06:47,406
-     offices, and schools.      
+offices, and schools.      
 
 97
 00:06:47,408 --> 00:06:51,644
- they make the components using 
+they make the components using 
 polycarbonate plastic pellets.  
 
 98
 00:06:53,013 --> 00:06:56,681
-       a molding machine        
-      heats the plastic,        
+a molding machine heats the plastic,        
 
 99
 00:06:56,683 --> 00:06:59,051
-  then injects it into molds.   
+then injects it into molds.   
 
 100
 00:07:02,823 --> 00:07:06,425
-      the plastic hardens       
-   into the shape of parts.     
+the plastic hardens into the shape of parts.     
 
 101
 00:07:06,427 --> 00:07:09,561
-     this one is the cover      
-     for the steam cleaner's    
-            boiler.             
+this one is the cover for the steam cleaner's boiler.             
 
 102
 00:07:11,699 --> 00:07:15,000
-  a robot with vacuum-suction   
-  grippers extracts the cover   
+a robot with vacuum-suction grippers extracts the cover   
 
 103
 00:07:15,002 --> 00:07:18,771
-        from the mold.          
+from the mold.          
 
 104
 00:07:18,773 --> 00:07:19,972
-    they mold other parts,      
+they mold other parts,      
 
 105
 00:07:19,974 --> 00:07:22,374
-      including the base,       
-       extension tubes,         
+including the base, extension tubes,         
 
 106
 00:07:22,376 --> 00:07:26,711
-   handles, and hooks the same  
-              way.              
+handles, and hooks the same way.              
 
 107
 00:07:26,713 --> 00:07:31,583
-       a worker installs a      
-           water-level          
-  probe on the steel boiler.    
+a worker installs a water-level probe on the steel boiler.    
 
 108
 00:07:31,585 --> 00:07:34,920
-  he also screws on a fitting   
-      for the fill hose.        
+he also screws on a fitting for the fill hose.        
 
 109
 00:07:37,725 --> 00:07:40,725
- he adds two solenoid valves.   
+he adds two solenoid valves.   
 
 110
 00:07:40,727 --> 00:07:44,663
- they turn the steam on and off 
-  and control its intensity.    
+they turn the steam on and off and control its intensity.    
 
 111
 00:07:44,665 --> 00:07:48,133
-   then he places the boiler    
-       in a test device.        
+then he places the boiler in a test device.        
 
 112
 00:07:48,135 --> 00:07:50,536
-      the device verifies       
-   that the electrical parts    
+the device verifies that the electrical parts    
 
 113
 00:07:50,538 --> 00:07:53,205
-    are insulated properly.     
+are insulated properly.     
 
 114
 00:07:53,207 --> 00:07:58,610
-    he tightens the solenoid    
-             valves             
- to complete the installation.  
+he tightens the solenoid valves to complete the installation.  
 
 115
 00:07:58,612 --> 00:08:00,946
-        after the hoses         
-  are attached to the boiler,   
+after the hoses are attached to the boiler,   
 
 116
 00:08:00,948 --> 00:08:03,582
-   they place it in the base    
-     of the steam cleaner.      
+they place it in the base of the steam cleaner.      
 
 117
 00:08:05,553 --> 00:08:08,286
-         a worker plugs         
-  in the electrical contacts.   
+a worker plugs in the electrical contacts.   
 
 118
 00:08:08,288 --> 00:08:11,423
-        they will power         
-  the steam hose's controls.    
+they will power the steam hose's controls.    
 
 119
 00:08:11,425 --> 00:08:13,892
-   then he connects the steam   
-              hose              
-         to a fitting           
+then he connects the steam hose to a fitting           
 
 120
 00:08:13,894 --> 00:08:15,794
-     next to the contacts.      
+next to the contacts.      
 
 121
 00:08:19,032 --> 00:08:22,868
-    he tightens a metal clip    
-             around             
-       it to reinforce the      
-          connection.           
+he tightens a metal clip around it to reinforce the connection.           
 
 122
 00:08:27,374 --> 00:08:29,374
-       he links the main        
-       electronic board         
+he links the main electronic board         
 
 123
 00:08:29,376 --> 00:08:32,711
-   to temperature sensors that  
-              have              
- been installed on the boiler.  
+to temperature sensors that have been installed on the boiler.  
 
 124
 00:08:36,584 --> 00:08:41,320
-     the worker also wires      
-  the steam-pressure sensors.   
+the worker also wires the steam-pressure sensors.   
 
 125
 00:08:41,322 --> 00:08:46,524
-    he covers the top of the    
-             boiler             
-   with melamine insulation.    
+he covers the top of the boiler with melamine insulation.    
 
 126
 00:08:46,526 --> 00:08:50,796
-        then he slides a        
-         heat-resistant         
+then he slides a heat-resistant         
 plastic cover over the boiler.  
 
 127
 00:08:53,867 --> 00:08:56,001
-   he attaches the fill hose    
-        to the fitting          
+he attaches the fill hose to the fitting          
 
 128
 00:08:56,003 --> 00:08:57,836
-   on the top of the boiler.    
+on the top of the boiler.    
 
 129
 00:09:02,476 --> 00:09:05,511
-   he connects the other end    
-      to the water tank.        
+he connects the other end to the water tank.        
 
 130
 00:09:08,749 --> 00:09:14,419
-   the worker equips the tank   
- with two water-level sensors.  
+the worker equips the tank with two water-level sensors.  
 
 131
 00:09:14,421 --> 00:09:18,490
-      he hooks up a gauge       
-    for the steam pressure.     
+he hooks up a gauge for the steam pressure.     
 
 132
 00:09:18,492 --> 00:09:20,426
-     then he fills the tank     
-          with water            
+then he fills the tank with water            
 
 133
 00:09:20,428 --> 00:09:22,561
- and tests the steam cleaner.   
+and tests the steam cleaner.   
 
 134
 00:09:24,698 --> 00:09:29,635
-     he uses a small mirror     
-      to check for leaks.       
+he uses a small mirror to check for leaks.       
 
 135
 00:09:29,637 --> 00:09:34,573
-         another worker         
-   assembles the steam gun.     
+another worker assembles the steam gun.     
 
 136
 00:09:34,575 --> 00:09:38,576
-  he attaches a plastic joint   
-      to the steam hose,        
+he attaches a plastic joint to the steam hose,        
 
 137
 00:09:38,578 --> 00:09:41,080
-     then installs a nozzle     
-          on the end.           
+then installs a nozzle on the end.           
 
 138
 00:09:43,184 --> 00:09:47,119
-  he slides the joint forward   
- to surround the spray nozzle   
+he slides the joint forward to surround the spray nozzle   
 
 139
 00:09:47,121 --> 00:09:50,655
-   and screws a plastic wand    
-   to the end of the joint.     
+and screws a plastic wand to the end of the joint.     
 
 140
 00:09:50,657 --> 00:09:54,259
- he tucks the hose on one side  
+he tucks the hose on one side  
 of the handle's plastic casing  
 
 141
 00:09:54,261 --> 00:09:56,662
-    and installs a trigger.     
+and installs a trigger.     
 
 142
 00:09:56,664 --> 00:10:00,865
-  then he snaps on the cover.   
+then he snaps on the cover.   
 
 143
 00:10:00,867 --> 00:10:03,735
@@ -704,72 +577,59 @@ he screws the handle together.
 
 144
 00:10:03,737 --> 00:10:07,405
-   he connects the steam gun    
-      to the boiler unit.       
+he connects the steam gun to the boiler unit.       
 
 145
 00:10:07,407 --> 00:10:08,807
-        he turns it on.         
+he turns it on.         
 
 146
 00:10:08,809 --> 00:10:10,876
-   and the sprayer shoots out   
-    a hot, pressurized mist     
+and the sprayer shoots out a hot, pressurized mist     
 
 147
 00:10:10,878 --> 00:10:13,278
-      known as dry steam.       
+known as dry steam.       
 
 148
 00:10:13,280 --> 00:10:14,947
-     its moisture content       
+its moisture content       
 
 149
 00:10:14,949 --> 00:10:19,618
-      is only 5%, allowing      
-     cleaned surfaces to dry    
-            quickly.            
+is only 5%, allowing cleaned surfaces to dry quickly.            
 
 150
 00:10:19,620 --> 00:10:22,488
-       the steam cleaner        
-   also comes with a vacuum.    
+the steam cleaner also comes with a vacuum.    
 
 151
 00:10:22,490 --> 00:10:26,959
-   it sucks up residual water   
-     and dirt after a steam     
-           cleaning.            
+it sucks up residual water and dirt after a steam cleaning.            
 
 152
 00:10:26,961 --> 00:10:29,961
-  he attaches the vacuum motor  
-        to the filter.          
+he attaches the vacuum motor to the filter.          
 
 153
 00:10:29,963 --> 00:10:33,498
- he places the motor and filter 
-    into the base canister      
+he places the motor and filter into the base canister      
 
 154
 00:10:33,500 --> 00:10:36,969
-     and locks the assembly     
-            together            
-   with clips at the sides.     
+and locks the assembly together with clips at the sides.     
 
 155
 00:10:38,972 --> 00:10:42,241
-      the worker transfers      
- the steam cleaner to a cart.   
+the worker transfers the steam cleaner to a cart.   
 
 156
 00:10:47,715 --> 00:10:50,315
- once the vacuum is on board,   
+once the vacuum is on board,   
 
 157
 00:10:50,317 --> 00:10:56,054
- this duo is ready to eradicate 
- dirt, grease, and pathogens.   
+this duo is ready to eradicate dirt, grease, and pathogens.   
 
 158
 00:10:59,994 --> 00:11:02,794
@@ -777,63 +637,52 @@ just aim and pull the trigger.
 
 159
 00:11:02,796 --> 00:11:05,464
-  the steam will do the rest.   
+the steam will do the rest.   
 
 160
 00:11:23,550 --> 00:11:28,152
-   narrator: a slice of pizza   
+narrator: a slice of pizza   
 isn't always a portable snack.  
 
 161
 00:11:28,154 --> 00:11:32,690
-   the toppings can slide off   
-    while you're eating it.     
+the toppings can slide off while you're eating it.     
 
 162
 00:11:32,692 --> 00:11:36,695
-  these hand-held, individual   
-  pizzas solve that problem.    
+these hand-held, individual pizzas solve that problem.    
 
 163
 00:11:36,697 --> 00:11:40,299
-     the toppings are safely    
-             encased            
-    inside the pizza dough.     
+the toppings are safely encased inside the pizza dough.     
 
 164
 00:11:43,637 --> 00:11:48,573
-   hand-held pizzas are small   
-    enough for kids to easily   
-             hold.              
+hand-held pizzas are small enough for kids to easily hold.              
 
 165
 00:11:48,575 --> 00:11:50,309
-          they're made          
-    without preservatives,      
+they're made without preservatives,      
 
 166
 00:11:50,311 --> 00:11:52,711
-    and all the ingredients     
-         are organic,           
+and all the ingredients are organic,           
 
 167
 00:11:52,713 --> 00:11:57,582
- making them the perfect frozen 
-  snack for hungry children.    
+making them the perfect frozen snack for hungry children.    
 
 168
 00:11:57,584 --> 00:12:00,052
-      one main ingredient       
-        is cauliflower.         
+one main ingredient is cauliflower.         
 
 169
 00:12:00,054 --> 00:12:02,254
-       it packs a strong        
-       nutritional punch        
+it packs a strong nutritional punch        
 
 170
 00:12:02,256 --> 00:12:05,791
- without altering the flavor.   
+without altering the flavor.   
 
 171
 00:12:05,793 --> 00:12:07,392
@@ -841,305 +690,244 @@ cauliflower is low in calories
 
 172
 00:12:07,394 --> 00:12:11,196
-      but high in vitamins,     
-            minerals,           
-      and dietary fiber.        
+but high in vitamins, minerals, and dietary fiber.        
 
 173
 00:12:11,198 --> 00:12:14,266
-         it also helps          
-     thicken the filling.       
+it also helps thicken the filling.       
 
 174
 00:12:14,268 --> 00:12:16,001
-   after removing the stems,    
+after removing the stems,    
 
 175
 00:12:16,003 --> 00:12:19,471
-       the cooks boil the       
-     cauliflower heads until    
-            tender.             
+the cooks boil the cauliflower heads until tender.             
 
 176
 00:12:19,473 --> 00:12:22,140
- they remove them from the pot  
-     with a slotted spoon       
+they remove them from the pot with a slotted spoon       
 
 177
 00:12:22,142 --> 00:12:26,411
- to let the water drain away.   
+to let the water drain away.   
 
 178
 00:12:26,413 --> 00:12:29,715
-   they puree the cauliflower   
-     in a food processor.       
+they puree the cauliflower in a food processor.       
 
 179
 00:12:33,353 --> 00:12:37,155
-      the cooks also boil       
-  and puree butternut squash,   
+the cooks also boil and puree butternut squash,   
 
 180
 00:12:37,157 --> 00:12:39,624
-         which is full          
-   of vitamin a, vitamin c,     
+which is full of vitamin a, vitamin c,     
 
 181
 00:12:39,626 --> 00:12:41,893
-   and many other nutrients.    
+and many other nutrients.    
 
 182
 00:12:41,895 --> 00:12:44,762
-        the squash puree        
- slightly sweetens the filling  
+the squash puree slightly sweetens the filling  
 
 183
 00:12:44,764 --> 00:12:48,166
-     and helps thicken it.      
+and helps thicken it.      
 
 184
 00:12:48,168 --> 00:12:50,234
-       other ingredients        
- that go into the filling are   
+other ingredients that go into the filling are   
 
 185
 00:12:50,236 --> 00:12:53,572
-         tomato paste,          
-     parmesan and mozzarella    
-            cheeses,            
+tomato paste, parmesan and mozzarella cheeses,            
 
 186
 00:12:53,574 --> 00:12:57,342
-    potato flakes, sea salt,    
-      spices, and water.        
+potato flakes, sea salt, spices, and water.        
 
 187
 00:13:00,180 --> 00:13:02,780
-      after measuring out       
-     the required amounts,      
+after measuring out the required amounts,      
 
 188
 00:13:02,782 --> 00:13:06,184
-  workers pour the ingredients  
-      into a large bowl.        
+workers pour the ingredients into a large bowl.        
 
 189
 00:13:16,063 --> 00:13:18,262
-      they manually blend       
-        the ingredients         
+they manually blend the ingredients         
 
 190
 00:13:18,264 --> 00:13:22,267
-   with a large whisk to keep   
- the filling's texture coarse.  
+with a large whisk to keep the filling's texture coarse.  
 
 191
 00:13:26,539 --> 00:13:28,873
-        the pizza dough         
-   is made with wheat flour,    
+the pizza dough is made with wheat flour,    
 
 192
 00:13:28,875 --> 00:13:33,144
- unbleached all-purpose flour,  
-       and baking soda.         
+unbleached all-purpose flour, and baking soda.         
 
 193
 00:13:33,146 --> 00:13:35,080
-         they also add          
-     palm fruit shortening      
+they also add palm fruit shortening      
 
 194
 00:13:35,082 --> 00:13:39,617
-           and water            
-  to make the dough pliable.    
+and water to make the dough pliable.    
 
 195
 00:13:39,619 --> 00:13:44,422
-      they combine all the      
-           ingredients          
-          in a mixer.           
+they combine all the ingredients in a mixer.           
 
 196
 00:13:44,424 --> 00:13:47,426
-      the mixer blends the      
-           ingredients          
-          thoroughly            
+the mixer blends the ingredients thoroughly            
 
 197
 00:13:47,428 --> 00:13:50,162
-        until the dough         
+until the dough         
 reaches the right consistency.  
 
 198
 00:13:53,233 --> 00:13:56,034
-         after mixing,          
-   they let the dough rest.     
+after mixing, they let the dough rest.     
 
 199
 00:14:02,710 --> 00:14:06,478
-      next, they transform      
-    the blocks of dough into    
-            sheets.             
+next, they transform the blocks of dough into sheets.             
 
 200
 00:14:10,784 --> 00:14:12,718
-           they place           
-   an 8-inch block of dough     
+they place an 8-inch block of dough     
 
 201
 00:14:12,720 --> 00:14:16,855
-          on a machine          
-   called the dough sheeter.    
+on a machine called the dough sheeter.    
 
 202
 00:14:16,857 --> 00:14:19,390
- the dough moves back and forth 
-       beneath a roller         
+the dough moves back and forth beneath a roller         
 
 203
 00:14:19,392 --> 00:14:22,728
-       until it's flat.         
+until it's flat.         
 
 204
 00:14:22,730 --> 00:14:26,365
-  they add flour so the dough   
-  won't stick to the roller.    
+they add flour so the dough won't stick to the roller.    
 
 205
 00:14:32,272 --> 00:14:36,007
-    a worker winds the sheet    
-     of dough onto a spool      
+a worker winds the sheet of dough onto a spool      
 
 206
 00:14:36,009 --> 00:14:38,844
-        and transfers it        
-    to the processing line.     
+and transfers it to the processing line.     
 
 207
 00:14:42,882 --> 00:14:45,683
-    here, four rotary blades    
-        trim the sides          
+here, four rotary blades trim the sides          
 
 208
 00:14:45,685 --> 00:14:48,420
-      and divide the sheet      
-      into three strips.        
+and divide the sheet into three strips.        
 
 209
 00:14:48,422 --> 00:14:51,289
-   spray nozzles lightly mist   
-     the dough with water       
+spray nozzles lightly mist the dough with water       
 
 210
 00:14:51,291 --> 00:14:53,691
-      to keep it pliable.       
+to keep it pliable.       
 
 211
 00:14:53,693 --> 00:14:57,295
-     a machine dispenses the    
-             filling            
- at perfectly timed intervals.  
+a machine dispenses the filling at perfectly timed intervals.  
 
 212
 00:14:57,297 --> 00:14:59,564
-       it adds one ounce        
-     of filling per pizza       
+it adds one ounce of filling per pizza       
 
 213
 00:14:59,566 --> 00:15:02,234
-  to one side of each strip.    
+to one side of each strip.    
 
 214
 00:15:02,236 --> 00:15:07,239
-        then the machine        
-  folds the other side over.    
+then the machine folds the other side over.    
 
 215
 00:15:07,241 --> 00:15:11,843
-   a crimping wheel seals the   
-              edge              
-    to encase the filling.      
+a crimping wheel seals the edge to encase the filling.      
 
 216
 00:15:11,845 --> 00:15:14,111
-   they add more flour on top   
-        so the crimper          
+they add more flour on top so the crimper          
 
 217
 00:15:14,113 --> 00:15:17,849
- and rotary cutters can easily  
-  trim off the excess dough.    
+and rotary cutters can easily trim off the excess dough.    
 
 218
 00:15:22,589 --> 00:15:24,989
-        a chopping blade        
-  separates the filled dough    
+a chopping blade separates the filled dough    
 
 219
 00:15:24,991 --> 00:15:27,792
-    into individual pizzas.     
+into individual pizzas.     
 
 220
 00:15:27,794 --> 00:15:32,797
-        then the crimper        
-     seals the third edge.      
+then the crimper seals the third edge.      
 
 221
 00:15:32,799 --> 00:15:36,801
-  workers transfer the pizzas   
-  by hand onto baking sheets.   
+workers transfer the pizzas by hand onto baking sheets.   
 
 222
 00:15:36,803 --> 00:15:40,372
-  they're lined with parchment  
-  paper to prevent sticking.    
+they're lined with parchment paper to prevent sticking.    
 
 223
 00:15:44,143 --> 00:15:47,812
-   then they bake the pizzas    
-          in an oven.           
+then they bake the pizzas in an oven.           
 
 224
 00:15:47,814 --> 00:15:51,349
-   as soon as they come out,    
-     they're flash-frozen.      
+as soon as they come out, they're flash-frozen.      
 
 225
 00:15:53,887 --> 00:15:57,155
-     this rapid deep-freeze     
-    locks in the nutrients      
+this rapid deep-freeze locks in the nutrients      
 
 226
 00:15:57,157 --> 00:16:00,225
-    and makes preservatives     
-         unnecessary.           
+and makes preservatives unnecessary.           
 
 227
 00:16:00,227 --> 00:16:03,628
-      the frozen pizzas go      
-    straight to the packaging   
-             room.              
+the frozen pizzas go straight to the packaging room.              
 
 228
 00:16:03,630 --> 00:16:07,098
-    it's refrigerated so the    
-             pizzas             
-     won't begin to thaw.       
+it's refrigerated so the pizzas won't begin to thaw.       
 
 229
 00:16:07,100 --> 00:16:10,968
-   the equipment individually   
-  wraps the pizzas in plastic   
+the equipment individually wraps the pizzas in plastic   
 
 230
 00:16:10,970 --> 00:16:15,773
-   then packages them, two per  
-              box.              
+then packages them, two per box.              
 
 231
 00:16:15,775 --> 00:16:18,109
-        after 60 seconds        
-       in the microwave,        
+after 60 seconds in the microwave,        
 
 232
 00:16:18,111 --> 00:16:21,379
@@ -1147,374 +935,307 @@ these pizzas are ready to eat.
 
 233
 00:16:21,381 --> 00:16:23,781
-    the thick filling doesn't   
-             drip,              
+the thick filling doesn't drip,              
 
 234
 00:16:23,783 --> 00:16:26,618
-          making them           
-  the perfect meal on the go.   
+making them the perfect meal on the go.   
 
 235
 00:16:41,401 --> 00:16:44,803
-           narrator:            
-   wire power brushes rotate  a 
+narrator: wire power brushes rotate  a 
 
 236
 00:16:44,805 --> 00:16:47,405
-     without damaging it.       
+without damaging it.       
 
 237
 00:16:47,407 --> 00:16:50,741
-     these industrial tools     
+these industrial tools     
 can scrub off almost anything,  
 
 238
 00:16:50,743 --> 00:16:54,412
-    including weld splatter,    
-       rust, and paint.         
+including weld splatter, rust, and paint.         
 
 239
 00:16:54,414 --> 00:16:56,548
-   they can also smooth away    
-          sharp edges           
+they can also smooth away sharp edges           
 
 240
 00:16:56,550 --> 00:16:59,050
-    and protrusions known as    
-             burrs.             
+and protrusions known as burrs.             
 
 241
 00:17:02,956 --> 00:17:07,058
-   wire power brushes come in   
-    many different shapes and   
-             sizes.             
+wire power brushes come in many different shapes and sizes.             
 
 242
 00:17:09,229 --> 00:17:12,163
-    the bristles are either     
-      knotted or crimped.       
+the bristles are either knotted or crimped.       
 
 243
 00:17:12,165 --> 00:17:17,769
-   there's a wire power brush   
- for every metal-cleaning job.  
+there's a wire power brush for every metal-cleaning job.  
 
 244
 00:17:17,771 --> 00:17:20,572
-        automated tools         
-  work with pinpoint accuracy   
+automated tools work with pinpoint accuracy   
 
 245
 00:17:20,574 --> 00:17:24,508
-     to create a wire brush     
-    with knotted bristles.      
+to create a wire brush with knotted bristles.      
 
 246
 00:17:24,510 --> 00:17:28,779
-  a tool inserts 22 wires into  
- each hole of the steel disk.   
+a tool inserts 22 wires into each hole of the steel disk.   
 
 247
 00:17:28,781 --> 00:17:32,317
-       the wires are made       
-     of high-carbon steel.      
+the wires are made of high-carbon steel.      
 
 248
 00:17:34,855 --> 00:17:38,390
-      another tool twists       
- the wire bundle into a knot.   
+another tool twists the wire bundle into a knot.   
 
 249
 00:17:40,394 --> 00:17:41,726
-    it makes a special knot     
+it makes a special knot     
 
 250
 00:17:41,728 --> 00:17:44,896
- designed for maximum strength  
-        and durability.         
+designed for maximum strength and durability.         
 
 251
 00:17:47,734 --> 00:17:51,770
- the system installs 48 knotted 
-  wire bundles in each brush.   
+the system installs 48 knotted wire bundles in each brush.   
 
 252
 00:17:53,874 --> 00:17:56,408
-    an employee transfers the   
-              brush             
-         to a machine           
+an employee transfers the brush to a machine           
 
 253
 00:17:56,410 --> 00:17:58,743
-     with circular blades.      
+with circular blades.      
 
 254
 00:17:58,745 --> 00:18:02,447
- the blades trim the wires down 
-     and sharpen the ends.      
+the blades trim the wires down and sharpen the ends.      
 
 255
 00:18:06,719 --> 00:18:08,420
-  the next worker sandwiches    
+the next worker sandwiches    
 
 256
 00:18:08,422 --> 00:18:12,824
-    the brush's center disk     
-   between two larger disks.    
+the brush's center disk between two larger disks.    
 
 257
 00:18:12,826 --> 00:18:16,628
-     a press welder creates     
-  three dimples in the metal.   
+a press welder creates three dimples in the metal.   
 
 258
 00:18:16,630 --> 00:18:22,434
-   these dimples tightly hold   
- the brush structure in place.  
+these dimples tightly hold the brush structure in place.  
 
 259
 00:18:22,436 --> 00:18:25,970
-   a press drives a large nut   
-     into the center hole.      
+a press drives a large nut into the center hole.      
 
 260
 00:18:25,972 --> 00:18:28,974
-  it will be used to securely   
-     attach the wire brush      
+it will be used to securely attach the wire brush      
 
 261
 00:18:28,976 --> 00:18:31,108
-       to a power tool.         
+to a power tool.         
 
 262
 00:18:31,110 --> 00:18:36,313
-   this completes the knotted   
-              wire              
-     power brush assembly.      
+this completes the knotted wire power brush assembly.      
 
 263
 00:18:36,315 --> 00:18:39,116
-        next, they make         
-    the crimped wire brush.     
+next, they make the crimped wire brush.     
 
 264
 00:18:39,118 --> 00:18:41,519
-   first, a device feeds steel  
-              wire              
+first, a device feeds steel wire              
 
 265
 00:18:41,521 --> 00:18:44,989
-      to a cutting machine      
-     in preset increments.      
+to a cutting machine in preset increments.      
 
 266
 00:18:44,991 --> 00:18:47,258
-  the machine's cutting wheels  
-        slice the wires         
+the machine's cutting wheels slice the wires         
 
 267
 00:18:47,260 --> 00:18:49,094
-    to the correct length.      
+to the correct length.      
 
 268
 00:18:50,797 --> 00:18:53,264
-  it deposits the wire bundles  
-          on a rack,            
+it deposits the wire bundles on a rack,            
 
 269
 00:18:53,266 --> 00:18:55,700
-  and a worker collects them.   
+and a worker collects them.   
 
 270
 00:19:00,006 --> 00:19:02,473
-      then, another worker      
-      threads a long wire       
+then, another worker threads a long wire       
 
 271
 00:19:02,475 --> 00:19:05,577
-   between two metal flanges    
-    and a winding machine.      
+between two metal flanges and a winding machine.      
 
 272
 00:19:11,751 --> 00:19:15,620
-     she lines up the pins      
-      around the flanges.       
+she lines up the pins around the flanges.       
 
 273
 00:19:15,622 --> 00:19:21,226
-   then she tucks freshly-cut   
-              wire              
-   bundles into those slots.    
+then she tucks freshly-cut wire bundles into those slots.    
 
 274
 00:19:21,228 --> 00:19:23,828
-   she continues until she's    
-   stacked the wire bundles     
+she continues until she's stacked the wire bundles     
 
 275
 00:19:23,830 --> 00:19:26,164
-     all the way around the     
-            flanges.            
+all the way around the flanges.            
 
 276
 00:19:30,236 --> 00:19:32,170
- then she starts the machine.   
+then she starts the machine.   
 
 277
 00:19:32,172 --> 00:19:36,040
-     it winds the long wire     
-     around the shorter wire    
-            bundles.            
+it winds the long wire around the shorter wire bundles.            
 
 278
 00:19:36,042 --> 00:19:38,909
-  this crimps the short wires   
-         at the center          
+this crimps the short wires at the center          
 
 279
 00:19:38,911 --> 00:19:41,712
-    and holds them in place     
-     between the flanges.       
+and holds them in place between the flanges.       
 
 280
 00:19:41,714 --> 00:19:43,448
- she pulls the end of the wire  
+she pulls the end of the wire  
 
 281
 00:19:43,450 --> 00:19:46,250
-          to the side           
-     of the brush segment.      
+to the side of the brush segment.      
 
 282
 00:19:46,252 --> 00:19:49,120
-        then it's ready         
-    for the next operation.     
+then it's ready for the next operation.     
 
 283
 00:19:51,792 --> 00:19:53,324
-        a 100-ton press         
+a 100-ton press         
 
 284
 00:19:53,326 --> 00:19:56,060
-       bends the flanges        
-  over the crimped bristles,    
+bends the flanges over the crimped bristles,    
 
 285
 00:19:56,062 --> 00:19:59,497
-    encasing the longer wire    
-   that holds them together.    
+encasing the longer wire that holds them together.    
 
 286
 00:20:03,203 --> 00:20:04,802
-        next, a worker          
+next, a worker          
 
 287
 00:20:04,804 --> 00:20:08,440
-  spins the ends of the brush   
- between two circular blades.   
+spins the ends of the brush between two circular blades.   
 
 288
 00:20:10,410 --> 00:20:15,813
-      this is a preliminary     
-           trimming.            
+this is a preliminary trimming.            
 
 289
 00:20:15,815 --> 00:20:19,584
-     then a punch enlarges      
-   the diameter of the center   
-             hole.              
+then a punch enlarges the diameter of the center hole.              
 
 290
 00:20:25,358 --> 00:20:28,292
-   next, they combine several   
- of the crimped brush segments  
+next, they combine several of the crimped brush segments  
 
 291
 00:20:28,294 --> 00:20:30,561
-           together.            
+together.            
 
 292
 00:20:30,563 --> 00:20:32,830
-          an employee           
-    piles up the segments.      
+an employee piles up the segments.      
 
 293
 00:20:32,832 --> 00:20:35,499
-        he places a tube        
-   in the center and spacers    
+he places a tube in the center and spacers    
 
 294
 00:20:35,501 --> 00:20:37,235
-    in between the brushes.     
+in between the brushes.     
 
 295
 00:20:37,237 --> 00:20:40,104
-         once the brush         
-    reaches the right size,     
+once the brush reaches the right size,     
 
 296
 00:20:40,106 --> 00:20:41,973
-  he uses a compression tool    
+he uses a compression tool    
 
 297
 00:20:41,975 --> 00:20:45,110
-   to curl the tube's top rim   
-      against the flange.       
+to curl the tube's top rim against the flange.       
 
 298
 00:20:48,248 --> 00:20:52,250
-   this secures the segments,   
-   creating one large crimped   
-              wire              
+this secures the segments, creating one large crimped wire              
 
 299
 00:20:52,252 --> 00:20:57,922
-            brush.              
+brush.              
 
 300
 00:20:57,924 --> 00:21:01,326
-     then he trims the wire     
-            bristles            
-    to the correct length.      
+then he trims the wire bristles to the correct length.      
 
 301
 00:21:08,468 --> 00:21:12,069
- when attached to a power tool, 
- knotted bristle wire brushes   
+when attached to a power tool, knotted bristle wire brushes   
 
 302
 00:21:12,071 --> 00:21:16,274
-          can spin up           
-     to 25,000 rotations per    
-            minute.             
+can spin up to 25,000 rotations per minute.             
 
 303
 00:21:16,276 --> 00:21:19,611
-     the brush's high speed     
+the brush's high speed     
 allows it to efficiently scrub  
 
 304
 00:21:19,613 --> 00:21:23,147
-        dirt and grease         
- from an oil-well drill pipe.   
+dirt and grease from an oil-well drill pipe.   
 
 305
 00:21:23,149 --> 00:21:26,217
-     the crimped wire brush     
- is designed for lighter work,  
+the crimped wire brush is designed for lighter work,  
 
 306
 00:21:26,219 --> 00:21:29,087
-      like scrubbing rust       
-       off a metal pipe.        
+like scrubbing rust off a metal pipe.        
 
 307
 00:21:32,292 --> 00:21:33,892
-      these power brushes       
+these power brushes       
 
 308
 00:21:33,894 --> 00:21:38,663
-  are bristling with cleaning   
- potential and ready for work.  
+are bristling with cleaning potential and ready for work.  
 

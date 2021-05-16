@@ -1,123 +1,107 @@
 ﻿1
 00:00:22,689 --> 00:00:26,424
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:26,426 --> 00:00:28,093
-        suits of armor...       
+suits of armor...       
 
 3
 00:00:32,099 --> 00:00:33,565
-    ...street-light bulbs...    
+...street-light bulbs...    
 
 4
 00:00:37,705 --> 00:00:39,705
-       ...bent hardwood...      
+...bent hardwood...      
 
 5
 00:00:43,177 --> 00:00:45,677
-    ...and membrane switches.   
+...and membrane switches.   
 
 6
 00:00:52,519 --> 00:00:54,319
-    if you're the type of guy   
+if you're the type of guy   
 
 7
 00:00:54,321 --> 00:00:56,187
-        who finds wearing       
-      a tie uncomfortable,      
+who finds wearing a tie uncomfortable,      
 
 8
 00:00:56,189 --> 00:00:58,057
-  try sporting a suit of armor. 
+try sporting a suit of armor. 
 
 9
 00:00:58,059 --> 00:01:01,794
-  armor reached its peak during 
- the battle-filled 15th century.
+armor reached its peak during the battle-filled 15th century.
 
 10
 00:01:01,796 --> 00:01:04,262
-     initially, it was made     
-         of chain mail,         
+initially, it was made of chain mail,         
 
 11
 00:01:04,264 --> 00:01:06,331
-       tiny rings of metal      
-        linked together.        
+tiny rings of metal linked together.        
 
 12
 00:01:06,333 --> 00:01:07,866
-  then, for greater protection, 
+then, for greater protection, 
 
 13
 00:01:07,868 --> 00:01:09,734
-      knights began wearing     
-          plate armor,          
+knights began wearing plate armor,          
 
 14
 00:01:09,736 --> 00:01:12,271
-  suits made from large pieces  
-            of steel.           
+suits made from large pieces of steel.           
 
 15
 00:01:17,077 --> 00:01:20,079
-      today, armorers make      
-    this obsolete battle gear   
+today, armorers make this obsolete battle gear   
 
 16
 00:01:20,081 --> 00:01:22,948
-      mostly for historical     
-       re-enactment buffs.      
+mostly for historical re-enactment buffs.      
 
 17
 00:01:22,950 --> 00:01:26,551
-    this workshop specializes   
- in custom-made suits of armor. 
+this workshop specializes in custom-made suits of armor. 
 
 18
 00:01:26,553 --> 00:01:29,888
-     the armorer has to take    
-    45 different measurements   
+the armorer has to take 45 different measurements   
 
 19
 00:01:29,890 --> 00:01:31,689
-  just to prepare the pattern.  
+just to prepare the pattern.  
 
 20
 00:01:31,691 --> 00:01:34,693
-  he traces each pattern piece  
-        on a steel sheet        
+he traces each pattern piece on a steel sheet        
 
 21
 00:01:34,695 --> 00:01:38,030
-        that's about 1/16       
-        of an inch thick.       
+that's about 1/16 of an inch thick.       
 
 22
 00:01:38,032 --> 00:01:41,166
-       then he cuts along       
- the trace line with a band saw.
+then he cuts along the trace line with a band saw.
 
 23
 00:01:41,168 --> 00:01:46,037
- this is the breastplate, which 
- covers the chest and abdomen.  
+this is the breastplate, which covers the chest and abdomen.  
 
 24
 00:01:46,039 --> 00:01:50,175
 now he begins to shape the piece
-   using an automatic hammer.   
+using an automatic hammer.   
 
 25
 00:01:50,177 --> 00:01:52,310
-   there's no mold or template  
-          to guide him.         
+there's no mold or template to guide him.         
 
 26
 00:01:52,312 --> 00:01:55,080
-    he works strictly by eye.   
+he works strictly by eye.   
 
 27
 00:02:03,390 --> 00:02:06,191
@@ -125,60 +109,51 @@ now that he has the basic shape,
 
 28
 00:02:06,193 --> 00:02:08,593
-       he refines it using      
-        a manual hammer.        
+he refines it using a manual hammer.        
 
 29
 00:02:08,595 --> 00:02:11,530
-      he strikes the metal      
-     against an upright log,    
+he strikes the metal against an upright log,    
 
 30
 00:02:11,532 --> 00:02:14,265
-       a bag of lead beads      
-      cushioning the blows.     
+a bag of lead beads cushioning the blows.     
 
 31
 00:02:14,267 --> 00:02:16,735
-     this prevents the metal    
-         from deforming.        
+this prevents the metal from deforming.        
 
 32
 00:02:16,737 --> 00:02:20,072
-   a few lighter blows without  
-   cushioning in select spots   
+a few lighter blows without cushioning in select spots   
 
 33
 00:02:20,074 --> 00:02:22,674
-     to finalize the shape.     
+to finalize the shape.     
 
 34
 00:02:22,676 --> 00:02:26,544
- until now, he's been hammering 
- the inside of the breastplate. 
+until now, he's been hammering the inside of the breastplate. 
 
 35
 00:02:26,546 --> 00:02:29,147
-    now he works the outside.   
+now he works the outside.   
 
 36
 00:02:29,149 --> 00:02:32,951
- he smoothes the metal surface, 
- a process known as planishing. 
+he smoothes the metal surface, a process known as planishing. 
 
 37
 00:02:38,759 --> 00:02:41,093
-     now, using a different     
-     automatic hammerhead,      
+now, using a different automatic hammerhead,      
 
 38
 00:02:41,095 --> 00:02:43,562
-        he stretches out        
-  the breastplate's bottom edge 
+he stretches out the breastplate's bottom edge 
 
 39
 00:02:43,564 --> 00:02:45,931
- to form a rim angling outward. 
+to form a rim angling outward. 
 
 40
 00:02:48,034 --> 00:02:50,301
@@ -186,80 +161,70 @@ he places the piece on an anvil,
 
 41
 00:02:50,303 --> 00:02:55,240
-  then, using a manual hammer,  
-       planishes the rim.       
+then, using a manual hammer, planishes the rim.       
 
 42
 00:02:55,242 --> 00:02:57,309
-    when you wear this heavy    
-       metal breastplate,       
+when you wear this heavy metal breastplate,       
 
 43
 00:02:57,311 --> 00:03:00,178
 the rim takes some of the weight
-       off your shoulders       
+off your shoulders       
 
 44
 00:03:00,180 --> 00:03:01,914
-       by distributing it       
-         over your hips.        
+by distributing it over your hips.        
 
 45
 00:03:09,189 --> 00:03:10,989
-  the armorer checks the shape, 
+the armorer checks the shape, 
 
 46
 00:03:10,991 --> 00:03:13,792
-           then makes           
-   any necessary adjustments.   
+then makes any necessary adjustments.   
 
 47
 00:03:19,333 --> 00:03:21,733
-       now, using several       
-    different hammers again,    
+now, using several different hammers again,    
 
 48
 00:03:21,735 --> 00:03:24,670
 he works his way around the rest
-       of the breastplate,      
+of the breastplate,      
 
 49
 00:03:24,672 --> 00:03:28,807
- gradually rolling the edge onto
-  itself to form a rounded lip. 
+gradually rolling the edge onto
+itself to form a rounded lip. 
 
 50
 00:04:00,974 --> 00:04:03,709
-  rolling the metal onto itself 
-         to form the lip        
+rolling the metal onto itself to form the lip        
 
 51
 00:04:03,711 --> 00:04:06,511
-    reinforces the perimeter    
-       of the breastplate,      
+reinforces the perimeter of the breastplate,      
 
 52
 00:04:06,513 --> 00:04:08,914
-      and the rounded edge      
-    prevents the sharp metal    
+and the rounded edge prevents the sharp metal    
 
 53
 00:04:08,916 --> 00:04:10,382
-     from cutting the skin.     
+from cutting the skin.     
 
 54
 00:04:12,319 --> 00:04:15,120
-  the breastplate is now ready  
-   for the finishing touches.   
+the breastplate is now ready for the finishing touches.   
 
 55
 00:04:15,122 --> 00:04:17,923
-       first, the armorer       
-      smoothes the surface      
+first, the armorer smoothes the surface      
 
 56
 00:04:17,925 --> 00:04:21,526
-  with medium-grit sandpaper... 
+with medium-grit sandpaper... 
 
 57
 00:04:21,528 --> 00:04:24,262
@@ -267,799 +232,679 @@ then with fine-grit sandpaper...
 
 58
 00:04:24,264 --> 00:04:25,797
-    then -- the last step --    
+then -- the last step --    
 
 59
 00:04:25,799 --> 00:04:29,234
-      with fine-grit paper      
-    and a polishing compound.   
+with fine-grit paper and a polishing compound.   
 
 60
 00:04:31,071 --> 00:04:33,872
-        some breastplates       
-  have an articulated styling.  
+some breastplates have an articulated styling.  
 
 61
 00:04:33,874 --> 00:04:37,008
-   for this model, the armorer  
-     uses three brass rivets    
+for this model, the armorer uses three brass rivets    
 
 62
 00:04:37,010 --> 00:04:39,211
-     to attach the sections.    
+to attach the sections.    
 
 63
 00:04:39,213 --> 00:04:43,482
-     he fastens them loosely    
-  to enable the pieces to move. 
+he fastens them loosely to enable the pieces to move. 
 
 64
 00:04:53,293 --> 00:04:56,728
-    then, using rivets again,   
-   he attaches leather straps.  
+then, using rivets again, he attaches leather straps.  
 
 65
 00:04:59,633 --> 00:05:03,101
- a suit of armor is made up of  
- about 20 different components, 
+a suit of armor is made up of about 20 different components, 
 
 66
 00:05:03,103 --> 00:05:06,204
-   such as the front and back   
-  shin guards called grieves... 
+such as the front and back shin guards called grieves... 
 
 67
 00:05:07,775 --> 00:05:10,142
-   ...armor-and-leather gloves  
-       called gauntlets...      
+...armor-and-leather gloves called gauntlets...      
 
 68
 00:05:13,847 --> 00:05:16,782
-       ...shoulder pieces       
-       called pauldrons...      
+...shoulder pieces called pauldrons...      
 
 69
 00:05:19,552 --> 00:05:23,855
-       ...and, of course,       
-      the helmet and visor.     
+...and, of course, the helmet and visor.     
 
 70
 00:05:23,857 --> 00:05:26,591
-    a knight would don a suit   
-  of armor from the bottom up,  
+a knight would don a suit of armor from the bottom up,  
 
 71
 00:05:26,593 --> 00:05:28,860
-      otherwise the weight      
-      of the top components     
+otherwise the weight of the top components     
 
 72
 00:05:28,862 --> 00:05:31,730
-  would have him keeling over,  
-          half-dressed.         
+would have him keeling over, half-dressed.         
 
 73
 00:05:31,732 --> 00:05:33,198
-       in the middle ages,      
+in the middle ages,      
 
 74
 00:05:33,200 --> 00:05:36,068
-      a suit of armor cost      
-    as much as a small farm.    
+a suit of armor cost as much as a small farm.    
 
 75
 00:05:36,070 --> 00:05:39,404
-     it was a prized luxury     
- only the nobility could afford.
+it was a prized luxury only the nobility could afford.
 
 76
 00:05:39,406 --> 00:05:42,206
-       being a modern-day       
-     knight in shining armor    
+being a modern-day knight in shining armor    
 
 77
 00:05:42,208 --> 00:05:44,142
-   doesn't come cheap, either.  
+doesn't come cheap, either.  
 
 78
 00:05:44,144 --> 00:05:47,078
-        a base-model suit       
-       costs about $3,000,      
+a base-model suit costs about $3,000,      
 
 79
 00:05:47,080 --> 00:05:50,349
- an elaborate one up to $20,000.
+an elaborate one up to $20,000.
 
 80
 00:05:58,091 --> 00:06:00,359
-        narrator: we take       
-  well-lit streets for granted, 
+narrator: we take well-lit streets for granted, 
 
 81
 00:06:00,361 --> 00:06:02,761
-      but there was a time      
-   when venturing out at night  
+but there was a time when venturing out at night  
 
 82
 00:06:02,763 --> 00:06:05,096
-         meant traveling        
-      in complete darkness.     
+meant traveling in complete darkness.     
 
 83
 00:06:05,098 --> 00:06:07,632
-  in 1814, the first gas lights 
+in 1814, the first gas lights 
 
 84
 00:06:07,634 --> 00:06:09,901
-       lit up the streets       
-       of london, england.      
+lit up the streets of london, england.      
 
 85
 00:06:09,903 --> 00:06:11,569
- the first electric streetlights
+the first electric streetlights
 
 86
 00:06:11,571 --> 00:06:16,708
-  illuminated a public square   
-  in cleveland, ohio, in 1879.  
+illuminated a public square in cleveland, ohio, in 1879.  
 
 87
 00:06:20,647 --> 00:06:24,116
 these streetlight poles are made
-   of what's called composite,  
+of what's called composite,  
 
 88
 00:06:24,118 --> 00:06:26,785
-   a combination of fiberglass  
-        and epoxy resin.        
+a combination of fiberglass and epoxy resin.        
 
 89
 00:06:26,787 --> 00:06:31,056
- epoxy resin is a gooey, liquid 
- plastic mixed with a hardener. 
+epoxy resin is a gooey, liquid plastic mixed with a hardener. 
 
 90
 00:06:31,058 --> 00:06:34,459
 the factory constructs each pole
-          on a mandrel,         
+on a mandrel,         
 
 91
 00:06:34,461 --> 00:06:36,728
- a long, tapered metal cylinder.
+a long, tapered metal cylinder.
 
 92
 00:06:36,730 --> 00:06:38,796
-     workers first lubricate    
-          the surface.          
+workers first lubricate the surface.          
 
 93
 00:06:38,798 --> 00:06:41,466
-  then they take what's called  
-     a fiberglass filament,     
+then they take what's called a fiberglass filament,     
 
 94
 00:06:41,468 --> 00:06:45,670
-   a string composed of 2,200   
-    tiny fiberglass strands.    
+a string composed of 2,200 tiny fiberglass strands.    
 
 95
 00:06:45,672 --> 00:06:48,740
 they'll wind dozens of filaments
-       around the mandrel       
+around the mandrel       
 
 96
 00:06:48,742 --> 00:06:50,141
-       to create the pole,      
+to create the pole,      
 
 97
 00:06:50,143 --> 00:06:54,879
-   but first, the filaments go  
- through a bath of epoxy resin. 
+but first, the filaments go through a bath of epoxy resin. 
 
 98
 00:06:54,881 --> 00:06:56,414
-     this resin is moldable     
+this resin is moldable     
 
 99
 00:06:56,416 --> 00:06:59,651
-   and, once it's heat-cured,   
-      maintains its shape.      
+and, once it's heat-cured, maintains its shape.      
 
 100
 00:07:07,494 --> 00:07:09,494
-       once the filaments       
-      come out of the bath,     
+once the filaments come out of the bath,     
 
 101
 00:07:09,496 --> 00:07:11,229
-            a machine           
-    called a filament winder    
+a machine called a filament winder    
 
 102
 00:07:11,231 --> 00:07:13,431
-        wraps them around       
-      the rotating mandrel.     
+wraps them around the rotating mandrel.     
 
 103
 00:07:13,433 --> 00:07:14,632
-      the speed of rotation     
+the speed of rotation     
 
 104
 00:07:14,634 --> 00:07:17,369
-    in relation to the speed    
-    of the winder is critical   
+in relation to the speed of the winder is critical   
 
 105
 00:07:17,371 --> 00:07:20,372
- because it dictates the angles 
-         of the fibers.         
+because it dictates the angles of the fibers.         
 
 106
 00:07:20,374 --> 00:07:23,041
-      the lower the angle,      
- the more that part of the pole 
+the lower the angle, the more that part of the pole 
 
 107
 00:07:23,043 --> 00:07:25,043
-    will be able to withstand   
-            the wind            
+will be able to withstand the wind            
 
 108
 00:07:25,045 --> 00:07:28,980
-      and provide constant,     
-        stable lighting.        
+and provide constant, stable lighting.        
 
 109
 00:07:28,982 --> 00:07:32,317
- when a pole bends in the wind, 
- the light appears to flicker.  
+when a pole bends in the wind, the light appears to flicker.  
 
 110
 00:07:37,057 --> 00:07:38,924
-  the number of filament layers 
+the number of filament layers 
 
 111
 00:07:38,926 --> 00:07:41,726
-     depends on the design      
-     of each specific pole,     
+depends on the design of each specific pole,     
 
 112
 00:07:41,728 --> 00:07:44,395
-      and that's determined     
-     by a couple of factors.    
+and that's determined by a couple of factors.    
 
 113
 00:07:44,397 --> 00:07:47,599
 first, the type of light fixture
-      the pole will hold --     
+the pole will hold --     
 
 114
 00:07:47,601 --> 00:07:51,069
-     the bigger the fixture,    
- the stiffer the pole has to be.
+the bigger the fixture, the stiffer the pole has to be.
 
 115
 00:07:51,071 --> 00:07:53,004
-    the other factor is wind.   
+the other factor is wind.   
 
 116
 00:07:53,006 --> 00:07:56,575
-    the windier the location,   
+the windier the location,   
 the stronger the pole has to be.
 
 117
 00:08:00,814 --> 00:08:02,214
-    once the winding's done,    
+once the winding's done,    
 
 118
 00:08:02,216 --> 00:08:04,883
-      the mandrel moves on      
-     to the curing station.     
+the mandrel moves on to the curing station.     
 
 119
 00:08:04,885 --> 00:08:06,551
-   they pump pressurized steam  
+they pump pressurized steam  
 
 120
 00:08:06,553 --> 00:08:09,287
-     into the hollow inside     
-         of the mandrel.        
+into the hollow inside of the mandrel.        
 
 121
 00:08:09,289 --> 00:08:12,623
-      the heat kick-starts      
+the heat kick-starts      
 the hardener in the epoxy resin.
 
 122
 00:08:12,625 --> 00:08:16,294
-    this solidifies the resin   
-          and cures it.         
+this solidifies the resin and cures it.         
 
 123
 00:08:16,296 --> 00:08:18,830
-       the mandrel rotates      
- so that the pole cures evenly. 
+the mandrel rotates so that the pole cures evenly. 
 
 124
 00:08:18,832 --> 00:08:22,099
-       curing time depends      
-    on the length of the pole   
+curing time depends on the length of the pole   
 
 125
 00:08:22,101 --> 00:08:23,668
-     and how many filaments     
-          it's made of.         
+and how many filaments it's made of.         
 
 126
 00:08:38,986 --> 00:08:40,919
-    to help extract the pole,   
+to help extract the pole,   
 
 127
 00:08:40,921 --> 00:08:42,854
-      they pump cold water      
-      through the mandrel.      
+they pump cold water through the mandrel.      
 
 128
 00:08:42,856 --> 00:08:46,925
-  this makes the steel mandrel  
-  contract, loosening the pole. 
+this makes the steel mandrel contract, loosening the pole. 
 
 129
 00:08:46,927 --> 00:08:50,262
- remember how workers lubricated
-   the surface of the mandrel   
+remember how workers lubricated
+the surface of the mandrel   
 
 130
 00:08:50,264 --> 00:08:52,197
-  before winding the filaments? 
+before winding the filaments? 
 
 131
 00:08:52,199 --> 00:08:55,066
-        because of that,        
-    the pole just slides off.   
+because of that, the pole just slides off.   
 
 132
 00:09:11,351 --> 00:09:14,619
-      the pole now moves on     
-    to the finishing stages.    
+the pole now moves on to the finishing stages.    
 
 133
 00:09:14,621 --> 00:09:17,488
-   first, an automated sander   
-       works the surface.       
+first, an automated sander works the surface.       
 
 134
 00:09:17,490 --> 00:09:20,358
-   the customer can order from  
-  a choice of surface textures, 
+the customer can order from a choice of surface textures, 
 
 135
 00:09:20,360 --> 00:09:22,293
-      from smooth to rough.     
+from smooth to rough.     
 
 136
 00:09:22,295 --> 00:09:25,229
-       sanding takes just       
-         a few minutes.         
+sanding takes just a few minutes.         
 
 137
 00:09:25,231 --> 00:09:29,634
-   now a saw makes a neat cut   
-     at the top of the pole     
+now a saw makes a neat cut at the top of the pole     
 
 138
 00:09:29,636 --> 00:09:31,369
- where the metal tenon will go. 
+where the metal tenon will go. 
 
 139
 00:09:31,371 --> 00:09:32,837
-    a tenon is the component    
+a tenon is the component    
 
 140
 00:09:32,839 --> 00:09:35,974
- that'll hold the light fixture 
-          to the pole.          
+that'll hold the light fixture to the pole.          
 
 141
 00:09:35,976 --> 00:09:38,910
-      this particular model     
-   has an arched mounting arm.  
+this particular model has an arched mounting arm.  
 
 142
 00:09:38,912 --> 00:09:41,846
- the composite has cooled a bit 
-          since curing,         
+the composite has cooled a bit since curing,         
 
 143
 00:09:41,848 --> 00:09:44,115
-        so they reheat it       
-      to make it flexible.      
+so they reheat it to make it flexible.      
 
 144
 00:09:44,117 --> 00:09:47,318
-     after a bending machine    
-        makes the curve,        
+after a bending machine makes the curve,        
 
 145
 00:09:47,320 --> 00:09:50,755
-  they spray cold water inside  
-      to cool the material.     
+they spray cold water inside to cool the material.     
 
 146
 00:09:50,757 --> 00:09:54,058
-    this registers the curve    
-     in the resin's memory,     
+this registers the curve in the resin's memory,     
 
 147
 00:09:54,060 --> 00:09:55,760
-     setting the bent shape.    
+setting the bent shape.    
 
 148
 00:10:05,138 --> 00:10:07,072
- now they cut out the hand hole,
+now they cut out the hand hole,
 
 149
 00:10:07,074 --> 00:10:09,073
-           the opening          
-  through which the electrician 
+the opening through which the electrician 
 
 150
 00:10:09,075 --> 00:10:13,344
-  will connect the underground  
-  wire to the fixture wiring.   
+will connect the underground wire to the fixture wiring.   
 
 151
 00:10:13,346 --> 00:10:16,348
-   workers then spray the pole  
-      with urethane paint.      
+workers then spray the pole with urethane paint.      
 
 152
 00:10:16,350 --> 00:10:18,282
- the paint acts like sunscreen, 
+the paint acts like sunscreen, 
 
 153
 00:10:18,284 --> 00:10:22,553
-    protecting the composite    
- from damaging ultraviolet rays.
+protecting the composite from damaging ultraviolet rays.
 
 154
 00:10:22,555 --> 00:10:25,690
- this grommet hole will connect 
-     to the underground pipe    
+this grommet hole will connect to the underground pipe    
 
 155
 00:10:25,692 --> 00:10:28,193
-          that contains         
-      the electrical wires.     
+that contains the electrical wires.     
 
 156
 00:10:34,901 --> 00:10:37,502
-    after installing a cover    
-       over the hand hole,      
+after installing a cover over the hand hole,      
 
 157
 00:10:37,504 --> 00:10:40,639
-      it's time to assemble     
-          the parts --          
+it's time to assemble the parts --          
 
 158
 00:10:40,641 --> 00:10:43,241
-      the underground pipe      
-         to the pole...         
+the underground pipe to the pole...         
 
 159
 00:10:47,447 --> 00:10:50,815
-  ...and the pole to the tenon  
-       and light fixture.       
+...and the pole to the tenon and light fixture.       
 
 160
 00:11:03,530 --> 00:11:05,997
-     narrator: many products    
-     have rounded components    
+narrator: many products have rounded components    
 
 161
 00:11:05,999 --> 00:11:07,398
-     made of solid hardwood.    
+made of solid hardwood.    
 
 162
 00:11:07,400 --> 00:11:09,868
-      often, the companies      
-    that make these products    
+often, the companies that make these products    
 
 163
 00:11:09,870 --> 00:11:12,470
- hire factories that specialize 
-         in wood-bending        
+hire factories that specialize in wood-bending        
 
 164
 00:11:12,472 --> 00:11:14,972
-   to prepare these components  
-            for them.           
+to prepare these components for them.           
 
 165
 00:11:14,974 --> 00:11:17,675
- bending wood may sound simple, 
-          but it isn't.         
+bending wood may sound simple, but it isn't.         
 
 166
 00:11:17,677 --> 00:11:20,144
-  it takes a lot of preparation 
-            and skill           
+it takes a lot of preparation and skill           
 
 167
 00:11:20,146 --> 00:11:22,881
-          to bend wood          
-      without cracking it.      
+to bend wood without cracking it.      
 
 168
 00:11:27,220 --> 00:11:29,687
-  the best type of wood to bend 
-          is hardwood.          
+the best type of wood to bend is hardwood.          
 
 169
 00:11:29,689 --> 00:11:32,357
-     its fibers react better    
-      to heat and moisture      
+its fibers react better to heat and moisture      
 
 170
 00:11:32,359 --> 00:11:35,760
-     than softwood fibers do    
-  and, therefore, curve nicely. 
+than softwood fibers do and, therefore, curve nicely. 
 
 171
 00:11:35,762 --> 00:11:38,163
-      if you bend softwood,     
-          it wrinkles.          
+if you bend softwood, it wrinkles.          
 
 172
 00:11:38,165 --> 00:11:40,831
-       the wood first goes      
-      into an outdoor dryer     
+the wood first goes into an outdoor dryer     
 
 173
 00:11:40,833 --> 00:11:44,436
 to bring its humidity level down
-     to between 15% and 20%.    
+to between 15% and 20%.    
 
 174
 00:11:44,438 --> 00:11:47,972
-     this prevents the wood     
- from expanding and contracting 
+this prevents the wood from expanding and contracting 
 
 175
 00:11:47,974 --> 00:11:49,373
-        after it's bent.        
+after it's bent.        
 
 176
 00:11:49,375 --> 00:11:51,776
-     this air-drying process    
-       takes up to a week.      
+this air-drying process takes up to a week.      
 
 177
 00:11:51,778 --> 00:11:53,978
-      once the wood is dry,     
+once the wood is dry,     
 
 178
 00:11:53,980 --> 00:11:57,849
-   a powerful trimmer saws the  
- pieces to the required length, 
+a powerful trimmer saws the pieces to the required length, 
 
 179
 00:11:57,851 --> 00:12:00,285
- an edger to the required width.
+an edger to the required width.
 
 180
 00:12:11,464 --> 00:12:14,332
-    now that the wood pieces    
-    are the right dimensions,   
+now that the wood pieces are the right dimensions,   
 
 181
 00:12:14,334 --> 00:12:16,934
-   they go into what's called   
-         a steaming box.        
+they go into what's called a steaming box.        
 
 182
 00:12:16,936 --> 00:12:19,270
-       this superficially       
-       rehumidifies them        
+this superficially rehumidifies them        
 
 183
 00:12:19,272 --> 00:12:21,806
-       so that they become      
-       somewhat flexible.       
+so that they become somewhat flexible.       
 
 184
 00:12:21,808 --> 00:12:23,741
-           this takes           
-     from 10 to 45 minutes,     
+this takes from 10 to 45 minutes,     
 
 185
 00:12:23,743 --> 00:12:26,344
-  depending on the type of wood 
-       and its thickness.       
+depending on the type of wood and its thickness.       
 
 186
 00:12:26,346 --> 00:12:30,080
-    this humidity will later    
-   evaporate out of the wood.   
+this humidity will later evaporate out of the wood.   
 
 187
 00:12:30,082 --> 00:12:34,285
- now the pieces go into a press,
-  sandwiched between two forms  
+now the pieces go into a press,
+sandwiched between two forms  
 
 188
 00:12:34,287 --> 00:12:36,354
-    in the shape of the curve   
-           to be made.          
+in the shape of the curve to be made.          
 
 189
 00:12:36,356 --> 00:12:38,757
- the press applies both pressure
-           and heat --          
+the press applies both pressure
+and heat --          
 
 190
 00:12:38,759 --> 00:12:40,224
-   pressure to bend the wood,   
+pressure to bend the wood,   
 
 191
 00:12:40,226 --> 00:12:42,893
-        heat generated by       
- a high-voltage electric current
+heat generated by a high-voltage electric current
 
 192
 00:12:42,895 --> 00:12:45,163
-           to cure it,          
-     setting the new shape.     
+to cure it, setting the new shape.     
 
 193
 00:12:46,967 --> 00:12:49,033
-    how long the pieces stay    
-          in the press          
+how long the pieces stay in the press          
 
 194
 00:12:49,035 --> 00:12:51,636
-  depends again on the species  
-         and dimensions.        
+depends again on the species and dimensions.        
 
 195
 00:12:51,638 --> 00:12:54,672
-       generally, it takes      
-   from 20 minutes to an hour.  
+generally, it takes from 20 minutes to an hour.  
 
 196
 00:12:57,110 --> 00:13:00,979
- making this particular type of 
- curve is called crown bending. 
+making this particular type of curve is called crown bending. 
 
 197
 00:13:00,981 --> 00:13:04,048
-   workers measure each piece   
-      against the template      
+workers measure each piece against the template      
 
 198
 00:13:04,050 --> 00:13:07,385
-       to ensure the curve      
-         is just right.         
+to ensure the curve is just right.         
 
 199
 00:13:09,656 --> 00:13:11,522
-           the factory          
-      uses the same process     
+the factory uses the same process     
 
 200
 00:13:11,524 --> 00:13:14,058
-      to bend these pieces      
-     into a different shape.    
+to bend these pieces into a different shape.    
 
 201
 00:13:14,060 --> 00:13:15,660
-      it's critical to use      
+it's critical to use      
 
 202
 00:13:15,662 --> 00:13:18,128
-  just the right amount of heat 
-         and pressure --        
+just the right amount of heat and pressure --        
 
 203
 00:13:18,130 --> 00:13:20,265
-     too high a temperature     
-      would burn the wood.      
+too high a temperature would burn the wood.      
 
 204
 00:13:20,267 --> 00:13:22,700
- too much force would crack it. 
+too much force would crack it. 
 
 205
 00:13:26,239 --> 00:13:27,605
-  these straight pieces of wood 
+these straight pieces of wood 
 
 206
 00:13:27,607 --> 00:13:30,208
-  will become the rounded backs 
-    of windsor-style chairs,    
+will become the rounded backs of windsor-style chairs,    
 
 207
 00:13:30,210 --> 00:13:31,876
-     which is why this type     
-           of bending           
+which is why this type of bending           
 
 208
 00:13:31,878 --> 00:13:33,678
-   is called windsor bending.   
+is called windsor bending.   
 
 209
 00:13:33,680 --> 00:13:36,547
-    workers humidify the wood   
-       in the steaming box      
+workers humidify the wood in the steaming box      
 
 210
 00:13:36,549 --> 00:13:41,019
-    but will shape the pieces   
- using a pressure-only process. 
+but will shape the pieces using a pressure-only process. 
 
 211
 00:13:49,829 --> 00:13:52,497
-    they mount what's called    
-         a bending mold         
+they mount what's called a bending mold         
 
 212
 00:13:52,499 --> 00:13:54,298
-     onto a hydraulic press.    
+onto a hydraulic press.    
 
 213
 00:13:54,300 --> 00:13:56,234
- this machine uses just pressure
+this machine uses just pressure
 
 214
 00:13:56,236 --> 00:13:58,036
-        to bend the wood        
-        around the mold.        
+to bend the wood around the mold.        
 
 215
 00:13:58,038 --> 00:14:01,539
-        no heat this time       
-  to immediately set the shape. 
+no heat this time to immediately set the shape. 
 
 216
 00:14:04,244 --> 00:14:07,178
-     instead, once the press    
-       curves the pieces,       
+instead, once the press curves the pieces,       
 
 217
 00:14:07,180 --> 00:14:10,782
-     workers hook up a chain    
- to temporarily hold the shape. 
+workers hook up a chain to temporarily hold the shape. 
 
 218
 00:14:32,071 --> 00:14:36,007
-   then they transfer the bent  
+then they transfer the bent  
 pieces to a heated indoor dryer.
 
 219
 00:14:36,009 --> 00:14:39,711
-    the drying process takes    
- between two days and two weeks,
+the drying process takes between two days and two weeks,
 
 220
 00:14:39,713 --> 00:14:43,147
-  depending, as before, on the  
+depending, as before, on the  
 type of wood and the dimensions.
 
 221
 00:14:43,149 --> 00:14:47,551
-    once the wood dries out,    
-    the curve is permanent.     
+once the wood dries out, the curve is permanent.     
 
 222
 00:14:47,553 --> 00:14:51,356
- there are many wooden products 
- that require bent components --
+there are many wooden products that require bent components --
 
 223
 00:14:51,358 --> 00:14:54,559
-  this wheel for a horse-drawn  
-     carriage, for example.     
+this wheel for a horse-drawn carriage, for example.     
 
 224
 00:14:56,562 --> 00:14:58,562
@@ -1067,290 +912,253 @@ back to the windsor chairs, now.
 
 225
 00:14:58,564 --> 00:15:01,633
-   a dowel machine rounds off   
-        the bent pieces.        
+a dowel machine rounds off the bent pieces.        
 
 226
 00:15:36,002 --> 00:15:37,935
- before shipping the pieces out,
+before shipping the pieces out,
 
 227
 00:15:37,937 --> 00:15:40,137
-        workers run them        
-        through a sander.       
+workers run them through a sander.       
 
 228
 00:15:40,139 --> 00:15:42,941
-       this prepares them       
-  for the furniture factories,  
+this prepares them for the furniture factories,  
 
 229
 00:15:42,943 --> 00:15:45,209
- who will varnish or stain them.
+who will varnish or stain them.
 
 230
 00:15:49,282 --> 00:15:51,215
-         upon receiving         
-        these chairbacks,       
+upon receiving these chairbacks,       
 
 231
 00:15:51,217 --> 00:15:53,618
-     the furniture factories    
-       will assembled them      
+the furniture factories will assembled them      
 
 232
 00:15:53,620 --> 00:15:56,788
-     to the straight parts      
-     of the windsor chairs.     
+to the straight parts of the windsor chairs.     
 
 233
 00:16:09,035 --> 00:16:12,636
-            narrator:           
-  the term "membrane switches"  
- probably means nothing to you, 
+narrator: the term "membrane switches" probably means nothing to you, 
 
 234
 00:16:12,638 --> 00:16:16,240
- but chances are you use them or
- at least see them in use daily.
+but chances are you use them or
+at least see them in use daily.
 
 235
 00:16:16,242 --> 00:16:19,043
-        membrane switches       
+membrane switches       
 are those soft touch-pad buttons
 
 236
 00:16:19,045 --> 00:16:21,112
-         on the controls        
-       of many electrical       
+on the controls of many electrical       
 
 237
 00:16:21,114 --> 00:16:23,247
-    and electronic devices --   
+and electronic devices --   
 
 238
 00:16:23,249 --> 00:16:26,117
-    for example, the buttons    
-       on a microwave oven      
+for example, the buttons on a microwave oven      
 
 239
 00:16:26,119 --> 00:16:28,519
-     or on a cash register.     
+or on a cash register.     
 
 240
 00:16:32,258 --> 00:16:34,725
- the surface of the appliance's 
-          control panel         
+the surface of the appliance's control panel         
 
 241
 00:16:34,727 --> 00:16:36,460
- is called the graphic overlay. 
+is called the graphic overlay. 
 
 242
 00:16:36,462 --> 00:16:37,795
-     it's a sheet of plastic    
+it's a sheet of plastic    
 
 243
 00:16:37,797 --> 00:16:40,965
- on which they print the design 
-     of the control buttons.    
+on which they print the design of the control buttons.    
 
 244
 00:16:40,967 --> 00:16:43,934
-         each button has        
+each button has        
 a membrane switch underneath it.
 
 245
 00:16:43,936 --> 00:16:45,603
-  to make this graphic overlay, 
+to make this graphic overlay, 
 
 246
 00:16:45,605 --> 00:16:48,272
-     they first laser-print     
-     a sheet of acetate film    
+they first laser-print a sheet of acetate film    
 
 247
 00:16:48,274 --> 00:16:51,275
-       with the design --       
-   as many copies as will fit.  
+with the design -- as many copies as will fit.  
 
 248
 00:16:51,277 --> 00:16:53,277
-        they lay the film       
-      on a polyester screen     
+they lay the film on a polyester screen     
 
 249
 00:16:53,279 --> 00:16:55,946
-  coated with a light-sensitive 
-            chemical.           
+coated with a light-sensitive chemical.           
 
 250
 00:16:55,948 --> 00:16:57,615
-    then, using this machine,   
+then, using this machine,   
 
 251
 00:16:57,617 --> 00:17:01,352
- they expose the screen to 2,000
-   watts of ultraviolet light   
+they expose the screen to 2,000
+watts of ultraviolet light   
 
 252
 00:17:01,354 --> 00:17:03,020
-     for up to six minutes.     
+for up to six minutes.     
 
 253
 00:17:03,022 --> 00:17:05,890
- the light hardens the chemical 
-   on the parts of the screen   
+the light hardens the chemical on the parts of the screen   
 
 254
 00:17:05,892 --> 00:17:08,359
-      that aren't shielded      
-  by the design on the acetate. 
+that aren't shielded by the design on the acetate. 
 
 255
 00:17:08,361 --> 00:17:10,962
- this blocks the screen's minute
-        holes everywhere        
+this blocks the screen's minute
+holes everywhere        
 
 256
 00:17:10,964 --> 00:17:12,964
-      except in the design.     
+except in the design.     
 
 257
 00:17:12,966 --> 00:17:15,699
- workers remove the acetate film
+workers remove the acetate film
 
 258
 00:17:15,701 --> 00:17:19,303
-   and rinse off the shielded   
-  chemical that didn't harden.  
+and rinse off the shielded chemical that didn't harden.  
 
 259
 00:17:19,305 --> 00:17:22,039
- now they have a screen stencil 
-          of the design         
+now they have a screen stencil of the design         
 
 260
 00:17:22,041 --> 00:17:23,541
-     they're going to print.    
+they're going to print.    
 
 261
 00:17:27,514 --> 00:17:31,716
- workers dry off the screen and 
- install it on a printing press.
+workers dry off the screen and install it on a printing press.
 
 262
 00:17:31,718 --> 00:17:34,918
-    a squeegee drags the ink    
-       across the screen,       
+a squeegee drags the ink across the screen,       
 
 263
 00:17:34,920 --> 00:17:37,054
-         pushing it down        
-     through the open holes,    
+pushing it down through the open holes,    
 
 264
 00:17:37,056 --> 00:17:40,158
-       printing the design      
-    onto the overlay plastic.   
+printing the design onto the overlay plastic.   
 
 265
 00:17:46,399 --> 00:17:52,003
- ultraviolet lamps cure the ink 
-     in a matter of seconds.    
+ultraviolet lamps cure the ink in a matter of seconds.    
 
 266
 00:17:52,005 --> 00:17:54,605
-    each color of the design    
-       goes on separately.      
+each color of the design goes on separately.      
 
 267
 00:17:54,607 --> 00:17:57,275
-   that means that there isn't  
-       one printing screen      
+that means that there isn't one printing screen      
 
 268
 00:17:57,277 --> 00:17:59,077
- for the entire graphic overlay,
+for the entire graphic overlay,
 
 269
 00:17:59,079 --> 00:18:02,113
-  but rather a separate screen  
-         for each color.        
+but rather a separate screen for each color.        
 
 270
 00:18:09,622 --> 00:18:12,223
-  meanwhile, on another screen  
-         printing press,        
+meanwhile, on another screen printing press,        
 
 271
 00:18:12,225 --> 00:18:15,359
- they print the circuitry layout
-    onto transparent plastic.   
+they print the circuitry layout
+onto transparent plastic.   
 
 272
 00:18:15,361 --> 00:18:18,695
-    the ink contains silver,    
-   which conducts electricity.  
+the ink contains silver, which conducts electricity.  
 
 273
 00:18:18,697 --> 00:18:22,366
-  this circuitry layout will go 
-   behind the graphic overlay.  
+this circuitry layout will go behind the graphic overlay.  
 
 274
 00:18:22,368 --> 00:18:25,470
-    again, they print several   
-           at a time.           
+again, they print several at a time.           
 
 275
 00:18:27,640 --> 00:18:30,708
-    once the printing's done,   
+once the printing's done,   
 it's time to assemble the layers
 
 276
 00:18:30,710 --> 00:18:32,976
-          that make up          
-      the membrane switch.      
+that make up the membrane switch.      
 
 277
 00:18:32,978 --> 00:18:36,314
-  first, the circuit layer goes 
-     onto an adhesive sheet.    
+first, the circuit layer goes onto an adhesive sheet.    
 
 278
 00:18:36,316 --> 00:18:39,383
-    a roller insures a solid,   
-         airtight bond.         
+a roller insures a solid, airtight bond.         
 
 279
 00:18:39,385 --> 00:18:42,987
- this spacer sheet will separate
-  the overlay and circuit layer 
+this spacer sheet will separate
+the overlay and circuit layer 
 
 280
 00:18:42,989 --> 00:18:45,723
-   to prevent contact between   
- the two from being continuous. 
+to prevent contact between the two from being continuous. 
 
 281
 00:18:45,725 --> 00:18:48,259
-  over each circuit goes a dome 
+over each circuit goes a dome 
 
 282
 00:18:48,261 --> 00:18:50,127
-      made of nickel-plated     
-        stainless steel.        
+made of nickel-plated stainless steel.        
 
 283
 00:18:50,129 --> 00:18:53,330
 this forms an electrical contact
-        over the circuit        
+over the circuit        
 
 284
 00:18:53,332 --> 00:18:57,268
 that must be forcibly pressed in
- order to activate the circuit. 
+order to activate the circuit. 
 
 285
 00:18:57,270 --> 00:19:01,138
@@ -1365,133 +1173,115 @@ layout and each graphic overlay,
 287
 00:19:05,078 --> 00:19:08,078
 they expose the adhesive backing
-         on the overlay         
+on the overlay         
 
 288
 00:19:08,080 --> 00:19:11,615
-          and stick it          
-      to the circuit layer.     
+and stick it to the circuit layer.     
 
 289
 00:19:11,617 --> 00:19:14,152
-      the membrane switches     
-        are now complete.       
+the membrane switches are now complete.       
 
 290
 00:19:17,357 --> 00:19:20,691
-       this control panel       
-     is for a hospital bed.     
+this control panel is for a hospital bed.     
 
 291
 00:19:24,364 --> 00:19:27,632
-  some membrane switches have a 
+some membrane switches have a 
 light-emitting diode, or l.e.d.,
 
 292
 00:19:27,634 --> 00:19:29,967
-      a tiny colored light      
-          that goes on          
+a tiny colored light that goes on          
 
 293
 00:19:29,969 --> 00:19:32,937
-    when you press the switch   
-       to confirm contact.      
+when you press the switch to confirm contact.      
 
 294
 00:19:32,939 --> 00:19:37,375
- the factory's robotic machines 
+the factory's robotic machines 
 deposit two drops of epoxy paste
 
 295
 00:19:37,377 --> 00:19:40,244
-      on the circuit layer      
-   wherever an l.e.d. will go.  
+on the circuit layer wherever an l.e.d. will go.  
 
 296
 00:19:40,246 --> 00:19:44,048
-  the paste contains silver --  
- again, to conduct the current. 
+the paste contains silver -- again, to conduct the current. 
 
 297
 00:19:44,050 --> 00:19:47,651
-      a robot then picks up     
-           the l.e.d.s          
+a robot then picks up the l.e.d.s          
 
 298
 00:19:47,653 --> 00:19:49,987
-        and deposits them       
-     on the drops of paste.     
+and deposits them on the drops of paste.     
 
 299
 00:19:54,861 --> 00:19:57,195
-   the robot then puts a dome   
-        on each circuit,        
+the robot then puts a dome on each circuit,        
 
 300
 00:19:57,197 --> 00:19:59,330
- creating an electrical contact.
+creating an electrical contact.
 
 301
 00:19:59,332 --> 00:20:02,900
-   the red light you see is a   
+the red light you see is a   
 camera checking the positioning.
 
 302
 00:20:04,737 --> 00:20:07,404
 testing equipment runs a current
-      through the circuitry     
+through the circuitry     
 
 303
 00:20:07,406 --> 00:20:10,007
-          to make sure          
-     that everything works.     
+to make sure that everything works.     
 
 304
 00:20:10,009 --> 00:20:13,944
-   then a drop of transparent   
-  sealant goes over each l.e.d. 
+then a drop of transparent sealant goes over each l.e.d. 
 
 305
 00:20:13,946 --> 00:20:16,480
-       the sealant hardens      
-    under ultraviolet light,    
+the sealant hardens under ultraviolet light,    
 
 306
 00:20:16,482 --> 00:20:19,483
-   holding everything solidly   
-            in place.           
+holding everything solidly in place.           
 
 307
 00:20:19,485 --> 00:20:22,086
-  now workers remove the panel  
-     from the automated line    
+now workers remove the panel from the automated line    
 
 308
 00:20:22,088 --> 00:20:23,353
-         and plug it in.        
+and plug it in.        
 
 309
 00:20:23,355 --> 00:20:25,356
-   lighting up all the l.e.d.s  
+lighting up all the l.e.d.s  
 
 310
 00:20:25,358 --> 00:20:27,992
-       helps them position      
-  the graphic overlay properly. 
+helps them position the graphic overlay properly. 
 
 311
 00:20:30,430 --> 00:20:33,030
-       this control panel       
-       is for a wall oven.      
+this control panel is for a wall oven.      
 
 312
 00:20:33,032 --> 00:20:35,099
-    no l.e.d.s on this model.   
+no l.e.d.s on this model.   
 
 313
 00:20:35,101 --> 00:20:37,835
-      and instead of a dome     
-       behind each button,      
+and instead of a dome behind each button,      
 
 314
 00:20:37,837 --> 00:20:39,770
@@ -1499,54 +1289,45 @@ they print an electrical contact
 
 315
 00:20:39,772 --> 00:20:41,906
-    using the same conductive   
-           silver ink           
+using the same conductive silver ink           
 
 316
 00:20:41,908 --> 00:20:44,408
-       they use to print        
-       all the circuitry.       
+they use to print all the circuitry.       
 
 317
 00:20:48,381 --> 00:20:50,714
-        after rolling on        
-      the graphic overlay,      
+after rolling on the graphic overlay,      
 
 318
 00:20:50,716 --> 00:20:52,984
-          they peel off         
-     the protective plastic,    
+they peel off the protective plastic,    
 
 319
 00:20:52,986 --> 00:20:55,386
-   then flip the control panel  
-           upside down          
+then flip the control panel upside down          
 
 320
 00:20:55,388 --> 00:20:57,922
-   and snap it into its cover.  
+and snap it into its cover.  
 
 321
 00:20:57,924 --> 00:21:00,991
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 322
 00:21:00,993 --> 00:21:04,028
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 323
 00:21:12,605 --> 00:21:14,805
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 324
 00:21:14,807 --> 00:21:17,541
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 325
 00:21:17,543 --> 00:21:19,610
-      drop us a line at...      
+drop us a line at...      
 

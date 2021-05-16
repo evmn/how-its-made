@@ -1,64 +1,55 @@
 ﻿1
 00:00:01,669 --> 00:00:04,670
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,672 --> 00:00:07,707
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:52,987 --> 00:00:55,721
-    narrator: mountain bike     
-       suspension forks         
+narrator: mountain bike suspension forks         
 
 4
 00:00:55,723 --> 00:00:59,191
-         were developed         
-      in the early 1990s.       
+were developed in the early 1990s.       
 
 5
 00:00:59,193 --> 00:01:02,395
- like shock absorbers on a car, 
-     these forks expand and     
-           contract,            
+like shock absorbers on a car, these forks expand and contract,            
 
 6
 00:01:02,397 --> 00:01:04,463
-      absorbing the impact      
-       of rough terrain.        
+absorbing the impact of rough terrain.        
 
 7
 00:01:04,465 --> 00:01:07,266
-  they also provide traction,   
+they also provide traction,   
 
 8
 00:01:07,268 --> 00:01:09,068
-           which adds           
-   both comfort and control     
+which adds both comfort and control     
 
 9
 00:01:09,070 --> 00:01:10,570
-      to an offroad ride.       
+to an offroad ride.       
 
 10
 00:01:14,609 --> 00:01:17,009
-   there are plenty of jumps    
+there are plenty of jumps    
 and bumps on an offroad trail.  
 
 11
 00:01:17,011 --> 00:01:20,346
-       a suspension fork        
+a suspension fork        
 
 12
 00:01:20,348 --> 00:01:24,150
- ensures a cushioned landing.   
+ensures a cushioned landing.   
 
 13
 00:01:27,755 --> 00:01:29,688
-      they start by making      
-      the adjustment knob       
+they start by making the adjustment knob       
 
 14
 00:01:29,690 --> 00:01:34,360
@@ -66,753 +57,639 @@ for the compression mechanism.
 
 15
 00:01:34,362 --> 00:01:36,695
-       computerized tools       
-     carve an aluminum bar      
+computerized tools carve an aluminum bar      
 
 16
 00:01:36,697 --> 00:01:37,829
-      into a round shape        
+into a round shape        
 
 17
 00:01:37,831 --> 00:01:40,433
-          with grooves          
-     for better gripping.       
+with grooves for better gripping.       
 
 18
 00:01:40,435 --> 00:01:42,968
-  then, they add a protective   
-        black coating.          
+then, they add a protective black coating.          
 
 19
 00:01:42,970 --> 00:01:46,839
- a worker inserts a tension bar 
-  into a quick-release lever.   
+a worker inserts a tension bar into a quick-release lever.   
 
 20
 00:01:46,841 --> 00:01:48,440
-  the lever allows the rider    
+the lever allows the rider    
 
 21
 00:01:48,442 --> 00:01:49,842
-      to detach the wheel       
+to detach the wheel       
 
 22
 00:01:49,844 --> 00:01:51,710
-   from the suspension fork.    
+from the suspension fork.    
 
 23
 00:01:51,712 --> 00:01:55,313
- he presses a fastener into the 
+he presses a fastener into the 
 lever to secure it to the bar.  
 
 24
 00:01:55,315 --> 00:01:58,784
- he lubricates the tension bar  
-         with grease.           
+he lubricates the tension bar with grease.           
 
 25
 00:01:58,786 --> 00:02:03,789
-    then, he inserts the bar    
-     into the wheel axle,       
+then, he inserts the bar into the wheel axle,       
 
 26
 00:02:03,791 --> 00:02:05,124
-   joining it to the lever.     
+joining it to the lever.     
 
 27
 00:02:05,126 --> 00:02:08,527
-     a steel pin holds them     
-           together.            
+a steel pin holds them together.            
 
 28
 00:02:08,529 --> 00:02:11,463
-       an employee places       
-  the inner fork upside-down    
+an employee places the inner fork upside-down    
 
 29
 00:02:11,465 --> 00:02:12,798
-     in a hydraulic press.      
+in a hydraulic press.      
 
 30
 00:02:12,800 --> 00:02:15,601
-  he inserts the steering tube  
-      in the center hole        
+he inserts the steering tube in the center hole        
 
 31
 00:02:15,603 --> 00:02:19,105
-   and activates the press.     
+and activates the press.     
 
 32
 00:02:22,076 --> 00:02:25,077
-    then, he lubricates one     
-      of the tubular legs       
+then, he lubricates one of the tubular legs       
 
 33
 00:02:25,079 --> 00:02:27,079
-       and the upper part       
-       of an air spring.        
+and the upper part of an air spring.        
 
 34
 00:02:27,081 --> 00:02:29,014
-   he pushes the part through   
-    the bottom of the leg.      
+he pushes the part through the bottom of the leg.      
 
 35
 00:02:29,016 --> 00:02:30,482
-     it slides to the top,      
+it slides to the top,      
 
 36
 00:02:30,484 --> 00:02:31,650
-       where he installs        
+where he installs        
 
 37
 00:02:31,652 --> 00:02:36,488
-      an adjustment knob.       
+an adjustment knob.       
 
 38
 00:02:36,490 --> 00:02:40,292
-   he inserts the lower part    
-   of the air spring into the   
-              leg.              
+he inserts the lower part of the air spring into the leg.              
 
 39
 00:02:40,294 --> 00:02:43,628
-         the air spring         
-     allows the suspension      
+the air spring allows the suspension      
 
 40
 00:02:43,630 --> 00:02:45,297
-     to move up and down.       
+to move up and down.       
 
 41
 00:02:45,299 --> 00:02:50,703
-  he snaps a collar on the end  
-    to lock the air spring in   
-             place.             
+he snaps a collar on the end to lock the air spring in place.             
 
 42
 00:02:50,705 --> 00:02:53,305
-      the damper is next.       
+the damper is next.       
 
 43
 00:02:53,307 --> 00:02:54,707
-         it's a piston          
+it's a piston          
 
 44
 00:02:54,709 --> 00:02:57,976
- and oil-compression mechanism  
-     that absorbs energy.       
+and oil-compression mechanism that absorbs energy.       
 
 45
 00:02:57,978 --> 00:03:01,180
-       he pushes it into        
-  the second leg of the fork.   
+he pushes it into the second leg of the fork.   
 
 46
 00:03:01,182 --> 00:03:03,249
-      he screws a threaded      
-       collar and valve         
+he screws a threaded collar and valve         
 
 47
 00:03:03,251 --> 00:03:04,850
-   into the top of the damper   
-              leg.              
+into the top of the damper leg.              
 
 48
 00:03:07,588 --> 00:03:09,588
-           he adjusts           
-    the damper's position.      
+he adjusts the damper's position.      
 
 49
 00:03:12,660 --> 00:03:14,126
-  he adds oil to the damper,    
+he adds oil to the damper,    
 
 50
 00:03:14,128 --> 00:03:18,197
-      using a fill sleeve       
-      to prevent spills.        
+using a fill sleeve to prevent spills.        
 
 51
 00:03:18,199 --> 00:03:21,533
-        he pushes a rod         
-      through the damper        
+he pushes a rod through the damper        
 
 52
 00:03:21,535 --> 00:03:24,870
-    to get rid of any air.      
+to get rid of any air.      
 
 53
 00:03:24,872 --> 00:03:29,208
-       once the damper is       
-   full of oil and air-free,    
+once the damper is full of oil and air-free,    
 
 54
 00:03:29,210 --> 00:03:33,212
-    he installs the top cap     
-  and seals it with a gasket.   
+he installs the top cap and seals it with a gasket.   
 
 55
 00:03:33,214 --> 00:03:35,981
-     he screws a base ring      
-       onto the gasket.         
+he screws a base ring onto the gasket.         
 
 56
 00:03:39,686 --> 00:03:43,889
-       then, he installs        
-     the compression knob       
+then, he installs the compression knob       
 
 57
 00:03:43,891 --> 00:03:45,825
-   we saw machined earlier.     
+we saw machined earlier.     
 
 58
 00:03:45,827 --> 00:03:48,360
-   the knob allows the rider    
+the knob allows the rider    
 
 59
 00:03:48,362 --> 00:03:50,296
-   to adjust the compression    
-          of the oil.           
+to adjust the compression of the oil.           
 
 60
 00:03:53,835 --> 00:03:56,102
- with the inner fork complete,  
+with the inner fork complete,  
 
 61
 00:03:56,104 --> 00:03:59,104
-        they now move on        
-      to the outer fork.        
+they now move on to the outer fork.        
 
 62
 00:03:59,106 --> 00:04:01,373
- an employee inserts bushings   
+an employee inserts bushings   
 
 63
 00:04:01,375 --> 00:04:03,843
-      in the tubular legs       
+in the tubular legs       
 
 64
 00:04:03,845 --> 00:04:05,511
-         and activates          
-     a two-pronged press.       
+and activates a two-pronged press.       
 
 65
 00:04:05,513 --> 00:04:07,112
-   the press pushes bushings    
+the press pushes bushings    
 
 66
 00:04:07,114 --> 00:04:11,049
-  securely into the cavities.   
+securely into the cavities.   
 
 67
 00:04:11,051 --> 00:04:15,321
-   he secures the inner fork    
-     in a jig upside-down       
+he secures the inner fork in a jig upside-down       
 
 68
 00:04:15,323 --> 00:04:18,124
-   and slides the outer fork    
-           onto it.             
+and slides the outer fork onto it.             
 
 69
 00:04:18,126 --> 00:04:22,594
-    he lubricates the spaces    
-             between            
-  the inner and outer forks.    
+he lubricates the spaces between the inner and outer forks.    
 
 70
 00:04:22,596 --> 00:04:25,931
-         after bolting          
+after bolting          
 the suspension forks together,  
 
 71
 00:04:25,933 --> 00:04:28,134
- he increases the air pressure  
+he increases the air pressure  
 
 72
 00:04:28,136 --> 00:04:30,002
-         in the spring          
+in the spring          
 
 73
 00:04:30,004 --> 00:04:34,340
- and caps the air-fill valve.   
+and caps the air-fill valve.   
 
 74
 00:04:34,342 --> 00:04:37,009
-       now, for testing.        
+now, for testing.        
 
 75
 00:04:37,011 --> 00:04:40,145
-     a motor moves the fork     
-         up and down,           
+a motor moves the fork up and down,           
 
 76
 00:04:40,147 --> 00:04:43,682
-   simulating a bumpy ride.     
+simulating a bumpy ride.     
 
 77
 00:04:43,684 --> 00:04:47,686
-    a computer monitors the     
+a computer monitors the     
 suspension fork's performance.  
 
 78
 00:04:51,758 --> 00:04:53,692
-    after passing the test,     
+after passing the test,     
 
 79
 00:04:53,694 --> 00:04:56,162
- a worker applies brand decals  
-         to the fork.           
+a worker applies brand decals to the fork.           
 
 80
 00:04:56,164 --> 00:05:00,900
-  finally, he slides the axle   
-   into the lower part of the   
-              fork              
+finally, he slides the axle into the lower part of the fork              
 
 81
 00:05:00,902 --> 00:05:02,902
-        and secures it.         
+and secures it.         
 
 82
 00:05:06,306 --> 00:05:08,174
-       this mountain bike       
-        suspension fork         
+this mountain bike suspension fork         
 
 83
 00:05:08,176 --> 00:05:11,577
-         is complete.           
+is complete.           
 
 84
 00:05:11,579 --> 00:05:12,978
-   now, a technician fits it    
+now, a technician fits it    
 
 85
 00:05:12,980 --> 00:05:16,515
-    to the front of a bike.     
+to the front of a bike.     
 
 86
 00:05:16,517 --> 00:05:20,119
-   he attaches the handlebar    
-     to the steering tube       
+he attaches the handlebar to the steering tube       
 
 87
 00:05:20,121 --> 00:05:22,822
- with a nut and a long screw.   
+with a nut and a long screw.   
 
 88
 00:05:24,458 --> 00:05:30,129
-  next, he attaches the wheel   
-  to the fork with the axle.    
+next, he attaches the wheel to the fork with the axle.    
 
 89
 00:05:33,800 --> 00:05:35,601
-    it takes just two hours     
+it takes just two hours     
 
 90
 00:05:35,603 --> 00:05:37,169
-    to make a mountain bike     
-      suspension fork...        
+to make a mountain bike suspension fork...        
 
 91
 00:05:39,740 --> 00:05:42,875
-   but they're strong enough    
-    to last through many more   
-             hours              
+but they're strong enough to last through many more hours              
 
 92
 00:05:42,877 --> 00:05:44,543
-            on long,            
-    bumpy mountain trails.      
+on long, bumpy mountain trails.      
 
 93
 00:06:00,494 --> 00:06:04,763
-        humans have been        
-      performing surgery        
+humans have been performing surgery        
 
 94
 00:06:04,765 --> 00:06:07,165
-     for over 7,000 years,      
+for over 7,000 years,      
 
 95
 00:06:07,167 --> 00:06:09,834
-     but the use of surgical    
-             sutures            
-       is fairly recent.        
+but the use of surgical sutures is fairly recent.        
 
 96
 00:06:09,836 --> 00:06:12,705
-     ancient greek surgeons     
- were thought to be the first.  
+ancient greek surgeons were thought to be the first.  
 
 97
 00:06:12,707 --> 00:06:15,173
-     they used gut strings      
+they used gut strings      
 
 98
 00:06:15,175 --> 00:06:17,442
-      to mend the wounds of     
-           gladiators           
+to mend the wounds of gladiators           
 
 99
 00:06:17,444 --> 00:06:18,577
-     over 2,000 years ago.      
+over 2,000 years ago.      
 
 100
 00:06:22,450 --> 00:06:24,583
-  today's medical sutures come  
-      in different forms,       
+today's medical sutures come in different forms,       
 
 101
 00:06:24,585 --> 00:06:28,120
-       such as synthetic        
-     monofilament threads,      
+such as synthetic monofilament threads,      
 
 102
 00:06:28,122 --> 00:06:31,523
-   natural collagen fibers,     
+natural collagen fibers,     
 
 103
 00:06:31,525 --> 00:06:35,060
- or braided synthetic threads.  
+or braided synthetic threads.  
 
 104
 00:06:35,062 --> 00:06:38,063
-          a technician          
-     sets a tension meter       
+a technician sets a tension meter       
 
 105
 00:06:38,065 --> 00:06:40,465
-      to check the quality      
-     of the raw materials.      
+to check the quality of the raw materials.      
 
 106
 00:06:40,467 --> 00:06:43,335
-  the machine applies tension   
-          on the knot           
+the machine applies tension on the knot           
 
 107
 00:06:43,337 --> 00:06:46,138
-  to measure the force needed   
-         to break it.           
+to measure the force needed to break it.           
 
 108
 00:06:49,410 --> 00:06:51,743
- a worker tests the material's  
-      absorption process        
+a worker tests the material's absorption process        
 
 109
 00:06:51,745 --> 00:06:54,346
-       in a heated bath.        
+in a heated bath.        
 
 110
 00:06:54,348 --> 00:06:58,884
- this simulates the temperature 
-    and moisture of the human   
-             body.              
+this simulates the temperature and moisture of the human body.              
 
 111
 00:06:58,886 --> 00:07:02,288
-    a technician enters the     
-        product's medical       
-         specifications         
+a technician enters the product's medical specifications         
 
 112
 00:07:02,290 --> 00:07:05,057
-         and prints out         
-      a batch of labels.        
+and prints out a batch of labels.        
 
 113
 00:07:09,230 --> 00:07:11,230
-       then, a supervisor       
-        selects needles         
+then, a supervisor selects needles         
 
 114
 00:07:11,232 --> 00:07:16,635
-  and places them on a table.   
+and places them on a table.   
 
 115
 00:07:16,637 --> 00:07:21,173
- he retrieves spools of thread  
-   from a refrigerated room.    
+he retrieves spools of thread from a refrigerated room.    
 
 116
 00:07:21,175 --> 00:07:22,308
-    to preserve the thread,     
+to preserve the thread,     
 
 117
 00:07:22,310 --> 00:07:24,710
-        it's been stored        
-     in sealed containers.      
+it's been stored in sealed containers.      
 
 118
 00:07:27,848 --> 00:07:30,515
-     the supervisor gathers     
-       all the materials        
+the supervisor gathers all the materials        
 
 119
 00:07:30,517 --> 00:07:33,719
-     and brings them to the     
-            material            
-    preparation department.     
+and brings them to the material preparation department.     
 
 120
 00:07:33,721 --> 00:07:36,388
-    the supplies are passed     
-      through an air lock       
+the supplies are passed through an air lock       
 
 121
 00:07:36,390 --> 00:07:39,758
-  to maintain the department's  
+to maintain the department's  
 positive-pressure environment.  
 
 122
 00:07:42,797 --> 00:07:44,530
-       on the other side,       
-         a technician           
+on the other side, a technician           
 
 123
 00:07:44,532 --> 00:07:47,499
-    opens the airtight foil     
- and removes the thread spool.  
+opens the airtight foil and removes the thread spool.  
 
 124
 00:07:50,338 --> 00:07:52,470
-     she threads the spool      
+she threads the spool      
 
 125
 00:07:52,472 --> 00:07:55,908
-    in a custom-made winding    
-     and cutting machine.       
+in a custom-made winding and cutting machine.       
 
 126
 00:08:11,292 --> 00:08:14,826
-      the technician sets       
- the mechanical thread counter  
+the technician sets the mechanical thread counter  
 
 127
 00:08:14,828 --> 00:08:17,362
-          back to zero          
-    and starts the winder.      
+back to zero and starts the winder.      
 
 128
 00:08:17,364 --> 00:08:20,366
-    it can wind threads that    
-     are up to 100 inches.      
+it can wind threads that are up to 100 inches.      
 
 129
 00:08:23,837 --> 00:08:26,905
-       the counter tracks       
-    the number of windings      
+the counter tracks the number of windings      
 
 130
 00:08:26,907 --> 00:08:29,841
-         as the machine         
-     unspools the thread.       
+as the machine unspools the thread.       
 
 131
 00:08:29,843 --> 00:08:33,045
-        the machine stops       
-          automatically         
- once the winding is complete.  
+the machine stops automatically once the winding is complete.  
 
 132
 00:08:36,384 --> 00:08:39,050
-     the technician applies     
-      medical-grade glue        
+the technician applies medical-grade glue        
 
 133
 00:08:39,052 --> 00:08:40,786
-      to stiffen the ends       
-    of the braided threads      
+to stiffen the ends of the braided threads      
 
 134
 00:08:40,788 --> 00:08:42,154
-     before cutting them.       
+before cutting them.       
 
 135
 00:08:46,259 --> 00:08:49,528
-       she places a guide       
- to hold the threads in place   
+she places a guide to hold the threads in place   
 
 136
 00:08:49,530 --> 00:08:52,431
-      while she cuts them       
-     along the glue line.       
+while she cuts them along the glue line.       
 
 137
 00:09:00,540 --> 00:09:04,943
-      sutures use needles       
- of various shapes and sizes,   
+sutures use needles of various shapes and sizes,   
 
 138
 00:09:04,945 --> 00:09:07,846
-    the smallest ones being     
-   10 millimeters in length.    
+the smallest ones being 10 millimeters in length.    
 
 139
 00:09:12,018 --> 00:09:14,953
- on the main production floor,  
+on the main production floor,  
 
 140
 00:09:14,955 --> 00:09:18,090
-    dozens of workers attach    
-    needles to the threads.     
+dozens of workers attach needles to the threads.     
 
 141
 00:09:18,092 --> 00:09:19,691
- they make sure the attachment  
+they make sure the attachment  
 
 142
 00:09:19,693 --> 00:09:24,562
-       meets the suture's       
-         requirements.          
+meets the suture's requirements.          
 
 143
 00:09:24,564 --> 00:09:27,199
-     the operator inserts       
+the operator inserts       
 
 144
 00:09:27,201 --> 00:09:28,566
-     the glue-hardened end      
-         of the thread          
+the glue-hardened end of the thread          
 
 145
 00:09:28,568 --> 00:09:30,903
-  into the back of the needle   
-      and crimps it tight       
+into the back of the needle and crimps it tight       
 
 146
 00:09:30,905 --> 00:09:33,572
-       with a mechanical        
-       swaging machine.         
+with a mechanical swaging machine.         
 
 147
 00:09:33,574 --> 00:09:36,508
-   then, she hooks the needle   
-      into a pull tester        
+then, she hooks the needle into a pull tester        
 
 148
 00:09:36,510 --> 00:09:39,110
-     to check the strength      
-      of each attachment.       
+to check the strength of each attachment.       
 
 149
 00:09:39,112 --> 00:09:42,915
-        finally, workers        
-  wind the assembled sutures    
+finally, workers wind the assembled sutures    
 
 150
 00:09:42,917 --> 00:09:45,250
-  into folded holding cards,    
+into folded holding cards,    
 
 151
 00:09:45,252 --> 00:09:47,086
-     tucking the needles in     
-        for protection.         
+tucking the needles in for protection.         
 
 152
 00:09:53,527 --> 00:09:56,361
-  a worker inserts the holding  
- card in a labeled foil pouch.  
+a worker inserts the holding card in a labeled foil pouch.  
 
 153
 00:09:58,532 --> 00:10:01,266
-       then, he slips it        
-      in a second package       
+then, he slips it in a second package       
 
 154
 00:10:01,268 --> 00:10:05,470
-     made of medical paper      
-    and polypropylene film      
+made of medical paper and polypropylene film      
 
 155
 00:10:05,472 --> 00:10:08,740
-       and feeds it into        
-  a continuous rotary sealer.   
+and feeds it into a continuous rotary sealer.   
 
 156
 00:10:08,742 --> 00:10:12,277
- the sealed packages drop into  
- a production holding basket.   
+the sealed packages drop into a production holding basket.   
 
 157
 00:10:14,681 --> 00:10:20,218
-  the finished product is sent  
-   for terminal sterilizing.    
+the finished product is sent for terminal sterilizing.    
 
 158
 00:10:20,220 --> 00:10:21,687
-  a worker places the basket    
+a worker places the basket    
 
 159
 00:10:21,689 --> 00:10:26,291
-    into an ethylene oxide,     
- or eo, gas sterilization bag.  
+into an ethylene oxide, or eo, gas sterilization bag.  
 
 160
 00:10:26,293 --> 00:10:29,895
-          she attaches          
-  a biological indicator vial   
+she attaches a biological indicator vial   
 
 161
 00:10:29,897 --> 00:10:32,564
-      and a control strip       
-   on a sterilization control   
-              card              
+and a control strip on a sterilization control card              
 
 162
 00:10:32,566 --> 00:10:34,833
-       and puts the card        
-        inside the bag.         
+and puts the card inside the bag.         
 
 163
 00:10:34,835 --> 00:10:39,838
-  she adds an eo gas delayed-   
-  release canister in the bag   
+she adds an eo gas delayed- release canister in the bag   
 
 164
 00:10:39,840 --> 00:10:41,974
-   and places the sealed bag    
-     into the sterilizer.       
+and places the sealed bag into the sterilizer.       
 
 165
 00:10:49,716 --> 00:10:51,984
-      sutures can be used       
+sutures can be used       
 
 166
 00:10:51,986 --> 00:10:54,386
- for a variety of procedures,   
+for a variety of procedures,   
 
 167
 00:10:54,388 --> 00:10:56,788
-      but each product has      
-  a very precise application.   
+but each product has a very precise application.   
 
 168
 00:11:11,739 --> 00:11:14,673
-       harvested grains         
+harvested grains         
 
 169
 00:11:14,675 --> 00:11:17,208
-         must be dried          
-  before they can be stored.    
+must be dried before they can be stored.    
 
 170
 00:11:17,210 --> 00:11:20,144
-   otherwise, they'll spoil.    
+otherwise, they'll spoil.    
 
 171
 00:11:20,146 --> 00:11:23,014
-   farmers can outsource this   
-              work              
-   to someone else for a hefty  
-              fee,              
+farmers can outsource this work to someone else for a hefty fee,              
 
 172
 00:11:23,016 --> 00:11:25,951
-   or they can choose to keep   
-    everything on the farm      
+or they can choose to keep everything on the farm      
 
 173
 00:11:25,953 --> 00:11:28,320
@@ -820,764 +697,639 @@ by investing in a grain dryer.
 
 174
 00:11:31,158 --> 00:11:36,195
-    to use a grain dryer, the   
-             farmer             
-  simply dumps their harvest    
+to use a grain dryer, the farmer simply dumps their harvest    
 
 175
 00:11:36,197 --> 00:11:38,964
-    into a fold-down loading    
-            hopper.             
+into a fold-down loading hopper.             
 
 176
 00:11:38,966 --> 00:11:45,370
-   once the bin is full, he or  
-               she              
+once the bin is full, he or she              
 starts the dryer's power unit.  
 
 177
 00:11:45,372 --> 00:11:48,306
-   a central auger circulates   
-   the grain inside the bin     
+a central auger circulates the grain inside the bin     
 
 178
 00:11:48,308 --> 00:11:52,377
-   as a fan blows in hot air,   
-       drying the grain.        
+as a fan blows in hot air, drying the grain.        
 
 179
 00:11:52,379 --> 00:11:56,515
-          most of the           
-   grain dryer's components     
+most of the grain dryer's components     
 
 180
 00:11:56,517 --> 00:11:57,883
- are made out of steel tubing.  
+are made out of steel tubing.  
 
 181
 00:12:03,123 --> 00:12:06,558
-  workers cut the tubes to the  
-   various required lengths.    
+workers cut the tubes to the various required lengths.    
 
 182
 00:12:11,465 --> 00:12:12,931
- once all the pieces are cut,   
+once all the pieces are cut,   
 
 183
 00:12:12,933 --> 00:12:15,167
-     workers position them      
-      on an assembly jig.       
+workers position them on an assembly jig.       
 
 184
 00:12:19,072 --> 00:12:22,740
-    here, they're assembling    
-    the dryer's mainframe.      
+here, they're assembling the dryer's mainframe.      
 
 185
 00:12:22,742 --> 00:12:27,346
-   once all the parts are laid  
-              out,              
-   workers lock the pieces in   
-             place              
+once all the parts are laid out, workers lock the pieces in place              
 
 186
 00:12:27,348 --> 00:12:29,781
-    and weld them together.     
+and weld them together.     
 
 187
 00:12:36,890 --> 00:12:40,292
-         they assemble          
-   what's called the spider     
+they assemble what's called the spider     
 
 188
 00:12:40,294 --> 00:12:42,894
- on a different assembly jig.   
+on a different assembly jig.   
 
 189
 00:12:42,896 --> 00:12:46,231
-      the spider supports       
-  the dryer's plenum chamber,   
+the spider supports the dryer's plenum chamber,   
 
 190
 00:12:46,233 --> 00:12:48,433
-         the component          
-   at the center of the bin     
+the component at the center of the bin     
 
 191
 00:12:48,435 --> 00:12:51,770
- that distributes the hot air.  
+that distributes the hot air.  
 
 192
 00:12:51,772 --> 00:12:55,039
-    workers bolt the spider     
-       to the mainframe         
+workers bolt the spider to the mainframe         
 
 193
 00:12:55,041 --> 00:12:57,041
-       and move the unit        
-      to the paint area.        
+and move the unit to the paint area.        
 
 194
 00:12:57,043 --> 00:12:58,509
-    they clean and prime the    
-             steel,             
+they clean and prime the steel,             
 
 195
 00:12:58,511 --> 00:13:02,113
-       then, coat it with       
-  corrosion-resistant paint.    
+then, coat it with corrosion-resistant paint.    
 
 196
 00:13:02,115 --> 00:13:05,450
-    it takes 24 to 32 hours     
+it takes 24 to 32 hours     
 
 197
 00:13:05,452 --> 00:13:07,786
-     for the paint to dry.      
+for the paint to dry.      
 
 198
 00:13:07,788 --> 00:13:09,187
-        at that point,          
+at that point,          
 
 199
 00:13:09,189 --> 00:13:12,991
-   workers mount the agitator   
-        to the spider.          
+workers mount the agitator to the spider.          
 
 200
 00:13:12,993 --> 00:13:16,228
-    the agitator prevents wet   
-              grain             
+the agitator prevents wet grain             
 from sticking to the bin wall.  
 
 201
 00:13:19,266 --> 00:13:20,999
-   they mount the agitator's    
+they mount the agitator's    
 
 202
 00:13:21,001 --> 00:13:24,503
-    main drive chain to the     
- main gear and gearbox drive.   
+main drive chain to the main gear and gearbox drive.   
 
 203
 00:13:27,674 --> 00:13:30,342
-   meanwhile, a plasma torch    
-          cuts sheets           
+meanwhile, a plasma torch cuts sheets           
 
 204
 00:13:30,344 --> 00:13:35,013
- of perforated galvanized steel 
-         for the bin.           
+of perforated galvanized steel for the bin.           
 
 205
 00:13:35,015 --> 00:13:36,448
-     these pieces will form     
-     the circular bottom.       
+these pieces will form the circular bottom.       
 
 206
 00:13:39,619 --> 00:13:43,621
-     a press punches holes      
+a press punches holes      
 along the edges of each sheet.  
 
 207
 00:13:43,623 --> 00:13:51,563
-        workers connect         
-      the sheets together       
+workers connect the sheets together       
 
 208
 00:13:51,565 --> 00:13:54,166
-   and bolt them onto a ring    
-  called the transition band    
+and bolt them onto a ring called the transition band    
 
 209
 00:13:54,168 --> 00:13:57,902
- at the top of the mainframe.   
+at the top of the mainframe.   
 
 210
 00:13:57,904 --> 00:14:04,910
-   then, they lower the spider  
-               and              
-    bolt it to the transition   
-             band.              
+then, they lower the spider and bolt it to the transition band.              
 
 211
 00:14:04,912 --> 00:14:08,180
-  they bolt the plenum chamber  
-        to the spider.          
+they bolt the plenum chamber to the spider.          
 
 212
 00:14:08,182 --> 00:14:09,714
-      the chamber is made       
+the chamber is made       
 
 213
 00:14:09,716 --> 00:14:11,450
-         of perforated          
-   galvanized steel sheets.     
+of perforated galvanized steel sheets.     
 
 214
 00:14:11,452 --> 00:14:14,986
- hot air blown into the chamber 
-       by the power unit        
+hot air blown into the chamber by the power unit        
 
 215
 00:14:14,988 --> 00:14:18,423
-        exits through the       
-          perforations,         
- drying the circulating grain.  
+exits through the perforations, drying the circulating grain.  
 
 216
 00:14:24,164 --> 00:14:27,599
-      next, they assemble       
-    the bin's outside wall.     
+next, they assemble the bin's outside wall.     
 
 217
 00:14:27,601 --> 00:14:30,669
-      they bolt perforated      
-           galvanized           
-    steel sheets together,      
+they bolt perforated galvanized steel sheets together,      
 
 218
 00:14:30,671 --> 00:14:35,406
-  as well as to the transition  
-    band on the mainframe.      
+as well as to the transition band on the mainframe.      
 
 219
 00:14:35,408 --> 00:14:37,742
-     the sheets enclose the     
- plenum chamber at the center   
+the sheets enclose the plenum chamber at the center   
 
 220
 00:14:37,744 --> 00:14:40,812
-      and vent the dry air      
-   through the perforations.    
+and vent the dry air through the perforations.    
 
 221
 00:14:40,814 --> 00:14:43,748
-  workers mount the power unit  
-       to the mainframe.        
+workers mount the power unit to the mainframe.        
 
 222
 00:14:43,750 --> 00:14:48,220
-      the unit, consisting      
-     of a burner and fan,       
+the unit, consisting of a burner and fan,       
 
 223
 00:14:48,222 --> 00:14:50,155
-         blows hot air          
-   into the plenum chamber.     
+blows hot air into the plenum chamber.     
 
 224
 00:14:53,026 --> 00:14:56,561
-     in another part of the     
-            factory,            
- they build the loading hopper  
+in another part of the factory, they build the loading hopper  
 
 225
 00:14:56,563 --> 00:14:57,829
-      on an assembly jig.       
+on an assembly jig.       
 
 226
 00:15:00,434 --> 00:15:02,701
-         after welding          
-      the parts together,       
+after welding the parts together,       
 
 227
 00:15:02,703 --> 00:15:05,504
-       they clean, prime,       
-     and paint the steel;       
+they clean, prime, and paint the steel;       
 
 228
 00:15:05,506 --> 00:15:07,772
-       install the auger        
-     that moves the grain;      
+install the auger that moves the grain;      
 
 229
 00:15:07,774 --> 00:15:11,643
-  then, a cover the farmer can  
- adjust to regulate the flow.   
+then, a cover the farmer can adjust to regulate the flow.   
 
 230
 00:15:11,645 --> 00:15:15,179
-          he also adds          
-     a protective screen,       
+he also adds a protective screen,       
 
 231
 00:15:15,181 --> 00:15:17,649
-          for safety.           
+for safety.           
 
 232
 00:15:17,651 --> 00:15:19,250
-       then, they attach        
-  the finished loading hopper   
+then, they attach the finished loading hopper   
 
 233
 00:15:19,252 --> 00:15:22,253
-   to the dryer's mainframe.    
+to the dryer's mainframe.    
 
 234
 00:15:22,255 --> 00:15:23,721
-          it connects           
-     via a pivoting hinge       
+it connects via a pivoting hinge       
 
 235
 00:15:23,723 --> 00:15:28,993
-          on the front          
-     of the loading tube.       
+on the front of the loading tube.       
 
 236
 00:15:28,995 --> 00:15:30,462
-   the hinge lets the farmer    
-        fold the hopper         
+the hinge lets the farmer fold the hopper         
 
 237
 00:15:30,464 --> 00:15:35,066
-     up and out of the way      
-     when it's not in use.      
+up and out of the way when it's not in use.      
 
 238
 00:15:35,068 --> 00:15:37,936
-    workers install springs     
-       to make it easier        
+workers install springs to make it easier        
 
 239
 00:15:37,938 --> 00:15:40,705
-       to lower and raise       
-     the 60-pound hopper.       
+to lower and raise the 60-pound hopper.       
 
 240
 00:15:44,545 --> 00:15:47,145
-  they also install a latch,    
+they also install a latch,    
 
 241
 00:15:47,147 --> 00:15:49,881
-    which secures the hopper    
-        against the bin         
+which secures the hopper against the bin         
 
 242
 00:15:49,883 --> 00:15:52,884
- during storage or transport.   
+during storage or transport.   
 
 243
 00:15:52,886 --> 00:15:55,020
-     the grain dryer rolls      
+the grain dryer rolls      
 
 244
 00:15:55,022 --> 00:15:58,556
-  on wheels attached to axles   
-   bolted to the mainframe.     
+on wheels attached to axles bolted to the mainframe.     
 
 245
 00:15:58,558 --> 00:16:01,493
-        the last step is        
-      installing a ladder       
+the last step is installing a ladder       
 
 246
 00:16:01,495 --> 00:16:04,029
-  on the outside of the bin.    
+on the outside of the bin.    
 
 247
 00:16:04,031 --> 00:16:06,364
-      this provides access      
- to the top of the grain dryer  
+this provides access to the top of the grain dryer  
 
 248
 00:16:06,366 --> 00:16:10,602
-    for monitoring operation    
-       and maintenance.         
+for monitoring operation and maintenance.         
 
 249
 00:16:22,181 --> 00:16:26,184
-  frying pans were first used   
-    by the ancient greeks and   
-             romans             
+frying pans were first used by the ancient greeks and romans             
 
 250
 00:16:26,186 --> 00:16:27,518
-     over 2,000 years ago.      
+over 2,000 years ago.      
 
 251
 00:16:27,520 --> 00:16:28,854
-  these wide and shallow pans   
+these wide and shallow pans   
 
 252
 00:16:28,856 --> 00:16:31,322
-  can be used to saut, sear,    
+can be used to saut, sear,    
 
 253
 00:16:31,324 --> 00:16:32,657
-         or fry food.           
+or fry food.           
 
 254
 00:16:32,659 --> 00:16:34,125
-  water released from the food  
-        during cooking          
+water released from the food during cooking          
 
 255
 00:16:34,127 --> 00:16:36,795
- creates that sizzling sound.   
+creates that sizzling sound.   
 
 256
 00:16:36,797 --> 00:16:38,797
-      the shape of the pan      
-  allows steam to dissipate,    
+the shape of the pan allows steam to dissipate,    
 
 257
 00:16:38,799 --> 00:16:41,433
- giving food a crispy finish.   
+giving food a crispy finish.   
 
 258
 00:16:45,072 --> 00:16:46,271
-  a good nonstick frying pan    
+a good nonstick frying pan    
 
 259
 00:16:46,273 --> 00:16:49,808
-   is a must in the kitchen.    
+is a must in the kitchen.    
 
 260
 00:16:49,810 --> 00:16:53,411
-    a frying pan can be made    
- of any heat-conductive metal.  
+a frying pan can be made of any heat-conductive metal.  
 
 261
 00:16:53,413 --> 00:16:55,880
-         in this case,          
-    aluminum alloy ingots.      
+in this case, aluminum alloy ingots.      
 
 262
 00:16:55,882 --> 00:16:59,551
-     they melt the ingots.      
+they melt the ingots.      
 
 263
 00:16:59,553 --> 00:17:03,421
-    a robotic ladle scoops up   
-             molten             
-     aluminum to be used for    
-            casting.            
+a robotic ladle scoops up molten aluminum to be used for casting.            
 
 264
 00:17:03,423 --> 00:17:07,025
-  they use this two-part die    
+they use this two-part die    
 
 265
 00:17:07,027 --> 00:17:10,061
-  to transform liquid aluminum  
-      into a frying pan.        
+to transform liquid aluminum into a frying pan.        
 
 266
 00:17:13,900 --> 00:17:15,834
-       the robotic ladle        
+the robotic ladle        
 
 267
 00:17:15,836 --> 00:17:17,168
-       pours the aluminum       
-         into the die           
+pours the aluminum into the die           
 
 268
 00:17:17,170 --> 00:17:21,473
-  through a cylindrical port.   
+through a cylindrical port.   
 
 269
 00:17:25,112 --> 00:17:29,581
-   this high-pressure casting   
+this high-pressure casting   
 produces a very precise shape.  
 
 270
 00:17:29,583 --> 00:17:33,385
-     after about a minute,      
-   an operator takes it out.    
+after about a minute, an operator takes it out.    
 
 271
 00:17:33,387 --> 00:17:38,456
-    they cut off the excess     
-  using a computerized tool.    
+they cut off the excess using a computerized tool.    
 
 272
 00:17:38,458 --> 00:17:40,858
-        the table moves         
-       as the tool cuts         
+the table moves as the tool cuts         
 
 273
 00:17:40,860 --> 00:17:44,329
-      the edge of the pan       
-      to specifications.        
+the edge of the pan to specifications.        
 
 274
 00:17:44,331 --> 00:17:49,667
-    a worker sands the edges    
- and rounds the rim of the pan  
+a worker sands the edges and rounds the rim of the pan  
 
 275
 00:17:49,669 --> 00:17:52,937
-        a little more.          
+a little more.          
 
 276
 00:17:52,939 --> 00:17:58,109
-   they cast pans in several    
-    sizes and thicknesses.      
+they cast pans in several sizes and thicknesses.      
 
 277
 00:18:01,080 --> 00:18:04,883
-  an employee keeps a detailed  
-    inventory of the pans.      
+an employee keeps a detailed inventory of the pans.      
 
 278
 00:18:09,022 --> 00:18:13,425
-    next, they put the pans     
-  in a sand-blasting chamber.   
+next, they put the pans in a sand-blasting chamber.   
 
 279
 00:18:13,427 --> 00:18:18,096
-  the sand blaster cleans off   
-       oil and residue.         
+the sand blaster cleans off oil and residue.         
 
 280
 00:18:18,098 --> 00:18:20,632
-      it also roughens up       
-    the surface of the pans     
+it also roughens up the surface of the pans     
 
 281
 00:18:20,634 --> 00:18:22,367
- to prepare them for coating.   
+to prepare them for coating.   
 
 282
 00:18:22,369 --> 00:18:28,173
-   an employee scrubs off the   
-              sand              
-    using an abrasive pad.      
+an employee scrubs off the sand using an abrasive pad.      
 
 283
 00:18:28,175 --> 00:18:31,176
-     next, the pans receive     
-    their ceramic coating.      
+next, the pans receive their ceramic coating.      
 
 284
 00:18:31,178 --> 00:18:34,312
-    each pan spins on a pod     
-       as a plasma flame        
+each pan spins on a pod as a plasma flame        
 
 285
 00:18:34,314 --> 00:18:37,982
-     melts three different      
-       powders onto it.         
+melts three different powders onto it.         
 
 286
 00:18:37,984 --> 00:18:40,619
-  the coating protects the pan  
-        from corrosion.         
+the coating protects the pan from corrosion.         
 
 287
 00:18:44,057 --> 00:18:47,458
-  an employee scrubs each pan   
-     with an abrasive pad       
+an employee scrubs each pan with an abrasive pad       
 
 288
 00:18:47,460 --> 00:18:50,395
-    to remove the residue.      
+to remove the residue.      
 
 289
 00:18:50,397 --> 00:18:54,165
-   this time, the frying pan    
-         spins slowly           
+this time, the frying pan spins slowly           
 
 290
 00:18:54,167 --> 00:18:57,134
-     as torches heat them       
+as torches heat them       
 
 291
 00:18:57,136 --> 00:19:01,406
-     to approximately 175.      
+to approximately 175.      
 
 292
 00:19:01,408 --> 00:19:06,678
-  this preheat preps the pans   
-    for the final coatings.     
+this preheat preps the pans for the final coatings.     
 
 293
 00:19:06,680 --> 00:19:09,881
-    they prepare up to five     
-       proprietary coating      
-          formulations          
+they prepare up to five proprietary coating formulations          
 
 294
 00:19:09,883 --> 00:19:13,484
-  for each frying pan model.    
+for each frying pan model.    
 
 295
 00:19:13,486 --> 00:19:15,086
-    each one contains dozens    
-         of chemicals           
+each one contains dozens of chemicals           
 
 296
 00:19:15,088 --> 00:19:18,956
-     and thousands of tiny      
-      diamond particles.        
+and thousands of tiny diamond particles.        
 
 297
 00:19:18,958 --> 00:19:21,225
-      the diamonds increase     
-           durability           
-    and heat conductivity.      
+the diamonds increase durability and heat conductivity.      
 
 298
 00:19:21,227 --> 00:19:23,961
-      they also make food       
+they also make food       
 
 299
 00:19:23,963 --> 00:19:26,898
-      less likely to stick      
-  to the surface of the pan.    
+less likely to stick to the surface of the pan.    
 
 300
 00:19:26,900 --> 00:19:29,901
-   the final coating contains   
-      a nonstick chemical       
+the final coating contains a nonstick chemical       
 
 301
 00:19:29,903 --> 00:19:34,038
-        known as ptfe.          
+known as ptfe.          
 
 302
 00:19:34,040 --> 00:19:36,574
-    they spray the different    
-  coatings onto the surface.    
+they spray the different coatings onto the surface.    
 
 303
 00:19:36,576 --> 00:19:39,244
-      the spinning ensures      
-         even coverage          
+the spinning ensures even coverage          
 
 304
 00:19:39,246 --> 00:19:42,847
-     as the coatings adhere     
-       to the hot pans.         
+as the coatings adhere to the hot pans.         
 
 305
 00:19:44,917 --> 00:19:48,653
-   now, a primer is applied.    
+now, a primer is applied.    
 
 306
 00:19:48,655 --> 00:19:51,456
-      it allows the final       
-       nonstick coating         
+it allows the final nonstick coating         
 
 307
 00:19:51,458 --> 00:19:54,793
-  to bond to the frying pan.    
+to bond to the frying pan.    
 
 308
 00:19:56,863 --> 00:19:58,463
-    at the end of the line,     
+at the end of the line,     
 
 309
 00:19:58,465 --> 00:20:02,066
-    an employee inspects the    
-             finish             
-   and sprays a little more     
+an employee inspects the finish and sprays a little more     
 
 310
 00:20:02,068 --> 00:20:05,303
-    of the nonstick formula     
-   onto the handle fitting.     
+of the nonstick formula onto the handle fitting.     
 
 311
 00:20:07,074 --> 00:20:09,474
-    then, the frying pans go    
-       through a furnace        
+then, the frying pans go through a furnace        
 
 312
 00:20:09,476 --> 00:20:12,877
-      to bake the coatings      
-        onto the pans.          
+to bake the coatings onto the pans.          
 
 313
 00:20:12,879 --> 00:20:17,815
-       an employee checks       
-    the finish for bubbles,     
+an employee checks the finish for bubbles,     
 
 314
 00:20:17,817 --> 00:20:20,752
-           scratches,           
-   or color inconsistencies.    
+scratches, or color inconsistencies.    
 
 315
 00:20:20,754 --> 00:20:23,421
-  once the pans have cooled,    
+once the pans have cooled,    
 
 316
 00:20:23,423 --> 00:20:26,690
-     a robot transfers them     
-          to a lathe.           
+a robot transfers them to a lathe.           
 
 317
 00:20:26,692 --> 00:20:28,025
-    the lathe spins the pan     
+the lathe spins the pan     
 
 318
 00:20:28,027 --> 00:20:30,762
-      as a tool shaves off      
-   a thin layer of aluminum.    
+as a tool shaves off a thin layer of aluminum.    
 
 319
 00:20:30,764 --> 00:20:32,329
-      this leaves a clean,      
-         level surface          
+this leaves a clean, level surface          
 
 320
 00:20:32,331 --> 00:20:35,833
-   on the bottom of the pan.    
+on the bottom of the pan.    
 
 321
 00:20:35,835 --> 00:20:39,838
-  a suctioning robot moves the  
-     frying pan to the next     
-            station,            
+a suctioning robot moves the frying pan to the next station,            
 
 322
 00:20:39,840 --> 00:20:40,972
-        where a worker          
+where a worker          
 
 323
 00:20:40,974 --> 00:20:43,308
- attaches a handle to the pan.  
+attaches a handle to the pan.  
 
 324
 00:20:43,310 --> 00:20:45,510
-    an automatic screwdriver    
-          secures it.           
+an automatic screwdriver secures it.           
 
 325
 00:20:50,784 --> 00:20:52,250
-    a technician heats one      
+a technician heats one      
 
 326
 00:20:52,252 --> 00:20:54,052
-     of the frying pans on a    
-            cooktop             
+of the frying pans on a cooktop             
 
 327
 00:20:54,054 --> 00:20:57,655
-  as a mechanical arm rubs the  
-               pan              
-      thousands of times        
+as a mechanical arm rubs the pan thousands of times        
 
 328
 00:20:57,657 --> 00:21:00,759
-      with a coarse piece       
-         of sandpaper.          
+with a coarse piece of sandpaper.          
 
 329
 00:21:06,066 --> 00:21:08,266
-    there are no scratches,     
+there are no scratches,     
 
 330
 00:21:08,268 --> 00:21:10,935
-  so the entire batch of pans   
-         is approved.           
+so the entire batch of pans is approved.           
 
 331
 00:21:10,937 --> 00:21:13,337
-     thousands of nonstick      
-          frying pans           
+thousands of nonstick frying pans           
 
 332
 00:21:13,339 --> 00:21:14,539
@@ -1585,19 +1337,17 @@ are ready to leave the factory
 
 333
 00:21:14,541 --> 00:21:19,043
-   and cook up a tasty meal.    
+and cook up a tasty meal.    
 
 334
 00:21:28,221 --> 00:21:30,221
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 335
 00:21:30,223 --> 00:21:33,090
-    or you'd like to suggest    
-   topics for future shows,     
+or you'd like to suggest topics for future shows,     
 
 336
 00:21:33,092 --> 00:21:34,826
-     drop us a line at...       
+drop us a line at...       
 

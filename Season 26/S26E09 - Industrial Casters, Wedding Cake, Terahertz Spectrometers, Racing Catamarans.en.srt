@@ -1,229 +1,186 @@
 ﻿1
 00:00:01,669 --> 00:00:04,670
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,672 --> 00:00:07,707
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:54,455 --> 00:00:57,856
-  narrator: industrial casters  
-     are used to move heavy     
-           equipment            
+narrator: industrial casters are used to move heavy equipment            
 
 4
 00:00:57,858 --> 00:01:00,726
- from one location to another.  
+from one location to another.  
 
 5
 00:01:00,728 --> 00:01:03,528
-    the wheels make it easy     
-   to move mining machinery,    
+the wheels make it easy to move mining machinery,    
 
 6
 00:01:03,530 --> 00:01:05,263
-    large medical devices,      
+large medical devices,      
 
 7
 00:01:05,265 --> 00:01:06,866
-       or factory carts         
+or factory carts         
 
 8
 00:01:06,868 --> 00:01:09,368
-     wherever and whenever      
-        it's required.          
+wherever and whenever it's required.          
 
 9
 00:01:13,741 --> 00:01:15,341
-    the size of the object      
+the size of the object      
 
 10
 00:01:15,343 --> 00:01:19,211
-      determines the size       
-   of the casters used to move  
-              it.               
+determines the size of the casters used to move it.               
 
 11
 00:01:19,213 --> 00:01:22,214
-    heavy items need casters    
-     with thicker wheels.       
+heavy items need casters with thicker wheels.       
 
 12
 00:01:22,216 --> 00:01:23,749
-      some larger objects       
+some larger objects       
 
 13
 00:01:23,751 --> 00:01:27,753
-    may need multiple wheels    
-    to evenly distribute its    
-            weight.             
+may need multiple wheels to evenly distribute its weight.             
 
 14
 00:01:27,755 --> 00:01:29,555
-    first, they make the top    
-             plate,             
+first, they make the top plate,             
 
 15
 00:01:29,557 --> 00:01:32,625
-    which mounts the caster     
-    underneath the object.      
+which mounts the caster underneath the object.      
 
 16
 00:01:32,627 --> 00:01:35,094
- they begin with a thick sheet  
-           of steel.            
+they begin with a thick sheet of steel.            
 
 17
 00:01:35,096 --> 00:01:38,030
-   a computer-guided cutting    
-    machine combines oxygen     
+a computer-guided cutting machine combines oxygen     
 
 18
 00:01:38,032 --> 00:01:42,101
-        and electricity         
-      to produce plasma.        
+and electricity to produce plasma.        
 
 19
 00:01:42,103 --> 00:01:47,173
-    this incredibly hot flame   
-              melts             
+this incredibly hot flame melts             
 the steel to cut out the part.  
 
 20
 00:01:47,175 --> 00:01:50,910
- they make several other caster 
-   parts out of steel coil.     
+they make several other caster parts out of steel coil.     
 
 21
 00:01:50,912 --> 00:01:55,047
-        it's a thinner,         
- more flexible type of steel.   
+it's a thinner, more flexible type of steel.   
 
 22
 00:01:55,049 --> 00:01:57,383
-          they fit it           
-    through a punch press.      
+they fit it through a punch press.      
 
 23
 00:01:57,385 --> 00:02:00,052
-      the press strikes it      
-    with a yoke-shaped die.     
+the press strikes it with a yoke-shaped die.     
 
 24
 00:02:02,323 --> 00:02:06,192
-   the yokes are the arms that  
-              hold              
- each side of the wheel axle.   
+the yokes are the arms that hold each side of the wheel axle.   
 
 25
 00:02:11,532 --> 00:02:15,134
- workers place each yoke piece  
-      in a forming press.       
+workers place each yoke piece in a forming press.       
 
 26
 00:02:15,136 --> 00:02:18,337
-   the press bends the piece    
-   into the required shape.     
+the press bends the piece into the required shape.     
 
 27
 00:02:18,339 --> 00:02:21,540
-    it also makes a circular    
-             groove             
+it also makes a circular groove             
 around the hole in the middle.  
 
 28
 00:02:27,815 --> 00:02:31,616
-   next they fill the groove    
-   with steel ball bearings.    
+next they fill the groove with steel ball bearings.    
 
 29
 00:02:31,618 --> 00:02:35,955
- these bearings allow the yoke  
-          to swivel.            
+these bearings allow the yoke to swivel.            
 
 30
 00:02:35,957 --> 00:02:40,826
-    the steel retainer holds    
-  the ball bearings in place.   
+the steel retainer holds the ball bearings in place.   
 
 31
 00:02:40,828 --> 00:02:42,828
-     they fill the grooves      
-       of the steel cap         
+they fill the grooves of the steel cap         
 
 32
 00:02:42,830 --> 00:02:45,297
- with ball bearings, as well.   
+with ball bearings, as well.   
 
 33
 00:02:45,299 --> 00:02:47,166
-       then they place it       
-       in a punch press         
+then they place it in a punch press         
 
 34
 00:02:47,168 --> 00:02:50,569
-     and position the yoke      
-         on top of it.          
+and position the yoke on top of it.          
 
 35
 00:02:50,571 --> 00:02:53,371
-    the press joins the cap     
-    to the yokes retainer,      
+the press joins the cap to the yokes retainer,      
 
 36
 00:02:53,373 --> 00:02:57,642
- sandwiching the ball bearings  
-          in between.           
+sandwiching the ball bearings in between.           
 
 37
 00:02:57,644 --> 00:03:00,345
-  after riveting the top plate  
-         to the yoke,           
+after riveting the top plate to the yoke,           
 
 38
 00:03:00,347 --> 00:03:03,516
-     they put a steel seal      
-      over the retainer.        
+they put a steel seal over the retainer.        
 
 39
 00:03:03,518 --> 00:03:06,552
-     they lock it in place      
-    with a pneumatic press.     
+they lock it in place with a pneumatic press.     
 
 40
 00:03:11,391 --> 00:03:15,594
-  this factory purchases nylon  
+this factory purchases nylon  
 wheel inserts from a supplier.  
 
 41
 00:03:15,596 --> 00:03:21,600
-   workers place the inserts    
+workers place the inserts    
 in an injection molding press.  
 
 42
 00:03:21,602 --> 00:03:27,606
-    the press melts neoprene    
-             rubber             
- and injects it into the mold.  
+the press melts neoprene rubber and injects it into the mold.  
 
 43
 00:03:27,608 --> 00:03:29,941
-    once it cools to a solid    
-             state,             
+once it cools to a solid state,             
 
 44
 00:03:29,943 --> 00:03:33,212
-   the machine ejects what are  
-               now              
-     rubber-edged wheels.       
+the machine ejects what are now rubber-edged wheels.       
 
 45
 00:03:36,217 --> 00:03:40,819
-       this process takes       
-      about four minutes.       
+this process takes about four minutes.       
 
 46
 00:03:40,821 --> 00:03:42,888
@@ -231,352 +188,294 @@ the rubber edge absorbs shock,
 
 47
 00:03:42,890 --> 00:03:46,559
-  reduces noise, and prevents   
-     damage to the floor.       
+reduces noise, and prevents damage to the floor.       
 
 48
 00:03:50,698 --> 00:03:53,165
-       when this factory        
- needs to make larger wheels,   
+when this factory needs to make larger wheels,   
 
 49
 00:03:53,167 --> 00:03:55,367
- they use a different injection 
-        molding press,          
+they use a different injection molding press,          
 
 50
 00:03:55,369 --> 00:03:57,102
-   one that can make wheels     
+one that can make wheels     
 
 51
 00:03:57,104 --> 00:04:00,439
-     five times larger than     
-    their standard models.      
+five times larger than their standard models.      
 
 52
 00:04:00,441 --> 00:04:03,242
-        it works exactly        
-    like the other injection    
-             molder             
+it works exactly like the other injection molder             
 
 53
 00:04:03,244 --> 00:04:06,145
- except it only makes one wheel 
-           at time.             
+except it only makes one wheel at time.             
 
 54
 00:04:15,322 --> 00:04:18,256
-   a worker carefully places    
- the wheel on a cool-down rack  
+a worker carefully places the wheel on a cool-down rack  
 
 55
 00:04:18,258 --> 00:04:20,326
-   for two and a half hours.    
+for two and a half hours.    
 
 56
 00:04:24,732 --> 00:04:28,000
-        the wheel molds         
-    are made of two parts.      
+the wheel molds are made of two parts.      
 
 57
 00:04:28,002 --> 00:04:32,738
-     the parts form a seam      
-        once attached.          
+the parts form a seam once attached.          
 
 58
 00:04:32,740 --> 00:04:34,740
-        a worker grinds         
-     down the rubber seam       
+a worker grinds down the rubber seam       
 
 59
 00:04:34,742 --> 00:04:36,842
- until the surface is smooth.   
+until the surface is smooth.   
 
 60
 00:04:39,614 --> 00:04:44,750
-    now that all the caster's   
-              parts             
+now that all the caster's parts             
 are ready, assembly can begin.  
 
 61
 00:04:44,752 --> 00:04:48,286
-  first they place a two-part   
-   bearing inside the wheel     
+first they place a two-part bearing inside the wheel     
 
 62
 00:04:48,288 --> 00:04:51,056
-   and lock it into position    
-    with a pneumatic press.     
+and lock it into position with a pneumatic press.     
 
 63
 00:04:56,497 --> 00:04:59,899
-    next they install a steel   
-              guard             
-         on each side.          
+next they install a steel guard on each side.          
 
 64
 00:04:59,901 --> 00:05:02,902
-  the guards prevent anything   
- from getting inside the wheel  
+the guards prevent anything from getting inside the wheel  
 
 65
 00:05:02,904 --> 00:05:05,637
- and inhibiting its movement.   
+and inhibiting its movement.   
 
 66
 00:05:05,639 --> 00:05:08,641
-    they position the wheel     
- between the yokes and insert   
+they position the wheel between the yokes and insert   
 
 67
 00:05:08,643 --> 00:05:10,042
-     the steel wheel axle.      
+the steel wheel axle.      
 
 68
 00:05:12,579 --> 00:05:14,713
- a bolt head secures one end,   
+a bolt head secures one end,   
 
 69
 00:05:14,715 --> 00:05:16,915
-     and they attach a nut      
-         to the other.          
+and they attach a nut to the other.          
 
 70
 00:05:16,917 --> 00:05:20,252
-  then they tighten everything  
-      with an impact gun.       
+then they tighten everything with an impact gun.       
 
 71
 00:05:20,254 --> 00:05:23,522
-       they inject grease       
-      to lubricate the ball     
-           bearings.            
+they inject grease to lubricate the ball bearings.            
 
 72
 00:05:23,524 --> 00:05:26,458
-    this factory runs random    
-             samples            
-       through a series         
+this factory runs random samples through a series         
 
 73
 00:05:26,460 --> 00:05:28,994
-   of quality control tests.    
+of quality control tests.    
 
 74
 00:05:28,996 --> 00:05:30,729
-   a machine applies weight     
+a machine applies weight     
 
 75
 00:05:30,731 --> 00:05:33,999
-       and counts how many      
-           revolutions          
-   the caster can withstand     
+and counts how many revolutions the caster can withstand     
 
 76
 00:05:34,001 --> 00:05:35,835
-   before it finally breaks.    
+before it finally breaks.    
 
 77
 00:05:39,740 --> 00:05:41,806
-       this factory also        
-     makes special casters      
+this factory also makes special casters      
 
 78
 00:05:41,808 --> 00:05:44,876
-   for oven and freezer carts   
-      using rubber wheels       
+for oven and freezer carts using rubber wheels       
 
 79
 00:05:44,878 --> 00:05:49,681
-   built to withstand extreme   
-              heat              
-           or cold.             
+built to withstand extreme heat or cold.             
 
 80
 00:05:49,683 --> 00:05:52,218
-      their ball bearings       
-    are also lubricated with    
-             grease             
+their ball bearings are also lubricated with grease             
 
 81
 00:05:52,220 --> 00:05:54,820
- that doesn't freeze or melt.   
+that doesn't freeze or melt.   
 
 82
 00:05:54,822 --> 00:05:58,457
- casters can also come equipped 
- with a foot-activated brake.   
+casters can also come equipped with a foot-activated brake.   
 
 83
 00:06:11,572 --> 00:06:13,171
-           narrator:            
-   wedding cakes have become    
+narrator: wedding cakes have become    
 
 84
 00:06:13,173 --> 00:06:15,774
-   bigger and more elaborate    
-        over the years.         
+bigger and more elaborate over the years.         
 
 85
 00:06:15,776 --> 00:06:16,976
-     today's wedding cakes      
+today's wedding cakes      
 
 86
 00:06:16,978 --> 00:06:19,511
-        are multi-tiered        
-   and even multi-flavored.     
+are multi-tiered and even multi-flavored.     
 
 87
 00:06:19,513 --> 00:06:21,846
-   they're typically covered    
-       in fondant icing         
+they're typically covered in fondant icing         
 
 88
 00:06:21,848 --> 00:06:24,450
-         and decorated          
-  with ornate sugar flowers.    
+and decorated with ornate sugar flowers.    
 
 89
 00:06:24,452 --> 00:06:26,852
-      the finished product      
-   is an edible work of art,    
+the finished product is an edible work of art,    
 
 90
 00:06:26,854 --> 00:06:28,921
- perfect for that special day.  
+perfect for that special day.  
 
 91
 00:06:31,525 --> 00:06:36,195
- these customized wedding cakes 
-    are covered in fondant.     
+these customized wedding cakes are covered in fondant.     
 
 92
 00:06:36,197 --> 00:06:38,263
-    this special icing acts     
-          as a canvas           
+this special icing acts as a canvas           
 
 93
 00:06:38,265 --> 00:06:41,166
-   on which delicious designs   
-        can be created.         
+on which delicious designs can be created.         
 
 94
 00:06:43,471 --> 00:06:45,938
-   the baker starts by making   
-        chocolate cakes         
+the baker starts by making chocolate cakes         
 
 95
 00:06:45,940 --> 00:06:47,673
-     for the bottom tier.       
+for the bottom tier.       
 
 96
 00:06:47,675 --> 00:06:49,874
-         once the cakes         
-     come out of the oven,      
+once the cakes come out of the oven,      
 
 97
 00:06:49,876 --> 00:06:53,078
-  she transfers them directly   
-        to the fridge.          
+she transfers them directly to the fridge.          
 
 98
 00:06:53,080 --> 00:06:57,349
-      the cool, firm cakes      
+the cool, firm cakes      
 are easy to slice into layers.  
 
 99
 00:06:57,351 --> 00:07:01,487
-     she spreads buttercream    
-            frosting            
-      between the layers.       
+she spreads buttercream frosting between the layers.       
 
 100
 00:07:01,489 --> 00:07:05,090
-    the frosting ingredients    
+the frosting ingredients    
 include lightly salted butter,  
 
 101
 00:07:05,092 --> 00:07:06,358
-         icing sugar,           
+icing sugar,           
 
 102
 00:07:06,360 --> 00:07:08,827
-    and dutch cocoa powder.     
+and dutch cocoa powder.     
 
 103
 00:07:08,829 --> 00:07:10,095
-        layer by layer,         
+layer by layer,         
 
 104
 00:07:10,097 --> 00:07:14,566
-      she builds the tier       
-    to the desired height.      
+she builds the tier to the desired height.      
 
 105
 00:07:14,568 --> 00:07:17,369
-       she puts the tier        
-      back in the fridge.       
+she puts the tier back in the fridge.       
 
 106
 00:07:17,371 --> 00:07:19,772
-    while it's solidifying,     
-    she makes the gum paste     
+while it's solidifying, she makes the gum paste     
 
 107
 00:07:19,774 --> 00:07:24,109
-       that will be used        
- to craft the edible flowers.   
+that will be used to craft the edible flowers.   
 
 108
 00:07:24,111 --> 00:07:27,346
-  first, she adds icing sugar   
-       to egg whites...         
+first, she adds icing sugar to egg whites...         
 
 109
 00:07:30,918 --> 00:07:34,286
- ...then thins out the mixture  
-   with a teaspoon of water.    
+...then thins out the mixture with a teaspoon of water.    
 
 110
 00:07:36,456 --> 00:07:38,657
- next, she adds food coloring.  
+next, she adds food coloring.  
 
 111
 00:07:41,462 --> 00:07:44,063
-   she mixes the ingredients    
-    for a couple of minutes     
+she mixes the ingredients for a couple of minutes     
 
 112
 00:07:44,065 --> 00:07:47,032
-    until they're thoroughly    
-           blended.             
+until they're thoroughly blended.             
 
 113
 00:07:47,034 --> 00:07:48,801
-    she adds tylose powder,     
+she adds tylose powder,     
 
 114
 00:07:48,803 --> 00:07:53,338
-   a synthetic version of gum   
- arabic to harden the mixture.  
+a synthetic version of gum arabic to harden the mixture.  
 
 115
 00:07:53,340 --> 00:07:56,675
-    after another 15 seconds    
-   of mixing, the gum paste     
+after another 15 seconds of mixing, the gum paste     
 
 116
 00:07:56,677 --> 00:07:58,877
-    is ready for kneading.      
+is ready for kneading.      
 
 117
 00:07:58,879 --> 00:08:01,814
- the baker rubs some vegetable  
-    shortening on her hands     
+the baker rubs some vegetable shortening on her hands     
 
 118
 00:08:01,816 --> 00:08:03,615
-       for lubrication.         
+for lubrication.         
 
 119
 00:08:03,617 --> 00:08:05,550
@@ -584,199 +483,159 @@ she sprinkles some icing sugar
 
 120
 00:08:05,552 --> 00:08:08,887
-    on the table to prevent     
- the gum paste from sticking.   
+on the table to prevent the gum paste from sticking.   
 
 121
 00:08:08,889 --> 00:08:13,158
- then she kneads the gum paste  
-     for 5 to 10 minutes.       
+then she kneads the gum paste for 5 to 10 minutes.       
 
 122
 00:08:13,160 --> 00:08:16,028
-   now the artistry begins.     
+now the artistry begins.     
 
 123
 00:08:16,030 --> 00:08:19,098
-   she uses a set of modeling   
-              tools             
-      made of food-safe,        
+she uses a set of modeling tools made of food-safe,        
 
 124
 00:08:19,100 --> 00:08:21,900
-       nonstick plastic.        
+nonstick plastic.        
 
 125
 00:08:21,902 --> 00:08:25,303
-  first she makes a little hat  
-  out of the pink gum paste.    
+first she makes a little hat out of the pink gum paste.    
 
 126
 00:08:25,305 --> 00:08:28,974
-   then she rolls out another   
-              piece             
-    until it's paper thin.      
+then she rolls out another piece until it's paper thin.      
 
 127
 00:08:28,976 --> 00:08:30,709
-  the baker uses a gum paste    
+the baker uses a gum paste    
 
 128
 00:08:30,711 --> 00:08:34,245
-       cutter to cut out        
-   several teardrop shapes.     
+cutter to cut out several teardrop shapes.     
 
 129
 00:08:34,247 --> 00:08:38,850
-   one at a time, she lays the  
-              tear              
- drops out on a hard foam mat.  
+one at a time, she lays the tear drops out on a hard foam mat.  
 
 130
 00:08:38,852 --> 00:08:42,521
- she thins and curls the edges  
-   with a ball-tipped modeling  
-              tool              
+she thins and curls the edges with a ball-tipped modeling tool              
 
 131
 00:08:42,523 --> 00:08:46,458
-  to create a natural-looking   
-          rose petal.           
+to create a natural-looking rose petal.           
 
 132
 00:08:46,460 --> 00:08:49,194
- then she switches to a scribe  
-             tool.              
+then she switches to a scribe tool.              
 
 133
 00:08:49,196 --> 00:08:53,232
-   she curls back the edges to  
-              make              
- the petal even more lifelike.  
+she curls back the edges to make the petal even more lifelike.  
 
 134
 00:08:55,402 --> 00:08:58,437
-   then she applies tasteless   
-         edible glue.           
+then she applies tasteless edible glue.           
 
 135
 00:09:01,342 --> 00:09:05,210
-   she adheres the first petal  
-              onto              
-   the point of the gum paste   
-              hat.              
+she adheres the first petal onto the point of the gum paste hat.              
 
 136
 00:09:05,212 --> 00:09:06,544
-   she wraps it all the way     
+she wraps it all the way     
 
 137
 00:09:06,546 --> 00:09:09,281
-  around to create the center   
-         of the rose.           
+around to create the center of the rose.           
 
 138
 00:09:09,283 --> 00:09:11,483
-  the baker attaches the next   
-            layer,              
+the baker attaches the next layer,              
 
 139
 00:09:11,485 --> 00:09:13,752
-  this time using two petals.   
+this time using two petals.   
 
 140
 00:09:13,754 --> 00:09:15,821
-        she adds several        
-       additional layers        
+she adds several additional layers        
 
 141
 00:09:15,823 --> 00:09:20,425
-   using two more petals each   
-              time              
-  until the rose is complete.   
+using two more petals each time until the rose is complete.   
 
 142
 00:09:20,427 --> 00:09:22,761
-     she snips off the base     
-          of the hat,           
+she snips off the base of the hat,           
 
 143
 00:09:22,763 --> 00:09:25,697
-       then lets the glue       
-      dry for 15 minutes.       
+then lets the glue dry for 15 minutes.       
 
 144
 00:09:28,102 --> 00:09:31,770
- the baker uses green gum paste 
-      to make the leaves.       
+the baker uses green gum paste to make the leaves.       
 
 145
 00:09:31,772 --> 00:09:36,040
- she rolls the paste thicker at 
-   the base and thinner at the  
-              top.              
+she rolls the paste thicker at the base and thinner at the top.              
 
 146
 00:09:36,042 --> 00:09:38,911
-   then she presses the sheet   
- against the top of the board   
+then she presses the sheet against the top of the board   
 
 147
 00:09:38,913 --> 00:09:43,248
-  to produce vertical veins.    
+to produce vertical veins.    
 
 148
 00:09:43,250 --> 00:09:46,317
-  she centers her leaf-shaped   
- cutter over one of the veins   
+she centers her leaf-shaped cutter over one of the veins   
 
 149
 00:09:46,319 --> 00:09:49,521
-     and cuts out a leaf.       
+and cuts out a leaf.       
 
 150
 00:09:49,523 --> 00:09:53,325
-    after attaching the wire    
-         to the base,           
+after attaching the wire to the base,           
 
 151
 00:09:53,327 --> 00:09:55,327
-   she uses a silicone stamp    
+she uses a silicone stamp    
 
 152
 00:09:55,329 --> 00:09:57,729
-    to imprint smaller veins    
-         on the leaf.           
+to imprint smaller veins on the leaf.           
 
 153
 00:09:57,731 --> 00:10:00,232
-         this makes it          
-     look more realistic.       
+this makes it look more realistic.       
 
 154
 00:10:03,804 --> 00:10:09,274
-   the baker curls the leaf's   
-              edges             
-      with a round tool.        
+the baker curls the leaf's edges with a round tool.        
 
 155
 00:10:09,276 --> 00:10:12,277
-   she uses a different tool    
- to deepen some of the veining  
+she uses a different tool to deepen some of the veining  
 
 156
 00:10:12,279 --> 00:10:14,613
-    and complete the leaf.      
+and complete the leaf.      
 
 157
 00:10:14,615 --> 00:10:17,349
- the baker sets her decorations 
-             aside              
+the baker sets her decorations aside              
 
 158
 00:10:17,351 --> 00:10:21,420
-   and removes the cake tiers   
-    from the refrigerator.      
+and removes the cake tiers from the refrigerator.      
 
 159
 00:10:21,422 --> 00:10:23,422
@@ -784,72 +643,59 @@ she firmly applies the fondant
 
 160
 00:10:23,424 --> 00:10:28,026
-        over the chilled        
-      chocolate frosting.       
+over the chilled chocolate frosting.       
 
 161
 00:10:28,028 --> 00:10:31,163
-  she made the fondant earlier  
-   with melted marshmallows,    
+she made the fondant earlier with melted marshmallows,    
 
 162
 00:10:31,165 --> 00:10:33,798
-      butter, icing sugar,      
-       vanilla extract,         
+butter, icing sugar, vanilla extract,         
 
 163
 00:10:33,800 --> 00:10:35,367
-      and food coloring.        
+and food coloring.        
 
 164
 00:10:35,369 --> 00:10:37,903
-      she applies fondant       
-    to the remaining tiers,     
+she applies fondant to the remaining tiers,     
 
 165
 00:10:37,905 --> 00:10:39,404
-       then stacks them.        
+then stacks them.        
 
 166
 00:10:41,508 --> 00:10:46,578
-   she begins decorating this   
-              cake              
- with ribbon and italian lace.  
+she begins decorating this cake with ribbon and italian lace.  
 
 167
 00:10:46,580 --> 00:10:49,847
-    she attaches the flowers    
-    with stiff edible glue      
+she attaches the flowers with stiff edible glue      
 
 168
 00:10:49,849 --> 00:10:54,186
-     made from egg whites,      
- icing sugar, and lemon juice.  
+made from egg whites, icing sugar, and lemon juice.  
 
 169
 00:10:54,188 --> 00:10:55,988
-    she can also make edible    
-            ribbons             
+she can also make edible ribbons             
 
 170
 00:10:55,990 --> 00:10:58,389
-            and lace            
-  by pouring liquid gum paste   
+and lace by pouring liquid gum paste   
 
 171
 00:10:58,391 --> 00:11:00,392
-  into the appropriate molds.   
+into the appropriate molds.   
 
 172
 00:11:00,394 --> 00:11:04,196
-     this special gum paste     
-    uses corn syrup and corn    
-             starch             
+this special gum paste uses corn syrup and corn starch             
 
 173
 00:11:04,198 --> 00:11:06,665
-       to reach the right       
-          consistency.          
+to reach the right consistency.          
 
 174
 00:11:06,667 --> 00:11:08,800
@@ -857,453 +703,366 @@ a magnificent custom-made cake
 
 175
 00:11:08,802 --> 00:11:12,204
- is designed to be a showpiece  
-   at the wedding reception,    
+is designed to be a showpiece at the wedding reception,    
 
 176
 00:11:12,206 --> 00:11:16,542
-       admired, devoured,       
-    and always remembered.      
+admired, devoured, and always remembered.      
 
 177
 00:11:28,154 --> 00:11:31,423
-           narrator:            
-  terahertz spectrometers use i 
+narrator: terahertz spectrometers use i 
 
 178
 00:11:31,425 --> 00:11:34,893
-    to see through objects,     
-   including living tissue.     
+to see through objects, including living tissue.     
 
 179
 00:11:34,895 --> 00:11:37,295
-          these t-rays          
-  are an emerging technology    
+these t-rays are an emerging technology    
 
 180
 00:11:37,297 --> 00:11:40,566
-      that allows objects       
-  to be imaged and analyzed.    
+that allows objects to be imaged and analyzed.    
 
 181
 00:11:40,568 --> 00:11:43,769
-    it's a form of radiation    
-     that is non-ionizing       
+it's a form of radiation that is non-ionizing       
 
 182
 00:11:43,771 --> 00:11:46,071
-          and believed          
-    to be non-destructive.      
+and believed to be non-destructive.      
 
 183
 00:11:49,776 --> 00:11:52,311
-         an alternative         
-   to x-rays and ultrasound,    
+an alternative to x-rays and ultrasound,    
 
 184
 00:11:52,313 --> 00:11:53,979
-     terahertz technology       
+terahertz technology       
 
 185
 00:11:53,981 --> 00:11:56,981
-  generates a light that can't  
-               be               
-    seen by the naked eye,      
+generates a light that can't be seen by the naked eye,      
 
 186
 00:11:56,983 --> 00:12:00,385
-         but it can see         
+but it can see         
 what lies beneath the surface.  
 
 187
 00:12:00,387 --> 00:12:02,787
-       the technology has       
-    potential applications      
+the technology has potential applications      
 
 188
 00:12:02,789 --> 00:12:04,322
-   in the medical, security,    
+in the medical, security,    
 
 189
 00:12:04,324 --> 00:12:06,591
-   and manufacturing fields.    
+and manufacturing fields.    
 
 190
 00:12:06,593 --> 00:12:09,127
-       production starts        
- with the circuit board holder  
+production starts with the circuit board holder  
 
 191
 00:12:09,129 --> 00:12:13,598
-   for the transmitter sensor   
-             head.              
+for the transmitter sensor head.              
 
 192
 00:12:13,600 --> 00:12:15,533
-   computerized tools drill a   
-              hole              
+computerized tools drill a hole              
 
 193
 00:12:15,535 --> 00:12:17,736
-    into a cylindrical piece    
-           of brass             
+into a cylindrical piece of brass             
 
 194
 00:12:17,738 --> 00:12:20,472
-     and carve ridged slots     
-  to hold the circuit board.    
+and carve ridged slots to hold the circuit board.    
 
 195
 00:12:23,744 --> 00:12:26,612
-    another tool transforms     
-    a second brass cylinder     
+another tool transforms a second brass cylinder     
 
 196
 00:12:26,614 --> 00:12:29,181
-       into the main body       
-     for the sensor head.       
+into the main body for the sensor head.       
 
 197
 00:12:32,620 --> 00:12:36,488
-     this is the completed      
-       sensor head body.        
+this is the completed sensor head body.        
 
 198
 00:12:36,490 --> 00:12:41,093
- a technician screws an optical 
- collimator into the housing.   
+a technician screws an optical collimator into the housing.   
 
 199
 00:12:41,095 --> 00:12:45,363
-    this device separates the   
-              laser             
-  light into parallel beams.    
+this device separates the laser light into parallel beams.    
 
 200
 00:12:45,365 --> 00:12:48,767
-       he inserts a lens        
-        in the housing.         
+he inserts a lens in the housing.         
 
 201
 00:12:48,769 --> 00:12:51,236
-         the next piece         
-     he installs adjusts the    
-            position            
+the next piece he installs adjusts the position            
 
 202
 00:12:51,238 --> 00:12:53,739
-  of the circuit board holder   
-     in the spectrometer.       
+of the circuit board holder in the spectrometer.       
 
 203
 00:12:56,576 --> 00:12:58,510
-  he selects a circuit board.   
+he selects a circuit board.   
 
 204
 00:12:58,512 --> 00:12:59,844
-     it has a sensor chip       
+it has a sensor chip       
 
 205
 00:12:59,846 --> 00:13:03,981
-         in the center          
-  that emits terahertz light.   
+in the center that emits terahertz light.   
 
 206
 00:13:03,983 --> 00:13:05,517
- he places it into the holder   
+he places it into the holder   
 
 207
 00:13:05,519 --> 00:13:07,653
-     and slides the holder      
-      on the sensor body.       
+and slides the holder on the sensor body.       
 
 208
 00:13:10,857 --> 00:13:15,660
-       he uses steel pins       
-     to lock it in place.       
+he uses steel pins to lock it in place.       
 
 209
 00:13:15,662 --> 00:13:18,897
-   the worker fastens a larger  
-              lens              
-          on the end.           
+the worker fastens a larger lens on the end.           
 
 210
 00:13:22,069 --> 00:13:24,403
- a device holds the sensor head 
-           in place             
+a device holds the sensor head in place             
 
 211
 00:13:24,405 --> 00:13:27,405
-   as he tweaks the position    
-     of the circuit board.      
+as he tweaks the position of the circuit board.      
 
 212
 00:13:27,407 --> 00:13:31,376
-  it must be perfectly aligned  
-               in               
-   order to receive the laser   
-             beam.              
+it must be perfectly aligned in order to receive the laser beam.              
 
 213
 00:13:34,681 --> 00:13:38,216
-  he attaches a round circuit   
-   board to the sensor head.    
+he attaches a round circuit board to the sensor head.    
 
 214
 00:13:38,218 --> 00:13:39,818
-    this board will allow the   
-             sensor             
+this board will allow the sensor             
 
 215
 00:13:39,820 --> 00:13:43,555
-       head to establish        
-    electrical connections.     
+head to establish electrical connections.     
 
 216
 00:13:43,557 --> 00:13:46,491
-      next he installs the      
-           collimating          
-            module.             
+next he installs the collimating module.             
 
 217
 00:13:46,493 --> 00:13:49,627
- this device has a larger lens  
-     than the sensor head       
+this device has a larger lens than the sensor head       
 
 218
 00:13:49,629 --> 00:13:54,366
-    so it can send parallel     
-   terahertz beams further.     
+so it can send parallel terahertz beams further.     
 
 219
 00:13:54,368 --> 00:13:58,236
-  he attaches a retainer ring   
-        to the module.          
+he attaches a retainer ring to the module.          
 
 220
 00:13:58,238 --> 00:14:00,705
-     the technician screws      
-    the collimating module      
+the technician screws the collimating module      
 
 221
 00:14:00,707 --> 00:14:02,240
-      to the sensor head.       
+to the sensor head.       
 
 222
 00:14:02,242 --> 00:14:04,876
-      now the spectrometer      
-           transmitter          
-         is complete.           
+now the spectrometer transmitter is complete.           
 
 223
 00:14:08,782 --> 00:14:11,817
-    he slides the base of the   
-              stand             
-      into a rail system.       
+he slides the base of the stand into a rail system.       
 
 224
 00:14:15,655 --> 00:14:19,191
-     he installs a receiver     
- at the other end of the rail,  
+he installs a receiver at the other end of the rail,  
 
 225
 00:14:19,193 --> 00:14:21,993
-    and connects fiber optic    
-             cables             
-    to both the transmitter     
+and connects fiber optic cables to both the transmitter     
 
 226
 00:14:21,995 --> 00:14:24,930
-       and the receiver.        
+and the receiver.        
 
 227
 00:14:24,932 --> 00:14:26,998
-      the next technician       
+the next technician       
 
 228
 00:14:27,000 --> 00:14:31,603
- assembles the optical chassis  
-     that scans objects for     
-            imaging.            
+assembles the optical chassis that scans objects for imaging.            
 
 229
 00:14:31,605 --> 00:14:34,272
-       he installs lenses       
-     in specific locations      
+he installs lenses in specific locations      
 
 230
 00:14:34,274 --> 00:14:36,208
- within the aluminum chassis.   
+within the aluminum chassis.   
 
 231
 00:14:38,478 --> 00:14:43,081
- he attaches a mirror to a rail 
-    in front of the lenses.     
+he attaches a mirror to a rail in front of the lenses.     
 
 232
 00:14:43,083 --> 00:14:46,952
- the moving mirror will bounce  
-  laser light to scan images.   
+the moving mirror will bounce laser light to scan images.   
 
 233
 00:14:51,959 --> 00:14:54,826
-   he tests the rail system to  
-              make              
-  sure it shuttles the mirror   
+he tests the rail system to make sure it shuttles the mirror   
 
 234
 00:14:54,828 --> 00:14:57,329
-     across the spectrometer    
-            chassis.            
+across the spectrometer chassis.            
 
 235
 00:15:00,901 --> 00:15:04,436
-     the technician places      
- the chassis on a steel panel   
+the technician places the chassis on a steel panel   
 
 236
 00:15:04,438 --> 00:15:07,772
-           and wires            
- the fiber optics throughout.   
+and wires the fiber optics throughout.   
 
 237
 00:15:07,774 --> 00:15:09,641
-     he connects the fiber      
-          optic cable           
+he connects the fiber optic cable           
 
 238
 00:15:09,643 --> 00:15:12,511
- to the laser-generating unit.  
+to the laser-generating unit.  
 
 239
 00:15:12,513 --> 00:15:15,914
-   he screws an acrylic glass   
-              cover             
-        to the chassis.         
+he screws an acrylic glass cover to the chassis.         
 
 240
 00:15:15,916 --> 00:15:18,516
-  then he secures the chassis   
-        and laser unit          
+then he secures the chassis and laser unit          
 
 241
 00:15:18,518 --> 00:15:20,051
-     to the cabinet panel.      
+to the cabinet panel.      
 
 242
 00:15:23,857 --> 00:15:26,023
-  technicians mount the panel   
-          to the back           
+technicians mount the panel to the back           
 
 243
 00:15:26,025 --> 00:15:29,194
-  of the spectrometer cabinet   
-  using brackets and screws.    
+of the spectrometer cabinet using brackets and screws.    
 
 244
 00:15:32,399 --> 00:15:38,336
-  once it's solidly in place,   
+once it's solidly in place,   
 they install the cabinet door.  
 
 245
 00:15:38,338 --> 00:15:42,474
-    the door allows for easy    
-             access             
-       during servicing.        
+the door allows for easy access during servicing.        
 
 246
 00:15:42,476 --> 00:15:45,877
-      they lock the door,       
-  then screw on the top lid.    
+they lock the door, then screw on the top lid.    
 
 247
 00:15:49,550 --> 00:15:51,616
-       the spectrometer         
+the spectrometer         
 
 248
 00:15:51,618 --> 00:15:54,820
-  is ready for the transmitter  
-    and receiver assembly.      
+is ready for the transmitter and receiver assembly.      
 
 249
 00:15:54,822 --> 00:15:57,222
-    the technician pushes the   
-              fiber             
-          optic cable           
+the technician pushes the fiber optic cable           
 
 250
 00:15:57,224 --> 00:16:01,759
-   through a hole in the lid    
+through a hole in the lid    
 and makes all the connections.  
 
 251
 00:16:01,761 --> 00:16:04,629
-      he tests the device       
-    using a plastic bottle.     
+he tests the device using a plastic bottle.     
 
 252
 00:16:07,767 --> 00:16:10,434
-      the transmitter sends     
-            terahertz           
-   light through the bottle     
+the transmitter sends terahertz light through the bottle     
 
 253
 00:16:10,436 --> 00:16:11,569
-   to measure its thickness     
+to measure its thickness     
 
 254
 00:16:11,571 --> 00:16:15,106
-          and analyze           
-   its chemical composition.    
+and analyze its chemical composition.    
 
 255
 00:16:15,108 --> 00:16:18,944
- the receiver collects the data 
-    for computer analysis.      
+the receiver collects the data for computer analysis.      
 
 256
 00:16:22,048 --> 00:16:25,584
-  this terahertz spectrometer   
- is now ready to scan objects   
+this terahertz spectrometer is now ready to scan objects   
 
 257
 00:16:25,586 --> 00:16:27,752
- and show them in a new light.  
+and show them in a new light.  
 
 258
 00:16:42,736 --> 00:16:45,203
-           narrator:            
-    thousands of years ago,     
+narrator: thousands of years ago,     
 
 259
 00:16:45,205 --> 00:16:48,072
-        the polynesians         
-  built the first catamarans.   
+the polynesians built the first catamarans.   
 
 260
 00:16:48,074 --> 00:16:52,544
-   then in 1876, an american    
-  redesigned one for racing.    
+then in 1876, an american redesigned one for racing.    
 
 261
 00:16:52,546 --> 00:16:56,014
-     it was so fast that it     
- was deemed unfair competition  
+it was so fast that it was deemed unfair competition  
 
 262
 00:16:56,016 --> 00:16:57,949
-           and banned           
-    from organized racing.      
+and banned from organized racing.      
 
 263
 00:16:57,951 --> 00:17:00,618
-     but eventually, racing     
-  catamarans made a comeback    
+but eventually, racing catamarans made a comeback    
 
 264
 00:17:00,620 --> 00:17:02,621
-   in the late 20th century.    
+in the late 20th century.    
 
 265
 00:17:06,225 --> 00:17:08,226
@@ -1311,253 +1070,209 @@ with two hulls instead of one,
 
 266
 00:17:08,228 --> 00:17:12,831
-    catamarans skim the water   
-             faster             
-  than traditional sailboats.   
+catamarans skim the water faster than traditional sailboats.   
 
 267
 00:17:12,833 --> 00:17:15,633
-    while a single-hull boat    
-    relies on a heavy keel,     
+while a single-hull boat relies on a heavy keel,     
 
 268
 00:17:15,635 --> 00:17:17,502
-  a catamaran uses its width    
+a catamaran uses its width    
 
 269
 00:17:17,504 --> 00:17:20,739
-     as leverage to harness     
-    the power of the wind.      
+as leverage to harness the power of the wind.      
 
 270
 00:17:23,176 --> 00:17:24,909
-      a racing catamaran        
+a racing catamaran        
 
 271
 00:17:24,911 --> 00:17:28,313
-   starts with foam material    
-   for the hull's lightweight   
-             core.              
+starts with foam material for the hull's lightweight core.              
 
 272
 00:17:28,315 --> 00:17:31,916
-    a worker clamps the foam    
-     to a fiberglass form.      
+a worker clamps the foam to a fiberglass form.      
 
 273
 00:17:31,918 --> 00:17:35,453
- then he places it into an oven 
-     and closes the door.       
+then he places it into an oven and closes the door.       
 
 274
 00:17:35,455 --> 00:17:37,789
-   the oven gradually brings    
-     the core temperature       
+the oven gradually brings the core temperature       
 
 275
 00:17:37,791 --> 00:17:40,859
- up to 160 degrees fahrenheit.  
+up to 160 degrees fahrenheit.  
 
 276
 00:17:40,861 --> 00:17:43,928
-    after a few minutes, he     
+after a few minutes, he     
 takes the foam out of the oven  
 
 277
 00:17:43,930 --> 00:17:46,998
-    and places an upper form    
-           over it.             
+and places an upper form over it.             
 
 278
 00:17:47,000 --> 00:17:52,203
-   the softened and malleable   
-              foam              
- bends to the form's contours.  
+the softened and malleable foam bends to the form's contours.  
 
 279
 00:17:52,205 --> 00:17:53,604
-   after applying a gel coat    
+after applying a gel coat    
 
 280
 00:17:53,606 --> 00:17:56,408
-     and fiberglass fabric      
-        in a hull mold,         
+and fiberglass fabric in a hull mold,         
 
 281
 00:17:56,410 --> 00:17:59,477
-     he lays in the shaped      
-         foam pieces.           
+he lays in the shaped foam pieces.           
 
 282
 00:17:59,479 --> 00:18:03,048
- he fills any gaps in the core  
+he fills any gaps in the core  
 with slivers of foam material.  
 
 283
 00:18:06,219 --> 00:18:08,552
-     he adds little squares     
-       of porous plastic        
+he adds little squares of porous plastic        
 
 284
 00:18:08,554 --> 00:18:14,092
-    to reinforce areas where    
-    hardware will be attached   
-             later.             
+to reinforce areas where hardware will be attached later.             
 
 285
 00:18:14,094 --> 00:18:19,831
-  the worker drapes fiberglass  
- fabric loosely over the core.  
+the worker drapes fiberglass fabric loosely over the core.  
 
 286
 00:18:19,833 --> 00:18:22,033
-    he sprays a small amount    
-       of rubber cement         
+he sprays a small amount of rubber cement         
 
 287
 00:18:22,035 --> 00:18:26,237
-   onto the core and presses    
-      the fabric into it.       
+onto the core and presses the fabric into it.       
 
 288
 00:18:26,239 --> 00:18:29,107
-  the cement helps the fabric   
-      stick to the core.        
+the cement helps the fabric stick to the core.        
 
 289
 00:18:29,109 --> 00:18:34,845
- then he stretches nylon fabric 
- over the fiberglass and foam.  
+then he stretches nylon fabric over the fiberglass and foam.  
 
 290
 00:18:34,847 --> 00:18:38,983
-   he runs spiral cut tubing    
- along the sides of the mold.   
+he runs spiral cut tubing along the sides of the mold.   
 
 291
 00:18:38,985 --> 00:18:41,620
- he cuts it to the right length 
-      and tapes it down.        
+he cuts it to the right length and tapes it down.        
 
 292
 00:18:43,723 --> 00:18:46,724
-       after laying down        
-        a plastic mesh,         
+after laying down a plastic mesh,         
 
 293
 00:18:46,726 --> 00:18:50,261
-   two workers cover the mold   
- and its contents in plastic.   
+two workers cover the mold and its contents in plastic.   
 
 294
 00:18:52,732 --> 00:18:55,734
-     they secure the edges      
- of the mold with tacky tape,   
+they secure the edges of the mold with tacky tape,   
 
 295
 00:18:55,736 --> 00:18:57,636
-    creating a tight seal.      
+creating a tight seal.      
 
 296
 00:19:03,343 --> 00:19:04,809
-  the team connects a vacuum    
+the team connects a vacuum    
 
 297
 00:19:04,811 --> 00:19:07,679
-      to the spiral tubing      
-   on one side of the mold.     
+to the spiral tubing on one side of the mold.     
 
 298
 00:19:07,681 --> 00:19:08,946
-     when they turn it on,      
+when they turn it on,      
 
 299
 00:19:08,948 --> 00:19:11,483
- the vacuum sucks out the air,  
+the vacuum sucks out the air,  
 
 300
 00:19:11,485 --> 00:19:13,885
-       pulling the layers       
-       tightly together.        
+pulling the layers tightly together.        
 
 301
 00:19:19,292 --> 00:19:21,292
-   they prepare a vinyl-based   
-             resin              
+they prepare a vinyl-based resin              
 
 302
 00:19:21,294 --> 00:19:23,628
-          and apply it          
-    using the vacuum tube.      
+and apply it using the vacuum tube.      
 
 303
 00:19:25,698 --> 00:19:27,031
-       the vacuum pumps         
+the vacuum pumps         
 
 304
 00:19:27,033 --> 00:19:31,035
-  the resin through the layers  
-    of fiberglass and foam.     
+the resin through the layers of fiberglass and foam.     
 
 305
 00:19:31,037 --> 00:19:35,040
-    the resin takes a couple    
-       of hours to dry.         
+the resin takes a couple of hours to dry.         
 
 306
 00:19:35,042 --> 00:19:37,241
- the team removes the plastic,  
-             mesh,              
+the team removes the plastic, mesh,              
 
 307
 00:19:37,243 --> 00:19:41,079
-  and nylon layers, revealing   
- one half of a catamaran hull.  
+and nylon layers, revealing one half of a catamaran hull.  
 
 308
 00:19:44,451 --> 00:19:46,851
-      next they install the     
-           bulkheads.           
+next they install the bulkheads.           
 
 309
 00:19:46,853 --> 00:19:49,320
-     they use special tools     
-  to accurately position them   
+they use special tools to accurately position them   
 
 310
 00:19:49,322 --> 00:19:51,056
-         in the hull.           
+in the hull.           
 
 311
 00:19:52,993 --> 00:19:57,328
-   they also place bulkheads    
-    in the second half of the   
-             hull.              
+they also place bulkheads in the second half of the hull.              
 
 312
 00:19:57,330 --> 00:20:00,664
- the workers join the two hulls 
-   while they're still in the   
-             molds              
+the workers join the two hulls while they're still in the molds              
 
 313
 00:20:00,666 --> 00:20:04,002
- and seal the seam with epoxy.  
+and seal the seam with epoxy.  
 
 314
 00:20:04,004 --> 00:20:05,937
-      they remove the hull      
-        from the molds          
+they remove the hull from the molds          
 
 315
 00:20:05,939 --> 00:20:07,939
-       and cut an opening       
-        for the trunk.          
+and cut an opening for the trunk.          
 
 316
 00:20:07,941 --> 00:20:09,941
-     it holds a retractable     
-         center board           
+it holds a retractable center board           
 
 317
 00:20:09,943 --> 00:20:11,943
@@ -1565,98 +1280,79 @@ for curbing sideways movement.
 
 318
 00:20:14,147 --> 00:20:18,883
-  they attach the screws used   
-     to lace the trampoline     
-           platform.            
+they attach the screws used to lace the trampoline platform.            
 
 319
 00:20:18,885 --> 00:20:20,952
-            a worker            
-   applies glue-back strips     
+a worker applies glue-back strips     
 
 320
 00:20:20,954 --> 00:20:26,023
-     of plastic to protect      
- the fiberglass from chafing.   
+of plastic to protect the fiberglass from chafing.   
 
 321
 00:20:26,025 --> 00:20:29,827
-   he screws sailing hardware   
-        to both hulls.          
+he screws sailing hardware to both hulls.          
 
 322
 00:20:29,829 --> 00:20:32,764
-      the hulls are placed      
-     in an alignment jig.       
+the hulls are placed in an alignment jig.       
 
 323
 00:20:32,766 --> 00:20:37,402
-     then the team installs     
-            crossbars           
+then the team installs crossbars           
 that fit into molded recesses.  
 
 324
 00:20:39,973 --> 00:20:42,640
-  they attach a rudder system   
-         to each hull           
+they attach a rudder system to each hull           
 
 325
 00:20:42,642 --> 00:20:45,677
-    and test them to verify     
-    they operate correctly.     
+and test them to verify they operate correctly.     
 
 326
 00:20:52,652 --> 00:20:56,988
-    the trampoline platform     
-   is made of polypropylene.    
+the trampoline platform is made of polypropylene.    
 
 327
 00:20:56,990 --> 00:20:59,824
-        the front slides        
-     into a molded groove.      
+the front slides into a molded groove.      
 
 328
 00:21:03,063 --> 00:21:04,462
-    they lace up the back and   
-             sides              
+they lace up the back and sides              
 
 329
 00:21:04,464 --> 00:21:07,398
-      with double-braided       
-        synthetic rope.         
+with double-braided synthetic rope.         
 
 330
 00:21:07,400 --> 00:21:11,136
-    he pulls the laces tight    
-  to keep the platform rigid.   
+he pulls the laces tight to keep the platform rigid.   
 
 331
 00:21:15,942 --> 00:21:18,743
-     once the other sailing     
-  control lines are in place,   
+once the other sailing control lines are in place,   
 
 332
 00:21:18,745 --> 00:21:25,016
-   they're ready to hoist the   
-              sail              
-   on this racing catamaran.    
+they're ready to hoist the sail on this racing catamaran.    
 
 333
 00:21:25,018 --> 00:21:26,818
-     from start to finish,      
+from start to finish,      
 
 334
 00:21:26,820 --> 00:21:30,221
-      it takes three weeks      
+it takes three weeks      
 to produce a racing catamaran.  
 
 335
 00:21:34,027 --> 00:21:36,628
-        in competition,         
- these boats have been clocked  
+in competition, these boats have been clocked  
 
 336
 00:21:36,630 --> 00:21:39,697
-         at three times         
-      the speed of wind.        
+at three times the speed of wind.        
 

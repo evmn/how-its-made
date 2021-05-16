@@ -1,21 +1,18 @@
 ﻿1
 00:00:01,935 --> 00:00:05,003
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,005 --> 00:00:07,940
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,720 --> 00:00:55,053
-            narrator:           
-  these gemstones aren't mined. 
+narrator: these gemstones aren't mined. 
 
 4
 00:00:55,055 --> 00:00:57,056
-   they're made from garbage.   
+they're made from garbage.   
 
 5
 00:00:59,527 --> 00:01:04,796
@@ -24,224 +21,192 @@ waste can be turned into energy,
 
 6
 00:01:04,798 --> 00:01:08,533
- and inorganic waste can be made
-    into a hard black glass.    
+and inorganic waste can be made
+into a hard black glass.    
 
 7
 00:01:08,535 --> 00:01:12,604
-  artisans then turn the glass  
-     into beautiful jewelry.    
+artisans then turn the glass into beautiful jewelry.    
 
 8
 00:01:12,606 --> 00:01:16,475
-      black jewels glitter      
-     like genuine gemstones     
+black jewels glitter like genuine gemstones     
 
 9
 00:01:16,477 --> 00:01:18,877
-   and are as hard as quartz.   
+and are as hard as quartz.   
 
 10
 00:01:18,879 --> 00:01:22,147
-    but they aren't precious    
-      or even semiprecious.     
+but they aren't precious or even semiprecious.     
 
 11
 00:01:22,149 --> 00:01:24,215
-      they're pure garbage.     
+they're pure garbage.     
 
 12
 00:01:24,217 --> 00:01:26,117
-   they're called plasma gems   
+they're called plasma gems   
 
 13
 00:01:26,119 --> 00:01:30,556
 because of the plasma technology
-  that creates them from waste. 
+that creates them from waste. 
 
 14
 00:01:30,558 --> 00:01:34,093
-  this patented system converts 
-    almost any type of waste    
+this patented system converts almost any type of waste    
 
 15
 00:01:34,095 --> 00:01:36,094
-        into clean energy       
+into clean energy       
 
 16
 00:01:36,096 --> 00:01:39,097
-        without creating        
-     any harmful byproducts.    
+without creating any harmful byproducts.    
 
 17
 00:01:39,099 --> 00:01:42,367
-      the process produces      
-     two useful materials --    
+the process produces two useful materials --    
 
 18
 00:01:42,369 --> 00:01:44,903
-  energy and a hard black glass 
+energy and a hard black glass 
 
 19
 00:01:44,905 --> 00:01:49,508
-      that artisans can cut     
-         into gemstones.        
+that artisans can cut into gemstones.        
 
 20
 00:01:49,510 --> 00:01:52,110
-       the process begins       
-       by shredding waste       
+the process begins by shredding waste       
 
 21
 00:01:52,112 --> 00:01:55,314
-       and placing it into      
-  the system's plasma reactor.  
+and placing it into the system's plasma reactor.  
 
 22
 00:01:55,316 --> 00:01:56,781
-       inside the reactor,      
+inside the reactor,      
 
 23
 00:01:56,783 --> 00:02:01,653
-     two electrodes generate    
- an electrically-conductive gas.
+two electrodes generate an electrically-conductive gas.
 
 24
 00:02:01,655 --> 00:02:03,855
-    these plasma arcs create    
+these plasma arcs create    
 
 25
 00:02:03,857 --> 00:02:07,392
-          temperatures          
-    exceeding 2,900 degrees,    
+temperatures exceeding 2,900 degrees,    
 
 26
 00:02:07,394 --> 00:02:09,994
-           converting           
-     the carbon-based matter    
+converting the carbon-based matter    
 
 27
 00:02:09,996 --> 00:02:13,798
-   into a gas that can be used  
-   to produce electric power.   
+into a gas that can be used to produce electric power.   
 
 28
 00:02:13,800 --> 00:02:15,133
-        at the same time,       
+at the same time,       
 
 29
 00:02:15,135 --> 00:02:18,336
-      the plasma arcs melt      
-  the non-carbon-based matter,  
+the plasma arcs melt the non-carbon-based matter,  
 
 30
 00:02:18,338 --> 00:02:20,872
-      such as glass, metal,     
-          and ceramics.         
+such as glass, metal, and ceramics.         
 
 31
 00:02:20,874 --> 00:02:24,142
-      the gas fuels engines     
-  that produce electric power.  
+the gas fuels engines that produce electric power.  
 
 32
 00:02:24,144 --> 00:02:27,479
 once melted, the waste separates
-        into two layers.        
+into two layers.        
 
 33
 00:02:27,481 --> 00:02:31,683
- metal oxides float to the top, 
- and metals sink to the bottom. 
+metal oxides float to the top, and metals sink to the bottom. 
 
 34
 00:02:31,685 --> 00:02:34,486
-  the company casts the metals  
-          into ingots,          
+the company casts the metals into ingots,          
 
 35
 00:02:34,488 --> 00:02:36,554
-            which go            
-    to a recycling facility.    
+which go to a recycling facility.    
 
 36
 00:02:36,556 --> 00:02:38,423
-   the metal oxides seen here   
+the metal oxides seen here   
 
 37
 00:02:38,425 --> 00:02:41,960
-    solidify into glass rocks   
-       as hard as granite.      
+solidify into glass rocks as hard as granite.      
 
 38
 00:02:41,962 --> 00:02:44,295
-        the company sells       
-        these glass rocks       
+the company sells these glass rocks       
 
 39
 00:02:44,297 --> 00:02:48,300
-     to artisans who use it     
- to make gemstones for jewelry. 
+to artisans who use it to make gemstones for jewelry. 
 
 40
 00:02:51,572 --> 00:02:53,905
-       first, the artisan       
-   grinds a chunk of the rock   
+first, the artisan grinds a chunk of the rock   
 
 41
 00:02:53,907 --> 00:02:57,242
 down to a smaller starting shape
-        with a flat side.       
+with a flat side.       
 
 42
 00:02:57,244 --> 00:03:03,048
- then she glues on a brass dowel
-       called a dob stick.      
+then she glues on a brass dowel
+called a dob stick.      
 
 43
 00:03:03,050 --> 00:03:06,184
-     she activates the glue     
-       with a u.v. light.       
+she activates the glue with a u.v. light.       
 
 44
 00:03:06,186 --> 00:03:08,853
-           she returns          
-      to the grinding wheel     
+she returns to the grinding wheel     
 
 45
 00:03:08,855 --> 00:03:11,056
-   to further reduce the size   
-          of the stone          
+to further reduce the size of the stone          
 
 46
 00:03:11,058 --> 00:03:13,425
-          and round it          
-      as much as possible.      
+and round it as much as possible.      
 
 47
 00:03:15,195 --> 00:03:18,930
-  then she mounts the dob stick 
-     on a fastening machine.    
+then she mounts the dob stick on a fastening machine.    
 
 48
 00:03:18,932 --> 00:03:21,666
-      she presses the stone     
-    against an abrasive disc    
+she presses the stone against an abrasive disc    
 
 49
 00:03:21,668 --> 00:03:25,003
-         called a lathe         
-   to file down the diameter.   
+called a lathe to file down the diameter.   
 
 50
 00:03:27,007 --> 00:03:29,741
-     the lathe's surface is     
-     made of diamond dust.      
+the lathe's surface is made of diamond dust.      
 
 51
 00:03:29,743 --> 00:03:31,944
-     it's the only material     
-          strong enough         
+it's the only material strong enough         
 
 52
 00:03:31,946 --> 00:03:34,879
@@ -249,90 +214,76 @@ to cut through hard black glass.
 
 53
 00:03:34,881 --> 00:03:39,017
- the artisan measures the stone 
-  numerous times as she works,  
+the artisan measures the stone numerous times as she works,  
 
 54
 00:03:39,019 --> 00:03:41,887
-      ensuring the diameter     
-    is consistent all around.   
+ensuring the diameter is consistent all around.   
 
 55
 00:03:41,889 --> 00:03:45,090
-  once the diameter is perfect, 
+once the diameter is perfect, 
 
 56
 00:03:45,092 --> 00:03:48,226
-    she adjusts the dob stick   
-           diagonally           
+she adjusts the dob stick diagonally           
 
 57
 00:03:48,228 --> 00:03:52,698
- and begins cutting symmetrical 
- facets that will reflect light.
+and begins cutting symmetrical facets that will reflect light.
 
 58
 00:03:57,304 --> 00:04:00,839
-   you cannot set this machine  
-        to cut and polish       
+you cannot set this machine to cut and polish       
 
 59
 00:04:00,841 --> 00:04:02,774
-       at an exact angle,       
+at an exact angle,       
 
 60
 00:04:02,776 --> 00:04:05,310
-   so the artisan has to work   
-            by feel,            
+so the artisan has to work by feel,            
 
 61
 00:04:05,312 --> 00:04:09,982
- sensing how hard she must press
-   the stone against the disc.  
+sensing how hard she must press
+the stone against the disc.  
 
 62
 00:04:09,984 --> 00:04:12,517
-       she checks her work      
-   with a magnification loupe   
+she checks her work with a magnification loupe   
 
 63
 00:04:12,519 --> 00:04:18,657
-   to make sure all the facets  
-    meet at a precise point.    
+to make sure all the facets meet at a precise point.    
 
 64
 00:04:18,659 --> 00:04:22,927
-   once she finishes faceting   
-    the bottom of the stone,    
+once she finishes faceting the bottom of the stone,    
 
 65
 00:04:22,929 --> 00:04:25,864
-      she glues a dob stick     
-    to the top of the stone.    
+she glues a dob stick to the top of the stone.    
 
 66
 00:04:25,866 --> 00:04:28,733
-        then she removes        
-       the first dob stick      
+then she removes the first dob stick      
 
 67
 00:04:28,735 --> 00:04:32,037
-      by softening the glue     
-      with a propane torch.     
+by softening the glue with a propane torch.     
 
 68
 00:04:35,609 --> 00:04:39,411
-     now the artisan begins     
- faceting the top of the stone, 
+now the artisan begins faceting the top of the stone, 
 
 69
 00:04:39,413 --> 00:04:41,680
-        called the crown.       
+called the crown.       
 
 70
 00:04:43,684 --> 00:04:47,885
-   once the sides are faceted,  
-  she flattens the pointed top, 
+once the sides are faceted, she flattens the pointed top, 
 
 71
 00:04:47,887 --> 00:04:49,888
@@ -340,336 +291,286 @@ forming what's called the table.
 
 72
 00:04:49,890 --> 00:04:52,157
-  she repositions the dob stick 
-          horizontally          
+she repositions the dob stick horizontally          
 
 73
 00:04:52,159 --> 00:04:57,562
-  to polish a flat edge around  
-  the middle called the girdle. 
+to polish a flat edge around the middle called the girdle. 
 
 74
 00:04:57,564 --> 00:05:00,265
-    she removes the dob stick   
+she removes the dob stick   
 
 75
 00:05:00,267 --> 00:05:05,303
- and cleans off any glue residue
-          with acetone.         
+and cleans off any glue residue
+with acetone.         
 
 76
 00:05:05,305 --> 00:05:09,307
- she carefully centers the stone
-  in a sterling-silver pendant. 
+she carefully centers the stone
+in a sterling-silver pendant. 
 
 77
 00:05:09,309 --> 00:05:13,445
-    the pendant is being held   
-  upright in a wad of shellac.  
+the pendant is being held upright in a wad of shellac.  
 
 78
 00:05:13,447 --> 00:05:15,380
-     she uses a prong pusher    
+she uses a prong pusher    
 
 79
 00:05:15,382 --> 00:05:17,849
-       to bend the prongs       
-    securely over the girdle,   
+to bend the prongs securely over the girdle,   
 
 80
 00:05:17,851 --> 00:05:22,454
-   then rounds off and softens  
-     the prongs with a file.    
+then rounds off and softens the prongs with a file.    
 
 81
 00:05:22,456 --> 00:05:24,656
-     to remove the pendant,     
+to remove the pendant,     
 
 82
 00:05:24,658 --> 00:05:27,192
-     she softens the shellac    
-          over a flame,         
+she softens the shellac over a flame,         
 
 83
 00:05:27,194 --> 00:05:29,660
-   then submerges the pendant   
-           in acetone           
+then submerges the pendant in acetone           
 
 84
 00:05:29,662 --> 00:05:32,130
- to remove any shellac residue. 
+to remove any shellac residue. 
 
 85
 00:05:32,132 --> 00:05:35,900
-      on the hardness scale     
-        used in gemology,       
+on the hardness scale used in gemology,       
 
 86
 00:05:35,902 --> 00:05:40,305
-   plasma gems are equivalent   
-  to many varieties of quartz.  
+plasma gems are equivalent to many varieties of quartz.  
 
 87
 00:05:42,609 --> 00:05:47,012
- not bad for garbage that would 
-   otherwise be in a landfill.  
+not bad for garbage that would otherwise be in a landfill.  
 
 88
 00:05:57,958 --> 00:05:59,691
-    narrator: mother nature     
-    does not deliver on cue.    
+narrator: mother nature does not deliver on cue.    
 
 89
 00:05:59,693 --> 00:06:02,494
-  so when a film or television  
-   script calls for flurries,   
+so when a film or television script calls for flurries,   
 
 90
 00:06:02,496 --> 00:06:05,897
-     they use a snow machine    
-  to generate fake snowflakes.  
+they use a snow machine to generate fake snowflakes.  
 
 91
 00:06:05,899 --> 00:06:08,700
-     the flakes are actually    
-        tiny soap bubbles       
+the flakes are actually tiny soap bubbles       
 
 92
 00:06:08,702 --> 00:06:12,671
 that look surprisingly realistic
-           on camera.           
+on camera.           
 
 93
 00:06:16,776 --> 00:06:19,644
- it's a sweltering day outside, 
+it's a sweltering day outside, 
 
 94
 00:06:19,646 --> 00:06:22,380
-   but inside on the film set,  
-          it's winter.          
+but inside on the film set, it's winter.          
 
 95
 00:06:22,382 --> 00:06:25,717
-       these soapy flakes       
-      look like real snow.      
+these soapy flakes look like real snow.      
 
 96
 00:06:25,719 --> 00:06:27,852
-        they hang around        
-        just long enough        
+they hang around just long enough        
 
 97
 00:06:27,854 --> 00:06:30,922
-      to show up on screen      
-     before they evaporate.     
+to show up on screen before they evaporate.     
 
 98
 00:06:30,924 --> 00:06:32,724
-   to create these snowflakes,  
+to create these snowflakes,  
 
 99
 00:06:32,726 --> 00:06:35,126
-          workers start         
-     with the same chemicals    
+workers start with the same chemicals    
 
 100
 00:06:35,128 --> 00:06:37,395
-          that are used         
-      in soap and shampoo.      
+that are used in soap and shampoo.      
 
 101
 00:06:37,397 --> 00:06:40,866
 a chemist combines the chemicals
-       in a big mixing vat      
+in a big mixing vat      
 
 102
 00:06:40,868 --> 00:06:43,134
-    and adds purified water.    
+and adds purified water.    
 
 103
 00:06:43,136 --> 00:06:46,405
-          this produces         
-   a snow-making concentrate.   
+this produces a snow-making concentrate.   
 
 104
 00:06:46,407 --> 00:06:49,941
- a machine pumps the concentrate
-           into jugs.           
+a machine pumps the concentrate
+into jugs.           
 
 105
 00:06:49,943 --> 00:06:53,678
-        each jug contains       
-      enough base material      
+each jug contains enough base material      
 
 106
 00:06:53,680 --> 00:06:57,783
-         to make it snow        
-       for up to 16 hours.      
+to make it snow for up to 16 hours.      
 
 107
 00:07:02,489 --> 00:07:05,690
-         now work begins        
-   on the snow-making machine.  
+now work begins on the snow-making machine.  
 
 108
 00:07:05,692 --> 00:07:09,494
-      a worker drills holes     
- into the back of the snow head 
+a worker drills holes into the back of the snow head 
 
 109
 00:07:09,496 --> 00:07:11,162
-  using a template as a guide.  
+using a template as a guide.  
 
 110
 00:07:11,164 --> 00:07:13,431
-    he threads plastic tubing   
-            and wires           
+he threads plastic tubing and wires           
 
 111
 00:07:13,433 --> 00:07:15,967
-     through the front part     
-        of the snow head.       
+through the front part of the snow head.       
 
 112
 00:07:15,969 --> 00:07:17,769
-   the wires are for a blower,  
+the wires are for a blower,  
 
 113
 00:07:17,771 --> 00:07:21,772
-   and the tubing will be used  
-  to deliver the snow solution. 
+and the tubing will be used to deliver the snow solution. 
 
 114
 00:07:21,774 --> 00:07:24,576
-  he applies silicone caulking  
-         around the rim         
+he applies silicone caulking around the rim         
 
 115
 00:07:24,578 --> 00:07:28,379
-      and places the blower     
-         in the cavity.         
+and places the blower in the cavity.         
 
 116
 00:07:28,381 --> 00:07:34,119
- this blower will introduce air 
- to mix with the snow solution. 
+this blower will introduce air to mix with the snow solution. 
 
 117
 00:07:34,121 --> 00:07:37,456
- the caulking acts as a sealant 
- to keep the air from escaping. 
+the caulking acts as a sealant to keep the air from escaping. 
 
 118
 00:07:39,259 --> 00:07:42,194
-   next, he routes the wiring   
-           and tubing           
+next, he routes the wiring and tubing           
 
 119
 00:07:42,196 --> 00:07:45,797
-      through the back part     
-        of the snow head.       
+through the back part of the snow head.       
 
 120
 00:07:45,799 --> 00:07:48,567
-          then he joins         
-       the two components.      
+then he joins the two components.      
 
 121
 00:07:51,271 --> 00:07:55,774
-  he secures the two components 
-     with eight long bolts.     
+he secures the two components with eight long bolts.     
 
 122
 00:07:58,678 --> 00:08:02,213
 he encases the wiring and tubing
-       in a polymer jacket      
+in a polymer jacket      
 
 123
 00:08:02,215 --> 00:08:05,016
-          that shrinks          
-      when heat is applied.     
+that shrinks when heat is applied.     
 
 124
 00:08:10,958 --> 00:08:12,491
-  next, a worker carves a hole  
+next, a worker carves a hole  
 
 125
 00:08:12,493 --> 00:08:16,261
-        in the center of        
+in the center of        
 a pre-manufactured blower guard.
 
 126
 00:08:19,966 --> 00:08:22,234
-    he inserts the snow head    
-           in the hole          
+he inserts the snow head in the hole          
 
 127
 00:08:22,236 --> 00:08:25,070
-    so that the blower guard    
-       surrounds the back.      
+so that the blower guard surrounds the back.      
 
 128
 00:08:27,107 --> 00:08:30,441
-       he ties the wiring       
-    and snow-solution tubing    
+he ties the wiring and snow-solution tubing    
 
 129
 00:08:30,443 --> 00:08:31,610
-          to the guard.         
+to the guard.         
 
 130
 00:08:33,713 --> 00:08:37,582
- next, he maps out screw holes  
- and drills them into a big fan 
+next, he maps out screw holes and drills them into a big fan 
 
 131
 00:08:37,584 --> 00:08:41,019
-  that will blow the fake snow  
-             around.            
+that will blow the fake snow around.            
 
 132
 00:08:42,723 --> 00:08:45,056
-      he screws in brackets     
-        that will be used       
+he screws in brackets that will be used       
 
 133
 00:08:45,058 --> 00:08:48,393
-       to hang the machine      
-     high above a movie set.    
+to hang the machine high above a movie set.    
 
 134
 00:08:51,264 --> 00:08:55,000
-   he installs a metal guard    
-   in the front of the fan...   
+he installs a metal guard in the front of the fan...   
 
 135
 00:08:59,339 --> 00:09:04,075
-  ...and attaches more brackets 
-          to the side.          
+...and attaches more brackets to the side.          
 
 136
 00:09:04,077 --> 00:09:07,579
- these brackets act as a holder 
-   for the snow-solution pump.  
+these brackets act as a holder for the snow-solution pump.  
 
 137
 00:09:11,751 --> 00:09:16,087
-        now he assembles        
- the snow-head unit to the fan. 
+now he assembles the snow-head unit to the fan. 
 
 138
 00:09:19,359 --> 00:09:23,428
- he ties the snow-solution hose 
-     to the snow-head nozzle    
+he ties the snow-solution hose to the snow-head nozzle    
 
 139
 00:09:23,430 --> 00:09:25,229
-          using wires.          
+using wires.          
 
 140
 00:09:25,231 --> 00:09:27,966
-      he flattens the wires     
-          to the nozzle         
+he flattens the wires to the nozzle         
 
 141
 00:09:27,968 --> 00:09:31,436
@@ -677,395 +578,340 @@ and covers them with vinyl tape.
 
 142
 00:09:31,438 --> 00:09:35,774
-  he fits a specially-designed  
-  fabric sock over the nozzle.  
+he fits a specially-designed fabric sock over the nozzle.  
 
 143
 00:09:35,776 --> 00:09:39,644
-   liquid snow will be forced   
-  through the pores of the sock 
+liquid snow will be forced through the pores of the sock 
 
 144
 00:09:39,646 --> 00:09:42,447
-    to form fake snowflakes.    
+to form fake snowflakes.    
 
 145
 00:09:42,449 --> 00:09:45,916
-  he connects the snow-solution 
-       tubing to the pump       
+he connects the snow-solution tubing to the pump       
 
 146
 00:09:45,918 --> 00:09:49,854
-      and pulls the wiring      
-   through the top of the fan.  
+and pulls the wiring through the top of the fan.  
 
 147
 00:09:49,856 --> 00:09:52,857
-        next, a metal box       
-  that contains the controller  
+next, a metal box that contains the controller  
 
 148
 00:09:52,859 --> 00:09:55,994
-       for the electronics      
-       must be installed.       
+for the electronics must be installed.       
 
 149
 00:09:55,996 --> 00:09:58,729
 he runs the snow-solution tubing
-           through it           
+through it           
 
 150
 00:09:58,731 --> 00:10:02,300
-   and makes all the necessary  
-       wiring connections.      
+and makes all the necessary wiring connections.      
 
 151
 00:10:05,004 --> 00:10:08,272
-  the controller box is lowered 
-      onto the fan assembly     
+the controller box is lowered onto the fan assembly     
 
 152
 00:10:08,274 --> 00:10:10,241
-      and screwed in place.     
+and screwed in place.     
 
 153
 00:10:17,150 --> 00:10:21,152
- he installs a weight on the end
-  of the snow-solution tubing.  
+he installs a weight on the end
+of the snow-solution tubing.  
 
 154
 00:10:21,154 --> 00:10:23,955
-      the weight will keep      
-      the tubing submerged      
+the weight will keep the tubing submerged      
 
 155
 00:10:23,957 --> 00:10:27,158
- in the snow-solution container.
+in the snow-solution container.
 
 156
 00:10:31,364 --> 00:10:34,298
-      this snow machine is      
-      now fully assembled.      
+this snow machine is now fully assembled.      
 
 157
 00:10:34,300 --> 00:10:36,434
- it's over to the test station. 
+it's over to the test station. 
 
 158
 00:10:36,436 --> 00:10:39,037
-       here, a technician       
-       runs it for hours.       
+here, a technician runs it for hours.       
 
 159
 00:10:39,039 --> 00:10:43,374
-  he checks that it generates a 
- sufficient number of snowflakes
+he checks that it generates a sufficient number of snowflakes
 
 160
 00:10:43,376 --> 00:10:46,778
-       and that the flakes      
-  are the right size and shape. 
+and that the flakes are the right size and shape. 
 
 161
 00:10:46,780 --> 00:10:50,181
-       with his approval,       
-    these machines are ready    
+with his approval, these machines are ready    
 
 162
 00:10:50,183 --> 00:10:54,319
-     to whip up a snowstorm     
+to whip up a snowstorm     
 when the director says "action."
 
 163
 00:11:03,797 --> 00:11:05,396
-            narrator:           
+narrator:           
 a piano is a complex instrument.
 
 164
 00:11:05,398 --> 00:11:08,399
-   the inner workings operate   
-      with exact precision.     
+the inner workings operate with exact precision.     
 
 165
 00:11:08,401 --> 00:11:11,869
- regular maintenance is required
-    to ensure its longevity.    
+regular maintenance is required
+to ensure its longevity.    
 
 166
 00:11:11,871 --> 00:11:15,807
-   but even with proper care,   
- a piano deteriorates with age. 
+but even with proper care, a piano deteriorates with age. 
 
 167
 00:11:15,809 --> 00:11:18,877
-  this is where a talented team 
-     of specialists come in     
+this is where a talented team of specialists come in     
 
 168
 00:11:18,879 --> 00:11:22,280
-       to restore a piano       
-      to its former glory.      
+to restore a piano to its former glory.      
 
 169
 00:11:22,282 --> 00:11:24,816
-         [ piano plays ]        
+[ piano plays ]        
 
 170
 00:11:28,621 --> 00:11:32,223
-    a piano that's untunable,   
-       has sticking keys,       
+a piano that's untunable, has sticking keys,       
 
 171
 00:11:32,225 --> 00:11:36,528
-    or malfunctioning pedals    
- is a pianist's worst nightmare.
+or malfunctioning pedals is a pianist's worst nightmare.
 
 172
 00:11:38,965 --> 00:11:42,299
- these problems are quite common
-        in older pianos,        
+these problems are quite common
+in older pianos,        
 
 173
 00:11:42,301 --> 00:11:46,104
-        and the only cure       
- is through a major restoration.
+and the only cure is through a major restoration.
 
 174
 00:11:48,241 --> 00:11:49,908
-      after decades of use,     
+after decades of use,     
 
 175
 00:11:49,910 --> 00:11:52,777
-         wood, leather,         
-    and wool felt components    
+wood, leather, and wool felt components    
 
 176
 00:11:52,779 --> 00:11:54,913
-     naturally deteriorate.     
+naturally deteriorate.     
 
 177
 00:11:54,915 --> 00:11:58,516
-  metal pins develop cavities,  
-          screws rust,          
+metal pins develop cavities, screws rust,          
 
 178
 00:11:58,518 --> 00:12:01,653
-          dust and dirt         
-      inhibit moving parts.     
+dust and dirt inhibit moving parts.     
 
 179
 00:12:01,655 --> 00:12:03,921
-          an old piano          
-      may require anything      
+an old piano may require anything      
 
 180
 00:12:03,923 --> 00:12:08,126
-      from minor touch-ups      
-     to a complete rebuild.     
+from minor touch-ups to a complete rebuild.     
 
 181
 00:12:08,128 --> 00:12:12,596
-     it takes up to two days    
-  just to take apart the piano. 
+it takes up to two days just to take apart the piano. 
 
 182
 00:12:12,598 --> 00:12:15,600
-         this component,        
-       called the action,       
+this component, called the action,       
 
 183
 00:12:15,602 --> 00:12:18,269
- is the heart of the instrument.
+is the heart of the instrument.
 
 184
 00:12:18,271 --> 00:12:22,474
-   it has thousands of parts,   
-     including 88 piano keys    
+it has thousands of parts, including 88 piano keys    
 
 185
 00:12:22,476 --> 00:12:26,610
-  and the felt-covered hammers  
-       the keys activate.       
+and the felt-covered hammers the keys activate.       
 
 186
 00:12:26,612 --> 00:12:30,080
-        behind the action       
-      is the damper action.     
+behind the action is the damper action.     
 
 187
 00:12:30,082 --> 00:12:32,751
-  the dampers stop the strings  
-         from vibrating,        
+the dampers stop the strings from vibrating,        
 
 188
 00:12:32,753 --> 00:12:35,353
-     ending the piano note.     
+ending the piano note.     
 
 189
 00:12:35,355 --> 00:12:39,124
-       the restorers begin      
-      removing the dampers.     
+the restorers begin removing the dampers.     
 
 190
 00:12:44,097 --> 00:12:49,234
 every component must be laid out
-    in an organized fashion.    
+in an organized fashion.    
 
 191
 00:12:49,236 --> 00:12:51,836
-   this is so they know how to  
-   reassemble the instrument.   
+this is so they know how to reassemble the instrument.   
 
 192
 00:12:56,042 --> 00:12:59,110
 they separate the keyboard frame
-        from the action.        
+from the action.        
 
 193
 00:12:59,112 --> 00:13:01,779
-     the self-contained part    
-          that remains          
+the self-contained part that remains          
 
 194
 00:13:01,781 --> 00:13:03,982
-   is called the action stack.  
+is called the action stack.  
 
 195
 00:13:09,389 --> 00:13:13,190
-   like the dampers, the other  
+like the dampers, the other  
 wooden parts of the action stack
 
 196
 00:13:13,192 --> 00:13:15,460
-      deteriorate with age.     
+deteriorate with age.     
 
 197
 00:13:15,462 --> 00:13:20,598
-   the felts are usually worn,  
- and everything's caked in dust.
+the felts are usually worn, and everything's caked in dust.
 
 198
 00:13:20,600 --> 00:13:24,736
-          the restorers         
-    replace these components    
+the restorers replace these components    
 
 199
 00:13:24,738 --> 00:13:27,338
-   with custom-made replicas.   
+with custom-made replicas.   
 
 200
 00:13:27,340 --> 00:13:30,608
-  after cleaning and polishing  
-  the ornate brass structure,   
+after cleaning and polishing the ornate brass structure,   
 
 201
 00:13:30,610 --> 00:13:33,878
-     they begin reassembling    
-        the action stack.       
+they begin reassembling the action stack.       
 
 202
 00:13:33,880 --> 00:13:38,883
-   next, the restorers remove   
-   and discard any worn parts   
+next, the restorers remove and discard any worn parts   
 
 203
 00:13:38,885 --> 00:13:41,886
-        on the keyboard.        
+on the keyboard.        
 
 204
 00:13:41,888 --> 00:13:43,888
- they clean the wood thoroughly 
+they clean the wood thoroughly 
 
 205
 00:13:43,890 --> 00:13:46,690
-  and install replacement parts 
-           as needed.           
+and install replacement parts as needed.           
 
 206
 00:13:46,692 --> 00:13:49,894
-     the black keys are made    
-         of ebony wood.         
+the black keys are made of ebony wood.         
 
 207
 00:13:49,896 --> 00:13:53,297
-     they can be refinished     
-       to look brand-new.       
+they can be refinished to look brand-new.       
 
 208
 00:13:53,299 --> 00:13:55,900
-  older white keys are covered  
-           with ivory,          
+older white keys are covered with ivory,          
 
 209
 00:13:55,902 --> 00:13:58,503
-    which is no longer used.    
+which is no longer used.    
 
 210
 00:13:58,505 --> 00:14:01,572
-    so instead, they install    
-    new synthetic coverings     
+so instead, they install new synthetic coverings     
 
 211
 00:14:01,574 --> 00:14:06,044
-     made of white acrylic      
-     or a similar material.     
+made of white acrylic or a similar material.     
 
 212
 00:14:06,046 --> 00:14:08,713
-      the steel and copper      
-   piano strings have rusted,   
+the steel and copper piano strings have rusted,   
 
 213
 00:14:08,715 --> 00:14:11,316
-           tarnished,           
-     and fatigued with age.     
+tarnished, and fatigued with age.     
 
 214
 00:14:11,318 --> 00:14:13,718
-  the tuning pins can no longer 
-      maintain the tension      
+the tuning pins can no longer maintain the tension      
 
 215
 00:14:13,720 --> 00:14:14,953
-         on the strings.        
+on the strings.        
 
 216
 00:14:17,324 --> 00:14:20,058
-    this can change the sound   
-       of the instrument,       
+this can change the sound of the instrument,       
 
 217
 00:14:20,060 --> 00:14:23,461
-     so both the strings and    
-  tuning pins must be replaced. 
+so both the strings and tuning pins must be replaced. 
 
 218
 00:14:23,463 --> 00:14:26,130
-   the piano will also receive  
-        a new pin block.        
+the piano will also receive a new pin block.        
 
 219
 00:14:26,132 --> 00:14:28,733
-          the pin block         
-  is a laminated piece of wood  
+the pin block is a laminated piece of wood  
 
 220
 00:14:28,735 --> 00:14:30,534
-  that holds the pins in place. 
+that holds the pins in place. 
 
 221
 00:14:30,536 --> 00:14:32,336
-    to access the pin block,    
+to access the pin block,    
 
 222
 00:14:32,338 --> 00:14:35,539
-       they have to remove      
-    a heavy cast-iron plate.    
+they have to remove a heavy cast-iron plate.    
 
 223
 00:14:35,541 --> 00:14:39,344
- the plate holds the strings at 
- a tremendous amount of tension.
+the plate holds the strings at a tremendous amount of tension.
 
 224
 00:14:43,149 --> 00:14:47,352
@@ -1074,22 +920,19 @@ they can take out the pin block.
 
 225
 00:14:47,354 --> 00:14:50,021
-          they restore          
-   the ornate cast-iron plate   
+they restore the ornate cast-iron plate   
 
 226
 00:14:50,023 --> 00:14:53,424
-    by stripping off the old    
-  paint finish with chemicals.  
+by stripping off the old paint finish with chemicals.  
 
 227
 00:14:53,426 --> 00:14:55,493
-    then they prime, repaint,   
+then they prime, repaint,   
 
 228
 00:14:55,495 --> 00:14:58,496
-   and apply a protective coat  
-       of clear polyester.      
+and apply a protective coat of clear polyester.      
 
 229
 00:15:00,567 --> 00:15:02,700
@@ -1097,22 +940,19 @@ back in the reconstruction area,
 
 230
 00:15:02,702 --> 00:15:05,903
-       a restorer removes       
-  the piano's wooden soundboard 
+a restorer removes the piano's wooden soundboard 
 
 231
 00:15:05,905 --> 00:15:07,905
-   and its support structure.   
+and its support structure.   
 
 232
 00:15:07,907 --> 00:15:11,909
-  they use these original parts 
- as a template for the new ones.
+they use these original parts as a template for the new ones.
 
 233
 00:15:11,911 --> 00:15:14,511
-          if the action         
-   is the heart of the piano,   
+if the action is the heart of the piano,   
 
 234
 00:15:14,513 --> 00:15:16,981
@@ -1120,153 +960,131 @@ then the soundboard is its soul.
 
 235
 00:15:16,983 --> 00:15:20,118
-    when the strings vibrate    
-    against the soundboard,     
+when the strings vibrate against the soundboard,     
 
 236
 00:15:20,120 --> 00:15:22,519
-    it resonates with sound.    
+it resonates with sound.    
 
 237
 00:15:22,521 --> 00:15:24,255
-      on every soundboard,      
+on every soundboard,      
 
 238
 00:15:24,257 --> 00:15:28,993
- the strings pass over a wooden 
-    bridge staggered by pins.   
+the strings pass over a wooden bridge staggered by pins.   
 
 239
 00:15:28,995 --> 00:15:31,662
-   the height and positioning   
-     of the bridge and pins     
+the height and positioning of the bridge and pins     
 
 240
 00:15:31,664 --> 00:15:34,999
-          are critical          
-    for producing fine tone.    
+are critical for producing fine tone.    
 
 241
 00:15:35,001 --> 00:15:38,135
-    after removing the pins,    
+after removing the pins,    
 the restorers use the old bridge
 
 242
 00:15:38,137 --> 00:15:40,671
-       to make a template       
-         for a new one.         
+to make a template for a new one.         
 
 243
 00:15:40,673 --> 00:15:45,009
-        now they install        
- all of the replacement parts --
+now they install all of the replacement parts --
 
 244
 00:15:45,011 --> 00:15:49,747
 soundboard, bridge, bridge pins,
-   pin block, and tuning pins.  
+pin block, and tuning pins.  
 
 245
 00:15:49,749 --> 00:15:50,882
-          they install          
+they install          
 
 246
 00:15:50,884 --> 00:15:53,217
-      the newly-refurbished     
-         cast-iron plate        
+the newly-refurbished cast-iron plate        
 
 247
 00:15:53,219 --> 00:15:56,921
-    and are ready to perform    
-   some cosmetic restoration.   
+and are ready to perform some cosmetic restoration.   
 
 248
 00:16:10,637 --> 00:16:13,437
-            narrator:           
+narrator:           
 a piano's wooden cabinet or case
-  is constructed from hardwood. 
+is constructed from hardwood. 
 
 249
 00:16:13,439 --> 00:16:15,840
-        to give the piano       
-   the look of fine furniture,  
+to give the piano the look of fine furniture,  
 
 250
 00:16:15,842 --> 00:16:19,109
-     the surface is covered     
- in a thin layer of fancier wood
+the surface is covered in a thin layer of fancier wood
 
 251
 00:16:19,111 --> 00:16:22,179
-   such as mahogany, rosewood,  
-           or walnut.           
+such as mahogany, rosewood, or walnut.           
 
 252
 00:16:22,181 --> 00:16:26,417
-  this veneer usually requires  
-  restoration in older pianos.  
+this veneer usually requires restoration in older pianos.  
 
 253
 00:16:28,922 --> 00:16:32,724
-     over time, paint peels     
-      and varnish darkens.      
+over time, paint peels and varnish darkens.      
 
 254
 00:16:32,726 --> 00:16:36,593
-    there's often fading from   
-   exposure to direct sunlight  
+there's often fading from exposure to direct sunlight  
 
 255
 00:16:36,595 --> 00:16:39,663
-           or cracking          
-     due to dry indoor air.     
+or cracking due to dry indoor air.     
 
 256
 00:16:39,665 --> 00:16:41,866
-     to restore the veneer,     
-           they begin           
+to restore the veneer, they begin           
 
 257
 00:16:41,868 --> 00:16:45,737
-  by using a chemical stripper  
-    to remove the old finish.   
+by using a chemical stripper to remove the old finish.   
 
 258
 00:16:49,275 --> 00:16:51,609
-      once they've stripped     
-    the piano-case parts down   
+once they've stripped the piano-case parts down   
 
 259
 00:16:51,611 --> 00:16:53,077
-       to the bare veneer,      
+to the bare veneer,      
 
 260
 00:16:53,079 --> 00:16:56,347
-         they sand away         
-       any imperfections.       
+they sand away any imperfections.       
 
 261
 00:16:56,349 --> 00:16:58,616
-  then they apply aniline dye.  
+then they apply aniline dye.  
 
 262
 00:16:58,618 --> 00:17:02,086
-    it's a type of stain that   
- penetrates deep into the veneer
+it's a type of stain that penetrates deep into the veneer
 
 263
 00:17:02,088 --> 00:17:04,622
-     and enhances the grain     
-          of the wood.          
+and enhances the grain of the wood.          
 
 264
 00:17:04,624 --> 00:17:07,291
- several coats of clear lacquer 
-           are applied          
+several coats of clear lacquer are applied          
 
 265
 00:17:07,293 --> 00:17:09,160
-      over the aniline dye.     
+over the aniline dye.     
 
 266
 00:17:09,162 --> 00:17:12,163
@@ -1274,99 +1092,84 @@ this piano was originally black,
 
 267
 00:17:12,165 --> 00:17:16,633
-      so they sand, stain,      
-   then paint the wood black.   
+so they sand, stain, then paint the wood black.   
 
 268
 00:17:16,635 --> 00:17:19,036
-    they apply several coats    
-            of paint,           
+they apply several coats of paint,           
 
 269
 00:17:19,038 --> 00:17:20,772
- letting each one dry overnight 
+letting each one dry overnight 
 
 270
 00:17:20,774 --> 00:17:24,108
-   before sanding the surface   
-   and applying the next coat.  
+before sanding the surface and applying the next coat.  
 
 271
 00:17:24,110 --> 00:17:29,780
- after the final coat, they let 
- the paint cure for two weeks,  
+after the final coat, they let the paint cure for two weeks,  
 
 272
 00:17:29,782 --> 00:17:32,316
-     then do a fine sanding.    
+then do a fine sanding.    
 
 273
 00:17:33,853 --> 00:17:36,120
-   to make the painted surface  
-             glossy,            
+to make the painted surface glossy,            
 
 274
 00:17:36,122 --> 00:17:38,789
-  they use a high-speed buffer  
-          and a series          
+they use a high-speed buffer and a series          
 
 275
 00:17:38,791 --> 00:17:41,526
-     of progressively-finer     
-      polishing compounds.      
+of progressively-finer polishing compounds.      
 
 276
 00:17:41,528 --> 00:17:44,328
- this is a slow and painstaking 
-            process.            
+this is a slow and painstaking process.            
 
 277
 00:17:44,330 --> 00:17:46,864
-   it takes two or three days   
-        to complete work        
+it takes two or three days to complete work        
 
 278
 00:17:46,866 --> 00:17:49,834
-    on a concert grand piano    
-           like this.           
+on a concert grand piano like this.           
 
 279
 00:17:49,836 --> 00:17:52,804
-     with the 20-plus parts     
-   of the case now refinished,  
+with the 20-plus parts of the case now refinished,  
 
 280
 00:17:52,806 --> 00:17:58,076
-   the restorers are now ready  
-    to reassemble the piano.    
+the restorers are now ready to reassemble the piano.    
 
 281
 00:18:00,213 --> 00:18:03,214
 they start by hooking the looped
-     end of each new string     
+end of each new string     
 
 282
 00:18:03,216 --> 00:18:05,149
-        onto a hitch pin.       
+onto a hitch pin.       
 
 283
 00:18:05,151 --> 00:18:06,884
-    then they run the string    
-         over the bridge        
+then they run the string over the bridge        
 
 284
 00:18:06,886 --> 00:18:09,887
-       to the opposite end      
-     of the cast-iron plate,    
+to the opposite end of the cast-iron plate,    
 
 285
 00:18:09,889 --> 00:18:12,657
- winding it around a tuning pin.
+winding it around a tuning pin.
 
 286
 00:18:14,160 --> 00:18:17,428
-   restorers must wear gloves   
-       while restringing.       
+restorers must wear gloves while restringing.       
 
 287
 00:18:17,430 --> 00:18:23,101
@@ -1375,55 +1178,47 @@ the hands can tarnish the wires.
 
 288
 00:18:29,709 --> 00:18:32,843
-       next, they install       
-    the refurbished dampers.    
+next, they install the refurbished dampers.    
 
 289
 00:18:32,845 --> 00:18:36,780
-        the original wood       
- has been sanded and refinished.
+the original wood has been sanded and refinished.
 
 290
 00:18:36,782 --> 00:18:40,418
-    they also have new felts    
-         and new wires.         
+they also have new felts and new wires.         
 
 291
 00:18:42,721 --> 00:18:46,324
-       the dampers go into      
-   a brand-new damper action.   
+the dampers go into a brand-new damper action.   
 
 292
 00:18:46,326 --> 00:18:50,528
-    the restorers make minute   
-   adjustments and alignments,  
+the restorers make minute adjustments and alignments,  
 
 293
 00:18:50,530 --> 00:18:56,733
-  a meticulous process that can 
-  take a few days to complete.  
+a meticulous process that can take a few days to complete.  
 
 294
 00:18:56,735 --> 00:18:58,669
- but that's nothing compared to 
+but that's nothing compared to 
 
 295
 00:18:58,671 --> 00:19:01,872
-      regulating the larger     
-    and more complex action,    
+regulating the larger and more complex action,    
 
 296
 00:19:01,874 --> 00:19:04,642
-  which can take several weeks. 
+which can take several weeks. 
 
 297
 00:19:06,546 --> 00:19:09,614
-   they make more than a dozen  
-      precision adjustments     
+they make more than a dozen precision adjustments     
 
 298
 00:19:09,616 --> 00:19:12,049
-    to each of the 88 notes.    
+to each of the 88 notes.    
 
 299
 00:19:18,424 --> 00:19:20,224
@@ -1431,56 +1226,48 @@ after they reinstall the action,
 
 300
 00:19:20,226 --> 00:19:23,161
-    they bookend the keyboard   
-    with wooden cheekblocks.    
+they bookend the keyboard with wooden cheekblocks.    
 
 301
 00:19:23,163 --> 00:19:27,498
-    these are the originals,    
- stripped, sanded, and stained. 
+these are the originals, stripped, sanded, and stained. 
 
 302
 00:19:27,500 --> 00:19:30,701
-         the cheekblocks        
-     help align the keyboard    
+the cheekblocks help align the keyboard    
 
 303
 00:19:30,703 --> 00:19:35,139
-   so that the hammers strike   
-       in the right place.      
+so that the hammers strike in the right place.      
 
 304
 00:19:38,578 --> 00:19:41,445
- the restorer checks the action 
-          one last time         
+the restorer checks the action one last time         
 
 305
 00:19:41,447 --> 00:19:43,848
-            to ensure           
-   it's performing perfectly.   
+to ensure it's performing perfectly.   
 
 306
 00:19:43,850 --> 00:19:45,983
-         then he's ready        
-       to tune the piano.       
+then he's ready to tune the piano.       
 
 307
 00:19:45,985 --> 00:19:49,453
- he weaves a strip of wool cloth
-       through the strings      
+he weaves a strip of wool cloth
+through the strings      
 
 308
 00:19:49,455 --> 00:19:52,723
- to mute all but the one string 
-         they're tuning.        
+to mute all but the one string they're tuning.        
 
 309
 00:19:52,725 --> 00:19:54,825
-         [ notes play ]         
+[ notes play ]         
 
 310
 00:19:59,332 --> 00:20:02,199
-         [ notes play ]         
+[ notes play ]         
 
 311
 00:20:02,201 --> 00:20:04,201
@@ -1488,79 +1275,71 @@ once he's tuned all the strings,
 
 312
 00:20:04,203 --> 00:20:07,338
- the inner workings of the piano
-       are as good as new.      
+the inner workings of the piano
+are as good as new.      
 
 313
 00:20:07,340 --> 00:20:09,240
-         [ notes play ]         
+[ notes play ]         
 
 314
 00:20:12,278 --> 00:20:15,345
-        restorers finish        
-   reassembling the piano case  
+restorers finish reassembling the piano case  
 
 315
 00:20:15,347 --> 00:20:17,748
-  and give it a final dusting.  
+and give it a final dusting.  
 
 316
 00:20:17,750 --> 00:20:21,619
-      except for the legs,      
-   all of the piano-case parts  
+except for the legs, all of the piano-case parts  
 
 317
 00:20:21,621 --> 00:20:26,757
- have a solid wood core covered 
-   in a newly-restored veneer.  
+have a solid wood core covered in a newly-restored veneer.  
 
 318
 00:20:29,361 --> 00:20:33,831
-           this veneer          
-   isn't just for aesthetics.   
+this veneer isn't just for aesthetics.   
 
 319
 00:20:33,833 --> 00:20:37,034
-    it prevents the wood core   
- from expanding and contracting 
+it prevents the wood core from expanding and contracting 
 
 320
 00:20:37,036 --> 00:20:39,637
-    with changes in humidity.   
+with changes in humidity.   
 
 321
 00:20:39,639 --> 00:20:42,773
-         [ piano plays ]        
+[ piano plays ]        
 
 322
 00:20:49,249 --> 00:20:52,583
-     restoring an old piano     
-  is part technical challenge,  
+restoring an old piano is part technical challenge,  
 
 323
 00:20:52,585 --> 00:20:54,385
-       part labor of love.      
+part labor of love.      
 
 324
 00:20:54,387 --> 00:20:56,387
- after many weeks of hard work, 
+after many weeks of hard work, 
 
 325
 00:20:56,389 --> 00:21:00,691
 this instrument looks and sounds
-  just as it did in its heyday. 
+just as it did in its heyday. 
 
 326
 00:21:13,473 --> 00:21:15,739
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 327
 00:21:15,741 --> 00:21:18,542
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 328
 00:21:18,544 --> 00:21:20,645
-      drop us a line at...      
+drop us a line at...      
 

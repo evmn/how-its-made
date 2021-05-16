@@ -1,929 +1,665 @@
 ﻿1
 00:00:01,802 --> 00:00:04,736
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 2
 00:00:04,738 --> 00:00:07,740
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 3
 00:00:23,156 --> 00:00:32,230
->> narrator: today, on          
-"how it's made"...              
-prepared mustard...             
+>> narrator: today, on "how it's made"... prepared mustard...
 
 4
 00:00:32,232 --> 00:00:37,702
-"how it's made"...              
-prepared mustard...             
-violins...                      
+"how it's made"... prepared mustard... violins...
 
 5
 00:00:37,704 --> 00:00:43,775
-prepared mustard...             
-violins...                      
-nuts and bolts...               
+prepared mustard... violins... nuts and bolts...
 
 6
 00:00:43,777 --> 00:00:46,311
-violins...                      
-nuts and bolts...               
-and toilet paper.               
+violins... nuts and bolts... and toilet paper.
 
 7
 00:00:53,186 --> 00:00:58,456
-we eat it on hot dogs and       
-hamburgers, on sausages and     
-sandwiches.                     
+we eat it on hot dogs and hamburgers, on sausages and sandwiches.
 
 8
 00:00:58,458 --> 00:01:00,525
-hamburgers, on sausages and     
-sandwiches.                     
-no condiment cuts the mustard   
+hamburgers, on sausages and sandwiches. no condiment cuts the mustard
 
 9
 00:01:00,527 --> 00:01:02,760
-sandwiches.                     
-no condiment cuts the mustard   
-quite like mustard.             
+sandwiches. no condiment cuts the mustard quite like mustard.
 
 10
 00:01:02,762 --> 00:01:04,496
-no condiment cuts the mustard   
-quite like mustard.             
-the ancient romans took the     
+no condiment cuts the mustard quite like mustard. the ancient romans took the
 
 11
 00:01:04,498 --> 00:01:06,197
-quite like mustard.             
-the ancient romans took the     
-mustard seed to what is now     
+quite like mustard. the ancient romans took the mustard seed to what is now
 
 12
 00:01:06,199 --> 00:01:08,067
-the ancient romans took the     
-mustard seed to what is now     
-france, and by the 9th century, 
+the ancient romans took the mustard seed to what is now france, and by the 9th century,
 
 13
 00:01:08,069 --> 00:01:10,068
-mustard seed to what is now     
-france, and by the 9th century, 
-big-time mustard production was 
+mustard seed to what is now france, and by the 9th century, big-time mustard production was
 
 14
 00:01:10,070 --> 00:01:15,540
-france, and by the 9th century, 
-big-time mustard production was 
-under way.                      
+france, and by the 9th century, big-time mustard production was under way.
 
 15
 00:01:15,542 --> 00:01:17,675
-big-time mustard production was 
-under way.                      
-yellow mustard and dijon mustard
+big-time mustard production was under way. yellow mustard and dijon mustard
 
 16
 00:01:17,677 --> 00:01:19,444
-under way.                      
-yellow mustard and dijon mustard
-have a few ingredients in       
+under way. yellow mustard and dijon mustard
+have a few ingredients in
 
 17
 00:01:19,446 --> 00:01:21,280
 yellow mustard and dijon mustard
-have a few ingredients in       
-common, but that's where the    
+have a few ingredients in common, but that's where the
 
 18
 00:01:21,282 --> 00:01:22,948
-have a few ingredients in       
-common, but that's where the    
-similarity ends.                
+have a few ingredients in common, but that's where the similarity ends.
 
 19
 00:01:22,950 --> 00:01:24,616
-common, but that's where the    
-similarity ends.                
-not only are they prepared quite
+common, but that's where the similarity ends. not only are they prepared quite
 
 20
 00:01:24,618 --> 00:01:26,217
-similarity ends.                
-not only are they prepared quite
-differently -- they're derived  
+similarity ends. not only are they prepared quite
+differently -- they're derived
 
 21
 00:01:26,219 --> 00:01:27,685
 not only are they prepared quite
-differently -- they're derived  
-from different varieties of     
+differently -- they're derived from different varieties of
 
 22
 00:01:27,687 --> 00:01:29,888
-differently -- they're derived  
-from different varieties of     
-mustard seed.                   
+differently -- they're derived from different varieties of mustard seed.
 
 23
 00:01:29,890 --> 00:01:31,690
-from different varieties of     
-mustard seed.                   
-yellow mustard is made from the 
+from different varieties of mustard seed. yellow mustard is made from the
 
 24
 00:01:31,692 --> 00:01:33,291
-mustard seed.                   
-yellow mustard is made from the 
-seeds of the white mustard      
+mustard seed. yellow mustard is made from the seeds of the white mustard
 
 25
 00:01:33,293 --> 00:01:34,893
-yellow mustard is made from the 
-seeds of the white mustard      
-plant.                          
+yellow mustard is made from the seeds of the white mustard plant.
 
 26
 00:01:34,895 --> 00:01:37,162
-seeds of the white mustard      
-plant.                          
-turmeric and paprika provide the
+seeds of the white mustard plant. turmeric and paprika provide the
 
 27
 00:01:37,164 --> 00:01:39,297
-plant.                          
-turmeric and paprika provide the
-yellow color and sharp flavor.  
+plant. turmeric and paprika provide the
+yellow color and sharp flavor.
 
 28
 00:01:39,299 --> 00:01:41,633
 turmeric and paprika provide the
-yellow color and sharp flavor.  
-the other ingredients are salt, 
+yellow color and sharp flavor. the other ingredients are salt,
 
 29
 00:01:41,635 --> 00:01:44,836
-yellow color and sharp flavor.  
-the other ingredients are salt, 
-water, and white vinegar.       
+yellow color and sharp flavor. the other ingredients are salt, water, and white vinegar.
 
 30
 00:01:44,838 --> 00:01:46,571
-the other ingredients are salt, 
-water, and white vinegar.       
-the powdered ingredients go down
+the other ingredients are salt, water, and white vinegar. the powdered ingredients go down
 
 31
 00:01:46,573 --> 00:01:47,972
-water, and white vinegar.       
-the powdered ingredients go down
-a shaft to a mixing tank        
+water, and white vinegar. the powdered ingredients go down
+a shaft to a mixing tank
 
 32
 00:01:47,974 --> 00:01:49,340
 the powdered ingredients go down
-a shaft to a mixing tank        
-containing the water and        
+a shaft to a mixing tank containing the water and
 
 33
 00:01:49,342 --> 00:01:50,709
-a shaft to a mixing tank        
-containing the water and        
-vinegar.                        
+a shaft to a mixing tank containing the water and vinegar.
 
 34
 00:01:50,711 --> 00:01:53,044
-containing the water and        
-vinegar.                        
-yellow mustard's proportions are
+containing the water and vinegar. yellow mustard's proportions are
 
 35
 00:01:53,046 --> 00:01:56,147
-vinegar.                        
-yellow mustard's proportions are
-roughly 60% water, 20% vinegar, 
+vinegar. yellow mustard's proportions are
+roughly 60% water, 20% vinegar,
 
 36
 00:01:56,149 --> 00:01:58,816
 yellow mustard's proportions are
-roughly 60% water, 20% vinegar, 
-15% seeds, and 5% salt and      
+roughly 60% water, 20% vinegar, 15% seeds, and 5% salt and
 
 37
 00:01:58,818 --> 00:02:03,455
-roughly 60% water, 20% vinegar, 
-15% seeds, and 5% salt and      
-spices.                         
+roughly 60% water, 20% vinegar, 15% seeds, and 5% salt and spices.
 
 38
 00:02:03,457 --> 00:02:05,924
-15% seeds, and 5% salt and      
-spices.                         
-the last ingredient to go in is 
+15% seeds, and 5% salt and spices. the last ingredient to go in is
 
 39
 00:02:05,926 --> 00:02:08,293
-spices.                         
-the last ingredient to go in is 
-the mustard seed -- hull, bran, 
+spices. the last ingredient to go in is the mustard seed -- hull, bran,
 
 40
 00:02:08,295 --> 00:02:13,932
-the last ingredient to go in is 
-the mustard seed -- hull, bran, 
-and all.                        
+the last ingredient to go in is the mustard seed -- hull, bran, and all.
 
 41
 00:02:13,934 --> 00:02:15,767
-the mustard seed -- hull, bran, 
-and all.                        
-the tank's rotating mixers      
+the mustard seed -- hull, bran, and all. the tank's rotating mixers
 
 42
 00:02:15,769 --> 00:02:17,870
-and all.                        
-the tank's rotating mixers      
-blends the ingredients for about
+and all. the tank's rotating mixers blends the ingredients for about
 
 43
 00:02:17,872 --> 00:02:20,038
-the tank's rotating mixers      
-blends the ingredients for about
-an hour at seed-crushing speeds 
+the tank's rotating mixers blends the ingredients for about
+an hour at seed-crushing speeds
 
 44
 00:02:20,040 --> 00:02:26,478
 blends the ingredients for about
-an hour at seed-crushing speeds 
-reaching 165 miles per hour.    
+an hour at seed-crushing speeds reaching 165 miles per hour.
 
 45
 00:02:26,480 --> 00:02:28,747
-an hour at seed-crushing speeds 
-reaching 165 miles per hour.    
-the tank's contents empty into  
+an hour at seed-crushing speeds reaching 165 miles per hour. the tank's contents empty into
 
 46
 00:02:28,749 --> 00:02:30,949
-reaching 165 miles per hour.    
-the tank's contents empty into  
-several stainless-steel mills.  
+reaching 165 miles per hour. the tank's contents empty into several stainless-steel mills.
 
 47
 00:02:30,951 --> 00:02:33,018
-the tank's contents empty into  
-several stainless-steel mills.  
-inside each one, a pair of      
+the tank's contents empty into several stainless-steel mills. inside each one, a pair of
 
 48
 00:02:33,020 --> 00:02:35,119
-several stainless-steel mills.  
-inside each one, a pair of      
-synthetic stones grinds the     
+several stainless-steel mills. inside each one, a pair of synthetic stones grinds the
 
 49
 00:02:35,121 --> 00:02:37,522
-inside each one, a pair of      
-synthetic stones grinds the     
-seeds, a process known as stone 
+inside each one, a pair of synthetic stones grinds the seeds, a process known as stone
 
 50
 00:02:37,524 --> 00:02:38,856
-synthetic stones grinds the     
-seeds, a process known as stone 
-milling.                        
+synthetic stones grinds the seeds, a process known as stone milling.
 
 51
 00:02:38,858 --> 00:02:40,825
-seeds, a process known as stone 
-milling.                        
-that grinding action heats the  
+seeds, a process known as stone milling. that grinding action heats the
 
 52
 00:02:40,827 --> 00:02:42,627
-milling.                        
-that grinding action heats the  
-mixture to about 140 degrees    
+milling. that grinding action heats the mixture to about 140 degrees
 
 53
 00:02:42,629 --> 00:02:44,329
-that grinding action heats the  
-mixture to about 140 degrees    
-fahrenheit.                     
+that grinding action heats the mixture to about 140 degrees fahrenheit.
 
 54
 00:02:44,331 --> 00:02:46,164
-mixture to about 140 degrees    
-fahrenheit.                     
-the liquid thickens into creamy,
+mixture to about 140 degrees fahrenheit. the liquid thickens into creamy,
 
 55
 00:02:46,166 --> 00:02:48,834
-fahrenheit.                     
-the liquid thickens into creamy,
-bright yellow mustard.          
+fahrenheit. the liquid thickens into creamy,
+bright yellow mustard.
 
 56
 00:02:48,836 --> 00:02:50,769
 the liquid thickens into creamy,
-bright yellow mustard.          
-before bottling, they perform   
+bright yellow mustard. before bottling, they perform
 
 57
 00:02:50,771 --> 00:02:52,704
-bright yellow mustard.          
-before bottling, they perform   
-what is called a finesse test.  
+bright yellow mustard. before bottling, they perform what is called a finesse test.
 
 58
 00:02:52,706 --> 00:02:54,572
-before bottling, they perform   
-what is called a finesse test.  
-this ensures the mustard is     
+before bottling, they perform what is called a finesse test. this ensures the mustard is
 
 59
 00:02:54,574 --> 00:02:55,673
-what is called a finesse test.  
-this ensures the mustard is     
-smooth enough.                  
+what is called a finesse test. this ensures the mustard is smooth enough.
 
 60
 00:02:55,675 --> 00:02:57,809
-this ensures the mustard is     
-smooth enough.                  
-if its particles are larger than
+this ensures the mustard is smooth enough. if its particles are larger than
 
 61
 00:02:57,811 --> 00:02:59,811
-smooth enough.                  
-if its particles are larger than
-9/1000 of an inch, the factory  
+smooth enough. if its particles are larger than
+9/1000 of an inch, the factory
 
 62
 00:02:59,813 --> 00:03:01,679
 if its particles are larger than
-9/1000 of an inch, the factory  
-adjusts the milling stones      
+9/1000 of an inch, the factory adjusts the milling stones
 
 63
 00:03:01,681 --> 00:03:03,515
-9/1000 of an inch, the factory  
-adjusts the milling stones      
-closer together to produce a    
+9/1000 of an inch, the factory adjusts the milling stones closer together to produce a
 
 64
 00:03:03,517 --> 00:03:07,418
-adjusts the milling stones      
-closer together to produce a    
-finer grind.                    
+adjusts the milling stones closer together to produce a finer grind.
 
 65
 00:03:07,420 --> 00:03:09,420
-closer together to produce a    
-finer grind.                    
-they make dijon mustard from    
+closer together to produce a finer grind. they make dijon mustard from
 
 66
 00:03:09,422 --> 00:03:11,522
-finer grind.                    
-they make dijon mustard from    
-brown mustard seeds, sometimes  
+finer grind. they make dijon mustard from brown mustard seeds, sometimes
 
 67
 00:03:11,524 --> 00:03:13,691
-they make dijon mustard from    
-brown mustard seeds, sometimes  
-mixed with other varieties, and 
+they make dijon mustard from brown mustard seeds, sometimes mixed with other varieties, and
 
 68
 00:03:13,693 --> 00:03:15,927
-brown mustard seeds, sometimes  
-mixed with other varieties, and 
-they usually use two types of   
+brown mustard seeds, sometimes mixed with other varieties, and they usually use two types of
 
 69
 00:03:15,929 --> 00:03:19,864
-mixed with other varieties, and 
-they usually use two types of   
-vinegar -- cider and white.     
+mixed with other varieties, and they usually use two types of vinegar -- cider and white.
 
 70
 00:03:19,866 --> 00:03:21,833
-they usually use two types of   
-vinegar -- cider and white.     
-the ingredients ferment in a    
+they usually use two types of vinegar -- cider and white. the ingredients ferment in a
 
 71
 00:03:21,835 --> 00:03:23,936
-vinegar -- cider and white.     
-the ingredients ferment in a    
-tank for 12 hours before mixing.
+vinegar -- cider and white. the ingredients ferment in a tank for 12 hours before mixing.
 
 72
 00:03:23,938 --> 00:03:26,004
-the ingredients ferment in a    
-tank for 12 hours before mixing.
-that's what gives dijon mustard 
+the ingredients ferment in a tank for 12 hours before mixing.
+that's what gives dijon mustard
 
 73
 00:03:26,006 --> 00:03:29,341
 tank for 12 hours before mixing.
-that's what gives dijon mustard 
-its strong flavor.              
+that's what gives dijon mustard its strong flavor.
 
 74
 00:03:29,343 --> 00:03:31,476
-that's what gives dijon mustard 
-its strong flavor.              
-after mixing, it's the same     
+that's what gives dijon mustard its strong flavor. after mixing, it's the same
 
 75
 00:03:31,478 --> 00:03:33,711
-its strong flavor.              
-after mixing, it's the same     
-stone-milling process we saw    
+its strong flavor. after mixing, it's the same stone-milling process we saw
 
 76
 00:03:33,713 --> 00:03:34,512
-after mixing, it's the same     
-stone-milling process we saw    
-before.                         
+after mixing, it's the same stone-milling process we saw before.
 
 77
 00:03:34,514 --> 00:03:36,414
-stone-milling process we saw    
-before.                         
-here's what the inside of those 
+stone-milling process we saw before. here's what the inside of those
 
 78
 00:03:36,416 --> 00:03:38,249
-before.                         
-here's what the inside of those 
-mills look like -- a rotating   
+before. here's what the inside of those mills look like -- a rotating
 
 79
 00:03:38,251 --> 00:03:40,084
-here's what the inside of those 
-mills look like -- a rotating   
-stone rubbing seeds against a   
+here's what the inside of those mills look like -- a rotating stone rubbing seeds against a
 
 80
 00:03:40,086 --> 00:03:41,853
-mills look like -- a rotating   
-stone rubbing seeds against a   
-stationary stone -- the same    
+mills look like -- a rotating stone rubbing seeds against a stationary stone -- the same
 
 81
 00:03:41,855 --> 00:03:43,622
-stone rubbing seeds against a   
-stationary stone -- the same    
-principle as an old-fashioned   
+stone rubbing seeds against a stationary stone -- the same principle as an old-fashioned
 
 82
 00:03:43,624 --> 00:03:51,296
-stationary stone -- the same    
-principle as an old-fashioned   
-mortar and pestle.              
+stationary stone -- the same principle as an old-fashioned mortar and pestle.
 
 83
 00:03:51,298 --> 00:03:53,765
-principle as an old-fashioned   
-mortar and pestle.              
-dijon is made with twice as many
+principle as an old-fashioned mortar and pestle. dijon is made with twice as many
 
 84
 00:03:53,767 --> 00:03:56,267
-mortar and pestle.              
-dijon is made with twice as many
-seeds as yellow mustard and 20% 
+mortar and pestle. dijon is made with twice as many
+seeds as yellow mustard and 20%
 
 85
 00:03:56,269 --> 00:03:58,370
 dijon is made with twice as many
-seeds as yellow mustard and 20% 
-less water, which is why it     
+seeds as yellow mustard and 20% less water, which is why it
 
 86
 00:03:58,372 --> 00:04:01,039
-seeds as yellow mustard and 20% 
-less water, which is why it     
-comes out thicker and denser and
+seeds as yellow mustard and 20% less water, which is why it comes out thicker and denser and
 
 87
 00:04:01,041 --> 00:04:05,844
-less water, which is why it     
-comes out thicker and denser and
-needs the occasional stir.      
+less water, which is why it comes out thicker and denser and
+needs the occasional stir.
 
 88
 00:04:05,846 --> 00:04:07,912
 comes out thicker and denser and
-needs the occasional stir.      
-filters screen out any particles
+needs the occasional stir. filters screen out any particles
 
 89
 00:04:07,914 --> 00:04:11,083
-needs the occasional stir.      
-filters screen out any particles
-larger than 9/100 of an inch.   
+needs the occasional stir. filters screen out any particles
+larger than 9/100 of an inch.
 
 90
 00:04:18,858 --> 00:04:30,002
-the factory saves these coarse  
-pieces to put into specialty    
-mustards.                       
+the factory saves these coarse pieces to put into specialty mustards.
 
 91
 00:04:30,004 --> 00:04:32,003
-pieces to put into specialty    
-mustards.                       
-now the creamy, smooth dijon    
+pieces to put into specialty mustards. now the creamy, smooth dijon
 
 92
 00:04:32,005 --> 00:04:33,338
-mustards.                       
-now the creamy, smooth dijon    
-mustard goes into a             
+mustards. now the creamy, smooth dijon mustard goes into a
 
 93
 00:04:33,340 --> 00:04:34,873
-now the creamy, smooth dijon    
-mustard goes into a             
-stainless-steel tank.           
+now the creamy, smooth dijon mustard goes into a stainless-steel tank.
 
 94
 00:04:34,875 --> 00:04:36,808
-mustard goes into a             
-stainless-steel tank.           
-a slow-speed revolving mixer    
+mustard goes into a stainless-steel tank. a slow-speed revolving mixer
 
 95
 00:04:36,810 --> 00:04:38,677
-stainless-steel tank.           
-a slow-speed revolving mixer    
-removes the air, which would    
+stainless-steel tank. a slow-speed revolving mixer removes the air, which would
 
 96
 00:04:38,679 --> 00:04:40,812
-a slow-speed revolving mixer    
-removes the air, which would    
-otherwise turn it brown and dull
+a slow-speed revolving mixer removes the air, which would otherwise turn it brown and dull
 
 97
 00:04:40,814 --> 00:04:42,980
-removes the air, which would    
-otherwise turn it brown and dull
-its flavor.                     
+removes the air, which would otherwise turn it brown and dull
+its flavor.
 
 98
 00:04:42,982 --> 00:04:44,816
 otherwise turn it brown and dull
-its flavor.                     
-the yellow mustard tanks also   
+its flavor. the yellow mustard tanks also
 
 99
 00:04:44,818 --> 00:04:46,718
-its flavor.                     
-the yellow mustard tanks also   
-have mixers to remove air and to
+its flavor. the yellow mustard tanks also have mixers to remove air and to
 
 100
 00:04:46,720 --> 00:04:53,492
-the yellow mustard tanks also   
-have mixers to remove air and to
+the yellow mustard tanks also have mixers to remove air and to
 keep the condiment well-blended.
 
 101
 00:04:53,494 --> 00:04:55,360
 have mixers to remove air and to
 keep the condiment well-blended.
-both dijon and yellow mustard   
+both dijon and yellow mustard
 
 102
 00:04:55,362 --> 00:04:57,162
 keep the condiment well-blended.
-both dijon and yellow mustard   
-have to cool overnight before   
+both dijon and yellow mustard have to cool overnight before
 
 103
 00:04:57,164 --> 00:04:57,929
-both dijon and yellow mustard   
-have to cool overnight before   
-bottling.                       
+both dijon and yellow mustard have to cool overnight before bottling.
 
 104
 00:04:57,931 --> 00:05:00,031
-have to cool overnight before   
-bottling.                       
-from start to finish, it takes  
+have to cool overnight before bottling. from start to finish, it takes
 
 105
 00:05:00,033 --> 00:05:02,367
-bottling.                       
-from start to finish, it takes  
-about 20 hours to produce yellow
+bottling. from start to finish, it takes about 20 hours to produce yellow
 
 106
 00:05:02,369 --> 00:05:04,602
-from start to finish, it takes  
-about 20 hours to produce yellow
-mustard, and about 32 hours for 
+from start to finish, it takes about 20 hours to produce yellow
+mustard, and about 32 hours for
 
 107
 00:05:04,604 --> 00:05:06,104
 about 20 hours to produce yellow
-mustard, and about 32 hours for 
-dijon because of its            
+mustard, and about 32 hours for dijon because of its
 
 108
 00:05:06,106 --> 00:05:10,975
-mustard, and about 32 hours for 
-dijon because of its            
-fermentation period.            
+mustard, and about 32 hours for dijon because of its fermentation period.
 
 109
 00:05:10,977 --> 00:05:13,144
-dijon because of its            
-fermentation period.            
-yellow mustard has a 15-month   
+dijon because of its fermentation period. yellow mustard has a 15-month
 
 110
 00:05:13,146 --> 00:05:15,247
-fermentation period.            
-yellow mustard has a 15-month   
-shelf life, while dijon stays   
+fermentation period. yellow mustard has a 15-month shelf life, while dijon stays
 
 111
 00:05:15,249 --> 00:05:16,881
-yellow mustard has a 15-month   
-shelf life, while dijon stays   
-fresh for a year.               
+yellow mustard has a 15-month shelf life, while dijon stays fresh for a year.
 
 112
 00:05:16,883 --> 00:05:18,483
-shelf life, while dijon stays   
-fresh for a year.               
-both should be refrigerated     
+shelf life, while dijon stays fresh for a year. both should be refrigerated
 
 113
 00:05:18,485 --> 00:05:20,318
-fresh for a year.               
-both should be refrigerated     
-after opening to preserve their 
+fresh for a year. both should be refrigerated after opening to preserve their
 
 114
 00:05:20,320 --> 00:05:22,053
-both should be refrigerated     
-after opening to preserve their 
-flavor.                         
+both should be refrigerated after opening to preserve their flavor.
 
 115
 00:05:22,055 --> 00:05:23,955
-after opening to preserve their 
-flavor.                         
-mustard is a condiment that even
+after opening to preserve their flavor. mustard is a condiment that even
 
 116
 00:05:23,957 --> 00:05:25,590
-flavor.                         
-mustard is a condiment that even
-health-conscious eaters can     
+flavor. mustard is a condiment that even
+health-conscious eaters can
 
 117
 00:05:25,592 --> 00:05:26,190
 mustard is a condiment that even
-health-conscious eaters can     
-enjoy.                          
+health-conscious eaters can enjoy.
 
 118
 00:05:26,192 --> 00:05:28,993
-health-conscious eaters can     
-enjoy.                          
-it packs a lot of flavor in just
+health-conscious eaters can enjoy. it packs a lot of flavor in just
 
 119
 00:05:28,995 --> 00:05:30,462
-enjoy.                          
-it packs a lot of flavor in just
-a few calories.                 
+enjoy. it packs a lot of flavor in just
+a few calories.
 
 120
 00:05:30,464 --> 00:05:32,764
 it packs a lot of flavor in just
-a few calories.                 
-mustard contains a small amount 
+a few calories. mustard contains a small amount
 
 121
 00:05:32,766 --> 00:05:34,733
-a few calories.                 
-mustard contains a small amount 
-of fat, somewhat more if the    
+a few calories. mustard contains a small amount of fat, somewhat more if the
 
 122
 00:05:34,735 --> 00:05:36,801
-mustard contains a small amount 
-of fat, somewhat more if the    
-manufacturer uses oil in the    
+mustard contains a small amount of fat, somewhat more if the manufacturer uses oil in the
 
 123
 00:05:36,803 --> 00:05:38,636
-of fat, somewhat more if the    
-manufacturer uses oil in the    
-recipe, but it's still a        
+of fat, somewhat more if the manufacturer uses oil in the recipe, but it's still a
 
 124
 00:05:38,638 --> 00:05:41,540
-manufacturer uses oil in the    
-recipe, but it's still a        
-cholesterol-free food.          
+manufacturer uses oil in the recipe, but it's still a cholesterol-free food.
 
 125
 00:05:49,348 --> 00:05:54,352
->> narrator: the violin was     
-developed in the 1500s, evolving
-from a series of guitar-like    
+>> narrator: the violin was developed in the 1500s, evolving
+from a series of guitar-like
 
 126
 00:05:54,354 --> 00:05:55,887
 developed in the 1500s, evolving
-from a series of guitar-like    
-instruments that musicians      
+from a series of guitar-like instruments that musicians
 
 127
 00:05:55,889 --> 00:05:57,489
-from a series of guitar-like    
-instruments that musicians      
-played with a bow.              
+from a series of guitar-like instruments that musicians played with a bow.
 
 128
 00:05:57,491 --> 00:05:59,224
-instruments that musicians      
-played with a bow.              
-while the violin is best known  
+instruments that musicians played with a bow. while the violin is best known
 
 129
 00:05:59,226 --> 00:06:01,092
-played with a bow.              
-while the violin is best known  
-for classical and gypsy music,  
+played with a bow. while the violin is best known for classical and gypsy music,
 
 130
 00:06:01,094 --> 00:06:02,627
-while the violin is best known  
-for classical and gypsy music,  
-today you hear it in pop,       
+while the violin is best known for classical and gypsy music, today you hear it in pop,
 
 131
 00:06:02,629 --> 00:06:11,236
-for classical and gypsy music,  
-today you hear it in pop,       
-country, bluegrass, even jazz.  
+for classical and gypsy music, today you hear it in pop, country, bluegrass, even jazz.
 
 132
 00:06:11,238 --> 00:06:13,471
-today you hear it in pop,       
-country, bluegrass, even jazz.  
-first they cut a piece of maple,
+today you hear it in pop, country, bluegrass, even jazz. first they cut a piece of maple,
 
 133
 00:06:13,473 --> 00:06:15,574
-country, bluegrass, even jazz.  
-first they cut a piece of maple,
-then split it in half to expose 
+country, bluegrass, even jazz. first they cut a piece of maple,
+then split it in half to expose
 
 134
 00:06:15,576 --> 00:06:17,875
 first they cut a piece of maple,
-then split it in half to expose 
-the grain in mirror image.      
+then split it in half to expose the grain in mirror image.
 
 135
 00:06:17,877 --> 00:06:19,744
-then split it in half to expose 
-the grain in mirror image.      
-they melt down glue flakes made 
+then split it in half to expose the grain in mirror image. they melt down glue flakes made
 
 136
 00:06:19,746 --> 00:06:21,580
-the grain in mirror image.      
-they melt down glue flakes made 
-from animal hide, then bond the 
+the grain in mirror image. they melt down glue flakes made from animal hide, then bond the
 
 137
 00:06:21,582 --> 00:06:23,314
-they melt down glue flakes made 
-from animal hide, then bond the 
-pieces together.                
+they melt down glue flakes made from animal hide, then bond the pieces together.
 
 138
 00:06:23,316 --> 00:06:25,917
-from animal hide, then bond the 
-pieces together.                
-violin makers only use glue,    
+from animal hide, then bond the pieces together. violin makers only use glue,
 
 139
 00:06:25,919 --> 00:06:28,553
-pieces together.                
-violin makers only use glue,    
-never nails or screws.          
+pieces together. violin makers only use glue, never nails or screws.
 
 140
 00:06:28,555 --> 00:06:30,321
-violin makers only use glue,    
-never nails or screws.          
-these pieces of wood will form  
+violin makers only use glue, never nails or screws. these pieces of wood will form
 
 141
 00:06:30,323 --> 00:06:31,723
-never nails or screws.          
-these pieces of wood will form  
-the back of the violin.         
+never nails or screws. these pieces of wood will form the back of the violin.
 
 142
 00:06:31,725 --> 00:06:33,758
-these pieces of wood will form  
-the back of the violin.         
-after four hours, the glue      
+these pieces of wood will form the back of the violin. after four hours, the glue
 
 143
 00:06:33,760 --> 00:06:35,993
-the back of the violin.         
-after four hours, the glue      
-is dry, and they can remove the 
+the back of the violin. after four hours, the glue is dry, and they can remove the
 
 144
 00:06:35,995 --> 00:06:37,628
-after four hours, the glue      
-is dry, and they can remove the 
-clamps.                         
+after four hours, the glue is dry, and they can remove the clamps.
 
 145
 00:06:37,630 --> 00:06:39,764
-is dry, and they can remove the 
-clamps.                         
-using a small plane, they even  
+is dry, and they can remove the clamps. using a small plane, they even
 
 146
 00:06:39,766 --> 00:06:40,999
-clamps.                         
-using a small plane, they even  
-out the surface.                
+clamps. using a small plane, they even out the surface.
 
 147
 00:06:41,001 --> 00:06:42,967
-using a small plane, they even  
-out the surface.                
-then they trace the violin's    
+using a small plane, they even out the surface. then they trace the violin's
 
 148
 00:06:42,969 --> 00:06:47,872
-out the surface.                
-then they trace the violin's    
-shape and cut it out.           
+out the surface. then they trace the violin's shape and cut it out.
 
 149
 00:06:47,874 --> 00:06:49,608
-then they trace the violin's    
-shape and cut it out.           
-they shave the surface sculpting
+then they trace the violin's shape and cut it out. they shave the surface sculpting
 
 150
 00:06:49,610 --> 00:06:51,409
-shape and cut it out.           
-they shave the surface sculpting
+shape and cut it out. they shave the surface sculpting
 a downward slope from the middle
 
 151
 00:06:51,411 --> 00:06:59,650
 they shave the surface sculpting
 a downward slope from the middle
-using an even smaller plane.    
+using an even smaller plane.
 
 152
 00:06:59,652 --> 00:07:01,486
 a downward slope from the middle
-using an even smaller plane.    
-then they carve a groove along  
+using an even smaller plane. then they carve a groove along
 
 153
 00:07:01,488 --> 00:07:04,021
-using an even smaller plane.    
-then they carve a groove along  
-the circumference.              
+using an even smaller plane. then they carve a groove along the circumference.
 
 154
 00:07:04,023 --> 00:07:06,090
-then they carve a groove along  
-the circumference.              
-after dabbing it with glue, they
+then they carve a groove along the circumference. after dabbing it with glue, they
 
 155
 00:07:06,092 --> 00:07:08,160
-the circumference.              
-after dabbing it with glue, they
+the circumference. after dabbing it with glue, they
 insert what's known as purfling,
 
 156
@@ -936,1945 +672,1379 @@ a reinforcement made from a thin
 00:07:10,296 --> 00:07:12,063
 insert what's known as purfling,
 a reinforcement made from a thin
-strip of hardwood, usually      
+strip of hardwood, usually
 
 158
 00:07:12,065 --> 00:07:13,698
 a reinforcement made from a thin
-strip of hardwood, usually      
-maple.                          
+strip of hardwood, usually maple.
 
 159
 00:07:13,700 --> 00:07:15,567
-strip of hardwood, usually      
-maple.                          
-finally, they carve the reverse 
+strip of hardwood, usually maple. finally, they carve the reverse
 
 160
 00:07:15,569 --> 00:07:17,268
-maple.                          
-finally, they carve the reverse 
-side to the right form and      
+maple. finally, they carve the reverse side to the right form and
 
 161
 00:07:17,270 --> 00:07:20,605
-finally, they carve the reverse 
-side to the right form and      
-thickness.                      
+finally, they carve the reverse side to the right form and thickness.
 
 162
 00:07:20,607 --> 00:07:22,340
-side to the right form and      
-thickness.                      
-next they make the sides        
+side to the right form and thickness. next they make the sides
 
 163
 00:07:22,342 --> 00:07:24,176
-thickness.                      
-next they make the sides        
-of the violin, known as the     
+thickness. next they make the sides of the violin, known as the
 
 164
 00:07:24,178 --> 00:07:24,776
-next they make the sides        
-of the violin, known as the     
-ribs.                           
+next they make the sides of the violin, known as the ribs.
 
 165
 00:07:24,778 --> 00:07:26,711
-of the violin, known as the     
-ribs.                           
-first they soak thin strips     
+of the violin, known as the ribs. first they soak thin strips
 
 166
 00:07:26,713 --> 00:07:28,780
-ribs.                           
-first they soak thin strips     
-of maple or sycamore and press  
+ribs. first they soak thin strips of maple or sycamore and press
 
 167
 00:07:28,782 --> 00:07:30,782
-first they soak thin strips     
-of maple or sycamore and press  
-them against a heated bending   
+first they soak thin strips of maple or sycamore and press them against a heated bending
 
 168
 00:07:30,784 --> 00:07:34,986
-of maple or sycamore and press  
-them against a heated bending   
-iron to curve them.             
+of maple or sycamore and press them against a heated bending iron to curve them.
 
 169
 00:07:34,988 --> 00:07:36,855
-them against a heated bending   
-iron to curve them.             
-then they glue the strips around
+them against a heated bending iron to curve them. then they glue the strips around
 
 170
 00:07:36,857 --> 00:07:38,590
-iron to curve them.             
-then they glue the strips around
-a form, connecting them at the  
+iron to curve them. then they glue the strips around
+a form, connecting them at the
 
 171
 00:07:38,592 --> 00:07:40,191
 then they glue the strips around
-a form, connecting them at the  
-top and bottom, and at the      
+a form, connecting them at the top and bottom, and at the
 
 172
 00:07:40,193 --> 00:07:41,793
-a form, connecting them at the  
-top and bottom, and at the      
-corners with small blocks of    
+a form, connecting them at the top and bottom, and at the corners with small blocks of
 
 173
 00:07:41,795 --> 00:07:43,928
-top and bottom, and at the      
-corners with small blocks of    
-wood.                           
+top and bottom, and at the corners with small blocks of wood.
 
 174
 00:07:43,930 --> 00:07:45,664
-corners with small blocks of    
-wood.                           
-they clamp everything together  
+corners with small blocks of wood. they clamp everything together
 
 175
 00:07:45,666 --> 00:07:47,399
-wood.                           
-they clamp everything together  
-and let the glue dry for four   
+wood. they clamp everything together and let the glue dry for four
 
 176
 00:07:47,401 --> 00:07:51,336
-they clamp everything together  
-and let the glue dry for four   
-hours.                          
+they clamp everything together and let the glue dry for four hours.
 
 177
 00:07:51,338 --> 00:07:53,437
-and let the glue dry for four   
-hours.                          
-next they glue thin strips of   
+and let the glue dry for four hours. next they glue thin strips of
 
 178
 00:07:53,439 --> 00:07:55,473
-hours.                          
-next they glue thin strips of   
-wood called counter-ribs onto   
+hours. next they glue thin strips of wood called counter-ribs onto
 
 179
 00:07:55,475 --> 00:07:57,942
-next they glue thin strips of   
-wood called counter-ribs onto   
-the edge of the ribs.           
+next they glue thin strips of wood called counter-ribs onto the edge of the ribs.
 
 180
 00:07:57,944 --> 00:07:59,678
-wood called counter-ribs onto   
-the edge of the ribs.           
-this enlarges the surface so    
+wood called counter-ribs onto the edge of the ribs. this enlarges the surface so
 
 181
 00:07:59,680 --> 00:08:01,546
-the edge of the ribs.           
-this enlarges the surface so    
-that it's easier to glue the    
+the edge of the ribs. this enlarges the surface so that it's easier to glue the
 
 182
 00:08:01,548 --> 00:08:04,349
-this enlarges the surface so    
-that it's easier to glue the    
-ribs and the back together.     
+this enlarges the surface so that it's easier to glue the ribs and the back together.
 
 183
 00:08:04,351 --> 00:08:06,350
-that it's easier to glue the    
-ribs and the back together.     
-they make the violin's front, or
+that it's easier to glue the ribs and the back together. they make the violin's front, or
 
 184
 00:08:06,352 --> 00:08:08,119
-ribs and the back together.     
-they make the violin's front, or
-belly, from a solid piece of    
+ribs and the back together. they make the violin's front, or
+belly, from a solid piece of
 
 185
 00:08:08,121 --> 00:08:09,287
 they make the violin's front, or
-belly, from a solid piece of    
-spruce.                         
+belly, from a solid piece of spruce.
 
 186
 00:08:09,289 --> 00:08:11,022
-belly, from a solid piece of    
-spruce.                         
-to the underside, they glue a   
+belly, from a solid piece of spruce. to the underside, they glue a
 
 187
 00:08:11,024 --> 00:08:12,790
-spruce.                         
-to the underside, they glue a   
-spruce support bar called the   
+spruce. to the underside, they glue a spruce support bar called the
 
 188
 00:08:12,792 --> 00:08:14,926
-to the underside, they glue a   
-spruce support bar called the   
-base bar.                       
+to the underside, they glue a spruce support bar called the base bar.
 
 189
 00:08:14,928 --> 00:08:17,162
-spruce support bar called the   
-base bar.                       
-sound escapes through the two   
+spruce support bar called the base bar. sound escapes through the two
 
 190
 00:08:17,164 --> 00:08:21,900
-base bar.                       
-sound escapes through the two   
-curved slots called f-holes.    
+base bar. sound escapes through the two curved slots called f-holes.
 
 191
 00:08:21,902 --> 00:08:23,301
-sound escapes through the two   
-curved slots called f-holes.    
-they cut out and carve the      
+sound escapes through the two curved slots called f-holes. they cut out and carve the
 
 192
 00:08:23,303 --> 00:08:24,969
-curved slots called f-holes.    
-they cut out and carve the      
-violin's neck and scrolled head 
+curved slots called f-holes. they cut out and carve the violin's neck and scrolled head
 
 193
 00:08:24,971 --> 00:08:32,243
-they cut out and carve the      
-violin's neck and scrolled head 
-from a piece of maple.          
+they cut out and carve the violin's neck and scrolled head from a piece of maple.
 
 194
 00:08:32,245 --> 00:08:35,847
-violin's neck and scrolled head 
-from a piece of maple.          
-then they glue it to the body.  
+violin's neck and scrolled head from a piece of maple. then they glue it to the body.
 
 195
 00:08:35,849 --> 00:08:37,882
-from a piece of maple.          
-then they glue it to the body.  
-they sculpt the fingerboard from
+from a piece of maple. then they glue it to the body. they sculpt the fingerboard from
 
 196
 00:08:37,884 --> 00:08:39,784
-then they glue it to the body.  
-they sculpt the fingerboard from
+then they glue it to the body. they sculpt the fingerboard from
 ebony, a hardwood durable enough
 
 197
 00:08:39,786 --> 00:08:41,386
 they sculpt the fingerboard from
 ebony, a hardwood durable enough
-to withstand centuries of       
+to withstand centuries of
 
 198
 00:08:41,388 --> 00:08:46,190
 ebony, a hardwood durable enough
-to withstand centuries of       
-a violinist's fingering.        
+to withstand centuries of a violinist's fingering.
 
 199
 00:08:46,192 --> 00:08:47,926
-to withstand centuries of       
-a violinist's fingering.        
-using a tool called a peghole   
+to withstand centuries of a violinist's fingering. using a tool called a peghole
 
 200
 00:08:47,928 --> 00:08:49,794
-a violinist's fingering.        
-using a tool called a peghole   
-reamer, they make the holes for 
+a violinist's fingering. using a tool called a peghole reamer, they make the holes for
 
 201
 00:08:49,796 --> 00:08:51,362
-using a tool called a peghole   
-reamer, they make the holes for 
-the ebony or rosewood pegs      
+using a tool called a peghole reamer, they make the holes for the ebony or rosewood pegs
 
 202
 00:08:51,364 --> 00:08:53,097
-reamer, they make the holes for 
-the ebony or rosewood pegs      
-around which the strings are    
+reamer, they make the holes for the ebony or rosewood pegs around which the strings are
 
 203
 00:08:53,099 --> 00:08:56,300
-the ebony or rosewood pegs      
-around which the strings are    
-wound.                          
+the ebony or rosewood pegs around which the strings are wound.
 
 204
 00:08:56,302 --> 00:08:58,270
-around which the strings are    
-wound.                          
-they coat the wood with four or 
+around which the strings are wound. they coat the wood with four or
 
 205
 00:08:58,272 --> 00:09:00,471
-wound.                          
-they coat the wood with four or 
-five coats of varnish, depending
+wound. they coat the wood with four or five coats of varnish, depending
 
 206
 00:09:00,473 --> 00:09:02,173
-they coat the wood with four or 
-five coats of varnish, depending
-on the color, then polish       
+they coat the wood with four or five coats of varnish, depending
+on the color, then polish
 
 207
 00:09:02,175 --> 00:09:04,041
 five coats of varnish, depending
-on the color, then polish       
-it with several coats of oil    
+on the color, then polish it with several coats of oil
 
 208
 00:09:04,043 --> 00:09:05,810
-on the color, then polish       
-it with several coats of oil    
-over several days until the     
+on the color, then polish it with several coats of oil over several days until the
 
 209
 00:09:05,812 --> 00:09:07,211
-it with several coats of oil    
-over several days until the     
-finish is shiny and             
+it with several coats of oil over several days until the finish is shiny and
 
 210
 00:09:07,213 --> 00:09:09,280
-over several days until the     
-finish is shiny and             
-silky-smooth.                   
+over several days until the finish is shiny and silky-smooth.
 
 211
 00:09:09,282 --> 00:09:12,550
-finish is shiny and             
-silky-smooth.                   
-next they insert the sound post.
+finish is shiny and silky-smooth. next they insert the sound post.
 
 212
 00:09:12,552 --> 00:09:14,452
-silky-smooth.                   
-next they insert the sound post.
-this little cylinder conducts   
+silky-smooth. next they insert the sound post.
+this little cylinder conducts
 
 213
 00:09:14,454 --> 00:09:16,288
 next they insert the sound post.
-this little cylinder conducts   
-sounds and supports the belly   
+this little cylinder conducts sounds and supports the belly
 
 214
 00:09:16,290 --> 00:09:18,422
-this little cylinder conducts   
-sounds and supports the belly   
-against bowing pressure, so it's
+this little cylinder conducts sounds and supports the belly against bowing pressure, so it's
 
 215
 00:09:18,424 --> 00:09:20,124
-sounds and supports the belly   
-against bowing pressure, so it's
-critical to position it in      
+sounds and supports the belly against bowing pressure, so it's
+critical to position it in
 
 216
 00:09:20,126 --> 00:09:22,160
 against bowing pressure, so it's
-critical to position it in      
-precisely the right spot between
+critical to position it in precisely the right spot between
 
 217
 00:09:22,162 --> 00:09:23,762
-critical to position it in      
-precisely the right spot between
-the belly and the back.         
+critical to position it in precisely the right spot between
+the belly and the back.
 
 218
 00:09:23,764 --> 00:09:26,163
 precisely the right spot between
-the belly and the back.         
-it's not glued, but rather      
+the belly and the back. it's not glued, but rather
 
 219
 00:09:26,165 --> 00:09:27,766
-the belly and the back.         
-it's not glued, but rather      
-wedged into place.              
+the belly and the back. it's not glued, but rather wedged into place.
 
 220
 00:09:27,768 --> 00:09:29,567
-it's not glued, but rather      
-wedged into place.              
-the bridge isn't glued either.  
+it's not glued, but rather wedged into place. the bridge isn't glued either.
 
 221
 00:09:29,569 --> 00:09:31,102
-wedged into place.              
-the bridge isn't glued either.  
-it's held in place by the       
+wedged into place. the bridge isn't glued either. it's held in place by the
 
 222
 00:09:31,104 --> 00:09:32,770
-the bridge isn't glued either.  
-it's held in place by the       
-pressure of the four strings,   
+the bridge isn't glued either. it's held in place by the pressure of the four strings,
 
 223
 00:09:32,772 --> 00:09:34,372
-it's held in place by the       
-pressure of the four strings,   
-which they feed through the     
+it's held in place by the pressure of the four strings, which they feed through the
 
 224
 00:09:34,374 --> 00:09:36,041
-pressure of the four strings,   
-which they feed through the     
-ebony tailpiece and wind onto   
+pressure of the four strings, which they feed through the ebony tailpiece and wind onto
 
 225
 00:09:36,043 --> 00:09:37,308
-which they feed through the     
-ebony tailpiece and wind onto   
-the pegs.                       
+which they feed through the ebony tailpiece and wind onto the pegs.
 
 226
 00:09:37,310 --> 00:09:38,977
-ebony tailpiece and wind onto   
-the pegs.                       
-the bridge has little notches   
+ebony tailpiece and wind onto the pegs. the bridge has little notches
 
 227
 00:09:38,979 --> 00:09:41,713
-the pegs.                       
-the bridge has little notches   
-in which the strings sit.       
+the pegs. the bridge has little notches in which the strings sit.
 
 228
 00:09:41,715 --> 00:09:44,049
-the bridge has little notches   
-in which the strings sit.       
-the violin is finished.         
+the bridge has little notches in which the strings sit. the violin is finished.
 
 229
 00:09:44,051 --> 00:09:46,083
-in which the strings sit.       
-the violin is finished.         
-they make the bow from horsehair
+in which the strings sit. the violin is finished. they make the bow from horsehair
 
 230
 00:09:46,085 --> 00:09:47,785
-the violin is finished.         
-they make the bow from horsehair
-and a high-quality brazilian    
+the violin is finished. they make the bow from horsehair
+and a high-quality brazilian
 
 231
 00:09:47,787 --> 00:09:51,189
 they make the bow from horsehair
-and a high-quality brazilian    
-wood called pernambuco.         
+and a high-quality brazilian wood called pernambuco.
 
 232
 00:09:51,191 --> 00:09:53,191
-and a high-quality brazilian    
-wood called pernambuco.         
-they bind the hairs at one end  
+and a high-quality brazilian wood called pernambuco. they bind the hairs at one end
 
 233
 00:09:53,193 --> 00:09:55,292
-wood called pernambuco.         
-they bind the hairs at one end  
-with strong sewing thread, then 
+wood called pernambuco. they bind the hairs at one end with strong sewing thread, then
 
 234
 00:09:55,294 --> 00:09:57,395
-they bind the hairs at one end  
-with strong sewing thread, then 
-burn them and seal them with wax
+they bind the hairs at one end with strong sewing thread, then burn them and seal them with wax
 
 235
 00:09:57,397 --> 00:09:58,663
-with strong sewing thread, then 
-burn them and seal them with wax
-to prevent fraying.             
+with strong sewing thread, then burn them and seal them with wax
+to prevent fraying.
 
 236
 00:09:58,665 --> 00:10:00,599
 burn them and seal them with wax
-to prevent fraying.             
-this end goes into the frog, the
+to prevent fraying. this end goes into the frog, the
 
 237
 00:10:00,601 --> 00:10:02,400
-to prevent fraying.             
-this end goes into the frog, the
-wooden box at the bottom, or    
+to prevent fraying. this end goes into the frog, the
+wooden box at the bottom, or
 
 238
 00:10:02,402 --> 00:10:04,602
 this end goes into the frog, the
-wooden box at the bottom, or    
-heel, of the bow.               
+wooden box at the bottom, or heel, of the bow.
 
 239
 00:10:04,604 --> 00:10:06,337
-wooden box at the bottom, or    
-heel, of the bow.               
-they cover the frog with the    
+wooden box at the bottom, or heel, of the bow. they cover the frog with the
 
 240
 00:10:06,339 --> 00:10:08,072
-heel, of the bow.               
-they cover the frog with the    
-mother-of-pearl lining, then    
+heel, of the bow. they cover the frog with the mother-of-pearl lining, then
 
 241
 00:10:08,074 --> 00:10:09,874
-they cover the frog with the    
-mother-of-pearl lining, then    
-slip on a ring made of nickel,  
+they cover the frog with the mother-of-pearl lining, then slip on a ring made of nickel,
 
 242
 00:10:09,876 --> 00:10:11,676
-mother-of-pearl lining, then    
-slip on a ring made of nickel,  
-silver, or gold to prevent the  
+mother-of-pearl lining, then slip on a ring made of nickel, silver, or gold to prevent the
 
 243
 00:10:11,678 --> 00:10:13,678
-slip on a ring made of nickel,  
-silver, or gold to prevent the  
-hairs from tangling.            
+slip on a ring made of nickel, silver, or gold to prevent the hairs from tangling.
 
 244
 00:10:13,680 --> 00:10:15,413
-silver, or gold to prevent the  
-hairs from tangling.            
-next comes the screw that       
+silver, or gold to prevent the hairs from tangling. next comes the screw that
 
 245
 00:10:15,415 --> 00:10:17,181
-hairs from tangling.            
-next comes the screw that       
-controls the tension of the     
+hairs from tangling. next comes the screw that controls the tension of the
 
 246
 00:10:17,183 --> 00:10:17,749
-next comes the screw that       
-controls the tension of the     
-hairs.                          
+next comes the screw that controls the tension of the hairs.
 
 247
 00:10:17,751 --> 00:10:19,817
-controls the tension of the     
-hairs.                          
-they comb the hairs to make them
+controls the tension of the hairs. they comb the hairs to make them
 
 248
 00:10:19,819 --> 00:10:21,719
-hairs.                          
-they comb the hairs to make them
-parallel, then insert them into 
+hairs. they comb the hairs to make them
+parallel, then insert them into
 
 249
 00:10:21,721 --> 00:10:23,688
 they comb the hairs to make them
-parallel, then insert them into 
-the tip of the bow, known as the
+parallel, then insert them into the tip of the bow, known as the
 
 250
 00:10:23,690 --> 00:10:24,623
-parallel, then insert them into 
-the tip of the bow, known as the
-head.                           
+parallel, then insert them into the tip of the bow, known as the
+head.
 
 251
 00:10:24,625 --> 00:10:26,424
 the tip of the bow, known as the
-head.                           
-they tighten the screw until the
+head. they tighten the screw until the
 
 252
 00:10:26,426 --> 00:10:29,060
-head.                           
-they tighten the screw until the
-hairs are taut.                 
+head. they tighten the screw until the
+hairs are taut.
 
 253
 00:10:29,062 --> 00:10:30,895
 they tighten the screw until the
-hairs are taut.                 
-finally they rub on rosin, a    
+hairs are taut. finally they rub on rosin, a
 
 254
 00:10:30,897 --> 00:10:32,663
-hairs are taut.                 
-finally they rub on rosin, a    
-sticky pine-tree resin that     
+hairs are taut. finally they rub on rosin, a sticky pine-tree resin that
 
 255
 00:10:32,665 --> 00:10:34,632
-finally they rub on rosin, a    
-sticky pine-tree resin that     
-keeps the bow from slipping off 
+finally they rub on rosin, a sticky pine-tree resin that keeps the bow from slipping off
 
 256
 00:10:34,634 --> 00:10:36,701
-sticky pine-tree resin that     
-keeps the bow from slipping off 
-the strings.                    
+sticky pine-tree resin that keeps the bow from slipping off the strings.
 
 257
 00:10:44,377 --> 00:10:49,580
 >> narrator: at "how it's made,"
-we pride ourselves in showing   
-you the nuts and bolts of how   
+we pride ourselves in showing you the nuts and bolts of how
 
 258
 00:10:49,582 --> 00:10:51,449
-we pride ourselves in showing   
-you the nuts and bolts of how   
-everyday items are made, so it's
+we pride ourselves in showing you the nuts and bolts of how everyday items are made, so it's
 
 259
 00:10:51,451 --> 00:10:53,051
-you the nuts and bolts of how   
-everyday items are made, so it's
-about time we visited a real    
+you the nuts and bolts of how everyday items are made, so it's
+about time we visited a real
 
 260
 00:10:53,053 --> 00:10:54,786
 everyday items are made, so it's
-about time we visited a real    
-nuts-and-bolts operation.       
+about time we visited a real nuts-and-bolts operation.
 
 261
 00:10:54,788 --> 00:10:56,554
-about time we visited a real    
-nuts-and-bolts operation.       
-we sure couldn't do without     
+about time we visited a real nuts-and-bolts operation. we sure couldn't do without
 
 262
 00:10:56,556 --> 00:10:58,390
-nuts-and-bolts operation.       
-we sure couldn't do without     
-these tiny but essential pieces 
+nuts-and-bolts operation. we sure couldn't do without these tiny but essential pieces
 
 263
 00:10:58,392 --> 00:10:59,724
-we sure couldn't do without     
-these tiny but essential pieces 
-of hardware.                    
+we sure couldn't do without these tiny but essential pieces of hardware.
 
 264
 00:10:59,726 --> 00:11:01,593
-these tiny but essential pieces 
-of hardware.                    
-if only they weren't so darn    
+these tiny but essential pieces of hardware. if only they weren't so darn
 
 265
 00:11:01,595 --> 00:11:05,196
-of hardware.                    
-if only they weren't so darn    
-easy to lose.                   
+of hardware. if only they weren't so darn easy to lose.
 
 266
 00:11:05,198 --> 00:11:06,864
-if only they weren't so darn    
-easy to lose.                   
-nuts and bolts are made from    
+if only they weren't so darn easy to lose. nuts and bolts are made from
 
 267
 00:11:06,866 --> 00:11:09,601
-easy to lose.                   
-nuts and bolts are made from    
-what's called steel wire rod.   
+easy to lose. nuts and bolts are made from what's called steel wire rod.
 
 268
 00:11:09,603 --> 00:11:11,803
-nuts and bolts are made from    
-what's called steel wire rod.   
-after spending up to 30 hours in
+nuts and bolts are made from what's called steel wire rod. after spending up to 30 hours in
 
 269
 00:11:11,805 --> 00:11:13,805
-what's called steel wire rod.   
-after spending up to 30 hours in
-a furnace to make it pliable,   
+what's called steel wire rod. after spending up to 30 hours in
+a furnace to make it pliable,
 
 270
 00:11:13,807 --> 00:11:16,006
 after spending up to 30 hours in
-a furnace to make it pliable,   
-the wire rod goes into a bath of
+a furnace to make it pliable, the wire rod goes into a bath of
 
 271
 00:11:16,008 --> 00:11:18,143
-a furnace to make it pliable,   
-the wire rod goes into a bath of
+a furnace to make it pliable, the wire rod goes into a bath of
 sulfuric acid to remove any rust
 
 272
 00:11:18,145 --> 00:11:19,076
 the wire rod goes into a bath of
 sulfuric acid to remove any rust
-particles.                      
+particles.
 
 273
 00:11:19,078 --> 00:11:20,845
 sulfuric acid to remove any rust
-particles.                      
-it's rinsed in water then       
+particles. it's rinsed in water then
 
 274
 00:11:20,847 --> 00:11:22,546
-particles.                      
-it's rinsed in water then       
-coated with phosphate, a        
+particles. it's rinsed in water then coated with phosphate, a
 
 275
 00:11:22,548 --> 00:11:24,014
-it's rinsed in water then       
-coated with phosphate, a        
-chemical compound.              
+it's rinsed in water then coated with phosphate, a chemical compound.
 
 276
 00:11:24,016 --> 00:11:25,783
-coated with phosphate, a        
-chemical compound.              
-this prevents the steel from    
+coated with phosphate, a chemical compound. this prevents the steel from
 
 277
 00:11:25,785 --> 00:11:27,685
-chemical compound.              
-this prevents the steel from    
-rusting before the bolt forming 
+chemical compound. this prevents the steel from rusting before the bolt forming
 
 278
 00:11:27,687 --> 00:11:29,621
-this prevents the steel from    
-rusting before the bolt forming 
-begins and lubricates the steel 
+this prevents the steel from rusting before the bolt forming begins and lubricates the steel
 
 279
 00:11:29,623 --> 00:11:31,388
-rusting before the bolt forming 
-begins and lubricates the steel 
-to make forming easier.         
+rusting before the bolt forming begins and lubricates the steel to make forming easier.
 
 280
 00:11:31,390 --> 00:11:32,990
-begins and lubricates the steel 
-to make forming easier.         
-they form the bolts by cold     
+begins and lubricates the steel to make forming easier. they form the bolts by cold
 
 281
 00:11:32,992 --> 00:11:34,625
-to make forming easier.         
-they form the bolts by cold     
-forging, shaping the steel at   
+to make forming easier. they form the bolts by cold forging, shaping the steel at
 
 282
 00:11:34,627 --> 00:11:36,294
-they form the bolts by cold     
-forging, shaping the steel at   
-room temperature by forcing it  
+they form the bolts by cold forging, shaping the steel at room temperature by forcing it
 
 283
 00:11:36,296 --> 00:11:37,962
-forging, shaping the steel at   
-room temperature by forcing it  
-through various dies at high    
+forging, shaping the steel at room temperature by forcing it through various dies at high
 
 284
 00:11:37,964 --> 00:11:40,498
-room temperature by forcing it  
-through various dies at high    
-pressure.                       
+room temperature by forcing it through various dies at high pressure.
 
 285
 00:11:40,500 --> 00:11:42,166
-through various dies at high    
-pressure.                       
-the forming machine first       
+through various dies at high pressure. the forming machine first
 
 286
 00:11:42,168 --> 00:11:44,035
-pressure.                       
-the forming machine first       
-straightens the wire rod, then  
+pressure. the forming machine first straightens the wire rod, then
 
 287
 00:11:44,037 --> 00:11:45,903
-the forming machine first       
-straightens the wire rod, then  
-cuts it into pieces slightly    
+the forming machine first straightens the wire rod, then cuts it into pieces slightly
 
 288
 00:11:45,905 --> 00:11:47,705
-straightens the wire rod, then  
-cuts it into pieces slightly    
-longer than the bolt length.    
+straightens the wire rod, then cuts it into pieces slightly longer than the bolt length.
 
 289
 00:11:47,707 --> 00:11:49,540
-cuts it into pieces slightly    
-longer than the bolt length.    
-the extra will become the bolt  
+cuts it into pieces slightly longer than the bolt length. the extra will become the bolt
 
 290
 00:11:49,542 --> 00:11:52,977
-longer than the bolt length.    
-the extra will become the bolt  
-head.                           
+longer than the bolt length. the extra will become the bolt head.
 
 291
 00:11:52,979 --> 00:11:54,846
-the extra will become the bolt  
-head.                           
-each piece goes through a die   
+the extra will become the bolt head. each piece goes through a die
 
 292
 00:11:54,848 --> 00:11:56,847
-head.                           
-each piece goes through a die   
-that makes it perfectly round,  
+head. each piece goes through a die that makes it perfectly round,
 
 293
 00:11:56,849 --> 00:11:58,716
-each piece goes through a die   
-that makes it perfectly round,  
-then through a series of dies   
+each piece goes through a die that makes it perfectly round, then through a series of dies
 
 294
 00:11:58,718 --> 00:12:00,551
-that makes it perfectly round,  
-then through a series of dies   
-that progressively shape the    
+that makes it perfectly round, then through a series of dies that progressively shape the
 
 295
 00:12:00,553 --> 00:12:07,691
-then through a series of dies   
-that progressively shape the    
-head of the bolt on one end.    
+then through a series of dies that progressively shape the head of the bolt on one end.
 
 296
 00:12:07,693 --> 00:12:09,527
-that progressively shape the    
-head of the bolt on one end.    
-the machine heads up to 300     
+that progressively shape the head of the bolt on one end. the machine heads up to 300
 
 297
 00:12:09,529 --> 00:12:10,862
-head of the bolt on one end.    
-the machine heads up to 300     
-bolts per minute.               
+head of the bolt on one end. the machine heads up to 300 bolts per minute.
 
 298
 00:12:10,864 --> 00:12:12,863
-the machine heads up to 300     
-bolts per minute.               
-here's what the heading stages  
+the machine heads up to 300 bolts per minute. here's what the heading stages
 
 299
 00:12:12,865 --> 00:12:20,471
-bolts per minute.               
-here's what the heading stages  
-look like in slow motion.       
+bolts per minute. here's what the heading stages look like in slow motion.
 
 300
 00:12:20,473 --> 00:12:22,473
-here's what the heading stages  
-look like in slow motion.       
-this die creates a slight       
+here's what the heading stages look like in slow motion. this die creates a slight
 
 301
 00:12:22,475 --> 00:12:23,274
-look like in slow motion.       
-this die creates a slight       
-collar.                         
+look like in slow motion. this die creates a slight collar.
 
 302
 00:12:23,276 --> 00:12:25,410
-this die creates a slight       
-collar.                         
-the next one turns it into a    
+this die creates a slight collar. the next one turns it into a
 
 303
 00:12:25,412 --> 00:12:27,846
-collar.                         
-the next one turns it into a    
-round head.                     
+collar. the next one turns it into a round head.
 
 304
 00:12:38,356 --> 00:12:44,896
-then the last one transforms    
-that into a hexagonal head --   
-the most common shape.          
+then the last one transforms that into a hexagonal head -- the most common shape.
 
 305
 00:12:55,173 --> 00:13:02,913
-next the machine forms the      
-opposite end of the bolt.       
-a tool called the pointer shapes
+next the machine forms the opposite end of the bolt. a tool called the pointer shapes
 
 306
 00:13:02,915 --> 00:13:04,381
-opposite end of the bolt.       
-a tool called the pointer shapes
-the bottom of each bolt,        
+opposite end of the bolt. a tool called the pointer shapes
+the bottom of each bolt,
 
 307
 00:13:04,383 --> 00:13:05,850
 a tool called the pointer shapes
-the bottom of each bolt,        
-creating what's called the      
+the bottom of each bolt, creating what's called the
 
 308
 00:13:05,852 --> 00:13:07,484
-the bottom of each bolt,        
-creating what's called the      
-chamfer, the part the nut       
+the bottom of each bolt, creating what's called the chamfer, the part the nut
 
 309
 00:13:07,486 --> 00:13:10,821
-creating what's called the      
-chamfer, the part the nut       
-catches on to.                  
+creating what's called the chamfer, the part the nut catches on to.
 
 310
 00:13:10,823 --> 00:13:12,657
-chamfer, the part the nut       
-catches on to.                  
-here's the bullet before and    
+chamfer, the part the nut catches on to. here's the bullet before and
 
 311
 00:13:12,659 --> 00:13:16,293
-catches on to.                  
-here's the bullet before and    
-after the chamfer.              
+catches on to. here's the bullet before and after the chamfer.
 
 312
 00:13:16,295 --> 00:13:18,295
-here's the bullet before and    
-after the chamfer.              
-the bolt needs threads to enable
+here's the bullet before and after the chamfer. the bolt needs threads to enable
 
 313
 00:13:18,297 --> 00:13:19,997
-after the chamfer.              
-the bolt needs threads to enable
-the nut to screw onto it.       
+after the chamfer. the bolt needs threads to enable
+the nut to screw onto it.
 
 314
 00:13:19,999 --> 00:13:21,799
 the bolt needs threads to enable
-the nut to screw onto it.       
-once again, they use the cold   
+the nut to screw onto it. once again, they use the cold
 
 315
 00:13:21,801 --> 00:13:23,100
-the nut to screw onto it.       
-once again, they use the cold   
-forging method.                 
+the nut to screw onto it. once again, they use the cold forging method.
 
 316
 00:13:23,102 --> 00:13:25,336
-once again, they use the cold   
-forging method.                 
-high-pressure rollers press in  
+once again, they use the cold forging method. high-pressure rollers press in
 
 317
 00:13:25,338 --> 00:13:27,405
-forging method.                 
-high-pressure rollers press in  
-the thread pattern...as we see  
+forging method. high-pressure rollers press in the thread pattern...as we see
 
 318
 00:13:27,407 --> 00:13:36,447
-high-pressure rollers press in  
-the thread pattern...as we see  
-here in slow motion.            
+high-pressure rollers press in the thread pattern...as we see here in slow motion.
 
 319
 00:13:36,449 --> 00:13:39,483
-the thread pattern...as we see  
-here in slow motion.            
-this is the actual speed, up to 
+the thread pattern...as we see here in slow motion. this is the actual speed, up to
 
 320
 00:13:39,485 --> 00:13:41,619
-here in slow motion.            
-this is the actual speed, up to 
-300 bolts per minute.           
+here in slow motion. this is the actual speed, up to 300 bolts per minute.
 
 321
 00:13:41,621 --> 00:13:43,755
-this is the actual speed, up to 
-300 bolts per minute.           
-during each production run, they
+this is the actual speed, up to 300 bolts per minute. during each production run, they
 
 322
 00:13:43,757 --> 00:13:45,823
-300 bolts per minute.           
-during each production run, they
-take several samples to verify  
+300 bolts per minute. during each production run, they
+take several samples to verify
 
 323
 00:13:45,825 --> 00:13:46,691
 during each production run, they
-take several samples to verify  
-dimensions.                     
+take several samples to verify dimensions.
 
 324
 00:13:46,693 --> 00:13:48,759
-take several samples to verify  
-dimensions.                     
-they use various measuring      
+take several samples to verify dimensions. they use various measuring
 
 325
 00:13:48,761 --> 00:13:51,095
-dimensions.                     
-they use various measuring      
-devices -- a micrometer to check
+dimensions. they use various measuring devices -- a micrometer to check
 
 326
 00:13:51,097 --> 00:13:53,397
-they use various measuring      
-devices -- a micrometer to check
-the bolt's length, calipers to  
+they use various measuring devices -- a micrometer to check
+the bolt's length, calipers to
 
 327
 00:13:53,399 --> 00:13:55,633
 devices -- a micrometer to check
-the bolt's length, calipers to  
-measure the width of the head,  
+the bolt's length, calipers to measure the width of the head,
 
 328
 00:13:55,635 --> 00:13:57,801
-the bolt's length, calipers to  
-measure the width of the head,  
-and a ring gauge to check the   
+the bolt's length, calipers to measure the width of the head, and a ring gauge to check the
 
 329
 00:13:57,803 --> 00:13:59,103
-measure the width of the head,  
-and a ring gauge to check the   
-threads.                        
+measure the width of the head, and a ring gauge to check the threads.
 
 330
 00:13:59,105 --> 00:14:01,538
-and a ring gauge to check the   
-threads.                        
-to make the nuts, they use a    
+and a ring gauge to check the threads. to make the nuts, they use a
 
 331
 00:14:01,540 --> 00:14:03,508
-threads.                        
-to make the nuts, they use a    
-process called hot forging.     
+threads. to make the nuts, they use a process called hot forging.
 
 332
 00:14:03,510 --> 00:14:05,809
-to make the nuts, they use a    
-process called hot forging.     
-they cut steel bars into small  
+to make the nuts, they use a process called hot forging. they cut steel bars into small
 
 333
 00:14:05,811 --> 00:14:08,112
-process called hot forging.     
-they cut steel bars into small  
-pieces known as slugs, then heat
+process called hot forging. they cut steel bars into small pieces known as slugs, then heat
 
 334
 00:14:08,114 --> 00:14:10,447
-they cut steel bars into small  
-pieces known as slugs, then heat
+they cut steel bars into small pieces known as slugs, then heat
 them to 2,200 degrees fahrenheit
 
 335
 00:14:10,449 --> 00:14:12,049
 pieces known as slugs, then heat
 them to 2,200 degrees fahrenheit
-to make them malleable.         
+to make them malleable.
 
 336
 00:14:12,051 --> 00:14:14,051
 them to 2,200 degrees fahrenheit
-to make them malleable.         
-as we see here in slow motion,  
+to make them malleable. as we see here in slow motion,
 
 337
 00:14:14,053 --> 00:14:15,853
-to make them malleable.         
-as we see here in slow motion,  
-hydraulic cameras punch the     
+to make them malleable. as we see here in slow motion, hydraulic cameras punch the
 
 338
 00:14:15,855 --> 00:14:17,789
-as we see here in slow motion,  
-hydraulic cameras punch the     
-slugs into hexagons, while a    
+as we see here in slow motion, hydraulic cameras punch the slugs into hexagons, while a
 
 339
 00:14:17,791 --> 00:14:24,795
-hydraulic cameras punch the     
-slugs into hexagons, while a    
-die pierces the hole.           
+hydraulic cameras punch the slugs into hexagons, while a die pierces the hole.
 
 340
 00:14:24,797 --> 00:14:26,897
-slugs into hexagons, while a    
-die pierces the hole.           
-then a tool called a tapper     
+slugs into hexagons, while a die pierces the hole. then a tool called a tapper
 
 341
 00:14:26,899 --> 00:14:29,133
-die pierces the hole.           
-then a tool called a tapper     
-drives into the hole to cut the 
+die pierces the hole. then a tool called a tapper drives into the hole to cut the
 
 342
 00:14:29,135 --> 00:14:30,001
-then a tool called a tapper     
-drives into the hole to cut the 
-threads.                        
+then a tool called a tapper drives into the hole to cut the threads.
 
 343
 00:14:30,003 --> 00:14:32,136
-drives into the hole to cut the 
-threads.                        
-that black liquid is a lubricant
+drives into the hole to cut the threads. that black liquid is a lubricant
 
 344
 00:14:32,138 --> 00:14:34,272
-threads.                        
-that black liquid is a lubricant
+threads. that black liquid is a lubricant
 oil to minimize wear and tear on
 
 345
 00:14:34,274 --> 00:14:40,110
 that black liquid is a lubricant
 oil to minimize wear and tear on
-the tappers.                    
+the tappers.
 
 346
 00:14:40,112 --> 00:14:42,080
 oil to minimize wear and tear on
-the tappers.                    
-the nuts and bolts now go into  
+the tappers. the nuts and bolts now go into
 
 347
 00:14:42,082 --> 00:14:43,847
-the tappers.                    
-the nuts and bolts now go into  
-an oven at 1,600 degrees        
+the tappers. the nuts and bolts now go into an oven at 1,600 degrees
 
 348
 00:14:43,849 --> 00:14:46,084
-the nuts and bolts now go into  
-an oven at 1,600 degrees        
-fahrenheit for about an hour.   
+the nuts and bolts now go into an oven at 1,600 degrees fahrenheit for about an hour.
 
 349
 00:14:46,086 --> 00:14:47,818
-an oven at 1,600 degrees        
-fahrenheit for about an hour.   
-this gives them the required    
+an oven at 1,600 degrees fahrenheit for about an hour. this gives them the required
 
 350
 00:14:47,820 --> 00:14:49,019
-fahrenheit for about an hour.   
-this gives them the required    
-strength.                       
+fahrenheit for about an hour. this gives them the required strength.
 
 351
 00:14:49,021 --> 00:14:51,155
-this gives them the required    
-strength.                       
-then a rapid cooling in oil for 
+this gives them the required strength. then a rapid cooling in oil for
 
 352
 00:14:51,157 --> 00:14:53,024
-strength.                       
-then a rapid cooling in oil for 
-five minutes to solidify the    
+strength. then a rapid cooling in oil for five minutes to solidify the
 
 353
 00:14:53,026 --> 00:14:54,925
-then a rapid cooling in oil for 
-five minutes to solidify the    
-steel's internal structure.     
+then a rapid cooling in oil for five minutes to solidify the steel's internal structure.
 
 354
 00:14:54,927 --> 00:14:56,895
-five minutes to solidify the    
-steel's internal structure.     
-by now the steel is hard, but   
+five minutes to solidify the steel's internal structure. by now the steel is hard, but
 
 355
 00:14:56,897 --> 00:14:59,029
-steel's internal structure.     
-by now the steel is hard, but   
-brittle, so they heat the nuts  
+steel's internal structure. by now the steel is hard, but brittle, so they heat the nuts
 
 356
 00:14:59,031 --> 00:15:00,765
-by now the steel is hard, but   
-brittle, so they heat the nuts  
-and bolts for another hour.     
+by now the steel is hard, but brittle, so they heat the nuts and bolts for another hour.
 
 357
 00:15:00,767 --> 00:15:02,566
-brittle, so they heat the nuts  
-and bolts for another hour.     
-this removes their brittleness  
+brittle, so they heat the nuts and bolts for another hour. this removes their brittleness
 
 358
 00:15:02,568 --> 00:15:09,774
-and bolts for another hour.     
-this removes their brittleness  
-yet maintains their strength.   
+and bolts for another hour. this removes their brittleness yet maintains their strength.
 
 359
 00:15:09,776 --> 00:15:11,776
-this removes their brittleness  
-yet maintains their strength.   
-the quality-control team pulls  
+this removes their brittleness yet maintains their strength. the quality-control team pulls
 
 360
 00:15:11,778 --> 00:15:13,877
-yet maintains their strength.   
-the quality-control team pulls  
-samples off the line, measuring 
+yet maintains their strength. the quality-control team pulls samples off the line, measuring
 
 361
 00:15:13,879 --> 00:15:16,013
-the quality-control team pulls  
-samples off the line, measuring 
-how much force it takes to break
+the quality-control team pulls samples off the line, measuring how much force it takes to break
 
 362
 00:15:16,015 --> 00:15:16,781
-samples off the line, measuring 
-how much force it takes to break
-them.                           
+samples off the line, measuring how much force it takes to break
+them.
 
 363
 00:15:16,783 --> 00:15:18,415
 how much force it takes to break
-them.                           
-if a bolt meets its minimum     
+them. if a bolt meets its minimum
 
 364
 00:15:18,417 --> 00:15:20,118
-them.                           
-if a bolt meets its minimum     
-strength requirement, it passes 
+them. if a bolt meets its minimum strength requirement, it passes
 
 365
 00:15:20,120 --> 00:15:21,885
-if a bolt meets its minimum     
-strength requirement, it passes 
-inspection, provided the break  
+if a bolt meets its minimum strength requirement, it passes inspection, provided the break
 
 366
 00:15:21,887 --> 00:15:23,654
-strength requirement, it passes 
-inspection, provided the break  
-occurred in the threading -- the
+strength requirement, it passes inspection, provided the break occurred in the threading -- the
 
 367
 00:15:23,656 --> 00:15:26,724
-inspection, provided the break  
-occurred in the threading -- the
-weakest part.                   
+inspection, provided the break occurred in the threading -- the
+weakest part.
 
 368
 00:15:26,726 --> 00:15:28,726
 occurred in the threading -- the
-weakest part.                   
-finally packaging -- labeled,   
+weakest part. finally packaging -- labeled,
 
 369
 00:15:28,728 --> 00:15:30,928
-weakest part.                   
-finally packaging -- labeled,   
-among other things, by size and 
+weakest part. finally packaging -- labeled, among other things, by size and
 
 370
 00:15:30,930 --> 00:15:32,397
-finally packaging -- labeled,   
-among other things, by size and 
-grade.                          
+finally packaging -- labeled, among other things, by size and grade.
 
 371
 00:15:40,271 --> 00:15:44,174
->> narrator: toilet paper is    
-probably the most indispensable 
-item in your home.              
+>> narrator: toilet paper is probably the most indispensable item in your home.
 
 372
 00:15:44,176 --> 00:15:45,743
-probably the most indispensable 
-item in your home.              
-after all, it's not something   
+probably the most indispensable item in your home. after all, it's not something
 
 373
 00:15:45,745 --> 00:15:47,478
-item in your home.              
-after all, it's not something   
-you want to run out of at the   
+item in your home. after all, it's not something you want to run out of at the
 
 374
 00:15:47,480 --> 00:15:48,212
-after all, it's not something   
-you want to run out of at the   
-wrong time.                     
+after all, it's not something you want to run out of at the wrong time.
 
 375
 00:15:48,214 --> 00:15:49,814
-you want to run out of at the   
-wrong time.                     
-most of us probably take our    
+you want to run out of at the wrong time. most of us probably take our
 
 376
 00:15:49,816 --> 00:15:51,282
-wrong time.                     
-most of us probably take our    
-rolls of toilet paper for       
+wrong time. most of us probably take our rolls of toilet paper for
 
 377
 00:15:51,284 --> 00:15:52,150
-most of us probably take our    
-rolls of toilet paper for       
-granted.                        
+most of us probably take our rolls of toilet paper for granted.
 
 378
 00:15:52,152 --> 00:15:53,951
-rolls of toilet paper for       
-granted.                        
-so you may be surprised to learn
+rolls of toilet paper for granted. so you may be surprised to learn
 
 379
 00:15:53,953 --> 00:15:55,686
-granted.                        
-so you may be surprised to learn
-that bathroom tissue, as it's   
+granted. so you may be surprised to learn
+that bathroom tissue, as it's
 
 380
 00:15:55,688 --> 00:15:57,521
 so you may be surprised to learn
-that bathroom tissue, as it's   
-properly called, is a relatively
+that bathroom tissue, as it's properly called, is a relatively
 
 381
 00:15:57,523 --> 00:16:04,294
-that bathroom tissue, as it's   
-properly called, is a relatively
-new invention.                  
+that bathroom tissue, as it's properly called, is a relatively
+new invention.
 
 382
 00:16:04,296 --> 00:16:06,463
 properly called, is a relatively
-new invention.                  
-the vikings used wool.          
+new invention. the vikings used wool.
 
 383
 00:16:06,465 --> 00:16:08,967
-new invention.                  
-the vikings used wool.          
-the ancient romans employed     
+new invention. the vikings used wool. the ancient romans employed
 
 384
 00:16:08,969 --> 00:16:11,635
-the vikings used wool.          
-the ancient romans employed     
-sponges, and french royalty     
+the vikings used wool. the ancient romans employed sponges, and french royalty
 
 385
 00:16:11,637 --> 00:16:13,304
-the ancient romans employed     
-sponges, and french royalty     
-wiped with lace.                
+the ancient romans employed sponges, and french royalty wiped with lace.
 
 386
 00:16:13,306 --> 00:16:15,439
-sponges, and french royalty     
-wiped with lace.                
-then in 1857, an american       
+sponges, and french royalty wiped with lace. then in 1857, an american
 
 387
 00:16:15,441 --> 00:16:18,075
-wiped with lace.                
-then in 1857, an american       
-entrepreneur figured that people
+wiped with lace. then in 1857, an american entrepreneur figured that people
 
 388
 00:16:18,077 --> 00:16:20,578
-then in 1857, an american       
-entrepreneur figured that people
-had had enough of using leaves, 
+then in 1857, an american entrepreneur figured that people
+had had enough of using leaves,
 
 389
 00:16:20,580 --> 00:16:22,714
 entrepreneur figured that people
-had had enough of using leaves, 
-corncobs, newspapers, and       
+had had enough of using leaves, corncobs, newspapers, and
 
 390
 00:16:22,716 --> 00:16:24,915
-had had enough of using leaves, 
-corncobs, newspapers, and       
-mail-order catalogs, so he      
+had had enough of using leaves, corncobs, newspapers, and mail-order catalogs, so he
 
 391
 00:16:24,917 --> 00:16:27,251
-corncobs, newspapers, and       
-mail-order catalogs, so he      
-invented therapeutic paper, as  
+corncobs, newspapers, and mail-order catalogs, so he invented therapeutic paper, as
 
 392
 00:16:27,253 --> 00:16:29,553
-mail-order catalogs, so he      
-invented therapeutic paper, as  
-he so tastefully named it.      
+mail-order catalogs, so he invented therapeutic paper, as he so tastefully named it.
 
 393
 00:16:29,555 --> 00:16:31,655
-invented therapeutic paper, as  
-he so tastefully named it.      
-toilet paper only came in piles 
+invented therapeutic paper, as he so tastefully named it. toilet paper only came in piles
 
 394
 00:16:31,657 --> 00:16:33,657
-he so tastefully named it.      
-toilet paper only came in piles 
-of pre-cut sheets until 1890.   
+he so tastefully named it. toilet paper only came in piles of pre-cut sheets until 1890.
 
 395
 00:16:33,659 --> 00:16:35,259
-toilet paper only came in piles 
-of pre-cut sheets until 1890.   
-that's when one company         
+toilet paper only came in piles of pre-cut sheets until 1890. that's when one company
 
 396
 00:16:35,261 --> 00:16:37,394
-of pre-cut sheets until 1890.   
-that's when one company         
-introduced bathroom tissue on a 
+of pre-cut sheets until 1890. that's when one company introduced bathroom tissue on a
 
 397
 00:16:37,396 --> 00:16:46,670
-that's when one company         
-introduced bathroom tissue on a 
-roll.                           
+that's when one company introduced bathroom tissue on a roll.
 
 398
 00:16:46,672 --> 00:16:48,539
-introduced bathroom tissue on a 
-roll.                           
-ever wonder where all that      
+introduced bathroom tissue on a roll. ever wonder where all that
 
 399
 00:16:48,541 --> 00:16:50,107
-roll.                           
-ever wonder where all that      
-recycled paper goes?            
+roll. ever wonder where all that recycled paper goes?
 
 400
 00:16:50,109 --> 00:16:52,209
-ever wonder where all that      
-recycled paper goes?            
-well, look no further than your 
+ever wonder where all that recycled paper goes? well, look no further than your
 
 401
 00:16:52,211 --> 00:16:53,010
-recycled paper goes?            
-well, look no further than your 
-bathroom.                       
+recycled paper goes? well, look no further than your bathroom.
 
 402
 00:16:53,012 --> 00:16:55,446
-well, look no further than your 
-bathroom.                       
-many brands of toilet paper     
+well, look no further than your bathroom. many brands of toilet paper
 
 403
 00:16:55,448 --> 00:16:57,615
-bathroom.                       
-many brands of toilet paper     
-begin as recycled paper.        
+bathroom. many brands of toilet paper begin as recycled paper.
 
 404
 00:16:57,617 --> 00:16:59,850
-many brands of toilet paper     
-begin as recycled paper.        
-the bales of paper drop down    
+many brands of toilet paper begin as recycled paper. the bales of paper drop down
 
 405
 00:16:59,852 --> 00:17:02,219
-begin as recycled paper.        
-the bales of paper drop down    
-into the pulper, a giant tank   
+begin as recycled paper. the bales of paper drop down into the pulper, a giant tank
 
 406
 00:17:02,221 --> 00:17:04,555
-the bales of paper drop down    
-into the pulper, a giant tank   
-with an agitator, similar to a  
+the bales of paper drop down into the pulper, a giant tank with an agitator, similar to a
 
 407
 00:17:04,557 --> 00:17:05,989
-into the pulper, a giant tank   
-with an agitator, similar to a  
-washing machine.                
+into the pulper, a giant tank with an agitator, similar to a washing machine.
 
 408
 00:17:05,991 --> 00:17:07,825
-with an agitator, similar to a  
-washing machine.                
-it mixes the paper in lukewarm  
+with an agitator, similar to a washing machine. it mixes the paper in lukewarm
 
 409
 00:17:07,827 --> 00:17:09,560
-washing machine.                
-it mixes the paper in lukewarm  
-water for about 10 minutes,     
+washing machine. it mixes the paper in lukewarm water for about 10 minutes,
 
 410
 00:17:09,562 --> 00:17:11,228
-it mixes the paper in lukewarm  
-water for about 10 minutes,     
-transforming it into what's     
+it mixes the paper in lukewarm water for about 10 minutes, transforming it into what's
 
 411
 00:17:11,230 --> 00:17:13,164
-water for about 10 minutes,     
-transforming it into what's     
-known as pulp and screening out 
+water for about 10 minutes, transforming it into what's known as pulp and screening out
 
 412
 00:17:13,166 --> 00:17:14,765
-transforming it into what's     
-known as pulp and screening out 
-all the bits of metal and       
+transforming it into what's known as pulp and screening out all the bits of metal and
 
 413
 00:17:14,767 --> 00:17:15,466
-known as pulp and screening out 
-all the bits of metal and       
-plastic.                        
+known as pulp and screening out all the bits of metal and plastic.
 
 414
 00:17:15,468 --> 00:17:17,734
-all the bits of metal and       
-plastic.                        
-now they have to take out the   
+all the bits of metal and plastic. now they have to take out the
 
 415
 00:17:17,736 --> 00:17:19,437
-plastic.                        
-now they have to take out the   
-ink.                            
+plastic. now they have to take out the ink.
 
 416
 00:17:19,439 --> 00:17:21,438
-now they have to take out the   
-ink.                            
-the ink-removal system injects  
+now they have to take out the ink. the ink-removal system injects
 
 417
 00:17:21,440 --> 00:17:22,640
-ink.                            
-the ink-removal system injects  
-the pulp with air.              
+ink. the ink-removal system injects the pulp with air.
 
 418
 00:17:22,642 --> 00:17:24,708
-the ink-removal system injects  
-the pulp with air.              
-ink particles attach to the air 
+the ink-removal system injects the pulp with air. ink particles attach to the air
 
 419
 00:17:24,710 --> 00:17:26,644
-the pulp with air.              
-ink particles attach to the air 
-bubbles, which rise to the top. 
+the pulp with air. ink particles attach to the air bubbles, which rise to the top.
 
 420
 00:17:26,646 --> 00:17:28,946
-ink particles attach to the air 
-bubbles, which rise to the top. 
-the system then skims off the   
+ink particles attach to the air bubbles, which rise to the top. the system then skims off the
 
 421
 00:17:28,948 --> 00:17:34,284
-bubbles, which rise to the top. 
-the system then skims off the   
-foam, leaving the pulp ink-free.
+bubbles, which rise to the top. the system then skims off the foam, leaving the pulp ink-free.
 
 422
 00:17:34,286 --> 00:17:36,153
-the system then skims off the   
-foam, leaving the pulp ink-free.
-next the pulp passes through a  
+the system then skims off the foam, leaving the pulp ink-free.
+next the pulp passes through a
 
 423
 00:17:36,155 --> 00:17:38,055
 foam, leaving the pulp ink-free.
-next the pulp passes through a  
-series of rollers, which squeeze
+next the pulp passes through a series of rollers, which squeeze
 
 424
 00:17:38,057 --> 00:17:39,057
-next the pulp passes through a  
-series of rollers, which squeeze
-out the water.                  
+next the pulp passes through a series of rollers, which squeeze
+out the water.
 
 425
 00:17:39,059 --> 00:17:40,958
 series of rollers, which squeeze
-out the water.                  
-this dries out the soggy pulp,  
+out the water. this dries out the soggy pulp,
 
 426
 00:17:40,960 --> 00:17:42,527
-out the water.                  
-this dries out the soggy pulp,  
-enabling it to absorb the       
+out the water. this dries out the soggy pulp, enabling it to absorb the
 
 427
 00:17:42,529 --> 00:17:44,528
-this dries out the soggy pulp,  
-enabling it to absorb the       
-chemicals they'll use to bleach 
+this dries out the soggy pulp, enabling it to absorb the chemicals they'll use to bleach
 
 428
 00:17:44,530 --> 00:17:47,364
-enabling it to absorb the       
-chemicals they'll use to bleach 
-it.                             
+enabling it to absorb the chemicals they'll use to bleach it.
 
 429
 00:17:47,366 --> 00:17:49,600
-chemicals they'll use to bleach 
-it.                             
-revolving knives now chop up the
+chemicals they'll use to bleach it. revolving knives now chop up the
 
 430
 00:17:49,602 --> 00:17:51,468
-it.                             
-revolving knives now chop up the
-pulp to prepare it for the      
+it. revolving knives now chop up the
+pulp to prepare it for the
 
 431
 00:17:51,470 --> 00:17:53,604
 revolving knives now chop up the
-pulp to prepare it for the      
-bleaching process, the details  
+pulp to prepare it for the bleaching process, the details
 
 432
 00:17:53,606 --> 00:17:55,673
-pulp to prepare it for the      
-bleaching process, the details  
-of which are a closely guarded  
+pulp to prepare it for the bleaching process, the details of which are a closely guarded
 
 433
 00:17:55,675 --> 00:17:58,142
-bleaching process, the details  
-of which are a closely guarded  
-trade secret.                   
+bleaching process, the details of which are a closely guarded trade secret.
 
 434
 00:17:58,144 --> 00:18:00,177
-of which are a closely guarded  
-trade secret.                   
-the bleach turns the gray pulp a
+of which are a closely guarded trade secret. the bleach turns the gray pulp a
 
 435
 00:18:00,179 --> 00:18:01,211
-trade secret.                   
-the bleach turns the gray pulp a
-pure white.                     
+trade secret. the bleach turns the gray pulp a
+pure white.
 
 436
 00:18:01,213 --> 00:18:03,013
 the bleach turns the gray pulp a
-pure white.                     
-the company says it does this   
+pure white. the company says it does this
 
 437
 00:18:03,015 --> 00:18:04,949
-pure white.                     
-the company says it does this   
-without using chlorine or other 
+pure white. the company says it does this without using chlorine or other
 
 438
 00:18:04,951 --> 00:18:06,684
-the company says it does this   
-without using chlorine or other 
-toxic chemicals.                
+the company says it does this without using chlorine or other toxic chemicals.
 
 439
 00:18:06,686 --> 00:18:08,685
-without using chlorine or other 
-toxic chemicals.                
-they spread the wet pulp onto a 
+without using chlorine or other toxic chemicals. they spread the wet pulp onto a
 
 440
 00:18:08,687 --> 00:18:10,555
-toxic chemicals.                
-they spread the wet pulp onto a 
-flat screen that runs through a 
+toxic chemicals. they spread the wet pulp onto a flat screen that runs through a
 
 441
 00:18:10,557 --> 00:18:12,723
-they spread the wet pulp onto a 
-flat screen that runs through a 
-hot dryer.                      
+they spread the wet pulp onto a flat screen that runs through a hot dryer.
 
 442
 00:18:12,725 --> 00:18:14,492
-flat screen that runs through a 
-hot dryer.                      
-in less than a second, the pulp 
+flat screen that runs through a hot dryer. in less than a second, the pulp
 
 443
 00:18:14,494 --> 00:18:17,127
-hot dryer.                      
-in less than a second, the pulp 
-dries into a delicate paper     
+hot dryer. in less than a second, the pulp dries into a delicate paper
 
 444
 00:18:17,129 --> 00:18:20,164
-in less than a second, the pulp 
-dries into a delicate paper     
-4/1000 of an inch thick.        
+in less than a second, the pulp dries into a delicate paper 4/1000 of an inch thick.
 
 445
 00:18:20,166 --> 00:18:22,700
-dries into a delicate paper     
-4/1000 of an inch thick.        
-each spool holds close to 47    
+dries into a delicate paper 4/1000 of an inch thick. each spool holds close to 47
 
 446
 00:18:22,702 --> 00:18:24,302
-4/1000 of an inch thick.        
-each spool holds close to 47    
-miles of paper.                 
+4/1000 of an inch thick. each spool holds close to 47 miles of paper.
 
 447
 00:18:24,304 --> 00:18:26,370
-each spool holds close to 47    
-miles of paper.                 
-that spool now feeds a machine  
+each spool holds close to 47 miles of paper. that spool now feeds a machine
 
 448
 00:18:26,372 --> 00:18:28,172
-miles of paper.                 
-that spool now feeds a machine  
-with rollers that emboss a      
+miles of paper. that spool now feeds a machine with rollers that emboss a
 
 449
 00:18:28,174 --> 00:18:30,241
-that spool now feeds a machine  
-with rollers that emboss a      
-pattern, in this case a waffle  
+that spool now feeds a machine with rollers that emboss a pattern, in this case a waffle
 
 450
 00:18:30,243 --> 00:18:31,408
-with rollers that emboss a      
-pattern, in this case a waffle  
-print.                          
+with rollers that emboss a pattern, in this case a waffle print.
 
 451
 00:18:31,410 --> 00:18:32,709
-pattern, in this case a waffle  
-print.                          
-the pattern isn't just          
+pattern, in this case a waffle print. the pattern isn't just
 
 452
 00:18:32,711 --> 00:18:33,377
-print.                          
-the pattern isn't just          
-aesthetic.                      
+print. the pattern isn't just aesthetic.
 
 453
 00:18:33,379 --> 00:18:35,179
-the pattern isn't just          
-aesthetic.                      
-it also makes the paper thicker 
+the pattern isn't just aesthetic. it also makes the paper thicker
 
 454
 00:18:35,181 --> 00:18:39,783
-aesthetic.                      
-it also makes the paper thicker 
-and therefore more absorbent.   
+aesthetic. it also makes the paper thicker and therefore more absorbent.
 
 455
 00:18:39,785 --> 00:18:41,318
-it also makes the paper thicker 
-and therefore more absorbent.   
-elsewhere in the factory,       
+it also makes the paper thicker and therefore more absorbent. elsewhere in the factory,
 
 456
 00:18:41,320 --> 00:18:43,053
-and therefore more absorbent.   
-elsewhere in the factory,       
-production is rolling, so to    
+and therefore more absorbent. elsewhere in the factory, production is rolling, so to
 
 457
 00:18:43,055 --> 00:18:44,589
-elsewhere in the factory,       
-production is rolling, so to    
-speak, with two strips of       
+elsewhere in the factory, production is rolling, so to speak, with two strips of
 
 458
 00:18:44,591 --> 00:18:47,525
-production is rolling, so to    
-speak, with two strips of       
-cardboard, each 3 inches wide.  
+production is rolling, so to speak, with two strips of cardboard, each 3 inches wide.
 
 459
 00:18:47,527 --> 00:18:49,460
-speak, with two strips of       
-cardboard, each 3 inches wide.  
-the machine coats the underside 
+speak, with two strips of cardboard, each 3 inches wide. the machine coats the underside
 
 460
 00:18:49,462 --> 00:18:51,395
-cardboard, each 3 inches wide.  
-the machine coats the underside 
-of the top strip with glue, then
+cardboard, each 3 inches wide. the machine coats the underside of the top strip with glue, then
 
 461
 00:18:51,397 --> 00:18:53,264
-the machine coats the underside 
-of the top strip with glue, then
-winds the two strips diagonally 
+the machine coats the underside of the top strip with glue, then
+winds the two strips diagonally
 
 462
 00:18:53,266 --> 00:18:55,265
 of the top strip with glue, then
-winds the two strips diagonally 
-to create a continuous cardboard
+winds the two strips diagonally to create a continuous cardboard
 
 463
 00:18:55,267 --> 00:19:03,007
-winds the two strips diagonally 
-to create a continuous cardboard
-tube.                           
+winds the two strips diagonally to create a continuous cardboard
+tube.
 
 464
 00:19:03,009 --> 00:19:05,309
 to create a continuous cardboard
-tube.                           
-the machine then cuts the tube  
+tube. the machine then cuts the tube
 
 465
 00:19:05,311 --> 00:19:14,084
-tube.                           
-the machine then cuts the tube  
-in 65-inch lengths.             
+tube. the machine then cuts the tube in 65-inch lengths.
 
 466
 00:19:14,086 --> 00:19:15,986
-the machine then cuts the tube  
-in 65-inch lengths.             
-the tubes ride an elevator to   
+the machine then cuts the tube in 65-inch lengths. the tubes ride an elevator to
 
 467
 00:19:15,988 --> 00:19:20,624
-in 65-inch lengths.             
-the tubes ride an elevator to   
-the toilet paper zone.          
+in 65-inch lengths. the tubes ride an elevator to the toilet paper zone.
 
 468
 00:19:20,626 --> 00:19:22,226
-the tubes ride an elevator to   
-the toilet paper zone.          
-there, two giant spools of paper
+the tubes ride an elevator to the toilet paper zone. there, two giant spools of paper
 
 469
 00:19:22,228 --> 00:19:23,727
-the toilet paper zone.          
-there, two giant spools of paper
-feed what's called the winding  
+the toilet paper zone. there, two giant spools of paper
+feed what's called the winding
 
 470
 00:19:23,729 --> 00:19:25,163
 there, two giant spools of paper
-feed what's called the winding  
-machine.                        
+feed what's called the winding machine.
 
 471
 00:19:25,165 --> 00:19:27,197
-feed what's called the winding  
-machine.                        
-the two sheets come together to 
+feed what's called the winding machine. the two sheets come together to
 
 472
 00:19:27,199 --> 00:19:29,901
-machine.                        
-the two sheets come together to 
-form a two-ply toilet paper.    
+machine. the two sheets come together to form a two-ply toilet paper.
 
 473
 00:19:41,380 --> 00:19:48,252
-the paper then winds onto a     
-cardboard tube, creating a      
-super-wide roll of toilet paper.
+the paper then winds onto a cardboard tube, creating a super-wide roll of toilet paper.
 
 474
 00:19:48,254 --> 00:19:50,121
-cardboard tube, creating a      
-super-wide roll of toilet paper.
-when the roll is full, a blade  
+cardboard tube, creating a super-wide roll of toilet paper.
+when the roll is full, a blade
 
 475
 00:19:50,123 --> 00:19:52,022
 super-wide roll of toilet paper.
-when the roll is full, a blade  
-automatically cuts the paper,   
+when the roll is full, a blade automatically cuts the paper,
 
 476
 00:19:52,024 --> 00:19:53,991
-when the roll is full, a blade  
-automatically cuts the paper,   
-and winding resumes on the next 
+when the roll is full, a blade automatically cuts the paper, and winding resumes on the next
 
 477
 00:19:53,993 --> 00:19:55,993
-automatically cuts the paper,   
-and winding resumes on the next 
-tube.                           
+automatically cuts the paper, and winding resumes on the next tube.
 
 478
 00:20:09,474 --> 00:20:15,112
-the machine automatically seals 
-the end of the roll with glue   
-to prevent unraveling.          
+the machine automatically seals the end of the roll with glue to prevent unraveling.
 
 479
 00:20:23,889 --> 00:20:29,627
-a circular saw slices the       
-super-wide toilet paper roll    
-into 16 standard rolls,         
+a circular saw slices the super-wide toilet paper roll into 16 standard rolls,
 
 480
 00:20:29,629 --> 00:20:32,230
-super-wide toilet paper roll    
-into 16 standard rolls,         
-4 inches wide.                  
+super-wide toilet paper roll into 16 standard rolls, 4 inches wide.
 
 481
 00:20:41,573 --> 00:20:43,241
@@ -2882,55 +2052,55 @@ the toilet paper is finished and
 
 482
 00:20:43,375 --> 00:20:49,946
-ready for packaging.            
+ready for packaging.
 
 483
 00:20:50,115 --> 00:20:51,648
-this batch is for commercial    
+this batch is for commercial
 
 484
 00:20:51,783 --> 00:20:52,049
-use.                            
+use.
 
 485
 00:20:52,184 --> 00:20:53,717
-each roll is individually       
+each roll is individually
 
 486
 00:20:53,852 --> 00:20:57,321
-wrapped in paper.               
+wrapped in paper.
 
 487
 00:20:57,455 --> 00:20:59,256
-check out this slow-motion      
+check out this slow-motion
 
 488
 00:20:59,390 --> 00:21:03,193
-wrapping action.                
+wrapping action.
 
 489
 00:21:03,328 --> 00:21:05,162
-toilet paper destined for       
+toilet paper destined for
 
 490
 00:21:05,330 --> 00:21:07,431
-residential use gets wrapped in 
+residential use gets wrapped in
 
 491
 00:21:07,599 --> 00:21:09,533
-transparent plastic, 4 to 30    
+transparent plastic, 4 to 30
 
 492
 00:21:09,667 --> 00:21:12,203
-rolls per package.              
+rolls per package.
 
 493
 00:21:18,276 --> 00:21:19,676
-if you have any comments about  
+if you have any comments about
 
 494
 00:21:19,811 --> 00:21:20,944
-the show, or if you'd like to   
+the show, or if you'd like to
 
 495
 00:21:21,079 --> 00:21:22,913
@@ -2938,5 +2108,6 @@ suggest topics for future shows,
 
 496
 00:21:23,081 --> 00:21:24,749
-drop us a line at...            
+drop us a line at...
+
 

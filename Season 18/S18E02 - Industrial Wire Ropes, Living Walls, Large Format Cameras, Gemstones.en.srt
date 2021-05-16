@@ -1,467 +1,400 @@
 ﻿1
 00:00:03,070 --> 00:00:06,005
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:06,007 --> 00:00:09,041
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,986 --> 00:00:53,452
-            narrator:           
-       industrial machines      
+narrator: industrial machines      
 
 4
 00:00:53,454 --> 00:00:56,255
-     often have heavy loads     
-        to lift or pull.        
+often have heavy loads to lift or pull.        
 
 5
 00:00:56,257 --> 00:00:58,190
-             whether            
-    it's a dragline excavator   
+whether it's a dragline excavator   
 
 6
 00:00:58,192 --> 00:00:59,926
-  working in an open-pit mine,  
+working in an open-pit mine,  
 
 7
 00:00:59,928 --> 00:01:03,062
-      an oil-drilling rig,      
-      a construction crane,     
+an oil-drilling rig, a construction crane,     
 
 8
 00:01:03,064 --> 00:01:04,730
-       or farm machinery,       
+or farm machinery,       
 
 9
 00:01:04,732 --> 00:01:08,467
-       the weight is borne      
-   by ultrastrong wire ropes.   
+the weight is borne by ultrastrong wire ropes.   
 
 10
 00:01:12,674 --> 00:01:14,206
-      industrial-wire ropes     
+industrial-wire ropes     
 
 11
 00:01:14,208 --> 00:01:18,210
 typically range from 8/10" to 5"
-          in diameter.          
+in diameter.          
 
 12
 00:01:18,212 --> 00:01:20,145
- besides machinery applications,
+besides machinery applications,
 
 13
 00:01:20,147 --> 00:01:22,081
-         they also serve        
-        as support cables       
+they also serve as support cables       
 
 14
 00:01:22,083 --> 00:01:23,883
-  for large static structures,  
+for large static structures,  
 
 15
 00:01:23,885 --> 00:01:26,952
-         such as bridges        
-       and stadium roofs.       
+such as bridges and stadium roofs.       
 
 16
 00:01:26,954 --> 00:01:30,189
-    manufacturing a wire rope   
-     begins with steel wire     
+manufacturing a wire rope begins with steel wire     
 
 17
 00:01:30,191 --> 00:01:35,027
-  that's anywhere from 3/1,000" 
-      to 3/10" in diameter.     
+that's anywhere from 3/1,000" to 3/10" in diameter.     
 
 18
 00:01:35,029 --> 00:01:38,096
-    the first step is to wind   
- several of these wires together
+the first step is to wind several of these wires together
 
 19
 00:01:38,098 --> 00:01:39,498
-         into a strand.         
+into a strand.         
 
 20
 00:01:39,500 --> 00:01:40,833
-    how many wires per strand   
+how many wires per strand   
 
 21
 00:01:40,835 --> 00:01:43,168
-       depends on the job       
-     the rope will perform,     
+depends on the job the rope will perform,     
 
 22
 00:01:43,170 --> 00:01:44,704
- because different applications 
+because different applications 
 
 23
 00:01:44,706 --> 00:01:47,506
-    require different degrees   
-  of flexibility and strength.  
+require different degrees of flexibility and strength.  
 
 24
 00:01:47,508 --> 00:01:49,841
-      each wire is spooled      
-      onto a steel bobbin       
+each wire is spooled onto a steel bobbin       
 
 25
 00:01:49,843 --> 00:01:51,910
-           and loaded           
-    onto a stranding machine,   
+and loaded onto a stranding machine,   
 
 26
 00:01:51,912 --> 00:01:54,580
-      which is essentially      
-         a giant winder.        
+which is essentially a giant winder.        
 
 27
 00:01:54,582 --> 00:01:57,849
-      there can be as many      
-    as 64 wires in a strand,    
+there can be as many as 64 wires in a strand,    
 
 28
 00:01:57,851 --> 00:02:01,787
-   although the typical range   
-      is between 19 and 36.     
+although the typical range is between 19 and 36.     
 
 29
 00:02:01,789 --> 00:02:04,456
-       the twisting wires       
-       converge in a die        
+the twisting wires converge in a die        
 
 30
 00:02:04,458 --> 00:02:07,459
-         that forms them        
-    to the required diameter.   
+that forms them to the required diameter.   
 
 31
 00:02:07,461 --> 00:02:09,195
-    lubrication is critical,    
+lubrication is critical,    
 
 32
 00:02:09,197 --> 00:02:12,531
 and not merely to help the wires
- move smoothly through the die. 
+move smoothly through the die. 
 
 33
 00:02:12,533 --> 00:02:14,266
-    it also penetrates within   
+it also penetrates within   
 
 34
 00:02:14,268 --> 00:02:17,136
-    to allow slight movement    
-       between the wires.       
+to allow slight movement between the wires.       
 
 35
 00:02:17,138 --> 00:02:19,871
- this increases their life span 
+this increases their life span 
 
 36
 00:02:19,873 --> 00:02:22,208
-     and prevents the strand    
-          from seizing.         
+and prevents the strand from seizing.         
 
 37
 00:02:22,210 --> 00:02:25,678
-  the strand exits the machine  
-     saturated in lubricant.    
+the strand exits the machine saturated in lubricant.    
 
 38
 00:02:25,680 --> 00:02:29,415
-    a large rubber band skims   
-   the excess off the surface.  
+a large rubber band skims the excess off the surface.  
 
 39
 00:02:31,351 --> 00:02:35,887
-     the strand now travels     
- through a row of straighteners.
+the strand now travels through a row of straighteners.
 
 40
 00:02:35,889 --> 00:02:38,557
-       these heavy rollers      
-    apply vertical pressure,    
+these heavy rollers apply vertical pressure,    
 
 41
 00:02:38,559 --> 00:02:40,692
-       effectively erasing      
-        the wire's memory       
+effectively erasing the wire's memory       
 
 42
 00:02:40,694 --> 00:02:43,496
-  of being spooled on a bobbin  
-       prior to stranding.      
+of being spooled on a bobbin prior to stranding.      
 
 43
 00:02:43,498 --> 00:02:46,232
-     this prevents the wires    
-        from unraveling.        
+this prevents the wires from unraveling.        
 
 44
 00:02:48,502 --> 00:02:49,769
-       this cross-section       
+this cross-section       
 
 45
 00:02:49,771 --> 00:02:53,572
-       shows all the wires      
-   inside the finished strand.  
+shows all the wires inside the finished strand.  
 
 46
 00:02:53,574 --> 00:02:56,642
-    the clothespin gives you    
-      a sense of its size.      
+the clothespin gives you a sense of its size.      
 
 47
 00:02:56,644 --> 00:02:58,777
- wire strands are by themselves 
+wire strands are by themselves 
 
 48
 00:02:58,779 --> 00:03:02,515
-         typically used         
-  as structural support cables. 
+typically used as structural support cables. 
 
 49
 00:03:02,517 --> 00:03:06,052
-   to make wire ropes used in   
+to make wire ropes used in   
 machinery and for heavy lifting,
 
 50
 00:03:06,054 --> 00:03:09,788
- they take several of these wire
- strands and wind them together 
+they take several of these wire
+strands and wind them together 
 
 51
 00:03:09,790 --> 00:03:13,426
-  on a far bigger and stronger  
-    machine called a closer.    
+on a far bigger and stronger machine called a closer.    
 
 52
 00:03:17,331 --> 00:03:20,866
- they make this particular rope 
-     from six wire strands.     
+they make this particular rope from six wire strands.     
 
 53
 00:03:20,868 --> 00:03:23,335
-       before the strands       
-      converge in the die,      
+before the strands converge in the die,      
 
 54
 00:03:23,337 --> 00:03:26,605
-     rollers pre-shape them     
-   into a corkscrew-like form.  
+rollers pre-shape them into a corkscrew-like form.  
 
 55
 00:03:26,607 --> 00:03:30,476
- the strands then enter the die,
- twisting together over a core, 
+the strands then enter the die,
+twisting together over a core, 
 
 56
 00:03:30,478 --> 00:03:33,812
-         which is itself        
-    a small steel-wire rope.    
+which is itself a small steel-wire rope.    
 
 57
 00:03:33,814 --> 00:03:35,413
-      a core at the center      
-          of the cable          
+a core at the center of the cable          
 
 58
 00:03:35,415 --> 00:03:37,750
-  provides additional strength. 
+provides additional strength. 
 
 59
 00:03:37,752 --> 00:03:41,220
- this cable's finished diameter 
-           is 3 1/2".           
+this cable's finished diameter is 3 1/2".           
 
 60
 00:03:41,222 --> 00:03:44,690
-    however, there are always   
+however, there are always   
 small variations here and there,
 
 61
 00:03:44,692 --> 00:03:47,025
-             so now             
-    four calibration rollers,   
+so now four calibration rollers,   
 
 62
 00:03:47,027 --> 00:03:49,695
-   two compressing vertically,  
-        two horizontally,       
+two compressing vertically, two horizontally,       
 
 63
 00:03:49,697 --> 00:03:53,965
- correct the cable to the right 
- diameter all along its length. 
+correct the cable to the right diameter all along its length. 
 
 64
 00:03:53,967 --> 00:03:56,969
-       the finished cable       
-  winds onto a big steel reel,  
+the finished cable winds onto a big steel reel,  
 
 65
 00:03:56,971 --> 00:03:58,771
-       ready for shipping.      
+ready for shipping.      
 
 66
 00:04:02,043 --> 00:04:06,112
 the factory tests random samples
-   in its quality-control lab.  
+in its quality-control lab.  
 
 67
 00:04:06,114 --> 00:04:08,514
-    there, a machine measures   
-     the tensile strength --    
+there, a machine measures the tensile strength --    
 
 68
 00:04:08,516 --> 00:04:12,785
-     how much pulling force     
-    the cable can withstand.    
+how much pulling force the cable can withstand.    
 
 69
 00:04:12,787 --> 00:04:16,989
-  the machine pulls the cable   
-  at both ends until it snaps.  
+the machine pulls the cable at both ends until it snaps.  
 
 70
 00:04:16,991 --> 00:04:18,390
-         [ cable snaps ]        
+[ cable snaps ]        
 
 71
 00:04:18,392 --> 00:04:23,329
-      for this mega cable,      
+for this mega cable,      
 the breaking point was 104 tons.
 
 72
 00:04:23,331 --> 00:04:24,997
-    to pass the test, a cable   
+to pass the test, a cable   
 
 73
 00:04:24,999 --> 00:04:28,734
 must exceed the tensile strength
-   it's designed to withstand.  
+it's designed to withstand.  
 
 74
 00:04:28,736 --> 00:04:32,537
-      for certain demanding     
-  applications, such as mining, 
+for certain demanding applications, such as mining, 
 
 75
 00:04:32,539 --> 00:04:34,940
-           wire ropes           
-  are double-coated in plastic  
+wire ropes are double-coated in plastic  
 
 76
 00:04:34,942 --> 00:04:37,610
-           to protect           
-     against wear and tear.     
+to protect against wear and tear.     
 
 77
 00:04:37,612 --> 00:04:39,411
-     to prepare the plastic,    
-           the factory          
+to prepare the plastic, the factory          
 
 78
 00:04:39,413 --> 00:04:42,948
-     mixes a recipe of clear    
-  and colored plastic pellets.  
+mixes a recipe of clear and colored plastic pellets.  
 
 79
 00:04:42,950 --> 00:04:46,551
-   an extrusion machine heats   
- the pellets until they liquefy,
+an extrusion machine heats the pellets until they liquefy,
 
 80
 00:04:46,553 --> 00:04:49,021
- then forces the molten plastic 
-         through a die,         
+then forces the molten plastic through a die,         
 
 81
 00:04:49,023 --> 00:04:51,557
-        coating the rope        
-      as it passes through.     
+coating the rope as it passes through.     
 
 82
 00:04:53,894 --> 00:04:56,228
-           as the rope          
-  exits the extrusion machine,  
+as the rope exits the extrusion machine,  
 
 83
 00:04:56,230 --> 00:04:57,763
-    it passes through water,    
+it passes through water,    
 
 84
 00:04:57,765 --> 00:05:00,666
-     which cools and hardens    
-        the hot plastic.        
+which cools and hardens the hot plastic.        
 
 85
 00:05:02,569 --> 00:05:05,170
-  the plastic not only jackets  
-       the rope's surface,      
+the plastic not only jackets the rope's surface,      
 
 86
 00:05:05,172 --> 00:05:08,307
-   it also provides cushioning  
-      when on the jobsite,      
+it also provides cushioning when on the jobsite,      
 
 87
 00:05:08,309 --> 00:05:12,244
- the strands inside rub against 
- each other as the rope moves.  
+the strands inside rub against each other as the rope moves.  
 
 88
 00:05:12,246 --> 00:05:13,912
-    by reducing wear and tear   
+by reducing wear and tear   
 
 89
 00:05:13,914 --> 00:05:16,515
-          on the steel          
- both internally and externally,
+on the steel both internally and externally,
 
 90
 00:05:16,517 --> 00:05:21,854
-   plastic coating can extend   
+plastic coating can extend   
 the life of a rope by up to 50%.
 
 91
 00:05:21,856 --> 00:05:23,656
- a cable's internal construction
+a cable's internal construction
 
 92
 00:05:23,658 --> 00:05:26,258
-     determines its strength    
-        and flexibility.        
+determines its strength and flexibility.        
 
 93
 00:05:26,260 --> 00:05:30,529
-  a structural one needs to be  
-  strong, immobile, and taut,   
+a structural one needs to be strong, immobile, and taut,   
 
 94
 00:05:30,531 --> 00:05:33,531
-     so it's a single strand    
-      made of large wires,      
+so it's a single strand made of large wires,      
 
 95
 00:05:33,533 --> 00:05:35,935
-      whereas a moving rope     
-       and large machinery      
+whereas a moving rope and large machinery      
 
 96
 00:05:35,937 --> 00:05:39,772
-     contains many strands      
-     made of smaller wires.     
+contains many strands made of smaller wires.     
 
 97
 00:05:54,222 --> 00:05:57,022
-     narrator: a living wall    
-     is a vertical structure    
+narrator: a living wall is a vertical structure    
 
 98
 00:05:57,024 --> 00:05:58,757
@@ -469,454 +402,379 @@ covered with fully grown plants.
 
 99
 00:05:58,759 --> 00:06:01,627
-        this green screen       
-      serves many purposes,     
+this green screen serves many purposes,     
 
 100
 00:06:01,629 --> 00:06:05,230
-  such as hiding an eyesore or  
- shielding an area for privacy. 
+such as hiding an eyesore or shielding an area for privacy. 
 
 101
 00:06:05,232 --> 00:06:06,966
-       some are installed       
-         in the ground,         
+some are installed in the ground,         
 
 102
 00:06:06,968 --> 00:06:09,168
-    while others are mounted    
-       on building facades      
+while others are mounted on building facades      
 
 103
 00:06:09,170 --> 00:06:11,971
-            and have            
- integrated irrigation systems. 
+and have integrated irrigation systems. 
 
 104
 00:06:16,109 --> 00:06:18,110
-          living walls          
-      are modular systems.      
+living walls are modular systems.      
 
 105
 00:06:18,112 --> 00:06:21,579
-           each module          
-  contains fully grown plants,  
+each module contains fully grown plants,  
 
 106
 00:06:21,581 --> 00:06:22,915
-      so upon installation,     
+so upon installation,     
 
 107
 00:06:22,917 --> 00:06:25,784
-     the green-screen effect    
-          is immediate.         
+the green-screen effect is immediate.         
 
 108
 00:06:25,786 --> 00:06:28,520
-           the plants           
-    are hedera helix woerner,   
+the plants are hedera helix woerner,   
 
 109
 00:06:28,522 --> 00:06:31,590
- a variety of ivy that's highly 
- resistant to cold and drought. 
+a variety of ivy that's highly resistant to cold and drought. 
 
 110
 00:06:34,962 --> 00:06:37,396
-      in the manufacturer's     
-          greenhouses,          
+in the manufacturer's greenhouses,          
 
 111
 00:06:37,398 --> 00:06:40,766
- horticulturalists take cuttings
-    from the mother plants...   
+horticulturalists take cuttings
+from the mother plants...   
 
 112
 00:06:44,005 --> 00:06:47,272
-   ...then cut off the foliage  
-    and separate the leaves,    
+...then cut off the foliage and separate the leaves,    
 
 113
 00:06:47,274 --> 00:06:49,975
- leaving each with a small stem.
+leaving each with a small stem.
 
 114
 00:06:55,683 --> 00:06:59,318
-  then they plant the cuttings  
-      five leaves to a pot.     
+then they plant the cuttings five leaves to a pot.     
 
 115
 00:07:03,157 --> 00:07:04,756
-   the soil is a secret recipe  
+the soil is a secret recipe  
 
 116
 00:07:04,758 --> 00:07:08,460
-         of organic and         
- nonorganic materials and feed. 
+of organic and nonorganic materials and feed. 
 
 117
 00:07:15,569 --> 00:07:17,836
-       over the next month      
-          to six weeks,         
+over the next month to six weeks,         
 
 118
 00:07:17,838 --> 00:07:20,639
-            each stem           
-  develops a good root system.  
+each stem develops a good root system.  
 
 119
 00:07:22,777 --> 00:07:25,444
-       meanwhile, workers       
-    construct a welded frame    
+meanwhile, workers construct a welded frame    
 
 120
 00:07:25,446 --> 00:07:27,846
-      out of high-strength      
-          carbon steel.         
+out of high-strength carbon steel.         
 
 121
 00:07:27,848 --> 00:07:31,784
-     the metal is galvanized    
-       so it's rust-proof.      
+the metal is galvanized so it's rust-proof.      
 
 122
 00:07:31,786 --> 00:07:34,053
-    once the frame is ready,    
-         they take a mat        
+once the frame is ready, they take a mat        
 
 123
 00:07:34,055 --> 00:07:37,522
-    made from biodegradable,    
-     recycled coconut husks     
+made from biodegradable, recycled coconut husks     
 
 124
 00:07:37,524 --> 00:07:39,324
-           and fold it          
-       into a planter box,      
+and fold it into a planter box,      
 
 125
 00:07:39,326 --> 00:07:41,926
-           which fits           
- inside the bottom of the frame.
+which fits inside the bottom of the frame.
 
 126
 00:07:41,928 --> 00:07:45,464
-   two side wires hold the box  
-       securely in place.       
+two side wires hold the box securely in place.       
 
 127
 00:07:46,934 --> 00:07:49,201
-      an automated machine      
-          fills the box         
+an automated machine fills the box         
 
 128
 00:07:49,203 --> 00:07:52,271
-     with the same soil mix     
-     used for the cuttings.     
+with the same soil mix used for the cuttings.     
 
 129
 00:07:56,143 --> 00:07:59,812
-   then the horticulturalists   
-    plant 13 pots of plants.    
+then the horticulturalists plant 13 pots of plants.    
 
 130
 00:07:59,814 --> 00:08:02,481
-    that's 65 ivies per box.    
+that's 65 ivies per box.    
 
 131
 00:08:08,823 --> 00:08:10,022
-   they wrap the longer stems   
+they wrap the longer stems   
 
 132
 00:08:10,024 --> 00:08:11,590
-       around the uprights      
-          of the frame.         
+around the uprights of the frame.         
 
 133
 00:08:21,035 --> 00:08:23,435
-       the frames now move      
-       to the greenhouse,       
+the frames now move to the greenhouse,       
 
 134
 00:08:23,437 --> 00:08:26,205
-    where they're hooked up     
-    to an irrigation system.    
+where they're hooked up to an irrigation system.    
 
 135
 00:08:29,976 --> 00:08:33,645
-  for the next 18 months or so, 
-        the plants grow,        
+for the next 18 months or so, the plants grow,        
 
 136
 00:08:33,647 --> 00:08:36,315
-         and as they do,        
-      the horticulturalists     
+and as they do, the horticulturalists     
 
 137
 00:08:36,317 --> 00:08:39,317
-     keep wrapping the ends     
-      around the uprights.      
+keep wrapping the ends around the uprights.      
 
 138
 00:08:39,319 --> 00:08:41,553
-         this is called         
-      training the plants.      
+this is called training the plants.      
 
 139
 00:08:49,530 --> 00:08:50,862
-     as the plants thicken,     
+as the plants thicken,     
 
 140
 00:08:50,864 --> 00:08:54,967
- the nursery workers prune them 
-    to promote upward growth.   
+the nursery workers prune them to promote upward growth.   
 
 141
 00:09:04,010 --> 00:09:06,745
-      the factory produces      
-   these green-screen modules   
+the factory produces these green-screen modules   
 
 142
 00:09:06,747 --> 00:09:10,883
-          in 3 heights,         
- ranging from about 3 to 7 feet.
+in 3 heights, ranging from about 3 to 7 feet.
 
 143
 00:09:10,885 --> 00:09:12,550
-       after installation,      
+after installation,      
 
 144
 00:09:12,552 --> 00:09:16,488
-   the plants can grow on-site  
-  to a total height of 13 feet. 
+the plants can grow on-site to a total height of 13 feet. 
 
 145
 00:09:20,094 --> 00:09:23,762
-    each frame -- one module    
-  of the living-wall system --  
+each frame -- one module of the living-wall system --  
 
 146
 00:09:23,764 --> 00:09:28,000
-         is 4 feet wide,        
- making it easily transportable.
+is 4 feet wide, making it easily transportable.
 
 147
 00:09:32,440 --> 00:09:36,308
- at shipping time, workers load 
-   the screens 10 to a pallet   
+at shipping time, workers load the screens 10 to a pallet   
 
 148
 00:09:36,310 --> 00:09:39,111
-         and truck them         
-    to the installation site.   
+and truck them to the installation site.   
 
 149
 00:09:43,050 --> 00:09:46,985
-    each module of the system   
-   installs just like a fence.  
+each module of the system installs just like a fence.  
 
 150
 00:09:46,987 --> 00:09:48,586
-   workers embed a wooden post  
+workers embed a wooden post  
 
 151
 00:09:48,588 --> 00:09:51,790
-         on either side         
-  of where each screen will go  
+on either side of where each screen will go  
 
 152
 00:09:51,792 --> 00:09:53,859
-        and dig a trench        
-   that's the width and depth   
+and dig a trench that's the width and depth   
 
 153
 00:09:53,861 --> 00:09:57,262
-       of the planter box       
-       running in between.      
+of the planter box running in between.      
 
 154
 00:09:57,264 --> 00:09:59,598
-       they sit the screen      
-         in the trench,         
+they sit the screen in the trench,         
 
 155
 00:09:59,600 --> 00:10:01,867
-           then, with           
-   galvanized-steel brackets,   
+then, with galvanized-steel brackets,   
 
 156
 00:10:01,869 --> 00:10:05,204
-    clip it to the side posts   
-     at the top and bottom.     
+clip it to the side posts at the top and bottom.     
 
 157
 00:10:08,542 --> 00:10:10,809
-   then they fill in the gaps   
-           with dirt.           
+then they fill in the gaps with dirt.           
 
 158
 00:10:20,621 --> 00:10:23,955
-        the screens have        
-   a 45-year life expectancy,   
+the screens have a 45-year life expectancy,   
 
 159
 00:10:23,957 --> 00:10:26,758
-         and the leaves         
-   remain on them year-round.   
+and the leaves remain on them year-round.   
 
 160
 00:10:26,760 --> 00:10:29,294
-          this variety          
-     is used on living walls    
+this variety is used on living walls    
 
 161
 00:10:29,296 --> 00:10:31,830
-  in europe and warmer regions. 
+in europe and warmer regions. 
 
 162
 00:10:31,832 --> 00:10:33,031
-       in colder climates,      
+in colder climates,      
 
 163
 00:10:33,033 --> 00:10:36,234
-      the manufacturer uses     
-    a hardier species of ivy    
+the manufacturer uses a hardier species of ivy    
 
 164
 00:10:36,236 --> 00:10:39,838
-      that stays green even     
+that stays green even     
 throughout harsh, snowy winters.
 
 165
 00:10:56,857 --> 00:10:58,389
-            narrator:           
-      a large-format camera     
+narrator: a large-format camera     
 
 166
 00:10:58,391 --> 00:11:00,859
-         is essentially         
-    great-granddad's camera,    
+is essentially great-granddad's camera,    
 
 167
 00:11:00,861 --> 00:11:03,862
-  the one with accordion-style  
-     bellows, the big film,     
+the one with accordion-style bellows, the big film,     
 
 168
 00:11:03,864 --> 00:11:06,598
-         and the curtain        
- draped around the viewfinder --
+and the curtain draped around the viewfinder --
 
 169
 00:11:06,600 --> 00:11:10,602
-     19th century technology    
-  with some modern refinements. 
+19th century technology with some modern refinements. 
 
 170
 00:11:10,604 --> 00:11:15,274
- for many serious photographers,
- the basic concept still clicks.
+for many serious photographers,
+the basic concept still clicks.
 
 171
 00:11:17,478 --> 00:11:20,812
-     in an age when cameras     
- are miniaturized and digitized,
+in an age when cameras are miniaturized and digitized,
 
 172
 00:11:20,814 --> 00:11:23,949
-     the large-format camera    
-    might seem to be a relic.   
+the large-format camera might seem to be a relic.   
 
 173
 00:11:23,951 --> 00:11:26,618
-          but for pros,         
-      it's a creative tool.     
+but for pros, it's a creative tool.     
 
 174
 00:11:26,620 --> 00:11:29,888
-   the flexible bellows allow   
-  for a wide range of movements 
+the flexible bellows allow for a wide range of movements 
 
 175
 00:11:29,890 --> 00:11:32,624
-     for incredible control     
-          of the image.         
+for incredible control of the image.         
 
 176
 00:11:32,626 --> 00:11:34,693
-          image quality         
-     is another attraction.     
+image quality is another attraction.     
 
 177
 00:11:34,695 --> 00:11:39,164
 this camera uses big sheet film,
-         4" x 5" and up,        
+4" x 5" and up,        
 
 178
 00:11:39,166 --> 00:11:40,431
-    generating big negatives    
+generating big negatives    
 
 179
 00:11:40,433 --> 00:11:43,235
- that don't need to be enlarged 
-    as much during printing,    
+that don't need to be enlarged as much during printing,    
 
 180
 00:11:43,237 --> 00:11:46,704
-          so the image          
-     has better resolution.     
+so the image has better resolution.     
 
 181
 00:11:46,706 --> 00:11:48,039
-        at this factory,        
+at this factory,        
 
 182
 00:11:48,041 --> 00:11:50,909
- they mold many of the camera's 
-      parts out of plastic.     
+they mold many of the camera's parts out of plastic.     
 
 183
 00:11:50,911 --> 00:11:53,445
-   they inject liquid plastic   
-           into molds,          
+they inject liquid plastic into molds,          
 
 184
 00:11:53,447 --> 00:11:55,647
- and the parts quickly solidify.
+and the parts quickly solidify.
 
 185
 00:11:55,649 --> 00:11:56,781
-      other parts are made      
+other parts are made      
 
 186
 00:11:56,783 --> 00:12:00,051
-      of laser-cut aluminum     
-      and stainless steel.      
+of laser-cut aluminum and stainless steel.      
 
 187
 00:12:00,053 --> 00:12:02,787
-        the camera maker        
-    assembles the base first,   
+the camera maker assembles the base first,   
 
 188
 00:12:02,789 --> 00:12:06,959
-   attaching rails that slide   
-  back and forth for focusing.  
+attaching rails that slide back and forth for focusing.  
 
 189
 00:12:08,862 --> 00:12:12,130
-      the next parts allow      
-  for swing and shift action -- 
+the next parts allow for swing and shift action -- 
 
 190
 00:12:12,132 --> 00:12:16,200
-  movements that come in handy  
-     when composing a shot.     
+movements that come in handy when composing a shot.     
 
 191
 00:12:16,202 --> 00:12:19,537
-    he attaches the camera's    
-      molded, plastic body      
+he attaches the camera's molded, plastic body      
 
 192
 00:12:19,539 --> 00:12:21,840
@@ -924,188 +782,158 @@ to the swing and shift assembly.
 
 193
 00:12:24,477 --> 00:12:26,945
-       next, he assembles       
-  the front part of the camera, 
+next, he assembles the front part of the camera, 
 
 194
 00:12:26,947 --> 00:12:29,481
-           which holds          
-      the lens and shutter.     
+which holds the lens and shutter.     
 
 195
 00:12:29,483 --> 00:12:31,350
-             it has             
-   a swing and tilt mechanism   
+it has a swing and tilt mechanism   
 
 196
 00:12:31,352 --> 00:12:35,019
-          for changing          
-    a shot's depth of field.    
+for changing a shot's depth of field.    
 
 197
 00:12:35,021 --> 00:12:39,090
-   he slides the lens holder    
-   into place and secures it.   
+he slides the lens holder into place and secures it.   
 
 198
 00:12:39,092 --> 00:12:43,695
-  it can be raised and lowered  
-    when composing the shot.    
+it can be raised and lowered when composing the shot.    
 
 199
 00:12:43,697 --> 00:12:46,097
-    he inserts spirit levels    
-         into the slots         
+he inserts spirit levels into the slots         
 
 200
 00:12:46,099 --> 00:12:48,500
- in the front and rear sections 
-         of the camera.         
+in the front and rear sections of the camera.         
 
 201
 00:12:48,502 --> 00:12:52,971
-    these levels will be used   
- to check the angle of the shot.
+these levels will be used to check the angle of the shot.
 
 202
 00:12:52,973 --> 00:12:55,039
-           moving now           
-     to the focusing screen,    
+moving now to the focusing screen,    
 
 203
 00:12:55,041 --> 00:12:58,376
-   it's made of ground acrylic  
-        to diffuse light.       
+it's made of ground acrylic to diffuse light.       
 
 204
 00:12:58,378 --> 00:13:01,979
-  he protects the acrylic from  
-  scratches with a glass plate  
+he protects the acrylic from scratches with a glass plate  
 
 205
 00:13:01,981 --> 00:13:06,451
-    and secures the assembly    
-   with stainless-steel clips.  
+and secures the assembly with stainless-steel clips.  
 
 206
 00:13:06,453 --> 00:13:08,386
-            he snaps            
-  the completed focusing screen 
+he snaps the completed focusing screen 
 
 207
 00:13:08,388 --> 00:13:11,323
-   to the body of the camera,   
- where it can be easily switched
+to the body of the camera, where it can be easily switched
 
 208
 00:13:11,325 --> 00:13:15,260
-          from portrait         
-     to landscape position.     
+from portrait to landscape position.     
 
 209
 00:13:15,262 --> 00:13:19,765
-  he tests the focus mechanism  
- and confirms it's operational. 
+he tests the focus mechanism and confirms it's operational. 
 
 210
 00:13:21,601 --> 00:13:25,537
-  he now folds and glues fabric 
-  in an accordion configuration 
+he now folds and glues fabric in an accordion configuration 
 
 211
 00:13:25,539 --> 00:13:27,072
-   to create expanding bellows  
+to create expanding bellows  
 
 212
 00:13:27,074 --> 00:13:32,077
-    that will link the front    
-  and rear parts of the camera. 
+that will link the front and rear parts of the camera. 
 
 213
 00:13:32,079 --> 00:13:34,011
-  he applies double-sided tape  
+he applies double-sided tape  
 
 214
 00:13:34,013 --> 00:13:36,848
-      around the inner lip      
-     of the folded bellows.     
+around the inner lip of the folded bellows.     
 
 215
 00:13:41,555 --> 00:13:45,457
 he sticks more double-sided tape
-     onto a plastic frame...    
+onto a plastic frame...    
 
 216
 00:13:49,229 --> 00:13:53,265
-   ...and peels away the tape   
- backing in strategic locations.
+...and peels away the tape backing in strategic locations.
 
 217
 00:13:56,570 --> 00:13:58,837
-      he inserts the frame      
-        into the bellows        
+he inserts the frame into the bellows        
 
 218
 00:13:58,839 --> 00:14:01,439
-          and aligns it         
-  with the taped inner border.  
+and aligns it with the taped inner border.  
 
 219
 00:14:01,441 --> 00:14:04,576
-  he then completely peels off  
-        the taped backing       
+he then completely peels off the taped backing       
 
 220
 00:14:04,578 --> 00:14:08,046
-      and presses the frame     
-   to the bellows' taped rim.   
+and presses the frame to the bellows' taped rim.   
 
 221
 00:14:08,048 --> 00:14:12,984
 this frame adds crucial rigidity
-         to the bellows.        
+to the bellows.        
 
 222
 00:14:12,986 --> 00:14:15,587
-  using more double-sided tape  
-          and adhesive,         
+using more double-sided tape and adhesive,         
 
 223
 00:14:15,589 --> 00:14:17,255
-           he secures           
-     the bellows' accordion     
+he secures the bellows' accordion     
 
 224
 00:14:17,257 --> 00:14:19,758
-     to a larger fabric bag.    
+to a larger fabric bag.    
 
 225
 00:14:21,694 --> 00:14:25,864
- next, he glues plastic flanges 
-   to each end of the bellows.  
+next, he glues plastic flanges to each end of the bellows.  
 
 226
 00:14:25,866 --> 00:14:28,533
 the flanges are connector pieces
-    for attaching the bellows   
+for attaching the bellows   
 
 227
 00:14:28,535 --> 00:14:32,804
- to the front and rear sections 
-         of the camera.         
+to the front and rear sections of the camera.         
 
 228
 00:14:32,806 --> 00:14:35,340
- there are two kinds of bellows.
+there are two kinds of bellows.
 
 229
 00:14:35,342 --> 00:14:36,808
-  the one with the bag attached 
+the one with the bag attached 
 
 230
 00:14:36,810 --> 00:14:40,077
-   is usually used with a lens  
-     of short focal length.     
+is usually used with a lens of short focal length.     
 
 231
 00:14:40,079 --> 00:14:43,415
@@ -1114,55 +942,47 @@ a much longer range of extension
 
 232
 00:14:43,417 --> 00:14:47,218
-  to accommodate a bigger lens. 
+to accommodate a bigger lens. 
 
 233
 00:14:47,220 --> 00:14:49,621
-    he now connects the back    
-   of the camera to the front   
+he now connects the back of the camera to the front   
 
 234
 00:14:49,623 --> 00:14:51,356
-        with the bellows.       
+with the bellows.       
 
 235
 00:14:51,358 --> 00:14:54,292
-    they are a flexible link    
-        between the two.        
+they are a flexible link between the two.        
 
 236
 00:14:54,294 --> 00:14:57,161
-          by expanding          
-   or retracting the bellows,   
+by expanding or retracting the bellows,   
 
 237
 00:14:57,163 --> 00:14:58,897
-        the photographer        
-     can adjust the distance    
+the photographer can adjust the distance    
 
 238
 00:14:58,899 --> 00:15:02,801
-    between the lens and film   
-       to focus the shot.       
+between the lens and film to focus the shot.       
 
 239
 00:15:05,439 --> 00:15:10,107
-  finally, he attaches the lens 
-   to the front of the camera.  
+finally, he attaches the lens to the front of the camera.  
 
 240
 00:15:10,109 --> 00:15:12,844
- it's now ready for a film test.
+it's now ready for a film test.
 
 241
 00:15:12,846 --> 00:15:14,646
-        he loads the film       
-        into the holder.        
+he loads the film into the holder.        
 
 242
 00:15:14,648 --> 00:15:16,848
-     normally, this is done     
-      in complete darkness      
+normally, this is done in complete darkness      
 
 243
 00:15:16,850 --> 00:15:19,050
@@ -1170,121 +990,106 @@ to prevent exposure of the film.
 
 244
 00:15:19,052 --> 00:15:22,053
-   but he's left the lights on  
-         for our camera.        
+but he's left the lights on for our camera.        
 
 245
 00:15:22,055 --> 00:15:25,857
- the film slides into the holder
-      into the camera back.     
+the film slides into the holder
+into the camera back.     
 
 246
 00:15:25,859 --> 00:15:29,527
-   and while film still rules   
-  in large-format photography,  
+and while film still rules in large-format photography,  
 
 247
 00:15:29,529 --> 00:15:31,529
-            there are           
-    now digital camera backs    
+there are now digital camera backs    
 
 248
 00:15:31,531 --> 00:15:34,065
-        for photographers       
-    who want instant results    
+for photographers who want instant results    
 
 249
 00:15:34,067 --> 00:15:37,569
 with traditional focus movements
-     of the bellows camera.     
+of the bellows camera.     
 
 250
 00:15:39,406 --> 00:15:42,207
-   it's all a matter of focus.  
+it's all a matter of focus.  
 
 251
 00:15:59,092 --> 00:16:02,761
 narrator: man has used gemstones
-      since ancient times.      
+since ancient times.      
 
 252
 00:16:02,763 --> 00:16:05,297
-        genuine gemstones       
-       come from nature --      
+genuine gemstones come from nature --      
 
 253
 00:16:05,299 --> 00:16:08,966
-    minerals, rocks, or even    
-   certain organic materials.   
+minerals, rocks, or even certain organic materials.   
 
 254
 00:16:08,968 --> 00:16:10,168
-    shaped, cut, and polished   
+shaped, cut, and polished   
 
 255
 00:16:10,170 --> 00:16:12,170
-    to bring out their colors   
-         and brilliance,        
+to bring out their colors and brilliance,        
 
 256
 00:16:12,172 --> 00:16:15,373
- the rarest ones are classified 
-        as precious gems,       
+the rarest ones are classified as precious gems,       
 
 257
 00:16:15,375 --> 00:16:17,876
-   the others as semiprecious.  
+the others as semiprecious.  
 
 258
 00:16:20,247 --> 00:16:23,114
-     this semiprecious stone    
-      is called blue john.      
+this semiprecious stone is called blue john.      
 
 259
 00:16:23,116 --> 00:16:25,183
-         it's a variety         
-    of the mineral fluorite,    
+it's a variety of the mineral fluorite,    
 
 260
 00:16:25,185 --> 00:16:27,852
-    also known as fluorspar.    
+also known as fluorspar.    
 
 261
 00:16:27,854 --> 00:16:30,721
-     while common fluorspar     
-       is cream or white,       
+while common fluorspar is cream or white,       
 
 262
 00:16:30,723 --> 00:16:33,124
-            blue john           
-   also has magnificent bands   
+blue john also has magnificent bands   
 
 263
 00:16:33,126 --> 00:16:35,727
-  of purple, blue, and yellow.  
+of purple, blue, and yellow.  
 
 264
 00:16:35,729 --> 00:16:38,864
-  there's only one place in the 
- world where blue john is found,
+there's only one place in the world where blue john is found,
 
 265
 00:16:38,866 --> 00:16:41,600
-    and that's in the village   
-    of castleton, derbyshire,   
+and that's in the village of castleton, derbyshire,   
 
 266
 00:16:41,602 --> 00:16:44,669
-       in central england.      
+in central england.      
 
 267
 00:16:44,671 --> 00:16:46,070
-  the stone comes from a cavern 
+the stone comes from a cavern 
 
 268
 00:16:46,072 --> 00:16:51,209
-   located some 55 yards deep   
-         in a hillside.         
+located some 55 yards deep in a hillside.         
 
 269
 00:16:51,211 --> 00:16:53,612
@@ -1292,59 +1097,54 @@ the miners don't use explosives,
 
 270
 00:16:53,614 --> 00:16:56,014
-        because the stone       
-    is quite soft and brittle   
+because the stone is quite soft and brittle   
 
 271
 00:16:56,016 --> 00:16:57,616
-      in its natural state,     
+in its natural state,     
 
 272
 00:16:57,618 --> 00:17:01,286
-          and blasting          
-    would simply shatter it.    
+and blasting would simply shatter it.    
 
 273
 00:17:01,288 --> 00:17:02,954
-    instead, they use drills    
+instead, they use drills    
 
 274
 00:17:02,956 --> 00:17:07,325
-  to carefully dislodge pieces  
+to carefully dislodge pieces  
 of blue john from the rock wall.
 
 275
 00:17:16,235 --> 00:17:19,638
- they carry the blue john to the
- surface to the mine's workshop,
+they carry the blue john to the
+surface to the mine's workshop,
 
 276
 00:17:19,640 --> 00:17:23,574
-     where stone processors     
-   manually wash off the clay.  
+where stone processors manually wash off the clay.  
 
 277
 00:17:23,576 --> 00:17:24,976
-        the stone is wet        
+the stone is wet        
 
 278
 00:17:24,978 --> 00:17:29,047
- due to having been underground 
-   for some 240 million years,  
+due to having been underground for some 240 million years,  
 
 279
 00:17:29,049 --> 00:17:31,583
-   so they put it into an oven  
-         at low heat --         
+so they put it into an oven at low heat --         
 
 280
 00:17:31,585 --> 00:17:34,251
-     176 degrees fahrenheit.    
+176 degrees fahrenheit.    
 
 281
 00:17:34,253 --> 00:17:37,121
- when the stone comes out of the
-  oven a couple of weeks later, 
+when the stone comes out of the
+oven a couple of weeks later, 
 
 282
 00:17:37,123 --> 00:17:40,124
@@ -1352,45 +1152,40 @@ all its moisture has evaporated.
 
 283
 00:17:40,126 --> 00:17:42,928
-    the dried stone, however,   
-        is still brittle,       
+the dried stone, however, is still brittle,       
 
 284
 00:17:42,930 --> 00:17:45,997
-       so they submerge it      
-   in a bowl of liquid resin,   
+so they submerge it in a bowl of liquid resin,   
 
 285
 00:17:45,999 --> 00:17:48,600
-       then place the bowl      
-       into a vacuum oven       
+then place the bowl into a vacuum oven       
 
 286
 00:17:48,602 --> 00:17:51,403
-   at 176 degrees fahrenheit.   
+at 176 degrees fahrenheit.   
 
 287
 00:17:51,405 --> 00:17:53,772
-          this process          
-      draws out all the air     
+this process draws out all the air     
 
 288
 00:17:53,774 --> 00:17:57,142
-      and forces the resin      
-  deep into the stone's pores.  
+and forces the resin deep into the stone's pores.  
 
 289
 00:17:57,144 --> 00:18:01,212
 the stone then goes into another
- oven at 122 degrees fahrenheit 
+oven at 122 degrees fahrenheit 
 
 290
 00:18:01,214 --> 00:18:03,481
-       for about 12 hours.      
+for about 12 hours.      
 
 291
 00:18:03,483 --> 00:18:04,949
-     this hardens the resin,    
+this hardens the resin,    
 
 292
 00:18:04,951 --> 00:18:08,954
@@ -1399,27 +1194,23 @@ can be worked without crumbling.
 
 293
 00:18:08,956 --> 00:18:12,490
-     to create large items,     
-   such as goblets and bowls,   
+to create large items, such as goblets and bowls,   
 
 294
 00:18:12,492 --> 00:18:15,960
-     the workshop's artisans    
-   turn the stone on a lathe.   
+the workshop's artisans turn the stone on a lathe.   
 
 295
 00:18:15,962 --> 00:18:20,031
-  to avoid fracturing it, they  
- must work the blue john slowly 
+to avoid fracturing it, they must work the blue john slowly 
 
 296
 00:18:20,033 --> 00:18:22,033
- and with diamond-tipped tools. 
+and with diamond-tipped tools. 
 
 297
 00:18:22,035 --> 00:18:24,836
-      diamond, being harder     
-      than all other rocks,     
+diamond, being harder than all other rocks,     
 
 298
 00:18:24,838 --> 00:18:27,238
@@ -1427,200 +1218,174 @@ cuts with less force and stress.
 
 299
 00:18:27,240 --> 00:18:29,373
-    to supply jewelry makers,   
+to supply jewelry makers,   
 
 300
 00:18:29,375 --> 00:18:32,309
-        the mine workshop       
-     saws stones into slices    
+the mine workshop saws stones into slices    
 
 301
 00:18:32,311 --> 00:18:34,812
-   using a diamond-edged saw.   
+using a diamond-edged saw.   
 
 302
 00:18:34,814 --> 00:18:36,447
-    at the jewelry workshop,    
+at the jewelry workshop,    
 
 303
 00:18:36,449 --> 00:18:39,718
 a gemologist examines the slices
-         on a light box         
+on a light box         
 
 304
 00:18:39,720 --> 00:18:42,854
-    to highlight the coloring   
-         and any flaws.         
+to highlight the coloring and any flaws.         
 
 305
 00:18:42,856 --> 00:18:45,190
-      this helps determine      
-    which parts of the slice    
+this helps determine which parts of the slice    
 
 306
 00:18:45,192 --> 00:18:48,593
-           will yield           
-  the most striking gemstones.  
+will yield the most striking gemstones.  
 
 307
 00:18:48,595 --> 00:18:51,396
-   meanwhile, in another part   
-        of the workshop,        
+meanwhile, in another part of the workshop,        
 
 308
 00:18:51,398 --> 00:18:53,531
-      a silversmith crafts      
-     the piece of jewelry --    
+a silversmith crafts the piece of jewelry --    
 
 309
 00:18:53,533 --> 00:18:56,134
-          in this case,         
-     a sterling-silver ring     
+in this case, a sterling-silver ring     
 
 310
 00:18:56,136 --> 00:19:00,205
-       which will receive       
-     the blue john gemstone.    
+which will receive the blue john gemstone.    
 
 311
 00:19:00,207 --> 00:19:04,142
 she bends, then solders together
-  the ends of the ring's shank, 
+the ends of the ring's shank, 
 
 312
 00:19:04,144 --> 00:19:06,745
-            the part            
-   that encircles the finger.   
+the part that encircles the finger.   
 
 313
 00:19:06,747 --> 00:19:09,347
-         after grinding         
-      the solder seam flat,     
+after grinding the solder seam flat,     
 
 314
 00:19:09,349 --> 00:19:12,216
- she fuses the top of the ring, 
-       called the setting,      
+she fuses the top of the ring, called the setting,      
 
 315
 00:19:12,218 --> 00:19:15,220
-         onto the shank.        
+onto the shank.        
 
 316
 00:19:15,222 --> 00:19:19,090
- then she polishes the ring and 
- passes it onto the gemologist, 
+then she polishes the ring and passes it onto the gemologist, 
 
 317
 00:19:19,092 --> 00:19:20,357
- who takes a slice of blue john 
+who takes a slice of blue john 
 
 318
 00:19:20,359 --> 00:19:23,494
-            and, with           
-  a diamond-edged lapidary saw, 
+and, with a diamond-edged lapidary saw, 
 
 319
 00:19:23,496 --> 00:19:25,696
- cuts out the gemstone's shape, 
+cuts out the gemstone's shape, 
 
 320
 00:19:25,698 --> 00:19:29,901
-    making it slightly larger   
-        than the setting.       
+making it slightly larger than the setting.       
 
 321
 00:19:29,903 --> 00:19:33,772
-  next, she glues on a backing  
-    cut from mother-of-pearl.   
+next, she glues on a backing cut from mother-of-pearl.   
 
 322
 00:19:33,774 --> 00:19:35,106
-    just like the white light   
+just like the white light   
 
 323
 00:19:35,108 --> 00:19:37,909
-     on which the gemologist    
- examined the blue john slices, 
+on which the gemologist examined the blue john slices, 
 
 324
 00:19:37,911 --> 00:19:39,644
-  this mother-of-pearl backing  
+this mother-of-pearl backing  
 
 325
 00:19:39,646 --> 00:19:42,113
-      highlights the colors     
-          in the stone.         
+highlights the colors in the stone.         
 
 326
 00:19:45,452 --> 00:19:48,720
-           now, using           
- a diamond-grit grinding wheel, 
+now, using a diamond-grit grinding wheel, 
 
 327
 00:19:48,722 --> 00:19:51,723
-      she shapes the stone      
+she shapes the stone      
 to perfectly fit in the setting.
 
 328
 00:20:01,467 --> 00:20:03,935
- she applies glue to the setting
+she applies glue to the setting
 
 329
 00:20:03,937 --> 00:20:06,838
-      and fits the gemstone     
-         snugly inside.         
+and fits the gemstone snugly inside.         
 
 330
 00:20:11,878 --> 00:20:13,545
-      once the glue dries,      
+once the glue dries,      
 
 331
 00:20:13,547 --> 00:20:17,615
- she uses a diamond-grit sanding
- belt to smooth down the edges, 
+she uses a diamond-grit sanding
+belt to smooth down the edges, 
 
 332
 00:20:17,617 --> 00:20:21,720
 gradually transforming the rough
-     oval into a sleek dome.    
+oval into a sleek dome.    
 
 333
 00:20:24,090 --> 00:20:27,092
-         this gem shape         
-     is known as a cabochon.    
+this gem shape is known as a cabochon.    
 
 334
 00:20:32,899 --> 00:20:36,300
-      finally, she polishes     
-    the entire ring's surface   
+finally, she polishes the entire ring's surface   
 
 335
 00:20:36,302 --> 00:20:39,904
-      until the silver and      
- richly hued blue john glisten. 
+until the silver and richly hued blue john glisten. 
 
 336
 00:20:41,708 --> 00:20:46,311
-  whether it's one of several,  
- the shape funky or traditional,
+whether it's one of several, the shape funky or traditional,
 
 337
 00:20:46,313 --> 00:20:50,915
-      a gemstone sure makes     
-    a piece of jewelry rock.    
+a gemstone sure makes a piece of jewelry rock.    
 
 338
 00:21:00,860 --> 00:21:03,194
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 339
 00:21:03,196 --> 00:21:05,930
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 340
 00:21:05,932 --> 00:21:08,266
-      drop us a line at...      
+drop us a line at...      
 

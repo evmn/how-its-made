@@ -1,123 +1,104 @@
 ﻿1
 00:00:52,787 --> 00:00:57,056
-           narrator:            
- when it comes to construction, 
+narrator: when it comes to construction, 
 
 2
 00:00:57,058 --> 00:01:00,059
- whether you're a seasoned pro  
-    or a do-it-yourselfer,      
+whether you're a seasoned pro or a do-it-yourselfer,      
 
 3
 00:01:00,061 --> 00:01:03,930
-     having the right tools     
-     makes the job easier.      
+having the right tools makes the job easier.      
 
 4
 00:01:03,932 --> 00:01:06,732
-  sawhorses support the piece   
-    of wood you're cutting,     
+sawhorses support the piece of wood you're cutting,     
 
 5
 00:01:06,734 --> 00:01:09,068
-      and a toolbox keeps       
-        your implements         
+and a toolbox keeps your implements         
 
 6
 00:01:09,070 --> 00:01:10,236
-    organized and portable.     
+organized and portable.     
 
 7
 00:01:13,674 --> 00:01:15,874
-   sawhorses are always sold    
-           in pairs             
+sawhorses are always sold in pairs             
 
 8
 00:01:15,876 --> 00:01:18,611
-      because you need two      
-     under a piece of wood      
+because you need two under a piece of wood      
 
 9
 00:01:18,613 --> 00:01:20,413
- to stabilize it for cutting.   
+to stabilize it for cutting.   
 
 10
 00:01:20,415 --> 00:01:22,615
-           by pulling           
-    the hinged tray upward,     
+by pulling the hinged tray upward,     
 
 11
 00:01:22,617 --> 00:01:25,952
-  the sawhorse collapses flat   
-  for transport and storage.    
+the sawhorse collapses flat for transport and storage.    
 
 12
 00:01:25,954 --> 00:01:28,888
-     this model is made from    
-            pellets             
+this model is made from pellets             
 
 13
 00:01:28,890 --> 00:01:31,557
-   of an exceptionally strong   
+of an exceptionally strong   
 type of polypropylene plastic.  
 
 14
 00:01:31,559 --> 00:01:34,093
-        a vacuum system         
-    draws the pellets into      
+a vacuum system draws the pellets into      
 
 15
 00:01:34,095 --> 00:01:37,763
- an injection-molding machine.  
+an injection-molding machine.  
 
 16
 00:01:37,765 --> 00:01:40,232
-    the machine melts them      
+the machine melts them      
 
 17
 00:01:40,234 --> 00:01:44,236
-     then shoots the liquid     
-         into a mold.           
+then shoots the liquid into a mold.           
 
 18
 00:01:44,238 --> 00:01:47,172
-    it takes about a minute     
-  for the liquid to solidify,   
+it takes about a minute for the liquid to solidify,   
 
 19
 00:01:47,174 --> 00:01:49,709
-         at which point         
- the mold automatically opens,  
+at which point the mold automatically opens,  
 
 20
 00:01:49,711 --> 00:01:54,046
- and an articulated robotic arm 
-     removes the parts --       
+and an articulated robotic arm removes the parts --       
 
 21
 00:01:54,048 --> 00:01:58,650
- for each sawhorse, two halves, 
-   the legs, and two panels     
+for each sawhorse, two halves, the legs, and two panels     
 
 22
 00:01:58,652 --> 00:02:01,453
-           which form           
-  the collapsible hinged tray   
+which form the collapsible hinged tray   
 
 23
 00:02:01,455 --> 00:02:04,323
-  that holds those legs open.   
+that holds those legs open.   
 
 24
 00:02:04,325 --> 00:02:09,195
-  the robot drops those parts   
+the robot drops those parts   
 at the first assembly station,  
 
 25
 00:02:09,197 --> 00:02:12,865
-    where a worker joins each   
-              panel             
-      to a sawhorse half        
+where a worker joins each panel to a sawhorse half        
 
 26
 00:02:12,867 --> 00:02:15,468
@@ -125,41 +106,36 @@ and applies non-slip footpads.
 
 27
 00:02:15,470 --> 00:02:19,004
-        these pads help         
-   keep the sawhorse stable     
+these pads help keep the sawhorse stable     
 
 28
 00:02:19,006 --> 00:02:21,339
-     and protect the floor      
-        from scratches.         
+and protect the floor from scratches.         
 
 29
 00:02:21,341 --> 00:02:25,343
- the worker lays out the parts  
+the worker lays out the parts  
 for both sides of the sawhorse  
 
 30
 00:02:25,345 --> 00:02:26,812
-   in a positioning fixture     
+in a positioning fixture     
 
 31
 00:02:26,814 --> 00:02:29,882
-    then activates the press    
-       a couple of times        
+then activates the press a couple of times        
 
 32
 00:02:29,884 --> 00:02:31,584
-  to snap the parts together.   
+to snap the parts together.   
 
 33
 00:02:34,222 --> 00:02:38,357
- at the next station, a worker  
-  inserts ribbed rubber pads    
+at the next station, a worker inserts ribbed rubber pads    
 
 34
 00:02:38,359 --> 00:02:42,094
-       into molded holes        
- on top of each sawhorse half.  
+into molded holes on top of each sawhorse half.  
 
 35
 00:02:42,096 --> 00:02:43,629
@@ -167,18 +143,15 @@ these anti-slip pads help hold
 
 36
 00:02:43,631 --> 00:02:46,465
-  large pieces of wood steady   
-       on the sawhorse.         
+large pieces of wood steady on the sawhorse.         
 
 37
 00:02:48,836 --> 00:02:51,771
-  next, he lays both sawhorse   
-   halves on the work table     
+next, he lays both sawhorse halves on the work table     
 
 38
 00:02:51,773 --> 00:02:54,173
-        and with a tool         
-    called a stamping arm,      
+and with a tool called a stamping arm,      
 
 39
 00:02:54,175 --> 00:02:56,042
@@ -186,55 +159,47 @@ snaps the two panels together.
 
 40
 00:02:56,044 --> 00:02:58,310
-  this forms a strong hinge,    
+this forms a strong hinge,    
 
 41
 00:02:58,312 --> 00:03:01,847
-   which opens and collapses    
-           the tray.            
+which opens and collapses the tray.            
 
 42
 00:03:01,849 --> 00:03:04,583
- the sawhorse is now finished   
+the sawhorse is now finished   
 
 43
 00:03:04,585 --> 00:03:06,919
-           and heads            
-   to the packaging station.    
+and heads to the packaging station.    
 
 44
 00:03:06,921 --> 00:03:08,854
-     there, a worker stacks     
-        two sawhorses,          
+there, a worker stacks two sawhorses,          
 
 45
 00:03:08,856 --> 00:03:12,058
-    then, with a foot pedal,    
-      activates a machine       
+then, with a foot pedal, activates a machine       
 
 46
 00:03:12,060 --> 00:03:14,493
-        which binds them        
-     with a plastic strap.      
+which binds them with a plastic strap.      
 
 47
 00:03:16,597 --> 00:03:19,799
-       then she tapes on        
-     a wrap-around label.       
+then she tapes on a wrap-around label.       
 
 48
 00:03:28,809 --> 00:03:32,111
-   have tools, will travel.     
+have tools, will travel.     
 
 49
 00:03:34,415 --> 00:03:35,815
-    this two-piece toolbox      
+this two-piece toolbox      
 
 50
 00:03:35,817 --> 00:03:39,084
-   consists of a large storage  
-               tub              
-         on the bottom          
+consists of a large storage tub on the bottom          
 
 51
 00:03:39,086 --> 00:03:41,320
@@ -242,145 +207,122 @@ and a spacious toolbox on top.
 
 52
 00:03:44,625 --> 00:03:47,226
-   like a rolling suitcase,     
+like a rolling suitcase,     
 
 53
 00:03:47,228 --> 00:03:50,696
-        it has two large        
-     polypropylene wheels       
+it has two large polypropylene wheels       
 
 54
 00:03:50,698 --> 00:03:55,101
-  with molded-on rubber treads  
+with molded-on rubber treads  
 and a collapsible pull handle.  
 
 55
 00:03:57,305 --> 00:04:00,306
-       a toolbox doesn't        
-  have to withstand pressure    
+a toolbox doesn't have to withstand pressure    
 
 56
 00:04:00,308 --> 00:04:03,509
-      bearing down on it,       
-   so it's made of standard,    
+bearing down on it, so it's made of standard,    
 
 57
 00:04:03,511 --> 00:04:05,978
-   rather than high-strength,   
-        polypropylene.          
+rather than high-strength, polypropylene.          
 
 58
 00:04:05,980 --> 00:04:10,349
- the injection-molding process  
-         is the same.           
+the injection-molding process is the same.           
 
 59
 00:04:13,855 --> 00:04:16,922
-        the storage tub,        
-      the toolbox bottom,       
+the storage tub, the toolbox bottom,       
 
 60
 00:04:16,924 --> 00:04:20,860
-      and the toolbox lid       
-  are each molded separately.   
+and the toolbox lid are each molded separately.   
 
 61
 00:04:24,531 --> 00:04:26,999
-     in the assembly area,      
+in the assembly area,      
 
 62
 00:04:27,001 --> 00:04:30,870
-    workers apply an adhesive   
-              label             
-  on the front of the toolbox   
+workers apply an adhesive label on the front of the toolbox   
 
 63
 00:04:30,872 --> 00:04:36,274
-    then install the latches    
-     for locking the lid.       
+then install the latches for locking the lid.       
 
 64
 00:04:36,276 --> 00:04:40,212
-          the latches           
-   slide into molded slots.     
+the latches slide into molded slots.     
 
 65
 00:04:42,616 --> 00:04:44,950
-        after inserting         
-       a removable tray,        
+after inserting a removable tray,        
 
 66
 00:04:44,952 --> 00:04:46,685
-    workers install the lid     
+workers install the lid     
 
 67
 00:04:46,687 --> 00:04:50,022
-     with a few strikes of      
+with a few strikes of      
 a non-marring urethane hammer.  
 
 68
 00:04:50,024 --> 00:04:53,491
-      both lid and latches      
-        snap in easily          
+both lid and latches snap in easily          
 
 69
 00:04:53,493 --> 00:04:57,029
-   because the polypropylene    
-  is still hot and flexible.    
+because the polypropylene is still hot and flexible.    
 
 70
 00:04:57,031 --> 00:04:59,231
-    once it cools and becomes   
-             rigid,             
+once it cools and becomes rigid,             
 
 71
 00:04:59,233 --> 00:05:01,766
-      the lid and latches       
-        can't dislodge.         
+the lid and latches can't dislodge.         
 
 72
 00:05:01,768 --> 00:05:04,569
-    to assemble each wheel,     
+to assemble each wheel,     
 
 73
 00:05:04,571 --> 00:05:08,974
-  workers position a star nut   
+workers position a star nut   
 and steel axle into the wheel,  
 
 74
 00:05:08,976 --> 00:05:11,109
-  then, with an assembly ram,   
+then, with an assembly ram,   
 
 75
 00:05:11,111 --> 00:05:15,047
-  press the axle into the star  
-               nut              
-  to lock the parts together.   
+press the axle into the star nut to lock the parts together.   
 
 76
 00:05:15,049 --> 00:05:17,049
-   they snap a wheel onto each  
-              side              
+they snap a wheel onto each side              
 
 77
 00:05:17,051 --> 00:05:20,786
-       of the tub portion       
-        of the toolbox,         
+of the tub portion of the toolbox,         
 
 78
 00:05:20,788 --> 00:05:24,790
-      then, with a press,       
-       force the wheels         
+then, with a press, force the wheels         
 
 79
 00:05:24,792 --> 00:05:26,759
-        into their final        
-       locked position.         
+into their final locked position.         
 
 80
 00:05:29,129 --> 00:05:31,663
-        once the toolbox        
-       and tub portions         
+once the toolbox and tub portions         
 
 81
 00:05:31,665 --> 00:05:33,933
@@ -388,87 +330,71 @@ are each separately assembled,
 
 82
 00:05:33,935 --> 00:05:37,802
-   workers hang a parts tray    
-     on the rim of the tub      
+workers hang a parts tray on the rim of the tub      
 
 83
 00:05:37,804 --> 00:05:40,338
-   then sit the toolbox on the  
-              tray              
+then sit the toolbox on the tray              
 
 84
 00:05:40,340 --> 00:05:44,210
-      and lock it in place      
-  with two large side hinges.   
+and lock it in place with two large side hinges.   
 
 85
 00:05:44,212 --> 00:05:49,949
-       and that completes       
-          construction          
-  of this workshop on wheels.   
+and that completes construction of this workshop on wheels.   
 
 86
 00:06:05,232 --> 00:06:08,500
-    narrator: traditionally,    
-  sorbets have been dished up   
+narrator: traditionally, sorbets have been dished up   
 
 87
 00:06:08,502 --> 00:06:10,636
-        between courses         
-    to refresh the palate,      
+between courses to refresh the palate,      
 
 88
 00:06:10,638 --> 00:06:12,637
-   but served in a squeezed-up  
-              pop,              
+but served in a squeezed-up pop,              
 
 89
 00:06:12,639 --> 00:06:15,908
-    a sorbet becomes a snack    
-    you can grab anytime --     
+a sorbet becomes a snack you can grab anytime --     
 
 90
 00:06:15,910 --> 00:06:18,109
-  no need for scoops, spoons,   
-          or dishes.            
+no need for scoops, spoons, or dishes.            
 
 91
 00:06:18,111 --> 00:06:21,113
-    just squeeze the sorbet     
-   out of the paper sleeve.     
+just squeeze the sorbet out of the paper sleeve.     
 
 92
 00:06:21,115 --> 00:06:22,414
-    now that's refreshing.      
+now that's refreshing.      
 
 93
 00:06:25,920 --> 00:06:30,589
-  a long favorite of foodies,   
-      fruit sorbet has gone     
-           mainstream           
+a long favorite of foodies, fruit sorbet has gone mainstream           
 
 94
 00:06:30,591 --> 00:06:32,791
-  with these squeeze-up pops.   
+with these squeeze-up pops.   
 
 95
 00:06:32,793 --> 00:06:35,527
-            more fun            
- than a few scoops in a dish,   
+more fun than a few scoops in a dish,   
 
 96
 00:06:35,529 --> 00:06:38,464
-      sorbet pops are also      
-       lower in calories        
+sorbet pops are also lower in calories        
 
 97
 00:06:38,466 --> 00:06:40,799
-  than a lot of other snacks.   
+than a lot of other snacks.   
 
 98
 00:06:40,801 --> 00:06:44,670
-           they start           
- with freeze-dried rice syrup.  
+they start with freeze-dried rice syrup.  
 
 99
 00:06:44,672 --> 00:06:46,472
@@ -476,300 +402,249 @@ they pour it into a mixing vat
 
 100
 00:06:46,474 --> 00:06:48,807
-     that's a mega version      
-      of a home blender.        
+that's a mega version of a home blender.        
 
 101
 00:06:48,809 --> 00:06:51,343
-  they add strawberry puree.    
+they add strawberry puree.    
 
 102
 00:06:51,345 --> 00:06:55,880
-  this is the main ingredient   
-      of the sorbet pops.       
+this is the main ingredient of the sorbet pops.       
 
 103
 00:06:55,882 --> 00:07:01,086
-    the berries were pulped     
-  within 12 hours of harvest.   
+the berries were pulped within 12 hours of harvest.   
 
 104
 00:07:01,088 --> 00:07:04,690
-      the next ingredient       
-        is cane sugar.          
+the next ingredient is cane sugar.          
 
 105
 00:07:04,692 --> 00:07:08,827
-         it's followed          
-   by strawberry essence --     
+it's followed by strawberry essence --     
 
 106
 00:07:08,829 --> 00:07:11,030
-      compounds extracted       
-       from the berries         
+compounds extracted from the berries         
 
 107
 00:07:11,032 --> 00:07:12,430
-   for more intense flavor.     
+for more intense flavor.     
 
 108
 00:07:12,432 --> 00:07:15,701
-      they turn on the tap      
-  for the final ingredient --   
+they turn on the tap for the final ingredient --   
 
 109
 00:07:15,703 --> 00:07:17,169
-            water.              
+water.              
 
 110
 00:07:17,171 --> 00:07:19,171
-  it's time to close the lid    
+it's time to close the lid    
 
 111
 00:07:19,173 --> 00:07:21,840
-          and power up          
-   this industrial blender.     
+and power up this industrial blender.     
 
 112
 00:07:21,842 --> 00:07:27,112
-   the mixer has four blades    
- that turn at a high velocity.  
+the mixer has four blades that turn at a high velocity.  
 
 113
 00:07:27,114 --> 00:07:29,581
-          they whip up          
-    the sorbet ingredients      
+they whip up the sorbet ingredients      
 
 114
 00:07:29,583 --> 00:07:31,750
-       to the consistency       
-     of a fruit smoothie.       
+to the consistency of a fruit smoothie.       
 
 115
 00:07:33,854 --> 00:07:37,456
- the sorbet mixture then flows  
-    into refrigerated pipes     
+the sorbet mixture then flows into refrigerated pipes     
 
 116
 00:07:37,458 --> 00:07:40,792
-     that chill the mixture     
-   to 40 degrees fahrenheit.    
+that chill the mixture to 40 degrees fahrenheit.    
 
 117
 00:07:40,794 --> 00:07:43,595
-           the pipes            
-    wind around the factory     
+the pipes wind around the factory     
 
 118
 00:07:43,597 --> 00:07:46,265
-     and finally deliver it     
-       to holding tanks.        
+and finally deliver it to holding tanks.        
 
 119
 00:07:46,267 --> 00:07:49,868
-      inside, an agitator       
-  swirls the chilled mixture    
+inside, an agitator swirls the chilled mixture    
 
 120
 00:07:49,870 --> 00:07:53,338
-          to maintain           
+to maintain           
 the smoothie-like consistency.  
 
 121
 00:07:53,340 --> 00:07:57,076
-      once a tank is full,      
+once a tank is full,      
 a technician tests the acidity  
 
 122
 00:07:57,078 --> 00:08:01,080
-   and the level of suspended   
-    sugars in the mixture.      
+and the level of suspended sugars in the mixture.      
 
 123
 00:08:01,082 --> 00:08:03,215
-   if the levels are right,     
+if the levels are right,     
 
 124
 00:08:03,217 --> 00:08:06,752
-   they transfer the mixture    
-  into a continuous freezer.    
+they transfer the mixture into a continuous freezer.    
 
 125
 00:08:08,889 --> 00:08:11,557
-          it pumps air          
-     into the sorbet mix,       
+it pumps air into the sorbet mix,       
 
 126
 00:08:11,559 --> 00:08:13,759
-  and it churns and scraps it   
+and it churns and scraps it   
 
 127
 00:08:13,761 --> 00:08:17,296
-    against the freezing-cold   
-              walls             
-        of the machine.         
+against the freezing-cold walls of the machine.         
 
 128
 00:08:17,298 --> 00:08:19,964
-           cool water           
-    runs through the motor      
+cool water runs through the motor      
 
 129
 00:08:19,966 --> 00:08:23,101
-  to keep it from overheating   
-   as it freezes the sorbet.    
+to keep it from overheating as it freezes the sorbet.    
 
 130
 00:08:23,103 --> 00:08:26,838
-     this is only a partial     
-            freezing            
-      to keep the sorbet        
+this is only a partial freezing to keep the sorbet        
 
 131
 00:08:26,840 --> 00:08:31,110
-    soft enough to be pumped    
- into the paper squeeze tubes.  
+soft enough to be pumped into the paper squeeze tubes.  
 
 132
 00:08:31,112 --> 00:08:33,979
-            a device            
-  with little robotic fingers   
+a device with little robotic fingers   
 
 133
 00:08:33,981 --> 00:08:37,049
-     pries the papers tubes     
-         from a stack           
+pries the papers tubes from a stack           
 
 134
 00:08:37,051 --> 00:08:40,519
-       and deposits them        
-  in slots in a moving tray.    
+and deposits them in slots in a moving tray.    
 
 135
 00:08:40,521 --> 00:08:43,922
-           the tubes            
-  are in position to receive    
+the tubes are in position to receive    
 
 136
 00:08:43,924 --> 00:08:46,058
- the partially frozen sorbet,   
+the partially frozen sorbet,   
 
 137
 00:08:46,060 --> 00:08:49,528
-     and because the sorbet     
-   is only partially frozen,    
+and because the sorbet is only partially frozen,    
 
 138
 00:08:49,530 --> 00:08:51,997
-     it is able to now flow     
-       through conduits.        
+it is able to now flow through conduits.        
 
 139
 00:08:51,999 --> 00:08:54,599
-         frozen solid,          
- it couldn't make the journey   
+frozen solid, it couldn't make the journey   
 
 140
 00:08:54,601 --> 00:08:56,068
-     to the squeeze tubes.      
+to the squeeze tubes.      
 
 141
 00:08:56,070 --> 00:09:00,004
-    as the sorbet is pumped     
-    into the paper sleeves,     
+as the sorbet is pumped into the paper sleeves,     
 
 142
 00:09:00,006 --> 00:09:02,340
- its temperature is critical.   
+its temperature is critical.   
 
 143
 00:09:02,342 --> 00:09:06,345
-        it is precisely         
-   37.8 degrees fahrenheit.     
+it is precisely 37.8 degrees fahrenheit.     
 
 144
 00:09:06,347 --> 00:09:08,414
-       one degree cooler        
+one degree cooler        
 
 145
 00:09:08,416 --> 00:09:09,881
-   and it would be too thick    
-           to pump.             
+and it would be too thick to pump.             
 
 146
 00:09:09,883 --> 00:09:12,084
-        a degree warmer,        
-  and ice crystals would form   
+a degree warmer, and ice crystals would form   
 
 147
 00:09:12,086 --> 00:09:15,287
-  during the final freezing.    
+during the final freezing.    
 
 148
 00:09:15,289 --> 00:09:18,424
-        the next machine        
-    collects foil lids from a   
-             pack,              
+the next machine collects foil lids from a pack,              
 
 149
 00:09:18,426 --> 00:09:22,026
-       using rubber heads       
-    with tiny magnets in the    
-            center.             
+using rubber heads with tiny magnets in the center.             
 
 150
 00:09:22,028 --> 00:09:26,631
-      it deposits the lids      
- onto the sorbet-filled tubes.  
+it deposits the lids onto the sorbet-filled tubes.  
 
 151
 00:09:26,633 --> 00:09:30,769
-      the foil lids stick       
-   to the glue-coated rims.     
+the foil lids stick to the glue-coated rims.     
 
 152
 00:09:33,173 --> 00:09:36,108
-        this line fills         
-       280 paper sleeves        
+this line fills 280 paper sleeves        
 
 153
 00:09:36,110 --> 00:09:38,710
- with fruit sorbet per minute.  
+with fruit sorbet per minute.  
 
 154
 00:09:38,712 --> 00:09:43,115
-       that's just under        
-       17,000 per hour.         
+that's just under 17,000 per hour.         
 
 155
 00:09:43,117 --> 00:09:47,719
-   an iron applies heat to the  
-              lids              
-   to further melt the glue     
+an iron applies heat to the lids to further melt the glue     
 
 156
 00:09:47,721 --> 00:09:50,455
-    and provide a water-tight   
-             seal.              
+and provide a water-tight seal.              
 
 157
 00:09:50,457 --> 00:09:51,990
-        it happens fast         
+it happens fast         
 
 158
 00:09:51,992 --> 00:09:55,794
-   so the sorbet doesn't have   
-              time              
-       to start melting.        
+so the sorbet doesn't have time to start melting.        
 
 159
 00:09:57,998 --> 00:10:00,132
- sealed and partially frozen,   
+sealed and partially frozen,   
 
 160
 00:10:00,134 --> 00:10:03,468
-        the sorbet pops         
-     cascade into crates.       
+the sorbet pops cascade into crates.       
 
 161
 00:10:03,470 --> 00:10:05,737
@@ -777,160 +652,131 @@ each one holds about 100 pops,
 
 162
 00:10:05,739 --> 00:10:07,739
-       so they don't need       
-        to keep count.          
+so they don't need to keep count.          
 
 163
 00:10:09,676 --> 00:10:11,810
-       and then it's into       
-      the blast freezer,        
+and then it's into the blast freezer,        
 
 164
 00:10:11,812 --> 00:10:14,913
-     also know as the shock     
-            freezer.            
+also know as the shock freezer.            
 
 165
 00:10:16,950 --> 00:10:18,817
-  fans circulate the cold air   
+fans circulate the cold air   
 
 166
 00:10:18,819 --> 00:10:22,420
-      to rapidly lower the      
-           temperature          
-      of the sorbet pops,       
+to rapidly lower the temperature of the sorbet pops,       
 
 167
 00:10:22,422 --> 00:10:25,757
-        bringing it down        
-  to -24 degrees fahrenheit.    
+bringing it down to -24 degrees fahrenheit.    
 
 168
 00:10:25,759 --> 00:10:27,359
-  this fast freezing prevents   
+this fast freezing prevents   
 
 169
 00:10:27,361 --> 00:10:29,961
-         the formation          
-     of large ice crystals      
+the formation of large ice crystals      
 
 170
 00:10:29,963 --> 00:10:31,363
-       that would damage        
+that would damage        
 
 171
 00:10:31,365 --> 00:10:33,599
-   the consistency and flavor   
-      of the sorbet pops.       
+the consistency and flavor of the sorbet pops.       
 
 172
 00:10:37,037 --> 00:10:38,570
-      out of the freezer,       
+out of the freezer,       
 
 173
 00:10:38,572 --> 00:10:42,541
-   a mechanized arm grabs and   
-              opens             
-       cardboard boxes.         
+a mechanized arm grabs and opens cardboard boxes.         
 
 174
 00:10:45,846 --> 00:10:50,382
-   a pusher shoves the sorbet   
-              pops              
-        into the boxes.         
+a pusher shoves the sorbet pops into the boxes.         
 
 175
 00:10:50,384 --> 00:10:54,520
-       and they're ready        
-     to grab and squeeze.       
+and they're ready to grab and squeeze.       
 
 176
 00:11:14,275 --> 00:11:18,277
-           narrator:            
-   the big yellow school bus    
+narrator: the big yellow school bus    
 
 177
 00:11:18,279 --> 00:11:19,878
- on the road to an education.   
+on the road to an education.   
 
 178
 00:11:19,880 --> 00:11:22,214
-         it all started         
-      in the 19th century       
+it all started in the 19th century       
 
 179
 00:11:22,216 --> 00:11:25,017
-    with horse-drawn trucks     
-      known as kid hacks.       
+with horse-drawn trucks known as kid hacks.       
 
 180
 00:11:25,019 --> 00:11:27,819
-   the word "hack" was short    
-     for hackney carriage.      
+the word "hack" was short for hackney carriage.      
 
 181
 00:11:27,821 --> 00:11:30,355
-      in the 20th century,      
-      they were motorized       
+in the 20th century, they were motorized       
 
 182
 00:11:30,357 --> 00:11:32,824
-        and became known        
-       as school buses.         
+and became known as school buses.         
 
 183
 00:11:36,230 --> 00:11:37,762
-       every school day,        
+every school day,        
 
 184
 00:11:37,764 --> 00:11:41,232
- children across north america  
-   wait for the school bus.     
+children across north america wait for the school bus.     
 
 185
 00:11:41,234 --> 00:11:43,835
-        appearance-wise,        
-      it's hard to miss.        
+appearance-wise, it's hard to miss.        
 
 186
 00:11:43,837 --> 00:11:47,172
-        big and yellow,         
-       it is deliberately       
-          conspicuous,          
+big and yellow, it is deliberately conspicuous,          
 
 187
 00:11:47,174 --> 00:11:49,374
-    designed to stand out in    
-            traffic             
+designed to stand out in traffic             
 
 188
 00:11:49,376 --> 00:11:52,511
-        so other drivers        
-  slow down and take notice.    
+so other drivers slow down and take notice.    
 
 189
 00:11:55,115 --> 00:11:59,317
-      manufacturing starts      
-  with a support structure --   
+manufacturing starts with a support structure --   
 
 190
 00:11:59,319 --> 00:12:01,320
-     the steel underframe.      
+the steel underframe.      
 
 191
 00:12:01,322 --> 00:12:03,789
-   they arrange several short   
-             rails              
+they arrange several short rails              
 
 192
 00:12:03,791 --> 00:12:06,991
-          down the top          
-   of two long frame rails.     
+down the top of two long frame rails.     
 
 193
 00:12:06,993 --> 00:12:10,462
-       these cross rails        
-   will link the long rails     
+these cross rails will link the long rails     
 
 194
 00:12:10,464 --> 00:12:12,864
@@ -938,333 +784,275 @@ and provide strategic support.
 
 195
 00:12:12,866 --> 00:12:15,667
-        using the lift,         
-  they raise the long rails,    
+using the lift, they raise the long rails,    
 
 196
 00:12:15,669 --> 00:12:18,337
-      and the cross rails       
-      slide into position       
+and the cross rails slide into position       
 
 197
 00:12:18,339 --> 00:12:21,206
-      just under the rims       
-       of the long ones.        
+just under the rims of the long ones.        
 
 198
 00:12:21,208 --> 00:12:24,676
-       now, in a fixture        
- that pins the rails together,  
+now, in a fixture that pins the rails together,  
 
 199
 00:12:24,678 --> 00:12:26,811
-  workers bolt them together.   
+workers bolt them together.   
 
 200
 00:12:26,813 --> 00:12:32,017
- with the school-bus underframe 
-    assembled, they roll in     
+with the school-bus underframe assembled, they roll in     
 
 201
 00:12:32,019 --> 00:12:36,355
-    two enormous wheel axles    
-     complete with brakes.      
+two enormous wheel axles complete with brakes.      
 
 202
 00:12:36,357 --> 00:12:39,357
-        overhead cables         
-      lift the bus frame        
+overhead cables lift the bus frame        
 
 203
 00:12:39,359 --> 00:12:42,894
-    and workers guide it into   
-              place             
-         on the axles.          
+and workers guide it into place on the axles.          
 
 204
 00:12:50,103 --> 00:12:52,503
-     they attach the axles      
-         to the frame           
+they attach the axles to the frame           
 
 205
 00:12:52,505 --> 00:12:57,842
- with metal brackets, shackles, 
-   and spacers where needed.    
+with metal brackets, shackles, and spacers where needed.    
 
 206
 00:12:57,844 --> 00:13:00,979
-      the chassis is ready      
-        for the engine.         
+the chassis is ready for the engine.         
 
 207
 00:13:00,981 --> 00:13:04,649
-         they lower it          
-  onto the front of the frame   
+they lower it onto the front of the frame   
 
 208
 00:13:04,651 --> 00:13:06,852
-   and secure it with bolts.    
+and secure it with bolts.    
 
 209
 00:13:06,854 --> 00:13:10,588
-     the school-bus engine      
-     packs a lot of power.      
+the school-bus engine packs a lot of power.      
 
 210
 00:13:10,590 --> 00:13:14,192
-       it's diesel-fueled       
-      with six cylinders.       
+it's diesel-fueled with six cylinders.       
 
 211
 00:13:14,194 --> 00:13:16,328
-            next up             
-  is the front cal assembly,    
+next up is the front cal assembly,    
 
 212
 00:13:16,330 --> 00:13:18,463
-         which includes         
-     the instrument panel       
+which includes the instrument panel       
 
 213
 00:13:18,465 --> 00:13:20,465
-     and steering column.       
+and steering column.       
 
 214
 00:13:20,467 --> 00:13:22,668
-           a workers            
-   wires the steering wheel     
+a workers wires the steering wheel     
 
 215
 00:13:22,670 --> 00:13:27,606
- to the controls in the column  
-   and slides it into place.    
+to the controls in the column and slides it into place.    
 
 216
 00:13:27,608 --> 00:13:30,208
-  they mount the tires and rims 
-               --               
+they mount the tires and rims --               
 
 217
 00:13:30,210 --> 00:13:34,546
-    four on the back axle to    
-             handle             
-  the heavier passenger load    
+four on the back axle to handle the heavier passenger load    
 
 218
 00:13:34,548 --> 00:13:36,548
-     and two on the front.      
+and two on the front.      
 
 219
 00:13:38,619 --> 00:13:40,085
-  using a multi-pronged tool,   
+using a multi-pronged tool,   
 
 220
 00:13:40,087 --> 00:13:42,154
-           the worker           
-    tightens numerous nuts      
+the worker tightens numerous nuts      
 
 221
 00:13:42,156 --> 00:13:44,556
-      to fasten the wheels      
-         to the axles.          
+to fasten the wheels to the axles.          
 
 222
 00:13:48,962 --> 00:13:52,497
-   they now encase the engine   
-    with a fiberglass hood.     
+they now encase the engine with a fiberglass hood.     
 
 223
 00:13:52,499 --> 00:13:54,566
- the hood has been pre-painted  
+the hood has been pre-painted  
 
 224
 00:13:54,568 --> 00:13:57,168
-  and equipped with cross-view  
-    mirrors and headlights.     
+and equipped with cross-view mirrors and headlights.     
 
 225
 00:13:57,170 --> 00:14:00,505
-          they bolt it          
-     to the vehicle frame,      
+they bolt it to the vehicle frame,      
 
 226
 00:14:00,507 --> 00:14:04,509
-  and after adding antifreeze   
-         and coolant,           
+and after adding antifreeze and coolant,           
 
 227
 00:14:04,511 --> 00:14:07,378
-     the bus is technically     
-           drivable.            
+the bus is technically drivable.            
 
 228
 00:14:07,380 --> 00:14:09,848
-       they roll it over        
-       to a test station        
+they roll it over to a test station        
 
 229
 00:14:09,850 --> 00:14:11,583
-     to check the brakes.       
+to check the brakes.       
 
 230
 00:14:15,922 --> 00:14:20,258
-   the wheels turn on rollers   
- so the bus runs in one spot.   
+the wheels turn on rollers so the bus runs in one spot.   
 
 231
 00:14:20,260 --> 00:14:22,593
-      a computer monitors       
-        the performance         
+a computer monitors the performance         
 
 232
 00:14:22,595 --> 00:14:24,862
-       of both the front        
-        and back brakes         
+of both the front and back brakes         
 
 233
 00:14:24,864 --> 00:14:26,531
-   as a driver applies them.    
+as a driver applies them.    
 
 234
 00:14:29,202 --> 00:14:33,538
-        they now move on        
- to build the school-bus body.  
+they now move on to build the school-bus body.  
 
 235
 00:14:33,540 --> 00:14:36,274
-    the body starts with the    
-             floor.             
+the body starts with the floor.             
 
 236
 00:14:36,276 --> 00:14:40,011
-          they unwind           
- double-sided galvanized steel  
+they unwind double-sided galvanized steel  
 
 237
 00:14:40,013 --> 00:14:43,948
-         into a machine         
-  that slices it into panels.   
+into a machine that slices it into panels.   
 
 238
 00:14:43,950 --> 00:14:47,219
-       it also cuts holes       
-   to be used for assembly.     
+it also cuts holes to be used for assembly.     
 
 239
 00:14:47,221 --> 00:14:49,954
-       a forming machine        
-        folds the sides         
+a forming machine folds the sides         
 
 240
 00:14:49,956 --> 00:14:51,623
-   to create support beams.     
+to create support beams.     
 
 241
 00:14:51,625 --> 00:14:57,295
-    two more steel beams will   
-             really             
-   stiffen the floor panel.     
+two more steel beams will really stiffen the floor panel.     
 
 242
 00:14:57,297 --> 00:15:02,233
- a worker positions those beams 
-         on the panel,          
+a worker positions those beams on the panel,          
 
 243
 00:15:02,235 --> 00:15:05,570
-    and an automated machine    
-       welds them to it.        
+and an automated machine welds them to it.        
 
 244
 00:15:05,572 --> 00:15:09,908
-    it feeds the floor panel    
-  to the welder incrementally   
+it feeds the floor panel to the welder incrementally   
 
 245
 00:15:09,910 --> 00:15:13,912
-      so it can spot weld       
- down the length of the beams.  
+so it can spot weld down the length of the beams.  
 
 246
 00:15:19,719 --> 00:15:22,387
-    it takes dozens of welds    
-       to solidly secure        
+it takes dozens of welds to solidly secure        
 
 247
 00:15:22,389 --> 00:15:24,556
-      the steel supports.       
+the steel supports.       
 
 248
 00:15:26,593 --> 00:15:32,396
- and with those reinforcements, 
- the floor panel is complete.   
+and with those reinforcements, the floor panel is complete.   
 
 249
 00:15:32,398 --> 00:15:35,534
-   it's ready for assembly.     
+it's ready for assembly.     
 
 250
 00:15:35,536 --> 00:15:39,337
- workers arrange several panels 
-          upside down           
+workers arrange several panels upside down           
 
 251
 00:15:39,339 --> 00:15:41,940
-  in a precise configuration.   
+in a precise configuration.   
 
 252
 00:15:41,942 --> 00:15:45,477
-         then it's into         
-   a second automated welder    
+then it's into a second automated welder    
 
 253
 00:15:45,479 --> 00:15:49,014
-        that joins them         
- to make one school-bus floor.  
+that joins them to make one school-bus floor.  
 
 254
 00:15:49,016 --> 00:15:52,350
- after manually welding pockets 
-          for wheels,           
+after manually welding pockets for wheels,           
 
 255
 00:15:52,352 --> 00:15:56,488
-   a machine called the floor   
-              flip              
-    picks up the bus floor      
+a machine called the floor flip picks up the bus floor      
 
 256
 00:15:56,490 --> 00:15:58,323
-  and turns it rightside up.    
+and turns it rightside up.    
 
 257
 00:16:03,563 --> 00:16:07,299
-   they're now ready to build   
-  the passenger compartment,    
+they're now ready to build the passenger compartment,    
 
 258
 00:16:07,301 --> 00:16:09,334
-        so stay tuned.          
+so stay tuned.          
 
 259
 00:16:26,787 --> 00:16:28,653
-     narrator: a school bus     
- transports precious cargo --   
+narrator: a school bus transports precious cargo --   
 
 260
 00:16:28,655 --> 00:16:29,721
-           children.            
+children.            
 
 261
 00:16:29,723 --> 00:16:32,590
-    to hold the average bus     
-           together,            
+to hold the average bus together,            
 
 262
 00:16:32,592 --> 00:16:37,062
-     they use an incredible     
-    6,100 rivets, bolts, and    
-             screws             
+they use an incredible 6,100 rivets, bolts, and screws             
 
 263
 00:16:37,064 --> 00:16:39,464
@@ -1276,95 +1064,81 @@ for the maker of school buses,
 
 265
 00:16:41,468 --> 00:16:44,035
-        there's strength        
-       in those numbers.        
+there's strength in those numbers.        
 
 266
 00:16:48,008 --> 00:16:49,073
-      to build the frame        
+to build the frame        
 
 267
 00:16:49,075 --> 00:16:51,609
-    for the school-bus walls    
-         and ceiling,           
+for the school-bus walls and ceiling,           
 
 268
 00:16:51,611 --> 00:16:53,745
-     they bend steel beams      
-       into bow shapes.         
+they bend steel beams into bow shapes.         
 
 269
 00:16:53,747 --> 00:16:59,084
-    a hydraulic machine with    
-             pushers            
-   does the job in seconds,     
+a hydraulic machine with pushers does the job in seconds,     
 
 270
 00:16:59,086 --> 00:17:01,520
-  achieving an exact radius.    
+achieving an exact radius.    
 
 271
 00:17:06,093 --> 00:17:10,896
-  the bows will serve as ribs   
-   for the school-bus body.     
+the bows will serve as ribs for the school-bus body.     
 
 272
 00:17:13,166 --> 00:17:16,301
-     they make several bows     
-         for each bus.          
+they make several bows for each bus.          
 
 273
 00:17:16,303 --> 00:17:20,705
- the precise number depends on  
-  the bus size and capacity.    
+the precise number depends on the bus size and capacity.    
 
 274
 00:17:20,707 --> 00:17:23,641
-          workers plug          
-     the ends of the bows       
+workers plug the ends of the bows       
 
 275
 00:17:23,643 --> 00:17:27,979
-   into holes in steel rails    
-  and secure them with bolts.   
+into holes in steel rails and secure them with bolts.   
 
 276
 00:17:27,981 --> 00:17:31,249
-   they weld lateral supports   
-          higher up,            
+they weld lateral supports higher up,            
 
 277
 00:17:31,251 --> 00:17:35,186
-   and the cage-like skeleton   
+and the cage-like skeleton   
 of the school bus takes shape.  
 
 278
 00:17:37,391 --> 00:17:41,192
-       they're now ready        
-  to build on this framework.   
+they're now ready to build on this framework.   
 
 279
 00:17:41,194 --> 00:17:44,863
-          they attach           
+they attach           
 the metal windshield surround.  
 
 280
 00:17:44,865 --> 00:17:47,131
-      the team then moves       
+the team then moves       
 
 281
 00:17:47,133 --> 00:17:51,803
-     the steel side sheets      
-   and skirting into place.     
+the steel side sheets and skirting into place.     
 
 282
 00:17:51,805 --> 00:17:56,341
-    they secure these panels    
-  with super-strong adhesive    
+they secure these panels with super-strong adhesive    
 
 283
 00:17:56,343 --> 00:17:58,944
-     and numerous rivets.       
+and numerous rivets.       
 
 284
 00:18:02,882 --> 00:18:04,816
@@ -1372,139 +1146,116 @@ using cables and nylon straps,
 
 285
 00:18:04,818 --> 00:18:07,752
-     they pull steel sheets     
-     to the roof structure      
+they pull steel sheets to the roof structure      
 
 286
 00:18:07,754 --> 00:18:10,488
-      to make them conform      
-       to the contours.         
+to make them conform to the contours.         
 
 287
 00:18:12,558 --> 00:18:14,959
-    the steel is 20-gage --     
+the steel is 20-gage --     
 
 288
 00:18:14,961 --> 00:18:20,098
- a grade that's flexible enough 
-      to be easily bent.        
+a grade that's flexible enough to be easily bent.        
 
 289
 00:18:20,100 --> 00:18:23,434
-    the cables hold the steel   
-             panels             
- tightly to the roof structure  
+the cables hold the steel panels tightly to the roof structure  
 
 290
 00:18:23,436 --> 00:18:25,503
-       while the workers        
-       rivet them to it.        
+while the workers rivet them to it.        
 
 291
 00:18:25,505 --> 00:18:29,106
-      the number of rivets      
+the number of rivets      
 and the strength of the joints  
 
 292
 00:18:29,108 --> 00:18:32,243
-         are among many         
-  government safety standards   
+are among many government safety standards   
 
 293
 00:18:32,245 --> 00:18:33,978
-   the school bus must meet.    
+the school bus must meet.    
 
 294
 00:18:33,980 --> 00:18:36,114
-   working from the inside,     
+working from the inside,     
 
 295
 00:18:36,116 --> 00:18:39,918
-      they glue fiberglass      
-           insulation           
- into the pockets of the cage   
+they glue fiberglass insulation into the pockets of the cage   
 
 296
 00:18:39,920 --> 00:18:43,254
- to keep the bus warm in winter 
-      and cool in summer.       
+to keep the bus warm in winter and cool in summer.       
 
 297
 00:18:43,256 --> 00:18:46,190
-         the insulation         
-  will also muffle road noise   
+the insulation will also muffle road noise   
 
 298
 00:18:46,192 --> 00:18:48,927
-           and absorb           
-  some of the student chatter   
+and absorb some of the student chatter   
 
 299
 00:18:48,929 --> 00:18:51,730
-      for a quieter ride.       
+for a quieter ride.       
 
 300
 00:18:51,732 --> 00:18:55,000
- the team installs steel panels 
-        on the ceiling.         
+the team installs steel panels on the ceiling.         
 
 301
 00:18:55,002 --> 00:18:57,669
-          these panels          
-    have tiny perforations      
+these panels have tiny perforations      
 
 302
 00:18:57,671 --> 00:19:01,106
-    to allow sound to escape    
-     into the insulation.       
+to allow sound to escape into the insulation.       
 
 303
 00:19:03,142 --> 00:19:05,810
-          they tape up          
-     the windows and doors      
+they tape up the windows and doors      
 
 304
 00:19:05,812 --> 00:19:07,412
-      and sand some areas       
+and sand some areas       
 
 305
 00:19:07,414 --> 00:19:12,083
-  as they now prepare to paint  
-   the exterior of the bus.     
+as they now prepare to paint the exterior of the bus.     
 
 306
 00:19:12,085 --> 00:19:14,953
-     the paint, national bus    
-            yellow,             
+the paint, national bus yellow,             
 
 307
 00:19:14,955 --> 00:19:17,956
-        takes the metal         
-      from dull to bold.        
+takes the metal from dull to bold.        
 
 308
 00:19:17,958 --> 00:19:22,093
-    this shade was developed    
- specifically for school buses  
+this shade was developed specifically for school buses  
 
 309
 00:19:22,095 --> 00:19:25,397
-       and can be noticed       
- even with peripheral vision.   
+and can be noticed even with peripheral vision.   
 
 310
 00:19:28,634 --> 00:19:33,038
-    with the paint now dry,     
-      they open the doors       
+with the paint now dry, they open the doors       
 
 311
 00:19:33,040 --> 00:19:35,640
-            and lay             
-  a plywood subfloor inside.    
+and lay a plywood subfloor inside.    
 
 312
 00:19:35,642 --> 00:19:37,441
-   it too will absorb noise.    
+it too will absorb noise.    
 
 313
 00:19:37,443 --> 00:19:39,777
@@ -1512,164 +1263,137 @@ an employee drives the chassis
 
 314
 00:19:39,779 --> 00:19:43,648
-  over to the school-bus-body   
-       production line,         
+over to the school-bus-body production line,         
 
 315
 00:19:43,650 --> 00:19:44,783
-         and parks it.          
+and parks it.          
 
 316
 00:19:46,919 --> 00:19:50,522
-         using cables,          
-    they lift the bus body      
+using cables, they lift the bus body      
 
 317
 00:19:50,524 --> 00:19:52,656
-     over to the chassis.       
+over to the chassis.       
 
 318
 00:19:52,658 --> 00:19:56,461
- at over three and a half tons, 
-          it's hefty.           
+at over three and a half tons, it's hefty.           
 
 319
 00:19:59,799 --> 00:20:02,934
-      they gently lower it      
-     onto the frame rails       
+they gently lower it onto the frame rails       
 
 320
 00:20:02,936 --> 00:20:05,503
-    and mate the front to the   
-             hood.              
+and mate the front to the hood.              
 
 321
 00:20:07,473 --> 00:20:11,776
- they tie the body to the frame 
-    with heavy-duty clips.      
+they tie the body to the frame with heavy-duty clips.      
 
 322
 00:20:11,778 --> 00:20:13,611
-   they arrange the seating     
+they arrange the seating     
 
 323
 00:20:13,613 --> 00:20:17,214
-   to surround the passengers   
-       with cushioning.         
+to surround the passengers with cushioning.         
 
 324
 00:20:17,216 --> 00:20:20,952
-   this creates compartments    
-     around the occupants       
+this creates compartments around the occupants       
 
 325
 00:20:20,954 --> 00:20:24,222
-      to protect them in a      
-           collision.           
+to protect them in a collision.           
 
 326
 00:20:24,224 --> 00:20:28,626
-   outside, a worker applies    
-     school-bus lettering.      
+outside, a worker applies school-bus lettering.      
 
 327
 00:20:33,099 --> 00:20:34,431
-    another worker presses      
+another worker presses      
 
 328
 00:20:34,433 --> 00:20:37,034
-       an adhesive-backed       
-     manufacturer's emblem      
+an adhesive-backed manufacturer's emblem      
 
 329
 00:20:37,036 --> 00:20:38,102
-         to the hood.           
+to the hood.           
 
 330
 00:20:38,104 --> 00:20:39,437
-      they equip the bus        
+they equip the bus        
 
 331
 00:20:39,439 --> 00:20:42,240
-    with the flashing lights    
-        and stop signs          
+with the flashing lights and stop signs          
 
 332
 00:20:42,242 --> 00:20:44,842
-      to get the attention      
-       of other drivers         
+to get the attention of other drivers         
 
 333
 00:20:44,844 --> 00:20:47,578
-         when children          
-  are loading and unloading.    
+when children are loading and unloading.    
 
 334
 00:20:47,580 --> 00:20:50,648
-       they also install        
-     a crossing gate to keep    
-            children            
+they also install a crossing gate to keep children            
 
 335
 00:20:50,650 --> 00:20:53,051
-    within the bus driver's     
-          sight line.           
+within the bus driver's sight line.           
 
 336
 00:20:54,988 --> 00:20:58,056
-           they test            
-   all of the warning lights    
+they test all of the warning lights    
 
 337
 00:20:58,058 --> 00:20:59,724
-      and safety devices.       
+and safety devices.       
 
 338
 00:21:03,797 --> 00:21:06,598
-         and satisfied          
-       that everything is       
-          operational,          
+and satisfied that everything is operational,          
 
 339
 00:21:06,600 --> 00:21:09,934
-         the bus rolls          
-   off the production line.     
+the bus rolls off the production line.     
 
 340
 00:21:09,936 --> 00:21:13,538
-  it's taken a day and a half   
-         to build it,           
+it's taken a day and a half to build it,           
 
 341
 00:21:13,540 --> 00:21:16,741
-      and when it comes to      
-         an education,          
+and when it comes to an education,          
 
 342
 00:21:16,743 --> 00:21:19,210
-    it's ready to deliver.      
+it's ready to deliver.      
 
 343
 00:21:30,891 --> 00:21:32,824
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 344
 00:21:32,826 --> 00:21:35,693
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 345
 00:21:35,695 --> 00:21:37,796
-     drop us a line at...       
+drop us a line at...       
 
 346
 00:21:41,033 --> 00:21:44,035
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 347
 00:21:44,037 --> 00:21:47,272
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 

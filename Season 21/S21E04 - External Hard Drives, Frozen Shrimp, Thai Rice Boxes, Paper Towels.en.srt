@@ -1,82 +1,68 @@
 ﻿1
 00:00:01,669 --> 00:00:04,670
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,672 --> 00:00:07,673
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:51,319 --> 00:00:53,853
-    narrator: in the digital    
-             world,             
-      like the real one,        
+narrator: in the digital world, like the real one,        
 
 4
 00:00:53,855 --> 00:00:56,789
-        it helps to have        
-     extra storage space.       
+it helps to have extra storage space.       
 
 5
 00:00:56,791 --> 00:01:00,058
- an external hard drive stores  
- data separate from a computer  
+an external hard drive stores data separate from a computer  
 
 6
 00:01:00,060 --> 00:01:02,795
-  to expand storage capacity.   
+to expand storage capacity.   
 
 7
 00:01:02,797 --> 00:01:04,263
-   it also preserves memory.    
+it also preserves memory.    
 
 8
 00:01:04,265 --> 00:01:07,066
-        so in the event         
-     that the computer drive    
-            crashes,            
+so in the event that the computer drive crashes,            
 
 9
 00:01:07,068 --> 00:01:08,668
-       all is not lost.         
+all is not lost.         
 
 10
 00:01:12,206 --> 00:01:13,672
-         50 years ago,          
+50 years ago,          
 
 11
 00:01:13,674 --> 00:01:16,742
-      external hard drives      
-        were the size of        
-         refrigerators.         
+external hard drives were the size of refrigerators.         
 
 12
 00:01:16,744 --> 00:01:19,145
-             today,             
+today,             
 they squeeze a lot more memory  
 
 13
 00:01:19,147 --> 00:01:23,482
-          into drives           
-  the size of chocolate bars.   
+into drives the size of chocolate bars.   
 
 14
 00:01:23,484 --> 00:01:27,620
-   on the hard-drive assembly   
-              line,             
- there's not a speck of dust.   
+on the hard-drive assembly line, there's not a speck of dust.   
 
 15
 00:01:27,622 --> 00:01:30,222
-    an air-filtering system     
+an air-filtering system     
 sucks particles out of the air  
 
 16
 00:01:30,224 --> 00:01:32,558
-          to keep them          
- from contaminating the drive   
+to keep them from contaminating the drive   
 
 17
 00:01:32,560 --> 00:01:36,295
@@ -84,354 +70,288 @@ and compromising its function.
 
 18
 00:01:36,297 --> 00:01:38,430
-       production starts        
-     with the motor base.       
+production starts with the motor base.       
 
 19
 00:01:38,432 --> 00:01:41,367
-      an employee installs      
-     a voice-coil magnet.       
+an employee installs a voice-coil magnet.       
 
 20
 00:01:41,369 --> 00:01:44,036
-        it's one of two         
+it's one of two         
 that will move the drive heads  
 
 21
 00:01:44,038 --> 00:01:46,905
-      to write information      
-      on rotating disks.        
+to write information on rotating disks.        
 
 22
 00:01:46,907 --> 00:01:48,640
-  they're called voice coils    
+they're called voice coils    
 
 23
 00:01:48,642 --> 00:01:52,711
-  because they operate on the   
-        same principle as       
-         loudspeakers.          
+because they operate on the same principle as loudspeakers.          
 
 24
 00:01:52,713 --> 00:01:56,114
-      next, a robot places      
-  one of the hard-drive disks   
+next, a robot places one of the hard-drive disks   
 
 25
 00:01:56,116 --> 00:01:58,650
-      in the motor base.        
+in the motor base.        
 
 26
 00:01:58,652 --> 00:02:03,255
- a camera snaps a photo to send 
+a camera snaps a photo to send 
 information to guide the robot  
 
 27
 00:02:03,257 --> 00:02:06,792
-        so it positions         
-       the disk exactly.        
+so it positions the disk exactly.        
 
 28
 00:02:06,794 --> 00:02:09,261
-      another robot places      
-     a round, metal spacer      
+another robot places a round, metal spacer      
 
 29
 00:02:09,263 --> 00:02:10,796
- at the center of the disk --   
+at the center of the disk --   
 
 30
 00:02:10,798 --> 00:02:16,068
-       again, relying on        
+again, relying on        
 the camera's eye for guidance.  
 
 31
 00:02:16,070 --> 00:02:19,105
-     it sets a second disk      
-     on top of the spacer.      
+it sets a second disk on top of the spacer.      
 
 32
 00:02:22,276 --> 00:02:26,078
- this is a two-disk hard drive, 
- but a drive can have several,  
+this is a two-disk hard drive, but a drive can have several,  
 
 33
 00:02:26,080 --> 00:02:30,016
-    depending on the amount     
-      of storage needed.        
+depending on the amount of storage needed.        
 
 34
 00:02:30,018 --> 00:02:32,485
-            a robot             
-  locks the disks into place    
+a robot locks the disks into place    
 
 35
 00:02:32,487 --> 00:02:34,253
- with a stainless-steel clamp.  
+with a stainless-steel clamp.  
 
 36
 00:02:38,559 --> 00:02:43,162
-         this next part         
-      is a plastic ramp.        
+this next part is a plastic ramp.        
 
 37
 00:02:43,164 --> 00:02:45,964
-      the ramp is a place       
- to park the disk-drive heads   
+the ramp is a place to park the disk-drive heads   
 
 38
 00:02:45,966 --> 00:02:49,235
-    when they're not engaged    
- in reading and writing data.   
+when they're not engaged in reading and writing data.   
 
 39
 00:02:54,375 --> 00:02:56,509
-        those tiny heads        
-    have been preassembled      
+those tiny heads have been preassembled      
 
 40
 00:02:56,511 --> 00:02:58,377
-  to one end of the head arm.   
+to one end of the head arm.   
 
 41
 00:03:00,314 --> 00:03:02,114
-   they attach the other end    
-          of the arm            
+they attach the other end of the arm            
 
 42
 00:03:02,116 --> 00:03:03,782
-    to the lower voice coil     
-          in the base           
+to the lower voice coil in the base           
 
 43
 00:03:03,784 --> 00:03:06,919
-        and then situate        
-   the second voice coil above  
-              it.               
+and then situate the second voice coil above it.               
 
 44
 00:03:11,859 --> 00:03:15,795
-          to maintain           
-  its squeaky-clean interior,   
+to maintain its squeaky-clean interior,   
 
 45
 00:03:15,797 --> 00:03:19,664
-        a robot inserts         
-     a thin cotton filter.      
+a robot inserts a thin cotton filter.      
 
 46
 00:03:19,666 --> 00:03:23,602
-          this filter           
-  will capture dust particles   
+this filter will capture dust particles   
 
 47
 00:03:23,604 --> 00:03:28,407
-     in the event that some     
-  infiltrate the hard drive.    
+in the event that some infiltrate the hard drive.    
 
 48
 00:03:28,409 --> 00:03:32,845
-   a robot now places a metal   
-              cover             
-    on the other side of the    
-             drive.             
+a robot now places a metal cover on the other side of the drive.             
 
 49
 00:03:39,420 --> 00:03:43,756
-   another robot then screws    
- the cover to the motor base.   
+another robot then screws the cover to the motor base.   
 
 50
 00:03:48,696 --> 00:03:50,629
-    with the inner workings     
-         now encased,           
+with the inner workings now encased,           
 
 51
 00:03:50,631 --> 00:03:53,299
-  the hard drive can be moved   
-     out of the air-filtered    
-            section             
+the hard drive can be moved out of the air-filtered section             
 
 52
 00:03:53,301 --> 00:03:56,234
-        of the factory.         
+of the factory.         
 
 53
 00:03:56,236 --> 00:03:58,304
-       a worker collects        
-   the hard-drive assemblies    
+a worker collects the hard-drive assemblies    
 
 54
 00:03:58,306 --> 00:04:02,574
-   and slots them into a tote   
-              box.              
+and slots them into a tote box.              
 
 55
 00:04:02,576 --> 00:04:05,311
-      once a circuit board      
-        has been added,         
+once a circuit board has been added,         
 
 56
 00:04:05,313 --> 00:04:08,114
- they transfer the hard drives  
-      to a test chamber.        
+they transfer the hard drives to a test chamber.        
 
 57
 00:04:10,250 --> 00:04:12,317
-     behind the closed door     
-        of the chamber,         
+behind the closed door of the chamber,         
 
 58
 00:04:12,319 --> 00:04:14,620
-  a robot swings into action.   
+a robot swings into action.   
 
 59
 00:04:16,390 --> 00:04:19,525
-     it plucks a hard drive     
-       from the tote box        
+it plucks a hard drive from the tote box        
 
 60
 00:04:19,527 --> 00:04:23,796
- and plugs it into a test cell  
-      to confirm that it's      
-          functional.           
+and plugs it into a test cell to confirm that it's functional.           
 
 61
 00:04:25,600 --> 00:04:28,934
-       outside, employees       
+outside, employees       
 go about their daily business,  
 
 62
 00:04:28,936 --> 00:04:31,070
-    as the robot methodically   
-             tests              
+as the robot methodically tests              
 
 63
 00:04:31,072 --> 00:04:34,272
-        each hard drive         
-      in the tote boxes.        
+each hard drive in the tote boxes.        
 
 64
 00:04:34,274 --> 00:04:39,278
-     once a tote of drives      
-       is confirmed to be       
-          operational,          
+once a tote of drives is confirmed to be operational,          
 
 65
 00:04:39,280 --> 00:04:41,013
-    the chamber ejects them     
+the chamber ejects them     
 
 66
 00:04:41,015 --> 00:04:44,750
-     and a worker then does     
-   a visual inspection of each  
-              one.              
+and a worker then does a visual inspection of each one.              
 
 67
 00:04:44,752 --> 00:04:46,619
-    she looks for scratches     
+she looks for scratches     
 
 68
 00:04:46,621 --> 00:04:50,489
-        or other damage         
-      that could hinder its     
-           function.            
+or other damage that could hinder its function.            
 
 69
 00:04:50,491 --> 00:04:53,959
-    there's another slightly    
- different system for testing.  
+there's another slightly different system for testing.  
 
 70
 00:04:53,961 --> 00:04:58,497
-   in this one, the employee    
-     places each drive on a     
-            conveyor            
+in this one, the employee places each drive on a conveyor            
 
 71
 00:04:58,499 --> 00:05:00,266
-        that delivers it        
-      to a robot tester.        
+that delivers it to a robot tester.        
 
 72
 00:05:03,838 --> 00:05:07,306
-   having two tester systems    
+having two tester systems    
 ensures that if one goes down,  
 
 73
 00:05:07,308 --> 00:05:10,376
-  they still have another one   
-         to carry on.           
+they still have another one to carry on.           
 
 74
 00:05:10,378 --> 00:05:15,247
-    after all, like humans,     
-  robots are not infallible.    
+after all, like humans, robots are not infallible.    
 
 75
 00:05:20,854 --> 00:05:22,588
-  at the packing station now,   
+at the packing station now,   
 
 76
 00:05:22,590 --> 00:05:25,057
-        there's one last        
-      visual inspection.        
+there's one last visual inspection.        
 
 77
 00:05:25,059 --> 00:05:27,927
-       the employee scans       
-   the drive's serial number    
+the employee scans the drive's serial number    
 
 78
 00:05:27,929 --> 00:05:32,131
-    so its production can be    
-             traced             
-    in the event of a problem   
-             later.             
+so its production can be traced in the event of a problem later.             
 
 79
 00:05:32,133 --> 00:05:36,135
- she then seals it in plastic.  
+she then seals it in plastic.  
 
 80
 00:05:36,137 --> 00:05:38,804
-        this hard drive         
-  is now ready to accept data   
+this hard drive is now ready to accept data   
 
 81
 00:05:38,806 --> 00:05:41,674
-    and ensure that someone     
-    doesn't totally lose it     
+and ensure that someone doesn't totally lose it     
 
 82
 00:05:41,676 --> 00:05:44,743
-     if their computer drive    
-            crashes.            
+if their computer drive crashes.            
 
 83
 00:06:02,029 --> 00:06:03,829
-   narrator: people have been   
-       noshing on shrimp        
+narrator: people have been noshing on shrimp        
 
 84
 00:06:03,831 --> 00:06:05,497
- since the beginning of time,   
+since the beginning of time,   
 
 85
 00:06:05,499 --> 00:06:08,166
-   but it hasn't always been    
-        an easy catch.          
+but it hasn't always been an easy catch.          
 
 86
 00:06:08,168 --> 00:06:10,836
-          wild stocks           
- declined in the 20th century.  
+wild stocks declined in the 20th century.  
 
 87
 00:06:10,838 --> 00:06:14,105
-      shrimp farms emerged      
-      to supply what nature     
-           couldn't.            
+shrimp farms emerged to supply what nature couldn't.            
 
 88
 00:06:14,107 --> 00:06:15,840
@@ -439,527 +359,425 @@ factories process the harvest,
 
 89
 00:06:15,842 --> 00:06:18,377
-     ensuring an abundance      
-    of ready-to-eat shrimp      
+ensuring an abundance of ready-to-eat shrimp      
 
 90
 00:06:18,379 --> 00:06:20,246
-       for the freezer.         
+for the freezer.         
 
 91
 00:06:24,318 --> 00:06:27,786
-   jumbo shrimp have long been  
-               big              
-   on the cocktail circuit.     
+jumbo shrimp have long been big on the cocktail circuit.     
 
 92
 00:06:27,788 --> 00:06:30,389
-    today, it comes prepped     
-          and frozen,           
+today, it comes prepped and frozen,           
 
 93
 00:06:30,391 --> 00:06:32,123
- complete with cocktail sauce.  
+complete with cocktail sauce.  
 
 94
 00:06:32,125 --> 00:06:34,192
-     just unwrap and thaw.      
+just unwrap and thaw.      
 
 95
 00:06:34,194 --> 00:06:37,262
-     shrimp cocktail is one     
-    of the many ready-to-eat    
-             dishes             
+shrimp cocktail is one of the many ready-to-eat dishes             
 
 96
 00:06:37,264 --> 00:06:40,131
-    prepared at this factory    
-         in thailand.           
+prepared at this factory in thailand.           
 
 97
 00:06:40,133 --> 00:06:42,534
-     fresh from the farm,       
+fresh from the farm,       
 
 98
 00:06:42,536 --> 00:06:45,270
-      the shrimp undergoes      
-   a quick cold-water rinse.    
+the shrimp undergoes a quick cold-water rinse.    
 
 99
 00:06:45,272 --> 00:06:47,605
-         it then rides          
-    a perforated conveyor.      
+it then rides a perforated conveyor.      
 
 100
 00:06:47,607 --> 00:06:50,609
-   rinse water drains through   
-   the holes in the conveyor    
+rinse water drains through the holes in the conveyor    
 
 101
 00:06:50,611 --> 00:06:54,546
-       to keep the shrimp       
-     from becoming soggy.       
+to keep the shrimp from becoming soggy.       
 
 102
 00:06:54,548 --> 00:06:57,950
- still cool from the icy bath,  
-     the curly crustaceans      
+still cool from the icy bath, the curly crustaceans      
 
 103
 00:06:57,952 --> 00:07:01,520
-     spill off the conveyor     
-     into plastic baskets.      
+spill off the conveyor into plastic baskets.      
 
 104
 00:07:03,958 --> 00:07:05,290
-    they weigh each basket      
+they weigh each basket      
 
 105
 00:07:05,292 --> 00:07:07,626
-  and then transfer the shrimp  
-       to a larger tub.         
+and then transfer the shrimp to a larger tub.         
 
 106
 00:07:11,631 --> 00:07:12,964
-     to keep the chill on,      
+to keep the chill on,      
 
 107
 00:07:12,966 --> 00:07:15,300
-      they add crushed ice      
-        between loads.          
+they add crushed ice between loads.          
 
 108
 00:07:15,302 --> 00:07:17,970
-        a temperature of        
- 50 degrees fahrenheit or less  
+a temperature of 50 degrees fahrenheit or less  
 
 109
 00:07:17,972 --> 00:07:20,505
-       must be maintained       
-    throughout processing,      
+must be maintained throughout processing,      
 
 110
 00:07:20,507 --> 00:07:22,608
-    or quality will suffer.     
+or quality will suffer.     
 
 111
 00:07:26,380 --> 00:07:29,715
-     it's now time for the      
- inevitable -- the deheading.   
+it's now time for the inevitable -- the deheading.   
 
 112
 00:07:29,717 --> 00:07:32,651
-       using a metal tool       
- that's like an open thimble,   
+using a metal tool that's like an open thimble,   
 
 113
 00:07:32,653 --> 00:07:35,587
- workers pull the heads off the 
- shrimp with a few quick tugs.  
+workers pull the heads off the shrimp with a few quick tugs.  
 
 114
 00:07:40,995 --> 00:07:44,063
-       the deheading line       
-    is a long and busy one.     
+the deheading line is a long and busy one.     
 
 115
 00:07:46,733 --> 00:07:50,535
-      the headless shrimp       
- now travel to sizing rollers.  
+the headless shrimp now travel to sizing rollers.  
 
 116
 00:07:50,537 --> 00:07:53,805
- the space between the rollers  
-      is narrow at first        
+the space between the rollers is narrow at first        
 
 117
 00:07:53,807 --> 00:07:55,974
-    and wider further down.     
+and wider further down.     
 
 118
 00:07:55,976 --> 00:07:59,677
-  as the rollers spin, smaller  
-  shrimp fall through first,    
+as the rollers spin, smaller shrimp fall through first,    
 
 119
 00:07:59,679 --> 00:08:03,816
-  and the larger ones continue  
-               on               
- to fall through further down.  
+and the larger ones continue on to fall through further down.  
 
 120
 00:08:03,818 --> 00:08:07,419
-  they accumulate in different  
-   piles on conveyors below.    
+they accumulate in different piles on conveyors below.    
 
 121
 00:08:07,421 --> 00:08:10,689
-   this separates the shrimp    
-  into five size categories.    
+this separates the shrimp into five size categories.    
 
 122
 00:08:10,691 --> 00:08:12,024
-      out of the sorter,        
+out of the sorter,        
 
 123
 00:08:12,026 --> 00:08:14,093
-      an employee samples       
-   the shrimp's temperature     
+an employee samples the shrimp's temperature     
 
 124
 00:08:14,095 --> 00:08:17,629
-   to confirm that it remains   
-      adequately chilled.       
+to confirm that it remains adequately chilled.       
 
 125
 00:08:20,634 --> 00:08:22,835
- deheaded and sorted by size,   
+deheaded and sorted by size,   
 
 126
 00:08:22,837 --> 00:08:26,905
-   these shrimp are now ready   
- to come out of their shells.   
+these shrimp are now ready to come out of their shells.   
 
 127
 00:08:26,907 --> 00:08:28,506
-     on the shelling line,      
+on the shelling line,      
 
 128
 00:08:28,508 --> 00:08:31,576
- some workers cut the tails off 
-   and others leave them on,    
+some workers cut the tails off and others leave them on,    
 
 129
 00:08:31,578 --> 00:08:33,846
-    because there's a market    
-           for both.            
+because there's a market for both.            
 
 130
 00:08:33,848 --> 00:08:36,048
-    after they peel away the    
-             shell,             
+after they peel away the shell,             
 
 131
 00:08:36,050 --> 00:08:39,518
-   they cut out the digestive   
-              tract             
-   that runs along the back.    
+they cut out the digestive tract that runs along the back.    
 
 132
 00:08:39,520 --> 00:08:43,522
- it's often referred to as the  
-   vein because it looks like   
-              one.              
+it's often referred to as the vein because it looks like one.              
 
 133
 00:08:43,524 --> 00:08:48,193
-   workers on this line peel    
+workers on this line peel    
 and devein 800 shrimp an hour.  
 
 134
 00:08:48,195 --> 00:08:51,930
-      the shrimp then goes      
-   to different prep zones.     
+the shrimp then goes to different prep zones.     
 
 135
 00:08:51,932 --> 00:08:53,332
-         at this one,           
+at this one,           
 
 136
 00:08:53,334 --> 00:08:56,201
-    an employee dips tail-on    
-             shrimp             
-      into an egg mixture       
+an employee dips tail-on shrimp into an egg mixture       
 
 137
 00:08:56,203 --> 00:08:58,404
-     and then dredges them      
-        in rice flour.          
+and then dredges them in rice flour.          
 
 138
 00:09:00,875 --> 00:09:03,442
-  he sends them down the line   
-      to the next worker.       
+he sends them down the line to the next worker.       
 
 139
 00:09:05,879 --> 00:09:09,081
-  he rolls the floured shrimp   
-        in rice paper.          
+he rolls the floured shrimp in rice paper.          
 
 140
 00:09:11,619 --> 00:09:15,087
-        as you can see,         
-    there's a bit of trick to   
-             this.              
+as you can see, there's a bit of trick to this.              
 
 141
 00:09:18,826 --> 00:09:22,761
-    he moistens the edges of    
-   the rice paper to seal the   
-             wrap.              
+he moistens the edges of the rice paper to seal the wrap.              
 
 142
 00:09:22,763 --> 00:09:25,764
-  the result is a spring-roll   
- appetizer that can be frozen   
+the result is a spring-roll appetizer that can be frozen   
 
 143
 00:09:25,766 --> 00:09:29,134
-        until it's ready        
-   to be cooked and served.     
+until it's ready to be cooked and served.     
 
 144
 00:09:30,837 --> 00:09:34,373
-   in another area, a worker    
- prepares a breaded recipe --   
+in another area, a worker prepares a breaded recipe --   
 
 145
 00:09:34,375 --> 00:09:38,243
-      again, using shrimp       
-    with the tail still on.     
+again, using shrimp with the tail still on.     
 
 146
 00:09:38,245 --> 00:09:39,845
-      this is finger food       
+this is finger food       
 
 147
 00:09:39,847 --> 00:09:43,715
-   and, with the tails on the   
-    shrimp, will be easier to   
-             grip.              
+and, with the tails on the shrimp, will be easier to grip.              
 
 148
 00:09:43,717 --> 00:09:48,787
-   he soaks it in seasonings    
- and coats it in breadcrumbs.   
+he soaks it in seasonings and coats it in breadcrumbs.   
 
 149
 00:09:48,789 --> 00:09:52,324
- then he dips it in egg batter  
-     and breads it again.       
+then he dips it in egg batter and breads it again.       
 
 150
 00:09:52,326 --> 00:09:54,126
- the second coating of crumbs   
+the second coating of crumbs   
 
 151
 00:09:54,128 --> 00:09:57,729
-      will give the shrimp      
-   extra crunch when fried.     
+will give the shrimp extra crunch when fried.     
 
 152
 00:09:57,731 --> 00:10:01,266
-   the tray is now full, and    
- so it's over to the fry belt.  
+the tray is now full, and so it's over to the fry belt.  
 
 153
 00:10:03,670 --> 00:10:05,871
-       after a quick trip       
-       through hot oil,         
+after a quick trip through hot oil,         
 
 154
 00:10:05,873 --> 00:10:09,007
-       the breaded shrimp       
-      is perfectly fried.       
+the breaded shrimp is perfectly fried.       
 
 155
 00:10:13,080 --> 00:10:15,347
-        all the shrimp,         
-  including this raw product,   
+all the shrimp, including this raw product,   
 
 156
 00:10:15,349 --> 00:10:18,484
-      take a blustery ride      
-      through a freezer.        
+take a blustery ride through a freezer.        
 
 157
 00:10:18,486 --> 00:10:21,086
-         spread evenly          
-     across the conveyor,       
+spread evenly across the conveyor,       
 
 158
 00:10:21,088 --> 00:10:24,889
-    they freeze individually    
-     rather than in big, icy    
-            clumps.             
+they freeze individually rather than in big, icy clumps.             
 
 159
 00:10:24,891 --> 00:10:28,026
-  so you don't have to thaw a   
-    whole bunch to get a few    
-            shrimp.             
+so you don't have to thaw a whole bunch to get a few shrimp.             
 
 160
 00:10:28,028 --> 00:10:32,698
-       the frozen shrimp        
-  falls into weigh stations.    
+the frozen shrimp falls into weigh stations.    
 
 161
 00:10:32,700 --> 00:10:33,831
-    at the correct amount,      
+at the correct amount,      
 
 162
 00:10:33,833 --> 00:10:36,168
-        the bottom opens        
-       to release them.         
+the bottom opens to release them.         
 
 163
 00:10:36,170 --> 00:10:39,771
- an ice glaze will protect them 
-      from freezer burn.        
+an ice glaze will protect them from freezer burn.        
 
 164
 00:10:39,773 --> 00:10:44,108
-  these frozen-shrimp products  
-     are ready to leave the     
-            factory.            
+these frozen-shrimp products are ready to leave the factory.            
 
 165
 00:10:44,110 --> 00:10:47,779
-  from the freezer to the oven  
-      to your taste buds.       
+from the freezer to the oven to your taste buds.       
 
 166
 00:10:47,781 --> 00:10:50,115
-     with all the prep work     
-     done at the factory,       
+with all the prep work done at the factory,       
 
 167
 00:10:50,117 --> 00:10:54,453
-  these frozen-shrimp products  
-      are quite a treat.        
+these frozen-shrimp products are quite a treat.        
 
 168
 00:11:12,739 --> 00:11:15,941
-      narrator: rice is an      
-   integral part of the asian   
-             diet,              
+narrator: rice is an integral part of the asian diet,              
 
 169
 00:11:15,943 --> 00:11:19,344
- so it's not surprising to find 
-   special storage vessels for  
-              it.               
+so it's not surprising to find special storage vessels for it.               
 
 170
 00:11:19,346 --> 00:11:23,148
-  in thailand, the traditional  
-  container is a rice box --    
+in thailand, the traditional container is a rice box --    
 
 171
 00:11:23,150 --> 00:11:25,684
-         a covered jar          
-     handwoven from bamboo      
+a covered jar handwoven from bamboo      
 
 172
 00:11:25,686 --> 00:11:27,352
-      and often beautifully     
-           decorated.           
+and often beautifully decorated.           
 
 173
 00:11:27,354 --> 00:11:30,856
-     they're also produced      
-     as decorative items for    
-            export.             
+they're also produced as decorative items for export.             
 
 174
 00:11:34,094 --> 00:11:37,562
- thai rice boxes started out as 
-      an ordinary household     
-           container            
+thai rice boxes started out as an ordinary household container            
 
 175
 00:11:37,564 --> 00:11:39,431
-   for cooked, sticky rice.     
+for cooked, sticky rice.     
 
 176
 00:11:39,433 --> 00:11:42,166
-         today, they're         
-   sought-after handicrafts,    
+today, they're sought-after handicrafts,    
 
 177
 00:11:42,168 --> 00:11:45,437
-  produced in a range of sizes  
-   for storage of all kinds     
+produced in a range of sizes for storage of all kinds     
 
 178
 00:11:45,439 --> 00:11:47,572
-   or simply for decoration.    
+or simply for decoration.    
 
 179
 00:11:47,574 --> 00:11:50,575
-    each box is handcrafted     
-     from start to finish.      
+each box is handcrafted from start to finish.      
 
 180
 00:11:50,577 --> 00:11:54,046
-       the artisan begins       
-  with thin strips of bamboo.   
+the artisan begins with thin strips of bamboo.   
 
 181
 00:11:54,048 --> 00:11:56,848
-      he splits the strips      
-      with his fingernail       
+he splits the strips with his fingernail       
 
 182
 00:11:56,850 --> 00:12:01,919
-     to make them the width     
-            required            
+to make them the width required            
 for the box size he's weaving.  
 
 183
 00:12:01,921 --> 00:12:04,389
-    he lines up the first few   
-             strips             
-         on the floor           
+he lines up the first few strips on the floor           
 
 184
 00:12:04,391 --> 00:12:06,457
-     and holds them steady      
-         with his foot          
+and holds them steady with his foot          
 
 185
 00:12:06,459 --> 00:12:09,260
- as he weaves strips crosswise  
-         through them           
+as he weaves strips crosswise through them           
 
 186
 00:12:09,262 --> 00:12:11,663
-        in an under-one,        
-      over-two sequence.        
+in an under-one, over-two sequence.        
 
 187
 00:12:16,536 --> 00:12:18,536
-      he continues weaving      
-         this pattern           
+he continues weaving this pattern           
 
 188
 00:12:18,538 --> 00:12:21,206
-       until he produces        
- a square that's large enough   
+until he produces a square that's large enough   
 
 189
 00:12:21,208 --> 00:12:23,542
- to form the base of the box.   
+to form the base of the box.   
 
 190
 00:12:26,212 --> 00:12:29,214
- he sprays the base with water  
-   to soften up the bamboo.     
+he sprays the base with water to soften up the bamboo.     
 
 191
 00:12:29,216 --> 00:12:31,283
-    this prevents the strips    
-         from breaking          
+this prevents the strips from breaking          
 
 192
 00:12:31,285 --> 00:12:33,084
- when he now bends them upward  
+when he now bends them upward  
 
 193
 00:12:33,086 --> 00:12:35,454
-        to begin weaving        
-     the sides of the box.      
+to begin weaving the sides of the box.      
 
 194
 00:12:40,760 --> 00:12:42,694
@@ -967,331 +785,276 @@ once he's completed the sides,
 
 195
 00:12:42,696 --> 00:12:44,896
-       he begins weaving        
-        the box's neck,         
+he begins weaving the box's neck,         
 
 196
 00:12:44,898 --> 00:12:48,367
-  pulling the strips laterally  
-   in a circular direction.     
+pulling the strips laterally in a circular direction.     
 
 197
 00:12:48,369 --> 00:12:52,104
-   he alternates, folding one   
-              strip             
-  upward, one strip downward.   
+he alternates, folding one strip upward, one strip downward.   
 
 198
 00:12:53,841 --> 00:12:56,775
- he trims the downward strips,  
+he trims the downward strips,  
 
 199
 00:12:56,777 --> 00:13:01,380
-     then inserts the ends      
-   through the woven sides.     
+then inserts the ends through the woven sides.     
 
 200
 00:13:04,852 --> 00:13:07,052
-    next, pulling the strips    
-      through the middle,       
+next, pulling the strips through the middle,       
 
 201
 00:13:07,054 --> 00:13:10,388
-     he fits a bamboo ring      
- over the outside of the neck,  
+he fits a bamboo ring over the outside of the neck,  
 
 202
 00:13:10,390 --> 00:13:12,724
-       then another along       
-    the inside of the neck,     
+then another along the inside of the neck,     
 
 203
 00:13:12,726 --> 00:13:17,596
-     locking the remaining      
-   upward strips in between.    
+locking the remaining upward strips in between.    
 
 204
 00:13:17,598 --> 00:13:19,531
- this immobilizes the strips,   
+this immobilizes the strips,   
 
 205
 00:13:19,533 --> 00:13:22,734
-      eliminating any need      
-      for nails or glue.        
+eliminating any need for nails or glue.        
 
 206
 00:13:22,736 --> 00:13:24,669
-    it also adds rigidity,      
+it also adds rigidity,      
 
 207
 00:13:24,671 --> 00:13:27,472
-          reinforcing           
-    the neck's round shape.     
+reinforcing the neck's round shape.     
 
 208
 00:13:32,880 --> 00:13:35,079
-          a quick trim          
-   of the remaining strips,     
+a quick trim of the remaining strips,     
 
 209
 00:13:35,081 --> 00:13:37,149
-          and the box           
-     is fully constructed.      
+and the box is fully constructed.      
 
 210
 00:13:39,219 --> 00:13:41,753
-      he then makes a lid       
+he then makes a lid       
 
 211
 00:13:41,755 --> 00:13:45,123
-    using the same materials    
-        and technique.          
+using the same materials and technique.          
 
 212
 00:13:47,027 --> 00:13:50,294
-      next, artisans coat       
+next, artisans coat       
 the outside of the box and lid  
 
 213
 00:13:50,296 --> 00:13:53,998
-         with a mixture         
- of chalk, glue, and sawdust.   
+with a mixture of chalk, glue, and sawdust.   
 
 214
 00:13:54,000 --> 00:13:56,834
-    they let the coating dry    
- in the sun for a day or two,   
+they let the coating dry in the sun for a day or two,   
 
 215
 00:13:56,836 --> 00:14:00,105
-   until the surface becomes    
-  hard and smooth like clay.    
+until the surface becomes hard and smooth like clay.    
 
 216
 00:14:02,709 --> 00:14:06,177
-  now an artist gets to work,   
+now an artist gets to work,   
 
 217
 00:14:06,179 --> 00:14:10,048
- first applying two base coats  
-       of acrylic paint.        
+first applying two base coats of acrylic paint.        
 
 218
 00:14:15,121 --> 00:14:17,189
- once the base coats are dry,   
+once the base coats are dry,   
 
 219
 00:14:17,191 --> 00:14:19,724
-       she places the box       
-        on a turntable          
+she places the box on a turntable          
 
 220
 00:14:19,726 --> 00:14:23,161
-       and applies a coat       
-   of the background color.     
+and applies a coat of the background color.     
 
 221
 00:14:33,673 --> 00:14:36,641
-        once that dries,        
-    she begins outlining the    
-            design.             
+once that dries, she begins outlining the design.             
 
 222
 00:14:43,350 --> 00:14:46,051
- then she fills in the design.  
+then she fills in the design.  
 
 223
 00:14:52,625 --> 00:14:55,493
-        once that's dry,        
-       the fine details.        
+once that's dry, the fine details.        
 
 224
 00:14:55,495 --> 00:14:58,663
-     it's here that you see     
-     the artistry emerge.       
+it's here that you see the artistry emerge.       
 
 225
 00:15:08,776 --> 00:15:10,642
-  once the artwork has dried,   
+once the artwork has dried,   
 
 226
 00:15:10,644 --> 00:15:13,845
-     they encircle the neck     
-    with a band of rattan,      
+they encircle the neck with a band of rattan,      
 
 227
 00:15:13,847 --> 00:15:17,482
-  then with strips of rattan,   
+then with strips of rattan,   
 tie the box to a wooden stand.  
 
 228
 00:15:25,859 --> 00:15:27,592
-  at the base of each corner,   
+at the base of each corner,   
 
 229
 00:15:27,594 --> 00:15:31,062
-  they weave the rattan strips  
-  into a decorative pattern.    
+they weave the rattan strips into a decorative pattern.    
 
 230
 00:15:40,540 --> 00:15:45,544
-   not only is this rice box    
-     entirely handmade...       
+not only is this rice box entirely handmade...       
 
 231
 00:15:45,546 --> 00:15:47,278
-          the artisans          
-     never use templates,       
+the artisans never use templates,       
 
 232
 00:15:47,280 --> 00:15:48,813
-   never take measurements.     
+never take measurements.     
 
 233
 00:15:48,815 --> 00:15:50,682
-    they do it all by eye.      
+they do it all by eye.      
 
 234
 00:15:55,155 --> 00:15:57,355
-     the inside of the box      
-         remains bare.          
+the inside of the box remains bare.          
 
 235
 00:15:57,357 --> 00:16:02,294
- the idea is to see the bamboo  
+the idea is to see the bamboo  
 and how skillfully it's woven.  
 
 236
 00:16:02,296 --> 00:16:04,362
-        it's a natural,         
-       nontoxic surface,        
+it's a natural, nontoxic surface,        
 
 237
 00:16:04,364 --> 00:16:08,033
-    against which it's safe     
-        to store rice.          
+against which it's safe to store rice.          
 
 238
 00:16:23,583 --> 00:16:25,850
-     narrator: paper towels     
-   were invented in the u.s.    
+narrator: paper towels were invented in the u.s.    
 
 239
 00:16:25,852 --> 00:16:27,118
-         in the 1920s.          
+in the 1920s.          
 
 240
 00:16:27,120 --> 00:16:29,988
-     the idea of a one-use,     
-    disposable paper cloth      
+the idea of a one-use, disposable paper cloth      
 
 241
 00:16:29,990 --> 00:16:32,657
-    for cleaning and drying     
-        proved popular.         
+for cleaning and drying proved popular.         
 
 242
 00:16:32,659 --> 00:16:35,994
-   and by 1931, paper towels    
-   were being mass-marketed.    
+and by 1931, paper towels were being mass-marketed.    
 
 243
 00:16:35,996 --> 00:16:39,664
-   today, a paper towel roll    
-     is such a staple in the    
-            kitchen             
+today, a paper towel roll is such a staple in the kitchen             
 
 244
 00:16:39,666 --> 00:16:42,667
-  that an attractive holder for 
-               it               
-          is a must.            
+that an attractive holder for it is a must.            
 
 245
 00:16:42,669 --> 00:16:46,004
-         a paper towel          
-     always comes in handy      
+a paper towel always comes in handy      
 
 246
 00:16:46,006 --> 00:16:48,540
-      to soak up a spill,       
-       clean a surface,         
+to soak up a spill, clean a surface,         
 
 247
 00:16:48,542 --> 00:16:50,408
-   or simply dry wet hands.     
+or simply dry wet hands.     
 
 248
 00:16:50,410 --> 00:16:53,344
-      the embossed pattern      
-   is not just decoration --    
+the embossed pattern is not just decoration --    
 
 249
 00:16:53,346 --> 00:16:56,548
-       it actually makes        
+it actually makes        
 the paper towel more absorbent  
 
 250
 00:16:56,550 --> 00:16:59,284
- by creating liquid-suctioning  
-         empty spaces           
+by creating liquid-suctioning empty spaces           
 
 251
 00:16:59,286 --> 00:17:02,554
-     in between the towel's     
-   two layers, called plies.    
+in between the towel's two layers, called plies.    
 
 252
 00:17:02,556 --> 00:17:05,957
-    this brand is made from     
-     100% recycled fibers,      
+this brand is made from 100% recycled fibers,      
 
 253
 00:17:05,959 --> 00:17:11,229
-     primarily white paper      
-  obtained from office waste.   
+primarily white paper obtained from office waste.   
 
 254
 00:17:11,231 --> 00:17:13,498
-  the paper goes into a large   
-  machine called the pulper,    
+the paper goes into a large machine called the pulper,    
 
 255
 00:17:13,500 --> 00:17:15,633
-     which breaks it up into    
-            fibers,             
+which breaks it up into fibers,             
 
 256
 00:17:15,635 --> 00:17:18,303
-    then blends those fibers    
-          with water            
+then blends those fibers with water            
 
 257
 00:17:18,305 --> 00:17:21,206
-           to produce           
+to produce           
 a mushy substance called pulp.  
 
 258
 00:17:24,844 --> 00:17:27,779
-   a built-in filter removes    
- all the non-paper materials,   
+a built-in filter removes all the non-paper materials,   
 
 259
 00:17:27,781 --> 00:17:33,718
-    such as plastic windows     
-  from envelopes and staples.   
+such as plastic windows from envelopes and staples.   
 
 260
 00:17:33,720 --> 00:17:37,922
-  the next machine removes the  
-               ink              
-   by injecting the pulp with   
-              air.              
+the next machine removes the ink by injecting the pulp with air.              
 
 261
 00:17:37,924 --> 00:17:40,058
-        the ink detaches        
-     from the pulp fibers       
+the ink detaches from the pulp fibers       
 
 262
 00:17:40,060 --> 00:17:41,459
@@ -1299,125 +1062,104 @@ and clings to the air bubbles,
 
 263
 00:17:41,461 --> 00:17:44,329
-     which rise to the top      
-        and drain off.          
+which rise to the top and drain off.          
 
 264
 00:17:47,467 --> 00:17:51,136
- the pulp goes through a press, 
-     which, with a series of    
-            rollers,            
+the pulp goes through a press, which, with a series of rollers,            
 
 265
 00:17:51,138 --> 00:17:53,505
-    squeezes out the water.     
+squeezes out the water.     
 
 266
 00:18:02,482 --> 00:18:04,883
-        a screw conveyor        
-    then breaks up the pulp     
+a screw conveyor then breaks up the pulp     
 
 267
 00:18:04,885 --> 00:18:07,018
-          and moves it          
-     to the next station,       
+and moves it to the next station,       
 
 268
 00:18:07,020 --> 00:18:08,285
-       which whitens it         
+which whitens it         
 
 269
 00:18:08,287 --> 00:18:10,555
-     with a peroxide-based      
-       bleaching agent,         
+with a peroxide-based bleaching agent,         
 
 270
 00:18:10,557 --> 00:18:13,224
-   then rinses it thoroughly    
-       with clean water.        
+then rinses it thoroughly with clean water.        
 
 271
 00:18:16,630 --> 00:18:19,363
-  next, and this is off limits  
-         to the camera          
+next, and this is off limits to the camera          
 
 272
 00:18:19,365 --> 00:18:20,898
-   for competitive reasons,     
+for competitive reasons,     
 
 273
 00:18:20,900 --> 00:18:23,635
-           they apply           
+they apply           
 a chemical wet-strength agent,  
 
 274
 00:18:23,637 --> 00:18:27,505
-   then form it into a sheet    
-   of paper nearly eight feet   
-             wide.              
+then form it into a sheet of paper nearly eight feet wide.              
 
 275
 00:18:27,507 --> 00:18:30,908
-    the wet-strength agent,     
-     as the term suggests,      
+the wet-strength agent, as the term suggests,      
 
 276
 00:18:30,910 --> 00:18:34,045
-     keeps the paper towel      
-       intact when wet.         
+keeps the paper towel intact when wet.         
 
 277
 00:18:34,047 --> 00:18:36,047
-            without             
-  this fortifying treatment,    
+without this fortifying treatment,    
 
 278
 00:18:36,049 --> 00:18:40,051
-     paper towels would be      
-  as fragile as toilet paper.   
+paper towels would be as fragile as toilet paper.   
 
 279
 00:18:40,053 --> 00:18:42,087
-   after forming the paper,     
+after forming the paper,     
 
 280
 00:18:42,089 --> 00:18:46,458
-    the machine winds it up     
-       into giant rolls.        
+the machine winds it up into giant rolls.        
 
 281
 00:18:46,460 --> 00:18:48,727
-     these rolls will feed      
-     the converting line,       
+these rolls will feed the converting line,       
 
 282
 00:18:48,729 --> 00:18:51,396
-     the automated stations     
-   which transform the paper    
+the automated stations which transform the paper    
 
 283
 00:18:51,398 --> 00:18:52,631
-      into paper towels.        
+into paper towels.        
 
 284
 00:18:56,203 --> 00:18:59,137
-    two rolls feed the line     
-        simultaneously,         
+two rolls feed the line simultaneously,         
 
 285
 00:18:59,139 --> 00:19:02,307
-     each providing one ply     
-  of the two-ply paper towel.   
+each providing one ply of the two-ply paper towel.   
 
 286
 00:19:12,552 --> 00:19:14,919
-      but before the plies      
-   hit the converting line,     
+but before the plies hit the converting line,     
 
 287
 00:19:14,921 --> 00:19:18,289
- the factory's quality-control  
-     lab analyzes samples       
+the factory's quality-control lab analyzes samples       
 
 288
 00:19:18,291 --> 00:19:21,092
@@ -1425,156 +1167,130 @@ in both the wet and dry state.
 
 289
 00:19:21,094 --> 00:19:24,028
-      the testing machine       
- pulls both ends of the sample  
+the testing machine pulls both ends of the sample  
 
 290
 00:19:24,030 --> 00:19:25,563
-        until it tears,         
+until it tears,         
 
 291
 00:19:25,565 --> 00:19:28,466
-  measuring whether the paper   
+measuring whether the paper   
 meets strength specifications.  
 
 292
 00:19:32,439 --> 00:19:33,905
-    on the converting line,     
+on the converting line,     
 
 293
 00:19:33,907 --> 00:19:36,640
-     one ply travels under      
-     an embossing roller,       
+one ply travels under an embossing roller,       
 
 294
 00:19:36,642 --> 00:19:40,311
-    which presses a textured    
-             design             
-        onto the paper.         
+which presses a textured design onto the paper.         
 
 295
 00:19:40,313 --> 00:19:43,114
-  another roller then applies   
-      a thin coat of glue       
+another roller then applies a thin coat of glue       
 
 296
 00:19:43,116 --> 00:19:45,483
-    onto the raised portions    
-        of the pattern.         
+onto the raised portions of the pattern.         
 
 297
 00:19:46,986 --> 00:19:50,054
-     the next station lays      
-  the embossed and glued ply    
+the next station lays the embossed and glued ply    
 
 298
 00:19:50,056 --> 00:19:52,857
-      on top of the second      
-        still-flat ply.         
+on top of the second still-flat ply.         
 
 299
 00:19:52,859 --> 00:19:56,461
-    then a fine-tooth knife     
-  cuts the perforated lines,    
+then a fine-tooth knife cuts the perforated lines,    
 
 300
 00:19:56,463 --> 00:19:59,130
-      which will separate       
-     the individual sheets      
+which will separate the individual sheets      
 
 301
 00:19:59,132 --> 00:20:01,532
-   on the paper towel roll.     
+on the paper towel roll.     
 
 302
 00:20:01,534 --> 00:20:06,471
-   the next machine winds 100   
-    sheets around a cardboard   
-             tube.              
+the next machine winds 100 sheets around a cardboard tube.              
 
 303
 00:20:06,473 --> 00:20:09,240
-       that's the length        
-   of one paper towel roll.     
+that's the length of one paper towel roll.     
 
 304
 00:20:20,153 --> 00:20:22,754
-           a machine            
-    called the accumulator      
+a machine called the accumulator      
 
 305
 00:20:22,756 --> 00:20:25,156
-     transports these logs,     
-      as they're called,        
+transports these logs, as they're called,        
 
 306
 00:20:25,158 --> 00:20:28,760
-   to the cutting station...    
+to the cutting station...    
 
 307
 00:20:28,762 --> 00:20:32,030
-     where every 10 inches,     
-    a rotating circular saw     
+where every 10 inches, a rotating circular saw     
 
 308
 00:20:32,032 --> 00:20:34,466
-    slices through four logs    
-        simultaneously.         
+slices through four logs simultaneously.         
 
 309
 00:20:37,237 --> 00:20:38,770
-     this divides each log      
+this divides each log      
 
 310
 00:20:38,772 --> 00:20:41,473
-          into a dozen          
-  finished paper towel rolls.   
+into a dozen finished paper towel rolls.   
 
 311
 00:20:45,779 --> 00:20:47,912
-    the next station groups     
-    the rolls for packaging     
+the next station groups the rolls for packaging     
 
 312
 00:20:47,914 --> 00:20:50,949
-     either by 6 or by 12.      
+either by 6 or by 12.      
 
 313
 00:20:53,319 --> 00:20:56,320
-     the packaging machine      
-    encases the group rolls     
+the packaging machine encases the group rolls     
 
 314
 00:20:56,322 --> 00:20:58,022
-     in printed plastic...      
+in printed plastic...      
 
 315
 00:21:01,527 --> 00:21:04,095
-     ...then heat-seals the     
-            wrapping            
-            closed.             
+...then heat-seals the wrapping closed.             
 
 316
 00:21:09,068 --> 00:21:13,605
-    paper towel consumption     
- is highest in north america,   
+paper towel consumption is highest in north america,   
 
 317
 00:21:13,607 --> 00:21:17,442
-    where factories produce     
-  50 trillion rolls per year.   
+where factories produce 50 trillion rolls per year.   
 
 318
 00:21:26,886 --> 00:21:29,220
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 319
 00:21:29,222 --> 00:21:32,023
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 320
 00:21:32,025 --> 00:21:34,125
-     drop us a line at...       
+drop us a line at...       
 

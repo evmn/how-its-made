@@ -1,99 +1,86 @@
 ﻿1
 00:00:02,136 --> 00:00:05,137
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,139 --> 00:00:08,140
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,919 --> 00:00:54,319
-     narrator: in the world     
-     of temperature-gauging,    
+narrator: in the world of temperature-gauging,    
 
 4
 00:00:54,321 --> 00:00:56,656
-      the dial thermometer      
-     is a lot easier to read    
+the dial thermometer is a lot easier to read    
 
 5
 00:00:56,658 --> 00:00:58,791
- than a glass-stem thermometer. 
+than a glass-stem thermometer. 
 
 6
 00:00:58,793 --> 00:01:01,928
- a needle points to bold numbers
-           on a dial,           
+a needle points to bold numbers
+on a dial,           
 
 7
 00:01:01,930 --> 00:01:03,261
-    and even from a distance,   
+and even from a distance,   
 
 8
 00:01:03,263 --> 00:01:04,597
-  it only takes a quick glance  
+it only takes a quick glance  
 
 9
 00:01:04,599 --> 00:01:09,001
 to confirm an initial impression
-   that things are heating up.  
+that things are heating up.  
 
 10
 00:01:12,674 --> 00:01:14,740
-     all the highs and lows     
-        are plain to see        
+all the highs and lows are plain to see        
 
 11
 00:01:14,742 --> 00:01:16,542
-           on the face          
-     of a dial thermometer.     
+on the face of a dial thermometer.     
 
 12
 00:01:16,544 --> 00:01:18,344
-         it often comes         
-       with lengthy tubing      
+it often comes with lengthy tubing      
 
 13
 00:01:18,346 --> 00:01:20,212
-     to measure temperature     
-           from afar.           
+to measure temperature from afar.           
 
 14
 00:01:20,214 --> 00:01:22,481
-      it's a handy feature      
-        for power plants        
+it's a handy feature for power plants        
 
 15
 00:01:22,483 --> 00:01:24,817
-  and heating and refrigeration 
-            systems.            
+and heating and refrigeration systems.            
 
 16
 00:01:24,819 --> 00:01:28,153
-  to begin, rollers straighten  
-    very narrow metal tubing.   
+to begin, rollers straighten very narrow metal tubing.   
 
 17
 00:01:28,155 --> 00:01:32,158
- then a blade cuts it to length 
- depending on the application.  
+then a blade cuts it to length depending on the application.  
 
 18
 00:01:32,160 --> 00:01:37,363
-   as the blade makes the cut,  
+as the blade makes the cut,  
 a mechanism pries open the ends.
 
 19
 00:01:37,365 --> 00:01:41,166
 next, a worker inserts a fitting
-     into a much wider tube     
+into a much wider tube     
 
 20
 00:01:41,168 --> 00:01:44,170
-        that will become        
- the thermometer's sensor bulb. 
+that will become the thermometer's sensor bulb. 
 
 21
 00:01:44,172 --> 00:01:46,038
@@ -101,108 +88,94 @@ he secures the tube in a fixture
 
 22
 00:01:46,040 --> 00:01:48,574
-   and welds the narrow tubing  
-        machined earlier        
+and welds the narrow tubing machined earlier        
 
 23
 00:01:48,576 --> 00:01:51,177
-         to the fitting         
-     on the end of the bulb.    
+to the fitting on the end of the bulb.    
 
 24
 00:01:51,179 --> 00:01:53,646
-          with the bulb         
-     and tubing now linked,     
+with the bulb and tubing now linked,     
 
 25
 00:01:53,648 --> 00:01:55,448
-        production moves        
-       to the next stage,       
+production moves to the next stage,       
 
 26
 00:01:55,450 --> 00:01:59,518
- the making of the burden tube, 
-  which is a kind of a spring.  
+the making of the burden tube, which is a kind of a spring.  
 
 27
 00:01:59,520 --> 00:02:04,056
- a worker cuts flat, wafer-thin 
-        tubing to length.       
+a worker cuts flat, wafer-thin tubing to length.       
 
 28
 00:02:04,058 --> 00:02:05,391
-         down the line,         
+down the line,         
 
 29
 00:02:05,393 --> 00:02:09,662
-    they clamp the flat tubes   
- in a device that's on a track. 
+they clamp the flat tubes in a device that's on a track. 
 
 30
 00:02:09,664 --> 00:02:11,931
-   it moves past an arc welder  
+it moves past an arc welder  
 
 31
 00:02:11,933 --> 00:02:15,301
-  that melts and closes one end 
-       of the flat tubes.       
+that melts and closes one end of the flat tubes.       
 
 32
 00:02:17,739 --> 00:02:22,140
-    here's a before-and-after   
-           comparison.          
+here's a before-and-after comparison.          
 
 33
 00:02:22,142 --> 00:02:24,477
- a worker now encloses the tube 
-            in a die            
+a worker now encloses the tube in a die            
 
 34
 00:02:24,479 --> 00:02:27,380
-        and drives a pin        
-       into its open end.       
+and drives a pin into its open end.       
 
 35
 00:02:30,018 --> 00:02:32,818
-           this widens          
-    and redefines the opening   
+this widens and redefines the opening   
 
 36
 00:02:32,820 --> 00:02:35,787
-    from inside and outside.    
+from inside and outside.    
 
 37
 00:02:35,789 --> 00:02:37,222
-  he slides it over another pin 
+he slides it over another pin 
 
 38
 00:02:37,224 --> 00:02:40,092
-          and activates         
-    a mechanical punch press.   
+and activates a mechanical punch press.   
 
 39
 00:02:40,094 --> 00:02:44,030
-    this fine-tunes the shape   
- and dimensions of the opening. 
+this fine-tunes the shape and dimensions of the opening. 
 
 40
 00:02:45,166 --> 00:02:48,434
- the next worker clamps the tube
-       in another device.       
+the next worker clamps the tube
+in another device.       
 
 41
 00:02:48,436 --> 00:02:52,838
- he operates a roller to wrap it
-       around a mandrill,       
+he operates a roller to wrap it
+around a mandrill,       
 
 42
 00:02:52,840 --> 00:02:55,441
-  bending it into a "c" shape.  
+bending it into a "c" shape.  
 
 43
 00:02:58,112 --> 00:03:01,514
 this completes the thermometer's
-       burden-tube spring.      
+burden-tube spring.      
 
 44
 00:03:01,516 --> 00:03:03,716
@@ -210,197 +183,172 @@ the next worker clamps a bracket
 
 45
 00:03:03,718 --> 00:03:07,186
-          to the bottom         
-       of the burden tube.      
+to the bottom of the burden tube.      
 
 46
 00:03:07,188 --> 00:03:09,922
-    he inserts a small piece    
-       of connector tubing      
+he inserts a small piece of connector tubing      
 
 47
 00:03:09,924 --> 00:03:11,457
-     in the burden-tube hole    
+in the burden-tube hole    
 
 48
 00:03:11,459 --> 00:03:14,260
-   and applies liberal amounts  
-       of a flux compound.      
+and applies liberal amounts of a flux compound.      
 
 49
 00:03:14,262 --> 00:03:16,662
-  the flux prevents tarnishing  
-          of the metal          
+the flux prevents tarnishing of the metal          
 
 50
 00:03:16,664 --> 00:03:19,665
-    as he melts silver solder   
-  to braise the parts together  
+as he melts silver solder to braise the parts together  
 
 51
 00:03:19,667 --> 00:03:21,801
-    and to seal the opening.    
+and to seal the opening.    
 
 52
 00:03:21,803 --> 00:03:23,535
-           now a test.          
+now a test.          
 
 53
 00:03:23,537 --> 00:03:26,672
-          he pumps gas          
-    into several burden tubes   
+he pumps gas into several burden tubes   
 
 54
 00:03:26,674 --> 00:03:28,340
-   and immerses them in water.  
+and immerses them in water.  
 
 55
 00:03:28,342 --> 00:03:30,742
-      if no gas bubbles out     
-          of the tubes,         
+if no gas bubbles out of the tubes,         
 
 56
 00:03:30,744 --> 00:03:33,812
-       it means the tubes       
-      are perfectly sealed.     
+it means the tubes are perfectly sealed.     
 
 57
 00:03:33,814 --> 00:03:38,017
-  the gas pressure also causes  
+the gas pressure also causes  
 the tubes to spring into action.
 
 58
 00:03:38,019 --> 00:03:39,885
-        it's this action        
-   that will move the pointer   
+it's this action that will move the pointer   
 
 59
 00:03:39,887 --> 00:03:43,622
-           on the dial          
-       of the thermometer.      
+on the dial of the thermometer.      
 
 60
 00:03:43,624 --> 00:03:47,693
-    the next worker attaches    
+the next worker attaches    
 a brass connector to the tubing.
 
 61
 00:03:49,831 --> 00:03:54,567
-    he braises them together    
-    to create a solid bond.     
+he braises them together to create a solid bond.     
 
 62
 00:03:54,569 --> 00:03:57,703
- he folds the braised parts into
-  the curve of the burden tube  
+he folds the braised parts into
+the curve of the burden tube  
 
 63
 00:03:57,705 --> 00:04:01,306
-    and pushes it into place    
-    with a mechanical press.    
+and pushes it into place with a mechanical press.    
 
 64
 00:04:01,308 --> 00:04:02,908
-  he installs the gear assembly 
+he installs the gear assembly 
 
 65
 00:04:02,910 --> 00:04:05,977
- that will translate the linear 
-   movement of the burden tube  
+that will translate the linear movement of the burden tube  
 
 66
 00:04:05,979 --> 00:04:09,714
-  into the rotational movement  
-  of the thermometer pointer.   
+into the rotational movement of the thermometer pointer.   
 
 67
 00:04:09,716 --> 00:04:11,917
-            he screws           
-    the dual-temperature dial   
+he screws the dual-temperature dial   
 
 68
 00:04:11,919 --> 00:04:13,919
-  to the burden-tube assembly.  
+to the burden-tube assembly.  
 
 69
 00:04:13,921 --> 00:04:15,921
- the more detailed and extensive
-           the scale,           
+the more detailed and extensive
+the scale,           
 
 70
 00:04:15,923 --> 00:04:18,057
-      the bigger the dial.      
+the bigger the dial.      
 
 71
 00:04:18,059 --> 00:04:20,259
-     this one is mid-sized.     
+this one is mid-sized.     
 
 72
 00:04:21,462 --> 00:04:23,728
-       and now everything       
-         comes together         
+and now everything comes together         
 
 73
 00:04:23,730 --> 00:04:27,332
- as he tethers the sensing bulb,
-  along with a short fill tube, 
+as he tethers the sensing bulb,
+along with a short fill tube, 
 
 74
 00:04:27,334 --> 00:04:29,535
-         to the back of         
-    the burden-tube assembly.   
+to the back of the burden-tube assembly.   
 
 75
 00:04:29,537 --> 00:04:31,470
-     using a braising torch     
-           and solder,          
+using a braising torch and solder,          
 
 76
 00:04:31,472 --> 00:04:34,606
-    he seals the connection.    
+he seals the connection.    
 
 77
 00:04:34,608 --> 00:04:38,610
-      he then steam-cleans      
-       the braised joint.       
+he then steam-cleans the braised joint.       
 
 78
 00:04:38,612 --> 00:04:40,813
-       he buries the bulb       
-       in a hot sand bath       
+he buries the bulb in a hot sand bath       
 
 79
 00:04:40,815 --> 00:04:44,283
-    that causes any moisture    
-       in it to evaporate.      
+that causes any moisture in it to evaporate.      
 
 80
 00:04:44,285 --> 00:04:46,084
-     through the fill tube,     
+through the fill tube,     
 
 81
 00:04:46,086 --> 00:04:48,353
-       he fills the bulb        
-       with nitrogen gas.       
+he fills the bulb with nitrogen gas.       
 
 82
 00:04:48,355 --> 00:04:50,489
-  to calibrate the thermometer, 
+to calibrate the thermometer, 
 
 83
 00:04:50,491 --> 00:04:52,558
-   he plunges the sensing bulb  
-        in boiling water        
+he plunges the sensing bulb in boiling water        
 
 84
 00:04:52,560 --> 00:04:54,826
-    and adjusts the pressure    
-       of the nitrogen gas      
+and adjusts the pressure of the nitrogen gas      
 
 85
 00:04:54,828 --> 00:04:58,364
-         until the dial         
-  reads 212 degrees fahrenheit. 
+until the dial reads 212 degrees fahrenheit. 
 
 86
 00:04:58,366 --> 00:05:02,300
@@ -409,324 +357,275 @@ so he crimps it to seal it off.
 
 87
 00:05:02,302 --> 00:05:05,571
-      he tests its accuracy     
-  by immersing the sensing bulb 
+he tests its accuracy by immersing the sensing bulb 
 
 88
 00:05:05,573 --> 00:05:07,506
-  in numerous controlled baths, 
+in numerous controlled baths, 
 
 89
 00:05:07,508 --> 00:05:09,507
-            each one            
-    a different temperature.    
+each one a different temperature.    
 
 90
 00:05:09,509 --> 00:05:11,043
-    and if it's on the mark,    
+and if it's on the mark,    
 
 91
 00:05:11,045 --> 00:05:14,914
- he encloses the inner workings 
-  in the stainless-steel case.  
+he encloses the inner workings in the stainless-steel case.  
 
 92
 00:05:14,916 --> 00:05:19,919
-      he protects the joint     
- with a special metal spring... 
+he protects the joint with a special metal spring... 
 
 93
 00:05:19,921 --> 00:05:22,521
-    and snaps a clear window    
-          to the case.          
+and snaps a clear window to the case.          
 
 94
 00:05:22,523 --> 00:05:26,458
-      a gasket between them     
-    ensures a dustproof seal.   
+a gasket between them ensures a dustproof seal.   
 
 95
 00:05:26,460 --> 00:05:30,129
- he screws a part called a well 
- to the sensing-bulb connector. 
+he screws a part called a well to the sensing-bulb connector. 
 
 96
 00:05:30,131 --> 00:05:34,200
-    the well will protect it    
-  in high-pressure situations.  
+the well will protect it in high-pressure situations.  
 
 97
 00:05:34,202 --> 00:05:37,202
-    and this dial thermometer   
-          is now ready          
+and this dial thermometer is now ready          
 
 98
 00:05:37,204 --> 00:05:40,573
-      for the ups and downs     
-     of temperature-gauging.    
+for the ups and downs of temperature-gauging.    
 
 99
 00:05:54,822 --> 00:05:57,089
-       narrator: hummus is      
-    the original snack food.    
+narrator: hummus is the original snack food.    
 
 100
 00:05:57,091 --> 00:05:59,158
-     people have been eating    
-        this chickpea dip       
+people have been eating this chickpea dip       
 
 101
 00:05:59,160 --> 00:06:00,492
-     for thousands of years.    
+for thousands of years.    
 
 102
 00:06:00,494 --> 00:06:03,362
 countries from the mediterranean
-       to the middle east       
+to the middle east       
 
 103
 00:06:03,364 --> 00:06:04,963
-   lay claim to its invention.  
+lay claim to its invention.  
 
 104
 00:06:04,965 --> 00:06:07,366
-          but one thing         
-      is beyond dispute --      
+but one thing is beyond dispute --      
 
 105
 00:06:07,368 --> 00:06:11,937
- as an appetizer or side dish,  
- hummus has real staying power. 
+as an appetizer or side dish, hummus has real staying power. 
 
 106
 00:06:16,376 --> 00:06:18,444
-   hummus is a vegetarian form  
-           of protein,          
+hummus is a vegetarian form of protein,          
 
 107
 00:06:18,446 --> 00:06:20,379
-       which could be why       
-      more and more people      
+which could be why more and more people      
 
 108
 00:06:20,381 --> 00:06:22,748
-   are choosing to take a dip.  
+are choosing to take a dip.  
 
 109
 00:06:24,384 --> 00:06:27,987
-  the word "hummus" is actually 
-     arabic for "chickpea,"     
+the word "hummus" is actually arabic for "chickpea,"     
 
 110
 00:06:27,989 --> 00:06:31,390
-       which is of course       
-      the main ingredient.      
+which is of course the main ingredient.      
 
 111
 00:06:31,392 --> 00:06:34,226
-      the chickpeas arrive      
-  at the factory in dried form. 
+the chickpeas arrive at the factory in dried form. 
 
 112
 00:06:36,330 --> 00:06:38,063
-   they ride a conveyor upward  
+they ride a conveyor upward  
 
 113
 00:06:38,065 --> 00:06:41,266
-       and then spill down      
-  onto a long, vibrating tray.  
+and then spill down onto a long, vibrating tray.  
 
 114
 00:06:41,268 --> 00:06:43,202
-          it shakes out         
-      heavier contaminants      
+it shakes out heavier contaminants      
 
 115
 00:06:43,204 --> 00:06:44,603
-     like pebbles or twigs.     
+like pebbles or twigs.     
 
 116
 00:06:44,605 --> 00:06:47,139
-        the contaminants        
-     fall into a bin below,     
+the contaminants fall into a bin below,     
 
 117
 00:06:47,141 --> 00:06:49,541
-       while the chickpeas      
-       bounce off the tray      
+while the chickpeas bounce off the tray      
 
 118
 00:06:49,543 --> 00:06:52,511
 and into a tub of filtered water
-          to be rinsed.         
+to be rinsed.         
 
 119
 00:06:56,016 --> 00:06:57,082
-       still dripping wet,      
+still dripping wet,      
 
 120
 00:06:57,084 --> 00:06:59,685
-      it's onto a conveyor      
-    with perforated buckets.    
+it's onto a conveyor with perforated buckets.    
 
 121
 00:06:59,687 --> 00:07:02,087
-        the water drains        
-       from the chickpeas       
+the water drains from the chickpeas       
 
 122
 00:07:02,089 --> 00:07:04,590
-     as they're transferred     
-          to big tanks.         
+as they're transferred to big tanks.         
 
 123
 00:07:06,093 --> 00:07:08,761
-    each tank holds thousands   
-      of little chickpeas.      
+each tank holds thousands of little chickpeas.      
 
 124
 00:07:11,832 --> 00:07:14,366
-      they add clean water      
-     and soak the chickpeas.    
+they add clean water and soak the chickpeas.    
 
 125
 00:07:14,368 --> 00:07:17,169
-   after 14 hours in the tank,  
+after 14 hours in the tank,  
 
 126
 00:07:17,171 --> 00:07:20,272
- they swell to twice their size 
-         and soften up.         
+they swell to twice their size and soften up.         
 
 127
 00:07:23,978 --> 00:07:27,179
 they pump the softened chickpeas
-         into big trays,        
+into big trays,        
 
 128
 00:07:27,181 --> 00:07:30,983
-   which they stack on a cart.  
+which they stack on a cart.  
 
 129
 00:07:30,985 --> 00:07:33,919
-     then it's into a huge,     
-    cylindrical steam cooker    
+then it's into a huge, cylindrical steam cooker    
 
 130
 00:07:33,921 --> 00:07:38,390
- that's been preheated to around
-     255 degrees fahrenheit.    
+that's been preheated to around
+255 degrees fahrenheit.    
 
 131
 00:07:40,193 --> 00:07:43,862
-     they bake the chickpeas    
-   for just over half an hour.  
+they bake the chickpeas for just over half an hour.  
 
 132
 00:07:43,864 --> 00:07:47,766
-   this softens them even more  
-     and darkens the color.     
+this softens them even more and darkens the color.     
 
 133
 00:07:49,803 --> 00:07:53,872
-        from dried beans        
-   to soaked and then cooked.   
+from dried beans to soaked and then cooked.   
 
 134
 00:07:56,077 --> 00:07:59,411
-  they now transfer the cooked  
- chickpeas to the next conveyor,
+they now transfer the cooked chickpeas to the next conveyor,
 
 135
 00:07:59,413 --> 00:08:02,448
-    and they're on their way    
-   to being ground to a pulp.   
+and they're on their way to being ground to a pulp.   
 
 136
 00:08:04,217 --> 00:08:05,683
-      this is the grinder,      
+this is the grinder,      
 
 137
 00:08:05,685 --> 00:08:08,353
-      now being reassembled     
-         after cleaning.        
+now being reassembled after cleaning.        
 
 138
 00:08:08,355 --> 00:08:11,089
-    it has two sharp-toothed,   
-        circular blades.        
+it has two sharp-toothed, circular blades.        
 
 139
 00:08:11,091 --> 00:08:13,892
-       one is stationary,       
-     and the other revolves.    
+one is stationary, and the other revolves.    
 
 140
 00:08:13,894 --> 00:08:16,829
-        a big turn screw        
-    will force the chickpeas    
+a big turn screw will force the chickpeas    
 
 141
 00:08:16,831 --> 00:08:19,365
-  through these toothed blades  
-        to grind them up.       
+through these toothed blades to grind them up.       
 
 142
 00:08:24,438 --> 00:08:27,439
-   a quick test confirms this   
-  grinder is in working order.  
+a quick test confirms this grinder is in working order.  
 
 143
 00:08:30,377 --> 00:08:32,844
-    meanwhile, the chickpeas    
-    have arrived at a hopper    
+meanwhile, the chickpeas have arrived at a hopper    
 
 144
 00:08:32,846 --> 00:08:34,813
-       above the grinder.       
+above the grinder.       
 
 145
 00:08:38,252 --> 00:08:40,519
-        as the chickpeas        
-     spill into the hopper,     
+as the chickpeas spill into the hopper,     
 
 146
 00:08:40,521 --> 00:08:44,790
-   they add water and a blend   
-   of sunflower and olive oil,  
+they add water and a blend of sunflower and olive oil,  
 
 147
 00:08:44,792 --> 00:08:48,460
-   followed by salt, garlic,    
-   and other dry ingredients.   
+followed by salt, garlic, and other dry ingredients.   
 
 148
 00:08:48,462 --> 00:08:50,795
-          the chickpeas         
-      and other ingredients     
+the chickpeas and other ingredients     
 
 149
 00:08:50,797 --> 00:08:53,132
-            flow into           
-    the grinding device below   
+flow into the grinding device below   
 
 150
 00:08:53,134 --> 00:08:55,467
-  and are turned into a paste.  
+and are turned into a paste.  
 
 151
 00:08:59,607 --> 00:09:01,874
- the next ingredient is tahini. 
+the next ingredient is tahini. 
 
 152
 00:09:01,876 --> 00:09:05,944
-       it's a thick paste       
- made from ground sesame seeds. 
+it's a thick paste made from ground sesame seeds. 
 
 153
 00:09:05,946 --> 00:09:09,214
-      three powerful pumps      
-      pulverize the tahini      
+three powerful pumps pulverize the tahini      
 
 154
 00:09:09,216 --> 00:09:11,283
@@ -734,248 +633,214 @@ to evenly disperse the particles
 
 155
 00:09:11,285 --> 00:09:14,486
-    so it can now be blended    
-     with the chickpea mix.     
+so it can now be blended with the chickpea mix.     
 
 156
 00:09:21,762 --> 00:09:24,763
-    big, steel blades revolve   
-        to thoroughly mix       
+big, steel blades revolve to thoroughly mix       
 
 157
 00:09:24,765 --> 00:09:28,500
-  all the ingredients in a tank 
-       and produce hummus.      
+all the ingredients in a tank and produce hummus.      
 
 158
 00:09:28,502 --> 00:09:30,102
- for different-flavored hummus, 
+for different-flavored hummus, 
 
 159
 00:09:30,104 --> 00:09:32,170
-      they add red pepper,      
-          more garlic,          
+they add red pepper, more garlic,          
 
 160
 00:09:32,172 --> 00:09:35,107
-      or other ingredients.     
+or other ingredients.     
 
 161
 00:09:35,109 --> 00:09:37,776
-    after the blended product   
-         is pasteurized,        
+after the blended product is pasteurized,        
 
 162
 00:09:37,778 --> 00:09:40,646
-   a technician takes samples   
-        for lab testing,        
+a technician takes samples for lab testing,        
 
 163
 00:09:40,648 --> 00:09:43,182
-      for mold, shelf life,     
-        and other tests.        
+for mold, shelf life, and other tests.        
 
 164
 00:09:43,184 --> 00:09:45,450
-      she also does her own     
-           taste test.          
+she also does her own taste test.          
 
 165
 00:09:45,452 --> 00:09:47,986
-          if the flavor         
-    seems even slightly off,    
+if the flavor seems even slightly off,    
 
 166
 00:09:47,988 --> 00:09:51,323
- they'll put the product on hold
-   and tweak the ingredients.   
+they'll put the product on hold
+and tweak the ingredients.   
 
 167
 00:09:51,325 --> 00:09:54,593
-  but this batch gets the nod.  
+but this batch gets the nod.  
 
 168
 00:09:54,595 --> 00:09:58,463
-  meanwhile, plastic containers 
-   are queuing for a fill-up.   
+meanwhile, plastic containers are queuing for a fill-up.   
 
 169
 00:09:58,465 --> 00:10:02,000
-  machinery moves them forward  
-     toward piston fillers.     
+machinery moves them forward toward piston fillers.     
 
 170
 00:10:02,002 --> 00:10:04,335
-   the pistons push the creamy  
-      hummus out of nozzles     
+the pistons push the creamy hummus out of nozzles     
 
 171
 00:10:04,337 --> 00:10:07,672
-       and into the tubs.       
+and into the tubs.       
 
 172
 00:10:07,674 --> 00:10:10,676
-     now filled to the brim     
-          with hummus,          
+now filled to the brim with hummus,          
 
 173
 00:10:10,678 --> 00:10:14,813
-  the tubs travel under a sheet 
-        of plastic film.        
+the tubs travel under a sheet of plastic film.        
 
 174
 00:10:14,815 --> 00:10:16,948
-        hot, round irons        
-        melt the plastic        
+hot, round irons melt the plastic        
 
 175
 00:10:16,950 --> 00:10:18,416
-     to seal it to the rims.    
+to seal it to the rims.    
 
 176
 00:10:18,418 --> 00:10:21,687
-  suctioning devices swoop down 
-       to apply the lids,       
+suctioning devices swoop down to apply the lids,       
 
 177
 00:10:21,689 --> 00:10:24,088
-         and the hummus         
-      heads towards a roll      
+and the hummus heads towards a roll      
 
 178
 00:10:24,090 --> 00:10:26,959
-   of adhesive-backed labels.   
+of adhesive-backed labels.   
 
 179
 00:10:26,961 --> 00:10:29,961
-  a sensor detects the approach 
-           of the tubs          
+a sensor detects the approach of the tubs          
 
 180
 00:10:29,963 --> 00:10:32,030
-      and triggers a device     
-      with little air jets      
+and triggers a device with little air jets      
 
 181
 00:10:32,032 --> 00:10:33,665
- to slap the labels on the lids.
+to slap the labels on the lids.
 
 182
 00:10:35,502 --> 00:10:40,439
- this hummus production has gone
-      very smoothly indeed.     
+this hummus production has gone
+very smoothly indeed.     
 
 183
 00:10:57,391 --> 00:11:00,592
- narrator: spent fuel containers
- are designed to take the heat, 
+narrator: spent fuel containers
+are designed to take the heat, 
 
 184
 00:11:00,594 --> 00:11:03,862
-   the kind caused by the most  
-     radioactive of waste --    
+the kind caused by the most radioactive of waste --    
 
 185
 00:11:03,864 --> 00:11:05,397
-       used nuclear fuel.       
+used nuclear fuel.       
 
 186
 00:11:05,399 --> 00:11:07,933
-         these fuel rods        
-        are too dangerous       
+these fuel rods are too dangerous       
 
 187
 00:11:07,935 --> 00:11:09,735
-   to be casually disposed of,  
+to be casually disposed of,  
 
 188
 00:11:09,737 --> 00:11:12,671
-     but encased in special     
-     spent fuel cannisters,     
+but encased in special spent fuel cannisters,     
 
 189
 00:11:12,673 --> 00:11:15,274
-  the risk should be contained. 
+the risk should be contained. 
 
 190
 00:11:17,611 --> 00:11:20,212
-          nuclear waste         
-   sits in a holding pattern,   
+nuclear waste sits in a holding pattern,   
 
 191
 00:11:20,214 --> 00:11:22,948
-    and that means storing it   
-      in massive cylinders      
+and that means storing it in massive cylinders      
 
 192
 00:11:22,950 --> 00:11:25,417
-       until there's a way      
-        to dispose of it.       
+until there's a way to dispose of it.       
 
 193
 00:11:25,419 --> 00:11:26,818
-     these containers start     
+these containers start     
 
 194
 00:11:26,820 --> 00:11:30,154
-  with a big, rectangular sheet 
-       of stainless steel.      
+with a big, rectangular sheet of stainless steel.      
 
 195
 00:11:30,156 --> 00:11:34,560
-    a special circular cutter   
- carves a beveled edge onto it. 
+a special circular cutter carves a beveled edge onto it. 
 
 196
 00:11:34,562 --> 00:11:36,094
-     they feed it to rollers    
+they feed it to rollers    
 
 197
 00:11:36,096 --> 00:11:38,429
-      which curl the sheet      
-        into a cylinder.        
+which curl the sheet into a cylinder.        
 
 198
 00:11:38,431 --> 00:11:41,099
-       it takes four trips      
-       through the rollers      
+it takes four trips through the rollers      
 
 199
 00:11:41,101 --> 00:11:44,369
-     to really round it out.    
+to really round it out.    
 
 200
 00:11:44,371 --> 00:11:48,840
-   they tuck a template inside  
- the curve to check the radius. 
+they tuck a template inside the curve to check the radius. 
 
 201
 00:11:51,045 --> 00:11:54,112
-      next, a welder joins      
-    the neatly beveled edges    
+next, a welder joins the neatly beveled edges    
 
 202
 00:11:54,114 --> 00:11:55,647
-    to complete the cylinder.   
+to complete the cylinder.   
 
 203
 00:11:55,649 --> 00:11:58,984
-      this cylinder will be     
- the outer wall of a cannister. 
+this cylinder will be the outer wall of a cannister. 
 
 204
 00:11:58,986 --> 00:12:01,252
-     the cannister will fit     
-     inside a big cylinder      
+the cannister will fit inside a big cylinder      
 
 205
 00:12:01,254 --> 00:12:02,921
-       called an overpack.      
+called an overpack.      
 
 206
 00:12:02,923 --> 00:12:05,724
-         its outer shell        
- is just under an inch thick -- 
+its outer shell is just under an inch thick -- 
 
 207
 00:12:05,726 --> 00:12:08,126
@@ -983,73 +848,64 @@ about the diameter of a quarter.
 
 208
 00:12:08,128 --> 00:12:10,329
-         as you can see,        
-      building a container      
+as you can see, building a container      
 
 209
 00:12:10,331 --> 00:12:13,865
-   to hold used nuclear fuel    
-   is a many-layered process.   
+to hold used nuclear fuel is a many-layered process.   
 
 210
 00:12:13,867 --> 00:12:17,669
- the next step involves the lid,
-  made of multiple steel disks  
+the next step involves the lid,
+made of multiple steel disks  
 
 211
 00:12:17,671 --> 00:12:19,937
-      with concrete placed      
-    between the steel layers    
+with concrete placed between the steel layers    
 
 212
 00:12:19,939 --> 00:12:21,807
-        like a sandwich.        
+like a sandwich.        
 
 213
 00:12:21,809 --> 00:12:24,810
-           incredibly,          
-    high-pressure water jets    
+incredibly, high-pressure water jets    
 
 214
 00:12:24,812 --> 00:12:28,280
-  easily cut through the thick  
-  steel to produce the disks.   
+easily cut through the thick steel to produce the disks.   
 
 215
 00:12:28,282 --> 00:12:30,949
-       a computerized tool      
-      cuts a groove profile     
+a computerized tool cuts a groove profile     
 
 216
 00:12:30,951 --> 00:12:33,552
-  along the edge of each disk.  
+along the edge of each disk.  
 
 217
 00:12:34,888 --> 00:12:37,155
-        they also machine       
-      the top of each disk      
+they also machine the top of each disk      
 
 218
 00:12:37,157 --> 00:12:38,556
-     to the correct profile     
+to the correct profile     
 
 219
 00:12:38,558 --> 00:12:42,027
-   and then measure to confirm  
-       it's exactly right.      
+and then measure to confirm it's exactly right.      
 
 220
 00:12:43,163 --> 00:12:45,364
-   next, a computerized laser   
+next, a computerized laser   
 
 221
 00:12:45,366 --> 00:12:47,632
-       slices through more      
-     stainless-steel plating    
+slices through more stainless-steel plating    
 
 222
 00:12:47,634 --> 00:12:50,435
- to produce long, narrow panels.
+to produce long, narrow panels.
 
 223
 00:12:50,437 --> 00:12:52,236
@@ -1057,284 +913,247 @@ each is designed to fit together
 
 224
 00:12:52,238 --> 00:12:56,508
-   to create a grid of storage  
-   cells inside the cannister.  
+to create a grid of storage cells inside the cannister.  
 
 225
 00:13:00,514 --> 00:13:03,581
-      they line each panel      
-     with an aluminum alloy     
+they line each panel with an aluminum alloy     
 
 226
 00:13:03,583 --> 00:13:05,183
-    that's neutron-absorbent,   
+that's neutron-absorbent,   
 
 227
 00:13:05,185 --> 00:13:08,920
-    and they place a piece of   
- steel sheeting on top of that. 
+and they place a piece of steel sheeting on top of that. 
 
 228
 00:13:08,922 --> 00:13:11,723
-  they weld the steel sheeting  
-       to the steel panel,      
+they weld the steel sheeting to the steel panel,      
 
 229
 00:13:11,725 --> 00:13:14,860
- encasing the neutron-absorbent 
-            material.           
+encasing the neutron-absorbent material.           
 
 230
 00:13:16,863 --> 00:13:19,865
 working within a metal framework
-          for guidance,         
+for guidance,         
 
 231
 00:13:19,867 --> 00:13:22,467
-   they weld four of the lined  
-      steel panels together     
+they weld four of the lined steel panels together     
 
 232
 00:13:22,469 --> 00:13:24,069
-   to create a fuel-cell grid   
+to create a fuel-cell grid   
 
 233
 00:13:24,071 --> 00:13:27,339
-          for one used          
-      nuclear fuel bundle.      
+for one used nuclear fuel bundle.      
 
 234
 00:13:27,341 --> 00:13:31,143
- they then build a 68-cell grid.
+they then build a 68-cell grid.
 
 235
 00:13:31,145 --> 00:13:34,145
-       with that complete,      
- they're ready to piece together
+with that complete, they're ready to piece together
 
 236
 00:13:34,147 --> 00:13:38,884
-          all the parts         
-  of the spent fuel cannister.  
+all the parts of the spent fuel cannister.  
 
 237
 00:13:38,886 --> 00:13:43,555
 they first lower the inner shell
-      onto the base plate.      
+onto the base plate.      
 
 238
 00:13:45,559 --> 00:13:48,560
-    the shell is held steady    
-    by a supportive structure   
+the shell is held steady by a supportive structure   
 
 239
 00:13:48,562 --> 00:13:50,962
-    as they weld it together    
-          at the seams.         
+as they weld it together at the seams.         
 
 240
 00:13:52,766 --> 00:13:54,433
-         moving inside,         
+moving inside,         
 
 241
 00:13:54,435 --> 00:13:59,171
-   they install numerous bars   
- to support the fuel-cell grid. 
+they install numerous bars to support the fuel-cell grid. 
 
 242
 00:14:01,641 --> 00:14:04,909
- with the cannister now wrapped 
-  in plastic to keep it clean,  
+with the cannister now wrapped in plastic to keep it clean,  
 
 243
 00:14:04,911 --> 00:14:07,779
-       an automated cutter      
-  gradually shaves down the rim 
+an automated cutter gradually shaves down the rim 
 
 244
 00:14:07,781 --> 00:14:09,914
-           to trim it           
-     to the correct height.     
+to trim it to the correct height.     
 
 245
 00:14:09,916 --> 00:14:13,385
-    precision is everything.    
+precision is everything.    
 
 246
 00:14:13,387 --> 00:14:15,387
-   using a level and a laser,   
+using a level and a laser,   
 
 247
 00:14:15,389 --> 00:14:19,358
-  they ensure that the trim job 
-       is even and exact.       
+they ensure that the trim job is even and exact.       
 
 248
 00:14:20,728 --> 00:14:22,260
-     once they're satisfied,    
+once they're satisfied,    
 
 249
 00:14:22,262 --> 00:14:24,595
-         a crane carries        
-     the fuel-cell assembly     
+a crane carries the fuel-cell assembly     
 
 250
 00:14:24,597 --> 00:14:26,063
-      over to the cannister     
+over to the cannister     
 
 251
 00:14:26,065 --> 00:14:30,202
-      and then suspends it      
-     above the open cavity.     
+and then suspends it above the open cavity.     
 
 252
 00:14:32,939 --> 00:14:37,275
-  it dangles briefly as workers 
-      inspect the assembly.     
+it dangles briefly as workers inspect the assembly.     
 
 253
 00:14:37,277 --> 00:14:39,411
-   they give it the thumbs-up,  
+they give it the thumbs-up,  
 
 254
 00:14:39,413 --> 00:14:42,013
-    and the crane then lowers   
-        the fuel assembly       
+and the crane then lowers the fuel assembly       
 
 255
 00:14:42,015 --> 00:14:44,082
-       into the cylinder.       
+into the cylinder.       
 
 256
 00:14:44,084 --> 00:14:45,817
-        it's a snug fit,        
+it's a snug fit,        
 
 257
 00:14:45,819 --> 00:14:47,953
-   with about 4/10 of an inch   
-          of clearance          
+with about 4/10 of an inch of clearance          
 
 258
 00:14:47,955 --> 00:14:51,456
-   between the inner assembly   
-  and the wall of the cylinder. 
+between the inner assembly and the wall of the cylinder. 
 
 259
 00:14:54,161 --> 00:14:57,762
 this technician inserts a camera
-   into each cell of the grid   
+into each cell of the grid   
 
 260
 00:14:57,764 --> 00:15:00,699
-   and scrutinizes the image.   
+and scrutinizes the image.   
 
 261
 00:15:03,036 --> 00:15:04,503
-   he's looking for any debris  
+he's looking for any debris  
 
 262
 00:15:04,505 --> 00:15:06,571
-        that could hamper       
-        the installation        
+that could hamper the installation        
 
 263
 00:15:06,573 --> 00:15:08,173
-  of the nuclear fuel bundles.  
+of the nuclear fuel bundles.  
 
 264
 00:15:08,175 --> 00:15:10,442
-       both the cylinder        
-       and the fuel cells       
+both the cylinder and the fuel cells       
 
 265
 00:15:10,444 --> 00:15:12,110
- have been meticulously cleaned,
+have been meticulously cleaned,
 
 266
 00:15:12,112 --> 00:15:13,645
-    but the camera inspection   
+but the camera inspection   
 
 267
 00:15:13,647 --> 00:15:17,515
-      confirms they haven't     
-        missed anything.        
+confirms they haven't missed anything.        
 
 268
 00:15:17,517 --> 00:15:21,186
-    so it's time to put a lid   
+so it's time to put a lid   
 on this nuclear-waste cannister.
 
 269
 00:15:21,188 --> 00:15:22,720
-        it's a trial fit.       
+it's a trial fit.       
 
 270
 00:15:22,722 --> 00:15:26,390
-   the lid will be permanently  
-  welded to the cannister later 
+the lid will be permanently welded to the cannister later 
 
 271
 00:15:26,392 --> 00:15:30,061
-     once the used fuel rods    
-       are safely inside.       
+once the used fuel rods are safely inside.       
 
 272
 00:15:30,063 --> 00:15:33,331
-   the cannister will then be   
-   placed inside the overpack,  
+the cannister will then be placed inside the overpack,  
 
 273
 00:15:33,333 --> 00:15:37,068
-      with concrete poured      
-       between the walls.       
+with concrete poured between the walls.       
 
 274
 00:15:37,070 --> 00:15:39,871
-  that should keep the hazards  
-        of nuclear waste        
+that should keep the hazards of nuclear waste        
 
 275
 00:15:39,873 --> 00:15:42,474
-     entombed indefinitely.     
+entombed indefinitely.     
 
 276
 00:15:59,760 --> 00:16:01,826
-            narrator:           
- the word "sombrero" is derived 
+narrator: the word "sombrero" is derived 
 
 277
 00:16:01,828 --> 00:16:04,695
-   from the spanish "sombra,"   
-      which means "shade."      
+from the spanish "sombra," which means "shade."      
 
 278
 00:16:04,697 --> 00:16:07,165
-       the expansive brim       
-      of these mexican hats     
+the expansive brim of these mexican hats     
 
 279
 00:16:07,167 --> 00:16:09,234
-       is designed to cast      
-          a wide shadow         
+is designed to cast a wide shadow         
 
 280
 00:16:09,236 --> 00:16:11,836
-      over the face, neck,      
-         and shoulders.         
+over the face, neck, and shoulders.         
 
 281
 00:16:11,838 --> 00:16:14,372
-        fancier sombreros       
-        are made of felt.       
+fancier sombreros are made of felt.       
 
 282
 00:16:14,374 --> 00:16:17,509
-     regular ones are woven     
-          out of straw.         
+regular ones are woven out of straw.         
 
 283
 00:16:19,379 --> 00:16:22,414
-         [ band plays ]         
+[ band plays ]         
 
 284
 00:16:24,651 --> 00:16:29,921
@@ -1343,318 +1162,274 @@ straw sombreros in many styles.
 
 285
 00:16:29,923 --> 00:16:32,991
- this model's called a winston. 
+this model's called a winston. 
 
 286
 00:16:32,993 --> 00:16:36,595
-     this one, an americano.    
+this one, an americano.    
 
 287
 00:16:36,597 --> 00:16:38,462
-       here's the speedy,       
+here's the speedy,       
 
 288
 00:16:38,464 --> 00:16:41,466
-     after the cartoon mouse    
-        speedy gonzales.        
+after the cartoon mouse speedy gonzales.        
 
 289
 00:16:41,468 --> 00:16:43,635
-         and the casidy.        
+and the casidy.        
 
 290
 00:16:46,540 --> 00:16:48,807
-         these sombreros        
-        are hand-crafted.       
+these sombreros are hand-crafted.       
 
 291
 00:16:48,809 --> 00:16:50,542
- the straw is white palm leaves 
+the straw is white palm leaves 
 
 292
 00:16:50,544 --> 00:16:53,277
-    purchased from a supplier   
-         in the region.         
+purchased from a supplier in the region.         
 
 293
 00:16:53,279 --> 00:16:57,482
-   first, workers soak a bunch  
-   in water for a minute or so  
+first, workers soak a bunch in water for a minute or so  
 
 294
 00:16:57,484 --> 00:16:58,950
-       to soften them up.       
+to soften them up.       
 
 295
 00:17:03,757 --> 00:17:05,556
-      then, using a needle,     
+then, using a needle,     
 
 296
 00:17:05,558 --> 00:17:09,094
-        they tear strips        
-   about 2/10 of an inch wide.  
+they tear strips about 2/10 of an inch wide.  
 
 297
 00:17:15,702 --> 00:17:18,370
-         then they take         
-     three strips at a time     
+then they take three strips at a time     
 
 298
 00:17:18,372 --> 00:17:21,640
-     and braid them together    
-      into a single strand.     
+and braid them together into a single strand.     
 
 299
 00:17:33,186 --> 00:17:35,787
-         they intertwine        
-    several braided strands,    
+they intertwine several braided strands,    
 
 300
 00:17:35,789 --> 00:17:37,856
-         making a long,         
-       braided straw rope.      
+making a long, braided straw rope.      
 
 301
 00:17:37,858 --> 00:17:42,460
-    then they feed this rope    
- into a manually operated press.
+then they feed this rope into a manually operated press.
 
 302
 00:17:49,536 --> 00:17:50,935
-   the press flattens the rope  
+the press flattens the rope  
 
 303
 00:17:50,937 --> 00:17:54,672
-      until it's just about     
-     4/100 of an inch thick.    
+until it's just about 4/100 of an inch thick.    
 
 304
 00:17:54,674 --> 00:17:58,943
 this flattening makes the coarse
-    rope soft enough to sew.    
+rope soft enough to sew.    
 
 305
 00:17:58,945 --> 00:18:01,680
-      with the raw-material     
-         prep work done,        
+with the raw-material prep work done,        
 
 306
 00:18:01,682 --> 00:18:04,349
-   hat construction can begin.  
+hat construction can begin.  
 
 307
 00:18:04,351 --> 00:18:07,418
- they take the rope and wind it 
-     in concentric circles,     
+they take the rope and wind it in concentric circles,     
 
 308
 00:18:07,420 --> 00:18:09,854
- sewing one circle to the next. 
+sewing one circle to the next. 
 
 309
 00:18:16,163 --> 00:18:19,764
-  they first make a flat base,  
+they first make a flat base,  
 
 310
 00:18:19,766 --> 00:18:21,366
- then turn the base on its side 
+then turn the base on its side 
 
 311
 00:18:21,368 --> 00:18:24,168
-         and keep sewing        
- until they've formed the cup --
+and keep sewing until they've formed the cup --
 
 312
 00:18:24,170 --> 00:18:27,672
-    the part of the sombrero    
-     that sits on the head.     
+the part of the sombrero that sits on the head.     
 
 313
 00:18:30,110 --> 00:18:33,845
- they place the cup over a form 
-       to check the size.       
+they place the cup over a form to check the size.       
 
 314
 00:18:33,847 --> 00:18:37,315
-     then they resume sewing    
-       on more straw rope,      
+then they resume sewing on more straw rope,      
 
 315
 00:18:37,317 --> 00:18:40,852
-       working outward now      
-     to form the hat's brim.    
+working outward now to form the hat's brim.    
 
 316
 00:18:42,455 --> 00:18:47,058
-   brim width varies by style.  
+brim width varies by style.  
 
 317
 00:18:47,060 --> 00:18:51,796
-    they measure to make sure   
-     it's the correct size.     
+they measure to make sure it's the correct size.     
 
 318
 00:18:51,798 --> 00:18:56,935
- once the sombrero is finished, 
-        they boil water,        
+once the sombrero is finished, they boil water,        
 
 319
 00:18:56,937 --> 00:19:00,605
-       pour in gelatin...       
+pour in gelatin...       
 
 320
 00:19:00,607 --> 00:19:05,810
-           stir until           
-  it's completely dissolved...  
+stir until it's completely dissolved...  
 
 321
 00:19:05,812 --> 00:19:08,913
-        then soak the hat       
-       for about a minute.      
+then soak the hat for about a minute.      
 
 322
 00:19:14,353 --> 00:19:18,323
-     the gelatin penetrates     
-        the straw fibers.       
+the gelatin penetrates the straw fibers.       
 
 323
 00:19:23,563 --> 00:19:27,766
-   then they hang the sombrero  
-      out to dry in the sun     
+then they hang the sombrero out to dry in the sun     
 
 324
 00:19:27,768 --> 00:19:29,634
-     for about three hours.     
+for about three hours.     
 
 325
 00:19:29,636 --> 00:19:31,836
-  the workshop has a steel mold 
+the workshop has a steel mold 
 
 326
 00:19:31,838 --> 00:19:34,639
-     for each sombrero style    
-          it produces.          
+for each sombrero style it produces.          
 
 327
 00:19:34,641 --> 00:19:37,575
-   workers place the sombrero   
-     on the appropriate one     
+workers place the sombrero on the appropriate one     
 
 328
 00:19:37,577 --> 00:19:39,577
-         in a hot press,        
+in a hot press,        
 
 329
 00:19:39,579 --> 00:19:41,880
-      then close the press      
-       for three minutes.       
+then close the press for three minutes.       
 
 330
 00:19:44,384 --> 00:19:46,384
- the heat and pressure combined 
+the heat and pressure combined 
 
 331
 00:19:46,386 --> 00:19:48,919
-         form the straw         
-      to the mold's shape.      
+form the straw to the mold's shape.      
 
 332
 00:19:48,921 --> 00:19:51,322
-      the heat also hardens     
-          the gelatin,          
+the heat also hardens the gelatin,          
 
 333
 00:19:51,324 --> 00:19:53,658
-      locking in the shape      
-          permanently.          
+locking in the shape permanently.          
 
 334
 00:19:55,796 --> 00:19:57,862
-         many sombreros         
-     have a decorative band     
+many sombreros have a decorative band     
 
 335
 00:19:57,864 --> 00:19:59,531
- encircling the base of the cup.
+encircling the base of the cup.
 
 336
 00:19:59,533 --> 00:20:02,533
-   this band, called a scarf,   
-        is hand-crafted,        
+this band, called a scarf, is hand-crafted,        
 
 337
 00:20:02,535 --> 00:20:06,337
-    typically out of leather,   
- or like this one out of magee, 
+typically out of leather, or like this one out of magee, 
 
 338
 00:20:06,339 --> 00:20:09,240
-     a fiber from the stalk     
-       of a tropical plant      
+a fiber from the stalk of a tropical plant      
 
 339
 00:20:09,242 --> 00:20:10,408
-        native to mexico.       
+native to mexico.       
 
 340
 00:20:10,410 --> 00:20:14,479
-       a few dabs of glue       
-    hold the scarf in place.    
+a few dabs of glue hold the scarf in place.    
 
 341
 00:20:18,551 --> 00:20:20,285
-  once a sombrero is finished,  
+once a sombrero is finished,  
 
 342
 00:20:20,287 --> 00:20:22,954
-      the workshop tags it      
-       with a certificate       
+the workshop tags it with a certificate       
 
 343
 00:20:22,956 --> 00:20:25,323
-       stating the model        
-       and serial number.       
+stating the model and serial number.       
 
 344
 00:20:35,235 --> 00:20:38,169
-         sombrero shapes        
-     can vary significantly,    
+sombrero shapes can vary significantly,    
 
 345
 00:20:38,171 --> 00:20:41,305
-       but they all share       
-   a common characteristic --   
+but they all share a common characteristic --   
 
 346
 00:20:41,307 --> 00:20:44,375
-     a wide brim to protect     
-     from the blazing sun.      
+a wide brim to protect from the blazing sun.      
 
 347
 00:20:44,377 --> 00:20:47,311
-         certain models         
-    have an extra feature --    
+certain models have an extra feature --    
 
 348
 00:20:47,313 --> 00:20:49,313
-  a cord or leather drawstring  
+a cord or leather drawstring  
 
 349
 00:20:49,315 --> 00:20:52,650
-   so the hat doesn't fly away  
-        in windy weather.       
+so the hat doesn't fly away in windy weather.       
 
 350
 00:21:00,393 --> 00:21:03,328
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 351
 00:21:03,330 --> 00:21:05,796
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 352
 00:21:05,798 --> 00:21:07,799
-      drop us a line at...      
+drop us a line at...      
 

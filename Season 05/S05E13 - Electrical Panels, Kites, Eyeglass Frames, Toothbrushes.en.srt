@@ -1,459 +1,392 @@
 ﻿1
 00:00:24,091 --> 00:00:25,758
-            narrator:           
-    today on "how it's made,"   
+narrator: today on "how it's made,"   
 
 2
 00:00:25,760 --> 00:00:28,127
-      electrical panels...      
+electrical panels...      
 
 3
 00:00:32,165 --> 00:00:33,699
-           ...kites...          
+...kites...          
 
 4
 00:00:37,638 --> 00:00:39,371
-      ...eyeglass frames...     
+...eyeglass frames...     
 
 5
 00:00:43,177 --> 00:00:45,177
-      ...and toothbrushes.      
+...and toothbrushes.      
 
 6
 00:00:52,853 --> 00:00:56,054
-    the technical name for it   
-  is a residential load center, 
+the technical name for it is a residential load center, 
 
 7
 00:00:56,056 --> 00:00:58,723
-   but people usually call it   
-       an electrical panel      
+but people usually call it an electrical panel      
 
 8
 00:00:58,725 --> 00:01:00,191
-     or circuit breaker box.    
+or circuit breaker box.    
 
 9
 00:01:00,193 --> 00:01:02,193
-    this enclosed metal panel   
+this enclosed metal panel   
 
 10
 00:01:02,195 --> 00:01:04,863
-        is usually built        
-      into an interior wall     
+is usually built into an interior wall     
 
 11
 00:01:04,865 --> 00:01:06,798
-          and contains          
-      the circuit breakers      
+and contains the circuit breakers      
 
 12
 00:01:06,800 --> 00:01:09,134
-    that distribute, protect,   
-           and control          
+that distribute, protect, and control          
 
 13
 00:01:09,136 --> 00:01:10,869
- the home's lighting and power. 
+the home's lighting and power. 
 
 14
 00:01:15,609 --> 00:01:18,410
-    this load center consists   
-      of up to 40 circuits.     
+this load center consists of up to 40 circuits.     
 
 15
 00:01:18,412 --> 00:01:20,745
-            each one            
-    has one or two breakers.    
+each one has one or two breakers.    
 
 16
 00:01:20,747 --> 00:01:24,883
-       each breaker powers      
-  several outlets in the home.  
+each breaker powers several outlets in the home.  
 
 17
 00:01:24,885 --> 00:01:27,619
- first, a powerful press pounds 
-        a sheet of steel        
+first, a powerful press pounds a sheet of steel        
 
 18
 00:01:27,621 --> 00:01:29,488
- into what's called a u-channel.
+into what's called a u-channel.
 
 19
 00:01:29,490 --> 00:01:31,757
-     at nearly 3 feet long,     
-         18 inches wide,        
+at nearly 3 feet long, 18 inches wide,        
 
 20
 00:01:31,759 --> 00:01:32,891
-       and 4 inches deep,       
+and 4 inches deep,       
 
 21
 00:01:32,893 --> 00:01:35,293
-   it's part of what's called   
-           the tub --           
+it's part of what's called the tub --           
 
 22
 00:01:35,295 --> 00:01:37,962
- the load center's main casing. 
+the load center's main casing. 
 
 23
 00:01:37,964 --> 00:01:40,832
-     a worker then attaches     
-  steel components made earlier 
+a worker then attaches steel components made earlier 
 
 24
 00:01:40,834 --> 00:01:42,234
-        called tub ends.        
+called tub ends.        
 
 25
 00:01:42,236 --> 00:01:44,302
-     a spot welding machine     
-           fuses them           
+a spot welding machine fuses them           
 
 26
 00:01:44,304 --> 00:01:47,105
-          to close off          
-      both ends of the tub.     
+to close off both ends of the tub.     
 
 27
 00:01:47,107 --> 00:01:49,040
- workers feed an aluminum strip 
+workers feed an aluminum strip 
 
 28
 00:01:49,042 --> 00:01:51,643
-      that's 330 feet long      
-        and 6 inches wide       
+that's 330 feet long and 6 inches wide       
 
 29
 00:01:51,645 --> 00:01:53,245
-     into a stamping press.     
+into a stamping press.     
 
 30
 00:01:53,247 --> 00:01:56,247
-    the press cuts the strip    
-   into 20-inch-long segments   
+the press cuts the strip into 20-inch-long segments   
 
 31
 00:01:56,249 --> 00:01:58,850
-        called bus bars.        
+called bus bars.        
 
 32
 00:01:58,852 --> 00:02:01,653
- it bends each bus bar 10 times,
+it bends each bus bar 10 times,
 
 33
 00:02:01,655 --> 00:02:04,523
-   creating two-inch segments   
-          called stabs.         
+creating two-inch segments called stabs.         
 
 34
 00:02:06,327 --> 00:02:09,795
-     the breakers will later    
-     snap onto these stabs.     
+the breakers will later snap onto these stabs.     
 
 35
 00:02:11,265 --> 00:02:13,665
-     next, a worker inserts     
-          each bus bar          
+next, a worker inserts each bus bar          
 
 36
 00:02:13,667 --> 00:02:16,268
-    into a plastic component    
-       called a base pan.       
+into a plastic component called a base pan.       
 
 37
 00:02:16,270 --> 00:02:18,737
-          the base pan          
-     insulates the bus bar.     
+the base pan insulates the bus bar.     
 
 38
 00:02:18,739 --> 00:02:21,606
-        this prevents us        
-   from getting electrocuted.   
+this prevents us from getting electrocuted.   
 
 39
 00:02:21,608 --> 00:02:24,142
-   another press then inserts   
-        a plastic rivet,        
+another press then inserts a plastic rivet,        
 
 40
 00:02:24,144 --> 00:02:27,412
-      securing the bus bar      
-        to the base pan.        
+securing the bus bar to the base pan.        
 
 41
 00:02:27,414 --> 00:02:29,414
-       the worker installs      
-         two components,        
+the worker installs two components,        
 
 42
 00:02:29,416 --> 00:02:31,750
-      called neutral bars,      
-        in the base pan.        
+called neutral bars, in the base pan.        
 
 43
 00:02:31,752 --> 00:02:33,618
-        the neutral bars        
-       conduct electricity      
+the neutral bars conduct electricity      
 
 44
 00:02:33,620 --> 00:02:36,555
-      between the circuit       
-      and the wall socket.      
+between the circuit and the wall socket.      
 
 45
 00:02:36,557 --> 00:02:38,490
-  next comes the main breaker.  
+next comes the main breaker.  
 
 46
 00:02:38,492 --> 00:02:41,293
-      its maximum capacity      
-          is 200 amps.          
+its maximum capacity is 200 amps.          
 
 47
 00:02:41,295 --> 00:02:43,028
-       amps are the units       
-         of measurement         
+amps are the units of measurement         
 
 48
 00:02:43,030 --> 00:02:44,496
-     for electrical current.    
+for electrical current.    
 
 49
 00:02:44,498 --> 00:02:48,032
-        if demand exceeds       
-  maximum capacity, it'll trip, 
+if demand exceeds maximum capacity, it'll trip, 
 
 50
 00:02:48,034 --> 00:02:50,769
-     meaning it'll turn off     
-     all power in the home.     
+meaning it'll turn off all power in the home.     
 
 51
 00:02:50,771 --> 00:02:53,705
-         she makes sure         
-     it's sufficiently tight    
+she makes sure it's sufficiently tight    
 
 52
 00:02:53,707 --> 00:02:57,775
-  so that vibrations caused by  
- street traffic won't loosen it.
+so that vibrations caused by street traffic won't loosen it.
 
 53
 00:02:57,777 --> 00:03:00,912
-    she also encloses labels    
- to mark the breaker's pathways 
+she also encloses labels to mark the breaker's pathways 
 
 54
 00:03:00,914 --> 00:03:03,815
-         and an envelope        
-    with installation screws.   
+and an envelope with installation screws.   
 
 55
 00:03:06,186 --> 00:03:09,721
-    next, the worker puts the   
- base pan assembly into the tub 
+next, the worker puts the base pan assembly into the tub 
 
 56
 00:03:09,723 --> 00:03:12,791
-   and secures the neutral bar  
-   with a copper bonding strap  
+and secures the neutral bar with a copper bonding strap  
 
 57
 00:03:12,793 --> 00:03:15,860
-          to ground it          
-   and prevent electrocution.   
+to ground it and prevent electrocution.   
 
 58
 00:03:15,862 --> 00:03:19,264
-  she adds another component -- 
-   one of two grounding bars.   
+she adds another component -- one of two grounding bars.   
 
 59
 00:03:19,266 --> 00:03:21,800
-   these ground each circuit.   
+these ground each circuit.   
 
 60
 00:03:21,802 --> 00:03:24,403
-          the breakers          
-   simply snap onto the stabs,  
+the breakers simply snap onto the stabs,  
 
 61
 00:03:24,405 --> 00:03:27,739
-   making them easy to remove   
-     and replace if needed.     
+making them easy to remove and replace if needed.     
 
 62
 00:03:27,741 --> 00:03:29,274
-       inside the breaker,      
+inside the breaker,      
 
 63
 00:03:29,276 --> 00:03:32,944
- several components interact to 
- enable the flow of electricity.
+several components interact to enable the flow of electricity.
 
 64
 00:03:32,946 --> 00:03:34,279
-   one is the load terminal --  
+one is the load terminal --  
 
 65
 00:03:34,281 --> 00:03:36,347
-         the entry point        
-      for the live current.     
+the entry point for the live current.     
 
 66
 00:03:36,349 --> 00:03:39,751
-       a circular machine,      
- called robot "a," assembles it 
+a circular machine, called robot "a," assembles it 
 
 67
 00:03:39,753 --> 00:03:43,188
-     and other breaker parts    
-   along its 16 workstations.   
+and other breaker parts along its 16 workstations.   
 
 68
 00:03:46,160 --> 00:03:49,428
-    another breaker component   
-    is the bimetal assembly.    
+another breaker component is the bimetal assembly.    
 
 69
 00:03:49,430 --> 00:03:52,097
-   it's an alloy of two metals  
-          and a magnet.         
+it's an alloy of two metals and a magnet.         
 
 70
 00:03:52,099 --> 00:03:54,365
-      it trips the breaker      
-    when there's an overload    
+it trips the breaker when there's an overload    
 
 71
 00:03:54,367 --> 00:03:56,835
-       or a short circuit.      
+or a short circuit.      
 
 72
 00:03:56,837 --> 00:04:00,239
-  next, robot "a" welds a strip 
- of silver, which is conductive,
+next, robot "a" welds a strip of silver, which is conductive,
 
 73
 00:04:00,241 --> 00:04:02,307
-        to what's called        
-        the contact arm.        
+to what's called the contact arm.        
 
 74
 00:04:05,779 --> 00:04:08,380
 robot "a" then positions the arm
-           for welding          
+for welding          
 
 75
 00:04:08,382 --> 00:04:12,451
-   with two-inch-long segments  
-    of braided copper wire --   
+with two-inch-long segments of braided copper wire --   
 
 76
 00:04:12,453 --> 00:04:16,388
- copper because it's conductive 
-       as well as pliable.      
+copper because it's conductive as well as pliable.      
 
 77
 00:04:16,390 --> 00:04:19,457
- the robot fuses the copper wire
-       to the contact arm       
+the robot fuses the copper wire
+to the contact arm       
 
 78
 00:04:19,459 --> 00:04:21,393
-    in the bimetal assembly.    
+in the bimetal assembly.    
 
 79
 00:04:21,395 --> 00:04:23,862
- the wire will flex with the arm
+the wire will flex with the arm
 
 80
 00:04:23,864 --> 00:04:26,197
-     to touch what's called     
-       the line terminal.       
+to touch what's called the line terminal.       
 
 81
 00:04:26,199 --> 00:04:29,867
-      this contact permits      
- the electrical current to flow.
+this contact permits the electrical current to flow.
 
 82
 00:04:29,869 --> 00:04:33,004
-    next, robot "a" deposits    
-        the welded parts        
+next, robot "a" deposits the welded parts        
 
 83
 00:04:33,006 --> 00:04:35,606
-    into the breaker casings,   
-          called bases.         
+into the breaker casings, called bases.         
 
 84
 00:04:35,608 --> 00:04:38,810
- this automated production line 
-    functions 24 hours a day,   
+this automated production line functions 24 hours a day,   
 
 85
 00:04:38,812 --> 00:04:40,478
-        five days a week,       
+five days a week,       
 
 86
 00:04:40,480 --> 00:04:43,782
-    and it produces a breaker   
-      every three seconds.      
+and it produces a breaker every three seconds.      
 
 87
 00:04:55,963 --> 00:04:58,162
-        another machine,        
-        called robot "b,"       
+another machine, called robot "b,"       
 
 88
 00:04:58,164 --> 00:05:01,366
-    stamps the number of amps   
-     on each breaker handle.    
+stamps the number of amps on each breaker handle.    
 
 89
 00:05:02,502 --> 00:05:04,102
-    then it connects a spring   
+then it connects a spring   
 
 90
 00:05:04,104 --> 00:05:06,237
-     to link the contact arm    
-        to another part,        
+to link the contact arm to another part,        
 
 91
 00:05:06,239 --> 00:05:07,905
-       called the cradle.       
+called the cradle.       
 
 92
 00:05:07,907 --> 00:05:09,374
-    when there's an overload,   
+when there's an overload,   
 
 93
 00:05:09,376 --> 00:05:11,576
-   the bimetal assembly causes  
-       the cradle to pivot      
+the bimetal assembly causes the cradle to pivot      
 
 94
 00:05:11,578 --> 00:05:12,911
-      and trip the breaker.     
+and trip the breaker.     
 
 95
 00:05:12,913 --> 00:05:17,115
-  robot "b" deposits the spring 
-    and cradle into the base,   
+robot "b" deposits the spring and cradle into the base,   
 
 96
 00:05:17,117 --> 00:05:19,518
-      then closes the base      
-          with a cover.         
+then closes the base with a cover.         
 
 97
 00:05:22,722 --> 00:05:25,257
-    this demonstration shows    
-  how moving the breaker handle 
+this demonstration shows how moving the breaker handle 
 
 98
 00:05:25,259 --> 00:05:29,728
@@ -462,83 +395,73 @@ enable the flow of electricity.
 
 99
 00:05:29,730 --> 00:05:31,396
-     if power demand exceeds    
+if power demand exceeds    
 
 100
 00:05:31,398 --> 00:05:34,733
- the breaker's maximum capacity 
-             by 35%,            
+the breaker's maximum capacity by 35%,            
 
 101
 00:05:34,735 --> 00:05:38,737
-   the bimetal assembly trips   
- the breaker and cuts the power.
+the bimetal assembly trips the breaker and cuts the power.
 
 102
 00:05:38,739 --> 00:05:40,405
-  they cap off the load center  
+they cap off the load center  
 
 103
 00:05:40,407 --> 00:05:41,940
-       with a metal cover       
-         called a trim.         
+with a metal cover called a trim.         
 
 104
 00:05:41,942 --> 00:05:43,341
-     the warning label on it    
+the warning label on it    
 
 105
 00:05:43,343 --> 00:05:46,745
-   provides safety information  
-        and instructions.       
+provides safety information and instructions.       
 
 106
 00:05:46,747 --> 00:05:49,147
-  the load center is now ready  
-        for installation        
+the load center is now ready for installation        
 
 107
 00:05:49,149 --> 00:05:51,516
-   by a certified electrician.  
+by a certified electrician.  
 
 108
 00:05:58,292 --> 00:06:00,759
-     narrator: the earliest     
-    written record of a kite    
+narrator: the earliest written record of a kite    
 
 109
 00:06:00,761 --> 00:06:04,028
-       tells the story of       
-  a chinese general in 206 b.c. 
+tells the story of a chinese general in 206 b.c. 
 
 110
 00:06:04,030 --> 00:06:07,165
-         who flew a kite        
- over a wicked emperor's palace.
+who flew a kite over a wicked emperor's palace.
 
 111
 00:06:07,167 --> 00:06:11,036
-  he marked the line to measure 
+he marked the line to measure 
 the distance, then reeled it in.
 
 112
 00:06:11,038 --> 00:06:14,572
 his small army then dug a tunnel
-   into the palace courtyard,   
+into the palace courtyard,   
 
 113
 00:06:14,574 --> 00:06:17,609
-   launching a surprise attack  
-   that conquered the emperor.  
+launching a surprise attack that conquered the emperor.  
 
 114
 00:06:24,518 --> 00:06:27,252
-     today's two-line kite,     
-      as the name implies,      
+today's two-line kite, as the name implies,      
 
 115
 00:06:27,254 --> 00:06:29,120
-   has two lines to pilot it.   
+has two lines to pilot it.   
 
 116
 00:06:29,122 --> 00:06:31,990
@@ -546,83 +469,72 @@ it can fly nearly 130 feet high.
 
 117
 00:06:31,992 --> 00:06:35,126
-    this kite is made mainly    
-  of a lightweight nylon fabric 
+this kite is made mainly of a lightweight nylon fabric 
 
 118
 00:06:35,128 --> 00:06:37,662
-       that is waterproof       
-       and fade-resistant.      
+that is waterproof and fade-resistant.      
 
 119
 00:06:37,664 --> 00:06:39,865
- it's less than a few hundredths
-        of an inch thick,       
+it's less than a few hundredths
+of an inch thick,       
 
 120
 00:06:39,867 --> 00:06:44,135
-     so it's reinforced with    
-  nylon mesh to reduce ripping. 
+so it's reinforced with nylon mesh to reduce ripping. 
 
 121
 00:06:44,137 --> 00:06:45,604
-   the kite's other components  
+the kite's other components  
 
 122
 00:06:45,606 --> 00:06:48,139
-    include nylon and elastic   
-        cords and straps;       
+include nylon and elastic cords and straps;       
 
 123
 00:06:48,141 --> 00:06:51,276
-    fittings made of leather,   
- rubber, aluminum, and plastic; 
+fittings made of leather, rubber, aluminum, and plastic; 
 
 124
 00:06:51,278 --> 00:06:52,844
-        and carbon rods.        
+and carbon rods.        
 
 125
 00:06:55,482 --> 00:06:57,349
-      the kite maker starts     
-         with a pattern         
+the kite maker starts with a pattern         
 
 126
 00:06:57,351 --> 00:06:58,683
-    made out of pressed wood.   
+made out of pressed wood.   
 
 127
 00:06:58,685 --> 00:07:00,551
-          she marks out         
-      a piece of the fabric     
+she marks out a piece of the fabric     
 
 128
 00:07:00,553 --> 00:07:03,021
-     and, with a few bricks     
-  to hold the fabric in place,  
+and, with a few bricks to hold the fabric in place,  
 
 129
 00:07:03,023 --> 00:07:04,288
-        cuts diagonally.        
+cuts diagonally.        
 
 130
 00:07:04,290 --> 00:07:07,492
- in sewing terms, that's called 
-      cutting on the bias.      
+in sewing terms, that's called cutting on the bias.      
 
 131
 00:07:07,494 --> 00:07:10,629
-  this will stretch the fabric  
-        and help it fly.        
+this will stretch the fabric and help it fly.        
 
 132
 00:07:10,631 --> 00:07:13,298
-   next, she cuts more pieces   
-           of fabric,           
+next, she cuts more pieces of fabric,           
 
 133
 00:07:13,300 --> 00:07:15,233
- this time in a different color.
+this time in a different color.
 
 134
 00:07:15,235 --> 00:07:18,836
@@ -631,219 +543,188 @@ that fit together like a puzzle
 
 135
 00:07:18,838 --> 00:07:22,106
-            to create           
-     an eight-foot wingspan.    
+to create an eight-foot wingspan.    
 
 136
 00:07:22,108 --> 00:07:25,043
- the kite's left and right sides
-       are mirror images,       
+the kite's left and right sides
+are mirror images,       
 
 137
 00:07:25,045 --> 00:07:27,445
-        so there are only       
-  four different shapes to cut. 
+so there are only four different shapes to cut. 
 
 138
 00:07:27,447 --> 00:07:31,383
-      they range in length      
-    from 9 inches to 4 feet.    
+they range in length from 9 inches to 4 feet.    
 
 139
 00:07:31,385 --> 00:07:33,117
-      from start to finish,     
+from start to finish,     
 
 140
 00:07:33,119 --> 00:07:36,320
-    it takes one worker about   
-  two hours to make this model, 
+it takes one worker about two hours to make this model, 
 
 141
 00:07:36,322 --> 00:07:37,823
-      called the dragonfly.     
+called the dragonfly.     
 
 142
 00:07:39,660 --> 00:07:42,193
-   first, the kite maker sews   
-        the longest part,       
+first, the kite maker sews the longest part,       
 
 143
 00:07:42,195 --> 00:07:44,328
-        called the belly,       
-       to the other parts.      
+called the belly, to the other parts.      
 
 144
 00:07:44,330 --> 00:07:47,332
-       she double stitches      
-  with heavy-duty nylon thread  
+she double stitches with heavy-duty nylon thread  
 
 145
 00:07:47,334 --> 00:07:52,070
 to help the kite withstand winds
-    up to 23 miles per hour.    
+up to 23 miles per hour.    
 
 146
 00:07:52,072 --> 00:07:55,206
-    she makes tiny incisions    
-  along the belly's curved edge 
+she makes tiny incisions along the belly's curved edge 
 
 147
 00:07:55,208 --> 00:07:59,878
-  so she can fold it and sew in 
- what's called the tension line.
+so she can fold it and sew in what's called the tension line.
 
 148
 00:07:59,880 --> 00:08:02,213
-          tension line          
-     is a type of nylon cord    
+tension line is a type of nylon cord    
 
 149
 00:08:02,215 --> 00:08:05,683
-  she'll sew into all the seams 
-  of the kite's lower sections. 
+she'll sew into all the seams of the kite's lower sections. 
 
 150
 00:08:05,685 --> 00:08:07,352
-       it'll give the kite      
-         some structure         
+it'll give the kite some structure         
 
 151
 00:08:07,354 --> 00:08:10,055
-     and help keep it rigid     
-         while airborne.        
+and help keep it rigid while airborne.        
 
 152
 00:08:11,959 --> 00:08:14,559
 the kite maker secures each line
-           with a knot          
+with a knot          
 
 153
 00:08:14,561 --> 00:08:16,828
-   which can later be loosened  
-          or tightened          
+which can later be loosened or tightened          
 
 154
 00:08:16,830 --> 00:08:19,097
-            to adjust           
-   the kite's overall tension.  
+to adjust the kite's overall tension.  
 
 155
 00:08:21,568 --> 00:08:23,234
-   the kite maker uses straps   
+the kite maker uses straps   
 
 156
 00:08:23,236 --> 00:08:25,970
-      made of very durable,     
-      yet flexible, plastic     
+made of very durable, yet flexible, plastic     
 
 157
 00:08:25,972 --> 00:08:28,506
 to line the middle and the edges
-          of the wings.         
+of the wings.         
 
 158
 00:08:28,508 --> 00:08:30,242
- the straps strengthen the kite,
+the straps strengthen the kite,
 
 159
 00:08:30,244 --> 00:08:33,378
- enabling it to survive crashes 
-      into trees and rocks.     
+enabling it to survive crashes into trees and rocks.     
 
 160
 00:08:33,380 --> 00:08:36,314
-           after all,           
-  what goes up must come down.  
+after all, what goes up must come down.  
 
 161
 00:08:38,051 --> 00:08:40,385
-    next, the kite maker sews   
-       a piece of leather,      
+next, the kite maker sews a piece of leather,      
 
 162
 00:08:40,387 --> 00:08:42,653
-        called a fitting,       
-     onto the plastic strap.    
+called a fitting, onto the plastic strap.    
 
 163
 00:08:42,655 --> 00:08:45,857
- it's made of leather to protect
-  the kite's structural joints, 
+it's made of leather to protect
+the kite's structural joints, 
 
 164
 00:08:45,859 --> 00:08:47,459
-  such as the nose of the kite. 
+such as the nose of the kite. 
 
 165
 00:08:47,461 --> 00:08:49,628
-    it gets a leather patch,    
-            as well.            
+it gets a leather patch, as well.            
 
 166
 00:08:53,934 --> 00:08:56,067
-       the kite maker uses      
-         a serrated saw         
+the kite maker uses a serrated saw         
 
 167
 00:08:56,069 --> 00:08:58,736
-    to cut the 10 carbon rods   
-            to size.            
+to cut the 10 carbon rods to size.            
 
 168
 00:08:58,738 --> 00:09:00,538
-     they're a quarter-inch     
-           in diameter          
+they're a quarter-inch in diameter          
 
 169
 00:09:00,540 --> 00:09:04,942
-      and range in length       
-      from 7 to 32 inches.      
+and range in length from 7 to 32 inches.      
 
 170
 00:09:04,944 --> 00:09:07,746
-  they form the kite's skeleton 
-        and, like bones,        
+they form the kite's skeleton and, like bones,        
 
 171
 00:09:07,748 --> 00:09:10,215
-  they're the most likely part  
-      of the kite to break      
+they're the most likely part of the kite to break      
 
 172
 00:09:10,217 --> 00:09:12,617
-         in an accident.        
+in an accident.        
 
 173
 00:09:12,619 --> 00:09:15,887
-      but if they do break,     
-   it's easy to replace them.   
+but if they do break, it's easy to replace them.   
 
 174
 00:09:15,889 --> 00:09:19,090
-  a variety of molded plastic,  
-  rubber, and aluminum fittings 
+a variety of molded plastic, rubber, and aluminum fittings 
 
 175
 00:09:19,092 --> 00:09:20,358
-      serve a dual purpose.     
+serve a dual purpose.     
 
 176
 00:09:20,360 --> 00:09:22,360
-   they join the rods together  
+they join the rods together  
 
 177
 00:09:22,362 --> 00:09:25,230
-   and keep them from falling   
-      out of their sleeves.     
+and keep them from falling out of their sleeves.     
 
 178
 00:09:27,901 --> 00:09:31,369
-   now the kite maker attaches  
- a nylon cord, called a bridle, 
+now the kite maker attaches a nylon cord, called a bridle, 
 
 179
 00:09:31,371 --> 00:09:35,106
-  to the fitting that joins the 
+to the fitting that joins the 
 rods on the wing's leading edge.
 
 180
@@ -852,287 +733,244 @@ the bridle is the kite's rudder,
 
 181
 00:09:36,976 --> 00:09:39,444
-        steering the kite       
-      to the left or right.     
+steering the kite to the left or right.     
 
 182
 00:09:39,446 --> 00:09:42,981
-   the bridle comes off easily  
+the bridle comes off easily  
 if you need to replace the rods.
 
 183
 00:09:46,720 --> 00:09:49,187
-   the kite maker now attaches  
-          tension lines         
+the kite maker now attaches tension lines         
 
 184
 00:09:49,189 --> 00:09:51,589
-    to two plastic components   
-         called arrows.         
+to two plastic components called arrows.         
 
 185
 00:09:51,591 --> 00:09:55,059
-         they're located        
-    at the kite's wing tips.    
+they're located at the kite's wing tips.    
 
 186
 00:09:55,061 --> 00:09:58,129
-  she ties elastic bungee cords 
-       through the arrows       
+she ties elastic bungee cords through the arrows       
 
 187
 00:09:58,131 --> 00:10:00,465
-    to hold the tension lines   
-            in place.           
+to hold the tension lines in place.           
 
 188
 00:10:00,467 --> 00:10:03,868
- this makes all the fabric parts
-       taut enough to fly.      
+this makes all the fabric parts
+taut enough to fly.      
 
 189
 00:10:07,273 --> 00:10:10,008
-  next, she attaches the bridle 
-       to the center rod,       
+next, she attaches the bridle to the center rod,       
 
 190
 00:10:10,010 --> 00:10:12,477
-     the spine of the kite.     
+the spine of the kite.     
 
 191
 00:10:12,479 --> 00:10:13,745
-       she inserts the rod      
+she inserts the rod      
 
 192
 00:10:13,747 --> 00:10:16,982
-       into its protective      
-   leather pouch at the nose.   
+into its protective leather pouch at the nose.   
 
 193
 00:10:19,686 --> 00:10:22,754
-     she inserts other rods     
-  into both sides of the wing.  
+she inserts other rods into both sides of the wing.  
 
 194
 00:10:22,756 --> 00:10:25,557
- these give the wing its curved,
-        aerodynamic shape       
+these give the wing its curved,
+aerodynamic shape       
 
 195
 00:10:25,559 --> 00:10:27,559
-  and help the kite stay aloft. 
+and help the kite stay aloft. 
 
 196
 00:10:32,966 --> 00:10:35,433
-    finally, additional rods    
-         under the wing         
+finally, additional rods under the wing         
 
 197
 00:10:35,435 --> 00:10:37,368
-     provide more structure     
-          and support.          
+provide more structure and support.          
 
 198
 00:10:37,370 --> 00:10:40,538
-   these rods spread the kite   
-     and help keep it open.     
+these rods spread the kite and help keep it open.     
 
 199
 00:10:44,177 --> 00:10:46,444
-           in the mood          
-   for a sky-high experience?   
+in the mood for a sky-high experience?   
 
 200
 00:10:46,446 --> 00:10:50,648
-      for $250, you can buy     
- a handmade model like this one 
+for $250, you can buy a handmade model like this one 
 
 201
 00:10:50,650 --> 00:10:52,884
-       and go fly a kite.       
+and go fly a kite.       
 
 202
 00:11:03,930 --> 00:11:06,797
-   narrator: eyeglasses don't   
-     merely correct vision.     
+narrator: eyeglasses don't merely correct vision.     
 
 203
 00:11:06,799 --> 00:11:08,532
-          they're also          
-     a fashion statement --     
+they're also a fashion statement --     
 
 204
 00:11:08,534 --> 00:11:11,602
- so much so that many of today's
-     top clothing designers     
+so much so that many of today's
+top clothing designers     
 
 205
 00:11:11,604 --> 00:11:14,072
-         produce a line         
-       of eyeglass frames.      
+produce a line of eyeglass frames.      
 
 206
 00:11:14,074 --> 00:11:16,607
-       whether you prefer       
-  plastic frames or metal ones, 
+whether you prefer plastic frames or metal ones, 
 
 207
 00:11:16,609 --> 00:11:19,677
- they come in so many different 
-    colors, sizes, and shapes   
+they come in so many different colors, sizes, and shapes   
 
 208
 00:11:19,679 --> 00:11:22,414
- that you're guaranteed to find 
-     a pair that suits you.     
+that you're guaranteed to find a pair that suits you.     
 
 209
 00:11:26,887 --> 00:11:29,353
-       metal frames comes       
-    in a multitude of shapes,   
+metal frames comes in a multitude of shapes,   
 
 210
 00:11:29,355 --> 00:11:31,255
- from ordinary to extraordinary.
+from ordinary to extraordinary.
 
 211
 00:11:31,257 --> 00:11:33,624
-       it all starts with       
-      a computerized system     
+it all starts with a computerized system     
 
 212
 00:11:33,626 --> 00:11:36,027
-      called a three-axis       
-      eye winding machine.      
+called a three-axis eye winding machine.      
 
 213
 00:11:36,029 --> 00:11:39,364
-     a set of rollers pulls     
-  metal wire from a big spool.  
+a set of rollers pulls metal wire from a big spool.  
 
 214
 00:11:39,366 --> 00:11:42,233
-              then,             
- with software-driven precision,
+then, with software-driven precision,
 
 215
 00:11:42,235 --> 00:11:45,303
-   the machine bends the wire   
-  into the shape of the frame,  
+the machine bends the wire into the shape of the frame,  
 
 216
 00:11:45,305 --> 00:11:47,439
-     then cuts the end free.    
+then cuts the end free.    
 
 217
 00:11:49,242 --> 00:11:52,777
-    the lenses will fit into    
-  precut grooves on the inside. 
+the lenses will fit into precut grooves on the inside. 
 
 218
 00:11:54,047 --> 00:11:56,114
-          a small part,         
-       called the insert,       
+a small part, called the insert,       
 
 219
 00:11:56,116 --> 00:11:57,715
-      connects the two ends     
-        of the eye frame,       
+connects the two ends of the eye frame,       
 
 220
 00:11:57,717 --> 00:12:01,052
-       holding them closed      
-        around the lens.        
+holding them closed around the lens.        
 
 221
 00:12:01,054 --> 00:12:03,921
-      to attach the insert,     
-     they put it in a clamp,    
+to attach the insert, they put it in a clamp,    
 
 222
 00:12:03,923 --> 00:12:06,725
-   then position the eye frame  
-         just above it.         
+then position the eye frame just above it.         
 
 223
 00:12:06,727 --> 00:12:11,196
-  they apply a cleaning agent,  
- called flux, then filler wire. 
+they apply a cleaning agent, called flux, then filler wire. 
 
 224
 00:12:11,198 --> 00:12:13,998
-    an electric current heats   
-     the wire, metal frame,     
+an electric current heats the wire, metal frame,     
 
 225
 00:12:14,000 --> 00:12:17,469
- and insert until they all melt 
-       and fuse together.       
+and insert until they all melt and fuse together.       
 
 226
 00:12:20,340 --> 00:12:23,341
- now they do the same to what's 
-    called the screw hinge --   
+now they do the same to what's called the screw hinge --   
 
 227
 00:12:23,343 --> 00:12:26,544
- the piece that attaches the arm
-        to the eye frame.       
+the piece that attaches the arm
+to the eye frame.       
 
 228
 00:12:26,546 --> 00:12:28,747
-             again,             
-   electrically generated heat  
+again, electrically generated heat  
 
 229
 00:12:28,749 --> 00:12:30,815
- fuses the hinge to the insert. 
+fuses the hinge to the insert. 
 
 230
 00:12:30,817 --> 00:12:34,119
-    this process, similar to    
-  soldering, is called brazing. 
+this process, similar to soldering, is called brazing. 
 
 231
 00:12:37,557 --> 00:12:38,956
-      now for the bridge --     
+now for the bridge --     
 
 232
 00:12:38,958 --> 00:12:42,160
-     the piece over the nose    
- that joins the two eye frames. 
+the piece over the nose that joins the two eye frames. 
 
 233
 00:12:44,964 --> 00:12:47,498
-          a small press         
-     bends a piece of metal     
+a small press bends a piece of metal     
 
 234
 00:12:47,500 --> 00:12:49,300
-  into the shape of the bridge. 
+into the shape of the bridge. 
 
 235
 00:12:49,302 --> 00:12:51,903
-     then a worker aligns it    
-       with the eye frames      
+then a worker aligns it with the eye frames      
 
 236
 00:12:51,905 --> 00:12:53,638
-       in an assembly jig.      
+in an assembly jig.      
 
 237
 00:12:53,640 --> 00:12:56,674
-     this ensures the frames    
-     are perfectly straight.    
+this ensures the frames are perfectly straight.    
 
 238
 00:13:00,780 --> 00:13:03,815
-          brazing again         
-   melds everything together.   
+brazing again melds everything together.   
 
 239
 00:13:12,859 --> 00:13:16,661
-   next comes the piece above   
+next comes the piece above   
 the bridge, called the brow bar.
 
 240
@@ -1142,505 +980,431 @@ wire to pieces the right length,
 
 241
 00:13:20,400 --> 00:13:22,534
- then carves grooves on the ends
+then carves grooves on the ends
 
 242
 00:13:22,536 --> 00:13:24,602
-     to enable the brow bar     
-          to fit snugly         
+to enable the brow bar to fit snugly         
 
 243
 00:13:24,604 --> 00:13:26,504
-   onto the top of the frames.  
+onto the top of the frames.  
 
 244
 00:13:30,210 --> 00:13:33,144
-    it then bends each piece    
-       to the right shape.      
+it then bends each piece to the right shape.      
 
 245
 00:13:41,488 --> 00:13:44,756
-          the brow bar          
-     now goes into position.    
+the brow bar now goes into position.    
 
 246
 00:13:46,692 --> 00:13:48,759
-          a little flux         
-   to remove any dust or dirt   
+a little flux to remove any dust or dirt   
 
 247
 00:13:48,761 --> 00:13:51,296
-  that might prevent the metal  
-      from fusing properly.     
+that might prevent the metal from fusing properly.     
 
 248
 00:13:51,298 --> 00:13:54,632
-  then they braze the brow bar  
-          to the frame.         
+then they braze the brow bar to the frame.         
 
 249
 00:14:04,044 --> 00:14:06,777
-      now come little hooks     
-        called pad arms.        
+now come little hooks called pad arms.        
 
 250
 00:14:06,779 --> 00:14:10,381
- they hold small pads under the 
- bridge that cushion your nose. 
+they hold small pads under the bridge that cushion your nose. 
 
 251
 00:14:12,919 --> 00:14:15,786
-   a worker fuses the pad arms  
-          to the frames         
+a worker fuses the pad arms to the frames         
 
 252
 00:14:15,788 --> 00:14:18,790
- using the same brazing process 
-           as before.           
+using the same brazing process as before.           
 
 253
 00:14:29,402 --> 00:14:32,870
-  now for the arms that attach  
-  to the eye frames on one end  
+now for the arms that attach to the eye frames on one end  
 
 254
 00:14:32,872 --> 00:14:35,139
-      and sit on your ears      
-          on the other.         
+and sit on your ears on the other.         
 
 255
 00:14:35,141 --> 00:14:37,274
-          the industry          
-    calls these arms temples    
+the industry calls these arms temples    
 
 256
 00:14:37,276 --> 00:14:39,344
-  because they're at the level  
-         of your temples        
+because they're at the level of your temples        
 
 257
 00:14:39,346 --> 00:14:42,346
-   when you wear the glasses.   
+when you wear the glasses.   
 
 258
 00:14:42,348 --> 00:14:45,616
-     after stamping the size    
- and company name on the inside,
+after stamping the size and company name on the inside,
 
 259
 00:14:45,618 --> 00:14:47,485
-  they fuse a hinge to each one 
+they fuse a hinge to each one 
 
 260
 00:14:47,487 --> 00:14:50,822
-   and press a plastic sleeve   
-        on the other end.       
+and press a plastic sleeve on the other end.       
 
 261
 00:15:03,837 --> 00:15:06,370
-        they set the arms       
-        momentarily aside       
+they set the arms momentarily aside       
 
 262
 00:15:06,372 --> 00:15:09,641
- while they position the lenses 
- in the groove of the eye frame.
+while they position the lenses in the groove of the eye frame.
 
 263
 00:15:16,049 --> 00:15:19,117
- a screw keeps everything tight 
-           and intact.          
+a screw keeps everything tight and intact.          
 
 264
 00:15:21,588 --> 00:15:24,122
-      now they screw an arm     
-        onto each hinge.        
+now they screw an arm onto each hinge.        
 
 265
 00:15:36,402 --> 00:15:38,670
-     the arms on most models    
-        have curled ends        
+the arms on most models have curled ends        
 
 266
 00:15:38,672 --> 00:15:43,274
-  that hook over the ears for a 
+that hook over the ears for a 
 more secure and comfortable fit.
 
 267
 00:15:43,276 --> 00:15:45,610
-       a special machine,       
-    called a mechanical cam,    
+a special machine, called a mechanical cam,    
 
 268
 00:15:45,612 --> 00:15:47,945
-        applies pressure        
-   to bend the plastic sleeves  
+applies pressure to bend the plastic sleeves  
 
 269
 00:15:47,947 --> 00:15:49,914
-      to a 45-degree angle.     
+to a 45-degree angle.     
 
 270
 00:15:55,488 --> 00:15:59,490
-    these metal-frame glasses   
- are functional and fashionable.
+these metal-frame glasses are functional and fashionable.
 
 271
 00:16:09,168 --> 00:16:11,502
- narrator: the chinese invented 
-      the first toothbrush      
+narrator: the chinese invented the first toothbrush      
 
 272
 00:16:11,504 --> 00:16:12,770
-          around 1600,          
+around 1600,          
 
 273
 00:16:12,772 --> 00:16:15,239
-       but it wasn't till       
-      about 1780 in england     
+but it wasn't till about 1780 in england     
 
 274
 00:16:15,241 --> 00:16:17,708
-         that it became         
-      a mass-produced item.     
+that it became a mass-produced item.     
 
 275
 00:16:17,710 --> 00:16:18,977
-    like those that followed,   
+like those that followed,   
 
 276
 00:16:18,979 --> 00:16:22,046
 its bristles came from the necks
-     and shoulders of pigs.     
+and shoulders of pigs.     
 
 277
 00:16:22,048 --> 00:16:23,647
-       in the late 1930s,       
+in the late 1930s,       
 
 278
 00:16:23,649 --> 00:16:27,185
-  synthetic materials replaced  
-     natural swine bristles.    
+synthetic materials replaced natural swine bristles.    
 
 279
 00:16:32,258 --> 00:16:34,191
- these toothbrushes should make 
-        you want to flash       
+these toothbrushes should make you want to flash       
 
 280
 00:16:34,193 --> 00:16:36,327
-       your pearly whites       
-         in appreciation        
+your pearly whites in appreciation        
 
 281
 00:16:36,329 --> 00:16:38,529
-      if you consider that,     
-     thousands of years ago,    
+if you consider that, thousands of years ago,    
 
 282
 00:16:38,531 --> 00:16:41,465
-        people used twigs       
-      to clean their teeth.     
+people used twigs to clean their teeth.     
 
 283
 00:16:41,467 --> 00:16:45,069
-   today's toothbrush begins    
-   as little plastic pellets.   
+today's toothbrush begins as little plastic pellets.   
 
 284
 00:16:45,071 --> 00:16:49,940
-     a vacuum sucks them up     
- into an injection mold machine.
+a vacuum sucks them up into an injection mold machine.
 
 285
 00:16:49,942 --> 00:16:53,544
-  the machine melts the pellets 
-  into a kind of plastic dough, 
+the machine melts the pellets into a kind of plastic dough, 
 
 286
 00:16:53,546 --> 00:16:56,346
-         then injects it        
-  into a stainless-steel mold,  
+then injects it into a stainless-steel mold,  
 
 287
 00:16:56,348 --> 00:16:59,150
-  forming 10 toothbrush handles 
-            at once.            
+forming 10 toothbrush handles at once.            
 
 288
 00:17:02,622 --> 00:17:06,424
-     the head of each handle    
+the head of each handle    
 has up to 56 holes for bristles.
 
 289
 00:17:06,426 --> 00:17:09,960
-     this machine generates     
-  10 handles every 35 seconds.  
+this machine generates 10 handles every 35 seconds.  
 
 290
 00:17:09,962 --> 00:17:14,332
 that works out to 27,000 handles
-          in 24 hours.          
+in 24 hours.          
 
 291
 00:17:18,171 --> 00:17:20,637
-          now they melt         
-      blue rubber pellets.      
+now they melt blue rubber pellets.      
 
 292
 00:17:20,639 --> 00:17:22,840
-   they pipe the liquid rubber  
-          into the mold         
+they pipe the liquid rubber into the mold         
 
 293
 00:17:22,842 --> 00:17:24,776
-         with the white         
-       toothbrush handles,      
+with the white toothbrush handles,      
 
 294
 00:17:24,778 --> 00:17:28,179
-      then press the rubber     
+then press the rubber     
 onto the handles to form a grip.
 
 295
 00:17:35,388 --> 00:17:38,456
- so now you'll have a toothbrush
-   you can really hang on to.   
+so now you'll have a toothbrush
+you can really hang on to.   
 
 296
 00:17:38,458 --> 00:17:40,858
-      no dropping this one      
-          in the sink.          
+no dropping this one in the sink.          
 
 297
 00:17:45,131 --> 00:17:48,532
-  they use a semiclear plastic  
+they use a semiclear plastic  
 to produce another type of grip,
 
 298
 00:17:48,534 --> 00:17:50,934
-        one that's softer       
-        and more pliable.       
+one that's softer and more pliable.       
 
 299
 00:17:50,936 --> 00:17:52,470
-  it's called the gummy brush,  
+it's called the gummy brush,  
 
 300
 00:17:52,472 --> 00:17:54,872
-  because the grip really does  
-         feel a bit like        
+because the grip really does feel a bit like        
 
 301
 00:17:54,874 --> 00:17:56,441
-   one of those gummy candies.  
+one of those gummy candies.  
 
 302
 00:17:58,677 --> 00:18:01,812
-  these nylon fibers will form  
-          the bristles.         
+these nylon fibers will form the bristles.         
 
 303
 00:18:01,814 --> 00:18:05,950
-  a robotic arm pats them down  
-  so that they sit very evenly. 
+a robotic arm pats them down so that they sit very evenly. 
 
 304
 00:18:05,952 --> 00:18:07,885
-    then, faster than you can   
-          blink an eye,         
+then, faster than you can blink an eye,         
 
 305
 00:18:07,887 --> 00:18:10,221
- the machine feeds the bristles 
-         into the holes         
+the machine feeds the bristles into the holes         
 
 306
 00:18:10,223 --> 00:18:13,558
-           in the head          
-    of the toothbrush handle.   
+in the head of the toothbrush handle.   
 
 307
 00:18:13,560 --> 00:18:15,760
-       this machine works       
-      at a blurring speed,      
+this machine works at a blurring speed,      
 
 308
 00:18:15,762 --> 00:18:18,763
-  filling 900 holes per minute. 
+filling 900 holes per minute. 
 
 309
 00:18:18,765 --> 00:18:21,399
-         and it operates        
-   with incredible precision.   
+and it operates with incredible precision.   
 
 310
 00:18:28,107 --> 00:18:31,909
-  here's the bristle-selection  
-     process in slow motion.    
+here's the bristle-selection process in slow motion.    
 
 311
 00:18:31,911 --> 00:18:34,778
-       the machine selects      
-   between 22 and 24 bristles   
+the machine selects between 22 and 24 bristles   
 
 312
 00:18:34,780 --> 00:18:37,915
-   for each hole in the brush.  
+for each hole in the brush.  
 
 313
 00:18:37,917 --> 00:18:40,318
-  with 56 holes per toothbrush, 
+with 56 holes per toothbrush, 
 
 314
 00:18:40,320 --> 00:18:44,522
-      that adds up to over      
- 1,300 bristles for each brush. 
+that adds up to over 1,300 bristles for each brush. 
 
 315
 00:18:49,462 --> 00:18:51,261
-   this fully automated system  
+this fully automated system  
 
 316
 00:18:51,263 --> 00:18:54,331
-          works faster          
-   than any human ever could.   
+works faster than any human ever could.   
 
 317
 00:18:54,333 --> 00:18:56,400
- and here's another advantage --
+and here's another advantage --
 
 318
 00:18:56,402 --> 00:18:59,002
 a human hand rarely has to touch
-          the bristles,         
+the bristles,         
 
 319
 00:18:59,004 --> 00:19:01,639
-         so the process         
-     is incredibly hygienic.    
+so the process is incredibly hygienic.    
 
 320
 00:19:14,220 --> 00:19:16,620
-      wondering what holds      
-     the bristles in place?     
+wondering what holds the bristles in place?     
 
 321
 00:19:16,622 --> 00:19:18,022
-              wire.             
+wire.             
 
 322
 00:19:18,024 --> 00:19:20,091
-  the machine bends the fibers  
-            in half,            
+the machine bends the fibers in half,            
 
 323
 00:19:20,093 --> 00:19:23,261
-   anchoring them to the brush  
-    with wire in the middle.    
+anchoring them to the brush with wire in the middle.    
 
 324
 00:19:33,506 --> 00:19:35,239
- now it's time for a brush cut. 
+now it's time for a brush cut. 
 
 325
 00:19:35,241 --> 00:19:39,043
- these blades trim the bristles 
-    to about the same length.   
+these blades trim the bristles to about the same length.   
 
 326
 00:19:39,045 --> 00:19:41,846
-  another set of blades sculpts 
-    different types of edges,   
+another set of blades sculpts different types of edges,   
 
 327
 00:19:41,848 --> 00:19:44,582
-   depending on the toothbrush  
-      model in production.      
+depending on the toothbrush model in production.      
 
 328
 00:19:46,185 --> 00:19:48,386
-         these may look         
-       like spinning tops,      
+these may look like spinning tops,      
 
 329
 00:19:48,388 --> 00:19:50,787
-   but they're rotating disks   
-   coated with diamond dust,    
+but they're rotating disks coated with diamond dust,    
 
 330
 00:19:50,789 --> 00:19:52,323
-        a mild abrasive.        
+a mild abrasive.        
 
 331
 00:19:52,325 --> 00:19:54,325
-       they sand the edges      
-         of the bristles        
+they sand the edges of the bristles        
 
 332
 00:19:54,327 --> 00:19:56,727
- to produce a particular finish.
+to produce a particular finish.
 
 333
 00:19:56,729 --> 00:19:59,797
-   for instance, the bristles   
-  can be straight or zigzagged. 
+for instance, the bristles can be straight or zigzagged. 
 
 334
 00:19:59,799 --> 00:20:01,265
-       different finishes       
+different finishes       
 
 335
 00:20:01,267 --> 00:20:03,367
-         have different         
-     tooth-cleaning effects.    
+have different tooth-cleaning effects.    
 
 336
 00:20:08,341 --> 00:20:10,807
-      you may have noticed      
-  that some bristles are white  
+you may have noticed that some bristles are white  
 
 337
 00:20:10,809 --> 00:20:13,878
-       and others are blue      
-        or another color.       
+and others are blue or another color.       
 
 338
 00:20:13,880 --> 00:20:17,348
-   this is purely aesthetic --  
-    a nifty color combination   
+this is purely aesthetic -- a nifty color combination   
 
 339
 00:20:17,350 --> 00:20:19,784
-     to make the toothbrush     
-          look smarter.         
+to make the toothbrush look smarter.         
 
 340
 00:20:22,955 --> 00:20:24,555
-         and, of course,        
-        the machine knows       
+and, of course, the machine knows       
 
 341
 00:20:24,557 --> 00:20:27,024
- exactly which color goes where,
+exactly which color goes where,
 
 342
 00:20:27,026 --> 00:20:30,194
-       so you end up with       
- a two-tone brush like this one.
+so you end up with a two-tone brush like this one.
 
 343
 00:20:31,764 --> 00:20:33,096
-         every so often,        
+every so often,        
 
 344
 00:20:33,098 --> 00:20:35,433
- the factory pulls a toothbrush 
-      off the assembly line     
+the factory pulls a toothbrush off the assembly line     
 
 345
 00:20:35,435 --> 00:20:36,500
-        for a spot check.       
+for a spot check.       
 
 346
 00:20:36,502 --> 00:20:38,769
@@ -1648,55 +1412,45 @@ a robot arm tugs at the bristles
 
 347
 00:20:38,771 --> 00:20:41,171
-          to make sure          
-     they're secure enough.     
+to make sure they're secure enough.     
 
 348
 00:20:41,173 --> 00:20:43,307
-     and if the brush passes    
-            the test,           
+and if the brush passes the test,           
 
 349
 00:20:43,309 --> 00:20:46,077
- the rest of the production run 
-      is cleared for sale.      
+the rest of the production run is cleared for sale.      
 
 350
 00:20:49,782 --> 00:20:52,716
- then a robotic system packages 
-           the brushes          
+then a robotic system packages the brushes          
 
 351
 00:20:52,718 --> 00:20:55,185
-   so that they come right off  
-   the line ready for shipping  
+so that they come right off the line ready for shipping  
 
 352
 00:20:55,187 --> 00:20:59,456
-      and ready to maintain     
-    toothy smiles everywhere.   
+and ready to maintain toothy smiles everywhere.   
 
 353
 00:20:59,458 --> 00:21:02,526
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 354
 00:21:02,528 --> 00:21:05,529
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 355
 00:21:12,471 --> 00:21:14,405
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 356
 00:21:14,407 --> 00:21:17,208
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 357
 00:21:17,210 --> 00:21:19,877
-      drop us a line at...      
+drop us a line at...      
 

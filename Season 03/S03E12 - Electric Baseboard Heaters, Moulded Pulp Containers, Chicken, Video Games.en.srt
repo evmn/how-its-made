@@ -1,212 +1,144 @@
 ﻿1
 00:00:01,735 --> 00:00:04,670
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
-
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font> 
 2
 00:00:04,672 --> 00:00:07,706
-      captions paid for by      
- discovery communications, inc. 
-
+captions paid for by discovery communications, inc. 
 3
 00:00:23,356 --> 00:00:25,690
-            narrator:           
-   today on "how it's made"...  
-
+narrator: today on "how it's made"... 
 4
 00:00:25,692 --> 00:00:29,194
-  electric baseboard heaters... 
-
+electric baseboard heaters... 
 5
 00:00:32,099 --> 00:00:34,199
-  ...molded pulp containers...  
-
+...molded pulp containers... 
 6
 00:00:37,838 --> 00:00:40,472
-     ...prepared chicken...     
-
+...prepared chicken... 
 7
 00:00:43,444 --> 00:00:46,011
-       ...and video games.      
-
+...and video games. 
 8
 00:00:53,386 --> 00:00:56,321
-   electric baseboard heaters   
-        are inexpensive,        
-
+electric baseboard heaters are inexpensive, 
 9
 00:00:56,323 --> 00:01:01,193
 easy to install, and practically
-        maintenance-free.       
-
+maintenance-free. 
 10
 00:01:01,195 --> 00:01:03,729
-        unlike radiators,       
-      they're inconspicuous     
-
+unlike radiators, they're inconspicuous 
 11
 00:01:03,731 --> 00:01:06,998
-        and they take up        
-       very little space.       
-
+and they take up very little space. 
 12
 00:01:07,000 --> 00:01:11,670
 and best of all, you can control
-  the temperature room by room. 
-
+the temperature room by room. 
 13
 00:01:15,209 --> 00:01:17,408
-       a baseboard heater       
-         is simply wires        
-
+a baseboard heater is simply wires 
 14
 00:01:17,410 --> 00:01:20,478
-      and a heating element     
-       in a steel casing.       
-
+and a heating element in a steel casing. 
 15
 00:01:20,480 --> 00:01:22,881
-      they make the element     
-          using a strip         
-
+they make the element using a strip 
 16
 00:01:22,883 --> 00:01:25,150
-     of paper-thin aluminum     
-         7 inches wide.         
-
+of paper-thin aluminum 7 inches wide. 
 17
 00:01:27,020 --> 00:01:31,557
- it's lubricated with soap, then
- goes through a forming machine.
+it's lubricated with soap, then
+goes through a forming machine.
 
 18
 00:01:31,559 --> 00:01:35,827
-     a die punches the strip    
-into little squares called fins.
+a die punches the strip into little squares called fins.
 
 19
 00:01:35,829 --> 00:01:39,030
-    they measure half an inch   
-  by three-quarters of an inch  
-
+they measure half an inch by three-quarters of an inch 
 20
 00:01:39,032 --> 00:01:42,834
 and have a circle in the middle.
 
 21
 00:01:42,836 --> 00:01:46,738
- the machine pierces the circles
-    and cuts the fins apart.    
-
+the machine pierces the circles
+and cuts the fins apart. 
 22
 00:01:49,576 --> 00:01:53,078
-     this machine churns out    
-      600 fins per minute.      
-
+this machine churns out 600 fins per minute. 
 23
 00:01:55,783 --> 00:01:58,250
- it stacks them on steel tubes, 
-    the lengths of which vary   
-
+it stacks them on steel tubes, the lengths of which vary 
 24
 00:01:58,252 --> 00:02:00,352
-     according to the length    
-         of the heater.         
-
+according to the length of the heater. 
 25
 00:02:10,330 --> 00:02:12,731
- as each tube fills to capacity,
+as each tube fills to capacity,
 
 26
 00:02:12,733 --> 00:02:15,634
-     a worker takes it away     
-         to be wired up.        
-
+a worker takes it away to be wired up. 
 27
 00:02:20,073 --> 00:02:23,341
-    elsewhere in the factory,   
-  they make the heater's casing 
-
+elsewhere in the factory, they make the heater's casing 
 28
 00:02:23,343 --> 00:02:25,810
-       using what's known       
-      as cold rolled steel,     
-
+using what's known as cold rolled steel, 
 29
 00:02:25,812 --> 00:02:27,512
-    a flexible type of steel    
-
+a flexible type of steel 
 30
 00:02:27,514 --> 00:02:29,982
-       that can be worked       
-       without using heat.      
-
+that can be worked without using heat. 
 31
 00:02:32,086 --> 00:02:34,152
-      after a squirt of oil     
-        for lubrication,        
-
+after a squirt of oil for lubrication, 
 32
 00:02:34,154 --> 00:02:35,954
-    the first die cuts holes    
-
+the first die cuts holes 
 33
 00:02:35,956 --> 00:02:38,490
-   for attaching the baseboard  
-          to the wall.          
-
+for attaching the baseboard to the wall. 
 34
 00:02:38,492 --> 00:02:40,626
- then the second die cuts holes 
-
+then the second die cuts holes 
 35
 00:02:40,628 --> 00:02:42,594
-    for attaching the heating   
-     element to the casing.     
-
+for attaching the heating element to the casing. 
 36
 00:02:46,367 --> 00:02:49,968
-  now the steel travels through 
-what's called the roll former --
+now the steel travels through what's called the roll former --
 
 37
 00:02:49,970 --> 00:02:52,237
-            a machine           
-     whose series of rollers    
-
+a machine whose series of rollers 
 38
 00:02:52,239 --> 00:02:54,840
-        successively bend       
-     a flat strip of metal,     
-
+successively bend a flat strip of metal, 
 39
 00:02:54,842 --> 00:02:56,975
-       one fold at a time,      
-
+one fold at a time, 
 40
 00:02:56,977 --> 00:02:59,344
-  into the shape of the casing. 
-
+into the shape of the casing. 
 41
 00:03:02,649 --> 00:03:06,385
-      from start to finish,     
-    20 rollers make 20 bends.   
-
+from start to finish, 20 rollers make 20 bends. 
 42
 00:03:06,387 --> 00:03:10,923
-        the process takes       
-  about 150 seconds per casing. 
-
+the process takes about 150 seconds per casing. 
 43
 00:03:16,863 --> 00:03:20,132
-      after the last fold,      
-    a computer-controlled die   
-
+after the last fold, a computer-controlled die 
 44
 00:03:20,134 --> 00:03:22,667
-         cuts the casing        
-     to the required length.    
-
+cuts the casing to the required length. 
 45
 00:03:22,669 --> 00:03:25,003
 the higher the heater's wattage,
@@ -217,175 +149,115 @@ the longer the casing has to be.
 
 47
 00:03:27,474 --> 00:03:31,209
- models range from 300 watts -- 
-      about 2 feet long --      
-
+models range from 300 watts -- about 2 feet long -- 
 48
 00:03:31,211 --> 00:03:34,746
-       to 2,500 watts --        
-       about 8 feet long.       
-
+to 2,500 watts -- about 8 feet long. 
 49
 00:03:39,353 --> 00:03:43,488
- next, they put a steel junction
- box on each end of the casing. 
-
+next, they put a steel junction
+box on each end of the casing. 
 50
 00:03:43,490 --> 00:03:45,223
-      these hold the wires      
-
+these hold the wires 
 51
 00:03:45,225 --> 00:03:48,026
-  that the electrician connects 
-      to the house wiring.      
-
+that the electrician connects to the house wiring. 
 52
 00:03:48,028 --> 00:03:51,863
-     workers spot-weld both     
- junction boxes simultaneously. 
-
+workers spot-weld both junction boxes simultaneously. 
 53
 00:03:58,839 --> 00:04:02,640
-    after a thorough washing,   
-  computer-controlled sprayers  
-
+after a thorough washing, computer-controlled sprayers 
 54
 00:04:02,642 --> 00:04:05,043
-        coat the casings        
-        in paint powder.        
-
+coat the casings in paint powder. 
 55
 00:04:05,045 --> 00:04:06,511
-     then it's into an oven     
-
+then it's into an oven 
 56
 00:04:06,513 --> 00:04:10,982
-         for 20 minutes         
-   at 365 degrees fahrenheit.   
-
+for 20 minutes at 365 degrees fahrenheit. 
 57
 00:04:10,984 --> 00:04:15,921
-   this transforms the powder   
- to liquid, drying it instantly.
+this transforms the powder to liquid, drying it instantly.
 
 58
 00:04:15,923 --> 00:04:17,656
-    after running a red wire    
-
+after running a red wire 
 59
 00:04:17,658 --> 00:04:19,992
-   for the electrical current   
-   the length of the casing,    
-
+for the electrical current the length of the casing, 
 60
 00:04:19,994 --> 00:04:21,460
-    they rig up what's called   
-
+they rig up what's called 
 61
 00:04:21,462 --> 00:04:23,928
-     a linear high limit        
-     temperature control --     
-
+a linear high limit temperature control -- 
 62
 00:04:23,930 --> 00:04:26,998
-         a safety device        
-     that prevents the unit     
-
+a safety device that prevents the unit 
 63
 00:04:27,000 --> 00:04:29,801
-        from overheating        
-       and catching fire.       
-
+from overheating and catching fire. 
 64
 00:04:29,803 --> 00:04:31,869
-           gas inside           
-     the temperature control    
-
+gas inside the temperature control 
 65
 00:04:31,871 --> 00:04:33,805
-   expands under intense heat,  
-
+expands under intense heat, 
 66
 00:04:33,807 --> 00:04:37,476
-      triggering the device     
-       to cut the current.      
-
+triggering the device to cut the current. 
 67
 00:04:37,478 --> 00:04:39,611
-    now they install supports   
-
+now they install supports 
 68
 00:04:39,613 --> 00:04:41,947
-   to hold the heating element  
-            in place.           
-
+to hold the heating element in place. 
 69
 00:04:41,949 --> 00:04:45,550
-   they're made of satin-coat   
- steel, a rust-resistant metal. 
-
+they're made of satin-coat steel, a rust-resistant metal. 
 70
 00:04:45,552 --> 00:04:48,887
-    as the element heats up,    
-      it naturally expands.     
-
+as the element heats up, it naturally expands. 
 71
 00:04:48,889 --> 00:04:51,356
-  to prevent it from scratching 
-    against the metal casing    
-
+to prevent it from scratching against the metal casing 
 72
 00:04:51,358 --> 00:04:53,891
-   and making annoying noises,  
-
+and making annoying noises, 
 73
 00:04:53,893 --> 00:04:57,062
-  they install a heat-resistant 
-        plastic bushing.        
-
+they install a heat-resistant plastic bushing. 
 74
 00:04:58,899 --> 00:05:00,365
-  now they connect the red wire 
-
+now they connect the red wire 
 75
 00:05:00,367 --> 00:05:02,634
-         that will carry        
-     the electrical current     
-
+that will carry the electrical current 
 76
 00:05:02,636 --> 00:05:04,636
-    to the heating element's    
-           black wire,          
-
+to the heating element's black wire, 
 77
 00:05:04,638 --> 00:05:06,704
-           capping it           
-     with a wire connector.     
-
+capping it with a wire connector. 
 78
 00:05:06,706 --> 00:05:09,907
-    they clip it to the cover   
-     of the junction box --     
-
+they clip it to the cover of the junction box -- 
 79
 00:05:09,909 --> 00:05:13,845
- easy access for the electrician
-    installing the baseboard.   
-
+easy access for the electrician
+installing the baseboard. 
 80
 00:05:13,847 --> 00:05:17,782
-         then they close        
-     the junction box cover.    
-
+then they close the junction box cover. 
 81
 00:05:17,784 --> 00:05:19,384
-        at the other end,       
-
+at the other end, 
 82
 00:05:19,386 --> 00:05:22,053
-    they connect the red wire   
-       and the black wire       
-
+they connect the red wire and the black wire 
 83
 00:05:22,055 --> 00:05:23,855
 to the temperature-control wire.
@@ -396,1275 +268,851 @@ this runs the electrical current
 
 85
 00:05:25,659 --> 00:05:28,593
-    through the safety device   
-          at all times.         
-
+through the safety device at all times. 
 86
 00:05:28,595 --> 00:05:30,996
-      after a voltage test,     
-
+after a voltage test, 
 87
 00:05:30,998 --> 00:05:35,900
-  they close it up and snap on  
-  a panel to cover the element. 
-
+they close it up and snap on a panel to cover the element. 
 88
 00:05:35,902 --> 00:05:40,339
-    being toasty warm is now    
-   just an installation away.   
-
+being toasty warm is now just an installation away. 
 89
 00:05:48,349 --> 00:05:51,683
-     narrator: "molded pulp"    
- isn't exactly a household word.
+narrator: "molded pulp" isn't exactly a household word.
 
 90
 00:05:51,685 --> 00:05:54,086
-   but it is a household item.  
-
+but it is a household item. 
 91
 00:05:54,088 --> 00:05:57,222
-     chances are, you've got    
-  an egg carton in your fridge  
-
+chances are, you've got an egg carton in your fridge 
 92
 00:05:57,224 --> 00:05:58,557
-       that's made of it.       
-
+that's made of it. 
 93
 00:05:58,559 --> 00:06:00,692
-           this thick,          
-     cardboardlike material     
-
+this thick, cardboardlike material 
 94
 00:06:00,694 --> 00:06:03,361
-          can be shaped         
-  into a variety of containers, 
-
+can be shaped into a variety of containers, 
 95
 00:06:03,363 --> 00:06:05,029
-    like those drink carriers   
-
+like those drink carriers 
 96
 00:06:05,031 --> 00:06:07,699
-          they give you         
-  at the fast-food restaurants. 
-
+they give you at the fast-food restaurants. 
 97
 00:06:12,239 --> 00:06:16,374
-    farms ship out their eggs   
-  in trays called filler flats. 
-
+farms ship out their eggs in trays called filler flats. 
 98
 00:06:16,376 --> 00:06:19,244
-        these flats begin       
-      as recycled paper --      
-
+these flats begin as recycled paper -- 
 99
 00:06:19,246 --> 00:06:23,982
-  old phone books, newspapers,  
-     magazines, cardboard --    
-
+old phone books, newspapers, magazines, cardboard -- 
 100
 00:06:23,984 --> 00:06:27,452
-     pretty much any product    
-      made of paper fibers.     
-
+pretty much any product made of paper fibers. 
 101
 00:06:27,454 --> 00:06:30,589
-    the factory even recycles   
-          its own flats         
-
+the factory even recycles its own flats 
 102
 00:06:30,591 --> 00:06:33,625
-     that had been rejected     
-       by quality control.      
-
+that had been rejected by quality control. 
 103
 00:06:35,195 --> 00:06:38,797
-      the raw materials go      
-into what's called the pulper --
+the raw materials go into what's called the pulper --
 
 104
 00:06:38,799 --> 00:06:41,867
-         a giant blender        
-    that mashes everything up   
-
+a giant blender that mashes everything up 
 105
 00:06:41,869 --> 00:06:43,268
-  and blends it with hot water  
-
+and blends it with hot water 
 106
 00:06:43,270 --> 00:06:48,807
-    that's 110 to 150 degrees   
-           fahrenheit.          
-
+that's 110 to 150 degrees fahrenheit. 
 107
 00:06:48,809 --> 00:06:53,345
 the hot water swells the fibers,
-  causing them to break apart.  
-
+causing them to break apart. 
 108
 00:06:53,347 --> 00:06:56,081
-        after 20 minutes,       
-        they become pulp,       
-
+after 20 minutes, they become pulp, 
 109
 00:06:56,083 --> 00:07:00,485
-    a watery mixture roughly    
- the consistency of hot oatmeal.
+a watery mixture roughly the consistency of hot oatmeal.
 
 110
 00:07:00,487 --> 00:07:02,887
-         the pulp exits         
-  out the bottom of the pulper  
-
+the pulp exits out the bottom of the pulper 
 111
 00:07:02,889 --> 00:07:05,223
-        through a filter        
-    that screens out plastics   
-
+through a filter that screens out plastics 
 112
 00:07:05,225 --> 00:07:08,493
-     and other contaminants.    
-
+and other contaminants. 
 113
 00:07:08,495 --> 00:07:12,096
-        shaping the flats       
-  is a fully automated process. 
-
+shaping the flats is a fully automated process. 
 114
 00:07:12,098 --> 00:07:15,700
-     formation molds descend    
-  into a vat filled with pulp.  
-
+formation molds descend into a vat filled with pulp. 
 115
 00:07:15,702 --> 00:07:19,304
-         a vacuum sucks         
-  the mushy mixture onto them.  
-
+a vacuum sucks the mushy mixture onto them. 
 116
 00:07:19,306 --> 00:07:21,907
- water jets rinse of the excess.
+water jets rinse of the excess.
 
 117
 00:07:21,909 --> 00:07:25,243
-         rotating above         
-       are transfer molds.      
-
+rotating above are transfer molds. 
 118
 00:07:25,245 --> 00:07:28,246
-     they grab the flats off    
-       the formation molds      
-
+they grab the flats off the formation molds 
 119
 00:07:28,248 --> 00:07:30,315
- and move them onto a conveyor. 
-
+and move them onto a conveyor. 
 120
 00:07:32,519 --> 00:07:35,119
-    before the transfer molds   
-     grab the flats, though,    
-
+before the transfer molds grab the flats, though, 
 121
 00:07:35,121 --> 00:07:38,390
-         a brush applies        
-    a water-based lubricant.    
-
+a brush applies a water-based lubricant. 
 122
 00:07:38,392 --> 00:07:41,259
-     this ensures the flats     
-    won't stick to the molds.   
-
+this ensures the flats won't stick to the molds. 
 123
 00:07:41,261 --> 00:07:43,895
-     it's just like greasing    
-          a baking pan.         
-
+it's just like greasing a baking pan. 
 124
 00:07:55,275 --> 00:07:59,344
-  the molds themselves are made 
-of bronze, plastic, or aluminum,
+the molds themselves are made of bronze, plastic, or aluminum,
 
 125
 00:07:59,346 --> 00:08:03,682
-      depending on how long     
-the factory intends to use them.
+depending on how long the factory intends to use them.
 
 126
 00:08:03,684 --> 00:08:06,818
-         they're covered        
-  with a stainless-steel mesh.  
-
+they're covered with a stainless-steel mesh. 
 127
 00:08:06,820 --> 00:08:09,687
 this mesh ensures an even vacuum
-        through the mold        
-
+through the mold 
 128
 00:08:09,689 --> 00:08:12,357
-           so the pulp          
-     spreads over it evenly.    
-
+so the pulp spreads over it evenly. 
 129
 00:08:15,295 --> 00:08:20,498
- the soggy flats now go into an 
- oven for 12 minutes to dry out.
+the soggy flats now go into an oven for 12 minutes to dry out.
 
 130
 00:08:20,500 --> 00:08:24,569
- the 400-degree-fahrenheit heat 
-      evaporates the water.     
-
+the 400-degree-fahrenheit heat evaporates the water. 
 131
 00:08:24,571 --> 00:08:29,174
- this bonds the fibers together,
-    forming a rigid material.   
-
+this bonds the fibers together,
+forming a rigid material. 
 132
 00:08:31,044 --> 00:08:32,644
-    after they exit the oven,   
-
+after they exit the oven, 
 133
 00:08:32,646 --> 00:08:35,513
-  a device appropriately called 
-           an up-ender          
-
+a device appropriately called an up-ender 
 134
 00:08:35,515 --> 00:08:39,317
 flips them up so that they stack
-        into each other.        
-
+into each other. 
 135
 00:08:39,319 --> 00:08:41,986
-  a built-in counting mechanism 
-      triggers the machine      
-
+a built-in counting mechanism triggers the machine 
 136
 00:08:41,988 --> 00:08:45,490
-   to section off the required  
- number of flats per package... 
-
+to section off the required number of flats per package... 
 137
 00:08:47,794 --> 00:08:50,295
-   ...then compresses them...   
-
+...then compresses them... 
 138
 00:08:52,533 --> 00:08:56,701
-  ...and seals them in plastic  
-   film to keep the dust out.   
-
+...and seals them in plastic film to keep the dust out. 
 139
 00:09:02,409 --> 00:09:04,743
-        the factory uses        
-    the same molding process    
-
+the factory uses the same molding process 
 140
 00:09:04,745 --> 00:09:07,212
 to make four-cup drink carriers.
 
 141
 00:09:07,214 --> 00:09:11,082
-       these, too, go into      
-  an oven to dry out the pulp,  
-
+these, too, go into an oven to dry out the pulp, 
 142
 00:09:11,084 --> 00:09:13,218
-   but only for six minutes --  
-
+but only for six minutes -- 
 143
 00:09:13,220 --> 00:09:15,820
-          half the time         
-      the filler flats need     
-
+half the time the filler flats need 
 144
 00:09:15,822 --> 00:09:18,823
-      because this product      
-     is smaller and lighter.    
-
+because this product is smaller and lighter. 
 145
 00:09:23,030 --> 00:09:27,032
-   automated compactors stack   
-  the finished drink carriers.  
-
+automated compactors stack the finished drink carriers. 
 146
 00:09:29,169 --> 00:09:32,671
-   then workers compress them   
-   for packing and shipping.    
-
+then workers compress them for packing and shipping. 
 147
 00:09:34,440 --> 00:09:37,175
-     the factory also makes     
-    disposable urinal bottles   
-
+the factory also makes disposable urinal bottles 
 148
 00:09:37,177 --> 00:09:38,843
-         for hospitals.         
-
+for hospitals. 
 149
 00:09:38,845 --> 00:09:40,512
- they add chemicals to the pulp 
-
+they add chemicals to the pulp 
 150
 00:09:40,514 --> 00:09:42,447
-       to make the bottles      
-          liquid-tight.         
-
+to make the bottles liquid-tight. 
 151
 00:09:42,449 --> 00:09:44,515
-           these molds          
-      are three-dimensional     
-
+these molds are three-dimensional 
 152
 00:09:44,517 --> 00:09:46,785
-       and lined with mesh      
-         on the inside.         
-
+and lined with mesh on the inside. 
 153
 00:09:48,888 --> 00:09:50,788
-       when they submerge       
-       into the pulp vat,       
-
+when they submerge into the pulp vat, 
 154
 00:09:50,790 --> 00:09:53,525
-   a vacuum sucks in the pulp.  
-
+a vacuum sucks in the pulp. 
 155
 00:09:53,527 --> 00:09:55,660
-      when they resurface,      
-
+when they resurface, 
 156
 00:09:55,662 --> 00:09:58,930
 water jets rinse the excess pulp
-      off the bottle necks,     
-
+off the bottle necks, 
 157
 00:09:58,932 --> 00:10:01,799
-         and the vacuum         
-      sucks out the water.      
-
+and the vacuum sucks out the water. 
 158
 00:10:01,801 --> 00:10:03,601
-     a spiked conveyor belt     
-
+a spiked conveyor belt 
 159
 00:10:03,603 --> 00:10:06,204
-     transports the bottles     
-       to the drying oven.      
-
+transports the bottles to the drying oven. 
 160
 00:10:06,206 --> 00:10:08,006
- they dry at a lower temperature
+they dry at a lower temperature
 
 161
 00:10:08,008 --> 00:10:10,208
-         than the flats         
-    and drink carriers do --    
-
+than the flats and drink carriers do -- 
 162
 00:10:10,210 --> 00:10:12,410
-    350-degrees fahrenheit --   
-
+350-degrees fahrenheit -- 
 163
 00:10:12,412 --> 00:10:15,813
-     and for longer time --     
-          a half-hour.          
-
+and for longer time -- a half-hour. 
 164
 00:10:15,815 --> 00:10:19,617
- this ensures the chemicals that
-  make the bottles liquid-tight 
-
+this ensures the chemicals that
+make the bottles liquid-tight 
 165
 00:10:19,619 --> 00:10:22,820
-        cure thoroughly.        
-
+cure thoroughly. 
 166
 00:10:22,822 --> 00:10:26,824
- while urinal bottles can't be  
- recycled for sanitary reasons, 
-
+while urinal bottles can't be recycled for sanitary reasons, 
 167
 00:10:26,826 --> 00:10:29,960
- drink holders and filler flats 
-         are recyclable,        
-
+drink holders and filler flats are recyclable, 
 168
 00:10:29,962 --> 00:10:33,965
-      making them extremely     
-    environmentally friendly.   
-
+making them extremely environmentally friendly. 
 169
 00:10:44,978 --> 00:10:46,777
-   narrator: in the year 2001,  
-
+narrator: in the year 2001, 
 170
 00:10:46,779 --> 00:10:50,514
-       the average person       
-    ate 61 pounds of chicken.   
-
+the average person ate 61 pounds of chicken. 
 171
 00:10:50,516 --> 00:10:52,651
- given that rate of consumption,
+given that rate of consumption,
 
 172
 00:10:52,653 --> 00:10:55,920
-      if we had to process      
-     the poultry ourselves,     
-
+if we had to process the poultry ourselves, 
 173
 00:10:55,922 --> 00:10:59,791
-     chances are, we'd be in    
-  a rather foul mood by dinner. 
-
+chances are, we'd be in a rather foul mood by dinner. 
 174
 00:10:59,793 --> 00:11:02,994
-         thank goodness         
- for chicken-processing plants. 
-
+thank goodness for chicken-processing plants. 
 175
 00:11:05,665 --> 00:11:07,599
-          the chickens          
-      arrive at the factory     
-
+the chickens arrive at the factory 
 176
 00:11:07,601 --> 00:11:10,735
-     with their feet, legs,     
-   and heads already cut off.   
-
+with their feet, legs, and heads already cut off. 
 177
 00:11:10,737 --> 00:11:13,171
-   what's left are the breasts  
-           and wings.           
-
+what's left are the breasts and wings. 
 178
 00:11:14,608 --> 00:11:19,110
- the slaughterhouse also removed
-      the internal organs.      
-
+the slaughterhouse also removed
+the internal organs. 
 179
 00:11:21,281 --> 00:11:23,815
-   a conveyor belt transports   
-          the chickens          
-
+a conveyor belt transports the chickens 
 180
 00:11:23,817 --> 00:11:25,416
-         to the cutting         
-       and deboning zone,       
-
+to the cutting and deboning zone, 
 181
 00:11:25,418 --> 00:11:31,422
-           a bustling           
-    assembly-line operation.    
-
+a bustling assembly-line operation. 
 182
 00:11:31,424 --> 00:11:34,492
-    workers prop each chicken   
-     on a cone-shaped stand,    
-
+workers prop each chicken on a cone-shaped stand, 
 183
 00:11:34,494 --> 00:11:38,295
-        in order to have        
-        both hands free.        
-
+in order to have both hands free. 
 184
 00:11:38,297 --> 00:11:39,964
-  cutting up a chicken properly 
-
+cutting up a chicken properly 
 185
 00:11:39,966 --> 00:11:42,700
-          isn't as easy         
-       as you might think.      
-
+isn't as easy as you might think. 
 186
 00:11:42,702 --> 00:11:46,570
-           the workers          
-      get special training.     
-
+the workers get special training. 
 187
 00:11:46,572 --> 00:11:49,106
-     it's crucial they keep     
-   their knives well-sharpened  
-
+it's crucial they keep their knives well-sharpened 
 188
 00:11:49,108 --> 00:11:52,977
-       and wipe them after      
-   every five or so chickens.   
-
+and wipe them after every five or so chickens. 
 189
 00:11:52,979 --> 00:11:55,379
 the first cuts remove the wings.
 
 190
 00:11:55,381 --> 00:11:56,981
-      starting on one side      
-
+starting on one side 
 191
 00:11:56,983 --> 00:11:58,983
-         and positioning        
-     the knife horizontally,    
-
+and positioning the knife horizontally, 
 192
 00:11:58,985 --> 00:12:00,918
-      in line with the top      
-          of the cone,          
-
+in line with the top of the cone, 
 193
 00:12:00,920 --> 00:12:02,320
-  the workers make an incision  
-
+the workers make an incision 
 194
 00:12:02,322 --> 00:12:05,056
-         where the wing         
-       joins the shoulder,      
-
+where the wing joins the shoulder, 
 195
 00:12:05,058 --> 00:12:08,593
-       then cuts downward,      
- across the back of the chicken,
+then cuts downward, across the back of the chicken,
 
 196
 00:12:08,595 --> 00:12:12,197
-        then a quick cut        
-  and twist to detach the wing. 
-
+then a quick cut and twist to detach the wing. 
 197
 00:12:12,199 --> 00:12:14,265
-     it's the same procedure    
-       on the other wing.       
-
+it's the same procedure on the other wing. 
 198
 00:12:14,267 --> 00:12:16,401
-          the incisions         
-   at the wing/shoulder joint   
-
+the incisions at the wing/shoulder joint 
 199
 00:12:16,403 --> 00:12:19,537
-       must slice through       
-     the tendon completely,     
-
+must slice through the tendon completely, 
 200
 00:12:19,539 --> 00:12:22,339
-  otherwise, detaching the wing 
-          is difficult.         
-
+otherwise, detaching the wing is difficult. 
 201
 00:12:22,341 --> 00:12:24,675
-         and struggling         
-      with a slippery wing      
-
+and struggling with a slippery wing 
 202
 00:12:24,677 --> 00:12:26,211
-      while holding a knife     
-          in your hand          
-
+while holding a knife in your hand 
 203
 00:12:26,213 --> 00:12:29,547
- can result in a serious injury.
+can result in a serious injury.
 
 204
 00:12:29,549 --> 00:12:33,952
-          the next cuts         
-  remove the skin and breasts.  
-
+the next cuts remove the skin and breasts. 
 205
 00:12:33,954 --> 00:12:37,155
-     they peel off the skin,    
-  then pull on the two breasts, 
-
+they peel off the skin, then pull on the two breasts, 
 206
 00:12:37,157 --> 00:12:40,759
-    and make a quick incision   
-        to release them.        
-
+and make a quick incision to release them. 
 207
 00:12:40,761 --> 00:12:42,693
-  they slice the breasts apart, 
-
+they slice the breasts apart, 
 208
 00:12:42,695 --> 00:12:44,562
-  carefully checking for bones  
-
+carefully checking for bones 
 209
 00:12:44,564 --> 00:12:46,630
-   that might have broken off   
-        from the carcass        
-
+that might have broken off from the carcass 
 210
 00:12:46,632 --> 00:12:49,901
 and could be hiding in the meat.
 
 211
 00:12:49,903 --> 00:12:53,104
-          the next cuts         
-      remove the tenders --     
-
+the next cuts remove the tenders -- 
 212
 00:12:53,106 --> 00:12:56,040
-            the meat            
-    located under the breast.   
-
+the meat located under the breast. 
 213
 00:12:56,042 --> 00:12:58,642
-    workers make an incision    
-         in the middle,         
-
+workers make an incision in the middle, 
 214
 00:12:58,644 --> 00:13:00,178
-    just under the wishbone,    
-
+just under the wishbone, 
 215
 00:13:00,180 --> 00:13:02,313
-       and down the length      
-         of the carcass.        
-
+and down the length of the carcass. 
 216
 00:13:02,315 --> 00:13:04,516
-   this detaches the tenders,   
-
+this detaches the tenders, 
 217
 00:13:04,518 --> 00:13:08,186
-    enabling the next worker    
-  on the line to pull them off. 
-
+enabling the next worker on the line to pull them off. 
 218
 00:13:11,591 --> 00:13:15,326
- meanwhile, waiting in the wings
-         are the wings.         
-
+meanwhile, waiting in the wings
+are the wings. 
 219
 00:13:15,328 --> 00:13:18,129
 workers load them onto a machine
 
 220
 00:13:18,131 --> 00:13:21,065
-      appropriately called      
-       the wing-cutter --       
-
+appropriately called the wing-cutter -- 
 221
 00:13:21,067 --> 00:13:24,869
- a mini ferris wheel that takes 
-  the wings for a little ride,  
-
+a mini ferris wheel that takes the wings for a little ride, 
 222
 00:13:24,871 --> 00:13:26,871
-    right into a sharp knife    
-
+right into a sharp knife 
 223
 00:13:26,873 --> 00:13:28,873
-         that chops them        
-     into three sections --     
-
+that chops them into three sections -- 
 224
 00:13:28,875 --> 00:13:33,344
-  the drumette, the chubby part 
-       with the most meat;      
-
+the drumette, the chubby part with the most meat; 
 225
 00:13:33,346 --> 00:13:35,413
-  the winglet, the middle part; 
-
+the winglet, the middle part; 
 226
 00:13:35,415 --> 00:13:38,883
-  and the wing tip, the pointy  
-   part with barely any meat.   
-
+and the wing tip, the pointy part with barely any meat. 
 227
 00:13:38,885 --> 00:13:40,485
-     this factory transforms    
-
+this factory transforms 
 228
 00:13:40,487 --> 00:13:43,020
-      the meatier drumettes     
-        and the winglets        
-
+the meatier drumettes and the winglets 
 229
 00:13:43,022 --> 00:13:47,425
-          into frozen,          
-   ready-to-eat chicken wings.  
-
+into frozen, ready-to-eat chicken wings. 
 230
 00:13:47,427 --> 00:13:50,828
-         the first step         
-  in that process is seasoning. 
-
+the first step in that process is seasoning. 
 231
 00:13:50,830 --> 00:13:54,432
-     workers load the pieces    
-       into a giant drum.       
-
+workers load the pieces into a giant drum. 
 232
 00:13:54,434 --> 00:13:58,503
-      as the drum rotates,      
-  they inject the seasoning --  
-
+as the drum rotates, they inject the seasoning -- 
 233
 00:13:58,505 --> 00:14:01,606
-    barbecue or honey garlic,   
-          for instance.         
-
+barbecue or honey garlic, for instance. 
 234
 00:14:06,112 --> 00:14:10,448
 after about an hour, the chicken
-  wings come out evenly coated. 
-
+wings come out evenly coated. 
 235
 00:14:16,522 --> 00:14:20,991
 now these freshly seasoned wings
-    go into a gas-fired oven,   
-
+go into a gas-fired oven, 
 236
 00:14:20,993 --> 00:14:24,929
 where they bake at approximately
-     480-degrees fahrenheit     
-
+480-degrees fahrenheit 
 237
 00:14:24,931 --> 00:14:27,131
-      for 8 to 11 minutes.      
-
+for 8 to 11 minutes. 
 238
 00:14:27,133 --> 00:14:32,069
-   they come out fully cooked   
-        and ready to eat.       
-
+they come out fully cooked and ready to eat. 
 239
 00:14:32,071 --> 00:14:35,873
-     they go into a freezing    
-mechanism for about a half-hour,
+they go into a freezing mechanism for about a half-hour,
 
 240
 00:14:35,875 --> 00:14:38,676
- then to the automated-packaging
-           department,          
-
+then to the automated-packaging
+department, 
 241
 00:14:38,678 --> 00:14:40,879
-      where they're sealed      
-            in a bag.           
-
+where they're sealed in a bag. 
 242
 00:14:40,881 --> 00:14:44,415
-     these chicken pieces --    
- wings, tenders, and breasts -- 
-
+these chicken pieces -- wings, tenders, and breasts -- 
 243
 00:14:44,417 --> 00:14:47,151
-    are prepared differently.   
-
+are prepared differently. 
 244
 00:14:47,153 --> 00:14:50,021
-  after seasoning, they travel  
-     through a rotating drum    
-
+after seasoning, they travel through a rotating drum 
 245
 00:14:50,023 --> 00:14:53,224
-       that coats them in       
-a flour-and-bread-crumb mixture,
+that coats them in a flour-and-bread-crumb mixture,
 
 246
 00:14:53,226 --> 00:14:56,761
-     then into a second drum    
-       for a second coat.       
-
+then into a second drum for a second coat. 
 247
 00:15:05,305 --> 00:15:09,907
-     next stop, a 40-second     
-     deep fry in canola oil,    
-
+next stop, a 40-second deep fry in canola oil, 
 248
 00:15:09,909 --> 00:15:13,778
-        just long enough        
-     to adhere the coating.     
-
+just long enough to adhere the coating. 
 249
 00:15:13,780 --> 00:15:17,849
-    then from the frying pan    
-  into the fire, as they say -- 
-
+then from the frying pan into the fire, as they say -- 
 250
 00:15:17,851 --> 00:15:20,051
- well, into the oven, actually. 
-
+well, into the oven, actually. 
 251
 00:15:20,053 --> 00:15:23,521
-    after 20 minutes at about   
-     480-degrees fahrenheit,    
-
+after 20 minutes at about 480-degrees fahrenheit, 
 252
 00:15:23,523 --> 00:15:25,923
-      these chicken pieces      
-        are fully cooked        
-
+these chicken pieces are fully cooked 
 253
 00:15:25,925 --> 00:15:28,793
-     and ready to be frozen     
-          and packaged.         
-
+and ready to be frozen and packaged. 
 254
 00:15:39,739 --> 00:15:42,073
-   narrator: they started out   
-        a generation ago        
-
+narrator: they started out a generation ago 
 255
 00:15:42,075 --> 00:15:46,243
-    as simple black-and-white   
- ping-pong games on a tv screen.
+as simple black-and-white ping-pong games on a tv screen.
 
 256
 00:15:46,245 --> 00:15:51,348
- today's video games are vivid, 
- sophisticated, and fast-moving,
+today's video games are vivid, sophisticated, and fast-moving,
 
 257
 00:15:51,350 --> 00:15:54,552
-   driven by state-of-the-art   
-        computer software       
-
+driven by state-of-the-art computer software 
 258
 00:15:54,554 --> 00:15:57,655
-      featuring the latest      
-     in high-tech graphics.     
-
+featuring the latest in high-tech graphics. 
 259
 00:16:04,030 --> 00:16:06,497
-     it all started in 1952     
-
+it all started in 1952 
 260
 00:16:06,499 --> 00:16:09,300
-   with a cambridge university  
-           phd thesis           
-
+with a cambridge university phd thesis 
 261
 00:16:09,302 --> 00:16:12,437
- on human/computer interaction. 
-
+on human/computer interaction. 
 262
 00:16:12,439 --> 00:16:15,440
-      the student invented      
- a primitive tick-tack-toe game 
-
+the student invented a primitive tick-tack-toe game 
 263
 00:16:15,442 --> 00:16:17,708
-  on a vacuum-tube computer --  
-
+on a vacuum-tube computer -- 
 264
 00:16:17,710 --> 00:16:21,512
-  the very first computer game  
-         with graphics.         
-
+the very first computer game with graphics. 
 265
 00:16:21,514 --> 00:16:23,114
-        a team at m.i.t.        
-
+a team at m.i.t. 
 266
 00:16:23,116 --> 00:16:28,052
-  designed the first recognized 
-     computer game in 1962.     
-
+designed the first recognized computer game in 1962. 
 267
 00:16:28,054 --> 00:16:30,187
-         then, in 1972,         
-
+then, in 1972, 
 268
 00:16:30,189 --> 00:16:33,458
-       a stanford student       
-invented the arcade game "pong,"
+a stanford student invented the arcade game "pong,"
 
 269
 00:16:33,460 --> 00:16:35,993
-       which later became       
-       a home video game        
-
+which later became a home video game 
 270
 00:16:35,995 --> 00:16:38,663
-         you could play         
-         on your tv set.        
-
+you could play on your tv set. 
 271
 00:16:45,872 --> 00:16:48,139
-  it all begins with the people 
-
+it all begins with the people 
 272
 00:16:48,141 --> 00:16:50,674
-     who form what's called     
-         the core team.         
-
+who form what's called the core team. 
 273
 00:16:50,676 --> 00:16:53,211
-         they brainstorm        
-    in meeting after meeting    
-
+they brainstorm in meeting after meeting 
 274
 00:16:53,213 --> 00:16:54,878
-  to hammer out the concept --  
-
+to hammer out the concept -- 
 275
 00:16:54,880 --> 00:16:58,282
-     how the game will look,    
-         how it'll work.        
-
+how the game will look, how it'll work. 
 276
 00:16:58,284 --> 00:17:00,218
-       then they plan out       
-    the production schedule,    
-
+then they plan out the production schedule, 
 277
 00:17:00,220 --> 00:17:03,955
 assigning who will do what when.
 
 278
 00:17:03,957 --> 00:17:06,757
-    they break down the game    
-            on paper            
-
+they break down the game on paper 
 279
 00:17:06,759 --> 00:17:08,826
-         and color-code         
-         the components.        
-
+and color-code the components. 
 280
 00:17:08,828 --> 00:17:10,761
-       then they post them      
-       on a bulletin board      
-
+then they post them on a bulletin board 
 281
 00:17:10,763 --> 00:17:14,298
- that'll act as the production's
-          nerve center.         
-
+that'll act as the production's
+nerve center. 
 282
 00:17:14,300 --> 00:17:18,702
-            now work            
- on the artistic concept begins.
+now work on the artistic concept begins.
 
 283
 00:17:18,704 --> 00:17:21,506
-       artists sketch out       
- the characters and backgrounds 
-
+artists sketch out the characters and backgrounds 
 284
 00:17:21,508 --> 00:17:25,576
-            on paper            
- in a scene-by-scene storyboard.
+on paper in a scene-by-scene storyboard.
 
 285
 00:17:25,578 --> 00:17:27,979
-   meanwhile, graphic artists   
-
+meanwhile, graphic artists 
 286
 00:17:27,981 --> 00:17:30,381
-    recreate those storyboard   
-  drawings three-dimensionally  
-
+recreate those storyboard drawings three-dimensionally 
 287
 00:17:30,383 --> 00:17:32,450
-        on the computer.        
-
+on the computer. 
 288
 00:17:32,452 --> 00:17:36,120
-        this step enables       
-      the development team      
-
+this step enables the development team 
 289
 00:17:36,122 --> 00:17:39,057
-        to use the latest       
-in computer-animation technology
+to use the latest in computer-animation technology
 
 290
 00:17:39,059 --> 00:17:42,193
-   to bring the game elements   
-            to life.            
-
+to bring the game elements to life. 
 291
 00:17:42,195 --> 00:17:45,329
-        they add colors,        
-       textures, shading,       
-
+they add colors, textures, shading, 
 292
 00:17:45,331 --> 00:17:47,865
-    and of course, movement.    
-
+and of course, movement. 
 293
 00:17:47,867 --> 00:17:51,802
- after developing a preliminary 
-   version of each character,   
-
+after developing a preliminary version of each character, 
 294
 00:17:51,804 --> 00:17:54,939
-          the animators         
-     superimpose a skeleton.    
-
+the animators superimpose a skeleton. 
 295
 00:17:54,941 --> 00:17:59,143
-  by manipulating the skeleton, 
-  they make the character move. 
-
+by manipulating the skeleton, they make the character move. 
 296
 00:17:59,145 --> 00:18:01,079
-         they experiment        
-    with different movements    
-
+they experiment with different movements 
 297
 00:18:01,081 --> 00:18:05,616
-  until they decide which ones  
-    they'll use for the game.   
-
+until they decide which ones they'll use for the game. 
 298
 00:18:15,562 --> 00:18:18,762
-  the animators have to design  
-         every movement         
-
+the animators have to design every movement 
 299
 00:18:18,764 --> 00:18:23,301
- each character can potentially 
-        make in the game.       
-
+each character can potentially make in the game. 
 300
 00:18:23,303 --> 00:18:26,370
-      that's 700 movements      
- for this main character alone. 
-
+that's 700 movements for this main character alone. 
 301
 00:18:26,372 --> 00:18:28,172
-        once that's done,       
-
+once that's done, 
 302
 00:18:28,174 --> 00:18:32,577
- they flesh out the character's 
-     features and costumes.     
-
+they flesh out the character's features and costumes. 
 303
 00:18:38,584 --> 00:18:40,651
- the evolution of the characters
+the evolution of the characters
 
 304
 00:18:40,653 --> 00:18:43,053
-  from the first pencil drawing 
-      to the final version      
-
+from the first pencil drawing to the final version 
 305
 00:18:43,055 --> 00:18:45,089
-      is quite remarkable.      
-
+is quite remarkable. 
 306
 00:18:47,594 --> 00:18:49,860
-         other animators        
-    work on the backgrounds,    
-
+other animators work on the backgrounds, 
 307
 00:18:49,862 --> 00:18:52,062
-    the game's playing field.   
-
+the game's playing field. 
 308
 00:18:52,064 --> 00:18:54,064
-         once they have         
-    a rough version laid out,   
-
+once they have a rough version laid out, 
 309
 00:18:54,066 --> 00:18:58,069
-    they refine it by adding    
- details, colors, and textures. 
-
+they refine it by adding details, colors, and textures. 
 310
 00:18:59,405 --> 00:19:00,804
- to give it depth and dimension,
+to give it depth and dimension,
 
 311
 00:19:00,806 --> 00:19:04,976
-    they use virtual lighting   
- to create shading and shadows. 
-
+they use virtual lighting to create shading and shadows. 
 312
 00:19:06,913 --> 00:19:10,147
-   to advance the story line,   
-   this particular video game   
-
+to advance the story line, this particular video game 
 313
 00:19:10,149 --> 00:19:13,217
- is interspersed with one-minute
-        animated movies.        
-
+is interspersed with one-minute
+animated movies. 
 314
 00:19:13,219 --> 00:19:15,819
-         these segments,        
-       called cinematics,       
-
+these segments, called cinematics, 
 315
 00:19:15,821 --> 00:19:20,825
- are animated in high-resolution
- to produce a top-quality image.
+are animated in high-resolution
+to produce a top-quality image.
 
 316
 00:19:20,827 --> 00:19:22,693
-      the interactive game,     
-       on the other hand,       
-
+the interactive game, on the other hand, 
 317
 00:19:22,695 --> 00:19:24,628
-      is in low resolution      
-
+is in low resolution 
 318
 00:19:24,630 --> 00:19:27,832
- because computers can't process
- high-res images quickly enough 
-
+because computers can't process
+high-res images quickly enough 
 319
 00:19:27,834 --> 00:19:30,968
-      for fast-moving play.     
-
+for fast-moving play. 
 320
 00:19:30,970 --> 00:19:34,371
-  the animators have to create  
-     every character twice,     
-
+the animators have to create every character twice, 
 321
 00:19:34,373 --> 00:19:37,375
-          in both high          
-       and low resolution.      
-
+in both high and low resolution. 
 322
 00:19:37,377 --> 00:19:39,243
- meanwhile, for the cinematics, 
-
+meanwhile, for the cinematics, 
 323
 00:19:39,245 --> 00:19:43,514
-   they animate the storyboard  
-  using rough-draft characters. 
-
+they animate the storyboard using rough-draft characters. 
 324
 00:19:43,516 --> 00:19:46,317
-         this is simply         
-     to calculate the timing    
-
+this is simply to calculate the timing 
 325
 00:19:46,319 --> 00:19:49,320
-   and to map out a clear path  
-     across the backgrounds     
-
+and to map out a clear path across the backgrounds 
 326
 00:19:49,322 --> 00:19:52,356
-        so the characters       
- don't collide with the scenery.
+so the characters don't collide with the scenery.
 
 327
 00:19:55,661 --> 00:19:58,395
- to make the cinematic's action 
-         look realistic,        
-
+to make the cinematic's action look realistic, 
 328
 00:19:58,397 --> 00:20:02,166
-      they use a technique      
-     called motion capture.     
-
+they use a technique called motion capture. 
 329
 00:20:03,803 --> 00:20:05,803
-          the animators         
-      videotape themselves      
-
+the animators videotape themselves 
 330
 00:20:05,805 --> 00:20:07,671
-     performing the action,     
-
+performing the action, 
 331
 00:20:07,673 --> 00:20:12,376
-   then use animation software  
-to reproduce it on the computer.
+then use animation software to reproduce it on the computer.
 
 332
 00:20:17,083 --> 00:20:20,884
-   computer programmers create  
- the video game's menu settings,
+computer programmers create the video game's menu settings,
 
 333
 00:20:20,886 --> 00:20:22,887
-      among other features.     
-
+among other features. 
 334
 00:20:22,889 --> 00:20:26,357
-    computer engineers design   
-  the artificial intelligence,  
-
+computer engineers design the artificial intelligence, 
 335
 00:20:26,359 --> 00:20:28,692
-  the brain that runs the game. 
-
+the brain that runs the game. 
 336
 00:20:28,694 --> 00:20:32,163
-    it's made up of thousands   
-       of computer codes.       
-
+it's made up of thousands of computer codes. 
 337
 00:20:32,165 --> 00:20:34,098
-       for the cinematics,      
-
+for the cinematics, 
 338
 00:20:34,100 --> 00:20:38,235
-  actors record the characters' 
-    lines in a sound studio.    
-
+actors record the characters' lines in a sound studio. 
 339
 00:20:38,237 --> 00:20:39,837
-       an audio technician      
-
+an audio technician 
 340
 00:20:39,839 --> 00:20:42,173
-   mixes the voices with music  
-        and sound effects       
-
+mixes the voices with music and sound effects 
 341
 00:20:42,175 --> 00:20:45,509
-   and synchronizes everything  
-        with the action.        
-
+and synchronizes everything with the action. 
 342
 00:20:45,511 --> 00:20:49,980
-  now they take the video game  
-      out for a test-drive.     
-
+now they take the video game out for a test-drive. 
 343
 00:20:49,982 --> 00:20:53,117
-     do the characters move     
-  the way they're supposed to?  
-
+do the characters move the way they're supposed to? 
 344
 00:20:53,119 --> 00:20:55,319
-           do they go           
-   where they're supposed to?   
-
+do they go where they're supposed to? 
 345
 00:20:55,321 --> 00:20:58,455
-    or do they run into trees   
-     and walk through walls?    
-
+or do they run into trees and walk through walls? 
 346
 00:20:58,457 --> 00:21:01,392
- this is the development team's 
-           last chance          
-
+this is the development team's last chance 
 347
 00:21:01,394 --> 00:21:03,460
-  to rid the games of any bugs. 
-
+to rid the games of any bugs. 
 348
 00:21:03,462 --> 00:21:08,799
-   after that, the company can  
-  finally market the video game 
-
+after that, the company can finally market the video game 
 349
 00:21:08,801 --> 00:21:11,335
-   and hope it becomes a hit.   
-
+and hope it becomes a hit. 
 350
 00:21:16,876 --> 00:21:19,210
-    if you have any comments    
-         about the show,        
-
+if you have any comments about the show, 
 351
 00:21:19,212 --> 00:21:21,679
-   or if you'd like to suggest  
-    topics for future shows,    
-
+or if you'd like to suggest topics for future shows, 
 352
 00:21:21,681 --> 00:21:24,015
-      drop us a line at...      
-
+drop us a line at... 

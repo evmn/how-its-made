@@ -1,17 +1,14 @@
 ﻿1
 00:00:02,069 --> 00:00:05,071
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,073 --> 00:00:08,107
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,519 --> 00:00:53,518
-            narrator:           
-       throughout history,      
+narrator: throughout history,      
 
 4
 00:00:53,520 --> 00:00:56,589
@@ -20,232 +17,196 @@ from falling apart at the seams.
 
 5
 00:00:56,591 --> 00:00:59,658
-      from primitive times,     
- when needles were made of bone,
+from primitive times, when needles were made of bone,
 
 6
 00:00:59,660 --> 00:01:01,928
- to today's thin steel versions,
+to today's thin steel versions,
 
 7
 00:01:01,930 --> 00:01:05,130
-   sewing needles have played   
- an important role in our lives.
+sewing needles have played an important role in our lives.
 
 8
 00:01:05,132 --> 00:01:06,865
-        for many years,         
-        this simple tool        
+for many years, this simple tool        
 
 9
 00:01:06,867 --> 00:01:09,902
-        made it possible        
-   to clothe an entire family.  
+made it possible to clothe an entire family.  
 
 10
 00:01:13,474 --> 00:01:16,275
-    today, when most clothing   
-        is factory-made,        
+today, when most clothing is factory-made,        
 
 11
 00:01:16,277 --> 00:01:18,877
-      a sewing kit remains      
-     a household essential.     
+a sewing kit remains a household essential.     
 
 12
 00:01:18,879 --> 00:01:20,613
-  when things start to unravel, 
+when things start to unravel, 
 
 13
 00:01:20,615 --> 00:01:23,616
-       a needle and thread      
-       offer a quick fix.       
+a needle and thread offer a quick fix.       
 
 14
 00:01:23,618 --> 00:01:27,753
-         sewing needles         
-   begin with thin steel wire.  
+sewing needles begin with thin steel wire.  
 
 15
 00:01:27,755 --> 00:01:31,023
-        machinery uncoils       
-    two spools simultaneously   
+machinery uncoils two spools simultaneously   
 
 16
 00:01:31,025 --> 00:01:33,692
-       and pulls the wires      
-       across guide wheels      
+and pulls the wires across guide wheels      
 
 17
 00:01:33,694 --> 00:01:35,695
-   and into narrow passageways  
+and into narrow passageways  
 
 18
 00:01:35,697 --> 00:01:39,699
-         to remove kinks        
-    and straighten the wires.   
+to remove kinks and straighten the wires.   
 
 19
 00:01:42,437 --> 00:01:45,438
-   and then cutters slice them  
-  to the length of two needles. 
+and then cutters slice them to the length of two needles. 
 
 20
 00:01:47,174 --> 00:01:49,442
-         the wires exit         
-       into shaking chutes      
+the wires exit into shaking chutes      
 
 21
 00:01:49,444 --> 00:01:52,244
-       and fall into bins       
-         in neat piles.         
+and fall into bins in neat piles.         
 
 22
 00:01:54,248 --> 00:01:58,384
-      each one will be used     
-      to make two needles.      
+each one will be used to make two needles.      
 
 23
 00:02:02,590 --> 00:02:05,925
-   this grinding wheel turns,   
-     and, at the same time,     
+this grinding wheel turns, and, at the same time,     
 
 24
 00:02:05,927 --> 00:02:08,861
-   an overhead wheel revolves   
-   in a different direction,    
+an overhead wheel revolves in a different direction,    
 
 25
 00:02:08,863 --> 00:02:11,063
-          to bear down          
-    on the ends of the wires    
+to bear down on the ends of the wires    
 
 26
 00:02:11,065 --> 00:02:13,265
-   and grind them to a point.   
+and grind them to a point.   
 
 27
 00:02:13,267 --> 00:02:15,067
-  sparks fly from the friction. 
+sparks fly from the friction. 
 
 28
 00:02:15,069 --> 00:02:19,038
-  it takes up to six grindings  
- to make the tips sharp enough. 
+it takes up to six grindings to make the tips sharp enough. 
 
 29
 00:02:22,610 --> 00:02:24,210
-         then the wires         
-       head down the line       
+then the wires head down the line       
 
 30
 00:02:24,212 --> 00:02:26,812
-           to a series          
-      of stamping machines.     
+to a series of stamping machines.     
 
 31
 00:02:28,349 --> 00:02:31,283
-     the first one flattens     
-     each wire at midpoint      
+the first one flattens each wire at midpoint      
 
 32
 00:02:31,285 --> 00:02:34,219
-    to form two needle heads.   
+to form two needle heads.   
 
 33
 00:02:34,221 --> 00:02:38,423
-    the next stamping device    
-      punch-cuts two eyes,      
+the next stamping device punch-cuts two eyes,      
 
 34
 00:02:38,425 --> 00:02:39,692
-        one in each head.       
+one in each head.       
 
 35
 00:02:42,163 --> 00:02:45,363
-        the third machine       
-      cuts the wire in two      
+the third machine cuts the wire in two      
 
 36
 00:02:45,365 --> 00:02:49,201
-    and trims excess material   
-  from around the needle heads. 
+and trims excess material from around the needle heads. 
 
 37
 00:02:52,440 --> 00:02:56,442
-  the needles fall into a bin.  
+the needles fall into a bin.  
 
 38
 00:02:56,444 --> 00:02:59,244
-      in three quick steps,     
-         this steel wire        
+in three quick steps, this steel wire        
 
 39
 00:02:59,246 --> 00:03:02,515
-      has been transformed      
-    into two sewing needles.    
+has been transformed into two sewing needles.    
 
 40
 00:03:06,053 --> 00:03:07,720
-   next they toughen the metal  
+next they toughen the metal  
 
 41
 00:03:07,722 --> 00:03:09,988
-   by first baking the needles  
-           in an oven           
+by first baking the needles in an oven           
 
 42
 00:03:09,990 --> 00:03:12,725
- and then quickly bringing down 
-       their temperature.       
+and then quickly bringing down their temperature.       
 
 43
 00:03:12,727 --> 00:03:15,194
-      the temperature shock     
-      hardens the needles.      
+the temperature shock hardens the needles.      
 
 44
 00:03:16,931 --> 00:03:18,330
-     they cover the needles     
+they cover the needles     
 
 45
 00:03:18,332 --> 00:03:21,067
-        with glycerin oil       
-     and a polishing powder.    
+with glycerin oil and a polishing powder.    
 
 46
 00:03:22,737 --> 00:03:25,471
-         they wrap them         
+they wrap them         
 in a bundle of plastic and cloth
 
 47
 00:03:25,473 --> 00:03:27,272
-        and stitch it up.       
+and stitch it up.       
 
 48
 00:03:28,543 --> 00:03:32,010
-  they roll a layer of leather  
-  around the bundle of needles. 
+they roll a layer of leather around the bundle of needles. 
 
 49
 00:03:32,012 --> 00:03:35,414
-      the package then goes     
-  into a special rolling mill.  
+the package then goes into a special rolling mill.  
 
 50
 00:03:35,416 --> 00:03:39,417
-    it spins in this machine    
-          for two days.         
+it spins in this machine for two days.         
 
 51
 00:03:39,419 --> 00:03:42,955
-   inside, the needles agitate  
- with the polishing ingredients,
+inside, the needles agitate with the polishing ingredients,
 
 52
 00:03:42,957 --> 00:03:45,824
-         and they emerge        
-     looking much smoother.     
+and they emerge looking much smoother.     
 
 53
 00:03:45,826 --> 00:03:50,362
@@ -254,13 +215,11 @@ for a scrub with soap and water.
 
 54
 00:03:50,364 --> 00:03:52,631
-          this removes          
-      the polishing residue     
+this removes the polishing residue     
 
 55
 00:03:52,633 --> 00:03:54,967
-         to prepare them        
-       for electroplating.      
+to prepare them for electroplating.      
 
 56
 00:03:54,969 --> 00:03:56,501
@@ -268,205 +227,173 @@ electroplating gives the needles
 
 57
 00:03:56,503 --> 00:04:00,039
-          an outer skin         
- of corrosion-resistant nickel. 
+an outer skin of corrosion-resistant nickel. 
 
 58
 00:04:03,444 --> 00:04:06,712
-  the needles now move forward  
-      into a sorting system     
+the needles now move forward into a sorting system     
 
 59
 00:04:06,714 --> 00:04:10,182
-    that ensures the needles    
- are pointing in one direction. 
+that ensures the needles are pointing in one direction. 
 
 60
 00:04:12,253 --> 00:04:15,387
-          an inspector          
- examines the needles for flaws 
+an inspector examines the needles for flaws 
 
 61
 00:04:15,389 --> 00:04:18,057
-          and sorts out         
-       the defective ones.      
+and sorts out the defective ones.      
 
 62
 00:04:20,260 --> 00:04:23,062
-        they dip the eyes       
- of some needles in a gold bath 
+they dip the eyes of some needles in a gold bath 
 
 63
 00:04:23,064 --> 00:04:25,330
- and apply an electrical charge 
+and apply an electrical charge 
 
 64
 00:04:25,332 --> 00:04:29,068
-     so the gold gravitates     
-   to the nickel and adheres.   
+so the gold gravitates to the nickel and adheres.   
 
 65
 00:04:29,070 --> 00:04:31,403
-  a little gold around the eyes 
-      makes them stand out,     
+a little gold around the eyes makes them stand out,     
 
 66
 00:04:31,405 --> 00:04:34,440
-        so these needles        
-   should be easier to thread.  
+so these needles should be easier to thread.  
 
 67
 00:04:36,744 --> 00:04:40,812
-    meanwhile, the production   
-    of pins is well underway.   
+meanwhile, the production of pins is well underway.   
 
 68
 00:04:40,814 --> 00:04:43,482
-       gas jets melt glass      
-       into tiny dollops,       
+gas jets melt glass into tiny dollops,       
 
 69
 00:04:43,484 --> 00:04:46,885
-   which stick on to the tops   
-  of the pins as they roll by.  
+which stick on to the tops of the pins as they roll by.  
 
 70
 00:04:46,887 --> 00:04:50,555
-  the glass hardens in seconds, 
+the glass hardens in seconds, 
 
 71
 00:04:50,557 --> 00:04:52,691
-     going from transparent     
-           to opaque.           
+going from transparent to opaque.           
 
 72
 00:04:52,693 --> 00:04:55,961
-     these glass-headed pins    
+these glass-headed pins    
 
 73
 00:04:55,963 --> 00:05:00,099
-    are now ready for hemming   
-     and other sewing jobs.     
+are now ready for hemming and other sewing jobs.     
 
 74
 00:05:00,101 --> 00:05:04,103
-      the pins fall between     
-    two revolving cylinders.    
+the pins fall between two revolving cylinders.    
 
 75
 00:05:04,105 --> 00:05:07,306
- the space between the cylinders
-       gradually narrows.       
+the space between the cylinders
+gradually narrows.       
 
 76
 00:05:07,308 --> 00:05:09,308
-   this sorts the pins by size  
+this sorts the pins by size  
 
 77
 00:05:09,310 --> 00:05:12,444
-          as they drop          
-    into various bins below.    
+as they drop into various bins below.    
 
 78
 00:05:14,582 --> 00:05:18,784
-       now all that's left      
-        is the packaging.       
+now all that's left is the packaging.       
 
 79
 00:05:18,786 --> 00:05:21,453
-       the packaging line       
-     is entirely automated.     
+the packaging line is entirely automated.     
 
 80
 00:05:21,455 --> 00:05:25,391
- robots drop sewing needles into
-  grooves in plastic packages,  
+robots drop sewing needles into
+grooves in plastic packages,  
 
 81
 00:05:25,393 --> 00:05:27,927
- and the packages move forward. 
+and the packages move forward. 
 
 82
 00:05:27,929 --> 00:05:31,163
-     the timing is flawless.    
+the timing is flawless.    
 
 83
 00:05:33,734 --> 00:05:36,134
-  finally, a transparent cover  
+finally, a transparent cover  
 
 84
 00:05:36,136 --> 00:05:39,738
-    showcases this product's    
-      many selling points.      
+showcases this product's many selling points.      
 
 85
 00:05:53,888 --> 00:05:56,088
-            narrator:           
- exterior moldings can transform
+narrator: exterior moldings can transform
 
 86
 00:05:56,090 --> 00:05:58,557
-      an ordinary structure     
-      into something grand.     
+an ordinary structure into something grand.     
 
 87
 00:05:58,559 --> 00:06:01,360
-     the ancient greeks were    
- the first to demonstrate this, 
+the ancient greeks were the first to demonstrate this, 
 
 88
 00:06:01,362 --> 00:06:04,029
- with elaborate carved moldings 
-           on temples.          
+with elaborate carved moldings on temples.          
 
 89
 00:06:04,031 --> 00:06:07,432
- today there's no need to spend 
-  long hours carving moldings.  
+today there's no need to spend long hours carving moldings.  
 
 90
 00:06:07,434 --> 00:06:10,168
-  fabricated synthetic versions 
-        are now available       
+fabricated synthetic versions are now available       
 
 91
 00:06:10,170 --> 00:06:12,771
-      to give a structure       
-      instant curb appeal.      
+to give a structure instant curb appeal.      
 
 92
 00:06:15,910 --> 00:06:18,244
-   architectural foam moldings  
-         trick the eye.         
+architectural foam moldings trick the eye.         
 
 93
 00:06:18,246 --> 00:06:20,512
-  they look like stone or wood, 
+they look like stone or wood, 
 
 94
 00:06:20,514 --> 00:06:22,714
-          and it's all          
-  a carefully crafted illusion  
+and it's all a carefully crafted illusion  
 
 95
 00:06:22,716 --> 00:06:25,951
-    to impress the neighbors    
-          or passersby.         
+to impress the neighbors or passersby.         
 
 96
 00:06:28,522 --> 00:06:30,990
-           they start           
-    with a big block of foam.   
+they start with a big block of foam.   
 
 97
 00:06:30,992 --> 00:06:33,659
-   it's expanded polystyrene,   
-            or e.p.s.           
+it's expanded polystyrene, or e.p.s.           
 
 98
 00:06:33,661 --> 00:06:36,728
-          they activate         
-     a hot-wire foam cutter.    
+they activate a hot-wire foam cutter.    
 
 99
 00:06:36,730 --> 00:06:38,998
@@ -474,524 +401,448 @@ controlled by computer software,
 
 100
 00:06:39,000 --> 00:06:41,733
-        it melts its way        
-  through the thick foam block  
+it melts its way through the thick foam block  
 
 101
 00:06:41,735 --> 00:06:44,937
-      to make very precise      
-      and intricate cuts.       
+to make very precise and intricate cuts.       
 
 102
 00:06:44,939 --> 00:06:48,006
-   this computerized hot wire   
+this computerized hot wire   
 
 103
 00:06:48,008 --> 00:06:50,476
-      is cutting out pieces     
-      of architectural trim     
+is cutting out pieces of architectural trim     
 
 104
 00:06:50,478 --> 00:06:53,078
-      for windows or doors.     
+for windows or doors.     
 
 105
 00:06:53,080 --> 00:06:57,149
- it carves in an economical way 
-       to minimize waste.       
+it carves in an economical way to minimize waste.       
 
 106
 00:06:57,151 --> 00:06:59,618
-         its work done,         
-       the hot wire rises,      
+its work done, the hot wire rises,      
 
 107
 00:06:59,620 --> 00:07:04,356
-    leaving a trail of smoke    
-    from the burning process.   
+leaving a trail of smoke from the burning process.   
 
 108
 00:07:04,358 --> 00:07:07,226
-    a worker then pushes out    
-          the moldings.         
+a worker then pushes out the moldings.         
 
 109
 00:07:09,563 --> 00:07:13,599
 each piece of architectural trim
-      is 8 feet in length.      
+is 8 feet in length.      
 
 110
 00:07:18,839 --> 00:07:22,641
-     the hot wire now carves    
-   an elaborate fluted column,  
+the hot wire now carves an elaborate fluted column,  
 
 111
 00:07:22,643 --> 00:07:24,709
-       one half at a time.      
+one half at a time.      
 
 112
 00:07:24,711 --> 00:07:27,980
-  this is a roman-style column. 
+this is a roman-style column. 
 
 113
 00:07:27,982 --> 00:07:29,715
-      once carved in stone,     
+once carved in stone,     
 
 114
 00:07:29,717 --> 00:07:33,052
-    it's now being replicated   
-            in foam.            
+it's now being replicated in foam.            
 
 115
 00:07:33,054 --> 00:07:36,121
-     and this old-world look    
-       can now be achieved      
+and this old-world look can now be achieved      
 
 116
 00:07:36,123 --> 00:07:39,358
-  with minimal physical effort. 
+with minimal physical effort. 
 
 117
 00:07:42,263 --> 00:07:44,930
-        to make an arch,        
-    they use a hot-wire shape   
+to make an arch, they use a hot-wire shape   
 
 118
 00:07:44,932 --> 00:07:47,532
-    instead of a computerized   
-         straight wire.         
+instead of a computerized straight wire.         
 
 119
 00:07:47,534 --> 00:07:51,270
-   they position it in front    
-   of a curved piece of foam.   
+they position it in front of a curved piece of foam.   
 
 120
 00:07:51,272 --> 00:07:54,807
-    rubber drive wheels push    
- the foam through the hot wire. 
+rubber drive wheels push the foam through the hot wire. 
 
 121
 00:07:54,809 --> 00:07:58,610
-  these wheels have been preset 
-  to accurately steer the cut.  
+these wheels have been preset to accurately steer the cut.  
 
 122
 00:07:58,612 --> 00:08:01,080
-      the result is an arch     
-  that will be a perfect match  
+the result is an arch that will be a perfect match  
 
 123
 00:08:01,082 --> 00:08:03,749
-       for the linear trim      
-        produced earlier,       
+for the linear trim produced earlier,       
 
 124
 00:08:03,751 --> 00:08:06,418
-     so they'll fit together    
-           seamlessly.          
+so they'll fit together seamlessly.          
 
 125
 00:08:09,490 --> 00:08:13,091
-  they use a carved foam wedge  
-    to emulate the keystone,    
+they use a carved foam wedge to emulate the keystone,    
 
 126
 00:08:13,093 --> 00:08:15,560
-  a piece used in stone arches  
+a piece used in stone arches  
 
 127
 00:08:15,562 --> 00:08:18,497
-     to lock parts together     
-          at midpoint.          
+to lock parts together at midpoint.          
 
 128
 00:08:19,700 --> 00:08:24,302
- a worker now wraps the cut foam
-  moldings in fiberglass mesh.  
+a worker now wraps the cut foam
+moldings in fiberglass mesh.  
 
 129
 00:08:24,304 --> 00:08:28,974
- pre-infused with glue, the mesh
- instantly adheres to the foam. 
+pre-infused with glue, the mesh
+instantly adheres to the foam. 
 
 130
 00:08:28,976 --> 00:08:32,110
-     this mesh adds strength    
-         to the molding,        
+this mesh adds strength to the molding,        
 
 131
 00:08:32,112 --> 00:08:34,580
-      and it also makes it      
-        crack-resistant.        
+and it also makes it crack-resistant.        
 
 132
 00:08:40,587 --> 00:08:45,858
 next, cement flows into a hopper
-  and onto the moldings below.  
+and onto the moldings below.  
 
 133
 00:08:48,662 --> 00:08:50,095
-     the moldings are driven    
+the moldings are driven    
 
 134
 00:08:50,097 --> 00:08:52,398
-       through a template       
-     with the same contours,    
+through a template with the same contours,    
 
 135
 00:08:52,400 --> 00:08:56,201
-   to apply the cement evenly   
-  on the surface and the sides. 
+to apply the cement evenly on the surface and the sides. 
 
 136
 00:08:56,203 --> 00:08:58,336
-   this is no ordinary cement.  
+this is no ordinary cement.  
 
 137
 00:08:58,338 --> 00:09:00,004
-   it's a pre-engineered mix,   
+it's a pre-engineered mix,   
 
 138
 00:09:00,006 --> 00:09:02,207
- fortified with a special resin 
+fortified with a special resin 
 
 139
 00:09:02,209 --> 00:09:06,111
-   to create a durable coating  
- for the mesh-covered moldings. 
+to create a durable coating for the mesh-covered moldings. 
 
 140
 00:09:09,350 --> 00:09:12,351
-     a worker then transfers    
-     the moldings to a rack     
+a worker then transfers the moldings to a rack     
 
 141
 00:09:12,353 --> 00:09:14,819
-      to cure for a minimum     
-           of 24 hours          
+to cure for a minimum of 24 hours          
 
 142
 00:09:14,821 --> 00:09:17,289
-         before getting         
-   another coating of cement,   
+before getting another coating of cement,   
 
 143
 00:09:17,291 --> 00:09:21,159
-            this one            
-   with a much finer texture.   
+this one with a much finer texture.   
 
 144
 00:09:21,161 --> 00:09:23,695
-       it's much trickier       
-         to apply cement        
+it's much trickier to apply cement        
 
 145
 00:09:23,697 --> 00:09:25,497
-     to an arch-shaped piece    
-           of molding,          
+to an arch-shaped piece of molding,          
 
 146
 00:09:25,499 --> 00:09:28,100
-          so they take          
-    a more hands-on approach.   
+so they take a more hands-on approach.   
 
 147
 00:09:28,102 --> 00:09:32,171
- the employee scoops the cement 
+the employee scoops the cement 
 onto the meshed-foam semicircle.
 
 148
 00:09:33,640 --> 00:09:37,375
-  he then moves the custom-made 
-   template over the molding,   
+he then moves the custom-made template over the molding,   
 
 149
 00:09:37,377 --> 00:09:39,845
-       instead of pushing       
-     the molding through it.    
+instead of pushing the molding through it.    
 
 150
 00:09:39,847 --> 00:09:42,314
-        it's a better way       
- to evenly distribute the cement
+it's a better way to evenly distribute the cement
 
 151
 00:09:42,316 --> 00:09:44,416
-      on a curved surface.      
+on a curved surface.      
 
 152
 00:09:48,722 --> 00:09:52,324
-     after carving, meshing,    
-    and two layers of cement,   
+after carving, meshing, and two layers of cement,   
 
 153
 00:09:52,326 --> 00:09:54,593
-     this arch is now ready.    
+this arch is now ready.    
 
 154
 00:09:57,464 --> 00:10:01,333
-  for smaller orders, they also 
-   apply the cement manually.   
+for smaller orders, they also apply the cement manually.   
 
 155
 00:10:01,335 --> 00:10:03,335
-         there's no need        
-       for a machine setup      
+there's no need for a machine setup      
 
 156
 00:10:03,337 --> 00:10:06,605
-       when there are only      
+when there are only      
 one or two columns to be coated.
 
 157
 00:10:06,607 --> 00:10:08,940
-        guided by a track       
-     on the side of a table,    
+guided by a track on the side of a table,    
 
 158
 00:10:08,942 --> 00:10:10,542
-           the worker           
-    slowly draws the template   
+the worker slowly draws the template   
 
 159
 00:10:10,544 --> 00:10:12,677
-   down the roman-style column  
+down the roman-style column  
 
 160
 00:10:12,679 --> 00:10:17,182
- to apply the cement to the foam
-  and make it look like stone.  
+to apply the cement to the foam
+and make it look like stone.  
 
 161
 00:10:20,955 --> 00:10:23,689
-        the second layer        
-      gets extra attention.     
+the second layer gets extra attention.     
 
 162
 00:10:23,691 --> 00:10:26,758
-   he rubs the cement into the  
-  grooves for complete coverage 
+he rubs the cement into the grooves for complete coverage 
 
 163
 00:10:26,760 --> 00:10:29,694
-   and then pulls the template  
-       across once again,       
+and then pulls the template across once again,       
 
 164
 00:10:29,696 --> 00:10:31,897
-            this time           
-  lightly skimming the surface  
+this time lightly skimming the surface  
 
 165
 00:10:31,899 --> 00:10:34,566
-   to produce a finer texture.  
+to produce a finer texture.  
 
 166
 00:10:36,237 --> 00:10:38,036
-     and now these moldings     
+and now these moldings     
 
 167
 00:10:38,038 --> 00:10:41,707
-     are ready to add detail    
- and definition to a structure. 
+are ready to add detail and definition to a structure. 
 
 168
 00:10:56,123 --> 00:10:58,389
-     narrator: a locomotive     
-     is the powerful vehicle    
+narrator: a locomotive is the powerful vehicle    
 
 169
 00:10:58,391 --> 00:10:59,858
-     at the front of a train    
+at the front of a train    
 
 170
 00:10:59,860 --> 00:11:01,993
-       that pulls the cars      
-        along the track.        
+that pulls the cars along the track.        
 
 171
 00:11:01,995 --> 00:11:05,863
- sometimes there's a second one 
- pushing from behind, as well.  
+sometimes there's a second one pushing from behind, as well.  
 
 172
 00:11:05,865 --> 00:11:08,333
-   passenger-train locomotives  
-           are smaller          
+passenger-train locomotives are smaller          
 
 173
 00:11:08,335 --> 00:11:10,002
-     and designed primarily     
-           for speed.           
+and designed primarily for speed.           
 
 174
 00:11:10,004 --> 00:11:12,070
-       freight locomotives      
-        pulling railcars        
+freight locomotives pulling railcars        
 
 175
 00:11:12,072 --> 00:11:15,007
-    are significantly larger    
-          and stronger.         
+are significantly larger and stronger.         
 
 176
 00:11:17,077 --> 00:11:19,611
-           heavy hauls          
- are mammoth freight locomotives
+heavy hauls are mammoth freight locomotives
 
 177
 00:11:19,613 --> 00:11:21,546
-   designed for north america,  
+designed for north america,  
 
 178
 00:11:21,548 --> 00:11:23,548
-     where tracks are wider     
-          and stronger          
+where tracks are wider and stronger          
 
 179
 00:11:23,550 --> 00:11:26,885
-    than in most other parts    
-          of the world.         
+than in most other parts of the world.         
 
 180
 00:11:26,887 --> 00:11:30,155
 those smaller yellow locomotives
-  are for the european market.  
+are for the european market.  
 
 181
 00:11:30,157 --> 00:11:35,160
-      the larger gray ones      
-  to the right are heavy hauls. 
+the larger gray ones to the right are heavy hauls. 
 
 182
 00:11:35,162 --> 00:11:38,363
-      workers weld together     
-     massive pieces of steel    
+workers weld together massive pieces of steel    
 
 183
 00:11:38,365 --> 00:11:41,499
-  to construct the locomotive's 
-     structural underframe.     
+to construct the locomotive's structural underframe.     
 
 184
 00:11:41,501 --> 00:11:44,702
-          at each end,          
-  they insert a giant steel pin 
+at each end, they insert a giant steel pin 
 
 185
 00:11:44,704 --> 00:11:46,905
-         through a hole         
-   in the underframe's floor.   
+through a hole in the underframe's floor.   
 
 186
 00:11:46,907 --> 00:11:49,174
-            for now,            
-  they weld the pins partially  
+for now, they weld the pins partially  
 
 187
 00:11:49,176 --> 00:11:51,143
-    to tack them in position.   
+to tack them in position.   
 
 188
 00:11:52,913 --> 00:11:56,514
 next, lifting and maneuvering it
-      with giant trunnions,     
+with giant trunnions,     
 
 189
 00:11:56,516 --> 00:11:58,050
-    they flip the underframe    
+they flip the underframe    
 
 190
 00:11:58,052 --> 00:12:01,052
-   so that the protruding side  
-  of the pins is facing upward. 
+so that the protruding side of the pins is facing upward. 
 
 191
 00:12:01,054 --> 00:12:04,323
-       then a crane system      
-    transfers the underframe    
+then a crane system transfers the underframe    
 
 192
 00:12:04,325 --> 00:12:07,058
-         to another area        
-    to complete the welding.    
+to another area to complete the welding.    
 
 193
 00:12:07,060 --> 00:12:09,461
-        the pins require        
-       exceptional bonding      
+the pins require exceptional bonding      
 
 194
 00:12:09,463 --> 00:12:12,864
-    because they connect the    
- underframe to the wheel frames.
+because they connect the underframe to the wheel frames.
 
 195
 00:12:13,934 --> 00:12:16,668
-       an automated welder      
-  circles each pin repeatedly,  
+an automated welder circles each pin repeatedly,  
 
 196
 00:12:16,670 --> 00:12:19,938
-    progressively building up   
-       an inch-thick weld.      
+progressively building up an inch-thick weld.      
 
 197
 00:12:19,940 --> 00:12:23,542
-  they make the same size weld  
-  on the other side of the pin. 
+they make the same size weld on the other side of the pin. 
 
 198
 00:12:25,345 --> 00:12:28,280
-   all the welded steel parts   
-    are exceptionally thick,    
+all the welded steel parts are exceptionally thick,    
 
 199
 00:12:28,282 --> 00:12:34,019
-    rendering the underframe    
- strong enough to pull 500 tons.
+rendering the underframe strong enough to pull 500 tons.
 
 200
 00:12:34,021 --> 00:12:37,222
-       next, they install       
-   the air reservoir and pipes  
+next, they install the air reservoir and pipes  
 
 201
 00:12:37,224 --> 00:12:39,091
- for the pneumatic brake system 
+for the pneumatic brake system 
 
 202
 00:12:39,093 --> 00:12:42,427
-  and a 5,300-gallon fuel tank. 
+and a 5,300-gallon fuel tank. 
 
 203
 00:12:42,429 --> 00:12:43,961
-       then they assemble       
+then they assemble       
 
 204
 00:12:43,963 --> 00:12:46,498
-        the locomotive's        
-      six traction motors.      
+the locomotive's six traction motors.      
 
 205
 00:12:46,500 --> 00:12:49,368
-       each one generates       
-       750 horsepower --        
+each one generates 750 horsepower --        
 
 206
 00:12:49,370 --> 00:12:51,903
-          3 times more          
-      than a typical car --     
+3 times more than a typical car --     
 
 207
 00:12:51,905 --> 00:12:55,640
-      giving the locomotive     
-   4,500-horsepower strength.   
+giving the locomotive 4,500-horsepower strength.   
 
 208
 00:12:55,642 --> 00:12:57,642
-  to build each traction motor, 
+to build each traction motor, 
 
 209
 00:12:57,644 --> 00:13:01,780
@@ -1000,164 +851,141 @@ into a cylinder called a stator.
 
 210
 00:13:01,782 --> 00:13:03,715
-         then they lower        
-        another cylinder,       
+then they lower another cylinder,       
 
 211
 00:13:03,717 --> 00:13:05,917
-       called an armature,      
-        into the stator.        
+called an armature, into the stator.        
 
 212
 00:13:05,919 --> 00:13:07,719
-    powered by an alternator,   
+powered by an alternator,   
 
 213
 00:13:07,721 --> 00:13:09,521
-        the coils produce       
-        an electric field       
+the coils produce an electric field       
 
 214
 00:13:09,523 --> 00:13:11,390
-   that rotates the armature,   
+that rotates the armature,   
 
 215
 00:13:11,392 --> 00:13:14,993
-       turning components       
-  which propel the locomotive.  
+turning components which propel the locomotive.  
 
 216
 00:13:14,995 --> 00:13:17,195
-  workers lubricate the wheels  
+workers lubricate the wheels  
 
 217
 00:13:17,197 --> 00:13:19,264
-   then, using a strong press,  
+then, using a strong press,  
 
 218
 00:13:19,266 --> 00:13:22,067
-         fit two on each        
-   of the vehicle's six axles.  
+fit two on each of the vehicle's six axles.  
 
 219
 00:13:22,069 --> 00:13:25,804
 each wheel is a yard in diameter
- and weighs about a half a ton. 
+and weighs about a half a ton. 
 
 220
 00:13:25,806 --> 00:13:29,274
-    the axle has a large gear   
-     that turns both wheels.    
+the axle has a large gear that turns both wheels.    
 
 221
 00:13:29,276 --> 00:13:32,677
-  this finished unit is called  
-  a wheel-axle-gear assembly -- 
+this finished unit is called a wheel-axle-gear assembly -- 
 
 222
 00:13:32,679 --> 00:13:34,145
-       "w.a.g." for short.      
+"w.a.g." for short.      
 
 223
 00:13:34,147 --> 00:13:35,814
-    workers install a w.a.g.    
+workers install a w.a.g.    
 
 224
 00:13:35,816 --> 00:13:38,083
-      onto each of the six      
-        traction motors.        
+onto each of the six traction motors.        
 
 225
 00:13:38,085 --> 00:13:41,153
-    the w.a.g.'s gear engages   
- with the traction motor's gear,
+the w.a.g.'s gear engages with the traction motor's gear,
 
 226
 00:13:41,155 --> 00:13:43,755
-     so when the motor runs,    
-        that gear turns,        
+so when the motor runs, that gear turns,        
 
 227
 00:13:43,757 --> 00:13:45,890
-       which then rotates       
-        the w.a.g. gear,        
+which then rotates the w.a.g. gear,        
 
 228
 00:13:45,892 --> 00:13:47,425
-     which turns the wheels.    
+which turns the wheels.    
 
 229
 00:13:47,427 --> 00:13:50,429
-   so now there are six w.a.g.  
+so now there are six w.a.g.  
 and traction motor combinations.
 
 230
 00:13:50,431 --> 00:13:53,231
-       workers divide them      
-    into two groups of three    
+workers divide them into two groups of three    
 
 231
 00:13:53,233 --> 00:13:56,501
-       then bolt each trio      
-  into a frame called a bogie.  
+then bolt each trio into a frame called a bogie.  
 
 232
 00:13:56,503 --> 00:13:59,237
-     so, now the locomotive     
-         has two bogies,        
+so, now the locomotive has two bogies,        
 
 233
 00:13:59,239 --> 00:14:02,641
-     each with an air-driven    
-   brake system built into it.  
+each with an air-driven brake system built into it.  
 
 234
 00:14:02,643 --> 00:14:05,710
-  until this point, the bogies  
-     have been upside down.     
+until this point, the bogies have been upside down.     
 
 235
 00:14:05,712 --> 00:14:08,246
-     now a crane flips them     
-          right side up         
+now a crane flips them right side up         
 
 236
 00:14:08,248 --> 00:14:11,783
-    to prepare for the final    
-   assembly of the locomotive.  
+to prepare for the final assembly of the locomotive.  
 
 237
 00:14:17,023 --> 00:14:19,925
-  they position the two bogies  
-     next to the underframe     
+they position the two bogies next to the underframe     
 
 238
 00:14:19,927 --> 00:14:21,460
-        at opposite ends.       
+at opposite ends.       
 
 239
 00:14:23,197 --> 00:14:25,130
- cranes then lift the underframe
+cranes then lift the underframe
 
 240
 00:14:25,132 --> 00:14:28,467
-       and slowly lower it      
-        onto the bogies.        
+and slowly lower it onto the bogies.        
 
 241
 00:14:30,337 --> 00:14:34,272
-    the pivot pins protruding   
-  from beneath the upper frame  
+the pivot pins protruding from beneath the upper frame  
 
 242
 00:14:34,274 --> 00:14:37,242
-    drop into receiving holes   
-         in the bogies.         
+drop into receiving holes in the bogies.         
 
 243
 00:14:38,745 --> 00:14:41,213
-        next, they lower        
-       a giant alternator       
+next, they lower a giant alternator       
 
 244
 00:14:41,215 --> 00:14:43,281
@@ -1165,252 +993,217 @@ onto the deck of the underframe.
 
 245
 00:14:43,283 --> 00:14:45,350
-  it powers the traction motors 
+it powers the traction motors 
 
 246
 00:14:45,352 --> 00:14:49,420
- as well as the control systems 
- and other auxiliary equipment. 
+as well as the control systems and other auxiliary equipment. 
 
 247
 00:14:49,422 --> 00:14:52,891
-        this 16-cylinder,       
-     4,500-horsepower engine    
+this 16-cylinder, 4,500-horsepower engine    
 
 248
 00:14:52,893 --> 00:14:55,493
-     drives the alternator.     
+drives the alternator.     
 
 249
 00:14:55,495 --> 00:14:57,896
-   next, the operator's cab --  
+next, the operator's cab --  
 
 250
 00:14:57,898 --> 00:14:59,697
-    it's insulated for sound    
+it's insulated for sound    
 
 251
 00:14:59,699 --> 00:15:02,634
-            and sits            
-   on a shock-absorber system.  
+and sits on a shock-absorber system.  
 
 252
 00:15:04,504 --> 00:15:06,638
-        then the various        
-       electrical hookups,      
+then the various electrical hookups,      
 
 253
 00:15:06,640 --> 00:15:08,974
-  including these thick cables. 
+including these thick cables. 
 
 254
 00:15:08,976 --> 00:15:12,043
-        each one contains       
-     more than 1,000 wires,     
+each one contains more than 1,000 wires,     
 
 255
 00:15:12,045 --> 00:15:14,413
-  carrying nearly 10,000 amps.  
+carrying nearly 10,000 amps.  
 
 256
 00:15:19,720 --> 00:15:22,787
- now a hood goes over the engine
-         and alternator         
+now a hood goes over the engine
+and alternator         
 
 257
 00:15:22,789 --> 00:15:25,123
-         to protect them        
-       from the elements.       
+to protect them from the elements.       
 
 258
 00:15:25,125 --> 00:15:27,726
-   from here, the locomotive    
-   goes to another department   
+from here, the locomotive goes to another department   
 
 259
 00:15:27,728 --> 00:15:29,728
-      for paint and decals.     
+for paint and decals.     
 
 260
 00:15:33,133 --> 00:15:36,667
-     the finished locomotive    
-        is 75 feet long.        
+the finished locomotive is 75 feet long.        
 
 261
 00:15:36,669 --> 00:15:39,938
-           fueled up,           
-       it weighs 225 tons       
+fueled up, it weighs 225 tons       
 
 262
 00:15:39,940 --> 00:15:41,873
- and, depending on the terrain, 
+and, depending on the terrain, 
 
 263
 00:15:41,875 --> 00:15:45,644
-        can haul a train        
-   up to 6/10 of a mile long.   
+can haul a train up to 6/10 of a mile long.   
 
 264
 00:15:59,025 --> 00:16:01,159
- narrator: the first clothespin 
-          was invented          
+narrator: the first clothespin was invented          
 
 265
 00:16:01,161 --> 00:16:03,561
-       in the early 1800s       
-         by the shakers.        
+in the early 1800s by the shakers.        
 
 266
 00:16:03,563 --> 00:16:05,563
-      it was a cylindrical      
-          piece of wood         
+it was a cylindrical piece of wood         
 
 267
 00:16:05,565 --> 00:16:07,832
-      with a vertical notch     
-      cut into the bottom.      
+with a vertical notch cut into the bottom.      
 
 268
 00:16:07,834 --> 00:16:10,435
-  in 1853, an american inventor 
+in 1853, an american inventor 
 
 269
 00:16:10,437 --> 00:16:13,571
-    patented a spring-loaded,   
-   two-piece lever clothespin.  
+patented a spring-loaded, two-piece lever clothespin.  
 
 270
 00:16:13,573 --> 00:16:17,642
- that's the type still produced 
- today in both plastic and wood.
+that's the type still produced today in both plastic and wood.
 
 271
 00:16:20,446 --> 00:16:24,249
-    this czech company makes    
- clothespins out of beech wood. 
+this czech company makes clothespins out of beech wood. 
 
 272
 00:16:24,251 --> 00:16:27,285
-         beech is ideal         
- because it's hard and durable. 
+beech is ideal because it's hard and durable. 
 
 273
 00:16:29,456 --> 00:16:31,856
-      when the logs arrive      
-         at the factory,        
+when the logs arrive at the factory,        
 
 274
 00:16:31,858 --> 00:16:35,126
-      an automated band saw     
-    slices each one laterally   
+an automated band saw slices each one laterally   
 
 275
 00:16:35,128 --> 00:16:37,863
-   into 2.8-inch-thick planks.  
+into 2.8-inch-thick planks.  
 
 276
 00:16:39,132 --> 00:16:41,333
-     wood is naturally damp,    
+wood is naturally damp,    
 
 277
 00:16:41,335 --> 00:16:43,868
-        so it's critical        
-       to dry the planks.       
+so it's critical to dry the planks.       
 
 278
 00:16:43,870 --> 00:16:45,870
-           otherwise,           
-   clothespins made from them   
+otherwise, clothespins made from them   
 
 279
 00:16:45,872 --> 00:16:47,939
-        would repeatedly        
-       expand and contract      
+would repeatedly expand and contract      
 
 280
 00:16:47,941 --> 00:16:49,407
-    with temperature changes    
+with temperature changes    
 
 281
 00:16:49,409 --> 00:16:51,209
-      and eventually crack.     
+and eventually crack.     
 
 282
 00:16:51,211 --> 00:16:54,812
-    first, the planks air-dry   
-  outdoors for about 7 months,  
+first, the planks air-dry outdoors for about 7 months,  
 
 283
 00:16:54,814 --> 00:16:58,149
-   until their moisture level   
-          drops to 20%.         
+until their moisture level drops to 20%.         
 
 284
 00:16:58,151 --> 00:17:01,352
- then the planks go into a kiln 
-        for 3 or 4 weeks        
+then the planks go into a kiln for 3 or 4 weeks        
 
 285
 00:17:01,354 --> 00:17:05,524
 to bring the moisture level down
-     to between 8% and 10%.     
+to between 8% and 10%.     
 
 286
 00:17:06,760 --> 00:17:09,894
-     the wood, now stable,      
-     workers cut the planks     
+the wood, now stable, workers cut the planks     
 
 287
 00:17:09,896 --> 00:17:13,297
-          into shorter,         
-   more manageable lengths...   
+into shorter, more manageable lengths...   
 
 288
 00:17:13,299 --> 00:17:18,003
-            then into           
-     2 1/2" x 2 1/2" blocks.    
+then into 2 1/2" x 2 1/2" blocks.    
 
 289
 00:17:23,644 --> 00:17:26,444
-    next they feed the blocks   
-     into a cutting machine.    
+next they feed the blocks into a cutting machine.    
 
 290
 00:17:26,446 --> 00:17:28,113
-    its four circular blades    
+its four circular blades    
 
 291
 00:17:28,115 --> 00:17:30,782
-       simultaneously saw       
-       through each block,      
+simultaneously saw through each block,      
 
 292
 00:17:30,784 --> 00:17:33,051
-  cutting it into five pieces.  
+cutting it into five pieces.  
 
 293
 00:17:33,053 --> 00:17:36,421
-           each piece           
-    is 4/10 of an inch thick.   
+each piece is 4/10 of an inch thick.   
 
 294
 00:17:39,993 --> 00:17:42,860
-      as these thin pieces      
-        exit the machine,       
+as these thin pieces exit the machine,       
 
 295
 00:17:42,862 --> 00:17:44,662
-      workers inspect them.     
+workers inspect them.     
 
 296
 00:17:44,664 --> 00:17:47,799
-      any pieces with knots     
-   or other flaws are removed   
+any pieces with knots or other flaws are removed   
 
 297
 00:17:47,801 --> 00:17:50,869
-     and sold to a factory      
-     that makes mousetraps.     
+and sold to a factory that makes mousetraps.     
 
 298
 00:17:50,871 --> 00:17:52,803
@@ -1418,254 +1211,222 @@ the pieces which pass inspection
 
 299
 00:17:52,805 --> 00:17:55,707
-      go into an automated      
-        milling machine.        
+go into an automated milling machine.        
 
 300
 00:17:57,010 --> 00:18:00,144
-       it cuts each piece       
-    into four smaller pieces    
+it cuts each piece into four smaller pieces    
 
 301
 00:18:00,146 --> 00:18:02,213
-  then, in each smaller piece,  
+then, in each smaller piece,  
 
 302
 00:18:02,215 --> 00:18:05,483
-       carves the shape of      
- a clothespin clip on the front 
+carves the shape of a clothespin clip on the front 
 
 303
 00:18:05,485 --> 00:18:08,086
-    and a notch in the back.    
+and a notch in the back.    
 
 304
 00:18:19,032 --> 00:18:22,700
-   so, each thin piece of wood  
-      has gone from this...     
+so, each thin piece of wood has gone from this...     
 
 305
 00:18:22,702 --> 00:18:24,903
-           to this...           
+to this...           
 
 306
 00:18:24,905 --> 00:18:26,972
-            to this.            
+to this.            
 
 307
 00:18:28,975 --> 00:18:30,441
-      the notch on the back     
+the notch on the back     
 
 308
 00:18:30,443 --> 00:18:32,444
-      will hold the spring      
-      that mates two clips      
+will hold the spring that mates two clips      
 
 309
 00:18:32,446 --> 00:18:34,980
-    and produces the tension    
-       they need to grip.       
+and produces the tension they need to grip.       
 
 310
 00:18:37,383 --> 00:18:41,052
 the next machine saws four lines
-        down each piece,        
+down each piece,        
 
 311
 00:18:41,054 --> 00:18:45,390
-           cutting it           
-   into five identical clips.   
+cutting it into five identical clips.   
 
 312
 00:18:49,262 --> 00:18:50,729
-            before...           
+before...           
 
 313
 00:18:50,731 --> 00:18:52,664
-           and after.           
+and after.           
 
 314
 00:18:52,666 --> 00:18:55,667
-    all that cutting leaves     
-    rough, splintered edges,    
+all that cutting leaves rough, splintered edges,    
 
 315
 00:18:55,669 --> 00:18:59,270
-  so workers now load the clips 
-     into a sanding barrel.     
+so workers now load the clips into a sanding barrel.     
 
 316
 00:18:59,272 --> 00:19:02,073
-     as the barrel revolves,    
+as the barrel revolves,    
 
 317
 00:19:02,075 --> 00:19:04,275
-          the clips rub         
-       against each other,      
+the clips rub against each other,      
 
 318
 00:19:04,277 --> 00:19:07,545
-     the abrasion gradually     
-    smoothing the rough wood.   
+the abrasion gradually smoothing the rough wood.   
 
 319
 00:19:07,547 --> 00:19:11,416
-       workers also place       
- a piece of wax amid the clips. 
+workers also place a piece of wax amid the clips. 
 
 320
 00:19:11,418 --> 00:19:13,018
-      as the barrel turns,      
+as the barrel turns,      
 
 321
 00:19:13,020 --> 00:19:15,219
-       particles rub off        
-       and coat the wood,       
+particles rub off and coat the wood,       
 
 322
 00:19:15,221 --> 00:19:17,155
-    making it even smoother.    
+making it even smoother.    
 
 323
 00:19:17,157 --> 00:19:20,024
-           meanwhile,           
-    another automated machine   
+meanwhile, another automated machine   
 
 324
 00:19:20,026 --> 00:19:23,994
-        makes the springs       
- out of 5/100"-thick iron wire. 
+makes the springs out of 5/100"-thick iron wire. 
 
 325
 00:19:23,996 --> 00:19:27,098
- the wire has has a zinc coating
-     on it to prevent rust.     
+the wire has has a zinc coating
+on it to prevent rust.     
 
 326
 00:19:27,100 --> 00:19:28,633
-      watch in slow motion      
+watch in slow motion      
 
 327
 00:19:28,635 --> 00:19:31,302
-         how the machine        
-   twists the wire seven times  
+how the machine twists the wire seven times  
 
 328
 00:19:31,304 --> 00:19:33,571
-    to make the coil portion    
-          of the spring         
+to make the coil portion of the spring         
 
 329
 00:19:33,573 --> 00:19:38,243
- then bends the ends to make the
- part that fits into the notch. 
+then bends the ends to make the
+part that fits into the notch. 
 
 330
 00:19:38,245 --> 00:19:42,113
- with all the parts ready to go,
-       it's assembly time.      
+with all the parts ready to go,
+it's assembly time.      
 
 331
 00:19:42,115 --> 00:19:44,315
- workers load clips and springs 
+workers load clips and springs 
 
 332
 00:19:44,317 --> 00:19:46,785
-      into separate chutes      
-    of the assembly machine.    
+into separate chutes of the assembly machine.    
 
 333
 00:19:46,787 --> 00:19:48,586
-   as each spring drops down,   
+as each spring drops down,   
 
 334
 00:19:48,588 --> 00:19:51,656
-      a mechanical finger       
-      pushes the end aside      
+a mechanical finger pushes the end aside      
 
 335
 00:19:51,658 --> 00:19:55,393
-  to clear the way for a pair   
-  of clips to encase the coil.  
+to clear the way for a pair of clips to encase the coil.  
 
 336
 00:19:55,395 --> 00:19:59,063
- then it releases the end of the
-  spring into the clip notches. 
+then it releases the end of the
+spring into the clip notches. 
 
 337
 00:19:59,065 --> 00:20:00,732
-    the machine does all this   
+the machine does all this   
 
 338
 00:20:00,734 --> 00:20:03,534
- at a rate of 8,000 clothespins 
-            per hour.           
+at a rate of 8,000 clothespins per hour.           
 
 339
 00:20:03,536 --> 00:20:08,072
-    the finished clothespins    
-    drop onto a conveyor belt   
+the finished clothespins drop onto a conveyor belt   
 
 340
 00:20:08,074 --> 00:20:10,074
-      that transports them      
-      to the next machine,      
+that transports them to the next machine,      
 
 341
 00:20:10,076 --> 00:20:13,011
- which groups them by the dozen.
+which groups them by the dozen.
 
 342
 00:20:17,684 --> 00:20:21,352
-      from there, it's off      
-    to the packaging machine,   
+from there, it's off to the packaging machine,   
 
 343
 00:20:21,354 --> 00:20:25,423
-   which is preset to assemble  
-    a specific retail format.   
+which is preset to assemble a specific retail format.   
 
 344
 00:20:25,425 --> 00:20:27,491
-   this is a 36-count package,  
+this is a 36-count package,  
 
 345
 00:20:27,493 --> 00:20:31,162
- so they've set the machine to  
- stack three dozen clothespins. 
+so they've set the machine to stack three dozen clothespins. 
 
 346
 00:20:33,366 --> 00:20:36,234
-   after placing a paper label  
-             on top,            
+after placing a paper label on top,            
 
 347
 00:20:36,236 --> 00:20:38,937
-    the machine shrink-wraps    
-          the package.          
+the machine shrink-wraps the package.          
 
 348
 00:20:43,243 --> 00:20:46,511
-       clothespins may be       
-    rather ordinary products,   
+clothespins may be rather ordinary products,   
 
 349
 00:20:46,513 --> 00:20:50,048
-      but their reputation      
-     is always on the line.     
+but their reputation is always on the line.     
 
 350
 00:21:00,193 --> 00:21:02,861
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 351
 00:21:02,863 --> 00:21:05,663
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 352
 00:21:05,665 --> 00:21:07,665
-      drop us a line at...      
+drop us a line at...      
 

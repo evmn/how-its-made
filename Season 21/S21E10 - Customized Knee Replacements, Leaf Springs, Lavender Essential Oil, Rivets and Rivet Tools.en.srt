@@ -1,88 +1,76 @@
 ﻿1
 00:00:01,736 --> 00:00:04,870
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,872 --> 00:00:07,773
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,720 --> 00:00:55,854
- narrator: the typical candidate
-     for a knee replacement     
+narrator: the typical candidate
+for a knee replacement     
 
 4
 00:00:55,856 --> 00:00:57,122
-       has osteoarthritis,      
+has osteoarthritis,      
 
 5
 00:00:57,124 --> 00:01:00,192
- where the cartilage in the knee
-         has worn away.         
+where the cartilage in the knee
+has worn away.         
 
 6
 00:01:00,194 --> 00:01:01,860
-    knee replacement surgery    
+knee replacement surgery    
 
 7
 00:01:01,862 --> 00:01:03,862
-     restores the worn areas    
-        with an implant.        
+restores the worn areas with an implant.        
 
 8
 00:01:03,864 --> 00:01:06,131
-          to help place         
-      the implant properly,     
+to help place the implant properly,     
 
 9
 00:01:06,133 --> 00:01:09,134
-       the surgeon can use      
-  an instrument custom-designed 
+the surgeon can use an instrument custom-designed 
 
 10
 00:01:09,136 --> 00:01:11,604
-        for the patient's       
-        damaged anatomy.        
+for the patient's damaged anatomy.        
 
 11
 00:01:13,540 --> 00:01:15,141
-  a successful knee replacement 
+a successful knee replacement 
 
 12
 00:01:15,143 --> 00:01:18,077
-    depends on its alignment    
-    with the femur and tibia,   
+depends on its alignment with the femur and tibia,   
 
 13
 00:01:18,079 --> 00:01:21,614
-  the upper and lower leg bones 
-    that connect at the knee.   
+the upper and lower leg bones that connect at the knee.   
 
 14
 00:01:21,616 --> 00:01:25,017
-   that's a challenge because   
-   knee implants are standard,  
+that's a challenge because knee implants are standard,  
 
 15
 00:01:25,019 --> 00:01:27,486
-   while every patient's bones  
-           are unique.          
+while every patient's bones are unique.          
 
 16
 00:01:27,488 --> 00:01:30,689
-  so starting with an mri scan  
-     of the patient's knee,     
+so starting with an mri scan of the patient's knee,     
 
 17
 00:01:30,691 --> 00:01:32,424
-   this medical device company  
+this medical device company  
 
 18
 00:01:32,426 --> 00:01:35,361
-      produces custom-made      
-      surgical templates,       
+produces custom-made surgical templates,       
 
 19
 00:01:35,363 --> 00:01:37,563
@@ -90,47 +78,41 @@ plastic devices the surgeon uses
 
 20
 00:01:37,565 --> 00:01:40,432
-      to sculpt the surface     
-       the patient's bones      
+to sculpt the surface the patient's bones      
 
 21
 00:01:40,434 --> 00:01:43,102
-    to align the knee implant   
-           accurately.          
+to align the knee implant accurately.          
 
 22
 00:01:43,104 --> 00:01:46,505
-  the surgeon no longer has to  
+the surgeon no longer has to  
 visually calculate the bone cuts
 
 23
 00:01:46,507 --> 00:01:48,641
-           on the spot          
-     in the operating room,     
+on the spot in the operating room,     
 
 24
 00:01:48,643 --> 00:01:51,911
-      which takes more time     
-      and is more invasive.     
+which takes more time and is more invasive.     
 
 25
 00:01:51,913 --> 00:01:53,846
-  an engineer uses the mri scan 
+an engineer uses the mri scan 
 
 26
 00:01:53,848 --> 00:01:57,583
-     to create 3-d models of    
- the patient's femur and tibia. 
+to create 3-d models of the patient's femur and tibia. 
 
 27
 00:01:57,585 --> 00:02:01,987
-   the patient's cartilage has  
+the patient's cartilage has  
 worn out in between these bones,
 
 28
 00:02:01,989 --> 00:02:04,924
-     causing painful rubbing    
-  that erodes the bone surface. 
+causing painful rubbing that erodes the bone surface. 
 
 29
 00:02:04,926 --> 00:02:10,529
@@ -139,116 +121,101 @@ the damaged bone and cartilage.
 
 30
 00:02:10,531 --> 00:02:12,465
- once each bone model is ready, 
+once each bone model is ready, 
 
 31
 00:02:12,467 --> 00:02:14,667
-        another engineer        
-       applies a 3-d model      
+another engineer applies a 3-d model      
 
 32
 00:02:14,669 --> 00:02:17,403
-  of the correct-size implant,  
+of the correct-size implant,  
 
 33
 00:02:17,405 --> 00:02:20,206
-   then, following directions   
-   the surgeon has provided,    
+then, following directions the surgeon has provided,    
 
 34
 00:02:20,208 --> 00:02:22,808
-    performs virtual surgery    
-       on the bone model.       
+performs virtual surgery on the bone model.       
 
 35
 00:02:22,810 --> 00:02:25,144
-    this will properly align    
-           the implant          
+this will properly align the implant          
 
 36
 00:02:25,146 --> 00:02:27,413
-        to the patient's        
-        specific anatomy        
+to the patient's specific anatomy        
 
 37
 00:02:27,415 --> 00:02:31,217
 and fit it to the angle at which
-   that particular knee moves.  
+that particular knee moves.  
 
 38
 00:02:31,219 --> 00:02:33,619
- during the surgery simulation, 
+during the surgery simulation, 
 
 39
 00:02:33,621 --> 00:02:36,689
-      the computer records      
-         every bone cut.        
+the computer records every bone cut.        
 
 40
 00:02:36,691 --> 00:02:39,692
-       the surgeon reviews      
- and approves this surgical plan
+the surgeon reviews and approves this surgical plan
 
 41
 00:02:39,694 --> 00:02:42,561
-            only once           
-  before manufacturing begins.  
+only once before manufacturing begins.  
 
 42
 00:02:42,563 --> 00:02:46,365
-          the computer,         
-  which recorded the bone cuts, 
+the computer, which recorded the bone cuts, 
 
 43
 00:02:46,367 --> 00:02:49,101
-      guides a 3-d printer      
-  to produce plastic templates  
+guides a 3-d printer to produce plastic templates  
 
 44
 00:02:49,103 --> 00:02:51,704
-  for both the femur and tibia. 
+for both the femur and tibia. 
 
 45
 00:02:51,706 --> 00:02:53,238
-   the surgeon will use these   
+the surgeon will use these   
 
 46
 00:02:53,240 --> 00:02:55,775
-  to repeat the same exact cuts 
-          in real life.         
+to repeat the same exact cuts in real life.         
 
 47
 00:02:55,777 --> 00:02:58,844
- the 3-d printer applies a layer
-      of powdered plastic,      
+the 3-d printer applies a layer
+of powdered plastic,      
 
 48
 00:02:58,846 --> 00:03:01,046
-         then following         
-       the computer model,      
+then following the computer model,      
 
 49
 00:03:01,048 --> 00:03:03,449
-     solidifies select areas    
-          with a laser.         
+solidifies select areas with a laser.         
 
 50
 00:03:03,451 --> 00:03:06,519
-  this process keeps repeating, 
+this process keeps repeating, 
 
 51
 00:03:06,521 --> 00:03:10,122
-      building up the shape     
-   of these surgical templates  
+building up the shape of these surgical templates  
 
 52
 00:03:10,124 --> 00:03:11,457
-         layer by layer.        
+layer by layer.        
 
 53
 00:03:11,459 --> 00:03:14,793
-    one printer run produces    
-     personalized templates     
+one printer run produces personalized templates     
 
 54
 00:03:14,795 --> 00:03:17,062
@@ -256,443 +223,378 @@ for up to 50 patients at a time,
 
 55
 00:03:17,064 --> 00:03:19,931
-     so the laser inscribes     
-       the patient's name       
+so the laser inscribes the patient's name       
 
 56
 00:03:19,933 --> 00:03:22,535
-     and identification code    
-          on each part.         
+and identification code on each part.         
 
 57
 00:03:24,538 --> 00:03:27,940
-    once the printing's done,   
-       it's just a matter       
+once the printing's done, it's just a matter       
 
 58
 00:03:27,942 --> 00:03:31,277
- of breaking up the unsolidified
-       powdered plastic...      
+of breaking up the unsolidified
+powdered plastic...      
 
 59
 00:03:36,417 --> 00:03:39,752
-       ...and fishing out       
-         the templates.         
+...and fishing out the templates.         
 
 60
 00:03:53,568 --> 00:03:57,870
-    they brush off the bulk     
-    of the remaining powder.    
+they brush off the bulk of the remaining powder.    
 
 61
 00:03:59,574 --> 00:04:01,106
-     the posts on the bottom    
+the posts on the bottom    
 
 62
 00:04:01,108 --> 00:04:03,909
-  are the points at which pins  
- affix the template to the bone 
+are the points at which pins affix the template to the bone 
 
 63
 00:04:03,911 --> 00:04:05,978
-         during surgery.        
+during surgery.        
 
 64
 00:04:08,515 --> 00:04:11,383
-     next, the templates go     
-         into a tumbler         
+next, the templates go into a tumbler         
 
 65
 00:04:11,385 --> 00:04:14,153
-    containing plastic balls    
-          and air jets.         
+containing plastic balls and air jets.         
 
 66
 00:04:18,993 --> 00:04:21,193
-       as the drum rotates      
-         for 20 minutes,        
+as the drum rotates for 20 minutes,        
 
 67
 00:04:21,195 --> 00:04:23,929
-       the balls knock off      
-   and the air jets blows off   
+the balls knock off and the air jets blows off   
 
 68
 00:04:23,931 --> 00:04:25,731
-  most of the remaining powder. 
+most of the remaining powder. 
 
 69
 00:04:31,138 --> 00:04:34,440
- the templates exit the tumbler 
-           90% clean.           
+the templates exit the tumbler 90% clean.           
 
 70
 00:04:34,442 --> 00:04:36,942
- they go through two wash cycles
+they go through two wash cycles
 
 71
 00:04:36,944 --> 00:04:40,011
-   to remove the last remnants  
-           of powder.           
+to remove the last remnants of powder.           
 
 72
 00:04:40,013 --> 00:04:44,216
-        before packaging,       
-     they'll be sterilized.     
+before packaging, they'll be sterilized.     
 
 73
 00:04:44,218 --> 00:04:47,219
-           but first,           
-    every template must pass    
+but first, every template must pass    
 
 74
 00:04:47,221 --> 00:04:49,622
-  a quality-control inspection. 
+a quality-control inspection. 
 
 75
 00:04:49,624 --> 00:04:53,025
-         using a laser,         
-      a technician scans it     
+using a laser, a technician scans it     
 
 76
 00:04:53,027 --> 00:04:55,160
-          to make sure          
-    the manufacturing process   
+to make sure the manufacturing process   
 
 77
 00:04:55,162 --> 00:04:57,630
-     produced an exact match    
-     to the patient's bone.     
+produced an exact match to the patient's bone.     
 
 78
 00:05:06,840 --> 00:05:10,776
- this model shows how the femur 
- and tibia form the knee joint  
+this model shows how the femur and tibia form the knee joint  
 
 79
 00:05:10,778 --> 00:05:14,046
-   and how the surgeon secures  
-     the customized template    
+and how the surgeon secures the customized template    
 
 80
 00:05:14,048 --> 00:05:16,515
-    onto each of these bones.   
+onto each of these bones.   
 
 81
 00:05:16,517 --> 00:05:17,850
-    thanks to these devices,    
+thanks to these devices,    
 
 82
 00:05:17,852 --> 00:05:20,652
-   the surgeon doesn't have to  
-    figure out the bone cuts    
+the surgeon doesn't have to figure out the bone cuts    
 
 83
 00:05:20,654 --> 00:05:23,055
-           on the fly           
-     in the operating room.     
+on the fly in the operating room.     
 
 84
 00:05:23,057 --> 00:05:26,258
-   they're all pre-calculated   
-     by the computer model.     
+they're all pre-calculated by the computer model.     
 
 85
 00:05:26,260 --> 00:05:28,860
-     this method eliminates     
-     several steps required     
+this method eliminates several steps required     
 
 86
 00:05:28,862 --> 00:05:31,063
-      in standard surgery.      
+in standard surgery.      
 
 87
 00:05:31,065 --> 00:05:33,265
-  the operation takes less time 
+the operation takes less time 
 
 88
 00:05:33,267 --> 00:05:35,067
-          and requires          
-    half as many instruments    
+and requires half as many instruments    
 
 89
 00:05:35,069 --> 00:05:36,936
-     to set up and clean up.    
+to set up and clean up.    
 
 90
 00:05:36,938 --> 00:05:38,670
-     and because the surgeon    
+and because the surgeon    
 
 91
 00:05:38,672 --> 00:05:40,872
-  no longer has to drill a hole 
-           in the bone          
+no longer has to drill a hole in the bone          
 
 92
 00:05:40,874 --> 00:05:42,875
-   to check the knee implant's  
-           alignment,           
+to check the knee implant's alignment,           
 
 93
 00:05:42,877 --> 00:05:46,077
-     the patient experiences    
-     less pain and bleeding     
+the patient experiences less pain and bleeding     
 
 94
 00:05:46,079 --> 00:05:49,582
-      and a smaller chance      
-  of developing complications.  
+and a smaller chance of developing complications.  
 
 95
 00:06:03,964 --> 00:06:06,498
- narrator: the earliest version 
-         of leaf springs        
+narrator: the earliest version of leaf springs        
 
 96
 00:06:06,500 --> 00:06:08,500
-           were likely          
-      flexible wooden poles     
+were likely flexible wooden poles     
 
 97
 00:06:08,502 --> 00:06:11,236
-        used in carriages       
-        in ancient rome.        
+used in carriages in ancient rome.        
 
 98
 00:06:11,238 --> 00:06:12,972
-   in the early 19th century,   
+in the early 19th century,   
 
 99
 00:06:12,974 --> 00:06:15,240
-       metal leaf springs       
-         were developed.        
+metal leaf springs were developed.        
 
 100
 00:06:15,242 --> 00:06:17,709
-  today the journey continues,  
+today the journey continues,  
 
 101
 00:06:17,711 --> 00:06:22,147
-  and it's fairly smooth thanks 
-  to these suspension springs.  
+and it's fairly smooth thanks to these suspension springs.  
 
 102
 00:06:25,987 --> 00:06:29,922
-    a leaf spring is a stack    
-   of curved plates or leaves,  
+a leaf spring is a stack of curved plates or leaves,  
 
 103
 00:06:29,924 --> 00:06:32,324
-   or sometimes even just one.  
+or sometimes even just one.  
 
 104
 00:06:32,326 --> 00:06:33,859
-    this spring has the flex    
+this spring has the flex    
 
 105
 00:06:33,861 --> 00:06:36,328
-    to absorb bumps and dips    
-          in the road,          
+to absorb bumps and dips in the road,          
 
 106
 00:06:36,330 --> 00:06:39,064
-     but it's strong enough     
-   to provide serious support.  
+but it's strong enough to provide serious support.  
 
 107
 00:06:39,066 --> 00:06:41,867
-    today these super-strong    
-       suspension springs       
+today these super-strong suspension springs       
 
 108
 00:06:41,869 --> 00:06:45,404
-  are generally used for trucks 
-    and other heavy vehicles    
+are generally used for trucks and other heavy vehicles    
 
 109
 00:06:45,406 --> 00:06:47,339
-         more than cars.        
+more than cars.        
 
 110
 00:06:47,341 --> 00:06:50,675
-       production starts        
-       with spring steel.       
+production starts with spring steel.       
 
 111
 00:06:50,677 --> 00:06:53,812
-          it's an alloy         
-      that has elasticity.      
+it's an alloy that has elasticity.      
 
 112
 00:06:53,814 --> 00:06:57,149
-    big shears cut the steel    
-       to various lengths       
+big shears cut the steel to various lengths       
 
 113
 00:06:57,151 --> 00:06:59,084
-    for a multi-leaf spring.    
+for a multi-leaf spring.    
 
 114
 00:06:59,086 --> 00:07:02,955
-    it's one of the two kinds   
-        of leaf springs.        
+it's one of the two kinds of leaf springs.        
 
 115
 00:07:02,957 --> 00:07:04,289
-        using a band saw,       
+using a band saw,       
 
 116
 00:07:04,291 --> 00:07:06,691
-  they cut steel for the other  
-      kind of leaf spring,      
+they cut steel for the other kind of leaf spring,      
 
 117
 00:07:06,693 --> 00:07:10,229
-  known as a full taper spring. 
+known as a full taper spring. 
 
 118
 00:07:10,231 --> 00:07:12,097
- it's made of one to four leaves
+it's made of one to four leaves
 
 119
 00:07:12,099 --> 00:07:15,767
- that are approximately the same
- length but various thicknesses.
+that are approximately the same
+length but various thicknesses.
 
 120
 00:07:15,769 --> 00:07:18,837
-         after cutting,         
-   they rapidly heat the ends.  
+after cutting, they rapidly heat the ends.  
 
 121
 00:07:18,839 --> 00:07:22,441
-     computerized machinery     
-  rolls and stretches the piece 
+computerized machinery rolls and stretches the piece 
 
 122
 00:07:22,443 --> 00:07:24,576
-      to a tapered profile.     
+to a tapered profile.     
 
 123
 00:07:24,578 --> 00:07:26,912
-          this achieves         
-      the same flex effect      
+this achieves the same flex effect      
 
 124
 00:07:26,914 --> 00:07:30,515
-  as the progressively shorter  
+as the progressively shorter  
 leaves on the multi-leaf spring,
 
 125
 00:07:30,517 --> 00:07:35,053
-   but the end product will be  
-    lighter and not as stiff.   
+but the end product will be lighter and not as stiff.   
 
 126
 00:07:35,055 --> 00:07:38,924
-     next, it's into a press    
-  that trims the stretched ends 
+next, it's into a press that trims the stretched ends 
 
 127
 00:07:38,926 --> 00:07:41,960
-        and punches holes       
-     for various components.    
+and punches holes for various components.    
 
 128
 00:07:41,962 --> 00:07:43,661
-     it takes about an hour     
+it takes about an hour     
 
 129
 00:07:43,663 --> 00:07:47,266
-   for the steel to cool down   
-     for the next operation.    
+for the steel to cool down for the next operation.    
 
 130
 00:07:49,803 --> 00:07:52,404
-           meanwhile,           
-    other members of the team   
+meanwhile, other members of the team   
 
 131
 00:07:52,406 --> 00:07:55,407
-        are hard at work        
-    on the multi-leaf spring.   
+are hard at work on the multi-leaf spring.   
 
 132
 00:07:55,409 --> 00:07:57,943
-    they feed the heated tip    
-        of the main leaf        
+they feed the heated tip of the main leaf        
 
 133
 00:07:57,945 --> 00:08:01,780
-   to a machine that wraps it   
-       around a die form.       
+to a machine that wraps it around a die form.       
 
 134
 00:08:05,152 --> 00:08:06,618
-    this creates an eye mount   
+this creates an eye mount   
 
 135
 00:08:06,620 --> 00:08:09,888
-    for attaching the spring    
-         to the vehicle.        
+for attaching the spring to the vehicle.        
 
 136
 00:08:09,890 --> 00:08:13,459
-    they create an eye mount    
-   on the other end, as well.   
+they create an eye mount on the other end, as well.   
 
 137
 00:08:18,766 --> 00:08:22,834
-     next they curl the ends    
- of a slightly longer steel bar 
+next they curl the ends of a slightly longer steel bar 
 
 138
 00:08:22,836 --> 00:08:25,303
-     into a loose "c" shape.    
+into a loose "c" shape.    
 
 139
 00:08:25,305 --> 00:08:28,173
-      this piece will serve     
-   as an outer protective wrap  
+this piece will serve as an outer protective wrap  
 
 140
 00:08:28,175 --> 00:08:30,976
-        for the main leaf       
-   and protect the eye mounts.  
+for the main leaf and protect the eye mounts.  
 
 141
 00:08:30,978 --> 00:08:33,044
-    back to the taper spring,   
+back to the taper spring,   
 
 142
 00:08:33,046 --> 00:08:37,048
-  hydraulic machinery bends it  
-     to the final "z" shape     
+hydraulic machinery bends it to the final "z" shape     
 
 143
 00:08:37,050 --> 00:08:40,185
-      so it will fit around     
-         a vehicle axle.        
+so it will fit around a vehicle axle.        
 
 144
 00:08:40,187 --> 00:08:43,655
-    they soak both the taper    
-  and multi-leaf springs in oil 
+they soak both the taper and multi-leaf springs in oil 
 
 145
 00:08:43,657 --> 00:08:47,126
-  and temper them in a furnace  
-    to strengthen the steel.    
+and temper them in a furnace to strengthen the steel.    
 
 146
 00:08:47,128 --> 00:08:51,263
-  then it's time for a process  
-        known as peening.       
+then it's time for a process known as peening.       
 
 147
 00:08:51,265 --> 00:08:53,998
-        machinery clamps        
- the steel leaf onto a carriage,
+machinery clamps the steel leaf onto a carriage,
 
 148
 00:08:54,000 --> 00:08:55,801
@@ -700,13 +602,11 @@ which takes it through a chamber
 
 149
 00:08:55,803 --> 00:08:58,937
-          for blasting          
-    with tiny steel pellets.    
+for blasting with tiny steel pellets.    
 
 150
 00:08:58,939 --> 00:09:01,739
-          the blasting          
-  changes the surface tension,  
+the blasting changes the surface tension,  
 
 151
 00:09:01,741 --> 00:09:03,809
@@ -714,169 +614,143 @@ further strengthening the metal.
 
 152
 00:09:03,811 --> 00:09:06,745
-     a worker now assembles     
-     the multi-leaf spring.     
+a worker now assembles the multi-leaf spring.     
 
 153
 00:09:06,747 --> 00:09:10,014
-    he inserts a pin through    
-   the center of the main leaf  
+he inserts a pin through the center of the main leaf  
 
 154
 00:09:10,016 --> 00:09:12,150
-     and wrap to align them.    
+and wrap to align them.    
 
 155
 00:09:12,152 --> 00:09:15,220
-     each of the next leaves    
-    is shorter than the last.   
+each of the next leaves is shorter than the last.   
 
 156
 00:09:15,222 --> 00:09:17,489
-          they're known         
-      as graduated leaves.      
+they're known as graduated leaves.      
 
 157
 00:09:17,491 --> 00:09:21,293
-  it's a design that will make  
-    the spring more flexible.   
+it's a design that will make the spring more flexible.   
 
 158
 00:09:23,430 --> 00:09:26,532
-     he transfers the stack     
-    to a hydraulic station...   
+he transfers the stack to a hydraulic station...   
 
 159
 00:09:28,436 --> 00:09:32,337
- ...and inserts a different pin 
-   for more precise alignment.  
+...and inserts a different pin for more precise alignment.  
 
 160
 00:09:33,907 --> 00:09:35,841
-          he activates          
-    the hydraulic mechanism,    
+he activates the hydraulic mechanism,    
 
 161
 00:09:35,843 --> 00:09:38,843
-         and it squeezes        
-      the leaves together.      
+and it squeezes the leaves together.      
 
 162
 00:09:38,845 --> 00:09:42,381
-    the mechanism maintains     
-    the leaves under tension    
+the mechanism maintains the leaves under tension    
 
 163
 00:09:42,383 --> 00:09:45,951
-      as he removes the pin     
-  and now bolts them together.  
+as he removes the pin and now bolts them together.  
 
 164
 00:09:50,791 --> 00:09:55,793
-  he pounds clips installed at  
+he pounds clips installed at  
 specific locations on the spring
 
 165
 00:09:55,795 --> 00:09:58,130
-          to close them         
-       around the leaves.       
+to close them around the leaves.       
 
 166
 00:09:58,132 --> 00:10:02,867
-   the clips tighten the stack  
-       all the way across       
+the clips tighten the stack all the way across       
 
 167
 00:10:02,869 --> 00:10:05,804
-    and will stop the leaves    
-    from twisting or turning.   
+and will stop the leaves from twisting or turning.   
 
 168
 00:10:05,806 --> 00:10:09,541
- next, another hydraulic device 
-        applies pressure,       
+next, another hydraulic device applies pressure,       
 
 169
 00:10:09,543 --> 00:10:13,211
- this time to simulate the load 
-     the spring will carry.     
+this time to simulate the load the spring will carry.     
 
 170
 00:10:13,213 --> 00:10:15,414
-      this sets the spring      
-      to a specific height      
+this sets the spring to a specific height      
 
 171
 00:10:15,416 --> 00:10:19,418
-  and compresses it to stiffen  
-    the overall performance.    
+and compresses it to stiffen the overall performance.    
 
 172
 00:10:19,420 --> 00:10:21,819
- the worker measures the spring 
+the worker measures the spring 
 
 173
 00:10:21,821 --> 00:10:25,490
-    to confirm that it meets    
-       the specifications.      
+to confirm that it meets the specifications.      
 
 174
 00:10:25,492 --> 00:10:27,692
-   the assembled leaf springs   
+the assembled leaf springs   
 
 175
 00:10:27,694 --> 00:10:30,829
-      now take a quick dip      
-    in a tank of black paint.   
+now take a quick dip in a tank of black paint.   
 
 176
 00:10:34,968 --> 00:10:38,837
-   the paint coats the leaves,  
-      clips, and fasteners      
+the paint coats the leaves, clips, and fasteners      
 
 177
 00:10:38,839 --> 00:10:42,774
 to give these suspension springs
-        a uniform finish.       
+a uniform finish.       
 
 178
 00:10:42,776 --> 00:10:45,644
-         painted black,         
-      they should blend in      
+painted black, they should blend in      
 
 179
 00:10:45,646 --> 00:10:49,981
-  with all the other components 
- on the vehicle's undercarriage.
+with all the other components on the vehicle's undercarriage.
 
 180
 00:10:49,983 --> 00:10:55,520
 now complete, these leaf springs
- can be depended on for support 
+can be depended on for support 
 
 181
 00:10:55,522 --> 00:10:57,723
-   when the going gets rough.   
+when the going gets rough.   
 
 182
 00:11:14,341 --> 00:11:17,008
-            narrator:           
-     <i> lavandula angustifolia</i>    
+narrator: <i> lavandula angustifolia</i>    
 
 183
 00:11:17,010 --> 00:11:19,811
-     might sound like a name    
-  of an ancient roman emperor,  
+might sound like a name of an ancient roman emperor,  
 
 184
 00:11:19,813 --> 00:11:23,214
 but it's actually the scientific
-  name for the lavender plant.  
+name for the lavender plant.  
 
 185
 00:11:23,216 --> 00:11:25,550
-           the leaves           
-    and striking blue petals    
+the leaves and striking blue petals    
 
 186
 00:11:25,552 --> 00:11:27,485
@@ -884,352 +758,301 @@ of this aromatic flowering shrub
 
 187
 00:11:27,487 --> 00:11:30,021
-        are used to make        
-     lavender essential oil,    
+are used to make lavender essential oil,    
 
 188
 00:11:30,023 --> 00:11:32,958
-  an ingredient in many health  
-      and beauty products.      
+an ingredient in many health and beauty products.      
 
 189
 00:11:35,162 --> 00:11:39,231
-     lavender essential oil     
-  has antiviral, antibacterial, 
+lavender essential oil has antiviral, antibacterial, 
 
 190
 00:11:39,233 --> 00:11:41,566
-      and anti-inflammatory     
-           properties.          
+and anti-inflammatory properties.          
 
 191
 00:11:41,568 --> 00:11:44,236
-    no wonder it's long been    
-        a natural remedy        
+no wonder it's long been a natural remedy        
 
 192
 00:11:44,238 --> 00:11:46,037
-       for many ailments.       
+for many ailments.       
 
 193
 00:11:46,039 --> 00:11:49,907
- and with its flowery fragrance 
-      and relaxing effects,     
+and with its flowery fragrance and relaxing effects,     
 
 194
 00:11:49,909 --> 00:11:54,213
-   it's a common ingredient in  
- lotions, soaps, and bath oils. 
+it's a common ingredient in lotions, soaps, and bath oils. 
 
 195
 00:11:56,917 --> 00:11:58,850
-  lavender is a perennial plant 
+lavender is a perennial plant 
 
 196
 00:11:58,852 --> 00:12:01,653
-      that begins flowering     
-       in its second year.      
+that begins flowering in its second year.      
 
 197
 00:12:01,655 --> 00:12:04,990
-      harvest time at this      
-    canadian farm is in july,   
+harvest time at this canadian farm is in july,   
 
 198
 00:12:04,992 --> 00:12:07,192
- at the peak of the first bloom.
+at the peak of the first bloom.
 
 199
 00:12:07,194 --> 00:12:09,728
-     there's a second bloom     
-           afterward,           
+there's a second bloom afterward,           
 
 200
 00:12:09,730 --> 00:12:13,665
-   but not significant enough   
-   to warrant another harvest.  
+but not significant enough to warrant another harvest.  
 
 201
 00:12:13,667 --> 00:12:17,002
- weeds like to grow at the base 
-       of lavender plants,      
+weeds like to grow at the base of lavender plants,      
 
 202
 00:12:17,004 --> 00:12:20,405
-       siphoning off water      
-  and important soil nutrients. 
+siphoning off water and important soil nutrients. 
 
 203
 00:12:20,407 --> 00:12:22,074
-  so between may and september, 
+so between may and september, 
 
 204
 00:12:22,076 --> 00:12:24,876
-       killing those weeds      
-    is a vital daily ritual.    
+killing those weeds is a vital daily ritual.    
 
 205
 00:12:24,878 --> 00:12:27,278
-       the weeding machine      
+the weeding machine      
 
 206
 00:12:27,280 --> 00:12:29,881
-    lifts the lavender stems    
-         out of the way,        
+lifts the lavender stems out of the way,        
 
 207
 00:12:29,883 --> 00:12:33,118
-      then blasts the weeds     
- around the base with hot steam.
+then blasts the weeds around the base with hot steam.
 
 208
 00:12:41,495 --> 00:12:43,695
-          to determine          
-   the right time to harvest,   
+to determine the right time to harvest,   
 
 209
 00:12:43,697 --> 00:12:46,164
-       the producer looks       
-    at the quantity of blooms   
+the producer looks at the quantity of blooms   
 
 210
 00:12:46,166 --> 00:12:49,568
-  and the color of the flowers. 
+and the color of the flowers. 
 
 211
 00:12:49,570 --> 00:12:51,369
-   they should be purple-blue,  
+they should be purple-blue,  
 
 212
 00:12:51,371 --> 00:12:53,971
-          on the verge          
-    of turning grayish-brown.   
+on the verge of turning grayish-brown.   
 
 213
 00:12:53,973 --> 00:12:56,975
-          the producer          
-    also crushes a few petals   
+the producer also crushes a few petals   
 
 214
 00:12:56,977 --> 00:12:59,177
- to see how much oil comes out. 
+to see how much oil comes out. 
 
 215
 00:12:59,179 --> 00:13:03,848
-   the harvester is specially   
- designed for cutting lavender. 
+the harvester is specially designed for cutting lavender. 
 
 216
 00:13:03,850 --> 00:13:07,252
-  like a stylist cutting hair,  
+like a stylist cutting hair,  
 
 217
 00:13:07,254 --> 00:13:11,590
- it pulls the stem straight up, 
-    then snips near the base.   
+it pulls the stem straight up, then snips near the base.   
 
 218
 00:13:19,199 --> 00:13:21,933
-         the cut stems,         
-      about 15 inches long,     
+the cut stems, about 15 inches long,     
 
 219
 00:13:21,935 --> 00:13:26,604
-   fall onto a conveyer belt,   
-  which moves them into a tray. 
+fall onto a conveyer belt, which moves them into a tray. 
 
 220
 00:13:26,606 --> 00:13:30,208
-  from there, workers manually  
-      transfer the lavender     
+from there, workers manually transfer the lavender     
 
 221
 00:13:30,210 --> 00:13:32,144
-   to the harvester's trailer.  
+to the harvester's trailer.  
 
 222
 00:13:32,146 --> 00:13:34,079
-    when the trailer is full,   
+when the trailer is full,   
 
 223
 00:13:34,081 --> 00:13:38,684
- the harvester delivers its load
-   to the on-site distillery.   
+the harvester delivers its load
+to the on-site distillery.   
 
 224
 00:13:38,686 --> 00:13:41,686
-    workers load the lavender   
-          into a still,         
+workers load the lavender into a still,         
 
 225
 00:13:41,688 --> 00:13:43,488
- a large stainless-steel vessel 
+a large stainless-steel vessel 
 
 226
 00:13:43,490 --> 00:13:46,291
-    typically used to produce   
-       alcoholic spirits.       
+typically used to produce alcoholic spirits.       
 
 227
 00:13:49,429 --> 00:13:53,231
-  they compact as much lavender 
-   as possible into the still   
+they compact as much lavender as possible into the still   
 
 228
 00:13:53,233 --> 00:13:56,968
-    to prevent the formation    
-         of air pockets.        
+to prevent the formation of air pockets.        
 
 229
 00:13:56,970 --> 00:14:00,038
-          the less air,         
-   the greater the oil yield.   
+the less air, the greater the oil yield.   
 
 230
 00:14:09,716 --> 00:14:13,185
-    once the still is stuffed   
-     to compacted capacity,     
+once the still is stuffed to compacted capacity,     
 
 231
 00:14:13,187 --> 00:14:14,719
-      they close it tightly     
+they close it tightly     
 
 232
 00:14:14,721 --> 00:14:18,123
-          and start up          
-      an oil-fired boiler.      
+and start up an oil-fired boiler.      
 
 233
 00:14:18,125 --> 00:14:20,325
-           the boiler           
-     heats water into steam,    
+the boiler heats water into steam,    
 
 234
 00:14:20,327 --> 00:14:23,595
-     which they then inject     
-  into the bottom of the still  
+which they then inject into the bottom of the still  
 
 235
 00:14:23,597 --> 00:14:24,863
-      at very low pressure.     
+at very low pressure.     
 
 236
 00:14:24,865 --> 00:14:27,465
-         over the course        
-      of about 15 minutes,      
+over the course of about 15 minutes,      
 
 237
 00:14:27,467 --> 00:14:30,668
-     the steam slowly rises     
-    to the top of the still,    
+the steam slowly rises to the top of the still,    
 
 238
 00:14:30,670 --> 00:14:33,071
-      heating the lavender      
-         along the way.         
+heating the lavender along the way.         
 
 239
 00:14:33,073 --> 00:14:36,808
-     they continue the steam    
-  for another half-hour or so.  
+they continue the steam for another half-hour or so.  
 
 240
 00:14:36,810 --> 00:14:40,545
-     this bursts the glands     
+this bursts the glands     
 located primarily in the petals,
 
 241
 00:14:40,547 --> 00:14:42,848
-       releasing the oil.       
+releasing the oil.       
 
 242
 00:14:47,087 --> 00:14:48,754
- to collect that extracted oil, 
+to collect that extracted oil, 
 
 243
 00:14:48,756 --> 00:14:51,222
-      they feed cold water      
-       into a coiled pipe       
+they feed cold water into a coiled pipe       
 
 244
 00:14:51,224 --> 00:14:52,758
-   running through the still.   
+running through the still.   
 
 245
 00:14:52,760 --> 00:14:56,294
-       when the hot steam       
-      hits that cold pipe,      
+when the hot steam hits that cold pipe,      
 
 246
 00:14:56,296 --> 00:14:59,564
-          it condenses,         
-  transforming back into water. 
+it condenses, transforming back into water. 
 
 247
 00:14:59,566 --> 00:15:02,701
-  only now, the water contains  
-          lavender oil.         
+only now, the water contains lavender oil.         
 
 248
 00:15:02,703 --> 00:15:05,904
-    they open the still's tap   
+they open the still's tap   
 
 249
 00:15:05,906 --> 00:15:08,874
-     and let the water flow     
-      into a holding tank.      
+and let the water flow into a holding tank.      
 
 250
 00:15:12,512 --> 00:15:15,980
-           on average,          
-       the proportions are      
+on average, the proportions are      
 
 251
 00:15:15,982 --> 00:15:20,552
-      one part lavender oil     
-       to 40 parts water.       
+one part lavender oil to 40 parts water.       
 
 252
 00:15:24,724 --> 00:15:27,926
-       in the holding tank      
-    over the next hour or so,   
+in the holding tank over the next hour or so,   
 
 253
 00:15:27,928 --> 00:15:31,396
-   the oil naturally separates  
-    and rises to the surface.   
+the oil naturally separates and rises to the surface.   
 
 254
 00:15:31,398 --> 00:15:32,730
-         at that point,         
+at that point,         
 
 255
 00:15:32,732 --> 00:15:35,800
-  they begin pumping the water  
-      to another container,     
+they begin pumping the water to another container,     
 
 256
 00:15:35,802 --> 00:15:38,603
-            stopping            
-    at the first sign of oil.   
+stopping at the first sign of oil.   
 
 257
 00:15:38,605 --> 00:15:41,606
-    what remains in the tank    
-    is the final product --     
+what remains in the tank is the final product --     
 
 258
 00:15:41,608 --> 00:15:44,609
-  pure lavender essential oil.  
+pure lavender essential oil.  
 
 259
 00:15:44,611 --> 00:15:45,877
-      the pumped-out water      
+the pumped-out water      
 
 260
 00:15:45,879 --> 00:15:49,281
-     is a secondary product     
-  called lavender flower water. 
+is a secondary product called lavender flower water. 
 
 261
 00:15:49,283 --> 00:15:54,419
@@ -1238,22 +1061,20 @@ to a laboratory to be filtered.
 
 262
 00:15:54,421 --> 00:15:58,689
-    producers primarily sell    
-  lavender oil and floral water 
+producers primarily sell lavender oil and floral water 
 
 263
 00:15:58,691 --> 00:16:03,361
- as ingredients to manufacturers
- of health and beauty products, 
+as ingredients to manufacturers
+of health and beauty products, 
 
 264
 00:16:03,363 --> 00:16:04,896
-   but they also often design   
+but they also often design   
 
 265
 00:16:04,898 --> 00:16:07,165
-         their own lines        
-      of lavender creations     
+their own lines of lavender creations     
 
 266
 00:16:07,167 --> 00:16:09,734
@@ -1261,211 +1082,184 @@ for pampering the body and soul.
 
 267
 00:16:25,252 --> 00:16:28,053
-      narrator: rivets hold     
-    a lot of things together.   
+narrator: rivets hold a lot of things together.   
 
 268
 00:16:28,055 --> 00:16:29,854
- product fabricated with rivets 
+product fabricated with rivets 
 
 269
 00:16:29,856 --> 00:16:32,857
-        include aircraft,       
-        cars, computers,        
+include aircraft, cars, computers,        
 
 270
 00:16:32,859 --> 00:16:34,526
-    and household appliances.   
+and household appliances.   
 
 271
 00:16:34,528 --> 00:16:36,461
-  installed with a rivet tool,  
+installed with a rivet tool,  
 
 272
 00:16:36,463 --> 00:16:40,131
-     these fasteners create     
-  strong and permanent joints.  
+these fasteners create strong and permanent joints.  
 
 273
 00:16:40,133 --> 00:16:43,635
- without rivets, a lot of things
-        might fall apart.       
+without rivets, a lot of things
+might fall apart.       
 
 274
 00:16:46,340 --> 00:16:49,140
-         whether the job        
-       is large or small,       
+whether the job is large or small,       
 
 275
 00:16:49,142 --> 00:16:51,209
-           chances are          
-     there's a rivet for it.    
+chances are there's a rivet for it.    
 
 276
 00:16:51,211 --> 00:16:52,944
- and using a special rivet tool,
+and using a special rivet tool,
 
 277
 00:16:52,946 --> 00:16:57,616
-  it's possible to form strong  
- attachments quickly and easily.
+it's possible to form strong attachments quickly and easily.
 
 278
 00:16:57,618 --> 00:17:02,753
-        the two together        
-      make a perfect match.     
+the two together make a perfect match.     
 
 279
 00:17:02,755 --> 00:17:06,291
-      the rivet tool starts     
- with a precast aluminum handle.
+the rivet tool starts with a precast aluminum handle.
 
 280
 00:17:06,293 --> 00:17:08,960
-          a technician          
-     inserts a steel sleeve.    
+a technician inserts a steel sleeve.    
 
 281
 00:17:08,962 --> 00:17:12,030
-   it will serve as a chamber   
-      for hydraulic fluid.      
+it will serve as a chamber for hydraulic fluid.      
 
 282
 00:17:12,032 --> 00:17:15,299
-         the spring for         
-   the tool's trigger is next.  
+the spring for the tool's trigger is next.  
 
 283
 00:17:15,301 --> 00:17:18,235
-  she screws an aluminum plate  
-           to the base          
+she screws an aluminum plate to the base          
 
 284
 00:17:18,237 --> 00:17:21,572
-    to enclose the two parts    
-         and the handle.        
+to enclose the two parts and the handle.        
 
 285
 00:17:21,574 --> 00:17:24,175
-             this is            
-   the pulling-head assembly.   
+this is the pulling-head assembly.   
 
 286
 00:17:24,177 --> 00:17:27,311
-        it has tiny jaws        
-     to grab the rivet stem.    
+it has tiny jaws to grab the rivet stem.    
 
 287
 00:17:27,313 --> 00:17:28,647
-        she lubricates it       
+she lubricates it       
 
 288
 00:17:28,649 --> 00:17:33,451
-  and presses it into the main  
-     bore of the rivet tool.    
+and presses it into the main bore of the rivet tool.    
 
 289
 00:17:33,453 --> 00:17:37,722
-    she installs a fill screw   
+she installs a fill screw   
 in the top of the handle casting
 
 290
 00:17:37,724 --> 00:17:41,726
- for top-offs of hydraulic fluid
-        during servicing.       
+for top-offs of hydraulic fluid
+during servicing.       
 
 291
 00:17:41,728 --> 00:17:44,262
-     but the initial supply     
-       of hydraulic fluid       
+but the initial supply of hydraulic fluid       
 
 292
 00:17:44,264 --> 00:17:47,198
-        is added through        
- the steel sleeve at the bottom.
+is added through the steel sleeve at the bottom.
 
 293
 00:17:47,200 --> 00:17:49,801
-           she inserts          
-     an air-piston assembly     
+she inserts an air-piston assembly     
 
 294
 00:17:49,803 --> 00:17:51,936
- into the fluid-filled chamber. 
+into the fluid-filled chamber. 
 
 295
 00:17:51,938 --> 00:17:54,673
-    she threads a screw into    
-   the nose of the rivet tool.  
+she threads a screw into the nose of the rivet tool.  
 
 296
 00:17:54,675 --> 00:17:57,676
 this keeps the internal workings
-     in the correct position    
+in the correct position    
 
 297
 00:17:57,678 --> 00:17:59,344
-       for the next step.       
+for the next step.       
 
 298
 00:17:59,346 --> 00:18:02,747
- she places the base of the tool
-      into an air chamber,      
+she places the base of the tool
+into an air chamber,      
 
 299
 00:18:02,749 --> 00:18:04,349
-    then hooks up an air hose   
+then hooks up an air hose   
 
 300
 00:18:04,351 --> 00:18:06,550
-         and secures it         
-       with steel clamps.       
+and secures it with steel clamps.       
 
 301
 00:18:06,552 --> 00:18:08,552
-       she plugs the tool       
-       into an air supply       
+she plugs the tool into an air supply       
 
 302
 00:18:08,554 --> 00:18:09,887
-     and pulls the trigger.     
+and pulls the trigger.     
 
 303
 00:18:09,889 --> 00:18:13,424
-      the air puts pressure     
-  on the hydraulic fluid inside 
+the air puts pressure on the hydraulic fluid inside 
 
 304
 00:18:13,426 --> 00:18:16,160
-           to activate          
-     the riveting mechanism.    
+to activate the riveting mechanism.    
 
 305
 00:18:16,162 --> 00:18:18,363
-       and now the test --      
+and now the test --      
 
 306
 00:18:18,365 --> 00:18:20,898
-       she places a rivet       
-    in the nose of the tool,    
+she places a rivet in the nose of the tool,    
 
 307
 00:18:20,900 --> 00:18:23,101
-          then inserts          
-   the other end of the rivet   
+then inserts the other end of the rivet   
 
 308
 00:18:23,103 --> 00:18:24,703
-  into a hole on the test plate 
+into a hole on the test plate 
 
 309
 00:18:24,705 --> 00:18:26,237
-    and presses the trigger.    
+and presses the trigger.    
 
 310
 00:18:26,239 --> 00:18:29,374
-  the tool efficiently installs 
-     the rivet in the hole.     
+the tool efficiently installs the rivet in the hole.     
 
 311
 00:18:29,376 --> 00:18:34,245
@@ -1474,228 +1268,194 @@ they make them from round wire.
 
 312
 00:18:34,247 --> 00:18:36,514
-            a machine           
-     cuts the wire to length    
+a machine cuts the wire to length    
 
 313
 00:18:36,516 --> 00:18:38,850
-       and then punches it      
-        into a die twice        
+and then punches it into a die twice        
 
 314
 00:18:38,852 --> 00:18:42,854
-   to form a rivet stem blank.  
+to form a rivet stem blank.  
 
 315
 00:18:44,857 --> 00:18:47,993
- here's the cutting and forming 
-     action in slow motion.     
+here's the cutting and forming action in slow motion.     
 
 316
 00:18:53,933 --> 00:18:56,334
- the machine operates in a blur,
+the machine operates in a blur,
 
 317
 00:18:56,336 --> 00:18:59,804
-          producing 200         
-   rivet stem blanks a minute.  
+producing 200 rivet stem blanks a minute.  
 
 318
 00:19:02,208 --> 00:19:06,210
-      the stem blanks move      
- between serrated rolling dies. 
+the stem blanks move between serrated rolling dies. 
 
 319
 00:19:06,212 --> 00:19:07,612
-      the dies form grooves     
+the dies form grooves     
 
 320
 00:19:07,614 --> 00:19:10,748
- to allow the stem to be gripped
-        by a rivet tool.        
+to allow the stem to be gripped
+by a rivet tool.        
 
 321
 00:19:10,750 --> 00:19:14,152
-   they also make ridges that   
- will serve as a breaking point 
+they also make ridges that will serve as a breaking point 
 
 322
 00:19:14,154 --> 00:19:15,753
-   during rivet installation.   
+during rivet installation.   
 
 323
 00:19:15,755 --> 00:19:18,223
- this is a slow-motion close-up 
+this is a slow-motion close-up 
 
 324
 00:19:18,225 --> 00:19:21,626
-  of the serrated rolling dies  
-           in action.           
+of the serrated rolling dies in action.           
 
 325
 00:19:21,628 --> 00:19:27,732
-      here's the rivet stem     
-    before and after forming.   
+here's the rivet stem before and after forming.   
 
 326
 00:19:27,734 --> 00:19:31,436
-        the next machine        
-     creates the rivet body.    
+the next machine creates the rivet body.    
 
 327
 00:19:31,438 --> 00:19:33,838
-          it cuts wire          
-      to the correct length     
+it cuts wire to the correct length     
 
 328
 00:19:33,840 --> 00:19:37,975
-    and forces it into dies.    
+and forces it into dies.    
 
 329
 00:19:37,977 --> 00:19:41,513
-      it takes five punches     
-   to transform the solid wire  
+it takes five punches to transform the solid wire  
 
 330
 00:19:41,515 --> 00:19:43,214
-    into a hollow rivet body.   
+into a hollow rivet body.   
 
 331
 00:19:48,455 --> 00:19:51,890
-   these machines can produce   
-   up to 300 parts a minute.    
+these machines can produce up to 300 parts a minute.    
 
 332
 00:19:54,594 --> 00:19:59,130
-  next, the rivet bodies go for 
- a tumble in a cleaning solution
+next, the rivet bodies go for a tumble in a cleaning solution
 
 333
 00:19:59,132 --> 00:20:03,000
-     to remove oily residue     
-      left by the forming.      
+to remove oily residue left by the forming.      
 
 334
 00:20:03,002 --> 00:20:06,871
-  the rivet stems also undergo  
-     this thorough washing.     
+the rivet stems also undergo this thorough washing.     
 
 335
 00:20:06,873 --> 00:20:09,941
-        the rivet bodies        
- then travel through a furnace. 
+the rivet bodies then travel through a furnace. 
 
 336
 00:20:09,943 --> 00:20:12,944
-        the intense heat        
-  followed by a gradual cooling 
+the intense heat followed by a gradual cooling 
 
 337
 00:20:12,946 --> 00:20:16,947
-  hardens the metal to free it  
-     from internal stresses.    
+hardens the metal to free it from internal stresses.    
 
 338
 00:20:16,949 --> 00:20:18,550
-       after zinc-plating,      
+after zinc-plating,      
 
 339
 00:20:18,552 --> 00:20:22,620
-        the rivet bodies        
- head towards the next station. 
+the rivet bodies head towards the next station. 
 
 340
 00:20:22,622 --> 00:20:25,023
-         the rivet stems        
-      are also on the move.     
+the rivet stems are also on the move.     
 
 341
 00:20:25,025 --> 00:20:28,025
-  they travel through a channel 
-      that gradually widens     
+they travel through a channel that gradually widens     
 
 342
 00:20:28,027 --> 00:20:31,896
-        to sort out stems       
-   that are too big or small.   
+to sort out stems that are too big or small.   
 
 343
 00:20:31,898 --> 00:20:35,033
-      the undersized stems      
- fall through at the beginning, 
+the undersized stems fall through at the beginning, 
 
 344
 00:20:35,035 --> 00:20:38,036
-       and oversized ones       
-       fall off the end.        
+and oversized ones fall off the end.        
 
 345
 00:20:38,038 --> 00:20:41,172
-    a magnet loader collects    
-   the correctly sized stems,   
+a magnet loader collects the correctly sized stems,   
 
 346
 00:20:41,174 --> 00:20:44,575
-   and rejects are discarded.   
+and rejects are discarded.   
 
 347
 00:20:44,577 --> 00:20:47,645
-         the rivet stems        
-      cling to the loader,      
+the rivet stems cling to the loader,      
 
 348
 00:20:47,647 --> 00:20:50,849
- which is stopped at the moment.
+which is stopped at the moment.
 
 349
 00:20:50,851 --> 00:20:54,652
-        the rivet bodies        
-      now ride a carrousel.     
+the rivet bodies now ride a carrousel.     
 
 350
 00:20:54,654 --> 00:20:56,053
-        it pauses briefly       
+it pauses briefly       
 
 351
 00:20:56,055 --> 00:20:59,457
-         to allow a stem        
-   to be inserted into a body.  
+to allow a stem to be inserted into a body.  
 
 352
 00:20:59,459 --> 00:21:05,596
-  these are slow-motion shots,  
-     and back in real time.     
+these are slow-motion shots, and back in real time.     
 
 353
 00:21:05,598 --> 00:21:08,465
-    these machines work fast.   
+these machines work fast.   
 
 354
 00:21:08,467 --> 00:21:11,870
-          they pump out         
-    millions of rivets a day.   
+they pump out millions of rivets a day.   
 
 355
 00:21:11,872 --> 00:21:16,541
-   the rivets are now ready to  
- leave this factory for another,
+the rivets are now ready to leave this factory for another,
 
 356
 00:21:16,543 --> 00:21:20,478
-    where they could be used    
-    to make almost anything.    
+where they could be used to make almost anything.    
 
 357
 00:21:31,358 --> 00:21:33,958
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 358
 00:21:33,960 --> 00:21:36,694
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 359
 00:21:36,696 --> 00:21:38,997
-      drop us a line at...      
+drop us a line at...      
 

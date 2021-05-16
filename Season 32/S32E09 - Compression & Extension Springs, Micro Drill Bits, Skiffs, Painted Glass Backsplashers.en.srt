@@ -1,207 +1,177 @@
 ﻿1
 00:00:00,735 --> 00:00:10,743
-                     ♪          
+♪          
 
 2
 00:00:10,745 --> 00:00:16,148
-                     ♪          
+♪          
 
 3
 00:00:16,150 --> 00:00:19,085
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 4
 00:00:19,087 --> 00:00:22,121
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 5
 00:00:25,960 --> 00:00:28,628
-      narrator: compression     
-    and extension springs...    
+narrator: compression and extension springs...    
 
 6
 00:00:28,630 --> 00:00:32,097
-                     ♪          
+♪          
 
 7
 00:00:32,099 --> 00:00:34,032
-     ...micro drill bits...     
+...micro drill bits...     
 
 8
 00:00:34,034 --> 00:00:38,504
-                     ♪          
+♪          
 
 9
 00:00:38,506 --> 00:00:39,705
-          ...skiffs...          
+...skiffs...          
 
 10
 00:00:39,707 --> 00:00:43,643
-                     ♪          
+♪          
 
 11
 00:00:43,645 --> 00:00:46,378
-      ...and painted glass      
-          backsplashes.         
+...and painted glass backsplashes.         
 
 12
 00:00:46,380 --> 00:00:51,918
-                     ♪          
+♪          
 
 13
 00:00:53,988 --> 00:00:56,922
 coiled wire springs are designed
-         to change shape        
+to change shape        
 
 14
 00:00:56,924 --> 00:00:59,391
-      when weight is added      
-           or removed.          
+when weight is added or removed.          
 
 15
 00:00:59,393 --> 00:01:01,727
-           some coils,          
-  such as compression springs,  
+some coils, such as compression springs,  
 
 16
 00:01:01,729 --> 00:01:04,063
-           are made to          
-     keep components apart.     
+are made to keep components apart.     
 
 17
 00:01:04,065 --> 00:01:06,866
-      other types of coils,     
-     like extension springs,    
+other types of coils, like extension springs,    
 
 18
 00:01:06,868 --> 00:01:10,937
- hold things together while the 
-  spring expands and contracts. 
+hold things together while the spring expands and contracts. 
 
 19
 00:01:12,407 --> 00:01:14,540
-                     ♪          
+♪          
 
 20
 00:01:14,542 --> 00:01:17,143
-     when a load is applied     
-    to a compression spring,    
+when a load is applied to a compression spring,    
 
 21
 00:01:17,145 --> 00:01:21,447
 it contracts, while an extension
-   spring expands when pulled.  
+spring expands when pulled.  
 
 22
 00:01:23,484 --> 00:01:25,284
-           compression          
-      and extension springs     
+compression and extension springs     
 
 23
 00:01:25,286 --> 00:01:27,552
-    are made from steel wire.   
+are made from steel wire.   
 
 24
 00:01:27,554 --> 00:01:30,489
-   the diameter and qualities   
-       of the wire varies,      
+the diameter and qualities of the wire varies,      
 
 25
 00:01:30,491 --> 00:01:33,558
-      depending on the use      
-         of the spring.         
+depending on the use of the spring.         
 
 26
 00:01:33,560 --> 00:01:37,029
-      spooled onto a reel,      
-        the wire uncoils,       
+spooled onto a reel, the wire uncoils,       
 
 27
 00:01:37,031 --> 00:01:40,766
-       pulled by rollers,       
+pulled by rollers,       
 which lead to a forming machine.
 
 28
 00:01:40,768 --> 00:01:44,437
-  guide rollers steer the wire, 
-     as does this aperture.     
+guide rollers steer the wire, as does this aperture.     
 
 29
 00:01:46,841 --> 00:01:48,974
-      multiple feed rollers     
-          push the wire         
+multiple feed rollers push the wire         
 
 30
 00:01:48,976 --> 00:01:52,711
-      towards computerized      
-         forming tools.         
+towards computerized forming tools.         
 
 31
 00:01:52,713 --> 00:01:56,048
-       the rollers pause,       
- while the tools do their work, 
+the rollers pause, while the tools do their work, 
 
 32
 00:01:56,050 --> 00:02:00,586
- and then resume to supply wire 
-      for the next spring.      
+and then resume to supply wire for the next spring.      
 
 33
 00:02:00,588 --> 00:02:04,390
-    meanwhile, other rollers    
- push the wire around a mandrel,
+meanwhile, other rollers push the wire around a mandrel,
 
 34
 00:02:04,392 --> 00:02:07,460
-        where it's coiled       
-    into an extension spring.   
+where it's coiled into an extension spring.   
 
 35
 00:02:07,462 --> 00:02:09,928
-       a side-arm controls      
-          the diameter,         
+a side-arm controls the diameter,         
 
 36
 00:02:09,930 --> 00:02:13,466
-       while another tool       
-       cuts it to length.       
+while another tool cuts it to length.       
 
 37
 00:02:13,468 --> 00:02:17,002
-       the forming process      
-  has caused internal stresses. 
+the forming process has caused internal stresses. 
 
 38
 00:02:17,004 --> 00:02:22,608
-    to remove those stresses,   
-  the springs are heat-treated. 
+to remove those stresses, the springs are heat-treated. 
 
 39
 00:02:22,610 --> 00:02:24,810
-       as the springs move      
-        out of the oven,        
+as the springs move out of the oven,        
 
 40
 00:02:24,812 --> 00:02:27,146
-       they travel through      
-       a cooling chamber.       
+they travel through a cooling chamber.       
 
 41
 00:02:27,148 --> 00:02:29,148
-   the heating and controlled   
-             cooling            
+the heating and controlled cooling            
 
 42
 00:02:29,150 --> 00:02:31,283
-            improves            
-    the physical properties,    
+improves the physical properties,    
 
 43
 00:02:31,285 --> 00:02:35,354
-     allowing the springs to    
- withstand repeated compression.
+allowing the springs to withstand repeated compression.
 
 44
 00:02:35,356 --> 00:02:37,622
@@ -209,13 +179,11 @@ with internal stresses relieved,
 
 45
 00:02:37,624 --> 00:02:42,161
- it's time to work on the outer 
-  surface of the steel springs. 
+it's time to work on the outer surface of the steel springs. 
 
 46
 00:02:42,163 --> 00:02:44,963
-      a rack conveyer dips      
-        extension springs       
+a rack conveyer dips extension springs       
 
 47
 00:02:44,965 --> 00:02:47,299
@@ -223,756 +191,651 @@ into a vat of water-based paint.
 
 48
 00:02:49,437 --> 00:02:52,171
-      the paint seeps into      
-   the crevices of the coils,   
+the paint seeps into the crevices of the coils,   
 
 49
 00:02:52,173 --> 00:02:54,439
- providing even paint coverage. 
+providing even paint coverage. 
 
 50
 00:02:54,441 --> 00:02:57,843
-                     ♪          
+♪          
 
 51
 00:02:57,845 --> 00:03:00,846
-  then the rack conveyer takes  
-       the painted springs      
+then the rack conveyer takes the painted springs      
 
 52
 00:03:00,848 --> 00:03:03,515
-      on a ten-minute loop      
-        through an oven.        
+on a ten-minute loop through an oven.        
 
 53
 00:03:03,517 --> 00:03:06,318
-    this step bakes the paint   
-         onto the steel,        
+this step bakes the paint onto the steel,        
 
 54
 00:03:06,320 --> 00:03:09,422
- providing a corrosion-resistant
-             finish.            
+providing a corrosion-resistant
+finish.            
 
 55
 00:03:09,424 --> 00:03:14,259
-  this is what the springs look 
- like before and after painting.
+this is what the springs look like before and after painting.
 
 56
 00:03:14,261 --> 00:03:17,596
- these truck suspension springs 
-      are made differently.     
+these truck suspension springs are made differently.     
 
 57
 00:03:17,598 --> 00:03:21,200
-                     ♪          
+♪          
 
 58
 00:03:21,202 --> 00:03:24,770
-    a machinist heats the end   
-  of a steel rod in a furnace,  
+a machinist heats the end of a steel rod in a furnace,  
 
 59
 00:03:24,772 --> 00:03:28,207
-      inserting it between      
-   forming tools to taper it.   
+inserting it between forming tools to taper it.   
 
 60
 00:03:28,209 --> 00:03:32,078
-    this taper will allow the   
+this taper will allow the   
 completed spring to sit upright.
 
 61
 00:03:34,348 --> 00:03:39,719
- next, the entire rod goes into 
-     a 1,796-degree furnace.    
+next, the entire rod goes into a 1,796-degree furnace.    
 
 62
 00:03:41,355 --> 00:03:44,022
-     once the rod in red-hot    
-         and malleable,         
+once the rod in red-hot and malleable,         
 
 63
 00:03:44,024 --> 00:03:45,424
-      it exits the furnace      
+it exits the furnace      
 
 64
 00:03:45,426 --> 00:03:48,694
-       and is transferred       
-     to the forming mandrel.    
+and is transferred to the forming mandrel.    
 
 65
 00:03:48,696 --> 00:03:52,498
-    the mandrel spins to wind   
-      the soft, steel wire,     
+the mandrel spins to wind the soft, steel wire,     
 
 66
 00:03:52,500 --> 00:03:56,102
-    transforming the straight   
-    steel rod into a spring.    
+transforming the straight steel rod into a spring.    
 
 67
 00:03:56,104 --> 00:03:59,238
-                     ♪          
+♪          
 
 68
 00:03:59,240 --> 00:04:04,109
 the spring is placed in a bucket
-   and lifted to an oil bath.   
+and lifted to an oil bath.   
 
 69
 00:04:04,111 --> 00:04:06,979
-  the bath quenches and hardens 
-           the steel.           
+the bath quenches and hardens the steel.           
 
 70
 00:04:06,981 --> 00:04:10,316
-                     ♪          
+♪          
 
 71
 00:04:10,318 --> 00:04:13,052
-     then the spring travels    
-       through a furnace.       
+then the spring travels through a furnace.       
 
 72
 00:04:13,054 --> 00:04:15,921
-       the heat burns off       
-     quenching oil residue.     
+the heat burns off quenching oil residue.     
 
 73
 00:04:18,525 --> 00:04:21,260
-      a technician inserts      
-     the compression springs    
+a technician inserts the compression springs    
 
 74
 00:04:21,262 --> 00:04:22,928
-     in a revolving fixture,    
+in a revolving fixture,    
 
 75
 00:04:22,930 --> 00:04:27,132
 allowing the ends of the springs
-       to extend outward.       
+to extend outward.       
 
 76
 00:04:27,134 --> 00:04:30,869
-    as the fixture revolves,    
- grinding wheels remove material
+as the fixture revolves, grinding wheels remove material
 
 77
 00:04:30,871 --> 00:04:33,471
-  to flatten the exposed ends.  
+to flatten the exposed ends.  
 
 78
 00:04:33,473 --> 00:04:36,274
-     this flattened profile     
-    is another way to ensure    
+this flattened profile is another way to ensure    
 
 79
 00:04:36,276 --> 00:04:38,511
-        that the springs        
-        will sit upright.       
+that the springs will sit upright.       
 
 80
 00:04:40,481 --> 00:04:41,680
-         once complete,         
+once complete,         
 
 81
 00:04:41,682 --> 00:04:44,282
-     the technician measures    
-    the height of the spring    
+the technician measures the height of the spring    
 
 82
 00:04:44,284 --> 00:04:46,552
-         to confirm that        
- the correct amount of material 
+to confirm that the correct amount of material 
 
 83
 00:04:46,554 --> 00:04:49,354
-      has been ground off.      
+has been ground off.      
 
 84
 00:04:49,356 --> 00:04:52,258
-      the grinding has made     
-    a substantial difference.   
+the grinding has made a substantial difference.   
 
 85
 00:04:55,229 --> 00:04:58,430
-    the next machine removes    
-         surface flaws.         
+the next machine removes surface flaws.         
 
 86
 00:04:58,432 --> 00:05:02,034
-  an operator places the spring 
-       inside the machine.      
+an operator places the spring inside the machine.      
 
 87
 00:05:04,105 --> 00:05:05,770
-      as the spring spins,      
+as the spring spins,      
 
 88
 00:05:05,772 --> 00:05:09,942
-   a fine, abrasive steel shot  
-    sands away imperfections.   
+a fine, abrasive steel shot sands away imperfections.   
 
 89
 00:05:12,045 --> 00:05:14,580
-   you can see the difference   
-  this step makes in the spring 
+you can see the difference this step makes in the spring 
 
 90
 00:05:14,582 --> 00:05:15,714
-          on the right.         
+on the right.         
 
 91
 00:05:18,186 --> 00:05:22,655
-  the exposure to heat has made 
-  the steel wire more flexible. 
+the exposure to heat has made the steel wire more flexible. 
 
 92
 00:05:22,657 --> 00:05:25,591
-  a technician places the wire  
-       in a press machine       
+a technician places the wire in a press machine       
 
 93
 00:05:25,593 --> 00:05:27,526
-    and sets the compression    
-           and height.          
+and sets the compression and height.          
 
 94
 00:05:29,330 --> 00:05:31,397
-  the press squeezes the coils  
+the press squeezes the coils  
 
 95
 00:05:31,399 --> 00:05:34,500
-    until the desired amount    
-   of compression is achieved.  
+until the desired amount of compression is achieved.  
 
 96
 00:05:36,204 --> 00:05:38,270
-        after the spring        
-        has been painted,       
+after the spring has been painted,       
 
 97
 00:05:38,272 --> 00:05:40,405
-        the company name        
-      and model information     
+the company name and model information     
 
 98
 00:05:40,407 --> 00:05:44,109
-  is stamped onto the springs.  
+is stamped onto the springs.  
 
 99
 00:05:44,111 --> 00:05:46,878
-       it takes two hours       
-        to make a spring,       
+it takes two hours to make a spring,       
 
 100
 00:05:46,880 --> 00:05:50,349
-   and now it's finally ready   
-       for some flex time.      
+and now it's finally ready for some flex time.      
 
 101
 00:05:50,351 --> 00:05:53,185
-                     ♪          
+♪          
 
 102
 00:06:00,228 --> 00:06:06,565
-                     ♪          
+♪          
 
 103
 00:06:06,567 --> 00:06:09,568
-  narrator: thousands of years  
-   ago, our earliest ancestors  
+narrator: thousands of years ago, our earliest ancestors  
 
 104
 00:06:09,570 --> 00:06:11,637
-      might have picked up      
-         a pointed rock         
+might have picked up a pointed rock         
 
 105
 00:06:11,639 --> 00:06:14,573
- and spun it between their hands
-         to bore a hole         
+and spun it between their hands
+to bore a hole         
 
 106
 00:06:14,575 --> 00:06:16,976
-          in something          
-     they wanted to modify.     
+in something they wanted to modify.     
 
 107
 00:06:16,978 --> 00:06:20,913
-  today, you can buy drill bits 
-    in all shapes and sizes.    
+today, you can buy drill bits in all shapes and sizes.    
 
 108
 00:06:25,920 --> 00:06:29,054
- drill bits are often associated
-         with carpentry,        
+drill bits are often associated
+with carpentry,        
 
 109
 00:06:29,056 --> 00:06:31,590
-      but from electronics      
-       to surgery tooling,      
+but from electronics to surgery tooling,      
 
 110
 00:06:31,592 --> 00:06:33,058
-  there are all kinds of fields 
+there are all kinds of fields 
 
 111
 00:06:33,060 --> 00:06:38,129
-    that require ultra-thin,    
-  high-performance drill bits.  
+that require ultra-thin, high-performance drill bits.  
 
 112
 00:06:38,131 --> 00:06:40,332
-  the production process begins 
-          with lengths          
+the production process begins with lengths          
 
 113
 00:06:40,334 --> 00:06:43,669
-         of 100% carbide        
-         called blanks.         
+of 100% carbide called blanks.         
 
 114
 00:06:43,671 --> 00:06:47,673
-                     ♪          
+♪          
 
 115
 00:06:47,675 --> 00:06:48,941
-    a diamond grinding wheel    
+a diamond grinding wheel    
 
 116
 00:06:48,943 --> 00:06:52,011
-  lubricated with a specialized 
-         cutting liquid         
+lubricated with a specialized cutting liquid         
 
 117
 00:06:52,013 --> 00:06:55,814
- is applied to a chamfered edge 
-    on one tip of the blank.    
+is applied to a chamfered edge on one tip of the blank.    
 
 118
 00:06:58,486 --> 00:07:00,552
-        this step removes       
-      the rough edges left      
+this step removes the rough edges left      
 
 119
 00:07:00,554 --> 00:07:02,955
-         when the blanks        
-     were cut down to size.     
+when the blanks were cut down to size.     
 
 120
 00:07:02,957 --> 00:07:06,425
-                     ♪          
+♪          
 
 121
 00:07:06,427 --> 00:07:12,230
 a vibrating device organizes the
- blanks inside a rotating bowl. 
+blanks inside a rotating bowl. 
 
 122
 00:07:12,232 --> 00:07:15,834
-   the vibrating action shifts  
-   the blanks into single file  
+the vibrating action shifts the blanks into single file  
 
 123
 00:07:15,836 --> 00:07:18,871
-       so they can proceed      
-  one-by-one to the next step.  
+so they can proceed one-by-one to the next step.  
 
 124
 00:07:20,975 --> 00:07:24,442
-     this machine is called     
-      a centerless grinder.     
+this machine is called a centerless grinder.     
 
 125
 00:07:24,444 --> 00:07:27,645
-     the blanks move between    
-       two rotating drums,      
+the blanks move between two rotating drums,      
 
 126
 00:07:27,647 --> 00:07:30,782
-     which grinds them down     
-     to a specified length.     
+which grinds them down to a specified length.     
 
 127
 00:07:30,784 --> 00:07:35,520
-                     ♪          
+♪          
 
 128
 00:07:35,522 --> 00:07:37,522
-       the blanks pour out      
-         of the machine         
+the blanks pour out of the machine         
 
 129
 00:07:37,524 --> 00:07:40,192
-         immersed in the        
-       lubricating fluid.       
+immersed in the lubricating fluid.       
 
 130
 00:07:40,194 --> 00:07:42,928
-     an operator selects one    
-          and places it         
+an operator selects one and places it         
 
 131
 00:07:42,930 --> 00:07:45,330
-   in a quality control gauge   
-            to check            
+in a quality control gauge to check            
 
 132
 00:07:45,332 --> 00:07:48,801
 that it meets the manufacturer's
-      required tolerances.      
+required tolerances.      
 
 133
 00:07:48,803 --> 00:07:54,473
-                     ♪          
+♪          
 
 134
 00:07:54,475 --> 00:07:57,643
-      the blanks now enter      
-        a cnc rollomatic.       
+the blanks now enter a cnc rollomatic.       
 
 135
 00:07:59,613 --> 00:08:03,749
-  an operator sets up the tool  
- and programs its work process. 
+an operator sets up the tool and programs its work process. 
 
 136
 00:08:06,086 --> 00:08:09,421
- a robotic auto-feeder picks up 
-      the blanks one-by-one     
+a robotic auto-feeder picks up the blanks one-by-one     
 
 137
 00:08:09,423 --> 00:08:11,323
-   from a specialized palette.  
+from a specialized palette.  
 
 138
 00:08:13,427 --> 00:08:16,094
-     the robotic arms places    
-      each blank carefully      
+the robotic arms places each blank carefully      
 
 139
 00:08:16,096 --> 00:08:19,765
-          and precisely         
- in a waiting chuck, or collar, 
+and precisely in a waiting chuck, or collar, 
 
 140
 00:08:19,767 --> 00:08:22,067
-       and then moves them      
-       back into position.      
+and then moves them back into position.      
 
 141
 00:08:24,505 --> 00:08:28,374
- the tool moves forward, holding
-    the blank perfectly still   
+the tool moves forward, holding
+the blank perfectly still   
 
 142
 00:08:28,376 --> 00:08:30,542
-  as a pair of wheels close in. 
+as a pair of wheels close in. 
 
 143
 00:08:32,312 --> 00:08:34,913
-      liquid coolant pours      
-         over the blank         
+liquid coolant pours over the blank         
 
 144
 00:08:34,915 --> 00:08:37,116
-     as the wheels precision    
-           pinch-grind          
+as the wheels precision pinch-grind          
 
 145
 00:08:37,118 --> 00:08:38,783
-      the tip of the blank,     
+the tip of the blank,     
 
 146
 00:08:38,785 --> 00:08:41,920
-    grinding it down to about   
-     1/10 of a millimeter --    
+grinding it down to about 1/10 of a millimeter --    
 
 147
 00:08:41,922 --> 00:08:43,988
-   the width of a human hair.   
+the width of a human hair.   
 
 148
 00:08:43,990 --> 00:08:46,191
-    it's a delicate process.    
+it's a delicate process.    
 
 149
 00:08:46,193 --> 00:08:49,528
-     the rollomatic produces    
-       48 pieces per hour.      
+the rollomatic produces 48 pieces per hour.      
 
 150
 00:08:52,066 --> 00:08:58,336
- next, a technician places small
+next, a technician places small
 sheets of plastic foil in a jig.
 
 151
 00:08:58,338 --> 00:09:00,205
-     the foil is shim stock,    
+the foil is shim stock,    
 
 152
 00:09:00,207 --> 00:09:03,008
-           color-coded          
-   according to its thickness.  
+color-coded according to its thickness.  
 
 153
 00:09:03,010 --> 00:09:06,945
 the jig raises the metal support
-     to a specified height.     
+to a specified height.     
 
 154
 00:09:06,947 --> 00:09:09,548
-     when the blank advances    
-        over the support,       
+when the blank advances over the support,       
 
 155
 00:09:09,550 --> 00:09:11,483
-     a mark left in the blue    
-         ink determines         
+a mark left in the blue ink determines         
 
 156
 00:09:11,485 --> 00:09:13,552
-     whether the metal blank    
-          is centered.          
+whether the metal blank is centered.          
 
 157
 00:09:15,756 --> 00:09:19,224
 once complete, a technician uses
-        a magnifying tool       
+a magnifying tool       
 
 158
 00:09:19,226 --> 00:09:21,693
-          to fine-tune          
-   the placement of the blank   
+to fine-tune the placement of the blank   
 
 159
 00:09:21,695 --> 00:09:24,696
-         and ensure that        
-    it's perfectly centered.    
+and ensure that it's perfectly centered.    
 
 160
 00:09:24,698 --> 00:09:28,200
-   this process can take four   
-         to five hours.         
+this process can take four to five hours.         
 
 161
 00:09:30,237 --> 00:09:33,839
- the blank is finally ready for 
-   the crucial fluting process  
+the blank is finally ready for the crucial fluting process  
 
 162
 00:09:33,841 --> 00:09:37,376
-   that will transform it from  
- a cylindrical length of carbide
+that will transform it from a cylindrical length of carbide
 
 163
 00:09:37,378 --> 00:09:41,246
-        with a narrow tip       
-     into a micro drill bit.    
+with a narrow tip into a micro drill bit.    
 
 164
 00:09:41,248 --> 00:09:43,315
-   after hours of preparation,  
+after hours of preparation,  
 
 165
 00:09:43,317 --> 00:09:46,785
-      this operation takes      
-       just a few seconds.      
+this operation takes just a few seconds.      
 
 166
 00:09:46,787 --> 00:09:49,188
-     an industrial grinding     
-          diamond wheel         
+an industrial grinding diamond wheel         
 
 167
 00:09:49,190 --> 00:09:53,125
- has sliced a microscopic groove
-       at a precise angle.      
+has sliced a microscopic groove
+at a precise angle.      
 
 168
 00:09:53,127 --> 00:09:56,394
- the technician inserts the bit,
-        sharp-end first,        
+the technician inserts the bit,
+sharp-end first,        
 
 169
 00:09:56,396 --> 00:09:59,264
-        into a precision        
-        machining device.       
+into a precision machining device.       
 
 170
 00:09:59,266 --> 00:10:01,666
-         a steel bushing        
-       with a brass insert      
+a steel bushing with a brass insert      
 
 171
 00:10:01,668 --> 00:10:04,002
-    holds the tip of the bit    
-            in place            
+holds the tip of the bit in place            
 
 172
 00:10:04,004 --> 00:10:07,039
-    as a cutting wheel slices   
-        an angled point.        
+as a cutting wheel slices an angled point.        
 
 173
 00:10:07,041 --> 00:10:10,809
-                     ♪          
+♪          
 
 174
 00:10:10,811 --> 00:10:14,213
-   it's impossible to see the   
- difference between a bit before
+it's impossible to see the difference between a bit before
 
 175
 00:10:14,215 --> 00:10:16,681
-       and after fluting.       
+and after fluting.       
 
 176
 00:10:16,683 --> 00:10:19,817
-   using a magnifying device,   
-     the technician conducts    
+using a magnifying device, the technician conducts    
 
 177
 00:10:19,819 --> 00:10:22,554
-        a quality control       
-        check of the bit.       
+a quality control check of the bit.       
 
 178
 00:10:22,556 --> 00:10:25,624
-      as the screen reveals     
-      the finely-cut flute,     
+as the screen reveals the finely-cut flute,     
 
 179
 00:10:25,626 --> 00:10:28,560
-     the technician ensures     
-   the tool's parameters meet   
+the technician ensures the tool's parameters meet   
 
 180
 00:10:28,562 --> 00:10:30,895
-    manufacturing standards.    
+manufacturing standards.    
 
 181
 00:10:30,897 --> 00:10:34,299
-  once such parameter has to do 
-  with the shape of the flute,  
+once such parameter has to do with the shape of the flute,  
 
 182
 00:10:34,301 --> 00:10:36,234
-   which has a forward taper.   
+which has a forward taper.   
 
 183
 00:10:36,236 --> 00:10:38,970
-   this means the flue groove   
-        becomes shallower       
+this means the flue groove becomes shallower       
 
 184
 00:10:38,972 --> 00:10:43,175
-       from tip to base at      
-      a very precise angle.     
+from tip to base at a very precise angle.     
 
 185
 00:10:43,177 --> 00:10:46,644
-   this feature simultaneously  
-      strengthens the tool      
+this feature simultaneously strengthens the tool      
 
 186
 00:10:46,646 --> 00:10:51,250
- while increasing the chip flow 
-        along the groove.       
+while increasing the chip flow along the groove.       
 
 187
 00:10:51,252 --> 00:10:54,052
-        although carbide        
-      is incredibly strong,     
+although carbide is incredibly strong,     
 
 188
 00:10:54,054 --> 00:10:56,488
-       when it's milled to      
- the thickness of a human hair, 
+when it's milled to the thickness of a human hair, 
 
 189
 00:10:56,490 --> 00:10:58,056
-       it becomes fragile.      
+it becomes fragile.      
 
 190
 00:10:58,058 --> 00:10:59,391
-        needless to say,        
+needless to say,        
 
 191
 00:10:59,393 --> 00:11:02,628
-        careful packaging       
-     is extremely important.    
+careful packaging is extremely important.    
 
 192
 00:11:10,070 --> 00:11:15,073
-                     ♪          
+♪          
 
 193
 00:11:15,075 --> 00:11:17,476
-      narrator: a skiff is      
-     a lightweight motorboat    
+narrator: a skiff is a lightweight motorboat    
 
 194
 00:11:17,478 --> 00:11:20,078
-        designed for use        
-        on shallow water.       
+designed for use on shallow water.       
 
 195
 00:11:20,080 --> 00:11:23,081
-   unlike most boats that have  
-        a v-shaped hull,        
+unlike most boats that have a v-shaped hull,        
 
 196
 00:11:23,083 --> 00:11:25,684
-         a skiff's hull         
-       is relatively flat,      
+a skiff's hull is relatively flat,      
 
 197
 00:11:25,686 --> 00:11:28,387
-       allowing it to sit       
-      high above the water.     
+allowing it to sit high above the water.     
 
 198
 00:11:35,162 --> 00:11:38,096
-   this type of boat is known   
-       as a poling skiff.       
+this type of boat is known as a poling skiff.       
 
 199
 00:11:38,098 --> 00:11:41,366
-  it's designed with a platform 
-      set over the engine,      
+it's designed with a platform set over the engine,      
 
 200
 00:11:41,368 --> 00:11:44,369
 which provides fishermen a ledge
-           to stand on          
+to stand on          
 
 201
 00:11:44,371 --> 00:11:48,040
-      while moving the boat     
-       along with a pole.       
+while moving the boat along with a pole.       
 
 202
 00:11:48,042 --> 00:11:50,509
-       a technician cleans      
-          the hull mold         
+a technician cleans the hull mold         
 
 203
 00:11:50,511 --> 00:11:52,710
-        and coats it with       
-        a release agent,        
+and coats it with a release agent,        
 
 204
 00:11:52,712 --> 00:11:55,447
-  then sprays on a gel coating. 
+then sprays on a gel coating. 
 
 205
 00:11:55,449 --> 00:12:00,052
 the gel coating forms the glossy
-    outer layer of the boat.    
+outer layer of the boat.    
 
 206
 00:12:00,054 --> 00:12:03,788
@@ -981,94 +844,81 @@ gel coat layer with a mill gauge
 
 207
 00:12:03,790 --> 00:12:06,058
-     and leaves it to harden    
-       for about an hour.       
+and leaves it to harden for about an hour.       
 
 208
 00:12:08,262 --> 00:12:11,863
-    computer-guided machines    
- cut pieces for the hull, deck, 
+computer-guided machines cut pieces for the hull, deck, 
 
 209
 00:12:11,865 --> 00:12:15,067
-        and cockpit floor       
+and cockpit floor       
 from four different materials --
 
 210
 00:12:15,069 --> 00:12:19,805
-      woven fiberglass mat,     
- rigid pvc sheet-foam, kevlar --
+woven fiberglass mat, rigid pvc sheet-foam, kevlar --
 
 211
 00:12:19,807 --> 00:12:22,608
- a high-strength, heat-resistant
-       synthetic fabric --      
+a high-strength, heat-resistant
+synthetic fabric --      
 
 212
 00:12:22,610 --> 00:12:27,145
-       and stiffer kevlar       
-  reinforced with carbon fiber. 
+and stiffer kevlar reinforced with carbon fiber. 
 
 213
 00:12:27,147 --> 00:12:30,081
-  chopped fiberglass saturated  
-           with resin           
+chopped fiberglass saturated with resin           
 
 214
 00:12:30,083 --> 00:12:33,218
-  is applied onto the gel coat. 
+is applied onto the gel coat. 
 
 215
 00:12:33,220 --> 00:12:36,088
-  with spray-glue, a technician 
-         adheres a layer        
+with spray-glue, a technician adheres a layer        
 
 216
 00:12:36,090 --> 00:12:39,957
-        of carbon kevlar,       
-        fiberglass, foam,       
+of carbon kevlar, fiberglass, foam,       
 
 217
 00:12:39,959 --> 00:12:43,027
-       and a second layer       
-     of kevlar to the base.     
+and a second layer of kevlar to the base.     
 
 218
 00:12:43,029 --> 00:12:46,565
- these layered materials create 
-   a mold for the boat's deck   
+these layered materials create a mold for the boat's deck   
 
 219
 00:12:46,567 --> 00:12:48,567
-       and cockpit floor.       
+and cockpit floor.       
 
 220
 00:12:48,569 --> 00:12:51,436
-      the flat squares are      
-   aluminum-retention plates,   
+the flat squares are aluminum-retention plates,   
 
 221
 00:12:51,438 --> 00:12:54,306
-        where components        
-      will be screwed down.     
+where components will be screwed down.     
 
 222
 00:12:54,308 --> 00:12:56,908
-    raised squares are where    
-    openings will be cut out    
+raised squares are where openings will be cut out    
 
 223
 00:12:56,910 --> 00:12:59,711
-    for storage compartments.   
+for storage compartments.   
 
 224
 00:12:59,713 --> 00:13:02,848
-       each mold is bagged      
-    and connected with hoses    
+each mold is bagged and connected with hoses    
 
 225
 00:13:02,850 --> 00:13:05,384
-  to a vacuum-infusion system.  
+to a vacuum-infusion system.  
 
 226
 00:13:05,386 --> 00:13:09,855
@@ -1077,57 +927,47 @@ to 2/3 their original thickness,
 
 227
 00:13:09,857 --> 00:13:12,324
-      then the system draws     
-       a specialized resin      
+then the system draws a specialized resin      
 
 228
 00:13:12,326 --> 00:13:13,692
-     through the materials,     
+through the materials,     
 
 229
 00:13:13,694 --> 00:13:16,261
-      which will bond them      
-       into a single unit.      
+which will bond them into a single unit.      
 
 230
 00:13:16,263 --> 00:13:18,863
-       the system removes       
-        all excess resin        
+the system removes all excess resin        
 
 231
 00:13:18,865 --> 00:13:21,399
-   so that the ratio of resin   
-          to materials          
+so that the ratio of resin to materials          
 
 232
 00:13:21,401 --> 00:13:24,202
-    creates maximum strength    
-      with minimal weight.      
+creates maximum strength with minimal weight.      
 
 233
 00:13:26,340 --> 00:13:29,674
-    next, another technician    
-   assembles the boat's wiring  
+next, another technician assembles the boat's wiring  
 
 234
 00:13:29,676 --> 00:13:32,477
-        into a unit known       
-      as a wiring harness.      
+into a unit known as a wiring harness.      
 
 235
 00:13:32,479 --> 00:13:35,814
-  he winds the individual wires 
-       around a schematic       
+he winds the individual wires around a schematic       
 
 236
 00:13:35,816 --> 00:13:38,883
-     that's custom-designed     
-     for this specific boat.    
+that's custom-designed for this specific boat.    
 
 237
 00:13:38,885 --> 00:13:41,219
-     he attaches connectors     
-           on the ends          
+he attaches connectors on the ends          
 
 238
 00:13:41,221 --> 00:13:43,688
@@ -1135,532 +975,456 @@ that fit into water-tight plugs.
 
 239
 00:13:43,690 --> 00:13:48,493
-      every wire is labeled     
-    for easy identification.    
+every wire is labeled for easy identification.    
 
 240
 00:13:48,495 --> 00:13:50,762
- once the resin has fully cured,
+once the resin has fully cured,
 
 241
 00:13:50,764 --> 00:13:54,899
-     the plastic vacuum bag     
-   is removed from each mold.   
+the plastic vacuum bag is removed from each mold.   
 
 242
 00:13:54,901 --> 00:13:57,836
-   a technician knocks wedges   
-  under the flange that formed  
+a technician knocks wedges under the flange that formed  
 
 243
 00:13:57,838 --> 00:14:01,840
-      around the perimeter,     
+around the perimeter,     
 and thanks to the release agent,
 
 244
 00:14:01,842 --> 00:14:05,777
-     a team can easily lift     
-   the flange out of the mold.  
+a team can easily lift the flange out of the mold.  
 
 245
 00:14:05,779 --> 00:14:07,446
-     the flange is trimmed,     
+the flange is trimmed,     
 
 246
 00:14:07,448 --> 00:14:10,115
-    and the openings are cut    
-       with a diamond saw,      
+and the openings are cut with a diamond saw,      
 
 247
 00:14:10,117 --> 00:14:13,318
-       which leaves clean,      
-         straight edges.        
+which leaves clean, straight edges.        
 
 248
 00:14:13,320 --> 00:14:16,455
-       next, a team begins      
-      assembling the boat.      
+next, a team begins assembling the boat.      
 
 249
 00:14:16,457 --> 00:14:19,057
-   first, they apply adhesive   
-           to the hull          
+first, they apply adhesive to the hull          
 
 250
 00:14:19,059 --> 00:14:22,461
-  to prepare the cockpit floor  
-         for attachment.        
+to prepare the cockpit floor for attachment.        
 
 251
 00:14:22,463 --> 00:14:26,798
-  once the cockpit's in place,  
-  white pvc tubes are installed 
+once the cockpit's in place, white pvc tubes are installed 
 
 252
 00:14:26,800 --> 00:14:29,400
-    for storing fishing rods    
-         under the deck.        
+for storing fishing rods under the deck.        
 
 253
 00:14:29,402 --> 00:14:32,737
-     then the wiring harness    
-          is installed.         
+then the wiring harness is installed.         
 
 254
 00:14:32,739 --> 00:14:35,940
-     the aluminum fuel tank     
-     is mounted in the bow.     
+the aluminum fuel tank is mounted in the bow.     
 
 255
 00:14:35,942 --> 00:14:40,412
-  these components are made of  
- strong, lightweight materials. 
+these components are made of strong, lightweight materials. 
 
 256
 00:14:40,414 --> 00:14:43,949
- a technician places screws into
-   the metal retention plates   
+a technician places screws into
+the metal retention plates   
 
 257
 00:14:43,951 --> 00:14:46,684
-        that were molded        
-       into the structure.      
+that were molded into the structure.      
 
 258
 00:14:46,686 --> 00:14:50,756
-    next, the wiring harness    
+next, the wiring harness    
 is attached to water-tight plugs
 
 259
 00:14:50,758 --> 00:14:54,091
-        connected to the        
+connected to the        
 electrically-powered components.
 
 260
 00:14:54,093 --> 00:14:55,827
- after installing plumbing lines
+after installing plumbing lines
 
 261
 00:14:55,829 --> 00:14:58,563
-         for the aerated        
-     live bait compartment,     
+for the aerated live bait compartment,     
 
 262
 00:14:58,565 --> 00:15:02,700
-        team members glue       
-      the deck to the hull.     
+team members glue the deck to the hull.     
 
 263
 00:15:02,702 --> 00:15:06,037
-     the lids are installed     
-     for the deck openings.     
+the lids are installed for the deck openings.     
 
 264
 00:15:06,039 --> 00:15:08,507
-   this one covers the forward  
-       storage compartment      
+this one covers the forward storage compartment      
 
 265
 00:15:08,509 --> 00:15:12,377
-  containing the fuel tank and  
- the tubes for the fishing rods.
+containing the fuel tank and the tubes for the fishing rods.
 
 266
 00:15:12,379 --> 00:15:16,914
-                     ♪          
+♪          
 
 267
 00:15:16,916 --> 00:15:19,651
-     next, the console helm     
-          is assembled,         
+next, the console helm is assembled,         
 
 268
 00:15:19,653 --> 00:15:23,721
 which is the nautical equivalent
-     of a vehicle dashboard.    
+of a vehicle dashboard.    
 
 269
 00:15:23,723 --> 00:15:27,459
-   onto the helm, a technician  
-  installs the steering wheel,  
+onto the helm, a technician installs the steering wheel,  
 
 270
 00:15:27,461 --> 00:15:28,926
-        the engine gauge,       
+the engine gauge,       
 
 271
 00:15:28,928 --> 00:15:30,728
-      the panel containing      
-          the ignition          
+the panel containing the ignition          
 
 272
 00:15:30,730 --> 00:15:33,398
-          and switches          
-   for electrical components,   
+and switches for electrical components,   
 
 273
 00:15:33,400 --> 00:15:35,934
-        and the throttle,       
-      which controls speed.     
+and the throttle, which controls speed.     
 
 274
 00:15:38,739 --> 00:15:41,473
-   then, two technicians bolt   
-       the outboard motor       
+then, two technicians bolt the outboard motor       
 
 275
 00:15:41,475 --> 00:15:44,676
-      onto the engine mount     
-          at the stern.         
+onto the engine mount at the stern.         
 
 276
 00:15:44,678 --> 00:15:47,011
-    while this skiff is built   
-       with a square stern      
+while this skiff is built with a square stern      
 
 277
 00:15:47,013 --> 00:15:50,749
-        and pointed bow,        
-       its sides are flat.      
+and pointed bow, its sides are flat.      
 
 278
 00:15:50,751 --> 00:15:54,019
-  this enables the boat to move 
-   quietly through the water.   
+this enables the boat to move quietly through the water.   
 
 279
 00:15:56,356 --> 00:16:00,158
-   next, technicians mount the  
+next, technicians mount the  
 poling platform over the engine,
 
 280
 00:16:00,160 --> 00:16:02,894
-      securing it with glue     
-           and screws.          
+securing it with glue and screws.          
 
 281
 00:16:02,896 --> 00:16:07,899
-                     ♪          
+♪          
 
 282
 00:16:07,901 --> 00:16:11,236
-      finally, a technician     
- installs the finishing touches,
+finally, a technician installs the finishing touches,
 
 283
 00:16:11,238 --> 00:16:13,705
-          and the skiff         
-      is ready for launch.      
+and the skiff is ready for launch.      
 
 284
 00:16:13,707 --> 00:16:16,374
-     due to its low profile     
-        and light weight,       
+due to its low profile and light weight,       
 
 285
 00:16:16,376 --> 00:16:20,111
-      this boat can operate     
-  in just mere inches of water. 
+this boat can operate in just mere inches of water. 
 
 286
 00:16:27,721 --> 00:16:33,325
-                     ♪          
+♪          
 
 287
 00:16:33,327 --> 00:16:36,928
-  narrator: painted glass is an 
+narrator: painted glass is an 
 un-traditional backsplash choice
 
 288
 00:16:36,930 --> 00:16:39,864
-      specifically designed     
-      to look minimalistic.     
+specifically designed to look minimalistic.     
 
 289
 00:16:39,866 --> 00:16:42,733
-    due to fewer grout lines,   
-      these painted panels      
+due to fewer grout lines, these painted panels      
 
 290
 00:16:42,735 --> 00:16:46,737
-    are also easier to clean    
- so that when grease splatters, 
+are also easier to clean so that when grease splatters, 
 
 291
 00:16:46,739 --> 00:16:49,574
-      the backsplash can be     
-       wiped down quickly.      
+the backsplash can be wiped down quickly.      
 
 292
 00:16:52,279 --> 00:16:53,745
-                     ♪          
+♪          
 
 293
 00:16:53,747 --> 00:16:55,814
-    these panels are painted    
-           on the back          
+these panels are painted on the back          
 
 294
 00:16:55,816 --> 00:16:59,017
-      so the neutral color      
-  shows through the front side. 
+so the neutral color shows through the front side. 
 
 295
 00:16:59,019 --> 00:17:01,086
-   since glass is reflective,   
+since glass is reflective,   
 
 296
 00:17:01,088 --> 00:17:03,821
-     this backsplash brings     
-        both subtle color       
+this backsplash brings both subtle color       
 
 297
 00:17:03,823 --> 00:17:06,691
-   and light into the kitchen.  
+and light into the kitchen.  
 
 298
 00:17:06,693 --> 00:17:10,161
-     production starts with     
-  an automated loading system.  
+production starts with an automated loading system.  
 
 299
 00:17:10,163 --> 00:17:12,230
-       suctioning grippers      
-       transfer the glass       
+suctioning grippers transfer the glass       
 
 300
 00:17:12,232 --> 00:17:14,165
-   to the rails of a conveyer.  
+to the rails of a conveyer.  
 
 301
 00:17:14,167 --> 00:17:16,500
-                     ♪          
+♪          
 
 302
 00:17:16,502 --> 00:17:18,637
-     this is low-iron glass,    
+this is low-iron glass,    
 
 303
 00:17:18,639 --> 00:17:21,573
-         a kind of glass        
-    with a very high clarity.   
+a kind of glass with a very high clarity.   
 
 304
 00:17:21,575 --> 00:17:23,841
-      once color is applied     
-          to the back,          
+once color is applied to the back,          
 
 305
 00:17:23,843 --> 00:17:26,444
-      the color will appear     
-    more clearly on the front   
+the color will appear more clearly on the front   
 
 306
 00:17:26,446 --> 00:17:28,779
-       than regular glass.      
+than regular glass.      
 
 307
 00:17:28,781 --> 00:17:32,249
-    for easy identification,    
-      a computerized system     
+for easy identification, a computerized system     
 
 308
 00:17:32,251 --> 00:17:35,086
-         applies labels         
- to each of the parts to be cut.
+applies labels to each of the parts to be cut.
 
 309
 00:17:36,990 --> 00:17:40,058
-     a diamond cutting tool     
-        scores the glass,       
+a diamond cutting tool scores the glass,       
 
 310
 00:17:40,060 --> 00:17:43,394
-  mapping out backsplash panels 
-       and smaller pieces       
+mapping out backsplash panels and smaller pieces       
 
 311
 00:17:43,396 --> 00:17:45,497
-           to be used           
-      for showroom samples.     
+to be used for showroom samples.     
 
 312
 00:17:47,734 --> 00:17:51,803
- once complete, rollers move the
+once complete, rollers move the
 glass sheet to the next station.
 
 313
 00:17:51,805 --> 00:17:56,273
-                     ♪          
+♪          
 
 314
 00:17:56,275 --> 00:17:59,944
- two technicians snap the glass 
-     along the score lines.     
+two technicians snap the glass along the score lines.     
 
 315
 00:17:59,946 --> 00:18:05,082
-                     ♪          
+♪          
 
 316
 00:18:05,084 --> 00:18:07,485
-      this snapping action      
-       creates clean cuts,      
+this snapping action creates clean cuts,      
 
 317
 00:18:07,487 --> 00:18:09,788
-      preventing the glass      
-        from shattering.        
+preventing the glass from shattering.        
 
 318
 00:18:12,292 --> 00:18:15,893
-  the snap action doesn't work  
-   for cuts within the panel.   
+the snap action doesn't work for cuts within the panel.   
 
 319
 00:18:15,895 --> 00:18:20,031
-  instead, a highly pressurized 
+instead, a highly pressurized 
 water jet mixed with garnet grit
 
 320
 00:18:20,033 --> 00:18:22,233
-     cuts through the glass.    
+cuts through the glass.    
 
 321
 00:18:22,235 --> 00:18:25,703
- the cutting device makes holes 
-  for electrical switch plates  
+the cutting device makes holes for electrical switch plates  
 
 322
 00:18:25,705 --> 00:18:28,306
-   and for mounting hardware.   
+and for mounting hardware.   
 
 323
 00:18:28,308 --> 00:18:29,707
-     with the cutting done,     
+with the cutting done,     
 
 324
 00:18:29,709 --> 00:18:32,177
-       a technician rinses      
-       the residual grit.       
+a technician rinses the residual grit.       
 
 325
 00:18:34,313 --> 00:18:36,047
-  the sharp edges are profiled  
+the sharp edges are profiled  
 
 326
 00:18:36,049 --> 00:18:38,849
-   so the glass will be safer   
-           to handle.           
+so the glass will be safer to handle.           
 
 327
 00:18:38,851 --> 00:18:41,052
-      as this display model     
-          demonstrates,         
+as this display model demonstrates,         
 
 328
 00:18:41,054 --> 00:18:44,055
-   there are several choices.   
+there are several choices.   
 
 329
 00:18:44,057 --> 00:18:47,658
-     next, an operator loads    
-      the glass backsplash      
+next, an operator loads the glass backsplash      
 
 330
 00:18:47,660 --> 00:18:49,327
-    into a slotted conveyer,    
+into a slotted conveyer,    
 
 331
 00:18:49,329 --> 00:18:52,263
-       which transfers it       
-     to the edging machine.     
+which transfers it to the edging machine.     
 
 332
 00:18:52,265 --> 00:18:53,931
- underneath the edging machine, 
+underneath the edging machine, 
 
 333
 00:18:53,933 --> 00:18:57,002
- there are a series of grinding 
-       and buffing wheels.      
+there are a series of grinding and buffing wheels.      
 
 334
 00:18:57,004 --> 00:18:59,604
-    as the glass travels over   
-           the wheels,          
+as the glass travels over the wheels,          
 
 335
 00:18:59,606 --> 00:19:01,940
-      the edge of the glass     
-         will transform.        
+the edge of the glass will transform.        
 
 336
 00:19:03,677 --> 00:19:07,078
- once the machine is activated, 
-        the wheels spin,        
+once the machine is activated, the wheels spin,        
 
 337
 00:19:07,080 --> 00:19:10,281
-         while lubricant        
-      flows over the glass.     
+while lubricant flows over the glass.     
 
 338
 00:19:10,283 --> 00:19:13,551
-   the wheels profile and buff  
-      the edge of the glass     
+the wheels profile and buff the edge of the glass     
 
 339
 00:19:13,553 --> 00:19:16,087
-      that will be the top      
-       of the backsplash.       
+that will be the top of the backsplash.       
 
 340
 00:19:18,558 --> 00:19:21,559
-   next, the operator examines  
-       the edge to confirm      
+next, the operator examines the edge to confirm      
 
 341
 00:19:21,561 --> 00:19:23,094
-    that it's been contoured    
+that it's been contoured    
 
 342
 00:19:23,096 --> 00:19:25,363
-      and that there aren't     
-       any imperfections.       
+and that there aren't any imperfections.       
 
 343
 00:19:27,434 --> 00:19:30,702
-   apart from making the glass  
-        safer to handle,        
+apart from making the glass safer to handle,        
 
 344
 00:19:30,704 --> 00:19:33,371
-  the profiled edge will reduce 
-         the possibility        
+the profiled edge will reduce the possibility        
 
 345
 00:19:33,373 --> 00:19:36,507
-    of chipping and breakage.   
+of chipping and breakage.   
 
 346
 00:19:36,509 --> 00:19:37,775
-      at the next station,      
+at the next station,      
 
 347
 00:19:37,777 --> 00:19:41,846
-   spinning brushes with soft   
-    bristles scrub the panel.   
+spinning brushes with soft bristles scrub the panel.   
 
 348
 00:19:44,384 --> 00:19:47,318
-  the process removes any dust  
-        or polishing grit       
+the process removes any dust or polishing grit       
 
 349
 00:19:47,320 --> 00:19:50,455
-          to prepare it         
-       for the next steps.      
+to prepare it for the next steps.      
 
 350
 00:19:50,457 --> 00:19:52,390
@@ -1668,146 +1432,126 @@ once out of the washing machine,
 
 351
 00:19:52,392 --> 00:19:58,730
-  the glass backsplash travels  
-  through a 1,299-degree oven.  
+the glass backsplash travels through a 1,299-degree oven.  
 
 352
 00:19:58,732 --> 00:20:01,532
-    the intense heat followed   
-       by a quick cooling       
+the intense heat followed by a quick cooling       
 
 353
 00:20:01,534 --> 00:20:04,402
-        tempers the glass       
-   to make it heat resistant.   
+tempers the glass to make it heat resistant.   
 
 354
 00:20:06,606 --> 00:20:10,275
-  roller conveyers transfer the 
- glass to the painting station. 
+roller conveyers transfer the glass to the painting station. 
 
 355
 00:20:10,277 --> 00:20:13,411
-                     ♪          
+♪          
 
 356
 00:20:13,413 --> 00:20:16,214
-       a technician mixes       
-       the acrylic paint.       
+a technician mixes the acrylic paint.       
 
 357
 00:20:16,216 --> 00:20:19,216
-    since paint doesn't stick   
-      to glass on its own,      
+since paint doesn't stick to glass on its own,      
 
 358
 00:20:19,218 --> 00:20:21,686
-            a special           
-   adhesion-promoting chemical  
+a special adhesion-promoting chemical  
 
 359
 00:20:21,688 --> 00:20:23,922
-    is added to the mixture.    
+is added to the mixture.    
 
 360
 00:20:23,924 --> 00:20:27,292
-    the technician mixes the    
-  colorants into the white base 
+the technician mixes the colorants into the white base 
 
 361
 00:20:27,294 --> 00:20:29,894
-    according to the formula.   
+according to the formula.   
 
 362
 00:20:29,896 --> 00:20:32,363
-     specific amounts of red    
-        and yellow paint        
+specific amounts of red and yellow paint        
 
 363
 00:20:32,365 --> 00:20:34,565
- produce a brilliant orange hue.
+produce a brilliant orange hue.
 
 364
 00:20:34,567 --> 00:20:40,038
-                     ♪          
+♪          
 
 365
 00:20:40,040 --> 00:20:42,306
- next, sprayers apply the paint 
+next, sprayers apply the paint 
 
 366
 00:20:42,308 --> 00:20:44,708
-     evenly across the back     
-          of the panel          
+evenly across the back of the panel          
 
 367
 00:20:44,710 --> 00:20:47,245
-       as the glass moves       
-        along a conveyer.       
+as the glass moves along a conveyer.       
 
 368
 00:20:47,247 --> 00:20:50,381
-                     ♪          
+♪          
 
 369
 00:20:50,383 --> 00:20:53,318
-   then the backsplash enters   
-        an infrared oven        
+then the backsplash enters an infrared oven        
 
 370
 00:20:53,320 --> 00:20:56,187
-      heated to 302 degrees     
-           fahrenheit.          
+heated to 302 degrees fahrenheit.          
 
 371
 00:20:56,189 --> 00:20:59,257
-                     ♪          
+♪          
 
 372
 00:20:59,259 --> 00:21:03,127
-   the painted glass bakes in   
+the painted glass bakes in   
 the oven for about four minutes.
 
 373
 00:21:03,129 --> 00:21:06,464
-                     ♪          
+♪          
 
 374
 00:21:06,466 --> 00:21:09,934
-    once heating is complete,   
- a technician applies gray paint
+once heating is complete, a technician applies gray paint
 
 375
 00:21:09,936 --> 00:21:12,537
-        over the backside       
-       of the backsplash.       
+over the backside of the backsplash.       
 
 376
 00:21:12,539 --> 00:21:14,806
-     this coat won't affect     
-         the orange hue,        
+this coat won't affect the orange hue,        
 
 377
 00:21:14,808 --> 00:21:17,342
-       but it will protect      
-   the backsplash from damage   
+but it will protect the backsplash from damage   
 
 378
 00:21:17,344 --> 00:21:19,410
-        during transport        
-        and installation.       
+during transport and installation.       
 
 379
 00:21:21,481 --> 00:21:25,083
-  neutral-colored backsplashes  
-  make a more subtle statement, 
+neutral-colored backsplashes make a more subtle statement, 
 
 380
 00:21:25,085 --> 00:21:26,884
-     while brightly-colored     
-          backsplashes          
+while brightly-colored backsplashes          
 
 381
 00:21:26,886 --> 00:21:28,486
-     can make a kitchen pop.    
+can make a kitchen pop.    
 

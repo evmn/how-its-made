@@ -1,92 +1,78 @@
 ﻿1
 00:00:01,635 --> 00:00:04,536
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,671 --> 00:00:07,639
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 3
 00:00:22,423 --> 00:00:24,757
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:26,160 --> 00:00:27,893
-      ...curling stones...      
+...curling stones...      
 
 5
 00:00:32,433 --> 00:00:34,099
-       ...refrigerators...      
+...refrigerators...      
 
 6
 00:00:37,805 --> 00:00:39,538
-  ...aluminum baseball bats...  
+...aluminum baseball bats...  
 
 7
 00:00:43,777 --> 00:00:45,844
-    ...and opalescent glass.    
+...and opalescent glass.    
 
 8
 00:00:52,486 --> 00:00:54,920
-      the sport of curling      
-        is a combination        
+the sport of curling is a combination        
 
 9
 00:00:54,989 --> 00:00:58,723
-   of shuffleboard, billiards,  
-       and bowling on ice.      
+of shuffleboard, billiards, and bowling on ice.      
 
 10
 00:00:58,759 --> 00:01:01,193
-    players aim a large stone   
-           at a target          
+players aim a large stone at a target          
 
 11
 00:01:01,262 --> 00:01:03,929
-      while trying to knock     
-      the opponents' stones     
+while trying to knock the opponents' stones     
 
 12
 00:01:04,064 --> 00:01:05,396
-      away from the target.     
+away from the target.     
 
 13
 00:01:05,433 --> 00:01:07,665
-          as the stone          
-      glides along the ice,     
+as the stone glides along the ice,     
 
 14
 00:01:07,701 --> 00:01:10,135
-    team members sweep brooms   
-           in its path          
+team members sweep brooms in its path          
 
 15
 00:01:10,137 --> 00:01:12,538
-           to control           
-    its speed and trajectory.   
+to control its speed and trajectory.   
 
 16
 00:01:17,745 --> 00:01:19,812
-         curling stones         
-      are made of granite,      
+curling stones are made of granite,      
 
 17
 00:01:19,947 --> 00:01:22,147
-      but only two quarries     
-         in the world --        
+but only two quarries in the world --        
 
 18
 00:01:22,216 --> 00:01:24,349
-          one in wales          
-     and one in scotland --     
+one in wales and one in scotland --     
 
 19
 00:01:24,385 --> 00:01:27,352
-     produce the unique type    
-   of granite that's required,  
+produce the unique type of granite that's required,  
 
 20
 00:01:27,354 --> 00:01:29,755
@@ -94,130 +80,114 @@ a fine grain and free of quartz.
 
 21
 00:01:29,757 --> 00:01:31,156
-        this unique stone       
+this unique stone       
 
 22
 00:01:31,291 --> 00:01:35,494
-   has three times the impact   
- resistance of regular granite. 
+has three times the impact resistance of regular granite. 
 
 23
 00:01:40,234 --> 00:01:43,301
-    the quarry tries to avoid   
-    traditional blast mining    
+the quarry tries to avoid traditional blast mining    
 
 24
 00:01:43,337 --> 00:01:45,704
-     because that fractures     
-           the stone.           
+because that fractures the stone.           
 
 25
 00:01:45,839 --> 00:01:48,907
-   instead, they locate flaws   
-        in the rock face        
+instead, they locate flaws in the rock face        
 
 26
 00:01:49,042 --> 00:01:52,211
-    and pry chunks off of it    
-       with an excavator.       
+and pry chunks off of it with an excavator.       
 
 27
 00:01:53,881 --> 00:01:58,984
- this chunk weighs about 20 tons
- and is the size of a small car.
+this chunk weighs about 20 tons
+and is the size of a small car.
 
 28
 00:02:02,256 --> 00:02:05,924
-  the next step is to divide it 
-   into more manageable slabs   
+the next step is to divide it into more manageable slabs   
 
 29
 00:02:05,926 --> 00:02:07,725
-   using a thick cable cutter   
+using a thick cable cutter   
 
 30
 00:02:07,761 --> 00:02:10,829
-       with abrasive rings      
-   made of diamond particles.   
+with abrasive rings made of diamond particles.   
 
 31
 00:02:14,168 --> 00:02:15,734
-      a large pulley system     
+a large pulley system     
 
 32
 00:02:15,869 --> 00:02:18,069
 moves the cable against the rock
-         at high speed,         
+at high speed,         
 
 33
 00:02:18,139 --> 00:02:21,440
-  and the diamonds slowly wear  
-      through the granite.      
+and the diamonds slowly wear through the granite.      
 
 34
 00:02:28,315 --> 00:02:31,016
- avoiding flaws and weak points,
+avoiding flaws and weak points,
 
 35
 00:02:31,018 --> 00:02:33,552
-      workers trace circles     
-   the size of curling stones   
+workers trace circles the size of curling stones   
 
 36
 00:02:33,621 --> 00:02:35,888
-   on the best-quality areas.   
+on the best-quality areas.   
 
 37
 00:02:36,023 --> 00:02:39,490
-     the cut slab then moves    
-   inside the quarry building,  
+the cut slab then moves inside the quarry building,  
 
 38
 00:02:39,527 --> 00:02:41,226
-     where this core drill's    
-         diamond cutters        
+where this core drill's diamond cutters        
 
 39
 00:02:41,262 --> 00:02:42,628
-  bore right through the slab,  
+bore right through the slab,  
 
 40
 00:02:42,630 --> 00:02:46,398
-      excising a blank that     
-  will become a curling stone.  
+excising a blank that will become a curling stone.  
 
 41
 00:02:49,537 --> 00:02:52,837
-        the blanks weigh        
-    almost 60 pounds apiece.    
+the blanks weigh almost 60 pounds apiece.    
 
 42
 00:02:52,873 --> 00:02:56,574
-  workers lift them out with an 
- industrial-strength suction cup
+workers lift them out with an industrial-strength suction cup
 
 43
 00:02:56,610 --> 00:02:58,377
-       then transfer them       
+then transfer them       
 
 44
 00:02:58,379 --> 00:03:01,213
-   to a container bound for a   
+to a container bound for a   
 curling-stone factory in canada.
 
 45
 00:03:02,983 --> 00:03:06,918
- there, a drill bores a channel 
- a little over a half-inch wide 
+there, a drill bores a channel a little over a half-inch wide 
 
 46
 00:03:06,987 --> 00:03:08,653
-    right through the center.   
+right through the center.   
 
 47
 00:03:08,722 --> 00:03:12,657
-      this is for attaching     
-   the curling stone's handle.  
+this is for attaching the curling stone's handle.  
 
 48
 00:03:12,726 --> 00:03:15,660
@@ -225,22 +195,19 @@ but that's still a long way off.
 
 49
 00:03:15,696 --> 00:03:18,063
-       first, this machine      
-     has to carve the blank     
+first, this machine has to carve the blank     
 
 50
 00:03:18,198 --> 00:03:20,232
-         into the shape         
-       of a curling stone.      
+into the shape of a curling stone.      
 
 51
 00:03:23,670 --> 00:03:27,472
-    the machine's curved arm    
- is lined with diamond cutters. 
+the machine's curved arm is lined with diamond cutters. 
 
 52
 00:03:27,474 --> 00:03:29,341
-    it shapes half the stone,   
+it shapes half the stone,   
 
 53
 00:03:29,343 --> 00:03:33,745
@@ -249,885 +216,762 @@ so it can finish the other half.
 
 54
 00:03:45,959 --> 00:03:47,558
-        the next machine        
+the next machine        
 
 55
 00:03:47,595 --> 00:03:50,562
-       carves out a pocket      
-   in the bottom of the stone.  
+carves out a pocket in the bottom of the stone.  
 
 56
 00:03:50,631 --> 00:03:53,098
-         this will hold         
-    a high-resistance insert    
+this will hold a high-resistance insert    
 
 57
 00:03:53,167 --> 00:03:55,500
-       of extra-fine-grain      
-        scottish granite        
+of extra-fine-grain scottish granite        
 
 58
 00:03:55,502 --> 00:03:58,170
-        that will extend        
-    the curling stone's life.   
+that will extend the curling stone's life.   
 
 59
 00:04:05,246 --> 00:04:07,979
-     after lining the pocket    
-           with epoxy,          
+after lining the pocket with epoxy,          
 
 60
 00:04:08,015 --> 00:04:09,847
-    the insert is positioned.   
+the insert is positioned.   
 
 61
 00:04:09,883 --> 00:04:12,784
-        a hydraulic press       
-     expels any trapped air     
+a hydraulic press expels any trapped air     
 
 62
 00:04:12,919 --> 00:04:17,122
-  and holds the insert in place 
-     until it firmly bonds.     
+and holds the insert in place until it firmly bonds.     
 
 63
 00:04:17,191 --> 00:04:20,792
-    next, a grinding machine,   
-      following a template,     
+next, a grinding machine, following a template,     
 
 64
 00:04:20,828 --> 00:04:24,662
-   makes a center cup in both   
+makes a center cup in both   
 the top and bottom of the stone.
 
 65
 00:04:24,698 --> 00:04:28,533
-  curlers can attach the handle 
-         to either cup,         
+curlers can attach the handle to either cup,         
 
 66
 00:04:28,669 --> 00:04:30,435
-            depending           
-    on which granite surface    
+depending on which granite surface    
 
 67
 00:04:30,471 --> 00:04:32,604
-  they want gliding on the ice. 
+they want gliding on the ice. 
 
 68
 00:04:32,606 --> 00:04:35,006
-     workers bolt the stone     
-     to a spinning polisher     
+workers bolt the stone to a spinning polisher     
 
 69
 00:04:35,009 --> 00:04:37,075
-      and buff the surface      
+and buff the surface      
 
 70
 00:04:37,210 --> 00:04:41,413
-  with five progressively finer 
+with five progressively finer 
 grades of diamond abrasive pads.
 
 71
 00:04:43,117 --> 00:04:46,084
-    then they blast the side    
-     with tiny glass beads.     
+then they blast the side with tiny glass beads.     
 
 72
 00:04:46,086 --> 00:04:50,088
- this pits the surface to better
-    distribute impact force,    
+this pits the surface to better
+distribute impact force,    
 
 73
 00:04:50,090 --> 00:04:51,890
-       preventing the side      
-          from chipping         
+preventing the side from chipping         
 
 74
 00:04:52,025 --> 00:04:54,626
-   as it strikes other stones.  
+as it strikes other stones.  
 
 75
 00:04:54,628 --> 00:04:57,696
-   running the top and bottom   
-      over coarse sandpaper     
+running the top and bottom over coarse sandpaper     
 
 76
 00:04:57,698 --> 00:05:00,698
-  gives the stone more traction 
-             on ice.            
+gives the stone more traction on ice.            
 
 77
 00:05:00,734 --> 00:05:05,003
-   the finished curling stone   
-     weighs in at 40 pounds.    
+the finished curling stone weighs in at 40 pounds.    
 
 78
 00:05:06,740 --> 00:05:08,773
-           the factory          
-    molds the stone's handle    
+the factory molds the stone's handle    
 
 79
 00:05:08,842 --> 00:05:11,443
-          from durable          
-    impact-resistant plastic.   
+from durable impact-resistant plastic.   
 
 80
 00:05:11,445 --> 00:05:14,046
-      this computer-guided      
-        engraving machine       
+this computer-guided engraving machine       
 
 81
 00:05:14,181 --> 00:05:17,315
-        can embellish it        
-     with any name or logo.     
+can embellish it with any name or logo.     
 
 82
 00:05:17,384 --> 00:05:19,550
-        paint is applied        
-      to the recessed areas     
+paint is applied to the recessed areas     
 
 83
 00:05:19,553 --> 00:05:22,921
- to make the lettering or design
-           stand out.           
+to make the lettering or design
+stand out.           
 
 84
 00:05:27,861 --> 00:05:29,928
-  finally, the finished handle  
+finally, the finished handle  
 
 85
 00:05:30,063 --> 00:05:33,332
-     is bolted through that     
-  center hole drilled earlier.  
+is bolted through that center hole drilled earlier.  
 
 86
 00:05:39,807 --> 00:05:44,208
-         from the quarry        
-   to the factory to the ice,   
+from the quarry to the factory to the ice,   
 
 87
 00:05:44,244 --> 00:05:48,580
 this beautifully crafted curling
- stone is ready for competition.
+stone is ready for competition.
 
 88
 00:05:52,619 --> 00:05:54,019
-        when we return...       
+when we return...       
 
 89
 00:05:54,021 --> 00:05:57,322
-      the cold, hard truth      
-      about refrigerators.      
+the cold, hard truth about refrigerators.      
 
 90
 00:05:59,960 --> 00:06:01,626
- narrator: before refrigeration,
+narrator: before refrigeration,
 
 91
 00:06:01,695 --> 00:06:04,563
-     people stored foods in     
-  underground cellars or shacks 
+people stored foods in underground cellars or shacks 
 
 92
 00:06:04,565 --> 00:06:05,897
-    filled with snow and ice.   
+filled with snow and ice.   
 
 93
 00:06:05,966 --> 00:06:09,434
-    then in the early 1900s,    
-   a french inventor developed  
+then in the early 1900s, a french inventor developed  
 
 94
 00:06:09,470 --> 00:06:13,071
-    the first machine to cool   
-   and preserve foods at home.  
+the first machine to cool and preserve foods at home.  
 
 95
 00:06:19,346 --> 00:06:21,513
-     the modern refrigerator    
+the modern refrigerator    
 
 96
 00:06:21,582 --> 00:06:25,383
-   comes in countless styles,   
-       sizes, and colors.       
+comes in countless styles, sizes, and colors.       
 
 97
 00:06:25,452 --> 00:06:28,720
-      manufacturing begins      
-  with coiled sheets of steel.  
+manufacturing begins with coiled sheets of steel.  
 
 98
 00:06:28,789 --> 00:06:32,791
 just one of these coils produces
-  hundreds of fridge exteriors. 
+hundreds of fridge exteriors. 
 
 99
 00:06:32,926 --> 00:06:36,328
-     the interiors are made     
-  from rust-resistant aluminum  
+the interiors are made from rust-resistant aluminum  
 
 100
 00:06:36,330 --> 00:06:38,396
-  lined with an acrylic shell.  
+lined with an acrylic shell.  
 
 101
 00:06:38,432 --> 00:06:41,399
-       a shearing machine       
-  slices the steel into pieces  
+a shearing machine slices the steel into pieces  
 
 102
 00:06:41,402 --> 00:06:44,602
-      for the exterior top,     
-        back, and sides.        
+for the exterior top, back, and sides.        
 
 103
 00:06:44,671 --> 00:06:48,539
-       then each one goes       
- into a computerized punch press
+then each one goes into a computerized punch press
 
 104
 00:06:48,575 --> 00:06:51,877
-      that makes the holes      
-   for running various wires.   
+that makes the holes for running various wires.   
 
 105
 00:06:54,581 --> 00:06:57,816
- a brake press forces the steel 
-      against a forming die     
+a brake press forces the steel against a forming die     
 
 106
 00:06:57,818 --> 00:06:59,651
-        to create edges.        
+to create edges.        
 
 107
 00:07:04,291 --> 00:07:05,756
-       next, workers place      
+next, workers place      
 
 108
 00:07:05,793 --> 00:07:08,026
-          the pieces of         
- the refrigerator's outer shell 
+the pieces of the refrigerator's outer shell 
 
 109
 00:07:08,161 --> 00:07:11,763
-    in an assembly jig, which   
-   holds them firmly together.  
+in an assembly jig, which holds them firmly together.  
 
 110
 00:07:16,503 --> 00:07:18,436
- now for the fridge's interior. 
+now for the fridge's interior. 
 
 111
 00:07:18,472 --> 00:07:21,706
-    a vacuum-forming machine    
-    heats a sheet of plastic    
+a vacuum-forming machine heats a sheet of plastic    
 
 112
 00:07:21,708 --> 00:07:25,776
-          and shapes it         
-    against an aluminum mold.   
+and shapes it against an aluminum mold.   
 
 113
 00:07:25,813 --> 00:07:30,115
-    then a router carves off    
-     all the excess plastic.    
+then a router carves off all the excess plastic.    
 
 114
 00:07:32,619 --> 00:07:34,719
-        the freezer half        
-       of the refrigerator      
+the freezer half of the refrigerator      
 
 115
 00:07:34,855 --> 00:07:37,322
-        slides perfectly        
-   into the metal outer shell,  
+slides perfectly into the metal outer shell,  
 
 116
 00:07:37,391 --> 00:07:39,191
-       and the fridge side      
-            follows.            
+and the fridge side follows.            
 
 117
 00:07:41,261 --> 00:07:43,528
-          copper tubes,         
-     filled with heated gas,    
+copper tubes, filled with heated gas,    
 
 118
 00:07:43,663 --> 00:07:45,330
-  are laid along the outer edge 
+are laid along the outer edge 
 
 119
 00:07:45,399 --> 00:07:47,532
-         where the door         
-      contacts the fridge.      
+where the door contacts the fridge.      
 
 120
 00:07:47,667 --> 00:07:49,835
-        the gas prevents        
-        moisture buildup.       
+the gas prevents moisture buildup.       
 
 121
 00:07:51,938 --> 00:07:55,340
-       a precut face frame      
-     goes onto the assembly.    
+a precut face frame goes onto the assembly.    
 
 122
 00:07:55,342 --> 00:07:57,408
-      then foam is injected     
+then foam is injected     
 
 123
 00:07:57,444 --> 00:08:00,678
-   into the cavity between the  
-  interior and exterior shells. 
+into the cavity between the interior and exterior shells. 
 
 124
 00:08:00,747 --> 00:08:04,282
-  this foam not only insulates  
-        the refrigerator        
+this foam not only insulates the refrigerator        
 
 125
 00:08:04,284 --> 00:08:06,952
-          but gives it          
-  structural rigidity, as well. 
+but gives it structural rigidity, as well. 
 
 126
 00:08:10,090 --> 00:08:14,358
 this evaporator plays a key role
-     in keeping things cool.    
+in keeping things cool.    
 
 127
 00:08:14,394 --> 00:08:17,529
-      it draws the heat out     
+it draws the heat out     
 of the freezer and its contents.
 
 128
 00:08:21,635 --> 00:08:25,436
-      next, the electrical      
- control panel goes into place. 
+next, the electrical control panel goes into place. 
 
 129
 00:08:25,506 --> 00:08:27,639
- it connects to a maze of wires 
+it connects to a maze of wires 
 
 130
 00:08:27,708 --> 00:08:31,442
-        and, eventually,        
-        a microprocessor.       
+and, eventually, a microprocessor.       
 
 131
 00:08:31,478 --> 00:08:33,912
-      with the freezer side     
-        almost complete,        
+with the freezer side almost complete,        
 
 132
 00:08:33,914 --> 00:08:37,248
-         the fridge side        
-      gets its evaporator.      
+the fridge side gets its evaporator.      
 
 133
 00:08:37,317 --> 00:08:39,818
-           next comes           
-     the refrigerator doors.    
+next comes the refrigerator doors.    
 
 134
 00:08:41,889 --> 00:08:44,189
-         two compressors        
-       pump fluid and gas       
+two compressors pump fluid and gas       
 
 135
 00:08:44,191 --> 00:08:46,390
-             through            
-    the various tubes inside.   
+through the various tubes inside.   
 
 136
 00:08:46,426 --> 00:08:48,793
-         this component,        
-      called the radiator,      
+this component, called the radiator,      
 
 137
 00:08:48,829 --> 00:08:51,596
-       dissipates the heat      
-    collected from the food.    
+dissipates the heat collected from the food.    
 
 138
 00:08:56,937 --> 00:08:59,337
-         workers attach         
-      the expansion valves.     
+workers attach the expansion valves.     
 
 139
 00:08:59,472 --> 00:09:02,340
-           these allow          
- the pressurized liquid coolant 
+these allow the pressurized liquid coolant 
 
 140
 00:09:02,376 --> 00:09:03,942
-    to expand into a cold gas   
+to expand into a cold gas   
 
 141
 00:09:04,011 --> 00:09:07,212
-     that circulates through    
-    the refrigerator's tubes.   
+that circulates through the refrigerator's tubes.   
 
 142
 00:09:10,884 --> 00:09:13,884
-    copper tubes are soldered   
-       to the compressor.       
+copper tubes are soldered to the compressor.       
 
 143
 00:09:13,921 --> 00:09:16,754
-    later, they'll be filled    
-        with refrigerant.       
+later, they'll be filled with refrigerant.       
 
 144
 00:09:16,823 --> 00:09:18,790
- temporary quick-connect valves 
+temporary quick-connect valves 
 
 145
 00:09:18,825 --> 00:09:21,892
-        allow the system        
-  to be charged with inert gas  
+allow the system to be charged with inert gas  
 
 146
 00:09:21,929 --> 00:09:23,761
-     to check for any leaks.    
+to check for any leaks.    
 
 147
 00:09:23,797 --> 00:09:27,632
-  the fill hoses are connected, 
-      and the gas blows in.     
+the fill hoses are connected, and the gas blows in.     
 
 148
 00:09:31,371 --> 00:09:33,238
-    inspectors use this wand    
+inspectors use this wand    
 
 149
 00:09:33,373 --> 00:09:35,774
-       to check the tubes       
-        for escaping gas.       
+to check the tubes for escaping gas.       
 
 150
 00:09:35,909 --> 00:09:37,375
-       if there's a leak,       
+if there's a leak,       
 
 151
 00:09:37,510 --> 00:09:39,911
-        the gauge spikes        
-   out of the specified range.  
+the gauge spikes out of the specified range.  
 
 152
 00:09:44,918 --> 00:09:48,586
 refrigeration occurs as cold gas
-     in the evaporator coils    
+in the evaporator coils    
 
 153
 00:09:48,622 --> 00:09:51,389
-        pulls heat energy       
-     from inside the fridge.    
+pulls heat energy from inside the fridge.    
 
 154
 00:09:51,525 --> 00:09:54,926
-   the compressor then changes  
-    the gas back to a liquid    
+the compressor then changes the gas back to a liquid    
 
 155
 00:09:54,995 --> 00:09:58,196
-       while the radiator       
- dissipates the collected heat. 
+while the radiator dissipates the collected heat. 
 
 156
 00:09:58,331 --> 00:10:01,866
-    the expansion valve turns   
+the expansion valve turns   
 the liquid back into a cold gas,
 
 157
 00:10:01,935 --> 00:10:04,603
-     and the cycle repeats.     
+and the cycle repeats.     
 
 158
 00:10:04,738 --> 00:10:06,737
-      with a charging gun,      
+with a charging gun,      
 
 159
 00:10:06,773 --> 00:10:09,874
- workers inject refrigerant gas 
-         into each tube         
+workers inject refrigerant gas into each tube         
 
 160
 00:10:09,876 --> 00:10:12,477
-            then weld           
-   the ends of the tube shut.   
+then weld the ends of the tube shut.   
 
 161
 00:10:18,285 --> 00:10:20,284
- now for the finishing touches, 
+now for the finishing touches, 
 
 162
 00:10:20,354 --> 00:10:23,154
-            starting            
- with the refrigerator handles. 
+starting with the refrigerator handles. 
 
 163
 00:10:23,190 --> 00:10:26,691
-     drawers for fruits and     
-  vegetables slide right in --  
+drawers for fruits and vegetables slide right in --  
 
 164
 00:10:26,760 --> 00:10:30,061
-  so do the rest of the premade 
-    shelves and compartments.   
+so do the rest of the premade shelves and compartments.   
 
 165
 00:10:36,103 --> 00:10:40,105
-    finally, an adhesive logo   
-       goes onto the door.      
+finally, an adhesive logo goes onto the door.      
 
 166
 00:10:44,177 --> 00:10:48,245
-     built-in, stand-alone,     
-  double-door, or traditional,  
+built-in, stand-alone, double-door, or traditional,  
 
 167
 00:10:48,281 --> 00:10:50,782
- the refrigerator keeps our food
-         fresh and cool,        
+the refrigerator keeps our food
+fresh and cool,        
 
 168
 00:10:50,917 --> 00:10:53,084
-    just the way we like it.    
+just the way we like it.    
 
 169
 00:10:54,988 --> 00:10:56,253
-           up next...           
+up next...           
 
 170
 00:10:56,289 --> 00:11:00,091
-   a factory that tries to hit  
-     a home run every time.     
+a factory that tries to hit a home run every time.     
 
 171
 00:11:03,764 --> 00:11:05,863
-            narrator:           
-  on today's baseball diamonds, 
-  the ping of the aluminum bat  
+narrator: on today's baseball diamonds, the ping of the aluminum bat  
 
 172
 00:11:05,899 --> 00:11:09,267
-      is rivaling the crack     
-   of its wooden predecessor.   
+is rivaling the crack of its wooden predecessor.   
 
 173
 00:11:09,336 --> 00:11:12,336
-       the pros still use       
-        traditional wood,       
+the pros still use traditional wood,       
 
 174
 00:11:12,406 --> 00:11:17,275
- but outside the major leagues, 
+but outside the major leagues, 
 the metal bat is a definite hit.
 
 175
 00:11:25,618 --> 00:11:27,018
-    lightweight and durable,    
+lightweight and durable,    
 
 176
 00:11:27,020 --> 00:11:30,621
-     the metal bat has some     
- definite advantages over wood. 
+the metal bat has some definite advantages over wood. 
 
 177
 00:11:30,691 --> 00:11:34,559
-     production begins with     
-  aircraft-grade aluminum rods. 
+production begins with aircraft-grade aluminum rods. 
 
 178
 00:11:34,694 --> 00:11:39,964
-   these rods are sliced into   
-   short chunks called blanks.  
+these rods are sliced into short chunks called blanks.  
 
 179
 00:11:42,436 --> 00:11:47,005
-  the blanks are loaded into a  
+the blanks are loaded into a  
 lathe with a computerized drill.
 
 180
 00:11:51,511 --> 00:11:55,447
-  the drill tunnels through the 
+the drill tunnels through the 
 center of the blank as it spins.
 
 181
 00:12:02,122 --> 00:12:06,457
-    then the blank undergoes    
- what's called impact extrusion.
+then the blank undergoes what's called impact extrusion.
 
 182
 00:12:06,493 --> 00:12:08,660
-     with 300 tons of force,    
+with 300 tons of force,    
 
 183
 00:12:08,662 --> 00:12:11,663
-      a shaping tool bores      
-   into the hole in the blank,  
+a shaping tool bores into the hole in the blank,  
 
 184
 00:12:11,798 --> 00:12:14,265
-   stretching it to more than   
-        twice its length        
+stretching it to more than twice its length        
 
 185
 00:12:14,267 --> 00:12:17,802
-  and giving it the basic taper 
-       of a baseball bat.       
+and giving it the basic taper of a baseball bat.       
 
 186
 00:12:20,941 --> 00:12:23,274
-    the stretched bat blanks    
+the stretched bat blanks    
 
 187
 00:12:23,409 --> 00:12:26,444
-         now tumble into        
-     a big, perforated drum.    
+now tumble into a big, perforated drum.    
 
 188
 00:12:28,548 --> 00:12:32,117
-       the drum is lowered      
-   into a tank of soapy water.  
+the drum is lowered into a tank of soapy water.  
 
 189
 00:12:34,421 --> 00:12:37,088
-          as it turns,          
- water flows through its holes, 
+as it turns, water flows through its holes, 
 
 190
 00:12:37,157 --> 00:12:40,725
- washing away any oily residue. 
+washing away any oily residue. 
 
 191
 00:12:42,629 --> 00:12:45,029
-            and now,            
-    for a real heavy hitter.    
+and now, for a real heavy hitter.    
 
 192
 00:12:45,065 --> 00:12:48,299
-        this forming tool       
-     delivers 400-ton punch     
+this forming tool delivers 400-ton punch     
 
 193
 00:12:48,368 --> 00:12:50,502
-       through the center       
-        of the bat blank.       
+through the center of the bat blank.       
 
 194
 00:12:50,637 --> 00:12:52,504
-          the aluminum          
-    stretches around the tool   
+the aluminum stretches around the tool   
 
 195
 00:12:52,639 --> 00:12:56,241
-       to the full length       
-  and shape of a baseball bat.  
+to the full length and shape of a baseball bat.  
 
 196
 00:13:03,716 --> 00:13:05,250
-  a technician measures the bat 
+a technician measures the bat 
 
 197
 00:13:05,252 --> 00:13:07,585
-         to confirm that        
-    it's completely straight.   
+to confirm that it's completely straight.   
 
 198
 00:13:08,922 --> 00:13:10,321
-          if it's not,          
+if it's not,          
 
 199
 00:13:10,390 --> 00:13:14,058
- she applies a little hydraulic 
- pressure to bend it into shape.
+she applies a little hydraulic pressure to bend it into shape.
 
 200
 00:13:14,060 --> 00:13:18,129
- this is a critical step because
-   even a slightly crooked bat  
+this is a critical step because
+even a slightly crooked bat  
 
 201
 00:13:18,264 --> 00:13:21,399
-     could throw the player     
-      off his or her game.      
+could throw the player off his or her game.      
 
 202
 00:13:30,877 --> 00:13:35,880
-     next, the bat goes into    
-   another computerized lathe.  
+next, the bat goes into another computerized lathe.  
 
 203
 00:13:36,015 --> 00:13:37,815
-          as it spins,          
+as it spins,          
 
 204
 00:13:37,884 --> 00:13:42,086
- a blade lops off the bat's end,
-       cutting it to size.      
+a blade lops off the bat's end,
+cutting it to size.      
 
 205
 00:13:42,155 --> 00:13:46,291
- another tool threads the inside
-         for the endcap.        
+another tool threads the inside
+for the endcap.        
 
 206
 00:13:51,231 --> 00:13:53,831
-        the bat is locked       
-     into a holding device,     
+the bat is locked into a holding device,     
 
 207
 00:13:53,834 --> 00:13:56,267
-       and a circular saw       
-      trims the handle end.     
+and a circular saw trims the handle end.     
 
 208
 00:14:03,243 --> 00:14:05,510
-        now that the bat        
-    has been correctly sized,   
+now that the bat has been correctly sized,   
 
 209
 00:14:05,645 --> 00:14:08,646
-            it's time           
-     for a vigorous sanding.    
+it's time for a vigorous sanding.    
 
 210
 00:14:08,715 --> 00:14:10,581
-          this gets rid         
-      of any small defects      
+this gets rid of any small defects      
 
 211
 00:14:10,617 --> 00:14:14,018
-    and roughs up the surface   
-   so paint will stick to it.   
+and roughs up the surface so paint will stick to it.   
 
 212
 00:14:23,196 --> 00:14:24,996
-    they use heavy-duty paint   
+they use heavy-duty paint   
 
 213
 00:14:25,131 --> 00:14:29,200
-  because baseball bats have to 
-   stand up to a lot of abuse.  
+because baseball bats have to stand up to a lot of abuse.  
 
 214
 00:14:34,608 --> 00:14:37,208
-     the sanded bats go into    
-      a silk-screen machine     
+the sanded bats go into a silk-screen machine     
 
 215
 00:14:37,210 --> 00:14:39,510
-   that applies the trademark.  
+that applies the trademark.  
 
 216
 00:14:45,018 --> 00:14:48,453
-            then it's           
-  over to the decal department. 
+then it's over to the decal department. 
 
 217
 00:14:49,756 --> 00:14:51,689
-           the decals           
-   are dipped into a solution   
+the decals are dipped into a solution   
 
 218
 00:14:51,824 --> 00:14:54,825
-    that activates the glue,    
+that activates the glue,    
 
 219
 00:14:54,895 --> 00:14:56,961
- then they're stuck into place. 
+then they're stuck into place. 
 
 220
 00:15:03,436 --> 00:15:05,636
-            now it's            
-    back under the paint gun    
+now it's back under the paint gun    
 
 221
 00:15:05,705 --> 00:15:08,339
-        for a clear coat        
-        of polyurethane.        
+for a clear coat of polyurethane.        
 
 222
 00:15:13,046 --> 00:15:17,715
- the plastic endcap is press-fit
-     into the hollow barrel.    
+the plastic endcap is press-fit
+into the hollow barrel.    
 
 223
 00:15:22,322 --> 00:15:25,323
-        an aluminum knob        
-   slides onto the handle end,  
+an aluminum knob slides onto the handle end,  
 
 224
 00:15:25,458 --> 00:15:28,059
-   and the assembly goes into   
-  an automated welding machine  
+and the assembly goes into an automated welding machine  
 
 225
 00:15:28,061 --> 00:15:29,294
-    that fuses them together.   
+that fuses them together.   
 
 226
 00:15:36,536 --> 00:15:37,802
-        now for the grip.       
+now for the grip.       
 
 227
 00:15:37,871 --> 00:15:41,205
-        synthetic leather       
-  is wrapped around the handle  
+synthetic leather is wrapped around the handle  
 
 228
 00:15:41,241 --> 00:15:43,874
-  to provide a nonslip surface. 
+to provide a nonslip surface. 
 
 229
 00:15:43,910 --> 00:15:47,612
-     and a little vinyl tape    
-       finishes the edge.       
+and a little vinyl tape finishes the edge.       
 
 230
 00:15:48,948 --> 00:15:51,282
-    from a solid little chunk   
-           of aluminum          
+from a solid little chunk of aluminum          
 
 231
 00:15:51,284 --> 00:15:53,551
- to a hollow metal baseball bat,
+to a hollow metal baseball bat,
 
 232
 00:15:53,620 --> 00:15:57,555
-    this powerhouse is ready    
-   to hit one out of the park.  
+this powerhouse is ready to hit one out of the park.  
 
 233
 00:16:01,127 --> 00:16:02,159
-          coming up...          
+coming up...          
 
 234
 00:16:02,195 --> 00:16:05,363
-         the hot secrets        
-    behind opalescent glass.    
+the hot secrets behind opalescent glass.    
 
 235
 00:16:09,235 --> 00:16:11,102
 narrator: glassmaking dates back
-     more than 40 centuries.    
+more than 40 centuries.    
 
 236
 00:16:11,237 --> 00:16:12,703
-     but in the late 1800s,     
+but in the late 1800s,     
 
 237
 00:16:12,739 --> 00:16:15,239
-           glassmakers          
-    created something new --    
+glassmakers created something new --    
 
 238
 00:16:15,375 --> 00:16:18,576
-    glass that was both milky   
-        and translucent.        
+glass that was both milky and translucent.        
 
 239
 00:16:18,711 --> 00:16:20,979
@@ -1135,320 +979,277 @@ they called it opalescent glass.
 
 240
 00:16:21,114 --> 00:16:23,581
-       like its namesake,       
-       the opal gemstone,       
+like its namesake, the opal gemstone,       
 
 241
 00:16:23,583 --> 00:16:27,385
-   its beauty lies in the way   
- it magically catches the light.
+its beauty lies in the way it magically catches the light.
 
 242
 00:16:32,759 --> 00:16:35,860
-        opalescent glass        
-   is a semitransparent glass   
+opalescent glass is a semitransparent glass   
 
 243
 00:16:35,862 --> 00:16:39,364
-     in either a solid color    
-   or a swirling mix of hues.   
+in either a solid color or a swirling mix of hues.   
 
 244
 00:16:40,700 --> 00:16:43,267
-     glass makers create it     
-      by melting minerals,      
+glass makers create it by melting minerals,      
 
 245
 00:16:43,303 --> 00:16:45,336
-    including silica sand...    
+including silica sand...    
 
 246
 00:16:47,073 --> 00:16:49,140
-         ...soda ash...         
+...soda ash...         
 
 247
 00:16:51,411 --> 00:16:52,910
-         ...dolomite...         
+...dolomite...         
 
 248
 00:16:54,781 --> 00:16:56,581
-         ...limestone...        
+...limestone...        
 
 249
 00:16:58,351 --> 00:17:00,884
-        ...and fluorspar.       
+...and fluorspar.       
 
 250
 00:17:00,920 --> 00:17:04,489
-   adding recycled glass helps  
-  speed up the melting process  
+adding recycled glass helps speed up the melting process  
 
 251
 00:17:04,624 --> 00:17:07,691
-      and stretches costly      
-     raw materials further.     
+and stretches costly raw materials further.     
 
 252
 00:17:07,727 --> 00:17:11,629
-             the mix            
-    is colored with pigments,   
+the mix is colored with pigments,   
 
 253
 00:17:11,631 --> 00:17:13,430
-   in this case, cobalt oxide,  
+in this case, cobalt oxide,  
 
 254
 00:17:13,466 --> 00:17:16,034
-           which gives          
-    a distinctive blue tint.    
+which gives a distinctive blue tint.    
 
 255
 00:17:21,341 --> 00:17:24,442
-       a hoist then lifts       
+a hoist then lifts       
 the raw ingredients called batch
 
 256
 00:17:24,444 --> 00:17:26,110
-  to a double-chambered mixer.  
+to a double-chambered mixer.  
 
 257
 00:17:26,146 --> 00:17:28,980
-        ingredients flow        
-  from end to end between them, 
+ingredients flow from end to end between them, 
 
 258
 00:17:28,982 --> 00:17:31,516
- thoroughly blending the batch. 
+thoroughly blending the batch. 
 
 259
 00:17:41,060 --> 00:17:45,229
-   the blended batch now goes   
-   via wagon to the beehive --  
+the blended batch now goes via wagon to the beehive --  
 
 260
 00:17:45,265 --> 00:17:48,466
-     a furnace that contains    
-        12 ceramic pots.        
+a furnace that contains 12 ceramic pots.        
 
 261
 00:17:48,468 --> 00:17:52,336
-       the furnace worker       
-  shovels the batch into a pot  
+the furnace worker shovels the batch into a pot  
 
 262
 00:17:52,405 --> 00:17:55,406
-      to melt at a searing      
-    2,600 degrees fahrenheit.   
+to melt at a searing 2,600 degrees fahrenheit.   
 
 263
 00:17:57,243 --> 00:18:00,010
-      he pushes any spills      
-       back into the pot.       
+he pushes any spills back into the pot.       
 
 264
 00:18:00,046 --> 00:18:02,880
-         then to control        
-     the temperature inside,    
+then to control the temperature inside,    
 
 265
 00:18:02,949 --> 00:18:05,550
-   closes up the pot's mouth.   
+closes up the pot's mouth.   
 
 266
 00:18:09,222 --> 00:18:10,288
-         24 hours later,        
+24 hours later,        
 
 267
 00:18:10,423 --> 00:18:13,357
-        workers scoop out       
-    the glowing molten glass.   
+workers scoop out the glowing molten glass.   
 
 268
 00:18:13,393 --> 00:18:17,161
-   with only seconds to spare,  
- they hurry to the mixing table,
+with only seconds to spare, they hurry to the mixing table,
 
 269
 00:18:17,230 --> 00:18:19,030
-   keeping the glass in motion  
+keeping the glass in motion  
 
 270
 00:18:19,032 --> 00:18:22,033
-   to prevent it from cooling   
-      unevenly on the way.      
+to prevent it from cooling unevenly on the way.      
 
 271
 00:18:22,168 --> 00:18:25,770
-   it's critical they cool off  
-   the ladles between each use  
+it's critical they cool off the ladles between each use  
 
 272
 00:18:25,905 --> 00:18:29,707
- or the next scoop of glass will
- adhere to the ladle's surface. 
+or the next scoop of glass will
+adhere to the ladle's surface. 
 
 273
 00:18:29,776 --> 00:18:32,844
-       the ladles they use      
-          vary in size,         
+the ladles they use vary in size,         
 
 274
 00:18:32,979 --> 00:18:37,248
- holding between 4 and 40 pounds
-        of molten glass.        
+holding between 4 and 40 pounds
+of molten glass.        
 
 275
 00:18:40,987 --> 00:18:44,121
-     workers pour as many as    
-  five different ladles at once 
+workers pour as many as five different ladles at once 
 
 276
 00:18:44,190 --> 00:18:46,524
-     to make a single color.    
+to make a single color.    
 
 277
 00:18:46,626 --> 00:18:50,595
-        the mixing table        
-   is where the magic happens.  
+the mixing table is where the magic happens.  
 
 278
 00:18:50,730 --> 00:18:54,298
-  the table worker picks up one 
- gather of burning molten glass,
+the table worker picks up one gather of burning molten glass,
 
 279
 00:18:54,367 --> 00:18:56,000
-          then another,         
+then another,         
 
 280
 00:18:56,002 --> 00:18:59,804
-   then skillfully blends them  
-  together using a steel fork.  
+then skillfully blends them together using a steel fork.  
 
 281
 00:18:59,939 --> 00:19:02,607
- he then flips the molten glass 
-     into a rolling machine,    
+he then flips the molten glass into a rolling machine,    
 
 282
 00:19:02,742 --> 00:19:06,410
-  evening it out as it squeezes 
-      through the rollers.      
+evening it out as it squeezes through the rollers.      
 
 283
 00:19:08,748 --> 00:19:10,881
-        out comes a sheet       
-        about 6 feet long       
+out comes a sheet about 6 feet long       
 
 284
 00:19:10,917 --> 00:19:12,483
-   and 1/8th of an inch thick.  
+and 1/8th of an inch thick.  
 
 285
 00:19:15,288 --> 00:19:18,488
-        every 90 seconds,       
-    workers fill their ladles   
+every 90 seconds, workers fill their ladles   
 
 286
 00:19:18,525 --> 00:19:21,892
-  with 2,000 degree fahrenheit  
-          molten glass.         
+with 2,000 degree fahrenheit molten glass.         
 
 287
 00:19:21,961 --> 00:19:25,897
-  mixing it on the table helps  
-  cool it and blend the colors. 
+mixing it on the table helps cool it and blend the colors. 
 
 288
 00:19:34,541 --> 00:19:37,175
-        the table worker        
-    separates the glass sheet   
+the table worker separates the glass sheet   
 
 289
 00:19:37,310 --> 00:19:38,709
-     from the table surface,    
+from the table surface,    
 
 290
 00:19:38,778 --> 00:19:40,845
-         forcing out any        
-       trapped air bubbles      
+forcing out any trapped air bubbles      
 
 291
 00:19:40,847 --> 00:19:43,648
- and further cooling the glass. 
+and further cooling the glass. 
 
 292
 00:19:45,385 --> 00:19:47,584
-       the sheet now goes       
-         into a lehr --         
+the sheet now goes into a lehr --         
 
 293
 00:19:47,620 --> 00:19:49,586
- an oven that hardens the glass,
+an oven that hardens the glass,
 
 294
 00:19:49,622 --> 00:19:53,056
-      then cools it evenly      
-      to prevent cracking.      
+then cools it evenly to prevent cracking.      
 
 295
 00:19:53,092 --> 00:19:56,193
-           from there,          
- it's on to the trimming table. 
+from there, it's on to the trimming table. 
 
 296
 00:19:56,196 --> 00:19:59,263
 workers wear protective clothing
-        and thick gloves        
+and thick gloves        
 
 297
 00:19:59,265 --> 00:20:03,600
- to handle the razor-sharp edges
-     still hot to the touch.    
+to handle the razor-sharp edges
+still hot to the touch.    
 
 298
 00:20:03,636 --> 00:20:07,204
-    cutting the glass sheets    
- is a delicate, two-person job. 
+cutting the glass sheets is a delicate, two-person job. 
 
 299
 00:20:07,240 --> 00:20:08,940
-     they must work in sync     
+they must work in sync     
 
 300
 00:20:09,075 --> 00:20:11,875
-  to keep pace with the sheets  
-      that keep on coming.      
+to keep pace with the sheets that keep on coming.      
 
 301
 00:20:11,911 --> 00:20:16,347
-      a single pot produces     
- about 25 sheets over 24 hours. 
+a single pot produces about 25 sheets over 24 hours. 
 
 302
 00:20:16,416 --> 00:20:21,052
-     that's 300 sheets a day    
-  from just one 12-pot furnace. 
+that's 300 sheets a day from just one 12-pot furnace. 
 
 303
 00:20:22,822 --> 00:20:27,424
- using a carbide-tipped cutter, 
-  the workers score the glass,  
+using a carbide-tipped cutter, the workers score the glass,  
 
 304
 00:20:27,493 --> 00:20:32,363
-  then snap apart the pieces -- 
- standard 32-inch square sheets.
+then snap apart the pieces -- standard 32-inch square sheets.
 
 305
 00:20:40,373 --> 00:20:44,375
- they set aside the excess glass
-    to remelt in a new batch.   
+they set aside the excess glass
+to remelt in a new batch.   
 
 306
 00:20:46,712 --> 00:20:49,513
-       finally, the sheets      
-     are loaded into crates     
+finally, the sheets are loaded into crates     
 
 307
 00:20:49,649 --> 00:20:52,383
@@ -1456,30 +1257,25 @@ for shipment all over the world.
 
 308
 00:20:54,053 --> 00:20:56,520
-      just look how artists     
-      use opalescent glass      
+just look how artists use opalescent glass      
 
 309
 00:20:56,522 --> 00:21:00,224
-  to create a feast of pattern, 
-        color, and light.       
+to create a feast of pattern, color, and light.       
 
 310
 00:21:02,061 --> 00:21:05,663
-        like a painting,        
-     only far more fragile.     
+like a painting, only far more fragile.     
 
 311
 00:21:07,400 --> 00:21:09,266
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 312
 00:21:09,302 --> 00:21:12,002
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 313
 00:21:12,071 --> 00:21:13,971
-      drop us a line at...      
+drop us a line at...      
 

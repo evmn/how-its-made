@@ -1,51 +1,43 @@
 ﻿1
 00:00:02,070 --> 00:00:05,203
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,205 --> 00:00:07,974
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:22,557 --> 00:00:26,092
-           narrator:            
- today, on "how it's made"...   
+narrator: today, on "how it's made"...   
 
 4
 00:00:52,720 --> 00:00:54,186
-    in the music industry,      
+in the music industry,      
 
 5
 00:00:54,188 --> 00:00:57,422
-        winning a grammy        
-   is the ultimate accolade.    
+winning a grammy is the ultimate accolade.    
 
 6
 00:00:57,424 --> 00:01:00,592
-      the national academy      
+the national academy      
 of recording arts and sciences  
 
 7
 00:01:00,594 --> 00:01:04,130
-   has been awarding grammys    
-   for recording since 1958.    
+has been awarding grammys for recording since 1958.    
 
 8
 00:01:06,433 --> 00:01:07,933
-    every year, the winners     
+every year, the winners     
 
 9
 00:01:07,935 --> 00:01:10,803
-          are honored           
-    with a golden gramophone    
-            trophy.             
+are honored with a golden gramophone trophy.             
 
 10
 00:01:13,408 --> 00:01:15,675
-        the grammys are         
-     to the music industry      
+the grammys are to the music industry      
 
 11
 00:01:15,677 --> 00:01:18,277
@@ -53,88 +45,71 @@ what the oscars are to movies.
 
 12
 00:01:18,279 --> 00:01:22,014
-       the coveted trophy       
-     is made of gold-plated     
-           grammium.            
+the coveted trophy is made of gold-plated grammium.            
 
 13
 00:01:22,016 --> 00:01:25,751
- but don't look for that metal  
-    on the periodic table.      
+but don't look for that metal on the periodic table.      
 
 14
 00:01:25,753 --> 00:01:29,287
- it's a proprietary zinc alloy  
-     specially formulated       
+it's a proprietary zinc alloy specially formulated       
 
 15
 00:01:29,289 --> 00:01:34,159
- and trademarked by the artisan 
-    who makes the grammys.      
+and trademarked by the artisan who makes the grammys.      
 
 16
 00:01:34,161 --> 00:01:35,828
-     to make the base of the    
-            trophy,             
+to make the base of the trophy,             
 
 17
 00:01:35,830 --> 00:01:39,165
-     they heat the grammium     
-        to 644 degrees          
+they heat the grammium to 644 degrees          
 
 18
 00:01:39,167 --> 00:01:41,534
-    and pour it into a bronze   
-             mold.              
+and pour it into a bronze mold.              
 
 19
 00:01:45,773 --> 00:01:49,308
-   they immediately pour out    
-   the excess molten metal.     
+they immediately pour out the excess molten metal.     
 
 20
 00:01:49,310 --> 00:01:52,244
-      what remains quickly      
-           solidifies           
-        in a thin layer         
+what remains quickly solidifies in a thin layer         
 
 21
 00:01:52,246 --> 00:01:54,112
-    against the walls of the    
-            cavity,             
+against the walls of the cavity,             
 
 22
 00:01:54,114 --> 00:01:56,248
-    creating a hollow cast.     
+creating a hollow cast.     
 
 23
 00:02:00,388 --> 00:02:02,788
-         they also cast         
-   the gramophone's cabinet     
+they also cast the gramophone's cabinet     
 
 24
 00:02:02,790 --> 00:02:06,391
-   and tone arm in grammium.    
+and tone arm in grammium.    
 
 25
 00:02:06,393 --> 00:02:08,728
-    they remove mold seams,     
-         excess metal,          
+they remove mold seams, excess metal,          
 
 26
 00:02:08,730 --> 00:02:11,197
-   and smooth out the surface   
-    of each cast component      
+and smooth out the surface of each cast component      
 
 27
 00:02:11,199 --> 00:02:12,798
-      with a belt sander.       
+with a belt sander.       
 
 28
 00:02:18,473 --> 00:02:22,575
-    then, they file by hand     
-    the areas the belt can't    
-             reach.             
+then, they file by hand the areas the belt can't reach.             
 
 29
 00:02:29,817 --> 00:02:31,484
@@ -142,177 +117,147 @@ finally, they polish the metal
 
 30
 00:02:31,486 --> 00:02:35,087
-   with an abrasive compound    
-      on a buffing wheel.       
+with an abrasive compound on a buffing wheel.       
 
 31
 00:02:35,089 --> 00:02:38,424
-    they make sure there are    
-   no surface imperfections.    
+they make sure there are no surface imperfections.    
 
 32
 00:02:42,497 --> 00:02:45,764
-         now, they work         
-   on the gramophone's iconic   
-             horn.              
+now, they work on the gramophone's iconic horn.              
 
 33
 00:02:45,766 --> 00:02:47,232
-     using a metal shear,       
+using a metal shear,       
 
 34
 00:02:47,234 --> 00:02:50,636
-        they cut a disc         
-     of malleable bronze.       
+they cut a disc of malleable bronze.       
 
 35
 00:02:50,638 --> 00:02:53,572
-    they mount the disc on a    
-             lathe.             
+they mount the disc on a lathe.             
 
 36
 00:02:53,574 --> 00:02:56,975
-      as the lathe spins,       
-  they use a series of tools    
+as the lathe spins, they use a series of tools    
 
 37
 00:02:56,977 --> 00:03:00,079
-   to transform the flat disc   
-         into a horn.           
+to transform the flat disc into a horn.           
 
 38
 00:03:04,518 --> 00:03:07,186
-    then, they spin the horn    
-     on a different lathe,      
+then, they spin the horn on a different lathe,      
 
 39
 00:03:07,188 --> 00:03:09,921
-   pressing an abrasive cloth   
-      against the surface       
+pressing an abrasive cloth against the surface       
 
 40
 00:03:09,923 --> 00:03:12,525
-   to remove any tool marks.    
+to remove any tool marks.    
 
 41
 00:03:12,527 --> 00:03:14,994
-  before they connect the tone  
-               arm              
-        to the cabinet,         
+before they connect the tone arm to the cabinet,         
 
 42
 00:03:14,996 --> 00:03:17,196
-   they brush on some flux,     
+they brush on some flux,     
 
 43
 00:03:17,198 --> 00:03:19,799
-     a chemical that makes      
-  the stationary solder flow    
+a chemical that makes the stationary solder flow    
 
 44
 00:03:19,801 --> 00:03:24,670
-       into the tiny gap        
-      between components.       
+into the tiny gap between components.       
 
 45
 00:03:24,672 --> 00:03:29,375
-  now, they bolt the tone arm   
- to the cabinet, then solder.   
+now, they bolt the tone arm to the cabinet, then solder.   
 
 46
 00:03:34,748 --> 00:03:36,815
-    they submerge this part     
-         of the trophy          
+they submerge this part of the trophy          
 
 47
 00:03:36,817 --> 00:03:39,685
-    in a degreasing solution    
-      for a few minutes,        
+in a degreasing solution for a few minutes,        
 
 48
 00:03:42,022 --> 00:03:43,589
-        then in water.          
+then in water.          
 
 49
 00:03:46,027 --> 00:03:50,963
-  gold doesn't adhere to zinc,  
- so they plate it with copper.  
+gold doesn't adhere to zinc, so they plate it with copper.  
 
 50
 00:03:50,965 --> 00:03:54,366
-  they run a positive electric  
-   charge through the trophy    
+they run a positive electric charge through the trophy    
 
 51
 00:03:54,368 --> 00:03:56,702
-     and a negative charge      
-   through a piece of copper    
+and a negative charge through a piece of copper    
 
 52
 00:03:56,704 --> 00:04:00,039
-         also suspended         
-     in the plating tank.       
+also suspended in the plating tank.       
 
 53
 00:04:00,041 --> 00:04:02,774
-          this process          
-     dissolves the copper,      
+this process dissolves the copper,      
 
 54
 00:04:02,776 --> 00:04:04,910
-    then draws the particles    
-       through the water        
+then draws the particles through the water        
 
 55
 00:04:04,912 --> 00:04:07,379
-     and onto the trophy.       
+and onto the trophy.       
 
 56
 00:04:07,381 --> 00:04:10,515
- they repeat the electroplating 
- process in a different tank,   
+they repeat the electroplating process in a different tank,   
 
 57
 00:04:10,517 --> 00:04:13,185
-    this time with nickel.      
+this time with nickel.      
 
 58
 00:04:13,187 --> 00:04:15,720
-         nickel creates         
-   a sufficiently hard base     
+nickel creates a sufficiently hard base     
 
 59
 00:04:15,722 --> 00:04:18,590
- to support the gold plating.   
+to support the gold plating.   
 
 60
 00:04:18,592 --> 00:04:22,861
-       it also makes gold       
-       appear brighter.         
+it also makes gold appear brighter.         
 
 61
 00:04:22,863 --> 00:04:25,464
-      after another rinse,      
-     it's back into a tank      
+after another rinse, it's back into a tank      
 
 62
 00:04:25,466 --> 00:04:30,736
-     for the final plating      
-      with 24-karat gold.       
+for the final plating with 24-karat gold.       
 
 63
 00:04:30,738 --> 00:04:33,272
-  to prepare the trophy's base  
-         for painting,          
+to prepare the trophy's base for painting,          
 
 64
 00:04:33,274 --> 00:04:36,208
-    they smooth the surface     
-      with a belt sander,       
+they smooth the surface with a belt sander,       
 
 65
 00:04:38,879 --> 00:04:41,614
-    then fine-sand by hand.     
+then fine-sand by hand.     
 
 66
 00:04:43,750 --> 00:04:46,418
@@ -320,595 +265,489 @@ they spray on an epoxy primer,
 
 67
 00:04:46,420 --> 00:04:51,356
-   let it dry for a day then    
-      wet sand it with fine     
-           sandpaper.           
+let it dry for a day then wet sand it with fine sandpaper.           
 
 68
 00:04:51,358 --> 00:04:54,160
-    they repeat these steps     
-     with a black primer,       
+they repeat these steps with a black primer,       
 
 69
 00:04:54,162 --> 00:04:56,562
-      then paint the base       
-       with high-gloss,         
+then paint the base with high-gloss,         
 
 70
 00:04:56,564 --> 00:04:59,431
-  chip-resistant black paint.   
+chip-resistant black paint.   
 
 71
 00:04:59,433 --> 00:05:04,302
- once it dries, they can finish 
-    assembling the trophy.      
+once it dries, they can finish assembling the trophy.      
 
 72
 00:05:04,304 --> 00:05:07,106
-     they bolt the polished     
-  gold-plated cabinet and tone  
-              arm               
+they bolt the polished gold-plated cabinet and tone arm               
 
 73
 00:05:07,108 --> 00:05:08,908
-     to the painted base.       
+to the painted base.       
 
 74
 00:05:12,113 --> 00:05:13,778
-   then, they take the horn,    
+then, they take the horn,    
 
 75
 00:05:13,780 --> 00:05:16,115
-   which has been gold-plated   
-         and polished,          
+which has been gold-plated and polished,          
 
 76
 00:05:16,117 --> 00:05:18,517
-   and screw it into the tone   
-              arm.              
+and screw it into the tone arm.              
 
 77
 00:05:21,989 --> 00:05:24,256
-        after 15 hours of       
-         craftsmanship,         
+after 15 hours of craftsmanship,         
 
 78
 00:05:24,258 --> 00:05:28,460
-          this grammy           
-    is ready to be awarded.     
+this grammy is ready to be awarded.     
 
 79
 00:05:28,462 --> 00:05:32,731
-    but this trophy won't be    
-             handed             
-  out during the award show.    
+but this trophy won't be handed out during the award show.    
 
 80
 00:05:32,733 --> 00:05:34,733
-    the grammys handed out on   
-             stage              
+the grammys handed out on stage              
 
 81
 00:05:34,735 --> 00:05:38,804
-       are actually props       
+are actually props       
 that are used year after year.  
 
 82
 00:05:38,806 --> 00:05:41,073
-          the winners           
- receive a personalized trophy  
+the winners receive a personalized trophy  
 
 83
 00:05:41,075 --> 00:05:43,876
-  a few weeks after the show.   
+a few weeks after the show.   
 
 84
 00:05:43,878 --> 00:05:45,944
-  the base has a brass plate    
+the base has a brass plate    
 
 85
 00:05:45,946 --> 00:05:49,815
-    engraved with their name    
-     and musical category.      
+engraved with their name and musical category.      
 
 86
 00:06:02,663 --> 00:06:04,096
-           narrator:            
-   the first bicycle lights     
+narrator: the first bicycle lights     
 
 87
 00:06:04,098 --> 00:06:07,566
-  were modified kerosene lamps  
-   fixed to the handlebars.     
+were modified kerosene lamps fixed to the handlebars.     
 
 88
 00:06:07,568 --> 00:06:10,235
-          the concept           
-    was truly trailblazing      
+the concept was truly trailblazing      
 
 89
 00:06:10,237 --> 00:06:12,904
-      and made it possible      
-      to cycle at night.        
+and made it possible to cycle at night.        
 
 90
 00:06:12,906 --> 00:06:15,708
-        a century later,        
-  the technology has changed,   
+a century later, the technology has changed,   
 
 91
 00:06:15,710 --> 00:06:18,310
-        but the concept         
-       remains the same.        
+but the concept remains the same.        
 
 92
 00:06:18,312 --> 00:06:21,714
-         bicycle lights         
- are still showing us the way.  
+bicycle lights are still showing us the way.  
 
 93
 00:06:25,185 --> 00:06:26,852
-     these bicycle lights       
+these bicycle lights       
 
 94
 00:06:26,854 --> 00:06:32,191
-    are battery-powered with    
-     energy-efficient l.e.d.    
-            lights.             
+are battery-powered with energy-efficient l.e.d. lights.             
 
 95
 00:06:32,193 --> 00:06:34,125
-     mounted to handlebars      
-         or a helmet,           
+mounted to handlebars or a helmet,           
 
 96
 00:06:34,127 --> 00:06:35,394
-     they make it possible      
+they make it possible      
 
 97
 00:06:35,396 --> 00:06:38,497
-         for a cyclist          
- to see and be seen at night.   
+for a cyclist to see and be seen at night.   
 
 98
 00:06:43,604 --> 00:06:48,206
-     a bicycle light starts     
-      with a design for the     
-           canister.            
+a bicycle light starts with a design for the canister.            
 
 99
 00:06:48,208 --> 00:06:53,212
-     in this case, it's for     
-    a handlebar-mounted trail   
-             light.             
+in this case, it's for a handlebar-mounted trail light.             
 
 100
 00:06:53,214 --> 00:06:54,746
-     following that plan,       
+following that plan,       
 
 101
 00:06:54,748 --> 00:06:57,549
-       computerized tools       
-   carve blocks of aluminum     
+computerized tools carve blocks of aluminum     
 
 102
 00:06:57,551 --> 00:07:01,153
-      into a two-part mold      
-      for the bicycle light     
-           reflector.           
+into a two-part mold for the bicycle light reflector.           
 
 103
 00:07:03,557 --> 00:07:08,627
-      they secure the mold      
-     in an injection molding    
-            machine.            
+they secure the mold in an injection molding machine.            
 
 104
 00:07:08,629 --> 00:07:10,629
-             then,              
-     they load white acrylic    
-            pellets             
+then, they load white acrylic pellets             
 
 105
 00:07:10,631 --> 00:07:13,966
-  into the machine's hopper.    
+into the machine's hopper.    
 
 106
 00:07:13,968 --> 00:07:15,434
-      the machine grinds        
+the machine grinds        
 
 107
 00:07:15,436 --> 00:07:18,637
- and melts the acrylic pellets  
-     into a thick liquid.       
+and melts the acrylic pellets into a thick liquid.       
 
 108
 00:07:18,639 --> 00:07:22,374
-   then, it pushes the liquid   
+then, it pushes the liquid   
 into the crevices of the mold.  
 
 109
 00:07:22,376 --> 00:07:27,579
- the acrylic quickly solidifies 
+the acrylic quickly solidifies 
 into the shape of a reflector.  
 
 110
 00:07:27,581 --> 00:07:33,118
-  an aluminum finish makes the  
- acrylic shiny and reflective.  
+an aluminum finish makes the acrylic shiny and reflective.  
 
 111
 00:07:33,120 --> 00:07:37,522
- then, it's over to a different 
-  injection-molding machine.    
+then, it's over to a different injection-molding machine.    
 
 112
 00:07:37,524 --> 00:07:41,927
-  this one uses molten rubber   
- to form four on/off buttons.   
+this one uses molten rubber to form four on/off buttons.   
 
 113
 00:07:46,733 --> 00:07:50,201
-        a worker sets an        
-         l.e.d.-studded         
-   circuit board on a switch    
+a worker sets an l.e.d.-studded circuit board on a switch    
 
 114
 00:07:50,203 --> 00:07:52,004
-     cradled in a fixture.      
+cradled in a fixture.      
 
 115
 00:07:52,006 --> 00:07:53,472
-        she trims wires         
+she trims wires         
 
 116
 00:07:53,474 --> 00:07:57,009
- from the switch that protrudes 
-      through the board.        
+from the switch that protrudes through the board.        
 
 117
 00:07:57,011 --> 00:08:00,278
-    she solders those wires     
- to copper pads on the board,   
+she solders those wires to copper pads on the board,   
 
 118
 00:08:00,280 --> 00:08:04,049
- securing the switch and making 
-   an electrical connection.    
+securing the switch and making an electrical connection.    
 
 119
 00:08:06,553 --> 00:08:08,887
-    she removes the assembly    
-       from the fixture         
+she removes the assembly from the fixture         
 
 120
 00:08:08,889 --> 00:08:11,890
-  and threads the battery cord  
-      through the board.        
+and threads the battery cord through the board.        
 
 121
 00:08:16,297 --> 00:08:18,763
-     she attaches the board     
-    to a vented heat sink,      
+she attaches the board to a vented heat sink,      
 
 122
 00:08:18,765 --> 00:08:21,100
-      which will draw heat      
-     away from the lights,      
+which will draw heat away from the lights,      
 
 123
 00:08:21,102 --> 00:08:23,402
-      allowing them to run      
-       more efficiently.        
+allowing them to run more efficiently.        
 
 124
 00:08:26,974 --> 00:08:30,776
-   she installs the reflector   
- over the tiny l.e.d. lights.   
+she installs the reflector over the tiny l.e.d. lights.   
 
 125
 00:08:30,778 --> 00:08:33,245
-         the reflector          
- will focus the light forward,  
+the reflector will focus the light forward,  
 
 126
 00:08:33,247 --> 00:08:35,247
-    creating narrow beams.      
+creating narrow beams.      
 
 127
 00:08:38,585 --> 00:08:40,052
-  another member of the team    
+another member of the team    
 
 128
 00:08:40,054 --> 00:08:43,522
-   places a tray of reflector   
-   covers in a laser etcher.    
+places a tray of reflector covers in a laser etcher.    
 
 129
 00:08:46,660 --> 00:08:51,263
-       he closes the lid        
-   and activates the laser.     
+he closes the lid and activates the laser.     
 
 130
 00:08:51,265 --> 00:08:54,600
- it etches through tape that's  
-  been applied to the metal.    
+it etches through tape that's been applied to the metal.    
 
 131
 00:08:54,602 --> 00:08:56,869
-    the tape has a blackening   
-              agent             
-            on it.              
+the tape has a blackening agent on it.              
 
 132
 00:08:56,871 --> 00:08:59,271
-      the laser transfers       
-     that blackening agent      
+the laser transfers that blackening agent      
 
 133
 00:08:59,273 --> 00:09:00,472
-     to the etched number,      
+to the etched number,      
 
 134
 00:09:00,474 --> 00:09:02,408
-     making it stand out.       
+making it stand out.       
 
 135
 00:09:02,410 --> 00:09:05,544
-      the number indicates      
- the lumen power of the light.  
+the number indicates the lumen power of the light.  
 
 136
 00:09:05,546 --> 00:09:08,147
-    lumen is a measure of the   
-              total             
-    amount of visible light     
+lumen is a measure of the total amount of visible light     
 
 137
 00:09:08,149 --> 00:09:10,816
-     emitted by a source.       
+emitted by a source.       
 
 138
 00:09:10,818 --> 00:09:12,217
-  back on the assembly line,    
+back on the assembly line,    
 
 139
 00:09:12,219 --> 00:09:16,555
-    a worker snaps the cover    
-     onto the bike light.       
+a worker snaps the cover onto the bike light.       
 
 140
 00:09:16,557 --> 00:09:19,958
-   then, she attaches an open   
-              guard             
-       to the heat sink         
+then, she attaches an open guard to the heat sink         
 
 141
 00:09:19,960 --> 00:09:21,693
-    to protect the cyclist      
+to protect the cyclist      
 
 142
 00:09:21,695 --> 00:09:24,696
-    from the heat generated     
-        by the l.e.d.s.         
+from the heat generated by the l.e.d.s.         
 
 143
 00:09:24,698 --> 00:09:28,433
-       this bicycle light       
-    is ready to be put to the   
-             test.              
+this bicycle light is ready to be put to the test.              
 
 144
 00:09:28,435 --> 00:09:30,301
-   a technician turns it on     
+a technician turns it on     
 
 145
 00:09:30,303 --> 00:09:34,305
-   and inserts it in a device   
-    called a lumen sphere.      
+and inserts it in a device called a lumen sphere.      
 
 146
 00:09:34,307 --> 00:09:36,040
- a computer analyzes the light  
+a computer analyzes the light  
 
 147
 00:09:36,042 --> 00:09:40,512
-           and finds            
-   that it meets standards.     
+and finds that it meets standards.     
 
 148
 00:09:40,514 --> 00:09:42,847
-    next, an employee builds    
-     a smaller bike light       
+next, an employee builds a smaller bike light       
 
 149
 00:09:42,849 --> 00:09:45,383
-     for a cyclist helmet.      
+for a cyclist helmet.      
 
 150
 00:09:45,385 --> 00:09:49,188
-     she inserts the l.e.d.     
-            assembly            
-        in a canister,          
+she inserts the l.e.d. assembly in a canister,          
 
 151
 00:09:49,190 --> 00:09:51,390
-    then attaches the on/off    
-            button.             
+then attaches the on/off button.             
 
 152
 00:09:54,128 --> 00:09:56,194
-     she attaches the light     
-      to a circuit board        
+she attaches the light to a circuit board        
 
 153
 00:09:56,196 --> 00:09:58,230
-      with three l.e.d.s.       
+with three l.e.d.s.       
 
 154
 00:10:00,534 --> 00:10:02,867
-  she tucks the circuit board   
-       into the housing         
+she tucks the circuit board into the housing         
 
 155
 00:10:02,869 --> 00:10:07,005
-          and inserts           
-     a rechargeable lithium     
-            battery.            
+and inserts a rechargeable lithium battery.            
 
 156
 00:10:07,007 --> 00:10:08,941
-  she puts the assembly aside   
+she puts the assembly aside   
 
 157
 00:10:08,943 --> 00:10:11,343
-          and attaches          
-    a red reflective panel      
+and attaches a red reflective panel      
 
 158
 00:10:11,345 --> 00:10:14,212
-  to an aluminized reflector.   
+to an aluminized reflector.   
 
 159
 00:10:14,214 --> 00:10:17,215
-     she snaps the assembly     
-  into a clear plastic case,    
+she snaps the assembly into a clear plastic case,    
 
 160
 00:10:17,217 --> 00:10:19,551
-    completing the rear light   
-             lens.              
+completing the rear light lens.              
 
 161
 00:10:21,822 --> 00:10:24,156
-          she returns           
-  for the front helmet light    
+she returns for the front helmet light    
 
 162
 00:10:24,158 --> 00:10:26,691
-   and installs the reflector   
-        over the light.         
+and installs the reflector over the light.         
 
 163
 00:10:26,693 --> 00:10:30,662
-  she screws on a glass cover   
-    that's framed by a metal    
-             bezel.             
+she screws on a glass cover that's framed by a metal bezel.             
 
 164
 00:10:33,833 --> 00:10:35,500
-    she joins the rear lens     
+she joins the rear lens     
 
 165
 00:10:35,502 --> 00:10:38,303
-    and the l.e.d. assembly,    
-   encasing the electronics     
+and the l.e.d. assembly, encasing the electronics     
 
 166
 00:10:38,305 --> 00:10:40,072
-      of this bike light.       
+of this bike light.       
 
 167
 00:10:42,576 --> 00:10:44,910
-  she switches on both lights   
-          to confirm            
+she switches on both lights to confirm            
 
 168
 00:10:44,912 --> 00:10:47,112
-       that they're fully       
-          operational.          
+that they're fully operational.          
 
 169
 00:10:49,316 --> 00:10:53,652
- these bicycle lights are ready 
- to illuminate a rider's path,  
+these bicycle lights are ready to illuminate a rider's path,  
 
 170
 00:10:53,654 --> 00:10:56,054
-          whether it's          
-   a shadowy mountain trail     
+whether it's a shadowy mountain trail     
 
 171
 00:10:56,056 --> 00:10:57,523
-    or a dark city street.      
+or a dark city street.      
 
 172
 00:11:13,540 --> 00:11:15,407
-           narrator:            
+narrator:            
 installing a pool above ground  
 
 173
 00:11:15,409 --> 00:11:18,409
-        costs much less         
+costs much less         
 than installing one in ground.  
 
 174
 00:11:18,411 --> 00:11:21,746
-    this is because there's     
-    no excavation required.     
+this is because there's no excavation required.     
 
 175
 00:11:21,748 --> 00:11:23,949
- you can build an elevated deck 
-        around the top          
+you can build an elevated deck around the top          
 
 176
 00:11:23,951 --> 00:11:26,885
-           to give it           
-   an in-ground appearance,     
+to give it an in-ground appearance,     
 
 177
 00:11:26,887 --> 00:11:30,622
-    or you can simply climb     
+or you can simply climb     
 up a ladder and jump right in.  
 
 178
 00:11:34,562 --> 00:11:38,230
-        no hole to dig,         
-     no underground pipes to    
-            install.            
+no hole to dig, no underground pipes to install.            
 
 179
 00:11:38,232 --> 00:11:41,300
-        just a day or so        
- of on-site prep and assembly,  
+just a day or so of on-site prep and assembly,  
 
 180
 00:11:41,302 --> 00:11:43,501
-        and you can take        
-   to your above-ground pool    
+and you can take to your above-ground pool    
 
 181
 00:11:43,503 --> 00:11:45,237
-     like a duck to water.      
+like a duck to water.      
 
 182
 00:11:47,307 --> 00:11:49,975
-        at the factory,         
-   a computer-guided machine    
+at the factory, a computer-guided machine    
 
 183
 00:11:49,977 --> 00:11:53,979
-    cuts vinyl panels for the   
-             pool's             
-     water-retaining inside     
-            surface.            
+cuts vinyl panels for the pool's water-retaining inside surface.            
 
 184
 00:11:53,981 --> 00:11:57,182
-    the vinyl comes in a wide   
-             choice             
-      of printed designs.       
+the vinyl comes in a wide choice of printed designs.       
 
 185
 00:11:57,184 --> 00:11:59,985
-      it's tear-resistant,      
-        u.v.-resistant,         
+it's tear-resistant, u.v.-resistant,         
 
 186
 00:11:59,987 --> 00:12:03,455
-         and is treated         
-  with an antifungal coating.   
+and is treated with an antifungal coating.   
 
 187
 00:12:03,457 --> 00:12:05,590
@@ -916,88 +755,72 @@ the wall panel is rectangular,
 
 188
 00:12:05,592 --> 00:12:10,395
-    and the floor panels are    
-             curved             
- to fit the pool's perimeter.   
+and the floor panels are curved to fit the pool's perimeter.   
 
 189
 00:12:10,397 --> 00:12:13,264
-   the wall panels go through   
-  a welder that fuses a bead    
+the wall panels go through a welder that fuses a bead    
 
 190
 00:12:13,266 --> 00:12:16,268
-       to the top edge.         
+to the top edge.         
 
 191
 00:12:16,270 --> 00:12:19,604
-     a bead is a flexible,      
-    "u'-shaped, thermoplastic   
-             strip              
+a bead is a flexible, "u'-shaped, thermoplastic strip              
 
 192
 00:12:19,606 --> 00:12:22,874
-     that is used to attach     
-  the pool wall to the liner.   
+that is used to attach the pool wall to the liner.   
 
 193
 00:12:25,812 --> 00:12:28,613
-       a hot welding tool       
- slightly melts both the bead   
+a hot welding tool slightly melts both the bead   
 
 194
 00:12:28,615 --> 00:12:31,616
-      and the liner edge,       
-      so when they cool and     
-           solidify,            
+and the liner edge, so when they cool and solidify,            
 
 195
 00:12:31,618 --> 00:12:33,218
-        they're bonded.         
+they're bonded.         
 
 196
 00:12:35,489 --> 00:12:37,889
-       the liner is ready       
-       to be assembled.         
+the liner is ready to be assembled.         
 
 197
 00:12:37,891 --> 00:12:40,359
-          workers use           
-   a manual welding machine     
+workers use a manual welding machine     
 
 198
 00:12:40,361 --> 00:12:44,496
-      that generates heat       
-    with radio frequencies.     
+that generates heat with radio frequencies.     
 
 199
 00:12:44,498 --> 00:12:46,898
-     they overlap the edges     
-     of adjoining panels,       
+they overlap the edges of adjoining panels,       
 
 200
 00:12:46,900 --> 00:12:50,635
-   then fuse them together.     
+then fuse them together.     
 
 201
 00:12:50,637 --> 00:12:52,837
-        after connecting        
-    the floor panels to each    
-             other,             
+after connecting the floor panels to each other,             
 
 202
 00:12:52,839 --> 00:12:58,576
- workers complete the liner by  
+workers complete the liner by  
 joining the wall to the floor.  
 
 203
 00:12:58,578 --> 00:13:01,846
-  a quality-control inspector   
-  checks every soldered seam    
+a quality-control inspector checks every soldered seam    
 
 204
 00:13:01,848 --> 00:13:03,615
-  to make sure they're solid.   
+to make sure they're solid.   
 
 205
 00:13:06,586 --> 00:13:08,720
@@ -1005,236 +828,195 @@ meanwhile, workers manufacture
 
 206
 00:13:08,722 --> 00:13:12,057
-           the pool's           
-    structural components.      
+the pool's structural components.      
 
 207
 00:13:12,059 --> 00:13:15,193
-  they feed a continuous strip  
- of painted, galvanized steel   
+they feed a continuous strip of painted, galvanized steel   
 
 208
 00:13:15,195 --> 00:13:17,662
-    through a roll former.      
+through a roll former.      
 
 209
 00:13:17,664 --> 00:13:20,666
-      the strip is shaped       
-    to a specific profile.      
+the strip is shaped to a specific profile.      
 
 210
 00:13:23,136 --> 00:13:25,137
-         a punch press          
-      cuts the components       
+a punch press cuts the components       
 
 211
 00:13:25,139 --> 00:13:27,605
-     to the required length     
-          and shape.            
+to the required length and shape.            
 
 212
 00:13:27,607 --> 00:13:31,076
-   four different structural    
-  components are made this way  
-               --               
+four different structural components are made this way --               
 
 213
 00:13:31,078 --> 00:13:34,546
-  the pieces that form the top  
+the pieces that form the top  
 and bottom tracks of the pool,  
 
 214
 00:13:34,548 --> 00:13:37,549
-       the vertical posts       
-  that support the pool wall,   
+the vertical posts that support the pool wall,   
 
 215
 00:13:37,551 --> 00:13:42,286
-     and the ledges running     
-  along the top of the wall.    
+and the ledges running along the top of the wall.    
 
 216
 00:13:42,288 --> 00:13:46,157
-     the wall is also made      
- of painted galvanized steel.   
+the wall is also made of painted galvanized steel.   
 
 217
 00:13:46,159 --> 00:13:49,561
-      a roller impresses a      
-           corrugated           
-   pattern to give the wall     
+a roller impresses a corrugated pattern to give the wall     
 
 218
 00:13:49,563 --> 00:13:51,763
-    more vertical strength.     
+more vertical strength.     
 
 219
 00:13:51,765 --> 00:13:53,698
-         then, a press          
-     punches out openings       
+then, a press punches out openings       
 
 220
 00:13:53,700 --> 00:13:57,635
-   for the pool's water inlet   
-          and filter.           
+for the pool's water inlet and filter.           
 
 221
 00:13:57,637 --> 00:14:00,038
-     after folding each end     
-    of the wall over itself     
+after folding each end of the wall over itself     
 
 222
 00:14:00,040 --> 00:14:01,773
-    to form a strong edge,      
+to form a strong edge,      
 
 223
 00:14:01,775 --> 00:14:05,377
- they punch holes for the bolts 
-   that will join the edges.    
+they punch holes for the bolts that will join the edges.    
 
 224
 00:14:07,648 --> 00:14:10,182
-         a stamping die         
-  progressively shapes strips   
+a stamping die progressively shapes strips   
 
 225
 00:14:10,184 --> 00:14:12,917
-      of galvanized steel       
-       into connectors.         
+of galvanized steel into connectors.         
 
 226
 00:14:12,919 --> 00:14:15,053
-         the connectors         
-    join the vertical posts     
+the connectors join the vertical posts     
 
 227
 00:14:15,055 --> 00:14:19,524
-    to the structure's bottom   
-              track             
-         and top rail.          
+to the structure's bottom track and top rail.          
 
 228
 00:14:19,526 --> 00:14:21,193
-      an injection molder       
+an injection molder       
 
 229
 00:14:21,195 --> 00:14:25,797
-    makes the plastic covers    
-      that will hide those      
-          connectors.           
+makes the plastic covers that will hide those connectors.           
 
 230
 00:14:25,799 --> 00:14:27,932
-  workers then box the liner    
+workers then box the liner    
 
 231
 00:14:27,934 --> 00:14:29,868
-   and structural components    
-         for transport          
+and structural components for transport          
 
 232
 00:14:29,870 --> 00:14:31,670
-   to the installation site.    
+to the installation site.    
 
 233
 00:14:35,075 --> 00:14:38,143
-    on-site, they lay crushed   
-              stone             
-     around the perimeter       
+on-site, they lay crushed stone around the perimeter       
 
 234
 00:14:38,145 --> 00:14:41,113
-  to support the bottom track   
+to support the bottom track   
 under the weight of the water.  
 
 235
 00:14:48,288 --> 00:14:50,622
-   next, they unroll the pool   
-              wall              
+next, they unroll the pool wall              
 
 236
 00:14:50,624 --> 00:14:52,357
-          and place it          
-     in the bottom track.       
+and place it in the bottom track.       
 
 237
 00:15:02,436 --> 00:15:05,303
-   they place a vertical post   
-  over each bottom connector    
+they place a vertical post over each bottom connector    
 
 238
 00:15:05,305 --> 00:15:07,339
-  and secure it with screws.    
+and secure it with screws.    
 
 239
 00:15:09,643 --> 00:15:10,908
-     inside the pool wall,      
+inside the pool wall,      
 
 240
 00:15:10,910 --> 00:15:14,980
-  they lay down a base of sand  
-        and compact it.         
+they lay down a base of sand and compact it.         
 
 241
 00:15:14,982 --> 00:15:19,384
-           then, they           
- lay down landscaping fabric.   
+then, they lay down landscaping fabric.   
 
 242
 00:15:19,386 --> 00:15:22,354
-        they cut a hole         
-  for a central bottom drain.   
+they cut a hole for a central bottom drain.   
 
 243
 00:15:25,592 --> 00:15:28,059
-   then, they begin spreading   
-        out the liner.          
+then, they begin spreading out the liner.          
 
 244
 00:15:31,865 --> 00:15:35,867
-       they hook the bead       
+they hook the bead       
 over the top edge of the wall,  
 
 245
 00:15:35,869 --> 00:15:40,071
-     then lock it in place      
-      with the top rail.        
+then lock it in place with the top rail.        
 
 246
 00:15:40,073 --> 00:15:42,073
-         once the liner         
-      is fully attached,        
+once the liner is fully attached,        
 
 247
 00:15:42,075 --> 00:15:46,478
-   they suction out the air to  
-              draw              
-  it tight against the wall.    
+they suction out the air to draw it tight against the wall.    
 
 248
 00:15:46,480 --> 00:15:50,348
-      they seal the liner       
-     to the bottom drain.       
+they seal the liner to the bottom drain.       
 
 249
 00:15:50,350 --> 00:15:53,351
-     they hide the top rail     
-        under the ledge         
+they hide the top rail under the ledge         
 
 250
 00:15:53,353 --> 00:15:56,121
-      and the connections       
-      under plastic caps.       
+and the connections under plastic caps.       
 
 251
 00:15:58,492 --> 00:16:02,828
- they run pipes to connect the  
+they run pipes to connect the  
 filtration system and skimmer.  
 
 252
 00:16:04,964 --> 00:16:07,699
-     then, with an ordinary     
-         garden hose,           
+then, with an ordinary garden hose,           
 
 253
 00:16:07,701 --> 00:16:10,135
@@ -1242,360 +1024,294 @@ they fill the pool with water.
 
 254
 00:16:23,516 --> 00:16:26,585
-    narrator: foldable solar    
-             panels             
-  were invented in the 1990s    
+narrator: foldable solar panels were invented in the 1990s    
 
 255
 00:16:26,587 --> 00:16:30,721
-     for american soldiers      
-         in the field.          
+for american soldiers in the field.          
 
 256
 00:16:30,723 --> 00:16:34,659
-         they use them          
-     to recharge electronic     
-            devices.            
+they use them to recharge electronic devices.            
 
 257
 00:16:34,661 --> 00:16:37,996
- the panels have environmental  
-   and tactical advantages,     
+the panels have environmental and tactical advantages,     
 
 258
 00:16:37,998 --> 00:16:41,399
-  conserving both electricity   
-     and physical energy.       
+conserving both electricity and physical energy.       
 
 259
 00:16:45,138 --> 00:16:49,006
-  today, foldable solar panels  
+today, foldable solar panels  
 are not just for the military.  
 
 260
 00:16:49,008 --> 00:16:51,142
-    these lightweight panels    
-       can be folded up         
+these lightweight panels can be folded up         
 
 261
 00:16:51,144 --> 00:16:53,344
-  and tucked into a backpack,   
+and tucked into a backpack,   
 
 262
 00:16:53,346 --> 00:16:55,814
-        allowing anyone         
-  to escape to the wilderness   
+allowing anyone to escape to the wilderness   
 
 263
 00:16:55,816 --> 00:16:57,816
-     but stay plugged in.       
+but stay plugged in.       
 
 264
 00:17:01,021 --> 00:17:04,356
- production starts with a roll  
-     of thin plastic film.      
+production starts with a roll of thin plastic film.      
 
 265
 00:17:04,358 --> 00:17:08,960
-     it's the same material     
- used to make flat-screen tvs.  
+it's the same material used to make flat-screen tvs.  
 
 266
 00:17:08,962 --> 00:17:12,163
-     a worker loads it into     
-            machines            
-  that distribute thin layers   
+a worker loads it into machines that distribute thin layers   
 
 267
 00:17:12,165 --> 00:17:14,866
-  of aluminum and silicon onto  
-              it.               
+of aluminum and silicon onto it.               
 
 268
 00:17:17,170 --> 00:17:20,237
-       the aluminum acts        
-   as an electrical contact.    
+the aluminum acts as an electrical contact.    
 
 269
 00:17:20,239 --> 00:17:26,511
-      the silicon produces      
-           electricity          
-    when exposed to the sun's   
-             rays.              
+the silicon produces electricity when exposed to the sun's rays.              
 
 270
 00:17:26,513 --> 00:17:32,717
-   next, lasers carve vertical  
-               and              
-    horizontal lines into the   
-             film.              
+next, lasers carve vertical and horizontal lines into the film.              
 
 271
 00:17:32,719 --> 00:17:35,754
-          these lines           
-    define the solar cells.     
+these lines define the solar cells.     
 
 272
 00:17:38,792 --> 00:17:42,127
- an automated squeegee applies  
-  black ink through a screen    
+an automated squeegee applies black ink through a screen    
 
 273
 00:17:42,129 --> 00:17:45,263
-      and into the lines.       
+and into the lines.       
 
 274
 00:17:45,265 --> 00:17:48,066
-        the ink will act        
-  as an electrical insulator.   
+the ink will act as an electrical insulator.   
 
 275
 00:17:48,068 --> 00:17:49,333
-   it also makes it possible    
+it also makes it possible    
 
 276
 00:17:49,335 --> 00:17:53,071
-    to cut through the film     
-     without damaging it.       
+to cut through the film without damaging it.       
 
 277
 00:17:53,073 --> 00:17:57,809
-         uv light cures         
-      the insulator ink.        
+uv light cures the insulator ink.        
 
 278
 00:17:57,811 --> 00:18:01,279
-  an employee pours a generous  
- amount of metallic silver ink  
+an employee pours a generous amount of metallic silver ink  
 
 279
 00:18:01,281 --> 00:18:02,881
-        onto a pattern.         
+onto a pattern.         
 
 280
 00:18:02,883 --> 00:18:06,550
-   a squeegee forces the ink    
-  through to the solar film.    
+a squeegee forces the ink through to the solar film.    
 
 281
 00:18:06,552 --> 00:18:10,622
- this creates a conductive grid 
-         on the film.           
+this creates a conductive grid on the film.           
 
 282
 00:18:10,624 --> 00:18:15,226
-  a camera magnifies the grid   
-        for inspection.         
+a camera magnifies the grid for inspection.         
 
 283
 00:18:15,228 --> 00:18:17,362
-     the solar film travels     
-       through a chamber        
+the solar film travels through a chamber        
 
 284
 00:18:17,364 --> 00:18:19,731
-   where heat cures the silver  
-              ink.              
+where heat cures the silver ink.              
 
 285
 00:18:22,702 --> 00:18:25,303
-          a laser now           
-   connects the solar cells,    
+a laser now connects the solar cells,    
 
 286
 00:18:25,305 --> 00:18:27,905
-  linking the bottom aluminum   
-       layer of one cell        
+linking the bottom aluminum layer of one cell        
 
 287
 00:18:27,907 --> 00:18:30,909
-    to the top silicon layer    
-         of the next.           
+to the top silicon layer of the next.           
 
 288
 00:18:33,980 --> 00:18:36,247
- the laser ties them together   
+the laser ties them together   
 
 289
 00:18:36,249 --> 00:18:39,584
-           similar to           
-  how a soldering tool would.   
+similar to how a soldering tool would.   
 
 290
 00:18:39,586 --> 00:18:41,920
-        this establishes        
-    electrical connections      
+this establishes electrical connections      
 
 291
 00:18:41,922 --> 00:18:46,724
-   and increases the voltage    
-        significantly.          
+and increases the voltage significantly.          
 
 292
 00:18:46,726 --> 00:18:48,860
-       a different camera       
-   magnifies the connections    
+a different camera magnifies the connections    
 
 293
 00:18:48,862 --> 00:18:51,863
-    to check the alignment.     
+to check the alignment.     
 
 294
 00:18:51,865 --> 00:18:55,466
-      now, a worker loads       
+now, a worker loads       
 the solar film into a machine.  
 
 295
 00:18:55,468 --> 00:18:58,536
-    it deposits a transparent   
-              oxide             
-         onto the film          
+it deposits a transparent oxide onto the film          
 
 296
 00:18:58,538 --> 00:19:01,806
-       that will increase       
-         conductivity.          
+that will increase conductivity.          
 
 297
 00:19:01,808 --> 00:19:04,676
-       these solar cells        
-   are now fully functional.    
+these solar cells are now fully functional.    
 
 298
 00:19:04,678 --> 00:19:08,546
-   the next machine tests each  
-              one.              
+the next machine tests each one.              
 
 299
 00:19:08,548 --> 00:19:14,018
-  it also applies a conductive  
- foil tape at certain points.   
+it also applies a conductive foil tape at certain points.   
 
 300
 00:19:14,020 --> 00:19:16,821
-        another machine         
+another machine         
 rolls a clear sheet of plastic  
 
 301
 00:19:16,823 --> 00:19:19,891
-     onto the solar cells.      
+onto the solar cells.      
 
 302
 00:19:19,893 --> 00:19:22,093
-      the plastic adheres       
-         to the cells,          
+the plastic adheres to the cells,          
 
 303
 00:19:22,095 --> 00:19:26,164
-         waterproofing          
-    and encapsulating them.     
+waterproofing and encapsulating them.     
 
 304
 00:19:26,166 --> 00:19:28,099
-        a die press cuts        
-       out solar panels         
+a die press cuts out solar panels         
 
 305
 00:19:28,101 --> 00:19:31,302
-    along the black insulator   
-             lines.             
+along the black insulator lines.             
 
 306
 00:19:31,304 --> 00:19:35,440
-  the press uses computerized   
-  cameras for accurate cuts.    
+the press uses computerized cameras for accurate cuts.    
 
 307
 00:19:37,844 --> 00:19:40,778
-  a robot transfers each panel  
-      to the next station       
+a robot transfers each panel to the next station       
 
 308
 00:19:40,780 --> 00:19:42,913
-    using suctioning heads.     
+using suctioning heads.     
 
 309
 00:19:42,915 --> 00:19:44,315
-     a computerized camera      
+a computerized camera      
 
 310
 00:19:44,317 --> 00:19:47,185
-     scrutinizes the panels     
-         for defects.           
+scrutinizes the panels for defects.           
 
 311
 00:19:52,058 --> 00:19:53,324
-      after more testing,       
+after more testing,       
 
 312
 00:19:53,326 --> 00:19:57,995
-    they deposit the panels     
-     on a piece of fabric.      
+they deposit the panels on a piece of fabric.      
 
 313
 00:19:57,997 --> 00:20:02,266
-    a laser cuts the fabric     
-      around the panels.        
+a laser cuts the fabric around the panels.        
 
 314
 00:20:02,268 --> 00:20:05,837
-     heated rollers bond the    
-             plastic            
-     panels to the fabric.      
+heated rollers bond the plastic panels to the fabric.      
 
 315
 00:20:09,876 --> 00:20:13,144
-        now, an employee        
-   burns through clear plastic  
-              film              
+now, an employee burns through clear plastic film              
 
 316
 00:20:13,146 --> 00:20:15,814
- to reach the conductive foil.  
+to reach the conductive foil.  
 
 317
 00:20:15,816 --> 00:20:17,481
-  he solders wire to the foil   
+he solders wire to the foil   
 
 318
 00:20:17,483 --> 00:20:21,152
-   at these points to connect   
-    the positive and negative   
-             leads.             
+at these points to connect the positive and negative leads.             
 
 319
 00:20:23,890 --> 00:20:26,957
-      the wire is flexible      
- and will bend with the fabric  
+the wire is flexible and will bend with the fabric  
 
 320
 00:20:26,959 --> 00:20:28,693
-       when it's folded.        
+when it's folded.        
 
 321
 00:20:31,231 --> 00:20:33,764
-        a seamstress now        
-   stitches strips of fabric    
+a seamstress now stitches strips of fabric    
 
 322
 00:20:33,766 --> 00:20:37,602
- over the wires, enclosing them 
-    in a protective pocket.     
+over the wires, enclosing them in a protective pocket.     
 
 323
 00:20:42,442 --> 00:20:44,875
-   another member of the team   
-      solders a connector       
+another member of the team solders a connector       
 
 324
 00:20:44,877 --> 00:20:50,515
- to a circuit board that's been 
- attached to protruding wires.  
+to a circuit board that's been attached to protruding wires.  
 
 325
 00:20:50,517 --> 00:20:53,251
-      he squeezes silicone      
-     into a plastic cover       
+he squeezes silicone into a plastic cover       
 
 326
 00:20:53,253 --> 00:20:55,653
@@ -1603,50 +1319,41 @@ and places it on the assembly.
 
 327
 00:20:55,655 --> 00:20:59,190
-    the silicone solidifies     
-    around the components to    
-            protect             
+the silicone solidifies around the components to protect             
 
 328
 00:20:59,192 --> 00:21:01,793
-    them from water damage.     
+them from water damage.     
 
 329
 00:21:01,795 --> 00:21:06,464
-  finally, he rivets the cover  
-        to the fabric.          
+finally, he rivets the cover to the fabric.          
 
 330
 00:21:06,466 --> 00:21:09,534
-  this foldable solar charger   
-   is ready to be bundled up    
+this foldable solar charger is ready to be bundled up    
 
 331
 00:21:09,536 --> 00:21:11,936
-   and placed in a backpack.    
+and placed in a backpack.    
 
 332
 00:21:11,938 --> 00:21:14,806
-     it can power a laptop      
-       or a smartphone,         
+it can power a laptop or a smartphone,         
 
 333
 00:21:14,808 --> 00:21:18,343
-        keeping the user        
-    connected anywhere in the   
-             world.             
+keeping the user connected anywhere in the world.             
 
 334
 00:21:28,822 --> 00:21:30,955
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 335
 00:21:30,957 --> 00:21:33,892
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 336
 00:21:33,894 --> 00:21:35,527
-     drop us a line at...       
+drop us a line at...       
 

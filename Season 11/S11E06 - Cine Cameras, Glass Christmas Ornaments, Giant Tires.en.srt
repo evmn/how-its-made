@@ -1,395 +1,336 @@
 ﻿1
 00:00:01,936 --> 00:00:04,870
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,872 --> 00:00:07,873
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,185 --> 00:00:54,119
-     narrator: a cinecamera     
- is the type of camera they use 
+narrator: a cinecamera is the type of camera they use 
 
 4
 00:00:54,121 --> 00:00:55,587
-   for making motion pictures.  
+for making motion pictures.  
 
 5
 00:00:55,589 --> 00:00:59,524
-   it captures what it shoots   
-  on 16- or 35-millimeter film. 
+it captures what it shoots on 16- or 35-millimeter film. 
 
 6
 00:00:59,526 --> 00:01:02,193
-          running like          
-      a well-oiled machine,     
+running like a well-oiled machine,     
 
 7
 00:01:02,195 --> 00:01:05,397
-    its intricate components    
-  work with ultimate precision, 
+its intricate components work with ultimate precision, 
 
 8
 00:01:05,399 --> 00:01:10,069
-  all inside a powerful marvel  
+all inside a powerful marvel  
 of technology and craftsmanship.
 
 9
 00:01:13,073 --> 00:01:16,475
-     the internal mechanics     
- and electronics of a cinecamera
+the internal mechanics and electronics of a cinecamera
 
 10
 00:01:16,477 --> 00:01:20,812
-      perform an impressive     
- choreography to capture images.
+perform an impressive choreography to capture images.
 
 11
 00:01:20,814 --> 00:01:22,548
-    to make the main housing,   
+to make the main housing,   
 
 12
 00:01:22,550 --> 00:01:24,683
-      a computer-controlled     
-         milling machine        
+a computer-controlled milling machine        
 
 13
 00:01:24,685 --> 00:01:28,219
-       cuts precise spaces      
-     in a block of aluminum.    
+cuts precise spaces in a block of aluminum.    
 
 14
 00:01:28,221 --> 00:01:31,623
-      then a probe scans it     
-    so a computer can verify    
+then a probe scans it so a computer can verify    
 
 15
 00:01:31,625 --> 00:01:35,360
-         the shape meets        
-   engineering specifications.  
+the shape meets engineering specifications.  
 
 16
 00:01:35,362 --> 00:01:38,097
-         next, a variety        
-    of computer-guided drills   
+next, a variety of computer-guided drills   
 
 17
 00:01:38,099 --> 00:01:40,566
-           and cutters          
-     shape the film gate --     
+and cutters shape the film gate --     
 
 18
 00:01:40,568 --> 00:01:44,002
-    the component that holds    
-     the film for exposure.     
+the component that holds the film for exposure.     
 
 19
 00:01:47,908 --> 00:01:51,776
-   a grinding wheel completes   
-   this highly precise task.    
+a grinding wheel completes this highly precise task.    
 
 20
 00:01:51,778 --> 00:01:54,713
-     they buff the film gate    
-       on a rotating drum,      
+they buff the film gate on a rotating drum,      
 
 21
 00:01:54,715 --> 00:01:57,783
-   infused with diamond powder  
-    and a polishing compound.   
+infused with diamond powder and a polishing compound.   
 
 22
 00:01:57,785 --> 00:02:01,253
-    next, workers apply glue    
-       to the film guide,       
+next, workers apply glue to the film guide,       
 
 23
 00:02:01,255 --> 00:02:05,190
-      which pushes the film     
-       into the film gate.      
+which pushes the film into the film gate.      
 
 24
 00:02:05,192 --> 00:02:07,659
-       then they put glue       
-      on the film movement,     
+then they put glue on the film movement,     
 
 25
 00:02:07,661 --> 00:02:09,928
-  mate the guide and movement,  
+mate the guide and movement,  
 
 26
 00:02:09,930 --> 00:02:13,131
-      then drive in screws      
-      to secure the bond.       
+then drive in screws to secure the bond.       
 
 27
 00:02:13,133 --> 00:02:16,135
-   these two registration pins  
-     hold the film in place.    
+these two registration pins hold the film in place.    
 
 28
 00:02:16,137 --> 00:02:18,937
-   now for the pulldown claws.  
+now for the pulldown claws.  
 
 29
 00:02:18,939 --> 00:02:21,540
-          workers mount         
-     these aluminum devices     
+workers mount these aluminum devices     
 
 30
 00:02:21,542 --> 00:02:24,542
-   inside the film movement --  
-        one on each side.       
+inside the film movement -- one on each side.       
 
 31
 00:02:24,544 --> 00:02:26,545
- they move forward and downward 
+they move forward and downward 
 
 32
 00:02:26,547 --> 00:02:29,080
-    as the registration pins    
-            retract,            
+as the registration pins retract,            
 
 33
 00:02:29,082 --> 00:02:31,650
-        dragging the film       
-        along the guide.        
+dragging the film along the guide.        
 
 34
 00:02:33,554 --> 00:02:37,355
 as the claws pull the film down,
-         the pins enter.        
+the pins enter.        
 
 35
 00:02:37,357 --> 00:02:42,961
- this exposure repeats at a rate
-    of 150 frames per second.   
+this exposure repeats at a rate
+of 150 frames per second.   
 
 36
 00:02:42,963 --> 00:02:45,030
- next, workers screw on a cover 
+next, workers screw on a cover 
 
 37
 00:02:45,032 --> 00:02:47,765
-           to protect           
-  the movement's fragile parts. 
+to protect the movement's fragile parts. 
 
 38
 00:02:47,767 --> 00:02:50,903
-          another cover         
-     fits on the other side.    
+another cover fits on the other side.    
 
 39
 00:02:57,711 --> 00:03:02,514
-        workers then test       
-      each of the buttons.      
+workers then test each of the buttons.      
 
 40
 00:03:02,516 --> 00:03:05,250
-         now they attach        
-    the camera's drive shaft.   
+now they attach the camera's drive shaft.   
 
 41
 00:03:05,252 --> 00:03:08,586
-  the motor drives the movement 
-      using a toothed belt.     
+the motor drives the movement using a toothed belt.     
 
 42
 00:03:08,588 --> 00:03:10,789
-   a mechanics test comes next  
+a mechanics test comes next  
 
 43
 00:03:10,791 --> 00:03:15,027
-  to ensure the claws and pins  
-     perform with precision.    
+to ensure the claws and pins perform with precision.    
 
 44
 00:03:19,199 --> 00:03:21,667
-     this part of the camera    
-         is the shutter.        
+this part of the camera is the shutter.        
 
 45
 00:03:21,669 --> 00:03:24,303
-         it sits between        
-       the film and lens.       
+it sits between the film and lens.       
 
 46
 00:03:26,072 --> 00:03:28,973
-     workers mount a mirror     
-     over half the shutter.     
+workers mount a mirror over half the shutter.     
 
 47
 00:03:28,975 --> 00:03:32,277
-  the mirror reflects the image 
-       into the viewfinder      
+the mirror reflects the image into the viewfinder      
 
 48
 00:03:32,279 --> 00:03:35,948
-       when it rotates in       
-        behind the lens.        
+when it rotates in behind the lens.        
 
 49
 00:03:35,950 --> 00:03:40,685
- a dab of special cleaning fluid
-   yields a pristine surface.   
+a dab of special cleaning fluid
+yields a pristine surface.   
 
 50
 00:03:40,687 --> 00:03:44,956
-     any dirt on the mirror     
-   would create a fuzzy image.  
+any dirt on the mirror would create a fuzzy image.  
 
 51
 00:03:44,958 --> 00:03:50,095
-   the protective cover plates  
- will shield existing openings. 
+the protective cover plates will shield existing openings. 
 
 52
 00:03:50,097 --> 00:03:54,166
-   here the shutter and mirror  
-         spin in unison.        
+here the shutter and mirror spin in unison.        
 
 53
 00:03:54,168 --> 00:03:56,968
-         in this model,         
-   the shutter is electronic,   
+in this model, the shutter is electronic,   
 
 54
 00:03:56,970 --> 00:03:59,171
- so it requires a tiny microchip
+so it requires a tiny microchip
 
 55
 00:03:59,173 --> 00:04:02,307
-      and electrical wires      
-     with plugs on the ends.    
+and electrical wires with plugs on the ends.    
 
 56
 00:04:02,309 --> 00:04:05,444
 technicians scrutinize the parts
-        and connections.        
+and connections.        
 
 57
 00:04:05,446 --> 00:04:07,980
-         then they test         
-      the electronics again     
+then they test the electronics again     
 
 58
 00:04:07,982 --> 00:04:10,882
 to ensure everything is working,
-   starting with the shutter.   
+starting with the shutter.   
 
 59
 00:04:13,954 --> 00:04:16,655
 with all the internal components
-            complete,           
+complete,           
 
 60
 00:04:16,657 --> 00:04:19,857
-    it's time to install them   
-    in the camera's housing.    
+it's time to install them in the camera's housing.    
 
 61
 00:04:19,859 --> 00:04:23,928
-  the film gate we saw earlier  
-      snaps into position.      
+the film gate we saw earlier snaps into position.      
 
 62
 00:04:23,930 --> 00:04:26,998
-        next, technicians       
- carefully mount the film guide 
+next, technicians carefully mount the film guide 
 
 63
 00:04:27,000 --> 00:04:31,069
-        behind the film,        
-     then fasten it tightly.    
+behind the film, then fasten it tightly.    
 
 64
 00:04:32,873 --> 00:04:38,043
- last but not least, the shutter
-  gently slides into position.  
+last but not least, the shutter
+gently slides into position.  
 
 65
 00:04:40,614 --> 00:04:43,949
-     they close up one side     
-  of the housing with the cover 
+they close up one side of the housing with the cover 
 
 66
 00:04:43,951 --> 00:04:46,684
-           to protect           
-    the circuit board inside.   
+to protect the circuit board inside.   
 
 67
 00:04:46,686 --> 00:04:49,287
-        workers then lay        
-     an accessory controller    
+workers then lay an accessory controller    
 
 68
 00:04:49,289 --> 00:04:52,057
-           gently into          
-    the camera's side cover.    
+gently into the camera's side cover.    
 
 69
 00:04:55,362 --> 00:04:57,628
-        it takes tweezers       
-        and a steady hand       
+it takes tweezers and a steady hand       
 
 70
 00:04:57,630 --> 00:04:59,030
- to insert this focusing screen 
+to insert this focusing screen 
 
 71
 00:04:59,032 --> 00:05:03,634
-     through the lens mount     
-  at the front of the housing.  
+through the lens mount at the front of the housing.  
 
 72
 00:05:03,636 --> 00:05:07,272
-     finally, the lens takes    
-   its place front and center.  
+finally, the lens takes its place front and center.  
 
 73
 00:05:11,111 --> 00:05:13,512
-    with the camera structure   
-          now complete,         
+with the camera structure now complete,         
 
 74
 00:05:13,514 --> 00:05:17,049
-    workers attach a magazine   
-      containing the film.      
+workers attach a magazine containing the film.      
 
 75
 00:05:19,319 --> 00:05:21,319
-  a little nudge here and there 
+a little nudge here and there 
 
 76
 00:05:21,321 --> 00:05:23,789
-         leads the film         
-      down the right path.      
+leads the film down the right path.      
 
 77
 00:05:23,791 --> 00:05:25,790
-   the movement swings forward  
+the movement swings forward  
 
 78
 00:05:25,792 --> 00:05:28,459
-       to allow the film        
-       to run its course.       
+to allow the film to run its course.       
 
 79
 00:05:28,461 --> 00:05:29,728
-   with the touch of a button,  
+with the touch of a button,  
 
 80
 00:05:29,730 --> 00:05:34,465
-      the film successfully     
+the film successfully     
 races through a mechanical maze.
 
 81
 00:05:34,467 --> 00:05:38,469
 this camera excels at high-speed
-      and special effects.      
+and special effects.      
 
 82
 00:05:38,471 --> 00:05:41,506
@@ -397,276 +338,233 @@ all it needs now is some action.
 
 83
 00:05:50,417 --> 00:05:51,750
-            narrator:           
-        it's hard to beat       
+narrator: it's hard to beat       
 
 84
 00:05:51,752 --> 00:05:53,885
-      the glitter and glow      
-  of glass christmas ornaments. 
+the glitter and glow of glass christmas ornaments. 
 
 85
 00:05:53,887 --> 00:05:55,820
-        for many people,        
-       the christmas tree       
+for many people, the christmas tree       
 
 86
 00:05:55,822 --> 00:05:57,823
-    just wouldn't be the same   
-          without them.         
+just wouldn't be the same without them.         
 
 87
 00:05:57,825 --> 00:06:00,358
-       they were invented       
-       in the 19th century      
+they were invented in the 19th century      
 
 88
 00:06:00,360 --> 00:06:03,361
-     by a german glassmaker     
-    who decided to improvise    
+by a german glassmaker who decided to improvise    
 
 89
 00:06:03,363 --> 00:06:06,297
-   because he couldn't afford   
-      to decorate his tree      
+because he couldn't afford to decorate his tree      
 
 90
 00:06:06,299 --> 00:06:08,700
- with the usual nuts and candy. 
+with the usual nuts and candy. 
 
 91
 00:06:13,640 --> 00:06:16,307
-  they're christmas eye candy.  
+they're christmas eye candy.  
 
 92
 00:06:16,309 --> 00:06:20,178
-     today's glass ornaments    
-       are a visual treat.      
+today's glass ornaments are a visual treat.      
 
 93
 00:06:20,180 --> 00:06:22,180
- to make some of the ornaments, 
+to make some of the ornaments, 
 
 94
 00:06:22,182 --> 00:06:25,851
-    they start with a sketch    
- and make a plaster model of it.
+they start with a sketch and make a plaster model of it.
 
 95
 00:06:25,853 --> 00:06:29,121
-           they use it          
+they use it          
 to create a two-part metal mold.
 
 96
 00:06:32,793 --> 00:06:35,726
-   they take a glass cylinder   
-     and fire its wider end     
+they take a glass cylinder and fire its wider end     
 
 97
 00:06:35,728 --> 00:06:38,230
-         so it softens.         
+so it softens.         
 
 98
 00:06:42,736 --> 00:06:45,069
-         the glassmaker         
-     blows into the pipe end    
+the glassmaker blows into the pipe end    
 
 99
 00:06:45,071 --> 00:06:46,805
-   to stretch the supple glass  
+to stretch the supple glass  
 
 100
 00:06:46,807 --> 00:06:49,708
-      into the basic shape      
-      of a bauble ornament.     
+into the basic shape of a bauble ornament.     
 
 101
 00:06:55,616 --> 00:06:58,650
-        other glass tubes       
- are more bulbous at the center,
+other glass tubes are more bulbous at the center,
 
 102
 00:06:58,652 --> 00:07:00,952
-     and that's the section     
-          that's fired          
+and that's the section that's fired          
 
 103
 00:07:00,954 --> 00:07:04,890
-   as the glassmaker blows it   
-  into a more elongated bubble. 
+as the glassmaker blows it into a more elongated bubble. 
 
 104
 00:07:07,561 --> 00:07:11,563
-    he places that bubble in    
- the mold and blows extra hard. 
+he places that bubble in the mold and blows extra hard. 
 
 105
 00:07:11,565 --> 00:07:14,098
-        the glass expands       
-        into its crevices       
+the glass expands into its crevices       
 
 106
 00:07:14,100 --> 00:07:16,368
-     and takes its shape --     
-           a snowman.           
+and takes its shape -- a snowman.           
 
 107
 00:07:19,772 --> 00:07:23,108
-          he burns off          
-    one of the blowpipe ends    
+he burns off one of the blowpipe ends    
 
 108
 00:07:23,110 --> 00:07:26,478
- and then aims the torch at the 
- snowman's nose to pull it out. 
+and then aims the torch at the snowman's nose to pull it out. 
 
 109
 00:07:29,383 --> 00:07:32,583
-        a quick cooldown        
-  could shatter this ornament,  
+a quick cooldown could shatter this ornament,  
 
 110
 00:07:32,585 --> 00:07:35,053
-         so he gradually        
-     lowers its temperature     
+so he gradually lowers its temperature     
 
 111
 00:07:35,055 --> 00:07:37,255
-   with a less-intense flame.   
+with a less-intense flame.   
 
 112
 00:07:37,257 --> 00:07:41,192
-       blowing and molding      
- glass figurines is quick work. 
+blowing and molding glass figurines is quick work. 
 
 113
 00:07:41,194 --> 00:07:44,929
-  the glassmaker has just a few 
-   seconds to complete the job  
+the glassmaker has just a few seconds to complete the job  
 
 114
 00:07:44,931 --> 00:07:50,201
-    before the glass becomes    
-  too cool and stiff to shape.  
+before the glass becomes too cool and stiff to shape.  
 
 115
 00:07:50,203 --> 00:07:55,206
-     the ornaments now head     
+the ornaments now head     
 down the line to get some shine.
 
 116
 00:07:55,208 --> 00:07:58,409
-   this will be an inside job.  
+this will be an inside job.  
 
 117
 00:07:58,411 --> 00:08:00,679
-         the glassmaker         
-    pours silvering solution    
+the glassmaker pours silvering solution    
 
 118
 00:08:00,681 --> 00:08:02,947
-        into the baubles        
-        through the stem.       
+into the baubles through the stem.       
 
 119
 00:08:02,949 --> 00:08:05,216
-    she then dips the bauble    
-         in warm water.         
+she then dips the bauble in warm water.         
 
 120
 00:08:05,218 --> 00:08:08,487
-         this activates         
-    the silvering chemicals,    
+this activates the silvering chemicals,    
 
 121
 00:08:08,489 --> 00:08:13,491
-    and shaking the ornament    
-    accelerates this process.   
+and shaking the ornament accelerates this process.   
 
 122
 00:08:13,493 --> 00:08:16,428
-           she swirls           
-   the silvering liquid around  
+she swirls the silvering liquid around  
 
 123
 00:08:16,430 --> 00:08:18,496
-       to completely coat       
-   the inside of the ornament.  
+to completely coat the inside of the ornament.  
 
 124
 00:08:18,498 --> 00:08:21,499
-  a final dip gives this bauble 
-         a mirror finish        
+a final dip gives this bauble a mirror finish        
 
 125
 00:08:21,501 --> 00:08:23,468
-      from the inside out.      
+from the inside out.      
 
 126
 00:08:27,641 --> 00:08:29,908
-           she empties          
-     the silvering solution     
+she empties the silvering solution     
 
 127
 00:08:29,910 --> 00:08:32,043
-        into another tank       
-         for recycling.         
+into another tank for recycling.         
 
 128
 00:08:35,115 --> 00:08:37,983
-  they also use this technique  
-        on the figurines,       
+they also use this technique on the figurines,       
 
 129
 00:08:37,985 --> 00:08:40,251
-        like the snowman.       
+like the snowman.       
 
 130
 00:08:40,253 --> 00:08:43,021
-  a quick shake gives this guy  
-        an inner beauty.        
+a quick shake gives this guy an inner beauty.        
 
 131
 00:08:51,331 --> 00:08:53,999
-       next, they submerge      
-  the glass ornament in lacquer 
+next, they submerge the glass ornament in lacquer 
 
 132
 00:08:54,001 --> 00:08:56,034
-     to give it some color.     
+to give it some color.     
 
 133
 00:08:59,406 --> 00:09:03,408
-    the mirror finish inside    
-   shines through the lacquer.  
+the mirror finish inside shines through the lacquer.  
 
 134
 00:09:07,681 --> 00:09:11,349
-    now the snowman ornament    
-    gets an artist's touch.     
+now the snowman ornament gets an artist's touch.     
 
 135
 00:09:11,351 --> 00:09:14,752
-  she airbrushes white lacquer  
-        onto the figurine       
+she airbrushes white lacquer onto the figurine       
 
 136
 00:09:14,754 --> 00:09:16,488
-      for a frosty finish.      
+for a frosty finish.      
 
 137
 00:09:16,490 --> 00:09:20,191
-      it makes the snowman      
-   look more like old frosty.   
+it makes the snowman look more like old frosty.   
 
 138
 00:09:22,695 --> 00:09:25,697
-        the artist paints       
-  some of the details by hand,  
+the artist paints some of the details by hand,  
 
 139
 00:09:25,699 --> 00:09:29,634
-    like the trim on the hat    
+like the trim on the hat    
 and robe of this santa ornament.
 
 140
@@ -675,284 +573,246 @@ this gives it more visual depth.
 
 141
 00:09:35,509 --> 00:09:37,442
-      once the paint dries,     
+once the paint dries,     
 
 142
 00:09:37,444 --> 00:09:39,844
- she brushes glue onto sections 
+she brushes glue onto sections 
 
 143
 00:09:39,846 --> 00:09:42,948
-  where she wants glitter dust  
-            to stick.           
+where she wants glitter dust to stick.           
 
 144
 00:09:47,988 --> 00:09:51,923
-     the glue dries quickly,    
-   so the artist applies more.  
+the glue dries quickly, so the artist applies more.  
 
 145
 00:09:51,925 --> 00:09:54,259
-          when it comes         
-      to christmas sparkle,     
+when it comes to christmas sparkle,     
 
 146
 00:09:54,261 --> 00:09:55,994
-   you just can't get enough.   
+you just can't get enough.   
 
 147
 00:09:59,266 --> 00:10:03,868
-   next, she makes an incision  
-  in the stem and snaps it off. 
+next, she makes an incision in the stem and snaps it off. 
 
 148
 00:10:08,809 --> 00:10:12,210
-           a metal cap          
-   fits on the ornament stub.   
+a metal cap fits on the ornament stub.   
 
 149
 00:10:14,881 --> 00:10:19,217
-      time to pack up these     
+time to pack up these     
 fragile beauties very carefully.
 
 150
 00:10:19,219 --> 00:10:22,754
-  they put them in boxes that   
-  cradle each one individually  
+they put them in boxes that cradle each one individually  
 
 151
 00:10:22,756 --> 00:10:25,156
-  to ensure they arrive safely. 
+to ensure they arrive safely. 
 
 152
 00:10:25,158 --> 00:10:28,359
-    now these glass ornaments   
- are ready to go "out on a limb"
+now these glass ornaments are ready to go "out on a limb"
 
 153
 00:10:28,361 --> 00:10:31,496
- to add beauty to the holidays. 
+to add beauty to the holidays. 
 
 154
 00:10:49,182 --> 00:10:51,850
 narrator: tires for construction
-      and mining equipment      
+and mining equipment      
 
 155
 00:10:51,852 --> 00:10:53,518
-     are truly giant-sized.     
+are truly giant-sized.     
 
 156
 00:10:53,520 --> 00:10:56,187
-  they can be twice the height  
-        of a human being        
+they can be twice the height of a human being        
 
 157
 00:10:56,189 --> 00:10:57,856
- and weigh thousands of pounds. 
+and weigh thousands of pounds. 
 
 158
 00:10:57,858 --> 00:11:01,860
-   these giant tires also come  
-     with a hefty price tag.    
+these giant tires also come with a hefty price tag.    
 
 159
 00:11:01,862 --> 00:11:05,997
-     just one can cost more     
-  than an average family sedan. 
+just one can cost more than an average family sedan. 
 
 160
 00:11:11,137 --> 00:11:13,805
-      giant tires are made      
-      to carry heavy loads      
+giant tires are made to carry heavy loads      
 
 161
 00:11:13,807 --> 00:11:16,207
-          in conditions         
-  that are seriously off-road,  
+in conditions that are seriously off-road,  
 
 162
 00:11:16,209 --> 00:11:19,077
-           like mining          
-     and construction sites.    
+like mining and construction sites.    
 
 163
 00:11:21,147 --> 00:11:23,214
-      to make giant tires,      
+to make giant tires,      
 
 164
 00:11:23,216 --> 00:11:26,151
-        they feed rubber        
-     into a powerful mixer.     
+they feed rubber into a powerful mixer.     
 
 165
 00:11:31,291 --> 00:11:33,758
-        they add sulfur         
-        and antioxidants        
+they add sulfur and antioxidants        
 
 166
 00:11:33,760 --> 00:11:35,827
-            to boost            
-    the rubber's durability,    
+to boost the rubber's durability,    
 
 167
 00:11:35,829 --> 00:11:39,297
-       as well as recycle       
-      pieces of used tires.     
+as well as recycle pieces of used tires.     
 
 168
 00:11:39,299 --> 00:11:40,899
-    at the top of the mixer,    
+at the top of the mixer,    
 
 169
 00:11:40,901 --> 00:11:43,568
-      they add carbon black     
-      in measured amounts.      
+they add carbon black in measured amounts.      
 
 170
 00:11:43,570 --> 00:11:47,505
-   it's an oil by-product that  
- helps bind everything together.
+it's an oil by-product that helps bind everything together.
 
 171
 00:11:50,377 --> 00:11:53,978
-   the mixing generates heat,   
-   which softens the rubber,    
+the mixing generates heat, which softens the rubber,    
 
 172
 00:11:53,980 --> 00:11:55,447
-        making it doughy.       
+making it doughy.       
 
 173
 00:11:57,450 --> 00:12:00,384
-        the rubber dough        
-   then falls between rollers   
+the rubber dough then falls between rollers   
 
 174
 00:12:00,386 --> 00:12:02,987
-  that squeeze it into a sheet. 
+that squeeze it into a sheet. 
 
 175
 00:12:02,989 --> 00:12:05,356
- the process is called milling. 
+the process is called milling. 
 
 176
 00:12:05,358 --> 00:12:07,258
-  they slice the sheeted rubber 
+they slice the sheeted rubber 
 
 177
 00:12:07,260 --> 00:12:10,394
-        and feed it back        
- into the machine several times.
+and feed it back into the machine several times.
 
 178
 00:12:10,396 --> 00:12:13,531
-      this repeated milling     
-  essentially kneads the rubber 
+this repeated milling essentially kneads the rubber 
 
 179
 00:12:13,533 --> 00:12:15,667
-           to give it           
-     the right consistency.     
+to give it the right consistency.     
 
 180
 00:12:18,938 --> 00:12:21,539
-         once the rubber        
+once the rubber        
 has been sufficiently processed,
 
 181
 00:12:21,541 --> 00:12:24,608
-   they feed it to a conveyor.  
+they feed it to a conveyor.  
 
 182
 00:12:24,610 --> 00:12:27,478
-  a wheel rolls over the rubber 
-       to impress the date      
+a wheel rolls over the rubber to impress the date      
 
 183
 00:12:27,480 --> 00:12:30,681
-    and identification number   
-            onto it.            
+and identification number onto it.            
 
 184
 00:12:30,683 --> 00:12:35,219
-  the rubber then winds through 
-     a tank of soapy water.     
+the rubber then winds through a tank of soapy water.     
 
 185
 00:12:35,221 --> 00:12:36,888
-          as it exits,          
+as it exits,          
 
 186
 00:12:36,890 --> 00:12:39,490
-      it falls over hangers     
-  that move it through a dryer. 
+it falls over hangers that move it through a dryer. 
 
 187
 00:12:39,492 --> 00:12:41,426
-    a soapy residue remains,    
+a soapy residue remains,    
 
 188
 00:12:41,428 --> 00:12:44,094
-       keeping the layers       
-     from sticking together     
+keeping the layers from sticking together     
 
 189
 00:12:44,096 --> 00:12:47,298
- as they await more processing. 
+as they await more processing. 
 
 190
 00:12:47,300 --> 00:12:50,835
-   they write the i.d. number   
-   on a sample of the rubber    
+they write the i.d. number on a sample of the rubber    
 
 191
 00:12:50,837 --> 00:12:53,705
-   and tag the production run   
-      with the same number.     
+and tag the production run with the same number.     
 
 192
 00:12:53,707 --> 00:12:56,908
-         this signifies         
-   that testing is under way.   
+this signifies that testing is under way.   
 
 193
 00:13:03,583 --> 00:13:06,317
-    they tuck the test sample   
-          in a canister         
+they tuck the test sample in a canister         
 
 194
 00:13:06,319 --> 00:13:08,519
-     and send it up a chute     
-           to the lab.          
+and send it up a chute to the lab.          
 
 195
 00:13:08,521 --> 00:13:11,856
- once it's confirmed the rubber 
- has the right characteristics, 
+once it's confirmed the rubber has the right characteristics, 
 
 196
 00:13:11,858 --> 00:13:14,592
-      it's ready to be made     
-   into the various components  
+it's ready to be made into the various components  
 
 197
 00:13:14,594 --> 00:13:16,561
-        of a giant tire.        
+of a giant tire.        
 
 198
 00:13:20,767 --> 00:13:22,400
-      at the next station,      
+at the next station,      
 
 199
 00:13:22,402 --> 00:13:27,204
-     dozens of steel cords      
-     unwind into a machine.     
+dozens of steel cords unwind into a machine.     
 
 200
 00:13:27,206 --> 00:13:30,941
-        each cord is made       
-   of numerous steel threads,   
+each cord is made of numerous steel threads,   
 
 201
 00:13:30,943 --> 00:13:33,478
@@ -960,113 +820,97 @@ and each thread is brass-plated.
 
 202
 00:13:33,480 --> 00:13:39,117
- these steel cords will be used 
+these steel cords will be used 
 to fortify the processed rubber.
 
 203
 00:13:41,554 --> 00:13:44,555
-    the cords enter a machine   
-       called an extruder.      
+the cords enter a machine called an extruder.      
 
 204
 00:13:44,557 --> 00:13:47,491
-       it grinds and heats      
-  some of the processed rubber  
+it grinds and heats some of the processed rubber  
 
 205
 00:13:47,493 --> 00:13:51,095
-    and then forces it around   
- the steel cords to encase them.
+and then forces it around the steel cords to encase them.
 
 206
 00:13:53,099 --> 00:13:55,733
-   the result is what's known   
-     as steel-belted rubber.    
+the result is what's known as steel-belted rubber.    
 
 207
 00:14:00,373 --> 00:14:03,641
-     they cut several of the    
- steel-belted strips on an angle
+they cut several of the steel-belted strips on an angle
 
 208
 00:14:03,643 --> 00:14:06,978
-     and fuse them together.    
+and fuse them together.    
 
 209
 00:14:06,980 --> 00:14:10,114
-     this exposes steel cord    
-        around the edges,       
+this exposes steel cord around the edges,       
 
 210
 00:14:10,116 --> 00:14:12,951
-         so hot rollers         
-     seal them with rubber.     
+so hot rollers seal them with rubber.     
 
 211
 00:14:19,058 --> 00:14:20,925
-     the steel-belted rubber    
+the steel-belted rubber    
 
 212
 00:14:20,927 --> 00:14:24,728
-       will make the tires      
-  more resistant to punctures.  
+will make the tires more resistant to punctures.  
 
 213
 00:14:24,730 --> 00:14:27,532
-          but they make         
-   the tires' basic structure   
+but they make the tires' basic structure   
 
 214
 00:14:27,534 --> 00:14:30,067
- from rubber-coated nylon cord. 
+from rubber-coated nylon cord. 
 
 215
 00:14:30,069 --> 00:14:34,005
-  they cut the nylon-rubber ply 
-      to a specific length.     
+they cut the nylon-rubber ply to a specific length.     
 
 216
 00:14:36,876 --> 00:14:39,677
-       workers then piece       
+workers then piece       
 several of these sheets together
 
 217
 00:14:39,679 --> 00:14:40,744
-         to form a loop.        
+to form a loop.        
 
 218
 00:14:40,746 --> 00:14:44,148
-        the pieces adhere       
-     because uncured rubber     
+the pieces adhere because uncured rubber     
 
 219
 00:14:44,150 --> 00:14:45,817
-       is naturally tacky.      
+is naturally tacky.      
 
 220
 00:14:45,819 --> 00:14:49,854
-  and a machine rolls the loop  
-      to the correct size.      
+and a machine rolls the loop to the correct size.      
 
 221
 00:14:51,824 --> 00:14:54,825
-         they layer more        
-     of the nylon-rubber ply    
+they layer more of the nylon-rubber ply    
 
 222
 00:14:54,827 --> 00:14:57,896
-     in a crisscross fashion    
-        to add strength.        
+in a crisscross fashion to add strength.        
 
 223
 00:15:01,367 --> 00:15:03,768
-           the machine          
-    that helps size the loop    
+the machine that helps size the loop    
 
 224
 00:15:03,770 --> 00:15:06,503
-          also applies          
- a thin layer of ordinary rubber
+also applies a thin layer of ordinary rubber
 
 225
 00:15:06,505 --> 00:15:09,374
@@ -1074,115 +918,101 @@ between each crisscrossed layer.
 
 226
 00:15:09,376 --> 00:15:11,376
- this thickens the rubber loop. 
+this thickens the rubber loop. 
 
 227
 00:15:13,046 --> 00:15:16,580
-        the finished loop       
-       is called the band.      
+the finished loop is called the band.      
 
 228
 00:15:16,582 --> 00:15:19,317
-       it's the skeleton        
-       of the giant tire.       
+it's the skeleton of the giant tire.       
 
 229
 00:15:22,188 --> 00:15:24,121
-    they hoist it onto a cart   
+they hoist it onto a cart   
 
 230
 00:15:24,123 --> 00:15:26,758
-           and move it          
-      to the next station.      
+and move it to the next station.      
 
 231
 00:15:29,462 --> 00:15:33,731
-    stay tuned, as they shape   
- and inflate this band of rubber
+stay tuned, as they shape and inflate this band of rubber
 
 232
 00:15:33,733 --> 00:15:36,434
-  to turn it into a giant tire. 
+to turn it into a giant tire. 
 
 233
 00:15:47,947 --> 00:15:50,748
-            narrator:           
-     when it comes to tires,    
-   it takes time to supersize.  
+narrator: when it comes to tires, it takes time to supersize.  
 
 234
 00:15:50,750 --> 00:15:53,818
-       making a giant tire      
-   can take 24 hours or more,   
+making a giant tire can take 24 hours or more,   
 
 235
 00:15:53,820 --> 00:15:56,954
-    mainly because the rubber   
-     needs a lot of curing.     
+mainly because the rubber needs a lot of curing.     
 
 236
 00:15:56,956 --> 00:16:00,158
-    it's not mass production.   
-    it's<i> massive</i> production.    
+it's not mass production. it's<i> massive</i> production.    
 
 237
 00:16:00,160 --> 00:16:01,559
-          as a result,          
+as a result,          
 
 238
 00:16:01,561 --> 00:16:05,196
-     factories only produce     
+factories only produce     
 a few of the largest ones a day.
 
 239
 00:16:10,236 --> 00:16:13,838
 this machine is about to stretch
-     the big band of rubber     
+the big band of rubber     
 
 240
 00:16:13,840 --> 00:16:15,340
-        like an elastic.        
+like an elastic.        
 
 241
 00:16:20,714 --> 00:16:22,180
-       the machine pivots,      
+the machine pivots,      
 
 242
 00:16:22,182 --> 00:16:25,049
-      and its many rollers      
-         expand and turn        
+and its many rollers expand and turn        
 
 243
 00:16:25,051 --> 00:16:27,718
-      to transfer the band      
-      to a spinning drum.       
+to transfer the band to a spinning drum.       
 
 244
 00:16:27,720 --> 00:16:30,855
-      the machine pumps air     
-  around the protruding rollers 
+the machine pumps air around the protruding rollers 
 
 245
 00:16:30,857 --> 00:16:32,656
-  to make the transfer easier,  
+to make the transfer easier,  
 
 246
 00:16:32,658 --> 00:16:34,992
-      while the drum turns      
-      at a constant speed       
+while the drum turns at a constant speed       
 
 247
 00:16:34,994 --> 00:16:36,394
-       to aid the process.      
+to aid the process.      
 
 248
 00:16:41,201 --> 00:16:43,401
- once the transfer is complete, 
+once the transfer is complete, 
 
 249
 00:16:43,403 --> 00:16:46,804
-      the rollers retract,      
-      and the air escapes.      
+the rollers retract, and the air escapes.      
 
 250
 00:16:46,806 --> 00:16:51,109
@@ -1191,42 +1021,35 @@ to the drum and take its shape.
 
 251
 00:16:56,883 --> 00:17:00,485
-      they fold the overlap     
-  into the center of the drum.  
+they fold the overlap into the center of the drum.  
 
 252
 00:17:02,288 --> 00:17:08,159
-  the giant rubber band now has 
-  the basic contour of a tire.  
+the giant rubber band now has the basic contour of a tire.  
 
 253
 00:17:08,161 --> 00:17:09,693
-      next, another machine     
+next, another machine     
 
 254
 00:17:09,695 --> 00:17:12,363
-   coats numerous steel wires   
-          with rubber,          
+coats numerous steel wires with rubber,          
 
 255
 00:17:12,365 --> 00:17:14,965
-         creating strips        
-      of rubberized steel.      
+creating strips of rubberized steel.      
 
 256
 00:17:14,967 --> 00:17:17,568
-        this will be used       
-       to make the bead --      
+this will be used to make the bead --      
 
 257
 00:17:17,570 --> 00:17:20,705
-      the part of the tire      
-   that sits on the wheel rim.  
+the part of the tire that sits on the wheel rim.  
 
 258
 00:17:23,843 --> 00:17:27,311
- they wind the rubberized steel 
-      around a metal wheel      
+they wind the rubberized steel around a metal wheel      
 
 259
 00:17:27,313 --> 00:17:30,348
@@ -1234,147 +1057,127 @@ up to 20 times to form the bead.
 
 260
 00:17:36,589 --> 00:17:39,524
-      they remove the bead      
-         and inspect it.        
+they remove the bead and inspect it.        
 
 261
 00:17:41,527 --> 00:17:44,528
-         then they pack         
- a thick layer of rubber onto it
+then they pack a thick layer of rubber onto it
 
 262
 00:17:44,530 --> 00:17:49,199
-      so it will be easier      
-      to shape to the tire.     
+so it will be easier to shape to the tire.     
 
 263
 00:17:49,201 --> 00:17:51,402
-         using a special        
-        applicator wheel,       
+using a special applicator wheel,       
 
 264
 00:17:51,404 --> 00:17:54,872
- they push the bead against the 
- lip of the rubber tire shape.  
+they push the bead against the lip of the rubber tire shape.  
 
 265
 00:17:54,874 --> 00:17:59,544
- the bead adheres, but it needs 
-  to be more solidly attached.  
+the bead adheres, but it needs to be more solidly attached.  
 
 266
 00:18:01,547 --> 00:18:04,748
- a spinning disk forces the bead
-           more firmly          
+a spinning disk forces the bead
+more firmly          
 
 267
 00:18:04,750 --> 00:18:06,617
-    to the rubber tire shape.   
+to the rubber tire shape.   
 
 268
 00:18:10,156 --> 00:18:13,091
-     then the tire assembler    
-   folds back the extra rubber  
+then the tire assembler folds back the extra rubber  
 
 269
 00:18:13,093 --> 00:18:14,625
-          from the tire         
+from the tire         
 
 270
 00:18:14,627 --> 00:18:19,330
- and wraps it around the bead,  
- using sheer physical strength. 
+and wraps it around the bead, using sheer physical strength. 
 
 271
 00:18:21,167 --> 00:18:25,169
- they install two or three beads
-    on each side of the tire.   
+they install two or three beads
+on each side of the tire.   
 
 272
 00:18:25,171 --> 00:18:28,705
-     the multiroller device     
-  takes over from the assembler 
+the multiroller device takes over from the assembler 
 
 273
 00:18:28,707 --> 00:18:32,443
-   and folds back extra rubber  
-   to lock the beads in place.  
+and folds back extra rubber to lock the beads in place.  
 
 274
 00:18:34,514 --> 00:18:36,047
-      next, the tire turns      
+next, the tire turns      
 
 275
 00:18:36,049 --> 00:18:39,316
 as they wind steel-belted rubber
-           around it,           
+around it,           
 
 276
 00:18:39,318 --> 00:18:42,653
- followed by a continuous strip 
-       of ordinary rubber.      
+followed by a continuous strip of ordinary rubber.      
 
 277
 00:18:42,655 --> 00:18:45,323
-  that strip builds up contours 
-           for tread.           
+that strip builds up contours for tread.           
 
 278
 00:18:53,399 --> 00:18:56,801
-    the assembler then wraps    
+the assembler then wraps    
 a thick piece of ordinary rubber
 
 279
 00:18:56,803 --> 00:18:58,536
-     around the outer edge.     
+around the outer edge.     
 
 280
 00:18:58,538 --> 00:19:01,605
-  this is the tire's sidewall.  
+this is the tire's sidewall.  
 
 281
 00:19:01,607 --> 00:19:04,075
-    the spinning-disc device    
+the spinning-disc device    
 
 282
 00:19:04,077 --> 00:19:07,111
-      presses the sidewall      
-          to the tire.          
+presses the sidewall to the tire.          
 
 283
 00:19:09,281 --> 00:19:12,250
-     this tire is now ready     
-           to move on.          
+this tire is now ready to move on.          
 
 284
 00:19:14,820 --> 00:19:18,222
-   here, a huge rubber bladder  
-      inflates and deflates     
+here, a huge rubber bladder inflates and deflates     
 
 285
 00:19:18,224 --> 00:19:21,225
-        as they spray it        
-    with a nonstick coating.    
+as they spray it with a nonstick coating.    
 
 286
 00:19:21,227 --> 00:19:25,029
-      this bladder will act     
-  as the inner part of a mold.  
+this bladder will act as the inner part of a mold.  
 
 287
 00:19:31,771 --> 00:19:36,373
-       they lift the tire       
-   onto the deflated bladder.   
+they lift the tire onto the deflated bladder.   
 
 288
 00:19:36,375 --> 00:19:41,012
-  they then pump steam into it, 
-       expanding the tire.      
+they then pump steam into it, expanding the tire.      
 
 289
 00:19:44,584 --> 00:19:47,918
-        a metal mold with       
- a tread pattern engraved in it 
+a metal mold with a tread pattern engraved in it 
 
 290
 00:19:47,920 --> 00:19:51,655
@@ -1382,66 +1185,58 @@ closes around the swelling tire.
 
 291
 00:19:51,657 --> 00:19:55,526
-   the tire cooks in this mold  
-       for up to 18 hours,      
+the tire cooks in this mold for up to 18 hours,      
 
 292
 00:19:55,528 --> 00:19:57,728
-   causing the rubber to cure.  
+causing the rubber to cure.  
 
 293
 00:20:00,867 --> 00:20:05,269
-         the giant tire         
+the giant tire         
 pops out of the mold with tread.
 
 294
 00:20:12,946 --> 00:20:15,412
-         the brand name         
-   and identification numbers   
+the brand name and identification numbers   
 
 295
 00:20:15,414 --> 00:20:17,682
-      have all been molded      
-        into the rubber.        
+have all been molded into the rubber.        
 
 296
 00:20:21,087 --> 00:20:22,620
-         after cooling,         
+after cooling,         
 
 297
 00:20:22,622 --> 00:20:27,491
-   an inspection team examines  
- the giant tire inside and out. 
+an inspection team examines the giant tire inside and out. 
 
 298
 00:20:27,493 --> 00:20:31,562
-   and once it gets the okay,   
-       it's ready to roll.      
+and once it gets the okay, it's ready to roll.      
 
 299
 00:20:31,564 --> 00:20:33,630
-  and with all that deep tread, 
+and with all that deep tread, 
 
 300
 00:20:33,632 --> 00:20:37,301
-  each giant tire is guaranteed 
-    to make a big impression    
+each giant tire is guaranteed to make a big impression    
 
 301
 00:20:37,303 --> 00:20:39,470
-         on the jobsite.        
+on the jobsite.        
 
 302
 00:20:46,979 --> 00:20:49,447
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 303
 00:20:49,449 --> 00:20:52,383
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 304
 00:20:52,385 --> 00:20:55,052
-      drop us a line at...      
+drop us a line at...      
 

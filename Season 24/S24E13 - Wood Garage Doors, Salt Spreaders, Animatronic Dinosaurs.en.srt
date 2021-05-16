@@ -1,12 +1,10 @@
 ﻿1
 00:00:01,535 --> 00:00:04,603
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,605 --> 00:00:07,539
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:53,454 --> 00:00:56,121
@@ -15,216 +13,185 @@ than just a functional component
 
 4
 00:00:56,123 --> 00:00:58,190
-           of a house.          
+of a house.          
 
 5
 00:00:58,192 --> 00:01:01,059
-  it's part of the curb appeal, 
+it's part of the curb appeal, 
 
 6
 00:01:01,061 --> 00:01:03,661
-   especially when the garage   
-     is prominently located     
+especially when the garage is prominently located     
 
 7
 00:01:03,663 --> 00:01:05,731
-    at the front of the home.   
+at the front of the home.   
 
 8
 00:01:05,733 --> 00:01:08,733
-      garage doors are made     
-  from a variety of materials,  
+garage doors are made from a variety of materials,  
 
 9
 00:01:08,735 --> 00:01:11,136
- wood being the high-end option.
+wood being the high-end option.
 
 10
 00:01:13,207 --> 00:01:16,675
-       a wood garage door       
- is pricier than standard steel,
+a wood garage door is pricier than standard steel,
 
 11
 00:01:16,677 --> 00:01:19,745
- aluminum, or vinyl panel doors.
+aluminum, or vinyl panel doors.
 
 12
 00:01:19,747 --> 00:01:22,748
-         but they offer         
-  the most design flexibility.  
+but they offer the most design flexibility.  
 
 13
 00:01:22,750 --> 00:01:25,217
-     wood can be customized     
-          to any style          
+wood can be customized to any style          
 
 14
 00:01:25,219 --> 00:01:28,420
-     and painted or stained     
-           any color.           
+and painted or stained any color.           
 
 15
 00:01:28,422 --> 00:01:33,424
-  western red cedar, mahogany,  
- and hemlock are popular choices
+western red cedar, mahogany, and hemlock are popular choices
 
 16
 00:01:33,426 --> 00:01:36,562
-      because they hold up      
-   particularly well outdoors.  
+because they hold up particularly well outdoors.  
 
 17
 00:01:38,832 --> 00:01:42,300
-       garage doors start       
-    with the core structure.    
+garage doors start with the core structure.    
 
 18
 00:01:42,302 --> 00:01:45,904
-      for the core surface,     
- they use exterior-grade plywood
+for the core surface, they use exterior-grade plywood
 
 19
 00:01:45,906 --> 00:01:49,307
- so that the indoor-facing side 
-   of the core can be stained   
+so that the indoor-facing side of the core can be stained   
 
 20
 00:01:49,309 --> 00:01:53,378
-  to match the decorative wood  
-      on the outdoor side.      
+to match the decorative wood on the outdoor side.      
 
 21
 00:01:53,380 --> 00:01:55,580
-           they build           
-  the core's internal structure 
+they build the core's internal structure 
 
 22
 00:01:55,582 --> 00:01:58,816
-      out of finger-jointed     
-          yellow pine.          
+out of finger-jointed yellow pine.          
 
 23
 00:01:58,818 --> 00:02:00,852
- finger-jointed means each piece
+finger-jointed means each piece
 
 24
 00:02:00,854 --> 00:02:03,789
-       is made of several       
-    short, connected pieces.    
+is made of several short, connected pieces.    
 
 25
 00:02:03,791 --> 00:02:05,524
-   it is structurally stronger  
+it is structurally stronger  
 
 26
 00:02:05,526 --> 00:02:07,593
-         and less prone         
-     to twisting and bowing     
+and less prone to twisting and bowing     
 
 27
 00:02:07,595 --> 00:02:09,461
-   than a solid piece of wood.  
+than a solid piece of wood.  
 
 28
 00:02:12,065 --> 00:02:15,734
-      they build a core for     
+they build a core for     
 each section of the garage door.
 
 29
 00:02:17,337 --> 00:02:19,338
-       the core structures      
-         can be designed        
+the core structures can be designed        
 
 30
 00:02:19,340 --> 00:02:22,808
-     to accommodate windows     
-    or other unique features.   
+to accommodate windows or other unique features.   
 
 31
 00:02:26,413 --> 00:02:28,680
-          they insulate         
-      every core structure      
+they insulate every core structure      
 
 32
 00:02:28,682 --> 00:02:30,548
-   with pieces of polystyrene.  
+with pieces of polystyrene.  
 
 33
 00:02:30,550 --> 00:02:33,485
-   this helps keep the garage   
-      warmer in the winter      
+this helps keep the garage warmer in the winter      
 
 34
 00:02:33,487 --> 00:02:37,089
-    and cooler in the summer.   
+and cooler in the summer.   
 
 35
 00:02:37,091 --> 00:02:40,425
-     now they run two sheets    
-    of exterior-grade plywood   
+now they run two sheets of exterior-grade plywood   
 
 36
 00:02:40,427 --> 00:02:44,096
-  through a machine that coats  
-  the top and bottom with glue. 
+through a machine that coats the top and bottom with glue. 
 
 37
 00:02:44,098 --> 00:02:46,431
-       they lay the sheets      
-      onto a core structure     
+they lay the sheets onto a core structure     
 
 38
 00:02:46,433 --> 00:02:50,835
-     and place a second core    
- structure on top of the first. 
+and place a second core structure on top of the first. 
 
 39
 00:02:50,837 --> 00:02:52,637
-    they repeat this process    
+they repeat this process    
 
 40
 00:02:52,639 --> 00:02:54,973
-    until they've stacked up    
-     enough core structures     
+until they've stacked up enough core structures     
 
 41
 00:02:54,975 --> 00:02:56,775
-      required for the door     
-        they are making.        
+required for the door they are making.        
 
 42
 00:02:58,712 --> 00:03:02,381
-       they put the stack       
-  into a press for a half-hour. 
+they put the stack into a press for a half-hour. 
 
 43
 00:03:02,383 --> 00:03:07,452
 the press applies 130,000 pounds
-      while the glue cures.     
+while the glue cures.     
 
 44
 00:03:07,454 --> 00:03:10,389
-   then they load each section  
-         onto a machine,        
+then they load each section onto a machine,        
 
 45
 00:03:10,391 --> 00:03:12,924
-          which cuts it         
-     to the width required.     
+which cuts it to the width required.     
 
 46
 00:03:12,926 --> 00:03:14,926
-  the machine also makes a lip  
+the machine also makes a lip  
 
 47
 00:03:14,928 --> 00:03:16,795
-         to direct rain         
-       away from the door       
+to direct rain away from the door       
 
 48
 00:03:16,797 --> 00:03:21,600
-    so that water doesn't run   
-      back into the garage.     
+so that water doesn't run back into the garage.     
 
 49
 00:03:21,602 --> 00:03:23,868
@@ -232,219 +199,185 @@ when a core section has windows,
 
 50
 00:03:23,870 --> 00:03:26,405
- they cut the openings for them 
-         with a router.         
+they cut the openings for them with a router.         
 
 51
 00:03:36,350 --> 00:03:38,683
-  using a template as a guide,  
+using a template as a guide,  
 
 52
 00:03:38,685 --> 00:03:41,420
-    they drill holes through    
-     the front of the core.     
+they drill holes through the front of the core.     
 
 53
 00:03:43,691 --> 00:03:45,290
-    with a countersink tool,    
+with a countersink tool,    
 
 54
 00:03:45,292 --> 00:03:48,560
-     they cut a wide opening    
-        around each hole.       
+they cut a wide opening around each hole.       
 
 55
 00:03:48,562 --> 00:03:52,064
-      they insert "t" nuts      
-         into the holes.        
+they insert "t" nuts into the holes.        
 
 56
 00:03:54,100 --> 00:03:56,701
-      this enables hardware     
-   to be mounted on the inside  
+this enables hardware to be mounted on the inside  
 
 57
 00:03:56,703 --> 00:03:58,637
-       of the garage door.      
+of the garage door.      
 
 58
 00:04:02,976 --> 00:04:05,744
-         at this point,         
-   the connected core sections  
+at this point, the connected core sections  
 
 59
 00:04:05,746 --> 00:04:09,714
- can function as a structurally 
-       sound garage door.       
+can function as a structurally sound garage door.       
 
 60
 00:04:09,716 --> 00:04:12,384
-     however, there's still     
-   aesthetic work left to do.   
+however, there's still aesthetic work left to do.   
 
 61
 00:04:14,321 --> 00:04:18,390
- the plywood on the front of the
- door serves as a blank canvas. 
+the plywood on the front of the
+door serves as a blank canvas. 
 
 62
 00:04:18,392 --> 00:04:21,326
- they glue decorative wood trim 
-        to the front door       
+they glue decorative wood trim to the front door       
 
 63
 00:04:21,328 --> 00:04:26,064
- to produce the design specified
-    in the customer's order.    
+to produce the design specified
+in the customer's order.    
 
 64
 00:04:26,066 --> 00:04:30,001
-         for this door,         
- they're using african mahogany.
+for this door, they're using african mahogany.
 
 65
 00:04:30,003 --> 00:04:33,004
-   they've already cut pieces   
-   to the required dimensions,  
+they've already cut pieces to the required dimensions,  
 
 66
 00:04:33,006 --> 00:04:36,007
-  with tongue-and-groove edges  
-  that enable adjoining pieces  
+with tongue-and-groove edges that enable adjoining pieces  
 
 67
 00:04:36,009 --> 00:04:37,542
-           to connect.          
+to connect.          
 
 68
 00:04:39,813 --> 00:04:41,413
-      once the glue dries,      
+once the glue dries,      
 
 69
 00:04:41,415 --> 00:04:43,849
-  they cut off the excess wood  
-         with a router.         
+they cut off the excess wood with a router.         
 
 70
 00:04:49,490 --> 00:04:52,024
-   then they sand the surface   
-      and prepare the wood      
+then they sand the surface and prepare the wood      
 
 71
 00:04:52,026 --> 00:04:53,759
-    to be stained or painted.   
+to be stained or painted.   
 
 72
 00:04:53,761 --> 00:04:56,495
-   they line up the remaining   
-          core section          
+they line up the remaining core section          
 
 73
 00:04:56,497 --> 00:04:59,564
-           and glue on          
-  the corresponding wood trim.  
+and glue on the corresponding wood trim.  
 
 74
 00:04:59,566 --> 00:05:03,135
-    they secure the wood trim   
-     to the core with nails.    
+they secure the wood trim to the core with nails.    
 
 75
 00:05:22,322 --> 00:05:25,590
-        after cutting off       
- the last pieces of excess wood,
+after cutting off the last pieces of excess wood,
 
 76
 00:05:25,592 --> 00:05:28,059
-     they install the glass     
-        for the windows.        
+they install the glass for the windows.        
 
 77
 00:05:28,061 --> 00:05:32,364
-     the dealer will install    
-   the hardware upon delivery.  
+the dealer will install the hardware upon delivery.  
 
 78
 00:05:37,938 --> 00:05:39,805
-     prior to installation,     
+prior to installation,     
 
 79
 00:05:39,807 --> 00:05:41,873
-        either the dealer       
-         or the customer        
+either the dealer or the customer        
 
 80
 00:05:41,875 --> 00:05:44,443
-  will stain or paint the wood  
-       the desired color.       
+will stain or paint the wood the desired color.       
 
 81
 00:05:59,025 --> 00:06:01,359
-            narrator:           
-     sand-and-salt spreaders    
+narrator: sand-and-salt spreaders    
 
 82
 00:06:01,361 --> 00:06:02,894
-         were developed         
-      in the united states      
+were developed in the united states      
 
 83
 00:06:02,896 --> 00:06:05,296
-          in the middle         
-      of the 20th century.      
+in the middle of the 20th century.      
 
 84
 00:06:05,298 --> 00:06:08,433
-          before that,          
-  crews kept winter roads safe  
+before that, crews kept winter roads safe  
 
 85
 00:06:08,435 --> 00:06:11,102
-   by shoveling sand and salt   
-          from trucks.          
+by shoveling sand and salt from trucks.          
 
 86
 00:06:11,104 --> 00:06:14,573
-        things got easier       
-    when mechanical spreaders   
+things got easier when mechanical spreaders   
 
 87
 00:06:14,575 --> 00:06:16,742
-  took over the heavy lifting.  
+took over the heavy lifting.  
 
 88
 00:06:19,446 --> 00:06:21,179
-      winter storm brewing?     
+winter storm brewing?     
 
 89
 00:06:21,181 --> 00:06:24,382
-     sand-and-salt spreaders    
-        have it covered.        
+sand-and-salt spreaders have it covered.        
 
 90
 00:06:24,384 --> 00:06:28,420
-  they distribute salt to melt  
- the ice and sand for traction. 
+they distribute salt to melt the ice and sand for traction. 
 
 91
 00:06:30,924 --> 00:06:34,526
- they start with two big sheets 
-       of stainless steel.      
+they start with two big sheets of stainless steel.      
 
 92
 00:06:34,528 --> 00:06:37,462
- computer-driven plasma torches 
-         carve the steel        
+computer-driven plasma torches carve the steel        
 
 93
 00:06:37,464 --> 00:06:42,267
- into the four panels that will 
-  be used to build the hopper.  
+into the four panels that will be used to build the hopper.  
 
 94
 00:06:42,269 --> 00:06:45,203
-       next, the operator       
-      transfers the panels      
+next, the operator transfers the panels      
 
 95
 00:06:45,205 --> 00:06:49,074
@@ -452,170 +385,144 @@ to another computerized machine.
 
 96
 00:06:49,076 --> 00:06:52,276
-          this one has          
-      numerous punch tools.     
+this one has numerous punch tools.     
 
 97
 00:06:52,278 --> 00:06:56,982
- they cut holes for nuts, bolts,
- bearings, and other components.
+they cut holes for nuts, bolts,
+bearings, and other components.
 
 98
 00:06:59,486 --> 00:07:02,820
-         then it's over         
-   to a hydraulic press brake.  
+then it's over to a hydraulic press brake.  
 
 99
 00:07:02,822 --> 00:07:05,423
-       it bends the bottom      
-       of the hopper panel      
+it bends the bottom of the hopper panel      
 
 100
 00:07:05,425 --> 00:07:07,092
-      to create a wide rim.     
+to create a wide rim.     
 
 101
 00:07:07,094 --> 00:07:10,429
-   this wide rim adds rigidity  
-          to the part.          
+this wide rim adds rigidity to the part.          
 
 102
 00:07:10,431 --> 00:07:12,830
-         the team flips         
-     the hopper panel around    
+the team flips the hopper panel around    
 
 103
 00:07:12,832 --> 00:07:16,101
-       so the press brake       
-       can bend the top.        
+so the press brake can bend the top.        
 
 104
 00:07:16,103 --> 00:07:20,405
-   computerized stops control   
-   the location of each bend.   
+computerized stops control the location of each bend.   
 
 105
 00:07:22,576 --> 00:07:26,044
 a worker clamps the hopper panel
-   in a fixture to prop it up   
+in a fixture to prop it up   
 
 106
 00:07:26,046 --> 00:07:30,115
- while he welds ribbed supports 
-         to the outside.        
+while he welds ribbed supports to the outside.        
 
 107
 00:07:30,117 --> 00:07:32,651
-    he adds two or three ribs   
-       to each side panel,      
+he adds two or three ribs to each side panel,      
 
 108
 00:07:32,653 --> 00:07:37,389
-      depending on the size     
-        of the spreader.        
+depending on the size of the spreader.        
 
 109
 00:07:37,391 --> 00:07:40,191
-        once all the ribs       
-        have been welded,       
+once all the ribs have been welded,       
 
 110
 00:07:40,193 --> 00:07:44,328
-          a team joins          
+a team joins          
 the four hopper panels together.
 
 111
 00:07:44,330 --> 00:07:49,034
- they clamp a bar across one end
-   to square up the structure.  
+they clamp a bar across one end
+to square up the structure.  
 
 112
 00:07:50,804 --> 00:07:55,240
 once it's aligned, they weld the
-  spreader hopper at the seams. 
+spreader hopper at the seams. 
 
 113
 00:07:58,812 --> 00:08:01,479
-        these tight seams       
-    create a rugged structure   
+these tight seams create a rugged structure   
 
 114
 00:08:01,481 --> 00:08:03,148
-        that will hold up       
-        under the burden        
+that will hold up under the burden        
 
 115
 00:08:03,150 --> 00:08:05,684
-   of heavy road salt or sand.  
+of heavy road salt or sand.  
 
 116
 00:08:07,821 --> 00:08:10,421
-       now a worker builds      
-         the steel chute        
+now a worker builds the steel chute        
 
 117
 00:08:10,423 --> 00:08:13,325
-      that the sand or salt     
-       will flow through.       
+that the sand or salt will flow through.       
 
 118
 00:08:14,962 --> 00:08:17,829
-  he attaches several brackets  
-    to the inside and outside   
+he attaches several brackets to the inside and outside   
 
 119
 00:08:17,831 --> 00:08:19,564
-          of the chute.         
+of the chute.         
 
 120
 00:08:19,566 --> 00:08:22,567
-     these brackets are for     
-   the adjustable steel flaps   
+these brackets are for the adjustable steel flaps   
 
 121
 00:08:22,569 --> 00:08:25,737
-  that direct the flow of salt  
-        onto the highway.       
+that direct the flow of salt onto the highway.       
 
 122
 00:08:28,842 --> 00:08:32,644
-  here he installs the adjuster 
-    bar for one of the flaps.   
+here he installs the adjuster bar for one of the flaps.   
 
 123
 00:08:32,646 --> 00:08:35,847
-       he swings the flap       
-   to confirm it moves freely.  
+he swings the flap to confirm it moves freely.  
 
 124
 00:08:35,849 --> 00:08:38,916
-        a pin is inserted       
-       in the adjuster bar      
+a pin is inserted in the adjuster bar      
 
 125
 00:08:38,918 --> 00:08:42,187
-         to set the flap        
-     at the desired spacing.    
+to set the flap at the desired spacing.    
 
 126
 00:08:42,189 --> 00:08:46,491
-      he attaches a bearing     
-   to each side of the chute.   
+he attaches a bearing to each side of the chute.   
 
 127
 00:08:47,994 --> 00:08:51,663
-  he slides a long steel shaft  
-      through the bearings      
+he slides a long steel shaft through the bearings      
 
 128
 00:08:51,665 --> 00:08:53,999
-       until it protrudes       
-        from the bottom.        
+until it protrudes from the bottom.        
 
 129
 00:08:55,602 --> 00:08:58,136
-      he secures the shaft      
-       to the bearings...       
+he secures the shaft to the bearings...       
 
 130
 00:09:02,543 --> 00:09:06,811
@@ -624,264 +531,229 @@ spinner to the protruding shaft.
 
 131
 00:09:11,751 --> 00:09:14,619
-    this spinner will spread    
-  the road salt or sand evenly  
+this spinner will spread the road salt or sand evenly  
 
 132
 00:09:14,621 --> 00:09:16,721
-        across the road.        
+across the road.        
 
 133
 00:09:20,627 --> 00:09:24,496
-  customers on tighter budgets  
- sometimes choose salt spreaders
+customers on tighter budgets sometimes choose salt spreaders
 
 134
 00:09:24,498 --> 00:09:27,532
-       made of mild steel       
-      instead of stainless.     
+made of mild steel instead of stainless.     
 
 135
 00:09:29,035 --> 00:09:33,638
-  they spray a dry powder coat  
-        onto these units.       
+they spray a dry powder coat onto these units.       
 
 136
 00:09:33,640 --> 00:09:37,709
-     then they roll the part    
-   into an oven to bake it on.  
+then they roll the part into an oven to bake it on.  
 
 137
 00:09:37,711 --> 00:09:40,978
 this durable finish will protect
-   the hoppers from corrosion   
+the hoppers from corrosion   
 
 138
 00:09:40,980 --> 00:09:43,648
-        and general wear.       
+and general wear.       
 
 139
 00:09:43,650 --> 00:09:47,052
-           now back to          
-  the stainless-steel spreader. 
+now back to the stainless-steel spreader. 
 
 140
 00:09:47,054 --> 00:09:50,322
-   the team fastens a gearbox   
-   to the side of the hopper.   
+the team fastens a gearbox to the side of the hopper.   
 
 141
 00:09:50,324 --> 00:09:53,525
-   it will drive the conveyer   
-   that delivers salt or sand   
+it will drive the conveyer that delivers salt or sand   
 
 142
 00:09:53,527 --> 00:09:55,260
-          to the chute.         
+to the chute.         
 
 143
 00:09:57,330 --> 00:10:01,332
-   a worker temporarily powers  
-    the gearbox with a drill    
+a worker temporarily powers the gearbox with a drill    
 
 144
 00:10:01,334 --> 00:10:04,268
-  to assist in the installation 
-        of the conveyer.        
+to assist in the installation of the conveyer.        
 
 145
 00:10:04,270 --> 00:10:07,906
- he pushes the conveyor forward 
- until the gearbox takes over.  
+he pushes the conveyor forward until the gearbox takes over.  
 
 146
 00:10:09,809 --> 00:10:11,810
-     he installs a feed gate    
-         at the opening         
+he installs a feed gate at the opening         
 
 147
 00:10:11,812 --> 00:10:15,146
-      and screws the lever      
-   to the side of the hopper.   
+and screws the lever to the side of the hopper.   
 
 148
 00:10:19,152 --> 00:10:22,887
- they stockpile hoppers, chutes,
-      and motors separately     
+they stockpile hoppers, chutes,
+and motors separately     
 
 149
 00:10:22,889 --> 00:10:25,623
-    until an order is placed.   
+until an order is placed.   
 
 150
 00:10:25,625 --> 00:10:29,094
-    this allows the customer    
- to choose individual components
+this allows the customer to choose individual components
 
 151
 00:10:29,096 --> 00:10:31,829
-   before the final assembly.   
+before the final assembly.   
 
 152
 00:10:31,831 --> 00:10:35,633
-    for example, the customer   
- way want a specific gas motor, 
+for example, the customer way want a specific gas motor, 
 
 153
 00:10:35,635 --> 00:10:39,370
-       or they may choose       
-        a hydraulic one.        
+or they may choose a hydraulic one.        
 
 154
 00:10:39,372 --> 00:10:41,773
-       once they've bolted      
-    the chute to the hopper,    
+once they've bolted the chute to the hopper,    
 
 155
 00:10:41,775 --> 00:10:45,443
-  this sand-and-salt spreader   
-  is ready for an icy highway.  
+this sand-and-salt spreader is ready for an icy highway.  
 
 156
 00:10:45,445 --> 00:10:47,912
-     it can spread material     
-         thick or thin,         
+it can spread material thick or thin,         
 
 157
 00:10:47,914 --> 00:10:50,915
-          depending on          
-      the road conditions.      
+depending on the road conditions.      
 
 158
 00:11:04,864 --> 00:11:07,398
-       narrator: dinosaurs      
-     have long been extinct.    
+narrator: dinosaurs have long been extinct.    
 
 159
 00:11:07,400 --> 00:11:10,401
-  but animatronics make models  
+but animatronics make models  
 
 160
 00:11:10,403 --> 00:11:14,039
-      look, sound, and move     
-      like the real thing.      
+look, sound, and move like the real thing.      
 
 161
 00:11:15,675 --> 00:11:18,409
-    developed by walt disney    
-          in the 1960s,         
+developed by walt disney in the 1960s,         
 
 162
 00:11:18,411 --> 00:11:22,714
- this technique is a combination
-     of art and technology.     
+this technique is a combination
+of art and technology.     
 
 163
 00:11:24,417 --> 00:11:29,220
-         the slit eyes,         
-      rows of sharp fangs,      
+the slit eyes, rows of sharp fangs,      
 
 164
 00:11:29,222 --> 00:11:34,959
-  and a long, purposeful snout  
-    all look stunningly real.   
+and a long, purposeful snout all look stunningly real.   
 
 165
 00:11:34,961 --> 00:11:37,228
-   with his razor-sharp claws,  
+with his razor-sharp claws,  
 
 166
 00:11:37,230 --> 00:11:41,366
- this velociraptor figure looks 
-   ready to leap right at you.  
+this velociraptor figure looks ready to leap right at you.  
 
 167
 00:11:42,703 --> 00:11:46,570
-        first, a designer       
-   uses 3-d sculpting software  
+first, a designer uses 3-d sculpting software  
 
 168
 00:11:46,572 --> 00:11:50,575
-      to create a detailed      
-  digital model of the raptor.  
+to create a detailed digital model of the raptor.  
 
 169
 00:11:50,577 --> 00:11:54,045
- key features, such as the size,
- shape, and number of the teeth 
+key features, such as the size,
+shape, and number of the teeth 
 
 170
 00:11:54,047 --> 00:11:57,048
-   are thoroughly documented.   
+are thoroughly documented.   
 
 171
 00:11:57,050 --> 00:12:00,518
-    the art director approves   
- a small-scale 3-d printed model
+the art director approves a small-scale 3-d printed model
 
 172
 00:12:00,520 --> 00:12:02,720
-          of the figure         
+of the figure         
 
 173
 00:12:02,722 --> 00:12:06,524
 before an industrial robotic arm
-  sculpts the full-size figure  
+sculpts the full-size figure  
 
 174
 00:12:06,526 --> 00:12:08,660
-       in four-pound foam.      
+in four-pound foam.      
 
 175
 00:12:09,796 --> 00:12:14,265
-     the density of the foam    
+the density of the foam    
 allows for very precise styling.
 
 176
 00:12:17,470 --> 00:12:20,338
- an artist adds details by hand.
+an artist adds details by hand.
 
 177
 00:12:20,340 --> 00:12:22,607
-             he uses            
-    precision sculpting tools   
+he uses precision sculpting tools   
 
 178
 00:12:22,609 --> 00:12:25,543
-   to draw wrinkles and lines.  
+to draw wrinkles and lines.  
 
 179
 00:12:25,545 --> 00:12:28,746
-     he brushes melted clay     
-       on top of the foam       
+he brushes melted clay on top of the foam       
 
 180
 00:12:28,748 --> 00:12:32,183
- to bring out details and give  
- more realism to the sculpture. 
+to bring out details and give more realism to the sculpture. 
 
 181
 00:12:34,888 --> 00:12:36,754
-   the clay needs to solidify   
+the clay needs to solidify   
 
 182
 00:12:36,756 --> 00:12:39,090
-      before the sculpture      
-         can be molded.         
+before the sculpture can be molded.         
 
 183
 00:12:39,092 --> 00:12:41,692
-       a figure finisher        
-       prepares a mixture       
+a figure finisher prepares a mixture       
 
 184
 00:12:41,694 --> 00:12:44,429
-     of monomer and polymer     
-     that is commonly used      
+of monomer and polymer that is commonly used      
 
 185
 00:12:44,431 --> 00:12:47,365
-     to make acrylic teeth.     
+to make acrylic teeth.     
 
 186
 00:12:47,367 --> 00:12:49,367
@@ -889,43 +761,36 @@ he pours the mixture into a mold
 
 187
 00:12:49,369 --> 00:12:52,170
-       shaped like the jaw      
-         of the raptor.         
+shaped like the jaw of the raptor.         
 
 188
 00:12:57,377 --> 00:13:00,545
-       he places the mold       
-      in a vacuum chamber.      
+he places the mold in a vacuum chamber.      
 
 189
 00:13:03,183 --> 00:13:07,919
- he seals the vacuum-chamber lid
-   and starts the vacuum pump.  
+he seals the vacuum-chamber lid
+and starts the vacuum pump.  
 
 190
 00:13:07,921 --> 00:13:10,788
-   the vacuum pump will lower   
-      the pressure inside,      
+the vacuum pump will lower the pressure inside,      
 
 191
 00:13:10,790 --> 00:13:13,758
-     forcing air bubbles out    
-    from the acrylic mixture.   
+forcing air bubbles out from the acrylic mixture.   
 
 192
 00:13:15,862 --> 00:13:19,831
-     this process makes for     
- an even and consistent casting.
+this process makes for an even and consistent casting.
 
 193
 00:13:23,603 --> 00:13:27,939
-   these are sharp and strong   
-       velociraptor fangs.      
+these are sharp and strong velociraptor fangs.      
 
 194
 00:13:27,941 --> 00:13:31,409
-       the figure finisher      
-  separates the teeth by hand,  
+the figure finisher separates the teeth by hand,  
 
 195
 00:13:31,411 --> 00:13:36,214
@@ -934,17 +799,15 @@ down the excess around the base.
 
 196
 00:13:36,216 --> 00:13:39,083
-        the acrylic teeth       
- accurately reproduce the shape 
+the acrylic teeth accurately reproduce the shape 
 
 197
 00:13:39,085 --> 00:13:41,186
-    of the predator's fangs.    
+of the predator's fangs.    
 
 198
 00:13:43,556 --> 00:13:47,058
-   the figure finisher places   
- the teeth back in the jaw mold.
+the figure finisher places the teeth back in the jaw mold.
 
 199
 00:13:50,163 --> 00:13:52,963
@@ -952,37 +815,32 @@ massive teeth up to an inch long
 
 200
 00:13:52,965 --> 00:13:55,567
-       fill the reptile's       
-        ferocious mouth.        
+fill the reptile's ferocious mouth.        
 
 201
 00:13:59,506 --> 00:14:01,773
-       the figure finisher      
-        covers the teeth        
+the figure finisher covers the teeth        
 
 202
 00:14:01,775 --> 00:14:03,908
-       with flesh-colored       
-         dental acrylic         
+with flesh-colored dental acrylic         
 
 203
 00:14:03,910 --> 00:14:06,778
-        to form the gums        
-   and palate of the creature.  
+to form the gums and palate of the creature.  
 
 204
 00:14:09,849 --> 00:14:12,116
-          once the mold         
-     is filled with acrylic,    
+once the mold is filled with acrylic,    
 
 205
 00:14:12,118 --> 00:14:15,620
- he puts it in a vacuum chamber,
- where the gums and palate cure.
+he puts it in a vacuum chamber,
+where the gums and palate cure.
 
 206
 00:14:19,192 --> 00:14:21,258
-  during the vacuuming process, 
+during the vacuuming process, 
 
 207
 00:14:21,260 --> 00:14:23,728
@@ -990,220 +848,190 @@ the gums and teeth bond together
 
 208
 00:14:23,730 --> 00:14:26,764
-       to form a complete       
-      velociraptor denture.     
+to form a complete velociraptor denture.     
 
 209
 00:14:31,738 --> 00:14:34,138
- to make the reptile's eyeballs,
+to make the reptile's eyeballs,
 
 210
 00:14:34,140 --> 00:14:39,944
 he places a transparent sheet in
- a vacuum thermoforming system. 
+a vacuum thermoforming system. 
 
 211
 00:14:39,946 --> 00:14:43,248
 the vacuformer heats the plastic
-      to make it malleable.     
+to make it malleable.     
 
 212
 00:14:45,618 --> 00:14:49,153
- the figure finisher pushes the 
- sheet down on an eyeball shape 
+the figure finisher pushes the sheet down on an eyeball shape 
 
 213
 00:14:49,155 --> 00:14:51,288
-  and activates a vacuum pump.  
+and activates a vacuum pump.  
 
 214
 00:14:52,292 --> 00:14:57,294
-  thermoformed eyeballs come in 
-    various shapes and sizes.   
+thermoformed eyeballs come in various shapes and sizes.   
 
 215
 00:14:57,296 --> 00:15:01,566
-    now a plastics technician   
-  prepares the fiberglass mold. 
+now a plastics technician prepares the fiberglass mold. 
 
 216
 00:15:01,568 --> 00:15:05,903
- he uses a chopper gun to cover 
- the inside of the plastic mold 
+he uses a chopper gun to cover the inside of the plastic mold 
 
 217
 00:15:05,905 --> 00:15:08,673
-          with flexible         
-       fiberglass strands.      
+with flexible fiberglass strands.      
 
 218
 00:15:11,377 --> 00:15:14,946
-      the technician bonds      
+the technician bonds      
 the strands together with resin.
 
 219
 00:15:17,917 --> 00:15:20,118
-    once the resin has cured,   
+once the resin has cured,   
 
 220
 00:15:20,120 --> 00:15:22,853
-    the hard fiberglass shell   
-         takes the shape        
+the hard fiberglass shell takes the shape        
 
 221
 00:15:22,855 --> 00:15:25,189
- of the initial foam sculpture. 
+of the initial foam sculpture. 
 
 222
 00:15:27,527 --> 00:15:29,060
-         using a jigsaw,        
+using a jigsaw,        
 
 223
 00:15:29,062 --> 00:15:32,863
-     a worker cuts the shell    
- at various articulation points.
+a worker cuts the shell at various articulation points.
 
 224
 00:15:32,865 --> 00:15:35,466
-   this will allow the figure   
-       to move seamlessly       
+this will allow the figure to move seamlessly       
 
 225
 00:15:35,468 --> 00:15:39,203
-   once it's assembled on its   
- animated mechanical structure. 
+once it's assembled on its animated mechanical structure. 
 
 226
 00:15:40,673 --> 00:15:43,975
-     the technician applies     
- a primer coat with a spray gun.
+the technician applies a primer coat with a spray gun.
 
 227
 00:15:46,346 --> 00:15:50,481
-      this shell will house     
-   the mechanical components,   
+this shell will house the mechanical components,   
 
 228
 00:15:50,483 --> 00:15:53,284
-    animating the dinosaur's    
-           long tail,           
+animating the dinosaur's long tail,           
 
 229
 00:15:53,286 --> 00:15:56,421
- its strong upper body and neck,
+its strong upper body and neck,
 
 230
 00:15:56,423 --> 00:15:58,756
-       the birdlike head,       
+the birdlike head,       
 
 231
 00:15:58,758 --> 00:16:03,061
-    the handlike front limb,    
-   and its powerful hind legs.  
+the handlike front limb, and its powerful hind legs.  
 
 232
 00:16:11,370 --> 00:16:14,372
-   narrator: an encounter with  
-  a life-size animated dinosaur 
+narrator: an encounter with a life-size animated dinosaur 
 
 233
 00:16:14,374 --> 00:16:17,241
-     is quite an experience.    
+is quite an experience.    
 
 234
 00:16:17,243 --> 00:16:20,644
- an elaborate range of advanced 
-   special-effects techniques   
+an elaborate range of advanced special-effects techniques   
 
 235
 00:16:20,646 --> 00:16:23,948
-   and animatronic technology   
-      brings them to life.      
+and animatronic technology brings them to life.      
 
 236
 00:16:28,655 --> 00:16:31,923
-       a technician covers      
-   the fiberglass inner shell   
+a technician covers the fiberglass inner shell   
 
 237
 00:16:31,925 --> 00:16:34,725
-  with a ripstop fabric lining. 
+with a ripstop fabric lining. 
 
 238
 00:16:34,727 --> 00:16:38,862
-  it will support and reinforce 
-       the silicone skin.       
+it will support and reinforce the silicone skin.       
 
 239
 00:16:38,864 --> 00:16:42,100
-      she installs zippers      
- on the liner to easily take off
+she installs zippers on the liner to easily take off
 
 240
 00:16:42,102 --> 00:16:44,468
-       or put on the skin.      
+or put on the skin.      
 
 241
 00:16:44,470 --> 00:16:48,139
-     the liner fits tightly     
-       over the fiberglass      
+the liner fits tightly over the fiberglass      
 
 242
 00:16:48,141 --> 00:16:52,143
-       and takes the shape      
-       of the inner shell.      
+and takes the shape of the inner shell.      
 
 243
 00:16:52,145 --> 00:16:54,345
-         technicians use        
-     liquid-silicone rubber     
+technicians use liquid-silicone rubber     
 
 244
 00:16:54,347 --> 00:16:55,947
-   to make the figure's skin.   
+to make the figure's skin.   
 
 245
 00:16:59,285 --> 00:17:01,151
- one technician connects a tube 
+one technician connects a tube 
 
 246
 00:17:01,153 --> 00:17:03,220
-         to the shell's         
-       mold-injection port      
+to the shell's mold-injection port      
 
 247
 00:17:03,222 --> 00:17:04,756
-   while the other technician   
+while the other technician   
 
 248
 00:17:04,758 --> 00:17:08,559
-            operates            
-    a high-pressure injector.   
+operates a high-pressure injector.   
 
 249
 00:17:08,561 --> 00:17:12,330
-   the machine pumps silicone   
-         into the mold.         
+the machine pumps silicone into the mold.         
 
 250
 00:17:17,303 --> 00:17:20,904
-    the silicone cures inside   
-    the mold for a few hours.   
+the silicone cures inside the mold for a few hours.   
 
 251
 00:17:20,906 --> 00:17:22,907
-        then a technician       
-       unfastens the bolts      
+then a technician unfastens the bolts      
 
 252
 00:17:22,909 --> 00:17:25,810
-   that are holding the shell   
-         tightly closed.        
+that are holding the shell tightly closed.        
 
 253
 00:17:28,915 --> 00:17:31,782
-        technicians take        
-        the silicone skin       
+technicians take the silicone skin       
 
 254
 00:17:31,784 --> 00:17:34,118
@@ -1211,85 +1039,73 @@ out of the injection shell mold.
 
 255
 00:17:34,120 --> 00:17:37,855
-    they inspect the skin to    
- make sure there are no defects 
+they inspect the skin to make sure there are no defects 
 
 256
 00:17:37,857 --> 00:17:41,826
- and that it mimics the features
- of the initial foam sculpture. 
+and that it mimics the features
+of the initial foam sculpture. 
 
 257
 00:17:45,598 --> 00:17:49,400
 they take the skin off the inner
-   shell for manual touch-ups.  
+shell for manual touch-ups.  
 
 258
 00:17:52,872 --> 00:17:55,339
-     a technician cleans up     
-     the edges of the skin      
+a technician cleans up the edges of the skin      
 
 259
 00:17:55,341 --> 00:17:59,677
- by trimming off small silicone 
-     strips called flashing.    
+by trimming off small silicone strips called flashing.    
 
 260
 00:18:03,950 --> 00:18:05,950
- with small precision scissors, 
+with small precision scissors, 
 
 261
 00:18:05,952 --> 00:18:08,953
-   she meticulously trims off   
-        all the flashing        
+she meticulously trims off all the flashing        
 
 262
 00:18:08,955 --> 00:18:11,656
- to make clean, seamless joints.
+to make clean, seamless joints.
 
 263
 00:18:16,362 --> 00:18:19,763
-   a figure finisher inserts    
-   the molded acrylic denture   
+a figure finisher inserts the molded acrylic denture   
 
 264
 00:18:19,765 --> 00:18:24,835
-        to check its fit        
-     in the lower jaw skin.     
+to check its fit in the lower jaw skin.     
 
 265
 00:18:24,837 --> 00:18:27,838
-        he checks the fit       
-   of the thermoformed eyeball  
+he checks the fit of the thermoformed eyeball  
 
 266
 00:18:27,840 --> 00:18:29,841
- between the skin and the shell.
+between the skin and the shell.
 
 267
 00:18:34,113 --> 00:18:37,181
-       a character painter      
-        uses an airbrush        
+a character painter uses an airbrush        
 
 268
 00:18:37,183 --> 00:18:40,518
-        to paint the skin       
-      with silicone paint.      
+to paint the skin with silicone paint.      
 
 269
 00:18:40,520 --> 00:18:42,787
-     he adds multiple layers    
-            of paint,           
+he adds multiple layers of paint,           
 
 270
 00:18:42,789 --> 00:18:47,391
-        giving the finish       
-  much more detail and realism. 
+giving the finish much more detail and realism. 
 
 271
 00:18:47,393 --> 00:18:51,862
- a machinist mills a mechanical 
-    part for the metal frame.   
+a machinist mills a mechanical part for the metal frame.   
 
 272
 00:18:51,864 --> 00:18:57,267
@@ -1298,54 +1114,48 @@ aluminum pieces need machining.
 
 273
 00:18:57,269 --> 00:19:03,074
- he bores out holes for bearings
-       inside each shaft.       
+he bores out holes for bearings
+inside each shaft.       
 
 274
 00:19:03,076 --> 00:19:07,211
-  each piece can be customized  
-  to suit virtually any design  
+each piece can be customized to suit virtually any design  
 
 275
 00:19:07,213 --> 00:19:11,549
-    and assembly requirement.   
+and assembly requirement.   
 
 276
 00:19:11,551 --> 00:19:16,420
-     an electronics engineer    
-      tests a control card.     
+an electronics engineer tests a control card.     
 
 277
 00:19:16,422 --> 00:19:19,357
-     each animated component    
-   of the figure is controlled  
+each animated component of the figure is controlled  
 
 278
 00:19:19,359 --> 00:19:22,826
-    by a card like this one.    
+by a card like this one.    
 
 279
 00:19:22,828 --> 00:19:25,095
-    the electronics engineer    
-        connects the card       
+the electronics engineer connects the card       
 
 280
 00:19:25,097 --> 00:19:26,631
-     to an oscillator tester    
+to an oscillator tester    
 
 281
 00:19:26,633 --> 00:19:29,433
-   to verify that the cylinder  
-       responds accurately      
+to verify that the cylinder responds accurately      
 
 282
 00:19:29,435 --> 00:19:33,638
- to the electronic-input signal.
+to the electronic-input signal.
 
 283
 00:19:33,640 --> 00:19:36,707
-     a program on the card      
-     allows precise control     
+a program on the card allows precise control     
 
 284
 00:19:36,709 --> 00:19:38,643
@@ -1353,97 +1163,83 @@ over the motion of the cylinder.
 
 285
 00:19:39,712 --> 00:19:41,712
-  the cylinders create motion,  
+the cylinders create motion,  
 
 286
 00:19:41,714 --> 00:19:44,582
-    while the aluminum frame    
-    functions as the skeleton   
+while the aluminum frame functions as the skeleton   
 
 287
 00:19:44,584 --> 00:19:46,751
-    supporting the movement.    
+supporting the movement.    
 
 288
 00:19:48,588 --> 00:19:51,522
-      an animator assembles     
-          various parts         
+an animator assembles various parts         
 
 289
 00:19:51,524 --> 00:19:54,592
-  into the mechanical assembly. 
+into the mechanical assembly. 
 
 290
 00:19:56,396 --> 00:20:00,531
-     he connects a cylinder     
-       to the metal frame.      
+he connects a cylinder to the metal frame.      
 
 291
 00:20:00,533 --> 00:20:03,467
-   each cylinder is dedicated   
-     to a specific function     
+each cylinder is dedicated to a specific function     
 
 292
 00:20:03,469 --> 00:20:06,136
-   in the mechanical assembly.  
+in the mechanical assembly.  
 
 293
 00:20:06,138 --> 00:20:09,340
-     this cylinder activates    
- a finger in the hand assembly, 
+this cylinder activates a finger in the hand assembly, 
 
 294
 00:20:09,342 --> 00:20:13,444
-     allowing it to curl up     
-  in a smooth, seamless motion. 
+allowing it to curl up in a smooth, seamless motion. 
 
 295
 00:20:16,015 --> 00:20:19,683
-      the animator attaches     
-  the hand assembly to the arm, 
+the animator attaches the hand assembly to the arm, 
 
 296
 00:20:19,685 --> 00:20:22,019
-    bolts it on at the elbow,   
+bolts it on at the elbow,   
 
 297
 00:20:22,021 --> 00:20:26,757
-   and screws claws on the tip  
-         of each finger.        
+and screws claws on the tip of each finger.        
 
 298
 00:20:26,759 --> 00:20:30,494
-  the full frame of the figure  
-  is assembled on a test bench. 
+the full frame of the figure is assembled on a test bench. 
 
 299
 00:20:32,565 --> 00:20:34,699
-    a hydraulics-and-plumbing   
-            engineer            
+a hydraulics-and-plumbing engineer            
 
 300
 00:20:34,701 --> 00:20:36,834
- opens the compressed-air valve,
+opens the compressed-air valve,
 
 301
 00:20:36,836 --> 00:20:40,104
-          which powers          
-    the pneumatic cylinders.    
+which powers the pneumatic cylinders.    
 
 302
 00:20:40,106 --> 00:20:43,241
-      the show controller       
-      runs random programs      
+the show controller runs random programs      
 
 303
 00:20:43,243 --> 00:20:46,777
-      to test the response      
-  of the animatronic dinosaur.  
+to test the response of the animatronic dinosaur.  
 
 304
 00:20:46,779 --> 00:20:48,779
-           they check           
-     air-pressure variations    
+they check air-pressure variations    
 
 305
 00:20:48,781 --> 00:20:51,114
@@ -1451,38 +1247,35 @@ in the hydraulic-cylinder tubes,
 
 306
 00:20:51,116 --> 00:20:54,719
- as well as electronic direction
-     and amplitude commands.    
+as well as electronic direction
+and amplitude commands.    
 
 307
 00:20:54,721 --> 00:20:58,522
-   a creative director finally  
-    puts his seal of approval   
+a creative director finally puts his seal of approval   
 
 308
 00:20:58,524 --> 00:20:59,957
-         on the figure.         
+on the figure.         
 
 309
 00:20:59,959 --> 00:21:03,594
 a lot of effort goes into making
-     such a complex machine     
+such a complex machine     
 
 310
 00:21:03,596 --> 00:21:06,030
-  look like a living creature.  
+look like a living creature.  
 
 311
 00:21:14,340 --> 00:21:16,941
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 312
 00:21:16,943 --> 00:21:19,877
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 313
 00:21:19,879 --> 00:21:21,812
-      drop us a line at...      
+drop us a line at...      
 

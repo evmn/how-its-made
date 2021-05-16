@@ -1,376 +1,322 @@
 ﻿1
 00:00:50,250 --> 00:00:51,850
-            narrator:           
-    when it comes to windows,   
+narrator: when it comes to windows,   
 
 2
 00:00:51,852 --> 00:00:54,253
- there's a variety of materials 
-         to choose from.        
+there's a variety of materials to choose from.        
 
 3
 00:00:56,323 --> 00:00:59,390
-   wood windows are typically   
-   the most expensive option,   
+wood windows are typically the most expensive option,   
 
 4
 00:00:59,392 --> 00:01:01,927
-        but they are also       
-       the most versatile.      
+but they are also the most versatile.      
 
 5
 00:01:01,929 --> 00:01:04,596
-     they can be constructed    
-          in any style,         
+they can be constructed in any style,         
 
 6
 00:01:04,598 --> 00:01:08,100
-       stained any shade,       
-      or painted any color.     
+stained any shade, or painted any color.     
 
 7
 00:01:11,004 --> 00:01:12,871
-         wooden windows         
-       can be custom made       
+wooden windows can be custom made       
 
 8
 00:01:12,873 --> 00:01:15,340
-       to match the home's      
-        existing windows.       
+to match the home's existing windows.       
 
 9
 00:01:15,342 --> 00:01:18,210
-      this style is called      
-   a traditional double hung.   
+this style is called a traditional double hung.   
 
 10
 00:01:18,212 --> 00:01:19,878
-  its upper and lower sections  
+its upper and lower sections  
 
 11
 00:01:19,880 --> 00:01:22,681
-       open independently       
-         of each other.         
+open independently of each other.         
 
 12
 00:01:22,683 --> 00:01:26,484
-   manufacturers make windows   
-    from a variety of woods.    
+manufacturers make windows from a variety of woods.    
 
 13
 00:01:26,486 --> 00:01:30,389
-  this company uses mahogany, a 
- premium rot-resistant hardwood.
+this company uses mahogany, a premium rot-resistant hardwood.
 
 14
 00:01:33,561 --> 00:01:36,295
-    this computer-guided saw    
+this computer-guided saw    
 
 15
 00:01:36,297 --> 00:01:39,031
-       cuts pieces of wood      
-     to the required length.    
+cuts pieces of wood to the required length.    
 
 16
 00:01:39,033 --> 00:01:41,299
-        the next machine,       
-       called the jointer,      
+the next machine, called the jointer,      
 
 17
 00:01:41,301 --> 00:01:44,703
-        squares the edges       
-   and smoothes the surfaces.   
+squares the edges and smoothes the surfaces.   
 
 18
 00:01:44,705 --> 00:01:48,106
-    now, they mill each piece   
-       to the final shape.      
+now, they mill each piece to the final shape.      
 
 19
 00:01:48,108 --> 00:01:50,241
-    a vacuum holds it steady    
+a vacuum holds it steady    
 
 20
 00:01:50,243 --> 00:01:54,179
- while a computer-guided router 
-  works at it from all angles.  
+while a computer-guided router works at it from all angles.  
 
 21
 00:01:54,181 --> 00:01:57,315
-         the router uses        
-    up to 33 different tools    
+the router uses up to 33 different tools    
 
 22
 00:01:57,317 --> 00:01:59,384
-   from its on-board magazine.  
+from its on-board magazine.  
 
 23
 00:01:59,386 --> 00:02:02,187
-     this piece will be part    
-       of a curved window.      
+this piece will be part of a curved window.      
 
 24
 00:02:02,189 --> 00:02:06,258
- one tool cuts the basic shape, 
-     another tool profiles,     
+one tool cuts the basic shape, another tool profiles,     
 
 25
 00:02:06,260 --> 00:02:10,528
-    and the other bores holes   
-         for the dowels.        
+and the other bores holes for the dowels.        
 
 26
 00:02:10,530 --> 00:02:14,233
-  twelve different tools later, 
-    this is the final shape.    
+twelve different tools later, this is the final shape.    
 
 27
 00:02:16,269 --> 00:02:18,303
-          an assembler          
-   pours glue in the holes...   
+an assembler pours glue in the holes...   
 
 28
 00:02:20,674 --> 00:02:23,508
-  ...then inserts wood dowels.  
+...then inserts wood dowels.  
 
 29
 00:02:23,510 --> 00:02:26,678
-    their unique shape allows   
- the glue to surround the dowel,
+their unique shape allows the glue to surround the dowel,
 
 30
 00:02:26,680 --> 00:02:28,413
-      maximizing adhesion.      
+maximizing adhesion.      
 
 31
 00:02:32,219 --> 00:02:34,819
-  using the dowels as a guide,  
+using the dowels as a guide,  
 
 32
 00:02:34,821 --> 00:02:39,157
-  he connects the two vertical  
+he connects the two vertical  
 pieces of the window, the rails,
 
 33
 00:02:39,159 --> 00:02:42,494
-   with the horizontal pieces,  
-           the stiles.          
+with the horizontal pieces, the stiles.          
 
 34
 00:02:42,496 --> 00:02:45,964
-  this forms the window's sash. 
+this forms the window's sash. 
 
 35
 00:02:45,966 --> 00:02:48,767
-       he clamps the sash       
-      in a hydraulic press.     
+he clamps the sash in a hydraulic press.     
 
 36
 00:02:48,769 --> 00:02:51,570
-         it's calibrated        
-   to join the parts together   
+it's calibrated to join the parts together   
 
 37
 00:02:51,572 --> 00:02:53,639
-   with just the right amount   
-          of pressure.          
+with just the right amount of pressure.          
 
 38
 00:02:55,976 --> 00:03:00,311
-    he dries the glue with a    
- radio-frequency heating device.
+he dries the glue with a radio-frequency heating device.
 
 39
 00:03:00,313 --> 00:03:02,981
-      they return the piece     
-  to the computer-guided router 
+they return the piece to the computer-guided router 
 
 40
 00:03:02,983 --> 00:03:05,183
-     for the final milling.     
+for the final milling.     
 
 41
 00:03:05,185 --> 00:03:08,053
-  this sideways saw cuts a slot 
-         down each side         
+this sideways saw cuts a slot down each side         
 
 42
 00:03:08,055 --> 00:03:09,121
-     for weather stripping.     
+for weather stripping.     
 
 43
 00:03:11,725 --> 00:03:13,124
-    for double hung windows,    
+for double hung windows,    
 
 44
 00:03:13,126 --> 00:03:15,793
-   another tool cuts openings   
-         along the edge.        
+another tool cuts openings along the edge.        
 
 45
 00:03:15,795 --> 00:03:18,063
-    these openings will hold    
-         weighted cords         
+these openings will hold weighted cords         
 
 46
 00:03:18,065 --> 00:03:19,998
-  that counterbalance the sash. 
+that counterbalance the sash. 
 
 47
 00:03:20,000 --> 00:03:24,136
 then, they put the finished sash
-   through a sanding machine.   
+through a sanding machine.   
 
 48
 00:03:24,138 --> 00:03:26,004
- the machine removes tool marks 
+the machine removes tool marks 
 
 49
 00:03:26,006 --> 00:03:28,907
-      and preps the surface     
-       for a paint primer.      
+and preps the surface for a paint primer.      
 
 50
 00:03:28,909 --> 00:03:32,144
-    they install the muntins,   
+they install the muntins,   
 
 51
 00:03:32,146 --> 00:03:35,280
-  short pieces inside the sash  
-  that form decorative squares. 
+short pieces inside the sash that form decorative squares. 
 
 52
 00:03:35,282 --> 00:03:39,818
- first, the horizontal muntins, 
-     then the vertical ones.    
+first, the horizontal muntins, then the vertical ones.    
 
 53
 00:03:39,820 --> 00:03:43,388
-    each square will contain    
-     its own pane of glass.     
+each square will contain its own pane of glass.     
 
 54
 00:03:48,829 --> 00:03:50,695
-  they sand the muntins by hand 
+they sand the muntins by hand 
 
 55
 00:03:50,697 --> 00:03:52,798
-      to smooth the surface     
-         for finishing.         
+to smooth the surface for finishing.         
 
 56
 00:03:59,707 --> 00:04:03,275
-   then, the sash is sprayed    
-   with a water-based primer.   
+then, the sash is sprayed with a water-based primer.   
 
 57
 00:04:07,914 --> 00:04:12,384
- once the primer dries, the sash
- goes to the glazing department.
+once the primer dries, the sash
+goes to the glazing department.
 
 58
 00:04:12,386 --> 00:04:16,721
-     this is where they cut     
-    the glass panes to size.    
+this is where they cut the glass panes to size.    
 
 59
 00:04:16,723 --> 00:04:20,659
-    windows can have single,    
-    double, or triple panes,    
+windows can have single, double, or triple panes,    
 
 60
 00:04:20,661 --> 00:04:23,462
-          separated by          
-     an aluminum spacer bar.    
+separated by an aluminum spacer bar.    
 
 61
 00:04:25,466 --> 00:04:28,400
-  this is a single-pane window. 
+this is a single-pane window. 
 
 62
 00:04:28,402 --> 00:04:31,002
-       the glazer applies       
-         a bead of caulk        
+the glazer applies a bead of caulk        
 
 63
 00:04:31,004 --> 00:04:33,138
-       to the inner ledge       
-         of the sash...         
+to the inner ledge of the sash...         
 
 64
 00:04:35,142 --> 00:04:37,309
-  ...then sets the glass on it. 
+...then sets the glass on it. 
 
 65
 00:04:43,750 --> 00:04:47,752
-  he secures the glass in place 
-    by one of two methods --    
+he secures the glass in place by one of two methods --    
 
 66
 00:04:47,754 --> 00:04:51,156
- either by driving in tiny, flat
-  nails called glazing points,  
+either by driving in tiny, flat
+nails called glazing points,  
 
 67
 00:04:51,158 --> 00:04:53,024
-  or by caulking the perimeter  
+or by caulking the perimeter  
 
 68
 00:04:53,026 --> 00:04:56,428
-   and applying small moldings  
-      called glazing beads.     
+and applying small moldings called glazing beads.     
 
 69
 00:05:02,969 --> 00:05:06,438
- the glazing beads are fastened 
- to the sash with small nails.  
+the glazing beads are fastened to the sash with small nails.  
 
 70
 00:05:10,043 --> 00:05:11,376
-    once the glass is secure,   
+once the glass is secure,   
 
 71
 00:05:11,378 --> 00:05:16,581
-     the worker removes the     
- excess caulk, cleans the glass,
+the worker removes the excess caulk, cleans the glass,
 
 72
 00:05:16,583 --> 00:05:20,986
-         and inspects it        
-   for any marks or scratches.  
+and inspects it for any marks or scratches.  
 
 73
 00:05:23,056 --> 00:05:25,990
-         the final step         
-   is to install the hardware.  
+the final step is to install the hardware.  
 
 74
 00:05:25,992 --> 00:05:28,593
-   it varies by window style.   
+it varies by window style.   
 
 75
 00:05:28,595 --> 00:05:32,130
-      a double-hung window      
-  has a bar lift on the bottom  
+a double-hung window has a bar lift on the bottom  
 
 76
 00:05:32,132 --> 00:05:36,535
-     and a latch that locks     
-    together the two sashes.    
+and a latch that locks together the two sashes.    
 
 77
 00:05:36,537 --> 00:05:39,604
-      you release the latch     
-       to open either one.      
+you release the latch to open either one.      
 
 78
 00:05:39,606 --> 00:05:42,074
- once the sashes are installed, 
+once the sashes are installed, 
 
 79
 00:05:42,076 --> 00:05:45,177
-       they can be painted      
-  to match any home's exterior. 
+they can be painted to match any home's exterior. 
 
 80
 00:05:56,289 --> 00:05:59,725
@@ -379,31 +325,28 @@ been around since the stone age.
 
 81
 00:06:01,962 --> 00:06:04,830
-     traditional weavers use    
-     techniques and designs     
+traditional weavers use techniques and designs     
 
 82
 00:06:04,832 --> 00:06:08,566
-          that reflect          
-     their cultural origins.    
+that reflect their cultural origins.    
 
 83
 00:06:08,568 --> 00:06:11,836
-    today's fashion industry    
-   has built on this tradition  
+today's fashion industry has built on this tradition  
 
 84
 00:06:11,838 --> 00:06:14,206
- to produce fine wool garments. 
+to produce fine wool garments. 
 
 85
 00:06:16,710 --> 00:06:18,242
-     designers keep a record    
+designers keep a record    
 
 86
 00:06:18,244 --> 00:06:21,246
 of the fabrics they have created
-         over the years.        
+over the years.        
 
 87
 00:06:21,248 --> 00:06:25,584
@@ -412,418 +355,355 @@ on quality, colors, and patterns
 
 88
 00:06:25,586 --> 00:06:28,019
-       for their customers      
-         to choose from.        
+for their customers to choose from.        
 
 89
 00:06:30,190 --> 00:06:32,457
- this is what cashmere goat hair
-           looks like           
+this is what cashmere goat hair
+looks like           
 
 90
 00:06:32,459 --> 00:06:34,359
-         when it arrives        
-        at the wool mill.       
+when it arrives at the wool mill.       
 
 91
 00:06:37,063 --> 00:06:40,999
-  short fibers, called flocks,  
-  go through a carding machine. 
+short fibers, called flocks, go through a carding machine. 
 
 92
 00:06:41,001 --> 00:06:45,937
 this machine opens up the fibers
-   and mixes colors together.   
+and mixes colors together.   
 
 93
 00:06:45,939 --> 00:06:48,740
-       the carding process      
-       removes impurities       
+the carding process removes impurities       
 
 94
 00:06:48,742 --> 00:06:50,942
-     and reduces the fibers     
-        to a flat layer.        
+and reduces the fibers to a flat layer.        
 
 95
 00:06:54,614 --> 00:06:57,682
-        the machine combs       
-  and twists the layer of fiber 
+the machine combs and twists the layer of fiber 
 
 96
 00:06:57,684 --> 00:06:59,384
-  in preparation for spinning.  
+in preparation for spinning.  
 
 97
 00:07:06,827 --> 00:07:09,961
- the spinner separates the layer
-          into threads          
+the spinner separates the layer
+into threads          
 
 98
 00:07:09,963 --> 00:07:13,732
-       and winds each one       
-  on bobbins of over 40 pounds. 
+and winds each one on bobbins of over 40 pounds. 
 
 99
 00:07:18,372 --> 00:07:21,639
-     an operator loads yarn     
-     into a dyeing machine.     
+an operator loads yarn into a dyeing machine.     
 
 100
 00:07:21,641 --> 00:07:24,809
- the entire fiber-drying process
+the entire fiber-drying process
 
 101
 00:07:24,811 --> 00:07:27,679
-      takes about two hours     
-      for a reel this size.     
+takes about two hours for a reel this size.     
 
 102
 00:07:35,656 --> 00:07:38,256
-     uncarded locks of hair     
-        called wool tops        
+uncarded locks of hair called wool tops        
 
 103
 00:07:38,258 --> 00:07:40,358
- are used to make worsted yarn. 
+are used to make worsted yarn. 
 
 104
 00:07:43,530 --> 00:07:47,198
- a worker feeds the ribbon-like 
- thread into a blending machine.
+a worker feeds the ribbon-like thread into a blending machine.
 
 105
 00:07:47,200 --> 00:07:50,735
-      the blending process      
-      merges twelve threads     
+the blending process merges twelve threads     
 
 106
 00:07:50,737 --> 00:07:53,204
-      into one large strip.     
+into one large strip.     
 
 107
 00:07:53,206 --> 00:07:56,541
-      the machine re-combs      
- and twists the blended fibers, 
+the machine re-combs and twists the blended fibers, 
 
 108
 00:07:56,543 --> 00:07:59,878
-         then spins them        
-      into a single strand.     
+then spins them into a single strand.     
 
 109
 00:08:02,015 --> 00:08:05,483
-    the coning machine winds    
- the single thread around a cone
+the coning machine winds the single thread around a cone
 
 110
 00:08:05,485 --> 00:08:07,886
-      by pulling it through     
-       a tensioning device      
+by pulling it through a tensioning device      
 
 111
 00:08:07,888 --> 00:08:10,955
-    with a series of spindles   
-           underneath.          
+with a series of spindles underneath.          
 
 112
 00:08:10,957 --> 00:08:15,760
- this machine can comb 20 pounds
-   of wool in about one hour.   
+this machine can comb 20 pounds
+of wool in about one hour.   
 
 113
 00:08:18,765 --> 00:08:22,601
- another spinning machine slowly
-  unwinds worsted-wool bobbins. 
+another spinning machine slowly
+unwinds worsted-wool bobbins. 
 
 114
 00:08:29,242 --> 00:08:32,977
-  it accelerates as the threads 
- run through a tensioning device
+it accelerates as the threads run through a tensioning device
 
 115
 00:08:32,979 --> 00:08:34,912
-       and onto spindles.       
+and onto spindles.       
 
 116
 00:08:34,914 --> 00:08:37,382
-           even though          
-      the machine processes     
+even though the machine processes     
 
 117
 00:08:37,384 --> 00:08:39,651
-        dozens of bobbins       
-         simultaneously,        
+dozens of bobbins simultaneously,        
 
 118
 00:08:39,653 --> 00:08:42,687
-     this process will last     
-         several hours.         
+this process will last several hours.         
 
 119
 00:08:42,689 --> 00:08:46,458
-  the set of threads that will  
-     make up the woven cloth    
+the set of threads that will make up the woven cloth    
 
 120
 00:08:46,460 --> 00:08:49,193
-       is called the warp.      
+is called the warp.      
 
 121
 00:08:49,195 --> 00:08:52,263
-  hundreds of parallel threads  
-      wind up on this roll,     
+hundreds of parallel threads wind up on this roll,     
 
 122
 00:08:52,265 --> 00:08:54,265
-   called the warping machine.  
+called the warping machine.  
 
 123
 00:08:54,267 --> 00:08:57,135
-     these rolls can stretch    
-       several miles long.      
+these rolls can stretch several miles long.      
 
 124
 00:09:07,881 --> 00:09:10,549
-      the warp is now ready     
-          for weaving.          
+the warp is now ready for weaving.          
 
 125
 00:09:10,551 --> 00:09:13,618
-        this shuttle loom       
-  holds the warp under tension  
+this shuttle loom holds the warp under tension  
 
 126
 00:09:13,620 --> 00:09:15,620
-      while it interweaves      
-   the over and under threads   
+while it interweaves the over and under threads   
 
 127
 00:09:15,622 --> 00:09:18,823
-         using two sets         
-       of weaving needles.      
+using two sets of weaving needles.      
 
 128
 00:09:22,629 --> 00:09:27,365
- this moving part, the beater,  
- keeps the fabric under tension 
+this moving part, the beater, keeps the fabric under tension 
 
 129
 00:09:27,367 --> 00:09:29,935
-   as it comes out of the loom  
-    and onto the cloth beam.    
+as it comes out of the loom and onto the cloth beam.    
 
 130
 00:09:34,173 --> 00:09:36,441
-        this rapier loom        
-        can weave fabrics       
+this rapier loom can weave fabrics       
 
 131
 00:09:36,443 --> 00:09:39,577
-    four or five times faster   
- than an automatic shuttle loom,
+four or five times faster than an automatic shuttle loom,
 
 132
 00:09:39,579 --> 00:09:43,481
-   and about 200 times faster   
-   than a hand-operated loom.   
+and about 200 times faster than a hand-operated loom.   
 
 133
 00:09:45,986 --> 00:09:49,053
-      the completed fabric      
-    goes to quality control.    
+the completed fabric goes to quality control.    
 
 134
 00:09:49,055 --> 00:09:50,855
-        a worker performs       
-         a visual check,        
+a worker performs a visual check,        
 
 135
 00:09:50,857 --> 00:09:54,793
-     looking for any defects    
-         in the fabric.         
+looking for any defects in the fabric.         
 
 136
 00:09:54,795 --> 00:09:59,197
-  if she finds a broken thread, 
-     she repairs it by hand.    
+if she finds a broken thread, she repairs it by hand.    
 
 137
 00:09:59,199 --> 00:10:00,799
-     using a sewing needle,     
+using a sewing needle,     
 
 138
 00:10:00,801 --> 00:10:03,802
- she replaces the broken thread 
-         with a new one.        
+she replaces the broken thread with a new one.        
 
 139
 00:10:09,209 --> 00:10:12,143
-         once the fabric        
-     passes quality control,    
+once the fabric passes quality control,    
 
 140
 00:10:12,145 --> 00:10:14,879
-         it goes through        
-  a two-hour cleaning process.  
+it goes through a two-hour cleaning process.  
 
 141
 00:10:14,881 --> 00:10:17,882
-  then, the cloth rolls through 
-       a steaming machine       
+then, the cloth rolls through a steaming machine       
 
 142
 00:10:17,884 --> 00:10:21,086
-     before accumulating at     
- the end of the production line.
+before accumulating at the end of the production line.
 
 143
 00:10:25,158 --> 00:10:27,425
-      the finishing process     
-        for a woven cloth       
+the finishing process for a woven cloth       
 
 144
 00:10:27,427 --> 00:10:30,561
-     can take up to a week.     
+can take up to a week.     
 
 145
 00:10:30,563 --> 00:10:32,230
-   designers study the fabrics  
+designers study the fabrics  
 
 146
 00:10:32,232 --> 00:10:34,633
-     and choose arrangements    
-      to make a collection.     
+and choose arrangements to make a collection.     
 
 147
 00:10:34,635 --> 00:10:38,903
-   they mark selected patterns  
- with codes and cut out samples.
+they mark selected patterns with codes and cut out samples.
 
 148
 00:10:41,374 --> 00:10:44,709
- then they make a sample booklet
-        of their fabrics        
+then they make a sample booklet
+of their fabrics        
 
 149
 00:10:44,711 --> 00:10:47,579
-  for customers to choose from. 
+for customers to choose from. 
 
 150
 00:10:47,581 --> 00:10:50,248
-      the fabric collection     
-      changes twice a year,     
+the fabric collection changes twice a year,     
 
 151
 00:10:50,250 --> 00:10:53,952
-    providing a wide variety    
- of styles suited to the season.
+providing a wide variety of styles suited to the season.
 
 152
 00:11:01,928 --> 00:11:05,530
-      narrator: plastic is      
- a convenient form of packaging,
+narrator: plastic is a convenient form of packaging,
 
 153
 00:11:05,532 --> 00:11:07,732
-       but can be harmful       
-       to the environment.      
+but can be harmful to the environment.      
 
 154
 00:11:07,734 --> 00:11:09,400
- most plastics don't decompose, 
+most plastics don't decompose, 
 
 155
 00:11:09,402 --> 00:11:12,003
-  so they litter the landscape  
-            forever.            
+so they litter the landscape forever.            
 
 156
 00:11:12,005 --> 00:11:13,404
-   machines called granulators  
+machines called granulators  
 
 157
 00:11:13,406 --> 00:11:16,340
-          can help ease         
-     this pollution problem.    
+can help ease this pollution problem.    
 
 158
 00:11:16,342 --> 00:11:18,476
-  they grind the plastic waste  
-         into tiny chips        
+they grind the plastic waste into tiny chips        
 
 159
 00:11:18,478 --> 00:11:20,478
-   that can then be recycled.   
+that can then be recycled.   
 
 160
 00:11:24,351 --> 00:11:26,284
-   granulators greatly reduce   
+granulators greatly reduce   
 
 161
 00:11:26,286 --> 00:11:28,453
-       the amount of waste      
-       we humans produce.       
+the amount of waste we humans produce.       
 
 162
 00:11:31,158 --> 00:11:34,359
-  instead of throwing plastics  
-  like these milk crates away,  
+instead of throwing plastics like these milk crates away,  
 
 163
 00:11:34,361 --> 00:11:36,827
-       they can be tossed       
-        in a granulator.        
+they can be tossed in a granulator.        
 
 164
 00:11:36,829 --> 00:11:38,763
-       they chop the waste      
-       into little pieces,      
+they chop the waste into little pieces,      
 
 165
 00:11:38,765 --> 00:11:42,100
-        which can be used       
- to make new plastic containers.
+which can be used to make new plastic containers.
 
 166
 00:11:42,102 --> 00:11:45,904
-   making a granulator starts   
-     with star-shaped rotors    
+making a granulator starts with star-shaped rotors    
 
 167
 00:11:45,906 --> 00:11:48,940
-    that will hold and rotate   
-  the blades of the granulator. 
+that will hold and rotate the blades of the granulator. 
 
 168
 00:11:52,912 --> 00:11:55,513
-        a worker machines       
-  the center hole of the rotor  
+a worker machines the center hole of the rotor  
 
 169
 00:11:55,515 --> 00:11:58,249
-       so that it will fit      
-         a steel shaft.         
+so that it will fit a steel shaft.         
 
 170
 00:11:58,251 --> 00:12:02,454
-    employees slide the shaft   
+employees slide the shaft   
 through the center of the rotor.
 
 171
 00:12:04,725 --> 00:12:09,126
 multiple rotors are machined and
-  installed on the steel shaft. 
+installed on the steel shaft. 
 
 172
 00:12:09,128 --> 00:12:11,629
-         the rotors are         
-      spaced evenly apart.      
+the rotors are spaced evenly apart.      
 
 173
 00:12:15,068 --> 00:12:18,402
-      a member of the team      
- welds the rotors to the shaft. 
+a member of the team welds the rotors to the shaft. 
 
 174
 00:12:18,404 --> 00:12:20,404
@@ -831,201 +711,170 @@ these welds will stop the rotors
 
 175
 00:12:20,406 --> 00:12:23,274
-  from sliding out of position  
-        during grinding.        
+from sliding out of position during grinding.        
 
 176
 00:12:26,480 --> 00:12:31,082
- next, steel blades are exposed 
- to intense heat for 12 hours.  
+next, steel blades are exposed to intense heat for 12 hours.  
 
 177
 00:12:33,019 --> 00:12:34,752
-      once they're red hot,     
+once they're red hot,     
 
 178
 00:12:34,754 --> 00:12:37,555
-    an employee plunges them    
-        into cooling oil.       
+an employee plunges them into cooling oil.       
 
 179
 00:12:37,557 --> 00:12:40,759
-      this removes stresses     
-   and strengthens the metal.   
+this removes stresses and strengthens the metal.   
 
 180
 00:12:43,563 --> 00:12:46,497
-     next, a grinding wheel     
- refines the shape of the blade 
+next, a grinding wheel refines the shape of the blade 
 
 181
 00:12:46,499 --> 00:12:48,633
-      so it will fit nicely     
-         to the rotors.         
+so it will fit nicely to the rotors.         
 
 182
 00:12:51,905 --> 00:12:56,274
- it also hones the cutting edge 
-   until it's extremely sharp.  
+it also hones the cutting edge until it's extremely sharp.  
 
 183
 00:12:59,579 --> 00:13:02,046
-          they transfer         
-  the rotor-and-shaft assembly  
+they transfer the rotor-and-shaft assembly  
 
 184
 00:13:02,048 --> 00:13:03,514
-       to a metal cradle.       
+to a metal cradle.       
 
 185
 00:13:03,516 --> 00:13:08,519
-  this rotor system is smaller  
- than the one assembled earlier.
+this rotor system is smaller than the one assembled earlier.
 
 186
 00:13:08,521 --> 00:13:10,321
-  it also has triangular rotors 
+it also has triangular rotors 
 
 187
 00:13:10,323 --> 00:13:14,459
-       designed to chop up      
-          plastic jugs.         
+designed to chop up plastic jugs.         
 
 188
 00:13:14,461 --> 00:13:17,495
-   a worker screws six blades   
-         to the rotors.         
+a worker screws six blades to the rotors.         
 
 189
 00:13:19,799 --> 00:13:22,266
-  he then attaches four blades  
-         to the casing,         
+he then attaches four blades to the casing,         
 
 190
 00:13:22,268 --> 00:13:27,205
 placing them at different angles
-    than the rotating blades.   
+than the rotating blades.   
 
 191
 00:13:27,207 --> 00:13:32,943
-   together, these blades will  
- chop plastic very effectively. 
+together, these blades will chop plastic very effectively. 
 
 192
 00:13:32,945 --> 00:13:37,348
- but, the gap between the blades
-     needs to be fine-tuned.    
+but, the gap between the blades
+needs to be fine-tuned.    
 
 193
 00:13:37,350 --> 00:13:42,487
-    a worker adjusts the gap    
-      to the optimal width.     
+a worker adjusts the gap to the optimal width.     
 
 194
 00:13:47,827 --> 00:13:51,629
-        now, it's over to       
- the granulator's lower casing. 
+now, it's over to the granulator's lower casing. 
 
 195
 00:13:51,631 --> 00:13:55,099
-     a rotating blade shaves    
-   the edges to specification.  
+a rotating blade shaves the edges to specification.  
 
 196
 00:13:59,839 --> 00:14:02,974
-  the next worker spray paints  
-     the outer-casing parts.    
+the next worker spray paints the outer-casing parts.    
 
 197
 00:14:05,979 --> 00:14:10,315
-     this protects the steel    
-           from rust.           
+this protects the steel from rust.           
 
 198
 00:14:10,317 --> 00:14:12,317
-     after the paint dries,     
+after the paint dries,     
 
 199
 00:14:12,319 --> 00:14:14,586
-  they install the blade system 
-       in the outer casing      
+they install the blade system in the outer casing      
 
 200
 00:14:14,588 --> 00:14:18,589
-   and add a wire-mesh screen.  
+and add a wire-mesh screen.  
 
 201
 00:14:18,591 --> 00:14:20,191
-  the screen acts as a sifter,  
+the screen acts as a sifter,  
 
 202
 00:14:20,193 --> 00:14:22,861
-      allowing only plastic     
-   small enough for recycling   
+allowing only plastic small enough for recycling   
 
 203
 00:14:22,863 --> 00:14:26,664
-  to travel through the holes.  
+to travel through the holes.  
 
 204
 00:14:26,666 --> 00:14:31,669
-     now, the upper housing     
- is lowered onto the blade unit.
+now, the upper housing is lowered onto the blade unit.
 
 205
 00:14:31,671 --> 00:14:34,805
-          a long hinge          
-     is added into the holes    
+a long hinge is added into the holes    
 
 206
 00:14:34,807 --> 00:14:38,176
-    so the plastic granulator   
- can be opened for maintenance. 
+so the plastic granulator can be opened for maintenance. 
 
 207
 00:14:42,749 --> 00:14:47,552
-  they give the blade system a  
- test spin, and it turns freely.
+they give the blade system a test spin, and it turns freely.
 
 208
 00:14:47,554 --> 00:14:52,156
-   another employee assembles   
-  a hopper for the granulator.  
+another employee assembles a hopper for the granulator.  
 
 209
 00:14:52,158 --> 00:14:55,359
-    he drapes a steel curtain   
-        over the opening        
+he drapes a steel curtain over the opening        
 
 210
 00:14:55,361 --> 00:14:59,697
-           to keep in           
-    any flying plastic chips.   
+to keep in any flying plastic chips.   
 
 211
 00:14:59,699 --> 00:15:03,701
- using a crane, the team lowers 
- the hopper onto the granulator.
+using a crane, the team lowers the hopper onto the granulator.
 
 212
 00:15:06,640 --> 00:15:08,706
-          they confirm          
-     that the two components    
+they confirm that the two components    
 
 213
 00:15:08,708 --> 00:15:11,042
-     are correctly aligned,     
-     and bolt them together.    
+are correctly aligned, and bolt them together.    
 
 214
 00:15:14,547 --> 00:15:18,850
- next, a 50 horsepower motor is 
+next, a 50 horsepower motor is 
 installed below the blade shaft.
 
 215
 00:15:18,852 --> 00:15:20,851
-    then, they loop a pulley    
-         from a flywheel        
+then, they loop a pulley from a flywheel        
 
 216
 00:15:20,853 --> 00:15:23,788
@@ -1033,100 +882,85 @@ on the blade shaft to the motor.
 
 217
 00:15:23,790 --> 00:15:26,324
-     now, the workers cover     
-   the pulley system and motor  
+now, the workers cover the pulley system and motor  
 
 218
 00:15:26,326 --> 00:15:28,726
-     with the steel housing.    
+with the steel housing.    
 
 219
 00:15:28,728 --> 00:15:30,862
-   then, a drawer is installed  
+then, a drawer is installed  
 
 220
 00:15:30,864 --> 00:15:34,732
-  to collect the plastic chips  
-          as they fall.         
+to collect the plastic chips as they fall.         
 
 221
 00:15:34,734 --> 00:15:39,070
-        they're now ready       
-   to power up the granulator.  
+they're now ready to power up the granulator.  
 
 222
 00:15:39,072 --> 00:15:42,740
- every machine is tested before 
-      it leaves the factory     
+every machine is tested before it leaves the factory     
 
 223
 00:15:42,742 --> 00:15:44,442
-           to confirm           
-   that it's fully functional.  
+to confirm that it's fully functional.  
 
 224
 00:15:51,284 --> 00:15:53,751
-     this plastic granulator    
-          is now ready          
+this plastic granulator is now ready          
 
 225
 00:15:53,753 --> 00:15:56,821
- to take on the growing problem 
-        of plastic waste.       
+to take on the growing problem of plastic waste.       
 
 226
 00:16:09,569 --> 00:16:13,237
- narrator: glass lends a sparkle
-        to any interior.        
+narrator: glass lends a sparkle
+to any interior.        
 
 227
 00:16:13,239 --> 00:16:16,440
-      from a bathroom sink      
-         to a staircase,        
+from a bathroom sink to a staircase,        
 
 228
 00:16:16,442 --> 00:16:20,044
-   architectural glass is both  
-    functional and artistic.    
+architectural glass is both functional and artistic.    
 
 229
 00:16:20,046 --> 00:16:25,183
 the glass can be either handmade
-     or mechanically formed.    
+or mechanically formed.    
 
 230
 00:16:29,322 --> 00:16:31,655
- it's called architectural glass
+it's called architectural glass
 
 231
 00:16:31,657 --> 00:16:34,858
-  because an architect usually  
- designs its aesthetic features 
+because an architect usually designs its aesthetic features 
 
 232
 00:16:34,860 --> 00:16:37,295
-         and the objects        
- the glass will be paired with. 
+and the objects the glass will be paired with. 
 
 233
 00:16:39,398 --> 00:16:42,066
-       this company fuses       
-    multiple sheets of glass,   
+this company fuses multiple sheets of glass,   
 
 234
 00:16:42,068 --> 00:16:44,068
-           each about           
-   a quarter of an inch thick,  
+each about a quarter of an inch thick,  
 
 235
 00:16:44,070 --> 00:16:46,471
-  to create a finished product  
-        of any thickness.       
+to create a finished product of any thickness.       
 
 236
 00:16:51,344 --> 00:16:54,479
-        for example, this       
-  soon-to-be kitchen countertop 
+for example, this soon-to-be kitchen countertop 
 
 237
 00:16:54,481 --> 00:16:57,181
@@ -1134,315 +968,278 @@ uses 5 sheets of standard glass.
 
 238
 00:16:59,652 --> 00:17:02,553
-     grabbing one at a time     
-   with handled suction cups,   
+grabbing one at a time with handled suction cups,   
 
 239
 00:17:02,555 --> 00:17:03,788
-      they gently place it      
+they gently place it      
 
 240
 00:17:03,790 --> 00:17:06,690
-   on a pneumatically operated  
-         cutting table.         
+on a pneumatically operated cutting table.         
 
 241
 00:17:06,692 --> 00:17:09,426
-      they measure and cut      
-        the correct size        
+they measure and cut the correct size        
 
 242
 00:17:09,428 --> 00:17:12,296
-      using a square angle      
-    with a diamond tip blade.   
+using a square angle with a diamond tip blade.   
 
 243
 00:17:12,298 --> 00:17:17,035
- diamonds are the only material 
-       that can cut glass.      
+diamonds are the only material that can cut glass.      
 
 244
 00:17:21,441 --> 00:17:26,177
- this kiln is a specialized oven
-        for baking glass.       
+this kiln is a specialized oven
+for baking glass.       
 
 245
 00:17:26,179 --> 00:17:29,113
-      a craftsman sprinkles     
-          white powder          
+a craftsman sprinkles white powder          
 
 246
 00:17:29,115 --> 00:17:31,048
-   onto the base of the kiln.   
+onto the base of the kiln.   
 
 247
 00:17:31,050 --> 00:17:33,885
- the powder will leave a texture
-     in the sheet of glass.     
+the powder will leave a texture
+in the sheet of glass.     
 
 248
 00:17:36,255 --> 00:17:38,589
-       next, he sprinkles       
-    ground-up, colored glass    
+next, he sprinkles ground-up, colored glass    
 
 249
 00:17:38,591 --> 00:17:40,391
-     across the glass sheet     
+across the glass sheet     
 
 250
 00:17:40,393 --> 00:17:44,128
- to give the kitchen countertop 
-     a unique color scheme.     
+to give the kitchen countertop a unique color scheme.     
 
 251
 00:17:44,130 --> 00:17:47,331
-     they sandwich the glass    
-  with another sheet of glass,  
+they sandwich the glass with another sheet of glass,  
 
 252
 00:17:47,333 --> 00:17:49,066
- repeating this coloring process
+repeating this coloring process
 
 253
 00:17:49,068 --> 00:17:51,102
-            with each           
-    of the remaining layers.    
+with each of the remaining layers.    
 
 254
 00:18:00,079 --> 00:18:02,947
-  once the last sheet of glass  
-        is put in place,        
+once the last sheet of glass is put in place,        
 
 255
 00:18:02,949 --> 00:18:04,982
-   they clean the top surface.  
+they clean the top surface.  
 
 256
 00:18:08,754 --> 00:18:12,457
 now, it's time to close the kiln
-       and bake the glass.      
+and bake the glass.      
 
 257
 00:18:22,035 --> 00:18:26,370
 inside the kiln, the five layers
-       fuse into one unit.      
+fuse into one unit.      
 
 258
 00:18:29,842 --> 00:18:33,177
-    at another kiln, a stack    
+at another kiln, a stack    
 of glass has been fused together
 
 259
 00:18:33,179 --> 00:18:34,979
- and is ready for the next step.
+and is ready for the next step.
 
 260
 00:18:34,981 --> 00:18:36,446
-      workers open the kiln     
+workers open the kiln     
 
 261
 00:18:36,448 --> 00:18:39,650
-   and carefully transfer the   
-  newly formed glass countertop 
+and carefully transfer the newly formed glass countertop 
 
 262
 00:18:39,652 --> 00:18:41,252
-      onto a rolling cart.      
+onto a rolling cart.      
 
 263
 00:18:48,127 --> 00:18:51,395
-      they take the counter     
-    to the polishing machine.   
+they take the counter to the polishing machine.   
 
 264
 00:18:51,397 --> 00:18:53,797
-     with stones and water,     
+with stones and water,     
 
 265
 00:18:53,799 --> 00:18:55,799
-           the machine          
-      grinds down the edges     
+the machine grinds down the edges     
 
 266
 00:18:55,801 --> 00:18:58,202
-       until the layering       
-      is no longer visible.     
+until the layering is no longer visible.     
 
 267
 00:19:01,207 --> 00:19:02,806
-  the finished glass countertop 
+the finished glass countertop 
 
 268
 00:19:02,808 --> 00:19:05,143
-        is strong enough        
-     to span over nine feet     
+is strong enough to span over nine feet     
 
 269
 00:19:05,145 --> 00:19:07,044
-   without structural support.  
+without structural support.  
 
 270
 00:19:10,216 --> 00:19:12,883
-         and because of         
+and because of         
 the heating-and-cooling process,
 
 271
 00:19:12,885 --> 00:19:16,820
- the glass is now scratch-proof 
-       and chip-resistant.      
+the glass is now scratch-proof and chip-resistant.      
 
 272
 00:19:16,822 --> 00:19:19,957
-     you can even chop food     
-    directly on the surface.    
+you can even chop food directly on the surface.    
 
 273
 00:19:19,959 --> 00:19:22,693
-      at a different kiln,      
-     they're making a sink.     
+at a different kiln, they're making a sink.     
 
 274
 00:19:22,695 --> 00:19:25,629
-         first, they use        
-     a textured glass stamp     
+first, they use a textured glass stamp     
 
 275
 00:19:25,631 --> 00:19:27,632
-       to press a pattern       
-         in the powder.         
+to press a pattern in the powder.         
 
 276
 00:19:29,635 --> 00:19:32,970
-  then, they place three layers 
-   of glass over the pattern,   
+then, they place three layers of glass over the pattern,   
 
 277
 00:19:32,972 --> 00:19:34,839
-  carefully aligning the edges. 
+carefully aligning the edges. 
 
 278
 00:19:41,714 --> 00:19:43,981
-          after baking,         
-   the three layers are fused   
+after baking, the three layers are fused   
 
 279
 00:19:43,983 --> 00:19:47,651
- into one thick circle of glass.
+into one thick circle of glass.
 
 280
 00:19:47,653 --> 00:19:48,986
-     the bottom of the glass    
+the bottom of the glass    
 
 281
 00:19:48,988 --> 00:19:50,854
-    has taken on the pattern    
-         of the powder,         
+has taken on the pattern of the powder,         
 
 282
 00:19:50,856 --> 00:19:52,790
-     leaving a unique look.     
+leaving a unique look.     
 
 283
 00:19:52,792 --> 00:19:55,026
-          this will be          
+this will be          
 the outside surface of the sink.
 
 284
 00:19:59,199 --> 00:20:02,266
-      they place the glass      
-     over a sink-shaped mold    
+they place the glass over a sink-shaped mold    
 
 285
 00:20:02,268 --> 00:20:03,935
-  in a different type of kiln.  
+in a different type of kiln.  
 
 286
 00:20:06,805 --> 00:20:11,675
-  over several hours, the glass 
+over several hours, the glass 
 melts into the sink-shaped mold.
 
 287
 00:20:11,677 --> 00:20:16,180
-      once the glass cools,     
+once the glass cools,     
 they extract what is now a sink.
 
 288
 00:20:18,418 --> 00:20:21,686
-   they carefully measure and   
- mark where the drain hole goes,
+they carefully measure and mark where the drain hole goes,
 
 289
 00:20:21,688 --> 00:20:24,555
-    then they drill the hole    
-       with a diamond bit.      
+then they drill the hole with a diamond bit.      
 
 290
 00:20:26,559 --> 00:20:28,426
-  this generates a lot of heat, 
+this generates a lot of heat, 
 
 291
 00:20:28,428 --> 00:20:32,096
-    so they must continuously   
-  cool the bit with cold water. 
+so they must continuously cool the bit with cold water. 
 
 292
 00:20:32,098 --> 00:20:36,233
-       otherwise, the tool      
-     could overheat and jam.    
+otherwise, the tool could overheat and jam.    
 
 293
 00:20:36,235 --> 00:20:39,503
-   the glass sink is finished.  
+the glass sink is finished.  
 
 294
 00:20:42,508 --> 00:20:44,041
-   they use the same technique  
+they use the same technique  
 
 295
 00:20:44,043 --> 00:20:47,411
-     to produce glass sinks     
-  in various colors and shapes. 
+to produce glass sinks in various colors and shapes. 
 
 296
 00:20:52,051 --> 00:20:53,784
-     sometimes, these sinks     
+sometimes, these sinks     
 
 297
 00:20:53,786 --> 00:20:56,387
-       are even integrated      
-     with glass countertops.    
+are even integrated with glass countertops.    
 
 298
 00:20:56,389 --> 00:20:58,923
-         countless other        
-   interior-design components   
+countless other interior-design components   
 
 299
 00:20:58,925 --> 00:21:01,659
-           can be made          
-    from architectural glass.   
+can be made from architectural glass.   
 
 300
 00:21:01,661 --> 00:21:04,728
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 301
 00:21:04,730 --> 00:21:07,665
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 302
 00:21:13,539 --> 00:21:15,673
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 303
 00:21:15,675 --> 00:21:18,476
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 304
 00:21:18,478 --> 00:21:20,011
-      drop us a line at...      
+drop us a line at...      
 

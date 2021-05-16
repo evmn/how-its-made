@@ -1,109 +1,90 @@
 ﻿1
 00:00:52,720 --> 00:00:54,920
-            narrator:           
-   having a multi-tool on hand  
+narrator: having a multi-tool on hand  
 
 2
 00:00:54,922 --> 00:00:57,590
-         is like having         
-    a toolbox in your pocket.   
+is like having a toolbox in your pocket.   
 
 3
 00:00:57,592 --> 00:01:01,327
-    it contains anywhere from   
-    5 to 21 basic implements,   
+it contains anywhere from 5 to 21 basic implements,   
 
 4
 00:01:01,329 --> 00:01:05,565
- from screwdrivers and scissors 
-   to can openers and pliers.   
+from screwdrivers and scissors to can openers and pliers.   
 
 5
 00:01:05,567 --> 00:01:08,600
-    they all fold in and out    
- of the handles, forming a case 
+they all fold in and out of the handles, forming a case 
 
 6
 00:01:08,602 --> 00:01:12,572
-      that's compact enough     
-  to be carried in your pocket. 
+that's compact enough to be carried in your pocket. 
 
 7
 00:01:15,209 --> 00:01:18,944
-         this multi-tool        
-  contains 14 different tools,  
+this multi-tool contains 14 different tools,  
 
 8
 00:01:18,946 --> 00:01:21,080
-  including scissors, a knife,  
+including scissors, a knife,  
 
 9
 00:01:21,082 --> 00:01:23,149
-          wire cutters,         
-      two types of pliers,      
+wire cutters, two types of pliers,      
 
 10
 00:01:23,151 --> 00:01:28,287
-  three different screwdrivers, 
-         and much more.         
+three different screwdrivers, and much more.         
 
 11
 00:01:28,289 --> 00:01:29,555
-       most of these tools      
+most of these tools      
 
 12
 00:01:29,557 --> 00:01:32,758
-       and the handle into      
-  which they conveniently fold  
+and the handle into which they conveniently fold  
 
 13
 00:01:32,760 --> 00:01:34,760
-  are made of stainless steel.  
+are made of stainless steel.  
 
 14
 00:01:34,762 --> 00:01:37,896
-  the strip of stainless steel  
-        winds off a reel        
+the strip of stainless steel winds off a reel        
 
 15
 00:01:37,898 --> 00:01:40,499
-        and moves through       
-     a 300-ton punch press.     
+and moves through a 300-ton punch press.     
 
 16
 00:01:40,501 --> 00:01:42,568
-            it works            
-   like a giant cookie cutter,  
+it works like a giant cookie cutter,  
 
 17
 00:01:42,570 --> 00:01:46,104
-   striking a series of dies    
-   against the passing metal,   
+striking a series of dies against the passing metal,   
 
 18
 00:01:46,106 --> 00:01:48,441
-   progressively stamping out,  
-          in this case,         
+progressively stamping out, in this case,         
 
 19
 00:01:48,443 --> 00:01:52,178
-  one part of the multi-tool's  
-        two-part handle.        
+one part of the multi-tool's two-part handle.        
 
 20
 00:01:54,449 --> 00:01:57,582
-        17 strikes later,       
-        it's fully formed       
+17 strikes later, it's fully formed       
 
 21
 00:01:57,584 --> 00:02:00,519
-    and ready to go through     
-    a heat-treatment process    
+and ready to go through a heat-treatment process    
 
 22
 00:02:00,521 --> 00:02:04,190
-          to strengthen         
-      the stainless steel.      
+to strengthen the stainless steel.      
 
 23
 00:02:04,192 --> 00:02:09,195
@@ -112,242 +93,207 @@ handle against a grinding wheel.
 
 24
 00:02:09,197 --> 00:02:12,130
-    it does so with specific    
-      programmed movements      
+it does so with specific programmed movements      
 
 25
 00:02:12,132 --> 00:02:16,535
- which produce a delicate lined 
- pattern on the metal surface.  
+which produce a delicate lined pattern on the metal surface.  
 
 26
 00:02:18,539 --> 00:02:20,673
-         certain tools,         
-       like knife blades,       
+certain tools, like knife blades,       
 
 27
 00:02:20,675 --> 00:02:22,207
-    are made of premium steel   
+are made of premium steel   
 
 28
 00:02:22,209 --> 00:02:25,077
- that is too hard for the press 
-        to punch through,       
+that is too hard for the press to punch through,       
 
 29
 00:02:25,079 --> 00:02:29,281
-   so they have to be cut out   
-   by a computer-guided laser.  
+so they have to be cut out by a computer-guided laser.  
 
 30
 00:02:29,283 --> 00:02:32,618
-   the laser's heat literally   
-    melts through the metal.    
+the laser's heat literally melts through the metal.    
 
 31
 00:02:37,625 --> 00:02:40,025
-    the knife blades go into    
-      a polishing machine,      
+the knife blades go into a polishing machine,      
 
 32
 00:02:40,027 --> 00:02:43,763
 where they vibrate among ceramic
-    stones for several hours.   
+stones for several hours.   
 
 33
 00:02:43,765 --> 00:02:47,032
-        this smoothes out       
-  the rough edges by abrasion.  
+this smoothes out the rough edges by abrasion.  
 
 34
 00:02:47,034 --> 00:02:50,636
 a magnet then removes the blades
-        from the machine.       
+from the machine.       
 
 35
 00:02:50,638 --> 00:02:53,972
-        the knife blades,       
-    still dull at this point,   
+the knife blades, still dull at this point,   
 
 36
 00:02:53,974 --> 00:02:57,042
-    go onto a motorized table   
-  that runs them back and forth 
+go onto a motorized table that runs them back and forth 
 
 37
 00:02:57,044 --> 00:02:59,044
-     under a grinding wheel.    
+under a grinding wheel.    
 
 38
 00:02:59,046 --> 00:03:02,114
- this finalizes the dimensions. 
+this finalizes the dimensions. 
 
 39
 00:03:04,252 --> 00:03:06,585
-          the two jaws          
-    that form the plier head    
+the two jaws that form the plier head    
 
 40
 00:03:06,587 --> 00:03:09,054
-       are cast in steel.       
+are cast in steel.       
 
 41
 00:03:09,056 --> 00:03:12,124
-      workers assemble them     
-        with a spring...        
+workers assemble them with a spring...        
 
 42
 00:03:13,994 --> 00:03:16,629
-           ...a pin...          
+...a pin...          
 
 43
 00:03:18,866 --> 00:03:20,332
-         ...and a rivet.        
+...and a rivet.        
 
 44
 00:03:28,409 --> 00:03:32,812
-          then a robot          
- performs a two-stage polishing,
+then a robot performs a two-stage polishing,
 
 45
 00:03:32,814 --> 00:03:35,614
-  first against a grinding belt 
-      with the rough grit,      
+first against a grinding belt with the rough grit,      
 
 46
 00:03:35,616 --> 00:03:37,616
-          then against          
-     one with a finer grit.     
+then against one with a finer grit.     
 
 47
 00:03:39,287 --> 00:03:41,887
-    the plier head is at last   
-      ready to be assembled     
+the plier head is at last ready to be assembled     
 
 48
 00:03:41,889 --> 00:03:44,557
-       to the multi-tool's      
-        two-part handle.        
+to the multi-tool's two-part handle.        
 
 49
 00:03:44,559 --> 00:03:47,226
-      they align the holes      
-          of the handle         
+they align the holes of the handle         
 
 50
 00:03:47,228 --> 00:03:51,497
-  with holes of the plier head, 
-  slipping a spacer in between. 
+with holes of the plier head, slipping a spacer in between. 
 
 51
 00:03:51,499 --> 00:03:53,432
-         they put a pin         
-       and screw fastener       
+they put a pin and screw fastener       
 
 52
 00:03:53,434 --> 00:03:57,770
-   through the aligned holes    
-   to connect handle to head.   
+through the aligned holes to connect handle to head.   
 
 53
 00:04:04,511 --> 00:04:07,045
-  back to the knife blade now.  
+back to the knife blade now.  
 
 54
 00:04:07,047 --> 00:04:10,382
-  until this point, the blade's 
-   cutting edge has been dull.  
+until this point, the blade's cutting edge has been dull.  
 
 55
 00:04:10,384 --> 00:04:14,386
-     now a robot sharpens it    
-  against two grinding wheels.  
+now a robot sharpens it against two grinding wheels.  
 
 56
 00:04:14,388 --> 00:04:17,722
-  this is what the knife blade  
-      looks like before...      
+this is what the knife blade looks like before...      
 
 57
 00:04:17,724 --> 00:04:20,659
-           and after.           
+and after.           
 
 58
 00:04:20,661 --> 00:04:24,597
 with the handle and all 14 tools
-      formed, heat treated,     
+formed, heat treated,     
 
 59
 00:04:24,599 --> 00:04:28,134
-  and polished, and the pliers  
-    connected to the handles,   
+and polished, and the pliers connected to the handles,   
 
 60
 00:04:28,136 --> 00:04:30,136
-   final assembly can begin --  
+final assembly can begin --  
 
 61
 00:04:30,138 --> 00:04:34,873
-   the remaining tools stacked  
- together inside the two handles
+the remaining tools stacked together inside the two handles
 
 62
 00:04:34,875 --> 00:04:37,309
-  with the stainless-steel ring 
-  to fill up the excess width.  
+with the stainless-steel ring to fill up the excess width.  
 
 63
 00:04:41,081 --> 00:04:43,816
-   the assemblers thread a rod  
-       all the way through      
+the assemblers thread a rod all the way through      
 
 64
 00:04:43,818 --> 00:04:46,818
-      the holes of the base     
-     of the handle and tools    
+the holes of the base of the handle and tools    
 
 65
 00:04:46,820 --> 00:04:49,622
-      to hold the alignment     
-   until they secure the setup  
+to hold the alignment until they secure the setup  
 
 66
 00:04:49,624 --> 00:04:52,091
-  with the stainless-steel pin  
-           and rivet.           
+with the stainless-steel pin and rivet.           
 
 67
 00:04:52,093 --> 00:04:53,892
-    they repeat this process    
+they repeat this process    
 
 68
 00:04:53,894 --> 00:04:56,161
-       in the other handle      
-    with the remaining tools,   
+in the other handle with the remaining tools,   
 
 69
 00:04:56,163 --> 00:04:57,763
-   except for the knife blade   
-          and scissors,         
+except for the knife blade and scissors,         
 
 70
 00:04:57,765 --> 00:05:00,499
-       which go in later.       
+which go in later.       
 
 71
 00:05:00,501 --> 00:05:02,568
-     they apply a few drops     
-         of thread lock         
+they apply a few drops of thread lock         
 
 72
 00:05:02,570 --> 00:05:05,437
-     to immobilize the pins     
-         in each handle.        
+to immobilize the pins in each handle.        
 
 73
 00:05:05,439 --> 00:05:08,307
 a bronze washer makes the handle
-     housing the knife blade    
+housing the knife blade    
 
 74
 00:05:08,309 --> 00:05:11,911
@@ -355,141 +301,120 @@ open smoothly to prevent injury.
 
 75
 00:05:11,913 --> 00:05:14,780
-   they install a safety cover  
-       on that same handle      
+they install a safety cover on that same handle      
 
 76
 00:05:14,782 --> 00:05:18,751
-    to shield the sharp knife   
-      when it's not in use.     
+to shield the sharp knife when it's not in use.     
 
 77
 00:05:21,589 --> 00:05:25,324
-   now the knife blade itself.  
+now the knife blade itself.  
 
 78
 00:05:28,262 --> 00:05:31,129
-     they rivet the scissors    
-      to the other handle,      
+they rivet the scissors to the other handle,      
 
 79
 00:05:31,131 --> 00:05:34,599
-  and the assembly is finished. 
+and the assembly is finished. 
 
 80
 00:05:34,601 --> 00:05:38,204
-    this multi-tool, with its   
-    14 different implements,    
+this multi-tool, with its 14 different implements,    
 
 81
 00:05:38,206 --> 00:05:41,073
-    is ready to be folded up    
-     and tucked in a pocket     
+is ready to be folded up and tucked in a pocket     
 
 82
 00:05:41,075 --> 00:05:46,045
-    or unfolded, offering up    
-  the right tool for the task.  
+or unfolded, offering up the right tool for the task.  
 
 83
 00:06:03,631 --> 00:06:06,298
-      narrator: jojoba oil      
-     isn't actually an oil.     
+narrator: jojoba oil isn't actually an oil.     
 
 84
 00:06:06,300 --> 00:06:09,835
-     it's a liquid wax from     
-  the seed of the jojoba plant, 
+it's a liquid wax from the seed of the jojoba plant, 
 
 85
 00:06:09,837 --> 00:06:13,038
-  native to the sonoran desert  
-        areas in arizona,       
+native to the sonoran desert areas in arizona,       
 
 86
 00:06:13,040 --> 00:06:14,373
-     california, and mexico.    
+california, and mexico.    
 
 87
 00:06:14,375 --> 00:06:17,242
-          jojoba oil is         
-  a common ingredient in soaps, 
+jojoba oil is a common ingredient in soaps, 
 
 88
 00:06:17,244 --> 00:06:21,446
-     shampoos, moisturizers,    
-    eye makeup, lip products,   
+shampoos, moisturizers, eye makeup, lip products,   
 
 89
 00:06:21,448 --> 00:06:23,449
-      and color cosmetics.      
+and color cosmetics.      
 
 90
 00:06:25,453 --> 00:06:29,054
-     cosmetics manufacturers    
-     buy refined jojoba oil     
+cosmetics manufacturers buy refined jojoba oil     
 
 91
 00:06:29,056 --> 00:06:31,123
-   from a processing facility.  
+from a processing facility.  
 
 92
 00:06:31,125 --> 00:06:32,991
-   jojoba in its natural state  
+jojoba in its natural state  
 
 93
 00:06:32,993 --> 00:06:36,462
-            is golden           
- and has a slightly nutty odor. 
+is golden and has a slightly nutty odor. 
 
 94
 00:06:36,464 --> 00:06:40,165
 once refined, it can be rendered
-     colorless and odorless.    
+colorless and odorless.    
 
 95
 00:06:42,270 --> 00:06:45,471
-         the jojoba farm        
-     takes selected cuttings    
+the jojoba farm takes selected cuttings    
 
 96
 00:06:45,473 --> 00:06:48,741
-   from mature jojoba shrubs,   
-      roots and grows them      
+from mature jojoba shrubs, roots and grows them      
 
 97
 00:06:48,743 --> 00:06:51,076
-    for 18 months to 2 years    
-        in a greenhouse,        
+for 18 months to 2 years in a greenhouse,        
 
 98
 00:06:51,078 --> 00:06:54,079
-      then transplants them     
-        into the fields.        
+then transplants them into the fields.        
 
 99
 00:06:56,350 --> 00:06:57,883
-     the wind carries pollen    
+the wind carries pollen    
 
 100
 00:06:57,885 --> 00:07:01,219
-      from the male plants      
-   to fertilize female plants,  
+from the male plants to fertilize female plants,  
 
 101
 00:07:01,221 --> 00:07:04,823
-   after which the female seed  
-       starts developing.       
+after which the female seed starts developing.       
 
 102
 00:07:04,825 --> 00:07:06,892
-       each seed is housed      
-          inside a hull         
+each seed is housed inside a hull         
 
 103
 00:07:06,894 --> 00:07:09,361
-    that gradually dries out    
-         and separates,         
+that gradually dries out and separates,         
 
 104
 00:07:09,363 --> 00:07:12,231
@@ -497,202 +422,169 @@ dropping the seed to the ground.
 
 105
 00:07:12,233 --> 00:07:15,701
-        the fallen seeds        
-     are mature for harvest.    
+the fallen seeds are mature for harvest.    
 
 106
 00:07:15,703 --> 00:07:19,104
- the mechanical harvester works 
-  like a giant vacuum cleaner,  
+the mechanical harvester works like a giant vacuum cleaner,  
 
 107
 00:07:19,106 --> 00:07:21,306
-        sucking the seeds       
-         off the ground,        
+sucking the seeds off the ground,        
 
 108
 00:07:21,308 --> 00:07:25,110
-    along with a lot of sand,   
-        twigs, and rocks.       
+along with a lot of sand, twigs, and rocks.       
 
 109
 00:07:27,581 --> 00:07:31,183
-  the harvester then dumps its  
- collection into a large hopper 
+the harvester then dumps its collection into a large hopper 
 
 110
 00:07:31,185 --> 00:07:34,853
-     that feeds an elaborate    
-     seed-cleaning machine.     
+that feeds an elaborate seed-cleaning machine.     
 
 111
 00:07:36,324 --> 00:07:40,859
-   in it, the seeds and debris  
- move from conveyor to conveyor 
+in it, the seeds and debris move from conveyor to conveyor 
 
 112
 00:07:40,861 --> 00:07:43,929
-        through a series        
-      of vibrating screens,     
+through a series of vibrating screens,     
 
 113
 00:07:43,931 --> 00:07:46,532
-            each made           
-  of increasingly smaller mesh. 
+each made of increasingly smaller mesh. 
 
 114
 00:07:46,534 --> 00:07:48,734
- the process gradually sifts out
+the process gradually sifts out
 
 115
 00:07:48,736 --> 00:07:52,071
-    smaller and smaller bits    
-          of debris...          
+smaller and smaller bits of debris...          
 
 116
 00:08:09,557 --> 00:08:12,891
-     ...until only the seeds    
-            are left.           
+...until only the seeds are left.           
 
 117
 00:08:12,893 --> 00:08:15,894
-          they go into          
-     huge polyethylene bags,    
+they go into huge polyethylene bags,    
 
 118
 00:08:15,896 --> 00:08:22,034
 then off to the processing plant
-  where workers empty the bags  
+where workers empty the bags  
 
 119
 00:08:22,036 --> 00:08:25,838
-       into a holding area      
-       called a seed pit.       
+into a holding area called a seed pit.       
 
 120
 00:08:25,840 --> 00:08:29,574
-      from here, conveyors      
- take the seeds to the presses. 
+from here, conveyors take the seeds to the presses. 
 
 121
 00:08:29,576 --> 00:08:32,511
-   the liquid wax is contained  
-  within the hard, white flesh, 
+the liquid wax is contained within the hard, white flesh, 
 
 122
 00:08:32,513 --> 00:08:34,446
-      called the cotyledon.     
+called the cotyledon.     
 
 123
 00:08:34,448 --> 00:08:40,652
- they expel the liquid wax with 
-  conventional expeller press.  
+they expel the liquid wax with conventional expeller press.  
 
 124
 00:08:40,654 --> 00:08:43,988
-      a long screw conveyor     
- feeds the seeds into the press,
+a long screw conveyor feeds the seeds into the press,
 
 125
 00:08:43,990 --> 00:08:46,859
-        then crushes them       
-        against a shaft.        
+then crushes them against a shaft.        
 
 126
 00:08:46,861 --> 00:08:48,994
- this forces out the liquid wax 
+this forces out the liquid wax 
 
 127
 00:08:48,996 --> 00:08:52,064
-          that makes up         
-   about half a seed's weight.  
+that makes up about half a seed's weight.  
 
 128
 00:08:57,337 --> 00:09:01,339
- the mashed seed-solids, called 
-   cake, are put to good use.   
+the mashed seed-solids, called cake, are put to good use.   
 
 129
 00:09:01,341 --> 00:09:03,609
-   some are used for compost.   
+some are used for compost.   
 
 130
 00:09:03,611 --> 00:09:07,212
-     some will be processed     
-       into exfoliates --       
+some will be processed into exfoliates --       
 
 131
 00:09:07,214 --> 00:09:09,214
-         abrasives used         
-    in face and body products   
+abrasives used in face and body products   
 
 132
 00:09:09,216 --> 00:09:12,183
-   to remove dead skin cells.   
+to remove dead skin cells.   
 
 133
 00:09:12,185 --> 00:09:14,086
-           meanwhile,           
-     a second screw conveyor    
+meanwhile, a second screw conveyor    
 
 134
 00:09:14,088 --> 00:09:17,622
-  moves the expelled liquid wax 
-    into a holding container,   
+moves the expelled liquid wax into a holding container,   
 
 135
 00:09:17,624 --> 00:09:22,961
 and from there, a pump pushes it
-     through a filter press.    
+through a filter press.    
 
 136
 00:09:22,963 --> 00:09:26,498
-       this press consists      
-  of several plates and frames, 
+this press consists of several plates and frames, 
 
 137
 00:09:26,500 --> 00:09:30,035
-        each one covered        
-      with a filter cloth.      
+each one covered with a filter cloth.      
 
 138
 00:09:30,037 --> 00:09:32,437
-        as the liquid wax       
-         passes through,        
+as the liquid wax passes through,        
 
 139
 00:09:32,439 --> 00:09:37,309
-        the cloth catches       
-   the last remaining solids.   
+the cloth catches the last remaining solids.   
 
 140
 00:09:37,311 --> 00:09:40,445
- this buildup of seed particles 
-     and other minute debris    
+this buildup of seed particles and other minute debris    
 
 141
 00:09:40,447 --> 00:09:43,382
-     is biodegradable waste.    
+is biodegradable waste.    
 
 142
 00:09:43,384 --> 00:09:47,920
-  to make exfoliates, machines  
- grind the cake into particles, 
+to make exfoliates, machines grind the cake into particles, 
 
 143
 00:09:47,922 --> 00:09:51,924
-  then vibrating sifters divide 
-     the particles by size.     
+then vibrating sifters divide the particles by size.     
 
 144
 00:09:51,926 --> 00:09:57,128
-  what's too big or small goes  
-  back to the farm for compost. 
+what's too big or small goes back to the farm for compost. 
 
 145
 00:09:57,130 --> 00:10:00,465
-    the extracted liquid wax    
-    isn't yet fully refined.    
+the extracted liquid wax isn't yet fully refined.    
 
 146
 00:10:00,467 --> 00:10:02,333
@@ -700,873 +592,751 @@ it's still cloudy and yellowish,
 
 147
 00:10:02,335 --> 00:10:05,470
-           so workers           
+so workers           
 add natural powdered absorbents,
 
 148
 00:10:05,472 --> 00:10:07,272
-      then filter them out.     
+then filter them out.     
 
 149
 00:10:07,274 --> 00:10:11,343
-  this clarifies the jojoba oil 
-     to its finished state.     
+this clarifies the jojoba oil to its finished state.     
 
 150
 00:10:11,345 --> 00:10:16,014
- the company lab runs extensive 
- quality tests on every batch.  
+the company lab runs extensive quality tests on every batch.  
 
 151
 00:10:16,016 --> 00:10:18,484
-           technicians          
-    analyze several criteria,   
+technicians analyze several criteria,   
 
 152
 00:10:18,486 --> 00:10:22,220
-     including color, odor,     
-    and chemical composition,   
+including color, odor, and chemical composition,   
 
 153
 00:10:22,222 --> 00:10:26,625
-     ensuring the oil meets     
- strict product specifications. 
+ensuring the oil meets strict product specifications. 
 
 154
 00:10:26,627 --> 00:10:28,627
-        as the jojoba oil       
+as the jojoba oil       
 
 155
 00:10:28,629 --> 00:10:30,829
-    flows from storage tanks    
-      into shipping drums,      
+flows from storage tanks into shipping drums,      
 
 156
 00:10:30,831 --> 00:10:34,833
-    it passes through a final   
+it passes through a final   
 ultra-sensitive cartridge filter
 
 157
 00:10:34,835 --> 00:10:36,634
-          that removes          
-      any minute particles      
+that removes any minute particles      
 
 158
 00:10:36,636 --> 00:10:39,972
-     that might have slipped    
-    through the filter press.   
+that might have slipped through the filter press.   
 
 159
 00:10:39,974 --> 00:10:42,774
-         this processor         
+this processor         
 
 160
 00:10:42,776 --> 00:10:46,111
-       makes two varieties      
-    of refined jojoba oil --    
+makes two varieties of refined jojoba oil --    
 
 161
 00:10:46,113 --> 00:10:48,446
-           one golden,          
-    with a mild, nutty aroma,   
+one golden, with a mild, nutty aroma,   
 
 162
 00:10:48,448 --> 00:10:52,251
-           the other,           
-     colorless and odorless.    
+the other, colorless and odorless.    
 
 163
 00:10:52,253 --> 00:10:54,720
-   the texture and consistency  
-         are identical.         
+the texture and consistency are identical.         
 
 164
 00:10:54,722 --> 00:10:56,989
-          manufacturers         
-      buy whichever variety     
+manufacturers buy whichever variety     
 
 165
 00:10:56,991 --> 00:10:58,957
-   better suits their product.  
+better suits their product.  
 
 166
 00:11:14,341 --> 00:11:17,609
-   narrator: string puppets,    
-   also known as marionettes,   
+narrator: string puppets, also known as marionettes,   
 
 167
 00:11:17,611 --> 00:11:20,745
-       are an ancient form      
-         of performance.        
+are an ancient form of performance.        
 
 168
 00:11:20,747 --> 00:11:22,881
-     it's not known exactly     
-          when or where         
+it's not known exactly when or where         
 
 169
 00:11:22,883 --> 00:11:25,284
-    the first string puppets    
-       made an appearance,      
+the first string puppets made an appearance,      
 
 170
 00:11:25,286 --> 00:11:27,018
-           but it was           
-     thousands of years ago.    
+but it was thousands of years ago.    
 
 171
 00:11:27,020 --> 00:11:29,354
-    today, they've still got    
-          what it takes         
+today, they've still got what it takes         
 
 172
 00:11:29,356 --> 00:11:31,657
-     to entertain audiences     
-           worldwide.           
+to entertain audiences worldwide.           
 
 173
 00:11:34,494 --> 00:11:36,160
-     [ circus music plays ]     
+[ circus music plays ]     
 
 174
 00:11:36,162 --> 00:11:39,364
-      digitized characters      
-     may rule in the movies,    
+digitized characters may rule in the movies,    
 
 175
 00:11:39,366 --> 00:11:42,834
-  but onstage, there's no doubt 
-    that string-animated ones   
+but onstage, there's no doubt that string-animated ones   
 
 176
 00:11:42,836 --> 00:11:46,170
-   can still dazzle audiences.  
+can still dazzle audiences.  
 
 177
 00:11:46,172 --> 00:11:48,840
-         a few movements        
-    of the puppeteer's hands,   
+a few movements of the puppeteer's hands,   
 
 178
 00:11:48,842 --> 00:11:53,979
- and some fantastical characters
-      are brought to life.      
+and some fantastical characters
+are brought to life.      
 
 179
 00:11:53,981 --> 00:11:55,313
-       behind the scenes,       
+behind the scenes,       
 
 180
 00:11:55,315 --> 00:11:58,650
-    making these marionettes    
-     is a major production.     
+making these marionettes is a major production.     
 
 181
 00:11:58,652 --> 00:12:01,987
-    each one is painstakingly   
-          hand-crafted          
+each one is painstakingly hand-crafted          
 
 182
 00:12:01,989 --> 00:12:03,722
- in a process that takes weeks. 
+in a process that takes weeks. 
 
 183
 00:12:05,659 --> 00:12:08,526
-   it all starts with an idea.  
+it all starts with an idea.  
 
 184
 00:12:08,528 --> 00:12:12,264
- the puppet maker draws several 
-   sketches of the character,   
+the puppet maker draws several sketches of the character,   
 
 185
 00:12:12,266 --> 00:12:14,933
-      tweaking the features     
-      until he's satisfied.     
+tweaking the features until he's satisfied.     
 
 186
 00:12:14,935 --> 00:12:19,671
-   he then draws a full-scale   
-   version of the marionette.   
+he then draws a full-scale version of the marionette.   
 
 187
 00:12:19,673 --> 00:12:22,341
-          referring to          
-      that scaled drawing,      
+referring to that scaled drawing,      
 
 188
 00:12:22,343 --> 00:12:24,209
-  he sculpts the head in clay,  
+he sculpts the head in clay,  
 
 189
 00:12:24,211 --> 00:12:28,813
-    building it into a wooden   
+building it into a wooden   
 framework known as the armature.
 
 190
 00:12:28,815 --> 00:12:30,148
-     the clay is oil-based.     
+the clay is oil-based.     
 
 191
 00:12:30,150 --> 00:12:33,218
-       it doesn't dry out       
+it doesn't dry out       
 as fast as the water-based kind,
 
 192
 00:12:33,220 --> 00:12:36,521
-    so there's time to tweak    
-  the sculpture and perfect it. 
+so there's time to tweak the sculpture and perfect it. 
 
 193
 00:12:36,523 --> 00:12:38,156
-    lines drawn for reference   
+lines drawn for reference   
 
 194
 00:12:38,158 --> 00:12:42,360
-   make it easier to position   
-   the nose, eyes, and mouth.   
+make it easier to position the nose, eyes, and mouth.   
 
 195
 00:12:42,362 --> 00:12:43,962
-      he defines the mouth      
-          a little more         
+he defines the mouth a little more         
 
 196
 00:12:43,964 --> 00:12:46,698
-           to give it           
-     a petulant expression.     
+to give it a petulant expression.     
 
 197
 00:12:46,700 --> 00:12:48,166
-           he smoothes          
-    the top of the clay head,   
+he smoothes the top of the clay head,   
 
 198
 00:12:48,168 --> 00:12:52,170
-  using a looped sculpting tool 
-         and his thumb.         
+using a looped sculpting tool and his thumb.         
 
 199
 00:12:52,172 --> 00:12:55,240
-      with a caliper tool,      
-     he constantly compares     
+with a caliper tool, he constantly compares     
 
 200
 00:12:55,242 --> 00:12:58,242
-  the dimensions of the sketch  
-        to the sculpture        
+the dimensions of the sketch to the sculpture        
 
 201
 00:12:58,244 --> 00:13:02,581
- to ensure the head won't end up
-     too large or too small.    
+to ensure the head won't end up
+too large or too small.    
 
 202
 00:13:02,583 --> 00:13:06,518
 once the lips and other features
-     have been smoothed out,    
+have been smoothed out,    
 
 203
 00:13:06,520 --> 00:13:09,855
-       he prepares to make      
+he prepares to make      
 a plaster mold of the sculpture.
 
 204
 00:13:09,857 --> 00:13:12,457
-       he divides the head      
-       into four sections,      
+he divides the head into four sections,      
 
 205
 00:13:12,459 --> 00:13:15,326
-   and he outlines a trap door  
-     at the back of the head    
+and he outlines a trap door at the back of the head    
 
 206
 00:13:15,328 --> 00:13:18,330
-     for easy access later.     
+for easy access later.     
 
 207
 00:13:18,332 --> 00:13:22,133
-      he now inserts metal      
- shims along the dividing lines.
+he now inserts metal shims along the dividing lines.
 
 208
 00:13:22,135 --> 00:13:28,806
- he's essentially building walls
-   to contain molding plaster.  
+he's essentially building walls
+to contain molding plaster.  
 
 209
 00:13:28,808 --> 00:13:32,143
-   the shims will also ensure   
+the shims will also ensure   
 that the plaster, once hardened,
 
 210
 00:13:32,145 --> 00:13:36,748
-  can be removed from the clay  
+can be removed from the clay  
 sculpture in four intact pieces.
 
 211
 00:13:38,618 --> 00:13:43,688
-  the plaster has been mixed to 
- the consistency of cake batter.
+the plaster has been mixed to the consistency of cake batter.
 
 212
 00:13:43,690 --> 00:13:45,290
-   he scoops a generous amount  
+he scoops a generous amount  
 
 213
 00:13:45,292 --> 00:13:48,427
-    into a walled-in section    
-     of the clay sculpture.     
+into a walled-in section of the clay sculpture.     
 
 214
 00:13:50,563 --> 00:13:54,833
-   the plaster generates heat   
-     as it hardens and sets.    
+the plaster generates heat as it hardens and sets.    
 
 215
 00:13:54,835 --> 00:13:58,003
-          it then cools         
-     for about half an hour.    
+it then cools for about half an hour.    
 
 216
 00:14:00,908 --> 00:14:05,110
-           he removes           
-   the shims that surround it.  
+he removes the shims that surround it.  
 
 217
 00:14:05,112 --> 00:14:11,182
-    he then uses those shims    
-  to wall-in the next section.  
+he then uses those shims to wall-in the next section.  
 
 218
 00:14:11,184 --> 00:14:15,821
 he adds more plaster to build up
-     this part of the mold.     
+this part of the mold.     
 
 219
 00:14:18,725 --> 00:14:21,459
-     when all four sections     
-          are complete,         
+when all four sections are complete,         
 
 220
 00:14:21,461 --> 00:14:25,263
-     he gently chisels them     
- at the seams to separate them. 
+he gently chisels them at the seams to separate them. 
 
 221
 00:14:25,265 --> 00:14:28,333
-        he opens the mold       
-   and removes the sculpture.   
+he opens the mold and removes the sculpture.   
 
 222
 00:14:28,335 --> 00:14:32,270
- its image has been transferred 
-   to the inside of the mold.   
+its image has been transferred to the inside of the mold.   
 
 223
 00:14:32,272 --> 00:14:33,805
-          the sculpture         
-      is no longer needed,      
+the sculpture is no longer needed,      
 
 224
 00:14:33,807 --> 00:14:38,209
-     and he's ready to cast     
+and he's ready to cast     
 the puppet head, using the mold.
 
 225
 00:14:38,211 --> 00:14:41,813
-        for that, he uses       
- plastic-infused cloth squares, 
+for that, he uses plastic-infused cloth squares, 
 
 226
 00:14:41,815 --> 00:14:43,081
-      softened by solvent.      
+softened by solvent.      
 
 227
 00:14:43,083 --> 00:14:46,752
-    he transfers the squares    
-      to the mold sections      
+he transfers the squares to the mold sections      
 
 228
 00:14:46,754 --> 00:14:50,756
-         and layers them        
-       papier-mâché style.      
+and layers them papier-mâché style.      
 
 229
 00:14:50,758 --> 00:14:53,358
-         a release agent        
-       applied to the mold      
+a release agent applied to the mold      
 
 230
 00:14:53,360 --> 00:14:55,894
-        keeps the squares       
-       from sticking to it      
+keeps the squares from sticking to it      
 
 231
 00:14:55,896 --> 00:14:59,030
-   as they begin to adhere to   
+as they begin to adhere to   
 each other, and, in the process,
 
 232
 00:14:59,032 --> 00:15:02,233
-      conform to the mold's     
-      curves and crevices.      
+conform to the mold's curves and crevices.      
 
 233
 00:15:02,235 --> 00:15:05,570
-    with squares now applied    
-      to all four sections,     
+with squares now applied to all four sections,     
 
 234
 00:15:05,572 --> 00:15:09,374
- he puts the mold back together 
-  and joins them at the seams.  
+he puts the mold back together and joins them at the seams.  
 
 235
 00:15:09,376 --> 00:15:13,244
-         after 10 hours,        
-  it's time for the big reveal. 
+after 10 hours, it's time for the big reveal. 
 
 236
 00:15:13,246 --> 00:15:18,249
-  all those little squares are  
- now one solid marionette head. 
+all those little squares are now one solid marionette head. 
 
 237
 00:15:18,251 --> 00:15:21,920
- the casting looks pretty rough 
-         at this point,         
+the casting looks pretty rough at this point,         
 
 238
 00:15:21,922 --> 00:15:26,458
- so he covers the entire surface
-       with plastic wood.       
+so he covers the entire surface
+with plastic wood.       
 
 239
 00:15:29,930 --> 00:15:34,166
-        what a difference       
- sanding the plastic wood makes.
+what a difference sanding the plastic wood makes.
 
 240
 00:15:34,168 --> 00:15:35,467
-     he then paints the head    
+he then paints the head    
 
 241
 00:15:35,469 --> 00:15:39,471
-         and cuts holes         
-     for the eyes and mouth.    
+and cuts holes for the eyes and mouth.    
 
 242
 00:15:39,473 --> 00:15:42,740
-  from the inside of the puppet 
-    head, he attaches springs   
+from the inside of the puppet head, he attaches springs   
 
 243
 00:15:42,742 --> 00:15:47,045
-  to enable the mouth and eyes  
-       to open and close.       
+to enable the mouth and eyes to open and close.       
 
 244
 00:15:51,618 --> 00:15:55,754
-  over in the paint department, 
- with every stroke of the brush,
+over in the paint department, with every stroke of the brush,
 
 245
 00:15:55,756 --> 00:16:00,291
-       the puppet becomes       
-   a more colorful character.   
+the puppet becomes a more colorful character.   
 
 246
 00:16:00,293 --> 00:16:04,161
- coming up next, the marionette 
-     gets its moving parts,     
+coming up next, the marionette gets its moving parts,     
 
 247
 00:16:04,163 --> 00:16:07,999
-         and, of course,        
+and, of course,        
 they come with strings attached.
 
 248
 00:16:25,118 --> 00:16:28,787
-         narrator: with         
-  their string-operated limbs,  
+narrator: with their string-operated limbs,  
 
 249
 00:16:28,789 --> 00:16:33,057
- marionettes can imitate almost 
- every human or animal gesture. 
+marionettes can imitate almost every human or animal gesture. 
 
 250
 00:16:33,059 --> 00:16:36,127
-   the more joints and strings  
-         the puppet has,        
+the more joints and strings the puppet has,        
 
 251
 00:16:36,129 --> 00:16:38,797
- the wider the range of movement
+the wider the range of movement
 
 252
 00:16:38,799 --> 00:16:42,334
-     and the more lifelike      
-     the character becomes.     
+and the more lifelike the character becomes.     
 
 253
 00:16:46,940 --> 00:16:49,007
-         before the head        
-      of the penguin puppet     
+before the head of the penguin puppet     
 
 254
 00:16:49,009 --> 00:16:50,609
-  can be attached to the body,  
+can be attached to the body,  
 
 255
 00:16:50,611 --> 00:16:54,012
-          it just needs         
-  a few more dramatic touches,  
+it just needs a few more dramatic touches,  
 
 256
 00:16:54,014 --> 00:16:56,014
-         like curly fur.        
+like curly fur.        
 
 257
 00:16:56,016 --> 00:16:58,416
-    yes, in the fantasy world   
-          of puppetry,          
+yes, in the fantasy world of puppetry,          
 
 258
 00:16:58,418 --> 00:17:02,086
-     anything is possible --    
-     even fur on a penguin.     
+anything is possible -- even fur on a penguin.     
 
 259
 00:17:02,088 --> 00:17:06,090
-  he traces the pattern on the  
+he traces the pattern on the  
 reverse side of the furry fabric
 
 260
 00:17:06,092 --> 00:17:08,359
-         and cuts it out        
-      from that side, too,      
+and cuts it out from that side, too,      
 
 261
 00:17:08,361 --> 00:17:11,229
-    to prevent any snipping     
-    of the fur on the front.    
+to prevent any snipping of the fur on the front.    
 
 262
 00:17:11,231 --> 00:17:13,431
- he stitches the darts together 
+he stitches the darts together 
 
 263
 00:17:13,433 --> 00:17:16,167
-     to conform to the shape    
-      of the penguin head.      
+to conform to the shape of the penguin head.      
 
 264
 00:17:17,904 --> 00:17:22,907
-  this process must be repeated 
-   for each fur-covered part.   
+this process must be repeated for each fur-covered part.   
 
 265
 00:17:22,909 --> 00:17:24,909
-      he checks out the fit     
+he checks out the fit     
 
 266
 00:17:24,911 --> 00:17:28,647
-  and confirms that it achieves 
-       the desired effect.      
+and confirms that it achieves the desired effect.      
 
 267
 00:17:30,783 --> 00:17:36,187
-   satisfied with the results,  
-  he moves on to the eyelashes. 
+satisfied with the results, he moves on to the eyelashes. 
 
 268
 00:17:36,189 --> 00:17:40,859
-   he traces the pattern onto   
- rubber and cuts the lashes out.
+he traces the pattern onto rubber and cuts the lashes out.
 
 269
 00:17:40,861 --> 00:17:45,463
-     to accentuate the eyes,    
-   the lashes are substantial.  
+to accentuate the eyes, the lashes are substantial.  
 
 270
 00:17:49,335 --> 00:17:53,805
 he inserts a pair of lashes into
-  slits in each wooden eyeball. 
+slits in each wooden eyeball. 
 
 271
 00:17:53,807 --> 00:17:58,276
-        from head to toe,       
-    no detail is overlooked.    
+from head to toe, no detail is overlooked.    
 
 272
 00:17:58,278 --> 00:18:00,946
-   here, he glues rhinestones   
-            to shoes            
+here, he glues rhinestones to shoes            
 
 273
 00:18:00,948 --> 00:18:03,782
- for some serious onstage bling.
+for some serious onstage bling.
 
 274
 00:18:06,152 --> 00:18:08,420
-     he's now ready to build    
+he's now ready to build    
 
 275
 00:18:08,422 --> 00:18:12,490
-       the torso and limbs      
-       of the marionette.       
+the torso and limbs of the marionette.       
 
 276
 00:18:12,492 --> 00:18:16,428
- he traces the pattern of those 
+he traces the pattern of those 
 parts onto blocks of poplar wood
 
 277
 00:18:16,430 --> 00:18:20,297
 and then carefully cuts them out
-        with a band saw.        
+with a band saw.        
 
 278
 00:18:20,299 --> 00:18:24,936
- this particular part is a hand 
-   for the penguin character.   
+this particular part is a hand for the penguin character.   
 
 279
 00:18:30,711 --> 00:18:35,380
-         the initial cut        
- is rough and needs fine-tuning,
+the initial cut is rough and needs fine-tuning,
 
 280
 00:18:35,382 --> 00:18:37,382
-    so he chisels away at it    
+so he chisels away at it    
 
 281
 00:18:37,384 --> 00:18:40,118
-      to remove excess wood     
-      and define the shape.     
+to remove excess wood and define the shape.     
 
 282
 00:18:44,057 --> 00:18:46,958
-     he files it with a rasp    
-      to round the profile.     
+he files it with a rasp to round the profile.     
 
 283
 00:18:49,729 --> 00:18:55,133
-    it takes about five hours   
+it takes about five hours   
 to produce just one puppet hand.
 
 284
 00:18:55,135 --> 00:18:57,869
-     the other parts receive    
-  an equal amount of attention, 
+the other parts receive an equal amount of attention, 
 
 285
 00:18:57,871 --> 00:19:00,538
-          because with          
-  ball-and-socket-style joints, 
+because with ball-and-socket-style joints, 
 
 286
 00:19:00,540 --> 00:19:04,875
-   each limb must fit smoothly  
-          to the next.          
+each limb must fit smoothly to the next.          
 
 287
 00:19:04,877 --> 00:19:07,945
-       he attaches the two      
-   limb segments with a hinge   
+he attaches the two limb segments with a hinge   
 
 288
 00:19:07,947 --> 00:19:10,347
-            made from           
-    a kind of fiber board --    
+made from a kind of fiber board --    
 
 289
 00:19:10,349 --> 00:19:14,686
-        the same material       
-  used to make steamer trunks.  
+the same material used to make steamer trunks.  
 
 290
 00:19:14,688 --> 00:19:19,324
 he confirms that the joints will
- move freely under the costume. 
+move freely under the costume. 
 
 291
 00:19:23,830 --> 00:19:27,365
-    when the marionette body    
-    has all its moving parts,   
+when the marionette body has all its moving parts,   
 
 292
 00:19:27,367 --> 00:19:30,135
-            it's time           
-     to stretch those limbs.    
+it's time to stretch those limbs.    
 
 293
 00:19:31,905 --> 00:19:33,771
-       so they suit him up      
+so they suit him up      
 
 294
 00:19:33,773 --> 00:19:35,773
-     and thread the strings     
-         from the puppet        
+and thread the strings from the puppet        
 
 295
 00:19:35,775 --> 00:19:38,243
-       to the correct spot      
-        on the controls.        
+to the correct spot on the controls.        
 
 296
 00:19:38,245 --> 00:19:41,579
-        the control bars        
-  are shaped like an airplane.  
+the control bars are shaped like an airplane.  
 
 297
 00:19:41,581 --> 00:19:44,582
-  they're known in the world of 
+they're known in the world of 
 puppetry as an airplane control.
 
 298
 00:19:44,584 --> 00:19:49,987
- the thread they use is fishing 
- line because of its strength.  
+the thread they use is fishing line because of its strength.  
 
 299
 00:19:49,989 --> 00:19:51,589
- they run nine strings or more, 
+they run nine strings or more, 
 
 300
 00:19:51,591 --> 00:19:54,726
-   depending on the complexity  
-       of the marionette.       
+depending on the complexity of the marionette.       
 
 301
 00:19:54,728 --> 00:19:58,129
-    some of these strings are   
- for support, some for movement,
+some of these strings are for support, some for movement,
 
 302
 00:19:58,131 --> 00:20:03,067
-   and others for effects like  
-  nose growing or ear wiggling. 
+and others for effects like nose growing or ear wiggling. 
 
 303
 00:20:03,069 --> 00:20:06,871
- of course, the string placement
- is crucial for proper movement.
+of course, the string placement
+is crucial for proper movement.
 
 304
 00:20:06,873 --> 00:20:09,073
-     with the strings strung    
-        and well knotted,       
+with the strings strung and well knotted,       
 
 305
 00:20:09,075 --> 00:20:12,076
-       the marionette body      
-         comes to life.         
+the marionette body comes to life.         
 
 306
 00:20:12,078 --> 00:20:14,712
-  and now the defining moment.  
+and now the defining moment.  
 
 307
 00:20:14,714 --> 00:20:17,148
-      they attach the head      
-          to the body.          
+they attach the head to the body.          
 
 308
 00:20:17,150 --> 00:20:19,150
-        it's a good fit.        
+it's a good fit.        
 
 309
 00:20:19,152 --> 00:20:23,154
-  this new character is almost  
-  ready to meet his audience.   
+this new character is almost ready to meet his audience.   
 
 310
 00:20:25,892 --> 00:20:28,292
-         all that's left        
-      is to run the strings     
+all that's left is to run the strings     
 
 311
 00:20:28,294 --> 00:20:33,030
-    for controlling his head    
-    and facial expressions.     
+for controlling his head and facial expressions.     
 
 312
 00:20:33,032 --> 00:20:35,800
-   and a little accessorizing.  
+and a little accessorizing.  
 
 313
 00:20:38,905 --> 00:20:42,974
- they now manipulate the strings
-   to check his limb dexterity  
+they now manipulate the strings
+to check his limb dexterity  
 
 314
 00:20:42,976 --> 00:20:46,644
- and the movement of his mouth, 
-       eyes, and eyebrows.      
+and the movement of his mouth, eyes, and eyebrows.      
 
 315
 00:20:46,646 --> 00:20:50,848
-         this marionette        
-   is now ready for the stage.  
+this marionette is now ready for the stage.  
 
 316
 00:20:50,850 --> 00:20:53,651
-   between shows, he reclines.  
+between shows, he reclines.  
 
 317
 00:20:53,653 --> 00:20:57,855
-           after all,           
-     you can't always be on.    
+after all, you can't always be on.    
 
 318
 00:20:57,857 --> 00:21:01,325
-           incredibly,          
-   it takes up to 1,500 hours   
+incredibly, it takes up to 1,500 hours   
 
 319
 00:21:01,327 --> 00:21:04,229
-            to create           
- each one of these marionettes. 
+to create each one of these marionettes. 
 
 320
 00:21:09,269 --> 00:21:14,606
-      after all that work,      
+after all that work,      
 they're ready to cue the talent.
 
 321
 00:21:14,608 --> 00:21:17,175
-    [ up-tempo music plays ]    
+[ up-tempo music plays ]    
 
 322
 00:21:22,949 --> 00:21:25,416
-         [ music stops ]        
+[ music stops ]        
 
 323
 00:21:25,418 --> 00:21:28,519
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 324
 00:21:28,521 --> 00:21:31,489
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 325
 00:21:31,491 --> 00:21:33,491
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 326
 00:21:33,493 --> 00:21:36,894
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 327
 00:21:36,896 --> 00:21:38,196
-      drop us a line at...      
+drop us a line at...      
 

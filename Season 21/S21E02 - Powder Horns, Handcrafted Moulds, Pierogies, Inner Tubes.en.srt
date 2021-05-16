@@ -1,153 +1,126 @@
 ﻿1
 00:00:01,669 --> 00:00:04,670
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,672 --> 00:00:07,673
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:50,651 --> 00:00:53,852
- narrator: on the battlegrounds 
-     of american history,       
+narrator: on the battlegrounds of american history,       
 
 4
 00:00:53,854 --> 00:00:55,721
- powder horns were everywhere.  
+powder horns were everywhere.  
 
 5
 00:00:55,723 --> 00:00:57,255
-   these modified cow horns     
+these modified cow horns     
 
 6
 00:00:57,257 --> 00:00:59,858
-    served as carrying cases    
-         for gunpowder          
+served as carrying cases for gunpowder          
 
 7
 00:00:59,860 --> 00:01:03,862
-    in 18th century colonial    
-             battles            
- and the american revolution.   
+in 18th century colonial battles and the american revolution.   
 
 8
 00:01:03,864 --> 00:01:06,198
-      for soldiers engaged      
-       in heated battle,        
+for soldiers engaged in heated battle,        
 
 9
 00:01:06,200 --> 00:01:09,669
- the containers were a good way 
-   to keep their powder dry.    
+the containers were a good way to keep their powder dry.    
 
 10
 00:01:12,940 --> 00:01:17,209
-      with the invention of     
-           ammunition           
-     cartridges in the 19th     
-            century,            
+with the invention of ammunition cartridges in the 19th century,            
 
 11
 00:01:17,211 --> 00:01:19,879
-    muzzle-loading firearms     
-       and powder horns         
+muzzle-loading firearms and powder horns         
 
 12
 00:01:19,881 --> 00:01:21,546
-  became a thing of the past.   
+became a thing of the past.   
 
 13
 00:01:21,548 --> 00:01:23,749
-   but today, they're back.     
+but today, they're back.     
 
 14
 00:01:23,751 --> 00:01:26,885
-   powder horns are in demand   
- for historical re-enactments   
+powder horns are in demand for historical re-enactments   
 
 15
 00:01:26,887 --> 00:01:29,889
-    and among some sportsmen    
-        and collectors.         
+and among some sportsmen and collectors.         
 
 16
 00:01:33,160 --> 00:01:37,229
-   the concept of using a cow   
-              horn              
- to make a gunpowder container  
+the concept of using a cow horn to make a gunpowder container  
 
 17
 00:01:37,231 --> 00:01:41,367
-        demonstrates the        
-         resourcefulness        
- of people in an earlier time.  
+demonstrates the resourcefulness of people in an earlier time.  
 
 18
 00:01:43,438 --> 00:01:45,838
-  cow horns were accessible.    
+cow horns were accessible.    
 
 19
 00:01:45,840 --> 00:01:49,709
-   they're naturally hollow,    
- lightweight, and waterproof.   
+they're naturally hollow, lightweight, and waterproof.   
 
 20
 00:01:51,512 --> 00:01:55,514
-    to start, the craftsman     
-     selects the cow horn       
+to start, the craftsman selects the cow horn       
 
 21
 00:01:55,516 --> 00:01:59,451
-        and evaluates it        
-     for structural flaws.      
+and evaluates it for structural flaws.      
 
 22
 00:01:59,453 --> 00:02:02,388
-       finding no cracks        
-  or weaknesses in this one,    
+finding no cracks or weaknesses in this one,    
 
 23
 00:02:02,390 --> 00:02:03,588
-         he proceeds.           
+he proceeds.           
 
 24
 00:02:03,590 --> 00:02:07,192
-    he scrapes off the scale    
-          to clean it           
+he scrapes off the scale to clean it           
 
 25
 00:02:07,194 --> 00:02:09,695
-     and get a better look      
-       at its condition.        
+and get a better look at its condition.        
 
 26
 00:02:14,869 --> 00:02:18,136
-      next, he identifies       
-    the depth of the cavity     
+next, he identifies the depth of the cavity     
 
 27
 00:02:18,138 --> 00:02:19,538
-       with a thin wire.        
+with a thin wire.        
 
 28
 00:02:19,540 --> 00:02:22,608
-         this tells him         
- where the hollow section ends  
+this tells him where the hollow section ends  
 
 29
 00:02:22,610 --> 00:02:24,476
-  and the horn becomes solid.   
+and the horn becomes solid.   
 
 30
 00:02:24,478 --> 00:02:27,546
-       he marks the spot        
+he marks the spot        
 
 31
 00:02:27,548 --> 00:02:32,351
-    then draws another line     
-      1 1/2 inches down.        
+then draws another line 1 1/2 inches down.        
 
 32
 00:02:32,353 --> 00:02:34,620
@@ -155,188 +128,160 @@ these markings serve as guides
 
 33
 00:02:34,622 --> 00:02:37,957
-    as he now turns the tip     
-   of the horn into a spout.    
+as he now turns the tip of the horn into a spout.    
 
 34
 00:02:37,959 --> 00:02:42,227
-  he cuts off the pointed end   
-    along the second line.      
+he cuts off the pointed end along the second line.      
 
 35
 00:02:42,229 --> 00:02:45,497
-    he drills into the horn     
+he drills into the horn     
 
 36
 00:02:45,499 --> 00:02:48,034
-      all the way through       
-      to the horn cavity.       
+all the way through to the horn cavity.       
 
 37
 00:02:50,571 --> 00:02:53,706
-     he lays out the design     
-    of the spout with rubber    
-             rings.             
+he lays out the design of the spout with rubber rings.             
 
 38
 00:02:55,977 --> 00:02:58,644
-     he traces around them      
+he traces around them      
 
 39
 00:02:58,646 --> 00:03:01,781
-    and then scores the horn    
-     at the pencil marks.       
+and then scores the horn at the pencil marks.       
 
 40
 00:03:03,384 --> 00:03:06,852
-       he files the horn        
-    around the score marks      
+he files the horn around the score marks      
 
 41
 00:03:06,854 --> 00:03:09,455
-     to give the spout end      
-     the desired contours       
+to give the spout end the desired contours       
 
 42
 00:03:09,457 --> 00:03:11,123
- and builds up a ringed ridge   
+and builds up a ringed ridge   
 
 43
 00:03:11,125 --> 00:03:15,194
-   for the powder-horn strap    
-       to rest against.         
+for the powder-horn strap to rest against.         
 
 44
 00:03:15,196 --> 00:03:16,762
-   next, he gouges the horn     
+next, he gouges the horn     
 
 45
 00:03:16,764 --> 00:03:20,065
-  to create ornamental notches  
-       above the spout.         
+to create ornamental notches above the spout.         
 
 46
 00:03:20,067 --> 00:03:22,368
- this is known an engrailing.   
+this is known an engrailing.   
 
 47
 00:03:25,807 --> 00:03:29,475
-   he pencils lettering onto    
- the side of the powder horn.   
+he pencils lettering onto the side of the powder horn.   
 
 48
 00:03:33,947 --> 00:03:37,082
-     he scratches the horn      
-   along the penciled lines     
+he scratches the horn along the penciled lines     
 
 49
 00:03:37,084 --> 00:03:39,218
-   to engrave the letters into  
-              it.               
+to engrave the letters into it.               
 
 50
 00:03:39,220 --> 00:03:42,554
-   historically, powder horns   
-    were a soldier's canvas     
+historically, powder horns were a soldier's canvas     
 
 51
 00:03:42,556 --> 00:03:45,090
-           upon which           
-   he etched maps, designs,     
+upon which he etched maps, designs,     
 
 52
 00:03:45,092 --> 00:03:49,161
-   and personal information.    
+and personal information.    
 
 53
 00:03:49,163 --> 00:03:53,432
-      he rubs ink onto the      
-           lettering,           
-   and it seeps into the fine   
-             cuts.              
+he rubs ink onto the lettering, and it seeps into the fine cuts.              
 
 54
 00:03:53,434 --> 00:03:55,300
-  when he wipes off the ink,    
+when he wipes off the ink,    
 
 55
 00:03:55,302 --> 00:03:59,304
-  it remains in the engravings  
+it remains in the engravings  
 to make them really stand out.  
 
 56
 00:03:59,306 --> 00:04:01,439
-    he slices the other end     
-        of the cow horn         
+he slices the other end of the cow horn         
 
 57
 00:04:01,441 --> 00:04:04,110
-    to create an even edge.     
+to create an even edge.     
 
 58
 00:04:04,112 --> 00:04:08,514
- then, he boils butternut hulls 
-    and wood chips in water     
+then, he boils butternut hulls and wood chips in water     
 
 59
 00:04:08,516 --> 00:04:11,984
-        to make a dye.          
+to make a dye.          
 
 60
 00:04:11,986 --> 00:04:15,854
-  he immerses the powder horn   
- in the dye for about an hour   
+he immerses the powder horn in the dye for about an hour   
 
 61
 00:04:15,856 --> 00:04:17,056
-       to give it a look        
+to give it a look        
 
 62
 00:04:17,058 --> 00:04:22,595
-    that would take decades     
-     to achieve naturally.      
+that would take decades to achieve naturally.      
 
 63
 00:04:22,597 --> 00:04:27,465
-    it gives the powder horn    
- a yellowed, more aged patina.  
+it gives the powder horn a yellowed, more aged patina.  
 
 64
 00:04:27,467 --> 00:04:32,270
-   he now carves a base plug    
-        from pinewood.          
+he now carves a base plug from pinewood.          
 
 65
 00:04:32,272 --> 00:04:33,873
-   he trims the rough shape     
+he trims the rough shape     
 
 66
 00:04:33,875 --> 00:04:36,542
-     to the exact curvature     
-         of the horn.           
+to the exact curvature of the horn.           
 
 67
 00:04:36,544 --> 00:04:42,214
-      he inserts the plug       
- and ensures it's a snug fit.   
+he inserts the plug and ensures it's a snug fit.   
 
 68
 00:04:42,216 --> 00:04:44,082
-      he drills six holes       
-         into the horn          
+he drills six holes into the horn          
 
 69
 00:04:44,084 --> 00:04:45,551
-   and through to the plug.     
+and through to the plug.     
 
 70
 00:04:45,553 --> 00:04:46,752
-      with a tack hammer,       
+with a tack hammer,       
 
 71
 00:04:46,754 --> 00:04:49,088
-     he drives wooden pegs      
-        into the holes,         
+he drives wooden pegs into the holes,         
 
 72
 00:04:49,090 --> 00:04:53,826
@@ -344,73 +289,63 @@ securing the plug permanently.
 
 73
 00:04:53,828 --> 00:04:56,095
-         he slices off          
-      the end of the wood       
+he slices off the end of the wood       
 
 74
 00:04:56,097 --> 00:04:58,063
- to make it flush to the horn.  
+to make it flush to the horn.  
 
 75
 00:05:02,370 --> 00:05:04,036
-    he stains the wood plug     
-         with shoe dye          
+he stains the wood plug with shoe dye          
 
 76
 00:05:04,038 --> 00:05:06,472
-      to make it blend in       
-  with the color of the horn.   
+to make it blend in with the color of the horn.   
 
 77
 00:05:09,910 --> 00:05:12,311
-   once the stain has dried,    
+once the stain has dried,    
 
 78
 00:05:12,313 --> 00:05:14,713
-       he creates a hook        
-     for a shoulder strap.      
+he creates a hook for a shoulder strap.      
 
 79
 00:05:14,715 --> 00:05:15,981
-        he drills holes         
+he drills holes         
 
 80
 00:05:15,983 --> 00:05:18,250
-   that are a little smaller    
-         than the hook          
+that are a little smaller than the hook          
 
 81
 00:05:18,252 --> 00:05:20,585
-   so that when he pounds it    
-        into the holes,         
+so that when he pounds it into the holes,         
 
 82
 00:05:20,587 --> 00:05:22,321
- the hook is firmly installed.  
+the hook is firmly installed.  
 
 83
 00:05:24,525 --> 00:05:27,259
-       he loops the strap       
-       through the hook         
+he loops the strap through the hook         
 
 84
 00:05:27,261 --> 00:05:28,360
-      and stitches it up.       
+and stitches it up.       
 
 85
 00:05:30,531 --> 00:05:33,732
-  he inserts a wooden stopper   
-        into the spout,         
+he inserts a wooden stopper into the spout,         
 
 86
 00:05:33,734 --> 00:05:37,469
-      and this powder horn      
- is now ready for containment.  
+and this powder horn is now ready for containment.  
 
 87
 00:05:37,471 --> 00:05:40,806
-          but mostly,           
-   it will just hang around     
+but mostly, it will just hang around     
 
 88
 00:05:40,808 --> 00:05:43,042
@@ -418,124 +353,103 @@ as a reminder of another time.
 
 89
 00:06:01,095 --> 00:06:03,028
-           narrator:            
-   mass-produced glass items    
+narrator: mass-produced glass items    
 
 90
 00:06:03,030 --> 00:06:05,631
-      are typically shaped      
-    by automated machines,      
+are typically shaped by automated machines,      
 
 91
 00:06:05,633 --> 00:06:09,234
-   which insert molten glass    
-    into an assembly line of    
-             molds.             
+which insert molten glass into an assembly line of molds.             
 
 92
 00:06:09,236 --> 00:06:12,771
-        specialty items         
- are usually cast individually  
+specialty items are usually cast individually  
 
 93
 00:06:12,773 --> 00:06:15,841
-    with the artist manually    
-   planting the molten glass    
+with the artist manually planting the molten glass    
 
 94
 00:06:15,843 --> 00:06:20,379
-       in a mold crafted        
-    by skilled mold-makers.     
+in a mold crafted by skilled mold-makers.     
 
 95
 00:06:20,381 --> 00:06:23,515
-     these molds for making     
-     specialty glass items      
+these molds for making specialty glass items      
 
 96
 00:06:23,517 --> 00:06:25,250
-   are entirely handcrafted.    
+are entirely handcrafted.    
 
 97
 00:06:25,252 --> 00:06:28,320
-           this one,            
- comprised of three sections,   
+this one, comprised of three sections,   
 
 98
 00:06:28,322 --> 00:06:32,191
-   produces the ornate shade    
-    of a glass candle lamp.     
+produces the ornate shade of a glass candle lamp.     
 
 99
 00:06:32,193 --> 00:06:34,926
-           this one,            
-  comprised of two sections,    
+this one, comprised of two sections,    
 
 100
 00:06:34,928 --> 00:06:36,729
-   produces the lamp's base.    
+produces the lamp's base.    
 
 101
 00:06:40,000 --> 00:06:44,002
- the glass manufacturer submits 
- the design sketch of the item  
+the glass manufacturer submits the design sketch of the item  
 
 102
 00:06:44,004 --> 00:06:46,004
-       to the mold shop.        
+to the mold shop.        
 
 103
 00:06:46,006 --> 00:06:48,073
-           the shop,            
-   using computer software,     
+the shop, using computer software,     
 
 104
 00:06:48,075 --> 00:06:50,609
-      converts the sketch       
-   into technical drawings.     
+converts the sketch into technical drawings.     
 
 105
 00:06:50,611 --> 00:06:52,744
- then following the drawings,   
+then following the drawings,   
 
 106
 00:06:52,746 --> 00:06:56,214
-    workers prepare a wooden    
-             pattern            
-         of the mold.           
+workers prepare a wooden pattern of the mold.           
 
 107
 00:06:56,216 --> 00:06:58,016
-        they first make         
-     a cardboard template       
+they first make a cardboard template       
 
 108
 00:06:58,018 --> 00:06:59,884
-    for each mold section,      
+for each mold section,      
 
 109
 00:06:59,886 --> 00:07:03,355
-    then trace the template     
-      on a piece of wood,       
+then trace the template on a piece of wood,       
 
 110
 00:07:03,357 --> 00:07:07,693
-  saw along the pencil line,    
+saw along the pencil line,    
 
 111
 00:07:07,695 --> 00:07:11,063
-    then finalize the shape     
-        with a sander.          
+then finalize the shape with a sander.          
 
 112
 00:07:14,034 --> 00:07:17,902
-   they send the patterns for   
-     the mold sections to a     
-            foundry,            
+they send the patterns for the mold sections to a foundry,            
 
 113
 00:07:17,904 --> 00:07:19,538
-  which casts copies in iron.   
+which casts copies in iron.   
 
 114
 00:07:23,844 --> 00:07:26,311
@@ -543,337 +457,276 @@ these iron castings are rough,
 
 115
 00:07:26,313 --> 00:07:28,647
-      so when they return       
-       from the foundry,        
+so when they return from the foundry,        
 
 116
 00:07:28,649 --> 00:07:30,649
-        the mold-makers         
-      refine each section       
+the mold-makers refine each section       
 
 117
 00:07:30,651 --> 00:07:32,851
-         with a series          
-     of milling machines.       
+with a series of milling machines.       
 
 118
 00:07:32,853 --> 00:07:35,988
- this takes a tremendous degree 
-         of expertise,          
+this takes a tremendous degree of expertise,          
 
 119
 00:07:35,990 --> 00:07:40,326
-        as these are not        
-         computer-guided        
-      automated machines.       
+as these are not computer-guided automated machines.       
 
 120
 00:07:40,328 --> 00:07:43,996
-    these skilled tradesmen     
- maneuver the mills manually,   
+these skilled tradesmen maneuver the mills manually,   
 
 121
 00:07:43,998 --> 00:07:47,066
-           following            
-    the technical drawings.     
+following the technical drawings.     
 
 122
 00:07:59,346 --> 00:08:02,080
- once they finalize the shape,  
+once they finalize the shape,  
 
 123
 00:08:02,082 --> 00:08:05,684
- they use a drill press to bore 
-   holes for the hefty pins     
+they use a drill press to bore holes for the hefty pins     
 
 124
 00:08:05,686 --> 00:08:11,289
-   on which the mold sections   
-  will pivot open and closed.   
+on which the mold sections will pivot open and closed.   
 
 125
 00:08:11,291 --> 00:08:13,692
-   iron is the ideal material   
-        for glass molds         
+iron is the ideal material for glass molds         
 
 126
 00:08:13,694 --> 00:08:15,961
-     because it withstands      
-         a temperature          
+because it withstands a temperature          
 
 127
 00:08:15,963 --> 00:08:20,231
-      of over 2,000 degrees     
-           fahrenheit           
-       for molten glass.        
+of over 2,000 degrees fahrenheit for molten glass.        
 
 128
 00:08:20,233 --> 00:08:22,501
-   iron does expand with such   
-             heat.              
+iron does expand with such heat.              
 
 129
 00:08:22,503 --> 00:08:24,703
-     however, once cool, it     
-           contracts            
+however, once cool, it contracts            
 
 130
 00:08:24,705 --> 00:08:29,441
- and resumes its original shape 
-    without any distortion.     
+and resumes its original shape without any distortion.     
 
 131
 00:08:29,443 --> 00:08:31,376
-           they mount           
-  the mold section on a lathe   
+they mount the mold section on a lathe   
 
 132
 00:08:31,378 --> 00:08:32,978
- to begin forming the cavity.   
+to begin forming the cavity.   
 
 133
 00:08:32,980 --> 00:08:35,580
-          using a tool          
-     called a boring bar,       
+using a tool called a boring bar,       
 
 134
 00:08:35,582 --> 00:08:41,019
- a mold-maker shapes the cavity 
+a mold-maker shapes the cavity 
 as per the technical drawings.  
 
 135
 00:08:41,021 --> 00:08:43,655
- then he takes the mold section 
-         off the lathe          
+then he takes the mold section off the lathe          
 
 136
 00:08:43,657 --> 00:08:45,323
- and paints the cavity yellow   
+and paints the cavity yellow   
 
 137
 00:08:45,325 --> 00:08:47,059
-      to give him a bright      
-           background           
+to give him a bright background           
 
 138
 00:08:47,061 --> 00:08:50,862
-  against which to sketch out   
-     the fine details of the    
-            design.             
+against which to sketch out the fine details of the design.             
 
 139
 00:08:50,864 --> 00:08:53,465
-    this particular pattern     
-       features circles,        
+this particular pattern features circles,        
 
 140
 00:08:53,467 --> 00:08:56,402
-       which he sketches        
-        with compasses.         
+which he sketches with compasses.         
 
 141
 00:08:56,404 --> 00:09:00,005
-   using an arsenal of chisels  
-              with              
+using an arsenal of chisels with              
 different size and shape tips,  
 
 142
 00:09:00,007 --> 00:09:03,342
-       he chips the metal       
+he chips the metal       
 to carve out what he sketched.  
 
 143
 00:09:13,087 --> 00:09:16,755
-      again, he follows the     
-            technical           
-    drawings meticulously,      
+again, he follows the technical drawings meticulously,      
 
 144
 00:09:16,757 --> 00:09:20,626
-    giving the carved lines     
-     the specified depth and    
-            profile.            
+giving the carved lines the specified depth and profile.            
 
 145
 00:09:24,298 --> 00:09:26,899
- once he finishes the pattern,  
+once he finishes the pattern,  
 
 146
 00:09:26,901 --> 00:09:28,300
-  he mounts the mold section    
+he mounts the mold section    
 
 147
 00:09:28,302 --> 00:09:30,835
-         on one side of         
- a mechanical copying machine   
+on one side of a mechanical copying machine   
 
 148
 00:09:30,837 --> 00:09:33,104
-     called a pantograph.       
+called a pantograph.       
 
 149
 00:09:33,106 --> 00:09:34,639
-      on the other side,        
+on the other side,        
 
 150
 00:09:34,641 --> 00:09:36,775
-   he mounts another section    
-          of the mold           
+he mounts another section of the mold           
 
 151
 00:09:36,777 --> 00:09:39,044
-     which doesn't yet have     
-      the carved pattern.       
+which doesn't yet have the carved pattern.       
 
 152
 00:09:39,046 --> 00:09:42,714
-  the pantograph stylus traces  
-               the              
- pattern on the carved section  
+the pantograph stylus traces the pattern on the carved section  
 
 153
 00:09:42,716 --> 00:09:45,450
-    and simultaneously moves    
-       an engraving tool        
+and simultaneously moves an engraving tool        
 
 154
 00:09:45,452 --> 00:09:48,587
- through the identical motions  
-   on the uncarved section,     
+through the identical motions on the uncarved section,     
 
 155
 00:09:48,589 --> 00:09:50,689
-   transferring the pattern.    
+transferring the pattern.    
 
 156
 00:09:54,995 --> 00:09:58,130
-        because this is         
-    a three-sectioned mold,     
+because this is a three-sectioned mold,     
 
 157
 00:09:58,132 --> 00:10:00,799
-      they make two copies      
-      on the pantograph.        
+they make two copies on the pantograph.        
 
 158
 00:10:00,801 --> 00:10:04,136
- the carving tools leave marks  
- on the surface of the cavity,  
+the carving tools leave marks on the surface of the cavity,  
 
 159
 00:10:04,138 --> 00:10:07,639
- so the next step is to polish  
-  them away with emery paper.   
+so the next step is to polish them away with emery paper.   
 
 160
 00:10:16,082 --> 00:10:18,550
-         on the right,          
-    you can see the marks.      
+on the right, you can see the marks.      
 
 161
 00:10:18,552 --> 00:10:21,987
-        and on the left,        
- the smooth, polished surface.  
+and on the left, the smooth, polished surface.  
 
 162
 00:10:26,560 --> 00:10:29,494
-   the sections are now ready   
-   to be assembled with pins    
+the sections are now ready to be assembled with pins    
 
 163
 00:10:29,496 --> 00:10:32,164
-     into a complete mold.      
+into a complete mold.      
 
 164
 00:10:32,166 --> 00:10:34,233
-         when it's time         
- to pour in the molten glass,   
+when it's time to pour in the molten glass,   
 
 165
 00:10:34,235 --> 00:10:37,702
-  the pins enable the sections  
-    to close and interlock.     
+the pins enable the sections to close and interlock.     
 
 166
 00:10:37,704 --> 00:10:39,705
-      once the glass cools      
-        and solidifies,         
+once the glass cools and solidifies,         
 
 167
 00:10:39,707 --> 00:10:44,576
-   the pins make it easier to   
-              open              
-     the mold to extract the    
-            casing.             
+the pins make it easier to open the mold to extract the casing.             
 
 168
 00:10:44,578 --> 00:10:49,114
-         glass artisans         
- and glass manufacturers alike  
+glass artisans and glass manufacturers alike  
 
 169
 00:10:49,116 --> 00:10:50,516
-     use handcrafted molds      
+use handcrafted molds      
 
 170
 00:10:50,518 --> 00:10:53,185
-   to produce a wide variety    
-        of glass items          
+to produce a wide variety of glass items          
 
 171
 00:10:53,187 --> 00:10:55,687
-   from functional to fancy.    
+from functional to fancy.    
 
 172
 00:11:11,004 --> 00:11:13,605
-           narrator:            
+narrator:            
 the perogi is a pillowy pastry  
 
 173
 00:11:13,607 --> 00:11:16,407
-   stuffed with mashed potato   
-      or other fillings.        
+stuffed with mashed potato or other fillings.        
 
 174
 00:11:16,409 --> 00:11:19,077
-     popular for centuries      
-      in eastern europe,        
+popular for centuries in eastern europe,        
 
 175
 00:11:19,079 --> 00:11:21,546
-         perogies were          
-    initially peasant food.     
+perogies were initially peasant food.     
 
 176
 00:11:21,548 --> 00:11:25,617
-     but today, their appeal    
-             crosses            
+but today, their appeal crosses            
 class and cultural boundaries,  
 
 177
 00:11:25,619 --> 00:11:29,621
-     and worldwide there's      
-     a growing appetite for     
-           perogies.            
+and worldwide there's a growing appetite for perogies.            
 
 178
 00:11:31,925 --> 00:11:33,892
-  perogies are comfort food,    
+perogies are comfort food,    
 
 179
 00:11:33,894 --> 00:11:36,762
-     traditionally made from    
-            scratch             
+traditionally made from scratch             
 
 180
 00:11:36,764 --> 00:11:39,431
-         by generations         
-    of polish grandmothers.     
+by generations of polish grandmothers.     
 
 181
 00:11:39,433 --> 00:11:42,500
-     but today, few people      
- have time for all that work,   
+but today, few people have time for all that work,   
 
 182
 00:11:42,502 --> 00:11:44,502
@@ -881,109 +734,93 @@ and the job of making perogies
 
 183
 00:11:44,504 --> 00:11:47,238
-   has moved from the kitchen   
-        to the factory.         
+has moved from the kitchen to the factory.         
 
 184
 00:11:47,240 --> 00:11:50,475
-   all you have to do is add    
-  the sour cream and chives.    
+all you have to do is add the sour cream and chives.    
 
 185
 00:11:53,714 --> 00:11:57,382
-     production starts with     
+production starts with     
 the potato and cheese filling.  
 
 186
 00:11:57,384 --> 00:11:59,451
-    they boil potatoes until    
-            tender.             
+they boil potatoes until tender.             
 
 187
 00:12:02,722 --> 00:12:05,323
-    then, still piping hot,     
+then, still piping hot,     
 
 188
 00:12:05,325 --> 00:12:09,928
-   they transfer the potatoes   
-      to a mixer grinder.       
+they transfer the potatoes to a mixer grinder.       
 
 189
 00:12:09,930 --> 00:12:13,732
-   they add a generous amount   
-  of shredded cheddar cheese    
+they add a generous amount of shredded cheddar cheese    
 
 190
 00:12:13,734 --> 00:12:15,667
-    along with some salt and    
-            spices.             
+along with some salt and spices.             
 
 191
 00:12:18,872 --> 00:12:22,841
-    a spiraling blade mashes    
-  and mixes the ingredients.    
+a spiraling blade mashes and mixes the ingredients.    
 
 192
 00:12:24,811 --> 00:12:27,545
-        the blade misses        
-    a few chunks of potato,     
+the blade misses a few chunks of potato,     
 
 193
 00:12:27,547 --> 00:12:30,214
-         so the machine         
-    forces the ingredients      
+so the machine forces the ingredients      
 
 194
 00:12:30,216 --> 00:12:32,083
-            through             
-   a perforated metal plate.    
+through a perforated metal plate.    
 
 195
 00:12:32,085 --> 00:12:33,418
-   it gets rid of the chunks    
+it gets rid of the chunks    
 
 196
 00:12:33,420 --> 00:12:36,822
-       and leaves the mix       
-      smooth and creamy.        
+and leaves the mix smooth and creamy.        
 
 197
 00:12:39,960 --> 00:12:41,693
-    with the filling done,      
+with the filling done,      
 
 198
 00:12:41,695 --> 00:12:44,429
-           it's over            
-   to the dough department.     
+it's over to the dough department.     
 
 199
 00:12:44,431 --> 00:12:48,967
-   they pour measured amounts   
-    of flour into a mixer.      
+they pour measured amounts of flour into a mixer.      
 
 200
 00:12:48,969 --> 00:12:52,704
-          they add oil          
-    for texture and flavor      
+they add oil for texture and flavor      
 
 201
 00:12:52,706 --> 00:12:55,641
-         and some salt          
- to further enhance the taste.  
+and some salt to further enhance the taste.  
 
 202
 00:12:59,045 --> 00:13:01,179
-  they open an overhead tap,    
+they open an overhead tap,    
 
 203
 00:13:01,181 --> 00:13:05,650
- and a measured amount of water 
+and a measured amount of water 
 flows directly into the mixer.  
 
 204
 00:13:05,652 --> 00:13:09,387
-    the mixer's roller bars     
-   blend and knead the dough    
+the mixer's roller bars blend and knead the dough    
 
 205
 00:13:09,389 --> 00:13:12,858
@@ -991,311 +828,257 @@ to a fairly thick consistency.
 
 206
 00:13:12,860 --> 00:13:16,662
-    after leaving the dough     
-       to soften a bit,         
+after leaving the dough to soften a bit,         
 
 207
 00:13:16,664 --> 00:13:19,765
-   they feed it to a special    
-    perogi-making machine.      
+they feed it to a special perogi-making machine.      
 
 208
 00:13:24,071 --> 00:13:27,839
- the potato and cheese filling  
- flows into the same machine.   
+the potato and cheese filling flows into the same machine.   
 
 209
 00:13:30,276 --> 00:13:32,678
-   it forces both the filling   
-         and the dough          
+it forces both the filling and the dough          
 
 210
 00:13:32,680 --> 00:13:34,346
-    into a forming device.      
+into a forming device.      
 
 211
 00:13:34,348 --> 00:13:36,948
-         it's enclosed          
-      for safety reasons,       
+it's enclosed for safety reasons,       
 
 212
 00:13:36,950 --> 00:13:38,950
-   so you can't see it here.    
+so you can't see it here.    
 
 213
 00:13:38,952 --> 00:13:42,421
-   inside, the machine shapes   
-          the filling           
+inside, the machine shapes the filling           
 
 214
 00:13:42,423 --> 00:13:44,489
-    into a cylindrical form     
+into a cylindrical form     
 
 215
 00:13:44,491 --> 00:13:47,225
-    and the dough around it     
-        into a sleeve.          
+and the dough around it into a sleeve.          
 
 216
 00:13:54,968 --> 00:13:58,837
-  here, the machine pumps out   
-   a roll of potato filling,    
+here, the machine pumps out a roll of potato filling,    
 
 217
 00:13:58,839 --> 00:14:02,240
-    the dough surrounds it,     
-  creating sausage-like form.   
+the dough surrounds it, creating sausage-like form.   
 
 218
 00:14:06,246 --> 00:14:08,045
-  as the filled dough exits,    
+as the filled dough exits,    
 
 219
 00:14:08,047 --> 00:14:12,651
-       a roller shapes it       
-   into individual perogies.    
+a roller shapes it into individual perogies.    
 
 220
 00:14:12,653 --> 00:14:14,986
-          it also cuts          
-     and crimps the edges.      
+it also cuts and crimps the edges.      
 
 221
 00:14:18,125 --> 00:14:21,059
-         this produces          
-   uniformly plump perogies     
+this produces uniformly plump perogies     
 
 222
 00:14:21,061 --> 00:14:23,394
-    at an incredible speed.     
+at an incredible speed.     
 
 223
 00:14:23,396 --> 00:14:27,132
-   this machinery churns out    
-   50,000 perogies an hour.     
+this machinery churns out 50,000 perogies an hour.     
 
 224
 00:14:31,738 --> 00:14:35,340
-  the freshly formed perogies   
-  ride by a divider mechanism   
+the freshly formed perogies ride by a divider mechanism   
 
 225
 00:14:35,342 --> 00:14:36,941
-     that separates them,       
+that separates them,       
 
 226
 00:14:36,943 --> 00:14:40,579
-  preventing clumping as they   
- transfer to another conveyor.  
+preventing clumping as they transfer to another conveyor.  
 
 227
 00:14:42,816 --> 00:14:45,550
-      an inspector rejects      
-    any defective dumplings     
+an inspector rejects any defective dumplings     
 
 228
 00:14:45,552 --> 00:14:48,653
- so that only perfect perogies  
-     head into a freezer.       
+so that only perfect perogies head into a freezer.       
 
 229
 00:14:51,425 --> 00:14:57,629
-     the temperature inside     
+the temperature inside     
 is an icy negative-50 degrees.  
 
 230
 00:14:57,631 --> 00:15:00,632
-     it's a winding journey     
-      on spiraling tiers,       
+it's a winding journey on spiraling tiers,       
 
 231
 00:15:00,634 --> 00:15:05,169
-        where they chill        
-     for about 14 minutes.      
+where they chill for about 14 minutes.      
 
 232
 00:15:05,171 --> 00:15:07,105
-        when they exit,         
+when they exit,         
 
 233
 00:15:07,107 --> 00:15:10,308
-      they're frozen solid      
-   and ready for packaging.     
+they're frozen solid and ready for packaging.     
 
 234
 00:15:10,310 --> 00:15:12,643
-         the dumplings          
-  ride a series of conveyors    
+the dumplings ride a series of conveyors    
 
 235
 00:15:12,645 --> 00:15:14,111
-  towards the packaging line.   
+towards the packaging line.   
 
 236
 00:15:14,113 --> 00:15:17,382
-     it's a quick journey,      
- giving them no time to thaw.   
+it's a quick journey, giving them no time to thaw.   
 
 237
 00:15:20,454 --> 00:15:23,521
-      the perogies funnel       
-     into weigh stations.       
+the perogies funnel into weigh stations.       
 
 238
 00:15:23,523 --> 00:15:28,326
-   below, mechanical fingers    
-          open bags.            
+below, mechanical fingers open bags.            
 
 239
 00:15:28,328 --> 00:15:33,398
-  the scale releases 22 ounces  
-  of perogies into each bag.    
+the scale releases 22 ounces of perogies into each bag.    
 
 240
 00:15:33,400 --> 00:15:37,436
-    that's about 23 perogies    
-           per bag.             
+that's about 23 perogies per bag.             
 
 241
 00:15:40,073 --> 00:15:44,408
-  hot jaws seal the plastic.    
+hot jaws seal the plastic.    
 
 242
 00:15:44,410 --> 00:15:47,145
-  the bags of perogies travel   
-   through an x-ray station     
+the bags of perogies travel through an x-ray station     
 
 243
 00:15:47,147 --> 00:15:49,347
-          on their way          
-   to the warehouse freezer.    
+on their way to the warehouse freezer.    
 
 244
 00:15:49,349 --> 00:15:52,149
-         it scans them          
-  for bits of metal or glass    
+it scans them for bits of metal or glass    
 
 245
 00:15:52,151 --> 00:15:56,153
-   that may have contaminated   
-       the perogies during      
-          production.           
+that may have contaminated the perogies during production.           
 
 246
 00:15:56,155 --> 00:16:00,492
-      today, perogies have      
-   many different fillings.     
+today, perogies have many different fillings.     
 
 247
 00:16:00,494 --> 00:16:03,361
-   there are even fruit-filled  
-              ones              
-         for dessert,           
+there are even fruit-filled ones for dessert,           
 
 248
 00:16:03,363 --> 00:16:07,666
-   the recipe may be centuries  
-              old,              
-     but there are a few new    
-            tricks.             
+the recipe may be centuries old, but there are a few new tricks.             
 
 249
 00:16:21,581 --> 00:16:23,648
- narrator: the earliest tires   
+narrator: the earliest tires   
 
 250
 00:16:23,650 --> 00:16:26,051
-      were bands of steel       
-   fitted to wooden wheels,     
+were bands of steel fitted to wooden wheels,     
 
 251
 00:16:26,053 --> 00:16:27,785
-  hardly a comfortable ride.    
+hardly a comfortable ride.    
 
 252
 00:16:27,787 --> 00:16:29,253
-    air-filled inner tubes      
+air-filled inner tubes      
 
 253
 00:16:29,255 --> 00:16:32,323
-     were part of the first     
- successful car tire in 1911,   
+were part of the first successful car tire in 1911,   
 
 254
 00:16:32,325 --> 00:16:34,593
-        and inner tubes         
-     are still used today       
+and inner tubes are still used today       
 
 255
 00:16:34,595 --> 00:16:38,497
-     in most bicycle tires      
-  and many motorcycle tires.    
+in most bicycle tires and many motorcycle tires.    
 
 256
 00:16:40,867 --> 00:16:44,536
-  these motorcycle inner tubes  
-  are made with a combination   
+these motorcycle inner tubes are made with a combination   
 
 257
 00:16:44,538 --> 00:16:47,071
-          of synthetic          
-   and pure, natural rubber.    
+of synthetic and pure, natural rubber.    
 
 258
 00:16:47,073 --> 00:16:51,543
-    they come in a variety of   
-              sizes             
-  and offer superior quality    
+they come in a variety of sizes and offer superior quality    
 
 259
 00:16:51,545 --> 00:16:54,613
-      because no recycled       
-  or reclaimed rubber is used   
+because no recycled or reclaimed rubber is used   
 
 260
 00:16:54,615 --> 00:16:57,148
-             during             
-  the manufacturing process.    
+during the manufacturing process.    
 
 261
 00:16:57,150 --> 00:16:59,818
-        a worker selects        
-  a slab of synthetic rubber,   
+a worker selects a slab of synthetic rubber,   
 
 262
 00:16:59,820 --> 00:17:01,486
-           a package            
+a package            
 of chemically enhanced rubber,  
 
 263
 00:17:01,488 --> 00:17:04,222
-        chemicals used as       
-         antioxidants,          
+chemicals used as antioxidants,          
 
 264
 00:17:04,224 --> 00:17:07,359
-     accelerators and curing    
-            agents,             
+accelerators and curing agents,             
 
 265
 00:17:07,361 --> 00:17:12,364
-     and finally a package      
-   of pure, natural rubber.     
+and finally a package of pure, natural rubber.     
 
 266
 00:17:14,067 --> 00:17:18,436
-  a worker pulls the materials  
-    from an internal mixer      
+a worker pulls the materials from an internal mixer      
 
 267
 00:17:18,438 --> 00:17:20,638
-        and guides them         
-     into a two-roll mill,      
+and guides them into a two-roll mill,      
 
 268
 00:17:20,640 --> 00:17:22,506
-     where they're squeezed     
-           together.            
+where they're squeezed together.            
 
 269
 00:17:22,508 --> 00:17:25,310
@@ -1303,239 +1086,201 @@ he trims off the rubber sheet.
 
 270
 00:17:25,312 --> 00:17:29,914
-      ideally, the texture      
+ideally, the texture      
 of the rubber sheet is smooth.  
 
 271
 00:17:29,916 --> 00:17:33,652
-     carbon black provides      
-  pigmentation to the process   
+carbon black provides pigmentation to the process   
 
 272
 00:17:33,654 --> 00:17:35,453
-  and reinforces the rubber.    
+and reinforces the rubber.    
 
 273
 00:17:35,455 --> 00:17:39,123
-     the rubber is now sent     
-         for cooling.           
+the rubber is now sent for cooling.           
 
 274
 00:17:39,125 --> 00:17:41,726
-     it soaks in a mixture      
-     of calcium carbonate,      
+it soaks in a mixture of calcium carbonate,      
 
 275
 00:17:41,728 --> 00:17:43,060
-       which, once dry,         
+which, once dry,         
 
 276
 00:17:43,062 --> 00:17:46,530
-    will prevent the rubber     
-   from sticking to itself.     
+will prevent the rubber from sticking to itself.     
 
 277
 00:17:46,532 --> 00:17:50,935
-     workers carefully fold     
+workers carefully fold     
 the continuous sheet of rubber  
 
 278
 00:17:50,937 --> 00:17:52,437
-      in a stack to dry.        
+in a stack to dry.        
 
 279
 00:17:54,741 --> 00:17:58,743
-         the next day,          
- the rubber is cool and hard,   
+the next day, the rubber is cool and hard,   
 
 280
 00:17:58,745 --> 00:18:02,213
-   and the calcium carbonate    
-   has dried into a powder.     
+and the calcium carbonate has dried into a powder.     
 
 281
 00:18:02,215 --> 00:18:05,950
-    a worker places the small   
-              strip             
-   coming out of the two-roll   
-              mill              
+a worker places the small strip coming out of the two-roll mill              
 
 282
 00:18:05,952 --> 00:18:07,952
-    onto an overhead conveyor   
-             belt,              
+onto an overhead conveyor belt,              
 
 283
 00:18:07,954 --> 00:18:10,221
-         which takes it         
-      to the next phase of      
-          production.           
+which takes it to the next phase of production.           
 
 284
 00:18:10,223 --> 00:18:13,558
-        the strip falls         
-   into a extruding machine,    
+the strip falls into a extruding machine,    
 
 285
 00:18:13,560 --> 00:18:16,260
-     where a turning screw      
-     forces the raw rubber      
+where a turning screw forces the raw rubber      
 
 286
 00:18:16,262 --> 00:18:17,895
-      through a strainer.       
+through a strainer.       
 
 287
 00:18:17,897 --> 00:18:21,165
-     a worker uses a wire       
+a worker uses a wire       
 
 288
 00:18:21,167 --> 00:18:23,634
-   to cut the rubber strands    
-        as they emerge.         
+to cut the rubber strands as they emerge.         
 
 289
 00:18:23,636 --> 00:18:27,405
-    he places the rubber wad    
-    in the two-roll mill once   
-             again.             
+he places the rubber wad in the two-roll mill once again.             
 
 290
 00:18:30,377 --> 00:18:32,444
-           the rubber           
-   will gradually be shaped     
+the rubber will gradually be shaped     
 
 291
 00:18:32,446 --> 00:18:36,448
-       in preparation for       
- the next phase of extrusion.   
+in preparation for the next phase of extrusion.   
 
 292
 00:18:36,450 --> 00:18:38,183
-    squeezed into a strip,      
+squeezed into a strip,      
 
 293
 00:18:38,185 --> 00:18:41,452
-        the rubber falls        
- into a tube extruder machine.  
+the rubber falls into a tube extruder machine.  
 
 294
 00:18:41,454 --> 00:18:43,321
- as it passes through the die,  
+as it passes through the die,  
 
 295
 00:18:43,323 --> 00:18:46,458
-           it emerges           
-    in a cylindrical shape.     
+it emerges in a cylindrical shape.     
 
 296
 00:18:46,460 --> 00:18:49,327
-    the rubber tube is hot.     
+the rubber tube is hot.     
 
 297
 00:18:49,329 --> 00:18:50,528
-      water cools it down       
+water cools it down       
 
 298
 00:18:50,530 --> 00:18:52,631
-        and cleans away         
-    any remaining residue.      
+and cleans away any remaining residue.      
 
 299
 00:18:55,669 --> 00:18:59,737
-        the rubber tube         
- now enters a cutting machine.  
+the rubber tube now enters a cutting machine.  
 
 300
 00:18:59,739 --> 00:19:03,541
-    calcium carbonate powder    
-    helps prevent sticking.     
+calcium carbonate powder helps prevent sticking.     
 
 301
 00:19:03,543 --> 00:19:05,143
-       after being cut,         
+after being cut,         
 
 302
 00:19:05,145 --> 00:19:08,212
- a hole is punched in the tube  
-     and a valve inserted.      
+a hole is punched in the tube and a valve inserted.      
 
 303
 00:19:08,214 --> 00:19:10,615
-   the first cone punches the   
-             hole.              
+the first cone punches the hole.              
 
 304
 00:19:10,617 --> 00:19:13,618
- the second inserts the valve.  
+the second inserts the valve.  
 
 305
 00:19:13,620 --> 00:19:15,686
- a worker replaces each valve   
+a worker replaces each valve   
 
 306
 00:19:15,688 --> 00:19:19,156
-    after it's been inserted    
-     into the rubber tube.      
+after it's been inserted into the rubber tube.      
 
 307
 00:19:19,158 --> 00:19:23,328
-    this machine can process    
-     22 tubes per minute.       
+this machine can process 22 tubes per minute.       
 
 308
 00:19:27,768 --> 00:19:31,302
-    here is the rubber tube     
-     with the hole punched      
+here is the rubber tube with the hole punched      
 
 309
 00:19:31,304 --> 00:19:34,172
-    and with the incomplete     
-        valve inserted.         
+and with the incomplete valve inserted.         
 
 310
 00:19:34,174 --> 00:19:38,643
-     a worker now connects      
- the two ends of the cut tube.  
+a worker now connects the two ends of the cut tube.  
 
 311
 00:19:38,645 --> 00:19:41,646
-      he places both ends       
-       into the machine,        
+he places both ends into the machine,        
 
 312
 00:19:41,648 --> 00:19:45,650
- which, using different steps,  
- cuts and fuses them together.  
+which, using different steps, cuts and fuses them together.  
 
 313
 00:19:45,652 --> 00:19:48,520
-    by the time the machine     
-    completes the process,      
+by the time the machine completes the process,      
 
 314
 00:19:48,522 --> 00:19:51,055
-         the worker has         
- two more loose ends in place.  
+the worker has two more loose ends in place.  
 
 315
 00:19:51,057 --> 00:19:54,459
-     first, the knife cuts      
-    both ends of the tube.      
+first, the knife cuts both ends of the tube.      
 
 316
 00:19:54,461 --> 00:19:58,129
-        by clearing away        
- the calcium carbonate powder,  
+by clearing away the calcium carbonate powder,  
 
 317
 00:19:58,131 --> 00:20:01,999
-      the two heated ends       
-      can stick together.       
+the two heated ends can stick together.       
 
 318
 00:20:02,001 --> 00:20:04,002
-      no glue is needed.        
+no glue is needed.        
 
 319
 00:20:04,004 --> 00:20:05,870
@@ -1543,128 +1288,106 @@ the cut is clean and straight.
 
 320
 00:20:05,872 --> 00:20:09,474
-      heat, combined with       
-      the rubber's natural      
-          stickiness,           
+heat, combined with the rubber's natural stickiness,           
 
 321
 00:20:09,476 --> 00:20:12,543
-      firmly holds the seam     
-           together.            
+firmly holds the seam together.            
 
 322
 00:20:12,545 --> 00:20:16,681
-     a worker now pumps air     
-    into the circular tube.     
+a worker now pumps air into the circular tube.     
 
 323
 00:20:16,683 --> 00:20:19,684
-         he hammers wax         
-   into the incomplete valve    
+he hammers wax into the incomplete valve    
 
 324
 00:20:19,686 --> 00:20:23,521
-    in order to temporarily     
-     seal the air inside.       
+in order to temporarily seal the air inside.       
 
 325
 00:20:26,359 --> 00:20:28,760
- another worker places the tube 
-          in a mold.            
+another worker places the tube in a mold.            
 
 326
 00:20:28,762 --> 00:20:30,895
-       it will be heated        
-      for a few minutes,        
+it will be heated for a few minutes,        
 
 327
 00:20:30,897 --> 00:20:33,297
-            part of             
-  the vulcanization process.    
+part of the vulcanization process.    
 
 328
 00:20:33,299 --> 00:20:35,767
-    the wax that held the air   
-             inside             
-          has melted,           
+the wax that held the air inside has melted,           
 
 329
 00:20:35,769 --> 00:20:38,036
-   but after being vulcanized   
-         in the mold,           
+but after being vulcanized in the mold,           
 
 330
 00:20:38,038 --> 00:20:41,573
-        the tube retains        
-    its cylindrical shape.      
+the tube retains its cylindrical shape.      
 
 331
 00:20:41,575 --> 00:20:43,842
-  to flatten the shaped tube,   
+to flatten the shaped tube,   
 
 332
 00:20:43,844 --> 00:20:47,979
-    any air remaining inside    
-  is removed using a vacuum.    
+any air remaining inside is removed using a vacuum.    
 
 333
 00:20:47,981 --> 00:20:50,381
-         these workers          
-      give the inner tube       
+these workers give the inner tube       
 
 334
 00:20:50,383 --> 00:20:51,583
-    its finishing touches.      
+its finishing touches.      
 
 335
 00:20:51,585 --> 00:20:55,920
-    they complete the valve     
-       by adding a core,        
+they complete the valve by adding a core,        
 
 336
 00:20:55,922 --> 00:21:00,658
-   followed by a ring, a nut,   
-       and a valve cap.         
+followed by a ring, a nut, and a valve cap.         
 
 337
 00:21:00,660 --> 00:21:02,527
-           they fold            
-    the finished inner tube     
+they fold the finished inner tube     
 
 338
 00:21:02,529 --> 00:21:06,397
-         and circle it          
-    with two elastic bands.     
+and circle it with two elastic bands.     
 
 339
 00:21:06,399 --> 00:21:09,868
-     the folded inner tubes     
-   are inserted in packaging    
+the folded inner tubes are inserted in packaging    
 
 340
 00:21:09,870 --> 00:21:12,937
-   that is then heat sealed.    
+that is then heat sealed.    
 
 341
 00:21:12,939 --> 00:21:14,539
-  ready to hit the open road,   
+ready to hit the open road,   
 
 342
 00:21:14,541 --> 00:21:18,710
-  these motorcycle inner tubes  
+these motorcycle inner tubes  
 are sure to get riders pumped.  
 
 343
 00:21:25,418 --> 00:21:27,551
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 344
 00:21:27,553 --> 00:21:30,487
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 345
 00:21:30,489 --> 00:21:32,624
-     drop us a line at...       
+drop us a line at...       
 

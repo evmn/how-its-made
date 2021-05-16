@@ -2406,13 +2406,11 @@ are now ready for takeoff.
 
 405
 00:21:06,533 --> 00:21:09,533
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 406
 00:21:09,535 --> 00:21:12,470
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 407
 00:21:17,209 --> 00:21:18,876

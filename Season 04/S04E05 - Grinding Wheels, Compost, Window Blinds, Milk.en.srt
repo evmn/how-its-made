@@ -1,141 +1,123 @@
 ﻿1
 00:00:22,356 --> 00:00:25,758
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:27,361 --> 00:00:28,861
-      ...grinding wheels...     
+...grinding wheels...     
 
 3
 00:00:31,965 --> 00:00:33,499
-          ...compost...         
+...compost...         
 
 4
 00:00:37,637 --> 00:00:39,471
-       ...window blinds...      
+...window blinds...      
 
 5
 00:00:43,177 --> 00:00:44,710
-          ...and milk.          
+...and milk.          
 
 6
 00:00:52,586 --> 00:00:56,188
-   a grinding wheel is a tool   
-   used to grind down, polish,  
+a grinding wheel is a tool used to grind down, polish,  
 
 7
 00:00:56,190 --> 00:00:58,857
-        or cut materials        
-     such as metal or glass.    
+or cut materials such as metal or glass.    
 
 8
 00:00:58,859 --> 00:01:02,060
-         like a sander,         
-     it uses abrasive grains    
+like a sander, it uses abrasive grains    
 
 9
 00:01:02,062 --> 00:01:05,464
-    to wear away the surface    
-      in minute particles.      
+to wear away the surface in minute particles.      
 
 10
 00:01:05,466 --> 00:01:07,800
-       grinding actually        
-       sharpens the wheel       
+grinding actually sharpens the wheel       
 
 11
 00:01:07,802 --> 00:01:12,337
-  by breaking apart the grains  
- and creating new sharp points. 
+by breaking apart the grains and creating new sharp points. 
 
 12
 00:01:16,410 --> 00:01:18,277
-    a grinding wheel is made    
+a grinding wheel is made    
 
 13
 00:01:18,279 --> 00:01:20,812
-      from several chemical     
-    and mineral ingredients.    
+from several chemical and mineral ingredients.    
 
 14
 00:01:20,814 --> 00:01:22,347
-       the formula varies       
+the formula varies       
 
 15
 00:01:22,349 --> 00:01:25,083
-   according to what the wheel  
-   will be intended to grind,   
+according to what the wheel will be intended to grind,   
 
 16
 00:01:25,085 --> 00:01:26,751
-         polish, or cut.        
+polish, or cut.        
 
 17
 00:01:26,753 --> 00:01:28,219
-         for metalwork,         
+for metalwork,         
 
 18
 00:01:28,221 --> 00:01:31,290
-       they use abrasives       
- that are aluminum-oxide based. 
+they use abrasives that are aluminum-oxide based. 
 
 19
 00:01:31,292 --> 00:01:35,026
-   for cutting cement, stone,   
-   and other nonmetal objects,  
+for cutting cement, stone, and other nonmetal objects,  
 
 20
 00:01:35,028 --> 00:01:38,030
-       they use abrasives       
- that are silicon-carbide based.
+they use abrasives that are silicon-carbide based.
 
 21
 00:01:38,032 --> 00:01:40,365
-           even within          
-      those two categories,     
+even within those two categories,     
 
 22
 00:01:40,367 --> 00:01:42,167
-    the formulas will differ.   
+the formulas will differ.   
 
 23
 00:01:42,169 --> 00:01:44,236
- a wheel designed for hard steel
+a wheel designed for hard steel
 
 24
 00:01:44,238 --> 00:01:48,506
- will be different than a wheel 
-   designed for softer metals.  
+will be different than a wheel designed for softer metals.  
 
 25
 00:01:48,508 --> 00:01:49,974
-   computer-programmed scales   
+computer-programmed scales   
 
 26
 00:01:49,976 --> 00:01:52,711
-    automatically weigh out     
-    the various ingredients,    
+automatically weigh out the various ingredients,    
 
 27
 00:01:52,713 --> 00:01:55,781
-      including additives       
-      such as iron oxide --     
+including additives such as iron oxide --     
 
 28
 00:01:55,783 --> 00:01:58,117
-       for wheels that cut      
-        or grind iron --        
+for wheels that cut or grind iron --        
 
 29
 00:01:58,119 --> 00:02:02,121
-    and the mineral cryolite,   
- which lubricates the abrasives.
+and the mineral cryolite, which lubricates the abrasives.
 
 30
 00:02:02,123 --> 00:02:06,191
- powdered and liquid resins bond
-  all the ingredients together. 
+powdered and liquid resins bond
+all the ingredients together. 
 
 31
 00:02:06,193 --> 00:02:08,460
@@ -143,117 +125,99 @@ the powdered resin and additives
 
 32
 00:02:08,462 --> 00:02:11,396
-    are the first ingredients   
-      to go into the mixer.     
+are the first ingredients to go into the mixer.     
 
 33
 00:02:19,406 --> 00:02:21,006
-      after about a minute,     
+after about a minute,     
 
 34
 00:02:21,008 --> 00:02:24,676
-          the abrasives         
-     and liquid resin go in.    
+the abrasives and liquid resin go in.    
 
 35
 00:02:24,678 --> 00:02:26,545
-      another five minutes      
-          of churning,          
+another five minutes of churning,          
 
 36
 00:02:26,547 --> 00:02:30,816
-     and the mixture is the     
- consistency of damp beach sand.
+and the mixture is the consistency of damp beach sand.
 
 37
 00:02:36,556 --> 00:02:39,291
-         they screen out        
-       any globs or chunks      
+they screen out any globs or chunks      
 
 38
 00:02:39,293 --> 00:02:42,761
-  so that the mix has a smooth  
-        and even texture.       
+so that the mix has a smooth and even texture.       
 
 39
 00:02:44,898 --> 00:02:46,698
-    a device called a shuttle   
+a device called a shuttle   
 
 40
 00:02:46,700 --> 00:02:50,034
-       spreads the mixture      
-    into a wheel-shaped mold.   
+spreads the mixture into a wheel-shaped mold.   
 
 41
 00:02:50,036 --> 00:02:52,704
-     the diameter and depth     
-       of the mold cavity       
+the diameter and depth of the mold cavity       
 
 42
 00:02:52,706 --> 00:02:54,573
-  corresponds to the dimensions 
+corresponds to the dimensions 
 
 43
 00:02:54,575 --> 00:02:58,177
-         of the specific        
-      grinding-wheel model.     
+of the specific grinding-wheel model.     
 
 44
 00:02:58,179 --> 00:02:59,978
-     at the base of the mold    
+at the base of the mold    
 
 45
 00:02:59,980 --> 00:03:03,949
-     is a reinforcement disc    
-       made of fiberglass.      
+is a reinforcement disc made of fiberglass.      
 
 46
 00:03:30,411 --> 00:03:33,544
-  next, a galvanized-steel ring 
+next, a galvanized-steel ring 
 
 47
 00:03:33,546 --> 00:03:35,747
-       goes in the center       
-         of each wheel.         
+goes in the center of each wheel.         
 
 48
 00:03:35,749 --> 00:03:39,417
-     its four small anchors     
-        grip the mixture.       
+its four small anchors grip the mixture.       
 
 49
 00:03:39,419 --> 00:03:41,953
-      this ring is designed     
-      to protect the shaft      
+this ring is designed to protect the shaft      
 
 50
 00:03:41,955 --> 00:03:44,156
- that spins the grinding wheel. 
+that spins the grinding wheel. 
 
 51
 00:03:51,164 --> 00:03:54,499
-        a hydraulic press       
-   now compacts the material,   
+a hydraulic press now compacts the material,   
 
 52
 00:03:54,501 --> 00:03:58,970
-  applying up to 5,000 pounds   
-  of pressure per square inch.  
+applying up to 5,000 pounds of pressure per square inch.  
 
 53
 00:03:58,972 --> 00:04:02,507
-        that's the weight       
-        of about 30 cars.       
+that's the weight of about 30 cars.       
 
 54
 00:04:04,845 --> 00:04:07,845
-   every single grinding wheel  
-       coming off the line      
+every single grinding wheel coming off the line      
 
 55
 00:04:07,847 --> 00:04:11,550
-  is weighed to ensure it meets 
-     design specifications.     
+is weighed to ensure it meets design specifications.     
 
 56
 00:04:20,261 --> 00:04:22,794
@@ -261,89 +225,76 @@ next, the wheels go into an oven
 
 57
 00:04:22,796 --> 00:04:25,130
-        whose temperature       
-         rises gradually        
+whose temperature rises gradually        
 
 58
 00:04:25,132 --> 00:04:28,132
-     from 70 to 390 degrees     
-           fahrenheit           
+from 70 to 390 degrees fahrenheit           
 
 59
 00:04:28,134 --> 00:04:31,737
-   over a period of 24 hours.   
+over a period of 24 hours.   
 
 60
 00:04:31,739 --> 00:04:33,538
-      this cures the resin,     
+this cures the resin,     
 
 61
 00:04:33,540 --> 00:04:36,074
-   bonding all the ingredients  
-            together.           
+bonding all the ingredients together.           
 
 62
 00:04:36,076 --> 00:04:38,343
-    when the grinding wheels    
-            come out,           
+when the grinding wheels come out,           
 
 63
 00:04:38,345 --> 00:04:40,312
-     they're hard as a rock.    
+they're hard as a rock.    
 
 64
 00:04:45,018 --> 00:04:48,086
- the last step of the production
-      process is labeling.      
+the last step of the production
+process is labeling.      
 
 65
 00:04:48,088 --> 00:04:50,689
-     the automated machinery    
-        moves the wheels        
+the automated machinery moves the wheels        
 
 66
 00:04:50,691 --> 00:04:55,227
-     from station to station    
-         using suction.         
+from station to station using suction.         
 
 67
 00:04:55,229 --> 00:04:58,429
-     it applies eight drops     
- of hot glue around the center, 
+it applies eight drops of hot glue around the center, 
 
 68
 00:04:58,431 --> 00:05:00,699
- then slaps on the first label. 
+then slaps on the first label. 
 
 69
 00:05:00,701 --> 00:05:03,301
-         the label bears        
-     the manufacturer's logo    
+the label bears the manufacturer's logo    
 
 70
 00:05:03,303 --> 00:05:05,904
- and lists the grinding wheel's 
-           dimensions,          
+and lists the grinding wheel's dimensions,          
 
 71
 00:05:05,906 --> 00:05:09,374
-        its intended use,       
-   and the maximum spin speed.  
+its intended use, and the maximum spin speed.  
 
 72
 00:05:09,376 --> 00:05:11,976
-          the equipment         
-      then flips each wheel     
+the equipment then flips each wheel     
 
 73
 00:05:11,978 --> 00:05:14,913
-    and glues a second label    
-      onto the other side.      
+and glues a second label onto the other side.      
 
 74
 00:05:14,915 --> 00:05:18,983
-        this label lists        
-     the safety information.    
+this label lists the safety information.    
 
 75
 00:05:18,985 --> 00:05:21,119
@@ -351,122 +302,104 @@ the diameter of a grinding wheel
 
 76
 00:05:21,121 --> 00:05:24,055
-     can range from 2 inches    
-     to more than 20 inches.    
+can range from 2 inches to more than 20 inches.    
 
 77
 00:05:24,057 --> 00:05:27,592
-            it can be           
-    just .04 of an inch thin    
+it can be just .04 of an inch thin    
 
 78
 00:05:27,594 --> 00:05:30,862
-   or up to 1/2 an inch thick.  
+or up to 1/2 an inch thick.  
 
 79
 00:05:30,864 --> 00:05:34,066
 the smallest wheels are designed
- for things like auto-body work 
+for things like auto-body work 
 
 80
 00:05:34,068 --> 00:05:37,068
-     while the largest ones     
- can cut through railway tracks 
+while the largest ones can cut through railway tracks 
 
 81
 00:05:37,070 --> 00:05:40,172
-         and thick-metal        
-       construction beams.      
+and thick-metal construction beams.      
 
 82
 00:05:47,881 --> 00:05:50,482
-    narrator: many gardeners    
-      are relying on nature     
+narrator: many gardeners are relying on nature     
 
 83
 00:05:50,484 --> 00:05:52,283
-    to nurture their gardens.   
+to nurture their gardens.   
 
 84
 00:05:52,285 --> 00:05:55,086
-        they're choosing        
-    compost-based soil mixes    
+they're choosing compost-based soil mixes    
 
 85
 00:05:55,088 --> 00:05:57,422
-         over chemically        
-        fertilized mixes.       
+over chemically fertilized mixes.       
 
 86
 00:05:57,424 --> 00:06:00,425
-      compost is decomposed     
-         organic matter.        
+compost is decomposed organic matter.        
 
 87
 00:06:00,427 --> 00:06:03,294
-         not only is it         
-    environmentally friendly,   
+not only is it environmentally friendly,   
 
 88
 00:06:03,296 --> 00:06:07,232
-  it's chock-full of nutrients  
-  and useful micro-organisms.   
+it's chock-full of nutrients and useful micro-organisms.   
 
 89
 00:06:11,971 --> 00:06:14,772
-           composting           
-  is the ecological alternative 
+composting is the ecological alternative 
 
 90
 00:06:14,774 --> 00:06:17,909
-      to burning or burying     
-         organic waste.         
+to burning or burying organic waste.         
 
 91
 00:06:17,911 --> 00:06:20,778
-      it all starts at this     
-       composting factory       
+it all starts at this composting factory       
 
 92
 00:06:20,780 --> 00:06:22,780
-     with manure from farms,    
+with manure from farms,    
 
 93
 00:06:22,782 --> 00:06:26,117
-    biodegradable solid waste   
-        from paper mills,       
+biodegradable solid waste from paper mills,       
 
 94
 00:06:26,119 --> 00:06:29,120
- and grass clippings and leaves 
-     from local governments.    
+and grass clippings and leaves from local governments.    
 
 95
 00:06:29,122 --> 00:06:31,323
- some materials arrive in bulk, 
+some materials arrive in bulk, 
 
 96
 00:06:31,325 --> 00:06:34,126
- others in plastic garbage bags.
+others in plastic garbage bags.
 
 97
 00:06:41,335 --> 00:06:45,270
-    workers carefully inspect   
- the leaves and grass clippings,
+workers carefully inspect the leaves and grass clippings,
 
 98
 00:06:45,272 --> 00:06:47,806
-          removing any          
-    nonbiodegradable objects    
+removing any nonbiodegradable objects    
 
 99
 00:06:47,808 --> 00:06:49,608
-    that got into the bags --   
+that got into the bags --   
 
 100
 00:06:49,610 --> 00:06:52,811
- things like pieces of plastic, 
-        rubber, or metal,       
+things like pieces of plastic, rubber, or metal,       
 
 101
 00:06:52,813 --> 00:06:56,481
@@ -474,52 +407,43 @@ shards of glass, or even stones.
 
 102
 00:06:56,483 --> 00:07:00,418
-         after combining        
-   all the waste ingredients,   
+after combining all the waste ingredients,   
 
 103
 00:07:00,420 --> 00:07:05,624
-   they add bulking materials   
-   such wood chips and bark.    
+they add bulking materials such wood chips and bark.    
 
 104
 00:07:05,626 --> 00:07:09,561
-   then they stack the mixture  
- in outdoor piles to decompose. 
+then they stack the mixture in outdoor piles to decompose. 
 
 105
 00:07:09,563 --> 00:07:13,098
-        the mix's makeup        
-     is by no means random.     
+the mix's makeup is by no means random.     
 
 106
 00:07:13,100 --> 00:07:15,300
-  it's scientifically designed  
+it's scientifically designed  
 
 107
 00:07:15,302 --> 00:07:20,238
- to create an ideal environment 
-    for live micro-organisms.   
+to create an ideal environment for live micro-organisms.   
 
 108
 00:07:20,240 --> 00:07:24,442
- billions of bacteria and fungi 
-       grow and reproduce,      
+billions of bacteria and fungi grow and reproduce,      
 
 109
 00:07:24,444 --> 00:07:26,445
-     feeding on the nitrogen    
-           and carbon           
+feeding on the nitrogen and carbon           
 
 110
 00:07:26,447 --> 00:07:29,848
-   that are naturally present   
-     in the organic matter.     
+that are naturally present in the organic matter.     
 
 111
 00:07:29,850 --> 00:07:32,584
-    they slowly and gradually   
-       transform the waste      
+they slowly and gradually transform the waste      
 
 112
 00:07:32,586 --> 00:07:35,120
@@ -527,88 +451,77 @@ into compost, which, when ready,
 
 113
 00:07:35,122 --> 00:07:37,989
-      will look like rich,      
-          black earth.          
+will look like rich, black earth.          
 
 114
 00:07:37,991 --> 00:07:40,858
-    all this microbiological    
-            activity            
+all this microbiological activity            
 
 115
 00:07:40,860 --> 00:07:45,463
-   heats the waste piles to a   
+heats the waste piles to a   
 steaming 150 degrees fahrenheit,
 
 116
 00:07:45,465 --> 00:07:48,133
-   even in the dead of winter.  
+even in the dead of winter.  
 
 117
 00:07:48,135 --> 00:07:51,469
-   the factory turns the piles  
-     monthly to aerate them.    
+the factory turns the piles monthly to aerate them.    
 
 118
 00:07:51,471 --> 00:07:53,138
-      this stimulates decay     
+this stimulates decay     
 
 119
 00:07:53,140 --> 00:07:58,209
-  and ensures it occurs evenly  
-      throughout the pile.      
+and ensures it occurs evenly throughout the pile.      
 
 120
 00:07:58,211 --> 00:08:01,613
-   the active-breakdown phase   
-      takes 6 to 10 months.     
+the active-breakdown phase takes 6 to 10 months.     
 
 121
 00:08:01,615 --> 00:08:03,481
-    a curing phase follows --   
+a curing phase follows --   
 
 122
 00:08:03,483 --> 00:08:06,017
-          an additional         
-      six to eight months,      
+an additional six to eight months,      
 
 123
 00:08:06,019 --> 00:08:10,222
-       at the end of which      
-     the compost stabilizes.    
+at the end of which the compost stabilizes.    
 
 124
 00:08:10,224 --> 00:08:13,558
-    because the outdoor piles   
-  are exposed to precipitation, 
+because the outdoor piles are exposed to precipitation, 
 
 125
 00:08:13,560 --> 00:08:17,695
 high concentrations of nitrogen,
-   phosphorous, and potassium   
+phosphorous, and potassium   
 
 126
 00:08:17,697 --> 00:08:19,898
-  leech into the runoff water.  
+leech into the runoff water.  
 
 127
 00:08:19,900 --> 00:08:22,633
-    drainage ditches collect    
-      and carry this water      
+drainage ditches collect and carry this water      
 
 128
 00:08:22,635 --> 00:08:24,302
-        to holding ponds.       
+to holding ponds.       
 
 129
 00:08:24,304 --> 00:08:27,772
-   from there it goes through   
-       a treatment system       
+from there it goes through a treatment system       
 
 130
 00:08:27,774 --> 00:08:32,376
-  consisting mainly of aeration 
-       and settling ponds.      
+consisting mainly of aeration and settling ponds.      
 
 131
 00:08:32,378 --> 00:08:34,712
@@ -616,124 +529,108 @@ as we see in this demonstration,
 
 132
 00:08:34,714 --> 00:08:38,250
-  they aerate the water and add 
-   certain chemical compounds.  
+they aerate the water and add certain chemical compounds.  
 
 133
 00:08:38,252 --> 00:08:41,386
-       the pollutants bond      
-    and settle at the surface   
+the pollutants bond and settle at the surface   
 
 134
 00:08:41,388 --> 00:08:43,388
-       to be skimmed off.       
+to be skimmed off.       
 
 135
 00:08:43,390 --> 00:08:46,524
-  the treated water has to meet 
-  strict government regulations 
+the treated water has to meet strict government regulations 
 
 136
 00:08:46,526 --> 00:08:50,061
-      before it's released      
-      to the environment.       
+before it's released to the environment.       
 
 137
 00:08:50,063 --> 00:08:52,864
-    back to the compost now.    
+back to the compost now.    
 
 138
 00:08:52,866 --> 00:08:54,599
- once the curing phase is over, 
+once the curing phase is over, 
 
 139
 00:08:54,601 --> 00:08:57,335
-    the compost goes through    
-       a screening process      
+the compost goes through a screening process      
 
 140
 00:08:57,337 --> 00:09:00,004
-     which removes any lumps    
-       or foreign objects       
+which removes any lumps or foreign objects       
 
 141
 00:09:00,006 --> 00:09:04,209
-  such as pebbles or partially  
-     decomposed wood chips.     
+such as pebbles or partially decomposed wood chips.     
 
 142
 00:09:08,815 --> 00:09:11,983
-      the finished compost      
-     comes out silky-smooth.    
+the finished compost comes out silky-smooth.    
 
 143
 00:09:21,027 --> 00:09:23,828
-       before the compost       
-       is sent to market,       
+before the compost is sent to market,       
 
 144
 00:09:23,830 --> 00:09:27,499
-       it undergoes strict      
-    quality-control testing.    
+it undergoes strict quality-control testing.    
 
 145
 00:09:27,501 --> 00:09:29,100
-    the factory's laboratory    
+the factory's laboratory    
 
 146
 00:09:29,102 --> 00:09:31,569
-        conducts detailed       
-        chemical analysis       
+conducts detailed chemical analysis       
 
 147
 00:09:31,571 --> 00:09:33,371
-      to ensure the compost     
+to ensure the compost     
 
 148
 00:09:33,373 --> 00:09:36,507
-         is at precisely        
-   the right level of maturity  
+is at precisely the right level of maturity  
 
 149
 00:09:36,509 --> 00:09:40,111
-      and that it contains      
+and that it contains      
 the correct balance of nutrients
 
 150
 00:09:40,113 --> 00:09:43,982
- and stabilized organic matter. 
+and stabilized organic matter. 
 
 151
 00:09:43,984 --> 00:09:47,519
-         then, a series         
-    of growth-chamber tests.    
+then, a series of growth-chamber tests.    
 
 152
 00:09:47,521 --> 00:09:50,121
-      to ensure the product     
-         performs well,         
+to ensure the product performs well,         
 
 153
 00:09:50,123 --> 00:09:51,656
-    the lab germinates seeds    
+the lab germinates seeds    
 
 154
 00:09:51,658 --> 00:09:55,393
-      and grows test plants     
-     in compost-based mixes.    
+and grows test plants in compost-based mixes.    
 
 155
 00:09:59,332 --> 00:10:01,599
-    once the quality-control    
-           department           
+once the quality-control department           
 
 156
 00:10:01,601 --> 00:10:03,001
-     gives the green light,     
+gives the green light,     
 
 157
 00:10:03,003 --> 00:10:06,204
- the compost can be shipped out 
+the compost can be shipped out 
 
 158
 00:10:06,206 --> 00:10:10,342
@@ -741,505 +638,437 @@ either in bulk or packaged bags.
 
 159
 00:10:13,146 --> 00:10:17,448
-      compost is sold as is     
-     or added to soil mixes.    
+compost is sold as is or added to soil mixes.    
 
 160
 00:10:17,450 --> 00:10:19,884
- it improves the soil structure 
+it improves the soil structure 
 
 161
 00:10:19,886 --> 00:10:22,887
-  and actively retains moisture 
-        and fertilizers.        
+and actively retains moisture and fertilizers.        
 
 162
 00:10:22,889 --> 00:10:26,757
- compost is a chemical-free way 
-        to nourish plants       
+compost is a chemical-free way to nourish plants       
 
 163
 00:10:26,759 --> 00:10:29,827
-          and stimulate         
-     their defense systems.     
+and stimulate their defense systems.     
 
 164
 00:10:29,829 --> 00:10:35,000
- this gives them extra strength 
- to grow fast and stay healthy. 
+this gives them extra strength to grow fast and stay healthy. 
 
 165
 00:10:43,176 --> 00:10:46,577
- narrator: today's window blinds
-     come in many styles --     
+narrator: today's window blinds
+come in many styles --     
 
 166
 00:10:46,579 --> 00:10:48,512
- roller shades, roll-up shades, 
+roller shades, roll-up shades, 
 
 167
 00:10:48,514 --> 00:10:51,048
-         pleated shades,        
-     and horizontal blinds,     
+pleated shades, and horizontal blinds,     
 
 168
 00:10:51,050 --> 00:10:52,984
-       to name just a few.      
+to name just a few.      
 
 169
 00:10:52,986 --> 00:10:54,719
-  the advantage of horizontals  
+the advantage of horizontals  
 
 170
 00:10:54,721 --> 00:10:56,921
-         is that you can        
-      leave the blind drawn     
+is that you can leave the blind drawn     
 
 171
 00:10:56,923 --> 00:10:59,924
-    and simply tilt the slats   
-    to let in tons of light,    
+and simply tilt the slats to let in tons of light,    
 
 172
 00:10:59,926 --> 00:11:02,761
-         a bit of light,        
-       or no light at all.      
+a bit of light, or no light at all.      
 
 173
 00:11:04,664 --> 00:11:06,263
-       most manufacturers       
+most manufacturers       
 
 174
 00:11:06,265 --> 00:11:09,200
-   make their wood horizontal   
-      blinds from basswood.     
+make their wood horizontal blinds from basswood.     
 
 175
 00:11:09,202 --> 00:11:11,202
-        it's a hardwood,        
-        so it's durable.        
+it's a hardwood, so it's durable.        
 
 176
 00:11:11,204 --> 00:11:12,671
-        it's lightweight,       
+it's lightweight,       
 
 177
 00:11:12,673 --> 00:11:15,139
-   so the blind doesn't end up  
-         weighing a ton,        
+so the blind doesn't end up weighing a ton,        
 
 178
 00:11:15,141 --> 00:11:17,809
-         and it absorbs         
-       wood stain evenly.       
+and it absorbs wood stain evenly.       
 
 179
 00:11:17,811 --> 00:11:20,811
- first they feed the rough wood 
-        through a planer.       
+first they feed the rough wood through a planer.       
 
 180
 00:11:20,813 --> 00:11:25,349
- they cut it down to 2 inches --
-     the width of the slats.    
+they cut it down to 2 inches --
+the width of the slats.    
 
 181
 00:11:25,351 --> 00:11:27,552
-         then, following        
-       a laser guideline,       
+then, following a laser guideline,       
 
 182
 00:11:27,554 --> 00:11:30,554
-    they trim off any excess    
-      and square the piece,     
+they trim off any excess and square the piece,     
 
 183
 00:11:30,556 --> 00:11:32,857
-  using a straight-line ripsaw. 
+using a straight-line ripsaw. 
 
 184
 00:11:34,694 --> 00:11:37,228
-          now the piece         
-     goes through a machine     
+now the piece goes through a machine     
 
 185
 00:11:37,230 --> 00:11:40,699
-  that's specifically designed  
-   to cut thin slats of wood.   
+that's specifically designed to cut thin slats of wood.   
 
 186
 00:11:40,701 --> 00:11:44,302
-     its sharp steel blades     
-      slice right through,      
+its sharp steel blades slice right through,      
 
 187
 00:11:44,304 --> 00:11:48,773
-    creating up to 15 slats,    
-    each .2 of an inch thick.   
+creating up to 15 slats, each .2 of an inch thick.   
 
 188
 00:11:53,847 --> 00:11:57,982
-  here's the piece of basswood  
-    before slicing and after.   
+here's the piece of basswood before slicing and after.   
 
 189
 00:12:00,253 --> 00:12:03,254
-       the slats now pass       
-   under an oscillating sander  
+the slats now pass under an oscillating sander  
 
 190
 00:12:03,256 --> 00:12:05,123
-   to prep them for staining.   
+to prep them for staining.   
 
 191
 00:12:05,125 --> 00:12:08,126
-       after cutting them       
-   to the width of the window,  
+after cutting them to the width of the window,  
 
 192
 00:12:08,128 --> 00:12:11,329
-    workers spray wood stain    
-   on both sides of each slat,  
+workers spray wood stain on both sides of each slat,  
 
 193
 00:12:11,331 --> 00:12:15,667
-      then a coat of sealer     
-      to lock in the color.     
+then a coat of sealer to lock in the color.     
 
 194
 00:12:15,669 --> 00:12:19,136
-     once the sealer dries,     
-  they sand the slats manually  
+once the sealer dries, they sand the slats manually  
 
 195
 00:12:19,138 --> 00:12:23,007
-   to prepare them for a final  
-   protective coat of lacquer.  
+to prepare them for a final protective coat of lacquer.  
 
 196
 00:12:23,009 --> 00:12:25,009
-       next, using a die,       
+next, using a die,       
 
 197
 00:12:25,011 --> 00:12:27,211
-      they punch two slots      
-          in each slat          
+they punch two slots in each slat          
 
 198
 00:12:27,213 --> 00:12:31,082
-     6 inches from each end.    
+6 inches from each end.    
 
 199
 00:12:31,084 --> 00:12:33,151
-          these are for         
-   the color-coordinated cords  
+these are for the color-coordinated cords  
 
 200
 00:12:33,153 --> 00:12:35,553
-  that will operate the blind.  
+that will operate the blind.  
 
 201
 00:12:35,555 --> 00:12:37,755
-      now for the assembly.     
+now for the assembly.     
 
 202
 00:12:37,757 --> 00:12:39,424
-  they hang ladder-shaped cords 
+they hang ladder-shaped cords 
 
 203
 00:12:39,426 --> 00:12:42,427
-       called ladder tapes      
-   from the blind's headrail,   
+called ladder tapes from the blind's headrail,   
 
 204
 00:12:42,429 --> 00:12:45,864
-       then slide one slat      
-         onto each rung.        
+then slide one slat onto each rung.        
 
 205
 00:12:49,836 --> 00:12:52,903
- then they thread the blind cord
- through the slots in the slats,
+then they thread the blind cord
+through the slots in the slats,
 
 206
 00:12:52,905 --> 00:12:55,373
-          hooking it up         
-    to the control mechanism    
+hooking it up to the control mechanism    
 
 207
 00:12:55,375 --> 00:12:57,842
-     hidden in the headrail.    
+hidden in the headrail.    
 
 208
 00:12:57,844 --> 00:12:59,577
-  a cord dangles down the front 
+a cord dangles down the front 
 
 209
 00:12:59,579 --> 00:13:02,313
-    for raising and lowering    
-           the blind.           
+for raising and lowering the blind.           
 
 210
 00:13:02,315 --> 00:13:05,850
 they also mount a wand, or cord,
-     for tilting the slats.     
+for tilting the slats.     
 
 211
 00:13:05,852 --> 00:13:11,122
-     the excess ladder tape     
-  is tucked into a bottom rail. 
+the excess ladder tape is tucked into a bottom rail. 
 
 212
 00:13:11,124 --> 00:13:12,990
-    to make aluminum blinds,    
+to make aluminum blinds,    
 
 213
 00:13:12,992 --> 00:13:16,393
-   they start with long strips  
-       of preformed steel.      
+they start with long strips of preformed steel.      
 
 214
 00:13:16,395 --> 00:13:20,932
-    these will be the blind's   
-    headrail and bottom rail.   
+these will be the blind's headrail and bottom rail.   
 
 215
 00:13:20,934 --> 00:13:23,868
-        workers cut them        
-     to the required length,    
+workers cut them to the required length,    
 
 216
 00:13:23,870 --> 00:13:27,305
-       which is the width       
-         of the window.         
+which is the width of the window.         
 
 217
 00:13:32,812 --> 00:13:36,014
- they make holes in the headrail
-      for the cord lock --      
+they make holes in the headrail
+for the cord lock --      
 
 218
 00:13:36,016 --> 00:13:39,550
- the device that locks the blind
-    to the desired height --    
+the device that locks the blind
+to the desired height --    
 
 219
 00:13:39,552 --> 00:13:43,555
-  and the tilter, the mechanism 
-     that angles the slats.     
+and the tilter, the mechanism that angles the slats.     
 
 220
 00:13:45,892 --> 00:13:48,359
-        now they install        
-        those components.       
+now they install those components.       
 
 221
 00:13:48,361 --> 00:13:51,095
-       the cord lock snaps      
-     right into the hole --     
+the cord lock snaps right into the hole --     
 
 222
 00:13:51,097 --> 00:13:52,763
-      no hardware required.     
+no hardware required.     
 
 223
 00:13:52,765 --> 00:13:55,200
-          that's known          
-       as a pressure fit.       
+that's known as a pressure fit.       
 
 224
 00:13:58,437 --> 00:14:00,872
-  they pressure-fit the tilter, 
-            as well.            
+they pressure-fit the tilter, as well.            
 
 225
 00:14:05,378 --> 00:14:07,779
-    next come the tape rolls,   
+next come the tape rolls,   
 
 226
 00:14:07,781 --> 00:14:10,315
-     through which they run     
-        the ladder tapes.       
+through which they run the ladder tapes.       
 
 227
 00:14:16,189 --> 00:14:20,658
- they cut the appropriate length
-    and color of blind cord,    
+they cut the appropriate length
+and color of blind cord,    
 
 228
 00:14:20,660 --> 00:14:24,395
-         then thread it         
-     through the cord lock.     
+then thread it through the cord lock.     
 
 229
 00:14:24,397 --> 00:14:28,332
-     the tilter turns a rod,    
-   which turns the tape roll,   
+the tilter turns a rod, which turns the tape roll,   
 
 230
 00:14:28,334 --> 00:14:32,203
-  which tilts the ladder tapes, 
-       angling the slats.       
+which tilts the ladder tapes, angling the slats.       
 
 231
 00:14:32,205 --> 00:14:34,405
-     and speaking of slats,     
+and speaking of slats,     
 
 232
 00:14:34,407 --> 00:14:38,943
-     they're cut from rolls     
-    of 1-inch-wide aluminum.    
+they're cut from rolls of 1-inch-wide aluminum.    
 
 233
 00:14:38,945 --> 00:14:42,280
-   workers simply feed a roll   
-   into the forming machine.    
+workers simply feed a roll into the forming machine.    
 
 234
 00:14:42,282 --> 00:14:45,216
-  then the rest of the process  
-          is automated.         
+then the rest of the process is automated.         
 
 235
 00:14:45,218 --> 00:14:49,887
 first the machine gives the flat
-   metal a semicircular curve.  
+metal a semicircular curve.  
 
 236
 00:14:49,889 --> 00:14:52,556
-   then it punches cord holes   
+then it punches cord holes   
 
 237
 00:14:52,558 --> 00:14:55,426
-    and then, as you can see    
- on the far left of the screen, 
+and then, as you can see on the far left of the screen, 
 
 238
 00:14:55,428 --> 00:14:57,462
-       cuts it into slats.      
+cuts it into slats.      
 
 239
 00:15:01,968 --> 00:15:04,035
-      but that's not all --     
+but that's not all --     
 
 240
 00:15:04,037 --> 00:15:06,437
-        this same machine       
-    also assembles the blind,   
+this same machine also assembles the blind,   
 
 241
 00:15:06,439 --> 00:15:10,375
-  sliding a slat onto each rung 
-      of the ladder tapes.      
+sliding a slat onto each rung of the ladder tapes.      
 
 242
 00:15:19,652 --> 00:15:21,452
-  all that's left to do by hand 
+all that's left to do by hand 
 
 243
 00:15:21,454 --> 00:15:25,656
-    is thread the blind cord    
-  and install the bottom rail.  
+is thread the blind cord and install the bottom rail.  
 
 244
 00:15:25,658 --> 00:15:29,160
-       from this point on,      
-   it's just window dressing.   
+from this point on, it's just window dressing.   
 
 245
 00:15:39,005 --> 00:15:40,805
-            narrator:           
-    getting milk out of a cow   
+narrator: getting milk out of a cow   
 
 246
 00:15:40,807 --> 00:15:42,607
-    has sure come a long way    
+has sure come a long way    
 
 247
 00:15:42,609 --> 00:15:46,210
-    since the days of sitting   
+since the days of sitting   
 on a stool and doing it by hand.
 
 248
 00:15:46,212 --> 00:15:50,081
 today's cutting-edge dairy farms
-      are fully automated.      
+are fully automated.      
 
 249
 00:15:50,083 --> 00:15:52,616
-     sophisticated equipment    
-         feeds the cows,        
+sophisticated equipment feeds the cows,        
 
 250
 00:15:52,618 --> 00:15:55,019
-     cleans up their manure,    
-           milks them,          
+cleans up their manure, milks them,          
 
 251
 00:15:55,021 --> 00:15:57,722
-         and even checks        
-    the quality of the milk.    
+and even checks the quality of the milk.    
 
 252
 00:16:04,230 --> 00:16:06,397
-     historians aren't sure     
+historians aren't sure     
 
 253
 00:16:06,399 --> 00:16:09,433
-     when humans first began    
-      drinking animal milk.     
+when humans first began drinking animal milk.     
 
 254
 00:16:09,435 --> 00:16:11,169
-    they believe that people    
+they believe that people    
 
 255
 00:16:11,171 --> 00:16:13,704
-       in ancient babylon,      
-        egypt, and india        
+in ancient babylon, egypt, and india        
 
 256
 00:16:13,706 --> 00:16:17,975
-       raised dairy cattle      
-      as early as 4000 b.c.     
+raised dairy cattle as early as 4000 b.c.     
 
 257
 00:16:17,977 --> 00:16:19,910
-         for centuries,         
+for centuries,         
 
 258
 00:16:19,912 --> 00:16:22,847
-         the family cow         
-  was the main source of milk.  
+the family cow was the main source of milk.  
 
 259
 00:16:22,849 --> 00:16:26,050
-      but as cities became      
-         more populated,        
+but as cities became more populated,        
 
 260
 00:16:26,052 --> 00:16:30,187
-  keeping your own personal cow 
-   became rather impractical,   
+keeping your own personal cow became rather impractical,   
 
 261
 00:16:30,189 --> 00:16:33,123
-        so farmers living       
-       outside city limits      
+so farmers living outside city limits      
 
 262
 00:16:33,125 --> 00:16:36,194
-       began to establish       
-       dairy businesses.        
+began to establish dairy businesses.        
 
 263
 00:16:46,406 --> 00:16:50,207
-   the key to good milk output  
-         is a good diet.        
+the key to good milk output is a good diet.        
 
 264
 00:16:50,209 --> 00:16:54,612
-  every day, a dairy cow chows  
+every day, a dairy cow chows  
 down up to 100 pounds of feed --
 
 265
@@ -1248,133 +1077,115 @@ a mix of hay, grass, and grains,
 
 266
 00:16:57,149 --> 00:17:01,886
-   supplemented with minerals   
-   and proteins such as soy.    
+supplemented with minerals and proteins such as soy.    
 
 267
 00:17:01,888 --> 00:17:04,688
-          on a hot day,         
-  she can drink the equivalent  
+on a hot day, she can drink the equivalent  
 
 268
 00:17:04,690 --> 00:17:07,625
-   of a bathtub full of water.  
+of a bathtub full of water.  
 
 269
 00:17:07,627 --> 00:17:10,961
-        cows produce milk       
+cows produce milk       
 only during the lactation period
 
 270
 00:17:10,963 --> 00:17:13,297
-          that follows          
-      the birth of a calf.      
+that follows the birth of a calf.      
 
 271
 00:17:13,299 --> 00:17:16,233
-   starting at 15 to 17 months  
-             of age,            
+starting at 15 to 17 months of age,            
 
 272
 00:17:16,235 --> 00:17:19,437
-   they're inseminated yearly   
-      for about six years.      
+they're inseminated yearly for about six years.      
 
 273
 00:17:19,439 --> 00:17:22,372
-    the newborn calf suckles    
-      for a couple of days,     
+the newborn calf suckles for a couple of days,     
 
 274
 00:17:22,374 --> 00:17:26,177
-  then goes to a separate area  
-          to be raised.         
+then goes to a separate area to be raised.         
 
 275
 00:17:26,179 --> 00:17:28,479
-    but the mother continues    
-           to lactate           
+but the mother continues to lactate           
 
 276
 00:17:28,481 --> 00:17:30,380
-  for another 10 to 12 months,  
+for another 10 to 12 months,  
 
 277
 00:17:30,382 --> 00:17:33,251
-   producing about 12 gallons   
-        of milk per day.        
+producing about 12 gallons of milk per day.        
 
 278
 00:17:33,253 --> 00:17:38,523
-     this is the milk that's    
+this is the milk that's    
 collected for human consumption.
 
 279
 00:17:38,525 --> 00:17:41,592
- the barn floor is automatically
-    cleaned around the clock    
+the barn floor is automatically
+cleaned around the clock    
 
 280
 00:17:41,594 --> 00:17:44,462
-       to prevent the cows      
-  from walking in their manure, 
+to prevent the cows from walking in their manure, 
 
 281
 00:17:44,464 --> 00:17:47,665
-   which would spread disease   
-         and infection.         
+which would spread disease and infection.         
 
 282
 00:17:47,667 --> 00:17:49,800
-  animal welfare is at the core 
+animal welfare is at the core 
 
 283
 00:17:49,802 --> 00:17:52,269
-    of this state-of-the-art    
-           dairy farm.          
+of this state-of-the-art dairy farm.          
 
 284
 00:17:52,271 --> 00:17:55,205
-   a happy and stress-free cow  
-      produces better milk,     
+a happy and stress-free cow produces better milk,     
 
 285
 00:17:55,207 --> 00:17:59,944
-          so these cows         
-   aren't confined to stalls.   
+so these cows aren't confined to stalls.   
 
 286
 00:17:59,946 --> 00:18:03,213
-     they walk around freely    
-       inside or outside,       
+they walk around freely inside or outside,       
 
 287
 00:18:03,215 --> 00:18:05,816
-       eating and drinking      
-         as they please.        
+eating and drinking as they please.        
 
 288
 00:18:05,818 --> 00:18:09,087
- they scratch themselves against
-  this motion-triggered brush.  
+they scratch themselves against
+this motion-triggered brush.  
 
 289
 00:18:09,089 --> 00:18:11,689
-           it improves          
-     their blood circulation    
+it improves their blood circulation    
 
 290
 00:18:11,691 --> 00:18:13,958
-     and cleans their hides.    
+and cleans their hides.    
 
 291
 00:18:13,960 --> 00:18:16,894
-         each cow wears         
-     an identification tag.     
+each cow wears an identification tag.     
 
 292
 00:18:16,896 --> 00:18:18,896
-   it emits a low frequency --  
+it emits a low frequency --  
 
 293
 00:18:18,898 --> 00:18:21,299
@@ -1382,254 +1193,219 @@ a different one for each animal.
 
 294
 00:18:21,301 --> 00:18:24,235
-  this enables the computerized 
-         milking system         
+this enables the computerized milking system         
 
 295
 00:18:24,237 --> 00:18:27,171
-         to collect data        
-  on each cow's milking habits  
+to collect data on each cow's milking habits  
 
 296
 00:18:27,173 --> 00:18:30,108
-           and monitor          
-    the quality of her milk.    
+and monitor the quality of her milk.    
 
 297
 00:18:33,179 --> 00:18:35,980
-   no traditional twice-a-day   
-         milking here --        
+no traditional twice-a-day milking here --        
 
 298
 00:18:35,982 --> 00:18:39,383
- the cows decide when they feel 
-       like being milked.       
+the cows decide when they feel like being milked.       
 
 299
 00:18:39,385 --> 00:18:41,519
-     just like the pressure     
-         in our bladders        
+just like the pressure in our bladders        
 
 300
 00:18:41,521 --> 00:18:44,054
-     tells us when it's time    
-     to go to the bathroom,     
+tells us when it's time to go to the bathroom,     
 
 301
 00:18:44,056 --> 00:18:47,191
- when the cows find the pressure
- in their udders uncomfortable, 
+when the cows find the pressure
+in their udders uncomfortable, 
 
 302
 00:18:47,193 --> 00:18:51,328
-     they just mosey on down    
-      to the milking stall.     
+they just mosey on down to the milking stall.     
 
 303
 00:18:51,330 --> 00:18:53,998
-      the stall is designed     
-      not to force the cow      
+the stall is designed not to force the cow      
 
 304
 00:18:54,000 --> 00:18:57,268
-     into an uncomfortable      
-     or motionless position.    
+into an uncomfortable or motionless position.    
 
 305
 00:18:57,270 --> 00:18:59,136
-    it sets up in such a way    
+it sets up in such a way    
 
 306
 00:18:59,138 --> 00:19:02,073
-    that she's not separated    
-         from the herd.         
+that she's not separated from the herd.         
 
 307
 00:19:02,075 --> 00:19:07,344
-    scientific research shows   
- that separation induces stress.
+scientific research shows that separation induces stress.
 
 308
 00:19:07,346 --> 00:19:09,146
-         as it prepares         
-       to clean her udder       
+as it prepares to clean her udder       
 
 309
 00:19:09,148 --> 00:19:10,748
-  with disinfectant and water,  
+with disinfectant and water,  
 
 310
 00:19:10,750 --> 00:19:13,484
-   the robotic milking system   
-       reads the i.d. tag       
+the robotic milking system reads the i.d. tag       
 
 311
 00:19:13,486 --> 00:19:16,888
-    and records that this cow   
-         is number 328,         
+and records that this cow is number 328,         
 
 312
 00:19:16,890 --> 00:19:20,992
-     coming in for a milking    
-    at 4:41 in the afternoon.   
+coming in for a milking at 4:41 in the afternoon.   
 
 313
 00:19:24,564 --> 00:19:27,732
-     next, a laser pinpoints    
-       the exact location       
+next, a laser pinpoints the exact location       
 
 314
 00:19:27,734 --> 00:19:29,833
- and position of the four teats.
+and position of the four teats.
 
 315
 00:19:29,835 --> 00:19:32,703
-    it feeds that information   
-        to the computer,        
+it feeds that information to the computer,        
 
 316
 00:19:32,705 --> 00:19:34,638
-   which then guides the robot  
+which then guides the robot  
 
 317
 00:19:34,640 --> 00:19:38,276
-     to attach the teat cups    
-           one by one.          
+to attach the teat cups one by one.          
 
 318
 00:19:52,258 --> 00:19:54,592
-     once the robot detects     
-     the presence of milk,      
+once the robot detects the presence of milk,      
 
 319
 00:19:54,594 --> 00:19:56,526
-       extraction begins,       
+extraction begins,       
 
 320
 00:19:56,528 --> 00:19:59,596
-        each suction cup        
-  simulating the sucking action 
+each suction cup simulating the sucking action 
 
 321
 00:19:59,598 --> 00:20:01,499
-       of a nursing calf.       
+of a nursing calf.       
 
 322
 00:20:04,470 --> 00:20:07,204
-     a sophisticated machine    
-       analyzes the milk.       
+a sophisticated machine analyzes the milk.       
 
 323
 00:20:07,206 --> 00:20:09,073
- if the quality is not up to par
+if the quality is not up to par
 
 324
 00:20:09,075 --> 00:20:12,743
- or if the machine detects signs
-    the cow has an infection,   
+or if the machine detects signs
+the cow has an infection,   
 
 325
 00:20:12,745 --> 00:20:16,880
- milk with elevated temperature,
-   or minute traces of blood,   
+milk with elevated temperature,
+or minute traces of blood,   
 
 326
 00:20:16,882 --> 00:20:19,483
-    the system automatically    
-        rejects the batch       
+the system automatically rejects the batch       
 
 327
 00:20:19,485 --> 00:20:21,919
- and red-flags the problem cow. 
+and red-flags the problem cow. 
 
 328
 00:20:23,689 --> 00:20:27,291
-  as the udder-cleaning brushes 
-        get disinfected,        
+as the udder-cleaning brushes get disinfected,        
 
 329
 00:20:27,293 --> 00:20:30,694
-   the robot tracks the output  
-    of each teat separately.    
+the robot tracks the output of each teat separately.    
 
 330
 00:20:30,696 --> 00:20:35,166
 that way, no teat is undermilked
-         or overmilked,         
+or overmilked,         
 
 331
 00:20:35,168 --> 00:20:37,101
-         which can lead         
-       to health problems.      
+which can lead to health problems.      
 
 332
 00:20:37,103 --> 00:20:39,837
- once the suction cups come off,
+once the suction cups come off,
 
 333
 00:20:39,839 --> 00:20:42,173
- the robot disinfects each teat.
+the robot disinfects each teat.
 
 334
 00:20:44,510 --> 00:20:48,112
-    as bessie goes on her way   
-    feeling mighty relieved,    
+as bessie goes on her way feeling mighty relieved,    
 
 335
 00:20:48,114 --> 00:20:52,449
-      the robot disinfects      
- the teat cups for the next cow.
+the robot disinfects the teat cups for the next cow.
 
 336
 00:20:52,451 --> 00:20:55,586
- the milk that passes inspection
-       collects in a jar,       
+the milk that passes inspection
+collects in a jar,       
 
 337
 00:20:55,588 --> 00:20:59,857
 then gets transferred to a giant
-     refrigerated reservoir.    
+refrigerated reservoir.    
 
 338
 00:20:59,859 --> 00:21:03,126
-     they wash out that jar     
-          between cows.         
+they wash out that jar between cows.         
 
 339
 00:21:03,128 --> 00:21:04,928
-     to keep the milk fresh,    
+to keep the milk fresh,    
 
 340
 00:21:04,930 --> 00:21:08,065
-          they store it         
-   at 37 degrees fahrenheit --  
+they store it at 37 degrees fahrenheit --  
 
 341
 00:21:08,067 --> 00:21:10,468
-      about the temperature     
-      of your refrigerator.     
+about the temperature of your refrigerator.     
 
 342
 00:21:10,470 --> 00:21:13,470
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 343
 00:21:13,472 --> 00:21:16,474
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 344
 00:21:16,476 --> 00:21:18,542
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 345
 00:21:18,544 --> 00:21:21,144
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 346
 00:21:21,146 --> 00:21:22,713
-      drop us a line at...      
+drop us a line at...      
 

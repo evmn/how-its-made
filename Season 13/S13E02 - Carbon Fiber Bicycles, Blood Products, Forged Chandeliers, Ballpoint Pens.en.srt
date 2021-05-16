@@ -1,15 +1,14 @@
 ﻿1
 00:00:51,719 --> 00:00:53,920
-            narrator:           
- carbon fibers are minute hairs 
+narrator: carbon fibers are minute hairs 
 
 2
 00:00:53,922 --> 00:00:55,588
-     of almost pure carbon.     
+of almost pure carbon.     
 
 3
 00:00:55,590 --> 00:00:57,056
-        they may be tiny,       
+they may be tiny,       
 
 4
 00:00:57,058 --> 00:00:58,590
@@ -17,38 +16,33 @@ but they're three times stronger
 
 5
 00:00:58,592 --> 00:01:00,726
-     and four times lighter     
-           than steel.          
+and four times lighter than steel.          
 
 6
 00:01:00,728 --> 00:01:04,196
-    weaving them together and   
+weaving them together and   
 bonding them with plastic resin,
 
 7
 00:01:04,198 --> 00:01:06,932
-   then molding this material   
-        into a bike frame       
+then molding this material into a bike frame       
 
 8
 00:01:06,934 --> 00:01:10,236
-     creates one lean, mean     
-        peddling machine.       
+creates one lean, mean peddling machine.       
 
 9
 00:01:13,540 --> 00:01:17,409
- this company builds custom-made
-      carbon fiber bicycles     
+this company builds custom-made
+carbon fiber bicycles     
 
 10
 00:01:17,411 --> 00:01:20,546
-    for professional athletes   
-      and serious amateurs.     
+for professional athletes and serious amateurs.     
 
 11
 00:01:20,548 --> 00:01:23,949
-    the first step is to take   
-    detailed measurements --    
+the first step is to take detailed measurements --    
 
 12
 00:01:23,951 --> 00:01:26,051
@@ -56,123 +50,103 @@ height, weight, and limb length,
 
 13
 00:01:26,053 --> 00:01:29,021
-    as well as shoulder width   
-     for handlebar spacing,     
+as well as shoulder width for handlebar spacing,     
 
 14
 00:01:29,023 --> 00:01:30,889
- inseam for the seat placement, 
+inseam for the seat placement, 
 
 15
 00:01:30,891 --> 00:01:33,425
-       and even shoe size       
- for the positioning the pedals,
+and even shoe size for the positioning the pedals,
 
 16
 00:01:33,427 --> 00:01:35,761
-  relative to the front wheel.  
+relative to the front wheel.  
 
 17
 00:01:37,365 --> 00:01:40,132
-        computer software       
-      translates these data     
+computer software translates these data     
 
 18
 00:01:40,134 --> 00:01:44,036
-    into a geometric diagram    
-   of a customized bike frame.  
+into a geometric diagram of a customized bike frame.  
 
 19
 00:01:44,038 --> 00:01:46,772
-  a cutting machine slices out  
-       carbon fiber shapes      
+a cutting machine slices out carbon fiber shapes      
 
 20
 00:01:46,774 --> 00:01:49,108
-        that will become        
-      the frame components.     
+that will become the frame components.     
 
 21
 00:01:53,114 --> 00:01:55,714
-        the bicycle frame       
-    is made up of nine parts.   
+the bicycle frame is made up of nine parts.   
 
 22
 00:01:55,716 --> 00:01:58,183
-       they make each one       
-      with an aluminum mold     
+they make each one with an aluminum mold     
 
 23
 00:01:58,185 --> 00:02:00,453
-       and a latex balloon      
-        called a bladder.       
+and a latex balloon called a bladder.       
 
 24
 00:02:06,194 --> 00:02:09,528
-      they wrap the bladder     
-  with a layer of carbon fiber. 
+they wrap the bladder with a layer of carbon fiber. 
 
 25
 00:02:09,530 --> 00:02:12,865
-   the fibers in the material   
-   all run in one direction.    
+the fibers in the material all run in one direction.    
 
 26
 00:02:12,867 --> 00:02:15,600
-       so to add strength,      
-    they apply several layers   
+so to add strength, they apply several layers   
 
 27
 00:02:15,602 --> 00:02:17,770
-          in a specific         
-       crisscross pattern.      
+in a specific crisscross pattern.      
 
 28
 00:02:19,407 --> 00:02:22,341
-  after coating the mold cavity 
-      with a release agent      
+after coating the mold cavity with a release agent      
 
 29
 00:02:22,343 --> 00:02:23,542
-      to prevent sticking,      
+to prevent sticking,      
 
 30
 00:02:23,544 --> 00:02:25,745
-           they place           
-   the wrapped bladder inside,  
+they place the wrapped bladder inside,  
 
 31
 00:02:25,747 --> 00:02:28,280
- then install an inflation cap. 
+then install an inflation cap. 
 
 32
 00:02:33,220 --> 00:02:36,022
-       they place the mold      
-  in a specialized heat press,  
+they place the mold in a specialized heat press,  
 
 33
 00:02:36,024 --> 00:02:39,024
-    hook up pressurized gas,    
+hook up pressurized gas,    
 
 34
 00:02:39,026 --> 00:02:41,227
-    then insert a temperature   
-      and pressure monitor.     
+then insert a temperature and pressure monitor.     
 
 35
 00:02:41,229 --> 00:02:44,497
-      the inflated bladder      
-     forces the carbon fiber    
+the inflated bladder forces the carbon fiber    
 
 36
 00:02:44,499 --> 00:02:47,166
-        to take the shape       
-       of the mold cavity.      
+to take the shape of the mold cavity.      
 
 37
 00:02:49,704 --> 00:02:53,506
-     after about 20 minutes,    
-  they extract the molded part, 
+after about 20 minutes, they extract the molded part, 
 
 38
 00:02:53,508 --> 00:02:55,907
@@ -180,21 +154,19 @@ then begin the refining process.
 
 39
 00:02:55,909 --> 00:02:57,976
-      first, they sand off      
+first, they sand off      
 
 40
 00:02:57,978 --> 00:03:00,513
-   any release-agent residue.   
+any release-agent residue.   
 
 41
 00:03:00,515 --> 00:03:03,849
-   then they machine the part   
-     to exact specifications    
+then they machine the part to exact specifications    
 
 42
 00:03:03,851 --> 00:03:06,986
-       for a precision fit      
-   with its connecting parts.   
+for a precision fit with its connecting parts.   
 
 43
 00:03:06,988 --> 00:03:09,188
@@ -202,69 +174,61 @@ following the geometric diagram,
 
 44
 00:03:09,190 --> 00:03:12,224
- they assemble the bicycle frame
-         like a puzzle.         
+they assemble the bicycle frame
+like a puzzle.         
 
 45
 00:03:31,212 --> 00:03:34,346
-  once they're sure everything  
-     fits together properly,    
+once they're sure everything fits together properly,    
 
 46
 00:03:34,348 --> 00:03:36,148
-  they disassemble the pieces,  
+they disassemble the pieces,  
 
 47
 00:03:36,150 --> 00:03:37,883
-    then coat the connectors    
+then coat the connectors    
 
 48
 00:03:37,885 --> 00:03:40,386
-        with superstrong        
-       aerospace adhesive.      
+with superstrong aerospace adhesive.      
 
 49
 00:03:51,766 --> 00:03:53,365
-   they reassemble the parts,   
+they reassemble the parts,   
 
 50
 00:03:53,367 --> 00:03:56,435
-  then cure the glue in an oven 
-     for about a half-hour.     
+then cure the glue in an oven for about a half-hour.     
 
 51
 00:04:00,107 --> 00:04:04,276
-   the bicycle frame now goes   
-   onto an inspection table.    
+the bicycle frame now goes onto an inspection table.    
 
 52
 00:04:07,048 --> 00:04:09,915
-          a technician          
+a technician          
 uses digital measuring equipment
 
 53
 00:04:09,917 --> 00:04:12,184
-     to ensure the alignment    
-           is perfect.          
+to ensure the alignment is perfect.          
 
 54
 00:04:16,724 --> 00:04:19,191
-          the next step         
-    is to install test wheels   
+the next step is to install test wheels   
 
 55
 00:04:19,193 --> 00:04:21,927
-   and check that they rotate   
-       perfectly straight.      
+and check that they rotate perfectly straight.      
 
 56
 00:04:24,465 --> 00:04:25,597
-       back to the frame.       
+back to the frame.       
 
 57
 00:04:25,599 --> 00:04:27,999
-   they remove any excess glue  
-         that oozed out         
+they remove any excess glue that oozed out         
 
 58
 00:04:28,001 --> 00:04:29,802
@@ -272,800 +236,695 @@ when they slid the part together
 
 59
 00:04:29,804 --> 00:04:32,071
-       and give the frame       
-       an overall sanding.      
+and give the frame an overall sanding.      
 
 60
 00:04:32,073 --> 00:04:36,175
-  the surface must be perfectly 
+the surface must be perfectly 
 smooth before they can paint it.
 
 61
 00:04:39,480 --> 00:04:42,481
 they do all the painting by hand
-        with spray guns.        
+with spray guns.        
 
 62
 00:04:42,483 --> 00:04:46,017
-   first, they coat the frame   
-     in a primer and sealer.    
+first, they coat the frame in a primer and sealer.    
 
 63
 00:04:46,019 --> 00:04:48,754
-     then they use a series     
-      of adhesive stencils      
+then they use a series of adhesive stencils      
 
 64
 00:04:48,756 --> 00:04:51,323
-    to apply the paint colors   
-         one at a time.         
+to apply the paint colors one at a time.         
 
 65
 00:04:55,762 --> 00:04:59,064
-      they spray on a coat      
-  of clear automotive lacquer.  
+they spray on a coat of clear automotive lacquer.  
 
 66
 00:04:59,066 --> 00:05:02,601
-     this protects the paint    
+this protects the paint    
 against u.v. light and chipping.
 
 67
 00:05:06,840 --> 00:05:09,107
-      next, using this tap,     
+next, using this tap,     
 
 68
 00:05:09,109 --> 00:05:11,510
-        they remove paint       
-  that dried inside the threads 
+they remove paint that dried inside the threads 
 
 69
 00:05:11,512 --> 00:05:12,911
-   and the base of the frame,   
+and the base of the frame,   
 
 70
 00:05:12,913 --> 00:05:15,414
-    where the gear mechanisms   
-            screw on.           
+where the gear mechanisms screw on.           
 
 71
 00:05:18,653 --> 00:05:21,386
-   they repeat this procedure   
-   at the head of the frame,    
+they repeat this procedure at the head of the frame,    
 
 72
 00:05:21,388 --> 00:05:23,522
-  where the handlebars attach.  
+where the handlebars attach.  
 
 73
 00:05:25,059 --> 00:05:26,258
-     now it's just a matter     
+now it's just a matter     
 
 74
 00:05:26,260 --> 00:05:28,326
-          of installing         
-     the specific components    
+of installing the specific components    
 
 75
 00:05:28,328 --> 00:05:30,062
-   that the customer ordered.   
+that the customer ordered.   
 
 76
 00:05:30,064 --> 00:05:33,599
- the carbon fiber frame delivers
- maximum strength and stiffness 
+the carbon fiber frame delivers
+maximum strength and stiffness 
 
 77
 00:05:33,601 --> 00:05:35,000
-      with minimal weight.      
+with minimal weight.      
 
 78
 00:05:35,002 --> 00:05:39,038
-  it's the key to the bicycle's 
-      high-end performance.     
+it's the key to the bicycle's high-end performance.     
 
 79
 00:05:55,222 --> 00:05:58,157
-  narrator: the average person  
-    has 5 1/3 quarts of blood   
+narrator: the average person has 5 1/3 quarts of blood   
 
 80
 00:05:58,159 --> 00:06:00,159
-  running through their veins.  
+running through their veins.  
 
 81
 00:06:00,161 --> 00:06:03,629
-  out of this blood come three  
- products that can save lives --
+out of this blood come three products that can save lives --
 
 82
 00:06:03,631 --> 00:06:06,298
-         red blood cells        
-       that carry oxygen,       
+red blood cells that carry oxygen,       
 
 83
 00:06:06,300 --> 00:06:08,634
-            platelets           
-    that help stop bleeding,    
+platelets that help stop bleeding,    
 
 84
 00:06:08,636 --> 00:06:11,036
-           and plasma,          
-      a protein-rich liquid     
+and plasma, a protein-rich liquid     
 
 85
 00:06:11,038 --> 00:06:13,439
- that helps us fight infection. 
+that helps us fight infection. 
 
 86
 00:06:18,312 --> 00:06:22,113
- hospitals need all blood types 
-    to help them save lives.    
+hospitals need all blood types to help them save lives.    
 
 87
 00:06:22,115 --> 00:06:25,618
-    one day, your life could    
-    depend on donated blood.    
+one day, your life could depend on donated blood.    
 
 88
 00:06:28,455 --> 00:06:29,788
-         in this setup,         
+in this setup,         
 
 89
 00:06:29,790 --> 00:06:32,858
-      an automated machine      
-   collects the donor's blood   
+an automated machine collects the donor's blood   
 
 90
 00:06:32,860 --> 00:06:34,125
-        and separates it        
+and separates it        
 
 91
 00:06:34,127 --> 00:06:36,295
 according to which blood product
-           they need.           
+they need.           
 
 92
 00:06:37,999 --> 00:06:41,467
-  the collection machine draws  
- whole blood from a donor's arm 
+the collection machine draws whole blood from a donor's arm 
 
 93
 00:06:41,469 --> 00:06:44,470
-        and separates out       
- the mixed plasma and platelets,
+and separates out the mixed plasma and platelets,
 
 94
 00:06:44,472 --> 00:06:46,405
-  which is the color of straw.  
+which is the color of straw.  
 
 95
 00:06:50,745 --> 00:06:52,077
-         in every setup,        
+in every setup,        
 
 96
 00:06:52,079 --> 00:06:55,013
-     some blood is diverted     
-    into a pouch for testing.   
+some blood is diverted into a pouch for testing.   
 
 97
 00:06:55,015 --> 00:06:57,015
-         in this method,        
- they're collecting whole blood 
+in this method, they're collecting whole blood 
 
 98
 00:06:57,017 --> 00:07:00,486
-     that will be separated     
-           at the lab.          
+that will be separated at the lab.          
 
 99
 00:07:00,488 --> 00:07:03,021
-    a worker then draws blood   
-         from the pouch         
+a worker then draws blood from the pouch         
 
 100
 00:07:03,023 --> 00:07:04,490
-     for testing at the lab.    
+for testing at the lab.    
 
 101
 00:07:07,894 --> 00:07:10,762
-     meanwhile, the machine     
-     mixes the whole blood      
+meanwhile, the machine mixes the whole blood      
 
 102
 00:07:10,764 --> 00:07:14,400
-      with an anticoagulant     
-  so it won't clot in the bag.  
+with an anticoagulant so it won't clot in the bag.  
 
 103
 00:07:20,107 --> 00:07:23,375
-    the donors' blood samples   
-       then go to the lab,      
+the donors' blood samples then go to the lab,      
 
 104
 00:07:23,377 --> 00:07:25,044
-      where they determine      
-         the blood type         
+where they determine the blood type         
 
 105
 00:07:25,046 --> 00:07:27,346
-            and test            
-    for infectious diseases.    
+and test for infectious diseases.    
 
 106
 00:07:28,782 --> 00:07:32,117
- this high-volume, high-quality 
-      blood-testing machine     
+this high-volume, high-quality blood-testing machine     
 
 107
 00:07:32,119 --> 00:07:34,520
-            is unique           
-   to the blood-banking world.  
+is unique to the blood-banking world.  
 
 108
 00:07:34,522 --> 00:07:38,323
 fully automated, it helps ensure
- the safety of the blood supply 
+the safety of the blood supply 
 
 109
 00:07:38,325 --> 00:07:39,725
-    by testing donor samples    
+by testing donor samples    
 
 110
 00:07:39,727 --> 00:07:43,629
- for things like hepatitis b, c,
-           and h.i.v.           
+for things like hepatitis b, c,
+and h.i.v.           
 
 111
 00:07:45,532 --> 00:07:48,534
-     in eight hours, it runs    
-   five different blood tests   
+in eight hours, it runs five different blood tests   
 
 112
 00:07:48,536 --> 00:07:52,404
-       on 1,000 donations       
-   without human intervention.  
+on 1,000 donations without human intervention.  
 
 113
 00:08:01,148 --> 00:08:03,615
-  between each of these tests,  
+between each of these tests,  
 
 114
 00:08:03,617 --> 00:08:06,952
 it sterilizes every single probe
-       in a wash solution.      
+in a wash solution.      
 
 115
 00:08:08,488 --> 00:08:11,023
-         another machine        
-   determines the blood type,   
+another machine determines the blood type,   
 
 116
 00:08:11,025 --> 00:08:12,291
-    of which there are eight.   
+of which there are eight.   
 
 117
 00:08:17,765 --> 00:08:20,298
-            they scan           
-   the donor's collection bag   
+they scan the donor's collection bag   
 
 118
 00:08:20,300 --> 00:08:23,369
- and document what products they
-  will produce from the blood.  
+and document what products they
+will produce from the blood.  
 
 119
 00:08:24,972 --> 00:08:26,605
-       then they weigh it.      
+then they weigh it.      
 
 120
 00:08:29,309 --> 00:08:31,777
-           overnight,           
-    gravity causes the blood    
+overnight, gravity causes the blood    
 
 121
 00:08:31,779 --> 00:08:34,312
-           to separate          
-   into its three components,   
+to separate into its three components,   
 
 122
 00:08:34,314 --> 00:08:36,247
-    so a worker re-mixes it,    
+so a worker re-mixes it,    
 
 123
 00:08:36,249 --> 00:08:39,318
-          preparing it          
-     for machine separation.    
+preparing it for machine separation.    
 
 124
 00:08:45,125 --> 00:08:47,526
-    she then packs the blood    
-           in the bags          
+she then packs the blood in the bags          
 
 125
 00:08:47,528 --> 00:08:50,795
-    for the other components    
-   into what's called a liner.  
+for the other components into what's called a liner.  
 
 126
 00:08:50,797 --> 00:08:53,198
-    she makes sure the liners   
-          are balanced          
+she makes sure the liners are balanced          
 
 127
 00:08:53,200 --> 00:08:56,601
-  and will put a rubber weight  
-    inside when she needs to.   
+and will put a rubber weight inside when she needs to.   
 
 128
 00:08:56,603 --> 00:08:59,737
-      balancing the liners      
-  keeps the centrifuge machine  
+balancing the liners keeps the centrifuge machine  
 
 129
 00:08:59,739 --> 00:09:02,808
- spinning properly at 4,000 rpm,
+spinning properly at 4,000 rpm,
 
 130
 00:09:02,810 --> 00:09:05,978
-    as it separates the blood   
-          into layers.          
+as it separates the blood into layers.          
 
 131
 00:09:15,022 --> 00:09:18,022
-   she then hooks up the unit   
-       of separated blood       
+she then hooks up the unit of separated blood       
 
 132
 00:09:18,024 --> 00:09:19,891
-    to an automated extractor   
+to an automated extractor   
 
 133
 00:09:19,893 --> 00:09:23,128
-        and, once again,        
+and, once again,        
 matches the unit with the donor.
 
 134
 00:09:29,170 --> 00:09:32,570
-   the extractor fills a bag    
-   with just red blood cells.   
+the extractor fills a bag with just red blood cells.   
 
 135
 00:09:32,572 --> 00:09:34,373
-  as the machine fills the bag, 
+as the machine fills the bag, 
 
 136
 00:09:34,375 --> 00:09:36,975
-   it leaves behind a mixture   
-     of blood and platelets     
+it leaves behind a mixture of blood and platelets     
 
 137
 00:09:36,977 --> 00:09:38,844
-   in the original container.   
+in the original container.   
 
 138
 00:09:43,918 --> 00:09:46,251
-         as it extracts         
-      these red blood cells     
+as it extracts these red blood cells     
 
 139
 00:09:46,253 --> 00:09:49,121
-   and leaves behind a portion  
-     of blood and platelets,    
+and leaves behind a portion of blood and platelets,    
 
 140
 00:09:49,123 --> 00:09:52,758
- it also fills another container
-        with pure plasma.       
+it also fills another container
+with pure plasma.       
 
 141
 00:09:56,063 --> 00:09:59,464
 an incubator keeps the processed
-      platelets well-mixed.     
+platelets well-mixed.     
 
 142
 00:09:59,466 --> 00:10:02,868
-    they only have five days    
-    to use these platelets.     
+they only have five days to use these platelets.     
 
 143
 00:10:08,942 --> 00:10:11,276
-   however, they freeze plasma  
+however, they freeze plasma  
 
 144
 00:10:11,278 --> 00:10:13,678
-  and can use it for 12 months. 
+and can use it for 12 months. 
 
 145
 00:10:13,680 --> 00:10:15,947
-    finally, they filter out    
+finally, they filter out    
 
 146
 00:10:15,949 --> 00:10:18,283
-      the white blood cells     
-    from the red blood cells,   
+the white blood cells from the red blood cells,   
 
 147
 00:10:18,285 --> 00:10:20,752
-       using what's called      
-    a leukoreduction filter.    
+using what's called a leukoreduction filter.    
 
 148
 00:10:25,492 --> 00:10:27,759
-      they also introduce       
-      an additive solution      
+they also introduce an additive solution      
 
 149
 00:10:27,761 --> 00:10:29,094
-    into the red blood cells    
+into the red blood cells    
 
 150
 00:10:29,096 --> 00:10:31,630
-    and mix it all together.    
+and mix it all together.    
 
 151
 00:10:31,632 --> 00:10:35,634
-   the additive helps the red   
+the additive helps the red   
 blood cells survive for 42 days,
 
 152
 00:10:35,636 --> 00:10:37,235
-      both inside a fridge      
+both inside a fridge      
 
 153
 00:10:37,237 --> 00:10:41,240
-    and during transportation   
-        to the hospitals.       
+and during transportation to the hospitals.       
 
 154
 00:10:58,192 --> 00:11:00,592
-            narrator:           
-  today most forged chandeliers 
+narrator: today most forged chandeliers 
 
 155
 00:11:00,594 --> 00:11:02,093
-   are wired for electricity.   
+are wired for electricity.   
 
 156
 00:11:02,095 --> 00:11:04,929
-   we've replaced the candles   
-      used in earlier times     
+we've replaced the candles used in earlier times     
 
 157
 00:11:04,931 --> 00:11:07,299
-      with decorative bulbs     
-         and lampshades.        
+with decorative bulbs and lampshades.        
 
 158
 00:11:07,301 --> 00:11:08,733
-     but a forged chandelier    
+but a forged chandelier    
 
 159
 00:11:08,735 --> 00:11:11,870
-   still relies on traditional  
-    blacksmithing techniques    
+still relies on traditional blacksmithing techniques    
 
 160
 00:11:11,872 --> 00:11:14,206
-      and the hand assembly     
-          of components         
+and the hand assembly of components         
 
 161
 00:11:14,208 --> 00:11:16,742
-         used in modern         
-       lighting fixtures.       
+used in modern lighting fixtures.       
 
 162
 00:11:23,017 --> 00:11:25,617
-            to build            
-   this two-tiered chandelier,  
+to build this two-tiered chandelier,  
 
 163
 00:11:25,619 --> 00:11:29,054
-  the artisan begins by making  
-     the twist-basket shape.    
+the artisan begins by making the twist-basket shape.    
 
 164
 00:11:35,295 --> 00:11:37,162
-         first, he cuts         
-      lengths of steel bar      
+first, he cuts lengths of steel bar      
 
 165
 00:11:37,164 --> 00:11:39,364
-   with this shearing machine.  
+with this shearing machine.  
 
 166
 00:11:41,034 --> 00:11:43,969
-  he arranges six of those bars 
-          in a bundle,          
+he arranges six of those bars in a bundle,          
 
 167
 00:11:43,971 --> 00:11:46,905
-      held firmly together      
-    by this welding fixture.    
+held firmly together by this welding fixture.    
 
 168
 00:11:51,712 --> 00:11:54,780
-   he welds the bars together,  
-  leaving a hole in the center, 
+he welds the bars together, leaving a hole in the center, 
 
 169
 00:11:54,782 --> 00:11:56,682
-     through which the wires    
-           will pass.           
+through which the wires will pass.           
 
 170
 00:11:59,787 --> 00:12:02,387
-    a worker puts the bundle    
-          into a forge          
+a worker puts the bundle into a forge          
 
 171
 00:12:02,389 --> 00:12:06,458
- that softens the steel at more 
- than 1,800 degrees fahrenheit. 
+that softens the steel at more than 1,800 degrees fahrenheit. 
 
 172
 00:12:09,330 --> 00:12:13,198
-  she then mounts the softened  
-  bundle in a twisting machine, 
+she then mounts the softened bundle in a twisting machine, 
 
 173
 00:12:13,200 --> 00:12:15,734
-  securing it tightly in place. 
+securing it tightly in place. 
 
 174
 00:12:21,942 --> 00:12:26,210
-      she turns the wheel,      
-  spiraling the bars together.  
+she turns the wheel, spiraling the bars together.  
 
 175
 00:12:26,212 --> 00:12:28,013
-  she then reverses the wheel,  
+she then reverses the wheel,  
 
 176
 00:12:28,015 --> 00:12:30,682
 causing the center of the bundle
-           to pop out,          
+to pop out,          
 
 177
 00:12:30,684 --> 00:12:32,784
-            creating            
-    the twist-basket design.    
+creating the twist-basket design.    
 
 178
 00:12:36,824 --> 00:12:39,124
-    she makes sure the shape    
-         is symmetrical.        
+she makes sure the shape is symmetrical.        
 
 179
 00:12:42,429 --> 00:12:45,564
-  then she verifies its length  
-           in a gauge.          
+then she verifies its length in a gauge.          
 
 180
 00:12:45,566 --> 00:12:49,901
-   next, they clean the basket  
-      with tiny steel beads     
+next, they clean the basket with tiny steel beads     
 
 181
 00:12:49,903 --> 00:12:51,837
-          in a process          
-      called bead blasting.     
+in a process called bead blasting.     
 
 182
 00:12:57,043 --> 00:12:58,643
-         here, they make        
-        the j-shaped arms       
+here, they make the j-shaped arms       
 
 183
 00:12:58,645 --> 00:13:00,512
-     used for the upper tier    
-        of the chandelier       
+used for the upper tier of the chandelier       
 
 184
 00:13:00,514 --> 00:13:01,913
-       from metal tubing,       
+from metal tubing,       
 
 185
 00:13:01,915 --> 00:13:05,017
-    which they shape in this    
-    rotary bending machine.     
+which they shape in this rotary bending machine.     
 
 186
 00:13:11,191 --> 00:13:14,860
-     with the same machine,     
+with the same machine,     
 they also make the s-shaped arms
 
 187
 00:13:14,862 --> 00:13:17,662
-     used for the lower tier    
-       of the chandelier.       
+used for the lower tier of the chandelier.       
 
 188
 00:13:17,664 --> 00:13:19,798
-    all the arms are hollow,    
+all the arms are hollow,    
 
 189
 00:13:19,800 --> 00:13:22,800
-     which will allow wires     
-     to pass through them.      
+which will allow wires to pass through them.      
 
 190
 00:13:22,802 --> 00:13:27,205
-   a vibrating ceramic medium   
+a vibrating ceramic medium   
 then polishes all the components
 
 191
 00:13:27,207 --> 00:13:29,340
-   that make up the chandelier  
+that make up the chandelier  
 
 192
 00:13:29,342 --> 00:13:31,510
-  to give them a smooth finish. 
+to give them a smooth finish. 
 
 193
 00:13:32,946 --> 00:13:34,679
-    using a mounting fixture,   
+using a mounting fixture,   
 
 194
 00:13:34,681 --> 00:13:37,282
-         a worker places        
-     the polished upper arms    
+a worker places the polished upper arms    
 
 195
 00:13:37,284 --> 00:13:39,151
- in what's called a distributor.
+in what's called a distributor.
 
 196
 00:13:42,423 --> 00:13:44,956
-        he welds the arms       
-       to the distributor,      
+he welds the arms to the distributor,      
 
 197
 00:13:44,958 --> 00:13:46,491
-    which both supports them    
+which both supports them    
 
 198
 00:13:46,493 --> 00:13:48,760
-         and gives them         
-      the proper alignment.     
+and gives them the proper alignment.     
 
 199
 00:13:53,367 --> 00:13:56,268
-     he welds the lower arms    
-     to another distributor.    
+he welds the lower arms to another distributor.    
 
 200
 00:14:03,310 --> 00:14:05,444
-   next, he welds metal tubing  
+next, he welds metal tubing  
 
 201
 00:14:05,446 --> 00:14:08,180
-          onto each end         
-      of the twist basket.      
+onto each end of the twist basket.      
 
 202
 00:14:08,182 --> 00:14:10,182
-  this tubing makes it possible 
+this tubing makes it possible 
 
 203
 00:14:10,184 --> 00:14:13,218
-           to connect           
- all the decorative components. 
+to connect all the decorative components. 
 
 204
 00:14:17,458 --> 00:14:20,325
-     a worker then attaches     
-  those decorative components,  
+a worker then attaches those decorative components,  
 
 205
 00:14:20,327 --> 00:14:23,061
-     which includes a loop      
-     to hang the chandelier     
+which includes a loop to hang the chandelier     
 
 206
 00:14:23,063 --> 00:14:26,531
-  and an end cap that attaches  
-       to the distributor.      
+and an end cap that attaches to the distributor.      
 
 207
 00:14:28,001 --> 00:14:30,402
-  she completes what is called  
-         the center core        
+she completes what is called the center core        
 
 208
 00:14:30,404 --> 00:14:32,337
-    by tightening everything    
-            in place.           
+by tightening everything in place.           
 
 209
 00:14:35,542 --> 00:14:39,143
-         then they spray        
-  the upper and the lower arms, 
+then they spray the upper and the lower arms, 
 
 210
 00:14:39,145 --> 00:14:41,746
-  as well as the center cores,  
-      with powder coating,      
+as well as the center cores, with powder coating,      
 
 211
 00:14:41,748 --> 00:14:43,014
-     a finely ground plastic    
+a finely ground plastic    
 
 212
 00:14:43,016 --> 00:14:45,684
-      about the consistency     
-        of talcum powder.       
+about the consistency of talcum powder.       
 
 213
 00:14:49,490 --> 00:14:52,290
-    the center cores and arms   
-      then go into an oven,     
+the center cores and arms then go into an oven,     
 
 214
 00:14:52,292 --> 00:14:54,759
-   where heat cures and bonds   
-       the powder coating,      
+where heat cures and bonds the powder coating,      
 
 215
 00:14:54,761 --> 00:14:57,562
- giving the parts a hard finish.
+giving the parts a hard finish.
 
 216
 00:15:00,967 --> 00:15:03,835
-     a worker then connects     
-    the upper and lower tiers   
+a worker then connects the upper and lower tiers   
 
 217
 00:15:03,837 --> 00:15:06,171
-           by fitting           
-   the distributors together.   
+by fitting the distributors together.   
 
 218
 00:15:06,173 --> 00:15:08,373
-           this hides           
-     the wiring connections.    
+this hides the wiring connections.    
 
 219
 00:15:12,513 --> 00:15:15,647
-   he secures the center core   
-       to the distributors      
+he secures the center core to the distributors      
 
 220
 00:15:15,649 --> 00:15:17,649
- using a decorative finial ball.
+using a decorative finial ball.
 
 221
 00:15:20,053 --> 00:15:22,053
- he then puts candle sleeves on 
+he then puts candle sleeves on 
 
 222
 00:15:22,055 --> 00:15:24,823
- to hide the light-bulb sockets 
-           and wires.           
+to hide the light-bulb sockets and wires.           
 
 223
 00:15:28,796 --> 00:15:31,062
-   the twist-basket chandelier  
+the twist-basket chandelier  
 
 224
 00:15:31,064 --> 00:15:33,531
-          is now ready          
-      to brighten your day.     
+is now ready to brighten your day.     
 
 225
 00:15:33,533 --> 00:15:37,269
-     forged chandeliers help    
-  establish the mood of a room. 
+forged chandeliers help establish the mood of a room. 
 
 226
 00:15:37,271 --> 00:15:41,072
-  they come in various styles,  
-  from classic to ultramodern,  
+they come in various styles, from classic to ultramodern,  
 
 227
 00:15:41,074 --> 00:15:42,874
-  and their designs are limited 
+and their designs are limited 
 
 228
 00:15:42,876 --> 00:15:45,710
@@ -1073,97 +932,83 @@ only by an artist's imagination.
 
 229
 00:16:02,028 --> 00:16:03,962
-            narrator:           
-  in a world where inexpensive, 
+narrator: in a world where inexpensive, 
 
 230
 00:16:03,964 --> 00:16:06,298
-    disposable ballpoint pens   
-          are the norm,         
+disposable ballpoint pens are the norm,         
 
 231
 00:16:06,300 --> 00:16:08,633
-         there are still        
-      discriminating people     
+there are still discriminating people     
 
 232
 00:16:08,635 --> 00:16:11,303
-        who prefer using        
-  a deluxe writing instrument.  
+who prefer using a deluxe writing instrument.  
 
 233
 00:16:11,305 --> 00:16:14,105
-      a fancy, high-quality     
-          ballpoint pen         
+a fancy, high-quality ballpoint pen         
 
 234
 00:16:14,107 --> 00:16:16,308
-          is as stylish         
-      as it is functional.      
+is as stylish as it is functional.      
 
 235
 00:16:16,310 --> 00:16:18,910
-        it's often paired       
-     with a matching pencil     
+it's often paired with a matching pencil     
 
 236
 00:16:18,912 --> 00:16:20,712
-     in an elegant gift set.    
+in an elegant gift set.    
 
 237
 00:16:23,984 --> 00:16:26,852
-         silver plated,         
-       alligator leather,       
+silver plated, alligator leather,       
 
 238
 00:16:26,854 --> 00:16:30,054
-           chain mail,          
-   rose gold with crystals --   
+chain mail, rose gold with crystals --   
 
 239
 00:16:30,056 --> 00:16:32,791
- pen casing designs are endless.
+pen casing designs are endless.
 
 240
 00:16:34,327 --> 00:16:36,728
-     this model is decorated    
-          with lacquer          
+this model is decorated with lacquer          
 
 241
 00:16:36,730 --> 00:16:38,930
-      made from the resin       
-      of a particular tree      
+made from the resin of a particular tree      
 
 242
 00:16:38,932 --> 00:16:40,565
-    that grows only in china.   
+that grows only in china.   
 
 243
 00:16:43,603 --> 00:16:45,937
-          they apply it         
-      using a special brush     
+they apply it using a special brush     
 
 244
 00:16:45,939 --> 00:16:47,405
-       made of human hair.      
+made of human hair.      
 
 245
 00:16:53,480 --> 00:16:56,481
-   coating the recessed areas   
-      of a brass pen casing     
+coating the recessed areas of a brass pen casing     
 
 246
 00:16:56,483 --> 00:16:59,016
-       creates the effect       
-        of black stripes        
+creates the effect of black stripes        
 
 247
 00:16:59,018 --> 00:17:00,919
- running the length of the pen. 
+running the length of the pen. 
 
 248
 00:17:08,495 --> 00:17:10,896
-      once the resin dries,     
+once the resin dries,     
 
 249
 00:17:10,898 --> 00:17:13,431
@@ -1171,45 +1016,39 @@ they wash the pen several times.
 
 250
 00:17:13,433 --> 00:17:16,568
-    then, with a cotton wheel   
-  and some polishing compound,  
+then, with a cotton wheel and some polishing compound,  
 
 251
 00:17:16,570 --> 00:17:19,337
-     they buff the lacquer      
-     to a high-gloss shine.     
+they buff the lacquer to a high-gloss shine.     
 
 252
 00:17:29,783 --> 00:17:32,651
-      here's another model      
-     with an etched design.     
+here's another model with an etched design.     
 
 253
 00:17:32,653 --> 00:17:34,185
-    a computer-guided machine   
+a computer-guided machine   
 
 254
 00:17:34,187 --> 00:17:36,388
-       engraves the fine,       
-       intricate pattern        
+engraves the fine, intricate pattern        
 
 255
 00:17:36,390 --> 00:17:37,789
-     with a diamond chisel.     
+with a diamond chisel.     
 
 256
 00:17:37,791 --> 00:17:39,323
-      the casing is brass,      
+the casing is brass,      
 
 257
 00:17:39,325 --> 00:17:41,726
-      but they'll plate it      
-      in a precious metal       
+but they'll plate it in a precious metal       
 
 258
 00:17:41,728 --> 00:17:44,062
-     such as gold, platinum,    
-           or rhodium.          
+such as gold, platinum, or rhodium.          
 
 259
 00:17:51,605 --> 00:17:54,005
@@ -1217,120 +1056,103 @@ every pen, regardless of design,
 
 260
 00:17:54,007 --> 00:17:56,074
- has a brass or sheet-steel clip
+has a brass or sheet-steel clip
 
 261
 00:17:56,076 --> 00:17:58,577
-        that coordinates        
-    with the rest of the pen.   
+that coordinates with the rest of the pen.   
 
 262
 00:18:00,947 --> 00:18:03,415
-     they position the clip     
-           on a press,          
+they position the clip on a press,          
 
 263
 00:18:03,417 --> 00:18:05,349
-         and it applies         
-      just enough pressure      
+and it applies just enough pressure      
 
 264
 00:18:05,351 --> 00:18:07,919
-        to push tiny pegs       
-     into holes in the cap.     
+to push tiny pegs into holes in the cap.     
 
 265
 00:18:12,759 --> 00:18:17,428
-  the factory tests every clip  
-     for tension resistance.    
+the factory tests every clip for tension resistance.    
 
 266
 00:18:17,430 --> 00:18:19,564
-        it has to stretch       
-      to a certain extent,      
+it has to stretch to a certain extent,      
 
 267
 00:18:19,566 --> 00:18:22,000
-           then return          
-     to its original shape.     
+then return to its original shape.     
 
 268
 00:18:25,305 --> 00:18:27,038
- the pen's tip is made of brass 
+the pen's tip is made of brass 
 
 269
 00:18:27,040 --> 00:18:29,240
-     plated in silver, gold,    
-           or rhodium.          
+plated in silver, gold, or rhodium.          
 
 270
 00:18:29,242 --> 00:18:31,910
-  this machine drills the hole  
+this machine drills the hole  
 
 271
 00:18:31,912 --> 00:18:35,647
-  through which the retractable 
-    ballpoint will protrude.    
+through which the retractable ballpoint will protrude.    
 
 272
 00:18:37,917 --> 00:18:41,186
-    this machine injects ink    
-   inside the pen cartridges,   
+this machine injects ink inside the pen cartridges,   
 
 273
 00:18:41,188 --> 00:18:42,987
-    which are made of brass.    
+which are made of brass.    
 
 274
 00:18:42,989 --> 00:18:45,456
-  it then caps the writing end  
-          with the tip          
+it then caps the writing end with the tip          
 
 275
 00:18:45,458 --> 00:18:47,525
-        containing a tiny       
-      stainless-steel ball.     
+containing a tiny stainless-steel ball.     
 
 276
 00:18:47,527 --> 00:18:49,260
-       as the pen writes,       
+as the pen writes,       
 
 277
 00:18:49,262 --> 00:18:51,396
-     the ball transfers ink     
-          to the paper.         
+the ball transfers ink to the paper.         
 
 278
 00:18:53,566 --> 00:18:55,466
-           the machine          
-    then flips the cartridge    
+the machine then flips the cartridge    
 
 279
 00:18:55,468 --> 00:18:56,801
-    in the opposite direction   
+in the opposite direction   
 
 280
 00:18:56,803 --> 00:18:59,537
-     and shoots some grease     
-     through the other end.     
+and shoots some grease through the other end.     
 
 281
 00:18:59,539 --> 00:19:02,173
-   this seals the ink inside.   
+this seals the ink inside.   
 
 282
 00:19:04,610 --> 00:19:06,077
-    now the filled cartridges   
+now the filled cartridges   
 
 283
 00:19:06,079 --> 00:19:08,479
-          go for a ride         
-    on a centrifuge machine,    
+go for a ride on a centrifuge machine,    
 
 284
 00:19:08,481 --> 00:19:12,283
-      which pushes the ink      
-   down toward the ballpoint.   
+which pushes the ink down toward the ballpoint.   
 
 285
 00:19:12,285 --> 00:19:14,285
@@ -1338,145 +1160,125 @@ this machine runs random samples
 
 286
 00:19:14,287 --> 00:19:17,088
- through a quality-control test 
-          for ink flow,         
+through a quality-control test for ink flow,         
 
 287
 00:19:17,090 --> 00:19:18,889
-     ensuring each cartridge    
+ensuring each cartridge    
 
 288
 00:19:18,891 --> 00:19:22,160
-      outputs 8 kilometers      
-      of quality writing.       
+outputs 8 kilometers of quality writing.       
 
 289
 00:19:23,964 --> 00:19:25,963
-  a twist mechanism at the top  
+a twist mechanism at the top  
 
 290
 00:19:25,965 --> 00:19:28,833
-      extends and retracts      
-    the cartridge writing tip   
+extends and retracts the cartridge writing tip   
 
 291
 00:19:28,835 --> 00:19:30,501
-      through the pen tip.      
+through the pen tip.      
 
 292
 00:19:30,503 --> 00:19:32,636
- the factory tests the mechanism
+the factory tests the mechanism
 
 293
 00:19:32,638 --> 00:19:35,874
-     on each and every model    
-       thousands of times.      
+on each and every model thousands of times.      
 
 294
 00:19:39,045 --> 00:19:40,845
-    now onto another model --   
+now onto another model --   
 
 295
 00:19:40,847 --> 00:19:43,381
-       this one decorated       
-         in chain mail.         
+this one decorated in chain mail.         
 
 296
 00:19:43,383 --> 00:19:46,184
-    workers cut the material    
-         to pen length,         
+workers cut the material to pen length,         
 
 297
 00:19:46,186 --> 00:19:48,953
-         then fasten it         
-  around the brass pen casing.  
+then fasten it around the brass pen casing.  
 
 298
 00:19:52,125 --> 00:19:55,927
-  after several washes in water 
-   and solvent-free detergent,  
+after several washes in water and solvent-free detergent,  
 
 299
 00:19:55,929 --> 00:19:58,529
-   followed by several rinses,  
+followed by several rinses,  
 
 300
 00:19:58,531 --> 00:20:02,133
-   they precision-glue the tip  
-     and cap to the casing.     
+they precision-glue the tip and cap to the casing.     
 
 301
 00:20:12,279 --> 00:20:14,145
- then they insert the cartridge,
+then they insert the cartridge,
 
 302
 00:20:14,147 --> 00:20:16,680
-       along with a spring      
-      to provide resistance     
+along with a spring to provide resistance     
 
 303
 00:20:16,682 --> 00:20:19,884
-       when the ballpoint       
-   presses against the paper.   
+when the ballpoint presses against the paper.   
 
 304
 00:20:22,489 --> 00:20:24,955
-    finally, they cap the top   
+finally, they cap the top   
 
 305
 00:20:24,957 --> 00:20:27,358
-    with either a push-button   
-     mechanism like this one    
+with either a push-button mechanism like this one    
 
 306
 00:20:27,360 --> 00:20:30,595
-      or a twist mechanism      
-        as we saw before.       
+or a twist mechanism as we saw before.       
 
 307
 00:20:34,901 --> 00:20:37,168
-        before packaging,       
+before packaging,       
 
 308
 00:20:37,170 --> 00:20:40,705
- every single pen undergoes one 
-   last quality-control check   
+every single pen undergoes one last quality-control check   
 
 309
 00:20:40,707 --> 00:20:43,508
-       under magnification      
-    to be absolutely certain    
+under magnification to be absolutely certain    
 
 310
 00:20:43,510 --> 00:20:45,910
-   that even if your spelling   
-            is poor,            
+that even if your spelling is poor,            
 
 311
 00:20:45,912 --> 00:20:48,480
-   your writing will be great.  
+your writing will be great.  
 
 312
 00:20:56,122 --> 00:20:59,056
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 313
 00:20:59,058 --> 00:21:02,126
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 314
 00:21:02,128 --> 00:21:04,329
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 315
 00:21:04,331 --> 00:21:07,131
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 316
 00:21:07,133 --> 00:21:09,968
-      drop us a line at...      
+drop us a line at...      
 

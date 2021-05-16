@@ -1,474 +1,404 @@
 ﻿1
 00:00:01,735 --> 00:00:04,670
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 2
 00:00:04,672 --> 00:00:07,706
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 3
 00:00:22,490 --> 00:00:26,358
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 4
 00:00:26,360 --> 00:00:28,360
-      ...diamond cutting...     
+...diamond cutting...
 
 5
 00:00:28,362 --> 00:00:30,029
-          wood doors...         
+wood doors...
 
 6
 00:00:30,031 --> 00:00:31,830
-          paintballs...         
+paintballs...
 
 7
 00:00:31,832 --> 00:00:33,399
-         and newspapers.        
+and newspapers.
 
 8
 00:00:37,438 --> 00:00:41,373
-   diamonds are rare crystals   
-   composed mostly of carbon.   
+diamonds are rare crystals composed mostly of carbon.
 
 9
 00:00:41,375 --> 00:00:44,376
-       they're the hardest      
-   natural substance on earth.  
+they're the hardest natural substance on earth.
 
 10
 00:00:44,378 --> 00:00:46,244
- a superb cut manipulates light 
+a superb cut manipulates light
 
 11
 00:00:46,246 --> 00:00:48,580
-           to maximize          
-      a stone's brilliance.     
+to maximize a stone's brilliance.
 
 12
 00:00:48,582 --> 00:00:52,217
-   that enhances the diamond's  
- beauty and increases its value.
+that enhances the diamond's beauty and increases its value.
 
 13
 00:00:55,256 --> 00:00:57,990
-          diamonds come         
-     in a variety of colors,    
+diamonds come in a variety of colors,
 
 14
 00:00:57,992 --> 00:01:01,193
-    the most common of which    
-      for jewelry is white.     
+the most common of which for jewelry is white.
 
 15
 00:01:01,195 --> 00:01:03,929
-           they begin           
-    as a larger, rough stone.   
+they begin as a larger, rough stone.
 
 16
 00:01:03,931 --> 00:01:07,332
-    the goal is to cut as big   
-  a diamond as possible from it 
+the goal is to cut as big a diamond as possible from it
 
 17
 00:01:07,334 --> 00:01:09,667
-       while cutting away       
-       any imperfections        
+while cutting away any imperfections
 
 18
 00:01:09,669 --> 00:01:11,470
-     that lessen the value.     
+that lessen the value.
 
 19
 00:01:11,472 --> 00:01:14,739
-   to do this precision work,   
-     master diamond cutters     
+to do this precision work, master diamond cutters
 
 20
 00:01:14,741 --> 00:01:18,544
-  use a magnifying glass that   
-  enlarges the stone 10 times.  
+use a magnifying glass that enlarges the stone 10 times.
 
 21
 00:01:18,546 --> 00:01:22,213
-   they carefully examine and   
-  re-examine the rough diamond, 
+they carefully examine and re-examine the rough diamond,
 
 22
 00:01:22,215 --> 00:01:26,151
 trying to determine the best way
-      to divide the stone.      
+to divide the stone.
 
 23
 00:01:26,153 --> 00:01:30,021
-    they must saw the diamond   
- in the direction of its grain, 
+they must saw the diamond in the direction of its grain,
 
 24
 00:01:30,023 --> 00:01:32,624
-      then, using hot glue,     
+then, using hot glue,
 
 25
 00:01:32,626 --> 00:01:35,093
-    secure the rough diamond    
-          into a holder         
+secure the rough diamond into a holder
 
 26
 00:01:35,095 --> 00:01:38,030
-    positioned over the saw.    
+positioned over the saw.
 
 27
 00:01:38,032 --> 00:01:41,700
-           the saw has          
-    a very fine bronze blade,   
+the saw has a very fine bronze blade,
 
 28
 00:01:41,702 --> 00:01:44,703
-        but it can't cut        
- through the diamond on its own.
+but it can't cut through the diamond on its own.
 
 29
 00:01:44,705 --> 00:01:46,972
-  only diamond can cut diamond, 
+only diamond can cut diamond,
 
 30
 00:01:46,974 --> 00:01:51,042
-   so they coat the blade in a  
-mixture of diamond dust and oil.
+so they coat the blade in a mixture of diamond dust and oil.
 
 31
 00:01:51,044 --> 00:01:54,246
-     sawing an average-size     
-      rough diamond in two      
+sawing an average-size rough diamond in two
 
 32
 00:01:54,248 --> 00:01:56,782
-   can take up to four hours.   
+can take up to four hours.
 
 33
 00:01:56,784 --> 00:02:00,919
-  the second stage of diamond   
-  cutting is called polishing.  
+the second stage of diamond cutting is called polishing.
 
 34
 00:02:00,921 --> 00:02:03,789
-        it's the process        
-     of forming the diamond.    
+it's the process of forming the diamond.
 
 35
 00:02:03,791 --> 00:02:07,325
-        a special machine       
- first tailors the basic shape. 
+a special machine first tailors the basic shape.
 
 36
 00:02:07,327 --> 00:02:10,729
-     then the diamond cutter    
-  puts glue in a mounting tool  
+then the diamond cutter puts glue in a mounting tool
 
 37
 00:02:10,731 --> 00:02:11,930
-          called a dop.         
+called a dop.
 
 38
 00:02:11,932 --> 00:02:15,000
-   this will hold the diamond   
-        firmly in place.        
+this will hold the diamond firmly in place.
 
 39
 00:02:15,002 --> 00:02:19,238
- he presses the diamond against 
-   a spinning cast-iron wheel   
+he presses the diamond against a spinning cast-iron wheel
 
 40
 00:02:19,240 --> 00:02:22,407
-      coated with a mixture     
-    of diamond dust and oil.    
+coated with a mixture of diamond dust and oil.
 
 41
 00:02:22,409 --> 00:02:26,077
-   first, he removes any marks  
-   that were left by the saw.   
+first, he removes any marks that were left by the saw.
 
 42
 00:02:26,079 --> 00:02:28,480
-     then, to give the stone    
-         its brilliance,        
+then, to give the stone its brilliance,
 
 43
 00:02:28,482 --> 00:02:30,015
-       he forms facets --       
+he forms facets --
 
 44
 00:02:30,017 --> 00:02:34,620
-  a particular pattern of tiny, 
-  flat sides of various shapes. 
+a particular pattern of tiny, flat sides of various shapes.
 
 45
 00:02:34,622 --> 00:02:38,289
-     the facets are designed    
-to reflect light off each other.
+the facets are designed to reflect light off each other.
 
 46
 00:02:38,291 --> 00:02:42,628
-    each one must be exactly    
-the right size and shape and cut
+each one must be exactly the right size and shape and cut
 
 47
 00:02:42,630 --> 00:02:46,098
-  at precisely the right angle  
- in relation to the other facets
+at precisely the right angle in relation to the other facets
 
 48
 00:02:46,100 --> 00:02:49,167
-  to create maximum brilliance. 
+to create maximum brilliance.
 
 49
 00:02:49,169 --> 00:02:52,103
-         here he starts         
-      with the table facet,     
+here he starts with the table facet,
 
 50
 00:02:52,105 --> 00:02:55,140
-      which is the flat top     
-         of the diamond.        
+which is the flat top of the diamond.
 
 51
 00:02:57,244 --> 00:02:58,710
-         how he proceeds        
+how he proceeds
 
 52
 00:02:58,712 --> 00:03:02,281
-       depends on the size      
-   and condition of the stone.  
+depends on the size and condition of the stone.
 
 53
 00:03:04,985 --> 00:03:06,718
-   then come the pavilions --   
+then come the pavilions --
 
 54
 00:03:06,720 --> 00:03:09,788
-        the angled facets       
-       that end in a point      
+the angled facets that end in a point
 
 55
 00:03:09,790 --> 00:03:12,123
-  at the bottom of the diamond. 
+at the bottom of the diamond.
 
 56
 00:03:12,125 --> 00:03:15,260
-         if they're cut         
-    too deep or too shallow,    
+if they're cut too deep or too shallow,
 
 57
 00:03:15,262 --> 00:03:17,262
- light will leak out the bottom,
+light will leak out the bottom,
 
 58
 00:03:17,264 --> 00:03:21,500
-     making the diamond dark    
- in the center and dull overall.
+making the diamond dark in the center and dull overall.
 
 59
 00:03:23,938 --> 00:03:28,072
-         the ideal slope        
-  is approximately 42 degrees.  
+the ideal slope is approximately 42 degrees.
 
 60
 00:03:28,074 --> 00:03:30,542
-       the diamond cutter       
-     uses specialized tools     
+the diamond cutter uses specialized tools
 
 61
 00:03:30,544 --> 00:03:31,843
-      to measure the angle.     
+to measure the angle.
 
 62
 00:03:50,631 --> 00:03:53,831
-    next, the diamond cutter    
-    fashions crown facets --    
+next, the diamond cutter fashions crown facets --
 
 63
 00:03:53,833 --> 00:03:57,469
-  the ones circling the diamond 
-    directly under the table.   
+the ones circling the diamond directly under the table.
 
 64
 00:04:06,713 --> 00:04:09,114
-   using another type of dop,   
+using another type of dop,
 
 65
 00:04:09,116 --> 00:04:12,317
-   the diamond cutter fashions  
-   what's called the girdle --  
+the diamond cutter fashions what's called the girdle --
 
 66
 00:04:12,319 --> 00:04:15,586
-         the faceted rim        
- that separates the crown facets
+the faceted rim that separates the crown facets
 
 67
 00:04:15,588 --> 00:04:17,455
-       around the top half      
-         of the diamond         
+around the top half of the diamond
 
 68
 00:04:17,457 --> 00:04:19,625
- and the pavilion facets below. 
+and the pavilion facets below.
 
 69
 00:04:23,063 --> 00:04:26,131
-   diamonds are weighed using   
-  a measurement called karats.  
+diamonds are weighed using a measurement called karats.
 
 70
 00:04:26,133 --> 00:04:29,668
- one karat weighs 0.007 ounces. 
+one karat weighs 0.007 ounces.
 
 71
 00:04:29,670 --> 00:04:33,338
-  polishing a one-karat diamond 
-  can take three or four hours. 
+polishing a one-karat diamond can take three or four hours.
 
 72
 00:04:33,340 --> 00:04:36,842
-  when it's done, they boil it  
-  in acid to remove any debris. 
+when it's done, they boil it in acid to remove any debris.
 
 73
 00:04:40,413 --> 00:04:43,882
-      this finished diamond     
-         has 58 facets.         
+this finished diamond has 58 facets.
 
 74
 00:04:43,884 --> 00:04:46,084
-  it's called a brilliant cut.  
+it's called a brilliant cut.
 
 75
 00:04:46,086 --> 00:04:48,754
-           it's by far          
-  the most common style of cut, 
+it's by far the most common style of cut,
 
 76
 00:04:48,756 --> 00:04:51,323
-    dating back to the 1600s.   
+dating back to the 1600s.
 
 77
 00:04:58,899 --> 00:05:00,765
-     the quality of the cut     
+the quality of the cut
 
 78
 00:05:00,767 --> 00:05:04,235
-         is a key factor        
-      in grading diamonds.      
+is a key factor in grading diamonds.
 
 79
 00:05:04,237 --> 00:05:07,172
-        experts also rate       
-  what's called the clarity --  
+experts also rate what's called the clarity --
 
 80
 00:05:07,174 --> 00:05:09,640
-   the degree of imperfections  
-          in the stone.         
+the degree of imperfections in the stone.
 
 81
 00:05:09,642 --> 00:05:11,576
-       then there's color.      
+then there's color.
 
 82
 00:05:11,578 --> 00:05:14,913
-    the finest white diamonds   
-    are completely colorless,   
+the finest white diamonds are completely colorless,
 
 83
 00:05:14,915 --> 00:05:18,350
-     and the rarest colors      
-     are the most valuable.     
+and the rarest colors are the most valuable.
 
 84
 00:05:28,528 --> 00:05:31,530
-      narrator: coming soon     
-  to a supermarket near you --  
+narrator: coming soon to a supermarket near you --
 
 85
 00:05:31,532 --> 00:05:34,065
-       food that tells you      
-       when it's gone bad.      
+food that tells you when it's gone bad.
 
 86
 00:05:34,067 --> 00:05:36,935
-   researchers are developing   
-       electronic devices       
+researchers are developing electronic devices
 
 87
 00:05:36,937 --> 00:05:38,536
-   that monitor food freshness  
+that monitor food freshness
 
 88
 00:05:38,538 --> 00:05:42,341
-     and detect potentially     
-  fatal bacteria like e. coli.  
+and detect potentially fatal bacteria like e. coli.
 
 89
 00:05:42,343 --> 00:05:44,076
- these devices on the packaging 
+these devices on the packaging
 
 90
 00:05:44,078 --> 00:05:48,113
-     would give off a signal    
-  when the food inside spoils.  
+would give off a signal when the food inside spoils.
 
 91
 00:05:53,487 --> 00:05:56,354
-     we open and close them     
-      several times a day,      
+we open and close them several times a day,
 
 92
 00:05:56,356 --> 00:05:57,889
-       day in and day out       
+day in and day out
 
 93
 00:05:57,891 --> 00:05:59,957
-      and seldom give them      
-        a second thought,       
+and seldom give them a second thought,
 
 94
 00:05:59,959 --> 00:06:02,494
-      but imagine your home     
-         without doors.         
+but imagine your home without doors.
 
 95
 00:06:02,496 --> 00:06:05,564
-      for one thing, you'd      
-   have absolutely no privacy.  
+for one thing, you'd have absolutely no privacy.
 
 96
 00:06:05,566 --> 00:06:08,767
-     and what would you slam    
-       when you get angry?      
+and what would you slam when you get angry?
 
 97
 00:06:11,638 --> 00:06:15,173
-     the first factory makes    
-   the door's plywood facing.   
+the first factory makes the door's plywood facing.
 
 98
 00:06:15,175 --> 00:06:19,311
- they start by loading logs into
- steaming basins for three days.
+they start by loading logs into
+steaming basins for three days.
 
 99
 00:06:19,313 --> 00:06:23,782
- this deices them in the winter 
-   and softens the wood fiber.  
+this deices them in the winter and softens the wood fiber.
 
 100
 00:06:23,784 --> 00:06:28,453
-inside the factory, the steamed 
-logs line up for the debarker --
+inside the factory, the steamed logs line up for the debarker --
 
 101
 00:06:28,455 --> 00:06:30,655
@@ -476,143 +406,119 @@ a machine that removes the bark.
 
 102
 00:06:30,657 --> 00:06:33,458
-          the operator          
-   projects concentric circles  
+the operator projects concentric circles
 
 103
 00:06:33,460 --> 00:06:37,529
-  and uses a laser to carefully 
- center the log on the debarker.
+and uses a laser to carefully center the log on the debarker.
 
 104
 00:06:37,531 --> 00:06:40,165
-     positioning is crucial     
-       for two reasons --       
+positioning is crucial for two reasons --
 
 105
 00:06:40,167 --> 00:06:42,266
-     so that as little wood     
-           as possible          
+so that as little wood as possible
 
 106
 00:06:42,268 --> 00:06:43,734
-     comes off with the bark    
+comes off with the bark
 
 107
 00:06:43,736 --> 00:06:47,873
- and to ensure the debarked log 
- ends up perfectly cylindrical. 
+and to ensure the debarked log ends up perfectly cylindrical.
 
 108
 00:06:47,875 --> 00:06:52,343
-    that maximizes the amount   
-of wood veneer a log will yield.
+that maximizes the amount of wood veneer a log will yield.
 
 109
 00:06:52,345 --> 00:06:55,413
-          the next step         
-    is called rotary cutting.   
+the next step is called rotary cutting.
 
 110
 00:06:55,415 --> 00:06:59,618
-    as the log spins, a lathe   
-skims off a sheet of wood veneer
+as the log spins, a lathe skims off a sheet of wood veneer
 
 111
 00:06:59,620 --> 00:07:01,486
-  just 2/100 of an inch thick.  
+just 2/100 of an inch thick.
 
 112
 00:07:01,488 --> 00:07:06,625
-     the average log yields     
-   440 linear feet of veneer.   
+the average log yields 440 linear feet of veneer.
 
 113
 00:07:11,632 --> 00:07:15,066
-  next, they unroll the veneer  
-     and cut it into sheets.    
+next, they unroll the veneer and cut it into sheets.
 
 114
 00:07:19,840 --> 00:07:23,575
-   then they stack the sheets   
-  by identical grain patterns.  
+then they stack the sheets by identical grain patterns.
 
 115
 00:07:23,577 --> 00:07:26,111
-          using a laser         
-     to position the blade,     
+using a laser to position the blade,
 
 116
 00:07:26,113 --> 00:07:29,514
-   they cut through the stack   
-   to take out visual defects.  
+they cut through the stack to take out visual defects.
 
 117
 00:07:30,918 --> 00:07:33,852
-         then they glue         
-      the pieces together.      
+then they glue the pieces together.
 
 118
 00:07:33,854 --> 00:07:34,986
-      to make veneer sheets     
+to make veneer sheets
 
 119
 00:07:34,988 --> 00:07:37,055
-          for the front         
-     of the plywood facing,     
+for the front of the plywood facing,
 
 120
 00:07:37,057 --> 00:07:38,389
-    the side that will show,    
+the side that will show,
 
 121
 00:07:38,391 --> 00:07:40,124
-  they line up the wood's grain 
+they line up the wood's grain
 
 122
 00:07:40,126 --> 00:07:43,261
-       and other features       
-        in mirror image.        
+and other features in mirror image.
 
 123
 00:07:43,263 --> 00:07:45,597
-          for the back,         
-    the side that won't show,   
+for the back, the side that won't show,
 
 124
 00:07:45,599 --> 00:07:48,666
-   they assemble the defective  
-   parts they cut out earlier.  
+they assemble the defective parts they cut out earlier.
 
 125
 00:07:48,668 --> 00:07:52,804
-they use three veneer sheets to 
-make up the plywood door facing.
+they use three veneer sheets to make up the plywood door facing.
 
 126
 00:07:52,806 --> 00:07:55,874
-         they apply glue        
-   to both sides of one sheet,  
+they apply glue to both sides of one sheet,
 
 127
 00:07:55,876 --> 00:07:58,310
-        then sandwich it        
-    between two other sheets.   
+then sandwich it between two other sheets.
 
 128
 00:08:05,685 --> 00:08:08,353
-   they feed the three sheets   
-       through a hot press      
+they feed the three sheets through a hot press
 
 129
 00:08:08,355 --> 00:08:11,289
-          at more than          
-     212 degrees fahrenheit.    
+at more than 212 degrees fahrenheit.
 
 130
 00:08:11,291 --> 00:08:14,359
-     in a minute and a half,    
-         the glue cures,        
+in a minute and a half, the glue cures,
 
 131
 00:08:14,361 --> 00:08:18,897
@@ -621,264 +527,222 @@ become a 3-ply panel of plywood.
 
 132
 00:08:18,899 --> 00:08:21,633
-    then they sand the panel.   
+then they sand the panel.
 
 133
 00:08:21,635 --> 00:08:24,503
-      plywood door facings      
-           can be made          
+plywood door facings can be made
 
 134
 00:08:24,505 --> 00:08:27,305
-         from more than         
-  15 different species of wood  
+from more than 15 different species of wood
 
 135
 00:08:27,307 --> 00:08:30,575
-       from birch and oak       
-     to maple and mahogany.     
+from birch and oak to maple and mahogany.
 
 136
 00:08:30,577 --> 00:08:35,113
-     at the second factory,     
- they make the core of the door.
+at the second factory, they make the core of the door.
 
 137
 00:08:35,115 --> 00:08:38,250
-    they glue together strips   
-   of wood to form the middle,  
+they glue together strips of wood to form the middle,
 
 138
 00:08:38,252 --> 00:08:40,785
-         then frame them        
-   with pieces of white pine.   
+then frame them with pieces of white pine.
 
 139
 00:08:42,923 --> 00:08:46,457
-         a press pushes         
-    the core pieces together,   
+a press pushes the core pieces together,
 
 140
 00:08:46,459 --> 00:08:48,460
-    then activates the glue,    
+then activates the glue,
 
 141
 00:08:48,462 --> 00:08:52,130
- not by heat as most presses do,
-       but by microwaves.       
+not by heat as most presses do,
+but by microwaves.
 
 142
 00:08:55,936 --> 00:08:59,037
-         next, they sand        
-     and calibrate the core.    
+next, they sand and calibrate the core.
 
 143
 00:09:04,143 --> 00:09:07,011
-     after the glue machine     
-         coats the core,        
+after the glue machine coats the core,
 
 144
 00:09:07,013 --> 00:09:10,315
 they stick a plywood door facing
-          on each side.         
+on each side.
 
 145
 00:09:23,630 --> 00:09:27,365
-     they stack a few doors     
-   at a time into a cold press  
+they stack a few doors at a time into a cold press
 
 146
 00:09:27,367 --> 00:09:30,435
-        for a half-hour.        
-      until the glue dries,     
+for a half-hour. until the glue dries,
 
 147
 00:09:30,437 --> 00:09:32,904
-      then set them aside       
-      while the glue cures      
+then set them aside while the glue cures
 
 148
 00:09:32,906 --> 00:09:34,873
-    for another eight hours.    
+for another eight hours.
 
 149
 00:09:41,648 --> 00:09:45,984
- next, they size the width and  
- length to the final dimension, 
+next, they size the width and length to the final dimension,
 
 150
 00:09:45,986 --> 00:09:47,185
-        bevel the edges,        
+bevel the edges,
 
 151
 00:09:47,187 --> 00:09:50,589
-             and cut            
-  the exact height of the door. 
+and cut the exact height of the door.
 
 152
 00:09:50,591 --> 00:09:53,858
-   then they inspect the door   
-         on both sides.         
+then they inspect the door on both sides.
 
 153
 00:10:00,133 --> 00:10:03,969
-       a machine prepares       
-      the door for hinges.      
+a machine prepares the door for hinges.
 
 154
 00:10:08,541 --> 00:10:12,043
-      then another machine      
-   cuts the hole for the knob.  
+then another machine cuts the hole for the knob.
 
 155
 00:10:22,689 --> 00:10:27,092
-      the finishing process     
- takes just 70 seconds per door.
+the finishing process takes just 70 seconds per door.
 
 156
 00:10:27,094 --> 00:10:29,560
-      one side is sanded,       
-      stained, and sealed,      
+one side is sanded, stained, and sealed,
 
 157
 00:10:29,562 --> 00:10:32,097
-        then sanded again       
-         and varnished.         
+then sanded again and varnished.
 
 158
 00:10:32,099 --> 00:10:34,231
-           the machine          
-    then flips the door over    
+the machine then flips the door over
 
 159
 00:10:34,233 --> 00:10:37,335
-     and does the same thing    
-       to the other side.       
+and does the same thing to the other side.
 
 160
 00:10:44,777 --> 00:10:46,577
- narrator: the game of paintball
+narrator: the game of paintball
 
 161
 00:10:46,579 --> 00:10:48,980
-           is a cross           
-   between tag, hide-and-seek,  
+is a cross between tag, hide-and-seek,
 
 162
 00:10:48,982 --> 00:10:50,581
-      and capture the flag.     
+and capture the flag.
 
 163
 00:10:50,583 --> 00:10:52,917
-        you try to steal        
-      the other team's flag     
+you try to steal the other team's flag
 
 164
 00:10:52,919 --> 00:10:55,186
-  and eliminate your opponents  
-         with an air gun        
+and eliminate your opponents with an air gun
 
 165
 00:10:55,188 --> 00:10:58,923
- that shoots an exploding paint 
-   capsule called a paintball.  
+that shoots an exploding paint capsule called a paintball.
 
 166
 00:11:01,994 --> 00:11:06,864
-paintballs are made entirely of 
-nontoxic food-grade ingredients.
+paintballs are made entirely of nontoxic food-grade ingredients.
 
 167
 00:11:06,866 --> 00:11:08,333
-    to make the hollow shell,   
+to make the hollow shell,
 
 168
 00:11:08,335 --> 00:11:12,137
-   they first pour water into   
-  a giant, heated mixing bowl.  
+they first pour water into a giant, heated mixing bowl.
 
 169
 00:11:12,139 --> 00:11:14,472
-      they add a sweetener      
-    and a secret combination    
+they add a sweetener and a secret combination
 
 170
 00:11:14,474 --> 00:11:17,408
-       of food ingredients      
-   the company won't divulge.   
+of food ingredients the company won't divulge.
 
 171
 00:11:17,410 --> 00:11:19,544
-         then, finally,         
-       the key ingredient       
+then, finally, the key ingredient
 
 172
 00:11:19,546 --> 00:11:22,813
-      that gives the shell      
-     its shape -- gelatin --    
+that gives the shell its shape -- gelatin --
 
 173
 00:11:22,815 --> 00:11:26,617
-          the kind used         
-      to make gummy bears.      
+the kind used to make gummy bears.
 
 174
 00:11:26,619 --> 00:11:29,754
-  they melt and mix everything  
-      for a half an hour...     
+they melt and mix everything for a half an hour...
 
 175
 00:11:32,558 --> 00:11:36,161
-       ...then line it up       
- for what they call the drop -- 
+...then line it up for what they call the drop --
 
 176
 00:11:36,163 --> 00:11:38,563
-      transferring the gel      
-         from the mixer         
+transferring the gel from the mixer
 
 177
 00:11:38,565 --> 00:11:41,933
-        into a heated vat       
-      called the gel tote.      
+into a heated vat called the gel tote.
 
 178
 00:11:44,938 --> 00:11:48,006
-    they filter out any globs   
-        that didn't melt.       
+they filter out any globs that didn't melt.
 
 179
 00:12:02,122 --> 00:12:04,855
-    once the gel is securely    
-          in the tote,          
+once the gel is securely in the tote,
 
 180
 00:12:04,857 --> 00:12:07,392
- they lower in a giant blender. 
+they lower in a giant blender.
 
 181
 00:12:15,335 --> 00:12:19,871
-      they pour in food dye     
- and blend for about 20 minutes.
+they pour in food dye and blend for about 20 minutes.
 
 182
 00:12:43,630 --> 00:12:45,363
-    elsewhere in the factory,   
+elsewhere in the factory,
 
 183
 00:12:45,365 --> 00:12:48,432
- they use the same method to dye
-    what's called the fill --   
+they use the same method to dye
+what's called the fill --
 
 184
 00:12:48,434 --> 00:12:51,769
-   the paint that goes inside   
-   the shell of the paintball.  
+the paint that goes inside the shell of the paintball.
 
 185
 00:12:51,771 --> 00:12:54,105
-            it's made           
-    of polyethylene glycol --   
+it's made of polyethylene glycol --
 
 186
 00:12:54,107 --> 00:12:56,441
@@ -890,268 +754,229 @@ they thicken it with crayon wax.
 
 188
 00:12:58,744 --> 00:13:00,845
-        the gel and fill        
-        meet their maker        
+the gel and fill meet their maker
 
 189
 00:13:00,847 --> 00:13:03,581
-         in what's known        
-        as the feed room.       
+in what's known as the feed room.
 
 190
 00:13:03,583 --> 00:13:06,384
- here, the vats of gel and fill 
+here, the vats of gel and fill
 
 191
 00:13:06,386 --> 00:13:09,320
-   feed a capsulation machine   
-        one floor below.        
+feed a capsulation machine one floor below.
 
 192
 00:13:09,322 --> 00:13:12,190
-  this machine is the same kind 
+this machine is the same kind
 
 193
 00:13:12,192 --> 00:13:16,394
-     used to make bath beads    
-      and gelcap medicine.      
+used to make bath beads and gelcap medicine.
 
 194
 00:13:16,396 --> 00:13:19,797
- first, the machine spreads out 
-    the gel onto a cool drum.   
+first, the machine spreads out the gel onto a cool drum.
 
 195
 00:13:19,799 --> 00:13:23,801
-    this creates a continuous   
-        thin sheet of gel       
+this creates a continuous thin sheet of gel
 
 196
 00:13:23,803 --> 00:13:25,202
-      called a gel ribbon.      
+called a gel ribbon.
 
 197
 00:13:25,204 --> 00:13:27,338
- this cooling cures the gelatin 
+this cooling cures the gelatin
 
 198
 00:13:27,340 --> 00:13:29,674
-          to the point          
-   where it can now be molded   
+to the point where it can now be molded
 
 199
 00:13:29,676 --> 00:13:32,811
-      into the hollow shell     
-          of the ball.          
+into the hollow shell of the ball.
 
 200
 00:13:32,813 --> 00:13:37,015
-       the machine presses      
-    the gel ribbon into a dye   
+the machine presses the gel ribbon into a dye
 
 201
 00:13:37,017 --> 00:13:39,483
-    with half-circle pockets,   
+with half-circle pockets,
 
 202
 00:13:39,485 --> 00:13:41,285
-          each forming          
-    one half of a ball shell.   
+each forming one half of a ball shell.
 
 203
 00:13:41,287 --> 00:13:44,488
-    the machine does the next   
-    three steps in one shot.    
+the machine does the next three steps in one shot.
 
 204
 00:13:44,490 --> 00:13:48,292
-  it aligns the two half shells 
- together to form a hollow ball,
+it aligns the two half shells together to form a hollow ball,
 
 205
 00:13:48,294 --> 00:13:52,497
-  injects the fill, then seals  
-  the two half shells together. 
+injects the fill, then seals the two half shells together.
 
 206
 00:14:04,277 --> 00:14:08,178
-  these newly minted paintballs 
-  are still quite soft, though. 
+these newly minted paintballs are still quite soft, though.
 
 207
 00:14:08,180 --> 00:14:10,782
-    if they're not dried out,   
-    they'll lose their shape,   
+if they're not dried out, they'll lose their shape,
 
 208
 00:14:10,784 --> 00:14:13,551
-       so they fall down        
-       onto a conveyor...       
+so they fall down onto a conveyor...
 
 209
 00:14:14,987 --> 00:14:17,655
-          ...then roll          
-      into a tumble dryer.      
+...then roll into a tumble dryer.
 
 210
 00:14:24,597 --> 00:14:27,798
-   from here, they'll go onto   
-       a bakery-style rack      
+from here, they'll go onto a bakery-style rack
 
 211
 00:14:27,800 --> 00:14:29,801
- until they dry out completely. 
+until they dry out completely.
 
 212
 00:14:34,007 --> 00:14:38,542
 to make dual-colored paintballs,
-they use the exact same process 
+they use the exact same process
 
 213
 00:14:38,544 --> 00:14:40,745
-            but feed            
-    two colors of gel ribbon    
+but feed two colors of gel ribbon
 
 214
 00:14:40,747 --> 00:14:42,614
- into the capsulation machine --
+into the capsulation machine --
 
 215
 00:14:42,616 --> 00:14:45,383
-     one color for each half    
-          of the shell.         
+one color for each half of the shell.
 
 216
 00:14:55,161 --> 00:14:56,827
-     the finished paintballs    
+the finished paintballs
 
 217
 00:14:56,829 --> 00:14:59,297
-           go through           
- an automatic counting machine. 
+go through an automatic counting machine.
 
 218
 00:14:59,299 --> 00:15:03,835
-  this one is set to count out  
-and package 200 balls at a time.
+this one is set to count out and package 200 balls at a time.
 
 219
 00:15:03,837 --> 00:15:07,038
-          manufacturing         
-      this messy ammunition     
+manufacturing this messy ammunition
 
 220
 00:15:07,040 --> 00:15:09,306
-    is a painstaking process,   
+is a painstaking process,
 
 221
 00:15:09,308 --> 00:15:11,109
-    but well worth the effort   
+but well worth the effort
 
 222
 00:15:11,111 --> 00:15:13,911
-    to the millions who love    
-     the game of paintball.     
+to the millions who love the game of paintball.
 
 223
 00:15:13,913 --> 00:15:16,314
-   invented just 15 years ago,  
+invented just 15 years ago,
 
 224
 00:15:16,316 --> 00:15:19,984
-     it's caught on in more     
-  than 40 countries worldwide,  
+it's caught on in more than 40 countries worldwide,
 
 225
 00:15:19,986 --> 00:15:21,919
-   and it's not just for kids.  
+and it's not just for kids.
 
 226
 00:15:21,921 --> 00:15:24,922
-     more and more companies    
-  are booking paintball outings 
+more and more companies are booking paintball outings
 
 227
 00:15:24,924 --> 00:15:27,492
-       for their employees      
-     to help build teamwork.    
+for their employees to help build teamwork.
 
 228
 00:15:35,402 --> 00:15:38,535
-   narrator: there was a time   
-  when our only source of news  
+narrator: there was a time when our only source of news
 
 229
 00:15:38,537 --> 00:15:39,937
-       was the newspaper.       
+was the newspaper.
 
 230
 00:15:39,939 --> 00:15:42,073
-    today, though, newspapers   
-         have to compete        
+today, though, newspapers have to compete
 
 231
 00:15:42,075 --> 00:15:44,942
-     with radio, television,    
-        and the internet.       
+with radio, television, and the internet.
 
 232
 00:15:44,944 --> 00:15:48,212
-      still, to get context     
-  and analysis of news events,  
+still, to get context and analysis of news events,
 
 233
 00:15:48,214 --> 00:15:50,248
-         most still turn        
-        to the newspaper.       
+most still turn to the newspaper.
 
 234
 00:15:56,555 --> 00:16:00,290
-    in medieval times, people   
-   got the news of the kingdom  
+in medieval times, people got the news of the kingdom
 
 235
 00:16:00,292 --> 00:16:01,893
-       from the town crier      
+from the town crier
 
 236
 00:16:01,895 --> 00:16:06,030
-    and from official notices   
-    posted in public places.    
+and from official notices posted in public places.
 
 237
 00:16:06,032 --> 00:16:08,433
-       by the late 1400s,       
+by the late 1400s,
 
 238
 00:16:08,435 --> 00:16:11,969
 the first printed news pamphlets
-      appeared in germany.      
+appeared in germany.
 
 239
 00:16:11,971 --> 00:16:14,772
-   the first english-language   
-            newspaper           
+the first english-language newspaper
 
 240
 00:16:14,774 --> 00:16:19,444
-         hit the stands         
-       in london in 1622.       
+hit the stands in london in 1622.
 
 241
 00:16:19,446 --> 00:16:22,313
-          by the 1800s,         
-     new printing technology    
+by the 1800s, new printing technology
 
 242
 00:16:22,315 --> 00:16:24,716
-        brought the price       
-       of newspapers down.      
+brought the price of newspapers down.
 
 243
 00:16:24,718 --> 00:16:27,852
-     this finally made them     
-    affordable to the masses,   
+this finally made them affordable to the masses,
 
 244
 00:16:27,854 --> 00:16:30,822
@@ -1159,27 +984,23 @@ who were becoming more literate.
 
 245
 00:16:38,998 --> 00:16:42,266
-     the news editor selects    
-  the stories and photographs.  
+the news editor selects the stories and photographs.
 
 246
 00:16:42,268 --> 00:16:46,003
- they come from the newspaper's 
- own reporters and photographers
+they come from the newspaper's own reporters and photographers
 
 247
 00:16:46,005 --> 00:16:47,938
-     and from wire services.    
+and from wire services.
 
 248
 00:16:47,940 --> 00:16:52,076
-  the news editor accesses the  
- wire services via the internet.
+the news editor accesses the wire services via the internet.
 
 249
 00:16:52,078 --> 00:16:54,611
-         local reporters        
-       file their stories       
+local reporters file their stories
 
 250
 00:16:54,613 --> 00:16:56,447
@@ -1187,258 +1008,220 @@ to the newsroom computer system.
 
 251
 00:16:56,449 --> 00:16:59,283
-       the photo lab scans      
-   the photographers' pictures  
+the photo lab scans the photographers' pictures
 
 252
 00:16:59,285 --> 00:17:00,951
-    into the system as well.    
+into the system as well.
 
 253
 00:17:00,953 --> 00:17:04,088
-      that puts everything      
-at the news editor's fingertips.
+that puts everything at the news editor's fingertips.
 
 254
 00:17:04,090 --> 00:17:06,757
-       it's just a matter       
-   of moving the various items  
+it's just a matter of moving the various items
 
 255
 00:17:06,759 --> 00:17:09,293
-      into the page layout.     
+into the page layout.
 
 256
 00:17:09,295 --> 00:17:11,162
-   once the layout's complete,  
+once the layout's complete,
 
 257
 00:17:11,164 --> 00:17:14,231
-  they group the pages in sets  
-      of four called flats.     
+they group the pages in sets of four called flats.
 
 258
 00:17:14,233 --> 00:17:16,901
-           the manager          
-  checks each flat for errors,  
+the manager checks each flat for errors,
 
 259
 00:17:16,903 --> 00:17:19,703
-    paying special attention    
-     to the advertisements,     
+paying special attention to the advertisements,
 
 260
 00:17:19,705 --> 00:17:22,706
-         the newspaper's        
-     main source of revenue.    
+the newspaper's main source of revenue.
 
 261
 00:17:22,708 --> 00:17:26,377
-     next, they prepare the     
- printing plates for each page. 
+next, they prepare the printing plates for each page.
 
 262
 00:17:26,379 --> 00:17:29,380
-   a plate is a plastic-coated  
-       sheet of aluminum,       
+a plate is a plastic-coated sheet of aluminum,
 
 263
 00:17:29,382 --> 00:17:31,916
-  just 1/100 of an inch thick.  
+just 1/100 of an inch thick.
 
 264
 00:17:31,918 --> 00:17:35,052
-    it goes into the cylinder   
- of a machine called the imager.
+it goes into the cylinder of a machine called the imager.
 
 265
 00:17:35,054 --> 00:17:38,322
-     the imager's laser beam    
-        scans the plate,        
+the imager's laser beam scans the plate,
 
 266
 00:17:38,324 --> 00:17:40,257
-  hardening the plastic coating 
+hardening the plastic coating
 
 267
 00:17:40,259 --> 00:17:43,661
- wherever the computer tells it 
- there will be text or pictures.
+wherever the computer tells it there will be text or pictures.
 
 268
 00:17:43,663 --> 00:17:46,330
- the coating in the blank areas 
-        that don't harden       
+the coating in the blank areas that don't harden
 
 269
 00:17:46,332 --> 00:17:49,633
-  then washes away in a series  
-       of chemical baths.       
+then washes away in a series of chemical baths.
 
 270
 00:17:49,635 --> 00:17:52,603
-     it takes about a minute    
-           for a plate          
+it takes about a minute for a plate
 
 271
 00:17:52,605 --> 00:17:56,073
-         to pass through        
-    those processing basins.    
+to pass through those processing basins.
 
 272
 00:17:56,075 --> 00:17:59,277
-         next, a machine        
-   punches registration marks   
+next, a machine punches registration marks
 
 273
 00:17:59,279 --> 00:18:01,079
-   on each side of the plate.   
+on each side of the plate.
 
 274
 00:18:01,081 --> 00:18:04,215
-  the press operators will use  
-     those marks as a guide     
+the press operators will use those marks as a guide
 
 275
 00:18:04,217 --> 00:18:07,151
- to correctly position the plate
-     on the printing press.     
+to correctly position the plate
+on the printing press.
 
 276
 00:18:07,153 --> 00:18:11,889
-         after they oil         
-       the press cylinder,      
+after they oil the press cylinder,
 
 277
 00:18:11,891 --> 00:18:13,558
-     they attach the plates.    
+they attach the plates.
 
 278
 00:18:13,560 --> 00:18:16,227
-   there's one plate per page   
-            per color           
+there's one plate per page per color
 
 279
 00:18:16,229 --> 00:18:18,963
-  to a maximum of four colors.  
+to a maximum of four colors.
 
 280
 00:18:23,036 --> 00:18:25,369
-          the newsprint         
-      comes in jumbo rolls      
+the newsprint comes in jumbo rolls
 
 281
 00:18:25,371 --> 00:18:28,706
-            weighing            
-   about 1,900 pounds apiece.   
+weighing about 1,900 pounds apiece.
 
 282
 00:18:37,984 --> 00:18:40,251
-   workers feed several rolls   
+workers feed several rolls
 
 283
 00:18:40,253 --> 00:18:43,387
-    into the reeling machine    
-    under the printing press.   
+into the reeling machine under the printing press.
 
 284
 00:18:43,389 --> 00:18:46,524
-      2-sided tape connects     
-      one roll to the next,     
+2-sided tape connects one roll to the next,
 
 285
 00:18:46,526 --> 00:18:49,694
-     ensuring a continuous,     
-       uninterrupted run.       
+ensuring a continuous, uninterrupted run.
 
 286
 00:18:54,234 --> 00:18:57,135
-             this is            
-   a 4-color printing process.  
+this is a 4-color printing process.
 
 287
 00:18:57,137 --> 00:18:59,937
-        there's a station       
-     for each color of ink.     
+there's a station for each color of ink.
 
 288
 00:18:59,939 --> 00:19:03,273
-    the paper passes through    
-    each color one at a time    
+the paper passes through each color one at a time
 
 289
 00:19:03,275 --> 00:19:06,410
-    like a car going through    
-     an automatic car wash.     
+like a car going through an automatic car wash.
 
 290
 00:19:09,749 --> 00:19:12,016
- the printing starts out slowly,
+the printing starts out slowly,
 
 291
 00:19:12,018 --> 00:19:15,753
 but within a few seconds revs up
-      to 25 miles per hour.     
+to 25 miles per hour.
 
 292
 00:19:53,860 --> 00:19:56,861
-         press operators        
-  adjust the colors as needed.  
+press operators adjust the colors as needed.
 
 293
 00:19:59,198 --> 00:20:02,199
-     each line of the press     
-     prints a 4-page flat.      
+each line of the press prints a 4-page flat.
 
 294
 00:20:02,201 --> 00:20:04,668
-     then it cuts the sheet     
-       in half lengthwise,      
+then it cuts the sheet in half lengthwise,
 
 295
 00:20:04,670 --> 00:20:06,771
-     separating two and two.    
+separating two and two.
 
 296
 00:20:12,945 --> 00:20:16,080
-          then it cuts          
-the continuous lengths widthwise
+then it cuts the continuous lengths widthwise
 
 297
 00:20:16,082 --> 00:20:18,882
-      into a 2-page spread.     
+into a 2-page spread.
 
 298
 00:20:18,884 --> 00:20:23,020
-     machines automatically     
-  assemble the pages in order,  
+machines automatically assemble the pages in order,
 
 299
 00:20:23,022 --> 00:20:25,489
-       then send them off       
-   to the shipping department.  
+then send them off to the shipping department.
 
 300
 00:20:39,239 --> 00:20:44,108
-     the stacker makes piles    
-   of 50 copies for delivery.   
+the stacker makes piles of 50 copies for delivery.
 
 301
 00:20:52,785 --> 00:20:56,754
-     then workers hand-stuff    
-     the inserts one by one.    
+then workers hand-stuff the inserts one by one.
 
 302
 00:21:08,935 --> 00:21:11,134
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,
 
 303
 00:21:11,136 --> 00:21:13,871
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,
 
 304
 00:21:13,873 --> 00:21:16,073
-      drop us a line at...      
+drop us a line at...
+
 

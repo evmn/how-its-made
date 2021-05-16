@@ -1,283 +1,234 @@
 ﻿1
 00:00:01,536 --> 00:00:04,537
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,539 --> 00:00:07,607
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:51,119 --> 00:00:53,518
-           narrator:            
+narrator:            
 lace began as a fringe fabric.  
 
 4
 00:00:53,520 --> 00:00:55,120
-   back in the middle ages,     
+back in the middle ages,     
 
 5
 00:00:55,122 --> 00:00:58,590
- it was handcrafted by european 
- women to trim fashion finery.  
+it was handcrafted by european women to trim fashion finery.  
 
 6
 00:00:58,592 --> 00:01:00,793
-    the ladies' fingers got a   
-             break              
+the ladies' fingers got a break              
 
 7
 00:01:00,795 --> 00:01:04,530
- with the advent of lace-making 
+with the advent of lace-making 
 equipment in the 19th century.  
 
 8
 00:01:04,532 --> 00:01:06,331
-     with mass production,      
+with mass production,      
 
 9
 00:01:06,333 --> 00:01:09,468
-   lace moved from the fringe   
-      to the mainstream.        
+lace moved from the fringe to the mainstream.        
 
 10
 00:01:12,606 --> 00:01:16,341
-     in the material world,     
-   lace used to be a luxury,    
+in the material world, lace used to be a luxury,    
 
 11
 00:01:16,343 --> 00:01:19,812
-   handcrafted for decorative   
+handcrafted for decorative   
 rather than practical reasons.  
 
 12
 00:01:19,814 --> 00:01:22,948
-            machines            
-   now produce lace quickly,    
+machines now produce lace quickly,    
 
 13
 00:01:22,950 --> 00:01:25,884
-    and you don't have to be    
-             wealthy            
-         to afford it.          
+and you don't have to be wealthy to afford it.          
 
 14
 00:01:25,886 --> 00:01:28,020
-     to manufacture lace,       
+to manufacture lace,       
 
 15
 00:01:28,022 --> 00:01:30,689
-       hundreds of nylon        
-     and polyester threads      
+hundreds of nylon and polyester threads      
 
 16
 00:01:30,691 --> 00:01:33,759
-     unwind simultaneously      
-       into a separator.        
+unwind simultaneously into a separator.        
 
 17
 00:01:33,761 --> 00:01:36,896
-  it arranges the threads in a  
-        configuration for       
-         manufacturing          
+it arranges the threads in a configuration for manufacturing          
 
 18
 00:01:36,898 --> 00:01:40,366
-  and keeps them from tangling  
-     as they move forward.      
+and keeps them from tangling as they move forward.      
 
 19
 00:01:40,368 --> 00:01:41,968
-  to maintain the formation,    
+to maintain the formation,    
 
 20
 00:01:41,970 --> 00:01:46,638
-  the the threads pass through  
-    a comb-like apparatus.      
+the the threads pass through a comb-like apparatus.      
 
 21
 00:01:46,640 --> 00:01:48,574
-             still              
-  in that neat configuration,   
+still in that neat configuration,   
 
 22
 00:01:48,576 --> 00:01:51,309
-          the threads           
-  wind around a large spool.    
+the threads wind around a large spool.    
 
 23
 00:01:51,311 --> 00:01:53,712
-         this spool is          
-    known as a ground beam      
+this spool is known as a ground beam      
 
 24
 00:01:53,714 --> 00:01:55,114
-   because the threads on it    
+because the threads on it    
 
 25
 00:01:55,116 --> 00:01:57,516
-          will be used          
-    for the lace's ground, or   
-             mesh.              
+will be used for the lace's ground, or mesh.              
 
 26
 00:02:00,454 --> 00:02:03,656
-  these smaller spools supply   
- the threads for the pattern.   
+these smaller spools supply the threads for the pattern.   
 
 27
 00:02:03,658 --> 00:02:06,459
-        they all unwind         
- into the lace-making machine,  
+they all unwind into the lace-making machine,  
 
 28
 00:02:06,461 --> 00:02:10,096
- which will interweave them to  
-     create a pattern on the    
-            ground.             
+which will interweave them to create a pattern on the ground.             
 
 29
 00:02:13,467 --> 00:02:15,334
-    here's how it happens.      
+here's how it happens.      
 
 30
 00:02:15,336 --> 00:02:18,003
-       a long thick card        
-  with holes punched into it    
+a long thick card with holes punched into it    
 
 31
 00:02:18,005 --> 00:02:19,271
-      defines the pattern       
+defines the pattern       
 
 32
 00:02:19,273 --> 00:02:22,475
-           and guides           
+and guides           
 a system of hooks and needles.  
 
 33
 00:02:22,477 --> 00:02:24,477
- it's called a jacquard card,   
+it's called a jacquard card,   
 
 34
 00:02:24,479 --> 00:02:27,279
-  and the technology has been   
-   around for two centuries     
+and the technology has been around for two centuries     
 
 35
 00:02:27,281 --> 00:02:31,550
-      and was actually the      
-           inspiration          
-   for computer technology.     
+and was actually the inspiration for computer technology.     
 
 36
 00:02:31,552 --> 00:02:34,620
-     each hole on the card      
-   corresponds to one hook,     
+each hole on the card corresponds to one hook,     
 
 37
 00:02:34,622 --> 00:02:38,157
-       and the hooks are        
- attached to these guide bars.  
+and the hooks are attached to these guide bars.  
 
 38
 00:02:41,229 --> 00:02:44,296
-     if the hook encounters     
- a hole in the jacquard card,   
+if the hook encounters a hole in the jacquard card,   
 
 39
 00:02:44,298 --> 00:02:45,698
-      it loops a thread,        
+it loops a thread,        
 
 40
 00:02:45,700 --> 00:02:49,234
-      and if it encounters      
-   the solid card, it stops.    
+and if it encounters the solid card, it stops.    
 
 41
 00:02:49,236 --> 00:02:51,236
-         the guide bars         
-    shuffle back and forth      
+the guide bars shuffle back and forth      
 
 42
 00:02:51,238 --> 00:02:53,506
-       to move the hooks        
-    in concert with needles     
+to move the hooks in concert with needles     
 
 43
 00:02:53,508 --> 00:02:56,075
-      and weave the design      
-        on the ground.          
+and weave the design on the ground.          
 
 44
 00:02:59,714 --> 00:03:03,182
-    this is the lace-weaving    
-             action             
-        in slow motion.         
+this is the lace-weaving action in slow motion.         
 
 45
 00:03:09,457 --> 00:03:11,857
-     the punch-card system      
-  allows for the same pattern   
+the punch-card system allows for the same pattern   
 
 46
 00:03:11,859 --> 00:03:14,093
-     to be woven repeatedly     
-        without error.          
+to be woven repeatedly without error.          
 
 47
 00:03:18,199 --> 00:03:20,933
-            it's all            
-   perfectly choreographed,     
+it's all perfectly choreographed,     
 
 48
 00:03:20,935 --> 00:03:22,935
- and this complex lace design   
+and this complex lace design   
 
 49
 00:03:22,937 --> 00:03:27,139
-     comes together quickly     
-        with no snarls.         
+comes together quickly with no snarls.         
 
 50
 00:03:27,141 --> 00:03:29,674
-           the result           
-    is a thing of beauty --     
+the result is a thing of beauty --     
 
 51
 00:03:29,676 --> 00:03:33,279
-  an intricate floral pattern   
-     on a mesh background.      
+an intricate floral pattern on a mesh background.      
 
 52
 00:03:38,285 --> 00:03:40,485
- the lace rolls by inspectors,  
+the lace rolls by inspectors,  
 
 53
 00:03:40,487 --> 00:03:44,023
- who scrutinize the needlework  
-          for flaws.            
+who scrutinize the needlework for flaws.            
 
 54
 00:03:44,025 --> 00:03:49,461
-  it then heads into a station  
-    with high-speed knives.     
+it then heads into a station with high-speed knives.     
 
 55
 00:03:49,463 --> 00:03:53,098
-   they cut the loose threads   
-              that              
-     run between the floral     
-            patterns            
+they cut the loose threads that run between the floral patterns            
 
 56
 00:03:53,100 --> 00:03:54,633
-   on the front of the lace.    
+on the front of the lace.    
 
 57
 00:03:54,635 --> 00:03:57,836
-   a worker finishes the job    
-           by hand,             
+a worker finishes the job by hand,             
 
 58
 00:03:57,838 --> 00:03:59,972
@@ -285,91 +236,73 @@ removing what the knives miss.
 
 59
 00:03:59,974 --> 00:04:03,308
-      here you can see the      
-           difference           
-      the trimming makes.       
+here you can see the difference the trimming makes.       
 
 60
 00:04:03,310 --> 00:04:07,179
-      the mesh between the      
-           needlework           
+the mesh between the needlework           
 is now completely transparent.  
 
 61
 00:04:07,181 --> 00:04:10,649
-     they mend the lace when    
-            needed,             
+they mend the lace when needed,             
 
 62
 00:04:10,651 --> 00:04:13,953
-   and then it's into a dying   
-  machine to add some color.    
+and then it's into a dying machine to add some color.    
 
 63
 00:04:19,060 --> 00:04:21,860
-         after rinsing,         
-  the now bright-yellow lace    
+after rinsing, the now bright-yellow lace    
 
 64
 00:04:21,862 --> 00:04:25,998
-     travels over bars under    
-             tension            
-    to wring out the water.     
+travels over bars under tension to wring out the water.     
 
 65
 00:04:26,000 --> 00:04:31,203
-     the lace, still damp,      
-   lands and accumulates in a   
-              bin,              
+the lace, still damp, lands and accumulates in a bin,              
 
 66
 00:04:31,205 --> 00:04:36,007
-     which they wheel over      
-    to a finishing machine.     
+which they wheel over to a finishing machine.     
 
 67
 00:04:36,009 --> 00:04:38,344
-     the finishing machine      
-   is equipped with rollers.    
+the finishing machine is equipped with rollers.    
 
 68
 00:04:38,346 --> 00:04:41,947
-         the first ones         
+the first ones         
 remove the curl from the lace.  
 
 69
 00:04:41,949 --> 00:04:44,950
-       the others take it       
-    through a chemical bath     
+the others take it through a chemical bath     
 
 70
 00:04:44,952 --> 00:04:47,219
-        for a treatment         
-  that both softens the lace    
+for a treatment that both softens the lace    
 
 71
 00:04:47,221 --> 00:04:49,321
-    and prevents shrinkage.     
+and prevents shrinkage.     
 
 72
 00:04:52,760 --> 00:04:56,629
- a trip through a dryer removes 
-   the water from the fabric    
+a trip through a dryer removes the water from the fabric    
 
 73
 00:04:56,631 --> 00:04:59,764
-           and cures            
-   the finishing chemicals.     
+and cures the finishing chemicals.     
 
 74
 00:04:59,766 --> 00:05:04,636
-  now complete, the lace exits  
-  onto a network of rollers.    
+now complete, the lace exits onto a network of rollers.    
 
 75
 00:05:04,638 --> 00:05:07,372
-         the final one          
- swings the fabric to and fro   
+the final one swings the fabric to and fro   
 
 76
 00:05:07,374 --> 00:05:09,174
@@ -377,106 +310,87 @@ so that it lands neatly folded
 
 77
 00:05:09,176 --> 00:05:11,277
-          for transfer          
-    to the packaging line.      
+for transfer to the packaging line.      
 
 78
 00:05:14,515 --> 00:05:17,583
-   heavy industrial machinery   
-   has produced this delicate   
-              lace              
+heavy industrial machinery has produced this delicate lace              
 
 79
 00:05:17,585 --> 00:05:21,053
-    in a matter of minutes.     
+in a matter of minutes.     
 
 80
 00:05:21,055 --> 00:05:24,322
-   they roll it and wrap it,    
+they roll it and wrap it,    
 
 81
 00:05:24,324 --> 00:05:27,860
-   and it's on its way to the   
-     fabric store or another    
-            factory.            
+and it's on its way to the fabric store or another factory.            
 
 82
 00:05:27,862 --> 00:05:31,063
-     no ordinary textile,       
+no ordinary textile,       
 
 83
 00:05:31,065 --> 00:05:34,199
- the factory-made lace will add 
- beauty to things of necessity  
+the factory-made lace will add beauty to things of necessity  
 
 84
 00:05:34,201 --> 00:05:37,202
-         like curtains,         
-   a tablecloth, or a dress.    
+like curtains, a tablecloth, or a dress.    
 
 85
 00:05:37,204 --> 00:05:40,406
-      its sheer good looks      
-    will add visual appeal      
+its sheer good looks will add visual appeal      
 
 86
 00:05:40,408 --> 00:05:42,641
-   to these ordinary items.     
+to these ordinary items.     
 
 87
 00:06:02,429 --> 00:06:04,696
-    narrator: it's important    
-     that the frame around a    
-            painting            
+narrator: it's important that the frame around a painting            
 
 88
 00:06:04,698 --> 00:06:06,565
-  be stylistically consistent   
+be stylistically consistent   
 
 89
 00:06:06,567 --> 00:06:09,567
-    with the period in which    
- the artist created the work.   
+with the period in which the artist created the work.   
 
 90
 00:06:09,569 --> 00:06:12,170
-   when you're dealing with a   
-     centuries-old painting,    
-            however,            
+when you're dealing with a centuries-old painting, however,            
 
 91
 00:06:12,172 --> 00:06:14,439
-       the original frame       
-    has often been replaced     
+the original frame has often been replaced     
 
 92
 00:06:14,441 --> 00:06:15,641
-       with a newer one.        
+with a newer one.        
 
 93
 00:06:15,643 --> 00:06:17,242
- the solution is commissioning  
+the solution is commissioning  
 
 94
 00:06:17,244 --> 00:06:19,678
-    an historically accurate    
-       antique replica.         
+an historically accurate antique replica.         
 
 95
 00:06:22,383 --> 00:06:24,850
-   when a painting's original   
-              frame             
-           is lost,             
+when a painting's original frame is lost,             
 
 96
 00:06:24,852 --> 00:06:27,519
-    a specialist can produce    
-       an exact replica         
+a specialist can produce an exact replica         
 
 97
 00:06:27,521 --> 00:06:30,522
-   or a historically accurate   
-         alternative.           
+or a historically accurate alternative.           
 
 98
 00:06:30,524 --> 00:06:32,657
@@ -484,53 +398,43 @@ basswood is the wood of choice
 
 99
 00:06:32,659 --> 00:06:35,928
-  because it's relatively soft  
-       and even-grained.        
+because it's relatively soft and even-grained.        
 
 100
 00:06:35,930 --> 00:06:39,899
-   first, they saw the length   
-    required for the frame.     
+first, they saw the length required for the frame.     
 
 101
 00:06:42,803 --> 00:06:46,605
-   then they plane the sides    
-  to smooth the rough edges.    
+then they plane the sides to smooth the rough edges.    
 
 102
 00:06:49,877 --> 00:06:53,679
-    next, they saw the piece    
-  to the required dimensions.   
+next, they saw the piece to the required dimensions.   
 
 103
 00:06:53,681 --> 00:06:57,349
- once pieces for all four sides 
-     of the frame are cut,      
+once pieces for all four sides of the frame are cut,      
 
 104
 00:06:57,351 --> 00:07:00,151
-    workers set up a machine    
-   called a molding planer.     
+workers set up a machine called a molding planer.     
 
 105
 00:07:00,153 --> 00:07:02,688
-  as its contoured steel blade  
-            spins,              
+as its contoured steel blade spins,              
 
 106
 00:07:02,690 --> 00:07:04,757
-   they run each piece against  
-              it,               
+they run each piece against it,               
 
 107
 00:07:04,759 --> 00:07:07,559
-  carving the blade's profile   
-        into the wood.          
+carving the blade's profile into the wood.          
 
 108
 00:07:09,830 --> 00:07:12,498
-          the workshop          
-    has thousand of blades,     
+the workshop has thousand of blades,     
 
 109
 00:07:12,500 --> 00:07:14,633
@@ -538,325 +442,268 @@ each with a different profile.
 
 110
 00:07:14,635 --> 00:07:16,702
-         they all began         
-    as a flat bar of steel,     
+they all began as a flat bar of steel,     
 
 111
 00:07:16,704 --> 00:07:20,239
- which the shop milled to shape 
- following a profile drawing.   
+which the shop milled to shape following a profile drawing.   
 
 112
 00:07:20,241 --> 00:07:23,976
- once each side is contoured,   
+once each side is contoured,   
 
 113
 00:07:23,978 --> 00:07:27,112
-      workers saw the ends      
-    at 45-degree angles...      
+workers saw the ends at 45-degree angles...      
 
 114
 00:07:29,516 --> 00:07:32,818
-   ...then cut a slot in each   
-              one.              
+...then cut a slot in each one.              
 
 115
 00:07:35,056 --> 00:07:38,390
-  they spread glue in the slot  
- and over the entire surface,   
+they spread glue in the slot and over the entire surface,   
 
 116
 00:07:38,392 --> 00:07:41,659
-     then insert a beechwood    
-            biscuit.            
+then insert a beechwood biscuit.            
 
 117
 00:07:41,661 --> 00:07:44,129
-      the biscuit goes in       
-         just halfway.          
+the biscuit goes in just halfway.          
 
 118
 00:07:44,131 --> 00:07:46,064
-  they insert the other half    
+they insert the other half    
 
 119
 00:07:46,066 --> 00:07:50,069
-      into the glued slot       
- of the adjoining frame piece.  
+into the glued slot of the adjoining frame piece.  
 
 120
 00:07:50,071 --> 00:07:54,673
-      once the glue dries,      
-    the master carver gets to   
-             work.              
+once the glue dries, the master carver gets to work.              
 
 121
 00:07:54,675 --> 00:07:56,474
-        with a pencil,          
+with a pencil,          
 
 122
 00:07:56,476 --> 00:07:59,278
-  he draws the frame's design   
-      onto tracing paper,       
+he draws the frame's design onto tracing paper,       
 
 123
 00:07:59,280 --> 00:08:02,147
-      then lays the paper       
-  upside down on the replica    
+then lays the paper upside down on the replica    
 
 124
 00:08:02,149 --> 00:08:04,083
-   and retraces the design,     
+and retraces the design,     
 
 125
 00:08:04,085 --> 00:08:08,053
- which transfers it in graphite 
-    onto the frame surface.     
+which transfers it in graphite onto the frame surface.     
 
 126
 00:08:10,157 --> 00:08:13,358
-  then he turns to his arsenal  
-      of 40-plus chisels        
+then he turns to his arsenal of 40-plus chisels        
 
 127
 00:08:13,360 --> 00:08:15,227
-     and begins carving out     
-          the design.           
+and begins carving out the design.           
 
 128
 00:08:15,229 --> 00:08:18,964
-        each chisel has         
-   a different shape and sized  
-              tip               
+each chisel has a different shape and sized tip               
 
 129
 00:08:18,966 --> 00:08:22,167
-      and therefore makes       
- a very specific type of cut.   
+and therefore makes a very specific type of cut.   
 
 130
 00:08:22,169 --> 00:08:24,636
-  he first cuts straight down   
-       along the outline        
+he first cuts straight down along the outline        
 
 131
 00:08:24,638 --> 00:08:26,638
-   to sever the wood grain.     
+to sever the wood grain.     
 
 132
 00:08:26,640 --> 00:08:29,441
-         this prevents          
+this prevents          
 the angled cuts, which follow,  
 
 133
 00:08:29,443 --> 00:08:32,177
-    from splitting the wood     
-      beyond the outline.       
+from splitting the wood beyond the outline.       
 
 134
 00:08:32,179 --> 00:08:33,978
-    interchanging chisels,      
+interchanging chisels,      
 
 135
 00:08:33,980 --> 00:08:36,448
-     he repeatedly removes      
-     small chunks of wood       
+he repeatedly removes small chunks of wood       
 
 136
 00:08:36,450 --> 00:08:38,584
-   until the design emerges.    
+until the design emerges.    
 
 137
 00:08:38,586 --> 00:08:42,187
- he clears away the wood chips  
-      with a wire brush.        
+he clears away the wood chips with a wire brush.        
 
 138
 00:08:42,189 --> 00:08:44,389
-     now the master gilder      
-          takes over,           
+now the master gilder takes over,           
 
 139
 00:08:44,391 --> 00:08:46,859
-          brushing on           
-  up to 20 coats of gesso --    
+brushing on up to 20 coats of gesso --    
 
 140
 00:08:46,861 --> 00:08:50,261
-    a traditional mixture of    
-             water,             
-      calcium carbonate,        
+a traditional mixture of water, calcium carbonate,        
 
 141
 00:08:50,263 --> 00:08:53,398
-    and a very flexible glue    
-    made from rabbit skin.      
+and a very flexible glue made from rabbit skin.      
 
 142
 00:08:53,400 --> 00:08:55,467
- flexibility prevents cracking  
+flexibility prevents cracking  
 
 143
 00:08:55,469 --> 00:08:58,203
-         when the wood          
-    expands and contracts.      
+when the wood expands and contracts.      
 
 144
 00:08:58,205 --> 00:08:59,737
-   he brushes on four coats     
+he brushes on four coats     
 
 145
 00:08:59,739 --> 00:09:01,739
- of another traditional mixture 
-         called bole.           
+of another traditional mixture called bole.           
 
 146
 00:09:01,741 --> 00:09:03,741
-      the ingredients --        
+the ingredients --        
 
 147
 00:09:03,743 --> 00:09:09,414
-    ultra-fine particle clay,   
-             water,             
- and, again, rabbit-skin glue.  
+ultra-fine particle clay, water, and, again, rabbit-skin glue.  
 
 148
 00:09:09,416 --> 00:09:11,550
-    bole provides background    
-            colors.             
+bole provides background colors.             
 
 149
 00:09:11,552 --> 00:09:13,485
-  it also provides a cushion    
+it also provides a cushion    
 
 150
 00:09:13,487 --> 00:09:16,488
-    between the gesso layer     
-      and the gold leaf.        
+between the gesso layer and the gold leaf.        
 
 151
 00:09:16,490 --> 00:09:19,691
- next, a coat of what's called  
-      gilder's liquor --        
+next, a coat of what's called gilder's liquor --        
 
 152
 00:09:19,693 --> 00:09:22,260
-     a combination of water,    
-            alcohol,            
+a combination of water, alcohol,            
 
 153
 00:09:22,262 --> 00:09:25,096
-       and either gelatin       
-     or rabbit-skin glue.       
+and either gelatin or rabbit-skin glue.       
 
 154
 00:09:25,098 --> 00:09:27,566
-          then he cuts          
-    a piece of gold leaf --     
+then he cuts a piece of gold leaf --     
 
 155
 00:09:27,568 --> 00:09:32,904
- a sheet of genuine gold a mere 
-    1/10,000 of a millimeter    
-             thick.             
+a sheet of genuine gold a mere 1/10,000 of a millimeter thick.             
 
 156
 00:09:32,906 --> 00:09:36,040
-    he applies it with a fine   
-              brush             
-    made of squirrel hair,      
+he applies it with a fine brush made of squirrel hair,      
 
 157
 00:09:36,042 --> 00:09:38,510
-  which he has lightly oiled.   
+which he has lightly oiled.   
 
 158
 00:09:38,512 --> 00:09:41,313
- as soon as he taps the frame,  
+as soon as he taps the frame,  
 
 159
 00:09:41,315 --> 00:09:44,716
-    the water in the gilder's   
-             liquor             
-     grabs the gold leaf,       
+the water in the gilder's liquor grabs the gold leaf,       
 
 160
 00:09:44,718 --> 00:09:48,120
- pulling it away from the oil,  
- adhering it to the bristles.   
+pulling it away from the oil, adhering it to the bristles.   
 
 161
 00:09:48,122 --> 00:09:50,255
-   this is the tricky part,     
+this is the tricky part,     
 
 162
 00:09:50,257 --> 00:09:52,190
-      because too much oil      
-         on the brush           
+because too much oil on the brush           
 
 163
 00:09:52,192 --> 00:09:54,259
-      or too little water       
-    in the gilder's liquor      
+or too little water in the gilder's liquor      
 
 164
 00:09:54,261 --> 00:09:57,262
-           can hinder           
-    this delicate transfer.     
+can hinder this delicate transfer.     
 
 165
 00:09:57,264 --> 00:10:00,532
-  next, the master gilder rubs  
-         select areas           
+next, the master gilder rubs select areas           
 
 166
 00:10:00,534 --> 00:10:03,801
-     with a polished agate,     
-       a natural stone.         
+with a polished agate, a natural stone.         
 
 167
 00:10:03,803 --> 00:10:07,072
-    this burnishing process     
-   compresses the gold leaf,    
+this burnishing process compresses the gold leaf,    
 
 168
 00:10:07,074 --> 00:10:09,675
-  making it smooth and shiny.   
+making it smooth and shiny.   
 
 169
 00:10:09,677 --> 00:10:13,412
-    now he'll make the frame    
-           look old.            
+now he'll make the frame look old.            
 
 170
 00:10:13,414 --> 00:10:16,014
-      he removes some gold      
-     from the high points       
+he removes some gold from the high points       
 
 171
 00:10:16,016 --> 00:10:18,216
-           to create            
-    the appearance of wear.     
+to create the appearance of wear.     
 
 172
 00:10:18,218 --> 00:10:22,421
- then he applies a tinted glaze 
-     to simulate patina --      
+then he applies a tinted glaze to simulate patina --      
 
 173
 00:10:22,423 --> 00:10:25,090
-       natural darkening        
-    that develops over time     
+natural darkening that develops over time     
 
 174
 00:10:25,092 --> 00:10:29,160
-    due to the accumulation     
-  of airborne dust and dirt.    
+due to the accumulation of airborne dust and dirt.    
 
 175
 00:10:29,162 --> 00:10:32,497
-     he works in the glaze      
-         with a brush           
+he works in the glaze with a brush           
 
 176
 00:10:32,499 --> 00:10:34,432
@@ -864,499 +711,399 @@ to distribute it strategically
 
 177
 00:10:34,434 --> 00:10:39,304
-    so that the fake patina     
-   looks perfectly natural.     
+so that the fake patina looks perfectly natural.     
 
 178
 00:10:39,306 --> 00:10:42,841
-        for this frame,         
-  he uses 23-karat gold leaf.   
+for this frame, he uses 23-karat gold leaf.   
 
 179
 00:10:42,843 --> 00:10:47,779
- gilders will also use 6-, 12-, 
-  14, 18-, and 22-karat leaf    
+gilders will also use 6-, 12-, 14, 18-, and 22-karat leaf    
 
 180
 00:10:47,781 --> 00:10:50,182
-           to achieve           
-   different shades of gold.    
+to achieve different shades of gold.    
 
 181
 00:10:50,184 --> 00:10:52,918
-     the higher the karat,      
-    the yellower the color,     
+the higher the karat, the yellower the color,     
 
 182
 00:10:52,920 --> 00:10:55,853
- due to the greater proportion  
-  of gold in the composition    
+due to the greater proportion of gold in the composition    
 
 183
 00:10:55,855 --> 00:11:00,292
-     and lesser proportion      
- of copper and silver alloys.   
+and lesser proportion of copper and silver alloys.   
 
 184
 00:11:13,140 --> 00:11:15,140
-           narrator:            
-    orchids are a standout.     
+narrator: orchids are a standout.     
 
 185
 00:11:15,142 --> 00:11:16,608
-    their exquisite beauty      
+their exquisite beauty      
 
 186
 00:11:16,610 --> 00:11:19,477
-      even caused a frenzy      
-    in the mid-19th century     
+even caused a frenzy in the mid-19th century     
 
 187
 00:11:19,479 --> 00:11:21,947
-      when wealthy british      
-           collectors           
-     hired orchid hunters       
+when wealthy british collectors hired orchid hunters       
 
 188
 00:11:21,949 --> 00:11:24,216
-      to search the world       
-       for new species.         
+to search the world for new species.         
 
 189
 00:11:24,218 --> 00:11:28,419
-     today, the fascination     
-    with orchids continues,     
+today, the fascination with orchids continues,     
 
 190
 00:11:28,421 --> 00:11:31,089
-      and cultivating them      
-    is a growing industry.      
+and cultivating them is a growing industry.      
 
 191
 00:11:34,761 --> 00:11:37,562
-    in thailand, orchids grow   
-             wild,              
+in thailand, orchids grow wild,              
 
 192
 00:11:37,564 --> 00:11:39,564
-      but the wild orchids      
-       have been tamed.         
+but the wild orchids have been tamed.         
 
 193
 00:11:39,566 --> 00:11:41,900
-          they've been          
-  hybridized and domesticated   
+they've been hybridized and domesticated   
 
 194
 00:11:41,902 --> 00:11:45,571
-   to satisfy a global demand   
-  for this fantastic flower.    
+to satisfy a global demand for this fantastic flower.    
 
 195
 00:11:47,775 --> 00:11:51,309
-   at this farm, cultivation    
-   starts with bud cuttings,    
+at this farm, cultivation starts with bud cuttings,    
 
 196
 00:11:51,311 --> 00:11:54,646
- mixed with nutrients and water 
-       in glass bottle.         
+mixed with nutrients and water in glass bottle.         
 
 197
 00:11:54,648 --> 00:11:57,782
-      the bottle provides       
-       a germ-free growing      
-          environment,          
+the bottle provides a germ-free growing environment,          
 
 198
 00:11:57,784 --> 00:11:59,718
-      keeping the cuttings      
-         disease-free           
+keeping the cuttings disease-free           
 
 199
 00:11:59,720 --> 00:12:02,453
-     as they grow into baby     
-            orchids.            
+as they grow into baby orchids.            
 
 200
 00:12:02,455 --> 00:12:05,123
-  this takes a year or more.    
+this takes a year or more.    
 
 201
 00:12:05,125 --> 00:12:07,859
- when the plants have developed 
-     a strong root system,      
+when the plants have developed a strong root system,      
 
 202
 00:12:07,861 --> 00:12:09,895
-   they're ready to come out    
-        into the world.         
+they're ready to come out into the world.         
 
 203
 00:12:12,132 --> 00:12:15,734
-  the worker deposits the baby  
-    orchids in a tub of clean   
-             water              
+the worker deposits the baby orchids in a tub of clean water              
 
 204
 00:12:15,736 --> 00:12:19,571
- and swishes each one around to 
+and swishes each one around to 
 give their roots a good rinse.  
 
 205
 00:12:23,009 --> 00:12:27,479
- she transfers the baby orchids 
-     to a perforated plastic    
-            basket.             
+she transfers the baby orchids to a perforated plastic basket.             
 
 206
 00:12:30,750 --> 00:12:33,352
-     a wad of coconut fiber     
-        soaked in water         
+a wad of coconut fiber soaked in water         
 
 207
 00:12:33,354 --> 00:12:35,887
-            provides            
- the next growing environment.  
+provides the next growing environment.  
 
 208
 00:12:37,958 --> 00:12:40,759
-       the worker places        
- the roots of each baby plant   
+the worker places the roots of each baby plant   
 
 209
 00:12:40,761 --> 00:12:42,227
-      in one of the wads.       
+in one of the wads.       
 
 210
 00:12:42,229 --> 00:12:46,231
-  she wraps the fiber snuggly   
-       and ties the wad.        
+she wraps the fiber snuggly and ties the wad.        
 
 211
 00:12:48,769 --> 00:12:52,637
-  she places the fiber-wrapped  
-   orchids in growing cells.    
+she places the fiber-wrapped orchids in growing cells.    
 
 212
 00:12:52,639 --> 00:12:57,975
- the team waters and fertilizes 
- them for four to six months.   
+the team waters and fertilizes them for four to six months.   
 
 213
 00:12:57,977 --> 00:13:01,446
- the orchids grow to midsize,   
+the orchids grow to midsize,   
 
 214
 00:13:01,448 --> 00:13:04,916
-  and the plant's root system   
-          flourishes.           
+and the plant's root system flourishes.           
 
 215
 00:13:04,918 --> 00:13:08,787
-    the plants are now ready    
- for the next phase of growth.  
+the plants are now ready for the next phase of growth.  
 
 216
 00:13:08,789 --> 00:13:13,258
-  they transfer the mid-sized   
-   orchids to coconut husks.    
+they transfer the mid-sized orchids to coconut husks.    
 
 217
 00:13:16,664 --> 00:13:21,867
-   the husks act as a kind of   
-              plant             
- pot and growing media in one.  
+the husks act as a kind of plant pot and growing media in one.  
 
 218
 00:13:21,869 --> 00:13:26,270
-  they absorb water to provide  
-    a constant supply to the    
-            plants.             
+they absorb water to provide a constant supply to the plants.             
 
 219
 00:13:26,272 --> 00:13:28,073
- the plants grow on the husks.  
+the plants grow on the husks.  
 
 220
 00:13:28,075 --> 00:13:32,344
-      no soil is needed.        
+no soil is needed.        
 
 221
 00:13:32,346 --> 00:13:36,882
-  in nature, orchids flourish   
-    on tree bark or cracks in   
-             rocks,             
+in nature, orchids flourish on tree bark or cracks in rocks,             
 
 222
 00:13:36,884 --> 00:13:39,885
-       and coconut husks        
-   are the next best thing.     
+and coconut husks are the next best thing.     
 
 223
 00:13:39,887 --> 00:13:44,489
- overhead, a nylon-fabric roof  
-       diffuses sunlight        
+overhead, a nylon-fabric roof diffuses sunlight        
 
 224
 00:13:44,491 --> 00:13:47,759
-     to simulate conditions     
- found in a shady rainforest.   
+to simulate conditions found in a shady rainforest.   
 
 225
 00:13:47,761 --> 00:13:51,163
-       too much light and       
-     the heat would harm the    
-            plants.             
+too much light and the heat would harm the plants.             
 
 226
 00:13:55,102 --> 00:13:58,370
-  gardeners regularly observe   
-  the growth of the orchids.    
+gardeners regularly observe the growth of the orchids.    
 
 227
 00:13:58,372 --> 00:14:01,840
-     they're on the lookout     
+they're on the lookout     
 for disease or other problems.  
 
 228
 00:14:01,842 --> 00:14:04,242
-     not all of the plants      
-         will thrive.           
+not all of the plants will thrive.           
 
 229
 00:14:04,244 --> 00:14:07,045
-          they'll lose          
-    about 10% of the crop.      
+they'll lose about 10% of the crop.      
 
 230
 00:14:09,917 --> 00:14:11,649
-    they fertilize and water    
-          the orchids           
+they fertilize and water the orchids           
 
 231
 00:14:11,651 --> 00:14:14,185
-    over a period of several    
-            months.             
+over a period of several months.             
 
 232
 00:14:14,187 --> 00:14:17,522
-     many of the plants are     
-            hybrids,            
+many of the plants are hybrids,            
 
 233
 00:14:17,524 --> 00:14:21,993
- created by crossing species to 
-   achieve a certain color or   
-             shape              
+created by crossing species to achieve a certain color or shape              
 
 234
 00:14:21,995 --> 00:14:24,996
-    or to improve the plant's   
-             vigor.             
+or to improve the plant's vigor.             
 
 235
 00:14:24,998 --> 00:14:27,665
-   with thousands of species    
-     available in nature,       
+with thousands of species available in nature,       
 
 236
 00:14:27,667 --> 00:14:30,334
-   the potential combinations   
-       are never-ending,        
+the potential combinations are never-ending,        
 
 237
 00:14:30,336 --> 00:14:33,372
-        and the results         
-     are always stunning.       
+and the results are always stunning.       
 
 238
 00:14:36,676 --> 00:14:40,212
-    with the orchids in full    
-             bloom,             
-  it's time for the harvest.    
+with the orchids in full bloom, it's time for the harvest.    
 
 239
 00:14:42,816 --> 00:14:45,617
-    workers cut the orchids     
-   at the base of the stems,    
+workers cut the orchids at the base of the stems,    
 
 240
 00:14:45,619 --> 00:14:49,087
-   with an eye to making them   
+with an eye to making them   
 approximately the same length.  
 
 241
 00:14:52,626 --> 00:14:56,027
-    in the packing room, they   
-              tweak             
-    the length of the stems     
+in the packing room, they tweak the length of the stems     
 
 242
 00:14:56,029 --> 00:14:59,430
-        until each bunch        
-     is perfectly uniform.      
+until each bunch is perfectly uniform.      
 
 243
 00:14:59,432 --> 00:15:01,900
-    they make this final cut    
-         on an angle.           
+they make this final cut on an angle.           
 
 244
 00:15:01,902 --> 00:15:04,970
- this creates a larger surface  
-      for absorbing water       
+this creates a larger surface for absorbing water       
 
 245
 00:15:04,972 --> 00:15:08,240
-         so the orchid          
-    will stay fresh longer.     
+so the orchid will stay fresh longer.     
 
 246
 00:15:08,242 --> 00:15:11,943
-     they sort the flowers      
-   by the size of the bloom.    
+they sort the flowers by the size of the bloom.    
 
 247
 00:15:14,981 --> 00:15:17,649
-     they insert the stems      
-      in plastic capsules       
+they insert the stems in plastic capsules       
 
 248
 00:15:17,651 --> 00:15:21,052
-          that contain          
-     a flower-food and water    
-            mixture.            
+that contain a flower-food and water mixture.            
 
 249
 00:15:21,054 --> 00:15:23,187
-      this should maintain      
-    the orchids' freshness      
+this should maintain the orchids' freshness      
 
 250
 00:15:23,189 --> 00:15:25,056
-       during shipping.         
+during shipping.         
 
 251
 00:15:28,061 --> 00:15:31,329
-      it's time to wrap up      
-    each stunning display.      
+it's time to wrap up each stunning display.      
 
 252
 00:15:31,331 --> 00:15:36,268
-     the plastic sleeve will    
-            preserve            
-  them on the journey ahead.    
+the plastic sleeve will preserve them on the journey ahead.    
 
 253
 00:15:38,938 --> 00:15:43,541
-  this particular orchid is a   
-     hybrid species known as    
-            mokara.             
+this particular orchid is a hybrid species known as mokara.             
 
 254
 00:15:43,543 --> 00:15:45,143
-     extremely desirable,       
+extremely desirable,       
 
 255
 00:15:45,145 --> 00:15:48,613
-    cut mokara orchids should   
-              bloom             
-    for up to three weeks.      
+cut mokara orchids should bloom for up to three weeks.      
 
 256
 00:15:48,615 --> 00:15:52,684
-    en route to the airport     
+en route to the airport     
 in a climate-controlled truck,  
 
 257
 00:15:52,686 --> 00:15:55,620
-        they'll soon be         
-  on an international flight.   
+they'll soon be on an international flight.   
 
 258
 00:15:55,622 --> 00:15:58,757
-          thai orchids          
-  are sold around the world.    
+thai orchids are sold around the world.    
 
 259
 00:15:58,759 --> 00:16:00,292
-  chances are they'll end up    
+chances are they'll end up    
 
 260
 00:16:00,294 --> 00:16:03,361
-  at the center of a big event  
-      in someone's life,        
+at the center of a big event in someone's life,        
 
 261
 00:16:03,363 --> 00:16:05,830
-          and whether           
- it's a wedding or a birthday,  
+and whether it's a wedding or a birthday,  
 
 262
 00:16:05,832 --> 00:16:09,668
-   these stunning orchids will  
-               add              
-    something special to the    
-             party.             
+these stunning orchids will add something special to the party.             
 
 263
 00:16:23,717 --> 00:16:26,050
-     narrator: the key part     
-    of a wheel is its hub,      
+narrator: the key part of a wheel is its hub,      
 
 264
 00:16:26,052 --> 00:16:29,120
-   the central point to which   
-    all the spokes attach.      
+the central point to which all the spokes attach.      
 
 265
 00:16:29,122 --> 00:16:31,856
-    it's comprised of a body    
-   which receives the spokes    
+it's comprised of a body which receives the spokes    
 
 266
 00:16:31,858 --> 00:16:34,926
-     and houses an axle and     
-           bearings.            
+and houses an axle and bearings.            
 
 267
 00:16:34,928 --> 00:16:36,528
-     if the wheel has a gear    
-            system,             
+if the wheel has a gear system,             
 
 268
 00:16:36,530 --> 00:16:37,996
- then those gears and a clutch  
+then those gears and a clutch  
 
 269
 00:16:37,998 --> 00:16:40,065
-      are also integrated       
-         into the hub.          
+are also integrated into the hub.          
 
 270
 00:16:42,469 --> 00:16:45,136
-        this is the only        
-     commercially available     
-            unicycle            
+this is the only commercially available unicycle            
 
 271
 00:16:45,138 --> 00:16:46,605
-    with a gearing system.      
+with a gearing system.      
 
 272
 00:16:46,607 --> 00:16:48,540
-   located on the wheel hub,    
+located on the wheel hub,    
 
 273
 00:16:48,542 --> 00:16:50,342
-      it enables the rider      
-       to push a button         
+it enables the rider to push a button         
 
 274
 00:16:50,344 --> 00:16:53,144
-   to shift from regular gear   
-        into high gear          
+to shift from regular gear into high gear          
 
 275
 00:16:53,146 --> 00:16:55,346
@@ -1364,359 +1111,295 @@ and reach 25 miles per hour --
 
 276
 00:16:55,348 --> 00:16:59,083
-        twice the speed         
-    of a regular unicycle.      
+twice the speed of a regular unicycle.      
 
 277
 00:16:59,085 --> 00:17:02,554
- the geared wheel hub contains  
-  six identical small gears,    
+the geared wheel hub contains six identical small gears,    
 
 278
 00:17:02,556 --> 00:17:05,423
-            rotating            
- around a large central gear.   
+rotating around a large central gear.   
 
 279
 00:17:05,425 --> 00:17:07,358
-        the central one         
-    is called the sun wheel     
+the central one is called the sun wheel     
 
 280
 00:17:07,360 --> 00:17:10,028
-      and the small ones,       
-       planetary gears,         
+and the small ones, planetary gears,         
 
 281
 00:17:10,030 --> 00:17:12,564
-      because they revolve      
-    around the central gear     
+because they revolve around the central gear     
 
 282
 00:17:12,566 --> 00:17:14,499
-        the way planets         
-    revolve around the sun.     
+the way planets revolve around the sun.     
 
 283
 00:17:14,501 --> 00:17:19,504
- each of the small gears begins 
- as a disk-shaped steel blank.  
+each of the small gears begins as a disk-shaped steel blank.  
 
 284
 00:17:19,506 --> 00:17:22,773
-        a conventional,         
+a conventional,         
 1950s-era gear-cutting machine  
 
 285
 00:17:22,775 --> 00:17:24,542
-      cuts teeth into it        
+cuts teeth into it        
 
 286
 00:17:24,544 --> 00:17:28,179
- as a shower of oil washes away 
-     the shards of metal.       
+as a shower of oil washes away the shards of metal.       
 
 287
 00:17:28,181 --> 00:17:30,982
-       the oil also cools       
-    and lubricates the tool     
+the oil also cools and lubricates the tool     
 
 288
 00:17:30,984 --> 00:17:34,653
-       so that it doesn't       
-       overheat or jam.         
+so that it doesn't overheat or jam.         
 
 289
 00:17:34,655 --> 00:17:36,921
-     after about 30 seconds     
-         of machining,          
+after about 30 seconds of machining,          
 
 290
 00:17:36,923 --> 00:17:40,124
-          the blank is          
-     a fully shaped gear.       
+the blank is a fully shaped gear.       
 
 291
 00:17:40,126 --> 00:17:42,661
-     an even older machine,     
-          circa 1930,           
+an even older machine, circa 1930,           
 
 292
 00:17:42,663 --> 00:17:45,463
-      mills a larger blank      
-    into the central gear.      
+mills a larger blank into the central gear.      
 
 293
 00:17:45,465 --> 00:17:48,132
-            however,            
- because this gear is bigger,   
+however, because this gear is bigger,   
 
 294
 00:17:48,134 --> 00:17:49,601
-   cutting the teeth into it    
+cutting the teeth into it    
 
 295
 00:17:49,603 --> 00:17:53,138
-      takes much longer --      
-      about two minutes.        
+takes much longer -- about two minutes.        
 
 296
 00:17:53,140 --> 00:17:55,607
-     once all the gears are     
-           machined,            
+once all the gears are machined,            
 
 297
 00:17:55,609 --> 00:17:58,676
-   they, along with the hub's   
-    other steel components,     
+they, along with the hub's other steel components,     
 
 298
 00:17:58,678 --> 00:18:03,614
-        undergo a complex       
-         heat-treatment         
-    process to strengthen the   
-             steel.             
+undergo a complex heat-treatment process to strengthen the steel.             
 
 299
 00:18:03,616 --> 00:18:05,950
-   elsewhere in the factory,    
+elsewhere in the factory,    
 
 300
 00:18:05,952 --> 00:18:08,887
-        workers assemble        
- the two halves of the clutch,  
+workers assemble the two halves of the clutch,  
 
 301
 00:18:08,889 --> 00:18:11,222
-   the component which locks    
-   into regular or high gear    
+the component which locks into regular or high gear    
 
 302
 00:18:11,224 --> 00:18:13,691
-    when the rider shifts.      
+when the rider shifts.      
 
 303
 00:18:13,693 --> 00:18:16,761
-    using a cylindrical tool    
-       called a broach,         
+using a cylindrical tool called a broach,         
 
 304
 00:18:16,763 --> 00:18:19,898
-      the machine grooves       
- in the center of the clutch.   
+the machine grooves in the center of the clutch.   
 
 305
 00:18:19,900 --> 00:18:23,134
-       slots on the axle        
- will fit into these grooves.   
+slots on the axle will fit into these grooves.   
 
 306
 00:18:27,640 --> 00:18:30,375
-       next, they unscrew       
- the two halves of the clutch   
+next, they unscrew the two halves of the clutch   
 
 307
 00:18:30,377 --> 00:18:33,578
-  and mount eight hollow pins   
-         in each one.           
+and mount eight hollow pins in each one.           
 
 308
 00:18:33,580 --> 00:18:37,649
- in one half, they also install 
-  three longer alignment pins   
+in one half, they also install three longer alignment pins   
 
 309
 00:18:37,651 --> 00:18:41,586
-      and a greased spring      
-    inside each hollow pin.     
+and a greased spring inside each hollow pin.     
 
 310
 00:18:41,588 --> 00:18:45,123
-    then they thread the two    
-             halves             
- of the clutch onto the axle,   
+then they thread the two halves of the clutch onto the axle,   
 
 311
 00:18:45,125 --> 00:18:47,859
-    aligning the axle slots     
-    in the clutch's grooves     
+aligning the axle slots in the clutch's grooves     
 
 312
 00:18:47,861 --> 00:18:49,794
-   and the pins on one half     
+and the pins on one half     
 
 313
 00:18:49,796 --> 00:18:53,998
-    with corresponding pins     
-    and holes on the other.     
+with corresponding pins and holes on the other.     
 
 314
 00:18:54,000 --> 00:18:56,668
-   after fastening the halves   
-     together once again,       
+after fastening the halves together once again,       
 
 315
 00:18:56,670 --> 00:18:58,936
-           they mount           
-    the six planetary gears     
+they mount the six planetary gears     
 
 316
 00:18:58,938 --> 00:19:00,672
-        on a ring called        
-      the planet carrier,       
+on a ring called the planet carrier,       
 
 317
 00:19:00,674 --> 00:19:03,541
- then install it on the axle.   
+then install it on the axle.   
 
 318
 00:19:03,543 --> 00:19:05,943
-     the spring-loaded pins     
-         on the clutch          
+the spring-loaded pins on the clutch          
 
 319
 00:19:05,945 --> 00:19:08,813
- click into corresponding slots 
-    on the planet carrier.      
+click into corresponding slots on the planet carrier.      
 
 320
 00:19:08,815 --> 00:19:11,482
-   these slots are engineered   
-        to fit the pins         
+these slots are engineered to fit the pins         
 
 321
 00:19:11,484 --> 00:19:16,821
-       with no more than        
- .01 millimeters of clearance.  
+with no more than .01 millimeters of clearance.  
 
 322
 00:19:16,823 --> 00:19:19,223
-         after securing         
+after securing         
 the planet carrier to the axle  
 
 323
 00:19:19,225 --> 00:19:20,558
-    with a retaining clip,      
+with a retaining clip,      
 
 324
 00:19:20,560 --> 00:19:22,761
-   they insert ball bearings    
-         with a spring          
+they insert ball bearings with a spring          
 
 325
 00:19:22,763 --> 00:19:25,430
-          in two holes          
+in two holes          
 on opposite sides of the axle.  
 
 326
 00:19:25,432 --> 00:19:29,700
-  a retaining ring holds these  
-    spring-loaded bearings in   
-             place.             
+a retaining ring holds these spring-loaded bearings in place.             
 
 327
 00:19:29,702 --> 00:19:32,904
-  meanwhile, a laser engraver   
-    etches the company logo     
+meanwhile, a laser engraver etches the company logo     
 
 328
 00:19:32,906 --> 00:19:35,640
-   and product identification   
-    on the wheel-hub body.      
+and product identification on the wheel-hub body.      
 
 329
 00:19:35,642 --> 00:19:38,309
-        the body is made        
-   of high-strength aluminum    
+the body is made of high-strength aluminum    
 
 330
 00:19:38,311 --> 00:19:40,445
-        that's undergone        
- an electrochemical treatment   
+that's undergone an electrochemical treatment   
 
 331
 00:19:40,447 --> 00:19:43,447
-           to make it           
-      corrosion-resistant.      
+to make it corrosion-resistant.      
 
 332
 00:19:43,449 --> 00:19:46,451
-    they mount the hub body     
-     on a hydraulic press       
+they mount the hub body on a hydraulic press       
 
 333
 00:19:46,453 --> 00:19:48,186
-   and insert the sun wheel,    
+and insert the sun wheel,    
 
 334
 00:19:48,188 --> 00:19:50,722
-           surrounded           
-   by a large ball bearing.     
+surrounded by a large ball bearing.     
 
 335
 00:19:50,724 --> 00:19:52,590
- then they activate the press,  
+then they activate the press,  
 
 336
 00:19:52,592 --> 00:19:55,060
-   which forces the sun wheel   
-        into the body.          
+which forces the sun wheel into the body.          
 
 337
 00:19:55,062 --> 00:19:57,261
-     they install the body      
-         on the axle,           
+they install the body on the axle,           
 
 338
 00:19:57,263 --> 00:19:58,863
-   positioning the sun wheel    
+positioning the sun wheel    
 
 339
 00:19:58,865 --> 00:20:01,599
-      right in the center       
-    of the planetary gears.     
+right in the center of the planetary gears.     
 
 340
 00:20:01,601 --> 00:20:06,137
-   a cover protects the gears   
-              from              
+a cover protects the gears from              
 dust, dirt, and precipitation.  
 
 341
 00:20:06,139 --> 00:20:08,540
-   on the opposite end of the   
-             body,              
+on the opposite end of the body,              
 
 342
 00:20:08,542 --> 00:20:10,542
-     they install additional    
-            bearings            
+they install additional bearings            
 
 343
 00:20:10,544 --> 00:20:13,745
-       and affix a cover        
-       with nine screws.        
+and affix a cover with nine screws.        
 
 344
 00:20:13,747 --> 00:20:16,080
-   now the shift buttons --     
+now the shift buttons --     
 
 345
 00:20:16,082 --> 00:20:18,750
-      a chrome-plated one       
-      for shifting down,        
+a chrome-plated one for shifting down,        
 
 346
 00:20:18,752 --> 00:20:21,152
-       a gold-plated one        
-       for shifting up.         
+a gold-plated one for shifting up.         
 
 347
 00:20:21,154 --> 00:20:25,489
-     both screw into a shaft    
-             running            
-    through the center of the   
-             axle.              
+both screw into a shaft running through the center of the axle.              
 
 348
 00:20:25,491 --> 00:20:26,891
@@ -1724,93 +1407,79 @@ the two spring-loaded bearings
 
 349
 00:20:26,893 --> 00:20:29,093
-  workers inserted in the axle  
-            earlier             
+workers inserted in the axle earlier             
 
 350
 00:20:29,095 --> 00:20:30,961
-   hold that shaft in place.    
+hold that shaft in place.    
 
 351
 00:20:30,963 --> 00:20:35,366
- this cross-section model shows 
+this cross-section model shows 
 how everything comes together.  
 
 352
 00:20:35,368 --> 00:20:37,635
-        the shift button        
-       moves the shaft,         
+the shift button moves the shaft,         
 
 353
 00:20:37,637 --> 00:20:41,505
-     which moves the clutch     
-    to lock into the selected   
-             gear.              
+which moves the clutch to lock into the selected gear.              
 
 354
 00:20:41,507 --> 00:20:42,974
-       in regular gear,         
+in regular gear,         
 
 355
 00:20:42,976 --> 00:20:46,845
- pedaling one revolution makes  
+pedaling one revolution makes  
 the wheel turn one revolution.  
 
 356
 00:20:46,847 --> 00:20:49,313
-     when the rider shifts      
-         to high gear,          
+when the rider shifts to high gear,          
 
 357
 00:20:49,315 --> 00:20:51,316
-    pedaling one revolution     
+pedaling one revolution     
 
 358
 00:20:51,318 --> 00:20:54,452
-      makes the wheel turn      
-      1 1/2 revolutions.        
+makes the wheel turn 1 1/2 revolutions.        
 
 359
 00:20:54,454 --> 00:20:59,657
- the unicycle moves 50% further 
-     as a result of the same    
-            action.             
+the unicycle moves 50% further as a result of the same action.             
 
 360
 00:20:59,659 --> 00:21:02,861
-  riders use the regular gear   
-         for climbing           
+riders use the regular gear for climbing           
 
 361
 00:21:02,863 --> 00:21:05,797
-      and the higher gear       
- for flat or downhill terrain.  
+and the higher gear for flat or downhill terrain.  
 
 362
 00:21:05,799 --> 00:21:07,699
-   they hit the shift button    
+they hit the shift button    
 
 363
 00:21:07,701 --> 00:21:10,001
-    with their heel or ankle    
-       while pedaling --        
+with their heel or ankle while pedaling --        
 
 364
 00:21:10,003 --> 00:21:14,773
- a quick, slight movement that  
- won't throw them off balance.  
+a quick, slight movement that won't throw them off balance.  
 
 365
 00:21:25,351 --> 00:21:28,419
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 366
 00:21:28,421 --> 00:21:31,088
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 367
 00:21:31,090 --> 00:21:34,192
-     drop us a line at...       
+drop us a line at...       
 

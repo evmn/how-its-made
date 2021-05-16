@@ -1,211 +1,181 @@
 1
 00:00:22,223 --> 00:00:24,656
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 2
 00:00:26,460 --> 00:00:28,127
-           ...ropes...          
+...ropes...          
 
 3
 00:00:32,099 --> 00:00:33,899
-      ...billiard tables...     
+...billiard tables...     
 
 4
 00:00:37,838 --> 00:00:39,238
-        ...sailboards...        
+...sailboards...        
 
 5
 00:00:43,544 --> 00:00:45,144
-         ...and cymbals.        
+...and cymbals.        
 
 6
 00:00:52,720 --> 00:00:56,188
-     years ago, making rope     
-  was a time-consuming process. 
+years ago, making rope was a time-consuming process. 
 
 7
 00:00:56,323 --> 00:00:58,790
-       they stretched yarn      
-      700 to 1,000 feet --      
+they stretched yarn 700 to 1,000 feet --      
 
 8
 00:00:58,793 --> 00:01:00,259
-    sometimes down alleys --    
+sometimes down alleys --    
 
 9
 00:01:00,261 --> 00:01:01,527
-    and secured it on hooks.    
+and secured it on hooks.    
 
 10
 00:01:01,662 --> 00:01:04,062
-    then, they turned wheels    
-      to rotate the hooks,      
+then, they turned wheels to rotate the hooks,      
 
 11
 00:01:04,098 --> 00:01:05,998
-  twisting the yarn into rope.  
+twisting the yarn into rope.  
 
 12
 00:01:06,000 --> 00:01:08,267
-    this technique was called   
-          a rope walk.          
+this technique was called a rope walk.          
 
 13
 00:01:08,269 --> 00:01:11,637
 luckily, today, we have machines
-   to do all the work for us.   
+to do all the work for us.   
 
 14
 00:01:17,311 --> 00:01:20,145
-    these ropes are made from   
-    thousands of nylon fibers   
+these ropes are made from thousands of nylon fibers   
 
 15
 00:01:20,214 --> 00:01:23,348
- that are finer than human hair 
-          but stronger.         
+that are finer than human hair but stronger.         
 
 16
 00:01:23,350 --> 00:01:26,685
-    to make rope, yarns wind    
-    around aluminum cylinders   
+to make rope, yarns wind around aluminum cylinders   
 
 17
 00:01:26,687 --> 00:01:29,288
-    pulled by a turning spool   
-         down the line.         
+pulled by a turning spool down the line.         
 
 18
 00:01:29,423 --> 00:01:32,758
 then, three at a time, the yarns
-     roll over another spool    
+roll over another spool    
 
 19
 00:01:32,893 --> 00:01:35,494
-    that applies a protective   
-      coating of urethane.      
+that applies a protective coating of urethane.      
 
 20
 00:01:35,563 --> 00:01:37,629
-       they funnel through      
-      a distribution plate      
+they funnel through a distribution plate      
 
 21
 00:01:37,698 --> 00:01:39,764
-  that holds them evenly apart. 
+that holds them evenly apart. 
 
 22
 00:01:39,834 --> 00:01:41,766
-          this ensures          
-   they're at an even tension   
+this ensures they're at an even tension   
 
 23
 00:01:41,836 --> 00:01:44,770
- as a rocking spool twists them 
-      into one larger yarn.     
+as a rocking spool twists them into one larger yarn.     
 
 24
 00:01:51,311 --> 00:01:53,311
-     this machine is called     
-         the whirlwind.         
+this machine is called the whirlwind.         
 
 25
 00:01:53,347 --> 00:01:54,713
-       it twists the yarn       
+it twists the yarn       
 
 26
 00:01:54,715 --> 00:01:58,917
-     and then winds it onto     
-     a take-up spool inside.    
+and then winds it onto a take-up spool inside.    
 
 27
 00:01:58,953 --> 00:02:00,919
-          a little arm          
-      moves back and forth,     
+a little arm moves back and forth,     
 
 28
 00:02:01,054 --> 00:02:05,056
-     guiding the yarn so it     
-  winds evenly onto the spool.  
+guiding the yarn so it winds evenly onto the spool.  
 
 29
 00:02:05,092 --> 00:02:09,061
- this is core yarn, and it will 
-   be used to make other rope.  
+this is core yarn, and it will be used to make other rope.  
 
 30
 00:02:11,031 --> 00:02:15,333
-  now dozens of spools of nylon 
-  fiber unwind at the same time 
+now dozens of spools of nylon fiber unwind at the same time 
 
 31
 00:02:15,369 --> 00:02:18,203
-   to make jackets to protect   
-         the core yarns.        
+to make jackets to protect the core yarns.        
 
 32
 00:02:18,272 --> 00:02:22,007
- the fibers travel several feet 
-    over a network of rollers   
+the fibers travel several feet over a network of rollers   
 
 33
 00:02:22,142 --> 00:02:24,008
-       that act as guides       
-       and control tension      
+that act as guides and control tension      
 
 34
 00:02:24,044 --> 00:02:26,278
-    on each individual fiber.   
+on each individual fiber.   
 
 35
 00:02:26,413 --> 00:02:28,614
-        they pass through       
-       distribution plates      
+they pass through distribution plates      
 
 36
 00:02:28,616 --> 00:02:31,617
-    as turning bobbins below    
-   twist the fibers into yarn.  
+as turning bobbins below twist the fibers into yarn.  
 
 37
 00:02:33,754 --> 00:02:35,420
-  a platform moves up and down  
+a platform moves up and down  
 
 38
 00:02:35,422 --> 00:02:37,756
-     to evenly wind the yarn    
-        onto the bobbin.        
+to evenly wind the yarn onto the bobbin.        
 
 39
 00:02:37,891 --> 00:02:41,226
- they place 48 of these bobbins 
-    on the maypole machine --   
+they place 48 of these bobbins on the maypole machine --   
 
 40
 00:02:41,361 --> 00:02:43,695
-            so called           
-   because the braiding action  
+so called because the braiding action  
 
 41
 00:02:43,764 --> 00:02:46,431
-    resembles a dance around    
-     a traditional maypole.     
+resembles a dance around a traditional maypole.     
 
 42
 00:02:49,170 --> 00:02:52,104
-   the bobbins spin and zigzag  
-        around each other       
+the bobbins spin and zigzag around each other       
 
 43
 00:02:52,106 --> 00:02:55,307
- as the machine pulls core yarn 
-     up through the center.     
+as the machine pulls core yarn up through the center.     
 
 44
 00:02:55,309 --> 00:02:58,910
 here, you can see the rope being
-  braided around the core yarn  
+braided around the core yarn  
 
 45
 00:02:58,913 --> 00:03:01,313
@@ -213,27 +183,24 @@ as it's pulled up through a die.
 
 46
 00:03:01,315 --> 00:03:04,016
-   this is the braiding action  
-         in slow motion.        
+this is the braiding action in slow motion.        
 
 47
 00:03:09,657 --> 00:03:13,592
- it produces a mountain-climbing
-   rope -- strong yet stretchy  
+it produces a mountain-climbing
+rope -- strong yet stretchy  
 
 48
 00:03:13,661 --> 00:03:16,728
-      because of the twist      
-    in the core of the rope.    
+because of the twist in the core of the rope.    
 
 49
 00:03:16,863 --> 00:03:19,398
-  the rope winds onto the wheel 
-     as it pulls it upwards.    
+the rope winds onto the wheel as it pulls it upwards.    
 
 50
 00:03:19,533 --> 00:03:22,400
-  then it spills into a basket. 
+then it spills into a basket. 
 
 51
 00:03:22,469 --> 00:03:24,135
@@ -241,280 +208,240 @@ a worker pulls out a sample rope
 
 52
 00:03:24,205 --> 00:03:26,404
-    to checks its flexibility   
-          and strength.         
+to checks its flexibility and strength.         
 
 53
 00:03:26,473 --> 00:03:28,974
-    he bends it to make sure    
-      it will knot easily.      
+he bends it to make sure it will knot easily.      
 
 54
 00:03:32,613 --> 00:03:35,681
-   now another maypole braider  
-     weaves a synthetic rope    
+now another maypole braider weaves a synthetic rope    
 
 55
 00:03:35,816 --> 00:03:39,217
-   that's stronger than steel   
-  yet lightweight and flexible. 
+that's stronger than steel yet lightweight and flexible. 
 
 56
 00:03:39,220 --> 00:03:41,286
-   that's because the strands   
-           at the core          
+that's because the strands at the core          
 
 57
 00:03:41,322 --> 00:03:42,821
-           are braided          
-     with a material called     
+are braided with a material called     
 
 58
 00:03:42,823 --> 00:03:45,690
-   ultra-high molecular weight  
-          polyethylene.         
+ultra-high molecular weight polyethylene.         
 
 59
 00:03:45,726 --> 00:03:48,493
-     it's a high-performance    
-         thermoplastic.         
+it's a high-performance thermoplastic.         
 
 60
 00:03:48,629 --> 00:03:51,829
-     this rope will be used     
-     for advanced yachting.     
+this rope will be used for advanced yachting.     
 
 61
 00:03:51,865 --> 00:03:54,966
-  a pulley draws this high-tech 
-  rope through some metal pipes 
+a pulley draws this high-tech rope through some metal pipes 
 
 62
 00:03:55,035 --> 00:03:56,368
-       filled with steam.       
+filled with steam.       
 
 63
 00:03:56,503 --> 00:03:59,371
-   this shrinks the polyester   
- jacket around the powerful core
+this shrinks the polyester jacket around the powerful core
 
 64
 00:03:59,440 --> 00:04:01,106
-        for a tight fit.        
+for a tight fit.        
 
 65
 00:04:03,877 --> 00:04:06,377
-      these dancing bobbins     
-       do some fancy moves      
+these dancing bobbins do some fancy moves      
 
 66
 00:04:06,413 --> 00:04:09,114
-   to produce different weaves  
-       around core ropes.       
+to produce different weaves around core ropes.       
 
 67
 00:04:09,116 --> 00:04:11,383
-         they dip around        
-     and between each other     
+they dip around and between each other     
 
 68
 00:04:11,385 --> 00:04:12,984
-  in a choreographed sequence.  
+in a choreographed sequence.  
 
 69
 00:04:12,987 --> 00:04:15,987
- but there are no worries about 
-  production hitting a snarl -- 
+but there are no worries about production hitting a snarl -- 
 
 70
 00:04:16,023 --> 00:04:19,024
-        if a yarn breaks,       
- the machine simply shuts down. 
+if a yarn breaks, the machine simply shuts down. 
 
 71
 00:04:22,162 --> 00:04:25,397
-       it takes 8-10 hours      
-    to make around 3,000 feet   
+it takes 8-10 hours to make around 3,000 feet   
 
 72
 00:04:25,399 --> 00:04:27,599
-   of this large utility rope.  
+of this large utility rope.  
 
 73
 00:04:32,139 --> 00:04:34,539
-   now for the strength test.   
+now for the strength test.   
 
 74
 00:04:34,675 --> 00:04:37,742
 they loop a sample piece of rope
-       around steel posts.      
+around steel posts.      
 
 75
 00:04:37,778 --> 00:04:39,945
-            this one            
-    is a nylon double braid,    
+this one is a nylon double braid,    
 
 76
 00:04:39,947 --> 00:04:43,014
-  the type used for dock lines  
-            on boats.           
+the type used for dock lines on boats.           
 
 77
 00:04:43,083 --> 00:04:45,550
-       hydraulic pressure       
-     pulls the rope upwards     
+hydraulic pressure pulls the rope upwards     
 
 78
 00:04:45,552 --> 00:04:48,152
-   while a computerized gauge   
-      measures the tension      
+while a computerized gauge measures the tension      
 
 79
 00:04:48,188 --> 00:04:50,188
-           and detects          
-       the breaking point.      
+and detects the breaking point.      
 
 80
 00:04:56,063 --> 00:04:57,429
-     almost 20,000 pounds --    
+almost 20,000 pounds --    
 
 81
 00:04:57,431 --> 00:04:59,964
-        that's the weight       
-       of a killer whale.       
+that's the weight of a killer whale.       
 
 82
 00:05:00,034 --> 00:05:03,802
-        needless to say,        
-     this rope is just fine.    
+needless to say, this rope is just fine.    
 
 83
 00:05:06,740 --> 00:05:08,774
-     now for another test --    
+now for another test --    
 
 84
 00:05:08,776 --> 00:05:11,710
-   they insert a steel probe,   
-         known as a fid,        
+they insert a steel probe, known as a fid,        
 
 85
 00:05:11,712 --> 00:05:13,378
-   into some industrial rope,   
+into some industrial rope,   
 
 86
 00:05:13,414 --> 00:05:17,449
-   then place the pointed end   
-          into a hole.          
+then place the pointed end into a hole.          
 
 87
 00:05:17,451 --> 00:05:20,385
-        an electric motor       
-      forces the fid though     
+an electric motor forces the fid though     
 
 88
 00:05:20,454 --> 00:05:22,120
-     while a gauge measures     
-       the force it takes       
+while a gauge measures the force it takes       
 
 89
 00:05:22,189 --> 00:05:26,991
- for it to completely penetrate 
-            the rope.           
+for it to completely penetrate the rope.           
 
 90
 00:05:27,027 --> 00:05:28,660
-  it took 10 pounds of pressure 
+it took 10 pounds of pressure 
 
 91
 00:05:28,729 --> 00:05:30,862
-        to push the probe       
-        through the rope,       
+to push the probe through the rope,       
 
 92
 00:05:30,997 --> 00:05:33,732
-      which means this rope     
-      is firm yet flexible.     
+which means this rope is firm yet flexible.     
 
 93
 00:05:39,573 --> 00:05:42,774
-         and that's how         
-    this useful item is made.   
+and that's how this useful item is made.   
 
 94
 00:05:58,091 --> 00:06:00,826
- the game of billiards has been 
-  around in one form or another 
+the game of billiards has been around in one form or another 
 
 95
 00:06:00,828 --> 00:06:02,494
- for nearly 500 years.          
+for nearly 500 years.          
 
 96
 00:06:02,629 --> 00:06:04,228
- during the 19th century,       
+during the 19th century,       
 
 97
 00:06:04,264 --> 00:06:06,098
- the game's rules               
- and equipment evolved          
+the game's rules and equipment evolved          
 
 98
 00:06:06,233 --> 00:06:08,566
- to basically                   
- what they are today.           
+to basically what they are today.           
 
 99
 00:06:08,635 --> 00:06:10,168
- billiards, also known as pool, 
+billiards, also known as pool, 
 
 100
 00:06:10,170 --> 00:06:12,036
-  is played on a slate tabletop 
+is played on a slate tabletop 
 
 101
 00:06:12,106 --> 00:06:14,573
- that's usually 8'3½" long      
+that's usually 8'3½" long      
 
 102
 00:06:14,575 --> 00:06:17,676
- and 4'7½" wide.                
+and 4'7½" wide.                
 
 103
 00:06:20,314 --> 00:06:22,314
-  clients order billiard tables 
+clients order billiard tables 
 
 104
 00:06:22,316 --> 00:06:24,516
- much like they would           
- custom-designed furniture.     
+much like they would custom-designed furniture.     
 
 105
 00:06:24,651 --> 00:06:27,853
- they pick the table's style,   
- colors, the type of wood,      
+they pick the table's style, colors, the type of wood,      
 
 106
 00:06:27,988 --> 00:06:29,788
- and its lacquer and stain.     
+and its lacquer and stain.     
 
 107
 00:06:29,790 --> 00:06:34,726
- the tables come in maple,      
- walnut, mahogany,              
+the tables come in maple, walnut, mahogany,              
 
 108
 00:06:34,728 --> 00:06:38,529
- cherry,                        
- and the most popular, oak.     
+cherry, and the most popular, oak.     
 
 109
 00:06:38,565 --> 00:06:41,066
- a computer-guided machine      
+a computer-guided machine      
 
 110
 00:06:41,201 --> 00:06:43,802
- shapes part of what'll be      
- the table's frame.             
+shapes part of what'll be the table's frame.             
 
 111
 00:06:43,871 --> 00:06:48,073
@@ -523,147 +450,125 @@ perform several different tasks.
 
 112
 00:06:48,075 --> 00:06:51,810
- a profiling head carves        
- the angle of part of the frame,
+a profiling head carves the angle of part of the frame,
 
 113
 00:06:51,879 --> 00:06:55,613
- a routering head creates       
- the table's decorative grooves,
+a routering head creates the table's decorative grooves,
 
 114
 00:06:55,649 --> 00:06:59,750
- and a drilling head makes holes
- for bolts to fit through.      
+and a drilling head makes holes
+for bolts to fit through.      
 
 115
 00:06:59,787 --> 00:07:01,887
- six wood components,           
- called rails,                  
+six wood components, called rails,                  
 
 116
 00:07:02,022 --> 00:07:04,088
- will surround                  
- the playing surface.           
+will surround the playing surface.           
 
 117
 00:07:04,158 --> 00:07:06,091
- they have                      
- diamond-shaped carvings        
+they have diamond-shaped carvings        
 
 118
 00:07:06,093 --> 00:07:08,560
-  that'll become visual markers 
-  for the players.              
+that'll become visual markers for the players.              
 
 119
 00:07:08,695 --> 00:07:10,695
- after spraying the rails       
- with glue,                     
+after spraying the rails with glue,                     
 
 120
 00:07:10,731 --> 00:07:13,565
- a worker inserts               
- 18 metal nuts.                 
+a worker inserts 18 metal nuts.                 
 
 121
 00:07:13,567 --> 00:07:16,101
- they'll be used later          
- to secure the rails            
+they'll be used later to secure the rails            
 
 122
 00:07:16,103 --> 00:07:17,502
- to the playing surface.        
+to the playing surface.        
 
 123
 00:07:17,538 --> 00:07:20,172
- he attaches rubber strips      
- along the sticky rails,        
+he attaches rubber strips along the sticky rails,        
 
 124
 00:07:20,307 --> 00:07:22,573
- which are just over            
- three feet long.               
+which are just over three feet long.               
 
 125
 00:07:22,609 --> 00:07:25,577
- the rubber will cushion the    
- balls when they hit the sides. 
+the rubber will cushion the balls when they hit the sides. 
 
 126
 00:07:25,579 --> 00:07:27,846
- the rails then pass through    
- a press twice                  
+the rails then pass through a press twice                  
 
 127
 00:07:27,848 --> 00:07:30,649
-  to ensure the rubber adheres. 
+to ensure the rubber adheres. 
 
 128
 00:07:30,651 --> 00:07:32,384
- next, workers move the rails   
+next, workers move the rails   
 
 129
 00:07:32,386 --> 00:07:34,853
- along this 30-foot-long        
- sanding machine.               
+along this 30-foot-long sanding machine.               
 
 130
 00:07:34,988 --> 00:07:36,922
- rubber wheels                  
- gently grip each rail          
+rubber wheels gently grip each rail          
 
 131
 00:07:36,924 --> 00:07:40,391
-    as presses rub sandpaper    
-     along the edge and top.    
+as presses rub sandpaper along the edge and top.    
 
 132
 00:07:40,461 --> 00:07:43,194
-      they skip the bottom      
-    because it'll be covered.   
+they skip the bottom because it'll be covered.   
 
 133
 00:07:43,263 --> 00:07:45,930
-   they pass the rails through  
-    this sander several times   
+they pass the rails through this sander several times   
 
 134
 00:07:45,966 --> 00:07:47,599
-      to smooth them down.      
+to smooth them down.      
 
 135
 00:07:47,601 --> 00:07:49,868
-  to make sure everything fits, 
+to make sure everything fits, 
 
 136
 00:07:49,870 --> 00:07:52,938
- a worker pre-assembles the four
-  sides and the middle section  
+a worker pre-assembles the four
+sides and the middle section  
 
 137
 00:07:52,940 --> 00:07:54,473
-      of the frame's base.      
+of the frame's base.      
 
 138
 00:07:54,608 --> 00:07:58,276
-     he uses 20 metal bolts     
-    and 20 nuts to join them.   
+he uses 20 metal bolts and 20 nuts to join them.   
 
 139
 00:07:58,278 --> 00:08:00,145
-         and he inserts         
-       eight wooden dowels      
+and he inserts eight wooden dowels      
 
 140
 00:08:00,147 --> 00:08:02,747
-        in order to align       
-   the table parts correctly.   
+in order to align the table parts correctly.   
 
 141
 00:08:05,686 --> 00:08:07,952
-        he stamps numbers       
-      on the frame sections     
+he stamps numbers on the frame sections     
 
 142
 00:08:07,988 --> 00:08:09,954
@@ -671,161 +576,137 @@ so they can be reassembled later
 
 143
 00:08:09,990 --> 00:08:11,923
-       by pairing the same      
-    numbered parts together.    
+by pairing the same numbered parts together.    
 
 144
 00:08:14,094 --> 00:08:16,828
-    next, a worker hot glues    
-        18 one-inch-long        
+next, a worker hot glues 18 one-inch-long        
 
 145
 00:08:16,897 --> 00:08:20,832
-   mother-of-pearl components   
-         called sights.         
+mother-of-pearl components called sights.         
 
 146
 00:08:20,834 --> 00:08:23,834
-        he fits them into       
-    the carvings on the rails   
+he fits them into the carvings on the rails   
 
 147
 00:08:23,871 --> 00:08:27,305
-   which have now been stained  
-      to the desired shade.     
+which have now been stained to the desired shade.     
 
 148
 00:08:27,341 --> 00:08:29,240
-     he taps them into place    
+he taps them into place    
 
 149
 00:08:29,243 --> 00:08:31,776
-   using a hammer and a block   
-    made of synthetic resin.    
+using a hammer and a block made of synthetic resin.    
 
 150
 00:08:31,845 --> 00:08:35,046
-        this way he won't       
-        damage the rail.        
+this way he won't damage the rail.        
 
 151
 00:08:35,082 --> 00:08:37,582
- a worker then lines the rubber 
-   part of the rail with cloth  
+a worker then lines the rubber part of the rail with cloth  
 
 152
 00:08:37,717 --> 00:08:38,716
-     made of wool and nylon.    
+made of wool and nylon.    
 
 153
 00:08:38,785 --> 00:08:41,519
-         he attaches it         
-      with a plastic strip      
+he attaches it with a plastic strip      
 
 154
 00:08:41,522 --> 00:08:44,121
-    that fits over the cloth    
-       and into a groove.       
+that fits over the cloth and into a groove.       
 
 155
 00:08:44,157 --> 00:08:47,458
-   he uses a mallet to ensure   
- the cloth is tightly inserted. 
+he uses a mallet to ensure the cloth is tightly inserted. 
 
 156
 00:08:47,494 --> 00:08:49,060
-           the worker           
-     then staples the cloth     
+the worker then staples the cloth     
 
 157
 00:08:49,096 --> 00:08:51,396
-        to the other side       
-          of the rail.          
+to the other side of the rail.          
 
 158
 00:08:51,465 --> 00:08:55,333
 a zinc and brass plaque displays
-     the table's brand name.    
+the table's brand name.    
 
 159
 00:08:55,369 --> 00:08:58,470
-         after shipping,        
-  workers reassemble the table  
+after shipping, workers reassemble the table  
 
 160
 00:08:58,472 --> 00:08:59,804
-        in its new home.        
+in its new home.        
 
 161
 00:08:59,873 --> 00:09:03,408
- serial numbers ensure the parts
-    belong to the same table.   
+serial numbers ensure the parts
+belong to the same table.   
 
 162
 00:09:03,410 --> 00:09:06,811
- assembly takes about two hours.
+assembly takes about two hours.
 
 163
 00:09:06,947 --> 00:09:08,613
-           they match           
-   the numbered parts together  
+they match the numbered parts together  
 
 164
 00:09:08,682 --> 00:09:12,150
-      using up to 50 bolts      
-          and 50 nuts.          
+using up to 50 bolts and 50 nuts.          
 
 165
 00:09:13,787 --> 00:09:15,153
-    then they level the table   
+then they level the table   
 
 166
 00:09:15,222 --> 00:09:17,689
-     using metal components     
-       called leg levelers      
+using metal components called leg levelers      
 
 167
 00:09:17,691 --> 00:09:19,824
-  to adjust the table's height. 
+to adjust the table's height. 
 
 168
 00:09:19,826 --> 00:09:24,763
- it's like sticking a matchbook 
-   under an uneven table leg.   
+it's like sticking a matchbook under an uneven table leg.   
 
 169
 00:09:24,765 --> 00:09:27,198
-            now comes           
-   the really heavy lifting --  
+now comes the really heavy lifting --  
 
 170
 00:09:27,234 --> 00:09:30,101
- workers fit the three sections 
-       of the table's top,      
+workers fit the three sections of the table's top,      
 
 171
 00:09:30,170 --> 00:09:33,238
-   which are made of slate and  
-  weigh up to 300 pounds each.  
+which are made of slate and weigh up to 300 pounds each.  
 
 172
 00:09:33,373 --> 00:09:36,308
-    slate won't degrade, and    
-  it won't budge if you hit it. 
+slate won't degrade, and it won't budge if you hit it. 
 
 173
 00:09:40,614 --> 00:09:42,313
-    the workers use 12 screws   
+the workers use 12 screws   
 
 174
 00:09:42,349 --> 00:09:47,452
-  to attach the slate sections  
-          to the frame.         
+to attach the slate sections to the frame.         
 
 175
 00:09:47,454 --> 00:09:50,388
-  they level the sections using 
-   wedge-shaped plastic shims   
+they level the sections using wedge-shaped plastic shims   
 
 176
 00:09:50,390 --> 00:09:52,924
@@ -833,71 +714,62 @@ between the slate and the frame.
 
 177
 00:09:52,993 --> 00:09:56,795
-  next, a worker melts wax over 
+next, a worker melts wax over 
 the cracks between the sections.
 
 178
 00:09:56,797 --> 00:09:59,864
- he uses a scraper to smooth out
-      the playing surface.      
+he uses a scraper to smooth out
+the playing surface.      
 
 179
 00:09:59,866 --> 00:10:03,534
-       the remaining holes      
- will later be covered by rails.
+the remaining holes will later be covered by rails.
 
 180
 00:10:03,570 --> 00:10:04,736
-      after the wax dries,      
+after the wax dries,      
 
 181
 00:10:04,871 --> 00:10:07,205
-  they cover the table surface  
-           with cloth,          
+they cover the table surface with cloth,          
 
 182
 00:10:07,274 --> 00:10:09,541
-           which comes          
-     in a variety of colors.    
+which comes in a variety of colors.    
 
 183
 00:10:09,676 --> 00:10:11,476
-       they cut the cloth       
-         in the corners         
+they cut the cloth in the corners         
 
 184
 00:10:11,478 --> 00:10:14,813
 so there won't be any creases in
- the lining of the pocket holes.
+the lining of the pocket holes.
 
 185
 00:10:14,815 --> 00:10:19,083
-    they staple the cloth to    
-  wood strips under the slate.  
+they staple the cloth to wood strips under the slate.  
 
 186
 00:10:19,152 --> 00:10:21,952
-   a worker pierces the cloth   
-     over holes in the slate    
+a worker pierces the cloth over holes in the slate    
 
 187
 00:10:21,989 --> 00:10:24,555
-         so he can later        
-        attach the rails.       
+so he can later attach the rails.       
 
 188
 00:10:24,625 --> 00:10:26,891
-         the six pockets        
-       are six inches deep      
+the six pockets are six inches deep      
 
 189
 00:10:27,027 --> 00:10:31,963
-  and consist of a metal frame  
- covered with a leather lattice.
+and consist of a metal frame covered with a leather lattice.
 
 190
 00:10:32,098 --> 00:10:36,234
-   workers install 18 threaded  
+workers install 18 threaded  
 metal rods underneath the rails.
 
 191
@@ -906,132 +778,114 @@ then they flip the rail assembly
 
 192
 00:10:38,171 --> 00:10:41,506
-   and insert the rods through  
+and insert the rods through  
 pre-made holes in the table top.
 
 193
 00:10:41,575 --> 00:10:44,642
-          they use nuts         
-  to secure the rods in place.  
+they use nuts to secure the rods in place.  
 
 194
 00:10:44,678 --> 00:10:48,847
-   screws attach the pockets,   
- and voilà, your table is ready.
+screws attach the pockets, and voilà, your table is ready.
 
 195
 00:10:48,849 --> 00:10:52,917
-   for prices ranging between   
-       $1,500 and $15,000       
+for prices ranging between $1,500 and $15,000       
 
 196
 00:10:53,053 --> 00:10:55,920
- you have quite a stylish game. 
+you have quite a stylish game. 
 
 197
 00:11:03,897 --> 00:11:06,464
- narrator: american newman darby
-   built the first sailboards   
+narrator: american newman darby
+built the first sailboards   
 
 198
 00:11:06,466 --> 00:11:08,599
-        during the 1960s.       
+during the 1960s.       
 
 199
 00:11:08,669 --> 00:11:11,870
-   he rigged a sail to a mast   
-   on a board with a tail fin   
+he rigged a sail to a mast on a board with a tail fin   
 
 200
 00:11:12,005 --> 00:11:14,672
-  and rode the wind and waves.  
+and rode the wind and waves.  
 
 201
 00:11:14,708 --> 00:11:17,475
-   today's windsurfers can pay  
-    several thousand dollars    
+today's windsurfers can pay several thousand dollars    
 
 202
 00:11:17,511 --> 00:11:19,144
-    for their high-tech gear.   
+for their high-tech gear.   
 
 203
 00:11:19,146 --> 00:11:22,781
-      this includes a sail,     
-    a mast, and a sailboard.    
+this includes a sail, a mast, and a sailboard.    
 
 204
 00:11:26,953 --> 00:11:28,352
-      to make a sailboard,      
+to make a sailboard,      
 
 205
 00:11:28,422 --> 00:11:31,289
-       workers start with       
-   a long block of styrofoam.   
+workers start with a long block of styrofoam.   
 
 206
 00:11:31,291 --> 00:11:33,090
-  they attach a wood template,  
+they attach a wood template,  
 
 207
 00:11:33,126 --> 00:11:36,827
-   pushing nails through holes  
- in the wood and into the block.
+pushing nails through holes in the wood and into the block.
 
 208
 00:11:36,863 --> 00:11:39,497
-  using an electrically heated  
-    tool, called a hot-wire,    
+using an electrically heated tool, called a hot-wire,    
 
 209
 00:11:39,632 --> 00:11:43,568
-   they slice the block along   
+they slice the block along   
 the curved line of the template.
 
 210
 00:11:43,570 --> 00:11:47,238
-   the result is what's known   
-          as the core.          
+the result is what's known as the core.          
 
 211
 00:11:47,274 --> 00:11:52,977
-   they use styrofoam because   
-  it's lightweight and buoyant. 
+they use styrofoam because it's lightweight and buoyant. 
 
 212
 00:11:53,013 --> 00:11:56,181
-  next, a worker guides what's  
-   known as a shaper machine.   
+next, a worker guides what's known as a shaper machine.   
 
 213
 00:11:56,316 --> 00:11:59,584
- it outlines a template, called 
-   a masterboard, on the left,  
+it outlines a template, called a masterboard, on the left,  
 
 214
 00:11:59,586 --> 00:12:03,121
-  while a spindle cuts grooves  
-   into the core on the right.  
+while a spindle cuts grooves into the core on the right.  
 
 215
 00:12:03,256 --> 00:12:05,723
-   the grooves are guidelines   
-        to carve the core       
+the grooves are guidelines to carve the core       
 
 216
 00:12:05,792 --> 00:12:08,459
-         into the shape         
-  of the masterboard later on.  
+into the shape of the masterboard later on.  
 
 217
 00:12:08,495 --> 00:12:10,662
-      the shaper's 40-pound     
-          counterweight         
+the shaper's 40-pound counterweight         
 
 218
 00:12:10,664 --> 00:12:13,798
-  lets the spindle gently hover 
-   above the core as it cuts.   
+lets the spindle gently hover above the core as it cuts.   
 
 219
 00:12:13,834 --> 00:12:16,634
@@ -1040,184 +894,159 @@ styrofoam dust flies everywhere,
 220
 00:12:16,636 --> 00:12:21,672
 so the worker wears a protective
-   mask to avoid inhaling it.   
+mask to avoid inhaling it.   
 
 221
 00:12:21,708 --> 00:12:23,942
-          a worker then         
-     saws along the grooves     
+a worker then saws along the grooves     
 
 222
 00:12:24,077 --> 00:12:26,745
-      to reveal the initial     
-     shape of the sailboard.    
+to reveal the initial shape of the sailboard.    
 
 223
 00:12:26,880 --> 00:12:29,781
-         another worker         
-    then sands down the core.   
+another worker then sands down the core.   
 
 224
 00:12:31,284 --> 00:12:35,419
-     next, he applies almost    
-   1 1/2 pounds of epoxy resin  
+next, he applies almost 1 1/2 pounds of epoxy resin  
 
 225
 00:12:35,455 --> 00:12:40,558
- onto carbon fabric to reinforce
+onto carbon fabric to reinforce
 the material and make it sticky.
 
 226
 00:12:40,560 --> 00:12:44,429
-  another worker applies resin  
-      on fiberglass fabric.     
+another worker applies resin on fiberglass fabric.     
 
 227
 00:12:44,431 --> 00:12:46,297
-    these strong, lightweight   
-            materials           
+these strong, lightweight materials           
 
 228
 00:12:46,299 --> 00:12:47,698
-     are part of the board's    
+are part of the board's    
 
 229
 00:12:47,734 --> 00:12:50,168
-    fabric-and-foam-sandwich    
-          construction.         
+fabric-and-foam-sandwich construction.         
 
 230
 00:12:50,237 --> 00:12:51,569
-   they'll harden inside molds  
+they'll harden inside molds  
 
 231
 00:12:51,704 --> 00:12:53,771
-         of the board's         
-     top and bottom sections    
+of the board's top and bottom sections    
 
 232
 00:12:53,774 --> 00:12:57,642
-   during the curing later on.  
+during the curing later on.  
 
 233
 00:12:57,711 --> 00:13:01,646
-  the workers carefully scrape  
-  away about 20% of the resin.  
+the workers carefully scrape away about 20% of the resin.  
 
 234
 00:13:01,715 --> 00:13:04,449
-     too much and the board     
-     could crack during use.    
+too much and the board could crack during use.    
 
 235
 00:13:11,191 --> 00:13:13,324
-        here, the worker        
-      spreads thicker resin     
+here, the worker spreads thicker resin     
 
 236
 00:13:13,360 --> 00:13:17,795
-   onto a piece of rigid foam   
-  that's 1/8 of an inch thick.  
+onto a piece of rigid foam that's 1/8 of an inch thick.  
 
 237
 00:13:17,897 --> 00:13:19,864
-          he places it          
-      into the bottom mold      
+he places it into the bottom mold      
 
 238
 00:13:19,900 --> 00:13:22,333
-    and attaches a hand-sized   
-        plastic component       
+and attaches a hand-sized plastic component       
 
 239
 00:13:22,402 --> 00:13:24,202
-        called a fin box.       
+called a fin box.       
 
 240
 00:13:24,204 --> 00:13:28,339
- it'll hold the sailboard's fin,
-   which helps the user steer.  
+it'll hold the sailboard's fin,
+which helps the user steer.  
 
 241
 00:13:28,341 --> 00:13:29,340
-        they add kevlar,        
+they add kevlar,        
 
 242
 00:13:29,376 --> 00:13:31,609
-      an ultra-lightweight      
-        synthetic fabric,       
+an ultra-lightweight synthetic fabric,       
 
 243
 00:13:31,744 --> 00:13:36,013
-    as the final outer layer    
-   on the core's bottom side.   
+as the final outer layer on the core's bottom side.   
 
 244
 00:13:36,049 --> 00:13:39,350
- after applying resin to another
-      piece of rigid foam,      
+after applying resin to another
+piece of rigid foam,      
 
 245
 00:13:39,485 --> 00:13:40,618
-     a worker cuts openings     
+a worker cuts openings     
 
 246
 00:13:40,687 --> 00:13:43,087
- through which other components 
-         will later fit.        
+through which other components will later fit.        
 
 247
 00:13:43,123 --> 00:13:45,423
-           this layer           
-   is placed into the top mold  
+this layer is placed into the top mold  
 
 248
 00:13:45,425 --> 00:13:47,559
-      and covered with more     
-         carbon fabric.         
+and covered with more carbon fabric.         
 
 249
 00:13:50,163 --> 00:13:55,900
- next, a worker places the core 
-      into the bottom mold.     
+next, a worker places the core into the bottom mold.     
 
 250
 00:13:55,936 --> 00:13:59,837
- he fits two plastic components,
-   called foot strap inserts,   
+he fits two plastic components,
+called foot strap inserts,   
 
 251
 00:13:59,840 --> 00:14:02,840
-       into openings lined      
-     with fiberglass fabric     
+into openings lined with fiberglass fabric     
 
 252
 00:14:02,876 --> 00:14:04,108
-         to secure them.        
+to secure them.        
 
 253
 00:14:04,110 --> 00:14:06,644
-   another plastic component,   
-      called a mast track,      
+another plastic component, called a mast track,      
 
 254
 00:14:06,713 --> 00:14:10,648
-  fits through an opening lined 
- with a stronger carbon fabric. 
+fits through an opening lined with a stronger carbon fabric. 
 
 255
 00:14:10,650 --> 00:14:13,117
-      the track will later      
-          anchor a mast         
+the track will later anchor a mast         
 
 256
 00:14:13,253 --> 00:14:15,186
-  measuring up to 20 feet high. 
+measuring up to 20 feet high. 
 
 257
 00:14:15,255 --> 00:14:18,323
-     strips of carbon fabric    
-    also reinforce the areas    
+strips of carbon fabric also reinforce the areas    
 
 258
 00:14:18,458 --> 00:14:20,425
@@ -1225,183 +1054,157 @@ where the windsurfer will stand.
 
 259
 00:14:22,462 --> 00:14:24,329
- workers join the mold sections 
+workers join the mold sections 
 
 260
 00:14:24,464 --> 00:14:26,597
-   and insert the whole thing   
-       into a plastic sack      
+and insert the whole thing into a plastic sack      
 
 261
 00:14:26,633 --> 00:14:28,933
-      called a vacuum bag.      
+called a vacuum bag.      
 
 262
 00:14:29,002 --> 00:14:32,871
-   they tape the end shut but   
-  leave two smaller holes open. 
+they tape the end shut but leave two smaller holes open. 
 
 263
 00:14:33,006 --> 00:14:36,674
-      they attach two hoses     
-   to collars in these holes.   
+they attach two hoses to collars in these holes.   
 
 264
 00:14:36,743 --> 00:14:39,210
-   an electric pump then takes  
-       about three minutes      
+an electric pump then takes about three minutes      
 
 265
 00:14:39,279 --> 00:14:41,145
-       to suck all the air      
-         out of the bag.        
+to suck all the air out of the bag.        
 
 266
 00:14:43,483 --> 00:14:45,283
-     as the air is removed,     
+as the air is removed,     
 
 267
 00:14:45,418 --> 00:14:48,486
-    pressure forces the mold    
- sections even closer together. 
+pressure forces the mold sections even closer together. 
 
 268
 00:14:50,790 --> 00:14:54,893
- after curing in an oven at 100 
- degrees fahrenheit for 5 hours,
+after curing in an oven at 100 degrees fahrenheit for 5 hours,
 
 269
 00:14:55,028 --> 00:14:58,830
-        workers separate        
-       the mold sections.       
+workers separate the mold sections.       
 
 270
 00:14:58,832 --> 00:15:00,097
-     using a rotary grinder,    
+using a rotary grinder,    
 
 271
 00:15:00,133 --> 00:15:02,567
-       a worker trims away      
-     excess hardened fabric     
+a worker trims away excess hardened fabric     
 
 272
 00:15:02,569 --> 00:15:05,302
-    and foam along the edge.    
+and foam along the edge.    
 
 273
 00:15:05,338 --> 00:15:07,838
-         the whole board        
-  got a coat of primer earlier, 
+the whole board got a coat of primer earlier, 
 
 274
 00:15:07,874 --> 00:15:11,709
-     but now a worker sands     
-  the paint off along the edge. 
+but now a worker sands the paint off along the edge. 
 
 275
 00:15:11,844 --> 00:15:13,511
-       they place a strip       
-        of carbon fabric        
+they place a strip of carbon fabric        
 
 276
 00:15:13,580 --> 00:15:14,846
-   all the way around the edge  
+all the way around the edge  
 
 277
 00:15:14,848 --> 00:15:18,115
-          and secure it         
-     with thin plastic wrap.    
+and secure it with thin plastic wrap.    
 
 278
 00:15:18,151 --> 00:15:20,585
-       after more curing,       
-    the wrapping is removed,    
+after more curing, the wrapping is removed,    
 
 279
 00:15:20,587 --> 00:15:22,921
-          and the board         
-       is sealed for good.      
+and the board is sealed for good.      
 
 280
 00:15:23,056 --> 00:15:25,523
-       next, the sailboard      
-      gets another skin --      
+next, the sailboard gets another skin --      
 
 281
 00:15:25,592 --> 00:15:28,392
-  two coats of urethane paint.  
+two coats of urethane paint.  
 
 282
 00:15:28,428 --> 00:15:30,929
-        a worker locates        
-   the foot strap insert holes  
+a worker locates the foot strap insert holes  
 
 283
 00:15:31,064 --> 00:15:34,665
-       and cleans them out      
-       with a router bit.       
+and cleans them out with a router bit.       
 
 284
 00:15:34,701 --> 00:15:36,200
-        he uses a router        
+he uses a router        
 
 285
 00:15:36,202 --> 00:15:39,871
-       to clean the inside      
-   of the mast-track opening.   
+to clean the inside of the mast-track opening.   
 
 286
 00:15:40,006 --> 00:15:44,342
-    an enormous vinyl sticker   
+an enormous vinyl sticker   
 gives the board its personality.
 
 287
 00:15:44,411 --> 00:15:47,211
-     a worker smoothes away     
-        any air bubbles.        
+a worker smoothes away any air bubbles.        
 
 288
 00:15:47,247 --> 00:15:49,513
-     then, after inscribing     
-   the sailboard's dimensions   
+then, after inscribing the sailboard's dimensions   
 
 289
 00:15:49,516 --> 00:15:53,017
-       and serial number,       
-       he signs the board.      
+and serial number, he signs the board.      
 
 290
 00:15:53,086 --> 00:15:55,686
-    finally, workers glue on    
-      two rubber cushions,      
+finally, workers glue on two rubber cushions,      
 
 291
 00:15:55,689 --> 00:15:57,355
-        called deck pads.       
+called deck pads.       
 
 292
 00:15:57,490 --> 00:15:58,756
-           for $1,900,          
+for $1,900,          
 
 293
 00:15:58,825 --> 00:16:02,927
-    you've got the foundation   
- of a very cool gliding machine.
+you've got the foundation of a very cool gliding machine.
 
 294
 00:16:08,835 --> 00:16:11,836
-   narrator: people have been   
- crashing cymbals for centuries.
+narrator: people have been crashing cymbals for centuries.
 
 295
 00:16:11,838 --> 00:16:16,640
-  history tells us that cymbals 
+history tells us that cymbals 
 were used in israel in 1100 b.c.
 
 296
 00:16:16,710 --> 00:16:19,710
-       over the centuries,      
-       the finest cymbals       
+over the centuries, the finest cymbals       
 
 297
 00:16:19,713 --> 00:16:21,712
@@ -1409,284 +1212,240 @@ have been manufactured in turkey
 
 298
 00:16:21,715 --> 00:16:23,981
-      with a secret method      
-      for blending metals.      
+with a secret method for blending metals.      
 
 299
 00:16:24,050 --> 00:16:25,983
-     and those time-honored     
-           techniques           
+and those time-honored techniques           
 
 300
 00:16:25,986 --> 00:16:29,020
-          still resound         
-     in cymbal-making today.    
+still resound in cymbal-making today.    
 
 301
 00:16:39,599 --> 00:16:43,868
- cymbals play an important role 
-    in today's music making.    
+cymbals play an important role in today's music making.    
 
 302
 00:16:43,870 --> 00:16:45,736
-           each cymbal          
-     has its own character,     
+each cymbal has its own character,     
 
 303
 00:16:45,805 --> 00:16:49,139
-       resulting in subtle      
-      differences in tone.      
+resulting in subtle differences in tone.      
 
 304
 00:16:49,175 --> 00:16:51,742
-        to make cymbals,        
-    they start with castings.   
+to make cymbals, they start with castings.   
 
 305
 00:16:51,811 --> 00:16:54,545
-    in this case they're made   
-  of a secret blend of copper,  
+in this case they're made of a secret blend of copper,  
 
 306
 00:16:54,547 --> 00:16:58,549
-     tin, and trace amounts     
-           of silver.           
+tin, and trace amounts of silver.           
 
 307
 00:16:58,551 --> 00:17:00,752
- a worker sorts them by weight. 
+a worker sorts them by weight. 
 
 308
 00:17:00,887 --> 00:17:03,354
-       then a moving tray       
-  that's powered hydraulically  
+then a moving tray that's powered hydraulically  
 
 309
 00:17:03,423 --> 00:17:05,556
-  takes them to a rotary oven.  
+takes them to a rotary oven.  
 
 310
 00:17:07,961 --> 00:17:11,496
-    1,500 degrees fahrenheit    
-      softens the castings,     
+1,500 degrees fahrenheit softens the castings,     
 
 311
 00:17:11,498 --> 00:17:14,898
-  and then workers shovel them  
-      into a rolling mill.      
+and then workers shovel them into a rolling mill.      
 
 312
 00:17:14,934 --> 00:17:18,035
-    it squeezes them between    
-    two big metal cylinders.    
+it squeezes them between two big metal cylinders.    
 
 313
 00:17:18,104 --> 00:17:21,572
-   and the effect is the same   
-   as rolling out pie crust --  
+and the effect is the same as rolling out pie crust --  
 
 314
 00:17:21,707 --> 00:17:26,143
-  the castings become thinner,  
-      flatter, and larger.      
+the castings become thinner, flatter, and larger.      
 
 315
 00:17:26,278 --> 00:17:28,513
-    these castings go through   
-   a heating and rolling cycle  
+these castings go through a heating and rolling cycle  
 
 316
 00:17:28,648 --> 00:17:32,450
-   up to 12 times depending on  
- the type of cymbal being made. 
+up to 12 times depending on the type of cymbal being made. 
 
 317
 00:17:40,326 --> 00:17:42,393
-      the repeated heating      
-        and cross-rolling       
+the repeated heating and cross-rolling       
 
 318
 00:17:42,528 --> 00:17:44,395
-        creates a dense,        
-       interlocking weave       
+creates a dense, interlocking weave       
 
 319
 00:17:44,530 --> 00:17:47,331
-    in the granular structure   
-          of the alloy.         
+in the granular structure of the alloy.         
 
 320
 00:17:47,367 --> 00:17:52,069
- it will make the cymbals strong
- enough to take a real beating. 
+it will make the cymbals strong
+enough to take a real beating. 
 
 321
 00:17:52,138 --> 00:17:55,072
 the interlocking weave will also
-    help transmit sound waves   
+help transmit sound waves   
 
 322
 00:17:55,108 --> 00:17:57,708
- more rapidly across the cymbal.
+more rapidly across the cymbal.
 
 323
 00:18:05,618 --> 00:18:07,351
-        after the cymbal        
-        has been tempered       
+after the cymbal has been tempered       
 
 324
 00:18:07,487 --> 00:18:09,287
-           and pressed          
-      into its final shape,     
+and pressed into its final shape,     
 
 325
 00:18:09,289 --> 00:18:12,890
-   they place it on a spindle.  
+they place it on a spindle.  
 
 326
 00:18:12,959 --> 00:18:15,960
-         while it spins,        
+while it spins,        
 circular cutters shear the edges
 
 327
 00:18:16,029 --> 00:18:17,595
-       to a set diameter.       
+to a set diameter.       
 
 328
 00:18:23,636 --> 00:18:26,837
-  next, the cymbal is pounded.  
+next, the cymbal is pounded.  
 
 329
 00:18:26,873 --> 00:18:29,907
-       a hydraulic engine       
- powers this hammering cylinder,
+a hydraulic engine powers this hammering cylinder,
 
 330
 00:18:30,042 --> 00:18:33,311
-     and a computer program     
-       directs the force.       
+and a computer program directs the force.       
 
 331
 00:18:33,313 --> 00:18:35,646
-  these impressions will enrich 
-       the cymbal's sound       
+these impressions will enrich the cymbal's sound       
 
 332
 00:18:35,682 --> 00:18:38,382
-      by changing the path      
-       of the sound waves.      
+by changing the path of the sound waves.      
 
 333
 00:18:41,654 --> 00:18:44,655
-      next, the application     
-        of tonal grooves.       
+next, the application of tonal grooves.       
 
 334
 00:18:47,026 --> 00:18:52,163
- this craftsman puts the cymbal 
+this craftsman puts the cymbal 
 on a lathe, bottom side forward.
 
 335
 00:18:52,232 --> 00:18:53,931
-   the cymbal spins on an axle  
+the cymbal spins on an axle  
 
 336
 00:18:54,066 --> 00:18:56,134
-     while the lathing blade    
-          cuts into it.         
+while the lathing blade cuts into it.         
 
 337
 00:18:59,405 --> 00:19:02,139
-         he starts with         
-    a hand-held lathing tool    
+he starts with a hand-held lathing tool    
 
 338
 00:19:02,142 --> 00:19:05,610
-    and then switches to one    
- that's mounted on the machine. 
+and then switches to one that's mounted on the machine. 
 
 339
 00:19:05,612 --> 00:19:07,945
-  lathing removes the cymbal's  
-           outer layer          
+lathing removes the cymbal's outer layer          
 
 340
 00:19:08,080 --> 00:19:11,348
-   and carves those important   
-     tonal grooves into it.     
+and carves those important tonal grooves into it.     
 
 341
 00:19:11,417 --> 00:19:13,350
-     the depth and position     
-            will vary           
+the depth and position will vary           
 
 342
 00:19:13,419 --> 00:19:17,622
-      depending on the type     
-    of cymbal being produced.   
+depending on the type of cymbal being produced.   
 
 343
 00:19:17,624 --> 00:19:20,858
- he lathes the top of the cymbal
-        entirely by hand        
+he lathes the top of the cymbal
+entirely by hand        
 
 344
 00:19:20,927 --> 00:19:24,895
-    so he can better control    
- the amount of pressure applied.
+so he can better control the amount of pressure applied.
 
 345
 00:19:24,964 --> 00:19:26,364
-      watch those fingers.      
+watch those fingers.      
 
 346
 00:19:26,499 --> 00:19:28,833
-         don't worry --         
-    he knows what he's doing.   
+don't worry -- he knows what he's doing.   
 
 347
 00:19:28,835 --> 00:19:31,836
-   he's honed his skills over   
-  five years of apprenticeship, 
+he's honed his skills over five years of apprenticeship, 
 
 348
 00:19:31,971 --> 00:19:35,573
-    and no automatic machine    
-  can duplicate the fine touch  
+and no automatic machine can duplicate the fine touch  
 
 349
 00:19:35,708 --> 00:19:38,309
-        of an experienced       
-        cymbal craftsman.       
+of an experienced cymbal craftsman.       
 
 350
 00:19:44,150 --> 00:19:46,984
-         now he removes         
-    the newly grooved cymbal    
+now he removes the newly grooved cymbal    
 
 351
 00:19:47,053 --> 00:19:50,721
-         and puts it on         
-       an edging machine.       
+and puts it on an edging machine.       
 
 352
 00:19:50,790 --> 00:19:54,859
-    a big, round metal clamp    
-   locks the cymbal in place.   
+a big, round metal clamp locks the cymbal in place.   
 
 353
 00:19:54,861 --> 00:19:57,662
-  it spins while a cutting tool 
-      smoothes out the edge     
+it spins while a cutting tool smoothes out the edge     
 
 354
 00:19:57,664 --> 00:19:58,996
-         of the cymbal.         
+of the cymbal.         
 
 355
 00:20:02,668 --> 00:20:04,668
-         here's a before        
-        and after shot --       
+here's a before and after shot --       
 
 356
 00:20:04,704 --> 00:20:06,270
@@ -1694,50 +1453,43 @@ the ragged rim is before edging.
 
 357
 00:20:06,405 --> 00:20:09,173
-        the smoother one        
-     at the bottom is after.    
+the smoother one at the bottom is after.    
 
 358
 00:20:10,810 --> 00:20:12,542
-  this guy has the best job --  
+this guy has the best job --  
 
 359
 00:20:12,579 --> 00:20:14,945
-         he's in charge         
-      of quality assurance.     
+he's in charge of quality assurance.     
 
 360
 00:20:14,981 --> 00:20:17,548
- that means he tests each cymbal
+that means he tests each cymbal
 
 361
 00:20:17,617 --> 00:20:19,883
-      before it's sent out      
-      into the marketplace.     
+before it's sent out into the marketplace.     
 
 362
 00:20:19,919 --> 00:20:23,220
-         he's listening         
-     for a range of sounds.     
+he's listening for a range of sounds.     
 
 363
 00:20:23,256 --> 00:20:26,624
-       now a laser etches       
- the trademark into the cymbal. 
+now a laser etches the trademark into the cymbal. 
 
 364
 00:20:26,693 --> 00:20:29,493
-        it also engraves        
-     a unique serial number.    
+it also engraves a unique serial number.    
 
 365
 00:20:33,499 --> 00:20:37,034
- next, a silicon pad sponges up 
-     ink from a print plate     
+next, a silicon pad sponges up ink from a print plate     
 
 366
 00:20:37,036 --> 00:20:40,638
- and transfers it to the cymbal.
+and transfers it to the cymbal.
 
 367
 00:20:40,640 --> 00:20:43,307
@@ -1745,44 +1497,37 @@ now that the company logo is on,
 
 368
 00:20:43,376 --> 00:20:47,178
-     it's ready for shipping    
-     anywhere in the world.     
+it's ready for shipping anywhere in the world.     
 
 369
 00:20:47,180 --> 00:20:51,048
-  but this rough metal casting  
-  has already come a long way.  
+but this rough metal casting has already come a long way.  
 
 370
 00:20:51,117 --> 00:20:54,718
-      it's been transformed     
-   into a smooth, sleek cymbal  
+it's been transformed into a smooth, sleek cymbal  
 
 371
 00:20:54,754 --> 00:20:57,388
-    over a total of 21 days.    
+over a total of 21 days.    
 
 372
 00:20:57,523 --> 00:21:00,457
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 373
 00:21:00,493 --> 00:21:03,561
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 374
 00:21:12,772 --> 00:21:14,805
-    if you have any comments    
-         about the show         
+if you have any comments about the show         
 
 375
 00:21:14,874 --> 00:21:17,541
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 376
 00:21:17,677 --> 00:21:19,443
-      drop us a line at...      
+drop us a line at...      
 

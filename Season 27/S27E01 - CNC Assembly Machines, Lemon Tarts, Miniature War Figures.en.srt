@@ -1,77 +1,62 @@
 ﻿1
 00:00:01,802 --> 00:00:04,804
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,806 --> 00:00:07,940
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:22,623 --> 00:00:24,957
-           narrator:            
-  today on "how it's made"...   
+narrator: today on "how it's made"...   
 
 4
 00:00:53,387 --> 00:00:56,321
-       automated machines       
- changed manufacturing forever  
+automated machines changed manufacturing forever  
 
 5
 00:00:56,323 --> 00:00:58,524
-        when they began         
-       assembling parts.        
+when they began assembling parts.        
 
 6
 00:00:58,526 --> 00:01:02,795
-   cnc assembly machines have   
-              taken             
- automation to the next level.  
+cnc assembly machines have taken automation to the next level.  
 
 7
 00:01:02,797 --> 00:01:07,199
-       cnc is an acronym        
-     for computer numerical     
-            control.            
+cnc is an acronym for computer numerical control.            
 
 8
 00:01:07,201 --> 00:01:09,134
-    the machine is automated    
-         by a computer          
+the machine is automated by a computer          
 
 9
 00:01:09,136 --> 00:01:11,137
-   rather than by mechanics.    
+rather than by mechanics.    
 
 10
 00:01:13,207 --> 00:01:16,074
-           to design            
-    a cnc assembly machine,     
+to design a cnc assembly machine,     
 
 11
 00:01:16,076 --> 00:01:18,144
-        engineers first         
-     analyze the sequence       
+engineers first analyze the sequence       
 
 12
 00:01:18,146 --> 00:01:21,080
-       of tasks required        
-   to assemble the product.     
+of tasks required to assemble the product.     
 
 13
 00:01:21,082 --> 00:01:23,148
-   they then match each task    
+they then match each task    
 
 14
 00:01:23,150 --> 00:01:25,051
-       to a pre-designed        
-      processing engine.        
+to a pre-designed processing engine.        
 
 15
 00:01:27,488 --> 00:01:29,555
-     the processing engines     
-      are linked together       
+the processing engines are linked together       
 
 16
 00:01:29,557 --> 00:01:32,758
@@ -79,114 +64,95 @@ in a custom assembly sequence.
 
 17
 00:01:32,760 --> 00:01:34,159
-   each engine is programmed    
+each engine is programmed    
 
 18
 00:01:34,161 --> 00:01:36,562
-           to control           
-  its computer-guided motors,   
+to control its computer-guided motors,   
 
 19
 00:01:36,564 --> 00:01:38,230
-         which perform          
-      the precise motions       
+which perform the precise motions       
 
 20
 00:01:38,232 --> 00:01:41,566
-  required to execute a task.   
+required to execute a task.   
 
 21
 00:01:41,568 --> 00:01:43,436
-   the cnc machine's engines    
+the cnc machine's engines    
 
 22
 00:01:43,438 --> 00:01:45,837
-          are mounted           
-    on a sturdy base frame.     
+are mounted on a sturdy base frame.     
 
 23
 00:01:45,839 --> 00:01:47,239
-       to construct it,         
+to construct it,         
 
 24
 00:01:47,241 --> 00:01:51,576
-    workers cut steel tubes     
-   to the required lengths.     
+workers cut steel tubes to the required lengths.     
 
 25
 00:01:51,578 --> 00:01:54,213
-       they grind a joint       
-       in each piece...         
+they grind a joint in each piece...         
 
 26
 00:01:57,385 --> 00:01:59,385
-     ...then weld the pieces    
-            together            
+...then weld the pieces together            
 
 27
 00:01:59,387 --> 00:02:02,722
- by melting steel welding wire  
-       into the joints.         
+by melting steel welding wire into the joints.         
 
 28
 00:02:06,527 --> 00:02:09,928
-   they bolt a steel tabletop   
-     onto the base frame.       
+they bolt a steel tabletop onto the base frame.       
 
 29
 00:02:09,930 --> 00:02:13,598
-     it has cutouts for each    
-            engine.             
+it has cutouts for each engine.             
 
 30
 00:02:13,600 --> 00:02:15,267
-   it's been ground perfectly   
-             flat.              
+it's been ground perfectly flat.              
 
 31
 00:02:15,269 --> 00:02:17,903
-  so the engines will be level  
-       with each other.         
+so the engines will be level with each other.         
 
 32
 00:02:24,478 --> 00:02:26,612
-           meanwhile,           
-   an electrical technician     
+meanwhile, an electrical technician     
 
 33
 00:02:26,614 --> 00:02:30,215
-  is assembling the machine's   
-     main control cabinet.      
+is assembling the machine's main control cabinet.      
 
 34
 00:02:30,217 --> 00:02:33,885
-   it contains one industrial   
-   computer for each engine.    
+it contains one industrial computer for each engine.    
 
 35
 00:02:33,887 --> 00:02:35,787
-   a cnc machine has engines    
+a cnc machine has engines    
 
 36
 00:02:35,789 --> 00:02:39,357
-      for performing rotary     
-           movements,           
-       linear movements,        
+for performing rotary movements, linear movements,        
 
 37
 00:02:39,359 --> 00:02:41,794
-       and for picking up       
-      and placing parts.        
+and for picking up and placing parts.        
 
 38
 00:02:43,765 --> 00:02:48,034
- the motors inside each engine  
-   have their own computers.    
+the motors inside each engine have their own computers.    
 
 39
 00:02:48,036 --> 00:02:49,902
-       they're programmed       
-     to perform movements       
+they're programmed to perform movements       
 
 40
 00:02:49,904 --> 00:02:52,571
@@ -194,121 +160,99 @@ at specific speeds and forces.
 
 41
 00:02:59,380 --> 00:03:02,114
- once the main control cabinet  
-         is assembled,          
+once the main control cabinet is assembled,          
 
 42
 00:03:02,116 --> 00:03:04,684
-        workers bolt it         
-      to the base frame.        
+workers bolt it to the base frame.        
 
 43
 00:03:08,589 --> 00:03:12,058
- then they install steel bases  
-       for the engines.         
+then they install steel bases for the engines.         
 
 44
 00:03:24,005 --> 00:03:27,740
-       some cnc machines        
-     require robotic arms.      
+some cnc machines require robotic arms.      
 
 45
 00:03:27,742 --> 00:03:29,407
-       a computer-guided        
-        milling machine         
+a computer-guided milling machine         
 
 46
 00:03:29,409 --> 00:03:31,811
-     cuts rectangular bars      
-         of aluminum,           
+cuts rectangular bars of aluminum,           
 
 47
 00:03:31,813 --> 00:03:35,047
-          shaping them          
- into robotic arm components.   
+shaping them into robotic arm components.   
 
 48
 00:03:38,419 --> 00:03:40,286
-    this precision-measuring    
-             device             
+this precision-measuring device             
 
 49
 00:03:40,288 --> 00:03:44,457
-    ensures each milled part    
- meets strict specifications.   
+ensures each milled part meets strict specifications.   
 
 50
 00:03:49,030 --> 00:03:50,562
- after the aluminum components  
+after the aluminum components  
 
 51
 00:03:50,564 --> 00:03:53,431
-            receive             
-  an anti-corrosion coating,    
+receive an anti-corrosion coating,    
 
 52
 00:03:53,433 --> 00:03:56,302
-     workers assemble them      
-      into a robotic arm.       
+workers assemble them into a robotic arm.       
 
 53
 00:03:58,439 --> 00:04:00,439
-     these self-lubricating     
-        sleeve bearings         
+these self-lubricating sleeve bearings         
 
 54
 00:04:00,441 --> 00:04:03,075
-          give the arm          
-    the ability to rotate.      
+give the arm the ability to rotate.      
 
 55
 00:04:06,647 --> 00:04:09,248
-   they add a second assembled  
-               arm              
-       to create a pair         
+they add a second assembled arm to create a pair         
 
 56
 00:04:09,250 --> 00:04:12,651
-      that works together       
- to perform an assigned task.   
+that works together to perform an assigned task.   
 
 57
 00:04:18,659 --> 00:04:21,126
-     each arm is controlled     
-       by its own motor,        
+each arm is controlled by its own motor,        
 
 58
 00:04:21,128 --> 00:04:24,497
-   which follows the commands   
-   of the engine's computer.    
+which follows the commands of the engine's computer.    
 
 59
 00:04:26,633 --> 00:04:29,401
-     this coupling securely     
-   connects each robotic arm    
+this coupling securely connects each robotic arm    
 
 60
 00:04:29,403 --> 00:04:31,370
-  to the shaft of its motor.    
+to the shaft of its motor.    
 
 61
 00:04:36,677 --> 00:04:40,412
-   each engine on the machine   
- can have up to eight motors.   
+each engine on the machine can have up to eight motors.   
 
 62
 00:04:40,414 --> 00:04:43,783
-     the motors can operate     
-  independently or in unison.   
+the motors can operate independently or in unison.   
 
 63
 00:04:48,623 --> 00:04:51,957
-  this engine has robotic arms  
-    that can pick up, hold,     
+this engine has robotic arms that can pick up, hold,     
 
 64
 00:04:51,959 --> 00:04:53,793
-      and release parts.        
+and release parts.        
 
 65
 00:04:59,433 --> 00:05:01,567
@@ -316,331 +260,278 @@ to test the completed machine,
 
 66
 00:05:01,569 --> 00:05:02,968
-   a high-speed video camera    
+a high-speed video camera    
 
 67
 00:05:02,970 --> 00:05:06,571
-        captures images         
-  at 1,000 frames per second.   
+captures images at 1,000 frames per second.   
 
 68
 00:05:06,573 --> 00:05:10,242
-    the quality control team    
-     slows down the video to    
-            analyze             
+the quality control team slows down the video to analyze             
 
 69
 00:05:10,244 --> 00:05:14,079
-   and fine-tune the accuracy   
-     and efficiency of every    
-            motion.             
+and fine-tune the accuracy and efficiency of every motion.             
 
 70
 00:05:23,190 --> 00:05:26,057
-     just a few simple taps     
+just a few simple taps     
 on the operator's touch screen  
 
 71
 00:05:26,059 --> 00:05:29,127
-       can adjust the arm       
- to move a millisecond faster.  
+can adjust the arm to move a millisecond faster.  
 
 72
 00:05:29,129 --> 00:05:31,730
-   or a millimeter further.     
+or a millimeter further.     
 
 73
 00:05:31,732 --> 00:05:36,802
-   cnc machines can assemble    
- small products at high speed.  
+cnc machines can assemble small products at high speed.  
 
 74
 00:05:36,804 --> 00:05:38,069
-  they also provide something   
+they also provide something   
 
 75
 00:05:38,071 --> 00:05:40,605
-      traditional assembly      
-      equipment can't --        
+traditional assembly equipment can't --        
 
 76
 00:05:40,607 --> 00:05:43,342
-         flexibility.           
+flexibility.           
 
 77
 00:05:43,344 --> 00:05:46,412
-    a single machine can be     
-  reprogrammed multiple times   
+a single machine can be reprogrammed multiple times   
 
 78
 00:05:46,414 --> 00:05:48,914
-         for assembling         
-      different products.       
+for assembling different products.       
 
 79
 00:06:11,305 --> 00:06:13,038
-           narrator:            
-  when life gives you lemons,   
+narrator: when life gives you lemons,   
 
 80
 00:06:13,040 --> 00:06:15,374
-  why bother making lemonade    
+why bother making lemonade    
 
 81
 00:06:15,376 --> 00:06:18,110
-      when you can indulge      
-   in a luscious lemon tart?    
+when you can indulge in a luscious lemon tart?    
 
 82
 00:06:18,112 --> 00:06:20,579
- not too sour, not too sweet,   
+not too sour, not too sweet,   
 
 83
 00:06:20,581 --> 00:06:22,581
-          a lemon tart          
-    is a delectable dessert     
+a lemon tart is a delectable dessert     
 
 84
 00:06:22,583 --> 00:06:24,316
-  that you can make yourself.   
+that you can make yourself.   
 
 85
 00:06:24,318 --> 00:06:26,652
-        or even better,         
-  leave it to the baking pros   
+or even better, leave it to the baking pros   
 
 86
 00:06:26,654 --> 00:06:28,287
-      and buy ready-made.       
+and buy ready-made.       
 
 87
 00:06:33,727 --> 00:06:37,262
- this thaw-and-serve lemon tart 
-    has a shortbread shell      
+this thaw-and-serve lemon tart has a shortbread shell      
 
 88
 00:06:37,264 --> 00:06:40,366
-    and creamy lemon filling    
-   topped with buttercream.     
+and creamy lemon filling topped with buttercream.     
 
 89
 00:06:45,006 --> 00:06:47,740
-  each batch of dough produced  
-   in this industrial mixer     
+each batch of dough produced in this industrial mixer     
 
 90
 00:06:47,742 --> 00:06:51,076
-    yields 449 tart shells.     
+yields 449 tart shells.     
 
 91
 00:06:51,078 --> 00:06:54,145
-  the first step is to lightly  
-    blend margarine, sugar,     
+the first step is to lightly blend margarine, sugar,     
 
 92
 00:06:54,147 --> 00:06:56,048
- and salt for 2 or 3 minutes.   
+and salt for 2 or 3 minutes.   
 
 93
 00:06:58,352 --> 00:07:00,552
-  next, add pasteurized eggs    
+next, add pasteurized eggs    
 
 94
 00:07:00,554 --> 00:07:04,289
-  and mix for about 2 minutes   
-        at slow speed.          
+and mix for about 2 minutes at slow speed.          
 
 95
 00:07:04,291 --> 00:07:08,060
-  fast mixing makes the dough   
-    too tight, causing it to    
-             crack.             
+fast mixing makes the dough too tight, causing it to crack.             
 
 96
 00:07:10,097 --> 00:07:13,666
-      they add white flour      
+they add white flour      
 while continuing to mix slowly  
 
 97
 00:07:13,668 --> 00:07:17,769
-     until the ingredients      
-       are well-blended.        
+until the ingredients are well-blended.        
 
 98
 00:07:17,771 --> 00:07:19,771
-    once the dough is ready,    
-            workers             
+once the dough is ready, workers             
 
 99
 00:07:19,773 --> 00:07:24,242
-     put it through what is     
-            actually            
- a hamburger forming machine.   
+put it through what is actually a hamburger forming machine.   
 
 100
 00:07:24,244 --> 00:07:27,446
-     it extrudes 1/4-pound      
-        dough patties.          
+it extrudes 1/4-pound dough patties.          
 
 101
 00:07:27,448 --> 00:07:29,047
-    workers place them in the   
-             middle             
+workers place them in the middle             
 
 102
 00:07:29,049 --> 00:07:32,251
-   of a nonstick aluminum tart  
-               pan              
-       three at a time.         
+of a nonstick aluminum tart pan three at a time.         
 
 103
 00:07:34,455 --> 00:07:38,390
- they mount the pan on a press, 
-   covering it with plastic.    
+they mount the pan on a press, covering it with plastic.    
 
 104
 00:07:38,392 --> 00:07:40,191
-    a die strikes the pan,      
+a die strikes the pan,      
 
 105
 00:07:40,193 --> 00:07:42,728
-    flattening and spreading    
-       the dough evenly.        
+flattening and spreading the dough evenly.        
 
 106
 00:07:45,199 --> 00:07:46,865
-  the pans go into the oven,    
+the pans go into the oven,    
 
 107
 00:07:46,867 --> 00:07:49,868
-       where they rotate        
-     for 23 to 24 minutes       
+where they rotate for 23 to 24 minutes       
 
 108
 00:07:49,870 --> 00:07:52,338
-  at 350 degrees fahrenheit.    
+at 350 degrees fahrenheit.    
 
 109
 00:07:55,743 --> 00:07:59,878
-        the dough bakes         
- into a shortbread tart shell.  
+the dough bakes into a shortbread tart shell.  
 
 110
 00:07:59,880 --> 00:08:01,546
-   lemon juice and lemon oil    
+lemon juice and lemon oil    
 
 111
 00:08:01,548 --> 00:08:04,183
-    are the key ingredients     
-    in the creamy filling.      
+are the key ingredients in the creamy filling.      
 
 112
 00:08:06,954 --> 00:08:10,389
- first, workers melt margarine  
-         on a stove...          
+first, workers melt margarine on a stove...          
 
 113
 00:08:18,299 --> 00:08:21,433
-     ...then mix in sugar,      
+...then mix in sugar,      
 
 114
 00:08:21,435 --> 00:08:23,302
-        lemon powder...         
+lemon powder...         
 
 115
 00:08:27,241 --> 00:08:29,675
-       ...and food starch       
-      to thicken the mix.       
+...and food starch to thicken the mix.       
 
 116
 00:08:31,912 --> 00:08:35,147
-   they blend for 2 minutes,    
-        then add eggs.          
+they blend for 2 minutes, then add eggs.          
 
 117
 00:08:38,586 --> 00:08:40,986
-  after another 5 to 8 minutes  
-          of mixing,            
+after another 5 to 8 minutes of mixing,            
 
 118
 00:08:40,988 --> 00:08:44,522
-      they pour in boiled       
-  lemon juice and lemon oil.    
+they pour in boiled lemon juice and lemon oil.    
 
 119
 00:08:44,524 --> 00:08:50,329
-      boiling these acidic      
-           ingredients          
-     prevents the fats from     
-           curdling.            
+boiling these acidic ingredients prevents the fats from curdling.            
 
 120
 00:08:50,331 --> 00:08:51,597
-     the filling is ready.      
+the filling is ready.      
 
 121
 00:08:51,599 --> 00:08:53,599
-     so they move the bowl      
-        from the mixer          
+so they move the bowl from the mixer          
 
 122
 00:08:53,601 --> 00:08:55,934
- over to the depositing line.   
+over to the depositing line.   
 
 123
 00:08:58,472 --> 00:09:02,808
- a pump transfers the contents  
-      to a hopper feeding a     
-           depositor.           
+a pump transfers the contents to a hopper feeding a depositor.           
 
 124
 00:09:07,815 --> 00:09:09,348
-   the depositor is pre-set     
+the depositor is pre-set     
 
 125
 00:09:09,350 --> 00:09:13,452
-      to squirt 22 ounces       
+to squirt 22 ounces       
 of lemon filling in each tart.  
 
 126
 00:09:20,694 --> 00:09:24,296
-        the filled tarts        
-     go into the oven for 11    
-            minutes.            
+the filled tarts go into the oven for 11 minutes.            
 
 127
 00:09:29,503 --> 00:09:31,703
-        the lemon tarts         
-     come out of the oven,      
+the lemon tarts come out of the oven,      
 
 128
 00:09:31,705 --> 00:09:34,640
-    cool at room temperature    
-       for 2 to 3 hours,        
+cool at room temperature for 2 to 3 hours,        
 
 129
 00:09:34,642 --> 00:09:38,443
-     then go into a freezer     
-          overnight.            
+then go into a freezer overnight.            
 
 130
 00:09:38,445 --> 00:09:41,113
-     the next day, workers      
-    remove the frozen tarts     
+the next day, workers remove the frozen tarts     
 
 131
 00:09:41,115 --> 00:09:42,848
-        from the pans.          
+from the pans.          
 
 132
 00:09:54,462 --> 00:09:56,929
-       they gently remove       
-    any specks of browning,     
+they gently remove any specks of browning,     
 
 133
 00:09:56,931 --> 00:10:01,200
-  then spray on a light layer   
- of glaze made from apricots.   
+then spray on a light layer of glaze made from apricots.   
 
 134
 00:10:01,202 --> 00:10:03,201
@@ -648,133 +539,115 @@ this adds a hint of sweetness.
 
 135
 00:10:03,203 --> 00:10:06,070
-    the glaze also prevents     
-   the filling from cracking    
+the glaze also prevents the filling from cracking    
 
 136
 00:10:06,072 --> 00:10:08,073
- when it's thawed for serving.  
+when it's thawed for serving.  
 
 137
 00:10:11,278 --> 00:10:15,680
-    next, they put the tart     
- in an automated cake slicer.   
+next, they put the tart in an automated cake slicer.   
 
 138
 00:10:15,682 --> 00:10:17,215
-     the turntable rotates      
+the turntable rotates      
 
 139
 00:10:17,217 --> 00:10:19,818
-          as the tart           
-     is cut into 12 slices      
+as the tart is cut into 12 slices      
 
 140
 00:10:19,820 --> 00:10:23,288
-          with papers           
-     in between each one.       
+with papers in between each one.       
 
 141
 00:10:23,290 --> 00:10:24,489
-    this is for restaurants     
+this is for restaurants     
 
 142
 00:10:24,491 --> 00:10:27,326
-     who serve the dessert      
-         by the slice.          
+who serve the dessert by the slice.          
 
 143
 00:10:29,496 --> 00:10:31,296
- workers embellish each slice   
+workers embellish each slice   
 
 144
 00:10:31,298 --> 00:10:33,498
-         with a flower          
-     made of buttercream,       
+with a flower made of buttercream,       
 
 145
 00:10:33,500 --> 00:10:36,401
- a decadent mixture of butter,  
-    egg whites, and sugar.      
+a decadent mixture of butter, egg whites, and sugar.      
 
 146
 00:10:41,108 --> 00:10:42,708
-   they complete each flower    
+they complete each flower    
 
 147
 00:10:42,710 --> 00:10:44,843
-  with a dot of lemon filling   
-        in the center.          
+with a dot of lemon filling in the center.          
 
 148
 00:10:47,047 --> 00:10:50,849
- this lemon tart is finished.   
+this lemon tart is finished.   
 
 149
 00:10:50,851 --> 00:10:53,252
-          they wrap it          
-   in a cardboard cake band     
+they wrap it in a cardboard cake band     
 
 150
 00:10:53,254 --> 00:10:56,788
- printed with the brand name.   
+printed with the brand name.   
 
 151
 00:10:56,790 --> 00:10:59,591
-       they seal the tart       
-       in plastic film,         
+they seal the tart in plastic film,         
 
 152
 00:10:59,593 --> 00:11:01,994
- insert it into a retail box,   
+insert it into a retail box,   
 
 153
 00:11:01,996 --> 00:11:05,864
-       and ship it frozen       
-   to a store or restaurant.    
+and ship it frozen to a store or restaurant.    
 
 154
 00:11:05,866 --> 00:11:07,599
- to serve this tasty dessert,   
+to serve this tasty dessert,   
 
 155
 00:11:07,601 --> 00:11:09,534
-       you simply defrost       
-      at room temperature       
+you simply defrost at room temperature       
 
 156
 00:11:09,536 --> 00:11:11,303
-    for about a half hour.      
+for about a half hour.      
 
 157
 00:11:29,690 --> 00:11:33,091
-     narrator: toy soldiers     
-   aren't just for children.    
+narrator: toy soldiers aren't just for children.    
 
 158
 00:11:33,093 --> 00:11:36,361
- they're a hobby for grown-ups  
-     that dates back over a     
-            century.            
+they're a hobby for grown-ups that dates back over a century.            
 
 159
 00:11:38,432 --> 00:11:41,433
-  the science-fiction novelist  
-          h.g. wells            
+the science-fiction novelist h.g. wells            
 
 160
 00:11:41,435 --> 00:11:42,968
-   published the first set of   
-             rules              
+published the first set of rules              
 
 161
 00:11:42,970 --> 00:11:46,038
-   for toy solider war games    
-           in 1913.             
+for toy solider war games in 1913.             
 
 162
 00:11:50,311 --> 00:11:51,910
-        the game is on.         
+the game is on.         
 
 163
 00:11:51,912 --> 00:11:54,112
@@ -782,49 +655,39 @@ it's time to rally the troops.
 
 164
 00:11:54,114 --> 00:11:57,449
-  these mini soldiers are made  
-  of either metal or plastic    
+these mini soldiers are made of either metal or plastic    
 
 165
 00:11:57,451 --> 00:12:01,253
-        and hand-painted        
-     by the game players.       
+and hand-painted by the game players.       
 
 166
 00:12:01,255 --> 00:12:04,322
-    no detail is overlooked     
-  in making these war figures   
+no detail is overlooked in making these war figures   
 
 167
 00:12:04,324 --> 00:12:07,125
- true to the historical period  
-         of the game.           
+true to the historical period of the game.           
 
 168
 00:12:09,263 --> 00:12:12,798
-    players move the figures    
-    around tabletop scenery     
+players move the figures around tabletop scenery     
 
 169
 00:12:12,800 --> 00:12:15,200
-    like chessmen on a chess    
-             board.             
+like chessmen on a chess board.             
 
 170
 00:12:15,202 --> 00:12:19,604
-        and like chess,         
-  this is a game of strategy.   
+and like chess, this is a game of strategy.   
 
 171
 00:12:19,606 --> 00:12:23,008
-      it's a way to engage      
-   in the tactical elements of  
-              war               
+it's a way to engage in the tactical elements of war               
 
 172
 00:12:23,010 --> 00:12:27,279
-      without the violence      
-       of a real battle.        
+without the violence of a real battle.        
 
 173
 00:12:27,281 --> 00:12:28,813
@@ -832,302 +695,249 @@ making miniature war figurines
 
 174
 00:12:28,815 --> 00:12:32,484
-  starts with the construction  
-          of a model.           
+starts with the construction of a model.           
 
 175
 00:12:32,486 --> 00:12:35,420
-       with only one hand       
-      and his prosthesis,       
+with only one hand and his prosthesis,       
 
 176
 00:12:35,422 --> 00:12:38,122
-    a modeler expertly bends    
-        tin copper wire         
+a modeler expertly bends tin copper wire         
 
 177
 00:12:38,124 --> 00:12:40,292
-    into a framework for the    
-             model.             
+into a framework for the model.             
 
 178
 00:12:42,429 --> 00:12:45,430
-    each soldier needs to be    
-     1.1 inches in length.      
+each soldier needs to be 1.1 inches in length.      
 
 179
 00:12:45,432 --> 00:12:48,767
-   so he shapes and trims the   
-              wire              
-         accordingly.           
+so he shapes and trims the wire accordingly.           
 
 180
 00:12:51,505 --> 00:12:53,705
-       once he completes        
-      the wire skeleton,        
+once he completes the wire skeleton,        
 
 181
 00:12:53,707 --> 00:12:56,774
-    he sticks the leg prongs    
-         into a cork.           
+he sticks the leg prongs into a cork.           
 
 182
 00:12:56,776 --> 00:12:59,911
-    this enables him to get     
-  a firm grip on the skeleton   
+this enables him to get a firm grip on the skeleton   
 
 183
 00:12:59,913 --> 00:13:02,714
-   as he builds up the figure   
-       with epoxy putty.        
+as he builds up the figure with epoxy putty.        
 
 184
 00:13:06,186 --> 00:13:08,586
-    he sculpts a base layer     
-      using a dental tool       
+he sculpts a base layer using a dental tool       
 
 185
 00:13:08,588 --> 00:13:13,125
-      that's usually used       
-     for scraping plaque.       
+that's usually used for scraping plaque.       
 
 186
 00:13:13,127 --> 00:13:15,060
-  after the base layer cures,   
+after the base layer cures,   
 
 187
 00:13:15,062 --> 00:13:19,030
-     he builds up the chest     
-        and calf areas.         
+he builds up the chest and calf areas.         
 
 188
 00:13:19,032 --> 00:13:24,268
-    after more curing time,     
-    he sculpts the soldier's    
-             tunic.             
+after more curing time, he sculpts the soldier's tunic.             
 
 189
 00:13:24,270 --> 00:13:26,938
-    using a tool with a fine    
-             point,             
+using a tool with a fine point,             
 
 190
 00:13:26,940 --> 00:13:30,409
-     he pits the surface to     
-            simulate            
-  medieval chain mail armor.    
+he pits the surface to simulate medieval chain mail armor.    
 
 191
 00:13:32,479 --> 00:13:34,079
-    with skillful artistry,     
+with skillful artistry,     
 
 192
 00:13:34,081 --> 00:13:36,615
-     the miniature soldier      
-         takes shape.           
+the miniature soldier takes shape.           
 
 193
 00:13:40,154 --> 00:13:43,622
-       he inserts a wire        
+he inserts a wire        
 into a drilled shoulder socket  
 
 194
 00:13:43,624 --> 00:13:46,658
-       and applies putty        
- to create a muscular effect.   
+and applies putty to create a muscular effect.   
 
 195
 00:13:51,164 --> 00:13:54,699
-  he builds up the sleeve and   
- pierces it all the way around  
+he builds up the sleeve and pierces it all the way around  
 
 196
 00:13:54,701 --> 00:13:58,436
-          to continue           
-    the chain mail effect.      
+to continue the chain mail effect.      
 
 197
 00:13:58,438 --> 00:14:01,039
-   he carves the rounded rim    
-          of the hat.           
+he carves the rounded rim of the hat.           
 
 198
 00:14:02,843 --> 00:14:07,846
-    this small-scale soldier    
-     is in fighting form.       
+this small-scale soldier is in fighting form.       
 
 199
 00:14:07,848 --> 00:14:10,314
-    he's used to make a mold    
-       for tin soldiers         
+he's used to make a mold for tin soldiers         
 
 200
 00:14:10,316 --> 00:14:12,417
- that will look just like him.  
+that will look just like him.  
 
 201
 00:14:15,722 --> 00:14:17,322
-           meanwhile,           
-  another member of the team    
+meanwhile, another member of the team    
 
 202
 00:14:17,324 --> 00:14:22,127
-   sculpts epoxy putty models   
- that are three times larger.   
+sculpts epoxy putty models that are three times larger.   
 
 203
 00:14:22,129 --> 00:14:23,595
-     these models are used      
+these models are used      
 
 204
 00:14:23,597 --> 00:14:27,265
-        to mass-produce         
-     plastic war figures.       
+to mass-produce plastic war figures.       
 
 205
 00:14:27,267 --> 00:14:30,067
-       going large first        
-     and then scaling down      
+going large first and then scaling down      
 
 206
 00:14:30,069 --> 00:14:33,372
-        is the only way         
- to transfer all the details.   
+is the only way to transfer all the details.   
 
 207
 00:14:37,344 --> 00:14:38,876
-   as he carves hair details    
+as he carves hair details    
 
 208
 00:14:38,878 --> 00:14:41,679
-         into the head          
+into the head          
 of this french cavalry figure,  
 
 209
 00:14:41,681 --> 00:14:45,350
-   he's careful to not leave    
-     any protruding bits.       
+he's careful to not leave any protruding bits.       
 
 210
 00:14:45,352 --> 00:14:48,954
- otherwise, plastic could snag  
-   on molds made from them,     
+otherwise, plastic could snag on molds made from them,     
 
 211
 00:14:48,956 --> 00:14:52,190
-  jeopardizing the production   
-   of the plastic versions.     
+jeopardizing the production of the plastic versions.     
 
 212
 00:14:56,029 --> 00:14:58,563
-    with curing time between    
-            layers,             
+with curing time between layers,             
 
 213
 00:14:58,565 --> 00:15:02,067
-    it takes about a week to    
-             sculpt             
-  this french cavalry model.    
+it takes about a week to sculpt this french cavalry model.    
 
 214
 00:15:06,840 --> 00:15:08,440
-  they're ready to make molds   
+they're ready to make molds   
 
 215
 00:15:08,442 --> 00:15:11,176
-     from the smaller scale     
-          models now.           
+from the smaller scale models now.           
 
 216
 00:15:11,178 --> 00:15:13,712
-         the mold maker         
-   arranges the epoxy models    
+the mold maker arranges the epoxy models    
 
 217
 00:15:13,714 --> 00:15:15,981
-  on a silicone rubber disk.    
+on a silicone rubber disk.    
 
 218
 00:15:19,319 --> 00:15:22,187
-      he presses each one       
-       into the rubber.         
+he presses each one into the rubber.         
 
 219
 00:15:22,189 --> 00:15:25,390
- the ends leave little dents.   
+the ends leave little dents.   
 
 220
 00:15:25,392 --> 00:15:27,926
-      he removes the model      
- and slices it into the rubber  
+he removes the model and slices it into the rubber  
 
 221
 00:15:27,928 --> 00:15:30,262
-   with a surgical scalpel,     
+with a surgical scalpel,     
 
 222
 00:15:30,264 --> 00:15:34,800
-     cutting holes where the    
-             figures            
-  have left the indentations.   
+cutting holes where the figures have left the indentations.   
 
 223
 00:15:34,802 --> 00:15:37,202
-     he removes the silicone    
-            cutouts,            
+he removes the silicone cutouts,            
 
 224
 00:15:37,204 --> 00:15:41,206
-  then carves a narrow channel  
-   to connect the two slots.    
+then carves a narrow channel to connect the two slots.    
 
 225
 00:15:44,878 --> 00:15:48,279
-      he inserts the model      
-        into the niche.         
+he inserts the model into the niche.         
 
 226
 00:15:48,281 --> 00:15:50,882
-    he repeats this process     
-    with the other soldiers     
+he repeats this process with the other soldiers     
 
 227
 00:15:50,884 --> 00:15:52,484
-         on the disk,           
+on the disk,           
 
 228
 00:15:52,486 --> 00:15:55,687
-      then places the disk      
- in a preheated steel vessel.   
+then places the disk in a preheated steel vessel.   
 
 229
 00:15:57,958 --> 00:15:59,891
-  he puts a lid on the vessel   
+he puts a lid on the vessel   
 
 230
 00:15:59,893 --> 00:16:04,229
-        and transfers it        
-    to a vulcanizing press.     
+and transfers it to a vulcanizing press.     
 
 231
 00:16:04,231 --> 00:16:09,033
-  in the press, heated plates   
-  squeeze it using pressure.    
+in the press, heated plates squeeze it using pressure.    
 
 232
 00:16:09,035 --> 00:16:11,235
-     this softens the rubber    
-            inside,             
+this softens the rubber inside,             
 
 233
 00:16:11,237 --> 00:16:14,706
-  melting around the figures,   
-   picking up the contours.     
+melting around the figures, picking up the contours.     
 
 234
 00:16:18,846 --> 00:16:22,414
-    this transfers the disk     
-         into a mold.           
+this transfers the disk into a mold.           
 
 235
 00:16:25,319 --> 00:16:27,986
@@ -1135,23 +945,19 @@ coming up next, the miniatures
 
 236
 00:16:27,988 --> 00:16:30,655
-   emerge from the mold shell   
-         battle-ready.          
+emerge from the mold shell battle-ready.          
 
 237
 00:16:46,873 --> 00:16:48,540
-           narrator:            
-  in the age of video games,    
+narrator: in the age of video games,    
 
 238
 00:16:48,542 --> 00:16:51,943
-       tabletop war games       
-  still have plenty of fans.    
+tabletop war games still have plenty of fans.    
 
 239
 00:16:51,945 --> 00:16:54,078
-      the challenge begins      
-     with the acquisition       
+the challenge begins with the acquisition       
 
 240
 00:16:54,080 --> 00:16:56,948
@@ -1159,177 +965,148 @@ of small armies of miniatures.
 
 241
 00:16:56,950 --> 00:16:58,883
-     players hand-paint the     
-            soldiers            
+players hand-paint the soldiers            
 
 242
 00:16:58,885 --> 00:17:02,020
- and build elaborate backdrops  
-         with scenery.          
+and build elaborate backdrops with scenery.          
 
 243
 00:17:02,022 --> 00:17:04,089
-     then the games begin.      
+then the games begin.      
 
 244
 00:17:09,096 --> 00:17:10,896
-   as production continues,     
+as production continues,     
 
 245
 00:17:10,898 --> 00:17:15,900
- the mold-maker carves channels 
-    into the silicone disk.     
+the mold-maker carves channels into the silicone disk.     
 
 246
 00:17:15,902 --> 00:17:17,902
-     he links the channels      
-      to the impressions        
+he links the channels to the impressions        
 
 247
 00:17:17,904 --> 00:17:20,705
-     of miniature soldiers      
-    and military machinery      
+of miniature soldiers and military machinery      
 
 248
 00:17:20,707 --> 00:17:22,807
-     that have been created     
-        by the models.          
+that have been created by the models.          
 
 249
 00:17:25,579 --> 00:17:29,381
-    the channels allow molten   
-              metal             
- to flow into the impressions   
+the channels allow molten metal to flow into the impressions   
 
 250
 00:17:29,383 --> 00:17:31,383
-   in order to cast copies.     
+in order to cast copies.     
 
 251
 00:17:33,653 --> 00:17:34,986
-       in the storeroom,        
+in the storeroom,        
 
 252
 00:17:34,988 --> 00:17:37,922
-      there are thousands       
-      of silicone molds,        
+there are thousands of silicone molds,        
 
 253
 00:17:37,924 --> 00:17:42,126
-         each depicting         
-    different characters and    
-             props.             
+each depicting different characters and props.             
 
 254
 00:17:42,128 --> 00:17:43,328
-   when the order comes in,     
+when the order comes in,     
 
 255
 00:17:43,330 --> 00:17:45,597
-         an apprentice          
-     makes the selection.       
+an apprentice makes the selection.       
 
 256
 00:17:48,868 --> 00:17:52,804
-   next, an operator puts the   
-              mold              
-     in a casting machine.      
+next, an operator puts the mold in a casting machine.      
 
 257
 00:17:55,676 --> 00:17:57,475
-       as the mold spins        
-        in the machine,         
+as the mold spins in the machine,         
 
 258
 00:17:57,477 --> 00:18:00,412
-       he adds molten tin       
+he adds molten tin       
 through an opening in the lid.  
 
 259
 00:18:00,414 --> 00:18:03,948
-          the spinning          
-     throws the liquid tin      
+the spinning throws the liquid tin      
 
 260
 00:18:03,950 --> 00:18:05,517
-    into the mold crevices.     
+into the mold crevices.     
 
 261
 00:18:07,954 --> 00:18:10,755
-  after the casting solidifies  
-          and cools,            
+after the casting solidifies and cools,            
 
 262
 00:18:10,757 --> 00:18:13,158
-          he extracts           
-   the little tin soldiers.     
+he extracts the little tin soldiers.     
 
 263
 00:18:17,431 --> 00:18:19,497
-     these tin war figures      
-       are on their way         
+these tin war figures are on their way         
 
 264
 00:18:19,499 --> 00:18:21,800
-  to the gaming front lines.    
+to the gaming front lines.    
 
 265
 00:18:24,104 --> 00:18:27,171
-   making plastic war figures   
-  starts with an epoxy resin    
+making plastic war figures starts with an epoxy resin    
 
 266
 00:18:27,173 --> 00:18:29,641
-        for a pattern.          
+for a pattern.          
 
 267
 00:18:29,643 --> 00:18:31,976
-      they add a hardener       
-      and blend the batch       
+they add a hardener and blend the batch       
 
 268
 00:18:31,978 --> 00:18:35,246
-       to the consistency       
-      of pancake batter.        
+to the consistency of pancake batter.        
 
 269
 00:18:35,248 --> 00:18:37,782
-        they transfer it        
-      to a larger bucket        
+they transfer it to a larger bucket        
 
 270
 00:18:37,784 --> 00:18:39,917
-          and place it          
-     in a vacuum chamber,       
+and place it in a vacuum chamber,       
 
 271
 00:18:39,919 --> 00:18:41,519
-   which pulls out the air.     
+which pulls out the air.     
 
 272
 00:18:41,521 --> 00:18:45,723
-        in the process,         
-       the epoxy swells.        
+in the process, the epoxy swells.        
 
 273
 00:18:45,725 --> 00:18:48,193
-     once the epoxy mixture     
-           deflates,            
+once the epoxy mixture deflates,            
 
 274
 00:18:48,195 --> 00:18:51,062
-       a team brushes it        
- onto sculpted military models  
+a team brushes it onto sculpted military models  
 
 275
 00:18:51,064 --> 00:18:53,398
-   arranged in a steel box.     
+arranged in a steel box.     
 
 276
 00:18:55,602 --> 00:18:59,871
-      after filling all the     
-            crevices,           
-   they dispense more epoxy.    
+after filling all the crevices, they dispense more epoxy.    
 
 277
 00:18:59,873 --> 00:19:02,273
@@ -1337,228 +1114,190 @@ a chute ensures a gentle flow,
 
 278
 00:19:02,275 --> 00:19:05,677
-     preventing the buildup     
-       of more bubbles.         
+preventing the buildup of more bubbles.         
 
 279
 00:19:05,679 --> 00:19:07,812
- they repeat this on the other  
-      side of the models        
+they repeat this on the other side of the models        
 
 280
 00:19:07,814 --> 00:19:09,848
- to create a two-part pattern.  
+to create a two-part pattern.  
 
 281
 00:19:12,085 --> 00:19:13,651
-    once the epoxy hardens,     
+once the epoxy hardens,     
 
 282
 00:19:13,653 --> 00:19:15,353
-     they mill the outside      
-        of the pattern          
+they mill the outside of the pattern          
 
 283
 00:19:15,355 --> 00:19:17,956
-        to pre-determined       
-         measurements.          
+to pre-determined measurements.          
 
 284
 00:19:17,958 --> 00:19:21,759
-   an employee then opens it    
-   and discards the models.     
+an employee then opens it and discards the models.     
 
 285
 00:19:21,761 --> 00:19:24,762
-  he inspects the impressions   
-         they've left.          
+he inspects the impressions they've left.          
 
 286
 00:19:24,764 --> 00:19:28,500
- they use this pattern to make  
-    a smaller-scale mold from   
-             steel.             
+they use this pattern to make a smaller-scale mold from steel.             
 
 287
 00:19:31,838 --> 00:19:35,240
-    using an automated saw,     
-   they carve smaller pieces    
+using an automated saw, they carve smaller pieces    
 
 288
 00:19:35,242 --> 00:19:37,609
-          from a block          
-    of nickel chrome steel.     
+from a block of nickel chrome steel.     
 
 289
 00:19:40,980 --> 00:19:43,915
-   an automated milling tool    
-  machines the smaller blocks   
+an automated milling tool machines the smaller blocks   
 
 290
 00:19:43,917 --> 00:19:45,917
-       so the two of them       
-       will fit together        
+so the two of them will fit together        
 
 291
 00:19:45,919 --> 00:19:48,086
-    to create one mold set.     
+to create one mold set.     
 
 292
 00:19:50,657 --> 00:19:53,057
-  a carriage shunts the block   
-        back and forth          
+a carriage shunts the block back and forth          
 
 293
 00:19:53,059 --> 00:19:54,526
-   between an abrasive wheel    
+between an abrasive wheel    
 
 294
 00:19:54,528 --> 00:19:58,096
-      to grind the surface      
-   to precise measurements.     
+to grind the surface to precise measurements.     
 
 295
 00:20:01,734 --> 00:20:03,735
-          a mold-maker          
-    follows the impressions     
+a mold-maker follows the impressions     
 
 296
 00:20:03,737 --> 00:20:06,004
-      in the epoxy pattern      
-        with a stylus,          
+in the epoxy pattern with a stylus,          
 
 297
 00:20:06,006 --> 00:20:08,106
-          which moves           
-     a needle-like cutter.      
+which moves a needle-like cutter.      
 
 298
 00:20:10,543 --> 00:20:13,745
-  the cutter etches a template  
-     into the steel block       
+the cutter etches a template into the steel block       
 
 299
 00:20:13,747 --> 00:20:15,013
-  that's three times smaller    
+that's three times smaller    
 
 300
 00:20:15,015 --> 00:20:16,848
-          than the one          
-     in the epoxy pattern.      
+than the one in the epoxy pattern.      
 
 301
 00:20:21,220 --> 00:20:24,689
-  using a wand that generates   
-  high-frequency vibrations,    
+using a wand that generates high-frequency vibrations,    
 
 302
 00:20:24,691 --> 00:20:29,094
-    he polishes the etchings    
-      in the steel mold.        
+he polishes the etchings in the steel mold.        
 
 303
 00:20:29,096 --> 00:20:30,628
-     it's a gentle polish       
+it's a gentle polish       
 
 304
 00:20:30,630 --> 00:20:33,631
-   that doesn't damage any of   
+that doesn't damage any of   
 the etching in the mold block.  
 
 305
 00:20:37,837 --> 00:20:39,571
-   they drill channels in the   
-             steel              
+they drill channels in the steel              
 
 306
 00:20:39,573 --> 00:20:42,974
-    to allow plastic to flow    
-      to the impressions.       
+to allow plastic to flow to the impressions.       
 
 307
 00:20:42,976 --> 00:20:46,778
-        they also insert        
-     water-cooling pipes.       
+they also insert water-cooling pipes.       
 
 308
 00:20:46,780 --> 00:20:51,382
- they're ready to mass-produce  
-     plastic war figures.       
+they're ready to mass-produce plastic war figures.       
 
 309
 00:20:51,384 --> 00:20:53,250
-   the machine melts plastic    
+the machine melts plastic    
 
 310
 00:20:53,252 --> 00:20:56,654
- and injects it under pressure  
-      into the mold set.        
+and injects it under pressure into the mold set.        
 
 311
 00:20:56,656 --> 00:20:58,856
-      the plastic hardens,      
-        and the machine         
+the plastic hardens, and the machine         
 
 312
 00:20:58,858 --> 00:21:02,794
-   ejects the little soldiers   
-     connected by runners.      
+ejects the little soldiers connected by runners.      
 
 313
 00:21:02,796 --> 00:21:05,797
-   this particular production   
-   includes miniature rifles    
+this particular production includes miniature rifles    
 
 314
 00:21:05,799 --> 00:21:08,999
-           and other            
-    military paraphernalia.     
+and other military paraphernalia.     
 
 315
 00:21:09,001 --> 00:21:12,604
-      they pack the plastic     
-            soldiers,           
- their horses, and their guns   
+they pack the plastic soldiers, their horses, and their guns   
 
 316
 00:21:12,606 --> 00:21:14,806
-     into boxes for retail      
+into boxes for retail      
 
 317
 00:21:14,808 --> 00:21:17,308
-    along with instructions     
-         for painting.          
+along with instructions for painting.          
 
 318
 00:21:22,348 --> 00:21:24,549
-        after painting,         
-     the plastic soldiers       
+after painting, the plastic soldiers       
 
 319
 00:21:24,551 --> 00:21:27,952
-     and their tin comrades     
- are in tip-top military form   
+and their tin comrades are in tip-top military form   
 
 320
 00:21:27,954 --> 00:21:31,088
-     and ready for battle.      
+and ready for battle.      
 
 321
 00:21:31,090 --> 00:21:32,690
-   there will be casualties.    
+there will be casualties.    
 
 322
 00:21:32,692 --> 00:21:37,228
-         but of course,         
-    it's all just for fun.      
+but of course, it's all just for fun.      
 
 323
 00:21:37,230 --> 00:21:40,164
-  these miniature war figures   
-        are survivors.          
+these miniature war figures are survivors.          
 
 324
 00:21:40,166 --> 00:21:43,234
-       they will live on        
-  to fight many more battles.   
+they will live on to fight many more battles.   
 

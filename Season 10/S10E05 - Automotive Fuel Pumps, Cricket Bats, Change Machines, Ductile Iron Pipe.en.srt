@@ -1,1050 +1,762 @@
 ﻿1
 00:00:01,802 --> 00:00:04,737
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,739 --> 00:00:07,907
-      captions paid for by      
- discovery communications, llc  
+captions paid for by discovery communications, llc  
 
 3
 00:00:22,023 --> 00:00:31,030
-     >> narrator: today on      
- "how it's made" -- automotive  
+>> narrator: today on "how it's made" -- automotive  
 
 4
 00:00:31,032 --> 00:00:45,311
-        cricket bats...         
-       change machines... and d 
+cricket bats... change machines... and d 
 
 5
 00:00:45,313 --> 00:00:59,191
-  when you start your car, it   
-     activates a pump that's    
-             usually  located i 
+when you start your car, it activates a pump that's usually  located i 
 
 6
 00:00:59,193 --> 00:01:04,664
- this electrical system pushes  
-   the gas out of the tank and  
-              into              
-   injectors, which aerate the  
+this electrical system pushes the gas out of the tank and into injectors, which aerate the  
 
 7
 00:01:04,666 --> 00:01:08,601
-  and deliver it to the engine  
-           cylinders. without a 
+and deliver it to the engine cylinders. without a 
 
 8
 00:01:08,603 --> 00:01:19,545
-   flowing, your car would be   
-              going             
-         nowhere fast.          
-      you might think that   su 
+flowing, your car would be going nowhere fast. you might think that   su 
 
 9
 00:01:19,547 --> 00:01:24,683
-  an electric pump in gasoline  
-  would be a risky thing, but   
+an electric pump in gasoline would be a risky thing, but   
 
 10
 00:01:24,685 --> 00:01:32,357
-    it's actually a very safe   
-              place             
-             to be.   productio 
+it's actually a very safe place to be.   productio 
 
 11
 00:01:32,359 --> 00:01:36,695
-       pumping mechanism.       
- a gear and several rollers are 
+pumping mechanism. a gear and several rollers are 
 
 12
 00:01:36,697 --> 00:01:41,367
-            plates.             
-   the rollers will rotate to   
-              pull    fuel into 
+plates. the rollers will rotate to pull    fuel into 
 
 13
 00:01:41,369 --> 00:01:51,844
-  pushing it out of the tank.   
- each roller assembly is tested 
-     by spinning it from the    
+pushing it out of the tank. each roller assembly is tested by spinning it from the    
 
 14
 00:01:51,846 --> 00:02:01,520
-  a robot then pops it out and  
- moves it to the next station.  
+a robot then pops it out and moves it to the next station.  
 
 15
 00:02:01,522 --> 00:02:06,125
- attached to the roller pumping 
-           mechanism. then it g 
+attached to the roller pumping mechanism. then it g 
 
 16
 00:02:06,127 --> 00:02:13,065
-       and a plastic cap.       
- all the parts that make up the 
-   pumping mechanism have now   
+and a plastic cap. all the parts that make up the pumping mechanism have now   
 
 17
 00:02:13,067 --> 00:02:21,740
-           assembled.           
-  next comes an end cap with a  
+assembled. next comes an end cap with a  
 
 18
 00:02:21,742 --> 00:02:32,284
- a metal sleeve slides over the 
- pump unit, and the whole thing 
+a metal sleeve slides over the pump unit, and the whole thing 
 
 19
 00:02:32,286 --> 00:02:40,693
-   inside this chamber, large   
- magnets generate a very strong 
+inside this chamber, large magnets generate a very strong 
 
 20
 00:02:40,695 --> 00:02:45,964
-  this causes the metal sleeve  
-               to               
-  collapse, crimping at one end 
-               so    that it ho 
+this causes the metal sleeve to collapse, crimping at one end so    that it ho 
 
 21
 00:02:45,966 --> 00:03:01,914
-           together.            
-  next, retainer rings go into  
+together. next, retainer rings go into  
 
 22
 00:03:01,916 --> 00:03:06,919
- a metal bracket goes over the  
-             pump.  it steadies 
+a metal bracket goes over the pump.  it steadies 
 
 23
 00:03:06,921 --> 00:03:12,257
-  serves as a guide as workers  
- install the brushes and coils  
-  which will supply electricity 
+serves as a guide as workers install the brushes and coils which will supply electricity 
 
 24
 00:03:12,259 --> 00:03:19,331
-      the fuel-pump motor.      
-  a brass terminal slides onto  
-               the   end of eac 
+the fuel-pump motor. a brass terminal slides onto the   end of eac 
 
 25
 00:03:19,333 --> 00:03:26,338
-   assembly to facilitate the   
-     electrical connection.     
-     then the terminals are     
+assembly to facilitate the electrical connection. then the terminals are     
 
 26
 00:03:26,340 --> 00:03:38,083
-        to the assembly.        
- when the job is done, a robot  
+to the assembly. when the job is done, a robot  
 
 27
 00:03:38,085 --> 00:03:48,226
- they built this fuel pump from 
-  the inside out, and now the   
+they built this fuel pump from the inside out, and now the   
 
 28
 00:03:48,228 --> 00:03:53,365
-  inspectors hook each pump up  
-               to               
-  a power source and run fluid  
-    through them to test the    
+inspectors hook each pump up to a power source and run fluid through them to test the    
 
 29
 00:03:53,367 --> 00:03:59,571
-            action.             
-   then they check for proper   
-              flow  and pressur 
+action. then they check for proper flow  and pressur 
 
 30
 00:03:59,573 --> 00:04:04,577
-       if the pump passes       
-         inspection, a          
-     robot sends it down the    
-            assembly line...    
+if the pump passes inspection, a robot sends it down the assembly line...    
 
 31
 00:04:04,579 --> 00:04:11,583
- where a tubing system is being 
-     assembled to carry the     
-            gasoline to the eng 
+where a tubing system is being assembled to carry the gasoline to the eng 
 
 32
 00:04:11,585 --> 00:04:21,326
-  the joints are sealed with a  
-         brazing paste.         
-   then it's into a gas oven, w 
+the joints are sealed with a brazing paste. then it's into a gas oven, w 
 
 33
 00:04:21,328 --> 00:04:31,203
- the paste hardens and fuses to 
-          the tubing. workers r 
+the paste hardens and fuses to the tubing. workers r 
 
 34
 00:04:31,205 --> 00:04:36,142
-   the oven and brush off any   
-   unwanted bits of metal and h 
+the oven and brush off any unwanted bits of metal and h 
 
 35
 00:04:36,144 --> 00:04:48,621
- the ends of the apparatus are  
-    capped to keep them from    
+the ends of the apparatus are capped to keep them from    
 
 36
 00:04:48,623 --> 00:04:57,429
-        during shipping.        
-  rubber tubing is attached to  
-               the   pump and s 
+during shipping. rubber tubing is attached to the   pump and s 
 
 37
 00:04:57,431 --> 00:05:04,369
-            clamps.             
-   then the rubber tubing is    
+clamps. then the rubber tubing is    
 
 38
 00:05:04,371 --> 00:05:14,513
-            system.             
-   workers wire the fuel pump,  
-              then hook up a co 
+system. workers wire the fuel pump, then hook up a co 
 
 39
 00:05:14,515 --> 00:05:22,655
- attach to the engine's wiring. 
-   this is the sending unit.  i 
+attach to the engine's wiring. this is the sending unit.  i 
 
 40
 00:05:22,657 --> 00:05:26,992
-      that's attached to an     
-           electronic           
-            sensor.  the sensor 
+that's attached to an electronic sensor.  the sensor 
 
 41
 00:05:26,994 --> 00:05:33,866
- about fuel levels to the fuel  
-    gauge on the dashboard.     
-  a computerized system checks  
+about fuel levels to the fuel gauge on the dashboard. a computerized system checks  
 
 42
 00:05:33,868 --> 00:05:44,677
- sending unit's accuracy as the 
-  sensor is moved up and down.  
-   once everything checks out,  
+sending unit's accuracy as the sensor is moved up and down. once everything checks out,  
 
 43
 00:05:44,679 --> 00:05:52,951
- time to fill the tank and hit  
-           the road.   up next  
+time to fill the tank and hit the road.   up next  
 
 44
 00:05:52,953 --> 00:05:56,555
-  we'll go behind the scenes at 
-                a               
-         bat factory.           
+we'll go behind the scenes at a bat factory.           
 
 45
 00:05:56,557 --> 00:06:06,932
- >> narrator: references to the 
-  game of cricket date back to  
-               the 1300s.       
+>> narrator: references to the game of cricket date back to the 1300s.       
 
 46
 00:06:06,934 --> 00:06:12,304
-  historians believe it started 
-               as               
-       a children's game. in th 
+historians believe it started as a children's game. in th 
 
 47
 00:06:12,306 --> 00:06:17,042
-   up the pastime, and before   
-              long,             
-  it caught on with the upper   
+up the pastime, and before long, it caught on with the upper   
 
 48
 00:06:17,044 --> 00:06:23,982
-  by the 18th century, cricket  
-               was              
-   one of england's favorite    
+by the 18th century, cricket was one of england's favorite    
 
 49
 00:06:23,984 --> 00:06:27,786
-   cricket bats are made of a   
-  particular species of white w 
+cricket bats are made of a particular species of white w 
 
 50
 00:06:27,788 --> 00:06:33,191
-   it has stringy wood fibers   
-              that              
-       are usually long.        
-       these give the wood  ela 
+it has stringy wood fibers that are usually long. these give the wood  ela 
 
 51
 00:06:33,193 --> 00:06:38,864
-  the key to its performance.   
- bat makers use as much sapwood 
-    as possible because it's    
+the key to its performance. bat makers use as much sapwood as possible because it's    
 
 52
 00:06:38,866 --> 00:06:46,338
-   and more flexible than the   
- heartwood at the tree's core.  
+and more flexible than the heartwood at the tree's core.  
 
 53
 00:06:46,340 --> 00:06:52,277
- pieces about 2 1/2 feet long.  
-  the first machine trims them  
+pieces about 2 1/2 feet long. the first machine trims them  
 
 54
 00:06:52,279 --> 00:06:57,216
-  a few sprays of water limber  
-               up               
-        the wood fibers. then e 
+a few sprays of water limber up the wood fibers. then e 
 
 55
 00:06:57,218 --> 00:07:02,087
- pressing machine three to four 
-             times.  a curved r 
+pressing machine three to four times.  a curved r 
 
 56
 00:07:02,089 --> 00:07:08,360
-     three tons of pressure,    
-            rounding            
- the bat's face and compressing 
-   the wood by almost half an i 
+three tons of pressure, rounding the bat's face and compressing the wood by almost half an i 
 
 57
 00:07:08,362 --> 00:07:16,769
- this pressing is essential to  
-   the bat's performance and    
+this pressing is essential to the bat's performance and    
 
 58
 00:07:16,771 --> 00:07:20,705
-  the bat maker draws a "v" on  
-               the              
-   end where the handle will at 
+the bat maker draws a "v" on the end where the handle will at 
 
 59
 00:07:20,707 --> 00:07:26,845
-   then he removes the bulk of  
-              wood              
- behind the "v" on a table saw. 
+then he removes the bulk of wood behind the "v" on a table saw. 
 
 60
 00:07:26,847 --> 00:07:39,458
- work he'll have to do by hand  
-             later.    now he c 
+work he'll have to do by hand later.    now he c 
 
 61
 00:07:39,460 --> 00:07:45,731
-  this creates a joint in which 
-               to               
-       insert the handle.   the 
+this creates a joint in which to insert the handle.   the 
 
 62
 00:07:45,733 --> 00:07:51,336
-     dried vine stems, glued    
-            together            
-  in sections, and coated with  
+dried vine stems, glued together in sections, and coated with  
 
 63
 00:07:51,338 --> 00:07:56,342
-  the grip end has been shaped  
-               on               
-            a lathe.            
-  the other end will attach to  
+the grip end has been shaped on a lathe. the other end will attach to  
 
 64
 00:07:56,344 --> 00:08:01,213
-             blade.             
-     the bat maker cuts the  bl 
+blade. the bat maker cuts the  bl 
 
 65
 00:08:01,215 --> 00:08:06,351
-   that will fit into the "v"   
-              cut,              
-   then glues the two pieces    
+that will fit into the "v" cut, then glues the two pieces    
 
 66
 00:08:06,353 --> 00:08:21,700
-    a few taps with a hammer    
-             ensures            
-          a tight fit. he sprea 
+a few taps with a hammer ensures a tight fit. he sprea 
 
 67
 00:08:21,702 --> 00:08:28,506
-   over the joint to seal it.   
-     now he shapes the bat's    
-             profile            
-   using a classic woodworking  
+over the joint to seal it. now he shapes the bat's profile using a classic woodworking  
 
 68
 00:08:28,508 --> 00:08:34,245
-      called a drawknife.       
- this takes only a few minutes  
-      but requires years of   e 
+called a drawknife. this takes only a few minutes but requires years of   e 
 
 69
 00:08:34,247 --> 00:08:40,585
-       and an expert eye.       
- then he completes the shaping  
+and an expert eye. then he completes the shaping  
 
 70
 00:08:40,587 --> 00:08:45,990
-  the bottom third of the bat.  
-  international cricket rules   
-  regulate the length and width 
+the bottom third of the bat. international cricket rules regulate the length and width 
 
 71
 00:08:45,992 --> 00:08:50,863
-      bats, but there's no      
-           restriction          
-           on curve.   getting  
+bats, but there's no restriction on curve.   getting  
 
 72
 00:08:50,865 --> 00:08:54,399
-            though.             
-    too much curve, and he'll   
-              limit   the blade 
+though. too much curve, and he'll limit   the blade 
 
 73
 00:08:54,401 --> 00:09:07,279
-          performance.          
- the bat maker finishes off the 
+performance. the bat maker finishes off the 
 
 74
 00:09:07,281 --> 00:09:14,753
-    then he uses a metal hand   
-              plane             
- to flatten the blade's edges.  
+then he uses a metal hand plane to flatten the blade's edges.  
 
 75
 00:09:14,755 --> 00:09:19,558
-  spring by hitting it with a   
-      dense wooden mallet.  he  
+spring by hitting it with a dense wooden mallet.  he  
 
 76
 00:09:19,560 --> 00:09:24,295
-          the strike.           
-    the softer the sound, the   
-             softer             
-  the wood, and the better the  
+the strike. the softer the sound, the softer the wood, and the better the  
 
 77
 00:09:24,297 --> 00:09:30,769
-           will play.           
- he smooths the bat against an  
+will play. he smooths the bat against an  
 
 78
 00:09:30,771 --> 00:09:37,643
- molds to the bat so it doesn't 
-  wear away the shape he worked 
-               so    hard to ac 
+molds to the bat so it doesn't wear away the shape he worked so    hard to ac 
 
 79
 00:09:37,645 --> 00:09:42,781
- then a worker smooths out the  
-   rest of the surface with a   
-              belt              
-  sander designed specifically  
+then a worker smooths out the rest of the surface with a belt sander designed specifically  
 
 80
 00:09:42,783 --> 00:09:48,319
-         cricket bats.          
-    the entire bat is sanded    
-             twice,  first with 
+cricket bats. the entire bat is sanded twice,  first with 
 
 81
 00:09:48,321 --> 00:09:54,326
-     then with a fine one.      
- next, the bat is mounted on a  
+then with a fine one. next, the bat is mounted on a  
 
 82
 00:09:54,328 --> 00:10:00,132
-  handle gets a coat of glue.   
-   a wrapping of twine binds  t 
+handle gets a coat of glue. a wrapping of twine binds  t 
 
 83
 00:10:00,134 --> 00:10:02,333
-   that make up the handle.     
+that make up the handle.     
 
 84
 00:10:02,335 --> 00:10:17,349
- extra glue prevents the twine  
-        from unraveling.   next 
+extra glue prevents the twine from unraveling.   next 
 
 85
 00:10:17,351 --> 00:10:19,618
-     using a cotton wheel.      
+using a cotton wheel.      
 
 86
 00:10:19,620 --> 00:10:38,904
- once the wood is shiny enough, 
-    brand-name decals go on.    
-   finally, a rubber grip goes  
+once the wood is shiny enough, brand-name decals go on. finally, a rubber grip goes  
 
 87
 00:10:38,906 --> 00:10:44,442
-   the binding to prevent the   
- player's hands from slipping.  
+the binding to prevent the player's hands from slipping.  
 
 88
 00:10:44,444 --> 00:10:48,980
-   complement each other when   
-       striking the ball.  the  
+complement each other when striking the ball.  the  
 
 89
 00:10:48,982 --> 00:10:54,720
- enough to deliver a good hit,  
-   and the cane handle absorbs  
-              that              
-     energy, protecting the     
+enough to deliver a good hit, and the cane handle absorbs that energy, protecting the     
 
 90
 00:10:54,722 --> 00:11:06,397
-             hands.             
- when you return -- making the  
+hands. when you return -- making the  
 
 91
 00:11:06,399 --> 00:11:17,743
-  >> narrator: change machines  
- were invented in the mid-1950s 
+>> narrator: change machines were invented in the mid-1950s 
 
 92
 00:11:17,745 --> 00:11:22,947
-     vending-machine boom.      
-      they began as simple      
-           mechanical   coin ch 
+vending-machine boom. they began as simple mechanical   coin ch 
 
 93
 00:11:22,949 --> 00:11:29,020
-    quarter into nickels and    
-             dimes.             
-   today's modern machines can  
-              even   convert $2 
+quarter into nickels and dimes. today's modern machines can even   convert $2 
 
 94
 00:11:29,022 --> 00:11:39,364
-    times sure have changed.    
-        it's like magic.  in go 
+times sure have changed. it's like magic.  in go 
 
 95
 00:11:39,366 --> 00:11:45,170
-  out comes the exact change.   
- but behind the scenes, there's 
+out comes the exact change. but behind the scenes, there's 
 
 96
 00:11:45,172 --> 00:11:49,508
-   innovative design and some   
-  pretty high-tech equipment.   
+innovative design and some pretty high-tech equipment.   
 
 97
 00:11:49,510 --> 00:11:54,445
-       machine's cabinet.       
-  a computer-guided laser cuts  
-               the  cabinet par 
+machine's cabinet. a computer-guided laser cuts the  cabinet par 
 
 98
 00:11:54,447 --> 00:12:06,658
-    steel measuring 1 by 1/2    
-             yards.             
-  workers shake the parts free  
-               and  push out th 
+steel measuring 1 by 1/2 yards. workers shake the parts free and  push out th 
 
 99
 00:12:06,660 --> 00:12:12,797
-   panel that will become the   
-     cabinet's front door. the  
+panel that will become the cabinet's front door. the  
 
 100
 00:12:12,799 --> 00:12:19,871
-    machine called the press    
-             break.             
-     this is one of the door    
-             panels.  the machi 
+machine called the press break. this is one of the door panels.  the machi 
 
 101
 00:12:19,873 --> 00:12:26,144
-    a die, bending the edge.    
-      these bent edges will     
-           strengthen           
-    the door and help it fit sn 
+a die, bending the edge. these bent edges will strengthen the door and help it fit sn 
 
 102
 00:12:26,146 --> 00:12:34,553
-        into the frame.         
- the laser cutter also makes a  
+into the frame. the laser cutter also makes a  
 
 103
 00:12:34,555 --> 00:12:40,158
-         cabinet part.          
-  then workers press threaded   
+cabinet part. then workers press threaded   
 
 104
 00:12:40,160 --> 00:12:48,033
-       a vibrating feeder       
-          automatically         
-  dispenses the studs into the  
+a vibrating feeder automatically dispenses the studs into the  
 
 105
 00:12:48,035 --> 00:12:53,505
- now they bend the sheet, again 
- using a press break, and make  
-   the three-sided panel that   
+now they bend the sheet, again using a press break, and make the three-sided panel that   
 
 106
 00:12:53,507 --> 00:13:01,980
-  become the cabinet sides and  
-             back. they attach  
+become the cabinet sides and back. they attach  
 
 107
 00:13:01,982 --> 00:13:09,721
-            panels.             
- then they position the cabinet 
+panels. then they position the cabinet 
 
 108
 00:13:09,723 --> 00:13:18,330
- station and rotate the table.  
- a robot makes precision welds  
+station and rotate the table. a robot makes precision welds  
 
 109
 00:13:18,332 --> 00:13:26,804
- shields workers from heat and  
-         harmful rays.  now the 
+shields workers from heat and harmful rays.  now the 
 
 110
 00:13:26,806 --> 00:13:32,010
-   machine's coin dispenser.    
-  it has two counter-rotating   
-  discs fitted to the diameter  
+machine's coin dispenser. it has two counter-rotating discs fitted to the diameter  
 
 111
 00:13:32,012 --> 00:13:37,415
-      thickness of a coin.      
-   they work together to seize  
-               and              
-   align the coins, then drop   
+thickness of a coin. they work together to seize and align the coins, then drop   
 
 112
 00:13:37,417 --> 00:13:42,954
-      into the coin chute.      
-   workers set in these metal   
-   discs, along with a plastic  
+into the coin chute. workers set in these metal discs, along with a plastic  
 
 113
 00:13:42,956 --> 00:13:51,229
-  mechanism that rotates them.  
-  then they secure the parts on 
-                a   fixture...  
+mechanism that rotates them. then they secure the parts on a   fixture...  
 
 114
 00:13:51,231 --> 00:13:55,033
- and drill holes into the gear  
-          mechanism.            
+and drill holes into the gear mechanism.            
 
 115
 00:13:55,035 --> 00:14:09,314
- roll pins are inserted to hold 
-      the parts together.       
-   then workers make sure the   
+roll pins are inserted to hold the parts together. then workers make sure the   
 
 116
 00:14:09,316 --> 00:14:18,724
-       discs spin freely.       
-  the next task is to assemble  
-               the              
-    coin-dispenser discs and ge 
+discs spin freely. the next task is to assemble the coin-dispenser discs and ge 
 
 117
 00:14:18,726 --> 00:14:27,799
-    this is precision work.     
- first, they set the parts in a 
+this is precision work. first, they set the parts in a 
 
 118
 00:14:27,801 --> 00:14:38,410
-  plastic rings go around the   
- discs to guide and support the 
+plastic rings go around the discs to guide and support the 
 
 119
 00:14:38,412 --> 00:14:43,281
-      then they attach the      
-           gear-train           
-     motor which powers the     
+then they attach the gear-train motor which powers the     
 
 120
 00:14:43,283 --> 00:14:59,764
- a plastic guide on the casing  
-    helps the coins drop in     
+a plastic guide on the casing helps the coins drop in     
 
 121
 00:14:59,766 --> 00:15:05,303
- next comes the coin chute that 
-  guides the change out of the  
-     dispenser and into the   m 
+next comes the coin chute that guides the change out of the dispenser and into the   m 
 
 122
 00:15:05,305 --> 00:15:14,111
-           coin cup.            
-    the dispenser holds up to   
-              $800,   which can 
+coin cup. the dispenser holds up to $800,   which can 
 
 123
 00:15:14,113 --> 00:15:18,917
-  pounds, so it needs a strong  
-            handle.             
-   it's locked into place with  
+pounds, so it needs a strong handle. it's locked into place with  
 
 124
 00:15:18,919 --> 00:15:30,262
- tool, called a ring fastener.  
- now it's time to put the whole 
+tool, called a ring fastener. now it's time to put the whole 
 
 125
 00:15:30,264 --> 00:15:35,467
-    first, an electric power    
-             supply             
-   is installed on the inside   
-              back  wall.       
+first, an electric power supply is installed on the inside back  wall.       
 
 126
 00:15:35,469 --> 00:15:47,012
- next comes the bill validator. 
-       and the coin cup.   then 
+next comes the bill validator. and the coin cup.   then 
 
 127
 00:15:47,014 --> 00:15:52,350
- electronic control board, the  
-   brains of the machine that c 
+electronic control board, the brains of the machine that c 
 
 128
 00:15:52,352 --> 00:15:58,022
- finally, on go the instruction 
-            decals.             
-   so, how do bills transform   
+finally, on go the instruction decals. so, how do bills transform   
 
 129
 00:15:58,024 --> 00:16:02,894
-             coins?             
-  let's open the door and see.  
+coins? let's open the door and see.  
 
 130
 00:16:02,896 --> 00:16:08,699
- the bill's paper and ink, then 
-      stacks it in a box.  the  
+the bill's paper and ink, then stacks it in a box.  the  
 
 131
 00:16:08,701 --> 00:16:14,239
-  transaction, then cha-ching,  
-         exact change.  coming  
+transaction, then cha-ching, exact change.  coming  
 
 132
 00:16:14,241 --> 00:16:17,642
- steel into the pipes that keep 
-      our cities running.       
+steel into the pipes that keep our cities running.       
 
 133
 00:16:17,644 --> 00:16:28,520
-  >> narrator: chances are you  
-               use              
-   ductile-iron pipe every day  
-               and   don't even 
+>> narrator: chances are you use ductile-iron pipe every day and   don't even 
 
 134
 00:16:28,522 --> 00:16:33,157
-   the underground pipes that   
-  transport a city's drinking   
+the underground pipes that transport a city's drinking   
 
 135
 00:16:33,159 --> 00:16:36,661
-             iron.              
-   so are the sewer pipes that  
-              take  away househ 
+iron. so are the sewer pipes that take  away househ 
 
 136
 00:16:36,663 --> 00:16:42,066
- ductile iron is more flexible  
-    than ordinary gray iron.  u 
+ductile iron is more flexible than ordinary gray iron.  u 
 
 137
 00:16:42,068 --> 00:16:50,876
-       before it breaks.        
- ductile-iron pipes are made of 
+before it breaks. ductile-iron pipes are made of 
 
 138
 00:16:50,878 --> 00:16:59,217
-    life-span of hundreds of    
-             years.             
- production begins in the pipe  
+life-span of hundreds of years. production begins in the pipe  
 
 139
 00:16:59,219 --> 00:17:04,889
-   these old cars are on their  
-               way              
-  to a shredder that chews them 
-               up    into littl 
+these old cars are on their way to a shredder that chews them up    into littl 
 
 140
 00:17:04,891 --> 00:17:09,761
- the factory sorts the bits by  
-           material. it discard 
+the factory sorts the bits by material. it discard 
 
 141
 00:17:09,763 --> 00:17:15,166
-  the aluminum and copper, but  
-   keeps the steel and iron.    
+the aluminum and copper, but keeps the steel and iron.    
 
 142
 00:17:15,168 --> 00:17:20,905
-      steel from demolished     
-            buildings           
-       and other sources. the s 
+steel from demolished buildings and other sources. the s 
 
 143
 00:17:20,907 --> 00:17:28,245
-   by its chemical composition  
-               and              
-      sorted accordingly.    a  
+by its chemical composition and sorted accordingly.    a  
 
 144
 00:17:28,247 --> 00:17:37,322
-  industrial magnet to gather   
-  precise amounts of steel and  
+industrial magnet to gather precise amounts of steel and  
 
 145
 00:17:37,324 --> 00:17:42,727
-   the shredded metals then go  
-              into              
-    a blast furnace fueled by   
-              coke, a form of c 
+the shredded metals then go into a blast furnace fueled by coke, a form of c 
 
 146
 00:17:42,729 --> 00:17:51,068
-  at 2,500 degrees fahrenheit,  
-               the              
- iron and steel liquefy, while  
+at 2,500 degrees fahrenheit, the iron and steel liquefy, while  
 
 147
 00:17:51,070 --> 00:17:56,007
-  workers then add magnesium.   
-   this turns the metal from or 
+workers then add magnesium. this turns the metal from or 
 
 148
 00:17:56,009 --> 00:18:03,615
-     stronger, more flexible    
-             ductile            
-             iron. the molten i 
+stronger, more flexible ductile iron. the molten i 
 
 149
 00:18:03,617 --> 00:18:09,020
- trough into a casting machine. 
-   it enters a spinning mold,   
-              where  centrifuga 
+trough into a casting machine. it enters a spinning mold, where  centrifuga 
 
 150
 00:18:09,022 --> 00:18:10,889
- iron against the mold walls.   
+iron against the mold walls.   
 
 151
 00:18:10,891 --> 00:18:23,835
-  a cooling system chills the   
- walls, and the iron solidifies 
+a cooling system chills the walls, and the iron solidifies 
 
 152
 00:18:23,837 --> 00:18:31,309
- then an extractor pulls out a  
-  20-foot-long cast-iron pipe,  
-               the    standard  
+then an extractor pulls out a 20-foot-long cast-iron pipe, the    standard  
 
 153
 00:18:31,311 --> 00:18:37,048
-  before each casting, workers  
- insert a round form, called a  
+before each casting, workers insert a round form, called a  
 
 154
 00:18:37,050 --> 00:18:41,386
-             mold.              
- the molten iron fills the void 
+mold. the molten iron fills the void 
 
 155
 00:18:41,388 --> 00:18:45,990
-     forming a flared edge,     
-         called a bell.         
-  the core also seals off that  
+forming a flared edge, called a bell. the core also seals off that  
 
 156
 00:18:45,992 --> 00:18:50,061
- of the mold, preventing molten 
-  iron from flying out during   
+of the mold, preventing molten iron from flying out during   
 
 157
 00:18:50,063 --> 00:18:55,199
- when it's time to connect the  
- pipes, installers will fit the 
+when it's time to connect the pipes, installers will fit the 
 
 158
 00:18:55,201 --> 00:19:01,472
-    straight end of another.    
- a rubber gasket seals the link 
+straight end of another. a rubber gasket seals the link 
 
 159
 00:19:01,474 --> 00:19:06,477
-  the casting machine can make  
-  pipes of different diameters  
-               by  changing the 
+the casting machine can make pipes of different diameters by  changing the 
 
 160
 00:19:06,479 --> 00:19:18,156
-            inside.             
-  after the pipe is extracted,  
-     inspectors weigh it and    
+inside. after the pipe is extracted, inspectors weigh it and    
 
 161
 00:19:18,158 --> 00:19:24,429
- the wall thickness to be sure  
-        everything meets        
-         specifications.   then 
+the wall thickness to be sure everything meets specifications.   then 
 
 162
 00:19:24,431 --> 00:19:28,766
-        remove the core.        
-  since it's made of sand and   
+remove the core. since it's made of sand and   
 
 163
 00:19:28,768 --> 00:19:31,102
-        disintegrates.          
+disintegrates.          
 
 164
 00:19:31,104 --> 00:19:48,919
-  this factory makes pipes in   
-     several diameters, but     
-     regardless of size, the    
+this factory makes pipes in several diameters, but regardless of size, the    
 
 165
 00:19:48,921 --> 00:19:53,891
-  process is always the same.   
-  it just takes less time with  
+process is always the same. it just takes less time with  
 
 166
 00:19:53,893 --> 00:20:04,068
-         harden faster.         
- a freshly cast pipe is around  
-  1,500 degrees fahrenheit, but 
+harden faster. a freshly cast pipe is around 1,500 degrees fahrenheit, but 
 
 167
 00:20:04,070 --> 00:20:08,740
-   cools quickly after leaving  
-               the              
-             mold.  such rapid  
+cools quickly after leaving the mold.  such rapid  
 
 168
 00:20:08,742 --> 00:20:13,945
- iron brittle, so the pipe goes 
-   directly into a gas-fired an 
+iron brittle, so the pipe goes directly into a gas-fired an 
 
 169
 00:20:13,947 --> 00:20:19,817
-       it to 1,700 degrees      
-           fahrenheit.          
-    this alters the internal    
-  structure of the iron, making 
+it to 1,700 degrees fahrenheit. this alters the internal structure of the iron, making 
 
 170
 00:20:19,819 --> 00:20:25,090
-      strong and flexible.      
-  the pipe then runs through a  
-  cooling chamber that showers  
+strong and flexible. the pipe then runs through a cooling chamber that showers  
 
 171
 00:20:25,092 --> 00:20:31,830
-         in cold water.         
-    to prevent the iron from    
+in cold water. to prevent the iron from    
 
 172
 00:20:31,832 --> 00:20:37,736
-  sprayed with cement, building 
-               up               
- a lining an eighth of an inch  
+sprayed with cement, building up a lining an eighth of an inch  
 
 173
 00:20:45,578 --> 00:20:46,511
-   then the pipe is spun for a  
-              few               
+then the pipe is spun for a few               
 
 174
 00:20:46,513 --> 00:20:49,246
-   seconds to smooth out the    
+seconds to smooth out the    
 
 175
 00:20:49,248 --> 00:20:50,181
-            cement.             
+cement.             
 
 176
 00:20:50,183 --> 00:20:52,449
-  the entire pipe is painted    
+the entire pipe is painted    
 
 177
 00:20:52,451 --> 00:20:53,918
-        inside and out.         
+inside and out.         
 
 178
 00:20:53,920 --> 00:20:55,786
-     this seals the surface,    
-            enabling            
+this seals the surface, enabling            
 
 179
 00:20:55,788 --> 00:20:57,521
-  the cement to cure over the   
+the cement to cure over the   
 
 180
 00:20:57,523 --> 00:20:58,857
-        next 24 hours.          
+next 24 hours.          
 
 181
 00:20:58,859 --> 00:21:00,925
-   it also provides some extra  
-              rust              
+it also provides some extra rust              
 
 182
 00:21:00,927 --> 00:21:02,794
-          protection.           
+protection.           
 
 183
 00:21:02,796 --> 00:21:04,529
-    finally, a robot paints a   
-             stripe             
+finally, a robot paints a stripe             
 
 184
 00:21:04,531 --> 00:21:06,531
-   around the straight end of   
-              each              
+around the straight end of each              
 
 185
 00:21:06,533 --> 00:21:07,398
-             pipe.              
+pipe.              
 
 186
 00:21:07,400 --> 00:21:09,200
- this is a depth guideline so   
+this is a depth guideline so   
 
 187
 00:21:09,202 --> 00:21:10,868
- installation crews know when   
+installation crews know when   
 
 188
 00:21:10,870 --> 00:21:12,670
- they've inserted the straight  
+they've inserted the straight  
 
 189
 00:21:12,672 --> 00:21:14,539
-  end of one pipe as far as it  
-              can               
+end of one pipe as far as it can               
 
 190
 00:21:14,541 --> 00:21:23,013
-     go into the bell end of    
-            another.            
+go into the bell end of another.            
 
 191
 00:21:23,015 --> 00:21:24,616
@@ -1052,14 +764,13 @@ if you have any comments about
 
 192
 00:21:24,618 --> 00:21:26,217
- the show, or if you'd like to  
+the show, or if you'd like to  
 
 193
 00:21:26,219 --> 00:21:27,952
-    suggest topics for future   
-             shows,             
+suggest topics for future shows,             
 
 194
 00:21:27,954 --> 00:21:29,921
-     drop us at line at...      
+drop us at line at...      
 

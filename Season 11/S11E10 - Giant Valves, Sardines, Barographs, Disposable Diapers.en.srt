@@ -1,83 +1,72 @@
 ﻿1
 00:00:51,384 --> 00:00:54,185
-    narrator: valves control    
-  the flow of liquids and gases 
+narrator: valves control the flow of liquids and gases 
 
 2
 00:00:54,187 --> 00:00:55,454
-    through pipes and tubes.    
+through pipes and tubes.    
 
 3
 00:00:55,456 --> 00:00:57,355
-      they're so much part      
-          of our lives,         
+they're so much part of our lives,         
 
 4
 00:00:57,357 --> 00:00:59,257
-      we hardly think twice     
-           about them.          
+we hardly think twice about them.          
 
 5
 00:00:59,259 --> 00:01:01,927
-      but a faulty valve in     
-  an airplane or chemical plant 
+but a faulty valve in an airplane or chemical plant 
 
 6
 00:01:01,929 --> 00:01:03,328
-     could be catastrophic.     
+could be catastrophic.     
 
 7
 00:01:03,330 --> 00:01:05,997
-  valves must be precision-made 
-        and trouble-free,       
+valves must be precision-made and trouble-free,       
 
 8
 00:01:05,999 --> 00:01:09,067
-    whether it's small enough   
-  to fit inside the human body  
+whether it's small enough to fit inside the human body  
 
 9
 00:01:09,069 --> 00:01:10,569
-       or as big as a car.      
+or as big as a car.      
 
 10
 00:01:14,541 --> 00:01:18,009
- many gate valves use handwheels
-      to control the flow.      
+many gate valves use handwheels
+to control the flow.      
 
 11
 00:01:18,011 --> 00:01:20,145
-       turning this wheel       
+turning this wheel       
 
 12
 00:01:20,147 --> 00:01:24,149
- opens or closes a gate or wedge
-     inside the valve body.     
+opens or closes a gate or wedge
+inside the valve body.     
 
 13
 00:01:27,621 --> 00:01:31,690
-  this giant 11-ton gate valve  
-       works the same way.      
+this giant 11-ton gate valve works the same way.      
 
 14
 00:01:31,692 --> 00:01:34,559
-         it will receive        
-    an internal gate or wedge   
+it will receive an internal gate or wedge   
 
 15
 00:01:34,561 --> 00:01:38,030
- that starts and stops the flow 
-      of liquids or gases.      
+that starts and stops the flow of liquids or gases.      
 
 16
 00:01:38,032 --> 00:01:40,498
- first, an automated horizontal 
-           boring mill          
+first, an automated horizontal boring mill          
 
 17
 00:01:40,500 --> 00:01:42,767
-     prepares the valve body    
-          for assembly          
+prepares the valve body for assembly          
 
 18
 00:01:42,769 --> 00:01:44,769
@@ -86,196 +75,170 @@ and for a controlling mechanism.
 19
 00:01:44,771 --> 00:01:48,306
 it takes a controlling mechanism
-   or motor, not a handwheel,   
+or motor, not a handwheel,   
 
 20
 00:01:48,308 --> 00:01:54,980
-    to open and close a wedge   
- that weighs about 3,300 pounds.
+to open and close a wedge that weighs about 3,300 pounds.
 
 21
 00:01:54,982 --> 00:01:59,585
- an automated drill pilot drills
-  the flange of the valve body. 
+an automated drill pilot drills
+the flange of the valve body. 
 
 22
 00:01:59,587 --> 00:02:01,787
-     this centers the holes     
-       used for the bolts       
+this centers the holes used for the bolts       
 
 23
 00:02:01,789 --> 00:02:03,455
-        that will connect       
-        the valve cover.        
+that will connect the valve cover.        
 
 24
 00:02:07,194 --> 00:02:08,860
-   a technician double-checks   
+a technician double-checks   
 
 25
 00:02:08,862 --> 00:02:11,730
-     to make sure the holes     
-     are in the right place.    
+to make sure the holes are in the right place.    
 
 26
 00:02:11,732 --> 00:02:15,400
- then an automated spade drill  
- starts penetrating the flange. 
+then an automated spade drill starts penetrating the flange. 
 
 27
 00:02:15,402 --> 00:02:18,804
-   coolant prevents the steel   
-         from heating up        
+coolant prevents the steel from heating up        
 
 28
 00:02:18,806 --> 00:02:20,338
-     and removes steel chips    
+and removes steel chips    
 
 29
 00:02:20,340 --> 00:02:23,041
-           from inside          
-  the perfectly centered holes. 
+from inside the perfectly centered holes. 
 
 30
 00:02:30,351 --> 00:02:32,951
- meanwhile, the wedge is ready. 
+meanwhile, the wedge is ready. 
 
 31
 00:02:32,953 --> 00:02:35,621
-         a propane torch        
-       preheats the wedge       
+a propane torch preheats the wedge       
 
 32
 00:02:35,623 --> 00:02:38,290
-       for the plasma-arc       
-        welding machine.        
+for the plasma-arc welding machine.        
 
 33
 00:02:38,292 --> 00:02:42,293
-   this machine hard-faces the  
-  sealing surface of the wedge, 
+this machine hard-faces the sealing surface of the wedge, 
 
 34
 00:02:42,295 --> 00:02:44,930
-            a process           
-   that ensures minimal wear.   
+a process that ensures minimal wear.   
 
 35
 00:02:47,034 --> 00:02:50,301
-       hard-facing creates      
-    three rows of weld beads,   
+hard-facing creates three rows of weld beads,   
 
 36
 00:02:50,303 --> 00:02:51,737
- which will be machined smooth. 
+which will be machined smooth. 
 
 37
 00:02:55,042 --> 00:02:57,108
-  before installing the wedge,  
+before installing the wedge,  
 
 38
 00:02:57,110 --> 00:03:00,111
 a technician inserts a seat ring
-      into the valve body.      
+into the valve body.      
 
 39
 00:03:00,113 --> 00:03:03,916
-    a seat ring helps ensure    
-  precision fit with the wedge. 
+a seat ring helps ensure precision fit with the wedge. 
 
 40
 00:03:07,120 --> 00:03:09,654
-          the ring fits         
-  into the grooved body cavity. 
+the ring fits into the grooved body cavity. 
 
 41
 00:03:09,656 --> 00:03:12,691
 then the technician sets another
-      seat ring into place.     
+seat ring into place.     
 
 42
 00:03:15,996 --> 00:03:17,596
-    before the wedge goes in,   
+before the wedge goes in,   
 
 43
 00:03:17,598 --> 00:03:19,598
- a semiautomatic welding machine
+a semiautomatic welding machine
 
 44
 00:03:19,600 --> 00:03:21,466
-    welds the two seat rings    
-           into place           
+welds the two seat rings into place           
 
 45
 00:03:21,468 --> 00:03:24,770
-  using a rotating positioner.  
+using a rotating positioner.  
 
 46
 00:03:24,772 --> 00:03:28,139
-     then a lapping machine     
-  inserted into the valve body  
+then a lapping machine inserted into the valve body  
 
 47
 00:03:28,141 --> 00:03:31,409
-     polishes each seat ring    
-    to guarantee their finish   
+polishes each seat ring to guarantee their finish   
 
 48
 00:03:31,411 --> 00:03:32,711
-       is flat and smooth.      
+is flat and smooth.      
 
 49
 00:03:37,818 --> 00:03:40,952
-          next, a crane         
-    lowers the machined wedge   
+next, a crane lowers the machined wedge   
 
 50
 00:03:40,954 --> 00:03:42,354
-      into the body cavity.     
+into the body cavity.     
 
 51
 00:03:44,892 --> 00:03:48,627
-   using a gauge, a technician  
-        verifies the gap.       
+using a gauge, a technician verifies the gap.       
 
 52
 00:03:48,629 --> 00:03:51,096
-      he repeatedly checks      
-     to see what adjustments    
+he repeatedly checks to see what adjustments    
 
 53
 00:03:51,098 --> 00:03:55,100
-       the wedge may need       
-   to ensure a tight shutoff.   
+the wedge may need to ensure a tight shutoff.   
 
 54
 00:03:58,705 --> 00:04:01,306
-       another technician       
-    installs a sealer gasket    
+another technician installs a sealer gasket    
 
 55
 00:04:01,308 --> 00:04:04,276
-    to prepare the valve body   
-    for the cover or bonnet.    
+to prepare the valve body for the cover or bonnet.    
 
 56
 00:04:07,047 --> 00:04:09,581
-  now he begins final assembly. 
+now he begins final assembly. 
 
 57
 00:04:09,583 --> 00:04:13,051
-     a fully adjusted wedge     
-     with the stem attached     
+a fully adjusted wedge with the stem attached     
 
 58
 00:04:13,053 --> 00:04:15,954
-         fits perfectly         
- in between the two seat rings. 
+fits perfectly in between the two seat rings. 
 
 59
 00:04:17,591 --> 00:04:20,859
-     this stem will connect     
-  to the controlling mechanism  
+this stem will connect to the controlling mechanism  
 
 60
 00:04:20,861 --> 00:04:22,728
@@ -283,306 +246,262 @@ that opens and closes the valve.
 
 61
 00:04:26,466 --> 00:04:27,999
-    a crane lowers the bonnet   
+a crane lowers the bonnet   
 
 62
 00:04:28,001 --> 00:04:30,535
-   with attached yoke assembly  
-         onto the body.         
+with attached yoke assembly onto the body.         
 
 63
 00:04:31,938 --> 00:04:34,139
-      its studs fit exactly     
-         into the holes         
+its studs fit exactly into the holes         
 
 64
 00:04:34,141 --> 00:04:37,576
-     that were drilled into     
+that were drilled into     
 the valve's flange at the start.
 
 65
 00:04:43,417 --> 00:04:46,885
-  a technician readies all the  
-  bolts for machine tightening. 
+a technician readies all the bolts for machine tightening. 
 
 66
 00:04:46,887 --> 00:04:50,022
-         then he greases        
-    the top part of the stem.   
+then he greases the top part of the stem.   
 
 67
 00:04:51,425 --> 00:04:54,559
-    he lowers the controlling   
-    mechanism onto the stem,    
+he lowers the controlling mechanism onto the stem,    
 
 68
 00:04:54,561 --> 00:04:56,294
-   and he screws it into place  
+and he screws it into place  
 
 69
 00:04:56,296 --> 00:04:59,564
- until it's flush with the yoke,
-   the top part of the bonnet.  
+until it's flush with the yoke,
+the top part of the bonnet.  
 
 70
 00:05:03,303 --> 00:05:04,636
-     a technician then bolts    
+a technician then bolts    
 
 71
 00:05:04,638 --> 00:05:07,439
-    the controlling mechanism   
-         onto the yoke.         
+the controlling mechanism onto the yoke.         
 
 72
 00:05:08,375 --> 00:05:11,109
-   finally, another technician  
-          spray-paints          
+finally, another technician spray-paints          
 
 73
 00:05:11,111 --> 00:05:12,778
- the fully assembled gate valve 
+the fully assembled gate valve 
 
 74
 00:05:12,780 --> 00:05:15,647
-   with a protective coat of    
-   corrosion-resistant paint.   
+with a protective coat of corrosion-resistant paint.   
 
 75
 00:05:17,518 --> 00:05:20,652
-   precision-made gate valves   
-      are expertly crafted.     
+precision-made gate valves are expertly crafted.     
 
 76
 00:05:20,654 --> 00:05:22,721
-     they come in all shapes    
-            and sizes           
+they come in all shapes and sizes           
 
 77
 00:05:22,723 --> 00:05:23,922
-        and are equipped        
+and are equipped        
 
 78
 00:05:23,924 --> 00:05:26,892
-   with controlling mechanisms  
-         or handwheels.         
+with controlling mechanisms or handwheels.         
 
 79
 00:05:29,463 --> 00:05:32,597
-         from refineries        
-    and nuclear power plants    
+from refineries and nuclear power plants    
 
 80
 00:05:32,599 --> 00:05:35,400
-          to submarines         
-     and aircraft carriers,     
+to submarines and aircraft carriers,     
 
 81
 00:05:35,402 --> 00:05:38,804
-     gate valves are helping    
-      our world run safely.     
+gate valves are helping our world run safely.     
 
 82
 00:05:51,418 --> 00:05:53,485
-  narrator: the health benefits 
-         of eating fish         
+narrator: the health benefits of eating fish         
 
 83
 00:05:53,487 --> 00:05:54,619
-     are always under study.    
+are always under study.    
 
 84
 00:05:54,621 --> 00:05:56,754
 today, it's said that most fish,
-         like sardines,         
+like sardines,         
 
 85
 00:05:56,756 --> 00:05:59,090
-        are a good source       
-     of vitamins, minerals,     
+are a good source of vitamins, minerals,     
 
 86
 00:05:59,092 --> 00:06:00,559
-    and omega-3 fatty acids.    
+and omega-3 fatty acids.    
 
 87
 00:06:00,561 --> 00:06:03,028
-   if you want to make healthy  
-         eating choices,        
+if you want to make healthy eating choices,        
 
 88
 00:06:03,030 --> 00:06:04,496
-   you need to stay informed,   
+you need to stay informed,   
 
 89
 00:06:04,498 --> 00:06:07,499
- so seeing how these little guys
-  end up on your kitchen table  
+so seeing how these little guys
+end up on your kitchen table  
 
 90
 00:06:07,501 --> 00:06:09,301
-     is a good way to start.    
+is a good way to start.    
 
 91
 00:06:13,640 --> 00:06:17,709
-    sardines from the pacific   
+sardines from the pacific   
 coastal waters off of costa rica
 
 92
 00:06:17,711 --> 00:06:22,180
-      are freshly packaged      
- in a variety of tasty flavors. 
+are freshly packaged in a variety of tasty flavors. 
 
 93
 00:06:22,182 --> 00:06:24,182
-     it starts when sardines    
+it starts when sardines    
 
 94
 00:06:24,184 --> 00:06:27,519
- are put into a vat of icy water
-       to keep them fresh.      
+are put into a vat of icy water
+to keep them fresh.      
 
 95
 00:06:29,790 --> 00:06:32,858
-   the temperature of the fish  
-          must be kept          
+the temperature of the fish must be kept          
 
 96
 00:06:32,860 --> 00:06:35,794
-   below 41 degrees fahrenheit  
-       to avoid spoiling.       
+below 41 degrees fahrenheit to avoid spoiling.       
 
 97
 00:06:35,796 --> 00:06:38,563
-       the fresh sardines       
-    then go through a machine   
+the fresh sardines then go through a machine   
 
 98
 00:06:38,565 --> 00:06:42,167
-     that deposits the fish     
-       onto sorting lanes.      
+that deposits the fish onto sorting lanes.      
 
 99
 00:06:45,405 --> 00:06:48,340
-            each lane           
-   allows a certain sized fish  
+each lane allows a certain sized fish  
 
 100
 00:06:48,342 --> 00:06:51,610
-     to fall through the gap    
-       onto a chute below.      
+to fall through the gap onto a chute below.      
 
 101
 00:06:56,150 --> 00:06:58,817
-        sorted as small,        
-        medium, or large,       
+sorted as small, medium, or large,       
 
 102
 00:06:58,819 --> 00:07:01,987
-          the fish drop         
-   into the proper container.   
+the fish drop into the proper container.   
 
 103
 00:07:05,692 --> 00:07:08,626
-        then workers load       
-   a specific size of sardine   
+then workers load a specific size of sardine   
 
 104
 00:07:08,628 --> 00:07:11,496
-         into a machine         
-    that removes the scales.    
+into a machine that removes the scales.    
 
 105
 00:07:11,498 --> 00:07:14,098
-       removing the scales      
-     takes 3 to 11 minutes,     
+removing the scales takes 3 to 11 minutes,     
 
 106
 00:07:14,100 --> 00:07:16,634
-      depending on the size     
-          of the fish.          
+depending on the size of the fish.          
 
 107
 00:07:16,636 --> 00:07:20,038
-       once done, there is      
-     no mistaking a sardine     
+once done, there is no mistaking a sardine     
 
 108
 00:07:20,040 --> 00:07:21,973
-     with or without scales.    
+with or without scales.    
 
 109
 00:07:24,244 --> 00:07:27,312
-       workers then place       
-  descaled sardines onto trays  
+workers then place descaled sardines onto trays  
 
 110
 00:07:27,314 --> 00:07:29,714
-         that take them         
-     into a cutting machine.    
+that take them into a cutting machine.    
 
 111
 00:07:32,052 --> 00:07:34,385
-    they arrange the sardines   
-          on the trays          
+they arrange the sardines on the trays          
 
 112
 00:07:34,387 --> 00:07:37,455
-    in such a way that blades   
-       inside the machine       
+in such a way that blades inside the machine       
 
 113
 00:07:37,457 --> 00:07:40,091
-     will cut off the heads     
-           and tails.           
+will cut off the heads and tails.           
 
 114
 00:07:42,930 --> 00:07:44,663
-          a look inside         
-       the cutting machine      
+a look inside the cutting machine      
 
 115
 00:07:44,665 --> 00:07:47,132
-      shows how it removes      
-      the heads and tails       
+shows how it removes the heads and tails       
 
 116
 00:07:47,134 --> 00:07:49,801
-         and sends them         
-     on their separate ways.    
+and sends them on their separate ways.    
 
 117
 00:07:52,539 --> 00:07:55,273
 it also cuts open and cleans out
-   the bodies of the sardines   
+the bodies of the sardines   
 
 118
 00:07:55,275 --> 00:07:57,876
- and readies them for packaging.
+and readies them for packaging.
 
 119
 00:07:59,679 --> 00:08:02,481
-     the packing cans travel    
- by conveyor to a work station, 
+the packing cans travel by conveyor to a work station, 
 
 120
 00:08:02,483 --> 00:08:05,283
-    with their bottom side up   
-            and open.           
+with their bottom side up and open.           
 
 121
 00:08:08,288 --> 00:08:12,356
-   they fill the cans manually  
-   to decrease the possibility  
+they fill the cans manually to decrease the possibility  
 
 122
 00:08:12,358 --> 00:08:16,294
-  of introducing foreign matter 
-           into them.           
+of introducing foreign matter into them.           
 
 123
 00:08:22,970 --> 00:08:25,437
-           the worker           
-     draws on his experience    
+the worker draws on his experience    
 
 124
 00:08:25,439 --> 00:08:27,705
@@ -590,475 +509,402 @@ to estimate the required weight,
 
 125
 00:08:27,707 --> 00:08:31,710
- then stuffs and trims the fish 
-  to fill the cans one by one.  
+then stuffs and trims the fish to fill the cans one by one.  
 
 126
 00:08:32,312 --> 00:08:34,913
-       to be sure each can      
-  is exactly the right weight,  
+to be sure each can is exactly the right weight,  
 
 127
 00:08:34,915 --> 00:08:38,016
-      he weighs and adjusts     
-     the amount in each tin.    
+he weighs and adjusts the amount in each tin.    
 
 128
 00:08:42,388 --> 00:08:46,324
-  in only a matter of minutes,  
-  he completes a set of cans.   
+in only a matter of minutes, he completes a set of cans.   
 
 129
 00:08:52,065 --> 00:08:54,799
-       then another worker      
-       turns the set over       
+then another worker turns the set over       
 
 130
 00:08:54,801 --> 00:08:57,802
- and sends the open-bottom cans 
-          into an oven          
+and sends the open-bottom cans into an oven          
 
 131
 00:08:57,804 --> 00:09:01,640
 that cooks the sardines at about
-     212 degrees fahrenheit.    
+212 degrees fahrenheit.    
 
 132
 00:09:03,944 --> 00:09:06,411
-          after cooking         
-      for about 25 minutes,     
+after cooking for about 25 minutes,     
 
 133
 00:09:06,413 --> 00:09:09,414
- a worker turns the set of cans 
-           over again           
+a worker turns the set of cans over again           
 
 134
 00:09:09,416 --> 00:09:13,751
-       and transfers them       
-     onto a conveyor system.    
+and transfers them onto a conveyor system.    
 
 135
 00:09:13,753 --> 00:09:15,153
-     all the cooked sardines    
+all the cooked sardines    
 
 136
 00:09:15,155 --> 00:09:17,155
-        gradually funnel        
-       into a single file,      
+gradually funnel into a single file,      
 
 137
 00:09:17,157 --> 00:09:18,557
-  and depending on the product, 
+and depending on the product, 
 
 138
 00:09:18,559 --> 00:09:21,693
-       a filling machine        
-       treats them to oil       
+a filling machine treats them to oil       
 
 139
 00:09:21,695 --> 00:09:24,863
-      or a specific flavor      
-        of tomato sauce.        
+or a specific flavor of tomato sauce.        
 
 140
 00:09:28,234 --> 00:09:31,235
-  the filling machine overfills 
-      the cans with sauce,      
+the filling machine overfills the cans with sauce,      
 
 141
 00:09:31,237 --> 00:09:33,304
-       but a flute hidden       
-       inside the machine       
+but a flute hidden inside the machine       
 
 142
 00:09:33,306 --> 00:09:37,943
-    removes just enough sauce   
-  to put the lids on properly.  
+removes just enough sauce to put the lids on properly.  
 
 143
 00:09:43,316 --> 00:09:46,450
-   the machine pressure-seals   
-     the lids onto the cans     
+the machine pressure-seals the lids onto the cans     
 
 144
 00:09:46,452 --> 00:09:50,322
-     so that when they exit     
- the machine, they're airtight. 
+so that when they exit the machine, they're airtight. 
 
 145
 00:09:50,324 --> 00:09:54,259
-  the traveling cans then enter 
-   a machine that washes them   
+the traveling cans then enter a machine that washes them   
 
 146
 00:09:54,261 --> 00:09:58,330
-    in about 194-degree water   
-    and makes them spotless.    
+in about 194-degree water and makes them spotless.    
 
 147
 00:10:02,468 --> 00:10:04,402
-     pallets of cans then go    
-         into a chamber         
+pallets of cans then go into a chamber         
 
 148
 00:10:04,404 --> 00:10:07,205
-   that sterilizes the product  
-        to keep it fresh.       
+that sterilizes the product to keep it fresh.       
 
 149
 00:10:10,143 --> 00:10:12,611
-          then the cans         
-   go into a labeling machine   
+then the cans go into a labeling machine   
 
 150
 00:10:12,613 --> 00:10:14,879
-   that applies a thin coating  
-             of glue            
+that applies a thin coating of glue            
 
 151
 00:10:14,881 --> 00:10:17,749
-     and precut paper labels    
-         onto each one.         
+and precut paper labels onto each one.         
 
 152
 00:10:19,953 --> 00:10:23,087
-      the finished product      
-    comes out of the machine    
+the finished product comes out of the machine    
 
 153
 00:10:23,089 --> 00:10:25,356
-       with an attractive       
-       full-color label,        
+with an attractive full-color label,        
 
 154
 00:10:25,358 --> 00:10:27,092
- ready to ship to the customer. 
+ready to ship to the customer. 
 
 155
 00:10:31,698 --> 00:10:34,299
-   sardines come in a variety   
-           of flavors           
+sardines come in a variety of flavors           
 
 156
 00:10:34,301 --> 00:10:36,034
-   with easy-to-open packages   
+with easy-to-open packages   
 
 157
 00:10:36,036 --> 00:10:38,803
-   that maintain the freshness  
-          of the fish.          
+that maintain the freshness of the fish.          
 
 158
 00:10:50,116 --> 00:10:52,651
- narrator: ancient civilizations
-  tried to forecast the weather 
+narrator: ancient civilizations
+tried to forecast the weather 
 
 159
 00:10:52,653 --> 00:10:54,986
-   by observing cloud patterns  
-    or even using astrology.    
+by observing cloud patterns or even using astrology.    
 
 160
 00:10:54,988 --> 00:10:56,321
-  today, we rely on instruments 
+today, we rely on instruments 
 
 161
 00:10:56,323 --> 00:10:58,456
-       like the barometer       
-       or the barograph,        
+like the barometer or the barograph,        
 
 162
 00:10:58,458 --> 00:11:00,592
-   which automatically records  
-            on paper            
+which automatically records on paper            
 
 163
 00:11:00,594 --> 00:11:02,794
-         the variations         
-    in atmospheric pressure.    
+the variations in atmospheric pressure.    
 
 164
 00:11:02,796 --> 00:11:04,929
-          high pressure         
-     indicates good weather.    
+high pressure indicates good weather.    
 
 165
 00:11:04,931 --> 00:11:07,265
-          low pressure          
-  means bad weather is likely.  
+low pressure means bad weather is likely.  
 
 166
 00:11:10,603 --> 00:11:13,404
-         this barograph         
-     has three main parts --    
+this barograph has three main parts --    
 
 167
 00:11:13,406 --> 00:11:14,673
-       the recording arm,       
+the recording arm,       
 
 168
 00:11:14,675 --> 00:11:17,875
-      the cells that react      
-    to atmospheric pressure,    
+the cells that react to atmospheric pressure,    
 
 169
 00:11:17,877 --> 00:11:19,343
-      and a rotating drum.      
+and a rotating drum.      
 
 170
 00:11:19,345 --> 00:11:21,012
-     to make the drum's lid,    
+to make the drum's lid,    
 
 171
 00:11:21,014 --> 00:11:24,882
- a die-press operator stamps out
-         a 3½-inch disk         
+a die-press operator stamps out
+a 3½-inch disk         
 
 172
 00:11:24,884 --> 00:11:27,218
-   from a long strip of brass.  
+from a long strip of brass.  
 
 173
 00:11:27,220 --> 00:11:29,620
-    he cleans off the grease    
-       from the die press       
+he cleans off the grease from the die press       
 
 174
 00:11:29,622 --> 00:11:33,091
- and places the disk on another 
-     press to form an edge.     
+and places the disk on another press to form an edge.     
 
 175
 00:11:37,164 --> 00:11:38,430
-        to make the drum,       
+to make the drum,       
 
 176
 00:11:38,432 --> 00:11:42,000
- he cuts a 4-inch-long cylinder 
-       from a brass tube.       
+he cuts a 4-inch-long cylinder from a brass tube.       
 
 177
 00:11:44,171 --> 00:11:48,639
- next, he places the drum on an 
- arm that rotates at high speed.
+next, he places the drum on an arm that rotates at high speed.
 
 178
 00:11:48,641 --> 00:11:53,044
-      he etches fine lines      
+he etches fine lines      
 into the brass using steel wool.
 
 179
 00:11:57,851 --> 00:12:00,251
-            thanks to           
-    a handy rotating device,    
+thanks to a handy rotating device,    
 
 180
 00:12:00,253 --> 00:12:03,788
-    all the drums get an even   
-  coating of protective lacquer 
+all the drums get an even coating of protective lacquer 
 
 181
 00:12:03,790 --> 00:12:05,557
-  so the brass doesn't corrode. 
+so the brass doesn't corrode. 
 
 182
 00:12:08,528 --> 00:12:11,262
-    the barograph's mechanism   
-  rests on a solid brass plate  
+the barograph's mechanism rests on a solid brass plate  
 
 183
 00:12:11,264 --> 00:12:15,399
-      that's 8½ inches long     
-        by 5 inches wide.       
+that's 8½ inches long by 5 inches wide.       
 
 184
 00:12:15,401 --> 00:12:18,002
-    a worker greases each one   
+a worker greases each one   
 
 185
 00:12:18,004 --> 00:12:20,138
- and then places them on a press
+and then places them on a press
 
 186
 00:12:20,140 --> 00:12:23,108
-   that punches out the holes   
-   for the fastening screws.    
+that punches out the holes for the fastening screws.    
 
 187
 00:12:24,745 --> 00:12:27,879
-    next, he places the plate   
-        in a metal holder       
+next, he places the plate in a metal holder       
 
 188
 00:12:27,881 --> 00:12:30,481
-  and buffs it with a rotating  
-        polishing brush.        
+and buffs it with a rotating polishing brush.        
 
 189
 00:12:30,483 --> 00:12:32,883
-   he applies wax to the brush  
+he applies wax to the brush  
 
 190
 00:12:32,885 --> 00:12:35,520
-         to help achieve        
-    a perfect mirror finish.    
+to help achieve a perfect mirror finish.    
 
 191
 00:12:42,896 --> 00:12:45,563
-  now workers use a fine grade  
-          of sandpaper          
+now workers use a fine grade of sandpaper          
 
 192
 00:12:45,565 --> 00:12:47,098
- to polish the solid brass arms 
+to polish the solid brass arms 
 
 193
 00:12:47,100 --> 00:12:49,167
 that will hold the working parts
-            in place.           
+in place.           
 
 194
 00:12:51,771 --> 00:12:54,239
-     then they line them up     
-           on a board           
+then they line them up on a board           
 
 195
 00:12:54,241 --> 00:12:57,041
-          and buff them         
-     with a polishing brush.    
+and buff them with a polishing brush.    
 
 196
 00:12:57,043 --> 00:12:59,711
-   how do they get those parts  
-            so shiny?           
+how do they get those parts so shiny?           
 
 197
 00:12:59,713 --> 00:13:03,515
-   by washing off any machine   
-  grease before polishing them. 
+by washing off any machine grease before polishing them. 
 
 198
 00:13:05,118 --> 00:13:07,852
- putting the barograph together 
-       is precision work.       
+putting the barograph together is precision work.       
 
 199
 00:13:07,854 --> 00:13:09,988
-  laid out before the assembler 
+laid out before the assembler 
 
 200
 00:13:09,990 --> 00:13:12,790
-    are all the working parts   
-         she will need.         
+are all the working parts she will need.         
 
 201
 00:13:12,792 --> 00:13:16,260
-     she begins with an arm,    
-     inserts a brass screw,     
+she begins with an arm, inserts a brass screw,     
 
 202
 00:13:16,262 --> 00:13:20,732
-  then sets in a second arm and 
- attaches them to the baseplate.
+then sets in a second arm and attaches them to the baseplate.
 
 203
 00:13:25,071 --> 00:13:28,606
-    these hollow metal cells    
-  are the key to the mechanism. 
+these hollow metal cells are the key to the mechanism. 
 
 204
 00:13:28,608 --> 00:13:31,209
-     air pressure makes them    
-      expand and contract.      
+air pressure makes them expand and contract.      
 
 205
 00:13:31,211 --> 00:13:33,478
-      the barograph records     
-          this movement         
+the barograph records this movement         
 
 206
 00:13:33,480 --> 00:13:36,080
-           to measure           
- high and low pressure systems. 
+to measure high and low pressure systems. 
 
 207
 00:13:39,285 --> 00:13:42,554
- the cell stack is put in place 
-        on the baseplate.       
+the cell stack is put in place on the baseplate.       
 
 208
 00:13:44,957 --> 00:13:46,491
- then they add the lever system 
+then they add the lever system 
 
 209
 00:13:46,493 --> 00:13:48,759
- that connects the recording arm
-          to the paper.         
+that connects the recording arm
+to the paper.         
 
 210
 00:13:48,761 --> 00:13:52,363
-        this lever system       
-      connects to the arm,      
+this lever system connects to the arm,      
 
 211
 00:13:52,365 --> 00:13:54,566
-     raising and lowering it    
-   so the felt pen at the tip   
+raising and lowering it so the felt pen at the tip   
 
 212
 00:13:54,568 --> 00:13:56,967
-       can record changing      
-       air-pressure levels      
+can record changing air-pressure levels      
 
 213
 00:13:56,969 --> 00:13:58,970
-  on the drum's rotating chart. 
+on the drum's rotating chart. 
 
 214
 00:14:01,374 --> 00:14:05,410
- the assembler inserts tiny pins
-      to hold it together.      
+the assembler inserts tiny pins
+to hold it together.      
 
 215
 00:14:11,184 --> 00:14:14,852
-    inside the drum's base is   
- a battery-driven quartz clock, 
+inside the drum's base is a battery-driven quartz clock, 
 
 216
 00:14:14,854 --> 00:14:17,655
-         which maintains        
-   a steady rate of rotation.   
+which maintains a steady rate of rotation.   
 
 217
 00:14:21,127 --> 00:14:23,661
-     now she wraps the chart    
-         around the drum        
+now she wraps the chart around the drum        
 
 218
 00:14:23,663 --> 00:14:27,064
-    and attaches a brass clip   
-      to hold it in place.      
+and attaches a brass clip to hold it in place.      
 
 219
 00:14:27,066 --> 00:14:30,535
-      the drum rotates once     
-    over a seven-day period,    
+the drum rotates once over a seven-day period,    
 
 220
 00:14:30,537 --> 00:14:34,806
-   so slowly that the movement  
- is invisible to the naked eye. 
+so slowly that the movement is invisible to the naked eye. 
 
 221
 00:14:34,808 --> 00:14:37,208
-      there's a gear system     
-        inside the drum,        
+there's a gear system inside the drum,        
 
 222
 00:14:37,210 --> 00:14:39,810
-        which rotates it        
-   once it's set on the axle.   
+which rotates it once it's set on the axle.   
 
 223
 00:14:39,812 --> 00:14:42,212
@@ -1066,220 +912,187 @@ a brass screw holds it in place.
 
 224
 00:14:43,149 --> 00:14:46,551
-     now the worker puts the    
-  mechanism on a mahogany base. 
+now the worker puts the mechanism on a mahogany base. 
 
 225
 00:14:46,553 --> 00:14:48,619
-    she screws it into place,   
+she screws it into place,   
 
 226
 00:14:48,621 --> 00:14:51,756
-   then covers it with a glass  
-      and mahogany housing.     
+then covers it with a glass and mahogany housing.     
 
 227
 00:14:51,758 --> 00:14:54,491
-          brass hinges          
-     and a closing mechanism    
+brass hinges and a closing mechanism    
 
 228
 00:14:54,493 --> 00:14:58,396
 hold the housing firmly in place
-    and provides easy access.   
+and provides easy access.   
 
 229
 00:15:02,569 --> 00:15:04,903
-      a quality controller      
-      places the barograph      
+a quality controller places the barograph      
 
 230
 00:15:04,905 --> 00:15:08,839
- into a pressure-sealed chamber 
-     to check its accuracy.     
+into a pressure-sealed chamber to check its accuracy.     
 
 231
 00:15:08,841 --> 00:15:11,308
-           he compares          
-   the barograph's recordings   
+he compares the barograph's recordings   
 
 232
 00:15:11,310 --> 00:15:13,043
-  to gauges outside the chamber 
+to gauges outside the chamber 
 
 233
 00:15:13,045 --> 00:15:15,312
-    that measure the changes    
-         in air pressure        
+that measure the changes in air pressure        
 
 234
 00:15:15,314 --> 00:15:17,382
-         that he applies        
-       inside the chamber.      
+that he applies inside the chamber.      
 
 235
 00:15:17,384 --> 00:15:19,851
-        this weekly chart       
-  shows hour-by-hour recordings 
+this weekly chart shows hour-by-hour recordings 
 
 236
 00:15:19,853 --> 00:15:23,855
-   of air-pressure variations   
-   measured in hectopascals,    
+of air-pressure variations measured in hectopascals,    
 
 237
 00:15:23,857 --> 00:15:27,525
- a unit of atmospheric pressure.
+a unit of atmospheric pressure.
 
 238
 00:15:27,527 --> 00:15:30,861
-    barographs are available    
-    in a variety of designs,    
+barographs are available in a variety of designs,    
 
 239
 00:15:30,863 --> 00:15:34,298
 from modern to traditional brass
-       and mahogany models      
+and mahogany models      
 
 240
 00:15:34,300 --> 00:15:36,834
-         that any sailor        
-     would be proud to own.     
+that any sailor would be proud to own.     
 
 241
 00:15:47,814 --> 00:15:49,880
-            narrator:           
-    parenthood has many joys,   
+narrator: parenthood has many joys,   
 
 242
 00:15:49,882 --> 00:15:51,949
-       but a dirty diaper       
-       isn't one of them.       
+but a dirty diaper isn't one of them.       
 
 243
 00:15:51,951 --> 00:15:54,285
-     and that's why we have     
-       disposable diapers.      
+and that's why we have disposable diapers.      
 
 244
 00:15:54,287 --> 00:15:58,155
-   they were first introduced   
-  in the 1940s for travel use.  
+they were first introduced in the 1940s for travel use.  
 
 245
 00:15:58,157 --> 00:16:01,559
-      it took several years     
-    for the idea to catch on.   
+it took several years for the idea to catch on.   
 
 246
 00:16:01,561 --> 00:16:05,229
-        but when it did,        
- diaper duty was never the same.
+but when it did, diaper duty was never the same.
 
 247
 00:16:09,836 --> 00:16:11,903
-         many would say         
-       disposable diapers       
+many would say disposable diapers       
 
 248
 00:16:11,905 --> 00:16:14,171
-       represent a change       
-         for the better,        
+represent a change for the better,        
 
 249
 00:16:14,173 --> 00:16:17,175
-  helping parents make the best 
-      of a messy business.      
+helping parents make the best of a messy business.      
 
 250
 00:16:19,111 --> 00:16:21,979
- they start with superabsorbent 
-       polymer particles,       
+they start with superabsorbent polymer particles,       
 
 251
 00:16:21,981 --> 00:16:25,583
-           which drop           
-     into a forming chamber.    
+which drop into a forming chamber.    
 
 252
 00:16:25,585 --> 00:16:29,320
-          pulp unwinds          
-     into the same chamber.     
+pulp unwinds into the same chamber.     
 
 253
 00:16:29,322 --> 00:16:33,925
- a spray of water helps suppress
-     any static electricity     
+a spray of water helps suppress
+any static electricity     
 
 254
 00:16:33,927 --> 00:16:37,394
-      that could interfere      
-        with processing.        
+that could interfere with processing.        
 
 255
 00:16:37,396 --> 00:16:41,131
-     inside, the pulp mixes     
-   with the polymer particles.  
+inside, the pulp mixes with the polymer particles.  
 
 256
 00:16:41,133 --> 00:16:43,201
-    the result is this fluffy   
-       absorbent material       
+the result is this fluffy absorbent material       
 
 257
 00:16:43,203 --> 00:16:45,336
-  that will be the diaper core. 
+that will be the diaper core. 
 
 258
 00:16:48,341 --> 00:16:50,741
-       this rotating drum       
-          has a vacuum          
+this rotating drum has a vacuum          
 
 259
 00:16:50,743 --> 00:16:53,410
- that shapes the fluffy material
-          into padding.         
+that shapes the fluffy material
+into padding.         
 
 260
 00:16:53,412 --> 00:16:54,678
-       another vacuum drum      
+another vacuum drum      
 
 261
 00:16:54,680 --> 00:16:57,281
-     then merges the padding    
-   to a moving web of fabric.   
+then merges the padding to a moving web of fabric.   
 
 262
 00:17:02,756 --> 00:17:06,290
-     guides fold the fabric     
-       around the padding,      
+guides fold the fabric around the padding,      
 
 263
 00:17:06,292 --> 00:17:08,026
-  and a hot adhesive seals it.  
+and a hot adhesive seals it.  
 
 264
 00:17:11,297 --> 00:17:14,965
-   at this debulking station,   
-  rollers compress the padding, 
+at this debulking station, rollers compress the padding, 
 
 265
 00:17:14,967 --> 00:17:17,434
-     making the diaper core     
-           slim enough          
+making the diaper core slim enough          
 
 266
 00:17:17,436 --> 00:17:19,570
-   to comfortably fit a baby.   
+to comfortably fit a baby.   
 
 267
 00:17:23,776 --> 00:17:27,512
-      a cylindrical cutter      
- slices the diaper core to size.
+a cylindrical cutter slices the diaper core to size.
 
 268
 00:17:31,517 --> 00:17:32,850
-       at another station,      
+at another station,      
 
 269
 00:17:32,852 --> 00:17:35,319
@@ -1287,131 +1100,112 @@ plastic film winds around guides
 
 270
 00:17:35,321 --> 00:17:38,122
- and merges with another stream 
-           of fabric.           
+and merges with another stream of fabric.           
 
 271
 00:17:38,124 --> 00:17:40,458
-            machinery           
-    glues the layers together   
+machinery glues the layers together   
 
 272
 00:17:40,460 --> 00:17:42,793
- to form the diaper's back side.
+to form the diaper's back side.
 
 273
 00:17:42,795 --> 00:17:45,396
-      next, equipment pulls     
-          elastic bands         
+next, equipment pulls elastic bands         
 
 274
 00:17:45,398 --> 00:17:48,266
-   into other layers of fabric  
-        to make leg cuffs       
+into other layers of fabric to make leg cuffs       
 
 275
 00:17:48,268 --> 00:17:51,536
-  and outer gathers on the top  
-     portion of the diaper.     
+and outer gathers on the top portion of the diaper.     
 
 276
 00:17:51,538 --> 00:17:54,872
-    the elastic will ensure     
-    the diaper fits snuggly,    
+the elastic will ensure the diaper fits snuggly,    
 
 277
 00:17:54,874 --> 00:17:56,274
-        preventing leaks.       
+preventing leaks.       
 
 278
 00:17:56,276 --> 00:17:59,677
-  each diaper will be equipped  
- with a set of these front tabs 
+each diaper will be equipped with a set of these front tabs 
 
 279
 00:17:59,679 --> 00:18:01,846
-           punched out          
-      by this rotating die.     
+punched out by this rotating die.     
 
 280
 00:18:09,089 --> 00:18:11,822
-      this cylinder applies     
-       stretch side panels      
+this cylinder applies stretch side panels      
 
 281
 00:18:11,824 --> 00:18:13,624
- to the top part of the diaper, 
+to the top part of the diaper, 
 
 282
 00:18:13,626 --> 00:18:16,227
-     which has the leg cuffs    
-          and gathers.          
+which has the leg cuffs and gathers.          
 
 283
 00:18:18,231 --> 00:18:20,231
- the absorbent core now meets up
+the absorbent core now meets up
 
 284
 00:18:20,233 --> 00:18:22,033
-       with the back side       
-         of the diaper.         
+with the back side of the diaper.         
 
 285
 00:18:22,035 --> 00:18:24,902
-    and then the other layers   
-    come together and adhere.   
+and then the other layers come together and adhere.   
 
 286
 00:18:30,976 --> 00:18:35,112
-     a computerized system      
-     monitors the assembly.     
+a computerized system monitors the assembly.     
 
 287
 00:18:35,114 --> 00:18:38,516
-   incredibly, it takes less    
-   than a quarter of a second   
+incredibly, it takes less than a quarter of a second   
 
 288
 00:18:38,518 --> 00:18:40,785
-       for all the layers       
-    of the disposable diaper    
+for all the layers of the disposable diaper    
 
 289
 00:18:40,787 --> 00:18:42,253
-        to be assembled.        
+to be assembled.        
 
 290
 00:18:48,261 --> 00:18:50,661
-           the diapers          
-     now travel past guides     
+the diapers now travel past guides     
 
 291
 00:18:50,663 --> 00:18:53,231
-     that fold down the tabs    
-        and side panels.        
+that fold down the tabs and side panels.        
 
 292
 00:18:58,338 --> 00:19:01,105
-    the diapers are then cut    
-     into individual units.     
+the diapers are then cut into individual units.     
 
 293
 00:19:03,143 --> 00:19:06,978
- again, belted rollers compress 
-     the completed diapers.     
+again, belted rollers compress the completed diapers.     
 
 294
 00:19:10,550 --> 00:19:13,217
- paddles then fold them in half.
+paddles then fold them in half.
 
 295
 00:19:17,157 --> 00:19:22,293
- conveyor belts relay the folded
-     diapers to a carousel.     
+conveyor belts relay the folded
+diapers to a carousel.     
 
 296
 00:19:22,295 --> 00:19:25,763
-  finger paddles separate them  
+finger paddles separate them  
 
 297
 00:19:25,765 --> 00:19:28,833
@@ -1419,118 +1213,102 @@ and position them for packaging.
 
 298
 00:19:28,835 --> 00:19:30,500
-    sensors count the diapers   
+sensors count the diapers   
 
 299
 00:19:30,502 --> 00:19:33,170
-       as they move toward      
-        compression arms        
+as they move toward compression arms        
 
 300
 00:19:33,172 --> 00:19:35,773
-          that squeeze          
-  the required number together. 
+that squeeze the required number together. 
 
 301
 00:19:35,775 --> 00:19:40,444
-       a pusher swoops in       
+a pusher swoops in       
 to slide the diapers into a bag.
 
 302
 00:19:40,446 --> 00:19:44,148
-           vacuum arms          
-   open the bags right on cue.  
+vacuum arms open the bags right on cue.  
 
 303
 00:19:47,654 --> 00:19:51,088
-    hot bars seal the package   
-        full of diapers.        
+hot bars seal the package full of diapers.        
 
 304
 00:19:53,793 --> 00:19:55,392
-   it then moves down the line  
+it then moves down the line  
 
 305
 00:19:55,394 --> 00:19:57,795
-     to be packed into boxes    
-          for shipping.         
+to be packed into boxes for shipping.         
 
 306
 00:20:00,733 --> 00:20:04,268
-     each disposable diaper     
-    has a phenomenal capacity   
+each disposable diaper has a phenomenal capacity   
 
 307
 00:20:04,270 --> 00:20:05,670
-        to absorb liquid,       
+to absorb liquid,       
 
 308
 00:20:05,672 --> 00:20:08,873
-           and the key          
-   is those polymer particles.  
+and the key is those polymer particles.  
 
 309
 00:20:08,875 --> 00:20:11,142
-  they act as tiny gel sponges, 
+they act as tiny gel sponges, 
 
 310
 00:20:11,144 --> 00:20:15,346
-  expanding to hold many times  
-     their weight in fluid.     
+expanding to hold many times their weight in fluid.     
 
 311
 00:20:15,348 --> 00:20:18,682
-     cut open a wet diaper,     
- and you'll discover the liquid 
+cut open a wet diaper, and you'll discover the liquid 
 
 312
 00:20:18,684 --> 00:20:21,319
- has turned the solid particles 
-            into gel.           
+has turned the solid particles into gel.           
 
 313
 00:20:24,891 --> 00:20:27,291
-  the proof is in the weighing. 
+the proof is in the weighing. 
 
 314
 00:20:27,293 --> 00:20:28,559
-          for example,          
+for example,          
 
 315
 00:20:28,561 --> 00:20:31,762
-    this dry diaper comes in    
-  at about an ounce and a half. 
+this dry diaper comes in at about an ounce and a half. 
 
 316
 00:20:31,764 --> 00:20:36,566
-            when wet,           
-    it weighs over 18 ounces.   
+when wet, it weighs over 18 ounces.   
 
 317
 00:20:36,568 --> 00:20:38,869
-   and that's the bottom line.  
+and that's the bottom line.  
 
 318
 00:20:48,580 --> 00:20:50,914
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 319
 00:20:50,916 --> 00:20:53,650
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 320
 00:20:53,652 --> 00:20:55,720
-      drop us a line at...      
+drop us a line at...      
 
 321
 00:20:55,722 --> 00:20:58,656
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 322
 00:20:58,658 --> 00:21:01,626
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 

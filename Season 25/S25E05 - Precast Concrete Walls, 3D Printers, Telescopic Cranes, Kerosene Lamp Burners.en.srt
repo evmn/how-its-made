@@ -1,57 +1,46 @@
 ﻿1
 00:00:01,869 --> 00:00:04,937
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,939 --> 00:00:08,040
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:54,922 --> 00:00:56,522
-           narrator:            
-    precast concrete walls      
+narrator: precast concrete walls      
 
 4
 00:00:56,524 --> 00:00:59,191
- are made in a controlled plant 
-         environment,           
+are made in a controlled plant environment,           
 
 5
 00:00:59,193 --> 00:01:03,129
- where weather can't interfere  
-   with the curing process.     
+where weather can't interfere with the curing process.     
 
 6
 00:01:03,131 --> 00:01:04,463
- they're cast with insulation   
+they're cast with insulation   
 
 7
 00:01:04,465 --> 00:01:07,266
-       before they arrive       
-   at the construction site.    
+before they arrive at the construction site.    
 
 8
 00:01:07,268 --> 00:01:10,269
-  all that's needed is a crane  
-   to do the heavy lifting.     
+all that's needed is a crane to do the heavy lifting.     
 
 9
 00:01:14,542 --> 00:01:17,143
-     precast concrete walls     
-     have a tough exterior      
+precast concrete walls have a tough exterior      
 
 10
 00:01:17,145 --> 00:01:19,478
-   that holds up to all kinds   
-          of weather,           
+that holds up to all kinds of weather,           
 
 11
 00:01:19,480 --> 00:01:23,883
-   but making these structural  
-              wall              
-   panels is an inside job.     
+but making these structural wall panels is an inside job.     
 
 12
 00:01:23,885 --> 00:01:26,018
@@ -59,96 +48,79 @@ by manufacturing them indoors,
 
 13
 00:01:26,020 --> 00:01:30,022
-  they can better prepare them  
-       for the outdoors.        
+they can better prepare them for the outdoors.        
 
 14
 00:01:30,024 --> 00:01:33,225
-  production starts with a mix  
-   of crushed rock and sand.    
+production starts with a mix of crushed rock and sand.    
 
 15
 00:01:33,227 --> 00:01:36,495
-        this collection         
-      is limestone-based.       
+this collection is limestone-based.       
 
 16
 00:01:36,497 --> 00:01:39,231
- the mineral mix can be altered 
-    for different strengths     
+the mineral mix can be altered for different strengths     
 
 17
 00:01:39,233 --> 00:01:41,100
-         and finishes.          
+and finishes.          
 
 18
 00:01:41,102 --> 00:01:43,436
-      a conveyor delivers       
-  the collection of minerals    
+a conveyor delivers the collection of minerals    
 
 19
 00:01:43,438 --> 00:01:46,371
-       to a huge mixer.         
+to a huge mixer.         
 
 20
 00:01:46,373 --> 00:01:48,173
-  they inject cement, water,    
+they inject cement, water,    
 
 21
 00:01:48,175 --> 00:01:51,377
-    and additives to improve    
-   the flow of the concrete,    
+and additives to improve the flow of the concrete,    
 
 22
 00:01:51,379 --> 00:01:54,246
-      accelerate the cure,      
-  and give it a brownish hue.   
+accelerate the cure, and give it a brownish hue.   
 
 23
 00:01:54,248 --> 00:01:59,285
-  beaters whip the ingredients  
-   into a thick, gritty mix.    
+beaters whip the ingredients into a thick, gritty mix.    
 
 24
 00:02:01,856 --> 00:02:05,391
- they cast some of the concrete 
-    into cylindrical shapes     
+they cast some of the concrete into cylindrical shapes     
 
 25
 00:02:05,393 --> 00:02:07,026
-         for testing.           
+for testing.           
 
 26
 00:02:07,028 --> 00:02:11,664
-   after a one-day cure, they   
-   crush the cylinders with a   
-              ram.              
+after a one-day cure, they crush the cylinders with a ram.              
 
 27
 00:02:11,666 --> 00:02:14,133
-      the amount of force       
-      it takes to crush the     
-           cylinders            
+the amount of force it takes to crush the cylinders            
 
 28
 00:02:14,135 --> 00:02:16,836
-  is a measure of the concrete  
-       batch's strength.        
+is a measure of the concrete batch's strength.        
 
 29
 00:02:19,473 --> 00:02:22,674
-   before they cast the wall,   
-            a crew              
+before they cast the wall, a crew              
 
 30
 00:02:22,676 --> 00:02:26,512
-  arranges giant foam letters   
-    to make an imprint in the   
-             mold.              
+arranges giant foam letters to make an imprint in the mold.              
 
 31
 00:02:30,017 --> 00:02:32,684
-  they position the letters in  
+they position the letters in  
 the center of the casting form  
 
 32
@@ -157,251 +129,205 @@ and secure them with silicone.
 
 33
 00:02:39,359 --> 00:02:43,095
-   a release agent is sprayed   
-              onto              
- the casting form and letters.  
+a release agent is sprayed onto the casting form and letters.  
 
 34
 00:02:51,239 --> 00:02:56,642
-   high-strength steel cables   
-    are strung throughout the   
-             form.              
+high-strength steel cables are strung throughout the form.              
 
 35
 00:02:56,644 --> 00:02:58,377
-   with a hydraulic device,     
+with a hydraulic device,     
 
 36
 00:02:58,379 --> 00:03:00,713
-      they pull each cable      
-    to a specific tension.      
+they pull each cable to a specific tension.      
 
 37
 00:03:05,252 --> 00:03:07,820
-  then, they bend a rebar rod   
-         into a loop.           
+then, they bend a rebar rod into a loop.           
 
 38
 00:03:16,330 --> 00:03:21,600
-  the rebar loops are linked,   
-     creating long cages.       
+the rebar loops are linked, creating long cages.       
 
 39
 00:03:21,602 --> 00:03:22,868
-      they place one cage       
+they place one cage       
 
 40
 00:03:22,870 --> 00:03:26,004
-     at the top of the form     
-    and one at the bottom.      
+at the top of the form and one at the bottom.      
 
 41
 00:03:26,006 --> 00:03:29,742
- then, the team inserts a sheet 
-     of welded wire mesh.       
+then, the team inserts a sheet of welded wire mesh.       
 
 42
 00:03:29,744 --> 00:03:32,945
- it's been cut to fit the size  
-         of the form.           
+it's been cut to fit the size of the form.           
 
 43
 00:03:39,953 --> 00:03:42,488
-       they're now ready        
-       to pour concrete.        
+they're now ready to pour concrete.        
 
 44
 00:03:45,359 --> 00:03:48,627
- a truck dispenses the concrete 
-    directly into the form.     
+a truck dispenses the concrete directly into the form.     
 
 45
 00:03:48,629 --> 00:03:53,532
-       the concrete flows       
-        around the steel        
-         reinforcement.         
+the concrete flows around the steel reinforcement.         
 
 46
 00:03:59,573 --> 00:04:02,975
-      the steel will keep       
-        the wall strong         
+the steel will keep the wall strong         
 
 47
 00:04:02,977 --> 00:04:04,977
-   when the concrete expands    
-         and contracts          
+when the concrete expands and contracts          
 
 48
 00:04:04,979 --> 00:04:07,279
-    as the weather changes.     
+as the weather changes.     
 
 49
 00:04:09,950 --> 00:04:12,251
- the team spreads the concrete  
-          and levels            
+the team spreads the concrete and levels            
 
 50
 00:04:12,253 --> 00:04:14,353
-     it with a tool called a    
-            screed.             
+it with a tool called a screed.             
 
 51
 00:04:17,724 --> 00:04:19,592
-        this first layer        
-       of the wall panel        
+this first layer of the wall panel        
 
 52
 00:04:19,594 --> 00:04:22,261
-    is essentially one side     
-        of a sandwich.          
+is essentially one side of a sandwich.          
 
 53
 00:04:22,263 --> 00:04:26,131
-  it will be the exterior part  
-         of the wall.           
+it will be the exterior part of the wall.           
 
 54
 00:04:26,133 --> 00:04:30,202
- at the center of the sandwich  
+at the center of the sandwich  
 is this rigid foam insulation.  
 
 55
 00:04:30,204 --> 00:04:33,773
- it's studded with protrusions  
-  to secure to the concrete.    
+it's studded with protrusions to secure to the concrete.    
 
 56
 00:04:37,144 --> 00:04:43,015
- more steel-reinforced concrete 
- completes the wall sandwich.   
+more steel-reinforced concrete completes the wall sandwich.   
 
 57
 00:04:43,017 --> 00:04:47,052
-   this final layer will face   
- the inside of the building...  
+this final layer will face the inside of the building...  
 
 58
 00:04:50,158 --> 00:04:52,023
-   ...so the crew takes extra   
-              care              
+...so the crew takes extra care              
 
 59
 00:04:52,025 --> 00:04:55,227
-   to ensure that there are no  
-              pits              
-         or crevices.           
+to ensure that there are no pits or crevices.           
 
 60
 00:05:02,836 --> 00:05:07,506
- after about 12 hours, the wall 
+after about 12 hours, the wall 
 is solid enough to be handled.  
 
 61
 00:05:07,508 --> 00:05:08,841
-    they take it outdoors,      
+they take it outdoors,      
 
 62
 00:05:08,843 --> 00:05:11,043
-         where a worker         
-  sandblasts a small section    
+where a worker sandblasts a small section    
 
 63
 00:05:11,045 --> 00:05:13,712
-     of the exterior side.      
+of the exterior side.      
 
 64
 00:05:13,714 --> 00:05:17,716
-    this removes the surface    
-             cement             
-   to expose the aggregate,     
+this removes the surface cement to expose the aggregate,     
 
 65
 00:05:17,718 --> 00:05:23,121
-   creating a decorative band   
-      next to the embossed      
-           lettering.           
+creating a decorative band next to the embossed lettering.           
 
 66
 00:05:23,123 --> 00:05:24,790
-    after a three-day cure,     
+after a three-day cure,     
 
 67
 00:05:24,792 --> 00:05:28,727
-  the precast concrete wall is  
-   ready for the construction   
-             site.              
+the precast concrete wall is ready for the construction site.              
 
 68
 00:05:31,465 --> 00:05:35,067
-      a crew guides it onto     
-           footings.            
+a crew guides it onto footings.            
 
 69
 00:05:35,069 --> 00:05:38,537
-     they align its design      
- to the one on the next wall.   
+they align its design to the one on the next wall.   
 
 70
 00:05:38,539 --> 00:05:40,672
-       when the two walls       
-      match up perfectly,       
+when the two walls match up perfectly,       
 
 71
 00:05:40,674 --> 00:05:42,674
-      they bolt it down.        
+they bolt it down.        
 
 72
 00:05:42,676 --> 00:05:46,611
-          the concrete          
- continues to cure over time,   
+the concrete continues to cure over time,   
 
 73
 00:05:46,613 --> 00:05:51,083
-  so these precast walls will   
- stand strong for many years.   
+so these precast walls will stand strong for many years.   
 
 74
 00:06:05,099 --> 00:06:07,700
-  narrator: would you like to   
- print a toy, a circuit board,  
+narrator: would you like to print a toy, a circuit board,  
 
 75
 00:06:07,702 --> 00:06:12,238
-          or a replica          
-   of a famous work of art?     
+or a replica of a famous work of art?     
 
 76
 00:06:12,240 --> 00:06:14,907
-   thanks to the development    
-      of the 3d printer,        
+thanks to the development of the 3d printer,        
 
 77
 00:06:14,909 --> 00:06:17,176
-   what used to be the stuff    
-      of science fiction        
+what used to be the stuff of science fiction        
 
 78
 00:06:17,178 --> 00:06:19,078
-       is now a reality.        
+is now a reality.        
 
 79
 00:06:24,852 --> 00:06:28,988
-  these objects were produced   
-  by 3d printers, proof that,   
+these objects were produced by 3d printers, proof that,   
 
 80
 00:06:28,990 --> 00:06:33,659
-    for printing technology,    
- the world is no longer flat.   
+for printing technology, the world is no longer flat.   
 
 81
 00:06:33,661 --> 00:06:34,860
-     to make 3d printers,       
+to make 3d printers,       
 
 82
 00:06:34,862 --> 00:06:38,130
-          this company          
-  actually uses 3d printers.    
+this company actually uses 3d printers.    
 
 83
 00:06:38,132 --> 00:06:39,597
@@ -409,38 +335,32 @@ a technician starts by loading
 
 84
 00:06:39,599 --> 00:06:42,001
-   a reel of plastic filament   
-        into a printer.         
+a reel of plastic filament into a printer.         
 
 85
 00:06:42,003 --> 00:06:45,004
- the printer melts the plastic  
-       into a thick goo.        
+the printer melts the plastic into a thick goo.        
 
 86
 00:06:45,006 --> 00:06:46,471
-        the 3d printer          
+the 3d printer          
 
 87
 00:06:46,473 --> 00:06:50,743
- layers the plastic, following  
+layers the plastic, following  
 a pattern from a digital file.  
 
 88
 00:06:50,745 --> 00:06:54,880
-      this particular part      
-     is the extruder body.      
+this particular part is the extruder body.      
 
 89
 00:06:54,882 --> 00:06:58,484
-  in real time, it takes about  
-               an               
-  hour to print the extruder.   
+in real time, it takes about an hour to print the extruder.   
 
 90
 00:07:02,089 --> 00:07:04,223
-     even complex patterns,     
-      like this octopus,        
+even complex patterns, like this octopus,        
 
 91
 00:07:04,225 --> 00:07:06,492
@@ -448,178 +368,146 @@ can be made with a 3d printer.
 
 92
 00:07:09,496 --> 00:07:12,031
-    40 different components     
-      of this 3d printer        
+40 different components of this 3d printer        
 
 93
 00:07:12,033 --> 00:07:14,466
-      are produced using 3d     
-           printers.            
+are produced using 3d printers.            
 
 94
 00:07:19,106 --> 00:07:25,510
- at this facility, 135 printers 
- run nonstop, producing gears,  
+at this facility, 135 printers run nonstop, producing gears,  
 
 95
 00:07:25,512 --> 00:07:28,446
-           brackets,            
-    and mechanism housings.     
+brackets, and mechanism housings.     
 
 96
 00:07:28,448 --> 00:07:32,051
-        this technology         
-  is truly self-replicating.    
+this technology is truly self-replicating.    
 
 97
 00:07:33,854 --> 00:07:37,389
-  now, a worker drills a hole   
-     in the extruder body.      
+now, a worker drills a hole in the extruder body.      
 
 98
 00:07:37,391 --> 00:07:39,658
-     it serves as a conduit     
-   for the plastic filament     
+it serves as a conduit for the plastic filament     
 
 99
 00:07:39,660 --> 00:07:41,327
-       during printing.         
+during printing.         
 
 100
 00:07:46,533 --> 00:07:49,335
-        he bolts a gear         
-     to the extruder body.      
+he bolts a gear to the extruder body.      
 
 101
 00:07:54,008 --> 00:07:56,675
-      he screws the motor       
-     to the extruder body       
+he screws the motor to the extruder body       
 
 102
 00:07:56,677 --> 00:07:59,812
-     and installs a second,     
-    smaller gear on the drive   
-             shaft.             
+and installs a second, smaller gear on the drive shaft.             
 
 103
 00:08:02,616 --> 00:08:06,284
-   a part called the hot end    
-      is installed next.        
+a part called the hot end is installed next.        
 
 104
 00:08:06,286 --> 00:08:10,422
-    it contains a heater for    
-             melting            
-     the plastic filament.      
+it contains a heater for melting the plastic filament.      
 
 105
 00:08:10,424 --> 00:08:14,092
-   the worker attaches the hot  
-               end              
- to a 3d-printed plastic mount  
+the worker attaches the hot end to a 3d-printed plastic mount  
 
 106
 00:08:14,094 --> 00:08:15,561
-         and extruder.          
+and extruder.          
 
 107
 00:08:17,765 --> 00:08:20,566
-         this completes         
-   the 3d printer tool head.    
+this completes the 3d printer tool head.    
 
 108
 00:08:22,903 --> 00:08:26,371
-   another worker feeds glass   
-      to rubber rollers.        
+another worker feeds glass to rubber rollers.        
 
 109
 00:08:26,373 --> 00:08:29,841
-    the rollers gently apply    
+the rollers gently apply    
 adhesive-backed polyester film  
 
 110
 00:08:29,843 --> 00:08:31,043
-         to the glass.          
+to the glass.          
 
 111
 00:08:31,045 --> 00:08:33,178
-      the glass will serve      
-      as the printer bed,       
+the glass will serve as the printer bed,       
 
 112
 00:08:33,180 --> 00:08:36,515
-   and the film will protect    
- it from scratches during use.  
+and the film will protect it from scratches during use.  
 
 113
 00:08:38,752 --> 00:08:40,852
-            to build            
- the printer's aluminum frame,  
+to build the printer's aluminum frame,  
 
 114
 00:08:40,854 --> 00:08:45,858
- the worker secures the joints  
+the worker secures the joints  
 with 3d-printed plastic parts.  
 
 115
 00:08:45,860 --> 00:08:48,660
-      he installs two rods      
-         horizontally.          
+he installs two rods horizontally.          
 
 116
 00:08:48,662 --> 00:08:51,029
-     they'll serve as rails     
-   for the printer tool head    
+they'll serve as rails for the printer tool head    
 
 117
 00:08:51,031 --> 00:08:53,599
-        to move across.         
+to move across.         
 
 118
 00:08:53,601 --> 00:08:56,735
-     he clips the tool head     
-         to the rails.          
+he clips the tool head to the rails.          
 
 119
 00:08:56,737 --> 00:08:59,070
-  then, he loops a rubber belt  
-       around the motor         
+then, he loops a rubber belt around the motor         
 
 120
 00:08:59,072 --> 00:09:02,540
-    on the side of the frame    
+on the side of the frame    
 and links it to the tool head.  
 
 121
 00:09:02,542 --> 00:09:06,078
-  the belt will drive the tool  
-   head along the carriage.     
+the belt will drive the tool head along the carriage.     
 
 122
 00:09:06,080 --> 00:09:07,879
-   he confirms the tension is   
-              good              
+he confirms the tension is good              
 
 123
 00:09:07,881 --> 00:09:12,016
-     and that the tool head     
-         moves freely.          
+and that the tool head moves freely.          
 
 124
 00:09:12,018 --> 00:09:15,020
-   next, he attaches the print  
-               bed              
-    and its sliding support     
+next, he attaches the print bed and its sliding support     
 
 125
 00:09:15,022 --> 00:09:17,189
-           structure            
-   to the base of the frame.    
+structure to the base of the frame.    
 
 126
 00:09:24,898 --> 00:09:27,032
-       he connects a cord       
-      to the power supply       
+he connects a cord to the power supply       
 
 127
 00:09:27,034 --> 00:09:28,967
@@ -627,308 +515,248 @@ and links it to the tool head.
 
 128
 00:09:28,969 --> 00:09:31,670
-  it will power both the motor  
-       and the hot end.         
+it will power both the motor and the hot end.         
 
 129
 00:09:37,177 --> 00:09:38,977
-       he clips the glass       
-       to the print bed         
+he clips the glass to the print bed         
 
 130
 00:09:38,979 --> 00:09:41,380
-     and tightens the clips     
-         with screws.           
+and tightens the clips with screws.           
 
 131
 00:09:43,517 --> 00:09:45,651
-   he connects the print bed    
-      to the electronics        
+he connects the print bed to the electronics        
 
 132
 00:09:45,653 --> 00:09:48,053
-          and confirms          
-    that it slides freely.      
+and confirms that it slides freely.      
 
 133
 00:09:52,460 --> 00:09:53,992
-  in the testing department,    
+in the testing department,    
 
 134
 00:09:53,994 --> 00:09:56,862
-  a technician pushes the end   
-  of a plastic filament reel    
+a technician pushes the end of a plastic filament reel    
 
 135
 00:09:56,864 --> 00:09:59,398
-     into a drilled channel     
-       in the tool head.        
+into a drilled channel in the tool head.        
 
 136
 00:10:03,537 --> 00:10:07,472
-      he snaps a retainer       
-    around the feed point.      
+he snaps a retainer around the feed point.      
 
 137
 00:10:07,474 --> 00:10:10,476
-        now, he is ready        
-  to activate the 3d printer.   
+now, he is ready to activate the 3d printer.   
 
 138
 00:10:16,884 --> 00:10:19,618
-    he prints a test pattern    
-   to confirm that the printer  
-              bed               
+he prints a test pattern to confirm that the printer bed               
 
 139
 00:10:19,620 --> 00:10:22,855
-   is level and the tool head   
-     prints consistently.       
+is level and the tool head prints consistently.       
 
 140
 00:10:26,961 --> 00:10:29,761
-     for two-tone printing,     
-  they use two filament reels   
+for two-tone printing, they use two filament reels   
 
 141
 00:10:29,763 --> 00:10:32,498
-     that feed into a double    
-            extruder            
-          tool head.            
+that feed into a double extruder tool head.            
 
 142
 00:10:36,236 --> 00:10:40,239
-    the tool head layers the    
- plastic, one color at a time.  
+the tool head layers the plastic, one color at a time.  
 
 143
 00:10:40,241 --> 00:10:42,774
-          this process          
-     takes about an hour,       
+this process takes about an hour,       
 
 144
 00:10:46,847 --> 00:10:48,380
-    but that's not too long     
+but that's not too long     
 
 145
 00:10:48,382 --> 00:10:51,383
-       when you consider        
-     that it's printing a 3d    
-            object.             
+when you consider that it's printing a 3d object.             
 
 146
 00:10:55,722 --> 00:10:58,090
-     talk about generating      
-        solid results.          
+talk about generating solid results.          
 
 147
 00:11:13,340 --> 00:11:17,142
-           narrator:            
-  tower cranes can be found at  
+narrator: tower cranes can be found at  
 
 148
 00:11:17,144 --> 00:11:19,678
-  but they're usually secured   
-      in a concrete slab        
+but they're usually secured in a concrete slab        
 
 149
 00:11:19,680 --> 00:11:21,879
- that can take days to set up.  
+that can take days to set up.  
 
 150
 00:11:21,881 --> 00:11:24,482
-      if you need a crane       
-   for some quick maintenance   
-             work,              
+if you need a crane for some quick maintenance work,              
 
 151
 00:11:24,484 --> 00:11:26,218
-        a truck-mounted         
-       telescopic crane         
+a truck-mounted telescopic crane         
 
 152
 00:11:26,220 --> 00:11:27,920
-  might be a better solution.   
+might be a better solution.   
 
 153
 00:11:32,826 --> 00:11:36,562
- telescopic cranes can support  
-     loads of up to 6 tons      
+telescopic cranes can support loads of up to 6 tons      
 
 154
 00:11:36,564 --> 00:11:40,765
- and lift objects over 30 feet  
-          in the air.           
+and lift objects over 30 feet in the air.           
 
 155
 00:11:40,767 --> 00:11:43,435
-        the steel cable         
-      or wire rope winds        
+the steel cable or wire rope winds        
 
 156
 00:11:43,437 --> 00:11:47,506
-          and unwinds           
-     on a hydraulic winch.      
+and unwinds on a hydraulic winch.      
 
 157
 00:11:47,508 --> 00:11:51,643
- the crane operator can extend  
+the crane operator can extend  
 or retract the boom extensions  
 
 158
 00:11:51,645 --> 00:11:54,446
-      and adjust the angle      
-       of the main boom.        
+and adjust the angle of the main boom.        
 
 159
 00:11:54,448 --> 00:11:56,581
-       stowing the crane        
-    in the travel position      
+stowing the crane in the travel position      
 
 160
 00:11:56,583 --> 00:11:59,584
-   takes just a few minutes.    
+takes just a few minutes.    
 
 161
 00:11:59,586 --> 00:12:01,987
-        assembly begins         
-   when a carbon steel sheet    
+assembly begins when a carbon steel sheet    
 
 162
 00:12:01,989 --> 00:12:04,790
-           is loaded            
-   into a cnc laser cutter.     
+is loaded into a cnc laser cutter.     
 
 163
 00:12:04,792 --> 00:12:07,192
-    a high-energy light beam    
- cuts through the steel plate   
+a high-energy light beam cuts through the steel plate   
 
 164
 00:12:07,194 --> 00:12:11,463
-     to make several parts      
-    of the crane assembly.      
+to make several parts of the crane assembly.      
 
 165
 00:12:11,465 --> 00:12:13,765
-       a computer program       
-     maximizes the number       
+a computer program maximizes the number       
 
 166
 00:12:13,767 --> 00:12:16,868
-         of pieces cut          
-    out of a single sheet of    
-             steel.             
+of pieces cut out of a single sheet of steel.             
 
 167
 00:12:19,606 --> 00:12:23,108
-     a welder places parts      
-    on a position fixture.      
+a welder places parts on a position fixture.      
 
 168
 00:12:30,017 --> 00:12:33,151
-  then, a cnc weld robot bonds  
-        the side plates         
+then, a cnc weld robot bonds the side plates         
 
 169
 00:12:33,153 --> 00:12:35,621
-  to the winch mounting plate   
-        and base plate.         
+to the winch mounting plate and base plate.         
 
 170
 00:12:39,760 --> 00:12:43,295
-     the welded crane mast      
- goes to the machining center.  
+the welded crane mast goes to the machining center.  
 
 171
 00:12:43,297 --> 00:12:47,699
-    a machinist positions it    
-  on the horizontal mill jig.   
+a machinist positions it on the horizontal mill jig.   
 
 172
 00:12:47,701 --> 00:12:49,100
-      the cnc mill drills       
+the cnc mill drills       
 
 173
 00:12:49,102 --> 00:12:52,437
-  holes around the base plate   
-   with a carbide drill bit     
+holes around the base plate with a carbide drill bit     
 
 174
 00:12:52,439 --> 00:12:56,507
- and sprays coolant to prevent  
-  the piece from overheating.   
+and sprays coolant to prevent the piece from overheating.   
 
 175
 00:12:56,509 --> 00:12:59,177
-    then, the machine levels    
-   the surface under the base   
-             plate              
+then, the machine levels the surface under the base plate              
 
 176
 00:12:59,179 --> 00:13:02,347
-   with an end mill to fit it   
-  to the crane mast bearing.    
+with an end mill to fit it to the crane mast bearing.    
 
 177
 00:13:07,721 --> 00:13:11,723
-   another worker bends tubes   
- with a hydraulic press brake.  
+another worker bends tubes with a hydraulic press brake.  
 
 178
 00:13:11,725 --> 00:13:13,391
-    he makes boom segments      
+he makes boom segments      
 
 179
 00:13:13,393 --> 00:13:17,529
-    by forming high-strength    
-             carbon             
-    steel plates into open c    
-            shapes.             
+by forming high-strength carbon steel plates into open c shapes.             
 
 180
 00:13:21,402 --> 00:13:24,002
-  grounded electrostatic paint  
-     racks carry the parts      
+grounded electrostatic paint racks carry the parts      
 
 181
 00:13:24,004 --> 00:13:25,671
- into the painting department.  
+into the painting department.  
 
 182
 00:13:31,812 --> 00:13:33,412
-  a worker applies a coating    
+a worker applies a coating    
 
 183
 00:13:33,414 --> 00:13:36,481
-   of anti-rust, low-friction   
-     electrostatic paint.       
+of anti-rust, low-friction electrostatic paint.       
 
 184
 00:13:36,483 --> 00:13:40,485
-  the paint eases the movement  
-      of the crane parts.       
+the paint eases the movement of the crane parts.       
 
 185
 00:13:40,487 --> 00:13:43,422
-     as the boom extensions     
-  come out of the paint shop,   
+as the boom extensions come out of the paint shop,   
 
 186
 00:13:43,424 --> 00:13:46,658
-  the painted mast is ready to  
-               go               
-  to the assembly department.   
+the painted mast is ready to go to the assembly department.   
 
 187
 00:13:49,496 --> 00:13:54,166
-  a worker positions the mast   
- on the base bearing assembly.  
+a worker positions the mast on the base bearing assembly.  
 
 188
 00:13:54,168 --> 00:13:56,234
-      he attaches the mast      
-        to the bearing          
+he attaches the mast to the bearing          
 
 189
 00:13:56,236 --> 00:13:59,704
@@ -936,379 +764,311 @@ with high-strength steel bolts
 
 190
 00:13:59,706 --> 00:14:03,442
-  and uses a pneumatic torque   
- wrench to tighten the bolts.   
+and uses a pneumatic torque wrench to tighten the bolts.   
 
 191
 00:14:03,444 --> 00:14:06,878
-     these bolts bear most      
-   of the load of the crane.    
+these bolts bear most of the load of the crane.    
 
 192
 00:14:13,120 --> 00:14:15,520
-  a worker positions the winch  
-      on the mount plate        
+a worker positions the winch on the mount plate        
 
 193
 00:14:15,522 --> 00:14:17,356
-    and tightens the bolts.     
+and tightens the bolts.     
 
 194
 00:14:19,460 --> 00:14:21,526
-      he rotates the mast       
-     to check its movement      
+he rotates the mast to check its movement      
 
 195
 00:14:21,528 --> 00:14:24,862
-     on the base bearing.       
+on the base bearing.       
 
 196
 00:14:24,864 --> 00:14:29,334
-      he inserts a bushing      
-  and fits it with an arbor.    
+he inserts a bushing and fits it with an arbor.    
 
 197
 00:14:29,336 --> 00:14:30,868
-     he applies lubricant       
+he applies lubricant       
 
 198
 00:14:30,870 --> 00:14:34,539
-  inside the bushing before he  
- brings in the main cylinder.   
+inside the bushing before he brings in the main cylinder.   
 
 199
 00:14:34,541 --> 00:14:37,809
-    the worker positions the    
-    cylinder between the side   
-             plates             
+the worker positions the cylinder between the side plates             
 
 200
 00:14:37,811 --> 00:14:40,479
-   and pins it to the mast.     
+and pins it to the mast.     
 
 201
 00:14:40,481 --> 00:14:42,613
-  the pin allows the cylinder   
-      to move vertically        
+the pin allows the cylinder to move vertically        
 
 202
 00:14:42,615 --> 00:14:44,316
-   when elevating the boom.     
+when elevating the boom.     
 
 203
 00:14:46,553 --> 00:14:50,622
-  hydraulic actuators are now   
-  installed inside the mast.    
+hydraulic actuators are now installed inside the mast.    
 
 204
 00:14:50,624 --> 00:14:54,359
- the actuators direct oil flow  
- to the cylinders and motors,   
+the actuators direct oil flow to the cylinders and motors,   
 
 205
 00:14:54,361 --> 00:14:57,829
-    controlling the movement    
-         of the crane.          
+controlling the movement of the crane.          
 
 206
 00:14:57,831 --> 00:15:02,900
-   a worker installs the boom   
+a worker installs the boom   
 extensions into the main boom.  
 
 207
 00:15:02,902 --> 00:15:06,171
- he pushes them all the way in  
-   before assembling the main   
-              boom              
+he pushes them all the way in before assembling the main boom              
 
 208
 00:15:06,173 --> 00:15:08,440
-      to the crane base.        
+to the crane base.        
 
 209
 00:15:08,442 --> 00:15:13,778
-    the main boom fits right    
- between the mast side plates.  
+the main boom fits right between the mast side plates.  
 
 210
 00:15:13,780 --> 00:15:17,315
-     workers insert a pin to    
-             connect            
-  the mast to the main boom.    
+workers insert a pin to connect the mast to the main boom.    
 
 211
 00:15:17,317 --> 00:15:20,185
-  they gently tap it in place   
-      with a soft mallet        
+they gently tap it in place with a soft mallet        
 
 212
 00:15:20,187 --> 00:15:22,821
-          and bolt it           
-  on with a pneumatic wrench.   
+and bolt it on with a pneumatic wrench.   
 
 213
 00:15:28,862 --> 00:15:31,529
- a worker threads the wire rope 
-        along the boom          
+a worker threads the wire rope along the boom          
 
 214
 00:15:31,531 --> 00:15:35,667
-   and around the top pulley,   
-   then pulls the cable down    
+and around the top pulley, then pulls the cable down    
 
 215
 00:15:35,669 --> 00:15:39,070
-          and runs it           
-   through the snatch block.    
+and runs it through the snatch block.    
 
 216
 00:15:39,072 --> 00:15:41,606
-     he closes a safety pin     
-      on the snatch block       
+he closes a safety pin on the snatch block       
 
 217
 00:15:41,608 --> 00:15:45,076
- and pins the eye of the cable  
-     under the top pulley.      
+and pins the eye of the cable under the top pulley.      
 
 218
 00:15:45,078 --> 00:15:47,078
-         another worker         
-   activates the winch motor    
+another worker activates the winch motor    
 
 219
 00:15:47,080 --> 00:15:50,215
-     to roll the cable in.      
+to roll the cable in.      
 
 220
 00:15:50,217 --> 00:15:54,085
- the main cylinder elevates the 
+the main cylinder elevates the 
 crane into operating position.  
 
 221
 00:16:00,027 --> 00:16:02,561
-     the extension cylinder     
-       extends the boom,        
+the extension cylinder extends the boom,        
 
 222
 00:16:02,563 --> 00:16:05,029
-   and stabilizers support the  
-              back              
-         of the truck           
+and stabilizers support the back of the truck           
 
 223
 00:16:05,031 --> 00:16:07,365
-    for safe operation of the   
-             crane.             
+for safe operation of the crane.             
 
 224
 00:16:24,518 --> 00:16:26,251
-    narrator: in a world lit    
-       by incandescent,         
+narrator: in a world lit by incandescent,         
 
 225
 00:16:26,253 --> 00:16:29,654
-     fluorescent, halogen,      
-         and l.e.d.s,           
+fluorescent, halogen, and l.e.d.s,           
 
 226
 00:16:29,656 --> 00:16:31,589
-     there are some people      
- who still like their lighting  
+there are some people who still like their lighting  
 
 227
 00:16:31,591 --> 00:16:34,259
-    the old-fashioned way.      
+the old-fashioned way.      
 
 228
 00:16:34,261 --> 00:16:38,196
- nothing quite matches the warm 
-   glow of a kerosene lamp.     
+nothing quite matches the warm glow of a kerosene lamp.     
 
 229
 00:16:47,807 --> 00:16:50,741
-    kerosene lamps date back    
-          centuries.            
+kerosene lamps date back centuries.            
 
 230
 00:16:50,743 --> 00:16:55,213
-  they're fueled by kerosene,   
-    with a wick as the light    
-            source.             
+they're fueled by kerosene, with a wick as the light source.             
 
 231
 00:16:55,215 --> 00:16:56,213
-      to light the lamp,        
+to light the lamp,        
 
 232
 00:16:56,215 --> 00:16:58,082
- you remove the glass chimney,  
+you remove the glass chimney,  
 
 233
 00:16:58,084 --> 00:17:01,086
-   light the wick, then turn a  
-               key              
-    attached to the burner      
+light the wick, then turn a key attached to the burner      
 
 234
 00:17:01,088 --> 00:17:03,588
-  to raise or lower the wick.   
+to raise or lower the wick.   
 
 235
 00:17:03,590 --> 00:17:07,492
-     the height of the wick     
-    adjusts the height of the   
-             flame.             
+the height of the wick adjusts the height of the flame.             
 
 236
 00:17:07,494 --> 00:17:10,295
-    this burner's components    
-      are made of brass.        
+this burner's components are made of brass.        
 
 237
 00:17:10,297 --> 00:17:13,765
-    many of them are stamped    
-          by a press.           
+many of them are stamped by a press.           
 
 238
 00:17:13,767 --> 00:17:17,835
- the press rams the lubricated  
- brass sheet against the die,   
+the press rams the lubricated brass sheet against the die,   
 
 239
 00:17:17,837 --> 00:17:20,572
-       forming the metal        
-    to the required shape.      
+forming the metal to the required shape.      
 
 240
 00:17:22,643 --> 00:17:26,311
-      the component passes      
-    through a second stamping   
-             press,             
+the component passes through a second stamping press,             
 
 241
 00:17:26,313 --> 00:17:29,447
-      this time receiving       
-   five successive strikes.     
+this time receiving five successive strikes.     
 
 242
 00:17:32,786 --> 00:17:36,588
-      this component is the     
-           midsection           
-   of the burner's gallery,     
+this component is the midsection of the burner's gallery,     
 
 243
 00:17:36,590 --> 00:17:38,189
-  the ornate support fixture    
+the ornate support fixture    
 
 244
 00:17:38,191 --> 00:17:42,060
-  that holds the glass chimney  
-        over the flame.         
+that holds the glass chimney over the flame.         
 
 245
 00:17:42,062 --> 00:17:45,062
-   after the component passes   
+after the component passes   
 through the first two presses,  
 
 246
 00:17:45,064 --> 00:17:47,732
-            workers             
-  mount it on a third press.    
+workers mount it on a third press.    
 
 247
 00:17:47,734 --> 00:17:50,868
-  this one punches ventilation  
-  holes around the perimeter,   
+this one punches ventilation holes around the perimeter,   
 
 248
 00:17:50,870 --> 00:17:54,139
-    allowing air to feed the    
-             flame.             
+allowing air to feed the flame.             
 
 249
 00:17:54,141 --> 00:17:56,407
-  workers mount the gallery's   
-        bottom section          
+workers mount the gallery's bottom section          
 
 250
 00:17:56,409 --> 00:17:58,677
-   onto another punch press.    
+onto another punch press.    
 
 251
 00:17:58,679 --> 00:18:03,815
-  it cuts an intricate design   
-     along the perimeter.       
+it cuts an intricate design along the perimeter.       
 
 252
 00:18:03,817 --> 00:18:05,683
-    this machine cuts out the   
-             bottom             
+this machine cuts out the bottom             
 
 253
 00:18:05,685 --> 00:18:08,553
-   so the part can fit around   
-     the burner mechanism.      
+so the part can fit around the burner mechanism.      
 
 254
 00:18:14,494 --> 00:18:16,894
-        the next machine        
-    carves threads into it.     
+the next machine carves threads into it.     
 
 255
 00:18:16,896 --> 00:18:19,230
- the threads enable the gallery 
-           to screw             
+the threads enable the gallery to screw             
 
 256
 00:18:19,232 --> 00:18:21,566
-  onto the burner mechanism.    
+onto the burner mechanism.    
 
 257
 00:18:25,439 --> 00:18:28,540
-   now it's time to assemble    
-     the gallery sections.      
+now it's time to assemble the gallery sections.      
 
 258
 00:18:33,847 --> 00:18:36,981
-    it has grips to hold the    
-             bottom             
-        of the chimney.         
+it has grips to hold the bottom of the chimney.         
 
 259
 00:18:36,983 --> 00:18:40,852
-  next, they fasten the bottom  
+next, they fasten the bottom  
 section to the middle section.  
 
 260
 00:18:40,854 --> 00:18:43,321
-  this method of joining parts  
-      by compressing one        
+this method of joining parts by compressing one        
 
 261
 00:18:43,323 --> 00:18:45,924
-   against the other is known   
-        as a press fit.         
+against the other is known as a press fit.         
 
 262
 00:18:48,462 --> 00:18:50,795
-        they also stamp         
-   the brass adjustment key     
+they also stamp the brass adjustment key     
 
 263
 00:18:50,797 --> 00:18:53,131
-   that raises and lowers the   
-             wick.              
+that raises and lowers the wick.              
 
 264
 00:18:53,133 --> 00:18:55,733
-         the die stamps         
-    the manufacturer's name     
+the die stamps the manufacturer's name     
 
 265
 00:18:55,735 --> 00:18:57,869
-         and cuts teeth         
-     along the perimeter,       
+and cuts teeth along the perimeter,       
 
 266
 00:18:57,871 --> 00:19:00,038
@@ -1320,141 +1080,113 @@ to build the burner mechanism,
 
 268
 00:19:04,811 --> 00:19:06,811
-   they solder a notch plate,   
-       called a shutter,        
+they solder a notch plate, called a shutter,        
 
 269
 00:19:06,813 --> 00:19:09,881
-         to a component         
- they refer to as the candle.   
+to a component they refer to as the candle.   
 
 270
 00:19:09,883 --> 00:19:13,752
- it's called the candle because 
- the wick will run through it.  
+it's called the candle because the wick will run through it.  
 
 271
 00:19:13,754 --> 00:19:16,955
- they attach the adjustment key 
-     to a pair of gears...      
+they attach the adjustment key to a pair of gears...      
 
 272
 00:19:21,427 --> 00:19:23,495
-         ...and solder          
-     that to the shutter.       
+...and solder that to the shutter.       
 
 273
 00:19:27,500 --> 00:19:31,036
- they turn the key to make sure 
-   the gears rotate freely.     
+they turn the key to make sure the gears rotate freely.     
 
 274
 00:19:33,506 --> 00:19:36,307
-       they place a base        
-     into an assembly tool      
+they place a base into an assembly tool      
 
 275
 00:19:36,309 --> 00:19:39,377
-      and insert the candle     
-           containing           
- the adjustment key assembly.   
+and insert the candle containing the adjustment key assembly.   
 
 276
 00:19:43,116 --> 00:19:45,817
-             then,              
- they solder on a wick guide.   
+then, they solder on a wick guide.   
 
 277
 00:19:50,257 --> 00:19:54,059
-   they check the gears again   
-    to make sure they rotate    
-            freely.             
+they check the gears again to make sure they rotate freely.             
 
 278
 00:19:56,529 --> 00:19:58,463
-      the burner mechanism      
-         is finished.           
+the burner mechanism is finished.           
 
 279
 00:19:58,465 --> 00:20:00,799
-        now, they dip it        
-   into a chemical degreaser    
+now, they dip it into a chemical degreaser    
 
 280
 00:20:00,801 --> 00:20:03,968
-    to remove any lubricant     
-     or soldering residue.      
+to remove any lubricant or soldering residue.      
 
 281
 00:20:07,140 --> 00:20:12,644
-   next, they submerge it in a  
-               vat              
-    of acids to brighten the    
-             brass.             
+next, they submerge it in a vat of acids to brighten the brass.             
 
 282
 00:20:19,352 --> 00:20:22,020
-      then, they rinse it       
-     in water three times.      
+then, they rinse it in water three times.      
 
 283
 00:20:28,295 --> 00:20:31,362
-     now, they assemble all     
-     of the burner parts.       
+now, they assemble all of the burner parts.       
 
 284
 00:20:31,364 --> 00:20:32,696
-   they insert a cotton wick    
+they insert a cotton wick    
 
 285
 00:20:32,698 --> 00:20:35,099
-         into the guide         
+into the guide         
 at the bottom of the mechanism  
 
 286
 00:20:35,101 --> 00:20:37,669
- and turn the key to feed it up 
-      through the burner.       
+and turn the key to feed it up through the burner.       
 
 287
 00:20:41,441 --> 00:20:44,576
-   they screw on the gallery    
-    and complete the burner     
+they screw on the gallery and complete the burner     
 
 288
 00:20:44,578 --> 00:20:49,847
-      by inserting a disk       
-    that will help shape the    
-             flame.             
+by inserting a disk that will help shape the flame.             
 
 289
 00:20:49,849 --> 00:20:51,182
-     to install the burner      
+to install the burner      
 
 290
 00:20:51,184 --> 00:20:53,585
-     in a lamp, the insert      
-    the wick into the font      
+in a lamp, the insert the wick into the font      
 
 291
 00:20:53,587 --> 00:20:56,554
-      and screw the burner      
+and screw the burner      
 to the font's threaded collar.  
 
 292
 00:21:00,927 --> 00:21:03,862
-       the glass chimney        
-    is the finishing touch.     
+the glass chimney is the finishing touch.     
 
 293
 00:21:07,400 --> 00:21:10,535
-  to fill the lamp with fuel,   
-      remove the chimney,       
+to fill the lamp with fuel, remove the chimney,       
 
 294
 00:21:10,537 --> 00:21:14,272
-      unscrew the burner,       
- pour kerosene into the font,   
+unscrew the burner, pour kerosene into the font,   
 
 295
 00:21:14,274 --> 00:21:17,274
@@ -1462,20 +1194,17 @@ then screw the burner back on.
 
 296
 00:21:17,276 --> 00:21:19,677
-    this lamp is now ready to   
-             light.             
+this lamp is now ready to light.             
 
 297
 00:21:29,155 --> 00:21:31,288
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 298
 00:21:31,290 --> 00:21:33,491
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 299
 00:21:33,493 --> 00:21:35,126
-     drop us a line at...       
+drop us a line at...       
 

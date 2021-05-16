@@ -1,435 +1,373 @@
 1
 00:00:01,635 --> 00:00:04,536
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,671 --> 00:00:07,639
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:22,556 --> 00:00:26,291
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:26,427 --> 00:00:28,527
-      ...glass cookware...      
+...glass cookware...      
 
 5
 00:00:32,366 --> 00:00:34,466
-         ...soap bars...        
+...soap bars...        
 
 6
 00:00:37,838 --> 00:00:39,805
-        ...steel drums...       
+...steel drums...       
 
 7
 00:00:43,444 --> 00:00:45,677
-  ...and firefighter uniforms.  
+...and firefighter uniforms.  
 
 8
 00:00:52,386 --> 00:00:53,785
-        pyrex is an idea        
+pyrex is an idea        
 
 9
 00:00:53,821 --> 00:00:56,522
-      cooked up by the wife     
-  of a glass-industry scientist 
+cooked up by the wife of a glass-industry scientist 
 
 10
 00:00:56,524 --> 00:00:58,123
-            in 1913.            
+in 1913.            
 
 11
 00:00:58,192 --> 00:01:01,059
-  she believed the tough glass  
-     used in lantern globes     
+she believed the tough glass used in lantern globes     
 
 12
 00:01:01,128 --> 00:01:03,195
-         would be great         
-      for baking cakes in,      
+would be great for baking cakes in,      
 
 13
 00:01:03,197 --> 00:01:06,197
- so she baked one in some glass 
-    her husband brought home.   
+so she baked one in some glass her husband brought home.   
 
 14
 00:01:06,233 --> 00:01:07,732
-       the cake was a hit,      
+the cake was a hit,      
 
 15
 00:01:07,802 --> 00:01:11,770
- changing the notion that glass 
-  was too fragile for the oven. 
+changing the notion that glass was too fragile for the oven. 
 
 16
 00:01:17,978 --> 00:01:19,144
-      today, in most homes,     
+today, in most homes,     
 
 17
 00:01:19,279 --> 00:01:21,146
-           you'll find          
-  different types of cookware,  
+you'll find different types of cookware,  
 
 18
 00:01:21,281 --> 00:01:24,883
-          many of which         
-      are made from pyrex.      
+many of which are made from pyrex.      
 
 19
 00:01:25,018 --> 00:01:26,952
-     to produce some dishes,    
+to produce some dishes,    
 
 20
 00:01:26,954 --> 00:01:29,821
-      a batch feeder pushes     
- ingredients into a big furnace 
+a batch feeder pushes ingredients into a big furnace 
 
 21
 00:01:29,857 --> 00:01:33,926
-          as they spill         
-     out of a bin overhead.     
+as they spill out of a bin overhead.     
 
 22
 00:01:37,698 --> 00:01:40,498
-           silica sand          
- is the biggest part of the mix.
+silica sand is the biggest part of the mix.
 
 23
 00:01:40,534 --> 00:01:44,970
-  it's a crystalline substance, 
- and it makes glass transparent.
+it's a crystalline substance, and it makes glass transparent.
 
 24
 00:01:44,972 --> 00:01:50,442
-     the batch also includes    
-  soda ash and recycled glass.  
+the batch also includes soda ash and recycled glass.  
 
 25
 00:01:50,511 --> 00:01:53,779
-  some of the other ingredients 
-       are a trade secret.      
+some of the other ingredients are a trade secret.      
 
 26
 00:02:03,991 --> 00:02:06,591
-    the furnace heats the mix   
-      to the melting point,     
+the furnace heats the mix to the melting point,     
 
 27
 00:02:06,660 --> 00:02:09,794
- over 2,700 degrees fahrenheit. 
+over 2,700 degrees fahrenheit. 
 
 28
 00:02:09,864 --> 00:02:13,398
-   it turns into molten glass   
-      that looks like lava.     
+it turns into molten glass that looks like lava.     
 
 29
 00:02:13,467 --> 00:02:15,667
-           the glass,           
-     in this lava-like form,    
+the glass, in this lava-like form,    
 
 30
 00:02:15,669 --> 00:02:19,471
-    will spend up to 24 hours   
-         in the furnace.        
+will spend up to 24 hours in the furnace.        
 
 31
 00:02:19,606 --> 00:02:23,842
-   on its way out, mechanical   
-    shears cut it into gobs.    
+on its way out, mechanical shears cut it into gobs.    
 
 32
 00:02:29,550 --> 00:02:32,818
-       the gobs slide down      
-      a water-cooled chute      
+the gobs slide down a water-cooled chute      
 
 33
 00:02:32,953 --> 00:02:36,555
-            and drop            
- into a baking-dish-shaped mold.
+and drop into a baking-dish-shaped mold.
 
 34
 00:02:43,230 --> 00:02:46,231
-       there are 16 molds       
-      on a rotating table.      
+there are 16 molds on a rotating table.      
 
 35
 00:02:46,233 --> 00:02:47,498
-          as it turns,          
+as it turns,          
 
 36
 00:02:47,535 --> 00:02:51,103
-     the table delivers the     
- gob-filled molds to a plunger, 
+the table delivers the gob-filled molds to a plunger, 
 
 37
 00:02:51,238 --> 00:02:53,639
-       which presses them       
-   into the baking-dish shape.  
+which presses them into the baking-dish shape.  
 
 38
 00:02:53,774 --> 00:02:56,241
-      continuing to rotate,     
+continuing to rotate,     
 
 39
 00:02:56,243 --> 00:02:58,910
-  the table positions the molds 
-         under blowers.         
+the table positions the molds under blowers.         
 
 40
 00:02:58,913 --> 00:03:04,182
-  they cool the freshly-molded  
-  glass so it holds its shape.  
+they cool the freshly-molded glass so it holds its shape.  
 
 41
 00:03:04,218 --> 00:03:07,319
-        a mechanical arm        
-   suctions up the glass dish   
+a mechanical arm suctions up the glass dish   
 
 42
 00:03:07,388 --> 00:03:10,522
-        and sets it down        
-   on another revolving table.  
+and sets it down on another revolving table.  
 
 43
 00:03:10,524 --> 00:03:15,727
-    flames lick the glassware   
-  from burners above and below. 
+flames lick the glassware from burners above and below. 
 
 44
 00:03:15,796 --> 00:03:16,995
-       the dish is exposed      
+the dish is exposed      
 
 45
 00:03:17,031 --> 00:03:20,498
-    to a temperature of over    
-    1,800 degrees fahrenheit.   
+to a temperature of over 1,800 degrees fahrenheit.   
 
 46
 00:03:20,534 --> 00:03:23,569
-  this softens its sharp edges  
-   so that the rim is smooth.   
+this softens its sharp edges so that the rim is smooth.   
 
 47
 00:03:27,875 --> 00:03:30,942
-              next,             
- hoses blast high-pressure air, 
+next, hoses blast high-pressure air, 
 
 48
 00:03:30,945 --> 00:03:33,078
-       cooling the dishes       
-        to solidify them,       
+cooling the dishes to solidify them,       
 
 49
 00:03:33,080 --> 00:03:35,347
-    so that a mechanical arm    
-        can pick them up        
+so that a mechanical arm can pick them up        
 
 50
 00:03:35,349 --> 00:03:36,748
-      without ruining them.     
+without ruining them.     
 
 51
 00:03:40,020 --> 00:03:44,222
- it transports the glass dishes 
-       to a conveyor belt.      
+it transports the glass dishes to a conveyor belt.      
 
 52
 00:03:44,258 --> 00:03:47,425
-    further down, another arm   
-   feeds the dishes to a kiln,  
+further down, another arm feeds the dishes to a kiln,  
 
 53
 00:03:47,461 --> 00:03:50,295
 where heating and cooling cycles
-        temper the glass.       
+temper the glass.       
 
 54
 00:03:50,364 --> 00:03:54,632
-    this is what gives pyrex    
-          its strength.         
+this is what gives pyrex its strength.         
 
 55
 00:03:54,668 --> 00:03:57,636
- now it's time to make the lid. 
+now it's time to make the lid. 
 
 56
 00:03:57,705 --> 00:04:01,907
-   a different plunger presses  
-  glass gobs into a lid shape.  
+a different plunger presses glass gobs into a lid shape.  
 
 57
 00:04:01,909 --> 00:04:05,176
-     every lid needs a knob,    
+every lid needs a knob,    
 
 58
 00:04:05,212 --> 00:04:08,780
 so a valve inside the mold forms
- it, and then thrusts the lid up
+it, and then thrusts the lid up
 
 59
 00:04:08,915 --> 00:04:12,984
-         to be picked up        
-      by a mechanical arm.      
+to be picked up by a mechanical arm.      
 
 60
 00:04:12,987 --> 00:04:17,122
-    the arm flips its lid and   
+the arm flips its lid and   
 sets it down on a conveyor belt.
 
 61
 00:04:22,062 --> 00:04:23,595
-    the lids are on the move,   
+the lids are on the move,   
 
 62
 00:04:23,730 --> 00:04:26,632
-        traveling through       
-        a tempering kiln.       
+traveling through a tempering kiln.       
 
 63
 00:04:29,770 --> 00:04:32,871
-        on their way out,       
-      a fan cools them off      
+on their way out, a fan cools them off      
 
 64
 00:04:32,940 --> 00:04:36,741
-   so that they can be handled  
-    by human hands this time.   
+so that they can be handled by human hands this time.   
 
 65
 00:04:36,810 --> 00:04:41,313
- workers inspect each glass lid 
-      before packing them.      
+workers inspect each glass lid before packing them.      
 
 66
 00:04:44,852 --> 00:04:48,820
-        on another line,        
-  measuring cups are produced.  
+on another line, measuring cups are produced.  
 
 67
 00:04:48,955 --> 00:04:51,489
-        little platforms        
-     lift the measuring cups    
+little platforms lift the measuring cups    
 
 68
 00:04:51,525 --> 00:04:52,891
-       to suctioning arms       
+to suctioning arms       
 
 69
 00:04:52,960 --> 00:04:56,561
-       that protrude from       
+that protrude from       
 a revolving silk-screen machine.
 
 70
 00:04:56,697 --> 00:05:00,598
-        a little squeegee       
- forces enamel through a screen,
+a little squeegee forces enamel through a screen,
 
 71
 00:05:00,634 --> 00:05:04,136
-      printing measurements     
-          onto the cup.         
+printing measurements onto the cup.         
 
 72
 00:05:09,376 --> 00:05:12,511
-    over in the lab, a worker   
-    roughs up a sample dish.    
+over in the lab, a worker roughs up a sample dish.    
 
 73
 00:05:12,513 --> 00:05:17,849
 by rubbing it with sandpaper, he
- mimics years of wear and tear. 
+mimics years of wear and tear. 
 
 74
 00:05:17,851 --> 00:05:21,253
- but it's about to be subjected 
-       to even more abuse.      
+but it's about to be subjected to even more abuse.      
 
 75
 00:05:24,991 --> 00:05:27,925
-     he places a sharp tool     
-    in the center of the dish   
+he places a sharp tool in the center of the dish   
 
 76
 00:05:27,961 --> 00:05:29,861
-  and takes aim with a hammer.  
+and takes aim with a hammer.  
 
 77
 00:05:29,930 --> 00:05:34,032
 will it break without shattering
-  into numerous little shards?  
+into numerous little shards?  
 
 78
 00:05:35,469 --> 00:05:36,868
-       it's a clean break,      
+it's a clean break,      
 
 79
 00:05:36,904 --> 00:05:40,739
-      which means this dish     
- has met the quality standards. 
+which means this dish has met the quality standards. 
 
 80
 00:05:58,358 --> 00:06:00,291
-            narrator:           
-   the widespread use of soap   
+narrator: the widespread use of soap   
 
 81
 00:06:00,361 --> 00:06:02,961
-   has elevated our standards   
-         of cleanliness.        
+has elevated our standards of cleanliness.        
 
 82
 00:06:02,963 --> 00:06:04,763
-         the ingredients        
-      that are used in soap     
+the ingredients that are used in soap     
 
 83
 00:06:04,898 --> 00:06:07,432
-           remove dirt          
-    and dangerous pathogens.    
+remove dirt and dangerous pathogens.    
 
 84
 00:06:07,567 --> 00:06:09,167
-  regularly washing your hands  
+regularly washing your hands  
 
 85
 00:06:09,203 --> 00:06:11,503
-     can reduce the chances     
-       of you getting sick      
+can reduce the chances of you getting sick      
 
 86
 00:06:11,572 --> 00:06:14,906
-    and will make your world    
-     a more hygienic place.     
+and will make your world a more hygienic place.     
 
 87
 00:06:21,715 --> 00:06:25,716
-     soap comes in a variety    
+soap comes in a variety    
 of shapes, colors, and textures,
 
 88
 00:06:25,786 --> 00:06:28,520
-     even different scents.     
+even different scents.     
 
 89
 00:06:28,655 --> 00:06:31,323
-        but it all starts       
-      in a bubbling kettle,     
+but it all starts in a bubbling kettle,     
 
 90
 00:06:31,458 --> 00:06:34,993
-  where animal or vegetable fat 
-  reacts with sodium hydroxide, 
+where animal or vegetable fat reacts with sodium hydroxide, 
 
 91
 00:06:34,995 --> 00:06:39,464
-      a caustic substance,      
-         to create soap.        
+a caustic substance, to create soap.        
 
 92
 00:06:39,599 --> 00:06:42,934
@@ -437,123 +375,106 @@ they add water to keep it fluid,
 
 93
 00:06:42,970 --> 00:06:45,937
-   as steam bubbles up through  
-   the center to mix it all up  
+as steam bubbles up through the center to mix it all up  
 
 94
 00:06:46,006 --> 00:06:49,007
-          and encourage         
-     the chemical reaction.     
+and encourage the chemical reaction.     
 
 95
 00:06:53,280 --> 00:06:56,948
 this may look like an arctic ice
- floe, but it's the leftovers --
+floe, but it's the leftovers --
 
 96
 00:06:56,984 --> 00:06:59,818
-        soap that settled       
-  at the bottom of the kettle.  
+soap that settled at the bottom of the kettle.  
 
 97
 00:06:59,887 --> 00:07:03,955
- they pour it all into this tank
- and reuse it in the next batch.
+they pour it all into this tank
+and reuse it in the next batch.
 
 98
 00:07:03,957 --> 00:07:06,958
- now they spray hot liquid soap 
-     onto a big metal roll.     
+now they spray hot liquid soap onto a big metal roll.     
 
 99
 00:07:07,093 --> 00:07:08,693
-    it solidifies in a flash,   
+it solidifies in a flash,   
 
 100
 00:07:08,729 --> 00:07:11,429
-         and a big blade        
-    scrapes it off the roll,    
+and a big blade scrapes it off the roll,    
 
 101
 00:07:11,432 --> 00:07:15,300
-    creating ribbons of soap.   
+creating ribbons of soap.   
 
 102
 00:07:17,904 --> 00:07:20,772
-     the soap ribbons plunge    
-         into a hopper,         
+the soap ribbons plunge into a hopper,         
 
 103
 00:07:20,774 --> 00:07:25,243
-  where an auger moves the soap 
- along, sending it down a chute.
+where an auger moves the soap along, sending it down a chute.
 
 104
 00:07:32,719 --> 00:07:35,587
-      the soap ribbons fall     
-  all the way to the next floor 
+the soap ribbons fall all the way to the next floor 
 
 105
 00:07:35,589 --> 00:07:38,190
-      to big steel rollers      
-          called mills.         
+to big steel rollers called mills.         
 
 106
 00:07:38,325 --> 00:07:42,660
- they mix and compress the soap.
+they mix and compress the soap.
 
 107
 00:07:42,729 --> 00:07:44,462
-       a blade scrapes it       
-         off the rollers        
+a blade scrapes it off the rollers        
 
 108
 00:07:44,498 --> 00:07:45,930
- and cuts it into ribbons again,
+and cuts it into ribbons again,
 
 109
 00:07:45,966 --> 00:07:48,667
-     but these soap ribbons     
-           are denser.          
+but these soap ribbons are denser.          
 
 110
 00:08:00,547 --> 00:08:04,216
-     inside the next hopper,    
-      another auger turns.      
+inside the next hopper, another auger turns.      
 
 111
 00:08:07,687 --> 00:08:11,022
-  it pushes the soap through an 
- extruder called a noodle plate 
+it pushes the soap through an extruder called a noodle plate 
 
 112
 00:08:11,058 --> 00:08:13,291
-         that shapes it         
-       into soap noodles.       
+that shapes it into soap noodles.       
 
 113
 00:08:18,899 --> 00:08:21,032
-         as the noodles         
-     fall from the extruder,    
+as the noodles fall from the extruder,    
 
 114
 00:08:21,068 --> 00:08:25,203
 they're collected in bins, which
-  are then dumped into a mixer. 
+are then dumped into a mixer. 
 
 115
 00:08:28,108 --> 00:08:31,910
-  at this point, they add color 
-   in powder and liquid form.   
+at this point, they add color in powder and liquid form.   
 
 116
 00:08:38,652 --> 00:08:41,319
-     steel blades stir it up    
+steel blades stir it up    
 
 117
 00:08:41,454 --> 00:08:44,456
-      until the color coats     
-        the soap noodles.       
+until the color coats the soap noodles.       
 
 118
 00:08:47,528 --> 00:08:52,898
@@ -562,252 +483,219 @@ the blades toss it all together.
 
 119
 00:08:55,869 --> 00:08:58,936
-    when the batch is ready,    
-        a trapdoor opens.       
+when the batch is ready, a trapdoor opens.       
 
 120
 00:08:58,972 --> 00:09:02,607
-    the blades keep turning,    
- nudging the soap out the door. 
+the blades keep turning, nudging the soap out the door. 
 
 121
 00:09:06,680 --> 00:09:08,946
-        then it's forced        
-  through another noodle plate. 
+then it's forced through another noodle plate. 
 
 122
 00:09:08,982 --> 00:09:12,784
-     this mixes up the batch    
-         a little more.         
+this mixes up the batch a little more.         
 
 123
 00:09:17,257 --> 00:09:20,491
-     next they push the soap    
-    through a forming plate,    
+next they push the soap through a forming plate,    
 
 124
 00:09:20,561 --> 00:09:22,493
-       making a long bar.       
+making a long bar.       
 
 125
 00:09:22,563 --> 00:09:24,495
-    blades mounted on a track   
+blades mounted on a track   
 
 126
 00:09:24,565 --> 00:09:27,065
-  slice it into shorter pieces  
-          called slugs.         
+slice it into shorter pieces called slugs.         
 
 127
 00:09:36,777 --> 00:09:40,111
- the soap slugs are on their way
-       to the next stage.       
+the soap slugs are on their way
+to the next stage.       
 
 128
 00:09:40,113 --> 00:09:41,779
-             they're            
-   on a two-lane thoroughfare   
+they're on a two-lane thoroughfare   
 
 129
 00:09:41,815 --> 00:09:43,581
-    heading into a die-press.   
+heading into a die-press.   
 
 130
 00:09:43,584 --> 00:09:46,384
-     a mechanical arm pushes    
+a mechanical arm pushes    
 the slugs through an oval plate,
 
 131
 00:09:46,486 --> 00:09:49,721
- trimming it and then loading it
-          into the die.         
+trimming it and then loading it
+into the die.         
 
 132
 00:09:51,058 --> 00:09:55,160
-         the die rotates        
-      to accept the slugs.      
+the die rotates to accept the slugs.      
 
 133
 00:09:58,331 --> 00:10:02,800
-   mechanical presses move in   
-    to shape and stamp them.    
+mechanical presses move in to shape and stamp them.    
 
 134
 00:10:02,869 --> 00:10:06,004
 mechanical arms suction the bars
-  to remove them from the die.  
+to remove them from the die.  
 
 135
 00:10:10,477 --> 00:10:12,543
- these mechanical pushers help. 
+these mechanical pushers help. 
 
 136
 00:10:12,613 --> 00:10:14,145
-    they nudge the soap bars    
+they nudge the soap bars    
 
 137
 00:10:14,147 --> 00:10:16,948
-         out of the die         
-  towards the suctioning arms.  
+out of the die towards the suctioning arms.  
 
 138
 00:10:20,654 --> 00:10:25,223
-  the oval soap bars now travel 
-   through a wrapping station.  
+the oval soap bars now travel through a wrapping station.  
 
 139
 00:10:25,292 --> 00:10:27,892
-  a blade crimps and heat-seals 
-        the plastic wrap        
+a blade crimps and heat-seals the plastic wrap        
 
 140
 00:10:27,894 --> 00:10:30,362
-       in one fell swoop.       
+in one fell swoop.       
 
 141
 00:10:32,833 --> 00:10:35,900
-  then automated grippers grasp 
-        the wrapped bars        
+then automated grippers grasp the wrapped bars        
 
 142
 00:10:35,902 --> 00:10:37,635
-  and load them into a machine, 
+and load them into a machine, 
 
 143
 00:10:37,704 --> 00:10:40,071
-        which slides them       
-       into little boxes.       
+which slides them into little boxes.       
 
 144
 00:10:44,378 --> 00:10:48,546
-  now it's time to pack them up 
- and ship them off to the store.
+now it's time to pack them up and ship them off to the store.
 
 145
 00:11:03,330 --> 00:11:05,930
-            narrator:           
-   the story of the steel drum  
+narrator: the story of the steel drum  
 
 146
 00:11:05,932 --> 00:11:08,199
-       begins in trinidad       
-          in the 1930s,         
+begins in trinidad in the 1930s,         
 
 147
 00:11:08,201 --> 00:11:11,736
-   when street-band skirmishes  
-  led to the ban of skin drums. 
+when street-band skirmishes led to the ban of skin drums. 
 
 148
 00:11:11,871 --> 00:11:15,339
-  so people improvised and made 
- drums from thick bamboo poles, 
+so people improvised and made drums from thick bamboo poles, 
 
 149
 00:11:15,375 --> 00:11:18,943
-        car parts, tins,        
-   and, finally, oil barrels.   
+car parts, tins, and, finally, oil barrels.   
 
 150
 00:11:19,079 --> 00:11:22,881
-           steel drums          
- have a very distinctive sound. 
+steel drums have a very distinctive sound. 
 
 151
 00:11:22,883 --> 00:11:23,815
-          [ clacking ]          
+[ clacking ]          
 
 152
 00:11:23,884 --> 00:11:26,351
-      [ steel drums play ]      
+[ steel drums play ]      
 
 153
 00:11:35,895 --> 00:11:39,164
-    when people first started   
- pounding on steel instruments, 
+when people first started pounding on steel instruments, 
 
 154
 00:11:39,166 --> 00:11:41,098
- they inadvertently dented them.
+they inadvertently dented them.
 
 155
 00:11:41,134 --> 00:11:42,434
-   that's how they discovered   
+that's how they discovered   
 
 156
 00:11:42,569 --> 00:11:44,835
-         that each dent         
-   produced a different pitch.  
+that each dent produced a different pitch.  
 
 157
 00:11:44,871 --> 00:11:48,239
-       so now steel drums       
- are created with the same idea.
+so now steel drums are created with the same idea.
 
 158
 00:11:48,308 --> 00:11:51,442
-  to make a drumhead, they cut  
- a piece of steel into a circle.
+to make a drumhead, they cut a piece of steel into a circle.
 
 159
 00:11:51,445 --> 00:11:53,110
- they weld a metal ring onto it,
+they weld a metal ring onto it,
 
 160
 00:11:53,146 --> 00:11:55,780
- and then they position a metal 
-  shell, or skirt, on the ring  
+and then they position a metal shell, or skirt, on the ring  
 
 161
 00:11:55,816 --> 00:11:58,483
-      and weld it in place.     
+and weld it in place.     
 
 162
 00:12:01,922 --> 00:12:04,188
- the drum is held in a big clamp
+the drum is held in a big clamp
 
 163
 00:12:04,224 --> 00:12:08,126
-    while a worker pinpoints    
-  the drumhead's exact center.  
+while a worker pinpoints the drumhead's exact center.  
 
 164
 00:12:11,832 --> 00:12:14,665
-            he places           
-    a measuring guide there,    
+he places a measuring guide there,    
 
 165
 00:12:14,735 --> 00:12:19,404
-  using it to mark radial lines 
-   from the center to the rim.  
+using it to mark radial lines from the center to the rim.  
 
 166
 00:12:19,539 --> 00:12:22,273
- each line is 10 degrees apart. 
+each line is 10 degrees apart. 
 
 167
 00:12:26,880 --> 00:12:31,850
-   as the drum turns, he draws  
- circular lines to make a grid. 
+as the drum turns, he draws circular lines to make a grid. 
 
 168
 00:12:34,821 --> 00:12:38,022
-  now he pounds the head of the 
-  drum with a pneumatic hammer, 
+now he pounds the head of the drum with a pneumatic hammer, 
 
 169
 00:12:38,091 --> 00:12:41,626
-  using the grid as a guide to  
- ensure the work is done evenly.
+using the grid as a guide to ensure the work is done evenly.
 
 170
 00:12:41,628 --> 00:12:43,361
-  it takes 8 hours of hammering 
+it takes 8 hours of hammering 
 
 171
 00:12:43,430 --> 00:12:46,231
-      to transform the drum     
-     into a bowl-like shape.    
+to transform the drum into a bowl-like shape.    
 
 172
 00:12:46,366 --> 00:12:48,633
@@ -815,89 +703,76 @@ this is called sinking the drum.
 
 173
 00:12:48,768 --> 00:12:51,903
-   then, with a special guide   
-      for curved surfaces,      
+then, with a special guide for curved surfaces,      
 
 174
 00:12:51,905 --> 00:12:53,771
-          a technician          
-    measures out another grid   
+a technician measures out another grid   
 
 175
 00:12:53,774 --> 00:12:56,908
-   inside the bowled drumhead.  
+inside the bowled drumhead.  
 
 176
 00:13:02,949 --> 00:13:06,184
- he outlines the notes that are 
-   about to be hammered out --  
+he outlines the notes that are about to be hammered out --  
 
 177
 00:13:06,253 --> 00:13:09,487
-          in this case,         
-     a high "b" and an "e."     
+in this case, a high "b" and an "e."     
 
 178
 00:13:12,659 --> 00:13:14,992
- then he hammers down the steel 
-         around each one        
+then he hammers down the steel around each one        
 
 179
 00:13:15,061 --> 00:13:16,327
-       to shape the note.       
+to shape the note.       
 
 180
 00:13:16,329 --> 00:13:19,130
-       getting this right       
- takes skill and a lot of time, 
+getting this right takes skill and a lot of time, 
 
 181
 00:13:19,199 --> 00:13:21,833
-         up to 50 hours.        
+up to 50 hours.        
 
 182
 00:13:24,938 --> 00:13:27,605
-     he trims the drum skirt    
-      to the correct length     
+he trims the drum skirt to the correct length     
 
 183
 00:13:27,641 --> 00:13:31,776
-     and tapes a stencil of     
+and tapes a stencil of     
 the company logo onto the skirt.
 
 184
 00:13:35,748 --> 00:13:38,883
-         this device is         
- an electrical etching machine. 
+this device is an electrical etching machine. 
 
 185
 00:13:38,885 --> 00:13:41,019
-          it uses acid          
-      and electric current      
+it uses acid and electric current      
 
 186
 00:13:41,021 --> 00:13:43,788
-      to eat away the steel     
-  exposed through the stencil.  
+to eat away the steel exposed through the stencil.  
 
 187
 00:13:53,766 --> 00:13:58,036
-     now a technician wields    
- an ultrasonic thickness probe. 
+now a technician wields an ultrasonic thickness probe. 
 
 188
 00:13:58,171 --> 00:14:01,973
- she presses it against a note. 
+she presses it against a note. 
 
 189
 00:14:02,042 --> 00:14:04,108
-              using             
-   high-frequency sound waves,  
+using high-frequency sound waves,  
 
 190
 00:14:04,177 --> 00:14:06,377
-       the probe measures       
-      the steel's thickness     
+the probe measures the steel's thickness     
 
 191
 00:14:06,446 --> 00:14:08,980
@@ -905,207 +780,179 @@ to within a fraction of an inch.
 
 192
 00:14:09,115 --> 00:14:12,150
-    she grinds down the notes   
-          where needed.         
+she grinds down the notes where needed.         
 
 193
 00:14:25,265 --> 00:14:26,997
-  then, using a scribing tool,  
+then, using a scribing tool,  
 
 194
 00:14:27,033 --> 00:14:29,267
-      she scratches a line      
-        around each note,       
+she scratches a line around each note,       
 
 195
 00:14:29,402 --> 00:14:33,671
-      so it will be visible     
-         to the player.         
+so it will be visible to the player.         
 
 196
 00:14:33,707 --> 00:14:36,608
-   now it's time to make sure   
-    they have the right note.   
+now it's time to make sure they have the right note.   
 
 197
 00:14:36,743 --> 00:14:37,875
-      to tune a steel drum,     
+to tune a steel drum,     
 
 198
 00:14:37,944 --> 00:14:39,811
-   the technician plays a note  
-          with a stick          
+the technician plays a note with a stick          
 
 199
 00:14:39,946 --> 00:14:44,949
- and then dents it with a hammer
-      to adjust the pitch.      
+and then dents it with a hammer
+to adjust the pitch.      
 
 200
 00:14:44,951 --> 00:14:46,951
-       you have to listen       
-         very carefully.        
+you have to listen very carefully.        
 
 201
 00:14:46,953 --> 00:14:50,288
-       he hammers the note      
-     until it sounds right.     
+he hammers the note until it sounds right.     
 
 202
 00:14:50,357 --> 00:14:52,823
-  sometimes, he turns the drum  
-           upside down          
+sometimes, he turns the drum upside down          
 
 203
 00:14:52,893 --> 00:14:55,727
-       to knock out a note      
-       from the underside.      
+to knock out a note from the underside.      
 
 204
 00:14:58,031 --> 00:15:01,632
- for the fine-tuning, he relies 
-     on an electronic tuner.    
+for the fine-tuning, he relies on an electronic tuner.    
 
 205
 00:15:01,635 --> 00:15:03,768
-          a microphone          
-    delivers the sound to it,   
+a microphone delivers the sound to it,   
 
 206
 00:15:03,837 --> 00:15:05,236
-   and the lines on the screen  
+and the lines on the screen  
 
 207
 00:15:05,238 --> 00:15:08,206
-      tell him if the note      
-       is in tune or not.       
+tell him if the note is in tune or not.       
 
 208
 00:15:21,321 --> 00:15:26,724
-  next, he burns the border of  
-   each note with a blowtorch.  
+next, he burns the border of each note with a blowtorch.  
 
 209
 00:15:26,726 --> 00:15:29,727
-      then he cools it down     
-           with water.          
+then he cools it down with water.          
 
 210
 00:15:29,763 --> 00:15:33,331
- the process tempers the steel, 
- making the notes more resonant.
+the process tempers the steel, making the notes more resonant.
 
 211
 00:15:33,466 --> 00:15:37,001
-    he tunes the drum again,    
-       checking for flaws.      
+he tunes the drum again, checking for flaws.      
 
 212
 00:15:42,175 --> 00:15:46,210
 after the drum is chrome-plated,
-    he tunes it a final time.   
+he tunes it a final time.   
 
 213
 00:15:46,212 --> 00:15:50,081
-     it has taken 120 hours     
-    to make this steel drum.    
+it has taken 120 hours to make this steel drum.    
 
 214
 00:15:50,083 --> 00:15:53,751
-  now it's time to take a break 
- and listen to the unique sound.
+now it's time to take a break and listen to the unique sound.
 
 215
 00:15:53,886 --> 00:15:56,154
-      [ steel drum plays ]      
+[ steel drum plays ]      
 
 216
 00:16:08,768 --> 00:16:11,502
 narrator: firefighters have been
-   doing their jobs heroically  
+doing their jobs heroically  
 
 217
 00:16:11,538 --> 00:16:13,304
-         for centuries.         
+for centuries.         
 
 218
 00:16:13,373 --> 00:16:16,774
-    their uniforms, however,    
- were not always up to the task.
+their uniforms, however, were not always up to the task.
 
 219
 00:16:16,843 --> 00:16:18,643
- good thing today's firefighters
+good thing today's firefighters
 
 220
 00:16:18,645 --> 00:16:21,379
-      are cloaked in layers     
-     of space-age material.     
+are cloaked in layers of space-age material.     
 
 221
 00:16:21,514 --> 00:16:22,580
-      the protective armor      
+the protective armor      
 
 222
 00:16:22,715 --> 00:16:24,983
-    has virtually eliminated    
-       firefighter deaths       
+has virtually eliminated firefighter deaths       
 
 223
 00:16:25,118 --> 00:16:27,251
-    caused by burn injuries.    
+caused by burn injuries.    
 
 224
 00:16:31,257 --> 00:16:35,993
-    a computer-guided machine   
-   cuts out more than 90 parts  
+a computer-guided machine cuts out more than 90 parts  
 
 225
 00:16:36,062 --> 00:16:37,395
-    to make the outer shell,    
+to make the outer shell,    
 
 226
 00:16:37,530 --> 00:16:41,032
-    just one of three layers    
-   in a firefighter's jacket.   
+just one of three layers in a firefighter's jacket.   
 
 227
 00:16:41,134 --> 00:16:44,268
-      this fabric contains      
-  synthetic fiber known as pbi, 
+this fabric contains synthetic fiber known as pbi, 
 
 228
 00:16:44,270 --> 00:16:46,270
-         which protects         
-      against temperatures      
+which protects against temperatures      
 
 229
 00:16:46,272 --> 00:16:49,540
-           as high as           
-    1,200 degrees fahrenheit.   
+as high as 1,200 degrees fahrenheit.   
 
 230
 00:16:49,576 --> 00:16:53,243
- another machine tapes the seams
-  of the jacket's middle layer, 
+another machine tapes the seams
+of the jacket's middle layer, 
 
 231
 00:16:53,279 --> 00:16:54,679
-      the moisture barrier.     
+the moisture barrier.     
 
 232
 00:16:54,681 --> 00:16:58,149
- pressure rollers and high heat 
-   activate glue in the tape,   
+pressure rollers and high heat activate glue in the tape,   
 
 233
 00:16:58,151 --> 00:17:00,284
-       sealing the seams.       
+sealing the seams.       
 
 234
 00:17:00,286 --> 00:17:02,754
-      this synthetic fabric     
-   lets perspiration through,   
+this synthetic fabric lets perspiration through,   
 
 235
 00:17:02,889 --> 00:17:04,422
@@ -1113,156 +960,135 @@ but blocks some harmful liquids,
 
 236
 00:17:04,424 --> 00:17:08,760
- such as battery acid, hydraulic
-    fluid, or infected blood.   
+such as battery acid, hydraulic
+fluid, or infected blood.   
 
 237
 00:17:10,630 --> 00:17:13,965
-   now they line the moisture   
- barrier with the thermal liner,
+now they line the moisture barrier with the thermal liner,
 
 238
 00:17:14,100 --> 00:17:16,701
-       the jacket's third       
-      and innermost layer.      
+the jacket's third and innermost layer.      
 
 239
 00:17:16,703 --> 00:17:17,968
-      this synthetic fabric     
+this synthetic fabric     
 
 240
 00:17:18,004 --> 00:17:21,706
-      protects against heat     
+protects against heat     
 of up to 800 degrees fahrenheit.
 
 241
 00:17:23,576 --> 00:17:26,644
-  to reinforce the cuffs, hems, 
-   and front and back panels,   
+to reinforce the cuffs, hems, and front and back panels,   
 
 242
 00:17:26,779 --> 00:17:27,978
-   a worker sews them together  
+a worker sews them together  
 
 243
 00:17:28,014 --> 00:17:30,448
-   with a heat-resistant tape   
-           and thread,          
+with a heat-resistant tape and thread,          
 
 244
 00:17:30,517 --> 00:17:32,650
-  but she leaves the neck area  
-           unattached,          
+but she leaves the neck area unattached,          
 
 245
 00:17:32,785 --> 00:17:35,920
-       so the firefighters      
- can pull the jacket inside out 
+so the firefighters can pull the jacket inside out 
 
 246
 00:17:35,989 --> 00:17:39,257
-      to inspect the liner      
-        between rescues.        
+to inspect the liner between rescues.        
 
 247
 00:17:43,263 --> 00:17:45,263
-    back to the outer shell.    
+back to the outer shell.    
 
 248
 00:17:45,265 --> 00:17:47,865
-          a worker sews         
-  two orange-and-silver stripes 
+a worker sews two orange-and-silver stripes 
 
 249
 00:17:48,000 --> 00:17:49,600
-  to the front and back panels. 
+to the front and back panels. 
 
 250
 00:17:49,636 --> 00:17:51,936
-     she also sews a stripe     
-        onto each sleeve.       
+she also sews a stripe onto each sleeve.       
 
 251
 00:17:51,938 --> 00:17:54,071
-      the florescent orange     
+the florescent orange     
 
 252
 00:17:54,074 --> 00:17:57,275
-      makes the firefighter     
-    more visible in daylight.   
+makes the firefighter more visible in daylight.   
 
 253
 00:17:57,277 --> 00:18:02,146
-    the reflective silver is    
- for nighttime or in the smoke. 
+the reflective silver is for nighttime or in the smoke. 
 
 254
 00:18:02,182 --> 00:18:05,149
-     in some cases, she adds    
-   reflective die-cut letters   
+in some cases, she adds reflective die-cut letters   
 
 255
 00:18:05,151 --> 00:18:06,917
- identifying the fire department
+identifying the fire department
 
 256
 00:18:06,953 --> 00:18:09,787
-           or spelling          
-     the firefighter's name.    
+or spelling the firefighter's name.    
 
 257
 00:18:14,293 --> 00:18:16,894
-        a strip of velcro       
- goes onto the left front panel.
+a strip of velcro goes onto the left front panel.
 
 258
 00:18:16,963 --> 00:18:19,763
-      it's one of four ways     
-      to fasten the jacket,     
+it's one of four ways to fasten the jacket,     
 
 259
 00:18:19,799 --> 00:18:23,434
-     in addition to zippers,    
-        snaps, and hooks.       
+in addition to zippers, snaps, and hooks.       
 
 260
 00:18:23,436 --> 00:18:26,504
-   to keep water from entering  
+to keep water from entering  
 through the front of the jacket,
 
 261
 00:18:26,506 --> 00:18:28,572
-           they attach          
-   a strip of the same fabric   
+they attach a strip of the same fabric   
 
 262
 00:18:28,608 --> 00:18:32,844
-              used              
-  to make the moisture barrier. 
+used to make the moisture barrier. 
 
 263
 00:18:32,979 --> 00:18:36,180
-   a worker sews it inside the  
+a worker sews it inside the  
 outer shell's right front panel,
 
 264
 00:18:36,315 --> 00:18:39,584
-  what's called the storm flap. 
+what's called the storm flap. 
 
 265
 00:18:41,788 --> 00:18:44,522
-   the storm flap's other side  
-       gets a velcro strip      
+the storm flap's other side gets a velcro strip      
 
 266
 00:18:44,524 --> 00:18:47,358
-   that mates with the velcro   
-       on the left panel.       
+that mates with the velcro on the left panel.       
 
 267
 00:18:50,063 --> 00:18:52,663
-  they attach the front panels  
-       to the back panels.      
+they attach the front panels to the back panels.      
 
 268
 00:18:52,665 --> 00:18:54,632
@@ -1270,143 +1096,121 @@ a worker folds the garment over,
 
 269
 00:18:54,734 --> 00:18:57,802
-         and the machine        
+and the machine        
 sews through two layers at once.
 
 270
 00:18:57,937 --> 00:19:02,473
-  it's another way to reinforce 
-    the seams of the jacket.    
+it's another way to reinforce the seams of the jacket.    
 
 271
 00:19:02,608 --> 00:19:06,076
-   they use a different sewing  
- machine to attach the sleeves. 
+they use a different sewing machine to attach the sleeves. 
 
 272
 00:19:06,112 --> 00:19:08,079
-          a worker sews         
-      five different seams      
+a worker sews five different seams      
 
 273
 00:19:08,214 --> 00:19:10,414
-   to join the shoulder areas.  
+to join the shoulder areas.  
 
 274
 00:19:10,416 --> 00:19:12,449
-        this is critical        
-      because firefighters      
+this is critical because firefighters      
 
 275
 00:19:12,485 --> 00:19:15,353
-    carry a 24-pound air tank   
-         on their back.         
+carry a 24-pound air tank on their back.         
 
 276
 00:19:15,355 --> 00:19:16,887
- the seams spread out the stress
+the seams spread out the stress
 
 277
 00:19:16,923 --> 00:19:19,524
-       this weight places       
-         on the jacket.         
+this weight places on the jacket.         
 
 278
 00:19:21,594 --> 00:19:23,628
-        a worker attaches       
-        three metal snaps       
+a worker attaches three metal snaps       
 
 279
 00:19:23,630 --> 00:19:25,829
-       to the inside front      
-       of the outer shell.      
+to the inside front of the outer shell.      
 
 280
 00:19:25,865 --> 00:19:31,302
-   these will attach the outer  
- shell to the two inner layers. 
+these will attach the outer shell to the two inner layers. 
 
 281
 00:19:31,437 --> 00:19:34,705
-              then,             
+then,             
 a heat-resistant plastic zipper.
 
 282
 00:19:40,113 --> 00:19:42,046
-      this machine applies      
-          three rivets          
+this machine applies three rivets          
 
 283
 00:19:42,115 --> 00:19:44,115
-             to each            
-   of four spring-loaded hooks  
+to each of four spring-loaded hooks  
 
 284
 00:19:44,250 --> 00:19:46,284
-   along the right front panel  
-         of the jacket.         
+along the right front panel of the jacket.         
 
 285
 00:19:53,059 --> 00:19:56,327
-      a six-foot-long strap     
-   cinches around the armpits   
+a six-foot-long strap cinches around the armpits   
 
 286
 00:19:56,329 --> 00:19:59,597
- to drag an injured firefighter 
-        away from danger.       
+to drag an injured firefighter away from danger.       
 
 287
 00:19:59,732 --> 00:20:02,733
-  a worker then snaps together  
-   the assembled inner layers   
+a worker then snaps together the assembled inner layers   
 
 288
 00:20:02,802 --> 00:20:04,001
-       to the outer shell.      
+to the outer shell.      
 
 289
 00:20:04,136 --> 00:20:06,337
-      there are four snaps      
-          on each cuff,         
+there are four snaps on each cuff,         
 
 290
 00:20:06,339 --> 00:20:08,072
-   which could heat up quickly  
-           in a fire.           
+which could heat up quickly in a fire.           
 
 291
 00:20:08,074 --> 00:20:12,476
-   tabs ensure they never burn  
-     the firefighter's skin.    
+tabs ensure they never burn the firefighter's skin.    
 
 292
 00:20:12,545 --> 00:20:17,347
- the front panels come together 
-  with four snaps on each side. 
+the front panels come together with four snaps on each side. 
 
 293
 00:20:17,383 --> 00:20:19,150
-  the four-inch collar unfolds, 
+the four-inch collar unfolds, 
 
 294
 00:20:19,152 --> 00:20:23,020
-  covering the neck to where it 
- meets the firefighter's helmet.
+covering the neck to where it meets the firefighter's helmet.
 
 295
 00:20:23,022 --> 00:20:24,288
-        fully assembled,        
+fully assembled,        
 
 296
 00:20:24,324 --> 00:20:27,758
-        the jacket weighs       
-  about four and a half pounds. 
+the jacket weighs about four and a half pounds. 
 
 297
 00:20:27,893 --> 00:20:30,962
-       this testing device      
-  gauges how long it would take 
+this testing device gauges how long it would take 
 
 298
 00:20:31,097 --> 00:20:33,030
@@ -1414,68 +1218,59 @@ to sustain a second-degree burn.
 
 299
 00:20:33,099 --> 00:20:35,299
-   a gas burner shoots a flame  
+a gas burner shoots a flame  
 
 300
 00:20:35,368 --> 00:20:37,902
-         that's exactly         
-    2,000 degrees fahrenheit    
+that's exactly 2,000 degrees fahrenheit    
 
 301
 00:20:38,037 --> 00:20:40,837
-   directly onto the jacket's   
-          outer layer.          
+directly onto the jacket's outer layer.          
 
 302
 00:20:40,873 --> 00:20:44,375
-   a heat sensor mimics human   
-   skin's sensitivity to heat.  
+a heat sensor mimics human skin's sensitivity to heat.  
 
 303
 00:20:44,377 --> 00:20:47,245
-   the material fails the test  
-     if the transferred heat    
+the material fails the test if the transferred heat    
 
 304
 00:20:47,380 --> 00:20:53,050
- would cause second-degree burns
-  in less than 17 1/2 seconds.  
+would cause second-degree burns
+in less than 17 1/2 seconds.  
 
 305
 00:20:53,119 --> 00:20:56,187
 finally, they shower the uniform
-         for 20 minutes         
+for 20 minutes         
 
 306
 00:20:56,322 --> 00:20:58,522
-  to test its watertight seal.  
+to test its watertight seal.  
 
 307
 00:20:58,524 --> 00:21:01,392
-       the dummy's wearing      
-  a cotton bodysuit underneath. 
+the dummy's wearing a cotton bodysuit underneath. 
 
 308
 00:21:01,527 --> 00:21:03,994
-        just one wet spot       
-        on the bodysuit,        
+just one wet spot on the bodysuit,        
 
 309
 00:21:04,063 --> 00:21:07,665
-         and the uniform        
-        fails inspection.       
+and the uniform fails inspection.       
 
 310
 00:21:12,471 --> 00:21:14,338
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 311
 00:21:14,473 --> 00:21:17,141
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 312
 00:21:17,276 --> 00:21:18,943
-      drop us a line at...      
+drop us a line at...      
 

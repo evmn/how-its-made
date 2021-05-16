@@ -1,111 +1,91 @@
 ﻿1
 00:00:01,870 --> 00:00:05,004
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,006 --> 00:00:07,940
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,118 --> 00:00:54,853
-            narrator:           
-     the first aluminum boat    
- was launched as a simple skiff 
+narrator: the first aluminum boat was launched as a simple skiff 
 
 4
 00:00:54,855 --> 00:00:56,856
-          in the middle         
-      of the last century.      
+in the middle of the last century.      
 
 5
 00:00:56,858 --> 00:00:58,857
-         fishermen loved        
-      the lightweight hull      
+fishermen loved the lightweight hull      
 
 6
 00:00:58,859 --> 00:01:01,927
-  because it could be pulled in 
+because it could be pulled in 
 and out of the water more easily
 
 7
 00:01:01,929 --> 00:01:03,863
-      than the wooden boats     
-           of the day.          
+than the wooden boats of the day.          
 
 8
 00:01:03,865 --> 00:01:07,066
-  decades later, aluminum boats 
-       have gone high-end,      
+decades later, aluminum boats have gone high-end,      
 
 9
 00:01:07,068 --> 00:01:09,969
-       but they still have      
-    that lightweight appeal.    
+but they still have that lightweight appeal.    
 
 10
 00:01:14,609 --> 00:01:17,943
-   since aluminum hulls aren't  
-    as heavy as other types,    
+since aluminum hulls aren't as heavy as other types,    
 
 11
 00:01:17,945 --> 00:01:22,147
-   these boats will go farther  
-        on a tank of gas.       
+these boats will go farther on a tank of gas.       
 
 12
 00:01:22,149 --> 00:01:24,550
-         they make them         
-    from high-grade aluminum    
+they make them from high-grade aluminum    
 
 13
 00:01:24,552 --> 00:01:26,218
-   that's corrosion-resistant.  
+that's corrosion-resistant.  
 
 14
 00:01:26,220 --> 00:01:28,087
-   rollers flatten the metal,   
+rollers flatten the metal,   
 
 15
 00:01:28,089 --> 00:01:31,691
-  and a blade called a slitter  
-       cuts it to length.       
+and a blade called a slitter cuts it to length.       
 
 16
 00:01:34,028 --> 00:01:36,562
-    a computer-guided router    
-    then makes precise cuts     
+a computer-guided router then makes precise cuts     
 
 17
 00:01:36,564 --> 00:01:39,498
-      to produce parts that     
-  will fit together perfectly,  
+to produce parts that will fit together perfectly,  
 
 18
 00:01:39,500 --> 00:01:42,835
-        like this bracket       
-     to reinforce the stern.    
+like this bracket to reinforce the stern.    
 
 19
 00:01:45,907 --> 00:01:47,839
-       they cut the boat's      
-        larger components       
+they cut the boat's larger components       
 
 20
 00:01:47,841 --> 00:01:50,042
-       with a computerized      
-          plasma torch.         
+with a computerized plasma torch.         
 
 21
 00:01:50,044 --> 00:01:54,179
-     it can cut a wider path    
-        than the router.        
+it can cut a wider path than the router.        
 
 22
 00:01:54,181 --> 00:01:57,783
-   they transfer the cut parts  
-          to a pallet.          
+they transfer the cut parts to a pallet.          
 
 23
 00:01:57,785 --> 00:02:00,653
@@ -113,113 +93,98 @@ this is the boat's bottom panel.
 
 24
 00:02:04,125 --> 00:02:06,125
-    a long piece of aluminum    
-       will be the gunnel,      
+a long piece of aluminum will be the gunnel,      
 
 25
 00:02:06,127 --> 00:02:08,861
-     which is the upper edge    
-          of the hull.          
+which is the upper edge of the hull.          
 
 26
 00:02:08,863 --> 00:02:11,063
-          they bend it          
-    around a wooden template    
+they bend it around a wooden template    
 
 27
 00:02:11,065 --> 00:02:13,833
-           to give it           
-     the correct curvature.     
+to give it the correct curvature.     
 
 28
 00:02:18,539 --> 00:02:22,475
-  next, they reinforce the bow  
- with an extra plate of aluminum
+next, they reinforce the bow with an extra plate of aluminum
 
 29
 00:02:22,477 --> 00:02:24,276
-  to withstand pounding waves.  
+to withstand pounding waves.  
 
 30
 00:02:24,278 --> 00:02:27,546
-    they brace the other end    
-    with numerous stiffeners    
+they brace the other end with numerous stiffeners    
 
 31
 00:02:27,548 --> 00:02:29,682
-   and screw them into place.   
+and screw them into place.   
 
 32
 00:02:29,684 --> 00:02:32,151
-         the screws act         
-      as a clamping system,     
+the screws act as a clamping system,     
 
 33
 00:02:32,153 --> 00:02:35,821
-  until the parts of the boat   
-  can be permanently attached.  
+until the parts of the boat can be permanently attached.  
 
 34
 00:02:35,823 --> 00:02:38,423
-       a line of caulking       
-    helps waterproof the seam   
+a line of caulking helps waterproof the seam   
 
 35
 00:02:38,425 --> 00:02:40,826
-        between the hull        
-    and the back of the boat,   
+between the hull and the back of the boat,   
 
 36
 00:02:40,828 --> 00:02:42,928
-       called the transom.      
+called the transom.      
 
 37
 00:02:45,232 --> 00:02:47,700
-             again,             
+again,             
 screws hold everything together,
 
 38
 00:02:47,702 --> 00:02:50,903
-   as the painstaking clamping  
-           continues.           
+as the painstaking clamping continues.           
 
 39
 00:02:50,905 --> 00:02:53,506
-     they join the two sides    
-           of the bow           
+they join the two sides of the bow           
 
 40
 00:02:53,508 --> 00:02:56,342
-   and hold the ends together   
-        with a vise grip.       
+and hold the ends together with a vise grip.       
 
 41
 00:02:58,579 --> 00:03:02,247
- this strip of aluminum will act
-    as the spine of the bow.    
+this strip of aluminum will act
+as the spine of the bow.    
 
 42
 00:03:02,249 --> 00:03:04,383
-  it's called the brace plate.  
+it's called the brace plate.  
 
 43
 00:03:04,385 --> 00:03:07,319
-       more screws tack it      
-         into position.         
+more screws tack it into position.         
 
 44
 00:03:10,925 --> 00:03:15,393
-      they attach the sides     
-    to the rest of the hull.    
+they attach the sides to the rest of the hull.    
 
 45
 00:03:15,395 --> 00:03:18,797
 now they drill hundreds of holes
-         along the seams        
+along the seams        
 
 46
 00:03:18,799 --> 00:03:20,265
-   and plug them with rivets.   
+and plug them with rivets.   
 
 47
 00:03:20,267 --> 00:03:22,134
@@ -227,18 +192,15 @@ they extract the clamping screws
 
 48
 00:03:22,136 --> 00:03:26,071
-      and fill their holes      
-        with more rivets.       
+and fill their holes with more rivets.       
 
 49
 00:03:26,073 --> 00:03:29,709
-    they install the gunnels    
-    on the rim of the hull.     
+they install the gunnels on the rim of the hull.     
 
 50
 00:03:31,945 --> 00:03:34,346
-       and now it's time        
-       for the tank test.       
+and now it's time for the tank test.       
 
 51
 00:03:34,348 --> 00:03:38,451
@@ -247,32 +209,27 @@ to confirm that it's watertight.
 
 52
 00:03:39,754 --> 00:03:42,822
-     if they find any leaks     
-      in all those rivets,      
+if they find any leaks in all those rivets,      
 
 53
 00:03:42,824 --> 00:03:45,624
-          they'll make          
-   the necessary adjustments.   
+they'll make the necessary adjustments.   
 
 54
 00:03:45,626 --> 00:03:48,293
-         they spray foam        
-   into the bottoms and sides   
+they spray foam into the bottoms and sides   
 
 55
 00:03:48,295 --> 00:03:49,762
-    to keep this boat afloat    
+to keep this boat afloat    
 
 56
 00:03:49,764 --> 00:03:52,098
-          in the event          
-  that something punctures it.  
+in the event that something punctures it.  
 
 57
 00:03:54,902 --> 00:03:56,835
-     and then they rough up     
-           the surface          
+and then they rough up the surface          
 
 58
 00:03:56,837 --> 00:03:58,604
@@ -280,85 +237,71 @@ to allow paint to better adhere.
 
 59
 00:04:05,780 --> 00:04:07,379
-    they move to the interior   
+they move to the interior   
 
 60
 00:04:07,381 --> 00:04:09,982
-        and install felt        
-      on the storage panels     
+and install felt on the storage panels     
 
 61
 00:04:09,984 --> 00:04:12,284
-          to give them          
-      a more finished look.     
+to give them a more finished look.     
 
 62
 00:04:15,989 --> 00:04:19,258
-   then they lay the carpeting  
-       port to starboard.       
+then they lay the carpeting port to starboard.       
 
 63
 00:04:21,461 --> 00:04:25,130
-           next comes           
-     the plastic fuel tank.     
+next comes the plastic fuel tank.     
 
 64
 00:04:25,132 --> 00:04:29,668
-       all they have to do      
- is connect the fuel-line hoses 
+all they have to do is connect the fuel-line hoses 
 
 65
 00:04:29,670 --> 00:04:34,406
-         and secure them        
- with a stainless steel collar. 
+and secure them with a stainless steel collar. 
 
 66
 00:04:34,408 --> 00:04:37,209
-       the dash panel fits      
-         onto the front.        
+the dash panel fits onto the front.        
 
 67
 00:04:37,211 --> 00:04:38,744
-         it's pre-wired,        
+it's pre-wired,        
 
 68
 00:04:38,746 --> 00:04:43,148
-  so they simply connect it to  
- the boat's main wiring harness.
+so they simply connect it to the boat's main wiring harness.
 
 69
 00:04:43,150 --> 00:04:48,220
-   next, they apply lubricant   
- to the motor's propeller shaft.
+next, they apply lubricant to the motor's propeller shaft.
 
 70
 00:04:48,222 --> 00:04:52,023
-    this allows the propeller   
-       to slide on easily.      
+this allows the propeller to slide on easily.      
 
 71
 00:04:52,025 --> 00:04:54,827
-         they tighten it        
-    with a pneumatic ratchet.   
+they tighten it with a pneumatic ratchet.   
 
 72
 00:04:57,565 --> 00:05:00,499
-    then they hoist the motor   
-         onto the stern         
+then they hoist the motor onto the stern         
 
 73
 00:05:00,501 --> 00:05:02,434
-   and bolt it into position.   
+and bolt it into position.   
 
 74
 00:05:11,579 --> 00:05:14,579
-   with the luxurious interior  
-          now complete,         
+with the luxurious interior now complete,         
 
 75
 00:05:14,581 --> 00:05:17,115
-      this metal boat bears     
-     very little resemblance    
+this metal boat bears very little resemblance    
 
 76
 00:05:17,117 --> 00:05:20,085
@@ -366,315 +309,271 @@ to its utilitarian predecessors.
 
 77
 00:05:22,323 --> 00:05:25,591
-      this particular model     
-    doubles as a fishing boat   
+this particular model doubles as a fishing boat   
 
 78
 00:05:25,593 --> 00:05:28,393
-      and a pleasure craft.     
+and a pleasure craft.     
 
 79
 00:05:28,395 --> 00:05:30,796
-          and it proves         
-       that aluminum boats      
+and it proves that aluminum boats      
 
 80
 00:05:30,798 --> 00:05:34,867
-       are no longer just       
- a basic form of transportation.
+are no longer just a basic form of transportation.
 
 81
 00:05:54,355 --> 00:05:57,956
-    narrator: the alpine horn   
-   dates back some 2,000 years  
+narrator: the alpine horn dates back some 2,000 years  
 
 82
 00:05:57,958 --> 00:05:59,425
-      to the celtic tribes      
+to the celtic tribes      
 
 83
 00:05:59,427 --> 00:06:02,027
-         that inhabited         
+that inhabited         
 the northern slopes of the alps.
 
 84
 00:06:02,029 --> 00:06:04,630
-         traditionally,         
- mountain dwellers blew the horn
+traditionally, mountain dwellers blew the horn
 
 85
 00:06:04,632 --> 00:06:06,364
- to announced daily activities, 
+to announced daily activities, 
 
 86
 00:06:06,366 --> 00:06:08,433
-      such as round-up time     
-         for livestock.         
+such as round-up time for livestock.         
 
 87
 00:06:08,435 --> 00:06:11,637
-    as modern communications    
-    reached those altitudes,    
+as modern communications reached those altitudes,    
 
 88
 00:06:11,639 --> 00:06:14,372
-         the horn's role        
-    became strictly musical.    
+the horn's role became strictly musical.    
 
 89
 00:06:14,374 --> 00:06:16,842
-     [ alpine horn playing ]    
+[ alpine horn playing ]    
 
 90
 00:06:19,180 --> 00:06:22,715
-     an alpine horn's sound     
-     travels about 5 miles,     
+an alpine horn's sound travels about 5 miles,     
 
 91
 00:06:22,717 --> 00:06:26,051
-   thanks to the instrument's   
-        length and shape.       
+thanks to the instrument's length and shape.       
 
 92
 00:06:28,322 --> 00:06:30,522
-            following           
-   a centuries-old tradition,   
+following a centuries-old tradition,   
 
 93
 00:06:30,524 --> 00:06:32,124
- the horn maker harvests spruce 
+the horn maker harvests spruce 
 
 94
 00:06:32,126 --> 00:06:34,526
-       at a specific time       
-     in the lunar calendar,     
+at a specific time in the lunar calendar,     
 
 95
 00:06:34,528 --> 00:06:37,763
-         when tree wood         
-  is supposedly most resonant.  
+when tree wood is supposedly most resonant.  
 
 96
 00:06:40,668 --> 00:06:45,404
-  once the spruce logs dry out, 
+once the spruce logs dry out, 
 which takes at least nine years,
 
 97
 00:06:45,406 --> 00:06:48,040
-    he saws them into planks.   
+he saws them into planks.   
 
 98
 00:06:50,478 --> 00:06:52,745
-         then he traces         
-     and cuts out the shape     
+then he traces and cuts out the shape     
 
 99
 00:06:52,747 --> 00:06:54,813
-    of the horn's curved bell   
-            twice --            
+of the horn's curved bell twice --            
 
 100
 00:06:54,815 --> 00:06:57,683
-       once for each half.      
+once for each half.      
 
 101
 00:06:57,685 --> 00:07:00,752
-      he measures and marks     
+he measures and marks     
 how much wood he must hollow out
 
 102
 00:07:00,754 --> 00:07:02,554
-      with his drill press.     
+with his drill press.     
 
 103
 00:07:06,427 --> 00:07:09,228
-           it's tricky          
-   because from top to bottom,  
+it's tricky because from top to bottom,  
 
 104
 00:07:09,230 --> 00:07:10,962
-    the bell's inside cavity    
+the bell's inside cavity    
 
 105
 00:07:10,964 --> 00:07:13,666
-      progressively widens      
-          and deepens.          
+progressively widens and deepens.          
 
 106
 00:07:19,840 --> 00:07:21,440
-       next, he runs glue       
+next, he runs glue       
 
 107
 00:07:21,442 --> 00:07:24,776
-      along the perimeter       
-      of both bell halves,      
+along the perimeter of both bell halves,      
 
 108
 00:07:24,778 --> 00:07:27,846
-  then joins them with a sheet  
-     of newspaper in between    
+then joins them with a sheet of newspaper in between    
 
 109
 00:07:27,848 --> 00:07:29,715
-  to prevent a permanent bond.  
+to prevent a permanent bond.  
 
 110
 00:07:29,717 --> 00:07:31,650
-          he'll have to         
-      pry them apart later      
+he'll have to pry them apart later      
 
 111
 00:07:31,652 --> 00:07:34,386
-    to finalize their shape.    
+to finalize their shape.    
 
 112
 00:07:34,388 --> 00:07:37,523
-     once dry, he tears off     
-        excess newspaper,       
+once dry, he tears off excess newspaper,       
 
 113
 00:07:37,525 --> 00:07:42,261
- traces the circumference of the
- bell's top and bottom openings,
+traces the circumference of the
+bell's top and bottom openings,
 
 114
 00:07:42,263 --> 00:07:44,262
-          then measures         
-   and draws the bell's shape   
+then measures and draws the bell's shape   
 
 115
 00:07:44,264 --> 00:07:46,031
-   between those two openings.  
+between those two openings.  
 
 116
 00:07:50,404 --> 00:07:53,472
-           once again,          
-  following the lines he drew,  
+once again, following the lines he drew,  
 
 117
 00:07:53,474 --> 00:07:55,341
-     he cuts out the shape.     
+he cuts out the shape.     
 
 118
 00:08:04,418 --> 00:08:08,820
-   to check his work, he uses   
-  a series of sizing templates. 
+to check his work, he uses a series of sizing templates. 
 
 119
 00:08:08,822 --> 00:08:11,623
-  he lines them with charcoal,  
+he lines them with charcoal,  
 
 120
 00:08:11,625 --> 00:08:14,893
-  then slips the first template 
-  onto its designated position  
+then slips the first template onto its designated position  
 
 121
 00:08:14,895 --> 00:08:16,962
-     at the top of the bell.    
+at the top of the bell.    
 
 122
 00:08:16,964 --> 00:08:18,830
-   the charcoal marks any wood  
+the charcoal marks any wood  
 
 123
 00:08:18,832 --> 00:08:21,299
-       that he still needs      
-          to shave off.         
+that he still needs to shave off.         
 
 124
 00:08:21,301 --> 00:08:24,436
-    he repeats this procedure   
-       with each template,      
+he repeats this procedure with each template,      
 
 125
 00:08:24,438 --> 00:08:27,172
-      working his way down      
-    until the bell is rounded   
+working his way down until the bell is rounded   
 
 126
 00:08:27,174 --> 00:08:29,375
-          to the proper         
-      external dimensions.      
+to the proper external dimensions.      
 
 127
 00:08:31,779 --> 00:08:34,713
-       now for the bell's       
-      internal dimensions.      
+now for the bell's internal dimensions.      
 
 128
 00:08:34,715 --> 00:08:37,449
-     the horn maker detaches    
-           the halves.          
+the horn maker detaches the halves.          
 
 129
 00:08:37,451 --> 00:08:41,186
-    he scores a line running    
-   the length of the bell half  
+he scores a line running the length of the bell half  
 
 130
 00:08:41,188 --> 00:08:42,721
-          on each side.         
+on each side.         
 
 131
 00:08:42,723 --> 00:08:47,326
-    this marks the inner-wall   
- thickness he's going to create.
+this marks the inner-wall thickness he's going to create.
 
 132
 00:08:47,328 --> 00:08:50,195
-         using a grinder        
-   with a rough grit abrasive,  
+using a grinder with a rough grit abrasive,  
 
 133
 00:08:50,197 --> 00:08:53,532
-     he wears away the wood     
-  right up to the score lines.  
+he wears away the wood right up to the score lines.  
 
 134
 00:08:53,534 --> 00:08:57,135
-    the holes he made earlier   
-   tell him how deep to grind.  
+the holes he made earlier tell him how deep to grind.  
 
 135
 00:08:57,137 --> 00:09:00,605
-        then he switches        
-    to a finer grit abrasive    
+then he switches to a finer grit abrasive    
 
 136
 00:09:00,607 --> 00:09:03,875
-     to grind the walls down    
-       another millimeter.      
+to grind the walls down another millimeter.      
 
 137
 00:09:03,877 --> 00:09:07,078
-       he checks his work       
-     with a measuring gauge,    
+he checks his work with a measuring gauge,    
 
 138
 00:09:07,080 --> 00:09:11,283
- then glues the halves together 
- again, this time permanently.  
+then glues the halves together again, this time permanently.  
 
 139
 00:09:11,285 --> 00:09:14,420
-    the horn maker constructs   
-    the bell's other section    
+the horn maker constructs the bell's other section    
 
 140
 00:09:14,422 --> 00:09:18,323
-       in halves, as well,      
-  rounding them off on a lathe. 
+in halves, as well, rounding them off on a lathe. 
 
 141
 00:09:23,297 --> 00:09:27,032
-      he coats them in glue     
-    and wraps them in rattan.   
+he coats them in glue and wraps them in rattan.   
 
 142
 00:09:27,034 --> 00:09:29,767
-     the rattan solidifies      
-     the structure somewhat     
+the rattan solidifies the structure somewhat     
 
 143
 00:09:29,769 --> 00:09:32,604
@@ -682,539 +581,466 @@ but is primarily for decoration.
 
 144
 00:09:39,980 --> 00:09:42,313
-      once the glue dries,      
+once the glue dries,      
 
 145
 00:09:42,315 --> 00:09:45,250
- he'll glue aluminum connecting 
-     dowels to each section.    
+he'll glue aluminum connecting dowels to each section.    
 
 146
 00:09:45,252 --> 00:09:47,186
- these will enable the musician 
+these will enable the musician 
 
 147
 00:09:47,188 --> 00:09:50,055
-   to assemble and disassemble  
-         the horn parts.        
+to assemble and disassemble the horn parts.        
 
 148
 00:09:53,394 --> 00:09:57,262
-        the bell is truly       
-  the alpine horn's showpiece.  
+the bell is truly the alpine horn's showpiece.  
 
 149
 00:09:57,264 --> 00:09:59,731
-           horn makers          
-     typically embellish it     
+horn makers typically embellish it     
 
 150
 00:09:59,733 --> 00:10:01,600
- with painted scenes or motifs. 
+with painted scenes or motifs. 
 
 151
 00:10:01,602 --> 00:10:04,269
-      this horn will boast      
-       a colorful bouquet       
+this horn will boast a colorful bouquet       
 
 152
 00:10:04,271 --> 00:10:07,639
-  of traditional swiss flowers. 
+of traditional swiss flowers. 
 
 153
 00:10:14,014 --> 00:10:15,547
-        fully assembled,        
+fully assembled,        
 
 154
 00:10:15,549 --> 00:10:19,417
-    an alpine horn is between   
-     10 and 13 feet long --     
+an alpine horn is between 10 and 13 feet long --     
 
 155
 00:10:19,419 --> 00:10:22,654
-     the length determining     
-  the pitch of the instrument.  
+the length determining the pitch of the instrument.  
 
 156
 00:10:24,825 --> 00:10:26,492
-   musicians use lip movements  
+musicians use lip movements  
 
 157
 00:10:26,494 --> 00:10:29,761
-    to modulate the vibration   
-    of the air column inside.   
+to modulate the vibration of the air column inside.   
 
 158
 00:10:29,763 --> 00:10:33,231
-      different vibrations      
-    produce different notes.    
+different vibrations produce different notes.    
 
 159
 00:10:33,233 --> 00:10:35,234
-     [ alpine horn playing ]    
+[ alpine horn playing ]    
 
 160
 00:10:57,391 --> 00:11:00,391
-      narrator: throughout      
-    most of the 19th century,   
+narrator: throughout most of the 19th century,   
 
 161
 00:11:00,393 --> 00:11:03,261
-   the wristwatch was a piece   
-   of jewelry worn by women.    
+the wristwatch was a piece of jewelry worn by women.    
 
 162
 00:11:03,263 --> 00:11:05,730
-   men carried pocket watches.  
+men carried pocket watches.  
 
 163
 00:11:05,732 --> 00:11:08,132
-   it was during the boer war   
-             in 1899            
+it was during the boer war in 1899            
 
 164
 00:11:08,134 --> 00:11:11,069
-  that british soldiers decided 
-         fumbling around        
+that british soldiers decided fumbling around        
 
 165
 00:11:11,071 --> 00:11:15,040
 for a pocket watch during battle
-  was a serious waste of time.  
+was a serious waste of time.  
 
 166
 00:11:21,282 --> 00:11:24,482
-     the tools of the trade     
-      haven't changed much      
+the tools of the trade haven't changed much      
 
 167
 00:11:24,484 --> 00:11:27,285
-      since pocket watches      
-         ruled the day.         
+since pocket watches ruled the day.         
 
 168
 00:11:27,287 --> 00:11:29,021
-     in this swiss workshop,    
+in this swiss workshop,    
 
 169
 00:11:29,023 --> 00:11:32,090
-         the mechanisms         
-  are meticulously handcrafted, 
+the mechanisms are meticulously handcrafted, 
 
 170
 00:11:32,092 --> 00:11:34,660
-       just like they were      
-         centuries ago.         
+just like they were centuries ago.         
 
 171
 00:11:36,563 --> 00:11:38,062
-      the watchmaker starts     
+the watchmaker starts     
 
 172
 00:11:38,064 --> 00:11:40,899
-       by polishing parts       
-       to a mirror finish.      
+by polishing parts to a mirror finish.      
 
 173
 00:11:40,901 --> 00:11:44,836
 he mixes his lavender and almond
-   oils with a diamond paste.   
+oils with a diamond paste.   
 
 174
 00:11:44,838 --> 00:11:47,372
-       he extracts a part       
-         called the cage        
+he extracts a part called the cage        
 
 175
 00:11:47,374 --> 00:11:49,308
-   from its storage solution,   
+from its storage solution,   
 
 176
 00:11:49,310 --> 00:11:50,508
-      sets it in the paste,     
+sets it in the paste,     
 
 177
 00:11:50,510 --> 00:11:53,145
-         and polishes it        
-      against a zinc block.     
+and polishes it against a zinc block.     
 
 178
 00:11:59,253 --> 00:12:04,156
 he brushes the dust off the cage
-   with a soft piece of wood.   
+with a soft piece of wood.   
 
 179
 00:12:05,792 --> 00:12:08,460
-       another watchmaker       
-       polishes its edges,      
+another watchmaker polishes its edges,      
 
 180
 00:12:08,462 --> 00:12:12,530
- removing tiny bits of material 
- so other parts can fit to it.  
+removing tiny bits of material so other parts can fit to it.  
 
 181
 00:12:12,532 --> 00:12:16,467
-  the technician attaches gears 
-          to the cage.          
+the technician attaches gears to the cage.          
 
 182
 00:12:16,469 --> 00:12:20,672
-   these gears are the balance  
-       and escape wheels.       
+these gears are the balance and escape wheels.       
 
 183
 00:12:20,674 --> 00:12:23,008
-       he fixes the gears       
-         on tiny rubies         
+he fixes the gears on tiny rubies         
 
 184
 00:12:23,010 --> 00:12:25,610
-       because they don't       
-       wear down easily.        
+because they don't wear down easily.        
 
 185
 00:12:25,612 --> 00:12:28,814
-   the second half of the cage  
-    completes this mechanism,   
+the second half of the cage completes this mechanism,   
 
 186
 00:12:28,816 --> 00:12:31,083
-     called the tourbillion.    
+called the tourbillion.    
 
 187
 00:12:31,085 --> 00:12:34,686
-        invented in 1789,       
- these rotating gears in a cage 
+invented in 1789, these rotating gears in a cage 
 
 188
 00:12:34,688 --> 00:12:38,023
 counteract the effect of gravity
-         on timekeeping         
+on timekeeping         
 
 189
 00:12:38,025 --> 00:12:40,592
-   for more accurate results.   
+for more accurate results.   
 
 190
 00:12:45,232 --> 00:12:48,366
-         the watchmaker         
-   now magnifies the assembly   
+the watchmaker now magnifies the assembly   
 
 191
 00:12:48,368 --> 00:12:50,702
-     and projects the image     
-          onto a screen         
+and projects the image onto a screen         
 
 192
 00:12:50,704 --> 00:12:52,904
-           to confirm           
-    that the gears and levers   
+to confirm that the gears and levers   
 
 193
 00:12:52,906 --> 00:12:55,007
-   are interacting correctly.   
+are interacting correctly.   
 
 194
 00:12:56,910 --> 00:13:00,178
-        next, he secures        
- a wound-up spring in a barrel. 
+next, he secures a wound-up spring in a barrel. 
 
 195
 00:13:00,180 --> 00:13:04,016
-  this is the main spring that  
- powers the gears of the watch. 
+this is the main spring that powers the gears of the watch. 
 
 196
 00:13:08,055 --> 00:13:10,055
-  he dips a pin in some grease  
+he dips a pin in some grease  
 
 197
 00:13:10,057 --> 00:13:13,525
-    and uses it to lubricate    
-           the spring.          
+and uses it to lubricate the spring.          
 
 198
 00:13:13,527 --> 00:13:16,328
-   then he caps the mainspring  
-          with a cover          
+then he caps the mainspring with a cover          
 
 199
 00:13:16,330 --> 00:13:19,397
-        and tamps it down       
-      with a special tool.      
+and tamps it down with a special tool.      
 
 200
 00:13:19,399 --> 00:13:22,668
-     he carefully positions     
-     the barrel in its slot     
+he carefully positions the barrel in its slot     
 
 201
 00:13:22,670 --> 00:13:24,369
-       on the main plate.       
+on the main plate.       
 
 202
 00:13:28,808 --> 00:13:32,744
-   the watchmaker now installs  
-     another series of gears    
+the watchmaker now installs another series of gears    
 
 203
 00:13:32,746 --> 00:13:34,012
-       on the main plate.       
+on the main plate.       
 
 204
 00:13:34,014 --> 00:13:35,346
-     they'll transfer power     
+they'll transfer power     
 
 205
 00:13:35,348 --> 00:13:37,516
-         from the spring        
-       to the tourbillion.      
+from the spring to the tourbillion.      
 
 206
 00:13:47,761 --> 00:13:50,295
-     he attaches the bridge     
-          to the gears          
+he attaches the bridge to the gears          
 
 207
 00:13:50,297 --> 00:13:52,397
- to act as a pivot as they turn.
+to act as a pivot as they turn.
 
 208
 00:13:59,506 --> 00:14:00,839
-     another spot of grease     
+another spot of grease     
 
 209
 00:14:00,841 --> 00:14:03,942
-       keeps these wheels       
-      turning efficiently.      
+keeps these wheels turning efficiently.      
 
 210
 00:14:06,246 --> 00:14:09,381
- with the spring barrel and its 
- transmission gears assembled,  
+with the spring barrel and its transmission gears assembled,  
 
 211
 00:14:09,383 --> 00:14:11,850
-     production now reaches     
-       a critical moment.       
+production now reaches a critical moment.       
 
 212
 00:14:11,852 --> 00:14:15,920
-     he places the mechanism    
-           in a holder          
+he places the mechanism in a holder          
 
 213
 00:14:15,922 --> 00:14:18,924
-      that makes it easier      
-   to install the tourbillion.  
+that makes it easier to install the tourbillion.  
 
 214
 00:14:24,197 --> 00:14:25,597
-       it's a tricky job.       
+it's a tricky job.       
 
 215
 00:14:25,599 --> 00:14:28,400
-        the cage must be        
-      precisely positioned      
+the cage must be precisely positioned      
 
 216
 00:14:28,402 --> 00:14:31,203
- for its gears to receive power 
-        from the spring.        
+for its gears to receive power from the spring.        
 
 217
 00:14:34,607 --> 00:14:37,943
- he now transfers the mechanism 
-        to another holder       
+he now transfers the mechanism to another holder       
 
 218
 00:14:37,945 --> 00:14:39,878
-   to insert the winding stem.  
+to insert the winding stem.  
 
 219
 00:14:48,221 --> 00:14:52,223
- next, he engraves the circular 
-  pattern onto a bridge plate.  
+next, he engraves the circular pattern onto a bridge plate.  
 
 220
 00:14:52,225 --> 00:14:55,260
-      this high-end finish      
-       is called perlage.       
+this high-end finish is called perlage.       
 
 221
 00:15:02,169 --> 00:15:04,703
-     the technician attaches    
-       the textured bridge      
+the technician attaches the textured bridge      
 
 222
 00:15:04,705 --> 00:15:07,539
- to the dial side of the watch. 
+to the dial side of the watch. 
 
 223
 00:15:12,846 --> 00:15:14,846
-     he assembles more gears    
+he assembles more gears    
 
 224
 00:15:14,848 --> 00:15:17,048
-      and a numbered wheel      
-         to the bridge.         
+and a numbered wheel to the bridge.         
 
 225
 00:15:17,050 --> 00:15:19,651
-    these gears will provide    
-      the date information      
+these gears will provide the date information      
 
 226
 00:15:19,653 --> 00:15:21,720
-       for this timepiece.      
+for this timepiece.      
 
 227
 00:15:23,657 --> 00:15:26,791
 another bridge secures the gears
-  that lead to the date wheel.  
+that lead to the date wheel.  
 
 228
 00:15:26,793 --> 00:15:30,996
- he fastens it with tiny screws.
+he fastens it with tiny screws.
 
 229
 00:15:30,998 --> 00:15:35,466
- he slides the second date wheel
-          onto its axle         
+he slides the second date wheel
+onto its axle         
 
 230
 00:15:35,468 --> 00:15:39,271
-           and checks           
-     the setting mechanism.     
+and checks the setting mechanism.     
 
 231
 00:15:39,273 --> 00:15:41,339
-           we'll have           
-  the up-to-the-minute details  
+we'll have the up-to-the-minute details  
 
 232
 00:15:41,341 --> 00:15:44,376
-          as this watch         
-     gets a beautiful face.     
+as this watch gets a beautiful face.     
 
 233
 00:16:00,561 --> 00:16:05,230
-            narrator:           
-   even in the age of digital   
-  and electronic wristwatches,  
+narrator: even in the age of digital and electronic wristwatches,  
 
 234
 00:16:05,232 --> 00:16:08,900
-    the mechanical watch has    
-   an appeal that's timeless.   
+the mechanical watch has an appeal that's timeless.   
 
 235
 00:16:08,902 --> 00:16:12,237
-         some are among         
-  the most complex in the world 
+some are among the most complex in the world 
 
 236
 00:16:12,239 --> 00:16:15,106
-          and can cost          
-    in the six-figure range.    
+and can cost in the six-figure range.    
 
 237
 00:16:15,108 --> 00:16:18,743
-         at that price,         
-     time is truly a luxury.    
+at that price, time is truly a luxury.    
 
 238
 00:16:24,184 --> 00:16:27,318
-      in a factory nestled      
+in a factory nestled      
 in the scenic swiss countryside,
 
 239
 00:16:27,320 --> 00:16:30,522
-    a highly-skilled team has   
-  assembled the inner workings  
+a highly-skilled team has assembled the inner workings  
 
 240
 00:16:30,524 --> 00:16:33,492
-         of a luxurious         
-     tourbillion wristwatch.    
+of a luxurious tourbillion wristwatch.    
 
 241
 00:16:35,729 --> 00:16:39,264
-      now a watchmaker fits     
-      the handcrafted face      
+now a watchmaker fits the handcrafted face      
 
 242
 00:16:39,266 --> 00:16:40,999
-      onto the mechanisms.      
+onto the mechanisms.      
 
 243
 00:16:41,001 --> 00:16:43,134
-      using a special tool,     
+using a special tool,     
 
 244
 00:16:43,136 --> 00:16:47,538
-  he presses the hands onto an  
+he presses the hands onto an  
 axle at the center of the watch.
 
 245
 00:16:47,540 --> 00:16:50,675
-        this enables him        
-    to set the time and date.   
+this enables him to set the time and date.   
 
 246
 00:17:00,420 --> 00:17:03,955
-    the watch will be encased   
-  with 18-karat red-gold bezels 
+the watch will be encased with 18-karat red-gold bezels 
 
 247
 00:17:03,957 --> 00:17:09,027
-   sealed against the elements  
-       with rubber rings.       
+sealed against the elements with rubber rings.       
 
 248
 00:17:09,029 --> 00:17:12,430
 he now fastens the middle casing
-        to the mechanism,       
+to the mechanism,       
 
 249
 00:17:12,432 --> 00:17:16,501
- then completes the installation
- of the winding stem and crown. 
+then completes the installation
+of the winding stem and crown. 
 
 250
 00:17:21,775 --> 00:17:24,108
-         the watchmaker         
-      lubricates the bridge     
+the watchmaker lubricates the bridge     
 
 251
 00:17:24,110 --> 00:17:26,243
-  for the auto-winding system,  
+for the auto-winding system,  
 
 252
 00:17:26,245 --> 00:17:31,048
- then engraves a parallel-ribbed
-        pattern onto it.        
+then engraves a parallel-ribbed
+pattern onto it.        
 
 253
 00:17:31,050 --> 00:17:34,251
-    this adds visual interest   
-         to the bridge,         
+this adds visual interest to the bridge,         
 
 254
 00:17:34,253 --> 00:17:38,256
-    making this luxury watch    
-    look good inside and out.   
+making this luxury watch look good inside and out.   
 
 255
 00:17:43,930 --> 00:17:46,197
-        after the bridge        
-    has been set with jewels,   
+after the bridge has been set with jewels,   
 
 256
 00:17:46,199 --> 00:17:49,200
-   it's ready to be installed   
-   at the center of the watch,  
+it's ready to be installed at the center of the watch,  
 
 257
 00:17:49,202 --> 00:17:52,003
@@ -1223,7 +1049,7 @@ from rubbing against each other,
 
 258
 00:17:52,005 --> 00:17:54,539
-     causing wear and tear.     
+causing wear and tear.     
 
 259
 00:18:02,015 --> 00:18:04,415
@@ -1231,212 +1057,185 @@ an artist now engraves the rotor
 
 260
 00:18:04,417 --> 00:18:06,952
-      that's to be attached     
-         to the bridge.         
+that's to be attached to the bridge.         
 
 261
 00:18:06,954 --> 00:18:09,821
-    it's this part that will    
-  automatically wind the watch. 
+it's this part that will automatically wind the watch. 
 
 262
 00:18:09,823 --> 00:18:11,489
-     it's a signature piece     
+it's a signature piece     
 
 263
 00:18:11,491 --> 00:18:14,960
-        that can reflect        
+that can reflect        
 the customer's individual taste.
 
 264
 00:18:23,570 --> 00:18:25,503
-   this stylish-looking rotor   
+this stylish-looking rotor   
 
 265
 00:18:25,505 --> 00:18:28,740
-   is now ready to be secured   
-         to the bridge.         
+is now ready to be secured to the bridge.         
 
 266
 00:18:31,944 --> 00:18:33,377
-         once installed,        
+once installed,        
 
 267
 00:18:33,379 --> 00:18:36,781
 even the slightest movement will
- cause this rotor to oscillate, 
+cause this rotor to oscillate, 
 
 268
 00:18:36,783 --> 00:18:40,719
-    and that action winds up    
-  the mainspring of the watch.  
+and that action winds up the mainspring of the watch.  
 
 269
 00:18:52,865 --> 00:18:56,734
-   the watchmaker now shields   
+the watchmaker now shields   
 this timepiece with a glass dome
 
 270
 00:18:56,736 --> 00:19:00,338
-      and then vacuums dust     
-    from the next gold bezel.   
+and then vacuums dust from the next gold bezel.   
 
 271
 00:19:00,340 --> 00:19:03,007
-       he carefully cleans      
-   this clear sapphire window   
+he carefully cleans this clear sapphire window   
 
 272
 00:19:03,009 --> 00:19:05,209
- because even the tiniest speck 
-             of dirt            
+because even the tiniest speck of dirt            
 
 273
 00:19:05,211 --> 00:19:07,846
- could cause the watch to fail. 
+could cause the watch to fail. 
 
 274
 00:19:09,482 --> 00:19:11,950
-    he snaps the front bezel    
-         onto the watch,        
+he snaps the front bezel onto the watch,        
 
 275
 00:19:11,952 --> 00:19:14,352
-  then, using a special device, 
+then, using a special device, 
 
 276
 00:19:14,354 --> 00:19:17,489
-      he presses the bezel      
-          to secure it.         
+he presses the bezel to secure it.         
 
 277
 00:19:17,491 --> 00:19:20,492
-    this action also squeezes   
-         the rubber ring        
+this action also squeezes the rubber ring        
 
 278
 00:19:20,494 --> 00:19:22,626
- between the bezel and the watch
+between the bezel and the watch
 
 279
 00:19:22,628 --> 00:19:27,565
-  to create a waterproof seal.  
+to create a waterproof seal.  
 
 280
 00:19:27,567 --> 00:19:30,034
-       this watch will now      
-       be water-resistant       
+this watch will now be water-resistant       
 
 281
 00:19:30,036 --> 00:19:32,537
- to a depth of nearly 330 feet. 
+to a depth of nearly 330 feet. 
 
 282
 00:19:34,908 --> 00:19:37,709
-         the back casing        
-        screws into place       
+the back casing screws into place       
 
 283
 00:19:37,711 --> 00:19:41,045
-      so it can be removed      
-      for maintenance work      
+so it can be removed for maintenance work      
 
 284
 00:19:41,047 --> 00:19:43,181
-  during the life of the watch. 
+during the life of the watch. 
 
 285
 00:19:43,183 --> 00:19:45,650
-      using a special tool,     
+using a special tool,     
 
 286
 00:19:45,652 --> 00:19:49,187
-     he tightens the casing     
-   to just the right tension.   
+he tightens the casing to just the right tension.   
 
 287
 00:19:51,457 --> 00:19:53,258
-   he then inspects the watch   
+he then inspects the watch   
 
 288
 00:19:53,260 --> 00:19:56,895
-    to confirm that the rotor   
-  moves freely within the case. 
+to confirm that the rotor moves freely within the case. 
 
 289
 00:20:00,266 --> 00:20:03,935
- next up is a computer analysis 
-        of the mechanism.       
+next up is a computer analysis of the mechanism.       
 
 290
 00:20:03,937 --> 00:20:07,806
-    a device holds the watch    
- and simulates wrist movements, 
+a device holds the watch and simulates wrist movements, 
 
 291
 00:20:07,808 --> 00:20:10,809
-  while the computer evaluates  
-          its accuracy.         
+while the computer evaluates its accuracy.         
 
 292
 00:20:16,616 --> 00:20:19,684
-           [ pinging ]          
+[ pinging ]          
 
 293
 00:20:19,686 --> 00:20:22,287
-        that's the sound        
-      of a minute repeater,     
+that's the sound of a minute repeater,     
 
 294
 00:20:22,289 --> 00:20:24,288
-       which is a feature       
-         on some models.        
+which is a feature on some models.        
 
 295
 00:20:24,290 --> 00:20:29,360
-         when triggered,        
-       it chimes the time.      
+when triggered, it chimes the time.      
 
 296
 00:20:29,362 --> 00:20:31,429
-       and now this watch       
-        takes the plunge        
+and now this watch takes the plunge        
 
 297
 00:20:31,431 --> 00:20:33,431
-   into a container of water.   
+into a container of water.   
 
 298
 00:20:33,433 --> 00:20:36,567
-       if bubbles appear,       
-    it would signify a leak.    
+if bubbles appear, it would signify a leak.    
 
 299
 00:20:36,569 --> 00:20:41,372
-       but there are none,      
-  so this watch is waterproof.  
+but there are none, so this watch is waterproof.  
 
 300
 00:20:41,374 --> 00:20:46,377
-      this incredible watch     
-   will set you back $150,000.  
+this incredible watch will set you back $150,000.  
 
 301
 00:20:46,379 --> 00:20:51,449
 but it will be an heirloom piece
-  that stands the test of time. 
+that stands the test of time. 
 
 302
 00:21:01,260 --> 00:21:03,928
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 303
 00:21:03,930 --> 00:21:06,798
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 304
 00:21:06,800 --> 00:21:08,833
-      drop us a line at...      
+drop us a line at...      
 

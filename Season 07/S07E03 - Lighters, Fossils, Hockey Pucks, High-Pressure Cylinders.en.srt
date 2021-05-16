@@ -1,104 +1,90 @@
 1
 00:00:02,470 --> 00:00:05,404
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,406 --> 00:00:08,407
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:22,356 --> 00:00:26,424
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:26,426 --> 00:00:28,193
-           lighters...          
+lighters...          
 
 5
 00:00:32,299 --> 00:00:33,899
-          ...fossils...         
+...fossils...         
 
 6
 00:00:37,838 --> 00:00:39,705
-       ...hockey pucks...       
+...hockey pucks...       
 
 7
 00:00:43,643 --> 00:00:45,544
- ...and high-pressure cylinders.
+...and high-pressure cylinders.
 
 8
 00:00:52,719 --> 00:00:54,853
-   it's a case for combustion.  
+it's a case for combustion.  
 
 9
 00:00:54,855 --> 00:00:57,589
-         spin the wheel,        
- and you have an instant flame. 
+spin the wheel, and you have an instant flame. 
 
 10
 00:00:57,591 --> 00:01:00,325
-          flip the lid,         
- and the flame is extinguished. 
+flip the lid, and the flame is extinguished. 
 
 11
 00:01:00,327 --> 00:01:03,996
- a version of the lighter first 
- appeared in the 19th century.  
+a version of the lighter first appeared in the 19th century.  
 
 12
 00:01:03,998 --> 00:01:05,330
-          at the time,          
+at the time,          
 
 13
 00:01:05,332 --> 00:01:08,534
-  it was more of a conversation 
-      piece than anything,      
+it was more of a conversation piece than anything,      
 
 14
 00:01:08,536 --> 00:01:11,437
-    a curiosity that received   
-       plenty of interest.      
+a curiosity that received plenty of interest.      
 
 15
 00:01:18,612 --> 00:01:20,612
-    lighters aren't a novelty   
-            anymore,            
+lighters aren't a novelty anymore,            
 
 16
 00:01:20,614 --> 00:01:22,681
-     but they're still used     
-           every day.           
+but they're still used every day.           
 
 17
 00:01:22,683 --> 00:01:24,149
-     to make lighter cases,     
+to make lighter cases,     
 
 18
 00:01:24,151 --> 00:01:27,686
-  a machine uncoils brass from  
- a spool, pulling it to a press.
+a machine uncoils brass from a spool, pulling it to a press.
 
 19
 00:01:27,688 --> 00:01:30,222
-   the press stamps the brass   
-           repeatedly           
+the press stamps the brass repeatedly           
 
 20
 00:01:30,224 --> 00:01:33,826
-      to shape both the top     
-  and bottom parts of the case. 
+to shape both the top and bottom parts of the case. 
 
 21
 00:01:35,696 --> 00:01:37,229
-     a worker collects them     
+a worker collects them     
 
 22
 00:01:37,231 --> 00:01:39,832
-         and places them        
-      on a revolving table.     
+and places them on a revolving table.     
 
 23
 00:01:41,301 --> 00:01:43,968
@@ -106,41 +92,35 @@ another worker slides on a hinge
 
 24
 00:01:43,970 --> 00:01:46,505
-         to link the top        
-       and bottom pieces.       
+to link the top and bottom pieces.       
 
 25
 00:01:53,514 --> 00:01:56,181
-  an electrode welds the hinge  
-          to the case.          
+an electrode welds the hinge to the case.          
 
 26
 00:01:56,183 --> 00:01:58,917
-      then a mechanical arm     
-    knocks them down a chute    
+then a mechanical arm knocks them down a chute    
 
 27
 00:01:58,919 --> 00:02:01,487
-    to a worker who inspects    
-        the welding job.        
+to a worker who inspects the welding job.        
 
 28
 00:02:05,726 --> 00:02:08,860
-        as the cases move       
-      on a conveyor system,     
+as the cases move on a conveyor system,     
 
 29
 00:02:08,862 --> 00:02:12,164
-      they get a quick buff     
-  to prepare them for plating.  
+they get a quick buff to prepare them for plating.  
 
 30
 00:02:14,935 --> 00:02:16,601
-        the lighter cases       
+the lighter cases       
 
 31
 00:02:16,603 --> 00:02:20,405
-  are now plunged into a series 
+are now plunged into a series 
 of washing solutions and rinses,
 
 32
@@ -149,225 +129,197 @@ followed by a nickel solution...
 
 33
 00:02:23,878 --> 00:02:25,477
-       then a chrome one.       
+then a chrome one.       
 
 34
 00:02:25,479 --> 00:02:29,381
-    it's the finishing touch    
-     for the lighter cases.     
+it's the finishing touch for the lighter cases.     
 
 35
 00:02:31,886 --> 00:02:35,353
-      it's time to move on      
-     to the inner workings.     
+it's time to move on to the inner workings.     
 
 36
 00:02:35,355 --> 00:02:39,291
-  a die shapes a piece of steel 
-    to make the inside cases.   
+a die shapes a piece of steel to make the inside cases.   
 
 37
 00:02:43,364 --> 00:02:48,367
-   mechanized arms then place   
-  a tube and plate in the case. 
+mechanized arms then place a tube and plate in the case. 
 
 38
 00:02:48,369 --> 00:02:50,369
-            the tube            
-   will hold the flint stone,   
+the tube will hold the flint stone,   
 
 39
 00:02:50,371 --> 00:02:53,539
- and the plate will form the top
-       of the inner case.       
+and the plate will form the top
+of the inner case.       
 
 40
 00:02:58,512 --> 00:03:01,046
-   epoxy seals them in place,   
+epoxy seals them in place,   
 
 41
 00:03:01,048 --> 00:03:05,017
-  and the cases move through a  
+and the cases move through a  
 curing oven to harden the epoxy.
 
 42
 00:03:07,388 --> 00:03:10,122
-        a worker arranges       
-     a pile of flint wheels     
+a worker arranges a pile of flint wheels     
 
 43
 00:03:10,124 --> 00:03:14,259
-        so that the teeth       
-  are in the proper direction.  
+so that the teeth are in the proper direction.  
 
 44
 00:03:16,463 --> 00:03:20,132
- grippers load the flint wheels 
-      into an assembly jig.     
+grippers load the flint wheels into an assembly jig.     
 
 45
 00:03:29,877 --> 00:03:34,513
- these cams will eventually act 
- as a catch for the lighter lid.
+these cams will eventually act as a catch for the lighter lid.
 
 46
 00:03:38,018 --> 00:03:41,987
-   a gripper places the cam in  
- the jig beside the flint wheel.
+a gripper places the cam in the jig beside the flint wheel.
 
 47
 00:03:46,092 --> 00:03:49,094
-  the assembly jig now receives 
-      little brass eyelets      
+the assembly jig now receives little brass eyelets      
 
 48
 00:03:49,096 --> 00:03:51,163
-     between the flint wheel    
-          and the cam.          
+between the flint wheel and the cam.          
 
 49
 00:04:00,373 --> 00:04:04,042
-     the machine slides the     
+the machine slides the     
 inner case over the flint wheel,
 
 50
 00:04:04,044 --> 00:04:07,045
-        cam, and eyelet.        
+cam, and eyelet.        
 
 51
 00:04:07,047 --> 00:04:10,382
-     and an automated device    
-     rivets it all together.    
+and an automated device rivets it all together.    
 
 52
 00:04:13,120 --> 00:04:17,122
- a machine lowers a wick to the 
- eyelet and threads it through. 
+a machine lowers a wick to the eyelet and threads it through. 
 
 53
 00:04:20,927 --> 00:04:25,297
-  blades move in from the side  
-       and snip the wick.       
+blades move in from the side and snip the wick.       
 
 54
 00:04:28,669 --> 00:04:33,138
-   this machine stuffs pieces   
- of cotton into the inner case. 
+this machine stuffs pieces of cotton into the inner case. 
 
 55
 00:04:33,140 --> 00:04:34,940
-     the cotton will soak up    
+the cotton will soak up    
 
 56
 00:04:34,942 --> 00:04:38,409
-         and retain fuel        
+and retain fuel        
 when the consumer adds it later.
 
 57
 00:04:38,411 --> 00:04:41,413
-    steel plungers tamp down    
-      the wick and cotton.      
+steel plungers tamp down the wick and cotton.      
 
 58
 00:04:44,818 --> 00:04:48,587
-        here a die punch        
-  cuts a piece of felt to size. 
+here a die punch cuts a piece of felt to size. 
 
 59
 00:04:53,494 --> 00:04:55,894
- automated arms pick up the felt
+automated arms pick up the felt
 
 60
 00:04:55,896 --> 00:04:58,897
-    and shove it into the top   
-       of the inner case.       
+and shove it into the top of the inner case.       
 
 61
 00:05:02,970 --> 00:05:05,771
-       here grippers place      
-   a flint spring in the case   
+here grippers place a flint spring in the case   
 
 62
 00:05:05,773 --> 00:05:07,406
-   just over the flint stone.   
+just over the flint stone.   
 
 63
 00:05:10,044 --> 00:05:14,313
-     pneumatic screwdrivers     
-     drive the screw home.      
+pneumatic screwdrivers drive the screw home.      
 
 64
 00:05:17,650 --> 00:05:20,251
- a rubber wheel spins the flint,
+a rubber wheel spins the flint,
 
 65
 00:05:20,253 --> 00:05:23,755
 and sparks fly as a light sensor
-     checks their intensity.    
+checks their intensity.    
 
 66
 00:05:31,598 --> 00:05:33,331
-     after the flint check,     
+after the flint check,     
 
 67
 00:05:33,333 --> 00:05:36,668
-       technicians install      
-   the inner unit in the case.  
+technicians install the inner unit in the case.  
 
 68
 00:05:38,672 --> 00:05:41,606
-       they check the fit.      
+they check the fit.      
 
 69
 00:05:41,608 --> 00:05:44,476
-     they test the function.    
+they test the function.    
 
 70
 00:05:44,478 --> 00:05:46,678
- and they're off to be shipped. 
+and they're off to be shipped. 
 
 71
 00:05:57,825 --> 00:06:02,294
 narrator: it takes many hours of
- work to make a fossil replica. 
+work to make a fossil replica. 
 
 72
 00:06:02,296 --> 00:06:04,963
-      real dinosaur bones,      
-     millions of years old,     
+real dinosaur bones, millions of years old,     
 
 73
 00:06:04,965 --> 00:06:07,365
-        are used to make        
-      life-size renditions.     
+are used to make life-size renditions.     
 
 74
 00:06:07,367 --> 00:06:09,567
-           you'll find          
-     these fossil facsimiles    
+you'll find these fossil facsimiles    
 
 75
 00:06:09,569 --> 00:06:11,303
-     on display in museums.     
+on display in museums.     
 
 76
 00:06:11,305 --> 00:06:12,904
-       they're very exact,      
+they're very exact,      
 
 77
 00:06:12,906 --> 00:06:15,707
-    almost indistinguishable    
-      from the real thing.      
+almost indistinguishable from the real thing.      
 
 78
 00:06:27,387 --> 00:06:31,722
-  the dinosaur looms large once 
-   again, brought back to life  
+the dinosaur looms large once again, brought back to life  
 
 79
 00:06:31,724 --> 00:06:34,993
-     thanks to an evolution     
-     in casting techniques.     
+thanks to an evolution in casting techniques.     
 
 80
 00:06:34,995 --> 00:06:37,462
@@ -375,502 +327,436 @@ building these replicas is a job
 
 81
 00:06:37,464 --> 00:06:41,066
- that can involve both high-tech
-  know-how and hands-on skill.  
+that can involve both high-tech
+know-how and hands-on skill.  
 
 82
 00:06:44,805 --> 00:06:49,074
- they start with the real thing,
-       an ancient fossil.       
+they start with the real thing,
+an ancient fossil.       
 
 83
 00:06:49,076 --> 00:06:52,343
-      this is a dinosaur's      
-         upper jawbone.         
+this is a dinosaur's upper jawbone.         
 
 84
 00:06:52,345 --> 00:06:55,881
-  they laser-scan it, producing 
-   a three-dimensional image.   
+they laser-scan it, producing a three-dimensional image.   
 
 85
 00:06:58,885 --> 00:07:01,887
-   the scanner feeds the image  
-         to a computer.         
+the scanner feeds the image to a computer.         
 
 86
 00:07:04,090 --> 00:07:07,025
- then it's time to go to print. 
+then it's time to go to print. 
 
 87
 00:07:07,027 --> 00:07:09,760
-         but this isn't         
-      an ink-and-paper job.     
+but this isn't an ink-and-paper job.     
 
 88
 00:07:09,762 --> 00:07:12,764
-      this tray is filled       
-      with plaster powder.      
+this tray is filled with plaster powder.      
 
 89
 00:07:14,434 --> 00:07:18,302
 the printer outlines the jawbone
-  shape with a liquid hardener. 
+shape with a liquid hardener. 
 
 90
 00:07:18,304 --> 00:07:21,306
- the result is this plaster cast
-         of the jawbone.        
+the result is this plaster cast
+of the jawbone.        
 
 91
 00:07:27,514 --> 00:07:31,049
- there is a more traditional way
-    to make a fossil replica.   
+there is a more traditional way
+to make a fossil replica.   
 
 92
 00:07:31,051 --> 00:07:34,586
-   they arrange plywood around  
- a fossil of this dinosaur foot.
+they arrange plywood around a fossil of this dinosaur foot.
 
 93
 00:07:34,588 --> 00:07:37,255
-  then they lay sheets of clay  
-           on the wood          
+then they lay sheets of clay on the wood          
 
 94
 00:07:37,257 --> 00:07:39,658
-          and press it          
-      to the dinosaur bone.     
+and press it to the dinosaur bone.     
 
 95
 00:07:43,997 --> 00:07:47,799
-   with a clay pick, they make  
-  a 90-degree angle at the bone 
+with a clay pick, they make a 90-degree angle at the bone 
 
 96
 00:07:47,801 --> 00:07:49,734
-    to give it a clean line.    
+to give it a clean line.    
 
 97
 00:07:49,736 --> 00:07:51,269
-        using more clay,        
+using more clay,        
 
 98
 00:07:51,271 --> 00:07:55,206
- they build a spout and a riser 
-     at one end of the bone.    
+they build a spout and a riser at one end of the bone.    
 
 99
 00:07:55,208 --> 00:07:58,210
-    they etch an i.d. number    
-         into the clay.         
+they etch an i.d. number into the clay.         
 
 100
 00:08:00,013 --> 00:08:02,947
-  then they paint liquid rubber 
-         onto the fossil        
+then they paint liquid rubber onto the fossil        
 
 101
 00:08:02,949 --> 00:08:04,382
-     and the abutting clay.     
+and the abutting clay.     
 
 102
 00:08:15,161 --> 00:08:17,829
-  they place fiber-glass sheets 
-         on the rubber,         
+they place fiber-glass sheets on the rubber,         
 
 103
 00:08:17,831 --> 00:08:20,765
-         wetting it down        
-   with a polyester mix first.  
+wetting it down with a polyester mix first.  
 
 104
 00:08:20,767 --> 00:08:24,302
-    they work the fiber glass   
-  into the shape of the fossil, 
+they work the fiber glass into the shape of the fossil, 
 
 105
 00:08:24,304 --> 00:08:26,504
-    then paint a red gel coat   
-            onto it.            
+then paint a red gel coat onto it.            
 
 106
 00:08:26,506 --> 00:08:29,240
-        it's a color code       
-   to identify the species --   
+it's a color code to identify the species --   
 
 107
 00:08:29,242 --> 00:08:32,377
-     a duckbilled dinosaur      
-     called a lambeosaurus.     
+a duckbilled dinosaur called a lambeosaurus.     
 
 108
 00:08:40,053 --> 00:08:43,187
-     now they have one side     
-           of a mold.           
+now they have one side of a mold.           
 
 109
 00:08:43,189 --> 00:08:46,991
- when both sides of the mold are
- fabricated, they pair them up, 
+when both sides of the mold are
+fabricated, they pair them up, 
 
 110
 00:08:46,993 --> 00:08:49,460
-      and this fossil mold      
-          is complete.          
+and this fossil mold is complete.          
 
 111
 00:08:49,462 --> 00:08:52,998
-     the rubber layer inside    
-  picks up the fossil's detail, 
+the rubber layer inside picks up the fossil's detail, 
 
 112
 00:08:53,000 --> 00:08:55,867
- while the outer fiber-glass one
-   will hold the rubber rigid   
+while the outer fiber-glass one
+will hold the rubber rigid   
 
 113
 00:08:55,869 --> 00:08:59,437
-    as they pour a polyester-   
-  and-water mix into the spout. 
+as they pour a polyester- and-water mix into the spout. 
 
 114
 00:09:04,944 --> 00:09:07,712
- it takes 45 minutes to harden. 
+it takes 45 minutes to harden. 
 
 115
 00:09:13,487 --> 00:09:16,555
-        and now it's time       
-       for the big reveal.      
+and now it's time for the big reveal.      
 
 116
 00:09:23,830 --> 00:09:26,398
-     it's an exact replica.     
+it's an exact replica.     
 
 117
 00:09:31,772 --> 00:09:34,238
-         next they form         
-       part of the skull.       
+next they form part of the skull.       
 
 118
 00:09:34,240 --> 00:09:37,308
-       they make this part      
-     with hollow fiber glass    
+they make this part with hollow fiber glass    
 
 119
 00:09:37,310 --> 00:09:39,177
-   instead of solid polyester.  
+instead of solid polyester.  
 
 120
 00:09:39,179 --> 00:09:42,247
-     this will ease the load    
-  on the steel framework later. 
+this will ease the load on the steel framework later. 
 
 121
 00:09:42,249 --> 00:09:45,316
-  all the larger bones are cast 
-     with hollow fiber glass    
+all the larger bones are cast with hollow fiber glass    
 
 122
 00:09:45,318 --> 00:09:46,885
-    because of weight issues.   
+because of weight issues.   
 
 123
 00:09:53,326 --> 00:09:55,460
-    this is a mastodon head.    
+this is a mastodon head.    
 
 124
 00:09:59,932 --> 00:10:05,203
-  they mold up to 300 pieces to 
+they mold up to 300 pieces to 
 produce these skeletal replicas.
 
 125
 00:10:10,877 --> 00:10:13,010
-  on one side of the skeleton,  
+on one side of the skeleton,  
 
 126
 00:10:13,012 --> 00:10:15,814
-    they literally flesh out    
-          some details.         
+they literally flesh out some details.         
 
 127
 00:10:15,816 --> 00:10:18,083
-       they sculpt scales       
-      onto a clay-like fill     
+they sculpt scales onto a clay-like fill     
 
 128
 00:10:18,085 --> 00:10:22,153
-  to demonstrate how a dinosaur 
-   would look with some skin.   
+to demonstrate how a dinosaur would look with some skin.   
 
 129
 00:10:22,155 --> 00:10:24,689
-         the other side         
-       remains bare bones       
+the other side remains bare bones       
 
 130
 00:10:24,691 --> 00:10:28,226
-       to give the viewer       
-         an inside look.        
+to give the viewer an inside look.        
 
 131
 00:10:28,228 --> 00:10:31,829
-          a little glue         
-    completes the spine work.   
+a little glue completes the spine work.   
 
 132
 00:10:31,831 --> 00:10:34,232
-   then they mount the skull.   
+then they mount the skull.   
 
 133
 00:10:41,374 --> 00:10:46,177
 when the front leg goes on, this
- 2-sided fossil is ready to go. 
+2-sided fossil is ready to go. 
 
 134
 00:10:46,179 --> 00:10:48,680
-    it's a real museum piece.   
+it's a real museum piece.   
 
 135
 00:11:03,263 --> 00:11:06,397
-  narrator: early hockey pucks  
-       were made of wood.       
+narrator: early hockey pucks were made of wood.       
 
 136
 00:11:06,399 --> 00:11:07,866
-     but for informal games,    
+but for informal games,    
 
 137
 00:11:07,868 --> 00:11:10,601
-    even objects like stones    
-         would suffice.         
+even objects like stones would suffice.         
 
 138
 00:11:10,603 --> 00:11:14,138
-    eventually rubber became    
-  the puck material of choice.  
+eventually rubber became the puck material of choice.  
 
 139
 00:11:14,140 --> 00:11:17,342
- the modern puck is three inches
-     wide by one inch thick.    
+the modern puck is three inches
+wide by one inch thick.    
 
 140
 00:11:17,344 --> 00:11:19,877
-    pucks are usually frozen    
-          before games          
+pucks are usually frozen before games          
 
 141
 00:11:19,879 --> 00:11:22,147
-     to reduce their bounce     
-           on the ice.          
+to reduce their bounce on the ice.          
 
 142
 00:11:26,553 --> 00:11:28,419
-    11 different ingredients    
+11 different ingredients    
 
 143
 00:11:28,421 --> 00:11:31,556
-         go into making         
-   these rubber hockey pucks.   
+go into making these rubber hockey pucks.   
 
 144
 00:11:31,558 --> 00:11:34,024
-        the recipe begins       
-      with natural rubber.      
+the recipe begins with natural rubber.      
 
 145
 00:11:34,026 --> 00:11:36,694
-        two types of oil        
-    make the rubber durable.    
+two types of oil make the rubber durable.    
 
 146
 00:11:36,696 --> 00:11:40,365
- certain minerals act as curing 
-  agents and antiaging agents.  
+certain minerals act as curing agents and antiaging agents.  
 
 147
 00:11:40,367 --> 00:11:43,234
-    and a form of coal dust,    
-      called carbon black,      
+and a form of coal dust, called carbon black,      
 
 148
 00:11:43,236 --> 00:11:44,702
-       serves as a filler.      
+serves as a filler.      
 
 149
 00:11:44,704 --> 00:11:48,639
-  workers feed the ingredients  
-  into a preliminary mixer --   
+workers feed the ingredients into a preliminary mixer --   
 
 150
 00:11:48,641 --> 00:11:51,242
-         first the slabs        
-       of natural rubber,       
+first the slabs of natural rubber,       
 
 151
 00:11:51,244 --> 00:11:55,179
-  then antioxidants to lengthen 
-     the rubber's life-span,    
+then antioxidants to lengthen the rubber's life-span,    
 
 152
 00:11:55,181 --> 00:11:59,317
-  then one type of oil to help  
-  blend in the dry chemicals,   
+then one type of oil to help blend in the dry chemicals,   
 
 153
 00:11:59,319 --> 00:12:03,321
-  then another type to refine   
-  the rubber's rigidity level,  
+then another type to refine the rubber's rigidity level,  
 
 154
 00:12:03,323 --> 00:12:06,925
-     then additives such as     
-  calcium carbonate and sulfur  
+then additives such as calcium carbonate and sulfur  
 
 155
 00:12:06,927 --> 00:12:09,727
-     to help cure the rubber    
-   during the molding process,  
+to help cure the rubber during the molding process,  
 
 156
 00:12:09,729 --> 00:12:12,797
-          and finally,          
-    the carbon black filler.    
+and finally, the carbon black filler.    
 
 157
 00:12:17,270 --> 00:12:21,072
-     after 10 to 15 minutes     
-  of this preliminary blending, 
+after 10 to 15 minutes of this preliminary blending, 
 
 158
 00:12:21,074 --> 00:12:24,875
-  the mixture goes down a chute 
-    and onto a conveyor belt,   
+the mixture goes down a chute and onto a conveyor belt,   
 
 159
 00:12:24,877 --> 00:12:28,079
 which transports it to a machine
-     called the mill mixer.     
+called the mill mixer.     
 
 160
 00:12:28,081 --> 00:12:30,949
- it will perform the final mix. 
+it will perform the final mix. 
 
 161
 00:12:33,954 --> 00:12:37,122
-         at this point,         
+at this point,         
 workers add more natural rubber.
 
 162
 00:12:47,267 --> 00:12:49,634
-     then they add another,     
-          harder rubber         
+then they add another, harder rubber         
 
 163
 00:12:49,636 --> 00:12:53,437
- that will make the hockey pucks
-         more resilient.        
+that will make the hockey pucks
+more resilient.        
 
 164
 00:12:53,439 --> 00:12:56,775
-    the recipe is formulated    
- to produce a very hard rubber, 
+the recipe is formulated to produce a very hard rubber, 
 
 165
 00:12:56,777 --> 00:12:59,244
-      one that can stand up     
-          to the rigors         
+one that can stand up to the rigors         
 
 166
 00:12:59,246 --> 00:13:01,512
-        of repeated blows       
-      from a hockey stick.      
+of repeated blows from a hockey stick.      
 
 167
 00:13:01,514 --> 00:13:04,248
-       it's critical that       
-  the ingredients blend evenly. 
+it's critical that the ingredients blend evenly. 
 
 168
 00:13:04,250 --> 00:13:06,785
-       that's why workers       
-   continually cut the rubber   
+that's why workers continually cut the rubber   
 
 169
 00:13:06,787 --> 00:13:08,419
-       while it's mixing.       
+while it's mixing.       
 
 170
 00:13:25,472 --> 00:13:27,405
-       in the company lab,      
+in the company lab,      
 
 171
 00:13:27,407 --> 00:13:32,410
-  technicians evaluate a sample 
-        from each batch.        
+technicians evaluate a sample from each batch.        
 
 172
 00:13:32,412 --> 00:13:34,746
-           this device          
-     is called a rheometer.     
+this device is called a rheometer.     
 
 173
 00:13:34,748 --> 00:13:37,482
-    it analyzes what's called   
-       the curing curve --      
+it analyzes what's called the curing curve --      
 
 174
 00:13:37,484 --> 00:13:40,151
-     how the rubber hardens     
-       and to what degree.      
+how the rubber hardens and to what degree.      
 
 175
 00:13:40,153 --> 00:13:43,888
- a computer compares the curing 
-   curve to the quality model.  
+a computer compares the curing curve to the quality model.  
 
 176
 00:13:43,890 --> 00:13:46,825
-         if they match,         
-  the batch gets the go-ahead.  
+if they match, the batch gets the go-ahead.  
 
 177
 00:13:49,296 --> 00:13:52,296
-      the rubber hasn't yet     
+the rubber hasn't yet     
 gone through the curing process,
 
 178
 00:13:52,298 --> 00:13:54,232
-    so it's still malleable.    
+so it's still malleable.    
 
 179
 00:13:54,234 --> 00:13:57,502
-      an extrusion machine      
+an extrusion machine      
 squeezes it through a round die.
 
 180
 00:13:57,504 --> 00:14:02,640
-   this produces logs about 40  
+this produces logs about 40  
 inches long and 3 inches wide --
 
 181
 00:14:02,642 --> 00:14:05,944
-       the exact diameter       
-       of the hockey puck.      
+the exact diameter of the hockey puck.      
 
 182
 00:14:13,653 --> 00:14:16,921
 the next machine slices each log
-      like a loaf of bread      
+like a loaf of bread      
 
 183
 00:14:16,923 --> 00:14:18,923
-         into 39 pieces.        
+into 39 pieces.        
 
 184
 00:14:18,925 --> 00:14:21,626
- each piece is 1.1 inches thick.
+each piece is 1.1 inches thick.
 
 185
 00:14:23,797 --> 00:14:25,730
@@ -878,422 +764,365 @@ these pieces are called preforms
 
 186
 00:14:25,732 --> 00:14:29,200
-  because at this stage they're 
-  not quite fully formed pucks. 
+because at this stage they're not quite fully formed pucks. 
 
 187
 00:14:33,073 --> 00:14:35,606
-        workers put them        
-     into compression molds     
+workers put them into compression molds     
 
 188
 00:14:35,608 --> 00:14:37,942
-         that look like         
-       giant muffin pans.       
+that look like giant muffin pans.       
 
 189
 00:14:37,944 --> 00:14:39,276
-        each mold cavity        
+each mold cavity        
 
 190
 00:14:39,278 --> 00:14:42,247
-        is the exact size       
-  of the finished hockey puck.  
+is the exact size of the finished hockey puck.  
 
 191
 00:14:55,094 --> 00:14:57,428
-        a cover goes on.        
+a cover goes on.        
 
 192
 00:14:57,430 --> 00:15:00,230
-         then the molds         
-     go into a curing press,    
+then the molds go into a curing press,    
 
 193
 00:15:00,232 --> 00:15:02,300
-  which compresses the preforms 
+which compresses the preforms 
 
 194
 00:15:02,302 --> 00:15:05,103
-         and heats them         
-   to 300 degrees fahrenheit.   
+and heats them to 300 degrees fahrenheit.   
 
 195
 00:15:07,974 --> 00:15:10,642
-       it takes 18 minutes      
-     for the rubber to cure.    
+it takes 18 minutes for the rubber to cure.    
 
 196
 00:15:10,644 --> 00:15:13,244
-      the preforms come out     
-       as hockey pucks --       
+the preforms come out as hockey pucks --       
 
 197
 00:15:13,246 --> 00:15:16,314
-  rock-hard and 1/8 of an inch  
-      thinner than before.      
+rock-hard and 1/8 of an inch thinner than before.      
 
 198
 00:15:18,584 --> 00:15:21,051
-     they cool for 24 hours.    
+they cool for 24 hours.    
 
 199
 00:15:21,053 --> 00:15:23,587
-  during the compression phase, 
+during the compression phase, 
 
 200
 00:15:23,589 --> 00:15:26,724
-     excess rubber oozed out    
-     and stuck to the pucks,    
+excess rubber oozed out and stuck to the pucks,    
 
 201
 00:15:26,726 --> 00:15:29,660
-         so workers run         
-  each and every puck manually  
+so workers run each and every puck manually  
 
 202
 00:15:29,662 --> 00:15:31,529
-   through a trimming machine.  
+through a trimming machine.  
 
 203
 00:15:31,531 --> 00:15:34,265
-     there is excess rubber     
-  stuck to the molds, as well.  
+there is excess rubber stuck to the molds, as well.  
 
 204
 00:15:34,267 --> 00:15:36,668
-   the factory scrapes it off,  
-          grinds it up,         
+the factory scrapes it off, grinds it up,         
 
 205
 00:15:36,670 --> 00:15:39,938
-     and uses it as filler      
-     in subsequent batches.     
+and uses it as filler in subsequent batches.     
 
 206
 00:15:44,144 --> 00:15:47,611
-   the mold embedded a dimple   
-   pattern on the puck's edge.  
+the mold embedded a dimple pattern on the puck's edge.  
 
 207
 00:15:47,613 --> 00:15:49,413
-  this texture creates friction 
+this texture creates friction 
 
 208
 00:15:49,415 --> 00:15:51,749
-        between the puck        
-        and hockey stick.       
+between the puck and hockey stick.       
 
 209
 00:15:51,751 --> 00:15:54,218
-       the more friction,       
-    the better stickhandling    
+the more friction, the better stickhandling    
 
 210
 00:15:54,220 --> 00:15:57,255
-     and the greater control    
-        the players have.       
+and the greater control the players have.       
 
 211
 00:16:08,501 --> 00:16:10,968
-            narrator:           
-     high-pressure cylinders    
+narrator: high-pressure cylinders    
 
 212
 00:16:10,970 --> 00:16:13,438
-      are metal containers      
-   designed for storing gases   
+are metal containers designed for storing gases   
 
 213
 00:16:13,440 --> 00:16:15,706
-     and for dispensing them    
-        at high pressure.       
+and for dispensing them at high pressure.       
 
 214
 00:16:15,708 --> 00:16:17,909
-    think fire extinguishers    
-        and oxygen tanks.       
+think fire extinguishers and oxygen tanks.       
 
 215
 00:16:17,911 --> 00:16:19,510
-          the contents          
-      are often flammable,      
+the contents are often flammable,      
 
 216
 00:16:19,512 --> 00:16:20,844
-        so the challenge        
+so the challenge        
 
 217
 00:16:20,846 --> 00:16:23,848
-   is how to make these often   
-   lifesaving cylinders safe    
+is how to make these often lifesaving cylinders safe    
 
 218
 00:16:23,850 --> 00:16:26,484
-      yet still easy enough     
-             to use.            
+yet still easy enough to use.            
 
 219
 00:16:33,659 --> 00:16:36,461
-         these cylinders        
-    are made out of chromoly,   
+these cylinders are made out of chromoly,   
 
 220
 00:16:36,463 --> 00:16:39,864
-    a steel alloy containing    
-    chromium and molybdenum.    
+a steel alloy containing chromium and molybdenum.    
 
 221
 00:16:39,866 --> 00:16:42,933
-   they start with disks that   
- have already been heat-treated 
+they start with disks that have already been heat-treated 
 
 222
 00:16:42,935 --> 00:16:46,604
-   at 1,300 degrees fahrenheit  
-          for 36 hours.         
+at 1,300 degrees fahrenheit for 36 hours.         
 
 223
 00:16:46,606 --> 00:16:50,074
-   now they go into the first   
-   of five hot chemical baths   
+now they go into the first of five hot chemical baths   
 
 224
 00:16:50,076 --> 00:16:52,043
- that will help the metal flex. 
+that will help the metal flex. 
 
 225
 00:16:57,617 --> 00:17:02,086
-  after a quick drying period,  
-  each disk moves over a die.   
+after a quick drying period, each disk moves over a die.   
 
 226
 00:17:02,088 --> 00:17:04,888
-          this process          
-    is known as deep drawing    
+this process is known as deep drawing    
 
 227
 00:17:04,890 --> 00:17:09,026
-  because a series of machines  
+because a series of machines  
 will gradually draw out the disk
 
 228
 00:17:09,028 --> 00:17:10,561
-   to the shape of a cylinder.  
+to the shape of a cylinder.  
 
 229
 00:17:10,563 --> 00:17:13,030
-         a mandrel press        
-  begins stretching the metal,  
+a mandrel press begins stretching the metal,  
 
 230
 00:17:13,032 --> 00:17:15,099
-     applying up to 800 tons    
-           of force --          
+applying up to 800 tons of force --          
 
 231
 00:17:15,101 --> 00:17:18,036
-           the weight           
- of two fully loaded jumbo jets.
+the weight of two fully loaded jumbo jets.
 
 232
 00:17:19,639 --> 00:17:22,773
-      shaping the cylinder      
-  from just one piece of metal  
+shaping the cylinder from just one piece of metal  
 
 233
 00:17:22,775 --> 00:17:26,444
-   means it will be seamless,   
+means it will be seamless,   
 and that's a key safety feature.
 
 234
 00:17:26,446 --> 00:17:28,246
-  after the disk comes through, 
+after the disk comes through, 
 
 235
 00:17:28,248 --> 00:17:30,248
-      steel jaws clamp down     
-         on the mandrel,        
+steel jaws clamp down on the mandrel,        
 
 236
 00:17:30,250 --> 00:17:32,550
-   and the cylinder slips off.  
+and the cylinder slips off.  
 
 237
 00:17:34,587 --> 00:17:37,522
-        now another press       
-     stretches it even more.    
+now another press stretches it even more.    
 
 238
 00:17:39,725 --> 00:17:42,860
-          this machine          
-    applies 250 tons of force   
+this machine applies 250 tons of force   
 
 239
 00:17:42,862 --> 00:17:46,130
-       to continue forming      
-   the walls of the cylinder.   
+to continue forming the walls of the cylinder.   
 
 240
 00:17:46,132 --> 00:17:49,466
-    that liquid is a coolant    
-    to prevent overheating.     
+that liquid is a coolant to prevent overheating.     
 
 241
 00:17:49,468 --> 00:17:52,870
-    the cylinder goes through   
-    as many as three presses,   
+the cylinder goes through as many as three presses,   
 
 242
 00:17:52,872 --> 00:17:55,406
-            each one            
-   stretching it another 60%.   
+each one stretching it another 60%.   
 
 243
 00:17:57,544 --> 00:18:01,612
-   this press forms the closed  
+this press forms the closed  
 bottom end into a concave shape.
 
 244
 00:18:01,614 --> 00:18:04,348
-    that reinforces the base,   
-      helping the cylinder      
+that reinforces the base, helping the cylinder      
 
 245
 00:18:04,350 --> 00:18:06,950
 withstand up to a thousand times
-          more pressure         
+more pressure         
 
 246
 00:18:06,952 --> 00:18:09,420
-  than a can of cooking spray.  
+than a can of cooking spray.  
 
 247
 00:18:14,828 --> 00:18:18,496
-   a band saw now slices up to  
-   4 inches off the other end,  
+a band saw now slices up to 4 inches off the other end,  
 
 248
 00:18:18,498 --> 00:18:21,232
-    which will become the top   
-        of the cylinder.        
+which will become the top of the cylinder.        
 
 249
 00:18:23,703 --> 00:18:27,771
-  next, a torch heats that end  
-  to 1,800 degrees fahrenheit   
+next, a torch heats that end to 1,800 degrees fahrenheit   
 
 250
 00:18:27,773 --> 00:18:29,640
-         for 90 seconds.        
+for 90 seconds.        
 
 251
 00:18:29,642 --> 00:18:31,909
-          in a process          
-      called hot spinning,      
+in a process called hot spinning,      
 
 252
 00:18:31,911 --> 00:18:34,978
-      a worker then places      
-    the cylinder in a device    
+a worker then places the cylinder in a device    
 
 253
 00:18:34,980 --> 00:18:37,781
-   that spins it at 1,000 rpm.  
+that spins it at 1,000 rpm.  
 
 254
 00:18:37,783 --> 00:18:39,850
-      as a torch maintains      
-        the temperature,        
+as a torch maintains the temperature,        
 
 255
 00:18:39,852 --> 00:18:42,587
-   the machine shapes the edge  
-    of the searing-hot metal    
+the machine shapes the edge of the searing-hot metal    
 
 256
 00:18:42,589 --> 00:18:44,822
-          into a curve.         
+into a curve.         
 
 257
 00:18:46,592 --> 00:18:50,461
-    in this way, the machine    
+in this way, the machine    
 gradually closes off the top end
 
 258
 00:18:50,463 --> 00:18:54,532
-  and shapes two rounded areas  
-  called the shoulder and neck. 
+and shapes two rounded areas called the shoulder and neck. 
 
 259
 00:18:54,534 --> 00:18:56,267
-    making these areas curved   
+making these areas curved   
 
 260
 00:18:56,269 --> 00:18:59,604
-         is the best way        
-  to contain pressurized gases. 
+is the best way to contain pressurized gases. 
 
 261
 00:18:59,606 --> 00:19:02,273
-  curves spread out the stress  
-          on the metal.         
+curves spread out the stress on the metal.         
 
 262
 00:19:02,275 --> 00:19:05,342
-   a sharp corner would focus   
-     the stress in one spot.    
+a sharp corner would focus the stress in one spot.    
 
 263
 00:19:05,344 --> 00:19:08,913
- the only exit for gases will be
-   through a valve at the top.  
+the only exit for gases will be
+through a valve at the top.  
 
 264
 00:19:19,492 --> 00:19:21,959
- workers then place 18 cylinders
+workers then place 18 cylinders
 
 265
 00:19:21,961 --> 00:19:26,097
 in a furnace heated to more than
-    1,600 degrees fahrenheit.   
+1,600 degrees fahrenheit.   
 
 266
 00:19:26,099 --> 00:19:30,301
 after 90 minutes, a machine then
-  dunks them in a chemical bath 
+dunks them in a chemical bath 
 
 267
 00:19:30,303 --> 00:19:31,902
-    to cool for six minutes.    
+to cool for six minutes.    
 
 268
 00:19:31,904 --> 00:19:34,906
- the cylinders are then reheated
-   to 1,200 degrees fahrenheit  
+the cylinders are then reheated
+to 1,200 degrees fahrenheit  
 
 269
 00:19:34,908 --> 00:19:38,508
-         for 90 minutes,        
+for 90 minutes,        
 then left to cool for two hours.
 
 270
 00:19:38,510 --> 00:19:40,911
-        these transitions       
-     between hot and cold --    
+these transitions between hot and cold --    
 
 271
 00:19:40,913 --> 00:19:42,580
-  a process called tempering -- 
+a process called tempering -- 
 
 272
 00:19:42,582 --> 00:19:46,650
-      strengthen the metal      
- and make it somewhat flexible. 
+strengthen the metal and make it somewhat flexible. 
 
 273
 00:19:46,652 --> 00:19:50,520
- a cutting tool carves open the 
+a cutting tool carves open the 
 neck and cuts threads inside it.
 
 274
@@ -1303,105 +1132,93 @@ the valve screws into the neck.
 
 275
 00:19:54,394 --> 00:19:56,860
-             workers            
-  clean the cylinder's surface  
+workers clean the cylinder's surface  
 
 276
 00:19:56,862 --> 00:19:59,063
-         using a process        
-      called shotblasting.      
+using a process called shotblasting.      
 
 277
 00:19:59,065 --> 00:20:02,466
-   a machine shoots these tiny  
- steel pellets at the cylinders 
+a machine shoots these tiny steel pellets at the cylinders 
 
 278
 00:20:02,468 --> 00:20:04,535
-       at very high speed.      
+at very high speed.      
 
 279
 00:20:09,742 --> 00:20:13,343
-     they test the cylinder     
-    by filling it with water.   
+they test the cylinder by filling it with water.   
 
 280
 00:20:13,345 --> 00:20:16,814
-      then they seal it off     
-    and immerse it in water.    
+then they seal it off and immerse it in water.    
 
 281
 00:20:18,884 --> 00:20:22,152
 the machine then adds more water
-         to the cylinder        
+to the cylinder        
 
 282
 00:20:22,154 --> 00:20:25,690
-     and gauges how well it     
- withstands the extra pressure. 
+and gauges how well it withstands the extra pressure. 
 
 283
 00:20:25,692 --> 00:20:28,425
-      they rinse the inside     
-         with hot water,        
+they rinse the inside with hot water,        
 
 284
 00:20:28,427 --> 00:20:32,229
-      then dry and clean it     
+then dry and clean it     
 by blowing in some purified air.
 
 285
 00:20:32,231 --> 00:20:35,833
- next, a hydraulic press indents
-  the shoulder of the cylinder  
+next, a hydraulic press indents
+the shoulder of the cylinder  
 
 286
 00:20:35,835 --> 00:20:37,702
- with legally required markings,
+with legally required markings,
 
 287
 00:20:37,704 --> 00:20:40,905
- such as the manufacturing date 
-     and the serial number.     
+such as the manufacturing date and the serial number.     
 
 288
 00:20:43,309 --> 00:20:47,044
-    a machine then stretches    
-  a steel collar over the neck. 
+a machine then stretches a steel collar over the neck. 
 
 289
 00:20:49,648 --> 00:20:53,584
 another device, called a valver,
-  tightly screws on the valve,  
+tightly screws on the valve,  
 
 290
 00:20:53,586 --> 00:20:56,253
-   creating a leakproof seal.   
+creating a leakproof seal.   
 
 291
 00:20:56,255 --> 00:20:58,122
- after a trip to the paint shop,
+after a trip to the paint shop,
 
 292
 00:20:58,124 --> 00:21:01,392
-  these high-pressure cylinders 
-     are ready to be filled     
+these high-pressure cylinders are ready to be filled     
 
 293
 00:21:01,394 --> 00:21:03,928
- and keep it all under control. 
+and keep it all under control. 
 
 294
 00:21:12,405 --> 00:21:14,739
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 295
 00:21:14,741 --> 00:21:17,275
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 296
 00:21:17,277 --> 00:21:19,510
-      drop us a line at...      
+drop us a line at...      
 

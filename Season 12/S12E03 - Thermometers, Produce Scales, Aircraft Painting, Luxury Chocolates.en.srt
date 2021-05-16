@@ -1,318 +1,270 @@
 ﻿1
 00:00:03,671 --> 00:00:06,605
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:06,607 --> 00:00:09,608
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,786 --> 00:00:55,120
-   narrator: you can sense the  
+narrator: you can sense the  
 difference between hot and cold,
 
 4
 00:00:55,122 --> 00:00:57,655
-        but a thermometer       
-      puts a number on it.      
+but a thermometer puts a number on it.      
 
 5
 00:00:57,657 --> 00:00:59,391
-    the concept is simple --    
+the concept is simple --    
 
 6
 00:00:59,393 --> 00:01:01,593
-  heat causes liquid to expand, 
+heat causes liquid to expand, 
 
 7
 00:01:01,595 --> 00:01:05,731
-  forcing it up a glass column  
-  with a scale attached to it.  
+forcing it up a glass column with a scale attached to it.  
 
 8
 00:01:05,733 --> 00:01:10,502
-     italy's galileo came up    
-     with the idea in 1593.     
+italy's galileo came up with the idea in 1593.     
 
 9
 00:01:14,408 --> 00:01:17,142
-           incredibly,          
- these century-old thermometers 
+incredibly, these century-old thermometers 
 
 10
 00:01:17,144 --> 00:01:19,144
- can still tell the temperature.
+can still tell the temperature.
 
 11
 00:01:19,146 --> 00:01:23,081
-       but modern versions      
-     are a bit more precise.    
+but modern versions are a bit more precise.    
 
 12
 00:01:23,083 --> 00:01:26,985
-     to make one, they clamp    
-  glass tubing onto a carousel. 
+to make one, they clamp glass tubing onto a carousel. 
 
 13
 00:01:29,156 --> 00:01:33,625
-    as it spins, torches heat   
- the center of the hollow glass,
+as it spins, torches heat the center of the hollow glass,
 
 14
 00:01:33,627 --> 00:01:37,095
-          while below,          
- the operator pumps air into it.
+while below, the operator pumps air into it.
 
 15
 00:01:37,097 --> 00:01:40,599
-  this causes the melted glass  
-           to blister.          
+this causes the melted glass to blister.          
 
 16
 00:01:42,235 --> 00:01:44,503
-      they break the tubing     
-         at the blister,        
+they break the tubing at the blister,        
 
 17
 00:01:44,505 --> 00:01:47,438
-       creating two tubes       
-  with funnel-shaped openings.  
+creating two tubes with funnel-shaped openings.  
 
 18
 00:01:48,175 --> 00:01:50,775
-      they anchor a shorter     
-  glass cylinder on a turntable 
+they anchor a shorter glass cylinder on a turntable 
 
 19
 00:01:50,777 --> 00:01:54,913
-     and suspend one of the     
-  funnel-mouth tubes above it.  
+and suspend one of the funnel-mouth tubes above it.  
 
 20
 00:01:54,915 --> 00:01:59,651
-    the tubes spin in concert   
- as torches melt them together. 
+the tubes spin in concert as torches melt them together. 
 
 21
 00:01:59,653 --> 00:02:01,119
-       the funnel ensures       
+the funnel ensures       
 
 22
 00:02:01,121 --> 00:02:04,123
- that the melting doesn't close 
-        the hollow tube.        
+that the melting doesn't close the hollow tube.        
 
 23
 00:02:04,125 --> 00:02:08,793
-     another torch now aims     
-   further down the cylinder.   
+another torch now aims further down the cylinder.   
 
 24
 00:02:08,795 --> 00:02:12,931
-        it seals the end        
-   and shapes it into a ball.   
+it seals the end and shapes it into a ball.   
 
 25
 00:02:12,933 --> 00:02:15,934
-        to test a sample        
-     of the production run,     
+to test a sample of the production run,     
 
 26
 00:02:15,936 --> 00:02:19,137
-   they heat the entire length  
-         of the tubing.         
+they heat the entire length of the tubing.         
 
 27
 00:02:19,139 --> 00:02:21,139
-  this creates vacuum pressure  
+this creates vacuum pressure  
 
 28
 00:02:21,141 --> 00:02:23,942
-     so that when they place    
-   the open end in liquid wax,  
+so that when they place the open end in liquid wax,  
 
 29
 00:02:23,944 --> 00:02:27,512
-      the tubing sips it up     
-          like a straw.         
+the tubing sips it up like a straw.         
 
 30
 00:02:27,514 --> 00:02:30,282
- by watching the liquid ascend, 
+by watching the liquid ascend, 
 
 31
 00:02:30,284 --> 00:02:32,951
-      they confirm that the     
- thermometer fills as it should 
+they confirm that the thermometer fills as it should 
 
 32
 00:02:32,953 --> 00:02:35,787
-  and has the right dimensions. 
+and has the right dimensions. 
 
 33
 00:02:39,693 --> 00:02:43,028
-     next, the glass tubing     
-      swirls on a carousel      
+next, the glass tubing swirls on a carousel      
 
 34
 00:02:43,030 --> 00:02:46,031
-    as flames and forced air    
-          work together         
+as flames and forced air work together         
 
 35
 00:02:46,033 --> 00:02:48,032
-    to form a longer blister.   
+to form a longer blister.   
 
 36
 00:02:48,034 --> 00:02:51,069
-  again, they break the tubing  
-         at the blister.        
+again, they break the tubing at the blister.        
 
 37
 00:02:53,307 --> 00:02:55,240
-  this blister creates openings 
+this blister creates openings 
 
 38
 00:02:55,242 --> 00:02:58,376
-         that allow them        
- to snake a narrow, hollow wire 
+that allow them to snake a narrow, hollow wire 
 
 39
 00:02:58,378 --> 00:03:01,513
-       through the tubing,      
-    joining the two sections.   
+through the tubing, joining the two sections.   
 
 40
 00:03:01,515 --> 00:03:04,783
- flames melt and seal the glass 
-        around the wire.        
+flames melt and seal the glass around the wire.        
 
 41
 00:03:04,785 --> 00:03:07,319
-         this is called         
-     a glass-to-metal weld,     
+this is called a glass-to-metal weld,     
 
 42
 00:03:07,321 --> 00:03:10,822
-         and it creates         
-  a more flexible thermometer.  
+and it creates a more flexible thermometer.  
 
 43
 00:03:13,660 --> 00:03:18,263
-   they cool the welded glass   
-     and wire on a conveyor.    
+they cool the welded glass and wire on a conveyor.    
 
 44
 00:03:18,265 --> 00:03:21,800
 next, they turn on a vacuum pump
-        for several hours       
+for several hours       
 
 45
 00:03:21,802 --> 00:03:25,003
- to pull the air out of the wire
-           and tubing.          
+to pull the air out of the wire
+and tubing.          
 
 46
 00:03:25,005 --> 00:03:27,606
-           this draws           
-     the blue liquid wax up,    
+this draws the blue liquid wax up,    
 
 47
 00:03:27,608 --> 00:03:30,074
-         but this time,         
-        it's not a test.        
+but this time, it's not a test.        
 
 48
 00:03:30,076 --> 00:03:33,278
-     the wax is a nontoxic      
-     alternative to mercury     
+the wax is a nontoxic alternative to mercury     
 
 49
 00:03:33,280 --> 00:03:36,014
-  that will expand and contract 
-   with changing temperature.   
+that will expand and contract with changing temperature.   
 
 50
 00:03:36,016 --> 00:03:39,484
-   the thermometers now travel  
-    through chilled alcohol,    
+the thermometers now travel through chilled alcohol,    
 
 51
 00:03:39,486 --> 00:03:41,086
-    shrinking the blue liquid   
+shrinking the blue liquid   
 
 52
 00:03:41,088 --> 00:03:44,823
-     down to the closed end     
-       of the thermometer.      
+down to the closed end of the thermometer.      
 
 53
 00:03:44,825 --> 00:03:47,225
-      as the tubing turns,      
+as the tubing turns,      
 
 54
 00:03:47,227 --> 00:03:50,829
-    flames follow the top end   
-      to melt and close it.     
+flames follow the top end to melt and close it.     
 
 55
 00:03:50,831 --> 00:03:52,164
-        a heat gun below        
+a heat gun below        
 
 56
 00:03:52,166 --> 00:03:53,765
-     then drives the liquid     
-         up the tubing,         
+then drives the liquid up the tubing,         
 
 57
 00:03:53,767 --> 00:03:56,501
-      and the air pressure      
-   creates a bubble in the end  
+and the air pressure creates a bubble in the end  
 
 58
 00:03:56,503 --> 00:03:57,902
-      that was just closed.     
+that was just closed.     
 
 59
 00:03:57,904 --> 00:04:00,906
-     this bubble will be the    
+this bubble will be the    
 thermometer's expansion chamber.
 
 60
 00:04:00,908 --> 00:04:03,775
-  they plunge the thermometers  
-          in ice water          
+they plunge the thermometers in ice water          
 
 61
 00:04:03,777 --> 00:04:07,245
-  to calibrate the bulb liquid  
-    to 32 degrees fahrenheit.   
+to calibrate the bulb liquid to 32 degrees fahrenheit.   
 
 62
 00:04:07,247 --> 00:04:10,081
-     they scratch the glass     
-          at that mark.         
+they scratch the glass at that mark.         
 
 63
 00:04:10,083 --> 00:04:12,984
-     next, the thermometers     
-        warm up in a bath       
+next, the thermometers warm up in a bath       
 
 64
 00:04:12,986 --> 00:04:15,954
- set at 200 degrees fahrenheit. 
+set at 200 degrees fahrenheit. 
 
 65
 00:04:18,191 --> 00:04:22,160
-   the blue liquid shoots up,   
- and they make another scratch. 
+the blue liquid shoots up, and they make another scratch. 
 
 66
 00:04:26,533 --> 00:04:29,468
-  they align the two scratches  
-       in the thermometer       
+they align the two scratches in the thermometer       
 
 67
 00:04:29,470 --> 00:04:31,536
@@ -320,351 +272,302 @@ with markings on a printed grid.
 
 68
 00:04:31,538 --> 00:04:34,806
-      the distance between      
- the two scratches often varies,
+the distance between the two scratches often varies,
 
 69
 00:04:34,808 --> 00:04:37,075
-     so by measuring against    
-           this grid,           
+so by measuring against this grid,           
 
 70
 00:04:37,077 --> 00:04:39,478
-       they can calibrate       
-        the thermometer.        
+they can calibrate the thermometer.        
 
 71
 00:04:42,549 --> 00:04:47,286
- they then match the thermometer
-  with the corresponding scale. 
+they then match the thermometer
+with the corresponding scale. 
 
 72
 00:04:48,755 --> 00:04:52,090
-  they install the top section  
-  of the thermometer in a case  
+they install the top section of the thermometer in a case  
 
 73
 00:04:52,092 --> 00:04:54,693
- which can be metal or plastic. 
+which can be metal or plastic. 
 
 74
 00:04:56,229 --> 00:04:59,097
-        they then choose        
-      the appropriate scale     
+they then choose the appropriate scale     
 
 75
 00:04:59,099 --> 00:05:02,634
-      and slide it between      
-   the glass tubing and case.   
+and slide it between the glass tubing and case.   
 
 76
 00:05:02,636 --> 00:05:06,037
-   they wrap part of the wire   
-    capillary around a joint    
+they wrap part of the wire capillary around a joint    
 
 77
 00:05:06,039 --> 00:05:07,739
-        and then cap it.        
+and then cap it.        
 
 78
 00:05:09,977 --> 00:05:13,178
-         the sensor bulb        
+the sensor bulb        
 of this thermometer will be used
 
 79
 00:05:13,180 --> 00:05:16,447
-    to gauge the temperature    
-    inside industrial piping.   
+to gauge the temperature inside industrial piping.   
 
 80
 00:05:16,449 --> 00:05:18,716
-       so they protect it       
-       with a metal sleeve      
+so they protect it with a metal sleeve      
 
 81
 00:05:18,718 --> 00:05:20,251
-     called a bulb chamber.     
+called a bulb chamber.     
 
 82
 00:05:20,253 --> 00:05:22,387
-  a glass window slides easily  
+a glass window slides easily  
 
 83
 00:05:22,389 --> 00:05:25,190
- into the grooves of the casing.
+into the grooves of the casing.
 
 84
 00:05:25,192 --> 00:05:28,126
-          a plastic cap         
-     is the finishing touch.    
+a plastic cap is the finishing touch.    
 
 85
 00:05:31,331 --> 00:05:34,266
-   and now these thermometers   
-       are ready to gauge       
+and now these thermometers are ready to gauge       
 
 86
 00:05:34,268 --> 00:05:37,135
-       the highs and lows       
-    of industrial processing,   
+the highs and lows of industrial processing,   
 
 87
 00:05:37,137 --> 00:05:41,106
-        and they're sure        
- to measure up to expectations. 
+and they're sure to measure up to expectations. 
 
 88
 00:05:51,218 --> 00:05:53,084
- narrator: much of what you buy 
-    in the produce department   
+narrator: much of what you buy in the produce department   
 
 89
 00:05:53,086 --> 00:05:54,753
-       of your supermarket      
-       is sold by weight.       
+of your supermarket is sold by weight.       
 
 90
 00:05:54,755 --> 00:05:57,622
-   so the store usually hangs   
- a scale at the end of the aisle
+so the store usually hangs a scale at the end of the aisle
 
 91
 00:05:57,624 --> 00:05:59,557
-     on which you can weigh     
-          your purchase         
+on which you can weigh your purchase         
 
 92
 00:05:59,559 --> 00:06:01,493
-       before heading off       
-        to the checkout.        
+before heading off to the checkout.        
 
 93
 00:06:01,495 --> 00:06:03,294
-        this is typically       
-         a type of scale        
+this is typically a type of scale        
 
 94
 00:06:03,296 --> 00:06:04,696
-  with fairly simple mechanics. 
+with fairly simple mechanics. 
 
 95
 00:06:04,698 --> 00:06:06,764
- internal springs spin a pointer
+internal springs spin a pointer
 
 96
 00:06:06,766 --> 00:06:09,334
-   to the correct weight mark   
-           on a dial.           
+to the correct weight mark on a dial.           
 
 97
 00:06:13,106 --> 00:06:15,440
-      the weight of produce     
-       hanging in the pan       
+the weight of produce hanging in the pan       
 
 98
 00:06:15,442 --> 00:06:18,176
-   pulls on a pair of springs   
-        inside the scale.       
+pulls on a pair of springs inside the scale.       
 
 99
 00:06:18,178 --> 00:06:21,780
- they move the various internal 
+they move the various internal 
 components that turn the pointer
 
 100
 00:06:21,782 --> 00:06:24,916
 to the corresponding weight mark
-          on the dial.          
+on the dial.          
 
 101
 00:06:24,918 --> 00:06:26,651
-   to make the scale's frame,   
+to make the scale's frame,   
 
 102
 00:06:26,653 --> 00:06:29,321
-  a press stamps a steel plate  
-           five times,          
+a press stamps a steel plate five times,          
 
 103
 00:06:29,323 --> 00:06:31,857
-      progressively cutting     
-         and bending it         
+progressively cutting and bending it         
 
 104
 00:06:31,859 --> 00:06:35,727
-   into the final frame shape.  
+into the final frame shape.  
 
 105
 00:06:35,729 --> 00:06:38,663
-          a washer goes         
-     into each steel spring.    
+a washer goes into each steel spring.    
 
 106
 00:06:38,665 --> 00:06:41,599
-     they turn it up or down    
- to adjust the spring's tension.
+they turn it up or down to adjust the spring's tension.
 
 107
 00:06:41,601 --> 00:06:45,337
-  that's how they'll calibrate  
-        the scale later.        
+that's how they'll calibrate the scale later.        
 
 108
 00:06:45,339 --> 00:06:48,673
-   the top part of each spring  
-     will bolt to the frame,    
+the top part of each spring will bolt to the frame,    
 
 109
 00:06:48,675 --> 00:06:51,276
-       and the bottom part      
-        to this slider --       
+and the bottom part to this slider --       
 
 110
 00:06:51,278 --> 00:06:54,246
-     a long metal component     
-     with weight markings.      
+a long metal component with weight markings.      
 
 111
 00:06:57,351 --> 00:07:00,485
-  next, they attach a component 
-          called a rack         
+next, they attach a component called a rack         
 
 112
 00:07:00,487 --> 00:07:02,220
-    to one end of the slider,   
+to one end of the slider,   
 
 113
 00:07:02,222 --> 00:07:05,824
-   securing the screw tightly   
-   with thread-locking fluid.   
+securing the screw tightly with thread-locking fluid.   
 
 114
 00:07:09,963 --> 00:07:13,832
- the rack's teeth will mesh with
-  this pinion gear and turn it. 
+the rack's teeth will mesh with
+this pinion gear and turn it. 
 
 115
 00:07:13,834 --> 00:07:17,302
-      they install one end      
-  of the pinion into the frame. 
+they install one end of the pinion into the frame. 
 
 116
 00:07:17,304 --> 00:07:19,638
-       then they screw on       
-         a metal bridge         
+then they screw on a metal bridge         
 
 117
 00:07:19,640 --> 00:07:21,440
-    to support the other end.   
+to support the other end.   
 
 118
 00:07:23,543 --> 00:07:25,176
-     they insert the slider     
+they insert the slider     
 
 119
 00:07:25,178 --> 00:07:28,112
-     with the rack attached     
-       through the bridge.      
+with the rack attached through the bridge.      
 
 120
 00:07:28,114 --> 00:07:31,682
 now when you pull on the slider,
-        the pinion turns.       
+the pinion turns.       
 
 121
 00:07:32,786 --> 00:07:36,321
-  next, they attach the springs 
-    to the frame and slider.    
+next, they attach the springs to the frame and slider.    
 
 122
 00:07:36,323 --> 00:07:38,790
-           each spring          
-     in this imperial scale     
+each spring in this imperial scale     
 
 123
 00:07:38,792 --> 00:07:41,059
-    supports up to 20 pounds,   
+supports up to 20 pounds,   
 
 124
 00:07:41,061 --> 00:07:42,928
-  making this a 40-pound scale. 
+making this a 40-pound scale. 
 
 125
 00:07:42,930 --> 00:07:45,130
-           when weight          
-      pulls on the springs,     
+when weight pulls on the springs,     
 
 126
 00:07:45,132 --> 00:07:48,032
-       they move the rack,      
-     which turns the pinion,    
+they move the rack, which turns the pinion,    
 
 127
 00:07:48,034 --> 00:07:51,069
-          which rotates         
-      the scale's pointer.      
+which rotates the scale's pointer.      
 
 128
 00:07:51,071 --> 00:07:54,673
 a press stamps out the dial face
-       from a steel plate.      
+from a steel plate.      
 
 129
 00:07:57,477 --> 00:07:59,277
-    after painting it white,    
+after painting it white,    
 
 130
 00:07:59,279 --> 00:08:03,048
-   they print on the markings   
-   with a silk-screen press.    
+they print on the markings with a silk-screen press.    
 
 131
 00:08:05,285 --> 00:08:06,751
-      they insert a spring      
+they insert a spring      
 
 132
 00:08:06,753 --> 00:08:10,354
-       to prevent the rack      
-  from slipping on the pinion.  
+to prevent the rack from slipping on the pinion.  
 
 133
 00:08:10,356 --> 00:08:13,358
-     then they put the face     
-         over the bridge        
+then they put the face over the bridge        
 
 134
 00:08:13,360 --> 00:08:17,762
-  so that the pinion protrudes  
-  through a hole in the middle. 
+so that the pinion protrudes through a hole in the middle. 
 
 135
 00:08:17,764 --> 00:08:20,164
-    a guide helps them align    
-            the face            
+a guide helps them align the face            
 
 136
 00:08:20,166 --> 00:08:22,767
-    so that the zero will be    
-       in the right spot.       
+so that the zero will be in the right spot.       
 
 137
 00:08:22,769 --> 00:08:27,238
-  then they tighten two screws  
-       to attach the face.      
+then they tighten two screws to attach the face.      
 
 138
 00:08:27,240 --> 00:08:30,909
-   a press stamps the pointer   
- from a thin sheet of aluminum. 
+a press stamps the pointer from a thin sheet of aluminum. 
 
 139
 00:08:32,246 --> 00:08:35,313
-      using a special tool,     
-       they twist the end,      
+using a special tool, they twist the end,      
 
 140
 00:08:35,315 --> 00:08:39,050
-       forming a thin tip       
+forming a thin tip       
 that won't obscure the fine line
 
 141
@@ -673,308 +576,262 @@ to which the pointer's pointing.
 
 142
 00:08:47,193 --> 00:08:50,862
-    next, a coat of red paint   
-  so the pointer will stand out 
+next, a coat of red paint so the pointer will stand out 
 
 143
 00:08:50,864 --> 00:08:53,765
-             against            
-    the black-and-white face.   
+against the black-and-white face.   
 
 144
 00:08:56,135 --> 00:08:58,203
-      once the paint's dry,     
+once the paint's dry,     
 
 145
 00:08:58,205 --> 00:09:01,206
-     they mallet the pointer    
-        onto the pinion.        
+they mallet the pointer onto the pinion.        
 
 146
 00:09:01,208 --> 00:09:03,875
-      now they hang the pan     
-          on the scale          
+now they hang the pan on the scale          
 
 147
 00:09:03,877 --> 00:09:06,077
-     and turn a little screw    
-          in the slider         
+and turn a little screw in the slider         
 
 148
 00:09:06,079 --> 00:09:08,013
- to adjust the pointer to zero. 
+to adjust the pointer to zero. 
 
 149
 00:09:08,015 --> 00:09:11,483
-     this ensures the scale     
-   will weigh just the produce  
+this ensures the scale will weigh just the produce  
 
 150
 00:09:11,485 --> 00:09:14,019
-     rather than the produce    
-          and the pan.          
+rather than the produce and the pan.          
 
 151
 00:09:16,823 --> 00:09:18,957
-  now they calibrate the scale. 
+now they calibrate the scale. 
 
 152
 00:09:18,959 --> 00:09:22,960
-    to do this, they load it    
- with weights to full capacity, 
+to do this, they load it with weights to full capacity, 
 
 153
 00:09:22,962 --> 00:09:25,330
-       which is 40 pounds       
-         for this scale.        
+which is 40 pounds for this scale.        
 
 154
 00:09:29,503 --> 00:09:33,571
- if the pointer doesn't indicate
-     40 pounds on the nose,     
+if the pointer doesn't indicate
+40 pounds on the nose,     
 
 155
 00:09:33,573 --> 00:09:35,840
-      they turn the washer      
-         in each spring         
+they turn the washer in each spring         
 
 156
 00:09:35,842 --> 00:09:37,309
-    to adjust the resistance.   
+to adjust the resistance.   
 
 157
 00:09:42,048 --> 00:09:45,450
-  then they adjust the pointer  
-       back to zero again.      
+then they adjust the pointer back to zero again.      
 
 158
 00:09:53,727 --> 00:09:56,728
-     this is what they call     
-      a double-dial scale,      
+this is what they call a double-dial scale,      
 
 159
 00:09:56,730 --> 00:10:00,131
-      meaning it has a face     
-    and pointer on each side.   
+meaning it has a face and pointer on each side.   
 
 160
 00:10:00,133 --> 00:10:04,336
- they install the second dial on
- the opposite end of the pinion 
+they install the second dial on
+the opposite end of the pinion 
 
 161
 00:10:04,338 --> 00:10:07,439
-    so that the two pointers    
-         move in unison.        
+so that the two pointers move in unison.        
 
 162
 00:10:07,441 --> 00:10:11,008
-     they close up the space    
-      between the two dials     
+they close up the space between the two dials     
 
 163
 00:10:11,010 --> 00:10:13,278
- with a strip of white plastic. 
+with a strip of white plastic. 
 
 164
 00:10:13,280 --> 00:10:15,480
- this sash ring, as it's called,
+this sash ring, as it's called,
 
 165
 00:10:15,482 --> 00:10:17,148
-    has grooves for the dials   
+has grooves for the dials   
 
 166
 00:10:17,150 --> 00:10:21,152
- and for the transparent plastic
-   cover that goes over them.   
+and for the transparent plastic
+cover that goes over them.   
 
 167
 00:10:21,954 --> 00:10:25,223
-  hanging scales can have dials 
-      or digital readouts,      
+hanging scales can have dials or digital readouts,      
 
 168
 00:10:25,225 --> 00:10:28,159
-          and they come         
- in a wide range of capacities, 
+and they come in a wide range of capacities, 
 
 169
 00:10:28,161 --> 00:10:31,696
-   from your common 20-pound,   
- or 10-kilogram, grocery model, 
+from your common 20-pound, or 10-kilogram, grocery model, 
 
 170
 00:10:31,698 --> 00:10:36,634
-    to heavy-duty 600-pound,    
-       or 272-kilo, scales      
+to heavy-duty 600-pound, or 272-kilo, scales      
 
 171
 00:10:36,636 --> 00:10:40,438
-  designed to pull their weight 
-          in industry.          
+designed to pull their weight in industry.          
 
 172
 00:10:49,983 --> 00:10:52,850
-            narrator:           
- the stresses of flight are hard
-   on an aircraft's paint job.  
+narrator: the stresses of flight are hard
+on an aircraft's paint job.  
 
 173
 00:10:52,852 --> 00:10:55,453
-      ice, rain, and other      
-      environmental factors     
+ice, rain, and other environmental factors     
 
 174
 00:10:55,455 --> 00:10:58,255
-    can soon make an aircraft   
-       look travel-weary.       
+can soon make an aircraft look travel-weary.       
 
 175
 00:10:58,257 --> 00:11:00,792
-       regular paint jobs       
-       are just the ticket      
+regular paint jobs are just the ticket      
 
 176
 00:11:00,794 --> 00:11:03,661
-          when it comes         
-   to keeping up appearances.   
+when it comes to keeping up appearances.   
 
 177
 00:11:03,663 --> 00:11:07,032
-     they also help maintain    
- the integrity of the airframe. 
+they also help maintain the integrity of the airframe. 
 
 178
 00:11:11,271 --> 00:11:14,673
-    problems may lurk beneath   
-  the old paint of an aircraft. 
+problems may lurk beneath the old paint of an aircraft. 
 
 179
 00:11:14,675 --> 00:11:19,744
-   stripping it off can expose  
+stripping it off can expose  
 weaknesses in the aluminum skin.
 
 180
 00:11:19,746 --> 00:11:22,647
-          they brush on         
-  a powerful chemical solution. 
+they brush on a powerful chemical solution. 
 
 181
 00:11:24,351 --> 00:11:25,950
-     the paint bubbles off,     
+the paint bubbles off,     
 
 182
 00:11:25,952 --> 00:11:29,921
-     baring the aluminum and    
- any small holes or dents in it.
+baring the aluminum and any small holes or dents in it.
 
 183
 00:11:33,026 --> 00:11:35,092
- they seal the windows and doors
+they seal the windows and doors
 
 184
 00:11:35,094 --> 00:11:37,962
-  and wrap sensitive components 
-          like antennas         
+and wrap sensitive components like antennas         
 
 185
 00:11:37,964 --> 00:11:41,266
 to protect them during stripping
-        and pre-painting.       
+and pre-painting.       
 
 186
 00:11:47,707 --> 00:11:50,775
-       back to those flaws      
-    on the exposed aluminum.    
+back to those flaws on the exposed aluminum.    
 
 187
 00:11:50,777 --> 00:11:52,243
-      a production manager      
+a production manager      
 
 188
 00:11:52,245 --> 00:11:55,447
-  flags any damage or corrosion 
-         with blue tape.        
+flags any damage or corrosion with blue tape.        
 
 189
 00:11:59,052 --> 00:12:02,653
-     a technician then mixes    
- a two-part aerodynamic filler. 
+a technician then mixes a two-part aerodynamic filler. 
 
 190
 00:12:02,655 --> 00:12:04,922
-        he works quickly        
+he works quickly        
 
 191
 00:12:04,924 --> 00:12:07,992
 because the compound will harden
-           in minutes.          
+in minutes.          
 
 192
 00:12:07,994 --> 00:12:11,395
-      he spreads the filler     
-         on the defects         
+he spreads the filler on the defects         
 
 193
 00:12:11,397 --> 00:12:14,532
-           flagged by           
-     the production manager.    
+flagged by the production manager.    
 
 194
 00:12:14,534 --> 00:12:18,402
-    the repair job smoothes     
-    the surface for painting    
+the repair job smoothes the surface for painting    
 
 195
 00:12:18,404 --> 00:12:22,607
-     and makes the airframe     
- stronger and more aerodynamic. 
+and makes the airframe stronger and more aerodynamic. 
 
 196
 00:12:25,478 --> 00:12:28,879
-  this aircraft has been primed 
-           and sanded.          
+this aircraft has been primed and sanded.          
 
 197
 00:12:28,881 --> 00:12:32,016
-    now technicians blow off    
-          all the dust.         
+now technicians blow off all the dust.         
 
 198
 00:12:36,823 --> 00:12:40,425
-     they also wipe it down     
-     with adhesive cloths.      
+they also wipe it down with adhesive cloths.      
 
 199
 00:12:40,427 --> 00:12:43,695
-     this intensive cleaning    
-           is crucial.          
+this intensive cleaning is crucial.          
 
 200
 00:12:43,697 --> 00:12:46,096
-            the plane           
-     has to be squeaky-clean    
+the plane has to be squeaky-clean    
 
 201
 00:12:46,098 --> 00:12:48,500
-          or the paint          
-     won't adhere properly.     
+or the paint won't adhere properly.     
 
 202
 00:12:51,571 --> 00:12:55,173
-       next, they prepare       
-      an additional primer.     
+next, they prepare an additional primer.     
 
 203
 00:12:56,643 --> 00:12:59,710
-     they spray it on areas     
-     that need more coverage    
+they spray it on areas that need more coverage    
 
 204
 00:12:59,712 --> 00:13:02,714
-        and around parts        
-  that will get a lot of wear.  
+and around parts that will get a lot of wear.  
 
 205
 00:13:07,587 --> 00:13:10,054
@@ -982,250 +839,213 @@ they then mix polyurethane paint
 
 206
 00:13:10,056 --> 00:13:13,258
-     with various catalysts     
-         and activators.        
+with various catalysts and activators.        
 
 207
 00:13:13,260 --> 00:13:15,593
- it's a special aircraft blend. 
+it's a special aircraft blend. 
 
 208
 00:13:15,595 --> 00:13:18,062
-    jets can be jumbo-sized,    
-           of course,           
+jets can be jumbo-sized, of course,           
 
 209
 00:13:18,064 --> 00:13:21,332
-  so they often prep and paint  
-      a section at a time,      
+so they often prep and paint a section at a time,      
 
 210
 00:13:21,334 --> 00:13:23,200
-  sometimes on different days.  
+sometimes on different days.  
 
 211
 00:13:23,202 --> 00:13:25,003
-       they're now working      
-    on the fuselage and tail.   
+they're now working on the fuselage and tail.   
 
 212
 00:13:25,005 --> 00:13:26,737
- respirators and full-body gear 
+respirators and full-body gear 
 
 213
 00:13:26,739 --> 00:13:29,140
-          protect them          
-    from the hazardous fumes    
+protect them from the hazardous fumes    
 
 214
 00:13:29,142 --> 00:13:31,943
-    as they work from the top   
-      of the aircraft down.     
+as they work from the top of the aircraft down.     
 
 215
 00:13:31,945 --> 00:13:34,879
 a warm, low-humidity environment
-          is essential          
+is essential          
 
 216
 00:13:34,881 --> 00:13:37,348
-       to allow the paint       
-       to cure properly.        
+to allow the paint to cure properly.        
 
 217
 00:13:37,350 --> 00:13:39,684
-       and they'll adjust       
-       the paint formula        
+and they'll adjust the paint formula        
 
 218
 00:13:39,686 --> 00:13:42,654
-          to compensate         
- when conditions aren't optimal.
+to compensate when conditions aren't optimal.
 
 219
 00:13:46,426 --> 00:13:49,427
-    an aircraft usually gets    
-       two to three coats,      
+an aircraft usually gets two to three coats,      
 
 220
 00:13:49,429 --> 00:13:52,797
-          resulting in          
-      a high-gloss finish.      
+resulting in a high-gloss finish.      
 
 221
 00:13:58,705 --> 00:14:00,438
-         while it dries,        
+while it dries,        
 
 222
 00:14:00,440 --> 00:14:03,040
-    a technician demonstrates   
-         for our camera         
+a technician demonstrates for our camera         
 
 223
 00:14:03,042 --> 00:14:06,043
- the process of painting stripes
-        onto an aircraft.       
+the process of painting stripes
+onto an aircraft.       
 
 224
 00:14:06,045 --> 00:14:08,713
-  he maps out the paint scheme  
-           with tape,           
+he maps out the paint scheme with tape,           
 
 225
 00:14:08,715 --> 00:14:10,715
-   then peels away some of it.  
+then peels away some of it.  
 
 226
 00:14:14,054 --> 00:14:18,323
-         he spray-paints        
-      the exposed sections.     
+he spray-paints the exposed sections.     
 
 227
 00:14:18,325 --> 00:14:19,991
-     he peels off more tape     
+he peels off more tape     
 
 228
 00:14:19,993 --> 00:14:22,861
-         and then covers        
-   the freshly painted stripes  
+and then covers the freshly painted stripes  
 
 229
 00:14:22,863 --> 00:14:24,395
-      with protective paper     
+with protective paper     
 
 230
 00:14:24,397 --> 00:14:27,465
-  so he can spray another color 
-         onto the plane.        
+so he can spray another color onto the plane.        
 
 231
 00:14:29,803 --> 00:14:32,670
-          he pulls back         
-    the final pieces of tape,   
+he pulls back the final pieces of tape,   
 
 232
 00:14:32,672 --> 00:14:36,007
-       and this job passes      
-       with flying colors.      
+and this job passes with flying colors.      
 
 233
 00:14:40,747 --> 00:14:42,880
- they do some final detail work 
+they do some final detail work 
 
 234
 00:14:42,882 --> 00:14:46,017
-     to make sure the lines     
-      are clean and crisp.      
+to make sure the lines are clean and crisp.      
 
 235
 00:14:46,019 --> 00:14:47,952
-  after all, appearances count  
+after all, appearances count  
 
 236
 00:14:47,954 --> 00:14:51,222
-    in the high-flying world    
-    of international travel.    
+in the high-flying world of international travel.    
 
 237
 00:14:59,365 --> 00:15:02,967
-  even very tiny imperfections  
-       won't be tolerated.      
+even very tiny imperfections won't be tolerated.      
 
 238
 00:15:02,969 --> 00:15:06,704
-   using fine-grit sandpaper,   
-   they make them disappear.    
+using fine-grit sandpaper, they make them disappear.    
 
 239
 00:15:06,706 --> 00:15:10,308
-     it can take four weeks     
-     and 1,800 person-hours     
+it can take four weeks and 1,800 person-hours     
 
 240
 00:15:10,310 --> 00:15:12,911
-     to repaint a large jet.    
+to repaint a large jet.    
 
 241
 00:15:15,982 --> 00:15:19,650
-   and when it comes to price,  
-      the sky's the limit.      
+and when it comes to price, the sky's the limit.      
 
 242
 00:15:19,652 --> 00:15:24,121
-  the least expensive jobs cost 
-  tens of thousands of dollars. 
+the least expensive jobs cost tens of thousands of dollars. 
 
 243
 00:15:24,123 --> 00:15:27,325
-         so the customer        
-       has the final say.       
+so the customer has the final say.       
 
 244
 00:15:27,327 --> 00:15:29,460
-       the handshake means      
+the handshake means      
 
 245
 00:15:29,462 --> 00:15:34,432
-  this plane is ready to model  
-  its new look on the runway.   
+this plane is ready to model its new look on the runway.   
 
 246
 00:15:48,014 --> 00:15:49,814
-            narrator:           
-  bite into a luxury chocolate, 
+narrator: bite into a luxury chocolate, 
 
 247
 00:15:49,816 --> 00:15:52,549
-  and you'll get a taste of one 
-  of the finer things in life.  
+and you'll get a taste of one of the finer things in life.  
 
 248
 00:15:52,551 --> 00:15:55,086
-    each one tastes different   
-         from the next,         
+each one tastes different from the next,         
 
 249
 00:15:55,088 --> 00:15:57,422
-      and it's that element     
-           of surprise          
+and it's that element of surprise          
 
 250
 00:15:57,424 --> 00:15:59,690
-          that keeps us         
-      coming back for more.     
+that keeps us coming back for more.     
 
 251
 00:15:59,692 --> 00:16:02,894
-   of course you could consult  
-      the index on the box,     
+of course you could consult the index on the box,     
 
 252
 00:16:02,896 --> 00:16:04,996
-  but that would spoil the fun. 
+but that would spoil the fun. 
 
 253
 00:16:09,902 --> 00:16:12,170
-      ever since chocolate      
-         was discovered,        
+ever since chocolate was discovered,        
 
 254
 00:16:12,172 --> 00:16:14,372
-         people have had        
-        a craving for it.       
+people have had a craving for it.       
 
 255
 00:16:14,374 --> 00:16:17,175
-    today's luxury chocolates   
-       take our addiction       
+today's luxury chocolates take our addiction       
 
 256
 00:16:17,177 --> 00:16:20,244
-      to a whole new level.     
+to a whole new level.     
 
 257
 00:16:20,246 --> 00:16:24,382
-   they add marshmallow cream   
-     and lots of pure butter    
+they add marshmallow cream and lots of pure butter    
 
 258
 00:16:24,384 --> 00:16:26,183
@@ -1233,72 +1053,60 @@ to a mix of sugar and corn syrup
 
 259
 00:16:26,185 --> 00:16:28,553
-           to whip up           
-  some buttercream chocolates.  
+to whip up some buttercream chocolates.  
 
 260
 00:16:30,723 --> 00:16:33,791
-         water, vanilla,        
-   and a special yeast enzyme   
+water, vanilla, and a special yeast enzyme   
 
 261
 00:16:33,793 --> 00:16:35,459
-      complete the recipe.      
+complete the recipe.      
 
 262
 00:16:35,461 --> 00:16:38,696
-     the enzyme will enhance    
-         the creaminess.        
+the enzyme will enhance the creaminess.        
 
 263
 00:16:41,133 --> 00:16:44,535
-    they tuck the buttercream   
-     between ridged rollers,    
+they tuck the buttercream between ridged rollers,    
 
 264
 00:16:44,537 --> 00:16:47,205
-         which shape it         
-      into creamy columns.      
+which shape it into creamy columns.      
 
 265
 00:16:47,207 --> 00:16:51,642
-       a wire slices them       
-    into bite-sized morsels.    
+a wire slices them into bite-sized morsels.    
 
 266
 00:16:58,284 --> 00:17:01,686
-   they tamp the buttercreams   
-      to a uniform height.      
+they tamp the buttercreams to a uniform height.      
 
 267
 00:17:03,022 --> 00:17:06,758
-   chocolate oozes up through   
-   the slats of this conveyor   
+chocolate oozes up through the slats of this conveyor   
 
 268
 00:17:06,760 --> 00:17:09,093
-       to coat the bottoms      
-         of the creams.         
+to coat the bottoms of the creams.         
 
 269
 00:17:09,095 --> 00:17:13,097
-          then it's on          
- to a cool surface to solidify. 
+then it's on to a cool surface to solidify. 
 
 270
 00:17:13,099 --> 00:17:17,568
- next, the creams travel through
-    two curtains of chocolate   
+next, the creams travel through
+two curtains of chocolate   
 
 271
 00:17:17,570 --> 00:17:20,405
-       while being coated       
-      on the bottoms again.     
+while being coated on the bottoms again.     
 
 272
 00:17:24,977 --> 00:17:28,912
-    a worker uses her fingers   
-  to make a symbol on the top.  
+a worker uses her fingers to make a symbol on the top.  
 
 273
 00:17:28,914 --> 00:17:32,450
@@ -1306,237 +1114,208 @@ it's a clue as to what's inside.
 
 274
 00:17:32,452 --> 00:17:36,053
-        a trip through a        
- 24 1/2-foot-long cooling tunnel
+a trip through a 24 1/2-foot-long cooling tunnel
 
 275
 00:17:36,055 --> 00:17:39,590
-     hardens the chocolate,     
- and it's a feast for the eyes. 
+hardens the chocolate, and it's a feast for the eyes. 
 
 276
 00:17:39,592 --> 00:17:41,525
- you can look, but don't taste. 
+you can look, but don't taste. 
 
 277
 00:17:41,527 --> 00:17:45,263
-        these chocolates        
-  are headed to the stockroom.  
+these chocolates are headed to the stockroom.  
 
 278
 00:17:45,265 --> 00:17:48,866
-         now production         
-       takes a sweet turn       
+now production takes a sweet turn       
 
 279
 00:17:48,868 --> 00:17:51,335
-         as they cook up        
-       a caramel filling.       
+as they cook up a caramel filling.       
 
 280
 00:17:51,337 --> 00:17:53,671
-     they add sugar and salt    
-            to water,           
+they add sugar and salt to water,           
 
 281
 00:17:53,673 --> 00:17:56,908
-     followed by corn syrup     
-    and a lot of heavy cream.   
+followed by corn syrup and a lot of heavy cream.   
 
 282
 00:18:00,279 --> 00:18:04,782
-     they fire up the burner    
-     and turn on the mixer.     
+they fire up the burner and turn on the mixer.     
 
 283
 00:18:05,952 --> 00:18:08,619
-   they add butter to enhance   
-           the flavor.          
+they add butter to enhance the flavor.          
 
 284
 00:18:08,621 --> 00:18:11,355
-           as the mix           
-    comes to a bubbling boil,   
+as the mix comes to a bubbling boil,   
 
 285
 00:18:11,357 --> 00:18:13,091
-         it caramelizes.        
+it caramelizes.        
 
 286
 00:18:13,093 --> 00:18:15,093
-    then they kill the heat.    
+then they kill the heat.    
 
 287
 00:18:15,095 --> 00:18:19,263
- otherwise, the next ingredient,
- pure vanilla, would evaporate. 
+otherwise, the next ingredient,
+pure vanilla, would evaporate. 
 
 288
 00:18:25,438 --> 00:18:28,772
- they apply a nonstick substance
-          to a big pan,         
+they apply a nonstick substance
+to a big pan,         
 
 289
 00:18:28,774 --> 00:18:32,610
- then pour the caramel into it. 
+then pour the caramel into it. 
 
 290
 00:18:35,982 --> 00:18:39,917
- they leave it to set overnight.
+they leave it to set overnight.
 
 291
 00:18:39,919 --> 00:18:43,888
-    the next day, they divide   
- the caramel slab into squares. 
+the next day, they divide the caramel slab into squares. 
 
 292
 00:18:53,800 --> 00:18:55,733
-  they feed the caramel squares 
+they feed the caramel squares 
 
 293
 00:18:55,735 --> 00:18:58,269
-          into a device         
-      with circular knives.     
+into a device with circular knives.     
 
 294
 00:18:58,271 --> 00:19:00,471
-   it's called a gang cutter,   
+it's called a gang cutter,   
 
 295
 00:19:00,473 --> 00:19:03,140
-    and it slices the squares   
-          into strips.          
+and it slices the squares into strips.          
 
 296
 00:19:03,142 --> 00:19:06,410
-            they turn           
-   the sliced square sideways,  
+they turn the sliced square sideways,  
 
 297
 00:19:06,412 --> 00:19:08,279
-           and it goes          
-  through the gang cutter again 
+and it goes through the gang cutter again 
 
 298
 00:19:08,281 --> 00:19:10,548
-    to create caramel cubes.    
+to create caramel cubes.    
 
 299
 00:19:10,550 --> 00:19:14,285
-     they dust the caramels     
-           with starch          
+they dust the caramels with starch          
 
 300
 00:19:14,287 --> 00:19:16,554
-       so they won't stick      
-          to each other         
+so they won't stick to each other         
 
 301
 00:19:16,556 --> 00:19:19,123
-       as they go through       
-  the chocolate-coating system. 
+as they go through the chocolate-coating system. 
 
 302
 00:19:25,365 --> 00:19:28,966
-     and that's how they get    
-  the caramel in the chocolate. 
+and that's how they get the caramel in the chocolate. 
 
 303
 00:19:28,968 --> 00:19:31,569
-             to make            
-   cordial-cherry chocolates,   
+to make cordial-cherry chocolates,   
 
 304
 00:19:31,571 --> 00:19:34,972
-     they load the cherries     
-     into a revolving pan.      
+they load the cherries into a revolving pan.      
 
 305
 00:19:34,974 --> 00:19:38,843
-    they add sugar crystals,    
+they add sugar crystals,    
 and as the cherries roll around,
 
 306
 00:19:38,845 --> 00:19:41,012
-    they get an even coating.   
+they get an even coating.   
 
 307
 00:19:44,584 --> 00:19:46,116
-      along with the sugar,     
+along with the sugar,     
 
 308
 00:19:46,118 --> 00:19:49,186
- these cherries have been coated
-     with a special enzyme.     
+these cherries have been coated
+with a special enzyme.     
 
 309
 00:19:49,188 --> 00:19:52,456
 it will turn the sugar to liquid
-      over the next 10 days     
+over the next 10 days     
 
 310
 00:19:52,458 --> 00:19:55,058
-   for a juicer cherry taste.   
+for a juicer cherry taste.   
 
 311
 00:19:55,060 --> 00:19:57,195
-        the enzyme effect       
+the enzyme effect       
 
 312
 00:19:57,197 --> 00:20:00,130
-     is why the cherries get    
- an extra coating of chocolate. 
+is why the cherries get an extra coating of chocolate. 
 
 313
 00:20:00,132 --> 00:20:04,368
-    it creates a solid shell    
+it creates a solid shell    
 that contains the sugary liquid.
 
 314
 00:20:09,208 --> 00:20:13,477
-      and now they're ready     
- for cherry-picking chocoholics.
+and now they're ready for cherry-picking chocoholics.
 
 315
 00:20:14,880 --> 00:20:19,083
- each box of chocolates contains
-  18 to 20 different varieties. 
+each box of chocolates contains
+18 to 20 different varieties. 
 
 316
 00:20:19,085 --> 00:20:22,353
-         since they make        
-  three to four flavors a day,  
+since they make three to four flavors a day,  
 
 317
 00:20:22,355 --> 00:20:23,954
-    it can take up to a week    
+it can take up to a week    
 
 318
 00:20:23,956 --> 00:20:26,791
-     to produce one of these    
-       luxury assortments.      
+to produce one of these luxury assortments.      
 
 319
 00:20:29,028 --> 00:20:31,629
- of course, they'll be devoured 
-       in no time at all.       
+of course, they'll be devoured in no time at all.       
 
 320
 00:20:31,631 --> 00:20:35,633
-        for the customer,       
-      it's one sweet deal.      
+for the customer, it's one sweet deal.      
 
 321
 00:20:47,046 --> 00:20:49,780
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 322
 00:20:49,782 --> 00:20:52,383
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 323
 00:20:52,385 --> 00:20:55,886
-      drop us a line at...      
+drop us a line at...      
 

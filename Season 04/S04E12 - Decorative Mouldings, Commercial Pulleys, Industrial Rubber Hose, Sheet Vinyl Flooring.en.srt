@@ -1,163 +1,140 @@
 ﻿1
 00:00:02,135 --> 00:00:05,070
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,072 --> 00:00:08,107
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:22,556 --> 00:00:25,524
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:27,094 --> 00:00:28,961
-      decorative moldings.      
+decorative moldings.      
 
 5
 00:00:32,033 --> 00:00:34,800
-       commercial pulleys.      
+commercial pulleys.      
 
 6
 00:00:37,904 --> 00:00:40,706
-     industrial rubber hose.    
+industrial rubber hose.    
 
 7
 00:00:43,644 --> 00:00:45,644
-    and sheet vinyl flooring.   
+and sheet vinyl flooring.   
 
 8
 00:00:52,186 --> 00:00:55,120
- when you consider the high cost
-         of renovations,        
+when you consider the high cost
+of renovations,        
 
 9
 00:00:55,122 --> 00:00:57,589
-     architectural moldings     
-         are an easy way        
+architectural moldings are an easy way        
 
 10
 00:00:57,591 --> 00:01:00,325
- to get a lot of decorative bang
-         for your buck.         
+to get a lot of decorative bang
+for your buck.         
 
 11
 00:01:00,327 --> 00:01:03,195
-    by adding a crown molding   
-       along the ceiling,       
+by adding a crown molding along the ceiling,       
 
 12
 00:01:03,197 --> 00:01:04,930
-   baseboard molding, casings,  
+baseboard molding, casings,  
 
 13
 00:01:04,932 --> 00:01:07,132
-         and maybe even         
-      a chair-rail molding,     
+and maybe even a chair-rail molding,     
 
 14
 00:01:07,134 --> 00:01:09,868
-  you can take a room from drab 
-           to dazzling          
+you can take a room from drab to dazzling          
 
 15
 00:01:09,870 --> 00:01:11,570
-   without breaking the bank.   
+without breaking the bank.   
 
 16
 00:01:16,810 --> 00:01:19,545
-       decorative moldings      
-   can be made of solid wood,   
+decorative moldings can be made of solid wood,   
 
 17
 00:01:19,547 --> 00:01:23,549
-   medium-density fiberboard,   
-     or finger-jointed pine.    
+medium-density fiberboard, or finger-jointed pine.    
 
 18
 00:01:23,551 --> 00:01:27,152
-     these planks of eastern    
-   white pine are on their way  
+these planks of eastern white pine are on their way  
 
 19
 00:01:27,154 --> 00:01:29,621
-           to becoming          
-     finger-jointed molding.    
+to becoming finger-jointed molding.    
 
 20
 00:01:29,623 --> 00:01:31,823
-          they've just          
-      come out of the kiln.     
+they've just come out of the kiln.     
 
 21
 00:01:31,825 --> 00:01:34,693
-      a hygrometer measures     
-   the humidity in each plank   
+a hygrometer measures the humidity in each plank   
 
 22
 00:01:34,695 --> 00:01:37,563
-       to ensure the wood       
-  is dry enough to cut cleanly. 
+to ensure the wood is dry enough to cut cleanly. 
 
 23
 00:01:39,699 --> 00:01:41,766
-    a worker directs a laser    
+a worker directs a laser    
 
 24
 00:01:41,768 --> 00:01:44,903
-     to read the dimensions     
-    of each and every plank.    
+to read the dimensions of each and every plank.    
 
 25
 00:01:44,905 --> 00:01:48,440
-       the laser transmits      
- that information to a computer,
+the laser transmits that information to a computer,
 
 26
 00:01:48,442 --> 00:01:50,709
-      which guides a plane      
-      further up the line       
+which guides a plane further up the line       
 
 27
 00:01:50,711 --> 00:01:53,578
-       to shave the plank       
-      to the required width     
+to shave the plank to the required width     
 
 28
 00:01:53,580 --> 00:01:55,247
-         and square it.         
+and square it.         
 
 29
 00:01:55,249 --> 00:01:59,051
-     this process transforms    
-     the plank into a block.    
+this process transforms the plank into a block.    
 
 30
 00:02:03,591 --> 00:02:06,959
-      the blocks now enter      
- a high-tech piece of equipment 
+the blocks now enter a high-tech piece of equipment 
 
 31
 00:02:06,961 --> 00:02:09,261
-    that identifies defects.    
+that identifies defects.    
 
 32
 00:02:09,263 --> 00:02:11,462
-          as each block         
-       enters the machine,      
+as each block enters the machine,      
 
 33
 00:02:11,464 --> 00:02:15,167
-        a scanner records       
-        all its features.       
+a scanner records all its features.       
 
 34
 00:02:15,169 --> 00:02:17,135
-    it sends that information   
-          to a computer         
+it sends that information to a computer         
 
 35
 00:02:17,137 --> 00:02:20,072
@@ -165,263 +142,222 @@ which calculates a cutting plan.
 
 36
 00:02:34,020 --> 00:02:36,020
-     guided by the computer,    
+guided by the computer,    
 
 37
 00:02:36,022 --> 00:02:40,159
-    a saw chops out any knots   
-      or poor-quality wood.     
+a saw chops out any knots or poor-quality wood.     
 
 38
 00:02:46,967 --> 00:02:49,368
-     the machine's kickers,     
-       as they're called,       
+the machine's kickers, as they're called,       
 
 39
 00:02:49,370 --> 00:02:51,737
-        boot the cutoffs        
-       from the conveyer.       
+boot the cutoffs from the conveyer.       
 
 40
 00:03:02,583 --> 00:03:05,517
-     the blocks continue on,    
+the blocks continue on,    
 
 41
 00:03:05,519 --> 00:03:08,387
-         running against        
-   razor-sharp rotating heads   
+running against razor-sharp rotating heads   
 
 42
 00:03:08,389 --> 00:03:10,956
-    that carve finger joints    
-          on the ends.          
+that carve finger joints on the ends.          
 
 43
 00:03:18,132 --> 00:03:20,532
-        the next station        
-        coats the joints        
+the next station coats the joints        
 
 44
 00:03:20,534 --> 00:03:23,402
-    with industrial-strength    
-        carpenter's glue.       
+with industrial-strength carpenter's glue.       
 
 45
 00:03:28,408 --> 00:03:30,542
- the conveyer picks up speed now
+the conveyer picks up speed now
 
 46
 00:03:30,544 --> 00:03:33,812
-  and butts the blocks together 
-       with high pressure.      
+and butts the blocks together with high pressure.      
 
 47
 00:03:33,814 --> 00:03:36,582
- the joints lock in a tight fit.
+the joints lock in a tight fit.
 
 48
 00:03:43,624 --> 00:03:47,492
- when the glue dries, the joints
-      strengthen even more.     
+when the glue dries, the joints
+strengthen even more.     
 
 49
 00:03:51,432 --> 00:03:55,634
 the jointed blocks are connected
-      in a continuous unit.     
+in a continuous unit.     
 
 50
 00:03:55,636 --> 00:03:59,204
-        a saw now cuts it       
- into standard molding lengths. 
+a saw now cuts it into standard molding lengths. 
 
 51
 00:04:02,243 --> 00:04:04,910
-    these lengths are known     
-    as finger-jointed blanks    
+these lengths are known as finger-jointed blanks    
 
 52
 00:04:04,912 --> 00:04:06,912
-      because they haven't      
-          been shaped.          
+because they haven't been shaped.          
 
 53
 00:04:13,787 --> 00:04:17,189
-         a saw now cuts         
-      the blanks lengthwise     
+a saw now cuts the blanks lengthwise     
 
 54
 00:04:17,191 --> 00:04:20,926
 to the thickness of the specific
-   molding they're producing.   
+molding they're producing.   
 
 55
 00:04:35,275 --> 00:04:38,410
-         the final step         
-    is to profile the blanks.   
+the final step is to profile the blanks.   
 
 56
 00:04:38,412 --> 00:04:42,413
-   a machine called a molder    
-   uses rotating steel knives   
+a machine called a molder uses rotating steel knives   
 
 57
 00:04:42,415 --> 00:04:45,150
-        to carve the wood       
-     to the required shape.     
+to carve the wood to the required shape.     
 
 58
 00:04:45,152 --> 00:04:48,520
-   there's a different knife    
-   for each style of molding.   
+there's a different knife for each style of molding.   
 
 59
 00:04:58,899 --> 00:05:01,633
-     the molder transforms      
-     the blanks to moldings     
+the molder transforms the blanks to moldings     
 
 60
 00:05:01,635 --> 00:05:04,202
-      at a rate of 100 feet     
-           per minute.          
+at a rate of 100 feet per minute.          
 
 61
 00:05:24,391 --> 00:05:27,258
-          moldings made         
-     of finger-jointed pine     
+moldings made of finger-jointed pine     
 
 62
 00:05:27,260 --> 00:05:29,394
-  or medium-density fiberboard  
+or medium-density fiberboard  
 
 63
 00:05:29,396 --> 00:05:31,829
-     are the least expensive    
-         on the market,         
+are the least expensive on the market,         
 
 64
 00:05:31,831 --> 00:05:35,333
-  but you can't stain them like 
-  moldings made of solid wood.  
+but you can't stain them like moldings made of solid wood.  
 
 65
 00:05:35,335 --> 00:05:37,336
-    they have to be painted.    
+they have to be painted.    
 
 66
 00:05:48,816 --> 00:05:50,615
-            narrator:           
-       a pulley is a wheel      
+narrator: a pulley is a wheel      
 
 67
 00:05:50,617 --> 00:05:52,217
- with a grooved or barreled rim 
+with a grooved or barreled rim 
 
 68
 00:05:52,219 --> 00:05:54,419
-      in which you can run      
-         a rope or belt.        
+in which you can run a rope or belt.        
 
 69
 00:05:54,421 --> 00:05:57,288
-      it's a simple device      
-      used to lift a load       
+it's a simple device used to lift a load       
 
 70
 00:05:57,290 --> 00:06:00,892
-      that's hard to access     
-  or too heavy to move by hand. 
+that's hard to access or too heavy to move by hand. 
 
 71
 00:06:00,894 --> 00:06:03,628
-             pulleys            
-   and multiple-pulley systems  
+pulleys and multiple-pulley systems  
 
 72
 00:06:03,630 --> 00:06:06,865
-      are vital components      
-   of many types of machines.   
+are vital components of many types of machines.   
 
 73
 00:06:11,838 --> 00:06:14,038
-   these pulleys are designed   
-             for use            
+these pulleys are designed for use            
 
 74
 00:06:14,040 --> 00:06:16,774
-    in small- to large-scale    
-       electric motors --       
+in small- to large-scale electric motors --       
 
 75
 00:06:16,776 --> 00:06:19,977
-     for example, fan belts     
- in the air-circulation systems 
+for example, fan belts in the air-circulation systems 
 
 76
 00:06:19,979 --> 00:06:23,715
-      of office buildings,      
-      factories, and mines.     
+of office buildings, factories, and mines.     
 
 77
 00:06:23,717 --> 00:06:25,450
-  the factory makes its pulleys 
+the factory makes its pulleys 
 
 78
 00:06:25,452 --> 00:06:28,653
-        from a 50/50 mix        
-    of scrap iron and steel.    
+from a 50/50 mix of scrap iron and steel.    
 
 79
 00:06:28,655 --> 00:06:32,390
-  the furnace heats the metal   
-  to 2,500 degrees fahrenheit,  
+the furnace heats the metal to 2,500 degrees fahrenheit,  
 
 80
 00:06:32,392 --> 00:06:35,260
-         slightly above         
-   the metal's melting point.   
+slightly above the metal's melting point.   
 
 81
 00:06:37,664 --> 00:06:40,198
-         workers adjust         
-    the chemical composition    
+workers adjust the chemical composition    
 
 82
 00:06:40,200 --> 00:06:42,533
-  by adding carbon and silicon. 
+by adding carbon and silicon. 
 
 83
 00:06:42,535 --> 00:06:46,505
-  the right recipe is essential 
-  for producing quality metal.  
+the right recipe is essential for producing quality metal.  
 
 84
 00:06:48,875 --> 00:06:51,476
-         in the furnace,        
-     the metal's impurities,    
+in the furnace, the metal's impurities,    
 
 85
 00:06:51,478 --> 00:06:54,279
-          called slag,          
-      rise to the surface.      
+called slag, rise to the surface.      
 
 86
 00:06:54,281 --> 00:06:57,649
-    workers use giant paddles   
-         to skim it off.        
+workers use giant paddles to skim it off.        
 
 87
 00:07:02,689 --> 00:07:05,891
-      once the lab analyzes     
-    and approves the sample,    
+once the lab analyzes and approves the sample,    
 
 88
 00:07:05,893 --> 00:07:08,760
-          they transfer         
-    the molten metal by ladle   
+they transfer the molten metal by ladle   
 
 89
 00:07:08,762 --> 00:07:10,729
-  to a 30-ton holding furnace.  
+to a 30-ton holding furnace.  
 
 90
 00:07:14,100 --> 00:07:16,300
@@ -429,422 +365,361 @@ this furnace maintains the metal
 
 91
 00:07:16,302 --> 00:07:19,770
-          at a constant         
-    2,500 degrees fahrenheit,   
+at a constant 2,500 degrees fahrenheit,   
 
 92
 00:07:19,772 --> 00:07:23,107
-    the required temperature    
-      for a proper casting.     
+the required temperature for a proper casting.     
 
 93
 00:07:23,109 --> 00:07:26,577
-  you can't pour metal this hot 
-       into a metal mold.       
+you can't pour metal this hot into a metal mold.       
 
 94
 00:07:26,579 --> 00:07:28,513
-    the mold would just melt.   
+the mold would just melt.   
 
 95
 00:07:28,515 --> 00:07:31,182
-           so instead,          
-   the factory uses damp sand.  
+so instead, the factory uses damp sand.  
 
 96
 00:07:31,184 --> 00:07:35,186
-  sand withstands intense heat  
-        by absorbing it.        
+sand withstands intense heat by absorbing it.        
 
 97
 00:07:35,188 --> 00:07:36,921
-   the machine forms the molds  
+the machine forms the molds  
 
 98
 00:07:36,923 --> 00:07:40,358
-     much the way you'd use     
-  a pail to form a sand castle. 
+much the way you'd use a pail to form a sand castle. 
 
 99
 00:07:46,333 --> 00:07:50,769
-       it first constructs      
-  the bottom half of the mold.  
+it first constructs the bottom half of the mold.  
 
 100
 00:07:54,074 --> 00:07:57,275
-   this filter will screen out  
-       any slag particles       
+this filter will screen out any slag particles       
 
 101
 00:07:57,277 --> 00:07:59,811
-        the molten metal        
-       may still contain.       
+the molten metal may still contain.       
 
 102
 00:07:59,813 --> 00:08:03,815
-  and these cores create empty  
-      spaces within a part.     
+and these cores create empty spaces within a part.     
 
 103
 00:08:03,817 --> 00:08:08,053
-      now the machine forms     
-    the top half of the mold.   
+now the machine forms the top half of the mold.   
 
 104
 00:08:20,567 --> 00:08:23,101
-            they slip           
-     a weighted metal jacket    
+they slip a weighted metal jacket    
 
 105
 00:08:23,103 --> 00:08:25,437
- around the finished sand mold. 
+around the finished sand mold. 
 
 106
 00:08:25,439 --> 00:08:29,240
- this keeps it from collapsing  
- under the weight of the metal. 
+this keeps it from collapsing under the weight of the metal. 
 
 107
 00:08:29,242 --> 00:08:32,310
-     workers fill the molds     
-        right to the top.       
+workers fill the molds right to the top.       
 
 108
 00:08:32,312 --> 00:08:34,112
- it takes from 30 to 45 minutes 
+it takes from 30 to 45 minutes 
 
 109
 00:08:34,114 --> 00:08:37,182
-      for the molten metal      
-          to solidify.          
+for the molten metal to solidify.          
 
 110
 00:08:37,184 --> 00:08:40,151
-           they remove          
-  the weighted metal jacket...  
+they remove the weighted metal jacket...  
 
 111
 00:08:42,122 --> 00:08:44,923
-      ...then dump the mold     
- into what's call the shakeout. 
+...then dump the mold into what's call the shakeout. 
 
 112
 00:08:44,925 --> 00:08:48,126
-      the vibration breaks      
-      the sand mold apart,      
+the vibration breaks the sand mold apart,      
 
 113
 00:08:48,128 --> 00:08:49,661
-  releasing the metal pulleys.  
+releasing the metal pulleys.  
 
 114
 00:08:55,602 --> 00:08:58,403
-    while the pulleys go off    
-         to be cleaned,         
+while the pulleys go off to be cleaned,         
 
 115
 00:08:58,405 --> 00:09:01,206
-      the sand is recycled      
-         into new molds.        
+the sand is recycled into new molds.        
 
 116
 00:09:03,410 --> 00:09:05,477
- the pulleys are in rough form. 
+the pulleys are in rough form. 
 
 117
 00:09:05,479 --> 00:09:09,013
- they still have to be machined 
-       to specifications.       
+they still have to be machined to specifications.       
 
 118
 00:09:09,015 --> 00:09:13,151
-     a robot places each one    
-  under a computerized camera.  
+a robot places each one under a computerized camera.  
 
 119
 00:09:13,153 --> 00:09:15,920
-  a visual-recognition program  
-        guides the robot        
+a visual-recognition program guides the robot        
 
 120
 00:09:15,922 --> 00:09:17,889
- to position the pulley properly
+to position the pulley properly
 
 121
 00:09:17,891 --> 00:09:20,592
-          into various          
-   automated-tooling machines.  
+into various automated-tooling machines.  
 
 122
 00:09:24,498 --> 00:09:27,065
-       this first machine       
-   makes the pulley's grooves.  
+this first machine makes the pulley's grooves.  
 
 123
 00:09:27,067 --> 00:09:29,634
-        the next machine        
-   will drill holes in the hub  
+the next machine will drill holes in the hub  
 
 124
 00:09:29,636 --> 00:09:31,903
-   for installing the screws.   
+for installing the screws.   
 
 125
 00:09:31,905 --> 00:09:34,639
-           at the end           
-    of the machining process,   
+at the end of the machining process,   
 
 126
 00:09:34,641 --> 00:09:37,775
-        a gauging system        
-   takes precise measurements   
+a gauging system takes precise measurements   
 
 127
 00:09:37,777 --> 00:09:42,447
-    and guides the equipment    
-     to correct any errors.     
+and guides the equipment to correct any errors.     
 
 128
 00:09:42,449 --> 00:09:46,251
-   this is a two-part pulley,   
-   known as a variable pulley,  
+this is a two-part pulley, known as a variable pulley,  
 
 129
 00:09:46,253 --> 00:09:49,454
-    because it can run a belt   
-       at variable speeds.      
+because it can run a belt at variable speeds.      
 
 130
 00:09:49,456 --> 00:09:51,056
-      this tooling machine      
+this tooling machine      
 
 131
 00:09:51,058 --> 00:09:54,792
-   performs several operations  
-     on the male component.     
+performs several operations on the male component.     
 
 132
 00:09:54,794 --> 00:09:57,929
 it machines the face and outside
-      diameter on one side,     
+diameter on one side,     
 
 133
 00:09:57,931 --> 00:10:01,199
-   then flips the pulley over   
-  to make the bore and threads  
+then flips the pulley over to make the bore and threads  
 
 134
 00:10:01,201 --> 00:10:02,300
-       on the other side.       
+on the other side.       
 
 135
 00:10:16,616 --> 00:10:19,617
- the last operation drills holes
-         for two screws         
+the last operation drills holes
+for two screws         
 
 136
 00:10:19,619 --> 00:10:23,621
-  that will affix the pulley to 
+that will affix the pulley to 
 the shaft of the electric motor.
 
 137
 00:10:23,623 --> 00:10:25,490
-      a touch of lubricant,     
+a touch of lubricant,     
 
 138
 00:10:25,492 --> 00:10:29,293
- and the next machine assembles 
-   the male and female parts.   
+and the next machine assembles the male and female parts.   
 
 139
 00:10:29,295 --> 00:10:31,362
- after setting the proper speed,
+after setting the proper speed,
 
 140
 00:10:31,364 --> 00:10:34,799
-    the user locks the parts    
-    in position with a screw.   
+the user locks the parts in position with a screw.   
 
 141
 00:10:43,376 --> 00:10:45,443
-            narrator:           
- many industries use rubber hose
+narrator: many industries use rubber hose
 
 142
 00:10:45,445 --> 00:10:47,912
- in their day-to-day operations.
+in their day-to-day operations.
 
 143
 00:10:47,914 --> 00:10:51,783
-  they use it to remove water,  
-        clear out waste,        
+they use it to remove water, clear out waste,        
 
 144
 00:10:51,785 --> 00:10:53,785
-   or supply certain machines   
+or supply certain machines   
 
 145
 00:10:53,787 --> 00:10:56,721
-        with air, water,        
-        or raw materials.       
+with air, water, or raw materials.       
 
 146
 00:10:56,723 --> 00:10:59,857
-  for instance, food producers  
-     might feed ingredients     
+for instance, food producers might feed ingredients     
 
 147
 00:10:59,859 --> 00:11:02,761
-      through a rubber hose     
-          into a mixer.         
+through a rubber hose into a mixer.         
 
 148
 00:11:06,133 --> 00:11:07,998
- this company makes low-pressure
+this company makes low-pressure
 
 149
 00:11:08,000 --> 00:11:10,268
-       and medium-pressure      
-          rubber hoses.         
+and medium-pressure rubber hoses.         
 
 150
 00:11:10,270 --> 00:11:11,469
-        the intended use        
+the intended use        
 
 151
 00:11:11,471 --> 00:11:14,405
-       is what determines       
-     the rubber composition.    
+is what determines the rubber composition.    
 
 152
 00:11:14,407 --> 00:11:16,674
-    function also determines    
-           the color,           
+function also determines the color,           
 
 153
 00:11:16,676 --> 00:11:20,011
-    because industrial hoses    
-     are often color-coded.     
+because industrial hoses are often color-coded.     
 
 154
 00:11:21,948 --> 00:11:23,948
-       the rubber arrives       
-         at the factory         
+the rubber arrives at the factory         
 
 155
 00:11:23,950 --> 00:11:26,484
-        from the supplier       
-        in rough strips.        
+from the supplier in rough strips.        
 
 156
 00:11:26,486 --> 00:11:29,086
-        the first step is       
-    to run it through a mill.   
+the first step is to run it through a mill.   
 
 157
 00:11:29,088 --> 00:11:30,621
-  the rollers heat the rubber,  
+the rollers heat the rubber,  
 
 158
 00:11:30,623 --> 00:11:34,025
-   softening and smoothing it   
-       to an even texture.      
+softening and smoothing it to an even texture.      
 
 159
 00:11:38,632 --> 00:11:40,765
-      the next machine cuts     
-      the rubber in strips      
+the next machine cuts the rubber in strips      
 
 160
 00:11:40,767 --> 00:11:42,834
-      to the precise width      
-          and thickness         
+to the precise width and thickness         
 
 161
 00:11:42,836 --> 00:11:46,271
-  required for the size of hose 
-   they're going to construct.  
+required for the size of hose they're going to construct.  
 
 162
 00:11:48,241 --> 00:11:50,708
-        workers lubricate       
-         a steel mandrel        
+workers lubricate a steel mandrel        
 
 163
 00:11:50,710 --> 00:11:54,044
-      that's the exact size     
-       of the hose's bore.      
+that's the exact size of the hose's bore.      
 
 164
 00:11:54,046 --> 00:11:57,582
- as the mandrel spins, they wrap
-    a rubber strip around it,   
+as the mandrel spins, they wrap
+a rubber strip around it,   
 
 165
 00:11:57,584 --> 00:12:00,819
- measuring and layering to build
-    the necessary thickness.    
+measuring and layering to build
+the necessary thickness.    
 
 166
 00:12:11,464 --> 00:12:15,199
-   next, they add one or more   
-      reinforcement layers.     
+next, they add one or more reinforcement layers.     
 
 167
 00:12:15,201 --> 00:12:18,336
-      this strip is made of     
+this strip is made of     
 a high-strength synthetic fabric
 
 168
 00:12:18,338 --> 00:12:20,472
-  that's been coated in rubber. 
+that's been coated in rubber. 
 
 169
 00:12:20,474 --> 00:12:22,807
-          it's designed         
-    to withstand the pressure   
+it's designed to withstand the pressure   
 
 170
 00:12:22,809 --> 00:12:26,344
-       to which the hose        
-       will be subjected.       
+to which the hose will be subjected.       
 
 171
 00:12:26,346 --> 00:12:30,281
- the last layer of rubber forms 
-  the hose's outside covering.  
+the last layer of rubber forms the hose's outside covering.  
 
 172
 00:12:30,283 --> 00:12:33,351
-    after verifying the final   
-      diameter is correct,      
+after verifying the final diameter is correct,      
 
 173
 00:12:33,353 --> 00:12:36,154
-    they wrap the entire hose   
-      construction tightly      
+they wrap the entire hose construction tightly      
 
 174
 00:12:36,156 --> 00:12:38,490
-       in wet nylon tape.       
+in wet nylon tape.       
 
 175
 00:12:38,492 --> 00:12:40,358
-   the tape will later shrink   
+the tape will later shrink   
 
 176
 00:12:40,360 --> 00:12:43,361
-          and compress          
-   all the materials together.  
+and compress all the materials together.  
 
 177
 00:12:43,363 --> 00:12:45,163
-  this factory also makes hoses 
+this factory also makes hoses 
 
 178
 00:12:45,165 --> 00:12:47,765
-   with a built-in attachment   
-           on the end.          
+with a built-in attachment on the end.          
 
 179
 00:12:47,767 --> 00:12:49,767
@@ -852,707 +727,601 @@ they position it on the mandrel,
 
 180
 00:12:49,769 --> 00:12:52,436
-    then glue the first layer   
-        of rubber to it.        
+then glue the first layer of rubber to it.        
 
 181
 00:12:52,438 --> 00:12:57,375
-     this bond is reinforced    
-   with special textile strips  
+this bond is reinforced with special textile strips  
 
 182
 00:12:57,377 --> 00:12:59,110
-       and tightly wound,       
+and tightly wound,       
 
 183
 00:12:59,112 --> 00:13:02,781
-         high-strength,         
-       carbon-steel wire.       
+high-strength, carbon-steel wire.       
 
 184
 00:13:02,783 --> 00:13:04,448
-     they continue the wire     
+they continue the wire     
 
 185
 00:13:04,450 --> 00:13:07,251
-   more loosely down the body   
-           of the hose          
+more loosely down the body of the hose          
 
 186
 00:13:07,253 --> 00:13:11,055
-  at a specific angle designed  
-  to withstand vacuum pressure. 
+at a specific angle designed to withstand vacuum pressure. 
 
 187
 00:13:11,057 --> 00:13:14,192
-     then they wrap the hose    
+then they wrap the hose    
 in a soft, stretchy rubber strip
 
 188
 00:13:14,194 --> 00:13:17,328
-       that fills the gaps      
-       between the wires.       
+that fills the gaps between the wires.       
 
 189
 00:13:17,330 --> 00:13:19,130
-       next comes a layer       
+next comes a layer       
 
 190
 00:13:19,132 --> 00:13:21,332
-        of high-strength,       
-      rubber-coated fabric,     
+of high-strength, rubber-coated fabric,     
 
 191
 00:13:21,334 --> 00:13:23,534
-         then, finally,         
-    the exterior covering --    
+then, finally, the exterior covering --    
 
 192
 00:13:23,536 --> 00:13:25,403
-        light blue rubber       
-         for this model.        
+light blue rubber for this model.        
 
 193
 00:13:27,473 --> 00:13:29,607
-         again, the hose        
-       is pressure-wrapped      
+again, the hose is pressure-wrapped      
 
 194
 00:13:29,609 --> 00:13:30,941
-      with wet nylon tape.      
+with wet nylon tape.      
 
 195
 00:13:30,943 --> 00:13:33,278
-          then, to make         
-     the hose more flexible,    
+then, to make the hose more flexible,    
 
 196
 00:13:33,280 --> 00:13:36,480
-    they create corrugations    
- by wrapping it tightly in rope.
+they create corrugations by wrapping it tightly in rope.
 
 197
 00:13:36,482 --> 00:13:39,483
- what's under the rope compacts,
-         creating a dip.        
+what's under the rope compacts,
+creating a dip.        
 
 198
 00:13:39,485 --> 00:13:41,886
-     they add another layer     
-          of nylon tape         
+they add another layer of nylon tape         
 
 199
 00:13:41,888 --> 00:13:44,022
-   to hold the rope in place.   
+to hold the rope in place.   
 
 200
 00:13:45,759 --> 00:13:48,959
- when construction is finished, 
-           the hoses,           
+when construction is finished, the hoses,           
 
 201
 00:13:48,961 --> 00:13:51,429
-  on their respective mandrels, 
-      go into an autoclave,     
+on their respective mandrels, go into an autoclave,     
 
 202
 00:13:51,431 --> 00:13:53,230
-      a cylindrical chamber     
+a cylindrical chamber     
 
 203
 00:13:53,232 --> 00:13:56,367
- into which they feed hot steam 
-        at high pressure.       
+into which they feed hot steam at high pressure.       
 
 204
 00:13:56,369 --> 00:13:59,704
-   this vulcanization process,  
-         as it's called,        
+this vulcanization process, as it's called,        
 
 205
 00:13:59,706 --> 00:14:01,906
-  triggers a chemical reaction  
+triggers a chemical reaction  
 
 206
 00:14:01,908 --> 00:14:04,308
-     that cures the rubber,     
-       making it elastic.       
+that cures the rubber, making it elastic.       
 
 207
 00:14:04,310 --> 00:14:07,378
-     once the hoses come out    
-            and cool,           
+once the hoses come out and cool,           
 
 208
 00:14:07,380 --> 00:14:09,514
-    workers remove the tape.    
+workers remove the tape.    
 
 209
 00:14:09,516 --> 00:14:12,717
-           the layers           
-     are solidly compressed.    
+the layers are solidly compressed.    
 
 210
 00:14:12,719 --> 00:14:16,888
-    they wash the nylon tape,   
-    then rewind and reuse it.   
+they wash the nylon tape, then rewind and reuse it.   
 
 211
 00:14:26,266 --> 00:14:28,399
-  now workers begin the process 
+now workers begin the process 
 
 212
 00:14:28,401 --> 00:14:31,469
-      of removing the hose      
-        from the mandrel.       
+of removing the hose from the mandrel.       
 
 213
 00:14:31,471 --> 00:14:34,272
- they tie one end with the rope 
-       to create pressure,      
+they tie one end with the rope to create pressure,      
 
 214
 00:14:34,274 --> 00:14:37,342
-     then gently pump water     
- between the mandrel and rubber.
+then gently pump water between the mandrel and rubber.
 
 215
 00:14:37,344 --> 00:14:40,144
-          the lubricant         
-      they applied earlier      
+the lubricant they applied earlier      
 
 216
 00:14:40,146 --> 00:14:43,414
-    has prevented the rubber    
-   from sticking to the steel,  
+has prevented the rubber from sticking to the steel,  
 
 217
 00:14:43,416 --> 00:14:45,550
-  so the hose separates easily. 
+so the hose separates easily. 
 
 218
 00:14:50,023 --> 00:14:52,957
-      they simply slide it      
-        off the mandrel.        
+they simply slide it off the mandrel.        
 
 219
 00:14:52,959 --> 00:14:55,693
- workers will now trim the ends,
+workers will now trim the ends,
 
 220
 00:14:55,695 --> 00:14:58,296
-   cut the hose to the length   
-      the customer ordered,     
+cut the hose to the length the customer ordered,     
 
 221
 00:14:58,298 --> 00:15:00,765
- then coil and package the hose.
+then coil and package the hose.
 
 222
 00:15:08,508 --> 00:15:12,810
- this factory makes a wide range
-    of industrial rubber hose   
+this factory makes a wide range
+of industrial rubber hose   
 
 223
 00:15:12,812 --> 00:15:15,846
-     in different diameters,    
-      different bore sizes,     
+in different diameters, different bore sizes,     
 
 224
 00:15:15,848 --> 00:15:18,917
-       and varying degrees      
-         of flexibility.        
+and varying degrees of flexibility.        
 
 225
 00:15:18,919 --> 00:15:21,919
-         some hoses have        
-       specialty features,      
+some hoses have specialty features,      
 
 226
 00:15:21,921 --> 00:15:24,322
- such as heat-resistant fabrics 
+such as heat-resistant fabrics 
 
 227
 00:15:24,324 --> 00:15:27,125
-          incorporated          
-  right into the rubber layers. 
+incorporated right into the rubber layers. 
 
 228
 00:15:38,672 --> 00:15:42,539
-       narrator: in 1860,       
+narrator: in 1860,       
 an englishman invented linoleum,
 
 229
 00:15:42,541 --> 00:15:44,475
- a revolutionary floor covering 
+a revolutionary floor covering 
 
 230
 00:15:44,477 --> 00:15:49,147
- made of linseed oil, pigments, 
-  pine rosin, and pine flower.  
+made of linseed oil, pigments, pine rosin, and pine flower.  
 
 231
 00:15:49,149 --> 00:15:53,751
-  a century later in the 1960s, 
-  vinyl flooring was introduced 
+a century later in the 1960s, vinyl flooring was introduced 
 
 232
 00:15:53,753 --> 00:15:57,322
-     and eventually rendered    
-   linoleum flooring obsolete.  
+and eventually rendered linoleum flooring obsolete.  
 
 233
 00:16:04,030 --> 00:16:06,630
-         vinyl flooring         
-       owes its existence       
+vinyl flooring owes its existence       
 
 234
 00:16:06,632 --> 00:16:09,567
-       to a german chemist      
-          who, in 1872,         
+to a german chemist who, in 1872,         
 
 235
 00:16:09,569 --> 00:16:13,504
-  invented polyvinyl chloride,  
-             or pvc.            
+invented polyvinyl chloride, or pvc.            
 
 236
 00:16:13,506 --> 00:16:17,107
-       pvc was considered       
- a thoroughly useless substance 
+pvc was considered a thoroughly useless substance 
 
 237
 00:16:17,109 --> 00:16:18,442
-        until the 1920s,        
+until the 1920s,        
 
 238
 00:16:18,444 --> 00:16:22,113
-   when an american researcher  
-     tried to make it useful    
+when an american researcher tried to make it useful    
 
 239
 00:16:22,115 --> 00:16:24,314
- by turning it into an adhesive.
+by turning it into an adhesive.
 
 240
 00:16:24,316 --> 00:16:27,251
-       he didn't succeed,       
-      but, in the process,      
+he didn't succeed, but, in the process,      
 
 241
 00:16:27,253 --> 00:16:31,188
-    he accidently discovered    
-  that heating pvc in a solvent 
+he accidently discovered that heating pvc in a solvent 
 
 242
 00:16:31,190 --> 00:16:34,258
-         transformed it         
-    into a flexible plastic,    
+transformed it into a flexible plastic,    
 
 243
 00:16:34,260 --> 00:16:36,794
-  what we know today as vinyl.  
+what we know today as vinyl.  
 
 244
 00:16:49,209 --> 00:16:53,410
-   sheet-vinyl flooring comes   
-   in a wide range of designs,  
+sheet-vinyl flooring comes in a wide range of designs,  
 
 245
 00:16:53,412 --> 00:16:57,949
- some of which simulate ceramic 
-   tiles or hardwood flooring.  
+some of which simulate ceramic tiles or hardwood flooring.  
 
 246
 00:16:57,951 --> 00:17:00,952
-         as we see here         
-       under a microscope,      
+as we see here under a microscope,      
 
 247
 00:17:00,954 --> 00:17:03,488
-   vinyl flooring is comprised  
-     of three components --     
+vinyl flooring is comprised of three components --     
 
 248
 00:17:03,490 --> 00:17:05,756
-      a felt-paper backing      
-         on the bottom,         
+a felt-paper backing on the bottom,         
 
 249
 00:17:05,758 --> 00:17:08,225
-      a layer of vinyl foam     
-         in the middle,         
+a layer of vinyl foam in the middle,         
 
 250
 00:17:08,227 --> 00:17:10,094
- on which they print the design,
+on which they print the design,
 
 251
 00:17:10,096 --> 00:17:14,231
-     and a protective layer     
-  of transparent vinyl on top.  
+and a protective layer of transparent vinyl on top.  
 
 252
 00:17:14,233 --> 00:17:17,301
- to create texture, the factory 
-      applies an inhibitor      
+to create texture, the factory applies an inhibitor      
 
 253
 00:17:17,303 --> 00:17:21,039
-       to prevent the foam      
- from expanding in select areas.
+to prevent the foam from expanding in select areas.
 
 254
 00:17:21,041 --> 00:17:23,307
-    to make that vinyl foam,    
+to make that vinyl foam,    
 
 255
 00:17:23,309 --> 00:17:26,043
-         they first mix         
-   the powdered ingredients --  
+they first mix the powdered ingredients --  
 
 256
 00:17:26,045 --> 00:17:29,713
-   polyvinyl chloride resins,   
-     or pvc, white pigment,     
+polyvinyl chloride resins, or pvc, white pigment,     
 
 257
 00:17:29,715 --> 00:17:32,382
-     and calcium carbonate,     
-     which acts as a filler,    
+and calcium carbonate, which acts as a filler,    
 
 258
 00:17:32,384 --> 00:17:34,652
-      but also helps color      
-       the mixture white.       
+but also helps color the mixture white.       
 
 259
 00:17:34,654 --> 00:17:37,321
-      in a separate mixer,      
-    the liquid ingredients --   
+in a separate mixer, the liquid ingredients --   
 
 260
 00:17:37,323 --> 00:17:40,458
-       plasticizer to make      
-       the vinyl flexible,      
+plasticizer to make the vinyl flexible,      
 
 261
 00:17:40,460 --> 00:17:43,127
-      fungicide to prevent      
-          mold growth,          
+fungicide to prevent mold growth,          
 
 262
 00:17:43,129 --> 00:17:45,663
-        u.v. stabilizers        
-       to prevent fading,       
+u.v. stabilizers to prevent fading,       
 
 263
 00:17:45,665 --> 00:17:48,199
-      and a blowing agent,      
-    which they later activate   
+and a blowing agent, which they later activate   
 
 264
 00:17:48,201 --> 00:17:50,334
-      to inflate the foam.      
+to inflate the foam.      
 
 265
 00:17:50,336 --> 00:17:52,603
-     they combine the liquid    
-           and powders          
+they combine the liquid and powders          
 
 266
 00:17:52,605 --> 00:17:55,339
- and mix for another 15 minutes.
+and mix for another 15 minutes.
 
 267
 00:17:55,341 --> 00:17:57,208
-   after filtering the mixture  
+after filtering the mixture  
 
 268
 00:17:57,210 --> 00:18:00,478
-       to remove any lumps      
-     or paper-bag fragments,    
+to remove any lumps or paper-bag fragments,    
 
 269
 00:18:00,480 --> 00:18:03,347
-      the liquid foam goes      
-     to the production line.    
+the liquid foam goes to the production line.    
 
 270
 00:18:03,349 --> 00:18:06,150
-      there, a large coater     
-      applies an even layer     
+there, a large coater applies an even layer     
 
 271
 00:18:06,152 --> 00:18:09,620
-     to a continuous sheet      
-     of felt-paper backing.     
+to a continuous sheet of felt-paper backing.     
 
 272
 00:18:09,622 --> 00:18:12,490
-       the coated backing       
-   then passes through an oven  
+the coated backing then passes through an oven  
 
 273
 00:18:12,492 --> 00:18:14,825
-      for about 15 seconds.     
+for about 15 seconds.     
 
 274
 00:18:14,827 --> 00:18:17,428
-           the heat --          
-    430 degrees fahrenheit --   
+the heat -- 430 degrees fahrenheit --   
 
 275
 00:18:17,430 --> 00:18:19,296
-   solidifies the liquid foam,  
+solidifies the liquid foam,  
 
 276
 00:18:19,298 --> 00:18:22,900
-         fusing the pvc         
-         to the backing.        
+fusing the pvc to the backing.        
 
 277
 00:18:22,902 --> 00:18:27,438
 at this point, it's critical not
- to activate the blowing agent. 
+to activate the blowing agent. 
 
 278
 00:18:27,440 --> 00:18:28,772
-       the floor's design       
+the floor's design       
 
 279
 00:18:28,774 --> 00:18:31,976
-    will be printed directly    
-      on this foam surface.     
+will be printed directly on this foam surface.     
 
 280
 00:18:31,978 --> 00:18:35,913
-   a graphic designer creates   
-    the artwork by computer.    
+a graphic designer creates the artwork by computer.    
 
 281
 00:18:35,915 --> 00:18:40,051
 then a colorist experiments with
-  dozens of color combinations  
+dozens of color combinations  
 
 282
 00:18:40,053 --> 00:18:42,587
-         before deciding        
-      on which ones to use.     
+before deciding on which ones to use.     
 
 283
 00:18:42,589 --> 00:18:46,123
-    the computer breaks down    
-    the final design by color   
+the computer breaks down the final design by color   
 
 284
 00:18:46,125 --> 00:18:49,527
-       in order to produce      
- an engraved plate for each one.
+in order to produce an engraved plate for each one.
 
 285
 00:18:49,529 --> 00:18:52,797
-    they test out the design    
-       on a piece of foam,      
+they test out the design on a piece of foam,      
 
 286
 00:18:52,799 --> 00:18:57,000
 printing one color after another
-  until the design is complete. 
+until the design is complete. 
 
 287
 00:18:57,002 --> 00:19:00,271
-     on the production line,    
-  printing works the same way.  
+on the production line, printing works the same way.  
 
 288
 00:19:00,273 --> 00:19:02,874
-           but because          
-   it's a continuous process,   
+but because it's a continuous process,   
 
 289
 00:19:02,876 --> 00:19:06,010
-  they use rotating cylinders   
-  rather than engraved plates.  
+they use rotating cylinders rather than engraved plates.  
 
 290
 00:19:06,012 --> 00:19:08,346
-     the flooring just rolls    
-       right through them,      
+the flooring just rolls right through them,      
 
 291
 00:19:08,348 --> 00:19:11,949
- receiving up to six ink colors 
-         one at a time.         
+receiving up to six ink colors one at a time.         
 
 292
 00:19:11,951 --> 00:19:15,653
-      a drier dries the ink     
-    in between applications.    
+a drier dries the ink in between applications.    
 
 293
 00:19:38,377 --> 00:19:41,645
-     now it's time to apply     
-     the floor's top layer.     
+now it's time to apply the floor's top layer.     
 
 294
 00:19:41,647 --> 00:19:44,916
-   this coat of vinyl is known  
-        as the wear layer       
+this coat of vinyl is known as the wear layer       
 
 295
 00:19:44,918 --> 00:19:48,785
-  because it will be subjected  
+because it will be subjected  
 to the wear and tear of walking.
 
 296
 00:19:48,787 --> 00:19:51,122
-         the wear layer         
-       protects the design      
+the wear layer protects the design      
 
 297
 00:19:51,124 --> 00:19:53,590
-           printed on           
-   the vinyl foam underneath.   
+printed on the vinyl foam underneath.   
 
 298
 00:19:53,592 --> 00:19:56,727
-       made of pvc resins       
-        and plasticizer,        
+made of pvc resins and plasticizer,        
 
 299
 00:19:56,729 --> 00:19:59,664
-        it goes on white        
-      but turns transparent     
+it goes on white but turns transparent     
 
 300
 00:19:59,666 --> 00:20:03,467
-     when fused in the oven     
-   at 430 degrees fahrenheit.   
+when fused in the oven at 430 degrees fahrenheit.   
 
 301
 00:20:03,469 --> 00:20:05,870
-        at the same time,       
-      the heat of the oven      
+at the same time, the heat of the oven      
 
 302
 00:20:05,872 --> 00:20:09,340
-   activates the blowing agent  
-  in the vinyl foam underneath, 
+activates the blowing agent in the vinyl foam underneath, 
 
 303
 00:20:09,342 --> 00:20:10,942
-          expanding it.         
+expanding it.         
 
 304
 00:20:10,944 --> 00:20:13,010
-      to create a texture,      
+to create a texture,      
 
 305
 00:20:13,012 --> 00:20:15,746
-    they use a process called   
-       chemical embossing,      
+they use a process called chemical embossing,      
 
 306
 00:20:15,748 --> 00:20:19,082
-   in which select ink colors   
-  contain a chemical inhibitor  
+in which select ink colors contain a chemical inhibitor  
 
 307
 00:20:19,084 --> 00:20:21,084
-   to suppress foam expansion.  
+to suppress foam expansion.  
 
 308
 00:20:21,086 --> 00:20:25,089
-    wherever they print those   
- colors, the foam remains flat. 
+wherever they print those colors, the foam remains flat. 
 
 309
 00:20:25,091 --> 00:20:27,825
-     these height variations    
-          create relief         
+these height variations create relief         
 
 310
 00:20:27,827 --> 00:20:31,429
-    and simulate grout lines    
-   in imitation-tile designs.   
+and simulate grout lines in imitation-tile designs.   
 
 311
 00:20:31,431 --> 00:20:34,498
- to give the surface a sharper, 
-       more natural look,       
+to give the surface a sharper, more natural look,       
 
 312
 00:20:34,500 --> 00:20:35,966
-      the flooring proceeds     
+the flooring proceeds     
 
 313
 00:20:35,968 --> 00:20:38,970
-       to a second process      
-  called mechanical embossing,  
+to a second process called mechanical embossing,  
 
 314
 00:20:38,972 --> 00:20:40,504
-   in which an engraved roller  
+in which an engraved roller  
 
 315
 00:20:40,506 --> 00:20:42,572
-      imprints its pattern      
-        onto the surface.       
+imprints its pattern onto the surface.       
 
 316
 00:20:42,574 --> 00:20:44,909
- the gloss level of the flooring
+the gloss level of the flooring
 
 317
 00:20:44,911 --> 00:20:48,446
-    varies with the chemical    
- composition of the wear layer. 
+varies with the chemical composition of the wear layer. 
 
 318
 00:20:51,517 --> 00:20:54,051
-         workers inspect        
-      the finished flooring     
+workers inspect the finished flooring     
 
 319
 00:20:54,053 --> 00:20:56,587
-         as it rolls off        
-      the production line.      
+as it rolls off the production line.      
 
 320
 00:20:56,589 --> 00:20:57,988
-       it's 12 feet wide,       
+it's 12 feet wide,       
 
 321
 00:20:57,990 --> 00:21:02,859
-    wide enough for seamless    
-   installation in most rooms.  
+wide enough for seamless installation in most rooms.  
 
 322
 00:21:02,861 --> 00:21:05,996
-          the packaging         
-     is entirely automated.     
+the packaging is entirely automated.     
 
 323
 00:21:05,998 --> 00:21:07,832
-  this equipment winds 100 feet 
+this equipment winds 100 feet 
 
 324
 00:21:07,834 --> 00:21:10,234
-     of sheet-vinyl flooring    
-            per roll.           
+of sheet-vinyl flooring per roll.           
 
 325
 00:21:16,608 --> 00:21:18,809
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 326
 00:21:18,811 --> 00:21:21,545
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 327
 00:21:21,547 --> 00:21:23,180
-      drop us a line at...      
+drop us a line at...      
 

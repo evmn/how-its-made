@@ -1,135 +1,114 @@
 ﻿1
 00:00:01,269 --> 00:00:04,003
-          [ beeping ]           
+[ beeping ]           
 
 2
 00:00:16,951 --> 00:00:19,885
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 3
 00:00:19,887 --> 00:00:22,555
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 4
 00:00:22,557 --> 00:00:26,625
-       narrator: today on       
-      "how it's made"...        
+narrator: today on "how it's made"...        
 
 5
 00:00:26,627 --> 00:00:27,960
-          pasta dies.           
+pasta dies.           
 
 6
 00:00:32,366 --> 00:00:33,766
-         blueberries.           
+blueberries.           
 
 7
 00:00:38,439 --> 00:00:39,972
-      composting toilets.       
+composting toilets.       
 
 8
 00:00:44,445 --> 00:00:45,878
-     and surge arresters.       
+and surge arresters.       
 
 9
 00:00:53,454 --> 00:00:55,988
-   industrial pasta machines    
-        produce noodles         
+industrial pasta machines produce noodles         
 
 10
 00:00:55,990 --> 00:00:58,858
-       by extruding dough       
-        through a die.          
+by extruding dough through a die.          
 
 11
 00:00:58,860 --> 00:01:00,526
-   the die has holes in it,     
+the die has holes in it,     
 
 12
 00:01:00,528 --> 00:01:04,062
-  which are shaped to produce   
-   a specific type of pasta.    
+which are shaped to produce a specific type of pasta.    
 
 13
 00:01:04,064 --> 00:01:05,797
-       as the dough comes       
-       through the holes        
+as the dough comes through the holes        
 
 14
 00:01:05,799 --> 00:01:07,532
-    in a continuous stream,     
+in a continuous stream,     
 
 15
 00:01:07,534 --> 00:01:10,636
-     a knife cuts the pasta     
-    to the correct length.      
+a knife cuts the pasta to the correct length.      
 
 16
 00:01:13,674 --> 00:01:16,809
-   this industrial pasta die    
-       produces fusilli,        
+this industrial pasta die produces fusilli,        
 
 17
 00:01:16,811 --> 00:01:20,212
-      up to one and a half      
-     tons of it per hour.       
+up to one and a half tons of it per hour.       
 
 18
 00:01:20,214 --> 00:01:22,815
-   and this is just a midsize   
-              die.              
+and this is just a midsize die.              
 
 19
 00:01:22,817 --> 00:01:27,153
-  the largest ones can produce  
- four tons of pasta per hour.   
+the largest ones can produce four tons of pasta per hour.   
 
 20
 00:01:27,155 --> 00:01:31,023
-     the die block is made      
-  of a bronze-aluminum alloy.   
+the die block is made of a bronze-aluminum alloy.   
 
 21
 00:01:31,025 --> 00:01:34,293
-   a computer-guided machine    
-   drills holes for inserts     
+a computer-guided machine drills holes for inserts     
 
 22
 00:01:34,295 --> 00:01:37,162
- through which the pasta dough  
-       will be extruded.        
+through which the pasta dough will be extruded.        
 
 23
 00:01:37,164 --> 00:01:39,632
-     the front of the block     
-     is then chrome plated      
+the front of the block is then chrome plated      
 
 24
 00:01:39,634 --> 00:01:41,566
-           to protect           
-    against the sharp knife     
+to protect against the sharp knife     
 
 25
 00:01:41,568 --> 00:01:44,637
-     that cuts the extruded     
-      pasta off the die.        
+that cuts the extruded pasta off the die.        
 
 26
 00:01:44,639 --> 00:01:47,106
-    the next step is to make    
-            inserts             
+the next step is to make inserts             
 
 27
 00:01:47,108 --> 00:01:49,775
-      that go in the holes      
-         in the block.          
+that go in the holes in the block.          
 
 28
 00:01:49,777 --> 00:01:52,845
-     an insert is comprised     
-   of male and female parts     
+an insert is comprised of male and female parts     
 
 29
 00:01:52,847 --> 00:01:55,915
@@ -137,223 +116,185 @@ and a nonstick plastic lining.
 
 30
 00:01:55,917 --> 00:01:58,184
-     a computer-guided mill     
-       cuts the linings         
+a computer-guided mill cuts the linings         
 
 31
 00:01:58,186 --> 00:02:02,254
-          from a plate          
-     of nonstick plastic.       
+from a plate of nonstick plastic.       
 
 32
 00:02:02,256 --> 00:02:03,588
- another computer-guided mill   
+another computer-guided mill   
 
 33
 00:02:03,590 --> 00:02:06,191
-            machines            
+machines            
 the female part of the inserts  
 
 34
 00:02:06,193 --> 00:02:09,629
-     in a more than quarter     
- of an inch-thick brass plate.  
+in a more than quarter of an inch-thick brass plate.  
 
 35
 00:02:13,668 --> 00:02:17,336
- then a worker places a lining  
-     in each female part.       
+then a worker places a lining in each female part.       
 
 36
 00:02:22,343 --> 00:02:27,279
-    he taps it into position    
-   with a mallet and punch.     
+he taps it into position with a mallet and punch.     
 
 37
 00:02:27,281 --> 00:02:29,748
-         the plate then         
-    goes back on the mill,      
+the plate then goes back on the mill,      
 
 38
 00:02:29,750 --> 00:02:32,618
-    which cuts an extrusion     
-      slot in the lining.       
+which cuts an extrusion slot in the lining.       
 
 39
 00:02:32,620 --> 00:02:37,490
-   the slot shape determines    
-       the pasta shape.         
+the slot shape determines the pasta shape.         
 
 40
 00:02:37,492 --> 00:02:40,025
-        a mill machines         
- the male part of the inserts   
+a mill machines the male part of the inserts   
 
 41
 00:02:40,027 --> 00:02:43,429
-    in another brass plate.     
+in another brass plate.     
 
 42
 00:02:43,431 --> 00:02:46,231
-       a worker detaches        
- the male parts from the plate  
+a worker detaches the male parts from the plate  
 
 43
 00:02:46,233 --> 00:02:49,568
-   with a punch and mallet.     
+with a punch and mallet.     
 
 44
 00:02:49,570 --> 00:02:53,205
-  he detaches the lined female  
-      parts the same way.       
+he detaches the lined female parts the same way.       
 
 45
 00:02:58,112 --> 00:03:00,579
-   then he assembles the male   
-       and female parts         
+then he assembles the male and female parts         
 
 46
 00:03:00,581 --> 00:03:04,750
- by forcing one onto the other  
-    with the help of a steel    
-             punch.             
+by forcing one onto the other with the help of a steel punch.             
 
 47
 00:03:12,060 --> 00:03:15,327
-   he finishes the die insert   
- by cutting off the protruding  
+he finishes the die insert by cutting off the protruding  
 
 48
 00:03:15,329 --> 00:03:17,329
-  excess plastic with a blade   
+excess plastic with a blade   
 
 49
 00:03:17,331 --> 00:03:19,765
-       so that the lining       
-    is flush with the top.      
+so that the lining is flush with the top.      
 
 50
 00:03:23,270 --> 00:03:25,337
- the factory makes die inserts  
+the factory makes die inserts  
 
 51
 00:03:25,339 --> 00:03:27,405
-        in thousands of         
-      different shapes --       
+in thousands of different shapes --       
 
 52
 00:03:27,407 --> 00:03:28,874
-        some standard,          
+some standard,          
 
 53
 00:03:28,876 --> 00:03:32,078
-     others in the client's     
-   custom-made pasta shape.     
+others in the client's custom-made pasta shape.     
 
 54
 00:03:35,349 --> 00:03:38,617
-   this computer-guided lathe   
-              makes             
-      brass locking rings       
+this computer-guided lathe makes brass locking rings       
 
 55
 00:03:38,619 --> 00:03:41,053
-       which will secure        
-   the inserts in the block.    
+which will secure the inserts in the block.    
 
 56
 00:03:53,367 --> 00:03:56,235
-  now, final assembly begins.   
+now, final assembly begins.   
 
 57
 00:03:56,237 --> 00:03:58,770
-        a worker places         
-     the block face-down,       
+a worker places the block face-down,       
 
 58
 00:03:58,772 --> 00:04:00,105
-    and from the back drops     
+and from the back drops     
 
 59
 00:04:00,107 --> 00:04:03,042
-      an insert top-first       
-        into each hole.         
+an insert top-first into each hole.         
 
 60
 00:04:06,781 --> 00:04:10,182
-   next, he places a locking    
-      ring in each hole.        
+next, he places a locking ring in each hole.        
 
 61
 00:04:18,092 --> 00:04:20,593
-     then, with a hydraulic     
-       press and punch,         
+then, with a hydraulic press and punch,         
 
 62
 00:04:20,595 --> 00:04:23,796
-   he forces down each locking  
-              ring              
-    to within approximately     
+he forces down each locking ring to within approximately     
 
 63
 00:04:23,798 --> 00:04:26,565
-          1 millimeter          
-   of the insert underneath.    
+1 millimeter of the insert underneath.    
 
 64
 00:04:33,140 --> 00:04:36,675
-   in this position, the ring   
-              holds             
-    the insert in the hole      
+in this position, the ring holds the insert in the hole      
 
 65
 00:04:36,677 --> 00:04:41,079
-     but doesn't prevent it     
+but doesn't prevent it     
 from spinning within the hole.  
 
 66
 00:04:41,081 --> 00:04:44,416
-         the next step          
-   is to adjust the inserts     
+the next step is to adjust the inserts     
 
 67
 00:04:44,418 --> 00:04:47,286
-         to make their          
-     orientation uniform.       
+to make their orientation uniform.       
 
 68
 00:04:47,288 --> 00:04:50,489
-        he inserts a pin        
-    into each insert slot.      
+he inserts a pin into each insert slot.      
 
 69
 00:04:50,491 --> 00:04:53,626
-    then he rotates the pin     
-     to rotate the insert.      
+then he rotates the pin to rotate the insert.      
 
 70
 00:04:53,628 --> 00:04:56,361
-  once the insert orientation   
-          is correct,           
+once the insert orientation is correct,           
 
 71
 00:04:56,363 --> 00:04:57,762
-  he forces the locking ring    
+he forces the locking ring    
 
 72
 00:04:57,764 --> 00:05:02,234
-        down all the way        
-   to immobilize the insert.    
+down all the way to immobilize the insert.    
 
 73
 00:05:02,236 --> 00:05:05,103
-  once he has all the inserts   
-    oriented the same way,      
+once he has all the inserts oriented the same way,      
 
 74
 00:05:05,105 --> 00:05:07,973
-   he sands the chrome-plated   
-       front of the die,        
+he sands the chrome-plated front of the die,        
 
 75
 00:05:07,975 --> 00:05:11,310
@@ -361,28 +302,23 @@ first with a medium-grit disk,
 
 76
 00:05:11,312 --> 00:05:14,046
-      then with a fine-grit     
-           sandpaper.           
+then with a fine-grit sandpaper.           
 
 77
 00:05:14,048 --> 00:05:18,049
- the die surface must be smooth 
-     as silk for the knife      
+the die surface must be smooth as silk for the knife      
 
 78
 00:05:18,051 --> 00:05:22,254
-          to slice off          
-  the extruded pasta cleanly.   
+to slice off the extruded pasta cleanly.   
 
 79
 00:05:22,256 --> 00:05:26,458
- he verifies the width of every 
- extrusion slot with a gauge.   
+he verifies the width of every extrusion slot with a gauge.   
 
 80
 00:05:26,460 --> 00:05:28,860
-          this ensures          
-     every piece of pasta       
+this ensures every piece of pasta       
 
 81
 00:05:28,862 --> 00:05:31,096
@@ -390,47 +326,39 @@ will be the correct thickness.
 
 82
 00:05:34,134 --> 00:05:36,335
-        then on the back        
-     of the finished die,       
+then on the back of the finished die,       
 
 83
 00:05:36,337 --> 00:05:39,805
-           he stamps            
-   the manufacturer's name.     
+he stamps the manufacturer's name.     
 
 84
 00:05:39,807 --> 00:05:43,475
- the die is ready to be mounted 
-   on an industrial machine     
+the die is ready to be mounted on an industrial machine     
 
 85
 00:05:43,477 --> 00:05:45,678
-      that extrudes dough       
-    into perfectly shaped,      
+that extrudes dough into perfectly shaped,      
 
 86
 00:05:45,680 --> 00:05:47,947
-     ready-to-boil pasta.       
+ready-to-boil pasta.       
 
 87
 00:06:02,362 --> 00:06:05,297
-  narrator: blueberries are one 
-               of               
-  nature's healthiest foods.    
+narrator: blueberries are one of nature's healthiest foods.    
 
 88
 00:06:05,299 --> 00:06:08,434
-    they're low in calories,    
-    packed with vitamin c,      
+they're low in calories, packed with vitamin c,      
 
 89
 00:06:08,436 --> 00:06:10,369
-   and full of antioxidants.    
+and full of antioxidants.    
 
 90
 00:06:10,371 --> 00:06:13,038
-    and freezing blueberries    
-      doesn't compromise        
+and freezing blueberries doesn't compromise        
 
 91
 00:06:13,040 --> 00:06:15,040
@@ -438,168 +366,139 @@ any of that nutritional value.
 
 92
 00:06:17,444 --> 00:06:18,844
-    north and south america     
+north and south america     
 
 93
 00:06:18,846 --> 00:06:21,246
-          grow most of          
-   the world's blueberries.     
+grow most of the world's blueberries.     
 
 94
 00:06:21,248 --> 00:06:24,316
-   the length of the harvest    
-      varies by climate.        
+the length of the harvest varies by climate.        
 
 95
 00:06:24,318 --> 00:06:27,052
-         in the south,          
- it spans april to september.   
+in the south, it spans april to september.   
 
 96
 00:06:27,054 --> 00:06:31,256
-         further north,         
-    mid-june to mid-august.     
+further north, mid-june to mid-august.     
 
 97
 00:06:31,258 --> 00:06:33,325
-    at this state-of-the-art    
-        blueberry farm,         
+at this state-of-the-art blueberry farm,         
 
 98
 00:06:33,327 --> 00:06:34,593
-    a mechanical harvester      
+a mechanical harvester      
 
 99
 00:06:34,595 --> 00:06:36,928
-       straddles the row        
-      of blueberry plants       
+straddles the row of blueberry plants       
 
 100
 00:06:36,930 --> 00:06:41,400
-     and shakes the leaves      
-    with vibrating fingers.     
+and shakes the leaves with vibrating fingers.     
 
 101
 00:06:41,402 --> 00:06:46,138
-        the berries fall        
-    to a sloped floor below     
+the berries fall to a sloped floor below     
 
 102
 00:06:46,140 --> 00:06:49,041
-       and roll down into       
-     side conveyor belts.       
+and roll down into side conveyor belts.       
 
 103
 00:06:53,147 --> 00:06:56,081
-   the belts dump the berries   
-       into onboard bins        
+the belts dump the berries into onboard bins        
 
 104
 00:06:56,083 --> 00:06:58,216
-     which trucks transport     
-        from the field          
+which trucks transport from the field          
 
 105
 00:06:58,218 --> 00:07:01,687
- to the on-site packing plant.  
+to the on-site packing plant.  
 
 106
 00:07:01,689 --> 00:07:04,756
-       the plant has two        
- separate production lines --   
+the plant has two separate production lines --   
 
 107
 00:07:04,758 --> 00:07:07,492
-     one for berries to be      
-      shipped out fresh,        
+one for berries to be shipped out fresh,        
 
 108
 00:07:07,494 --> 00:07:11,296
-    and this one for berries    
-   to be shipped out frozen.    
+and this one for berries to be shipped out frozen.    
 
 109
 00:07:11,298 --> 00:07:13,631
-     workers empty the bins     
-        into a hopper,          
+workers empty the bins into a hopper,          
 
 110
 00:07:13,633 --> 00:07:16,402
-    which feeds the berries     
-     onto a conveyor belt.      
+which feeds the berries onto a conveyor belt.      
 
 111
 00:07:19,506 --> 00:07:21,106
-   a vibrating conveyor belt    
+a vibrating conveyor belt    
 
 112
 00:07:21,108 --> 00:07:23,241
-    then ferries the berries    
-        under a blower          
+then ferries the berries under a blower          
 
 113
 00:07:23,243 --> 00:07:27,312
-     that suctions up loose     
-       leaves and twigs.        
+that suctions up loose leaves and twigs.        
 
 114
 00:07:27,314 --> 00:07:30,316
-  then the blueberries tumble   
-       down a waterfall.        
+then the blueberries tumble down a waterfall.        
 
 115
 00:07:30,318 --> 00:07:34,119
-    stones and debris settle    
-        in the ledges.          
+stones and debris settle in the ledges.          
 
 116
 00:07:34,121 --> 00:07:36,855
-   the berries land in a wash   
-             tank.              
+the berries land in a wash tank.              
 
 117
 00:07:36,857 --> 00:07:39,257
-     most of the ripe ones      
-      sink to the bottom        
+most of the ripe ones sink to the bottom        
 
 118
 00:07:39,259 --> 00:07:42,127
-    while most of the unripe    
-       ones float on top        
+while most of the unripe ones float on top        
 
 119
 00:07:42,129 --> 00:07:45,864
-    where workers can easily    
-        scoop them out.         
+where workers can easily scoop them out.         
 
 120
 00:07:45,866 --> 00:07:47,932
-        the berries exit        
-         the wash tank          
+the berries exit the wash tank          
 
 121
 00:07:47,934 --> 00:07:51,070
-           with fewer           
-    unripe ones among them.     
+with fewer unripe ones among them.     
 
 122
 00:07:51,072 --> 00:07:55,007
-     the mesh belt vibrates     
-  to gently shake off water.    
+the mesh belt vibrates to gently shake off water.    
 
 123
 00:07:55,009 --> 00:07:56,274
-   then it runs the berries     
+then it runs the berries     
 
 124
 00:07:56,276 --> 00:07:59,745
-       through the first        
-     of two color sorters.      
+through the first of two color sorters.      
 
 125
 00:07:59,747 --> 00:08:03,415
- the machine's camera is preset 
-   to ignore the color blue     
+the machine's camera is preset to ignore the color blue     
 
 126
 00:08:03,417 --> 00:08:07,152
@@ -607,13 +506,11 @@ and detect only green and red.
 
 127
 00:08:07,154 --> 00:08:09,287
-        whenever a green        
-     or red berry passes,       
+whenever a green or red berry passes,       
 
 128
 00:08:09,289 --> 00:08:12,290
-   the camera sends a signal    
-        to the computer         
+the camera sends a signal to the computer         
 
 129
 00:08:12,292 --> 00:08:14,626
@@ -621,97 +518,79 @@ identifying its exact location
 
 130
 00:08:14,628 --> 00:08:17,162
-   so that one of the 136 air   
-              jets              
+so that one of the 136 air jets              
 
 131
 00:08:17,164 --> 00:08:22,101
-     blows it off the belt      
- to a collection trough below.  
+blows it off the belt to a collection trough below.  
 
 132
 00:08:22,103 --> 00:08:23,435
-   the ripe blueberries fly     
+the ripe blueberries fly     
 
 133
 00:08:23,437 --> 00:08:25,637
-          over the top          
-     onto a conveyor belt       
+over the top onto a conveyor belt       
 
 134
 00:08:25,639 --> 00:08:29,575
-        that takes them         
-    to the freezer tunnel.      
+that takes them to the freezer tunnel.      
 
 135
 00:08:29,577 --> 00:08:34,380
-     the temperature inside     
-       is minus 29 degrees      
-          fahrenheit.           
+the temperature inside is minus 29 degrees fahrenheit.           
 
 136
 00:08:34,382 --> 00:08:36,115
-   five to 7 minutes later,     
+five to 7 minutes later,     
 
 137
 00:08:36,117 --> 00:08:40,652
-        the berries exit        
-   the tunnel frozen solid.     
+the berries exit the tunnel frozen solid.     
 
 138
 00:08:40,654 --> 00:08:44,656
-    workers perform a final     
-      visual inspection.        
+workers perform a final visual inspection.        
 
 139
 00:08:44,658 --> 00:08:46,658
-     after passing through      
-       a metal detector,        
+after passing through a metal detector,        
 
 140
 00:08:46,660 --> 00:08:49,528
-     the berries drop into      
-     a preprogrammed scale      
+the berries drop into a preprogrammed scale      
 
 141
 00:08:49,530 --> 00:08:53,098
-  that weighs out the specific  
-   quantity being packaged.     
+that weighs out the specific quantity being packaged.     
 
 142
 00:08:55,069 --> 00:08:58,870
- meanwhile, in an on-site lab,  
- government-trained inspectors  
+meanwhile, in an on-site lab, government-trained inspectors  
 
 143
 00:08:58,872 --> 00:09:02,541
-   pull samples off the line    
- every 20 minutes for grading,  
+pull samples off the line every 20 minutes for grading,  
 
 144
 00:09:02,543 --> 00:09:04,410
-      which they determine      
-     by assessing factors       
+which they determine by assessing factors       
 
 145
 00:09:04,412 --> 00:09:08,813
-         such as color,         
-      aroma, and defects.       
+such as color, aroma, and defects.       
 
 146
 00:09:08,815 --> 00:09:11,216
-       the frozen berries       
-       go into a freezer        
+the frozen berries go into a freezer        
 
 147
 00:09:11,218 --> 00:09:15,354
-       until shipped out        
-       by freezer truck.        
+until shipped out by freezer truck.        
 
 148
 00:09:15,356 --> 00:09:16,955
-   the fresh berry production   
-              line              
+the fresh berry production line              
 
 149
 00:09:16,957 --> 00:09:18,823
@@ -719,124 +598,107 @@ is similar to the frozen line,
 
 150
 00:09:18,825 --> 00:09:20,291
-      minus the wash tank       
+minus the wash tank       
 
 151
 00:09:20,293 --> 00:09:23,094
-        and, of course,         
-      the freeze tunnel.        
+and, of course, the freeze tunnel.        
 
 152
 00:09:23,096 --> 00:09:25,230
-   however, the color sorters   
-         on this line           
+however, the color sorters on this line           
 
 153
 00:09:25,232 --> 00:09:27,900
-   are even more high-tech.     
+are even more high-tech.     
 
 154
 00:09:27,902 --> 00:09:29,768
-     not only are they set      
-         to detect red          
+not only are they set to detect red          
 
 155
 00:09:29,770 --> 00:09:31,303
-      and green berries,        
+and green berries,        
 
 156
 00:09:31,305 --> 00:09:33,572
-       but they also have       
-     a firmness detector,       
+but they also have a firmness detector,       
 
 157
 00:09:33,574 --> 00:09:34,906
- which by bouncing each berry   
+which by bouncing each berry   
 
 158
 00:09:34,908 --> 00:09:38,510
-     on a pad can identify      
-      blue ones too soft        
+on a pad can identify blue ones too soft        
 
 159
 00:09:38,512 --> 00:09:41,513
-   to have at least a 12-day    
-   refrigerated shelf life.     
+to have at least a 12-day refrigerated shelf life.     
 
 160
 00:09:43,651 --> 00:09:46,651
-      air jets blow those       
- soft berries off the conveyor  
+air jets blow those soft berries off the conveyor  
 
 161
 00:09:46,653 --> 00:09:49,988
-   so they can be transferred   
-   to the frozen-berry line.    
+so they can be transferred to the frozen-berry line.    
 
 162
 00:09:49,990 --> 00:09:54,193
-      the rest continue to      
-  a final visual inspection.    
+the rest continue to a final visual inspection.    
 
 163
 00:09:54,195 --> 00:09:58,396
-       the fresh berries        
-   are ready for packaging.     
+the fresh berries are ready for packaging.     
 
 164
 00:09:58,398 --> 00:10:00,265
- this electronic fill machine   
+this electronic fill machine   
 
 165
 00:10:00,267 --> 00:10:03,268
-     is preset to weigh out     
-     the specific quantity      
+is preset to weigh out the specific quantity      
 
 166
 00:10:03,270 --> 00:10:04,602
-      they're packaging,        
+they're packaging,        
 
 167
 00:10:04,604 --> 00:10:07,206
-         in this case,          
-  nearly 2-pound containers.    
+in this case, nearly 2-pound containers.    
 
 168
 00:10:09,543 --> 00:10:11,543
-     it drops that quantity     
-          of berries            
+it drops that quantity of berries            
 
 169
 00:10:11,545 --> 00:10:13,979
-        into an awaiting        
-      plastic container.        
+into an awaiting plastic container.        
 
 170
 00:10:18,351 --> 00:10:20,351
-       the final stop on        
-      the packaging line        
+the final stop on the packaging line        
 
 171
 00:10:20,353 --> 00:10:23,889
-   is the flat-seal machine.    
+is the flat-seal machine.    
 
 172
 00:10:23,891 --> 00:10:25,757
-           it applies           
-    a printed plastic film      
+it applies a printed plastic film      
 
 173
 00:10:25,759 --> 00:10:27,225
- to the top of the container,   
+to the top of the container,   
 
 174
 00:10:27,227 --> 00:10:29,694
-     melting and bonding it     
-       to the perimeter         
+melting and bonding it to the perimeter         
 
 175
 00:10:29,696 --> 00:10:31,964
-   without a touch of heat.     
+without a touch of heat.     
 
 176
 00:10:34,168 --> 00:10:36,502
@@ -844,188 +706,159 @@ the film has ventilation holes
 
 177
 00:10:36,504 --> 00:10:40,305
-     because fresh berries      
-         require air.           
+because fresh berries require air.           
 
 178
 00:10:40,307 --> 00:10:41,506
-   from here, the containers    
+from here, the containers    
 
 179
 00:10:41,508 --> 00:10:43,775
-           go off to            
-   a refrigerated warehouse     
+go off to a refrigerated warehouse     
 
 180
 00:10:43,777 --> 00:10:48,113
- to await shipping to the store 
-    by refrigerated truck.      
+to await shipping to the store by refrigerated truck.      
 
 181
 00:10:48,115 --> 00:10:50,449
-    and provided they remain    
-         refrigerated,          
+and provided they remain refrigerated,          
 
 182
 00:10:50,451 --> 00:10:52,517
-     the blueberries remain     
-        fresh and juicy         
+the blueberries remain fresh and juicy         
 
 183
 00:10:52,519 --> 00:10:54,720
-      for 10 to 12 days.        
+for 10 to 12 days.        
 
 184
 00:11:08,669 --> 00:11:10,735
-           narrator:            
-  there's a new john in town.   
+narrator: there's a new john in town.   
 
 185
 00:11:10,737 --> 00:11:12,804
-     composting toilets are     
-      the greatest thing        
+composting toilets are the greatest thing        
 
 186
 00:11:12,806 --> 00:11:14,806
-    since indoor plumbing.      
+since indoor plumbing.      
 
 187
 00:11:14,808 --> 00:11:16,875
-    in fact, they don't need    
-     any plumbing at all.       
+in fact, they don't need any plumbing at all.       
 
 188
 00:11:16,877 --> 00:11:19,678
-      so they can go where      
-  traditional toilets do not.   
+so they can go where traditional toilets do not.   
 
 189
 00:11:19,680 --> 00:11:21,747
-     they are little waste      
-      treatment machines.       
+they are little waste treatment machines.       
 
 190
 00:11:21,749 --> 00:11:23,482
-           they turn            
-    the unpleasant business     
+they turn the unpleasant business     
 
 191
 00:11:23,484 --> 00:11:25,951
-    of sewage into something    
-       more agreeable --        
+of sewage into something more agreeable --        
 
 192
 00:11:25,953 --> 00:11:27,753
-      garden fertilizer.        
+garden fertilizer.        
 
 193
 00:11:30,824 --> 00:11:32,558
- this composting toilet works   
+this composting toilet works   
 
 194
 00:11:32,560 --> 00:11:35,093
-  a bit of magic with sewage.   
+a bit of magic with sewage.   
 
 195
 00:11:35,095 --> 00:11:37,829
-    it transforms the solids    
-         into compost           
+it transforms the solids into compost           
 
 196
 00:11:37,831 --> 00:11:40,899
-      and makes the liquids     
-           disappear.           
+and makes the liquids disappear.           
 
 197
 00:11:40,901 --> 00:11:44,503
-  making these toilets starts   
-    with a composting tank.     
+making these toilets starts with a composting tank.     
 
 198
 00:11:44,505 --> 00:11:48,707
-   a worker sprays fiberglass   
-   into a mold of the tank.     
+a worker sprays fiberglass into a mold of the tank.     
 
 199
 00:11:48,709 --> 00:11:51,843
-   then he and another member   
-   of the team press out air    
+then he and another member of the team press out air    
 
 200
 00:11:51,845 --> 00:11:55,913
- trapped between the fiberglass 
-       and mold surface.        
+trapped between the fiberglass and mold surface.        
 
 201
 00:11:55,915 --> 00:11:57,649
-     once the part cures,       
+once the part cures,       
 
 202
 00:11:57,651 --> 00:12:00,719
-     a blast of compressed      
- air loosens it from the mold.  
+a blast of compressed air loosens it from the mold.  
 
 203
 00:12:00,721 --> 00:12:03,789
-     and he lifts it out.       
+and he lifts it out.       
 
 204
 00:12:03,791 --> 00:12:05,857
-       it's a bit ragged        
-        around the rim.         
+it's a bit ragged around the rim.         
 
 205
 00:12:05,859 --> 00:12:07,826
-   so they do a basic trim.     
+so they do a basic trim.     
 
 206
 00:12:10,997 --> 00:12:14,633
-  he drills holes in the tank   
-   for installing fittings.     
+he drills holes in the tank for installing fittings.     
 
 207
 00:12:17,003 --> 00:12:19,338
-       using a pneumatic        
-        circular blade,         
+using a pneumatic circular blade,         
 
 208
 00:12:19,340 --> 00:12:22,941
-        he slices a hole        
-    for the compost drawer.     
+he slices a hole for the compost drawer.     
 
 209
 00:12:22,943 --> 00:12:26,245
-     and he grinds the rim      
-   to precise measurements.     
+and he grinds the rim to precise measurements.     
 
 210
 00:12:29,883 --> 00:12:31,883
-     he screws two overflow     
-            fittings            
+he screws two overflow fittings            
 
 211
 00:12:31,885 --> 00:12:34,586
-      into a threaded hole      
-   on the back of the tank.     
+into a threaded hole on the back of the tank.     
 
 212
 00:12:36,957 --> 00:12:38,690
-   he seals the fittings with   
-             epoxy              
+he seals the fittings with epoxy              
 
 213
 00:12:38,692 --> 00:12:41,626
-      from the other side       
-       of the tank wall.        
+from the other side of the tank wall.        
 
 214
 00:12:41,628 --> 00:12:44,496
-      this epoxy seal will      
-        prevent leaks.          
+this epoxy seal will prevent leaks.          
 
 215
 00:12:47,835 --> 00:12:49,367
-     moving down the line,      
+moving down the line,      
 
 216
 00:12:49,369 --> 00:12:51,503
@@ -1033,305 +866,255 @@ another worker sprays adhesive
 
 217
 00:12:51,505 --> 00:12:55,173
-         on the bottom          
-    of the composting tank.     
+on the bottom of the composting tank.     
 
 218
 00:12:55,175 --> 00:12:57,909
-           he presses           
-   an aluminum panel to it.     
+he presses an aluminum panel to it.     
 
 219
 00:12:57,911 --> 00:12:59,577
- this panel will radiate heat   
+this panel will radiate heat   
 
 220
 00:12:59,579 --> 00:13:03,181
-     from a heating element     
-     he installs over it.       
+from a heating element he installs over it.       
 
 221
 00:13:03,183 --> 00:13:05,050
-          it will heat          
-    the evaporation chamber     
+it will heat the evaporation chamber     
 
 222
 00:13:05,052 --> 00:13:08,120
-          in the tank           
-     to dissipate liquids.      
+in the tank to dissipate liquids.      
 
 223
 00:13:08,122 --> 00:13:10,656
-      he places fiberglass      
-           insulation           
-        over the heater         
+he places fiberglass insulation over the heater         
 
 224
 00:13:10,658 --> 00:13:15,393
-      and encases it with       
-  a molded fiberglass cover.    
+and encases it with a molded fiberglass cover.    
 
 225
 00:13:15,395 --> 00:13:18,129
-      he wires the heater       
-   and installs a thermostat    
+he wires the heater and installs a thermostat    
 
 226
 00:13:18,131 --> 00:13:19,598
-  that will regulate the heat   
+that will regulate the heat   
 
 227
 00:13:19,600 --> 00:13:21,466
- and also shut off the system   
+and also shut off the system   
 
 228
 00:13:21,468 --> 00:13:25,103
- if the temperature drops below 
-   or exceeds the threshold.    
+if the temperature drops below or exceeds the threshold.    
 
 229
 00:13:29,075 --> 00:13:31,943
-    he turns the composting     
-   toilet tank right-side-up    
+he turns the composting toilet tank right-side-up    
 
 230
 00:13:31,945 --> 00:13:33,812
-  to await further assembly.    
+to await further assembly.    
 
 231
 00:13:36,083 --> 00:13:38,884
-   meanwhile, another worker    
-       assembles the fan        
+meanwhile, another worker assembles the fan        
 
 232
 00:13:38,886 --> 00:13:42,254
- for exhausting the evaporated  
-     fluids and any odors.      
+for exhausting the evaporated fluids and any odors.      
 
 233
 00:13:44,491 --> 00:13:47,692
-   he inserts the motor shaft   
-   in a hole in the fan door    
+he inserts the motor shaft in a hole in the fan door    
 
 234
 00:13:47,694 --> 00:13:49,961
- so that it protrudes inside.   
+so that it protrudes inside.   
 
 235
 00:13:49,963 --> 00:13:55,100
-    he then screws the motor    
-  to the outside of the door.   
+he then screws the motor to the outside of the door.   
 
 236
 00:13:55,102 --> 00:13:57,636
-       next, he assembles       
-    the centrifugal blower      
+next, he assembles the centrifugal blower      
 
 237
 00:13:57,638 --> 00:13:59,738
-      to the motor shaft.       
+to the motor shaft.       
 
 238
 00:14:01,975 --> 00:14:05,243
-          he installs           
-       a plastic shroud.        
+he installs a plastic shroud.        
 
 239
 00:14:05,245 --> 00:14:06,577
-     it surrounds the fan,      
+it surrounds the fan,      
 
 240
 00:14:06,579 --> 00:14:09,047
-     protecting the blades'     
-     interacting airflow.       
+protecting the blades' interacting airflow.       
 
 241
 00:14:16,456 --> 00:14:17,522
-     at the next station,       
+at the next station,       
 
 242
 00:14:17,524 --> 00:14:19,191
-  a worker prepares the drum    
+a worker prepares the drum    
 
 243
 00:14:19,193 --> 00:14:22,060
-      in which solid waste      
- will be converted to compost   
+in which solid waste will be converted to compost   
 
 244
 00:14:22,062 --> 00:14:25,997
-   by aerobic decomposition.    
+by aerobic decomposition.    
 
 245
 00:14:25,999 --> 00:14:27,999
-     he fastens a stainless     
-         steel screen           
+he fastens a stainless steel screen           
 
 246
 00:14:28,001 --> 00:14:30,035
-  to an opening in the drum.    
+to an opening in the drum.    
 
 247
 00:14:32,940 --> 00:14:35,207
-    liquid waste will drain     
-      through this screen       
+liquid waste will drain through this screen       
 
 248
 00:14:35,209 --> 00:14:39,344
-            and into            
-   the evaporation chamber.     
+and into the evaporation chamber.     
 
 249
 00:14:39,346 --> 00:14:42,147
-        once evaporated,        
-     the fan will expel it      
+once evaporated, the fan will expel it      
 
 250
 00:14:42,149 --> 00:14:44,349
-    through the vent stack.     
+through the vent stack.     
 
 251
 00:14:48,021 --> 00:14:52,157
-     he now places the drum     
-      in the tank, bearings     
-           elevated,            
+he now places the drum in the tank, bearings elevated,            
 
 252
 00:14:52,159 --> 00:14:56,961
-     so it sits just above      
-   the evaporation chamber.     
+so it sits just above the evaporation chamber.     
 
 253
 00:14:56,963 --> 00:14:59,631
-     he fits a plastic top      
-          to the tank           
+he fits a plastic top to the tank           
 
 254
 00:14:59,633 --> 00:15:02,100
-       and screws the two       
-     components together.       
+and screws the two components together.       
 
 255
 00:15:05,973 --> 00:15:08,105
-       he inserts a metal       
-       shaft with gears,        
+he inserts a metal shaft with gears,        
 
 256
 00:15:08,107 --> 00:15:11,476
-   engaging them with grooves   
-  on the outside of the drum.   
+engaging them with grooves on the outside of the drum.   
 
 257
 00:15:13,914 --> 00:15:15,847
-       he inserts the fan       
-        into an opening         
+he inserts the fan into an opening         
 
 258
 00:15:15,849 --> 00:15:18,917
-  at the back and secures it.   
+at the back and secures it.   
 
 259
 00:15:18,919 --> 00:15:22,788
-        he wires the fan        
-     to the power source.       
+he wires the fan to the power source.       
 
 260
 00:15:22,790 --> 00:15:25,457
-      he installs a cover       
-    to protect the wiring.      
+he installs a cover to protect the wiring.      
 
 261
 00:15:25,459 --> 00:15:29,127
-   and he connects the shaft    
-   to a handle at the front.    
+and he connects the shaft to a handle at the front.    
 
 262
 00:15:29,129 --> 00:15:31,796
-      it rotates the drum       
-      to mix the contents       
+it rotates the drum to mix the contents       
 
 263
 00:15:31,798 --> 00:15:33,197
-       and introduce air        
+and introduce air        
 
 264
 00:15:33,199 --> 00:15:36,468
-      so that the aerobic       
-  microorganisms will thrive.   
+so that the aerobic microorganisms will thrive.   
 
 265
 00:15:38,538 --> 00:15:40,539
-        after electrical        
-       and other tests,         
+after electrical and other tests,         
 
 266
 00:15:40,541 --> 00:15:44,409
-  a worker installs the drawer  
-   for the finished compost.    
+a worker installs the drawer for the finished compost.    
 
 267
 00:15:44,411 --> 00:15:46,143
-   she fastens the seat to the  
-              base              
+she fastens the seat to the base              
 
 268
 00:15:46,145 --> 00:15:49,047
-        with nylon nuts         
-     and bolts with caps.       
+with nylon nuts and bolts with caps.       
 
 269
 00:15:51,551 --> 00:15:54,019
-  she inserts a plastic liner   
-         in the bowl.           
+she inserts a plastic liner in the bowl.           
 
 270
 00:15:54,021 --> 00:15:57,555
-       and this completes       
-    the composting toilet.      
+and this completes the composting toilet.      
 
 271
 00:15:57,557 --> 00:16:00,225
-     by turning human waste     
-         into compost,          
+by turning human waste into compost,          
 
 272
 00:16:00,227 --> 00:16:03,962
- things will eventually end up  
-     smelling like roses.       
+things will eventually end up smelling like roses.       
 
 273
 00:16:18,245 --> 00:16:20,846
-  narrator: electrical systems  
-               are              
- vulnerable to voltage spikes   
+narrator: electrical systems are vulnerable to voltage spikes   
 
 274
 00:16:20,848 --> 00:16:24,448
-         from lightning         
-     or switching surges.       
+from lightning or switching surges.       
 
 275
 00:16:24,450 --> 00:16:25,917
-   surge arresters take over    
+surge arresters take over    
 
 276
 00:16:25,919 --> 00:16:28,787
-     in these high-voltage      
-          situations.           
+in these high-voltage situations.           
 
 277
 00:16:32,392 --> 00:16:33,824
-    when lightning strikes,     
+when lightning strikes,     
 
 278
 00:16:33,826 --> 00:16:36,594
-        surge arresters         
-      handle the fallout.       
+surge arresters handle the fallout.       
 
 279
 00:16:36,596 --> 00:16:39,664
-    they divert the ensuing     
-  power surges to the earth,    
+they divert the ensuing power surges to the earth,    
 
 280
 00:16:39,666 --> 00:16:42,467
@@ -1339,101 +1122,83 @@ where they won't cause damage.
 
 281
 00:16:42,469 --> 00:16:46,337
-    at their core are discs     
-     that act as switches.      
+at their core are discs that act as switches.      
 
 282
 00:16:46,339 --> 00:16:50,342
-      they turn on and off      
-   to divert voltage spikes.    
+they turn on and off to divert voltage spikes.    
 
 283
 00:16:50,344 --> 00:16:52,544
-     the discs are known as     
-            m.o.v.s,            
+the discs are known as m.o.v.s,            
 
 284
 00:16:52,546 --> 00:16:56,948
-         which is short         
-  for metal oxide varistors.    
+which is short for metal oxide varistors.    
 
 285
 00:16:56,950 --> 00:17:00,685
-   a worker loops fiberglass    
-     strapping onto aluminum    
-            endcaps             
+a worker loops fiberglass strapping onto aluminum endcaps             
 
 286
 00:17:00,687 --> 00:17:04,221
-     to prepare the casing      
-       for the m.o.v.s.         
+to prepare the casing for the m.o.v.s.         
 
 287
 00:17:04,223 --> 00:17:08,225
-   he places a spacer on one    
-     end of the end caps.       
+he places a spacer on one end of the end caps.       
 
 288
 00:17:08,227 --> 00:17:11,095
-     he then packs numerous     
-        m.o.v.s on top,         
+he then packs numerous m.o.v.s on top,         
 
 289
 00:17:11,097 --> 00:17:13,031
-    equipping this arrester     
-           to divert            
+equipping this arrester to divert            
 
 290
 00:17:13,033 --> 00:17:17,368
-  a 60,000-volt power surge.    
+a 60,000-volt power surge.    
 
 291
 00:17:17,370 --> 00:17:20,105
-      he adds more spacers      
-      to fill in any gaps       
+he adds more spacers to fill in any gaps       
 
 292
 00:17:20,107 --> 00:17:21,706
-   because the m.o.v. stack     
+because the m.o.v. stack     
 
 293
 00:17:21,708 --> 00:17:24,042
-        has to sit tight        
-      within the casing.        
+has to sit tight within the casing.        
 
 294
 00:17:26,980 --> 00:17:28,379
-   with the stack complete,     
+with the stack complete,     
 
 295
 00:17:28,381 --> 00:17:30,514
-    he loops more fiberglass    
-       strapping around         
+he loops more fiberglass strapping around         
 
 296
 00:17:30,516 --> 00:17:34,386
-    the m.o.v.s to complete     
-          the casing.           
+the m.o.v.s to complete the casing.           
 
 297
 00:17:34,388 --> 00:17:37,722
-    he torques the set screw    
-    to compress the stack.      
+he torques the set screw to compress the stack.      
 
 298
 00:17:37,724 --> 00:17:40,992
-   the set screw also pushes    
-      back the end caps.        
+the set screw also pushes back the end caps.        
 
 299
 00:17:40,994 --> 00:17:45,997
-   this pulls the fiberglass    
-      strapping tighter.        
+this pulls the fiberglass strapping tighter.        
 
 300
 00:17:45,999 --> 00:17:48,133
-         he now clamps          
-      the surge arrester        
+he now clamps the surge arrester        
 
 301
 00:17:48,135 --> 00:17:50,468
@@ -1441,62 +1206,51 @@ assembly between two mandrels.
 
 302
 00:17:54,207 --> 00:17:56,141
-   he ties a resin-reinforced   
-            thread              
+he ties a resin-reinforced thread              
 
 303
 00:17:56,143 --> 00:17:58,543
-     around the fiberglass      
-       loop at one end.         
+around the fiberglass loop at one end.         
 
 304
 00:18:05,285 --> 00:18:08,420
-       he lowers a guard        
-    as a safety precaution.     
+he lowers a guard as a safety precaution.     
 
 305
 00:18:08,422 --> 00:18:12,624
-     the mandrels then spin     
-   the surge arrester module    
+the mandrels then spin the surge arrester module    
 
 306
 00:18:12,626 --> 00:18:14,892
-    as a computer-programmed    
-           dispenser            
+as a computer-programmed dispenser            
 
 307
 00:18:14,894 --> 00:18:18,696
-        winds the thread        
-  around it to strengthen it.   
+winds the thread around it to strengthen it.   
 
 308
 00:18:18,698 --> 00:18:21,499
-        it creates gaps         
-     between the windings.      
+it creates gaps between the windings.      
 
 309
 00:18:21,501 --> 00:18:23,634
-   this will allow sparks and   
-             fumes              
+this will allow sparks and fumes              
 
 310
 00:18:23,636 --> 00:18:27,105
-     to escape in the event     
-     of a power overload.       
+to escape in the event of a power overload.       
 
 311
 00:18:27,107 --> 00:18:28,907
-  with the winding complete,    
+with the winding complete,    
 
 312
 00:18:28,909 --> 00:18:33,111
-  he cuts the end and tucks it  
-    under the last winding.     
+he cuts the end and tucks it under the last winding.     
 
 313
 00:18:33,113 --> 00:18:35,379
-      he hangs the module       
-      on a rack conveyer,       
+he hangs the module on a rack conveyer,       
 
 314
 00:18:35,381 --> 00:18:37,382
@@ -1504,234 +1258,200 @@ which takes it into a chamber.
 
 315
 00:18:40,453 --> 00:18:41,786
-      here, a tank filled       
+here, a tank filled       
 
 316
 00:18:41,788 --> 00:18:44,589
-   with an adhesive-promoting   
-       solution rises up        
+with an adhesive-promoting solution rises up        
 
 317
 00:18:44,591 --> 00:18:46,858
-   and immerses the module.     
+and immerses the module.     
 
 318
 00:18:46,860 --> 00:18:49,327
-     this leaves a coating      
+this leaves a coating      
 that will help silicone rubber  
 
 319
 00:18:49,329 --> 00:18:51,696
-          housing bond          
-     to the module later.       
+housing bond to the module later.       
 
 320
 00:18:53,533 --> 00:18:55,066
-   he removes the hook used     
+he removes the hook used     
 
 321
 00:18:55,068 --> 00:18:57,201
-       to hang the module       
-     on the rack conveyer       
+to hang the module on the rack conveyer       
 
 322
 00:18:57,203 --> 00:19:00,138
-     and installs mandrels      
-    at both ends to be used     
+and installs mandrels at both ends to be used     
 
 323
 00:19:00,140 --> 00:19:03,141
-       at a later stage of      
-          processing.           
+at a later stage of processing.           
 
 324
 00:19:03,143 --> 00:19:04,676
-  he sets the module between    
+he sets the module between    
 
 325
 00:19:04,678 --> 00:19:06,945
-          the rungs of          
-   a chain-driven conveyer.     
+the rungs of a chain-driven conveyer.     
 
 326
 00:19:09,816 --> 00:19:14,085
-  it takes it through an oven   
+it takes it through an oven   
 set at 302 degrees fahrenheit.  
 
 327
 00:19:14,087 --> 00:19:16,287
-      this cures the resin      
-        in the thread,          
+this cures the resin in the thread,          
 
 328
 00:19:16,289 --> 00:19:20,291
-      causing it to harden      
-      around the fiberglass     
-           strapping.           
+causing it to harden around the fiberglass strapping.           
 
 329
 00:19:20,293 --> 00:19:22,960
-   it also preheats the surge   
-        arrester module         
+it also preheats the surge arrester module         
 
 330
 00:19:22,962 --> 00:19:25,697
-         in preparation         
-    for the next process --     
+in preparation for the next process --     
 
 331
 00:19:25,699 --> 00:19:29,433
-         the molding of         
-      the outer housing.        
+the molding of the outer housing.        
 
 332
 00:19:29,435 --> 00:19:30,969
-      using the mandrels,       
+using the mandrels,       
 
 333
 00:19:30,971 --> 00:19:34,105
-   he locks two of the surge    
+he locks two of the surge    
 arrester modules in a platform  
 
 334
 00:19:34,107 --> 00:19:36,441
-      and slides it under       
-         a mold press.          
+and slides it under a mold press.          
 
 335
 00:19:38,378 --> 00:19:40,712
- a lift takes it to the press.  
+a lift takes it to the press.  
 
 336
 00:19:42,983 --> 00:19:45,383
-   it injects silicone rubber   
-        into the mold.          
+it injects silicone rubber into the mold.          
 
 337
 00:19:45,385 --> 00:19:47,184
- and using pressure and heat,   
+and using pressure and heat,   
 
 338
 00:19:47,186 --> 00:19:48,853
-  it forms insulating jackets   
+it forms insulating jackets   
 
 339
 00:19:48,855 --> 00:19:51,923
- around the arrester modules.   
+around the arrester modules.   
 
 340
 00:19:51,925 --> 00:19:54,526
-       the primer coating       
-     enhances the adhesion      
+the primer coating enhances the adhesion      
 
 341
 00:19:54,528 --> 00:19:56,660
-     of the silicone rubber     
-        to the modules.         
+of the silicone rubber to the modules.         
 
 342
 00:19:56,662 --> 00:19:59,798
-     he clips off unwanted      
-    bits of silicone rubber     
+he clips off unwanted bits of silicone rubber     
 
 343
 00:19:59,800 --> 00:20:01,266
-    from the molded housing     
+from the molded housing     
 
 344
 00:20:01,268 --> 00:20:03,802
-     and cleans up the ends     
-      with a wire brush.        
+and cleans up the ends with a wire brush.        
 
 345
 00:20:05,939 --> 00:20:09,007
-      surge arresters come      
- in a range of voltage ratings  
+surge arresters come in a range of voltage ratings  
 
 346
 00:20:09,009 --> 00:20:12,343
-         for different          
-      electrical systems.       
+for different electrical systems.       
 
 347
 00:20:12,345 --> 00:20:16,948
- he now lubricates the threaded 
-    bolt holes in one end.      
+he now lubricates the threaded bolt holes in one end.      
 
 348
 00:20:16,950 --> 00:20:19,817
-     he aligns those holes      
+he aligns those holes      
 
 349
 00:20:19,819 --> 00:20:22,887
-         with the ones          
-   on a terminal connector.     
+with the ones on a terminal connector.     
 
 350
 00:20:22,889 --> 00:20:25,957
-     he bolts the connector     
-    to the surge arrester.      
+he bolts the connector to the surge arrester.      
 
 351
 00:20:31,497 --> 00:20:33,631
-       he installs a base       
-       on the other end.        
+he installs a base on the other end.        
 
 352
 00:20:33,633 --> 00:20:35,500
-      this base will allow      
-         the arrester           
+this base will allow the arrester           
 
 353
 00:20:35,502 --> 00:20:37,368
-  to be mounted to the ground   
+to be mounted to the ground   
 
 354
 00:20:37,370 --> 00:20:40,271
-    to send excess voltages     
-         to the earth.          
+to send excess voltages to the earth.          
 
 355
 00:20:51,585 --> 00:20:54,919
-     he now puts the surge      
-     arrester to the test.      
+he now puts the surge arrester to the test.      
 
 356
 00:20:54,921 --> 00:20:57,188
-     he connects electrodes     
-   to the terminal connector    
+he connects electrodes to the terminal connector    
 
 357
 00:20:57,190 --> 00:21:00,457
-       and to the base.         
+and to the base.         
 
 358
 00:21:00,459 --> 00:21:02,459
-   he runs different voltages   
-        of electricity          
+he runs different voltages of electricity          
 
 359
 00:21:02,461 --> 00:21:04,596
-      through the arrester      
-         and confirms           
+through the arrester and confirms           
 
 360
 00:21:04,598 --> 00:21:08,333
-       that it adequately       
-       discharges them.         
+that it adequately discharges them.         
 
 361
 00:21:08,335 --> 00:21:12,069
-   this surge arrester is now   
-              ready             
-  to join others on the grid,   
+this surge arrester is now ready to join others on the grid,   
 
 362
 00:21:12,071 --> 00:21:14,205
-       forming a defense        
-   against lightning strikes    
+forming a defense against lightning strikes    
 
 363
 00:21:14,207 --> 00:21:15,840
-       and power spikes.        
+and power spikes.        
 

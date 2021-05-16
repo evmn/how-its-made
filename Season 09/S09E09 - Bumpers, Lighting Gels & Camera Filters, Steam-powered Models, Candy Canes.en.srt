@@ -1,195 +1,170 @@
 ﻿1
 00:00:01,635 --> 00:00:04,536
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,671 --> 00:00:07,639
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 3
 00:00:21,689 --> 00:00:24,556
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:24,625 --> 00:00:25,958
-           bumpers...           
+bumpers...           
 
 5
 00:00:31,365 --> 00:00:33,932
-        ...lighting gels        
-      and camera filters...     
+...lighting gels and camera filters...     
 
 6
 00:00:38,172 --> 00:00:39,738
-   ...steam-powered models...   
+...steam-powered models...   
 
 7
 00:00:43,944 --> 00:00:45,878
-       ...and candy canes.      
+...and candy canes.      
 
 8
 00:00:53,387 --> 00:00:56,655
-  with all the attention we pay 
-  to our car's high-tech parts, 
+with all the attention we pay to our car's high-tech parts, 
 
 9
 00:00:56,657 --> 00:00:58,790
-            it's easy           
-   to overlook the importance   
+it's easy to overlook the importance   
 
 10
 00:00:58,859 --> 00:01:00,725
-     of a vehicle's bumpers.    
+of a vehicle's bumpers.    
 
 11
 00:01:00,761 --> 00:01:04,729
-   about 80% of car accidents   
-  are front or rear collisions. 
+about 80% of car accidents are front or rear collisions. 
 
 12
 00:01:04,765 --> 00:01:08,267
 the bumper is designed to absorb
-    the force of the impact,    
+the force of the impact,    
 
 13
 00:01:08,269 --> 00:01:10,969
-        minimizing damage       
-    in low-speed collisions.    
+minimizing damage in low-speed collisions.    
 
 14
 00:01:15,076 --> 00:01:20,345
- bumpers can be made of plastic,
- fiberglass, aluminum, or steel.
+bumpers can be made of plastic,
+fiberglass, aluminum, or steel.
 
 15
 00:01:20,481 --> 00:01:22,881
-          this company          
-      makes steel bumpers.      
+this company makes steel bumpers.      
 
 16
 00:01:23,016 --> 00:01:24,816
-    they start out as blanks,   
+they start out as blanks,   
 
 17
 00:01:24,819 --> 00:01:27,820
-          steel sheets          
-  just 8/100 of an inch thick.  
+steel sheets just 8/100 of an inch thick.  
 
 18
 00:01:27,955 --> 00:01:30,956
-       these are en route       
-   to becoming truck bumpers.   
+these are en route to becoming truck bumpers.   
 
 19
 00:01:31,025 --> 00:01:35,160
 a robot feeds each blank through
- a series of seven to nine dies,
+a series of seven to nine dies,
 
 20
 00:01:35,196 --> 00:01:37,996
- depending on the bumper model. 
+depending on the bumper model. 
 
 21
 00:01:39,566 --> 00:01:42,467
-    each die stamps the blank   
-    into a particular shape,    
+each die stamps the blank into a particular shape,    
 
 22
 00:01:42,503 --> 00:01:45,570
- using some 2,000 tons of force.
+using some 2,000 tons of force.
 
 23
 00:01:45,606 --> 00:01:47,906
-       this progressively       
-         forms the blank        
+this progressively forms the blank        
 
 24
 00:01:47,975 --> 00:01:49,808
-  into the final bumper shape.  
+into the final bumper shape.  
 
 25
 00:01:56,116 --> 00:01:59,718
- both the front and rear bumpers
-  go through the same process,  
+both the front and rear bumpers
+go through the same process,  
 
 26
 00:01:59,853 --> 00:02:01,787
-    only with different dies.   
+only with different dies.   
 
 27
 00:02:04,825 --> 00:02:08,060
-     the bumpers now travel     
-  to the next production area,  
+the bumpers now travel to the next production area,  
 
 28
 00:02:08,062 --> 00:02:11,863
- where a worker clamps each one 
- onto a specially designed cart.
+where a worker clamps each one onto a specially designed cart.
 
 29
 00:02:11,899 --> 00:02:15,534
-   at this point, the factory   
-     paints certain models.     
+at this point, the factory paints certain models.     
 
 30
 00:02:15,536 --> 00:02:18,003
-          these bumpers         
-    will get chrome plating.    
+these bumpers will get chrome plating.    
 
 31
 00:02:18,138 --> 00:02:21,707
-  but first they travel through 
-   a series of buffing wheels.  
+but first they travel through a series of buffing wheels.  
 
 32
 00:02:28,015 --> 00:02:30,015
-       the bumper surface       
-    must be impeccably smooth   
+the bumper surface must be impeccably smooth   
 
 33
 00:02:30,150 --> 00:02:31,216
-    because the chrome finish   
+because the chrome finish   
 
 34
 00:02:31,351 --> 00:02:34,586
-         magnifies even         
-       the tiniest flaws.       
+magnifies even the tiniest flaws.       
 
 35
 00:02:37,491 --> 00:02:39,958
-     a computer-guided crane    
-       stacks the bumpers       
+a computer-guided crane stacks the bumpers       
 
 36
 00:02:40,027 --> 00:02:43,195
-   and maneuvers them through   
-   the chrome-plating process.  
+and maneuvers them through the chrome-plating process.  
 
 37
 00:02:47,268 --> 00:02:50,301
- first it submerges the bumpers 
-    in several cleaning tanks   
+first it submerges the bumpers in several cleaning tanks   
 
 38
 00:02:50,337 --> 00:02:52,637
-      to remove any residue     
-       left on the surface      
+to remove any residue left on the surface      
 
 39
 00:02:52,706 --> 00:02:55,440
-    from previous operations.   
+from previous operations.   
 
 40
 00:02:55,509 --> 00:02:57,976
-    the company won't divulge   
-     what chemicals it uses     
+the company won't divulge what chemicals it uses     
 
 41
 00:02:57,978 --> 00:02:59,111
-       to clean the steel       
+to clean the steel       
 
 42
 00:02:59,246 --> 00:03:00,979
@@ -197,126 +172,107 @@ because this surface preparation
 
 43
 00:03:01,015 --> 00:03:03,382
-          is the secret         
-  to first-rate metal plating.  
+is the secret to first-rate metal plating.  
 
 44
 00:03:09,290 --> 00:03:11,723
-     the first plating tank     
-    applies a coat of nickel    
+the first plating tank applies a coat of nickel    
 
 45
 00:03:11,725 --> 00:03:14,459
-      to protect the steel      
-         from corrosion.        
+to protect the steel from corrosion.        
 
 46
 00:03:14,495 --> 00:03:17,795
-          the next tank         
-    applies the chrome layer.   
+the next tank applies the chrome layer.   
 
 47
 00:03:17,831 --> 00:03:20,665
-  the factory uses the standard 
-     electroplating process.    
+the factory uses the standard electroplating process.    
 
 48
 00:03:20,734 --> 00:03:22,734
- in a water-and-chemical-filled 
-              tank,             
+in a water-and-chemical-filled tank,             
 
 49
 00:03:22,869 --> 00:03:25,536
-   the plating metal particles  
-      get a positive charge     
+the plating metal particles get a positive charge     
 
 50
 00:03:25,573 --> 00:03:28,740
-     while a negative charge    
-    runs through the bumpers.   
+while a negative charge runs through the bumpers.   
 
 51
 00:03:28,776 --> 00:03:32,210
-     this magnetically draws    
- the particles onto the bumpers 
+this magnetically draws the particles onto the bumpers 
 
 52
 00:03:32,246 --> 00:03:33,612
-        in an even layer.       
+in an even layer.       
 
 53
 00:03:35,749 --> 00:03:39,484
-     after a thorough rinse,    
-   the bumpers are inspected.   
+after a thorough rinse, the bumpers are inspected.   
 
 54
 00:03:39,553 --> 00:03:42,020
-       workers scrutinize       
-    the chrome-mirror finish    
+workers scrutinize the chrome-mirror finish    
 
 55
 00:03:42,089 --> 00:03:44,323
-   under high-intensity light.  
+under high-intensity light.  
 
 56
 00:03:46,627 --> 00:03:50,361
-     meanwhile, this machine    
- pressure injects molten plastic
+meanwhile, this machine pressure injects molten plastic
 
 57
 00:03:50,397 --> 00:03:51,763
-       into various molds.      
+into various molds.      
 
 58
 00:03:51,832 --> 00:03:53,598
-    a built-in cooling system   
+a built-in cooling system   
 
 59
 00:03:53,634 --> 00:03:56,167
-       hardens the plastic      
-         within seconds.        
+hardens the plastic within seconds.        
 
 60
 00:03:56,237 --> 00:03:58,970
-         then out comes         
-     the plastic components     
+then out comes the plastic components     
 
 61
 00:03:58,973 --> 00:04:01,306
-   that attach to the bumpers.  
+that attach to the bumpers.  
 
 62
 00:04:01,441 --> 00:04:03,976
-   one of those plastic parts   
-        is this step pad        
+one of those plastic parts is this step pad        
 
 63
 00:04:04,111 --> 00:04:06,511
-       that covers the top      
-       of the rear bumper.      
+that covers the top of the rear bumper.      
 
 64
 00:04:06,547 --> 00:04:07,979
-    once the pad's in place,    
+once the pad's in place,    
 
 65
 00:04:08,015 --> 00:04:10,648
-        a worker attaches       
-    a built-in trailer hitch.   
+a worker attaches a built-in trailer hitch.   
 
 66
 00:04:10,684 --> 00:04:12,650
-     steel mounting brackets    
+steel mounting brackets    
 
 67
 00:04:12,686 --> 00:04:16,120
-   help structurally reinforce  
-           the bumper.          
+help structurally reinforce the bumper.          
 
 68
 00:04:16,156 --> 00:04:18,990
-   the front bumper goes down   
-   a different assembly line.   
+the front bumper goes down a different assembly line.   
 
 69
 00:04:18,993 --> 00:04:21,193
@@ -324,154 +280,133 @@ a worker attaches a plastic trim
 
 70
 00:04:21,328 --> 00:04:23,528
-         that hangs down        
-     just below the bumper.     
+that hangs down just below the bumper.     
 
 71
 00:04:23,530 --> 00:04:25,997
-      its aerodynamic shape     
-      helps direct air flow     
+its aerodynamic shape helps direct air flow     
 
 72
 00:04:26,033 --> 00:04:27,399
-   to the engine compartment.   
+to the engine compartment.   
 
 73
 00:04:27,468 --> 00:04:30,068
-        next, four steel        
-      reinforcing brackets      
+next, four steel reinforcing brackets      
 
 74
 00:04:30,070 --> 00:04:33,338
-   that will attach the bumper  
-      to the truck's frame.     
+that will attach the bumper to the truck's frame.     
 
 75
 00:04:45,019 --> 00:04:50,489
-          and, finally,         
-   the license-plate holder...  
+and, finally, the license-plate holder...  
 
 76
 00:04:50,491 --> 00:04:52,557
-         and fog lamps.         
+and fog lamps.         
 
 77
 00:04:57,698 --> 00:05:00,832
-  workers tighten all the bolts 
-    to a specified tightness.   
+workers tighten all the bolts to a specified tightness.   
 
 78
 00:05:00,967 --> 00:05:04,236
-  this ensures that the bumper  
-    and its mounting brackets   
+this ensures that the bumper and its mounting brackets   
 
 79
 00:05:04,238 --> 00:05:07,306
-     will adequately absorb     
-   the force of the collision.  
+will adequately absorb the force of the collision.  
 
 80
 00:05:12,046 --> 00:05:14,312
-      whenever a new model      
-      goes into production,     
+whenever a new model goes into production,     
 
 81
 00:05:14,348 --> 00:05:16,248
-      the first few bumpers     
-          off the line          
+the first few bumpers off the line          
 
 82
 00:05:16,250 --> 00:05:17,716
-  go through a battery of tests 
+go through a battery of tests 
 
 83
 00:05:17,785 --> 00:05:20,252
-   to prove they can withstand  
-       stress, vibration,       
+to prove they can withstand stress, vibration,       
 
 84
 00:05:20,254 --> 00:05:24,456
-  and a certain degree of what  
-  engineers call crash energy.  
+and a certain degree of what engineers call crash energy.  
 
 85
 00:05:24,591 --> 00:05:28,192
-  other types of bumper systems 
-  use a combination of springs  
+other types of bumper systems use a combination of springs  
 
 86
 00:05:28,228 --> 00:05:31,529
- and energy-absorbing material, 
-      such as plastic foam.     
+and energy-absorbing material, such as plastic foam.     
 
 87
 00:05:31,565 --> 00:05:32,931
-       with either method,      
+with either method,      
 
 88
 00:05:33,000 --> 00:05:36,267
-   the goal is for the bumper   
-      to absorb the impact.     
+the goal is for the bumper to absorb the impact.     
 
 89
 00:05:36,337 --> 00:05:37,869
-     in a low-impact crash,     
+in a low-impact crash,     
 
 90
 00:05:37,938 --> 00:05:41,005
-   this should ideally confine  
+this should ideally confine  
 the damage to the bumper itself,
 
 91
 00:05:41,041 --> 00:05:43,541
-     leaving the headlights,    
-           the engine,          
+leaving the headlights, the engine,          
 
 92
 00:05:43,577 --> 00:05:45,277
-    and the driver unscathed.   
+and the driver unscathed.   
 
 93
 00:05:52,519 --> 00:05:54,286
- up next, some colorful products
+up next, some colorful products
 
 94
 00:05:54,288 --> 00:05:56,988
-       that set the stage       
-      in a whole new light.     
+that set the stage in a whole new light.     
 
 95
 00:05:59,693 --> 00:06:01,092
-   narrator: gels and filters   
+narrator: gels and filters   
 
 96
 00:06:01,161 --> 00:06:04,028
-      can turn a bad scene      
-      into a beautiful one.     
+can turn a bad scene into a beautiful one.     
 
 97
 00:06:04,098 --> 00:06:06,431
-          they're used          
-     in theater productions     
+they're used in theater productions     
 
 98
 00:06:06,433 --> 00:06:09,501
-  to enhance the mood on stage. 
+to enhance the mood on stage. 
 
 99
 00:06:09,570 --> 00:06:11,770
-        they're also used       
-     in film and photography    
+they're also used in film and photography    
 
 100
 00:06:11,839 --> 00:06:14,906
-  to adjust color temperatures  
-  from different light sources. 
+to adjust color temperatures from different light sources. 
 
 101
 00:06:22,516 --> 00:06:26,317
 these lighting gels can make any
- scene take on a different mood.
+scene take on a different mood.
 
 102
 00:06:26,387 --> 00:06:30,254
@@ -480,17 +415,15 @@ used to be made of gelatin film,
 
 103
 00:06:30,290 --> 00:06:33,558
-     but today they are made    
-  out of transparent polyester. 
+but today they are made out of transparent polyester. 
 
 104
 00:06:35,529 --> 00:06:37,195
-       the process begins       
+the process begins       
 
 105
 00:06:37,231 --> 00:06:41,199
-   with a mix of solvent, dye,  
- and flame-retardant chemicals. 
+with a mix of solvent, dye, and flame-retardant chemicals. 
 
 106
 00:06:41,334 --> 00:06:43,568
@@ -498,97 +431,84 @@ this produces a colored lacquer.
 
 107
 00:06:49,676 --> 00:06:52,010
-         a worker tests         
-     the lacquer's thickness    
+a worker tests the lacquer's thickness    
 
 108
 00:06:52,145 --> 00:06:55,480
- by pouring it into a brass cup 
-   with a hole in the bottom.   
+by pouring it into a brass cup with a hole in the bottom.   
 
 109
 00:06:55,549 --> 00:06:58,549
-    as the lacquer drains out   
-    of the hole, it's timed.    
+as the lacquer drains out of the hole, it's timed.    
 
 110
 00:06:58,585 --> 00:07:01,820
-    if it flows too quickly,    
-    the lacquer is too thin,    
+if it flows too quickly, the lacquer is too thin,    
 
 111
 00:07:01,889 --> 00:07:04,889
-  and if it drains too slowly,  
-         it's too thick.        
+and if it drains too slowly, it's too thick.        
 
 112
 00:07:04,958 --> 00:07:06,491
-          a steady flow         
+a steady flow         
 
 113
 00:07:06,560 --> 00:07:09,093
-      means the lacquer mix     
-  is the perfect consistency -- 
+means the lacquer mix is the perfect consistency -- 
 
 114
 00:07:09,129 --> 00:07:10,695
-  about as thick as engine oil. 
+about as thick as engine oil. 
 
 115
 00:07:10,831 --> 00:07:15,166
-     a sample of every batch    
-       undergoes this test      
+a sample of every batch undergoes this test      
 
 116
 00:07:15,235 --> 00:07:18,370
-      because the lacquer's     
-    consistency is critical.    
+because the lacquer's consistency is critical.    
 
 117
 00:07:18,372 --> 00:07:20,906
-         if the factory         
-      doesn't get it right,     
+if the factory doesn't get it right,     
 
 118
 00:07:20,908 --> 00:07:23,241
-          it won't bond         
-     to the clear polyester.    
+it won't bond to the clear polyester.    
 
 119
 00:07:25,813 --> 00:07:27,712
-   with the lacquer prepared,   
+with the lacquer prepared,   
 
 120
 00:07:27,781 --> 00:07:31,116
- workers load the polyester film
-    into the coating machine.   
+workers load the polyester film
+into the coating machine.   
 
 121
 00:07:37,424 --> 00:07:40,459
-  a big roller soaks up lacquer 
-        from a tray below       
+a big roller soaks up lacquer from a tray below       
 
 122
 00:07:40,560 --> 00:07:42,360
-   and spreads it on the film.  
+and spreads it on the film.  
 
 123
 00:07:47,534 --> 00:07:50,268
-           a thin bar           
- on the roller evens the spread 
+a thin bar on the roller evens the spread 
 
 124
 00:07:50,270 --> 00:07:51,636
-   and scrapes off the excess.  
+and scrapes off the excess.  
 
 125
 00:07:53,673 --> 00:07:56,942
-  the lacquer dries in seconds. 
+the lacquer dries in seconds. 
 
 126
 00:07:56,977 --> 00:07:59,477
-      every production run      
-        of the same color       
+every production run of the same color       
 
 127
 00:07:59,546 --> 00:08:01,546
@@ -596,325 +516,278 @@ has to precisely match the last,
 
 128
 00:08:01,681 --> 00:08:04,683
-  so inspectors regularly test  
-        the lacquer's hue       
+so inspectors regularly test the lacquer's hue       
 
 129
 00:08:04,685 --> 00:08:06,685
- on swatches of clear polyester.
+on swatches of clear polyester.
 
 130
 00:08:09,823 --> 00:08:12,357
-          if gel colors         
-  are even slightly mismatched, 
+if gel colors are even slightly mismatched, 
 
 131
 00:08:12,492 --> 00:08:15,727
-  using them together will make 
-    for a patchy-looking job.   
+using them together will make for a patchy-looking job.   
 
 132
 00:08:22,769 --> 00:08:25,704
-    differently colored gels    
-    create different effects.   
+differently colored gels create different effects.   
 
 133
 00:08:29,076 --> 00:08:31,910
-      this orangey red one      
-      will warm up daylight     
+this orangey red one will warm up daylight     
 
 134
 00:08:31,912 --> 00:08:34,346
-        to look more like       
-        indoor lighting.        
+to look more like indoor lighting.        
 
 135
 00:08:45,325 --> 00:08:49,594
-  now, in a test, a gel swatch  
-      is held over a flame.     
+now, in a test, a gel swatch is held over a flame.     
 
 136
 00:08:49,729 --> 00:08:52,330
-          the gel burns         
-    but never catches fire --   
+the gel burns but never catches fire --   
 
 137
 00:08:52,332 --> 00:08:54,665
 proving that this batch is ready
-       for the hot lights       
+for the hot lights       
 
 138
 00:08:54,701 --> 00:08:56,067
-         of a movie set.        
+of a movie set.        
 
 139
 00:09:03,944 --> 00:09:05,276
-    over at another station,    
+over at another station,    
 
 140
 00:09:05,345 --> 00:09:08,412
- they're working on a different 
-    sort of color-changer --    
+they're working on a different sort of color-changer --    
 
 141
 00:09:08,448 --> 00:09:10,681
-          a filter that         
-     goes on a camera lens.     
+a filter that goes on a camera lens.     
 
 142
 00:09:11,351 --> 00:09:13,551
-         a special sheet        
-       of optical plastic       
+a special sheet of optical plastic       
 
 143
 00:09:13,620 --> 00:09:15,553
- is dipped in hot water and dye.
+is dipped in hot water and dye.
 
 144
 00:09:15,556 --> 00:09:18,155
-          the hot water         
-   opens the plastic's pores,   
+the hot water opens the plastic's pores,   
 
 145
 00:09:18,191 --> 00:09:20,158
- allowing the dye to penetrate. 
+allowing the dye to penetrate. 
 
 146
 00:09:20,293 --> 00:09:21,826
-     when the plastic cools,    
+when the plastic cools,    
 
 147
 00:09:21,895 --> 00:09:24,362
-            the color           
-     will be trapped inside.    
+the color will be trapped inside.    
 
 148
 00:09:24,364 --> 00:09:26,831
-     the longer the plastic     
-     stays in the dye bath,     
+the longer the plastic stays in the dye bath,     
 
 149
 00:09:26,967 --> 00:09:29,634
-      the deeper the color.     
+the deeper the color.     
 
 150
 00:09:29,769 --> 00:09:32,037
-           some sheets          
-    only get partially dyed.    
+some sheets only get partially dyed.    
 
 151
 00:09:32,172 --> 00:09:33,905
- they'll be turned into filters 
+they'll be turned into filters 
 
 152
 00:09:34,040 --> 00:09:37,976
-      that affect only half     
-      an image's exposure.      
+that affect only half an image's exposure.      
 
 153
 00:09:37,978 --> 00:09:39,978
-          filters made          
-     from a range of colors     
+filters made from a range of colors     
 
 154
 00:09:39,980 --> 00:09:41,312
-   will help the camera's eye   
+will help the camera's eye   
 
 155
 00:09:41,381 --> 00:09:43,715
-      do what the human eye     
-      does effortlessly --      
+do what the human eye does effortlessly --      
 
 156
 00:09:43,717 --> 00:09:45,951
-       adjust to different      
-      lighting conditions.      
+adjust to different lighting conditions.      
 
 157
 00:09:52,526 --> 00:09:55,794
- the colored sheets are sheathed
-        in thin plastic.        
+the colored sheets are sheathed
+in thin plastic.        
 
 158
 00:09:55,929 --> 00:09:59,264
-    this prevents scratching    
-     as they're cut to size.    
+this prevents scratching as they're cut to size.    
 
 159
 00:10:07,841 --> 00:10:11,342
-      these camera filters      
-        are nearly done.        
+these camera filters are nearly done.        
 
 160
 00:10:11,411 --> 00:10:14,446
-   all that's left is for the   
- ink-jet printer to brand them. 
+all that's left is for the ink-jet printer to brand them. 
 
 161
 00:10:26,760 --> 00:10:28,159
-    a similar type of printer   
+a similar type of printer   
 
 162
 00:10:28,161 --> 00:10:30,695
-     gives the lighting gels    
-     their trademark stamp.     
+gives the lighting gels their trademark stamp.     
 
 163
 00:10:30,764 --> 00:10:33,364
-        and now it's time       
-       to wrap things up.       
+and now it's time to wrap things up.       
 
 164
 00:10:33,367 --> 00:10:35,834
-     a cardboard core slides    
-         into a machine         
+a cardboard core slides into a machine         
 
 165
 00:10:35,969 --> 00:10:39,037
-     that winds the finished    
-       gel sheets onto it.      
+that winds the finished gel sheets onto it.      
 
 166
 00:10:39,172 --> 00:10:42,040
-   then a pneumatic ram pushes  
-    the roll of lighting gel    
+then a pneumatic ram pushes the roll of lighting gel    
 
 167
 00:10:42,109 --> 00:10:44,609
-       into a plastic bag.      
+into a plastic bag.      
 
 168
 00:10:47,047 --> 00:10:49,914
-   now these filters and gels   
-     are ready to show life     
+now these filters and gels are ready to show life     
 
 169
 00:10:49,983 --> 00:10:52,083
-   in the best light possible.  
+in the best light possible.  
 
 170
 00:10:58,058 --> 00:10:59,724
-         when we return,        
+when we return,        
 
 171
 00:10:59,760 --> 00:11:02,394
-       making tiny models       
- that are a blast from the past.
+making tiny models that are a blast from the past.
 
 172
 00:11:05,666 --> 00:11:07,866
-    narrator: when factories    
-    build live steam models,    
+narrator: when factories build live steam models,    
 
 173
 00:11:08,001 --> 00:11:11,269
- they're reconstructing history.
+they're reconstructing history.
 
 174
 00:11:11,338 --> 00:11:16,407
-   these working steam models   
- take us on a nostalgic journey,
+these working steam models take us on a nostalgic journey,
 
 175
 00:11:16,443 --> 00:11:19,377
-         and they're fun        
-   for hobbyists of all ages.   
+and they're fun for hobbyists of all ages.   
 
 176
 00:11:28,722 --> 00:11:30,888
-      add a little water...     
+add a little water...     
 
 177
 00:11:30,957 --> 00:11:34,025
-         light some fuel        
-        for the boiler...       
+light some fuel for the boiler...       
 
 178
 00:11:34,160 --> 00:11:35,560
-    and it's full steam ahead   
+and it's full steam ahead   
 
 179
 00:11:35,629 --> 00:11:38,897
-    for this mini replica of    
- a 19th-century road locomotive.
+for this mini replica of a 19th-century road locomotive.
 
 180
 00:11:46,840 --> 00:11:49,640
-        production starts       
-        with the boiler.        
+production starts with the boiler.        
 
 181
 00:11:49,676 --> 00:11:53,011
-  a hydraulic press repeatedly  
-    punches a piece of brass,   
+a hydraulic press repeatedly punches a piece of brass,   
 
 182
 00:11:53,113 --> 00:11:55,880
-    stretching the brass cap    
-        into a cylinder.        
+stretching the brass cap into a cylinder.        
 
 183
 00:11:58,785 --> 00:12:00,518
- it's a process called drawing, 
+it's a process called drawing, 
 
 184
 00:12:00,520 --> 00:12:02,921
-     and it also strengthens    
-           the metal.           
+and it also strengthens the metal.           
 
 185
 00:12:07,561 --> 00:12:10,662
-      a flat piece of brass     
- is transformed into a cylinder 
+a flat piece of brass is transformed into a cylinder 
 
 186
 00:12:10,664 --> 00:12:14,065
-     in only a few minutes.     
+in only a few minutes.     
 
 187
 00:12:14,167 --> 00:12:17,402
-  next the ends of the cylinder 
-          are trimmed.          
+next the ends of the cylinder are trimmed.          
 
 188
 00:12:17,537 --> 00:12:19,937
-          solder paste          
-   is brushed onto a brass cap  
+solder paste is brushed onto a brass cap  
 
 189
 00:12:19,973 --> 00:12:22,874
-           and slotted          
-     into a holding device.     
+and slotted into a holding device.     
 
 190
 00:12:28,248 --> 00:12:32,349
-   paste goes onto attachments  
- inside the cylindrical boiler. 
+paste goes onto attachments inside the cylindrical boiler. 
 
 191
 00:12:32,385 --> 00:12:36,054
-     then the boiler and cap    
-   are press-fitted together.   
+then the boiler and cap are press-fitted together.   
 
 192
 00:12:41,361 --> 00:12:44,028
-     the cap boilers travel     
-       through a furnace,       
+the cap boilers travel through a furnace,       
 
 193
 00:12:44,030 --> 00:12:47,632
-  which melts the solder paste, 
+which melts the solder paste, 
 fusing the caps to the cylinder.
 
 194
 00:12:50,537 --> 00:12:53,404
-    workers polish the brass    
-    to give it a nice sheen.    
+workers polish the brass to give it a nice sheen.    
 
 195
 00:12:58,912 --> 00:13:01,646
-  then they solder copper pipes 
-         to the boiler.         
+then they solder copper pipes to the boiler.         
 
 196
 00:13:01,648 --> 00:13:03,648
@@ -922,220 +795,195 @@ these pipes will expel the steam
 
 197
 00:13:03,650 --> 00:13:06,084
-          as it powers          
-     this little locomotive.    
+as it powers this little locomotive.    
 
 198
 00:13:14,828 --> 00:13:16,994
-           next up --           
-     trimming the flywheel,     
+next up -- trimming the flywheel,     
 
 199
 00:13:17,063 --> 00:13:18,563
-     which has been precast.    
+which has been precast.    
 
 200
 00:13:22,402 --> 00:13:25,803
-  the flywheel will smooth out  
-  the engine's firing impulses  
+the flywheel will smooth out the engine's firing impulses  
 
 201
 00:13:25,806 --> 00:13:27,505
-  so that it runs more evenly.  
+so that it runs more evenly.  
 
 202
 00:13:31,545 --> 00:13:34,579
- the flywheel is tightly screwed
-       to the crank shaft.      
+the flywheel is tightly screwed
+to the crank shaft.      
 
 203
 00:13:38,451 --> 00:13:42,553
 workers check the sliding action
- of the piston and its cylinder.
+of the piston and its cylinder.
 
 204
 00:13:42,589 --> 00:13:45,089
-  then they attach the assembly 
+then they attach the assembly 
 
 205
 00:13:45,125 --> 00:13:48,026
-       to the engine frame      
-      and the crank shaft.      
+to the engine frame and the crank shaft.      
 
 206
 00:13:50,163 --> 00:13:54,365
- lubricating the piston assembly
-  enhances its sliding action.  
+lubricating the piston assembly
+enhances its sliding action.  
 
 207
 00:13:59,372 --> 00:14:01,439
-      using compressed air,     
+using compressed air,     
 
 208
 00:14:01,441 --> 00:14:05,376
-  workers make sure the engine  
-   functions and has no leaks.  
+workers make sure the engine functions and has no leaks.  
 
 209
 00:14:08,448 --> 00:14:10,714
- once the model passes the test,
+once the model passes the test,
 
 210
 00:14:10,750 --> 00:14:12,851
-        it gets its front       
-       steering mechanism.      
+it gets its front steering mechanism.      
 
 211
 00:14:12,986 --> 00:14:15,186
-        this will control       
-    the model's front wheels    
+this will control the model's front wheels    
 
 212
 00:14:15,188 --> 00:14:17,288
-      while the back wheels     
-        power it forward.       
+while the back wheels power it forward.       
 
 213
 00:14:19,259 --> 00:14:22,427
-         steam machines         
-  are usually rear-wheel drive. 
+steam machines are usually rear-wheel drive. 
 
 214
 00:14:27,334 --> 00:14:30,268
-  a wire called the drive band  
-      transfers the energy      
+a wire called the drive band transfers the energy      
 
 215
 00:14:30,270 --> 00:14:32,637
-        from the flywheel       
-       to the rear wheel.       
+from the flywheel to the rear wheel.       
 
 216
 00:14:39,412 --> 00:14:41,079
-         the steam model        
+the steam model        
 
 217
 00:14:41,081 --> 00:14:43,481
- is hooked up to the compressed 
-       air tank once again      
+is hooked up to the compressed air tank once again      
 
 218
 00:14:43,550 --> 00:14:45,283
-      for a final test run.     
+for a final test run.     
 
 219
 00:14:45,418 --> 00:14:49,721
-  and it looks like this model  
-    is ready for some action.   
+and it looks like this model is ready for some action.   
 
 220
 00:14:51,358 --> 00:14:54,358
-    all it needs is a canopy    
-   to provide a little shade.   
+all it needs is a canopy to provide a little shade.   
 
 221
 00:14:55,295 --> 00:14:58,863
-   a ribbed design is punched   
-    into a little steel roof.   
+a ribbed design is punched into a little steel roof.   
 
 222
 00:15:01,600 --> 00:15:05,436
- after it gets a nice paint job,
-   it's attached to the model.  
+after it gets a nice paint job,
+it's attached to the model.  
 
 223
 00:15:07,374 --> 00:15:11,709
 production on this tiny treasure
-        is now complete.        
+is now complete.        
 
 224
 00:15:14,981 --> 00:15:17,248
-      this model will also      
-     take you back in time,     
+this model will also take you back in time,     
 
 225
 00:15:17,317 --> 00:15:18,716
-       but in high style.       
+but in high style.       
 
 226
 00:15:18,718 --> 00:15:20,618
-   it's a luxury touring car.   
+it's a luxury touring car.   
 
 227
 00:15:35,869 --> 00:15:38,536
-         workers install        
-  the piston cylinder assembly  
+workers install the piston cylinder assembly  
 
 228
 00:15:38,671 --> 00:15:42,006
- a little lower on this roadster
-         and fire it up.        
+a little lower on this roadster
+and fire it up.        
 
 229
 00:15:48,281 --> 00:15:52,283
- each of these mini steam models
-  is a tribute to the original  
+each of these mini steam models
+is a tribute to the original  
 
 230
 00:15:52,418 --> 00:15:54,151
-    and give us all a glimpse   
+and give us all a glimpse   
 
 231
 00:15:54,187 --> 00:15:56,587
-    into the colorful history   
-       of transportation.       
+into the colorful history of transportation.       
 
 232
 00:16:03,363 --> 00:16:04,962
-          coming up...          
+coming up...          
 
 233
 00:16:04,998 --> 00:16:07,932
-     turning sugar into one     
- of our favorite holiday treats.
+turning sugar into one of our favorite holiday treats.
 
 234
 00:16:11,137 --> 00:16:12,837
-            narrator:           
-      in the 17th century,      
+narrator: in the 17th century,      
 
 235
 00:16:12,972 --> 00:16:14,238
-      a german choirmaster      
+a german choirmaster      
 
 236
 00:16:14,240 --> 00:16:16,707
-      had some sugar sticks     
-   bent into shepherd's crooks  
+had some sugar sticks bent into shepherd's crooks  
 
 237
 00:16:16,743 --> 00:16:19,844
-       as a special treat       
-         for his choir.         
+as a special treat for his choir.         
 
 238
 00:16:19,846 --> 00:16:24,048
 and that's how the candy cane is
- believed to have been invented.
+believed to have been invented.
 
 239
 00:16:24,183 --> 00:16:26,717
-    but it wasn't until more    
-      than a century later      
+but it wasn't until more than a century later      
 
 240
 00:16:26,753 --> 00:16:28,486
- that they earned their stripes.
+that they earned their stripes.
 
 241
 00:16:35,562 --> 00:16:39,330
-    today candy canes come in   
- all different colors and sizes.
+today candy canes come in all different colors and sizes.
 
 242
 00:16:39,332 --> 00:16:42,266
-        candymakers start       
-    by cooking up a big batch   
+candymakers start by cooking up a big batch   
 
 243
 00:16:42,268 --> 00:16:45,036
@@ -1143,289 +991,249 @@ of sugar, water, and corn syrup.
 
 244
 00:16:48,875 --> 00:16:52,143
-    next, they prepare a mix    
-    of starch and flavoring,    
+next, they prepare a mix of starch and flavoring,    
 
 245
 00:16:52,212 --> 00:16:55,480
- like peppermint or strawberry. 
+like peppermint or strawberry. 
 
 246
 00:16:55,482 --> 00:16:57,415
-     as they blend together,    
+as they blend together,    
 
 247
 00:16:57,550 --> 00:17:00,617
-       the flavoring binds      
-         to the starch.         
+the flavoring binds to the starch.         
 
 248
 00:17:00,653 --> 00:17:02,219
-        the flavoring mix       
+the flavoring mix       
 
 249
 00:17:02,255 --> 00:17:04,888
-   is emptied into the middle   
-        of a syrupy slab.       
+is emptied into the middle of a syrupy slab.       
 
 250
 00:17:04,924 --> 00:17:07,492
-      then the whole thing      
-      is fed into a machine     
+then the whole thing is fed into a machine     
 
 251
 00:17:07,494 --> 00:17:10,962
- that folds the batch repeatedly
-  using shovels and a plunger.  
+that folds the batch repeatedly
+using shovels and a plunger.  
 
 252
 00:17:10,964 --> 00:17:15,033
-        this distributes        
-      the flavoring evenly.     
+this distributes the flavoring evenly.     
 
 253
 00:17:27,046 --> 00:17:30,114
-  cold water is piped into the  
- shovels and the kneading table 
+cold water is piped into the shovels and the kneading table 
 
 254
 00:17:30,249 --> 00:17:31,616
-   to cool the candy-cane mix   
+to cool the candy-cane mix   
 
 255
 00:17:31,717 --> 00:17:33,918
-         so it takes on         
-     the stiffer consistency    
+so it takes on the stiffer consistency    
 
 256
 00:17:33,920 --> 00:17:36,754
-        that's necessary        
-       for the next step.       
+that's necessary for the next step.       
 
 257
 00:17:38,458 --> 00:17:41,726
-          now it's over         
-    to the automated pullers.   
+now it's over to the automated pullers.   
 
 258
 00:17:41,861 --> 00:17:45,463
-      these pullers stretch     
+these pullers stretch     
 the mixture around a metal post.
 
 259
 00:17:45,598 --> 00:17:48,866
- this action aerates the candy, 
-        turning it white.       
+this action aerates the candy, turning it white.       
 
 260
 00:17:48,935 --> 00:17:51,802
-           this batch           
-  will make 3,200 candy canes,  
+this batch will make 3,200 candy canes,  
 
 261
 00:17:51,805 --> 00:17:55,006
-        but there's still       
-   a lot more work to be done.  
+but there's still a lot more work to be done.  
 
 262
 00:18:04,184 --> 00:18:06,484
-       the candy is rolled      
-         into a fat log,        
+the candy is rolled into a fat log,        
 
 263
 00:18:06,486 --> 00:18:09,821
-   while heaters warm it until  
-  its pliable enough to shape.  
+while heaters warm it until its pliable enough to shape.  
 
 264
 00:18:16,596 --> 00:18:20,698
-   next, strips of red-colored  
-      candy are rolled out.     
+next, strips of red-colored candy are rolled out.     
 
 265
 00:18:24,104 --> 00:18:26,537
- a worker stretches and folds it
-       to widen the strip.      
+a worker stretches and folds it
+to widen the strip.      
 
 266
 00:18:33,546 --> 00:18:35,446
-      two of the red strips     
-          are arranged          
+two of the red strips are arranged          
 
 267
 00:18:35,448 --> 00:18:37,315
-         on either side         
-       of the white candy.      
+on either side of the white candy.      
 
 268
 00:18:41,521 --> 00:18:43,120
-      it weighs 100 pounds,     
+it weighs 100 pounds,     
 
 269
 00:18:43,156 --> 00:18:46,457
-   so it takes two workers to   
+so it takes two workers to   
 transfer it to the next machine.
 
 270
 00:18:48,795 --> 00:18:50,528
-   it's called a batch roller,  
+it's called a batch roller,  
 
 271
 00:18:50,530 --> 00:18:53,531
 and its cylinders roll the candy
-      thinner and thinner,      
+thinner and thinner,      
 
 272
 00:18:53,666 --> 00:18:56,066
-      dramatically reducing     
-       the log's diameter       
+dramatically reducing the log's diameter       
 
 273
 00:18:56,102 --> 00:18:58,936
-        until it reaches        
-     candy-cane dimensions.     
+until it reaches candy-cane dimensions.     
 
 274
 00:18:59,005 --> 00:19:02,139
- a torch moves across the candy 
-       to keep it pliable.      
+a torch moves across the candy to keep it pliable.      
 
 275
 00:19:02,142 --> 00:19:04,808
-      then the sugary batch     
-     travels between wheels     
+then the sugary batch travels between wheels     
 
 276
 00:19:04,878 --> 00:19:06,577
-  that slim it down even more.  
+that slim it down even more.  
 
 277
 00:19:08,548 --> 00:19:11,682
- the rope of candy moves forward
-     in a wave-like fashion.    
+the rope of candy moves forward
+in a wave-like fashion.    
 
 278
 00:19:11,718 --> 00:19:14,285
-    this gives it some slack    
-      so it doesn't stretch     
+this gives it some slack so it doesn't stretch     
 
 279
 00:19:14,354 --> 00:19:17,288
-       as it moves through      
-     the next set of wheels.    
+as it moves through the next set of wheels.    
 
 280
 00:19:24,096 --> 00:19:28,065
-  the candy rope moves through  
- two angled belts that twist it,
+the candy rope moves through two angled belts that twist it,
 
 281
 00:19:28,134 --> 00:19:32,570
-  and a chain of knives cut the 
+and a chain of knives cut the 
 twisted rope to candy-cane size.
 
 282
 00:19:36,843 --> 00:19:38,976
-    this production has been    
-    perfectly choreographed.    
+this production has been perfectly choreographed.    
 
 283
 00:19:38,978 --> 00:19:43,247
-          one misstep,          
- and the job would hit a snarl. 
+one misstep, and the job would hit a snarl. 
 
 284
 00:19:45,919 --> 00:19:47,652
-          here, a roll          
-     of cellophane unwinds,     
+here, a roll of cellophane unwinds,     
 
 285
 00:19:47,654 --> 00:19:50,521
-      and a device wraps it     
-    around the candy sticks.    
+and a device wraps it around the candy sticks.    
 
 286
 00:19:52,292 --> 00:19:53,924
-       a blast of hot air       
-     shrinks the cellophane     
+a blast of hot air shrinks the cellophane     
 
 287
 00:19:53,993 --> 00:19:54,992
-    on the ends of the canes.   
+on the ends of the canes.   
 
 288
 00:20:00,200 --> 00:20:02,199
-          now it's time         
-     for these candy sticks     
+now it's time for these candy sticks     
 
 289
 00:20:02,202 --> 00:20:04,001
- to get their signature crooks. 
+to get their signature crooks. 
 
 290
 00:20:06,406 --> 00:20:09,840
-      this machine, called      
- a crooker deck, bends the ends.
+this machine, called a crooker deck, bends the ends.
 
 291
 00:20:13,112 --> 00:20:16,413
-    an overhead bracket brush   
-    gently secures the canes    
+an overhead bracket brush gently secures the canes    
 
 292
 00:20:16,449 --> 00:20:18,883
-         because though         
- they're pliable enough to bend,
+because though they're pliable enough to bend,
 
 293
 00:20:18,885 --> 00:20:20,451
-     they're still fragile.     
+they're still fragile.     
 
 294
 00:20:28,428 --> 00:20:30,561
-        there's a camera        
-    inside this robotic arm,    
+there's a camera inside this robotic arm,    
 
 295
 00:20:30,696 --> 00:20:33,631
-   which allows it to spot the  
+which allows it to spot the  
 candy canes on the conveyer belt
 
 296
 00:20:33,766 --> 00:20:35,499
-        and pick them up        
-         two at a time.         
+and pick them up two at a time.         
 
 297
 00:20:38,838 --> 00:20:42,974
-   it places them in cardboard  
-     packages by the dozen.     
+it places them in cardboard packages by the dozen.     
 
 298
 00:20:50,650 --> 00:20:54,184
-   it takes about half an hour  
-  to make a box of candy canes. 
+it takes about half an hour to make a box of candy canes. 
 
 299
 00:20:54,220 --> 00:20:57,788
-    and they're sure to come    
-      to a very sticky end      
+and they're sure to come to a very sticky end      
 
 300
 00:20:57,923 --> 00:20:59,223
-       in even less time.       
+in even less time.       
 
 301
 00:21:07,867 --> 00:21:10,067
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 302
 00:21:10,103 --> 00:21:12,869
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 303
 00:21:12,905 --> 00:21:14,672
-      drop us a line at...      
+drop us a line at...      
 

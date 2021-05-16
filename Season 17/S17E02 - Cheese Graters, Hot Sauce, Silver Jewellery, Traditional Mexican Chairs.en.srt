@@ -1,260 +1,221 @@
 ﻿1
 00:00:53,054 --> 00:00:56,455
-   narrator: many recipes call  
-    for shredded ingredients,   
+narrator: many recipes call for shredded ingredients,   
 
 2
 00:00:56,457 --> 00:01:00,459
- which is why a cheese grater is
- an indispensable kitchen tool. 
+which is why a cheese grater is
+an indispensable kitchen tool. 
 
 3
 00:01:00,461 --> 00:01:04,062
 depending on which type of blade
-     or blades a grater has,    
+or blades a grater has,    
 
 4
 00:01:04,064 --> 00:01:06,799
-     you can coarsely shred     
-         to finely grate        
+you can coarsely shred to finely grate        
 
 5
 00:01:06,801 --> 00:01:10,236
-    not just cheese but also    
-    potatoes and vegetables.    
+not just cheese but also potatoes and vegetables.    
 
 6
 00:01:15,275 --> 00:01:19,145
 graters come in different sizes,
-   shapes, and configurations,  
+shapes, and configurations,  
 
 7
 00:01:19,147 --> 00:01:22,081
- from flat models with one blade
+from flat models with one blade
 
 8
 00:01:22,083 --> 00:01:26,885
- to box graters with a different
-       blade on each side.      
+to box graters with a different
+blade on each side.      
 
 9
 00:01:26,887 --> 00:01:29,288
-       the blades are made      
-  from a stainless-steel sheet  
+the blades are made from a stainless-steel sheet  
 
 10
 00:01:29,290 --> 00:01:31,691
-        that's just 1/50        
-        of an inch thick.       
+that's just 1/50 of an inch thick.       
 
 11
 00:01:31,693 --> 00:01:34,226
-        the sheet enters        
-       a shearing machine,      
+the sheet enters a shearing machine,      
 
 12
 00:01:34,228 --> 00:01:39,565
-  where a die descends and cuts 
- the blade shape, holes and all.
+where a die descends and cuts the blade shape, holes and all.
 
 13
 00:01:44,038 --> 00:01:46,505
-       the machine's dies       
-      are interchangeable,      
+the machine's dies are interchangeable,      
 
 14
 00:01:46,507 --> 00:01:48,841
-        so when it's time       
-  to produce a different model, 
+so when it's time to produce a different model, 
 
 15
 00:01:48,843 --> 00:01:53,045
- workers simply remove this die 
-    and install another one.    
+workers simply remove this die and install another one.    
 
 16
 00:01:53,047 --> 00:01:56,515
-       stainless steel is       
-    the ideal blade material    
+stainless steel is the ideal blade material    
 
 17
 00:01:56,517 --> 00:02:01,053
-    because it's food-safe,     
-    durable, and rust-proof.    
+because it's food-safe, durable, and rust-proof.    
 
 18
 00:02:01,055 --> 00:02:05,257
-  for this model, the next step 
-     is to curve the blade.     
+for this model, the next step is to curve the blade.     
 
 19
 00:02:05,259 --> 00:02:09,128
 they insert it into a press that
-  bends it with a rounded die.  
+bends it with a rounded die.  
 
 20
 00:02:09,130 --> 00:02:12,598
-    the press also turns over   
-  the edges along three sides,  
+the press also turns over the edges along three sides,  
 
 21
 00:02:12,600 --> 00:02:15,601
- forming a channel for a handle.
+forming a channel for a handle.
 
 22
 00:02:15,603 --> 00:02:20,873
-       the handle is made       
-    of stainless-steel wire.    
+the handle is made of stainless-steel wire.    
 
 23
 00:02:20,875 --> 00:02:25,945
-   a bending machine wraps it   
- around a grater-shaped form... 
+a bending machine wraps it around a grater-shaped form... 
 
 24
 00:02:29,950 --> 00:02:32,084
-   ...then cuts the end free,   
+...then cuts the end free,   
 
 25
 00:02:32,086 --> 00:02:34,987
-      releasing what is now     
-       a finished handle.       
+releasing what is now a finished handle.       
 
 26
 00:02:54,775 --> 00:02:58,377
-      now for this model's      
-         final assembly.        
+now for this model's final assembly.        
 
 27
 00:02:58,379 --> 00:03:02,281
-     workers slide a handle     
-   into the blade's channels.   
+workers slide a handle into the blade's channels.   
 
 28
 00:03:14,128 --> 00:03:17,329
-     next they put the blade    
-           in a press,          
+next they put the blade in a press,          
 
 29
 00:03:17,331 --> 00:03:21,667
-   which forces the channels    
-   closed, encasing the wire.   
+which forces the channels closed, encasing the wire.   
 
 30
 00:03:23,004 --> 00:03:26,338
-    with the handle and blade   
-      now locked together,      
+with the handle and blade now locked together,      
 
 31
 00:03:26,340 --> 00:03:27,973
-     the grater is finished.    
+the grater is finished.    
 
 32
 00:03:31,212 --> 00:03:35,280
-  another model has a built-in  
+another model has a built-in  
 tray to collect the grated food.
 
 33
 00:03:35,282 --> 00:03:37,750
-       this machine forms       
-       the pivoting handle      
+this machine forms the pivoting handle      
 
 34
 00:03:37,752 --> 00:03:40,886
-     which enables the blade    
-  to stand upright in the tray. 
+which enables the blade to stand upright in the tray. 
 
 35
 00:03:40,888 --> 00:03:43,556
- first the machine cuts a strip 
-       of stainless steel       
+first the machine cuts a strip of stainless steel       
 
 36
 00:03:43,558 --> 00:03:45,891
-     to the required length.    
+to the required length.    
 
 37
 00:03:45,893 --> 00:03:49,628
-   it makes holes for a rivet   
-          on each side.         
+it makes holes for a rivet on each side.         
 
 38
 00:03:49,630 --> 00:03:53,999
-     then it bends the piece    
-         to a "u" shape.        
+then it bends the piece to a "u" shape.        
 
 39
 00:04:06,180 --> 00:04:07,847
-   meanwhile, a forming press   
+meanwhile, a forming press   
 
 40
 00:04:07,849 --> 00:04:12,485
-         shapes the tray        
- out of a stainless-steel sheet.
+shapes the tray out of a stainless-steel sheet.
 
 41
 00:04:20,794 --> 00:04:23,395
-         the tray moves         
-       to the next press,       
+the tray moves to the next press,       
 
 42
 00:04:23,397 --> 00:04:26,332
-   which slices off the excess  
-       from the perimeter.      
+which slices off the excess from the perimeter.      
 
 43
 00:04:35,810 --> 00:04:40,011
-         the tray is now        
-       completely formed.       
+the tray is now completely formed.       
 
 44
 00:04:40,013 --> 00:04:43,082
- all that's left to do is punch 
-       a hole on each side      
+all that's left to do is punch a hole on each side      
 
 45
 00:04:43,084 --> 00:04:46,819
- for the rivets that attach the 
- handle that props up the blade.
+for the rivets that attach the handle that props up the blade.
 
 46
 00:04:52,826 --> 00:04:57,663
- they take the handle and rivet 
-   it to one end of the blade.  
+they take the handle and rivet it to one end of the blade.  
 
 47
 00:05:03,503 --> 00:05:08,040
-    next, they rivet the tray   
- to the other end of the blade, 
+next, they rivet the tray to the other end of the blade, 
 
 48
 00:05:08,042 --> 00:05:10,943
-        and the grater is       
-        fully assembled.        
+and the grater is fully assembled.        
 
 49
 00:05:16,383 --> 00:05:20,119
-      this company packaged     
+this company packaged     
 certain models in blister packs.
 
 50
 00:05:20,121 --> 00:05:23,989
-     workers put the grater     
-    in a clear plastic cover,   
+workers put the grater in a clear plastic cover,   
 
 51
 00:05:23,991 --> 00:05:28,126
-     then position a printed    
-   cardboard backing over it.   
+then position a printed cardboard backing over it.   
 
 52
 00:05:28,128 --> 00:05:29,595
-      the backing is coated     
+the backing is coated     
 
 53
 00:05:29,597 --> 00:05:32,063
-        with transparent,       
-      heat-activated glue.      
+with transparent, heat-activated glue.      
 
 54
 00:05:32,065 --> 00:05:33,933
@@ -262,123 +223,103 @@ a few seconds under a hot press,
 
 55
 00:05:33,935 --> 00:05:36,868
-      and the plastic cover     
-     adheres to the backing,    
+and the plastic cover adheres to the backing,    
 
 56
 00:05:36,870 --> 00:05:40,406
-    encapsulating the grater.   
+encapsulating the grater.   
 
 57
 00:05:42,075 --> 00:05:44,076
-   from a basic version on up,  
+from a basic version on up,  
 
 58
 00:05:44,078 --> 00:05:46,678
-           a grater is          
-    an essential kitchen tool   
+a grater is an essential kitchen tool   
 
 59
 00:05:46,680 --> 00:05:49,048
-  most cooks can't do without.  
+most cooks can't do without.  
 
 60
 00:06:03,898 --> 00:06:07,232
-     narrator: when it comes    
-  to cuisine, some like it hot. 
+narrator: when it comes to cuisine, some like it hot. 
 
 61
 00:06:07,234 --> 00:06:10,236
-     a quick way to satisfy     
-     a picante-loving palate    
+a quick way to satisfy a picante-loving palate    
 
 62
 00:06:10,238 --> 00:06:12,771
-     is with a splash or two    
-          of hot sauce,         
+is with a splash or two of hot sauce,         
 
 63
 00:06:12,773 --> 00:06:15,107
-        typically served        
-        with mexican food       
+typically served with mexican food       
 
 64
 00:06:15,109 --> 00:06:17,443
-     such as nachos, tacos,     
-          and burritos.         
+such as nachos, tacos, and burritos.         
 
 65
 00:06:17,445 --> 00:06:19,844
-      it can also spice up      
-          everyday fare         
+it can also spice up everyday fare         
 
 66
 00:06:19,846 --> 00:06:22,915
-     such as eggs, potatoes,    
-         and sandwiches.        
+such as eggs, potatoes, and sandwiches.        
 
 67
 00:06:25,386 --> 00:06:28,053
- this american company has been 
-      producing hot sauce,      
+this american company has been producing hot sauce,      
 
 68
 00:06:28,055 --> 00:06:31,990
-   also called a pepper sauce,  
-           since 1868.          
+also called a pepper sauce, since 1868.          
 
 69
 00:06:31,992 --> 00:06:35,060
-      its signature version     
-  is made from tabasco peppers, 
+its signature version is made from tabasco peppers, 
 
 70
 00:06:35,062 --> 00:06:36,795
-     a type of chile pepper.    
+a type of chile pepper.    
 
 71
 00:06:36,797 --> 00:06:39,798
-      the brand also comes      
-    in additional varieties,    
+the brand also comes in additional varieties,    
 
 72
 00:06:39,800 --> 00:06:44,135
-    using habanero, chipotle,   
-   and green jalapeÑo peppers.  
+using habanero, chipotle, and green jalapeÑo peppers.  
 
 73
 00:06:44,137 --> 00:06:47,339
- the company has pepper fields  
- at its home base in louisiana, 
+the company has pepper fields at its home base in louisiana, 
 
 74
 00:06:47,341 --> 00:06:49,808
-      as well as in central     
-      and in south america,     
+as well as in central and in south america,     
 
 75
 00:06:49,810 --> 00:06:52,611
-      using seeds harvested     
-    from the louisiana crop.    
+using seeds harvested from the louisiana crop.    
 
 76
 00:06:52,613 --> 00:06:55,280
-   the company president uses   
-       his experienced eye      
+the company president uses his experienced eye      
 
 77
 00:06:55,282 --> 00:06:58,217
-    to select the best plants   
-     for seed extraction --     
+to select the best plants for seed extraction --     
 
 78
 00:06:58,219 --> 00:07:02,020
-       those with even and      
- early-ripening, juicy peppers, 
+those with even and early-ripening, juicy peppers, 
 
 79
 00:07:02,022 --> 00:07:03,622
- well-formed, layered branches, 
+well-formed, layered branches, 
 
 80
 00:07:03,624 --> 00:07:05,623
@@ -386,298 +327,250 @@ and healthy, damage-free leaves.
 
 81
 00:07:05,625 --> 00:07:07,960
-     he marks his selection     
-         with a string.         
+he marks his selection with a string.         
 
 82
 00:07:07,962 --> 00:07:10,295
-      then pickers harvest      
-          those peppers         
+then pickers harvest those peppers         
 
 83
 00:07:10,297 --> 00:07:12,631
-          and send them         
-     to the seed extractor.     
+and send them to the seed extractor.     
 
 84
 00:07:12,633 --> 00:07:16,234
-   the peppers are hand-picked  
- for sauce production, as well. 
+the peppers are hand-picked for sauce production, as well. 
 
 85
 00:07:16,236 --> 00:07:19,104
-     to determine which ones    
-        are ripe enough,        
+to determine which ones are ripe enough,        
 
 86
 00:07:19,106 --> 00:07:22,841
-   the pickers use what cajuns  
-   call a petite baton rouge,   
+the pickers use what cajuns call a petite baton rouge,   
 
 87
 00:07:22,843 --> 00:07:25,044
- french for "little red stick." 
+french for "little red stick." 
 
 88
 00:07:25,046 --> 00:07:28,847
- if a pepper matches the color  
- of the stick, they harvest it. 
+if a pepper matches the color of the stick, they harvest it. 
 
 89
 00:07:28,849 --> 00:07:30,849
- if not, it stays on the plant. 
+if not, it stays on the plant. 
 
 90
 00:07:36,390 --> 00:07:38,924
-      it's labor-intensive      
+it's labor-intensive      
 
 91
 00:07:38,926 --> 00:07:42,328
-  but ensures only the perfect  
-   peppers go into the sauce.   
+but ensures only the perfect peppers go into the sauce.   
 
 92
 00:07:45,199 --> 00:07:46,865
-   within hours of harvesting,  
+within hours of harvesting,  
 
 93
 00:07:46,867 --> 00:07:50,669
- the factory grinds the peppers 
-    and mixes them with salt.   
+the factory grinds the peppers and mixes them with salt.   
 
 94
 00:07:50,671 --> 00:07:52,004
-       this creates a mash      
+this creates a mash      
 
 95
 00:07:52,006 --> 00:07:55,874
 which then goes into oak whiskey
-   barrels to ferment and age.  
+barrels to ferment and age.  
 
 96
 00:07:55,876 --> 00:07:58,410
-     wooden barrels breathe,    
+wooden barrels breathe,    
 
 97
 00:07:58,412 --> 00:08:02,447
-   letting in just enough air   
- to spur natural yeast growth --
+letting in just enough air to spur natural yeast growth --
 
 98
 00:08:02,449 --> 00:08:05,950
-   the key to fermentation --   
-      but not too much air,     
+the key to fermentation -- but not too much air,     
 
 99
 00:08:05,952 --> 00:08:09,421
- which would discolor the mash  
- and produce a metallic flavor. 
+which would discolor the mash and produce a metallic flavor. 
 
 100
 00:08:09,423 --> 00:08:12,291
-       after laying paper       
-       on top of the mash       
+after laying paper on top of the mash       
 
 101
 00:08:12,293 --> 00:08:14,793
-           to prevent           
-     surface discoloration,     
+to prevent surface discoloration,     
 
 102
 00:08:14,795 --> 00:08:17,529
-    workers seal the barrels.   
+workers seal the barrels.   
 
 103
 00:08:19,967 --> 00:08:23,369
 then they spread a layer of salt
-          over the top.         
+over the top.         
 
 104
 00:08:31,044 --> 00:08:33,445
-       the barrels now go       
-       to the warehouse,        
+the barrels now go to the warehouse,        
 
 105
 00:08:33,447 --> 00:08:38,450
-     where the mash ferments    
-    and ages for three years.   
+where the mash ferments and ages for three years.   
 
 106
 00:08:38,452 --> 00:08:40,919
-      fermentation releases     
-       carbon-dioxide gas,      
+fermentation releases carbon-dioxide gas,      
 
 107
 00:08:40,921 --> 00:08:42,387
-     which forces liquid out    
+which forces liquid out    
 
 108
 00:08:42,389 --> 00:08:45,123
-       through a vent hole      
-    in the top of the barrel.   
+through a vent hole in the top of the barrel.   
 
 109
 00:08:45,125 --> 00:08:49,461
-   the salt absorbs the liquid  
-          and hardens.          
+the salt absorbs the liquid and hardens.          
 
 110
 00:08:49,463 --> 00:08:53,398
-      after the three-year      
- fermentation and aging period, 
+after the three-year fermentation and aging period, 
 
 111
 00:08:53,400 --> 00:08:57,269
-     they break up the salt     
-      and open the barrel.      
+they break up the salt and open the barrel.      
 
 112
 00:09:01,942 --> 00:09:04,343
- what was once pungent and acrid
+what was once pungent and acrid
 
 113
 00:09:04,345 --> 00:09:08,046
-        is now aromatic,        
- with a mellow, complex flavor. 
+is now aromatic, with a mellow, complex flavor. 
 
 114
 00:09:08,048 --> 00:09:11,650
-     however, it still needs    
-      significant refining.     
+however, it still needs significant refining.     
 
 115
 00:09:13,554 --> 00:09:16,287
-         so they pump it        
-    into large mixing tanks,    
+so they pump it into large mixing tanks,    
 
 116
 00:09:16,289 --> 00:09:19,691
-    add vinegar, then churn     
-    for three to four weeks.    
+add vinegar, then churn for three to four weeks.    
 
 117
 00:09:19,693 --> 00:09:21,960
-    that's now long it takes    
-         for the vinegar        
+that's now long it takes for the vinegar        
 
 118
 00:09:21,962 --> 00:09:25,230
- to break down the pepper solids
-     into smaller particles.    
+to break down the pepper solids
+into smaller particles.    
 
 119
 00:09:25,232 --> 00:09:28,434
-      during that process,      
-    the vinegar also takes on   
+during that process, the vinegar also takes on   
 
 120
 00:09:28,436 --> 00:09:32,638
-  the color, flavor, and aroma  
-         of the peppers.        
+the color, flavor, and aroma of the peppers.        
 
 121
 00:09:32,640 --> 00:09:35,774
-       the sauce requires       
-      no cooking whatsoever     
+the sauce requires no cooking whatsoever     
 
 122
 00:09:35,776 --> 00:09:39,011
-    because the vinegar acts    
-   as a natural preservative.   
+because the vinegar acts as a natural preservative.   
 
 123
 00:09:42,383 --> 00:09:46,318
-        the next step is        
-  a two-stage milling process.  
+the next step is a two-stage milling process.  
 
 124
 00:09:46,320 --> 00:09:51,523
-         the first mill         
-    extracts the pepper pulp.   
+the first mill extracts the pepper pulp.   
 
 125
 00:09:51,525 --> 00:09:54,392
-         the second mill        
-       removes the seeds.       
+the second mill removes the seeds.       
 
 126
 00:09:54,394 --> 00:09:56,428
-   the sauce is now finished.   
+the sauce is now finished.   
 
 127
 00:09:59,333 --> 00:10:02,468
- the quality-control department 
-        analyzes samples        
+the quality-control department analyzes samples        
 
 128
 00:10:02,470 --> 00:10:04,937
-    from every batch of sauce   
-         for viscosity,         
+from every batch of sauce for viscosity,         
 
 129
 00:10:04,939 --> 00:10:08,006
-         ph, salt level,        
-       and other criteria.      
+ph, salt level, and other criteria.      
 
 130
 00:10:08,008 --> 00:10:12,277
-  lab technicians also perform  
-     taste tests for flavor,    
+lab technicians also perform taste tests for flavor,    
 
 131
 00:10:12,279 --> 00:10:14,412
-      clearing their palate     
-    in between with crackers    
+clearing their palate in between with crackers    
 
 132
 00:10:14,414 --> 00:10:18,016
-   and cooling the fiery heat   
-      with ice-cream bars.      
+and cooling the fiery heat with ice-cream bars.      
 
 133
 00:10:20,020 --> 00:10:22,487
-       once the batch gets      
-         the thumbs-up,         
+once the batch gets the thumbs-up,         
 
 134
 00:10:22,489 --> 00:10:24,756
-           it's pumped          
-      to the bottling line.     
+it's pumped to the bottling line.     
 
 135
 00:10:24,758 --> 00:10:27,292
-     the company uses glass     
-       rather than plastic      
+the company uses glass rather than plastic      
 
 136
 00:10:27,294 --> 00:10:30,695
-    because glass is a better   
-     barrier against oxygen.    
+because glass is a better barrier against oxygen.    
 
 137
 00:10:30,697 --> 00:10:33,365
-       oxygen penetration       
-     would adversely affect     
+oxygen penetration would adversely affect     
 
 138
 00:10:33,367 --> 00:10:36,168
-      the flavor and color      
-          of the sauce.         
+the flavor and color of the sauce.         
 
 139
 00:10:36,170 --> 00:10:40,038
-  the capping machine twists on 
-      a plastic screw cap.      
+the capping machine twists on a plastic screw cap.      
 
 140
 00:10:40,040 --> 00:10:42,241
-     then the bottles travel    
-         to the labeler,        
+then the bottles travel to the labeler,        
 
 141
 00:10:42,243 --> 00:10:44,442
-          which adheres         
-     the main product label,    
+which adheres the main product label,    
 
 142
 00:10:44,444 --> 00:10:46,244
@@ -686,542 +579,466 @@ slips on a decorative neck band,
 143
 00:10:46,246 --> 00:10:50,415
 and applies a clear plastic seal
-          over the cap.         
+over the cap.         
 
 144
 00:10:53,921 --> 00:10:57,422
-   hot off the production line  
-        and ready to go.        
+hot off the production line and ready to go.        
 
 145
 00:11:14,341 --> 00:11:17,209
-   narrator: people have been   
+narrator: people have been   
 making jewelry and other objects
 
 146
 00:11:17,211 --> 00:11:19,544
-     since about 4,000 b.c.     
+since about 4,000 b.c.     
 
 147
 00:11:19,546 --> 00:11:22,814
-  silver remains popular today  
-      because of its beauty     
+silver remains popular today because of its beauty     
 
 148
 00:11:22,816 --> 00:11:26,218
-      and its affordability     
- compared to gold and platinum. 
+and its affordability compared to gold and platinum. 
 
 149
 00:11:26,220 --> 00:11:27,819
-   pure silver is rather soft,  
+pure silver is rather soft,  
 
 150
 00:11:27,821 --> 00:11:30,889
- so it's traditionally combined 
-     with one or more metals    
+so it's traditionally combined with one or more metals    
 
 151
 00:11:30,891 --> 00:11:33,392
-       to give it hardness      
-          and strength.         
+to give it hardness and strength.         
 
 152
 00:11:35,696 --> 00:11:39,564
- the silver used in jewelry is  
- traditionally sterling silver. 
+the silver used in jewelry is traditionally sterling silver. 
 
 153
 00:11:39,566 --> 00:11:45,437
-      sterling is composed      
- of 92.5% silver and 7.5% alloy.
+sterling is composed of 92.5% silver and 7.5% alloy.
 
 154
 00:11:45,439 --> 00:11:47,572
-   the alloy is usually copper  
+the alloy is usually copper  
 
 155
 00:11:47,574 --> 00:11:49,907
-       or copper combined       
-       with other metals.       
+or copper combined with other metals.       
 
 156
 00:11:49,909 --> 00:11:52,311
-          this mexican          
-   jewelry manufacturer melts   
+this mexican jewelry manufacturer melts   
 
 157
 00:11:52,313 --> 00:11:55,681
-  the standard ratio of copper  
-  and zinc alloy to silver...   
+the standard ratio of copper and zinc alloy to silver...   
 
 158
 00:11:57,518 --> 00:11:59,050
-   ...then also remelts silver  
+...then also remelts silver  
 
 159
 00:11:59,052 --> 00:12:02,720
-   left over from the jewelry   
-       production process.      
+left over from the jewelry production process.      
 
 160
 00:12:02,722 --> 00:12:05,324
-  at 1,760 degrees fahrenheit,  
+at 1,760 degrees fahrenheit,  
 
 161
 00:12:05,326 --> 00:12:07,659
-     it takes just seconds      
-     for these solid metals     
+it takes just seconds for these solid metals     
 
 162
 00:12:07,661 --> 00:12:09,995
-        to become molten        
-        sterling silver,        
+to become molten sterling silver,        
 
 163
 00:12:09,997 --> 00:12:14,132
- at which point workers pour it 
-  into a stainless-steel mold.  
+at which point workers pour it into a stainless-steel mold.  
 
 164
 00:12:14,134 --> 00:12:17,803
-    the silver rapidly cools    
-  and hardens into a flat bar.  
+the silver rapidly cools and hardens into a flat bar.  
 
 165
 00:12:17,805 --> 00:12:21,740
-     workers extract the bar    
+workers extract the bar    
 and clean it with sulfuric acid,
 
 166
 00:12:21,742 --> 00:12:24,810
-          then pass it          
+then pass it          
 between two rollers and a press.
 
 167
 00:12:24,812 --> 00:12:28,280
-     the rollers apply more     
- than 3,300 pounds of pressure. 
+the rollers apply more than 3,300 pounds of pressure. 
 
 168
 00:12:28,282 --> 00:12:31,616
-      workers feed the bar      
-   into the press repeatedly,   
+workers feed the bar into the press repeatedly,   
 
 169
 00:12:31,618 --> 00:12:33,351
-   each time turning the wheel  
+each time turning the wheel  
 
 170
 00:12:33,353 --> 00:12:35,954
-        to narrow the gap       
-       between the rollers      
+to narrow the gap between the rollers      
 
 171
 00:12:35,956 --> 00:12:37,955
-  to progressively thin it out. 
+to progressively thin it out. 
 
 172
 00:12:37,957 --> 00:12:40,826
-         rolling the bar        
-    scrambles its molecules,    
+rolling the bar scrambles its molecules,    
 
 173
 00:12:40,828 --> 00:12:42,561
-   making the silver brittle.   
+making the silver brittle.   
 
 174
 00:12:42,563 --> 00:12:45,497
-        so they reheat it       
-   to rearrange the molecules   
+so they reheat it to rearrange the molecules   
 
 175
 00:12:45,499 --> 00:12:48,300
-  into a regular pattern again  
+into a regular pattern again  
 
 176
 00:12:48,302 --> 00:12:52,170
-     and restore flexibility    
-        and malleability.       
+and restore flexibility and malleability.       
 
 177
 00:12:52,172 --> 00:12:54,373
-    the bar now goes through    
-      another rolling press     
+the bar now goes through another rolling press     
 
 178
 00:12:54,375 --> 00:12:56,642
-       to radically reduce      
-         the thickness.         
+to radically reduce the thickness.         
 
 179
 00:12:56,644 --> 00:12:58,310
- this 4/10-of-an-inch-thick bar 
+this 4/10-of-an-inch-thick bar 
 
 180
 00:12:58,312 --> 00:13:01,979
-   becomes a thin strip a mere  
-     1/100 of an inch thick.    
+becomes a thin strip a mere 1/100 of an inch thick.    
 
 181
 00:13:01,981 --> 00:13:05,250
-      in doing so, it also      
-     lengthens dramatically     
+in doing so, it also lengthens dramatically     
 
 182
 00:13:05,252 --> 00:13:09,921
-         from 10 inches         
-      to just over 4 yards.     
+from 10 inches to just over 4 yards.     
 
 183
 00:13:09,923 --> 00:13:13,325
-  the strip now passes through  
-  a series of forming rollers,  
+the strip now passes through a series of forming rollers,  
 
 184
 00:13:13,327 --> 00:13:16,728
-    which progressively curl    
-    the edges up and inward     
+which progressively curl the edges up and inward     
 
 185
 00:13:16,730 --> 00:13:19,531
-         until the strip        
-     becomes a hollow tube.     
+until the strip becomes a hollow tube.     
 
 186
 00:13:19,533 --> 00:13:22,067
-    then the machine solders    
-  the edges, sealing the tube.  
+then the machine solders the edges, sealing the tube.  
 
 187
 00:13:28,542 --> 00:13:32,878
- the tube is still way too thick
- for making earrings and rings, 
+the tube is still way too thick
+for making earrings and rings, 
 
 188
 00:13:32,880 --> 00:13:35,814
-        so on it goes to        
-   another thinning operation.  
+so on it goes to another thinning operation.  
 
 189
 00:13:35,816 --> 00:13:38,283
-    the machine grabs one end   
-           of the tube          
+the machine grabs one end of the tube          
 
 190
 00:13:38,285 --> 00:13:41,353
-  and pulls it through a series 
-        of circular dies        
+and pulls it through a series of circular dies        
 
 191
 00:13:41,355 --> 00:13:44,021
-    which have progressively    
-       narrower diameters.      
+which have progressively narrower diameters.      
 
 192
 00:13:44,023 --> 00:13:46,625
-          once the tube         
-    is the required diameter,   
+once the tube is the required diameter,   
 
 193
 00:13:46,627 --> 00:13:48,293
-  a winding machine curves it.  
+a winding machine curves it.  
 
 194
 00:13:48,295 --> 00:13:51,162
-     some tubes then move on    
-      to a cutting machine      
+some tubes then move on to a cutting machine      
 
 195
 00:13:51,164 --> 00:13:52,764
-    which uses a diamond head   
+which uses a diamond head   
 
 196
 00:13:52,766 --> 00:13:56,434
-      to engrave a pattern      
-         in the surface.        
+to engrave a pattern in the surface.        
 
 197
 00:13:56,436 --> 00:13:57,969
-     to make hoop earrings,     
+to make hoop earrings,     
 
 198
 00:13:57,971 --> 00:14:01,372
-       an artisan steadies      
+an artisan steadies      
 a piece of curved, engraved tube
 
 199
 00:14:01,374 --> 00:14:03,107
-       in locking tweezers      
+in locking tweezers      
 
 200
 00:14:03,109 --> 00:14:05,177
- and solders on an earring hook,
+and solders on an earring hook,
 
 201
 00:14:05,179 --> 00:14:09,314
-         then the latch         
-   into which the hook snaps.   
+then the latch into which the hook snaps.   
 
 202
 00:14:09,316 --> 00:14:10,715
-     some pieces of jewelry     
+some pieces of jewelry     
 
 203
 00:14:10,717 --> 00:14:13,718
-           incorporate          
-     cubic-zirconia stones.     
+incorporate cubic-zirconia stones.     
 
 204
 00:14:13,720 --> 00:14:16,788
-         in this design,        
- a computer-guided laser machine
+in this design, a computer-guided laser machine
 
 205
 00:14:16,790 --> 00:14:19,190
-         has already cut        
-      two patterned pieces      
+has already cut two patterned pieces      
 
 206
 00:14:19,192 --> 00:14:21,392
-      out of an ultra-thin      
-          silver sheet.         
+out of an ultra-thin silver sheet.         
 
 207
 00:14:21,394 --> 00:14:25,663
- a stamping machine then rounded
- each piece into a half-sphere. 
+a stamping machine then rounded
+each piece into a half-sphere. 
 
 208
 00:14:25,665 --> 00:14:29,000
-    the artisan now solders     
-    the two halves together,    
+the artisan now solders the two halves together,    
 
 209
 00:14:29,002 --> 00:14:31,970
-   encasing the cubic-zirconia  
-         stones inside.         
+encasing the cubic-zirconia stones inside.         
 
 210
 00:14:34,474 --> 00:14:38,343
-    then he solders the rest    
-    of the earring components   
+then he solders the rest of the earring components   
 
 211
 00:14:38,345 --> 00:14:41,780
-     made from silver tubing    
-        and silver wire.        
+made from silver tubing and silver wire.        
 
 212
 00:14:47,354 --> 00:14:50,622
-         here an artisan        
-      is making a pendant.      
+here an artisan is making a pendant.      
 
 213
 00:14:50,624 --> 00:14:52,757
- he locks cubic-zirconia stones 
+he locks cubic-zirconia stones 
 
 214
 00:14:52,759 --> 00:14:55,761
-  in between the front and back 
-          frame pieces.         
+in between the front and back frame pieces.         
 
 215
 00:14:57,631 --> 00:15:01,099
-  then he positions the center  
-     piece within the frame,    
+then he positions the center piece within the frame,    
 
 216
 00:15:01,101 --> 00:15:03,168
-   soldering it in four spots.  
+soldering it in four spots.  
 
 217
 00:15:10,577 --> 00:15:15,247
-     next, he solders a ring    
-  to the top of the pendant...  
+next, he solders a ring to the top of the pendant...  
 
 218
 00:15:15,249 --> 00:15:20,852
-     then the bail, the loop    
- for the chain, around the ring.
+then the bail, the loop for the chain, around the ring.
 
 219
 00:15:20,854 --> 00:15:22,587
-    next, into the finisher,    
+next, into the finisher,    
 
 220
 00:15:22,589 --> 00:15:25,190
-       a rotating barrel        
-       of abrasive powder       
+a rotating barrel of abrasive powder       
 
 221
 00:15:25,192 --> 00:15:28,260
-        that rounds edges       
-    and smoothes rough spots.   
+that rounds edges and smoothes rough spots.   
 
 222
 00:15:28,262 --> 00:15:30,462
-  a buffing with a cloth wheel  
+a buffing with a cloth wheel  
 
 223
 00:15:30,464 --> 00:15:35,466
-    then polishes the silver    
-       to a mirror finish.      
+then polishes the silver to a mirror finish.      
 
 224
 00:15:35,468 --> 00:15:37,602
-      the same computerized     
-          laser machine         
+the same computerized laser machine         
 
 225
 00:15:37,604 --> 00:15:39,337
-  that cut the sphere earrings  
+that cut the sphere earrings  
 
 226
 00:15:39,339 --> 00:15:41,539
-          can also etch         
-       an elaborate design      
+can also etch an elaborate design      
 
 227
 00:15:41,541 --> 00:15:43,275
-   on the surface of a piece.   
+on the surface of a piece.   
 
 228
 00:15:43,277 --> 00:15:46,144
-        it can reproduce        
-       virtually any image      
+it can reproduce virtually any image      
 
 229
 00:15:46,146 --> 00:15:49,681
-  that can be created or copied 
-         with software.         
+that can be created or copied with software.         
 
 230
 00:15:49,683 --> 00:15:54,219
- the laser draws by pulverizing 
-     a microlayer of silver.    
+the laser draws by pulverizing a microlayer of silver.    
 
 231
 00:15:54,221 --> 00:15:55,753
-       as the laser works,      
+as the laser works,      
 
 232
 00:15:55,755 --> 00:15:59,758
-    a built-in suction device   
- vacuums the silver powder away.
+a built-in suction device vacuums the silver powder away.
 
 233
 00:15:59,760 --> 00:16:02,494
-     besides adding strength    
-         and durability,        
+besides adding strength and durability,        
 
 234
 00:16:02,496 --> 00:16:05,430
- the alloy makes sterling silver
-           less porous          
+the alloy makes sterling silver
+less porous          
 
 235
 00:16:05,432 --> 00:16:07,165
-    and, therefore, shinier.    
+and, therefore, shinier.    
 
 236
 00:16:07,167 --> 00:16:09,167
-  and the copper in particular  
+and the copper in particular  
 
 237
 00:16:09,169 --> 00:16:13,271
-  has anti-corrosive properties 
-    which reduce tarnishing.    
+has anti-corrosive properties which reduce tarnishing.    
 
 238
 00:16:25,652 --> 00:16:28,052
-            narrator:           
-    the mexican barrel chair    
+narrator: the mexican barrel chair    
 
 239
 00:16:28,054 --> 00:16:30,589
-       is sometimes called      
-       montezuma's chair,       
+is sometimes called montezuma's chair,       
 
 240
 00:16:30,591 --> 00:16:32,390
-   after the 9th aztec emperor  
+after the 9th aztec emperor  
 
 241
 00:16:32,392 --> 00:16:35,594
-     who, as legend has it,     
-     enjoyed sitting in one.    
+who, as legend has it, enjoyed sitting in one.    
 
 242
 00:16:35,596 --> 00:16:39,063
-   after the spanish conquest   
-      of the aztec empire,      
+after the spanish conquest of the aztec empire,      
 
 243
 00:16:39,065 --> 00:16:43,435
- these chairs were deemed seats 
- of honor for visiting v.i.p.s. 
+these chairs were deemed seats of honor for visiting v.i.p.s. 
 
 244
 00:16:47,474 --> 00:16:49,941
-         now considered         
-     more rustic than regal,    
+now considered more rustic than regal,    
 
 245
 00:16:49,943 --> 00:16:53,011
-    anyone can sit in a chair   
-        like montezuma's.       
+anyone can sit in a chair like montezuma's.       
 
 246
 00:16:53,013 --> 00:16:56,681
-   there are various versions   
-   produced in mexico today,    
+there are various versions produced in mexico today,    
 
 247
 00:16:56,683 --> 00:16:59,217
-        many handcrafted        
-        using techniques        
+many handcrafted using techniques        
 
 248
 00:16:59,219 --> 00:17:00,919
-    that date back centuries.   
+that date back centuries.   
 
 249
 00:17:04,558 --> 00:17:07,092
-   with a sharp, curved blade,  
+with a sharp, curved blade,  
 
 250
 00:17:07,094 --> 00:17:09,628
-   the craftsman first splits   
-   a chunk of mexican rosewood  
+the craftsman first splits a chunk of mexican rosewood  
 
 251
 00:17:09,630 --> 00:17:12,163
-    into long, narrow pieces.   
+into long, narrow pieces.   
 
 252
 00:17:12,165 --> 00:17:14,366
-       he cuts 36 splints       
+he cuts 36 splints       
 
 253
 00:17:14,368 --> 00:17:16,635
-         for the chair's        
-    distinctive lattice work.   
+for the chair's distinctive lattice work.   
 
 254
 00:17:16,637 --> 00:17:20,038
-     he pares down the ends     
-         of each splint,        
+he pares down the ends of each splint,        
 
 255
 00:17:20,040 --> 00:17:24,509
-   and he carves a round head   
-         onto each end.         
+and he carves a round head onto each end.         
 
 256
 00:17:24,511 --> 00:17:27,845
- these heads will stop the rope 
-        from sliding off        
+these heads will stop the rope from sliding off        
 
 257
 00:17:27,847 --> 00:17:29,981
@@ -1229,340 +1046,289 @@ as he ties the splints together.
 
 258
 00:17:29,983 --> 00:17:33,718
-   he pulls the back away from  
-   a much longer piece of wood  
+he pulls the back away from a much longer piece of wood  
 
 259
 00:17:33,720 --> 00:17:37,322
-        and then trims it       
-     to slimmer dimensions.     
+and then trims it to slimmer dimensions.     
 
 260
 00:17:37,324 --> 00:17:41,926
-     this wood is fresh from    
-  a local shrub called guizema. 
+this wood is fresh from a local shrub called guizema. 
 
 261
 00:17:41,928 --> 00:17:44,262
-        it's so pliable,        
-      it's almost elastic,      
+it's so pliable, it's almost elastic,      
 
 262
 00:17:44,264 --> 00:17:47,399
-     allowing the craftsman     
-   to bend it around his knee   
+allowing the craftsman to bend it around his knee   
 
 263
 00:17:47,401 --> 00:17:49,333
-       into a "u" profile.      
+into a "u" profile.      
 
 264
 00:17:49,335 --> 00:17:52,536
-         too much force,        
-  and he could crack the wood.  
+too much force, and he could crack the wood.  
 
 265
 00:17:52,538 --> 00:17:57,142
-  too little, and the curvature 
-         won't be right.        
+too little, and the curvature won't be right.        
 
 266
 00:17:57,144 --> 00:18:00,011
-        a thick nail used       
-        on railway tracks       
+a thick nail used on railway tracks       
 
 267
 00:18:00,013 --> 00:18:01,879
-     is now used as a hammer    
+is now used as a hammer    
 
 268
 00:18:01,881 --> 00:18:04,950
-   as he nails a linear piece   
-    of wood to a curved one,    
+as he nails a linear piece of wood to a curved one,    
 
 269
 00:18:04,952 --> 00:18:07,351
-   completing his chair base.   
+completing his chair base.   
 
 270
 00:18:07,353 --> 00:18:09,420
-    he now loops plastic rope   
+he now loops plastic rope   
 
 271
 00:18:09,422 --> 00:18:14,159
-   around the tips of the two   
- splints and ties them together.
+around the tips of the two splints and ties them together.
 
 272
 00:18:14,161 --> 00:18:18,730
-   he lays the tied splints to  
- holes in the guizema wood base.
+he lays the tied splints to holes in the guizema wood base.
 
 273
 00:18:24,705 --> 00:18:27,839
-      he angles the top end     
-    of the splints diagonally   
+he angles the top end of the splints diagonally   
 
 274
 00:18:27,841 --> 00:18:31,709
 and ties them together to create
- the chair's trademark lattice. 
+the chair's trademark lattice. 
 
 275
 00:18:31,711 --> 00:18:35,914
-  he then arranges the rounded  
-    willow wood frame on top    
+he then arranges the rounded willow wood frame on top    
 
 276
 00:18:35,916 --> 00:18:38,449
- and lashes the tied tips to it.
+and lashes the tied tips to it.
 
 277
 00:18:38,451 --> 00:18:42,253
-  he reinforces the chair base  
-    with willow wood branches   
+he reinforces the chair base with willow wood branches   
 
 278
 00:18:42,255 --> 00:18:44,389
-  that have been scraped flat.  
+that have been scraped flat.  
 
 279
 00:18:44,391 --> 00:18:48,459
-  he nails five of these poles  
-    to the base of the chair.   
+he nails five of these poles to the base of the chair.   
 
 280
 00:18:48,461 --> 00:18:49,927
-   the next craftsman secures   
+the next craftsman secures   
 
 281
 00:18:49,929 --> 00:18:52,063
-        a rounded bundle        
-       of willow branches       
+a rounded bundle of willow branches       
 
 282
 00:18:52,065 --> 00:18:54,265
-    to the protruding poles.    
+to the protruding poles.    
 
 283
 00:18:54,267 --> 00:18:57,468
-         this completes         
-       the back framework.      
+this completes the back framework.      
 
 284
 00:18:57,470 --> 00:19:01,006
- another worker now strings rope
-    made of agave plant fiber   
+another worker now strings rope
+made of agave plant fiber   
 
 285
 00:19:01,008 --> 00:19:04,409
-    across the seat framework   
-       and ties it to it.       
+across the seat framework and ties it to it.       
 
 286
 00:19:04,411 --> 00:19:10,548
 he creates a strong yet flexible
-  webbing to support the seat.  
+webbing to support the seat.  
 
 287
 00:19:10,550 --> 00:19:13,551
-       he now splits open       
-    some locally grown reeds    
+he now splits open some locally grown reeds    
 
 288
 00:19:13,553 --> 00:19:16,955
- and flattens them with a stone.
+and flattens them with a stone.
 
 289
 00:19:16,957 --> 00:19:18,156
-       basket-weave-style,      
+basket-weave-style,      
 
 290
 00:19:18,158 --> 00:19:20,158
-          he interlaces         
-       the flattened reeds      
+he interlaces the flattened reeds      
 
 291
 00:19:20,160 --> 00:19:21,759
-   to create a plated material  
+to create a plated material  
 
 292
 00:19:21,761 --> 00:19:24,562
-   that will be the next layer  
-          for the seat.         
+that will be the next layer for the seat.         
 
 293
 00:19:24,564 --> 00:19:27,766
-       after cutting it to      
- the exact shape and dimensions,
+after cutting it to the exact shape and dimensions,
 
 294
 00:19:27,768 --> 00:19:30,101
-       he places it on top      
-         of the webbing.        
+he places it on top of the webbing.        
 
 295
 00:19:30,103 --> 00:19:33,504
-    he then stitches a strip    
-  of leather along the border.  
+he then stitches a strip of leather along the border.  
 
 296
 00:19:33,506 --> 00:19:36,841
-  his co-worker now reinforces  
-        the plastic ties        
+his co-worker now reinforces the plastic ties        
 
 297
 00:19:36,843 --> 00:19:39,644
-       at the chair base        
-       with leather rope.       
+at the chair base with leather rope.       
 
 298
 00:19:39,646 --> 00:19:43,782
-   the leather ties also give   
- the base a more finished look. 
+the leather ties also give the base a more finished look. 
 
 299
 00:19:43,784 --> 00:19:47,419
- he turns the chair on its side 
-      and trims the poles.      
+he turns the chair on its side and trims the poles.      
 
 300
 00:19:49,656 --> 00:19:52,524
- he also carves slivers of wood 
-          from the base         
+he also carves slivers of wood from the base         
 
 301
 00:19:52,526 --> 00:19:54,926
-        so that it's even       
-       all the way around,      
+so that it's even all the way around,      
 
 302
 00:19:54,928 --> 00:20:00,598
-    allowing the chair to sit   
-       level on the floor.      
+allowing the chair to sit level on the floor.      
 
 303
 00:20:00,600 --> 00:20:04,002
- the next worker drapes tanned  
- and stretched pig-skin leather 
+the next worker drapes tanned and stretched pig-skin leather 
 
 304
 00:20:04,004 --> 00:20:05,503
-    over the back framework.    
+over the back framework.    
 
 305
 00:20:07,540 --> 00:20:10,942
-   he trims it to the contours  
-    of the bent willow wood.    
+he trims it to the contours of the bent willow wood.    
 
 306
 00:20:13,680 --> 00:20:15,947
-     he covers the reed seat    
+he covers the reed seat    
 
 307
 00:20:15,949 --> 00:20:21,619
- with more leather from the same
- hide and cuts away the excess. 
+with more leather from the same
+hide and cuts away the excess. 
 
 308
 00:20:21,621 --> 00:20:24,288
-     using a leftover swatch    
-           of leather,          
+using a leftover swatch of leather,          
 
 309
 00:20:24,290 --> 00:20:28,159
-  he applies wax made from pig  
-  and cow fat to leather rope.  
+he applies wax made from pig and cow fat to leather rope.  
 
 310
 00:20:28,161 --> 00:20:29,828
-     the wax allows the rope    
+the wax allows the rope    
 
 311
 00:20:29,830 --> 00:20:32,764
-  to slide easily through holes 
-         in the leather         
+to slide easily through holes in the leather         
 
 312
 00:20:32,766 --> 00:20:34,232
-      so there are no snags     
+so there are no snags     
 
 313
 00:20:34,234 --> 00:20:36,901
-         as he stitches         
-    the upholstery together.    
+as he stitches the upholstery together.    
 
 314
 00:20:38,437 --> 00:20:43,908
-     the leather upholstery     
-   is now tight and tailored.   
+the leather upholstery is now tight and tailored.   
 
 315
 00:20:43,910 --> 00:20:46,978
-     the next worker sprays     
-  mineral dye onto the leather. 
+the next worker sprays mineral dye onto the leather. 
 
 316
 00:20:46,980 --> 00:20:49,447
-       it's honey-colored       
-       for a warmer look,       
+it's honey-colored for a warmer look,       
 
 317
 00:20:49,449 --> 00:20:51,983
-        and it also hides       
-        any minor flaws.        
+and it also hides any minor flaws.        
 
 318
 00:20:51,985 --> 00:20:57,321
-    after the dye, he applies   
-  a protective coat of lacquer. 
+after the dye, he applies a protective coat of lacquer. 
 
 319
 00:20:57,323 --> 00:21:01,326
-   they heat an iron stamp and  
-  apply it to the latticed base 
+they heat an iron stamp and apply it to the latticed base 
 
 320
 00:21:01,328 --> 00:21:04,195
-        to brand the wood       
-     with the company name.     
+to brand the wood with the company name.     
 
 321
 00:21:08,467 --> 00:21:11,870
-     and with that job done,    
-    it's time to take a seat.   
+and with that job done, it's time to take a seat.   
 
 322
 00:21:11,872 --> 00:21:15,339
-     but with so many twists    
-     on this ancient design,    
+but with so many twists on this ancient design,    
 
 323
 00:21:15,341 --> 00:21:18,142
-        it could be tough       
-      to decide which one.      
+it could be tough to decide which one.      
 
 324
 00:21:18,144 --> 00:21:21,146
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 325
 00:21:21,148 --> 00:21:24,149
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 326
 00:21:30,690 --> 00:21:33,358
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 327
 00:21:33,360 --> 00:21:36,427
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 328
 00:21:36,429 --> 00:21:37,695
-      drop us a line at...      
+drop us a line at...      
 

@@ -1,308 +1,248 @@
 ﻿1
 00:00:01,603 --> 00:00:04,670
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,672 --> 00:00:08,007
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:51,785 --> 00:00:53,519
-           narrator:            
-   many banks and businesses    
+narrator: many banks and businesses    
 
 4
 00:00:53,521 --> 00:00:55,654
-     have time-delay locks      
-        on their safes          
+have time-delay locks on their safes          
 
 5
 00:00:55,656 --> 00:00:59,458
-    to keep their valuables     
-     and documents secure.      
+to keep their valuables and documents secure.      
 
 6
 00:00:59,460 --> 00:01:01,927
-     this helps deter theft     
-        because robbers         
+this helps deter theft because robbers         
 
 7
 00:01:01,929 --> 00:01:05,197
-  may not want to wait around   
-     for the safe to open.      
+may not want to wait around for the safe to open.      
 
 8
 00:01:05,199 --> 00:01:08,267
-   if they do, the time delay   
-    may keep them around long   
-             enough             
+if they do, the time delay may keep them around long enough             
 
 9
 00:01:08,269 --> 00:01:10,770
- for police to make an arrest.  
+for police to make an arrest.  
 
 10
 00:01:12,873 --> 00:01:18,344
-    this lock lets you select   
-             delays             
- ranging from 1 to 30 minutes.  
+this lock lets you select delays ranging from 1 to 30 minutes.  
 
 11
 00:01:18,346 --> 00:01:24,417
-        the timer starts        
-   after you insert the key.    
+the timer starts after you insert the key.    
 
 12
 00:01:24,419 --> 00:01:27,620
- most of the lock's components  
-       are made of zinc.        
+most of the lock's components are made of zinc.        
 
 13
 00:01:27,622 --> 00:01:29,488
-      this semi-automated       
-        casting machine         
+this semi-automated casting machine         
 
 14
 00:01:29,490 --> 00:01:33,492
-        heats zinc bars         
-     to about 800 degrees.      
+heats zinc bars to about 800 degrees.      
 
 15
 00:01:33,494 --> 00:01:36,696
-  the molten metal is then fed  
-   into an injection system,    
+the molten metal is then fed into an injection system,    
 
 16
 00:01:36,698 --> 00:01:40,433
-     which shoots the zinc      
-   into a part-shaped mold.     
+which shoots the zinc into a part-shaped mold.     
 
 17
 00:01:40,435 --> 00:01:42,835
-   the machine automatically    
-     refills the zinc bars      
+the machine automatically refills the zinc bars      
 
 18
 00:01:42,837 --> 00:01:44,703
-     as the metal is used.      
+as the metal is used.      
 
 19
 00:01:44,705 --> 00:01:49,842
- as soon as the machine injects 
-  molten zinc into the mold,    
+as soon as the machine injects molten zinc into the mold,    
 
 20
 00:01:49,844 --> 00:01:51,910
-       surrounding tubes        
-       spray cold water         
+surrounding tubes spray cold water         
 
 21
 00:01:51,912 --> 00:01:55,313
-        to quickly cool         
-    and solidify the metal.     
+to quickly cool and solidify the metal.     
 
 22
 00:01:55,315 --> 00:01:58,784
-      then the mold opens       
-     and ejects the part.       
+then the mold opens and ejects the part.       
 
 23
 00:01:58,786 --> 00:02:02,855
-  the parts have rough edges,   
-   so they go into a vibrating  
-              tub.              
+the parts have rough edges, so they go into a vibrating tub.              
 
 24
 00:02:02,857 --> 00:02:07,259
-    inside, they run against    
-             ceramic            
-     stones and an abrasive     
-            compound            
+inside, they run against ceramic stones and an abrasive compound            
 
 25
 00:02:07,261 --> 00:02:10,596
-      to smooth the edges       
-    and polish the surface.     
+to smooth the edges and polish the surface.     
 
 26
 00:02:14,068 --> 00:02:18,004
-     the parts are cleaned      
-   and painted on one side.     
+the parts are cleaned and painted on one side.     
 
 27
 00:02:18,006 --> 00:02:21,207
-   then they go into an oven    
-     to bake on the paint.      
+then they go into an oven to bake on the paint.      
 
 28
 00:02:23,411 --> 00:02:24,610
-      the lock's main cam       
+the lock's main cam       
 
 29
 00:02:24,612 --> 00:02:27,680
-      sets the time delay       
-    and the open window --      
+sets the time delay and the open window --      
 
 30
 00:02:27,682 --> 00:02:32,084
-   the amount of time before    
-     the safe automatically     
-            relocks.            
+the amount of time before the safe automatically relocks.            
 
 31
 00:02:34,355 --> 00:02:36,822
-  here, they're drilling holes  
-          for screws,           
+here, they're drilling holes for screws,           
 
 32
 00:02:36,824 --> 00:02:38,024
-     which will regulate the    
-            lengths             
+which will regulate the lengths             
 
 33
 00:02:38,026 --> 00:02:41,427
-       of the time delay        
-     and the open window.       
+of the time delay and the open window.       
 
 34
 00:02:41,429 --> 00:02:46,499
-   once the lock's components   
+once the lock's components   
 are prepared, assembly begins.  
 
 35
 00:02:46,501 --> 00:02:49,034
-     workers insert the lock    
-            cylinder            
-        into its shell          
+workers insert the lock cylinder into its shell          
 
 36
 00:02:49,036 --> 00:02:51,170
-      and remove the key.       
+and remove the key.       
 
 37
 00:02:51,172 --> 00:02:54,172
-        then they screw         
-   on a steel cylinder cam.     
+then they screw on a steel cylinder cam.     
 
 38
 00:02:54,174 --> 00:02:56,108
-     when you turn the key      
-       in the cylinder,         
+when you turn the key in the cylinder,         
 
 39
 00:02:56,110 --> 00:02:58,377
-          a cam winds           
-     and starts the timer.      
+a cam winds and starts the timer.      
 
 40
 00:02:58,379 --> 00:03:01,514
-   after the set time delay,    
+after the set time delay,    
 
 41
 00:03:01,516 --> 00:03:04,884
-     the cam pulls a lever      
-    that releases the lock's    
-             latch.             
+the cam pulls a lever that releases the lock's latch.             
 
 42
 00:03:07,188 --> 00:03:09,455
-      to build the lock's       
-       timing assembly,         
+to build the lock's timing assembly,         
 
 43
 00:03:09,457 --> 00:03:14,459
-   they first attach a spring   
-      to the timer plate.       
+they first attach a spring to the timer plate.       
 
 44
 00:03:14,461 --> 00:03:17,262
- they hold the spring in place  
-   with a plastic retainer.     
+they hold the spring in place with a plastic retainer.     
 
 45
 00:03:17,264 --> 00:03:21,600
-       then they install        
-      a brass timer cam.        
+then they install a brass timer cam.        
 
 46
 00:03:21,602 --> 00:03:25,337
-      the spring holds it       
-    in the locked position.     
+the spring holds it in the locked position.     
 
 47
 00:03:25,339 --> 00:03:28,740
-  a pin on the cylinder cam's   
- lever sits on the timer cam.   
+a pin on the cylinder cam's lever sits on the timer cam.   
 
 48
 00:03:28,742 --> 00:03:34,480
-  when the time delay is over,  
-               the              
+when the time delay is over, the              
 pin releases the timer spring,  
 
 49
 00:03:34,482 --> 00:03:37,682
-       and the timer cam        
-      moves to the unlocked     
-           position.            
+and the timer cam moves to the unlocked position.            
 
 50
 00:03:37,684 --> 00:03:39,885
- this allows the cylinder cam   
+this allows the cylinder cam   
 
 51
 00:03:39,887 --> 00:03:42,521
-      to retract the latch      
-      and open the lock.        
+to retract the latch and open the lock.        
 
 52
 00:03:46,226 --> 00:03:49,161
-      they screw the plate      
- with the spring and timer cam  
+they screw the plate with the spring and timer cam  
 
 53
 00:03:49,163 --> 00:03:50,563
-         to the timer,          
+to the timer,          
 
 54
 00:03:50,565 --> 00:03:53,566
-      which is gear-driven      
-   like a mechanical clock.     
+which is gear-driven like a mechanical clock.     
 
 55
 00:03:59,240 --> 00:04:04,176
-       they let the timer       
-     run down all the way.      
+they let the timer run down all the way.      
 
 56
 00:04:04,178 --> 00:04:07,046
-   then they turn the spring    
-          four times.           
+then they turn the spring four times.           
 
 57
 00:04:10,117 --> 00:04:12,050
-   they mount the main cam,     
+they mount the main cam,     
 
 58
 00:04:12,052 --> 00:04:14,053
-   which sets the time delay    
-        and open window         
+which sets the time delay and open window         
 
 59
 00:04:14,055 --> 00:04:16,956
-   on top of the timer cam.     
+on top of the timer cam.     
 
 60
 00:04:20,728 --> 00:04:23,596
-   now they begin calibrating   
-          the timer.            
+now they begin calibrating the timer.            
 
 61
 00:04:23,598 --> 00:04:25,864
-       first they install       
-  an aluminum weight assembly   
+first they install an aluminum weight assembly   
 
 62
 00:04:25,866 --> 00:04:27,900
@@ -310,304 +250,244 @@ that controls the timer speed.
 
 63
 00:04:31,471 --> 00:04:34,340
-       they run the timer       
-     on a testing machine,      
+they run the timer on a testing machine,      
 
 64
 00:04:34,342 --> 00:04:36,475
-   comparing it to the delay    
-     set on the main cam.       
+comparing it to the delay set on the main cam.       
 
 65
 00:04:36,477 --> 00:04:39,078
-  if the timer runs too fast,   
+if the timer runs too fast,   
 
 66
 00:04:39,080 --> 00:04:41,480
-     they take some tension     
-     off the timer spring.      
+they take some tension off the timer spring.      
 
 67
 00:04:41,482 --> 00:04:44,082
- if the timer runs too slowly,  
+if the timer runs too slowly,  
 
 68
 00:04:44,084 --> 00:04:45,818
-         they trim down         
-      the weight assembly       
+they trim down the weight assembly       
 
 69
 00:04:45,820 --> 00:04:47,686
-    until they get the right    
-             speed.             
+until they get the right speed.             
 
 70
 00:04:47,688 --> 00:04:54,093
-   once the timer is accurate,  
-              they              
+once the timer is accurate, they              
 screw it into the timer cover.  
 
 71
 00:04:57,231 --> 00:05:01,500
-   the lock body contains the   
-              lever             
-    that retracts the lock's    
-             latch.             
+the lock body contains the lever that retracts the lock's latch.             
 
 72
 00:05:01,502 --> 00:05:03,702
-          it also has           
-    a brass electrical plug     
+it also has a brass electrical plug     
 
 73
 00:05:03,704 --> 00:05:07,172
-           to connect           
- a time-delay indicator light.  
+to connect a time-delay indicator light.  
 
 74
 00:05:07,174 --> 00:05:10,108
-    after securing the latch    
-     and lever in position      
+after securing the latch and lever in position      
 
 75
 00:05:10,110 --> 00:05:14,045
-      with a cover plate,       
-     they install the timer     
-           assembly.            
+with a cover plate, they install the timer assembly.            
 
 76
 00:05:14,047 --> 00:05:15,915
-        the visible side        
-       is painted black,        
+the visible side is painted black,        
 
 77
 00:05:15,917 --> 00:05:19,784
-   just like the visible side   
-      of the cover plate.       
+just like the visible side of the cover plate.       
 
 78
 00:05:19,786 --> 00:05:24,056
-        then they insert        
-    the cylinder assembly.      
+then they insert the cylinder assembly.      
 
 79
 00:05:26,727 --> 00:05:29,261
-      they mount the lock       
-    on the door of the safe     
+they mount the lock on the door of the safe     
 
 80
 00:05:29,263 --> 00:05:31,263
-          and hook up           
-     the indicator lights,      
+and hook up the indicator lights,      
 
 81
 00:05:31,265 --> 00:05:33,833
-           which run            
-   on double-"a" batteries.     
+which run on double-"a" batteries.     
 
 82
 00:05:41,141 --> 00:05:46,077
- to open the safe, you insert,  
-  turn, then remove the key.    
+to open the safe, you insert, turn, then remove the key.    
 
 83
 00:05:46,079 --> 00:05:49,481
-    the red light indicates     
-  the timer is counting down.   
+the red light indicates the timer is counting down.   
 
 84
 00:05:49,483 --> 00:05:53,152
-  when the time delay is over,  
-   the green light comes on.    
+when the time delay is over, the green light comes on.    
 
 85
 00:05:53,154 --> 00:05:56,589
-   then you reinsert the key,   
-      and the safe opens.       
+then you reinsert the key, and the safe opens.       
 
 86
 00:06:09,704 --> 00:06:12,104
-  narrator: chocolate brownies  
-       are irresistible.        
+narrator: chocolate brownies are irresistible.        
 
 87
 00:06:12,106 --> 00:06:13,973
- their origins are uncertain,   
+their origins are uncertain,   
 
 88
 00:06:13,975 --> 00:06:15,507
-         but they were          
-     definitely developed       
+but they were definitely developed       
 
 89
 00:06:15,509 --> 00:06:17,710
-      in the united states      
-      over a century ago.       
+in the united states over a century ago.       
 
 90
 00:06:17,712 --> 00:06:20,712
- one story is that a homemaker  
-      from bangor, maine,       
+one story is that a homemaker from bangor, maine,       
 
 91
 00:06:20,714 --> 00:06:22,848
-    made the first brownies     
-         accidentally           
+made the first brownies accidentally           
 
 92
 00:06:22,850 --> 00:06:24,583
- while trying to make a cake.   
+while trying to make a cake.   
 
 93
 00:06:24,585 --> 00:06:26,719
-   another story states that    
-     they were deliberately     
-            invented            
+another story states that they were deliberately invented            
 
 94
 00:06:26,721 --> 00:06:28,821
-    by the chef at a chicago    
-             hotel.             
+by the chef at a chicago hotel.             
 
 95
 00:06:31,325 --> 00:06:35,461
-   neither cake nor cookie, a   
-     brownie is something in    
-            between,            
+neither cake nor cookie, a brownie is something in between,            
 
 96
 00:06:35,463 --> 00:06:38,396
-        a moist, dense,         
-       and chewy square.        
+a moist, dense, and chewy square.        
 
 97
 00:06:38,398 --> 00:06:43,068
-   there's no doubt it brings   
-    something special to the    
-             table.             
+there's no doubt it brings something special to the table.             
 
 98
 00:06:43,070 --> 00:06:46,672
- to mass-produce brownies, this 
-   factory starts with canola   
-              oil.              
+to mass-produce brownies, this factory starts with canola oil.              
 
 99
 00:06:46,674 --> 00:06:50,075
-     they add xanthan gum,      
-    a natural preservative      
+they add xanthan gum, a natural preservative      
 
 100
 00:06:50,077 --> 00:06:53,078
-    that increases moisture     
-   retention during baking.     
+that increases moisture retention during baking.     
 
 101
 00:06:53,080 --> 00:06:57,950
-      they blend these two      
-           ingredients          
-    in an industrial mixer.     
+they blend these two ingredients in an industrial mixer.     
 
 102
 00:06:57,952 --> 00:07:02,888
-  then they add sugar, cocoa,   
+then they add sugar, cocoa,   
 
 103
 00:07:02,890 --> 00:07:05,791
-           and canola           
-   and palm oil shortening.     
+and canola and palm oil shortening.     
 
 104
 00:07:07,962 --> 00:07:09,695
-  they reactivate the mixer,    
+they reactivate the mixer,    
 
 105
 00:07:09,697 --> 00:07:14,099
- and it blends the ingredients  
-   into a chocolate batter.     
+and it blends the ingredients into a chocolate batter.     
 
 106
 00:07:14,101 --> 00:07:16,735
-      the next ingredients      
-       are whole eggs...        
+the next ingredients are whole eggs...        
 
 107
 00:07:18,839 --> 00:07:20,706
-      ...and corn syrup.        
+...and corn syrup.        
 
 108
 00:07:23,310 --> 00:07:26,845
-     the massive mixing arm     
-  descends back into the bowl   
+the massive mixing arm descends back into the bowl   
 
 109
 00:07:26,847 --> 00:07:31,183
-  and whips these ingredients   
-       into the batter.         
+and whips these ingredients into the batter.         
 
 110
 00:07:31,185 --> 00:07:34,186
-    a worker wheels the bowl    
-         to a hopper,           
+a worker wheels the bowl to a hopper,           
 
 111
 00:07:34,188 --> 00:07:37,389
-         which releases         
-  a precise amount of flour.    
+which releases a precise amount of flour.    
 
 112
 00:07:37,391 --> 00:07:40,592
-  the flour thickens the mix.   
+the flour thickens the mix.   
 
 113
 00:07:40,594 --> 00:07:44,663
-          it will give          
- the baked brownies structure.  
+it will give the baked brownies structure.  
 
 114
 00:07:44,665 --> 00:07:49,601
-  after 25 minutes of mixing,   
-    the batter is complete.     
+after 25 minutes of mixing, the batter is complete.     
 
 115
 00:07:49,603 --> 00:07:54,673
-   there's enough batter here   
-    to make 6,000 brownies.     
+there's enough batter here to make 6,000 brownies.     
 
 116
 00:07:54,675 --> 00:07:58,277
-         they transfer          
- the smooth chocolaty mixture   
+they transfer the smooth chocolaty mixture   
 
 117
 00:07:58,279 --> 00:08:00,579
-      to a machine called a     
-           depositor.           
+to a machine called a depositor.           
 
 118
 00:08:05,685 --> 00:08:07,685
-    a sprayer mists the pans    
-           with oil             
+a sprayer mists the pans with oil             
 
 119
 00:08:07,687 --> 00:08:11,023
-   to keep the brownies from    
-     sticking to them during    
-            baking.             
+to keep the brownies from sticking to them during baking.             
 
 120
 00:08:11,025 --> 00:08:14,059
-         then the pans          
-   arrive at the depositor.     
+then the pans arrive at the depositor.     
 
 121
 00:08:16,364 --> 00:08:18,096
-   this computerized machine    
+this computerized machine    
 
 122
 00:08:18,098 --> 00:08:21,500
-      releases the batter       
-        into each pan.          
+releases the batter into each pan.          
 
 123
 00:08:21,502 --> 00:08:24,636
@@ -615,154 +495,127 @@ it has perfect aim every time.
 
 124
 00:08:26,306 --> 00:08:31,910
-         next, the pans         
-  enter an 11-1/2-foot oven.    
+next, the pans enter an 11-1/2-foot oven.    
 
 125
 00:08:31,912 --> 00:08:35,414
-  the brownies rotate through   
- 13 tiers to bake them evenly.  
+the brownies rotate through 13 tiers to bake them evenly.  
 
 126
 00:08:38,052 --> 00:08:42,788
-    after about 20 minutes,     
-   the brownies are cooked.     
+after about 20 minutes, the brownies are cooked.     
 
 127
 00:08:42,790 --> 00:08:47,292
-       they exit the oven       
-     and head into a cooling    
-            chamber.            
+they exit the oven and head into a cooling chamber.            
 
 128
 00:08:50,731 --> 00:08:53,065
-         like the oven,         
-      it's multi-tiered.        
+like the oven, it's multi-tiered.        
 
 129
 00:08:55,202 --> 00:08:59,071
-    the pans move through it    
-  as fans cool the brownies.    
+the pans move through it as fans cool the brownies.    
 
 130
 00:09:01,809 --> 00:09:05,611
-          the cooling           
- helps solidify the brownies.   
+the cooling helps solidify the brownies.   
 
 131
 00:09:05,613 --> 00:09:08,279
-        then a robot arm        
-    with needle-like claws      
+then a robot arm with needle-like claws      
 
 132
 00:09:08,281 --> 00:09:11,416
-  lifts them out of the pans    
+lifts them out of the pans    
 
 133
 00:09:11,418 --> 00:09:13,652
-       and transfers them       
-     to the next conveyer.      
+and transfers them to the next conveyer.      
 
 134
 00:09:15,689 --> 00:09:17,956
-    the robots are gentle,      
+the robots are gentle,      
 
 135
 00:09:17,958 --> 00:09:21,226
-      so the cool brownies      
-     stay intact during the     
-            process.            
+so the cool brownies stay intact during the process.            
 
 136
 00:09:23,630 --> 00:09:28,100
-   the brownies round a corner  
-               and              
- transfer to another conveyer.  
+the brownies round a corner and transfer to another conveyer.  
 
 137
 00:09:30,971 --> 00:09:32,838
-    at the end of the line,     
+at the end of the line,     
 
 138
 00:09:32,840 --> 00:09:35,774
-  a worker places the brownies  
-  in a narrow conveyer system   
+a worker places the brownies in a narrow conveyer system   
 
 139
 00:09:35,776 --> 00:09:39,311
-        that takes them         
-   to the wrapping station.     
+that takes them to the wrapping station.     
 
 140
 00:09:39,313 --> 00:09:41,313
-       a computer sensor        
-    detects their approach      
+a computer sensor detects their approach      
 
 141
 00:09:41,315 --> 00:09:45,184
-     and alerts the plastic     
-    wrapping system ahead.      
+and alerts the plastic wrapping system ahead.      
 
 142
 00:09:45,186 --> 00:09:48,253
-      the plastic unwinds       
-   into the wrapping machine    
+the plastic unwinds into the wrapping machine    
 
 143
 00:09:48,255 --> 00:09:51,790
-   as the brownies enter it.    
+as the brownies enter it.    
 
 144
 00:09:51,792 --> 00:09:55,527
- metal wheels with grooves pull 
-      the wrapper under the     
-           brownies,            
+metal wheels with grooves pull the wrapper under the brownies,            
 
 145
 00:09:55,529 --> 00:09:59,731
-     and then heated wheels     
-  melt the seam to close it.    
+and then heated wheels melt the seam to close it.    
 
 146
 00:09:59,733 --> 00:10:03,134
-    a hot jaw then seals and    
-             severs             
+a hot jaw then seals and severs             
 
 147
 00:10:03,136 --> 00:10:05,403
-        the plastic film        
-     between the brownies,      
+the plastic film between the brownies,      
 
 148
 00:10:05,405 --> 00:10:08,874
- creating individual packets.   
+creating individual packets.   
 
 149
 00:10:12,346 --> 00:10:15,080
-      a robot opens a box       
+a robot opens a box       
 
 150
 00:10:15,082 --> 00:10:18,517
-   and sets it on a conveyer    
-   next to the brownie line.    
+and sets it on a conveyer next to the brownie line.    
 
 151
 00:10:21,689 --> 00:10:24,489
-    an employee then places     
-   eight packets of brownies    
+an employee then places eight packets of brownies    
 
 152
 00:10:24,491 --> 00:10:26,191
-        in each carton.         
+in each carton.         
 
 153
 00:10:30,630 --> 00:10:33,798
- they ride by a rotary device,  
+they ride by a rotary device,  
 
 154
 00:10:33,800 --> 00:10:36,401
-   which automatically folds    
-   the ends of the cartons.     
+which automatically folds the ends of the cartons.     
 
 155
 00:10:45,312 --> 00:10:48,680
@@ -770,100 +623,83 @@ then the boxes are glued shut.
 
 156
 00:10:50,651 --> 00:10:53,851
-      finally, they travel      
-   through a metal detector.    
+finally, they travel through a metal detector.    
 
 157
 00:10:53,853 --> 00:10:56,655
-    it uses a high-frequency    
-    electromagnetic signal      
+it uses a high-frequency electromagnetic signal      
 
 158
 00:10:56,657 --> 00:10:59,825
- to detect any metal fragments  
-       in the brownies.         
+to detect any metal fragments in the brownies.         
 
 159
 00:11:02,062 --> 00:11:03,328
-    it takes about an hour      
+it takes about an hour      
 
 160
 00:11:03,330 --> 00:11:07,332
-  to make and package brownies  
-       at this factory,         
+to make and package brownies at this factory,         
 
 161
 00:11:07,334 --> 00:11:10,736
-   but only a fraction of that  
-              time              
-        to enjoy them.          
+but only a fraction of that time to enjoy them.          
 
 162
 00:11:24,752 --> 00:11:26,284
-  narrator: pallets are used    
+narrator: pallets are used    
 
 163
 00:11:26,286 --> 00:11:29,488
-         to easily move         
-  large quantities of goods.    
+to easily move large quantities of goods.    
 
 164
 00:11:29,490 --> 00:11:32,023
-       they were invented       
-   in the early 20th century    
+they were invented in the early 20th century    
 
 165
 00:11:32,025 --> 00:11:35,894
-    and have been a warehouse   
-             staple             
-          ever since.           
+and have been a warehouse staple ever since.           
 
 166
 00:11:35,896 --> 00:11:38,630
-    multiple unused pallets     
-       can cause clutter        
+multiple unused pallets can cause clutter        
 
 167
 00:11:38,632 --> 00:11:40,765
- and even be a safety hazard.   
+and even be a safety hazard.   
 
 168
 00:11:40,767 --> 00:11:43,635
- that's where pallet dispensers 
-           come in.             
+that's where pallet dispensers come in.             
 
 169
 00:11:45,706 --> 00:11:47,572
-   before pallet dispensers,    
+before pallet dispensers,    
 
 170
 00:11:47,574 --> 00:11:49,574
-       pallets were kept        
-       in loose stacks.         
+pallets were kept in loose stacks.         
 
 171
 00:11:49,576 --> 00:11:52,911
-         retrieving one         
-  was potentially dangerous.    
+retrieving one was potentially dangerous.    
 
 172
 00:11:52,913 --> 00:11:55,580
-      the pallet dispenser      
-     solves this problem.       
+the pallet dispenser solves this problem.       
 
 173
 00:11:55,582 --> 00:11:58,317
-  it helps keep the workplace   
-      safe and organized.       
+it helps keep the workplace safe and organized.       
 
 174
 00:12:02,989 --> 00:12:04,790
-   a high-speed cnc machine     
+a high-speed cnc machine     
 
 175
 00:12:04,792 --> 00:12:07,859
-    cuts out the steel parts    
-   of the pallet dispenser.     
+cuts out the steel parts of the pallet dispenser.     
 
 176
 00:12:12,332 --> 00:12:14,599
@@ -871,210 +707,170 @@ an employee uses a press brake
 
 177
 00:12:14,601 --> 00:12:17,869
-     to bend the components     
-    to the required shapes.     
+to bend the components to the required shapes.     
 
 178
 00:12:17,871 --> 00:12:20,472
-       a preset backstop        
+a preset backstop        
 
 179
 00:12:20,474 --> 00:12:24,209
-  ensures that the metal piece  
- goes into the precise depth.   
+ensures that the metal piece goes into the precise depth.   
 
 180
 00:12:27,348 --> 00:12:29,547
-    next, a worker uses a mig   
-             welder             
+next, a worker uses a mig welder             
 
 181
 00:12:29,549 --> 00:12:33,151
-        to quickly bond         
-    the new parts together.     
+to quickly bond the new parts together.     
 
 182
 00:12:33,153 --> 00:12:36,087
-  the parts hang from chains,   
+the parts hang from chains,   
 
 183
 00:12:36,089 --> 00:12:38,957
-       which are charged        
-   with a negative current.     
+which are charged with a negative current.     
 
 184
 00:12:38,959 --> 00:12:42,494
- painters then spray positively 
-    charged paint on them.      
+painters then spray positively charged paint on them.      
 
 185
 00:12:44,965 --> 00:12:48,634
- the parts are baked in an oven 
-    for 20 minutes to dry the   
-             paint.             
+the parts are baked in an oven for 20 minutes to dry the paint.             
 
 186
 00:12:50,371 --> 00:12:52,503
-       the traveler frame       
-       moves up and down        
+the traveler frame moves up and down        
 
 187
 00:12:52,505 --> 00:12:55,574
-        with the pallets        
-     inside the dispenser.      
+with the pallets inside the dispenser.      
 
 188
 00:12:55,576 --> 00:12:58,477
-            a worker            
-  installs 12 cam followers.    
+a worker installs 12 cam followers.    
 
 189
 00:13:00,380 --> 00:13:03,682
-        a team positions        
-  the linear track assembly.    
+a team positions the linear track assembly.    
 
 190
 00:13:05,052 --> 00:13:08,186
-       its vertical bars        
-   guide the cam followers,     
+its vertical bars guide the cam followers,     
 
 191
 00:13:08,188 --> 00:13:11,056
-   keeping the traveler frame   
-           on track.            
+keeping the traveler frame on track.            
 
 192
 00:13:13,326 --> 00:13:15,927
-     once this sub-assembly     
-         is complete,           
+once this sub-assembly is complete,           
 
 193
 00:13:15,929 --> 00:13:19,597
-       workers install it       
- inside the main side frames.   
+workers install it inside the main side frames.   
 
 194
 00:13:19,599 --> 00:13:23,869
-   together, these components   
- form the main base assembly.   
+together, these components form the main base assembly.   
 
 195
 00:13:23,871 --> 00:13:28,006
-        the dispenser's         
-    self-contained hydraulic    
-             system             
+the dispenser's self-contained hydraulic system             
 
 196
 00:13:28,008 --> 00:13:32,477
-     doesn't require power      
+doesn't require power      
 to control the traveler frame.  
 
 197
 00:13:34,748 --> 00:13:37,616
-          this is one           
-  of two hydraulic cylinders.   
+this is one of two hydraulic cylinders.   
 
 198
 00:13:37,618 --> 00:13:41,520
-   they're designed to easily   
-              hold              
-   a heavy stack of pallets.    
+they're designed to easily hold a heavy stack of pallets.    
 
 199
 00:13:44,157 --> 00:13:48,559
-           the worker           
-   installs four brake arms.    
+the worker installs four brake arms.    
 
 200
 00:13:48,561 --> 00:13:52,364
-       they hold a set of       
+they hold a set of       
 spring-loaded latches in place  
 
 201
 00:13:52,366 --> 00:13:54,966
-      to keep the pallets       
-    suspended in position.      
+to keep the pallets suspended in position.      
 
 202
 00:13:58,972 --> 00:14:01,640
-       next, he positions       
-        the sprockets.          
+next, he positions the sprockets.          
 
 203
 00:14:03,176 --> 00:14:06,044
-      the pallet dispenser      
-    requires four sprockets     
+the pallet dispenser requires four sprockets     
 
 204
 00:14:06,046 --> 00:14:08,046
-    to support two chains.      
+to support two chains.      
 
 205
 00:14:10,250 --> 00:14:12,584
-          these chains          
-  connect the traveler frame    
+these chains connect the traveler frame    
 
 206
 00:14:12,586 --> 00:14:15,453
-          to a massive          
-     steel counterweight.       
+to a massive steel counterweight.       
 
 207
 00:14:15,455 --> 00:14:20,858
-     as it gets fuller, the     
-            traveler            
-  frame lowers to the ground.   
+as it gets fuller, the traveler frame lowers to the ground.   
 
 208
 00:14:20,860 --> 00:14:22,728
-       after the pallets        
-       touch the floor,         
+after the pallets touch the floor,         
 
 209
 00:14:22,730 --> 00:14:26,131
-       the counterweight        
-       lifts the frame.         
+the counterweight lifts the frame.         
 
 210
 00:14:26,133 --> 00:14:30,202
-   the pallets are stored in a  
-              tall              
-     column called a pallet     
-           magazine.            
+the pallets are stored in a tall column called a pallet magazine.            
 
 211
 00:14:31,671 --> 00:14:35,607
-  two employees work together   
-        to install it.          
+two employees work together to install it.          
 
 212
 00:14:35,609 --> 00:14:38,075
-         the magazines          
-  come in two standard heights  
-               --               
+the magazines come in two standard heights --               
 
 213
 00:14:38,077 --> 00:14:40,679
-      4 feet and 8 feet.        
+4 feet and 8 feet.        
 
 214
 00:14:44,017 --> 00:14:47,219
-    not all pallet magazines    
-           are red.             
+not all pallet magazines are red.             
 
 215
 00:14:47,221 --> 00:14:50,589
-      customers can select      
+customers can select      
 from a wide variety of colors.  
 
 216
 00:14:53,426 --> 00:14:54,959
-      the interior panels       
+the interior panels       
 
 217
 00:14:54,961 --> 00:14:57,962
-    protect the dispenser's     
- mechanism from being damaged.  
+protect the dispenser's mechanism from being damaged.  
 
 218
 00:14:57,964 --> 00:14:59,364
@@ -1082,196 +878,158 @@ they're also the access panels
 
 219
 00:14:59,366 --> 00:15:02,167
-        to the product's        
-    precision engineering.      
+to the product's precision engineering.      
 
 220
 00:15:02,169 --> 00:15:05,303
-     a trained professional     
-     should always handle       
+a trained professional should always handle       
 
 221
 00:15:05,305 --> 00:15:07,839
-   the machine's maintenance    
-          and repair.           
+the machine's maintenance and repair.           
 
 222
 00:15:07,841 --> 00:15:10,175
-       making the panels        
-    relatively inaccessible     
+making the panels relatively inaccessible     
 
 223
 00:15:10,177 --> 00:15:13,645
-    decreases the chances of    
-      tampering, injury, or     
-           accidents            
+decreases the chances of tampering, injury, or accidents            
 
 224
 00:15:13,647 --> 00:15:15,147
-        by an amateur.          
+by an amateur.          
 
 225
 00:15:17,317 --> 00:15:20,452
-         next, a worker         
- runs a quality-control test.   
+next, a worker runs a quality-control test.   
 
 226
 00:15:20,454 --> 00:15:22,587
-    he uses a walkie rider      
+he uses a walkie rider      
 
 227
 00:15:22,589 --> 00:15:25,891
-  to raise a stack of pallets   
-  and remove the bottom one.    
+to raise a stack of pallets and remove the bottom one.    
 
 228
 00:15:28,328 --> 00:15:30,595
-        when he's done,         
-     the hydraulic system       
+when he's done, the hydraulic system       
 
 229
 00:15:30,597 --> 00:15:33,231
-        lowers the stack        
-      back into position.       
+lowers the stack back into position.       
 
 230
 00:15:35,536 --> 00:15:37,802
-     here, one worker uses a    
-            forklift            
+here, one worker uses a forklift            
 
 231
 00:15:37,804 --> 00:15:42,808
-   to raise the top section of  
-               the              
- pallet magazine into position  
+to raise the top section of the pallet magazine into position  
 
 232
 00:15:42,810 --> 00:15:47,278
-     while the other worker     
-    guides the magazine into    
-             place.             
+while the other worker guides the magazine into place.             
 
 233
 00:15:47,280 --> 00:15:50,215
-      graphics and decals       
-   have already been added,     
+graphics and decals have already been added,     
 
 234
 00:15:50,217 --> 00:15:51,950
-       so all that's left       
-       is for the worker        
+so all that's left is for the worker        
 
 235
 00:15:51,952 --> 00:15:54,953
-        to securely bolt        
-  the two sections together.    
+to securely bolt the two sections together.    
 
 236
 00:15:58,225 --> 00:16:02,427
-  with about 2 billion pallets  
-      in the u.s. alone,        
+with about 2 billion pallets in the u.s. alone,        
 
 237
 00:16:02,429 --> 00:16:04,696
-    things can really start     
-          to pile up.           
+things can really start to pile up.           
 
 238
 00:16:06,966 --> 00:16:08,900
-    pallet stackers make life   
-             easier             
+pallet stackers make life easier             
 
 239
 00:16:08,902 --> 00:16:12,070
- for manufacturers and shippers 
-      all over the world.       
+for manufacturers and shippers all over the world.       
 
 240
 00:16:18,846 --> 00:16:23,448
-  some refer to these devices   
-   as giant pez dispensers.     
+some refer to these devices as giant pez dispensers.     
 
 241
 00:16:23,450 --> 00:16:27,185
-           in a way,            
- that's exactly what they are,  
+in a way, that's exactly what they are,  
 
 242
 00:16:27,187 --> 00:16:28,820
-   and they're just as safe.    
+and they're just as safe.    
 
 243
 00:16:40,534 --> 00:16:42,867
-    narrator: once reserved     
-   for palaces and castles,     
+narrator: once reserved for palaces and castles,     
 
 244
 00:16:42,869 --> 00:16:46,471
-   today's chandeliers can be   
-              found             
+today's chandeliers can be found             
 in even the most modest homes.  
 
 245
 00:16:46,473 --> 00:16:48,740
-     they function as more      
-   than just a light source.    
+they function as more than just a light source.    
 
 246
 00:16:48,742 --> 00:16:51,409
-       chandeliers can be       
- the illuminating centerpieces  
+chandeliers can be the illuminating centerpieces  
 
 247
 00:16:51,411 --> 00:16:55,880
-  of traditional rooms or give  
-    modern rooms an eclectic    
-            twists.             
+of traditional rooms or give modern rooms an eclectic twists.             
 
 248
 00:16:55,882 --> 00:17:00,051
-      either way, a crystal     
-           chandelier           
-      is always elegant and     
-           timeless.            
+either way, a crystal chandelier is always elegant and timeless.            
 
 249
 00:17:01,288 --> 00:17:03,821
-        this chandelier         
-    is quite a showstopper.     
+this chandelier is quite a showstopper.     
 
 250
 00:17:03,823 --> 00:17:07,158
-          it stretches          
+it stretches          
 more than 3 feet high and wide  
 
 251
 00:17:07,160 --> 00:17:09,694
-     with 24 elegant arms.      
+with 24 elegant arms.      
 
 252
 00:17:09,696 --> 00:17:12,297
-         it's decorated         
-  with clear and red crystal    
+it's decorated with clear and red crystal    
 
 253
 00:17:12,299 --> 00:17:15,500
-  and a gilded hurricane shade  
-       over each light.         
+and a gilded hurricane shade over each light.         
 
 254
 00:17:15,502 --> 00:17:19,036
- to make the crystal, they melt 
-   silica sand in a furnace,    
+to make the crystal, they melt silica sand in a furnace,    
 
 255
 00:17:19,038 --> 00:17:23,508
-   along with lead, hot ash,    
+along with lead, hot ash,    
 and several other ingredients.  
 
 256
 00:17:23,510 --> 00:17:26,044
-     the materials combine      
-    to make crystal heavier     
+the materials combine to make crystal heavier     
 
 257
 00:17:26,046 --> 00:17:28,446
@@ -1279,168 +1037,137 @@ and more sparkling than glass.
 
 258
 00:17:28,448 --> 00:17:31,849
-  to make each chandelier arm,  
-       a crystal blower         
+to make each chandelier arm, a crystal blower         
 
 259
 00:17:31,851 --> 00:17:34,920
-  gathers some molten crystal   
-  on the end of his blowpipe,   
+gathers some molten crystal on the end of his blowpipe,   
 
 260
 00:17:34,922 --> 00:17:38,723
-    then shapes the arm with    
- a series of blocks and molds.  
+then shapes the arm with a series of blocks and molds.  
 
 261
 00:17:40,127 --> 00:17:41,660
-      he makes a channel        
+he makes a channel        
 
 262
 00:17:41,662 --> 00:17:44,462
-        down the middle         
-    for the arm's electrical    
-            wiring.             
+down the middle for the arm's electrical wiring.             
 
 263
 00:17:44,464 --> 00:17:47,666
-    next, two master crystal    
-             blowers            
-         work together          
+next, two master crystal blowers work together          
 
 264
 00:17:47,668 --> 00:17:52,470
- to pull and twist the crystal  
-    into the arm's rope-like    
-            design.             
+to pull and twist the crystal into the arm's rope-like design.             
 
 265
 00:17:52,472 --> 00:17:56,007
-         this maneuver          
+this maneuver          
 requires tremendous expertise.  
 
 266
 00:17:56,009 --> 00:17:58,009
-     to achieve the correct     
-           diameter,            
+to achieve the correct diameter,            
 
 267
 00:17:58,011 --> 00:18:03,214
-  these craftsmen must stretch  
-  the crystal exactly right.    
+these craftsmen must stretch the crystal exactly right.    
 
 268
 00:18:03,216 --> 00:18:06,151
-       next, they put it        
-   in a chandelier arm mold     
+next, they put it in a chandelier arm mold     
 
 269
 00:18:06,153 --> 00:18:09,087
-    and snip off the excess     
-         on both ends.          
+and snip off the excess on both ends.          
 
 270
 00:18:09,089 --> 00:18:12,457
-       they blow cold air       
-   to solidify the crystal.     
+they blow cold air to solidify the crystal.     
 
 271
 00:18:14,094 --> 00:18:16,361
-       another craftsman        
- inspects the chandelier arm,   
+another craftsman inspects the chandelier arm,   
 
 272
 00:18:16,363 --> 00:18:19,898
-      checking the shape,       
-         measurements,          
+checking the shape, measurements,          
 
 273
 00:18:19,900 --> 00:18:22,567
-          and channel           
-  for the electrical wiring.    
+and channel for the electrical wiring.    
 
 274
 00:18:25,572 --> 00:18:27,172
-   next, a pair of craftsmen    
+next, a pair of craftsmen    
 
 275
 00:18:27,174 --> 00:18:29,507
-  make the bowl-shaped bottom   
-      of the chandelier.        
+make the bowl-shaped bottom of the chandelier.        
 
 276
 00:18:29,509 --> 00:18:32,043
- using traditional techniques,  
+using traditional techniques,  
 
 277
 00:18:32,045 --> 00:18:34,445
-   they place molten crystal    
-          in a mold,            
+they place molten crystal in a mold,            
 
 278
 00:18:34,447 --> 00:18:36,781
-    then place the mold in a    
-             press.             
+then place the mold in a press.             
 
 279
 00:18:38,452 --> 00:18:42,454
-  the crystal chandelier parts  
-  are cooled down in an oven.   
+the crystal chandelier parts are cooled down in an oven.   
 
 280
 00:18:42,456 --> 00:18:44,722
-      the gradual decrease      
-        in temperature          
+the gradual decrease in temperature          
 
 281
 00:18:44,724 --> 00:18:47,458
-    slowly releases tension     
-        in the crystal.         
+slowly releases tension in the crystal.         
 
 282
 00:18:47,460 --> 00:18:50,128
-    this prevents cracking.     
+this prevents cracking.     
 
 283
 00:18:50,130 --> 00:18:55,333
-  straight out of the furnace,  
- the crystal is 2,280 degrees.  
+straight out of the furnace, the crystal is 2,280 degrees.  
 
 284
 00:18:55,335 --> 00:19:00,138
-   it continues to be pliable   
-              until             
-     it reaches about 1,202     
-            degrees.            
+it continues to be pliable until it reaches about 1,202 degrees.            
 
 285
 00:19:00,140 --> 00:19:03,407
-       it cools rapidly,        
-   so as the craftsmen work,    
+it cools rapidly, so as the craftsmen work,    
 
 286
 00:19:03,409 --> 00:19:07,278
- they must regularly reheat the 
- crystal in a smaller furnace.  
+they must regularly reheat the crystal in a smaller furnace.  
 
 287
 00:19:07,280 --> 00:19:12,150
-   the freshly molded crystal   
+the freshly molded crystal   
 tends to have a rough surface,  
 
 288
 00:19:12,152 --> 00:19:16,221
-     so they use heat from      
- a blowtorch to smooth it out.  
+so they use heat from a blowtorch to smooth it out.  
 
 289
 00:19:16,223 --> 00:19:20,558
-   these holders support the    
- hurricane shades on the arms.  
+these holders support the hurricane shades on the arms.  
 
 290
 00:19:20,560 --> 00:19:23,761
-   this company produces its    
+this company produces its    
 signature shade of red crystal  
 
 291
@@ -1449,192 +1176,154 @@ by adding 24-karat gold powder
 
 292
 00:19:26,099 --> 00:19:28,666
-      to the raw materials      
-        in the furnace.         
+to the raw materials in the furnace.         
 
 293
 00:19:28,668 --> 00:19:30,968
-       the color emerges        
-    after the molded piece      
+the color emerges after the molded piece      
 
 294
 00:19:30,970 --> 00:19:36,307
-     is reheated in an oven     
-  to just over 1,000 degrees.   
+is reheated in an oven to just over 1,000 degrees.   
 
 295
 00:19:36,309 --> 00:19:40,044
-        a crystal blower        
-  makes the hurricane shades.   
+a crystal blower makes the hurricane shades.   
 
 296
 00:19:40,046 --> 00:19:43,915
-   first, he rolls a starting   
-              shape             
-  at the end of his blowpipe.   
+first, he rolls a starting shape at the end of his blowpipe.   
 
 297
 00:19:43,917 --> 00:19:45,383
-      then, with pliers,        
+then, with pliers,        
 
 298
 00:19:45,385 --> 00:19:48,386
-  he narrows and stretches one  
-               end              
-        to form a neck.         
+he narrows and stretches one end to form a neck.         
 
 299
 00:19:48,388 --> 00:19:51,589
-     by now, the crystal has    
-            cooled,             
+by now, the crystal has cooled,             
 
 300
 00:19:51,591 --> 00:19:54,926
-        so he reheats it        
-      before continuing.        
+so he reheats it before continuing.        
 
 301
 00:19:54,928 --> 00:19:56,660
- next, he inserts the crystal   
+next, he inserts the crystal   
 
 302
 00:19:56,662 --> 00:20:00,531
-   into a foot-pedal-operated   
-              mold              
-    installed in the floor.     
+into a foot-pedal-operated mold installed in the floor.     
 
 303
 00:20:00,533 --> 00:20:02,801
-     he then turns the pipe     
-     and blows through it       
+he then turns the pipe and blows through it       
 
 304
 00:20:02,803 --> 00:20:05,503
-     to expand the crystal      
-      to the mold shape.        
+to expand the crystal to the mold shape.        
 
 305
 00:20:08,742 --> 00:20:11,543
-    once the hurricane shade    
-          has cooled,           
+once the hurricane shade has cooled,           
 
 306
 00:20:11,545 --> 00:20:15,613
-  artisans apply an elaborate   
-     24-karat gold decal.       
+artisans apply an elaborate 24-karat gold decal.       
 
 307
 00:20:15,615 --> 00:20:18,616
-    with a paintbrush, they     
-   also apply raised gilding    
+with a paintbrush, they also apply raised gilding    
 
 308
 00:20:18,618 --> 00:20:21,285
-   and 24-karat gold paste.     
+and 24-karat gold paste.     
 
 309
 00:20:21,287 --> 00:20:25,290
-      they heat the shade       
-     to fuse the gold to the    
-            crystal,            
+they heat the shade to fuse the gold to the crystal,            
 
 310
 00:20:25,292 --> 00:20:29,894
-      then polish the gold      
-     with an agate stone.       
+then polish the gold with an agate stone.       
 
 311
 00:20:29,896 --> 00:20:33,831
-   every part of the crystal    
-    chandelier is handmade,     
+every part of the crystal chandelier is handmade,     
 
 312
 00:20:33,833 --> 00:20:37,835
-   and the entire chandelier    
-    is manually assembled.      
+and the entire chandelier is manually assembled.      
 
 313
 00:20:37,837 --> 00:20:40,238
-            however,            
-   some of the crystal parts    
+however, some of the crystal parts    
 
 314
 00:20:40,240 --> 00:20:42,841
-       require prep work        
-       before assembly.         
+require prep work before assembly.         
 
 315
 00:20:45,712 --> 00:20:47,779
-  the arms have a light socket  
-          at one end            
+the arms have a light socket at one end            
 
 316
 00:20:47,781 --> 00:20:50,614
-      wired to a connector      
-         at the other.          
+wired to a connector at the other.          
 
 317
 00:20:50,616 --> 00:20:54,252
-          all 24 arms           
-    mount to a round tray.      
+all 24 arms mount to a round tray.      
 
 318
 00:20:54,254 --> 00:20:57,255
-   beneath it, the connectors   
-    link to the main wires      
+beneath it, the connectors link to the main wires      
 
 319
 00:20:57,257 --> 00:21:00,457
-    running down the center     
-      of the chandelier.        
+running down the center of the chandelier.        
 
 320
 00:21:00,459 --> 00:21:05,196
- the chandelier's ornate bottom 
-         hides it all.          
+the chandelier's ornate bottom hides it all.          
 
 321
 00:21:05,198 --> 00:21:08,065
-     the electrical sockets     
-   that hold the light bulbs    
+the electrical sockets that hold the light bulbs    
 
 322
 00:21:08,067 --> 00:21:10,134
-     are hidden inside metal    
-            sleeves             
+are hidden inside metal sleeves             
 
 323
 00:21:10,136 --> 00:21:12,504
-         painted white          
-     to look like candles.      
+painted white to look like candles.      
 
 324
 00:21:16,409 --> 00:21:18,209
-  the gilded hurricane shades   
+the gilded hurricane shades   
 
 325
 00:21:18,211 --> 00:21:21,513
-      go over the candles       
+go over the candles       
 and sit snugly in the holders.  
 
 326
 00:21:28,288 --> 00:21:32,023
-      this stunning crystal     
-           chandelier           
-    casts sparkling light,      
+this stunning crystal chandelier casts sparkling light,      
 
 327
 00:21:32,025 --> 00:21:35,026
-        easily making it        
- the focal point of the room.   
+easily making it the focal point of the room.   
 
 328
 00:21:35,028 --> 00:21:37,428
-     weighing in at over 150    
-            pounds,             
+weighing in at over 150 pounds,             
 
 329
 00:21:37,430 --> 00:21:42,167
-  this grand chandelier makes   
- a big, bold design statement.  
+this grand chandelier makes a big, bold design statement.  
 

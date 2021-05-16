@@ -1,48 +1,42 @@
 ﻿1
 00:00:01,635 --> 00:00:04,536
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 2
 00:00:04,671 --> 00:00:07,639
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 3
 00:00:22,423 --> 00:00:26,358
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 4
 00:00:26,360 --> 00:00:28,260
-       pre-inked stamps...      
+pre-inked stamps...
 
 5
 00:00:32,033 --> 00:00:33,665
-        ...cranberries...       
+...cranberries...
 
 6
 00:00:37,538 --> 00:00:39,271
-        ...cotton yarn...       
+...cotton yarn...
 
 7
 00:00:43,110 --> 00:00:44,610
-       ...and road signs.       
+...and road signs.
 
 8
 00:00:52,586 --> 00:00:56,188
-   "paid," "rush," "approved"   
-      are some of the terms     
+"paid," "rush," "approved" are some of the terms
 
 9
 00:00:56,323 --> 00:00:58,256
-        routinely stamped       
-         onto documents.        
+routinely stamped onto documents.
 
 10
 00:00:58,325 --> 00:01:00,325
-         professionals,         
-       such as engineers,       
+professionals, such as engineers,
 
 11
 00:01:00,361 --> 00:01:02,794
@@ -50,17 +44,15 @@ have their official stamps, too.
 
 12
 00:01:02,863 --> 00:01:06,131
-      for years, you had to     
-   dab the stamp on an ink pad  
+for years, you had to dab the stamp on an ink pad
 
 13
 00:01:06,133 --> 00:01:07,399
-      for each impression.      
+for each impression.
 
 14
 00:01:07,534 --> 00:01:11,637
-   nowadays you can get stamps  
-  with the ink built right in.  
+nowadays you can get stamps with the ink built right in.
 
 15
 00:01:15,676 --> 00:01:17,909
@@ -68,8 +60,7 @@ the process begins with a design
 
 16
 00:01:17,945 --> 00:01:20,679
-  that either the stamp company 
-     or its customer creates    
+that either the stamp company or its customer creates
 
 17
 00:01:20,748 --> 00:01:23,282
@@ -77,23 +68,19 @@ with standard graphics software.
 
 18
 00:01:23,417 --> 00:01:25,950
-   they print the stamp design  
-           onto paper           
+they print the stamp design onto paper
 
 19
 00:01:25,986 --> 00:01:29,021
-      using a high-quality      
-         laser printer,         
+using a high-quality laser printer,
 
 20
 00:01:29,156 --> 00:01:32,491
-     then place the printout    
-    under an imaging camera.    
+then place the printout under an imaging camera.
 
 21
 00:01:38,232 --> 00:01:41,467
-   they feed in a blank sheet   
-       of negative film...      
+they feed in a blank sheet of negative film...
 
 22
 00:01:46,407 --> 00:01:50,642
@@ -101,41 +88,35 @@ with standard graphics software.
 
 23
 00:01:50,777 --> 00:01:54,045
-        30 seconds later,       
-     out comes the negative.    
+30 seconds later, out comes the negative.
 
 24
 00:01:54,115 --> 00:01:57,716
-      the design is light,      
-      the background dark.      
+the design is light, the background dark.
 
 25
 00:01:57,851 --> 00:02:01,653
-       now they can begin       
- making the mold for the stamp. 
+now they can begin making the mold for the stamp.
 
 26
 00:02:01,655 --> 00:02:03,054
-     they apply the negative    
+they apply the negative
 
 27
 00:02:03,090 --> 00:02:05,323
-           to a plate           
-  of light-sensitive polymer -- 
+to a plate of light-sensitive polymer --
 
 28
 00:02:05,359 --> 00:02:07,392
-    a plastic-like material.    
+a plastic-like material.
 
 29
 00:02:07,394 --> 00:02:11,463
-  then they vacuum out the air  
- to prevent defects in the mold.
+then they vacuum out the air to prevent defects in the mold.
 
 30
 00:02:15,402 --> 00:02:18,604
-  then they expose the polymer  
-   plate to ultraviolet light   
+then they expose the polymer plate to ultraviolet light
 
 31
 00:02:18,606 --> 00:02:21,339
@@ -143,106 +124,93 @@ for approximately three minutes.
 
 32
 00:02:21,375 --> 00:02:25,143
- the u.v. penetrates through the
-  light part of the negative -- 
+the u.v. penetrates through the
+light part of the negative --
 
 33
 00:02:25,212 --> 00:02:26,745
-       the stamp design --      
+the stamp design --
 
 34
 00:02:26,747 --> 00:02:28,880
-           and hardens          
-     the polymer underneath.    
+and hardens the polymer underneath.
 
 35
 00:02:28,949 --> 00:02:30,815
-     the rest of the polymer    
-           is shielded          
+the rest of the polymer is shielded
 
 36
 00:02:30,851 --> 00:02:33,285
-      by the dark portions      
-        of the negative,        
+by the dark portions of the negative,
 
 37
 00:02:33,354 --> 00:02:34,886
-      so it doesn't change.     
+so it doesn't change.
 
 38
 00:02:34,955 --> 00:02:38,357
-  a wash cycle then scrubs away 
-    this unhardened polymer,    
+a wash cycle then scrubs away this unhardened polymer,
 
 39
 00:02:38,359 --> 00:02:41,927
-  leaving behind a perfect mold 
-   in the shape of the stamp.   
+leaving behind a perfect mold in the shape of the stamp.
 
 40
 00:02:48,903 --> 00:02:50,502
-     now they cover the mold    
+now they cover the mold
 
 41
 00:02:50,571 --> 00:02:53,504
- with a sheet of synthetic resin
-         called bakelite        
+with a sheet of synthetic resin
+called bakelite
 
 42
 00:02:53,541 --> 00:02:56,841
-    and put it into a machine   
-      called a vulcanizer.      
+and put it into a machine called a vulcanizer.
 
 43
 00:02:56,877 --> 00:02:58,977
- the machine heats the bakelite 
+the machine heats the bakelite
 
 44
 00:02:59,112 --> 00:03:02,313
-          to just over          
-     309 degrees fahrenheit,    
+to just over 309 degrees fahrenheit,
 
 45
 00:03:02,349 --> 00:03:07,185
-  then forces it into the mold  
- using 2 to 3 tons of pressure. 
+then forces it into the mold using 2 to 3 tons of pressure.
 
 46
 00:03:07,188 --> 00:03:11,522
-       after four minutes,      
-  the bakelite stamp is ready.  
+after four minutes, the bakelite stamp is ready.
 
 47
 00:03:11,559 --> 00:03:13,191
-     to be more productive,     
+to be more productive,
 
 48
 00:03:13,260 --> 00:03:17,129
-   the factory actually molds   
-    several stamps at a time.   
+the factory actually molds several stamps at a time.
 
 49
 00:03:17,264 --> 00:03:19,864
-  next comes the built-in ink.  
+next comes the built-in ink.
 
 50
 00:03:19,934 --> 00:03:22,133
-  they screw the bakelite stamp 
+they screw the bakelite stamp
 
 51
 00:03:22,203 --> 00:03:25,337
-       into what's called       
-        the pre-ink mold,       
+into what's called the pre-ink mold,
 
 52
 00:03:25,339 --> 00:03:28,140
-     then pour in a mixture     
-         of ink and gel.        
+then pour in a mixture of ink and gel.
 
 53
 00:03:36,217 --> 00:03:38,684
-       they cover the mold      
-     and vacuum out the air,    
+they cover the mold and vacuum out the air,
 
 54
 00:03:38,686 --> 00:03:41,720
@@ -250,209 +218,176 @@ a process that takes 12 minutes.
 
 55
 00:03:44,891 --> 00:03:48,560
-     the mold then goes into    
-  a heat press for 17 minutes.  
+the mold then goes into a heat press for 17 minutes.
 
 56
 00:03:48,629 --> 00:03:53,165
-    the press applies 2 tons    
- of pressure to expel excess ink
+the press applies 2 tons of pressure to expel excess ink
 
 57
 00:03:53,300 --> 00:03:57,903
-      and heats the ink gel     
-to about 260 degrees fahrenheit,
+and heats the ink gel to about 260 degrees fahrenheit,
 
 58
 00:03:57,905 --> 00:04:02,173
- transforming it to roughly the 
-  consistency of a marshmallow. 
+transforming it to roughly the consistency of a marshmallow.
 
 59
 00:04:02,243 --> 00:04:03,976
-      so it won't overcook,     
+so it won't overcook,
 
 60
 00:04:04,111 --> 00:04:08,614
-  the mold goes onto a special  
-  cooling table for 12 minutes. 
+the mold goes onto a special cooling table for 12 minutes.
 
 61
 00:04:15,089 --> 00:04:18,590
-   next, it's set out to cool   
-     for another 45 minutes,    
+next, it's set out to cool for another 45 minutes,
 
 62
 00:04:18,659 --> 00:04:23,128
-    this time on newspapers,    
- which soak up more excess ink. 
+this time on newspapers, which soak up more excess ink.
 
 63
 00:04:27,935 --> 00:04:32,004
-   finally, they wrap the mold  
- in paper towels and newspapers 
+finally, they wrap the mold in paper towels and newspapers
 
 64
 00:04:32,139 --> 00:04:35,741
-         and vacuum out         
-  the last drops of excess ink. 
+and vacuum out the last drops of excess ink.
 
 65
 00:04:47,921 --> 00:04:52,357
- then they quickly seal the back
+then they quickly seal the back
 of the stamp to lock the ink in.
 
 66
 00:04:57,831 --> 00:05:02,167
-     now they can cut apart     
-     the individual stamps.     
+now they can cut apart the individual stamps.
 
 67
 00:05:12,979 --> 00:05:14,780
-  they glue the stamps by hand  
+they glue the stamps by hand
 
 68
 00:05:14,782 --> 00:05:17,316
-          onto the base         
-      of the stamp handles.     
+onto the base of the stamp handles.
 
 69
 00:05:27,928 --> 00:05:30,528
-   before they're shipped out   
-        to the customer,        
+before they're shipped out to the customer,
 
 70
 00:05:30,597 --> 00:05:33,265
-       all stamps undergo       
-     a quality-control check    
+all stamps undergo a quality-control check
 
 71
 00:05:33,400 --> 00:05:36,868
-   to make sure they'll leave   
-      a lasting impression.     
+to make sure they'll leave a lasting impression.
 
 72
 00:05:48,081 --> 00:05:50,615
-  narrator: cranberries are one 
-   of just a handful of fruits  
+narrator: cranberries are one of just a handful of fruits
 
 73
 00:05:50,651 --> 00:05:53,218
-         that are native        
-        to north america.       
+that are native to north america.
 
 74
 00:05:53,220 --> 00:05:55,086
-  before the europeans arrived, 
+before the europeans arrived,
 
 75
 00:05:55,189 --> 00:05:57,956
-      the indians used them     
-     for food and medicine.     
+the indians used them for food and medicine.
 
 76
 00:05:58,091 --> 00:06:00,025
-       the cranberry vine       
-         is well-suited         
+the cranberry vine is well-suited
 
 77
 00:06:00,027 --> 00:06:02,026
-      to a harsher climate.     
+to a harsher climate.
 
 78
 00:06:02,096 --> 00:06:04,296
- it thrives in low temperatures 
+it thrives in low temperatures
 
 79
 00:06:04,298 --> 00:06:07,566
-      and loves acidic soil     
-   that's scarce in nutrients.  
+and loves acidic soil that's scarce in nutrients.
 
 80
 00:06:13,306 --> 00:06:18,042
-    cranberries are ripe for    
- the picking in late september. 
+cranberries are ripe for the picking in late september.
 
 81
 00:06:18,112 --> 00:06:22,113
-         at harvesttime,        
-   farmers flood their fields   
+at harvesttime, farmers flood their fields
 
 82
 00:06:22,149 --> 00:06:25,117
-     to make the cranberries    
-      float to the surface.     
+to make the cranberries float to the surface.
 
 83
 00:06:27,988 --> 00:06:31,589
-     then they use a machine    
-        called a beater.        
+then they use a machine called a beater.
 
 84
 00:06:31,625 --> 00:06:33,992
-          it generates          
-     underwater turbulence,     
+it generates underwater turbulence,
 
 85
 00:06:34,127 --> 00:06:37,229
-       pulling the berries      
-         off the vines.         
+pulling the berries off the vines.
 
 86
 00:06:49,943 --> 00:06:52,010
-     the beater is suspended    
-      from a mobile bridge      
+the beater is suspended from a mobile bridge
 
 87
 00:06:52,145 --> 00:06:54,012
-     that's computer-guided     
+that's computer-guided
 
 88
 00:06:54,147 --> 00:06:57,215
- to systematically work its way 
-    through the entire field.   
+to systematically work its way through the entire field.
 
 89
 00:06:59,820 --> 00:07:04,523
-  the beater cuts a swath about 
-  23 feet wide with each sweep. 
+the beater cuts a swath about 23 feet wide with each sweep.
 
 90
 00:07:12,299 --> 00:07:13,965
-          workers move          
-    the floating cranberries    
+workers move the floating cranberries
 
 91
 00:07:14,034 --> 00:07:16,701
-  to one corner of the field... 
+to one corner of the field...
 
 92
 00:07:21,442 --> 00:07:25,010
- ...where a pump transfers them 
-       to a waiting truck.      
+...where a pump transfers them to a waiting truck.
 
 93
 00:07:32,186 --> 00:07:35,453
- along the way, the berries get 
-      a preliminary rinsing     
+along the way, the berries get a preliminary rinsing
 
 94
 00:07:35,522 --> 00:07:37,856
- to remove branches and leaves. 
+to remove branches and leaves.
 
 95
 00:07:40,327 --> 00:07:44,062
-         at the factory,        
-  the truck unloads its cargo.  
+at the factory, the truck unloads its cargo.
 
 96
 00:07:44,197 --> 00:07:46,865
-     the cranberries travel     
-      along the water canal     
+the cranberries travel along the water canal
 
 97
 00:07:47,000 --> 00:07:49,334
-    and onto a conveyor belt,   
+and onto a conveyor belt,
 
 98
 00:07:49,403 --> 00:07:51,870
@@ -460,248 +395,216 @@ then through a cleaning station,
 
 99
 00:07:51,872 --> 00:07:54,205
-    where workers use brushes   
-         and water jets         
+where workers use brushes and water jets
 
 100
 00:07:54,241 --> 00:07:57,108
-   to get rid of any remaining  
-      leaves and branches.      
+to get rid of any remaining leaves and branches.
 
 101
 00:08:00,213 --> 00:08:03,014
- then they dump the cranberries 
-         into large bins        
+then they dump the cranberries into large bins
 
 102
 00:08:03,050 --> 00:08:06,751
-          to be frozen          
-    for up to several months.   
+to be frozen for up to several months.
 
 103
 00:08:06,887 --> 00:08:09,287
-   to produce cranberry juice,  
+to produce cranberry juice,
 
 104
 00:08:09,422 --> 00:08:11,822
- they defrost the frozen berries
-          in hot water,         
+they defrost the frozen berries
+in hot water,
 
 105
 00:08:11,859 --> 00:08:15,026
-        then mash them --       
-    skins, seeds, and all --    
+then mash them -- skins, seeds, and all --
 
 106
 00:08:15,161 --> 00:08:16,561
-          into a puree.         
+into a puree.
 
 107
 00:08:16,563 --> 00:08:20,164
-   they add special enzymes to  
- break up the pectin molecules, 
+they add special enzymes to break up the pectin molecules,
 
 108
 00:08:20,234 --> 00:08:24,970
-  making the puree less viscous 
- and therefore easier to press. 
+making the puree less viscous and therefore easier to press.
 
 109
 00:08:24,972 --> 00:08:29,374
-   the press processes almost   
-   9 tons of puree at a time.   
+the press processes almost 9 tons of puree at a time.
 
 110
 00:08:29,376 --> 00:08:32,376
-        that's the weight       
-       of 1 1/2 elephants.      
+that's the weight of 1 1/2 elephants.
 
 111
 00:08:32,412 --> 00:08:37,115
- it takes three to four pressing
+it takes three to four pressing
 cycles to extract all the juice.
 
 112
 00:08:37,117 --> 00:08:41,653
-  the juice then goes through a 
-sophisticated filtration system.
+the juice then goes through a sophisticated filtration system.
 
 113
 00:08:41,722 --> 00:08:43,521
-         the 216 filters        
+the 216 filters
 
 114
 00:08:43,590 --> 00:08:48,793
-  remove any plant particles or 
-bacteria larger than one micron.
+remove any plant particles or bacteria larger than one micron.
 
 115
 00:08:48,829 --> 00:08:54,666
- a micron is about 25,000 times 
-      smaller than an inch.     
+a micron is about 25,000 times smaller than an inch.
 
 116
 00:08:54,801 --> 00:08:56,535
-  then they evaporate the water 
+then they evaporate the water
 
 117
 00:08:56,670 --> 00:09:00,005
-         until the juice        
- is 10 times more concentrated. 
+until the juice is 10 times more concentrated.
 
 118
 00:09:00,140 --> 00:09:02,607
-    cranberries not destined    
-            for juice           
+cranberries not destined for juice
 
 119
 00:09:02,609 --> 00:09:04,609
-  go through a grading process. 
+go through a grading process.
 
 120
 00:09:04,678 --> 00:09:07,278
-  undersized berries drop down  
+undersized berries drop down
 
 121
 00:09:07,281 --> 00:09:10,682
-        through the holes       
-       of a giant sifter.       
+through the holes of a giant sifter.
 
 122
 00:09:10,817 --> 00:09:13,618
- the bigger cranberries move on 
-      to the grading table,     
+the bigger cranberries move on to the grading table,
 
 123
 00:09:13,753 --> 00:09:16,788
-    where workers remove any    
-      that are substandard.     
+where workers remove any that are substandard.
 
 124
 00:09:25,365 --> 00:09:26,831
-      an electronic sorter      
+an electronic sorter
 
 125
 00:09:26,967 --> 00:09:30,034
-    then scans the remaining    
-     cranberries for color,     
+then scans the remaining cranberries for color,
 
 126
 00:09:30,070 --> 00:09:32,370
-      signaling an air gun      
+signaling an air gun
 
 127
 00:09:32,439 --> 00:09:35,306
-   to blow any reject berries   
-    off the production line.    
+to blow any reject berries off the production line.
 
 128
 00:09:35,375 --> 00:09:38,109
-        the rest move on        
-   to the packaging department  
+the rest move on to the packaging department
 
 129
 00:09:38,178 --> 00:09:41,379
-    or continue down the line   
-          to be dried.          
+or continue down the line to be dried.
 
 130
 00:09:41,415 --> 00:09:43,915
- cranberries destined for drying
+cranberries destined for drying
 
 131
 00:09:44,050 --> 00:09:47,318
-    are automatically seeded,   
-    cut in half, and pressed,   
+are automatically seeded, cut in half, and pressed,
 
 132
 00:09:47,321 --> 00:09:52,524
 then soaked in a sugar-and-water
- solution to make them sweeter. 
+solution to make them sweeter.
 
 133
 00:09:52,526 --> 00:09:56,327
-     the side-to-side motion    
-      of the conveyor belt      
+the side-to-side motion of the conveyor belt
 
 134
 00:09:56,363 --> 00:10:00,365
-   spreads the berries thinly   
-   so that they'll dry evenly.  
+spreads the berries thinly so that they'll dry evenly.
 
 135
 00:10:00,367 --> 00:10:03,201
- the hot-air dryer subjects them
+the hot-air dryer subjects them
 
 136
 00:10:03,270 --> 00:10:08,673
-  to temperatures varying from  
-  86 to 176 degrees fahrenheit. 
+to temperatures varying from 86 to 176 degrees fahrenheit.
 
 137
 00:10:11,745 --> 00:10:13,211
-    after about three hours,    
+after about three hours,
 
 138
 00:10:13,280 --> 00:10:16,548
-    the cranberries come out    
-       looking like this.       
+the cranberries come out looking like this.
 
 139
 00:10:21,554 --> 00:10:25,356
- as you sip your cranberry tea, 
-         ponder this --         
+as you sip your cranberry tea, ponder this --
 
 140
 00:10:25,359 --> 00:10:28,026
-    cranberries are a source    
-          of potassium          
+cranberries are a source of potassium
 
 141
 00:10:28,028 --> 00:10:29,661
-    and vitamins "a" and "c,"   
+and vitamins "a" and "c,"
 
 142
 00:10:29,696 --> 00:10:31,229
-  and drinking cranberry juice  
+and drinking cranberry juice
 
 143
 00:10:31,298 --> 00:10:35,867
-      can prevent and treat     
-    urinary tract infections.   
+can prevent and treat urinary tract infections.
 
 144
 00:10:43,443 --> 00:10:46,311
-    narrator: twisting plant    
-   or animal fibers into yarn   
+narrator: twisting plant or animal fibers into yarn
 
 145
 00:10:46,313 --> 00:10:48,312
-  dates back to ancient times,  
+dates back to ancient times,
 
 146
 00:10:48,382 --> 00:10:52,050
- when people fashioned primitive
-     spindles out of sticks.    
+when people fashioned primitive
+spindles out of sticks.
 
 147
 00:10:52,119 --> 00:10:53,651
-        around 500 b.c.,        
+around 500 b.c.,
 
 148
 00:10:53,654 --> 00:10:55,987
-   the spinning wheel was born  
-            in india.           
+the spinning wheel was born in india.
 
 149
 00:10:56,122 --> 00:10:58,990
-  today's factories have fully  
-   automated spinning machines  
+today's factories have fully automated spinning machines
 
 150
 00:10:59,059 --> 00:11:02,994
- that work on the same principle
-     as the spinning wheel.     
+that work on the same principle
+as the spinning wheel.
 
 151
 00:11:05,666 --> 00:11:07,732
@@ -709,84 +612,71 @@ this is a 2-ply commercial yarn,
 
 152
 00:11:07,867 --> 00:11:10,401
-     the kind factories use     
-         to weave fabric        
+the kind factories use to weave fabric
 
 153
 00:11:10,437 --> 00:11:12,803
-   for making jeans and tops.   
+for making jeans and tops.
 
 154
 00:11:12,839 --> 00:11:17,008
-   it's made from large bales   
-         of raw cotton.         
+it's made from large bales of raw cotton.
 
 155
 00:11:17,077 --> 00:11:19,010
-   cotton comes from a plant,   
+cotton comes from a plant,
 
 156
 00:11:19,012 --> 00:11:20,945
-         so, naturally,         
-      some leaves and stems     
+so, naturally, some leaves and stems
 
 157
 00:11:21,081 --> 00:11:24,349
-          are mixed in          
-     with the cotton fibers.    
+are mixed in with the cotton fibers.
 
 158
 00:11:24,351 --> 00:11:28,019
-    to remove them, the first   
-  machine passes over the bales 
+to remove them, the first machine passes over the bales
 
 159
 00:11:28,154 --> 00:11:32,023
-  and removes a layer of cotton 
-      .2 of an inch wide...     
+and removes a layer of cotton .2 of an inch wide...
 
 160
 00:11:34,961 --> 00:11:36,961
-        ...then sends it        
-      through a duct system     
+...then sends it through a duct system
 
 161
 00:11:37,097 --> 00:11:39,164
-         to the blending        
-      and cleaning machine.     
+to the blending and cleaning machine.
 
 162
 00:11:40,867 --> 00:11:45,303
-      the machine processes     
- half a ton of cotton per hour. 
+the machine processes half a ton of cotton per hour.
 
 163
 00:11:45,372 --> 00:11:48,639
-      the cotton comes out      
-   evenly blended and cleaner,  
+the cotton comes out evenly blended and cleaner,
 
 164
 00:11:48,709 --> 00:11:50,775
-   but still not clean enough,  
+but still not clean enough,
 
 165
 00:11:50,777 --> 00:11:53,377
-         so it goes into        
-   a second cleaning machine,   
+so it goes into a second cleaning machine,
 
 166
 00:11:53,413 --> 00:11:56,081
-     which finishes the job.    
+which finishes the job.
 
 167
 00:12:08,328 --> 00:12:12,130
-   now the cotton goes through  
-what's called a carding machine.
+now the cotton goes through what's called a carding machine.
 
 168
 00:12:12,132 --> 00:12:15,466
-       it has huge rollers      
-        with wire teeth.        
+it has huge rollers with wire teeth.
 
 169
 00:12:15,469 --> 00:12:17,001
@@ -794,301 +684,258 @@ they comb out the tangled fibers
 
 170
 00:12:17,037 --> 00:12:20,838
-        and line them up        
-        in parallel rows.       
+and line them up in parallel rows.
 
 171
 00:12:20,874 --> 00:12:22,940
-    the machine also discards   
+the machine also discards
 
 172
 00:12:23,009 --> 00:12:25,944
-  any fibers that are too short 
-           to process.          
+any fibers that are too short to process.
 
 173
 00:12:29,149 --> 00:12:31,216
-    next stop -- the coiler.    
+next stop -- the coiler.
 
 174
 00:12:31,218 --> 00:12:33,684
-           this device          
-    takes the rows of fibers    
+this device takes the rows of fibers
 
 175
 00:12:33,720 --> 00:12:37,021
-   and forms them into a thick  
-   and loose first-stage yarn   
+and forms them into a thick and loose first-stage yarn
 
 176
 00:12:37,157 --> 00:12:38,790
-         called sliver.         
+called sliver.
 
 177
 00:12:46,233 --> 00:12:48,966
-       the slivers move on      
-     to the drawing machine.    
+the slivers move on to the drawing machine.
 
 178
 00:12:49,035 --> 00:12:52,369
- it lines them up six at a time 
-       and draws them out,      
+it lines them up six at a time and draws them out,
 
 179
 00:12:52,405 --> 00:12:56,107
-     stretching them to form    
-      a second-stage yarn.      
+stretching them to form a second-stage yarn.
 
 180
 00:13:00,380 --> 00:13:02,514
-         then a machine         
-      called a roving frame     
+then a machine called a roving frame
 
 181
 00:13:02,649 --> 00:13:05,316
-            stretches           
-     this second-stage yarn,    
+stretches this second-stage yarn,
 
 182
 00:13:05,352 --> 00:13:07,252
-        strengthening it        
-      by thinning it out...     
+strengthening it by thinning it out...
 
 183
 00:13:12,459 --> 00:13:14,725
-  ...until it looks like this.  
+...until it looks like this.
 
 184
 00:13:14,795 --> 00:13:17,795
-      this third-stage yarn     
-        is called roving.       
+this third-stage yarn is called roving.
 
 185
 00:13:17,864 --> 00:13:20,265
-  depending on the type of yarn 
-         they're making,        
+depending on the type of yarn they're making,
 
 186
 00:13:20,400 --> 00:13:24,936
-    it's anywhere from 3 1/2    
-to 16 times thinner than sliver.
+it's anywhere from 3 1/2 to 16 times thinner than sliver.
 
 187
 00:13:27,407 --> 00:13:31,075
-   they now stretch the roving  
-     up to 30 times thinner,    
+they now stretch the roving up to 30 times thinner,
 
 188
 00:13:31,111 --> 00:13:33,411
- which strengthens it even more.
+which strengthens it even more.
 
 189
 00:13:33,480 --> 00:13:36,481
-  the yarn is finally finished. 
+the yarn is finally finished.
 
 190
 00:13:38,952 --> 00:13:42,287
-  now they have to transfer the 
-yarn from all these small spools
+now they have to transfer the yarn from all these small spools
 
 191
 00:13:42,422 --> 00:13:48,226
-   onto huge, industrial-size   
-  cones -- 20 spools to a cone. 
+onto huge, industrial-size cones -- 20 spools to a cone.
 
 192
 00:13:48,295 --> 00:13:52,162
-       one transfer method      
-    uses the winding machine.   
+one transfer method uses the winding machine.
 
 193
 00:13:52,199 --> 00:13:56,701
-     it winds the yarn from     
- the first spool onto the cone. 
+it winds the yarn from the first spool onto the cone.
 
 194
 00:13:56,836 --> 00:14:00,771
-   then it automatically takes  
-    the back end of that yarn   
+then it automatically takes the back end of that yarn
 
 195
 00:14:00,841 --> 00:14:02,172
-   and attaches it with a knot  
+and attaches it with a knot
 
 196
 00:14:02,209 --> 00:14:05,310
-  to the front end of the yarn  
-      from the next spool.      
+to the front end of the yarn from the next spool.
 
 197
 00:14:05,312 --> 00:14:09,047
-   it winds it onto the cone,   
-   then attaches the back end   
+it winds it onto the cone, then attaches the back end
 
 198
 00:14:09,049 --> 00:14:11,849
-        to the front end        
- from the next spool and so on. 
+to the front end from the next spool and so on.
 
 199
 00:14:11,918 --> 00:14:13,985
-     as each spool empties,     
+as each spool empties,
 
 200
 00:14:13,987 --> 00:14:16,688
-    the machine automatically   
-          discards it.          
+the machine automatically discards it.
 
 201
 00:14:22,729 --> 00:14:24,662
-   and while all that winding   
-          is going on,          
+and while all that winding is going on,
 
 202
 00:14:24,731 --> 00:14:26,798
- the machine's optical sensor --
+the machine's optical sensor --
 
 203
 00:14:26,800 --> 00:14:29,734
-    that white object you see   
-     crossing the screen --     
+that white object you see crossing the screen --
 
 204
 00:14:29,803 --> 00:14:31,936
-  does a quality-control check. 
+does a quality-control check.
 
 205
 00:14:31,972 --> 00:14:35,073
-      if a portion of yarn      
-  doesn't meet specifications,  
+if a portion of yarn doesn't meet specifications,
 
 206
 00:14:35,075 --> 00:14:39,009
- the winding stops, the machine 
- cuts off the offending portion,
+the winding stops, the machine cuts off the offending portion,
 
 207
 00:14:39,045 --> 00:14:42,313
-    then reconnects the ends    
-      and resumes winding.      
+then reconnects the ends and resumes winding.
 
 208
 00:14:45,318 --> 00:14:46,885
-    this is air-jet spinning,   
+this is air-jet spinning,
 
 209
 00:14:47,020 --> 00:14:49,820
-         another method         
-   of making yarn from slivers  
+another method of making yarn from slivers
 
 210
 00:14:49,856 --> 00:14:53,758
 and winding it onto giant spools
-         known as tubes.        
+known as tubes.
 
 211
 00:15:01,567 --> 00:15:04,869
-         a suction tube         
-grabs the front end of one spool
+a suction tube grabs the front end of one spool
 
 212
 00:15:04,871 --> 00:15:07,638
- and connects it to the back end
-      of the previous one,      
+and connects it to the back end
+of the previous one,
 
 213
 00:15:07,707 --> 00:15:09,741
-     again with a tiny knot.    
+again with a tiny knot.
 
 214
 00:15:11,745 --> 00:15:14,178
- before fully automated machines
-            like this           
+before fully automated machines
+like this
 
 215
 00:15:14,247 --> 00:15:15,847
-   were invented 50 years ago,  
+were invented 50 years ago,
 
 216
 00:15:15,982 --> 00:15:19,116
-        all that knotting       
-     had to be done by hand.    
+all that knotting had to be done by hand.
 
 217
 00:15:19,185 --> 00:15:20,852
-     the thin, finished yarn    
+the thin, finished yarn
 
 218
 00:15:20,854 --> 00:15:23,854
-      is 200 times lighter      
-than the thick, first-stage yarn
+is 200 times lighter than the thick, first-stage yarn
 
 219
 00:15:23,890 --> 00:15:26,658
-          that came out         
-     of the carding machine.    
+that came out of the carding machine.
 
 220
 00:15:26,793 --> 00:15:32,196
- from start to finish, spinning 
-  this yarn has taken 48 hours. 
+from start to finish, spinning this yarn has taken 48 hours.
 
 221
 00:15:38,171 --> 00:15:40,137
-            narrator:           
-   you might not have noticed,  
+narrator: you might not have noticed,
 
 222
 00:15:40,173 --> 00:15:44,342
-  but road signs have undergone 
- a subtle change in recent years
+but road signs have undergone a subtle change in recent years
 
 223
 00:15:44,344 --> 00:15:47,344
-       thanks to advances       
-         in technology.         
+thanks to advances in technology.
 
 224
 00:15:47,380 --> 00:15:50,081
-          today's signs         
- are more reflective than ever. 
+today's signs are more reflective than ever.
 
 225
 00:15:50,083 --> 00:15:53,351
-   you can actually read them   
-      in the dead of night,     
+you can actually read them in the dead of night,
 
 226
 00:15:53,486 --> 00:15:55,553
-    even when the only source   
-         of illumination        
+even when the only source of illumination
 
 227
 00:15:55,622 --> 00:15:57,622
-    is your car's headlights.   
+is your car's headlights.
 
 228
 00:16:04,464 --> 00:16:07,298
-     the earliest road signs    
-          were crude --         
+the earliest road signs were crude --
 
 229
 00:16:07,367 --> 00:16:08,833
-      a stick in the ground     
+a stick in the ground
 
 230
 00:16:08,968 --> 00:16:11,569
-       or a heap of stones      
-        to mark a route.        
+or a heap of stones to mark a route.
 
 231
 00:16:11,571 --> 00:16:13,370
-      in the roman empire,      
+in the roman empire,
 
 232
 00:16:13,406 --> 00:16:17,308
- stone posts were erected along 
- roadsides at regular intervals,
+stone posts were erected along roadsides at regular intervals,
 
 233
 00:16:17,377 --> 00:16:19,844
@@ -1096,334 +943,285 @@ indicating the distance to rome.
 
 234
 00:16:19,913 --> 00:16:21,779
-        centuries later,        
+centuries later,
 
 235
 00:16:21,914 --> 00:16:25,116
-  stone-marker systems gave way 
-      to wooden cross signs     
+stone-marker systems gave way to wooden cross signs
 
 236
 00:16:25,251 --> 00:16:28,185
- pointing in several directions 
-            at once.            
+pointing in several directions at once.
 
 237
 00:16:28,221 --> 00:16:31,789
-    the international system    
-   of road signs we know today  
+the international system of road signs we know today
 
 238
 00:16:31,924 --> 00:16:34,926
-      came out of the first     
-  international road congress,  
+came out of the first international road congress,
 
 239
 00:16:34,928 --> 00:16:36,995
-          held in 1908.         
+held in 1908.
 
 240
 00:16:45,805 --> 00:16:48,739
-           the process          
-  of manufacturing a road sign  
+the process of manufacturing a road sign
 
 241
 00:16:48,775 --> 00:16:50,474
-     starts with a computer.    
+starts with a computer.
 
 242
 00:16:50,510 --> 00:16:52,342
-         the government         
-       strictly regulates       
+the government strictly regulates
 
 243
 00:16:52,379 --> 00:16:54,211
-   the specifics of the design  
+the specifics of the design
 
 244
 00:16:54,247 --> 00:16:58,950
-  and requires a certain degree 
-        of reflectivity.        
+and requires a certain degree of reflectivity.
 
 245
 00:16:58,952 --> 00:17:02,219
-   the computer's specialized   
-    software guides a machine   
+the computer's specialized software guides a machine
 
 246
 00:17:02,255 --> 00:17:04,589
-        to cut the design       
-       on a sheet of film.      
+to cut the design on a sheet of film.
 
 247
 00:17:06,626 --> 00:17:08,492
-     once the design is cut,    
+once the design is cut,
 
 248
 00:17:08,528 --> 00:17:11,963
-   workers carefully peel off   
-     and discard the pieces.    
+workers carefully peel off and discard the pieces.
 
 249
 00:17:13,900 --> 00:17:16,634
-  what's left is a film stencil 
-         of the sign --         
+what's left is a film stencil of the sign --
 
 250
 00:17:16,769 --> 00:17:19,570
-          in this case,         
-       a french stop sign.      
+in this case, a french stop sign.
 
 251
 00:17:24,310 --> 00:17:26,577
-  they inspect it for defects,  
+they inspect it for defects,
 
 252
 00:17:26,579 --> 00:17:29,914
-      then prepare a screen     
-       of polyester fabric      
+then prepare a screen of polyester fabric
 
 253
 00:17:29,916 --> 00:17:32,850
-     that they'll later use     
-       to print the sign.       
+that they'll later use to print the sign.
 
 254
 00:17:32,919 --> 00:17:34,585
-    they start by coating it    
+they start by coating it
 
 255
 00:17:34,587 --> 00:17:37,522
-        with a thin layer       
-  of light-sensitive emulsion.  
+with a thin layer of light-sensitive emulsion.
 
 256
 00:17:37,524 --> 00:17:41,659
-    once the emulsion is dry,   
-  they adhere the film stencil  
+once the emulsion is dry, they adhere the film stencil
 
 257
 00:17:41,728 --> 00:17:44,128
-      using vacuum pressure     
-          to flatten it         
+using vacuum pressure to flatten it
 
 258
 00:17:44,263 --> 00:17:47,331
-   and get rid of any creases   
-         or air bubbles.        
+and get rid of any creases or air bubbles.
 
 259
 00:17:50,403 --> 00:17:54,271
-   then they expose the screen  
- to an intense, 6,000-watt light
+then they expose the screen to an intense, 6,000-watt light
 
 260
 00:17:54,307 --> 00:17:56,406
-       for seven minutes.       
+for seven minutes.
 
 261
 00:17:56,443 --> 00:17:58,408
-   this activates the emulsion  
+this activates the emulsion
 
 262
 00:17:58,445 --> 00:18:01,445
-    on the lettering and area   
-     outside the octagon --     
+on the lettering and area outside the octagon --
 
 263
 00:18:01,481 --> 00:18:04,148
-    what's not shielded from    
- the light by the film stencil. 
+what's not shielded from the light by the film stencil.
 
 264
 00:18:04,184 --> 00:18:06,884
- this exposed emulsion hardens, 
+this exposed emulsion hardens,
 
 265
 00:18:06,953 --> 00:18:10,154
-    plugging the minute holes   
-  between the screen's fibers.  
+plugging the minute holes between the screen's fibers.
 
 266
 00:18:10,289 --> 00:18:13,891
-         after rinsing,         
-       you see the result.      
+after rinsing, you see the result.
 
 267
 00:18:14,026 --> 00:18:17,094
-    elsewhere in the factory,   
- workers cut the aluminum panels
+elsewhere in the factory, workers cut the aluminum panels
 
 268
 00:18:17,130 --> 00:18:19,830
-       on which the signs       
-        will be printed.        
+on which the signs will be printed.
 
 269
 00:18:19,833 --> 00:18:23,968
-      using a punch press,      
-    they round out the edges.   
+using a punch press, they round out the edges.
 
 270
 00:18:23,970 --> 00:18:26,437
-  they make holes for the bolts 
+they make holes for the bolts
 
 271
 00:18:26,572 --> 00:18:29,573
-         that will later        
-  attach the sign to the post.  
+that will later attach the sign to the post.
 
 272
 00:18:29,642 --> 00:18:32,576
- they stamp on the company name 
-   and the year of manufacture  
+they stamp on the company name and the year of manufacture
 
 273
 00:18:32,612 --> 00:18:35,379
-     for warranty purposes.     
+for warranty purposes.
 
 274
 00:18:35,415 --> 00:18:37,982
-     they immerse the panels    
-       in a chemical bath       
+they immerse the panels in a chemical bath
 
 275
 00:18:37,984 --> 00:18:41,452
-        to remove grease        
-       and other residues.      
+to remove grease and other residues.
 
 276
 00:18:41,521 --> 00:18:43,187
- then they rinse off the panels 
+then they rinse off the panels
 
 277
 00:18:43,256 --> 00:18:45,856
 and dip them in an acid solution
-      that seals the metal      
+that seals the metal
 
 278
 00:18:45,859 --> 00:18:48,993
-   to make it better withstand  
-         harsh weather.         
+to make it better withstand harsh weather.
 
 279
 00:18:50,997 --> 00:18:52,597
-       next, they laminate      
-       the aluminum panels      
+next, they laminate the aluminum panels
 
 280
 00:18:52,732 --> 00:18:57,001
-     with a film containing     
-   miniscule glass particles.   
+with a film containing miniscule glass particles.
 
 281
 00:18:57,136 --> 00:18:59,737
-  this film will make the sign  
-       reflect in the dark      
+this film will make the sign reflect in the dark
 
 282
 00:18:59,739 --> 00:19:01,239
-       when light hits it.      
+when light hits it.
 
 283
 00:19:08,614 --> 00:19:11,349
-     then they cut the panel    
-       to the final shape.      
+then they cut the panel to the final shape.
 
 284
 00:19:21,194 --> 00:19:24,095
-      now they can finally      
-         print the sign.        
+now they can finally print the sign.
 
 285
 00:19:24,230 --> 00:19:26,897
-      the process they use      
-    is called silk-screening,   
+the process they use is called silk-screening,
 
 286
 00:19:26,933 --> 00:19:29,967
-   although the fabric screen,  
-       as you saw earlier,      
+although the fabric screen, as you saw earlier,
 
 287
 00:19:30,003 --> 00:19:31,369
-      isn't actually silk.      
+isn't actually silk.
 
 288
 00:19:31,371 --> 00:19:33,971
-         it's polyester.        
+it's polyester.
 
 289
 00:19:34,007 --> 00:19:37,108
-   the machine forces the ink   
-     down through the screen    
+the machine forces the ink down through the screen
 
 290
 00:19:37,110 --> 00:19:38,508
-         onto the panel.        
+onto the panel.
 
 291
 00:19:38,545 --> 00:19:42,112
- the ink penetrates through the 
-open fiber holes of the octagon,
+the ink penetrates through the open fiber holes of the octagon,
 
 292
 00:19:42,148 --> 00:19:45,516
-   printing the red background  
-        on the stop sign.       
+printing the red background on the stop sign.
 
 293
 00:19:45,518 --> 00:19:48,586
-     but it can't penetrate     
- through the blocked fiber holes
+but it can't penetrate through the blocked fiber holes
 
 294
 00:19:48,588 --> 00:19:51,722
-  of the lettering and the area 
-      outside the octagon,      
+of the lettering and the area outside the octagon,
 
 295
 00:19:51,857 --> 00:19:54,792
-     so those remain white.     
+so those remain white.
 
 296
 00:19:54,927 --> 00:19:57,661
-    the freshly printed signs   
-      pass through a dryer      
+the freshly printed signs pass through a dryer
 
 297
 00:19:57,730 --> 00:20:02,266
- at about 150 degrees fahrenheit
-         for 5 minutes.         
+at about 150 degrees fahrenheit
+for 5 minutes.
 
 298
 00:20:02,302 --> 00:20:04,335
-    to produce street signs,    
+to produce street signs,
 
 299
 00:20:04,337 --> 00:20:06,803
-     workers first laminate     
-         aluminum panels        
+workers first laminate aluminum panels
 
 300
 00:20:06,839 --> 00:20:09,607
-      with reflective film      
-   for the background color...  
+with reflective film for the background color...
 
 301
 00:20:12,011 --> 00:20:14,278
-   ...then either silk-screen   
-         the street name        
+...then either silk-screen the street name
 
 302
 00:20:14,413 --> 00:20:17,949
-     or apply self-adhesive     
-      reflective lettering.     
+or apply self-adhesive reflective lettering.
 
 303
 00:20:21,487 --> 00:20:24,221
-        but it's back to        
-   the silk-screening process   
+but it's back to the silk-screening process
 
 304
 00:20:24,224 --> 00:20:26,557
@@ -1431,80 +1229,72 @@ for printing multicolored signs.
 
 305
 00:20:26,692 --> 00:20:29,026
-       workers print them       
-       one color at a time      
+workers print them one color at a time
 
 306
 00:20:29,095 --> 00:20:32,063
-       with a drying cycle      
-         between colors.        
+with a drying cycle between colors.
 
 307
 00:20:35,034 --> 00:20:39,170
-    all the film stencils are   
-carefully stored for future use.
+all the film stencils are carefully stored for future use.
 
 308
 00:20:39,172 --> 00:20:42,573
-    the printed signs go into   
-   an oven for a final curing   
+the printed signs go into an oven for a final curing
 
 309
 00:20:42,708 --> 00:20:45,509
-  at 349 degrees fahrenheit --  
+at 349 degrees fahrenheit --
 
 310
 00:20:45,545 --> 00:20:48,312
-  an hour for a one-color sign, 
+an hour for a one-color sign,
 
 311
 00:20:48,348 --> 00:20:52,249
-      a half-hour per color     
-    for a multicolored sign.    
+a half-hour per color for a multicolored sign.
 
 312
 00:20:52,252 --> 00:20:53,917
-  the ink is transparent enough 
+the ink is transparent enough
 
 313
 00:20:53,953 --> 00:20:56,587
 not to block the reflective film
-           underneath.          
+underneath.
 
 314
 00:20:56,722 --> 00:20:59,790
-   therefore, the entire sign,  
-     not just the lettering,    
+therefore, the entire sign, not just the lettering,
 
 315
 00:20:59,826 --> 00:21:02,526
-      is highly reflective.     
+is highly reflective.
 
 316
 00:21:02,528 --> 00:21:05,196
-         that maximizes         
-     the sign's visibility,     
+that maximizes the sign's visibility,
 
 317
 00:21:05,198 --> 00:21:09,467
- thereby minimizing the excuses 
-    drivers can come up with    
+thereby minimizing the excuses drivers can come up with
 
 318
 00:21:09,469 --> 00:21:11,569
-       for not heeding it.      
+for not heeding it.
 
 319
 00:21:16,876 --> 00:21:18,876
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,
 
 320
 00:21:19,011 --> 00:21:21,612
- or if you would like to suggest
-    topics for future shows,    
+or if you would like to suggest
+topics for future shows,
 
 321
 00:21:21,681 --> 00:21:24,048
-      drop us a line at...      
+drop us a line at...
+
 

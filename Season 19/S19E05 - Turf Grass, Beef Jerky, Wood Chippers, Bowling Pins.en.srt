@@ -3055,13 +3055,11 @@ alley-ready.
 
 519
 00:21:24,684 --> 00:21:27,685
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 520
 00:21:27,687 --> 00:21:30,755
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 521
 00:21:31,022 --> 00:21:32,557

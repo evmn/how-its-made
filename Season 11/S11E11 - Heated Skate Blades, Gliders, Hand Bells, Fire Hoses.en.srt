@@ -1,412 +1,354 @@
 ﻿1
 00:00:51,651 --> 00:00:54,719
-     narrator: hockey skates    
-   are not all created equal.   
+narrator: hockey skates are not all created equal.   
 
 2
 00:00:54,721 --> 00:00:57,189
-     that's why professional    
-         hockey players         
+that's why professional hockey players         
 
 3
 00:00:57,191 --> 00:01:00,392
-   are always looking for ways  
-    to get that cutting edge.   
+are always looking for ways to get that cutting edge.   
 
 4
 00:01:00,394 --> 00:01:02,861
-     they know championships    
-         are won or lost        
+they know championships are won or lost        
 
 5
 00:01:02,863 --> 00:01:04,530
-    in fractions of a second,   
+in fractions of a second,   
 
 6
 00:01:04,532 --> 00:01:06,732
-         and that's when        
-       heated skate blades      
+and that's when heated skate blades      
 
 7
 00:01:06,734 --> 00:01:09,268
-  can make all the difference.  
+can make all the difference.  
 
 8
 00:01:13,607 --> 00:01:14,806
-      with a simple touch,      
+with a simple touch,      
 
 9
 00:01:14,808 --> 00:01:17,075
-       heated skate blades      
-       are revolutionizing      
+heated skate blades are revolutionizing      
 
 10
 00:01:17,077 --> 00:01:18,410
-       the game of hockey.      
+the game of hockey.      
 
 11
 00:01:18,412 --> 00:01:21,746
-   they give much more control  
-      and speed on the ice.     
+they give much more control and speed on the ice.     
 
 12
 00:01:21,748 --> 00:01:24,215
-          they do this          
-      using a smart board,      
+they do this using a smart board,      
 
 13
 00:01:24,217 --> 00:01:27,486
-       the brain of these       
-  performance-enhancing blades. 
+the brain of these performance-enhancing blades. 
 
 14
 00:01:27,488 --> 00:01:30,956
- it all starts with custom-made,
-     stainless-steel blades.    
+it all starts with custom-made,
+stainless-steel blades.    
 
 15
 00:01:30,958 --> 00:01:34,159
- a technician places them inside
-  an injection-molding machine. 
+a technician places them inside
+an injection-molding machine. 
 
 16
 00:01:34,161 --> 00:01:37,763
-         liquid plastic         
-   is injected into a cavity,   
+liquid plastic is injected into a cavity,   
 
 17
 00:01:37,765 --> 00:01:40,299
-  creating a plastic overmold.  
+creating a plastic overmold.  
 
 18
 00:01:45,506 --> 00:01:47,439
- once bonded with the overmold, 
+once bonded with the overmold, 
 
 19
 00:01:47,441 --> 00:01:50,508
- the blades are ready to receive
-   the electronic smart board.  
+the blades are ready to receive
+the electronic smart board.  
 
 20
 00:01:50,510 --> 00:01:54,713
-    the smart board fits into   
-      the plastic overmold      
+the smart board fits into the plastic overmold      
 
 21
 00:01:54,715 --> 00:01:57,516
-  that runs along the top edge  
-          of the blade.         
+that runs along the top edge of the blade.         
 
 22
 00:01:57,518 --> 00:02:00,719
-  after removing excess plastic 
-         from the mold,         
+after removing excess plastic from the mold,         
 
 23
 00:02:00,721 --> 00:02:03,855
-      the technician places     
-       the prepared blades      
+the technician places the prepared blades      
 
 24
 00:02:03,857 --> 00:02:06,592
-      onto a mounting tray.     
+onto a mounting tray.     
 
 25
 00:02:06,594 --> 00:02:08,393
-  he uses thermoconductive glue 
+he uses thermoconductive glue 
 
 26
 00:02:08,395 --> 00:02:11,396
-        to ensure contact       
-    between the heating wire,   
+to ensure contact between the heating wire,   
 
 27
 00:02:11,398 --> 00:02:13,398
-   the temperature-controlling  
-          smart board,          
+the temperature-controlling smart board,          
 
 28
 00:02:13,400 --> 00:02:16,334
-     and the blade overmold.    
+and the blade overmold.    
 
 29
 00:02:16,336 --> 00:02:19,204
-   after that, the technician   
-   inserts insulating material  
+after that, the technician inserts insulating material  
 
 30
 00:02:19,206 --> 00:02:21,540
-     along the entire length    
-         of the overmold        
+along the entire length of the overmold        
 
 31
 00:02:21,542 --> 00:02:24,676
-    so the heating wires make   
- perfect contact with the steel.
+so the heating wires make perfect contact with the steel.
 
 32
 00:02:24,678 --> 00:02:28,013
- once the smart board is secure,
+once the smart board is secure,
 
 33
 00:02:28,015 --> 00:02:29,814
- the technical places the blades
+the technical places the blades
 
 34
 00:02:29,816 --> 00:02:32,017
-       into a low-density       
-       injection machine        
+into a low-density injection machine        
 
 35
 00:02:32,019 --> 00:02:34,219
-        that encapsulates       
-         the smart board        
+that encapsulates the smart board        
 
 36
 00:02:34,221 --> 00:02:36,755
-        with impact- and        
-    moisture-resistant resin.   
+with impact- and moisture-resistant resin.   
 
 37
 00:02:36,757 --> 00:02:39,424
-         the smart board        
-       is now waterproof.       
+the smart board is now waterproof.       
 
 38
 00:02:42,696 --> 00:02:46,097
 meanwhile, another high-pressure
-    injection-molding machine   
+injection-molding machine   
 
 39
 00:02:46,099 --> 00:02:49,234
-  makes the blade holders that  
-  support the finished blades.  
+makes the blade holders that support the finished blades.  
 
 40
 00:02:49,236 --> 00:02:52,171
-   these blade holders will be  
- given an actual power supply --
+these blade holders will be given an actual power supply --
 
 41
 00:02:52,173 --> 00:02:54,373
-       a high-performance       
-         lithium-polymer        
+a high-performance lithium-polymer        
 
 42
 00:02:54,375 --> 00:02:57,709
- rechargeable battery that makes
-  heating the blades possible.  
+rechargeable battery that makes
+heating the blades possible.  
 
 43
 00:02:57,711 --> 00:03:00,312
-           the battery          
-   will be cleverly concealed   
+the battery will be cleverly concealed   
 
 44
 00:03:00,314 --> 00:03:03,081
-         inside the heel        
-     of that molded chassis.    
+inside the heel of that molded chassis.    
 
 45
 00:03:08,389 --> 00:03:11,056
-    to do this, a technician    
-      first attaches rivets     
+to do this, a technician first attaches rivets     
 
 46
 00:03:11,058 --> 00:03:13,325
-         into the heels         
-      of the blade holders,     
+into the heels of the blade holders,     
 
 47
 00:03:13,327 --> 00:03:18,130
- then mounts the blade holders  
- onto an automatic rivet press. 
+then mounts the blade holders onto an automatic rivet press. 
 
 48
 00:03:18,132 --> 00:03:20,399
-  this machine pressure-punches 
-           the rivets           
+this machine pressure-punches the rivets           
 
 49
 00:03:20,401 --> 00:03:23,268
-   so they will make a proper   
-   connection to the battery    
+so they will make a proper connection to the battery    
 
 50
 00:03:23,270 --> 00:03:26,671
-         for recharging.        
+for recharging.        
 
 51
 00:03:26,673 --> 00:03:31,543
 a printer heat-presses the brand
-   name and logo on the heel.   
+name and logo on the heel.   
 
 52
 00:03:31,545 --> 00:03:34,413
-       the logo sits over       
- the flexible proximity sensor, 
+the logo sits over the flexible proximity sensor, 
 
 53
 00:03:34,415 --> 00:03:36,014
-    or the on-and-off button    
+or the on-and-off button    
 
 54
 00:03:36,016 --> 00:03:39,084
-        that a technician       
-    wraps around the battery.   
+that a technician wraps around the battery.   
 
 55
 00:03:39,086 --> 00:03:40,752
-         then she buries        
-        the combined unit       
+then she buries the combined unit       
 
 56
 00:03:40,754 --> 00:03:42,620
-          into the heel         
-       of the blade holder      
+into the heel of the blade holder      
 
 57
 00:03:42,622 --> 00:03:44,690
-   to protect it from moisture  
-           and impact.          
+to protect it from moisture and impact.          
 
 58
 00:03:44,692 --> 00:03:48,560
-  she then locks it into place. 
+she then locks it into place. 
 
 59
 00:03:48,562 --> 00:03:52,231
-  next, the technician attaches 
-     a threaded insert bolt     
+next, the technician attaches a threaded insert bolt     
 
 60
 00:03:52,233 --> 00:03:53,966
-     to the blade overmold.     
+to the blade overmold.     
 
 61
 00:03:53,968 --> 00:03:56,635
-        this special bolt       
-     hold the blade in place    
+this special bolt hold the blade in place    
 
 62
 00:03:56,637 --> 00:03:59,871
-  and allows for quick and easy 
-         blade changing.        
+and allows for quick and easy blade changing.        
 
 63
 00:04:04,778 --> 00:04:07,646
-  the technician then connects  
-  the blade to the blade holder 
+the technician then connects the blade to the blade holder 
 
 64
 00:04:07,648 --> 00:04:11,783
-      and presses the blade     
-    firmly into the chassis.    
+and presses the blade firmly into the chassis.    
 
 65
 00:04:11,785 --> 00:04:14,786
-  then she locks all electronic 
-    and mechanical components   
+then she locks all electronic and mechanical components   
 
 66
 00:04:14,788 --> 00:04:17,656
-           into place.          
+into place.          
 
 67
 00:04:17,658 --> 00:04:22,527
-    a charging unit powers up   
-    the battery for testing.    
+a charging unit powers up the battery for testing.    
 
 68
 00:04:22,529 --> 00:04:25,463
-  then the technician seals off 
-        the heel chamber        
+then the technician seals off the heel chamber        
 
 69
 00:04:25,465 --> 00:04:27,598
- to further protect the battery.
+to further protect the battery.
 
 70
 00:04:27,600 --> 00:04:31,870
- she turns on the smart board to
-  make sure all systems are go. 
+she turns on the smart board to
+make sure all systems are go. 
 
 71
 00:04:31,872 --> 00:04:35,407
-  an l.e.d. confirms the blades 
-      are heating properly.     
+an l.e.d. confirms the blades are heating properly.     
 
 72
 00:04:38,078 --> 00:04:40,545
-        in the meantime,        
-       another technician       
+in the meantime, another technician       
 
 73
 00:04:40,547 --> 00:04:44,082
-      assembles the molded      
-  charging unit for the blades. 
+assembles the molded charging unit for the blades. 
 
 74
 00:04:44,084 --> 00:04:47,285
-         the technician         
-   hand-trims the motherboard   
+the technician hand-trims the motherboard   
 
 75
 00:04:47,287 --> 00:04:49,087
-    that controls the charger   
+that controls the charger   
 
 76
 00:04:49,089 --> 00:04:52,658
-    so it will fit flawlessly   
-     into the charging unit.    
+so it will fit flawlessly into the charging unit.    
 
 77
 00:04:55,295 --> 00:04:57,495
-           she inserts          
-    the finished motherboard    
+she inserts the finished motherboard    
 
 78
 00:04:57,497 --> 00:04:58,630
-    into the back of the unit   
+into the back of the unit   
 
 79
 00:04:58,632 --> 00:05:01,600
-     and checks to make sure    
-       it works properly.       
+and checks to make sure it works properly.       
 
 80
 00:05:03,770 --> 00:05:07,105
-  then she snaps on an airtight 
-   cover that seals the unit,   
+then she snaps on an airtight cover that seals the unit,   
 
 81
 00:05:07,107 --> 00:05:11,276
 fully protecting the motherboard
-   against wetness and shock.   
+against wetness and shock.   
 
 82
 00:05:11,278 --> 00:05:14,112
-      finally, she plugs in     
-        the charging unit       
+finally, she plugs in the charging unit       
 
 83
 00:05:14,114 --> 00:05:17,115
-      to confirm it works.      
+to confirm it works.      
 
 84
 00:05:17,117 --> 00:05:19,718
-     a rechargeable battery,    
-            a manual,           
+a rechargeable battery, a manual,           
 
 85
 00:05:19,720 --> 00:05:22,520
-   a convenient charging unit,  
-           and a pair           
+a convenient charging unit, and a pair           
 
 86
 00:05:22,522 --> 00:05:27,459
-    of performance-enhancing    
- skate blades complete the kit. 
+of performance-enhancing skate blades complete the kit. 
 
 87
 00:05:27,461 --> 00:05:32,797
@@ -415,252 +357,220 @@ ready to ship around the world.
 
 88
 00:05:32,799 --> 00:05:35,400
-     they're quick and easy     
-     to mount on the boot,      
+they're quick and easy to mount on the boot,      
 
 89
 00:05:35,402 --> 00:05:39,538
 with the built-in smarts to help
-    create the next champion.   
+create the next champion.   
 
 90
 00:05:51,752 --> 00:05:53,752
-   narrator: gliding involves   
-   flying unpowered aircraft,   
+narrator: gliding involves flying unpowered aircraft,   
 
 91
 00:05:53,754 --> 00:05:55,420
-  though some models are fitted 
-       with a small engine      
+though some models are fitted with a small engine      
 
 92
 00:05:55,422 --> 00:05:56,821
-          and propeller         
+and propeller         
 
 93
 00:05:56,823 --> 00:06:00,091
 so they have the power to launch
-   into the air on their own.   
+into the air on their own.   
 
 94
 00:06:00,093 --> 00:06:01,592
-    no matter what the model,   
+no matter what the model,   
 
 95
 00:06:01,594 --> 00:06:04,029
-      the sport of gliding      
-      is all about the joy      
+the sport of gliding is all about the joy      
 
 96
 00:06:04,031 --> 00:06:07,031
-       of using the forces      
+of using the forces      
 of the atmosphere to fly higher,
 
 97
 00:06:07,033 --> 00:06:09,368
-       faster, and longer.      
+faster, and longer.      
 
 98
 00:06:13,573 --> 00:06:16,241
-            gliders,            
-    like this model version,    
+gliders, like this model version,    
 
 99
 00:06:16,243 --> 00:06:20,178
-    have three main parts --    
-   wings, fuselage, and tail.   
+have three main parts -- wings, fuselage, and tail.   
 
 100
 00:06:20,180 --> 00:06:23,314
-     workers build each part    
-  of the glider in two pieces,  
+workers build each part of the glider in two pieces,  
 
 101
 00:06:23,316 --> 00:06:26,184
-  using resin and steel molds.  
+using resin and steel molds.  
 
 102
 00:06:26,186 --> 00:06:28,587
-           they begin           
-     with the fuselage mold.    
+they begin with the fuselage mold.    
 
 103
 00:06:28,589 --> 00:06:30,455
- they lay down strips of kevlar,
+they lay down strips of kevlar,
 
 104
 00:06:30,457 --> 00:06:32,858
-            a strong,           
-    heat-resistant material.    
+a strong, heat-resistant material.    
 
 105
 00:06:32,860 --> 00:06:35,927
-   then they apply epoxy resin  
-       to the kevlar fiber      
+then they apply epoxy resin to the kevlar fiber      
 
 106
 00:06:35,929 --> 00:06:37,562
-        to reinforce it.        
+to reinforce it.        
 
 107
 00:06:40,734 --> 00:06:42,267
-   they leave the epoxy to dry  
+they leave the epoxy to dry  
 
 108
 00:06:42,269 --> 00:06:45,069
-     and the next day apply     
-     strips of carbon fiber     
+and the next day apply strips of carbon fiber     
 
 109
 00:06:45,071 --> 00:06:47,672
-   to reinforce the fuselage.   
+to reinforce the fuselage.   
 
 110
 00:06:47,674 --> 00:06:50,408
- the direction in which workers 
-    lay down the fiber layers   
+the direction in which workers lay down the fiber layers   
 
 111
 00:06:50,410 --> 00:06:51,609
-             is key.            
+is key.            
 
 112
 00:06:51,611 --> 00:06:54,279
- in flight, gliders are subject 
-        to strong forces        
+in flight, gliders are subject to strong forces        
 
 113
 00:06:54,281 --> 00:06:56,881
-          that can bend         
-    and twist the structure.    
+that can bend and twist the structure.    
 
 114
 00:06:56,883 --> 00:06:59,384
-       they must be sturdy      
-    yet as light as possible.   
+they must be sturdy yet as light as possible.   
 
 115
 00:07:02,989 --> 00:07:06,024
-     the glider's tail boom     
-    gets the same treatment,    
+the glider's tail boom gets the same treatment,    
 
 116
 00:07:06,026 --> 00:07:08,360
-    except where the antenna    
-            will go,            
+except where the antenna will go,            
 
 117
 00:07:08,362 --> 00:07:11,963
 as radio signals don't penetrate
-   the carbon fiber very well.  
+the carbon fiber very well.  
 
 118
 00:07:11,965 --> 00:07:16,100
-    workers apply a thin coat   
-       of white gel paint       
+workers apply a thin coat of white gel paint       
 
 119
 00:07:16,102 --> 00:07:18,503
-    to the 30-foot wing mold.   
+to the 30-foot wing mold.   
 
 120
 00:07:18,505 --> 00:07:20,172
-    gliders are always white    
+gliders are always white    
 
 121
 00:07:20,174 --> 00:07:23,842
-      so they don't absorb      
-  the sun's rays and overheat.  
+so they don't absorb the sun's rays and overheat.  
 
 122
 00:07:23,844 --> 00:07:27,979
-  they roll a sheet of carbon   
-  fiber over the painted mold.  
+they roll a sheet of carbon fiber over the painted mold.  
 
 123
 00:07:27,981 --> 00:07:31,516
-  then the entire assembly team 
+then the entire assembly team 
 
 124
 00:07:31,518 --> 00:07:33,718
-       skillfully applies       
-     an even coat of resin.     
+skillfully applies an even coat of resin.     
 
 125
 00:07:33,720 --> 00:07:34,852
-    they've got to be quick.    
+they've got to be quick.    
 
 126
 00:07:34,854 --> 00:07:37,823
-         the resin cures        
-       in just 30 minutes.      
+the resin cures in just 30 minutes.      
 
 127
 00:07:41,862 --> 00:07:44,195
-     they add a final layer     
-         of carbon fiber        
+they add a final layer of carbon fiber        
 
 128
 00:07:44,197 --> 00:07:46,464
-          to strengthen         
-      a portion of the wing     
+to strengthen a portion of the wing     
 
 129
 00:07:46,466 --> 00:07:48,166
-         that's subject         
-    to strong wind currents.    
+that's subject to strong wind currents.    
 
 130
 00:07:50,938 --> 00:07:54,606
-   after laying a white fleece  
+after laying a white fleece  
 over the layers of carbon fiber,
 
 131
 00:07:54,608 --> 00:07:57,409
-          they seal it          
- between two sheets of plastic. 
+they seal it between two sheets of plastic. 
 
 132
 00:07:57,411 --> 00:07:59,477
- a vacuum compresses the layers,
+a vacuum compresses the layers,
 
 133
 00:07:59,479 --> 00:08:01,880
-           which draws          
-   excess resin to the surface  
+which draws excess resin to the surface  
 
 134
 00:08:01,882 --> 00:08:05,016
-  where workers can remove it.  
+where workers can remove it.  
 
 135
 00:08:05,018 --> 00:08:08,019
-       the two wing parts       
-       are glued together       
+the two wing parts are glued together       
 
 136
 00:08:08,021 --> 00:08:09,820
-   using the same epoxy resin   
+using the same epoxy resin   
 
 137
 00:08:09,822 --> 00:08:12,224
-      that bonds and seals      
-       the carbon fibers.       
+that bonds and seals the carbon fibers.       
 
 138
 00:08:12,226 --> 00:08:15,961
-  mixing in some cotton flakes  
-    helps thicken the resin,    
+mixing in some cotton flakes helps thicken the resin,    
 
 139
 00:08:15,963 --> 00:08:20,031
-  which they apply to the main  
-   spar, the wing's backbone,   
+which they apply to the main spar, the wing's backbone,   
 
 140
 00:08:20,033 --> 00:08:24,035
-    then to the front, back,    
-      and center portions.      
+then to the front, back, and center portions.      
 
 141
 00:08:34,647 --> 00:08:39,518
@@ -669,491 +579,424 @@ fit the two wing molds together.
 
 142
 00:08:44,525 --> 00:08:48,926
-  the molds' weight forces out  
-        any excess glue.        
+the molds' weight forces out any excess glue.        
 
 143
 00:08:48,928 --> 00:08:51,862
-       they tightly clamp       
-     the two molds together     
+they tightly clamp the two molds together     
 
 144
 00:08:51,864 --> 00:08:54,332
-         and leave them         
-       to harden overnight      
+and leave them to harden overnight      
 
 145
 00:08:54,334 --> 00:08:57,335
-        in an oven heated       
-   to 140 degrees fahrenheit.   
+in an oven heated to 140 degrees fahrenheit.   
 
 146
 00:08:57,337 --> 00:09:00,405
-          the next day,         
-       there's a loud pop       
+the next day, there's a loud pop       
 
 147
 00:09:00,407 --> 00:09:03,942
-      when workers separate     
-         the two molds.         
+when workers separate the two molds.         
 
 148
 00:09:06,946 --> 00:09:09,080
-    they carry the completed    
-         wing structure,        
+they carry the completed wing structure,        
 
 149
 00:09:09,082 --> 00:09:11,416
-  which weighs only 132 pounds, 
+which weighs only 132 pounds, 
 
 150
 00:09:11,418 --> 00:09:14,552
-      over to another area      
-   to trim the resin overflow   
+over to another area to trim the resin overflow   
 
 151
 00:09:14,554 --> 00:09:16,922
-    and sand down the seams.    
+and sand down the seams.    
 
 152
 00:09:20,227 --> 00:09:22,093
-   using a diamond-tip cutter,  
+using a diamond-tip cutter,  
 
 153
 00:09:22,095 --> 00:09:24,963
-    they cut the wing in two    
-         for transport,         
+they cut the wing in two for transport,         
 
 154
 00:09:24,965 --> 00:09:27,165
- revealing its inner structure. 
+revealing its inner structure. 
 
 155
 00:09:27,167 --> 00:09:30,368
-  then they make sure they can  
-  easily put it back together   
+then they make sure they can easily put it back together   
 
 156
 00:09:30,370 --> 00:09:34,506
-  before going on to the paint  
- shop where they reassemble it. 
+before going on to the paint shop where they reassemble it. 
 
 157
 00:09:34,508 --> 00:09:36,574
-    workers scan the surface    
+workers scan the surface    
 
 158
 00:09:36,576 --> 00:09:39,477
-       and mark the areas       
-     they will sand by hand.    
+and mark the areas they will sand by hand.    
 
 159
 00:09:42,449 --> 00:09:45,717
 they mount the glider's fuselage
-       on a rotating stand      
+on a rotating stand      
 
 160
 00:09:45,719 --> 00:09:48,653
-    so they can easily access   
-       the entire surface.      
+so they can easily access the entire surface.      
 
 161
 00:09:48,655 --> 00:09:52,123
- they sand it and then polish it
-       to a mirror finish.      
+they sand it and then polish it
+to a mirror finish.      
 
 162
 00:09:52,125 --> 00:09:56,328
- as workers assemble the glider,
-   they inspect every system.   
+as workers assemble the glider,
+they inspect every system.   
 
 163
 00:09:56,330 --> 00:09:57,862
-  they check the engine command 
+they check the engine command 
 
 164
 00:09:57,864 --> 00:09:59,930
-    that lowers the glider's    
-        launch propeller        
+that lowers the glider's launch propeller        
 
 165
 00:09:59,932 --> 00:10:04,069
-         and retracts it        
-       into the fuselage.       
+and retracts it into the fuselage.       
 
 166
 00:10:04,071 --> 00:10:07,271
-   the landing gear must lower  
-      and retract smoothly      
+the landing gear must lower and retract smoothly      
 
 167
 00:10:07,273 --> 00:10:10,875
-       out of the glider's      
-         undercarriage.         
+out of the glider's undercarriage.         
 
 168
 00:10:10,877 --> 00:10:13,979
- now they reassemble the wings. 
+now they reassemble the wings. 
 
 169
 00:10:20,553 --> 00:10:25,289
-    they check the air brake    
-      located in the wing.      
+they check the air brake located in the wing.      
 
 170
 00:10:25,291 --> 00:10:29,160
-          and, finally,         
-    they install the canopy.    
+and, finally, they install the canopy.    
 
 171
 00:10:29,162 --> 00:10:31,629
-     the glider is complete.    
+the glider is complete.    
 
 172
 00:10:31,631 --> 00:10:34,432
-       sturdy yet light,        
-       this midsize model       
+sturdy yet light, this midsize model       
 
 173
 00:10:34,434 --> 00:10:37,702
-        can reach speeds        
-  of nearly 186 miles per hour  
+can reach speeds of nearly 186 miles per hour  
 
 174
 00:10:37,704 --> 00:10:41,139
-   thanks to its sleek design.  
+thanks to its sleek design.  
 
 175
 00:10:49,916 --> 00:10:52,050
 narrator: hand bells can be seen
-        in church choirs,       
+in church choirs,       
 
 176
 00:10:52,052 --> 00:10:53,851
-   schools, and ring concerts.  
+schools, and ring concerts.  
 
 177
 00:10:53,853 --> 00:10:57,655
-   there, skilled ringers read  
- music similar to a piano score,
+there, skilled ringers read music similar to a piano score,
 
 178
 00:10:57,657 --> 00:11:01,392
-   playing all the notes found  
-  on a modern musical keyboard. 
+playing all the notes found on a modern musical keyboard. 
 
 179
 00:11:01,394 --> 00:11:03,061
-    finely crafted and tuned,   
+finely crafted and tuned,   
 
 180
 00:11:03,063 --> 00:11:07,665
-   hand bells will continue to  
- entertain generations to come. 
+hand bells will continue to entertain generations to come. 
 
 181
 00:11:07,667 --> 00:11:11,002
-        [ bells ringing ]       
+[ bells ringing ]       
 
 182
 00:11:11,004 --> 00:11:14,539
 hand bells have a long tradition
-   of making beautiful music,   
+of making beautiful music,   
 
 183
 00:11:14,541 --> 00:11:18,743
-        from church hymns       
-   to the music of beethoven.   
+from church hymns to the music of beethoven.   
 
 184
 00:11:18,745 --> 00:11:21,412
-          it all starts         
-       with a casting mold      
+it all starts with a casting mold      
 
 185
 00:11:21,414 --> 00:11:25,683
-    that a worker encloses in   
- a two-part container, or flask.
+that a worker encloses in a two-part container, or flask.
 
 186
 00:11:25,685 --> 00:11:29,487
- he fills the bottom half of the
- flask with special, coarse sand
+he fills the bottom half of the
+flask with special, coarse sand
 
 187
 00:11:29,489 --> 00:11:32,757
-          that's ideal          
-     for making sand molds.     
+that's ideal for making sand molds.     
 
 188
 00:11:32,759 --> 00:11:35,626
-      he compacts the sand,     
+he compacts the sand,     
 
 189
 00:11:35,628 --> 00:11:39,030
-        and then he turns       
-      the metal flask over.     
+and then he turns the metal flask over.     
 
 190
 00:11:39,032 --> 00:11:42,233
-      he places guide rods      
-      onto the bell shapes      
+he places guide rods onto the bell shapes      
 
 191
 00:11:42,235 --> 00:11:45,170
-     and fills the top part     
-     of the flask with sand.    
+and fills the top part of the flask with sand.    
 
 192
 00:11:50,110 --> 00:11:52,644
-     he puts a ramming board    
-            on again,           
+he puts a ramming board on again,           
 
 193
 00:11:52,646 --> 00:11:56,715
-  and he compacts the sand that 
+and he compacts the sand that 
 fills the top part of the flask.
 
 194
 00:12:01,788 --> 00:12:04,388
- now he removes the guide rods. 
+now he removes the guide rods. 
 
 195
 00:12:04,390 --> 00:12:08,193
-         then he removes        
-    the top half of the flask   
+then he removes the top half of the flask   
 
 196
 00:12:08,195 --> 00:12:12,263
- and takes out the casting mold.
+and takes out the casting mold.
 
 197
 00:12:12,265 --> 00:12:14,532
-          he reconnects         
-      the top of the flask      
+he reconnects the top of the flask      
 
 198
 00:12:14,534 --> 00:12:17,535
-  and then frees it completely  
-       from the sand mold.      
+and then frees it completely from the sand mold.      
 
 199
 00:12:20,807 --> 00:12:24,342
-  a worker places bronze ingots 
-         into a crucible        
+a worker places bronze ingots into a crucible        
 
 200
 00:12:24,344 --> 00:12:26,210
-       to melt them down.       
+to melt them down.       
 
 201
 00:12:26,212 --> 00:12:30,080
-    he places heat-sensitive    
-  material onto the sand mold,  
+he places heat-sensitive material onto the sand mold,  
 
 202
 00:12:30,082 --> 00:12:34,185
- and then heavy weights to hold 
-    the mold together safely.   
+and then heavy weights to hold the mold together safely.   
 
 203
 00:12:37,090 --> 00:12:40,958
- when the melted bronze reaches 
- about 2,200 degrees fahrenheit,
+when the melted bronze reaches about 2,200 degrees fahrenheit,
 
 204
 00:12:40,960 --> 00:12:44,295
-  a worker guides the crucible  
-      over to the sand mold     
+a worker guides the crucible over to the sand mold     
 
 205
 00:12:44,297 --> 00:12:46,898
-   and pours the molten metal   
-  into the cavity of the mold.  
+and pours the molten metal into the cavity of the mold.  
 
 206
 00:12:51,437 --> 00:12:52,704
-        he stops pouring        
+he stops pouring        
 
 207
 00:12:52,706 --> 00:12:55,706
- when he sees the heat-sensitive
-        material smoking.       
+when he sees the heat-sensitive
+material smoking.       
 
 208
 00:12:55,708 --> 00:12:58,510
-         this indicates         
-   the mold cavity is filled.   
+this indicates the mold cavity is filled.   
 
 209
 00:13:01,114 --> 00:13:03,915
 workers then use a vibrating bed
-        and small hammers       
+and small hammers       
 
 210
 00:13:03,917 --> 00:13:06,818
-  to free the finished castings 
-       from the sand mold.      
+to free the finished castings from the sand mold.      
 
 211
 00:13:10,524 --> 00:13:13,792
-          rotoblasting          
-   cleans the dirty castings.   
+rotoblasting cleans the dirty castings.   
 
 212
 00:13:15,795 --> 00:13:18,196
-       a worker trims off       
-       the excess pieces        
+a worker trims off the excess pieces        
 
 213
 00:13:18,198 --> 00:13:21,633
-   that feed the molten metal   
-      into the bell cavity.     
+that feed the molten metal into the bell cavity.     
 
 214
 00:13:25,739 --> 00:13:28,806
-    he sands the sharp edges    
-           of the bell          
+he sands the sharp edges of the bell          
 
 215
 00:13:28,808 --> 00:13:33,477
- and then drills the center hole
-     for the assembly screw.    
+and then drills the center hole
+for the assembly screw.    
 
 216
 00:13:33,479 --> 00:13:37,548
-        the bell casting        
-      then goes on a lathe.     
+the bell casting then goes on a lathe.     
 
 217
 00:13:37,550 --> 00:13:39,150
-  here, a carbide cutting tool, 
+here, a carbide cutting tool, 
 
 218
 00:13:39,152 --> 00:13:42,686
-   working with a stylus that   
- follows a template of the bell,
+working with a stylus that follows a template of the bell,
 
 219
 00:13:42,688 --> 00:13:44,622
-       removes the coarse       
-         casting surface        
+removes the coarse casting surface        
 
 220
 00:13:44,624 --> 00:13:46,024
-    and makes the bell shiny.   
+and makes the bell shiny.   
 
 221
 00:13:48,228 --> 00:13:50,628
-     this turning operation     
-      also shapes the bell      
+this turning operation also shapes the bell      
 
 222
 00:13:50,630 --> 00:13:52,096
-   to give it the right tone.   
+to give it the right tone.   
 
 223
 00:13:58,905 --> 00:14:00,571
-  another carbide cutting tool  
+another carbide cutting tool  
 
 224
 00:14:00,573 --> 00:14:02,907
-        shapes the inside       
-      of the bell casting,      
+shapes the inside of the bell casting,      
 
 225
 00:14:02,909 --> 00:14:05,910
-         giving it shine        
+giving it shine        
 and the desired tuning, as well.
 
 226
 00:14:11,918 --> 00:14:14,519
-       using a custom-made      
-         tracing device,        
+using a custom-made tracing device,        
 
 227
 00:14:14,521 --> 00:14:18,389
- a worker reproduces the outside
-   shape of the bell on paper.  
+a worker reproduces the outside
+shape of the bell on paper.  
 
 228
 00:14:22,528 --> 00:14:25,663
-    he then traces the inside   
-       of the bell casting      
+he then traces the inside of the bell casting      
 
 229
 00:14:25,665 --> 00:14:28,199
-       until he completes       
-        an exact replica        
+until he completes an exact replica        
 
 230
 00:14:28,201 --> 00:14:30,935
-          of the inside         
-     and the outside shape.     
+of the inside and the outside shape.     
 
 231
 00:14:30,937 --> 00:14:33,338
-       and this must match      
-       a master template.       
+and this must match a master template.       
 
 232
 00:14:36,609 --> 00:14:39,877
-   a worker polishes the bell   
-      using fine sandpaper.     
+a worker polishes the bell using fine sandpaper.     
 
 233
 00:14:39,879 --> 00:14:44,348
- he also puts a jeweler's finish
-         on the inside.         
+he also puts a jeweler's finish
+on the inside.         
 
 234
 00:14:44,350 --> 00:14:46,217
-          then he tests         
-    the bell's sound quality    
+then he tests the bell's sound quality    
 
 235
 00:14:46,219 --> 00:14:49,420
-   using a stroboscopic tuner   
-       and the human ear.       
+using a stroboscopic tuner and the human ear.       
 
 236
 00:14:49,422 --> 00:14:54,025
-  he re-sands the bell to make  
-   a slight tonal adjustment.   
+he re-sands the bell to make a slight tonal adjustment.   
 
 237
 00:14:54,027 --> 00:14:55,893
-     then he tests it again     
+then he tests it again     
 
 238
 00:14:55,895 --> 00:14:59,764
-     to make sure it strikes    
-    the perfect musical note.   
+to make sure it strikes the perfect musical note.   
 
 239
 00:14:59,766 --> 00:15:03,100
-     a worker gives the bell    
-       that final polish,       
+a worker gives the bell that final polish,       
 
 240
 00:15:03,102 --> 00:15:06,571
- and another craftsman engraves 
-   the bell for the customer.   
+and another craftsman engraves the bell for the customer.   
 
 241
 00:15:08,374 --> 00:15:12,243
-     finally, a worker puts     
-  the ringer and bell together. 
+finally, a worker puts the ringer and bell together. 
 
 242
 00:15:12,245 --> 00:15:15,713
-       she puts a washer,       
-    a hand disc, and a handle   
+she puts a washer, a hand disc, and a handle   
 
 243
 00:15:15,715 --> 00:15:19,650
-     onto the assembly screw    
-  and screws it all into place. 
+onto the assembly screw and screws it all into place. 
 
 244
 00:15:19,652 --> 00:15:25,189
@@ -1163,121 +1006,101 @@ in the hands of skilled ringers,
 245
 00:15:25,191 --> 00:15:27,591
 whether the musical compositions
-          are performed         
+are performed         
 
 246
 00:15:27,593 --> 00:15:29,527
-    by an intimate gathering    
-           of friends           
+by an intimate gathering of friends           
 
 247
 00:15:29,529 --> 00:15:33,464
-   or by a concert bell choir   
-     of 13 ringers or more.     
+or by a concert bell choir of 13 ringers or more.     
 
 248
 00:15:33,466 --> 00:15:37,668
-  the music made by traditional 
-     hand bells is timeless.    
+the music made by traditional hand bells is timeless.    
 
 249
 00:15:37,670 --> 00:15:39,404
-          [ beethoven's         
-      "ode to joy" plays ]      
+[ beethoven's "ode to joy" plays ]      
 
 250
 00:15:48,014 --> 00:15:49,213
-            narrator:           
-  firefighting used to consist  
+narrator: firefighting used to consist  
 
 251
 00:15:49,215 --> 00:15:51,015
-    of passing water buckets    
-          hand to hand.         
+of passing water buckets hand to hand.         
 
 252
 00:15:51,017 --> 00:15:54,152
-     the first fire hoses of    
- the 1600s were made of leather.
+the first fire hoses of the 1600s were made of leather.
 
 253
 00:15:54,154 --> 00:15:57,088
-   but these hoses were heavy,  
-      would crack when dry,     
+but these hoses were heavy, would crack when dry,     
 
 254
 00:15:57,090 --> 00:15:59,356
-      and often break open      
-         under pressure.        
+and often break open under pressure.        
 
 255
 00:15:59,358 --> 00:16:00,824
-    modern firefighting began   
+modern firefighting began   
 
 256
 00:16:00,826 --> 00:16:03,294
-      with the lightweight,     
-        cotton fire hose,       
+with the lightweight, cotton fire hose,       
 
 257
 00:16:03,296 --> 00:16:06,331
-    lined with rubber to keep   
-  the cotton dry and flexible.  
+lined with rubber to keep the cotton dry and flexible.  
 
 258
 00:16:09,769 --> 00:16:11,702
-           fire hoses           
-    come in a range of sizes    
+fire hoses come in a range of sizes    
 
 259
 00:16:11,704 --> 00:16:13,637
-       to fulfill a range       
-         of functions --        
+to fulfill a range of functions --        
 
 260
 00:16:13,639 --> 00:16:17,241
-  from small, lightweight ones  
-    for fighting forest fires   
+from small, lightweight ones for fighting forest fires   
 
 261
 00:16:17,243 --> 00:16:20,645
-   to large, heavy-duty hoses   
-      for industrial fires.     
+to large, heavy-duty hoses for industrial fires.     
 
 262
 00:16:20,647 --> 00:16:24,581
- production begins with hundreds
-  of bobbins of polyester yarn, 
+production begins with hundreds
+of bobbins of polyester yarn, 
 
 263
 00:16:24,583 --> 00:16:27,051
-     feeding automated looms    
-         a floor above.         
+feeding automated looms a floor above.         
 
 264
 00:16:27,053 --> 00:16:31,856
-  a series of spring rods keeps 
+a series of spring rods keeps 
 the yarns under uniform tension.
 
 265
 00:16:31,858 --> 00:16:34,992
-        this is essential       
-    to create a tight weave.    
+this is essential to create a tight weave.    
 
 266
 00:16:34,994 --> 00:16:38,262
- the factory programs each loom 
-   to weave specific patterns,  
+the factory programs each loom to weave specific patterns,  
 
 267
 00:16:38,264 --> 00:16:40,865
-        which incorporate       
-       identifier stripes.      
+which incorporate identifier stripes.      
 
 268
 00:16:40,867 --> 00:16:43,634
-     this is a visual guide     
-         to help workers        
+this is a visual guide to help workers        
 
 269
 00:16:43,636 --> 00:16:45,803
@@ -1285,351 +1108,305 @@ assemble the fire hose later on.
 
 270
 00:16:46,472 --> 00:16:50,141
-   this woven fabric will form  
-    the fire hose's exterior    
+this woven fabric will form the fire hose's exterior    
 
 271
 00:16:50,143 --> 00:16:51,476
-       called the jacket.       
+called the jacket.       
 
 272
 00:16:51,478 --> 00:16:54,212
-       it's got to weather      
-     some nasty conditions,     
+it's got to weather some nasty conditions,     
 
 273
 00:16:54,214 --> 00:16:56,947
-         so they soak it        
-  in a plastic polymer solution 
+so they soak it in a plastic polymer solution 
 
 274
 00:16:56,949 --> 00:16:58,416
-       with dye for color.      
+with dye for color.      
 
 275
 00:16:58,418 --> 00:17:00,885
-           the liquid           
-    encapsulates the fibers,    
+the liquid encapsulates the fibers,    
 
 276
 00:17:00,887 --> 00:17:04,288
-      making them durable       
-      and water-resistant.      
+making them durable and water-resistant.      
 
 277
 00:17:04,290 --> 00:17:08,159
-  at another station, they mix  
-    granules of polyurethane,   
+at another station, they mix granules of polyurethane,   
 
 278
 00:17:08,161 --> 00:17:12,896
- a form of plastic, with white  
- colorant and adhesive pellets. 
+a form of plastic, with white colorant and adhesive pellets. 
 
 279
 00:17:12,898 --> 00:17:15,833
-   this mixture is for making   
-      the waterproof tubing     
+this mixture is for making the waterproof tubing     
 
 280
 00:17:15,835 --> 00:17:18,302
-      that forms the inside     
-        of the fire hose.       
+that forms the inside of the fire hose.       
 
 281
 00:17:18,304 --> 00:17:21,772
- when they activate the adhesive
-    in the mixture with heat,   
+when they activate the adhesive
+in the mixture with heat,   
 
 282
 00:17:21,774 --> 00:17:24,709
-      this tubing will bond     
-   to the hose-jacket fabric.   
+this tubing will bond to the hose-jacket fabric.   
 
 283
 00:17:24,711 --> 00:17:27,578
-         the mixer fees         
- the ingredients to an extruder,
+the mixer fees the ingredients to an extruder,
 
 284
 00:17:27,580 --> 00:17:31,115
-     which melts the mixture    
+which melts the mixture    
 and forms it into a hollow tube.
 
 285
 00:17:31,117 --> 00:17:34,518
-  the tube then passes through  
-      a basin of cool water     
+the tube then passes through a basin of cool water     
 
 286
 00:17:34,520 --> 00:17:35,920
-       to set the plastic.      
+to set the plastic.      
 
 287
 00:17:35,922 --> 00:17:38,388
-       next, the tube goes      
-     to the inspection table    
+next, the tube goes to the inspection table    
 
 288
 00:17:38,390 --> 00:17:41,392
-   where an automated printer   
-   prints code numbers on it    
+where an automated printer prints code numbers on it    
 
 289
 00:17:41,394 --> 00:17:45,262
-     for tracking purposes.     
+for tracking purposes.     
 
 290
 00:17:45,264 --> 00:17:46,864
-   to assemble the fire hose,   
+to assemble the fire hose,   
 
 291
 00:17:46,866 --> 00:17:49,200
-      they first pull out       
-      an outer hose jacket      
+they first pull out an outer hose jacket      
 
 292
 00:17:49,202 --> 00:17:52,103
-   over a 33-yard-long cable.   
+over a 33-yard-long cable.   
 
 293
 00:18:01,681 --> 00:18:03,147
-    then with another cable,    
+then with another cable,    
 
 294
 00:18:03,149 --> 00:18:05,749
-       they feed a second       
-      untreated hose jacket     
+they feed a second untreated hose jacket     
 
 295
 00:18:05,751 --> 00:18:08,386
-      inside the first one.     
+inside the first one.     
 
 296
 00:18:18,631 --> 00:18:22,966
- finally, they attach a cable to
- the third and innermost layer, 
+finally, they attach a cable to
+the third and innermost layer, 
 
 297
 00:18:22,968 --> 00:18:25,703
-      the tube, and pull it     
-     along the entire length    
+the tube, and pull it along the entire length    
 
 298
 00:18:25,705 --> 00:18:27,505
-      of the double jacket.     
+of the double jacket.     
 
 299
 00:18:31,711 --> 00:18:35,713
- once it's all the way through, 
-      they trim both ends.      
+once it's all the way through, they trim both ends.      
 
 300
 00:18:38,051 --> 00:18:39,383
-       the three layers --      
+the three layers --      
 
 301
 00:18:39,385 --> 00:18:41,852
-   outer jacket, inner jacket,  
-           and tube --          
+outer jacket, inner jacket, and tube --          
 
 302
 00:18:41,854 --> 00:18:44,655
-  are now ready to become one.  
+are now ready to become one.  
 
 303
 00:18:44,657 --> 00:18:46,390
-  they begin the fusing process 
+they begin the fusing process 
 
 304
 00:18:46,392 --> 00:18:48,859
-       by clamping one end      
-      of the assembled hose     
+by clamping one end of the assembled hose     
 
 305
 00:18:48,861 --> 00:18:52,263
-       to a steam nozzle.       
+to a steam nozzle.       
 
 306
 00:18:52,265 --> 00:18:54,932
-          as the clamp          
-     holds the hose steady,     
+as the clamp holds the hose steady,     
 
 307
 00:18:54,934 --> 00:18:58,336
-        the nozzle blasts       
+the nozzle blasts       
 pressurized steam into the tube.
 
 308
 00:18:58,338 --> 00:19:02,406
-   at the same time, it moves   
+at the same time, it moves   
 backward, pulling out any kinks.
 
 309
 00:19:02,408 --> 00:19:05,476
 the hot steam melts the adhesive
-      in the tube material,     
+in the tube material,     
 
 310
 00:19:05,478 --> 00:19:08,045
-        and it penetrates       
-   the inner jacket around it.  
+and it penetrates the inner jacket around it.  
 
 311
 00:19:11,217 --> 00:19:13,951
-        once everything's       
-       perfectly straight,      
+once everything's perfectly straight,      
 
 312
 00:19:13,953 --> 00:19:17,287
-      they pump in cold air     
-    to solidify the adhesive.   
+they pump in cold air to solidify the adhesive.   
 
 313
 00:19:17,289 --> 00:19:19,991
-     this permanently bonds     
-           the layers.          
+this permanently bonds the layers.          
 
 314
 00:19:25,632 --> 00:19:28,498
- they roll up the finished hose 
-          into a coil,          
+they roll up the finished hose into a coil,          
 
 315
 00:19:28,500 --> 00:19:31,301
-     controlling the winder     
-       with a foot pedal.       
+controlling the winder with a foot pedal.       
 
 316
 00:19:31,303 --> 00:19:33,837
-  then they lay the coiled hose 
-           on a table           
+then they lay the coiled hose on a table           
 
 317
 00:19:33,839 --> 00:19:35,306
-    to install the couplings.   
+to install the couplings.   
 
 318
 00:19:35,308 --> 00:19:37,708
-    those are the components    
-      that attach the hose      
+those are the components that attach the hose      
 
 319
 00:19:37,710 --> 00:19:39,510
- to the water supply on one end 
+to the water supply on one end 
 
 320
 00:19:39,512 --> 00:19:41,579
-     and to the spray nozzle    
-          on the other.         
+and to the spray nozzle on the other.         
 
 321
 00:19:41,581 --> 00:19:45,115
-   they trim each end and then  
-  insert a brass expansion ring 
+they trim each end and then insert a brass expansion ring 
 
 322
 00:19:45,117 --> 00:19:49,520
-  and then an aluminum coupling 
-             on top.            
+and then an aluminum coupling on top.            
 
 323
 00:19:49,522 --> 00:19:52,022
-      an expansion machine      
-         does the rest.         
+an expansion machine does the rest.         
 
 324
 00:19:52,024 --> 00:19:55,726
-  they attack the end securely  
+they attack the end securely  
 to the machine's protruding bar.
 
 325
 00:19:55,728 --> 00:19:58,462
-          then the bar          
-      retracts and expands,     
+then the bar retracts and expands,     
 
 326
 00:19:58,464 --> 00:20:00,731
- pushing the brass ring outward.
+pushing the brass ring outward.
 
 327
 00:20:00,733 --> 00:20:02,533
-   the force wedges the brass   
+the force wedges the brass   
 
 328
 00:20:02,535 --> 00:20:06,337
-   into the aluminum coupling   
-          permanently.          
+into the aluminum coupling permanently.          
 
 329
 00:20:06,339 --> 00:20:10,608
-       this company tests       
-  every fire house it produces  
+this company tests every fire house it produces  
 
 330
 00:20:10,610 --> 00:20:14,078
-       under high pressure      
-         on this table.         
+under high pressure on this table.         
 
 331
 00:20:14,080 --> 00:20:17,214
- after marking the type of hose 
-         with a stencil         
+after marking the type of hose with a stencil         
 
 332
 00:20:17,216 --> 00:20:20,550
-        in indelible ink,       
- they fill the hose with water. 
+in indelible ink, they fill the hose with water. 
 
 333
 00:20:20,552 --> 00:20:22,819
- they check for holes and kinks 
+they check for holes and kinks 
 
 334
 00:20:22,821 --> 00:20:26,157
-         and verify that        
-  the couplings stay in place.  
+and verify that the couplings stay in place.  
 
 335
 00:20:26,159 --> 00:20:29,026
-         after the test,        
-      they drain the water.     
+after the test, they drain the water.     
 
 336
 00:20:29,028 --> 00:20:31,028
-   they insert a giant sponge   
+they insert a giant sponge   
 
 337
 00:20:31,030 --> 00:20:33,697
-     to get rid of any water    
-          left behind.          
+to get rid of any water left behind.          
 
 338
 00:20:33,699 --> 00:20:38,102
-   and now these new hoses are  
+and now these new hoses are  
 ready for their baptism by fire.
 
 339
 00:20:38,104 --> 00:20:41,038
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 340
 00:20:41,040 --> 00:20:44,041
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 341
 00:20:46,846 --> 00:20:49,346
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 342
 00:20:49,348 --> 00:20:52,516
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 343
 00:20:52,518 --> 00:20:57,788
-      drop us a line at...      
+drop us a line at...      
 

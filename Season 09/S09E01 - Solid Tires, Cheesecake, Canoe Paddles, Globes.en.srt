@@ -2740,13 +2740,11 @@ make the world a better place.
 
 462
 00:21:08,868 --> 00:21:11,803
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 463
 00:21:11,805 --> 00:21:14,839
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 464
 00:21:23,081 --> 00:21:24,282

@@ -1,22 +1,18 @@
 ﻿1
 00:00:02,069 --> 00:00:05,071
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,073 --> 00:00:08,107
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,719 --> 00:00:54,720
-       narrator: in 1931,       
-  airstream founder wally byam  
+narrator: in 1931, airstream founder wally byam  
 
 4
 00:00:54,722 --> 00:00:57,657
-  sold plans to build your own  
-         travel trailer.        
+sold plans to build your own travel trailer.        
 
 5
 00:00:57,659 --> 00:00:59,725
@@ -24,154 +20,132 @@ in response to a growing demand,
 
 6
 00:00:59,727 --> 00:01:03,062
-    he decided manufacturing    
-    was the better way to go.   
+he decided manufacturing was the better way to go.   
 
 7
 00:01:03,064 --> 00:01:05,797
-       he then introduced       
-     the airstream trailer,     
+he then introduced the airstream trailer,     
 
 8
 00:01:05,799 --> 00:01:07,733
- with its familiar modern design
+with its familiar modern design
 
 9
 00:01:07,735 --> 00:01:10,236
-       that has withstood       
-       the test of time.        
+that has withstood the test of time.        
 
 10
 00:01:14,608 --> 00:01:17,409
-      the airstream trailer     
-     is a recreation vehicle    
+the airstream trailer is a recreation vehicle    
 
 11
 00:01:17,411 --> 00:01:20,012
-        that can take you       
-    to the most remote areas,   
+that can take you to the most remote areas,   
 
 12
 00:01:20,014 --> 00:01:22,648
-         yet still enjoy        
+yet still enjoy        
 a fully functional living space.
 
 13
 00:01:24,685 --> 00:01:27,620
-   they can also be hooked up   
-      to outside services,      
+they can also be hooked up to outside services,      
 
 14
 00:01:27,622 --> 00:01:31,057
-   so you can stay as long as   
+so you can stay as long as   
 you like in the comfort of home.
 
 15
 00:01:34,829 --> 00:01:38,297
-  to start, an operator puts a  
+to start, an operator puts a  
 sheet of aircraft-grade aluminum
 
 16
 00:01:38,299 --> 00:01:40,800
-          into a press          
-  that punches the rivet holes. 
+into a press that punches the rivet holes. 
 
 17
 00:01:43,303 --> 00:01:45,638
-            a worker            
- then rivets the sheets together
+a worker then rivets the sheets together
 
 18
 00:01:45,640 --> 00:01:48,107
-        to make the walls       
-         of the trailer.        
+to make the walls of the trailer.        
 
 19
 00:01:50,044 --> 00:01:52,578
-     here they're assembling    
-         the end shells,        
+here they're assembling the end shells,        
 
 20
 00:01:52,580 --> 00:01:56,349
 the rounded end sections for the
- front and back of the trailer. 
+front and back of the trailer. 
 
 21
 00:02:00,588 --> 00:02:03,856
-       they apply sealant       
-       to all the seams.        
+they apply sealant to all the seams.        
 
 22
 00:02:08,663 --> 00:02:10,796
-           technicians          
-     then rivet the two ends    
+technicians then rivet the two ends    
 
 23
 00:02:10,798 --> 00:02:13,666
-        to the components       
- that make up the trailer shell,
+to the components that make up the trailer shell,
 
 24
 00:02:13,668 --> 00:02:16,235
-      including the floor,      
-    the walls, and the roof.    
+including the floor, the walls, and the roof.    
 
 25
 00:02:20,941 --> 00:02:23,508
-          a worker uses         
-     a router and a template    
+a worker uses a router and a template    
 
 26
 00:02:23,510 --> 00:02:26,278
-   to cut out window openings   
-         from the walls.        
+to cut out window openings from the walls.        
 
 27
 00:02:29,217 --> 00:02:31,884
-       he puts the windows      
-         in the openings        
+he puts the windows in the openings        
 
 28
 00:02:31,886 --> 00:02:33,753
-   and secures them in place.   
+and secures them in place.   
 
 29
 00:02:41,696 --> 00:02:43,763
-         another worker         
- applies a weatherproof sealant 
+another worker applies a weatherproof sealant 
 
 30
 00:02:43,765 --> 00:02:45,831
-   to all the interior seams,   
+to all the interior seams,   
 
 31
 00:02:45,833 --> 00:02:48,968
-      then smoothes it out      
-    to ensure good coverage.    
+then smoothes it out to ensure good coverage.    
 
 32
 00:02:52,840 --> 00:02:56,842
-    using a crane, they lower   
-   the shell onto the chassis.  
+using a crane, they lower the shell onto the chassis.  
 
 33
 00:02:59,046 --> 00:03:03,315
- at this point, they thread some
-  of the wiring into the shell. 
+at this point, they thread some
+of the wiring into the shell. 
 
 34
 00:03:07,254 --> 00:03:09,054
-  next comes the plywood floor, 
+next comes the plywood floor, 
 
 35
 00:03:09,056 --> 00:03:12,024
- which a worker attaches firmly 
-         to the chassis.        
+which a worker attaches firmly to the chassis.        
 
 36
 00:03:14,462 --> 00:03:17,830
-        another associate       
-     puts the door in place.    
+another associate puts the door in place.    
 
 37
 00:03:20,234 --> 00:03:22,801
@@ -179,91 +153,76 @@ he rivets the door to the shell.
 
 38
 00:03:22,803 --> 00:03:25,137
-       he takes extra care      
-     to protect the aluminum    
+he takes extra care to protect the aluminum    
 
 39
 00:03:25,139 --> 00:03:28,841
-       from being damaged       
- by the force of the rivet gun. 
+from being damaged by the force of the rivet gun. 
 
 40
 00:03:30,344 --> 00:03:32,544
-     the trailer then goes      
-     into a rain-test booth     
+the trailer then goes into a rain-test booth     
 
 41
 00:03:32,546 --> 00:03:35,147
-         that simulates         
-    hurricane-strength rain.    
+that simulates hurricane-strength rain.    
 
 42
 00:03:36,150 --> 00:03:39,285
-  the test lasts about an hour, 
+the test lasts about an hour, 
 
 43
 00:03:39,287 --> 00:03:42,054
- during which a technician makes
-  sure the shell is watertight. 
+during which a technician makes
+sure the shell is watertight. 
 
 44
 00:03:49,463 --> 00:03:54,232
- next, they apply a water-based 
-    adhesive to the interior    
+next, they apply a water-based adhesive to the interior    
 
 45
 00:03:54,234 --> 00:03:58,137
-     and install insulation     
-     throughout the shell.      
+and install insulation throughout the shell.      
 
 46
 00:04:01,776 --> 00:04:04,776
-       now they bring in        
-       the interior skin.       
+now they bring in the interior skin.       
 
 47
 00:04:04,778 --> 00:04:08,414
-  it's the same aircraft-grade  
-  aluminum used on the outside. 
+it's the same aircraft-grade aluminum used on the outside. 
 
 48
 00:04:10,718 --> 00:04:13,519
-       they trim the walls      
-     for the window openings    
+they trim the walls for the window openings    
 
 49
 00:04:13,521 --> 00:04:15,921
-          then lay down         
-    the vinyl floor covering.   
+then lay down the vinyl floor covering.   
 
 50
 00:04:17,792 --> 00:04:21,393
-  an installer trims the vinyl  
- and uses the old-fashioned way 
+an installer trims the vinyl and uses the old-fashioned way 
 
 51
 00:04:21,395 --> 00:04:24,063
-         to make it snug        
-        against the shell       
+to make it snug against the shell       
 
 52
 00:04:24,065 --> 00:04:25,864
-             because            
-   a standard carpet stretcher  
+because a standard carpet stretcher  
 
 53
 00:04:25,866 --> 00:04:27,266
- would poke holes in the vinyl. 
+would poke holes in the vinyl. 
 
 54
 00:04:31,472 --> 00:04:34,540
-        a worker installs       
-   the fiberglass shower stall  
+a worker installs the fiberglass shower stall  
 
 55
 00:04:34,542 --> 00:04:37,076
-          and hooks up          
-     the drain and plumbing.    
+and hooks up the drain and plumbing.    
 
 56
 00:04:40,014 --> 00:04:42,414
@@ -271,343 +230,292 @@ he cuts a hole in the fiberglass
 
 57
 00:04:42,416 --> 00:04:46,017
-        then installs all       
-  the shower-control components 
+then installs all the shower-control components 
 
 58
 00:04:46,019 --> 00:04:47,820
-       and the showerhead.      
+and the showerhead.      
 
 59
 00:04:54,495 --> 00:04:57,096
-         he finishes off        
-  this residential-style shower 
+he finishes off this residential-style shower 
 
 60
 00:04:57,098 --> 00:04:59,131
-   with a frosted-glass door.   
+with a frosted-glass door.   
 
 61
 00:05:02,102 --> 00:05:05,304
-        next, they put in       
+next, they put in       
 the convertible couches and beds
 
 62
 00:05:05,306 --> 00:05:08,874
-   and all the other amenities  
- of home, including a gas stove.
+and all the other amenities of home, including a gas stove.
 
 63
 00:05:13,447 --> 00:05:16,715
-      finally, a technician     
- performs quality-control checks
+finally, a technician performs quality-control checks
 
 64
 00:05:16,717 --> 00:05:19,385
-   to make sure the electrical  
-     and mechanical systems     
+to make sure the electrical and mechanical systems     
 
 65
 00:05:19,387 --> 00:05:21,253
-        work flawlessly.        
+work flawlessly.        
 
 66
 00:05:22,656 --> 00:05:24,657
-            only then           
-     is an airstream trailer    
+only then is an airstream trailer    
 
 67
 00:05:24,659 --> 00:05:25,791
-      ready to hit the road     
+ready to hit the road     
 
 68
 00:05:25,793 --> 00:05:28,059
-          and continue          
-   the time-honored tradition   
+and continue the time-honored tradition   
 
 69
 00:05:28,061 --> 00:05:29,461
-   of discovery and adventure   
+of discovery and adventure   
 
 70
 00:05:29,463 --> 00:05:31,796
-         that makes this        
-    iconic recreation vehicle   
+that makes this iconic recreation vehicle   
 
 71
 00:05:31,798 --> 00:05:34,200
-      an american original.     
+an american original.     
 
 72
 00:05:53,820 --> 00:05:56,221
-            narrator:           
- horseradish has a hot history. 
+narrator: horseradish has a hot history. 
 
 73
 00:05:56,223 --> 00:05:58,890
-       the ancient greeks       
-   used it as an aphrodisiac.   
+the ancient greeks used it as an aphrodisiac.   
 
 74
 00:05:58,892 --> 00:06:02,127
-   they also rubbed it on sore  
-  body parts to alleviate pain. 
+they also rubbed it on sore body parts to alleviate pain. 
 
 75
 00:06:02,129 --> 00:06:03,762
-     during the renaissance,    
+during the renaissance,    
 
 76
 00:06:03,764 --> 00:06:06,999
- eating horseradish made its way
- from central europe to england.
+eating horseradish made its way
+from central europe to england.
 
 77
 00:06:07,001 --> 00:06:08,300
-       by the late 1600s,       
+by the late 1600s,       
 
 78
 00:06:08,302 --> 00:06:10,635
-        it was customary        
-        among the british       
+it was customary among the british       
 
 79
 00:06:10,637 --> 00:06:13,138
-       to eat horseradish       
-     with beef and oysters.     
+to eat horseradish with beef and oysters.     
 
 80
 00:06:16,978 --> 00:06:20,111
-       at the root of this      
-    hot condiment is a root.    
+at the root of this hot condiment is a root.    
 
 81
 00:06:20,113 --> 00:06:24,049
-   you peel away an outer skin  
- to access a thick white flesh. 
+you peel away an outer skin to access a thick white flesh. 
 
 82
 00:06:24,051 --> 00:06:27,452
-  chewing or grinding the flesh 
-        releases enzymes,       
+chewing or grinding the flesh releases enzymes,       
 
 83
 00:06:27,454 --> 00:06:29,254
-          which produce         
-      horseradish's heat --     
+which produce horseradish's heat --     
 
 84
 00:06:29,256 --> 00:06:33,325
-  the plant's natural defense   
-  mechanism against predators.  
+the plant's natural defense mechanism against predators.  
 
 85
 00:06:33,327 --> 00:06:36,462
-           horseradish          
-   is a leafy, flowering plant  
+horseradish is a leafy, flowering plant  
 
 86
 00:06:36,464 --> 00:06:39,798
-   with a thick central root,   
-     called the mother root,    
+with a thick central root, called the mother root,    
 
 87
 00:06:39,800 --> 00:06:42,268
-      and smaller offshoots     
-          called sets.          
+and smaller offshoots called sets.          
 
 88
 00:06:42,270 --> 00:06:44,470
- after culling the mother root, 
+after culling the mother root, 
 
 89
 00:06:44,472 --> 00:06:46,471
-   farmers re-plant the sets,   
+farmers re-plant the sets,   
 
 90
 00:06:46,473 --> 00:06:49,475
-    each of which will spawn    
-          a new plant.          
+each of which will spawn a new plant.          
 
 91
 00:06:49,477 --> 00:06:50,943
-        at harvest time,        
+at harvest time,        
 
 92
 00:06:50,945 --> 00:06:54,012
-  the first farm machine chops  
- down the plants to ground level
+the first farm machine chops down the plants to ground level
 
 93
 00:06:54,014 --> 00:06:56,815
-      and rakes the leaves      
-         out of the way.        
+and rakes the leaves out of the way.        
 
 94
 00:06:58,552 --> 00:07:01,654
-  then a horseradish harvester  
-       digs up the roots.       
+then a horseradish harvester digs up the roots.       
 
 95
 00:07:04,892 --> 00:07:08,226
-    as the roots bounce onto    
-      a mesh conveyer belt,     
+as the roots bounce onto a mesh conveyer belt,     
 
 96
 00:07:08,228 --> 00:07:11,397
-   most of the soil breaks off  
- and falls back onto the ground.
+most of the soil breaks off and falls back onto the ground.
 
 97
 00:07:22,042 --> 00:07:24,977
-  you have to keep horseradish  
-      cold to keep it hot.      
+you have to keep horseradish cold to keep it hot.      
 
 98
 00:07:24,979 --> 00:07:27,446
-    so the roots go directly    
-         into a cooler.         
+so the roots go directly into a cooler.         
 
 99
 00:07:27,448 --> 00:07:29,914
-         the temperature        
-     is just above freezing     
+the temperature is just above freezing     
 
 100
 00:07:29,916 --> 00:07:33,385
-    and the humidity high so    
+and the humidity high so    
 the roots retain their moisture.
 
 101
 00:07:33,387 --> 00:07:35,653
-          to grind them         
-      fresh from the field      
+to grind them fresh from the field      
 
 102
 00:07:35,655 --> 00:07:38,390
-    would produce horseradish   
-      with a grassy flavor,     
+would produce horseradish with a grassy flavor,     
 
 103
 00:07:38,392 --> 00:07:41,060
-       so the roots spend       
-  about a month in the cooler.  
+so the roots spend about a month in the cooler.  
 
 104
 00:07:41,062 --> 00:07:43,862
-            only then           
- are they ready for processing. 
+only then are they ready for processing. 
 
 105
 00:07:46,267 --> 00:07:48,066
-   at the horseradish factory,  
+at the horseradish factory,  
 
 106
 00:07:48,068 --> 00:07:51,036
-   a machine washes the roots   
-         in cold water.         
+a machine washes the roots in cold water.         
 
 107
 00:07:56,410 --> 00:07:59,645
-    then a conveyer belt runs   
+then a conveyer belt runs   
 the roots through a final rinse.
 
 108
 00:08:09,022 --> 00:08:12,157
-       workers carefully        
-       inspect the roots.       
+workers carefully inspect the roots.       
 
 109
 00:08:12,159 --> 00:08:15,560
-    they pick out any debris    
-   and discard any dark roots   
+they pick out any debris and discard any dark roots   
 
 110
 00:08:15,562 --> 00:08:18,030
- that would sully the whiteness 
-      of the final product.     
+that would sully the whiteness of the final product.     
 
 111
 00:08:21,569 --> 00:08:26,171
-    next, the roots travel to   
- the automated grinding system. 
+next, the roots travel to the automated grinding system. 
 
 112
 00:08:26,173 --> 00:08:29,508
-        the conveyer belt       
-       has built-in scales      
+the conveyer belt has built-in scales      
 
 113
 00:08:29,510 --> 00:08:32,411
-   that control how much goes   
-   into the grinder at a time.  
+that control how much goes into the grinder at a time.  
 
 114
 00:08:33,847 --> 00:08:36,982
-        the grinder works       
-  like a giant food processor.  
+the grinder works like a giant food processor.  
 
 115
 00:08:36,984 --> 00:08:38,317
-         while grinding,        
+while grinding,        
 
 116
 00:08:38,319 --> 00:08:41,319
-    it automatically feeds in   
-  a specific amount of vinegar. 
+it automatically feeds in a specific amount of vinegar. 
 
 117
 00:08:41,321 --> 00:08:45,524
- this stops the enzyme reaction,
- preventing heat from escaping. 
+this stops the enzyme reaction,
+preventing heat from escaping. 
 
 118
 00:08:46,793 --> 00:08:50,529
- the grinder also automatically 
-   adds water and salt brine.   
+the grinder also automatically adds water and salt brine.   
 
 119
 00:08:50,531 --> 00:08:54,466
- the salt adds flavor and keeps 
- the horseradish from browning. 
+the salt adds flavor and keeps the horseradish from browning. 
 
 120
 00:08:55,536 --> 00:08:58,404
-      next, the horseradish     
-      moves into a blender.     
+next, the horseradish moves into a blender.     
 
 121
 00:08:58,406 --> 00:08:59,871
-    this is where the factory   
+this is where the factory   
 
 122
 00:08:59,873 --> 00:09:02,540
-   adds the extra ingredients   
-     for specialty flavors,     
+adds the extra ingredients for specialty flavors,     
 
 123
 00:09:02,542 --> 00:09:05,844
-       such as fresh cream      
-  for cream-style horseradish.  
+such as fresh cream for cream-style horseradish.  
 
 124
 00:09:07,815 --> 00:09:09,815
-        a pumping system        
+a pumping system        
 
 125
 00:09:09,817 --> 00:09:12,617
-  transfers it from the blender 
-       to a holding tank.       
+transfers it from the blender to a holding tank.       
 
 126
 00:09:12,619 --> 00:09:16,354
-        inside the tank,        
- mixing blades continuously turn
+inside the tank, mixing blades continuously turn
 
 127
 00:09:16,356 --> 00:09:18,157
-   to prevent the ingredients   
-        from separating.        
+to prevent the ingredients from separating.        
 
 128
 00:09:18,159 --> 00:09:20,024
@@ -615,522 +523,454 @@ en route to the filling station,
 
 129
 00:09:20,026 --> 00:09:22,494
-           the inside           
- of every single glass container
+the inside of every single glass container
 
 130
 00:09:22,496 --> 00:09:26,165
-       gets a blast of air      
-     to blow out any debris.    
+gets a blast of air to blow out any debris.    
 
 131
 00:09:32,906 --> 00:09:35,974
-       the filling process      
-     is entirely automated.     
+the filling process is entirely automated.     
 
 132
 00:09:35,976 --> 00:09:39,111
-           the machine          
-      grabs each container,     
+the machine grabs each container,     
 
 133
 00:09:39,113 --> 00:09:40,579
-    aligns it under a nozzle,   
+aligns it under a nozzle,   
 
 134
 00:09:40,581 --> 00:09:42,881
-  then squirts the horseradish  
-             inside.            
+then squirts the horseradish inside.            
 
 135
 00:09:49,789 --> 00:09:52,391
-      the filled containers     
-       move on a conveyer       
+the filled containers move on a conveyer       
 
 136
 00:09:52,393 --> 00:09:54,827
-     to the capping machine.    
+to the capping machine.    
 
 137
 00:09:56,397 --> 00:09:59,398
- there a spinning head descends,
+there a spinning head descends,
 
 138
 00:09:59,400 --> 00:10:02,334
-     screwing a plastic cap     
-        to the container.       
+screwing a plastic cap to the container.       
 
 139
 00:10:09,476 --> 00:10:12,110
-      next, the containers      
-      move to the labeler.      
+next, the containers move to the labeler.      
 
 140
 00:10:12,112 --> 00:10:14,680
-         it applies glue        
-   to the back of the labels,   
+it applies glue to the back of the labels,   
 
 141
 00:10:14,682 --> 00:10:16,881
-        then slaps one on       
-       to every container.      
+then slaps one on to every container.      
 
 142
 00:10:16,883 --> 00:10:20,686
-   from there, the containers   
-     go off to cold storage     
+from there, the containers go off to cold storage     
 
 143
 00:10:20,688 --> 00:10:22,354
-     until shipping time --     
+until shipping time --     
 
 144
 00:10:22,356 --> 00:10:26,424
 shipping via refrigerated truck,
-           of course.           
+of course.           
 
 145
 00:10:26,426 --> 00:10:29,428
-    prepared horseradish has    
-    a seven-month shelf life,   
+prepared horseradish has a seven-month shelf life,   
 
 146
 00:10:29,430 --> 00:10:31,363
- thanks to the vinegar and salt,
+thanks to the vinegar and salt,
 
 147
 00:10:31,365 --> 00:10:33,632
-            which act           
-    as natural preservatives.   
+which act as natural preservatives.   
 
 148
 00:10:33,634 --> 00:10:35,166
-   those critical ingredients   
+those critical ingredients   
 
 149
 00:10:35,168 --> 00:10:37,502
-       maintain the color,      
-        flavor, and heat        
+maintain the color, flavor, and heat        
 
 150
 00:10:37,504 --> 00:10:39,738
-   until you're ready to eat.   
+until you're ready to eat.   
 
 151
 00:10:57,257 --> 00:10:59,324
-            narrator:           
-    industrial steam boilers    
+narrator: industrial steam boilers    
 
 152
 00:10:59,326 --> 00:11:00,859
-   heat water to produce steam  
+heat water to produce steam  
 
 153
 00:11:00,861 --> 00:11:04,196
-      to do such things as      
- sterilize surgical instruments,
+to do such things as sterilize surgical instruments,
 
 154
 00:11:04,198 --> 00:11:07,099
-           cook food,           
- and heat or humidify buildings.
+cook food, and heat or humidify buildings.
 
 155
 00:11:07,101 --> 00:11:09,467
-       they are even used       
-       for dry cleaning.        
+they are even used for dry cleaning.        
 
 156
 00:11:09,469 --> 00:11:12,137
-        the water inside        
-   an industrial steam boiler   
+the water inside an industrial steam boiler   
 
 157
 00:11:12,139 --> 00:11:15,040
-    is heated by natural gas,   
-      oil, or electricity.      
+is heated by natural gas, oil, or electricity.      
 
 158
 00:11:19,680 --> 00:11:21,146
-    industrial steam boilers    
+industrial steam boilers    
 
 159
 00:11:21,148 --> 00:11:23,615
-        are usually found       
-     deep inside buildings,     
+are usually found deep inside buildings,     
 
 160
 00:11:23,617 --> 00:11:26,285
-   where they inconspicuously   
- create valuable steam and heat.
+where they inconspicuously create valuable steam and heat.
 
 161
 00:11:30,557 --> 00:11:32,758
-  it starts with a plasma torch 
+it starts with a plasma torch 
 
 162
 00:11:32,760 --> 00:11:35,894
-         that cuts holes        
-   in a solid sheet of steel.   
+that cuts holes in a solid sheet of steel.   
 
 163
 00:11:35,896 --> 00:11:38,296
- the thickness of the steel used
+the thickness of the steel used
 
 164
 00:11:38,298 --> 00:11:40,832
-    depends on the operating    
-    pressure of the boiler.     
+depends on the operating pressure of the boiler.     
 
 165
 00:11:48,375 --> 00:11:50,975
-              using             
-  a hydraulic bending machine,  
+using a hydraulic bending machine,  
 
 166
 00:11:50,977 --> 00:11:52,711
-    a worker shapes the metal   
+a worker shapes the metal   
 
 167
 00:11:52,713 --> 00:11:56,515
-      into what will become     
- the inner shell of the boiler. 
+into what will become the inner shell of the boiler. 
 
 168
 00:11:56,517 --> 00:11:57,915
-        this inner shell        
-     will contain the water     
+this inner shell will contain the water     
 
 169
 00:11:57,917 --> 00:12:02,520
-     that gets heated inside    
-   the boiler to create steam.  
+that gets heated inside the boiler to create steam.  
 
 170
 00:12:02,522 --> 00:12:04,056
-       he stops the rolls       
+he stops the rolls       
 
 171
 00:12:04,058 --> 00:12:07,859
-      and prepares an edge      
-    of the shell for welding.   
+and prepares an edge of the shell for welding.   
 
 172
 00:12:12,198 --> 00:12:15,667
- he continues shaping the metal 
-      to a preset diameter,     
+he continues shaping the metal to a preset diameter,     
 
 173
 00:12:15,669 --> 00:12:18,904
-  and then he grinds the other  
- edge to prepare it for welding.
+and then he grinds the other edge to prepare it for welding.
 
 174
 00:12:22,742 --> 00:12:24,742
-         the shell shape        
-       is now fully formed      
+the shell shape is now fully formed      
 
 175
 00:12:24,744 --> 00:12:26,678
- and ready to be welded closed. 
+and ready to be welded closed. 
 
 176
 00:12:29,883 --> 00:12:32,217
- a submerged arc-welding machine
+a submerged arc-welding machine
 
 177
 00:12:32,219 --> 00:12:35,020
-            deposits            
-   a special granular material  
+deposits a special granular material  
 
 178
 00:12:35,022 --> 00:12:37,422
-     that protects the weld     
-     from air contamination.    
+that protects the weld from air contamination.    
 
 179
 00:12:45,966 --> 00:12:49,234
-    he removes the protective   
-       granular material,       
+he removes the protective granular material,       
 
 180
 00:12:49,236 --> 00:12:51,937
- leaving behind a perfect weld. 
+leaving behind a perfect weld. 
 
 181
 00:12:58,045 --> 00:13:00,512
-      next, a worker welds      
-   what's called a boiler head  
+next, a worker welds what's called a boiler head  
 
 182
 00:13:00,514 --> 00:13:01,813
-          to the shell.         
+to the shell.         
 
 183
 00:13:05,719 --> 00:13:08,252
-       he fits steel pipes      
-      into the boiler heads     
+he fits steel pipes into the boiler heads     
 
 184
 00:13:08,254 --> 00:13:10,355
-      located at both ends.     
+located at both ends.     
 
 185
 00:13:14,995 --> 00:13:17,562
-       he welds the pipe        
-       securely in place.       
+he welds the pipe securely in place.       
 
 186
 00:13:23,670 --> 00:13:27,139
 workers then insert a combustion
-     chamber into the shell.    
+chamber into the shell.    
 
 187
 00:13:27,141 --> 00:13:29,607
-        later, a burner,        
-     used to heat the water,    
+later, a burner, used to heat the water,    
 
 188
 00:13:29,609 --> 00:13:32,878
-       will be fitted into      
-     the combustion chamber.    
+will be fitted into the combustion chamber.    
 
 189
 00:13:36,216 --> 00:13:39,017
-     a worker then tests the    
+a worker then tests the    
 fully assembled pressure vessel,
 
 190
 00:13:39,019 --> 00:13:41,820
-       as it's now called.      
+as it's now called.      
 
 191
 00:13:41,822 --> 00:13:45,223
- he fills the space between the 
+he fills the space between the 
 combustion chamber and the shell
 
 192
 00:13:45,225 --> 00:13:47,025
-           with water           
-   to ensure it doesn't leak.   
+with water to ensure it doesn't leak.   
 
 193
 00:13:51,298 --> 00:13:54,299
- workers then wrap the pressure 
-      vessel in insulation      
+workers then wrap the pressure vessel in insulation      
 
 194
 00:13:54,301 --> 00:13:57,035
- to help the boiler retain heat.
+to help the boiler retain heat.
 
 195
 00:14:04,378 --> 00:14:07,779
-   they wrap an outer jacket    
-   around the pressure vessel   
+they wrap an outer jacket around the pressure vessel   
 
 196
 00:14:07,781 --> 00:14:11,016
-     and secure it in place     
-    using sheet-metal screws.   
+and secure it in place using sheet-metal screws.   
 
 197
 00:14:16,390 --> 00:14:18,523
-           all boilers          
-     then receive a blower,     
+all boilers then receive a blower,     
 
 198
 00:14:18,525 --> 00:14:22,427
- which feeds air into the burner
-   and the combustion chamber.  
+which feeds air into the burner
+and the combustion chamber.  
 
 199
 00:14:26,466 --> 00:14:30,202
-     next, a worker attaches    
+next, a worker attaches    
 what is known as a water column.
 
 200
 00:14:30,204 --> 00:14:33,405
- this apparatus supports various
-  control devices and sensors,  
+this apparatus supports various
+control devices and sensors,  
 
 201
 00:14:33,407 --> 00:14:35,140
-  as well as a visual indicator 
+as well as a visual indicator 
 
 202
 00:14:35,142 --> 00:14:38,009
-   that shows the water level   
-       inside the boiler.       
+that shows the water level inside the boiler.       
 
 203
 00:14:41,882 --> 00:14:44,683
-        a worker connects       
-  the electrical-control panel, 
+a worker connects the electrical-control panel, 
 
 204
 00:14:44,685 --> 00:14:47,786
-    so he can test the safety   
-  and operation of the boiler.  
+so he can test the safety and operation of the boiler.  
 
 205
 00:14:57,097 --> 00:14:59,631
-      he powers up the unit     
-      and fires the burner      
+he powers up the unit and fires the burner      
 
 206
 00:14:59,633 --> 00:15:03,568
-        that is installed       
- inside the combustion chamber. 
+that is installed inside the combustion chamber. 
 
 207
 00:15:03,570 --> 00:15:06,370
-  he opens a steam-outlet pipe  
-         on a test line         
+he opens a steam-outlet pipe on a test line         
 
 208
 00:15:06,372 --> 00:15:08,639
-         and makes sure         
-    all the control devices,    
+and makes sure all the control devices,    
 
 209
 00:15:08,641 --> 00:15:11,243
-    including the water-level   
-    indicator and the blower,   
+including the water-level indicator and the blower,   
 
 210
 00:15:11,245 --> 00:15:13,178
-      are working properly.     
+are working properly.     
 
 211
 00:15:17,918 --> 00:15:20,385
-  this boiler passes the test.  
+this boiler passes the test.  
 
 212
 00:15:20,387 --> 00:15:23,922
- it generates the correct amount
-       of heat and steam.       
+it generates the correct amount
+of heat and steam.       
 
 213
 00:15:31,532 --> 00:15:34,866
-    finally, a worker applies   
-    the appropriate labeling    
+finally, a worker applies the appropriate labeling    
 
 214
 00:15:34,868 --> 00:15:36,001
-        on every boiler,        
+on every boiler,        
 
 215
 00:15:36,003 --> 00:15:37,535
-  whether it's a smaller unit,  
+whether it's a smaller unit,  
 
 216
 00:15:37,537 --> 00:15:39,738
-          the type used         
-   in a dry-cleaning business,  
+the type used in a dry-cleaning business,  
 
 217
 00:15:39,740 --> 00:15:43,341
-  or one of the larger boilers  
+or one of the larger boilers  
 used in a food-processing plant.
 
 218
 00:15:58,958 --> 00:16:01,225
-            narrator:           
-  before bathing became common, 
+narrator: before bathing became common, 
 
 219
 00:16:01,227 --> 00:16:04,095
-   people used heavy colognes   
-     to mask unwanted odor.     
+people used heavy colognes to mask unwanted odor.     
 
 220
 00:16:04,097 --> 00:16:05,763
- it wasn't until the late 1800s 
+it wasn't until the late 1800s 
 
 221
 00:16:05,765 --> 00:16:08,767
-      that chemists created     
- the first commercial deodorant.
+that chemists created the first commercial deodorant.
 
 222
 00:16:08,769 --> 00:16:11,769
- today deodorants are available 
-     in a variety of forms,     
+today deodorants are available in a variety of forms,     
 
 223
 00:16:11,771 --> 00:16:14,372
-   from natural alternatives,   
-       like body crystals,      
+from natural alternatives, like body crystals,      
 
 224
 00:16:14,374 --> 00:16:15,507
-       to antiperspirants       
+to antiperspirants       
 
 225
 00:16:15,509 --> 00:16:18,176
-       that use chemicals       
-     to reduce perspiration.    
+that use chemicals to reduce perspiration.    
 
 226
 00:16:21,448 --> 00:16:23,582
-         almost everyone        
-        applies deodorant       
+almost everyone applies deodorant       
 
 227
 00:16:23,584 --> 00:16:25,317
-  at some point during the day. 
+at some point during the day. 
 
 228
 00:16:25,319 --> 00:16:27,819
-      convenient packaging      
-  helps make application easy.  
+convenient packaging helps make application easy.  
 
 229
 00:16:30,257 --> 00:16:32,023
-           first step           
-     to making deodorant --     
+first step to making deodorant --     
 
 230
 00:16:32,025 --> 00:16:34,058
-      mixing up the batch.      
+mixing up the batch.      
 
 231
 00:16:34,060 --> 00:16:37,529
-     workers pour a blend of    
+workers pour a blend of    
 ingredients into a kettle mixer,
 
 232
 00:16:37,531 --> 00:16:39,197
-    then add powdered wax --    
+then add powdered wax --    
 
 233
 00:16:39,199 --> 00:16:43,001
-       the main ingredient      
- that holds everything together.
+the main ingredient that holds everything together.
 
 234
 00:16:43,003 --> 00:16:46,471
-     they also add silicone     
-     for a smooth texture.      
+they also add silicone for a smooth texture.      
 
 235
 00:16:46,473 --> 00:16:51,076
-       steam heats the mix      
-   to 167 degrees fahrenheit,   
+steam heats the mix to 167 degrees fahrenheit,   
 
 236
 00:16:51,078 --> 00:16:52,877
-    melting the ingredients.    
+melting the ingredients.    
 
 237
 00:16:52,879 --> 00:16:56,281
 a standard recipe for deodorants
-          includes wax,         
+includes wax,         
 
 238
 00:16:56,283 --> 00:16:59,751
-       active ingredients       
-   that prevent perspiration,   
+active ingredients that prevent perspiration,   
 
 239
 00:16:59,753 --> 00:17:02,020
@@ -1138,71 +978,61 @@ dimethicone -- a blending agent,
 
 240
 00:17:02,022 --> 00:17:04,589
-            silicone,           
-  and fragrance to mask odors.  
+silicone, and fragrance to mask odors.  
 
 241
 00:17:06,293 --> 00:17:09,026
-           deodorants,          
+deodorants,          
 like all personal-care products,
 
 242
 00:17:09,028 --> 00:17:11,963
-        must meet strict        
-   quality-control standards.   
+must meet strict quality-control standards.   
 
 243
 00:17:13,700 --> 00:17:16,233
-          the chemists          
-   in this plant's laboratory   
+the chemists in this plant's laboratory   
 
 244
 00:17:16,235 --> 00:17:17,836
-   perform a variety of tests   
+perform a variety of tests   
 
 245
 00:17:17,838 --> 00:17:20,805
-     to ensure their product    
-  meets the highest standards.  
+to ensure their product meets the highest standards.  
 
 246
 00:17:22,976 --> 00:17:26,044
-  to make sure that the product 
-   has the right consistency,   
+to make sure that the product has the right consistency,   
 
 247
 00:17:26,046 --> 00:17:29,380
-          this chemist          
- will perform a viscosity test. 
+this chemist will perform a viscosity test. 
 
 248
 00:17:29,382 --> 00:17:32,450
-       she stirs a sample       
-      at a constant speed,      
+she stirs a sample at a constant speed,      
 
 249
 00:17:32,452 --> 00:17:35,186
-          then verifies         
-     that the force required    
+then verifies that the force required    
 
 250
 00:17:35,188 --> 00:17:37,322
-  is within the accepted range. 
+is within the accepted range. 
 
 251
 00:17:41,327 --> 00:17:44,462
-        these containers        
-  will dispense the deodorant.  
+these containers will dispense the deodorant.  
 
 252
 00:17:44,464 --> 00:17:47,265
 they're mechanically unscrambled
-     on a rotating platform     
+on a rotating platform     
 
 253
 00:17:47,267 --> 00:17:51,236
-    that sends them spinning    
-    into individual pockets.    
+that sends them spinning into individual pockets.    
 
 254
 00:17:58,745 --> 00:18:02,680
@@ -1211,107 +1041,93 @@ that aren't lining up properly.
 
 255
 00:18:02,682 --> 00:18:05,750
-    a blast of air sends them   
-     back onto the platform     
+a blast of air sends them back onto the platform     
 
 256
 00:18:05,752 --> 00:18:07,686
-     to repeat the process.     
+to repeat the process.     
 
 257
 00:18:11,758 --> 00:18:13,558
-      now that they're all      
-         right-side-up,         
+now that they're all right-side-up,         
 
 258
 00:18:13,560 --> 00:18:16,828
-         they move along        
-     to the filling station.    
+they move along to the filling station.    
 
 259
 00:18:16,830 --> 00:18:19,764
-    there, a system of levers   
-         raises them up         
+there, a system of levers raises them up         
 
 260
 00:18:19,766 --> 00:18:23,101
-  to align with filling nozzles 
-     that dispense the mix.     
+to align with filling nozzles that dispense the mix.     
 
 261
 00:18:26,173 --> 00:18:30,508
-  a system of rotating wheels   
-  keeps the containers moving.  
+a system of rotating wheels keeps the containers moving.  
 
 262
 00:18:30,510 --> 00:18:33,244
-     one wheel conveys them     
-    to the next for filling,    
+one wheel conveys them to the next for filling,    
 
 263
 00:18:33,246 --> 00:18:35,614
-     and then a third wheel     
-         leads them out.        
+and then a third wheel leads them out.        
 
 264
 00:18:44,324 --> 00:18:49,327
-        it's best to fill       
+it's best to fill       
 using hot mix that flows freely.
 
 265
 00:18:49,329 --> 00:18:52,063
-   but the deodorant must cool  
-       in order to harden.      
+but the deodorant must cool in order to harden.      
 
 266
 00:18:52,065 --> 00:18:54,866
-        an overhead rake        
- evenly lines up the containers 
+an overhead rake evenly lines up the containers 
 
 267
 00:18:54,868 --> 00:18:57,235
- inside a refrigerating tunnel. 
+inside a refrigerating tunnel. 
 
 268
 00:19:02,542 --> 00:19:03,941
-         once it's full,        
+once it's full,        
 
 269
 00:19:03,943 --> 00:19:07,612
- workers set the cooling system 
-     to 14 degrees celsius.     
+workers set the cooling system to 14 degrees celsius.     
 
 270
 00:19:07,614 --> 00:19:11,082
- the deodorant will remain here 
-       for several hours.       
+the deodorant will remain here for several hours.       
 
 271
 00:19:11,084 --> 00:19:13,885
-         next, chemists         
-     perform a hardness test    
+next, chemists perform a hardness test    
 
 272
 00:19:13,887 --> 00:19:17,955
- on a cold sample of deodorant. 
+on a cold sample of deodorant. 
 
 273
 00:19:17,957 --> 00:19:19,290
-     a force meter measures     
+a force meter measures     
 
 274
 00:19:19,292 --> 00:19:22,293
- the amount of pressure required
-      to crush the sample.      
+the amount of pressure required
+to crush the sample.      
 
 275
 00:19:25,565 --> 00:19:29,100
-    it has to be just right.    
+it has to be just right.    
 
 276
 00:19:29,102 --> 00:19:32,570
-   too hard, and the deodorant  
-   crumbles without spreading.  
+too hard, and the deodorant crumbles without spreading.  
 
 277
 00:19:34,574 --> 00:19:36,841
@@ -1320,74 +1136,63 @@ it must be able to flow smoothly
 278
 00:19:36,843 --> 00:19:41,245
 out through this perforated dome
- that will cover the deodorant. 
+that will cover the deodorant. 
 
 279
 00:19:41,247 --> 00:19:44,915
-     each container gets one    
-   over at the doming station.  
+each container gets one over at the doming station.  
 
 280
 00:19:44,917 --> 00:19:49,186
-  again, a system of revolving  
-      wheels works together     
+again, a system of revolving wheels works together     
 
 281
 00:19:49,188 --> 00:19:52,424
-    to convey the containers    
-      through the station.      
+to convey the containers through the station.      
 
 282
 00:19:55,862 --> 00:19:57,529
-      at the center wheel,      
+at the center wheel,      
 
 283
 00:19:57,531 --> 00:19:59,664
-        cappers overhead        
-     lay the perforated dome    
+cappers overhead lay the perforated dome    
 
 284
 00:19:59,666 --> 00:20:02,734
-       on top of each one.      
+on top of each one.      
 
 285
 00:20:02,736 --> 00:20:05,403
-    the containers then move    
-      to the next station,      
+the containers then move to the next station,      
 
 286
 00:20:05,405 --> 00:20:08,339
-     where they each receive    
-   a strip of adhesive plastic  
+where they each receive a strip of adhesive plastic  
 
 287
 00:20:08,341 --> 00:20:10,407
-           that covers          
-      the dome's surface --     
+that covers the dome's surface --     
 
 288
 00:20:10,409 --> 00:20:13,378
-          a safety seal         
-  that protects the deodorant.  
+a safety seal that protects the deodorant.  
 
 289
 00:20:15,682 --> 00:20:18,549
-   back to the doming station.  
+back to the doming station.  
 
 290
 00:20:18,551 --> 00:20:21,085
-         the containers         
-     pass through once more     
+the containers pass through once more     
 
 291
 00:20:21,087 --> 00:20:25,356
-     as the cappers now snap    
- a plastic cover onto each one. 
+as the cappers now snap a plastic cover onto each one. 
 
 292
 00:20:25,358 --> 00:20:29,360
-        now they're ready       
- for the final step -- labeling.
+now they're ready for the final step -- labeling.
 
 293
 00:20:29,362 --> 00:20:31,229
@@ -1395,43 +1200,37 @@ the containers roll past a plate
 
 294
 00:20:31,231 --> 00:20:34,466
- that lifts off adhesive labels 
-     from a continuous strip    
+that lifts off adhesive labels from a continuous strip    
 
 295
 00:20:34,468 --> 00:20:36,000
-        and applies them.       
+and applies them.       
 
 296
 00:20:39,706 --> 00:20:42,307
-             a brush            
-    smoothes over the labels.   
+a brush smoothes over the labels.   
 
 297
 00:20:42,309 --> 00:20:44,309
-     that's the final touch.    
+that's the final touch.    
 
 298
 00:20:44,311 --> 00:20:47,712
-   now the deodorant is ready   
-   for shipping to customers.   
+now the deodorant is ready for shipping to customers.   
 
 299
 00:20:47,714 --> 00:20:51,850
-       good things do come      
- in small packages of all kinds.
+good things do come in small packages of all kinds.
 
 300
 00:21:00,260 --> 00:21:02,460
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 301
 00:21:02,462 --> 00:21:05,329
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 302
 00:21:05,331 --> 00:21:07,165
-      drop us a line at...      
+drop us a line at...      
 

@@ -1,725 +1,632 @@
 ﻿1
 00:00:01,735 --> 00:00:04,670
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 2
 00:00:04,672 --> 00:00:07,706
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 3
 00:00:22,823 --> 00:00:26,625
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 4
 00:00:26,627 --> 00:00:28,694
-       fiberglass boats...      
+fiberglass boats...
 
 5
 00:00:28,696 --> 00:00:30,228
-        clothes driers...       
+clothes driers...
 
 6
 00:00:30,230 --> 00:00:31,763
-          bubble gum...         
+bubble gum...
 
 7
 00:00:31,765 --> 00:00:34,033
-         and fireworks.         
+and fireworks.
 
 8
 00:00:37,638 --> 00:00:41,507
-  they're sleek, they're fast,  
-        and they're fun.        
+they're sleek, they're fast, and they're fun.
 
 9
 00:00:41,509 --> 00:00:44,977
- fiberglass boats can jump waves
-       and turn on a dime.      
+fiberglass boats can jump waves
+and turn on a dime.
 
 10
 00:00:44,979 --> 00:00:48,179
-       the fiberglass body      
- is low-maintenance and durable,
+the fiberglass body is low-maintenance and durable,
 
 11
 00:00:48,181 --> 00:00:50,449
-       so these watercraft      
-        don't deteriorate       
+so these watercraft don't deteriorate
 
 12
 00:00:50,451 --> 00:00:52,651
-    the way wooden boats can.   
+the way wooden boats can.
 
 13
 00:00:59,926 --> 00:01:02,861
-   a computerized saw cuts out  
-         the wood pieces        
+a computerized saw cuts out the wood pieces
 
 14
 00:01:02,863 --> 00:01:06,331
-  they'll use to build the mold 
-    for the fiberglass boat.    
+they'll use to build the mold for the fiberglass boat.
 
 15
 00:01:22,083 --> 00:01:25,417
-   it takes a team of artisans  
-         about 15 months        
+it takes a team of artisans about 15 months
 
 16
 00:01:25,419 --> 00:01:27,619
-  to design and build the mold. 
+to design and build the mold.
 
 17
 00:01:31,292 --> 00:01:33,926
- they first construct the frame.
+they first construct the frame.
 
 18
 00:01:47,908 --> 00:01:51,310
-  then they construct the shape 
-       out of fiberglass.       
+then they construct the shape out of fiberglass.
 
 19
 00:01:51,312 --> 00:01:53,044
-    the mold must be perfect    
+the mold must be perfect
 
 20
 00:01:53,046 --> 00:01:57,049
- in order to cast a boat that's 
-   free of faults and defects,  
+in order to cast a boat that's free of faults and defects,
 
 21
 00:01:57,051 --> 00:02:00,986
-  so they painstakingly work on 
-the mold's finish in particular,
+so they painstakingly work on the mold's finish in particular,
 
 22
 00:02:00,988 --> 00:02:03,588
-     coating it in a special    
-      high-resistance paint     
+coating it in a special high-resistance paint
 
 23
 00:02:03,590 --> 00:02:08,060
-       that will withstand      
- about eight years of castings. 
+that will withstand about eight years of castings.
 
 24
 00:02:08,062 --> 00:02:09,661
-   once they finish the mold,   
+once they finish the mold,
 
 25
 00:02:09,663 --> 00:02:12,931
-     they can begin casting     
-      the fiberglass boat.      
+they can begin casting the fiberglass boat.
 
 26
 00:02:12,933 --> 00:02:15,867
-      the equipment feeds       
-      just the right ratio      
+the equipment feeds just the right ratio
 
 27
 00:02:15,869 --> 00:02:18,002
- of fiberglass to plastic resin.
+of fiberglass to plastic resin.
 
 28
 00:02:18,004 --> 00:02:22,674
- fiberglass is glass in the form
- of very fine, flexible fibers. 
+fiberglass is glass in the form
+of very fine, flexible fibers.
 
 29
 00:02:22,676 --> 00:02:24,343
-     they may look fragile,     
+they may look fragile,
 
 30
 00:02:24,345 --> 00:02:27,212
-  but those fibers are stronger 
-           than steel,          
+but those fibers are stronger than steel,
 
 31
 00:02:27,214 --> 00:02:30,082
-  and they won't burn, stretch, 
-             or rot,            
+and they won't burn, stretch, or rot,
 
 32
 00:02:30,084 --> 00:02:33,085
-      so they make perfect      
-     boat-building material.    
+so they make perfect boat-building material.
 
 33
 00:02:33,087 --> 00:02:35,820
-        workers make sure       
-    they roll the fiberglass    
+workers make sure they roll the fiberglass
 
 34
 00:02:35,822 --> 00:02:37,756
-   into every nook and cranny.  
+into every nook and cranny.
 
 35
 00:02:37,758 --> 00:02:39,758
-        this is critical        
+this is critical
 
 36
 00:02:39,760 --> 00:02:42,761
-   because if they don't apply  
-   the fiberglass thoroughly,   
+because if they don't apply the fiberglass thoroughly,
 
 37
 00:02:42,763 --> 00:02:44,763
-       the boat will have       
-       structural defects.      
+the boat will have structural defects.
 
 38
 00:02:44,765 --> 00:02:48,834
-  as heat within the fiberglass 
-     builds up, it hardens.     
+as heat within the fiberglass builds up, it hardens.
 
 39
 00:02:55,242 --> 00:02:58,710
-       next, they roll on       
-    a material called roving.   
+next, they roll on a material called roving.
 
 40
 00:02:58,712 --> 00:03:02,580
-  it reinforces the fiberglass  
-    and makes it more rigid.    
+it reinforces the fiberglass and makes it more rigid.
 
 41
 00:03:02,582 --> 00:03:03,982
-     they also install wood     
+they also install wood
 
 42
 00:03:03,984 --> 00:03:07,118
-   in the areas where they'll   
-     later mount equipment.     
+in the areas where they'll later mount equipment.
 
 43
 00:03:07,120 --> 00:03:09,187
-       they coat the wood       
-         with fiberglass        
+they coat the wood with fiberglass
 
 44
 00:03:09,189 --> 00:03:11,190
-  to protect it from moisture.  
+to protect it from moisture.
 
 45
 00:03:19,266 --> 00:03:20,866
-      after about an hour,      
+after about an hour,
 
 46
 00:03:20,868 --> 00:03:24,169
 it's time to extract the casting
-         from the mold.         
+from the mold.
 
 47
 00:03:27,207 --> 00:03:30,776
-     they use a lever system    
-      to lift out the hull.     
+they use a lever system to lift out the hull.
 
 48
 00:03:41,021 --> 00:03:43,689
-       they cut out holes       
-       for the mechanics.       
+they cut out holes for the mechanics.
 
 49
 00:03:53,166 --> 00:03:56,468
-        then they install       
-        the boat's deck.        
+then they install the boat's deck.
 
 50
 00:04:07,047 --> 00:04:09,848
-     they install the motor     
-    and the electrical wiring   
+they install the motor and the electrical wiring
 
 51
 00:04:09,850 --> 00:04:11,583
- for the mechanics and plumbing.
+for the mechanics and plumbing.
 
 52
 00:04:14,721 --> 00:04:18,790
-   the boat truly takes shape   
-     in the final assembly.     
+the boat truly takes shape in the final assembly.
 
 53
 00:04:18,792 --> 00:04:22,127
 they put together the upper part
- of the boat, called the shell, 
+of the boat, called the shell,
 
 54
 00:04:22,129 --> 00:04:25,130
-         and the inside,        
-        called the liner.       
+and the inside, called the liner.
 
 55
 00:04:31,871 --> 00:04:34,406
-  they install the furniture... 
+they install the furniture...
 
 56
 00:04:39,079 --> 00:04:41,813
-       certain components       
-     are installed by hand,     
+certain components are installed by hand,
 
 57
 00:04:41,815 --> 00:04:43,315
-     such as the dashboard.     
+such as the dashboard.
 
 58
 00:04:46,887 --> 00:04:49,487
-  last stop, quality control -- 
+last stop, quality control --
 
 59
 00:04:49,489 --> 00:04:53,492
 a series of tests to ensure that
-all the mechanics function well 
+all the mechanics function well
 
 60
 00:04:53,494 --> 00:04:57,262
-        and that the boat       
-    is absolutely watertight.   
+and that the boat is absolutely watertight.
 
 61
 00:05:00,634 --> 00:05:02,968
-  finally, a wrapping is added  
+finally, a wrapping is added
 
 62
 00:05:02,970 --> 00:05:05,871
-       to protect the boat      
-        during shipping.        
+to protect the boat during shipping.
 
 63
 00:05:28,795 --> 00:05:31,196
-     narrator: electric cars    
-       are cheaper to run       
+narrator: electric cars are cheaper to run
 
 64
 00:05:31,198 --> 00:05:32,931
-   than gasoline-powered cars.  
+than gasoline-powered cars.
 
 65
 00:05:32,933 --> 00:05:36,534
- just plug them in to recharge. 
-      no fill-up required.      
+just plug them in to recharge. no fill-up required.
 
 66
 00:05:36,536 --> 00:05:41,339
- but they cost 40% more to buy, 
-   which offsets the savings.   
+but they cost 40% more to buy, which offsets the savings.
 
 67
 00:05:41,341 --> 00:05:44,743
- battery technology will have to
- improve and come down in price 
+battery technology will have to
+improve and come down in price
 
 68
 00:05:44,745 --> 00:05:48,013
-      before electric cars      
-      can truly take off.       
+before electric cars can truly take off.
 
 69
 00:05:53,887 --> 00:05:58,290
-  clothes dryers were invented  
-  in europe in the early 1800s. 
+clothes dryers were invented in europe in the early 1800s.
 
 70
 00:05:58,292 --> 00:06:00,425
-      the lady of the house     
-      would put the clothes     
+the lady of the house would put the clothes
 
 71
 00:06:00,427 --> 00:06:02,227
-        in a metal barrel       
-        with holes in it,       
+in a metal barrel with holes in it,
 
 72
 00:06:02,229 --> 00:06:04,495
-      then turn it by hand      
-         over the fire.         
+then turn it by hand over the fire.
 
 73
 00:06:04,497 --> 00:06:08,266
-   the first electric dryers    
-   were invented around 1915.   
+the first electric dryers were invented around 1915.
 
 74
 00:06:11,371 --> 00:06:14,439
-        most of the parts       
-       are made from steel      
+most of the parts are made from steel
 
 75
 00:06:14,441 --> 00:06:16,641
-  just 3/100 of an inch thick.  
+just 3/100 of an inch thick.
 
 76
 00:06:16,643 --> 00:06:20,712
-  the factory receives it from  
-  the supplier in giant rolls.  
+the factory receives it from the supplier in giant rolls.
 
 77
 00:06:20,714 --> 00:06:24,449
 they go onto a machine that cuts
-    sheets about 3 feet long.   
+sheets about 3 feet long.
 
 78
 00:06:25,585 --> 00:06:27,452
-       using those sheets,      
+using those sheets,
 
 79
 00:06:27,454 --> 00:06:31,122
-  industrial presses stamp out  
-      various dryer parts.      
+industrial presses stamp out various dryer parts.
 
 80
 00:06:31,124 --> 00:06:33,058
-    these are motor supports.   
+these are motor supports.
 
 81
 00:06:35,328 --> 00:06:38,196
-   and this is the back panel   
-          of the drum,          
+and this is the back panel of the drum,
 
 82
 00:06:38,198 --> 00:06:40,665
-    the rotating compartment    
-    that holds the clothes.     
+the rotating compartment that holds the clothes.
 
 83
 00:06:40,667 --> 00:06:45,203
-     note those small holes.    
-we'll come back to them shortly.
+note those small holes. we'll come back to them shortly.
 
 84
 00:06:45,205 --> 00:06:47,205
-  to form the side of the drum, 
+to form the side of the drum,
 
 85
 00:06:47,207 --> 00:06:50,342
-    the machine bends a sheet   
-       of prepainted steel      
+the machine bends a sheet of prepainted steel
 
 86
 00:06:50,344 --> 00:06:53,211
-     into a circular shape.     
+into a circular shape.
 
 87
 00:06:53,213 --> 00:06:55,079
- when a clothes dryer operates, 
+when a clothes dryer operates,
 
 88
 00:06:55,081 --> 00:06:58,550
-     it sucks in outside air    
-  through a hole at the front.  
+it sucks in outside air through a hole at the front.
 
 89
 00:06:58,552 --> 00:07:00,752
-     the air passes through     
-       the heating element      
+the air passes through the heating element
 
 90
 00:07:00,754 --> 00:07:02,286
-     and goes into the drum,    
+and goes into the drum,
 
 91
 00:07:02,288 --> 00:07:04,823
-  entering through those little 
- holes you saw a few moments ago
+entering through those little holes you saw a few moments ago
 
 92
 00:07:04,825 --> 00:07:07,392
-   located in the back panel.   
+located in the back panel.
 
 93
 00:07:09,762 --> 00:07:12,964
-   once the automated machines  
- have finished shaping the drum,
+once the automated machines have finished shaping the drum,
 
 94
 00:07:12,966 --> 00:07:15,967
-       they form a groove       
-     on its outside surface.    
+they form a groove on its outside surface.
 
 95
 00:07:15,969 --> 00:07:19,805
 this groove is for the motorized
-   belt that drives the drum.   
+belt that drives the drum.
 
 96
 00:07:22,976 --> 00:07:25,776
-     next, they put the drum    
-       on another machine       
+next, they put the drum on another machine
 
 97
 00:07:25,778 --> 00:07:28,980
-    that screws three baffles   
-            in place.           
+that screws three baffles in place.
 
 98
 00:07:28,982 --> 00:07:32,917
- baffles are those thick plastic
- wings located inside the drum. 
+baffles are those thick plastic
+wings located inside the drum.
 
 99
 00:07:32,919 --> 00:07:35,787
- they're what throw the clothes 
-      around as it rotates.     
+they're what throw the clothes around as it rotates.
 
 100
 00:07:38,525 --> 00:07:42,994
-   back on the automated line,  
-  the drum's front rim goes on. 
+back on the automated line, the drum's front rim goes on.
 
 101
 00:07:49,670 --> 00:07:53,171
-     they manually assemble     
-     the drum's back panel.     
+they manually assemble the drum's back panel.
 
 102
 00:08:05,218 --> 00:08:08,253
-   then a machine installs it.  
+then a machine installs it.
 
 103
 00:08:13,026 --> 00:08:15,360
-  next comes the exhaust duct.  
+next comes the exhaust duct.
 
 104
 00:08:15,362 --> 00:08:18,763
-  hot, moist air exits the drum 
-    through a series of holes   
+hot, moist air exits the drum through a series of holes
 
 105
 00:08:18,765 --> 00:08:20,899
-        and a large slot        
-       in the dryer door.       
+and a large slot in the dryer door.
 
 106
 00:08:20,901 --> 00:08:23,902
- the air gets channeled downward
-    through the lint screen,    
+the air gets channeled downward
+through the lint screen,
 
 107
 00:08:23,904 --> 00:08:27,505
- then goes through a duct at the
- front of the dryer to the fan. 
+then goes through a duct at the
+front of the dryer to the fan.
 
 108
 00:08:27,507 --> 00:08:30,041
-      the fan blows the air     
-      out this exhaust duct     
+the fan blows the air out this exhaust duct
 
 109
 00:08:30,043 --> 00:08:32,777
-    at the back of the dryer.   
+at the back of the dryer.
 
 110
 00:08:32,779 --> 00:08:34,446
-   the dryer's heating element  
+the dryer's heating element
 
 111
 00:08:34,448 --> 00:08:36,848
-   works much like the element  
-          in a toaster,         
+works much like the element in a toaster,
 
 112
 00:08:36,850 --> 00:08:39,317
-       except it consumes       
-       a lot more power --      
+except it consumes a lot more power --
 
 113
 00:08:39,319 --> 00:08:41,852
-       up to 6,000 watts.       
+up to 6,000 watts.
 
 114
 00:08:41,854 --> 00:08:43,721
- the factory receives the steel 
+the factory receives the steel
 
 115
 00:08:43,723 --> 00:08:46,191
-    and ceramic heating coils   
-           ready-made.          
+and ceramic heating coils ready-made.
 
 116
 00:08:46,193 --> 00:08:49,861
-  workers simply position them  
- on a sheet of galvanized steel.
+workers simply position them on a sheet of galvanized steel.
 
 117
 00:09:02,275 --> 00:09:06,011
- they also install a temperature
-   sensor that shuts off power  
+they also install a temperature
+sensor that shuts off power
 
 118
 00:09:06,013 --> 00:09:09,814
-    should something go wrong   
-and cause the dryer to overheat.
+should something go wrong and cause the dryer to overheat.
 
 119
 00:09:17,624 --> 00:09:19,290
-  in the finishing department,  
+in the finishing department,
 
 120
 00:09:19,292 --> 00:09:21,693
-       they coat the dryer      
-       with powdered paint      
+they coat the dryer with powdered paint
 
 121
 00:09:21,695 --> 00:09:23,895
-          that's heat-          
-      and shock-resistant.      
+that's heat- and shock-resistant.
 
 122
 00:09:29,636 --> 00:09:33,471
-  then they assemble the bottom 
-   and back of the appliance.   
+then they assemble the bottom and back of the appliance.
 
 123
 00:09:35,042 --> 00:09:36,507
-     they install the motor     
+they install the motor
 
 124
 00:09:36,509 --> 00:09:39,144
-    that drives both the belt   
-          and the fan.          
+that drives both the belt and the fan.
 
 125
 00:09:40,647 --> 00:09:43,515
- then the exhaust duct goes in. 
+then the exhaust duct goes in.
 
 126
 00:09:45,585 --> 00:09:48,853
-   automated machines prepare   
-     the electrical wiring.     
+automated machines prepare the electrical wiring.
 
 127
 00:09:48,855 --> 00:09:51,456
- they paint and cut the wires...
+they paint and cut the wires...
 
 128
 00:09:53,960 --> 00:09:57,262
-   ...then install a terminal   
-          on each end.          
+...then install a terminal on each end.
 
 129
 00:10:00,334 --> 00:10:03,735
-   workers wire the dryers...   
+workers wire the dryers...
 
 130
 00:10:03,737 --> 00:10:06,538
-     then install the drum.     
+then install the drum.
 
 131
 00:10:07,741 --> 00:10:10,342
-   they close up the sides...   
+they close up the sides...
 
 132
 00:10:17,484 --> 00:10:22,020
-      ...screw on the door,     
- then wire up the control panel.
+...screw on the door, then wire up the control panel.
 
 133
 00:10:22,022 --> 00:10:24,889
-   it's connected to a series   
-      of gears and switches     
+it's connected to a series of gears and switches
 
 134
 00:10:24,891 --> 00:10:28,092
- that control the dryer cycles. 
+that control the dryer cycles.
 
 135
 00:10:28,094 --> 00:10:30,295
-            the model           
-    and serial-number sticker   
+the model and serial-number sticker
 
 136
 00:10:30,297 --> 00:10:33,565
-       marks the last stop      
-      on the assembly line.     
+marks the last stop on the assembly line.
 
 137
 00:10:44,778 --> 00:10:47,512
 narrator: chewing gum dates back
-     to the ancient greeks,     
+to the ancient greeks,
 
 138
 00:10:47,514 --> 00:10:49,581
-  who chewed resin from trees.  
+who chewed resin from trees.
 
 139
 00:10:49,583 --> 00:10:53,184
- modern chewing gum was patented
-       in the u.s. in 1869      
+modern chewing gum was patented
+in the u.s. in 1869
 
 140
 00:10:53,186 --> 00:10:55,587
-   by -- believe it or not --   
-           a dentist.           
+by -- believe it or not -- a dentist.
 
 141
 00:10:55,589 --> 00:10:59,157
-    in 1928, another american   
-      invented bubble gum.      
+in 1928, another american invented bubble gum.
 
 142
 00:11:03,263 --> 00:11:07,265
-  bubble gum comes in gumballs  
-    of all colors and sizes,    
+bubble gum comes in gumballs of all colors and sizes,
 
 143
 00:11:07,267 --> 00:11:09,067
-    but for blowing bubbles,    
+but for blowing bubbles,
 
 144
 00:11:09,069 --> 00:11:13,471
- nothing beats the chewy, gooey 
- pink stuff in the twist wrap.  
+nothing beats the chewy, gooey pink stuff in the twist wrap.
 
 145
 00:11:14,874 --> 00:11:19,143
- it all starts with a gum base, 
- the stuff that makes gum chewy.
+it all starts with a gum base, the stuff that makes gum chewy.
 
 146
 00:11:19,145 --> 00:11:22,013
-  traditionally, the base came  
-        from tree resin.        
+traditionally, the base came from tree resin.
 
 147
 00:11:22,015 --> 00:11:26,484
-     today it's synthetic --    
-  made of plastics and rubbers. 
+today it's synthetic -- made of plastics and rubbers.
 
 148
 00:11:26,486 --> 00:11:28,953
-     they pour the gum base     
-          into a mixer,         
+they pour the gum base into a mixer,
 
 149
 00:11:28,955 --> 00:11:32,590
-  then add color and flavoring. 
+then add color and flavoring.
 
 150
 00:11:39,166 --> 00:11:43,634
- as it begins mixing, they pour 
- in glucose syrup, a sweetener. 
+as it begins mixing, they pour in glucose syrup, a sweetener.
 
 151
 00:11:43,636 --> 00:11:47,439
-      because it's liquid,      
-it helps keep the gum base soft.
+because it's liquid, it helps keep the gum base soft.
 
 152
 00:11:52,512 --> 00:11:56,114
-    next, they add dextrose,    
-      a powdered sweetener.     
+next, they add dextrose, a powdered sweetener.
 
 153
 00:11:56,116 --> 00:11:59,184
-   they blend the ingredients   
-      for about 20 minutes.     
+they blend the ingredients for about 20 minutes.
 
 154
 00:11:59,186 --> 00:12:01,252
-       the stirring action      
-         builds up heat,        
+the stirring action builds up heat,
 
 155
 00:12:01,254 --> 00:12:03,822
@@ -727,37 +634,33 @@ which melts everything together.
 
 156
 00:12:32,218 --> 00:12:33,551
-      the mixture is ready      
+the mixture is ready
 
 157
 00:12:33,553 --> 00:12:36,687
- when it reaches the consistency
-         of bread dough.        
+when it reaches the consistency
+of bread dough.
 
 158
 00:12:36,689 --> 00:12:41,292
-  they transfer it by cart to a 
-machine called the pre-extruder.
+they transfer it by cart to a machine called the pre-extruder.
 
 159
 00:12:42,629 --> 00:12:46,431
 the machine squeezes the mixture
-    through a narrow opening,   
+through a narrow opening,
 
 160
 00:12:46,433 --> 00:12:49,100
-    like squeezing toothpaste   
-         from the tube.         
+like squeezing toothpaste from the tube.
 
 161
 00:12:49,102 --> 00:12:52,837
- this transforms the big, bulky 
-wad into thin, manageable strips
+this transforms the big, bulky wad into thin, manageable strips
 
 162
 00:12:52,839 --> 00:12:55,473
-        that can then go        
-     through the extruders.     
+that can then go through the extruders.
 
 163
 00:12:58,911 --> 00:13:01,312
@@ -765,63 +668,58 @@ the extruders squeeze each strip
 
 164
 00:13:01,314 --> 00:13:04,783
-    down to the actual width    
-    of a piece of bubble gum.   
+down to the actual width of a piece of bubble gum.
 
 165
 00:13:04,785 --> 00:13:08,186
-    it comes out as one long,   
-       continuous stream,       
+it comes out as one long, continuous stream,
 
 166
 00:13:08,188 --> 00:13:11,356
- to be cut into bite-size pieces
-            later on.           
+to be cut into bite-size pieces
+later on.
 
 167
 00:13:13,192 --> 00:13:16,194
- this extrusion process heats up
-            the gum.            
+this extrusion process heats up
+the gum.
 
 168
 00:13:16,196 --> 00:13:17,995
-       if they were to cut      
-        and wrap it now,        
+if they were to cut and wrap it now,
 
 169
 00:13:17,997 --> 00:13:19,330
- it would stick to the wrapper, 
+it would stick to the wrapper,
 
 170
 00:13:19,332 --> 00:13:21,999
-        so the next stop        
-      is a cooling chamber.     
+so the next stop is a cooling chamber.
 
 171
 00:13:22,001 --> 00:13:24,068
- the gum goes in for 15 minutes 
+the gum goes in for 15 minutes
 
 172
 00:13:24,070 --> 00:13:28,339
-     at temperatures between    
-  37 and 45 degrees fahrenheit. 
+at temperatures between 37 and 45 degrees fahrenheit.
 
 173
 00:13:36,015 --> 00:13:38,149
- when the bubble gum comes out, 
+when the bubble gum comes out,
 
 174
 00:13:38,151 --> 00:13:42,487
 it's cooled down enough for what
-  they call the "cut and wrap." 
+they call the "cut and wrap."
 
 175
 00:13:42,489 --> 00:13:44,823
-   one machine does both jobs   
+one machine does both jobs
 
 176
 00:13:44,825 --> 00:13:47,492
-   in a fraction of a second.   
+in a fraction of a second.
 
 177
 00:13:47,494 --> 00:13:51,029
@@ -829,52 +727,45 @@ watch the action in slow motion.
 
 178
 00:13:51,031 --> 00:13:54,299
- as the continuous stream of gum
-       enters on one end,       
+as the continuous stream of gum
+enters on one end,
 
 179
 00:13:54,301 --> 00:13:57,101
-       the machine cuts it      
-     into bite-size pieces,     
+the machine cuts it into bite-size pieces,
 
 180
 00:13:57,103 --> 00:14:00,505
-        pushes each piece       
-    into a wax-paper wrapper,   
+pushes each piece into a wax-paper wrapper,
 
 181
 00:14:00,507 --> 00:14:03,875
-     then twists both ends      
-     of the wrapper closed.     
+then twists both ends of the wrapper closed.
 
 182
 00:14:17,924 --> 00:14:21,526
-  here's the slow-motion replay 
-     from a different angle.    
+here's the slow-motion replay from a different angle.
 
 183
 00:14:34,674 --> 00:14:39,677
 the machine processes 900 pieces
-    of bubble gum per minute.   
+of bubble gum per minute.
 
 184
 00:14:51,291 --> 00:14:53,824
-     last stop -- packaging.    
+last stop -- packaging.
 
 185
 00:14:53,826 --> 00:14:55,893
-         the bubble gum         
-       moves onto a scale       
+the bubble gum moves onto a scale
 
 186
 00:14:55,895 --> 00:14:58,963
-  that automatically weighs out 
-    the right amount per tub.   
+that automatically weighs out the right amount per tub.
 
 187
 00:15:07,440 --> 00:15:11,709
- they seal the tub with plastic 
-      to make it airtight.      
+they seal the tub with plastic to make it airtight.
 
 188
 00:15:11,711 --> 00:15:15,045
@@ -882,114 +773,99 @@ this keeps the bubble gum fresh.
 
 189
 00:15:15,047 --> 00:15:17,448
-   ever wonder why bubble gum   
-            is pink?            
+ever wonder why bubble gum is pink?
 
 190
 00:15:17,450 --> 00:15:20,919
-  it's because that's the only  
- color walter diemer had on hand
+it's because that's the only color walter diemer had on hand
 
 191
 00:15:20,921 --> 00:15:24,255
-   when he invented this treat  
-          back in 1928.         
+when he invented this treat back in 1928.
 
 192
 00:15:24,257 --> 00:15:27,992
-           since then,          
-      the color just stuck.     
+since then, the color just stuck.
 
 193
 00:15:35,334 --> 00:15:38,937
- narrator: what's a 4th of july 
-celebration without fireworks --
+narrator: what's a 4th of july celebration without fireworks --
 
 194
 00:15:38,939 --> 00:15:41,472
-   brilliant colors exploding   
-           in the air,          
+brilliant colors exploding in the air,
 
 195
 00:15:41,474 --> 00:15:44,274
-  the oohs and ahhs they elicit 
-         on the ground?         
+the oohs and ahhs they elicit on the ground?
 
 196
 00:15:44,276 --> 00:15:46,744
-   fireworks are so high-tech   
-           these days,          
+fireworks are so high-tech these days,
 
 197
 00:15:46,746 --> 00:15:50,581
-       it's easy to forget      
- they're not a modern invention.
+it's easy to forget they're not a modern invention.
 
 198
 00:15:56,890 --> 00:15:59,290
-  historians believe gunpowder, 
+historians believe gunpowder,
 
 199
 00:15:59,292 --> 00:16:01,359
-    the explosive ingredient    
-          in fireworks,         
+the explosive ingredient in fireworks,
 
 200
 00:16:01,361 --> 00:16:05,162
-      was invented in china     
-        around 1000 a.d.        
+was invented in china around 1000 a.d.
 
 201
 00:16:05,164 --> 00:16:07,265
-            it's said           
-    that in a famous battle,    
+it's said that in a famous battle,
 
 202
 00:16:07,267 --> 00:16:10,034
- the chinese emperor illuminated
-        the sky with it,        
+the chinese emperor illuminated
+the sky with it,
 
 203
 00:16:10,036 --> 00:16:13,237
-     scaring away the enemy.    
+scaring away the enemy.
 
 204
 00:16:13,239 --> 00:16:14,705
-     during the renaissance,    
+during the renaissance,
 
 205
 00:16:14,707 --> 00:16:18,309
- the europeans invented the type
-   of fireworks we know today.  
+the europeans invented the type
+of fireworks we know today.
 
 206
 00:16:20,446 --> 00:16:22,113
-     modern pyrotechnicians     
+modern pyrotechnicians
 
 207
 00:16:22,115 --> 00:16:25,916
-     use computers to ignite    
- fireworks from a safe distance 
+use computers to ignite fireworks from a safe distance
 
 208
 00:16:25,918 --> 00:16:29,087
- and to synchronize their bursts
-           with music.          
+and to synchronize their bursts
+with music.
 
 209
 00:16:42,335 --> 00:16:44,868
-      assembling explosives     
-         into fireworks         
+assembling explosives into fireworks
 
 210
 00:16:44,870 --> 00:16:47,404
-           is the job           
-     of the pyrotechnician.     
+is the job of the pyrotechnician.
 
 211
 00:16:47,406 --> 00:16:51,676
 even the tiniest spark of static
-electricity could set them off, 
+electricity could set them off,
 
 212
 00:16:51,678 --> 00:16:54,812
@@ -997,31 +873,28 @@ so antistatic gloves are a must.
 
 213
 00:16:54,814 --> 00:16:56,280
-      a firework is made up     
+a firework is made up
 
 214
 00:16:56,282 --> 00:16:59,017
-    of separate compartments    
-         within a shell.        
+of separate compartments within a shell.
 
 215
 00:16:59,019 --> 00:17:02,553
-   the burning fuse explodes    
-   one compartment at a time,   
+the burning fuse explodes one compartment at a time,
 
 216
 00:17:02,555 --> 00:17:06,290
- creating those staggered bursts
-           in the sky.          
+creating those staggered bursts
+in the sky.
 
 217
 00:17:06,292 --> 00:17:09,560
- the pyrotechnician first glues 
-          the main fuse         
+the pyrotechnician first glues the main fuse
 
 218
 00:17:09,562 --> 00:17:11,496
-  into the bottom of the shell. 
+into the bottom of the shell.
 
 219
 00:17:11,498 --> 00:17:13,631
@@ -1029,265 +902,233 @@ the glue is naturally colorless.
 
 220
 00:17:13,633 --> 00:17:17,935
-  it's dyed blue so he can tell 
- exactly where he's applying it.
+it's dyed blue so he can tell exactly where he's applying it.
 
 221
 00:17:21,708 --> 00:17:25,576
 he puts the bottom aside to work
-    on the second compartment   
+on the second compartment
 
 222
 00:17:25,578 --> 00:17:27,512
- of this 2-compartment firework.
+of this 2-compartment firework.
 
 223
 00:17:27,514 --> 00:17:32,050
 he starts by spooning a powdered
-   explosive into the center.   
+explosive into the center.
 
 224
 00:17:38,658 --> 00:17:40,591
-        then he caps it.        
+then he caps it.
 
 225
 00:17:40,593 --> 00:17:43,694
-        here he's working       
-   on two fireworks at a time.  
+here he's working on two fireworks at a time.
 
 226
 00:17:48,667 --> 00:17:52,136
- next step -- a brown cardboard 
-         shock absorber         
+next step -- a brown cardboard shock absorber
 
 227
 00:17:52,138 --> 00:17:56,140
-to shield this compartment from 
-the first compartment explosion.
+to shield this compartment from the first compartment explosion.
 
 228
 00:17:56,142 --> 00:18:00,812
 then a corrugated cardboard disk
-      and a plastic spacer.     
+and a plastic spacer.
 
 229
 00:18:00,814 --> 00:18:02,947
-       it'll take the fuse      
-          1 1/2 seconds         
+it'll take the fuse 1 1/2 seconds
 
 230
 00:18:02,949 --> 00:18:05,283
-         to burn through        
-      these two components,     
+to burn through these two components,
 
 231
 00:18:05,285 --> 00:18:07,285
-     creating a slight delay    
+creating a slight delay
 
 232
 00:18:07,287 --> 00:18:10,354
-   between the first explosion  
-         and the second.        
+between the first explosion and the second.
 
 233
 00:18:10,356 --> 00:18:13,424
-  gluing the second compartment 
-       together is tricky.      
+gluing the second compartment together is tricky.
 
 234
 00:18:13,426 --> 00:18:16,360
-       if it's too tight,       
-   it'll stifle the explosion,  
+if it's too tight, it'll stifle the explosion,
 
 235
 00:18:16,362 --> 00:18:20,030
-  but it has to be tight enough 
-     to withstand the delay.    
+but it has to be tight enough to withstand the delay.
 
 236
 00:18:20,032 --> 00:18:22,233
-   with the second compartment  
-              done,             
+with the second compartment done,
 
 237
 00:18:22,235 --> 00:18:24,502
- it's time to prepare the first.
+it's time to prepare the first.
 
 238
 00:18:24,504 --> 00:18:27,037
- he glues a sleeve onto a case, 
+he glues a sleeve onto a case,
 
 239
 00:18:27,039 --> 00:18:30,041
-          then fills it         
-     with hundreds of stars.    
+then fills it with hundreds of stars.
 
 240
 00:18:30,043 --> 00:18:33,110
-      stars are what create     
-      the flashes of color.     
+stars are what create the flashes of color.
 
 241
 00:18:33,112 --> 00:18:35,513
-   they're carefully measured   
-           explosives           
+they're carefully measured explosives
 
 242
 00:18:35,515 --> 00:18:37,247
-   mixed with coloring agents   
+mixed with coloring agents
 
 243
 00:18:37,249 --> 00:18:40,784
-  such as magnesium for white,  
-     copper salts for blue,     
+such as magnesium for white, copper salts for blue,
 
 244
 00:18:40,786 --> 00:18:42,653
-    and charcoal for orange.    
+and charcoal for orange.
 
 245
 00:18:42,655 --> 00:18:45,990
-       the pyrotechnician       
-   must handle them gingerly,   
+the pyrotechnician must handle them gingerly,
 
 246
 00:18:45,992 --> 00:18:48,593
-     or they could detonate.    
+or they could detonate.
 
 247
 00:18:48,595 --> 00:18:53,164
-  next, he adds comets, another 
-  type of exploding decoration. 
+next, he adds comets, another type of exploding decoration.
 
 248
 00:18:58,204 --> 00:19:01,072
- he tops it off with gunpowder. 
+he tops it off with gunpowder.
 
 249
 00:19:13,953 --> 00:19:17,221
-        finally, he glues       
- the two compartments together, 
+finally, he glues the two compartments together,
 
 250
 00:19:17,223 --> 00:19:18,956
-   filling the remaining space  
+filling the remaining space
 
 251
 00:19:18,958 --> 00:19:21,526
-    with the same combination   
-         of ingredients.        
+with the same combination of ingredients.
 
 252
 00:19:36,576 --> 00:19:39,576
-     once the shell is full,    
-     he glues on the cover,     
+once the shell is full, he glues on the cover,
 
 253
 00:19:39,578 --> 00:19:41,445
-  and the tighter, the better.  
+and the tighter, the better.
 
 254
 00:19:41,447 --> 00:19:43,381
-        the more pressure       
-         that builds up,        
+the more pressure that builds up,
 
 255
 00:19:43,383 --> 00:19:46,784
- the bigger and more spectacular
-         the explosion.         
+the bigger and more spectacular
+the explosion.
 
 256
 00:19:48,654 --> 00:19:52,323
-  next, he wraps the fireworks  
-         in craft paper.        
+next, he wraps the fireworks in craft paper.
 
 257
 00:19:52,325 --> 00:19:55,726
-         the label uses         
-    international color codes   
+the label uses international color codes
 
 258
 00:19:55,728 --> 00:19:58,262
-      to indicate the size      
-          of the shell.         
+to indicate the size of the shell.
 
 259
 00:19:58,264 --> 00:20:00,131
-       the lift charge --       
+the lift charge --
 
 260
 00:20:00,133 --> 00:20:03,067
-  a gunpowder bag with a long,  
-       fast-action fuse --      
+a gunpowder bag with a long, fast-action fuse --
 
 261
 00:20:03,069 --> 00:20:05,536
- goes at the base of the shell. 
+goes at the base of the shell.
 
 262
 00:20:05,538 --> 00:20:08,706
 that's what'll send the firework
-          into the sky.         
+into the sky.
 
 263
 00:20:15,682 --> 00:20:18,082
-  when they light the main fuse 
-           at the top,          
+when they light the main fuse at the top,
 
 264
 00:20:18,084 --> 00:20:21,752
-        it simultaneously       
-  lights two secondary fuses -- 
+it simultaneously lights two secondary fuses --
 
 265
 00:20:21,754 --> 00:20:24,288
-       the time-delay fuse      
-        inside the shell,       
+the time-delay fuse inside the shell,
 
 266
 00:20:24,290 --> 00:20:26,357
 running through the compartments
-          of explosives         
+of explosives
 
 267
 00:20:26,359 --> 00:20:29,293
-       and that long fuse       
-    running along the outside   
+and that long fuse running along the outside
 
 268
 00:20:29,295 --> 00:20:31,729
-     down to the lift charge    
-          at the base.          
+down to the lift charge at the base.
 
 269
 00:20:42,308 --> 00:20:44,175
-  once the lift charge ignites, 
+once the lift charge ignites,
 
 270
 00:20:44,177 --> 00:20:48,845
 heat and gas build up inside the
-launch tube until they explode, 
+launch tube until they explode,
 
 271
 00:20:48,847 --> 00:20:53,284
-     propelling the firework    
-  close to 1,000 feet skyward.  
+propelling the firework close to 1,000 feet skyward.
 
 272
 00:20:55,321 --> 00:20:57,688
-    let the light show begin.   
+let the light show begin.
 
 273
 00:21:10,136 --> 00:21:12,336
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,
 
 274
 00:21:12,338 --> 00:21:15,072
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,
 
 275
 00:21:15,074 --> 00:21:19,410
-      drop us a line at...      
+drop us a line at...
+
 

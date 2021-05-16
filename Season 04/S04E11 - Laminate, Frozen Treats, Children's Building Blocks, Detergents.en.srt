@@ -1,25 +1,22 @@
 ﻿1
 00:00:01,635 --> 00:00:04,536
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,671 --> 00:00:07,639
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:22,356 --> 00:00:26,892
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:26,894 --> 00:00:29,661
-           laminate...          
+laminate...          
 
 5
 00:00:32,032 --> 00:00:34,533
-       ...frozen treats...      
+...frozen treats...      
 
 6
 00:00:37,805 --> 00:00:41,306
@@ -27,68 +24,61 @@
 
 7
 00:00:43,411 --> 00:00:45,277
-       ...and detergents.       
+...and detergents.       
 
 8
 00:00:52,453 --> 00:00:55,454
-      narrator: laminate is     
+narrator: laminate is     
 a thin, decorative surface layer
 
 9
 00:00:55,456 --> 00:00:58,256
-      that's usually glued      
-    onto a particleboard base   
+that's usually glued onto a particleboard base   
 
 10
 00:00:58,325 --> 00:01:00,392
-     to create a countertop.    
+to create a countertop.    
 
 11
 00:01:00,461 --> 00:01:04,129
-  laminate is, by far, the most 
- affordable countertop material 
+laminate is, by far, the most affordable countertop material 
 
 12
 00:01:04,198 --> 00:01:05,530
-         on the market.         
+on the market.         
 
 13
 00:01:05,599 --> 00:01:08,667
-  it comes in an endless choice 
-     of colors and patterns,    
+it comes in an endless choice of colors and patterns,    
 
 14
 00:01:08,669 --> 00:01:11,737
-           from solids          
-  to simulated wood or granite. 
+from solids to simulated wood or granite. 
 
 15
 00:01:15,476 --> 00:01:18,743
-     they also use laminate     
+they also use laminate     
 for kitchen cabinets, furniture,
 
 16
 00:01:18,779 --> 00:01:20,812
-    and laboratory surfaces.    
+and laboratory surfaces.    
 
 17
 00:01:20,881 --> 00:01:24,416
-      and they manufacture      
-  fast-food restaurant seating, 
+and they manufacture fast-food restaurant seating, 
 
 18
 00:01:24,418 --> 00:01:27,486
-       among other things,      
-  out of a thicker, solid form  
+among other things, out of a thicker, solid form  
 
 19
 00:01:27,488 --> 00:01:31,022
-         of the material        
-    called compact laminate.    
+of the material called compact laminate.    
 
 20
 00:01:31,058 --> 00:01:32,757
-  the back of a laminate sheet  
+the back of a laminate sheet  
 
 21
 00:01:32,793 --> 00:01:34,560
@@ -96,13 +86,11 @@ is made of a type of kraft paper
 
 22
 00:01:34,562 --> 00:01:38,430
-  that can be saturated without 
-   becoming soggy and tearing.  
+that can be saturated without becoming soggy and tearing.  
 
 23
 00:01:38,499 --> 00:01:41,567
-      a treater drenches it     
-  with resin containing phenol, 
+a treater drenches it with resin containing phenol, 
 
 24
 00:01:41,702 --> 00:01:44,569
@@ -110,250 +98,216 @@ a compound derived from benzene.
 
 25
 00:01:44,638 --> 00:01:46,572
-            the resin           
-  doesn't just coat the paper.  
+the resin doesn't just coat the paper.  
 
 26
 00:01:46,574 --> 00:01:48,640
-    it absorbs right through.   
+it absorbs right through.   
 
 27
 00:01:48,676 --> 00:01:51,710
-            the paper           
-   then enters a drying oven.   
+the paper then enters a drying oven.   
 
 28
 00:01:51,845 --> 00:01:54,913
-   the hot air cures the resin  
-     in a matter of seconds.    
+the hot air cures the resin in a matter of seconds.    
 
 29
 00:01:55,048 --> 00:01:58,984
-   now they can wind the paper  
-          into a roll.          
+now they can wind the paper into a roll.          
 
 30
 00:01:59,053 --> 00:02:02,253
-     the top of the laminate    
- is called the decorative layer.
+the top of the laminate is called the decorative layer.
 
 31
 00:02:02,289 --> 00:02:03,522
-      it's a sheet of paper     
+it's a sheet of paper     
 
 32
 00:02:03,591 --> 00:02:06,191
-   in either a printed design   
-        or a solid color.       
+in either a printed design or a solid color.       
 
 33
 00:02:06,260 --> 00:02:08,794
-       solid-color papers       
-      go through a treater      
+solid-color papers go through a treater      
 
 34
 00:02:08,929 --> 00:02:12,631
-   that impregnates them with   
+that impregnates them with   
 the more durable melamine resin.
 
 35
 00:02:13,934 --> 00:02:15,600
-     durability is essential    
+durability is essential    
 
 36
 00:02:15,636 --> 00:02:19,471
-  because the decorative layer  
-  must withstand wear and tear. 
+because the decorative layer must withstand wear and tear. 
 
 37
 00:02:19,606 --> 00:02:22,474
-         two big rollers        
-   ring out the excess resin.   
+two big rollers ring out the excess resin.   
 
 38
 00:02:22,476 --> 00:02:26,077
-    then the saturated paper    
-   goes through a drying oven.  
+then the saturated paper goes through a drying oven.  
 
 39
 00:02:26,147 --> 00:02:28,747
-    with the resin now cured,   
+with the resin now cured,   
 
 40
 00:02:28,816 --> 00:02:31,550
-    a cutter slices the paper   
-          into sheets.          
+a cutter slices the paper into sheets.          
 
 41
 00:02:35,890 --> 00:02:37,488
-     before resin treatment,    
+before resin treatment,    
 
 42
 00:02:37,525 --> 00:02:40,325
-            the paper           
- was flexible and easy to tear. 
+the paper was flexible and easy to tear. 
 
 43
 00:02:43,664 --> 00:02:46,231
-   now it's stiff and brittle.  
+now it's stiff and brittle.  
 
 44
 00:02:46,300 --> 00:02:49,168
-      bend it, and it snaps     
-       like a potato chip.      
+bend it, and it snaps like a potato chip.      
 
 45
 00:02:53,374 --> 00:02:56,975
-  while the rolls of saturated  
+while the rolls of saturated  
 kraft paper get cut into sheets,
 
 46
 00:02:57,110 --> 00:03:00,245
- workers prepare the other style
-     of decorative layers --    
+workers prepare the other style
+of decorative layers --    
 
 47
 00:03:00,247 --> 00:03:01,647
-   those with printed design,   
+those with printed design,   
 
 48
 00:03:01,782 --> 00:03:03,982
-  such as simulated wood grains 
-          and granite.          
+such as simulated wood grains and granite.          
 
 49
 00:03:04,051 --> 00:03:07,586
-      the treatment process     
-        for these papers        
+the treatment process for these papers        
 
 50
 00:03:07,655 --> 00:03:11,323
-  is quite different than that  
-   for the solid-color papers.  
+is quite different than that for the solid-color papers.  
 
 51
 00:03:14,662 --> 00:03:17,062
-          workers start         
-   by cutting them into sheets  
+workers start by cutting them into sheets  
 
 52
 00:03:17,131 --> 00:03:19,665
-         the same length        
-   as the kraft-paper sheets.   
+the same length as the kraft-paper sheets.   
 
 53
 00:03:21,569 --> 00:03:23,401
-          these papers          
-     don't go into a treater    
+these papers don't go into a treater    
 
 54
 00:03:23,437 --> 00:03:25,137
-   to be saturated with resin.  
+to be saturated with resin.  
 
 55
 00:03:25,272 --> 00:03:29,808
-   instead workers stack them,  
- placing an overlay on each one.
+instead workers stack them, placing an overlay on each one.
 
 56
 00:03:29,943 --> 00:03:32,544
-          an overlay is         
-  a transparent sheet of paper  
+an overlay is a transparent sheet of paper  
 
 57
 00:03:32,546 --> 00:03:35,347
-        that's saturated        
-       with melanin resin.      
+that's saturated with melanin resin.      
 
 58
 00:03:35,349 --> 00:03:39,284
-  workers stack the solid-color 
-    sheets in the same pile,    
+workers stack the solid-color sheets in the same pile,    
 
 59
 00:03:39,419 --> 00:03:40,952
-  but those don't need overlays 
+but those don't need overlays 
 
 60
 00:03:41,021 --> 00:03:44,423
-  because they've already been  
-        resin-saturated.        
+because they've already been resin-saturated.        
 
 61
 00:03:44,425 --> 00:03:47,526
-          now the stack         
-     goes to the press room.    
+now the stack goes to the press room.    
 
 62
 00:03:50,097 --> 00:03:52,630
-         there, workers         
-    put saturated kraft paper   
+there, workers put saturated kraft paper   
 
 63
 00:03:52,666 --> 00:03:54,733
-  under each decorative layer.  
+under each decorative layer.  
 
 64
 00:03:58,372 --> 00:04:02,241
 on top of each decorative layer,
-   they lay a textured plate.   
+they lay a textured plate.   
 
 65
 00:04:02,376 --> 00:04:06,545
- this will prevent the finished 
+this will prevent the finished 
 laminate from sticking together.
 
 66
 00:04:16,924 --> 00:04:19,992
-           everything           
-     now goes into a press.     
+everything now goes into a press.     
 
 67
 00:04:20,127 --> 00:04:23,528
-  the intense heat and pressure 
-      compress the layers.      
+the intense heat and pressure compress the layers.      
 
 68
 00:04:23,530 --> 00:04:25,930
-          the overlays          
-   bond to the printed papers,  
+the overlays bond to the printed papers,  
 
 69
 00:04:26,000 --> 00:04:29,468
-  and the saturated kraft paper 
- bonds to each decorative layer,
+and the saturated kraft paper bonds to each decorative layer,
 
 70
 00:04:29,603 --> 00:04:31,703
-    creating laminate sheets.   
+creating laminate sheets.   
 
 71
 00:04:33,340 --> 00:04:35,674
-       the textured plates      
-        between each set        
+the textured plates between each set        
 
 72
 00:04:35,676 --> 00:04:39,344
-      imprint their pattern     
-  onto the heat-softened resin, 
+imprint their pattern onto the heat-softened resin, 
 
 73
 00:04:39,380 --> 00:04:41,446
- texturing the laminate surface.
+texturing the laminate surface.
 
 74
 00:04:45,552 --> 00:04:48,720
-     the laminates come out     
-    of the press fully cured.   
+the laminates come out of the press fully cured.   
 
 75
 00:04:59,099 --> 00:05:01,232
-     on the finishing line,     
+on the finishing line,     
 
 76
 00:05:01,268 --> 00:05:04,303
-        machines trim off       
-  any excess paper on the edges 
+machines trim off any excess paper on the edges 
 
 77
 00:05:04,438 --> 00:05:07,239
@@ -361,448 +315,381 @@ and sand the back of the sheets.
 
 78
 00:05:07,374 --> 00:05:09,107
-     this helps the laminate    
-          adhere better         
+this helps the laminate adhere better         
 
 79
 00:05:09,143 --> 00:05:12,510
-   when glued to particleboard  
-  or another type of substrate. 
+when glued to particleboard or another type of substrate. 
 
 80
 00:05:12,579 --> 00:05:14,913
-  to produce compact laminates, 
+to produce compact laminates, 
 
 81
 00:05:14,982 --> 00:05:18,850
-  workers compile a thick stack 
- of black saturated kraft papers
+workers compile a thick stack of black saturated kraft papers
 
 82
 00:05:18,985 --> 00:05:21,820
-         and sandwich it        
- between two decorative layers. 
+and sandwich it between two decorative layers. 
 
 83
 00:05:23,424 --> 00:05:27,659
-  the press melts and bonds all 
-  the sheets into a solid unit. 
+the press melts and bonds all the sheets into a solid unit. 
 
 84
 00:05:27,794 --> 00:05:31,596
-       alternating colors       
-     produce a striped edge.    
+alternating colors produce a striped edge.    
 
 85
 00:05:31,598 --> 00:05:33,865
- compact laminates are so thick,
+compact laminates are so thick,
 
 86
 00:05:33,934 --> 00:05:36,000
-        they're entirely        
-        self-supporting.        
+they're entirely self-supporting.        
 
 87
 00:05:36,070 --> 00:05:37,869
-     unlike laminate sheets,    
+unlike laminate sheets,    
 
 88
 00:05:37,871 --> 00:05:40,806
-         they don't need        
-  to be applied to a substrate. 
+they don't need to be applied to a substrate. 
 
 89
 00:05:47,848 --> 00:05:49,881
-            narrator:           
-   on a sweltering summer day,  
+narrator: on a sweltering summer day,  
 
 90
 00:05:49,950 --> 00:05:52,484
-         a frozen treat         
-       sure hits the spot.      
+a frozen treat sure hits the spot.      
 
 91
 00:05:52,619 --> 00:05:55,821
- eating a fruit bar, fudge bar, 
-    or ice-cream bar, though,   
+eating a fruit bar, fudge bar, or ice-cream bar, though,   
 
 92
 00:05:55,956 --> 00:05:57,889
-  requires a certain strategy.  
+requires a certain strategy.  
 
 93
 00:05:57,891 --> 00:06:00,092
-   you have to hold the treat   
-          by the stick,         
+you have to hold the treat by the stick,         
 
 94
 00:06:00,227 --> 00:06:02,961
-      lean slightly forward     
-       to dodge the drips,      
+lean slightly forward to dodge the drips,      
 
 95
 00:06:02,963 --> 00:06:06,832
-   then lick like crazy before  
+then lick like crazy before  
 it melts and lands at your feet.
 
 96
 00:06:11,171 --> 00:06:13,171
-         the outer shell        
-       of these cream pops      
+the outer shell of these cream pops      
 
 97
 00:06:13,306 --> 00:06:15,040
- starts with a transparent base 
+starts with a transparent base 
 
 98
 00:06:15,175 --> 00:06:19,311
-  made of water, liquid sugar,  
-    corn syrup, citric acid,    
+made of water, liquid sugar, corn syrup, citric acid,    
 
 99
 00:06:19,446 --> 00:06:21,112
-        and a stabilizer.       
+and a stabilizer.       
 
 100
 00:06:21,115 --> 00:06:23,782
-          it travels to         
+it travels to         
 three separate compartment vats,
 
 101
 00:06:23,851 --> 00:06:26,051
-     each of which mixes in     
-      a different coloring      
+each of which mixes in a different coloring      
 
 102
 00:06:26,053 --> 00:06:27,385
-         and flavoring.         
+and flavoring.         
 
 103
 00:06:27,388 --> 00:06:31,523
-      this company produces     
- three flavors of cream pops -- 
+this company produces three flavors of cream pops -- 
 
 104
 00:06:31,525 --> 00:06:35,327
-       strawberry, orange,      
-       and blue raspberry.      
+strawberry, orange, and blue raspberry.      
 
 105
 00:06:35,462 --> 00:06:37,529
-      each compartment vat      
-        pumps its flavor        
+each compartment vat pumps its flavor        
 
 106
 00:06:37,598 --> 00:06:40,198
-          to a machine          
-   called the filling hopper.   
+to a machine called the filling hopper.   
 
 107
 00:06:40,267 --> 00:06:43,802
-  the hopper injects the liquid 
-        into row upon row       
+the hopper injects the liquid into row upon row       
 
 108
 00:06:43,871 --> 00:06:47,606
- of half-ounce pop-shaped molds.
+of half-ounce pop-shaped molds.
 
 109
 00:06:47,741 --> 00:06:51,877
-    this production line has    
- 340 molds in continuous motion.
+this production line has 340 molds in continuous motion.
 
 110
 00:06:56,550 --> 00:06:59,551
-        the molds descend       
-      into a tank of brine,     
+the molds descend into a tank of brine,     
 
 111
 00:06:59,620 --> 00:07:02,354
-    water chilled to negative   
-      30 degrees fahrenheit     
+water chilled to negative 30 degrees fahrenheit     
 
 112
 00:07:02,356 --> 00:07:04,088
-       mixed with calcium.      
+mixed with calcium.      
 
 113
 00:07:04,158 --> 00:07:07,425
- calcium works like antifreeze, 
+calcium works like antifreeze, 
 
 114
 00:07:07,494 --> 00:07:11,363
 keeping the water liquid despite
- the below-freezing temperature.
+the below-freezing temperature.
 
 115
 00:07:13,233 --> 00:07:15,633
-       as the molds travel      
-   through the ice-cold brine,  
+as the molds travel through the ice-cold brine,  
 
 116
 00:07:15,669 --> 00:07:18,636
-       the liquid freezes       
-    from the outside inward,    
+the liquid freezes from the outside inward,    
 
 117
 00:07:18,705 --> 00:07:19,771
-        creating a shell        
+creating a shell        
 
 118
 00:07:19,906 --> 00:07:22,474
-        that will encase        
-  the pops' ice-cream filling.  
+that will encase the pops' ice-cream filling.  
 
 119
 00:07:24,444 --> 00:07:27,245
-         once the shell         
-    is 1/10 of an inch thick,   
+once the shell is 1/10 of an inch thick,   
 
 120
 00:07:27,380 --> 00:07:29,380
-            a machine           
-   called a suction evacuator   
+a machine called a suction evacuator   
 
 121
 00:07:29,450 --> 00:07:31,249
-   removes the unfrozen liquid  
+removes the unfrozen liquid  
 
 122
 00:07:31,285 --> 00:07:33,251
-        and feeds it back       
-     to the filling hopper,     
+and feeds it back to the filling hopper,     
 
 123
 00:07:33,386 --> 00:07:36,288
-        to be re-injected       
-    at the start of the line.   
+to be re-injected at the start of the line.   
 
 124
 00:07:45,265 --> 00:07:48,300
-    the shells are empty now    
-     and ready for filling.     
+the shells are empty now and ready for filling.     
 
 125
 00:07:53,807 --> 00:07:56,808
-  the ice-cream filling is made 
-    of various milk products    
+the ice-cream filling is made of various milk products    
 
 126
 00:07:56,877 --> 00:08:00,679
- blended with liquid cane sugar,
-    corn syrup, stabilizers,    
+blended with liquid cane sugar,
+corn syrup, stabilizers,    
 
 127
 00:08:00,681 --> 00:08:04,816
-         and emulsifiers        
-   to puff up the consistency.  
+and emulsifiers to puff up the consistency.  
 
 128
 00:08:04,818 --> 00:08:07,152
-           the factory          
-    pasteurizes the mixture,    
+the factory pasteurizes the mixture,    
 
 129
 00:08:07,287 --> 00:08:11,356
-    heating it for 35 seconds   
-   at 180 degrees fahrenheit,   
+heating it for 35 seconds at 180 degrees fahrenheit,   
 
 130
 00:08:11,358 --> 00:08:12,757
-        then freezing it.       
+then freezing it.       
 
 131
 00:08:12,793 --> 00:08:14,759
-   it homogenizes the filling,  
+it homogenizes the filling,  
 
 132
 00:08:14,795 --> 00:08:17,662
-    skimming off the milk fat   
-   that rises to the surface.   
+skimming off the milk fat that rises to the surface.   
 
 133
 00:08:20,367 --> 00:08:22,567
-           the shells           
-   are still floating in brine  
+the shells are still floating in brine  
 
 134
 00:08:22,569 --> 00:08:24,970
-          as they reach         
-      the filling station.      
+as they reach the filling station.      
 
 135
 00:08:24,972 --> 00:08:26,972
-       the machine shoots       
-        in the ice cream,       
+the machine shoots in the ice cream,       
 
 136
 00:08:26,974 --> 00:08:28,373
-   overfilling the shell a bit  
+overfilling the shell a bit  
 
 137
 00:08:28,508 --> 00:08:30,942
-         to create a cap        
-      4/10 of an inch wide.     
+to create a cap 4/10 of an inch wide.     
 
 138
 00:08:36,683 --> 00:08:40,985
-      the ice cream begins      
-  to harden in the cold brine.  
+the ice cream begins to harden in the cold brine.  
 
 139
 00:08:41,054 --> 00:08:43,521
-         once it reaches        
-      a semi-frozen state,      
+once it reaches a semi-frozen state,      
 
 140
 00:08:43,590 --> 00:08:46,190
-     a machine appropriately    
-    called the stick inserter   
+a machine appropriately called the stick inserter   
 
 141
 00:08:46,260 --> 00:08:48,627
-       pops a wooden stick      
-          in each mold.         
+pops a wooden stick in each mold.         
 
 142
 00:08:57,804 --> 00:08:59,804
-  now the molds leave the brine 
+now the molds leave the brine 
 
 143
 00:08:59,873 --> 00:09:03,841
-    and enter a tank of warm    
- water -- 75 degrees fahrenheit,
+and enter a tank of warm water -- 75 degrees fahrenheit,
 
 144
 00:09:03,843 --> 00:09:06,878
-      hot enough to detach      
-  the cream pops from the mold  
+hot enough to detach the cream pops from the mold  
 
 145
 00:09:06,947 --> 00:09:10,081
-      without melting them      
-         in the process.        
+without melting them in the process.        
 
 146
 00:09:10,150 --> 00:09:12,950
-     from initial injection     
-      to final extraction,      
+from initial injection to final extraction,      
 
 147
 00:09:12,986 --> 00:09:14,819
-    it's been seven minutes.    
+it's been seven minutes.    
 
 148
 00:09:18,625 --> 00:09:21,159
-        the machine dips        
-  the cream pops in cold water  
+the machine dips the cream pops in cold water  
 
 149
 00:09:21,228 --> 00:09:23,895
-           to produce           
-  a protective coating of ice.  
+to produce a protective coating of ice.  
 
 150
 00:09:24,030 --> 00:09:26,964
-   this will keep the surface   
-  from sticking to the wrapper. 
+this will keep the surface from sticking to the wrapper. 
 
 151
 00:09:26,967 --> 00:09:29,834
-      it will also lengthen     
-    the product's shelf life.   
+it will also lengthen the product's shelf life.   
 
 152
 00:09:33,173 --> 00:09:35,373
-           the machine          
-     deposits the cream pops    
+the machine deposits the cream pops    
 
 153
 00:09:35,409 --> 00:09:38,643
-    into a continuous stream    
-       of paper wrapping.       
+into a continuous stream of paper wrapping.       
 
 154
 00:09:38,712 --> 00:09:42,580
-    heating elements seal the   
+heating elements seal the   
 wrapper on top and between pops,
 
 155
 00:09:42,616 --> 00:09:45,783
- then a slicer cuts them apart. 
+then a slicer cuts them apart. 
 
 156
 00:09:45,819 --> 00:09:49,120
-  the empty molds go through an 
- automatic wash-and-rinse cycle 
+the empty molds go through an automatic wash-and-rinse cycle 
 
 157
 00:09:49,156 --> 00:09:53,257
-        on their way back       
-    to the start of the line.   
+on their way back to the start of the line.   
 
 158
 00:09:53,293 --> 00:09:56,895
-   these molds are for making   
-      chocolate-fudge bars.     
+these molds are for making chocolate-fudge bars.     
 
 159
 00:10:00,267 --> 00:10:02,934
-     the production process     
-          is the same,          
+the production process is the same,          
 
 160
 00:10:03,003 --> 00:10:05,070
-      except that the shell     
-       is fudge-flavored,       
+except that the shell is fudge-flavored,       
 
 161
 00:10:05,072 --> 00:10:07,805
-      made from milk solids     
-      and chocolate powder.     
+made from milk solids and chocolate powder.     
 
 162
 00:10:07,841 --> 00:10:09,874
-           and instead          
-   of ice cream in the center,  
+and instead of ice cream in the center,  
 
 163
 00:10:09,876 --> 00:10:12,444
- there's chewy chocolate syrup. 
+there's chewy chocolate syrup. 
 
 164
 00:10:19,953 --> 00:10:23,354
 the factory stamps the packaging
-    for all its frozen treats   
+for all its frozen treats   
 
 165
 00:10:23,357 --> 00:10:26,557
-    with the production date    
-     and other information.     
+with the production date and other information.     
 
 166
 00:10:26,627 --> 00:10:29,694
-       these frozen treats      
-   have a one-year shelf life   
+these frozen treats have a one-year shelf life   
 
 167
 00:10:29,730 --> 00:10:30,829
-         in the freezer,        
+in the freezer,        
 
 168
 00:10:30,831 --> 00:10:32,831
-      provided you maintain     
-         the temperature        
+provided you maintain the temperature        
 
 169
 00:10:32,833 --> 00:10:36,735
-           at an ideal          
- negative 13 degrees fahrenheit.
+at an ideal negative 13 degrees fahrenheit.
 
 170
 00:10:43,176 --> 00:10:45,110
-            narrator:           
-    few toys are as timeless    
+narrator: few toys are as timeless    
 
 171
 00:10:45,112 --> 00:10:47,378
@@ -810,59 +697,51 @@ as interlocking building blocks.
 
 172
 00:10:47,447 --> 00:10:50,514
-     children can stick them    
-   together, pull them apart,   
+children can stick them together, pull them apart,   
 
 173
 00:10:50,550 --> 00:10:52,850
-  and rearrange them endlessly. 
+and rearrange them endlessly. 
 
 174
 00:10:52,919 --> 00:10:55,120
-     from large-sized blocks    
-           for babies           
+from large-sized blocks for babies           
 
 175
 00:10:55,122 --> 00:10:57,255
-        to intricate kits       
-         for older kids,        
+to intricate kits for older kids,        
 
 176
 00:10:57,324 --> 00:10:59,590
-         building blocks        
-      stimulate creativity      
+building blocks stimulate creativity      
 
 177
 00:10:59,626 --> 00:11:01,860
-  and improve manual dexterity. 
+and improve manual dexterity. 
 
 178
 00:11:07,233 --> 00:11:09,734
-       this company makes       
-    plastic building blocks.    
+this company makes plastic building blocks.    
 
 179
 00:11:09,770 --> 00:11:11,669
- depending on the type of block,
+depending on the type of block,
 
 180
 00:11:11,738 --> 00:11:15,740
-  it uses either polypropylene, 
-   high-density polyethylene,   
+it uses either polypropylene, high-density polyethylene,   
 
 181
 00:11:15,875 --> 00:11:18,743
-   or high-impact polystyrene.  
+or high-impact polystyrene.  
 
 182
 00:11:18,812 --> 00:11:23,348
-      these plastics arrive     
-   at the factory in pellets.   
+these plastics arrive at the factory in pellets.   
 
 183
 00:11:23,483 --> 00:11:25,483
-         because they're        
-     naturally transparent,     
+because they're naturally transparent,     
 
 184
 00:11:25,618 --> 00:11:28,552
@@ -870,52 +749,43 @@ the first step is to color them.
 
 185
 00:11:28,588 --> 00:11:30,488
-   the pellets go into a mixer  
+the pellets go into a mixer  
 
 186
 00:11:30,490 --> 00:11:33,224
-    along with pigment beads    
-    made of powdered pigment    
+along with pigment beads made of powdered pigment    
 
 187
 00:11:33,260 --> 00:11:36,828
-  and a type of plastic that's  
-  compatible with the pellets.  
+and a type of plastic that's compatible with the pellets.  
 
 188
 00:11:39,365 --> 00:11:42,233
-    the pigment beads make up   
-     just 2% of the weight,     
+the pigment beads make up just 2% of the weight,     
 
 189
 00:11:42,235 --> 00:11:45,203
-   but that's enough to color   
-     the plastic a deep hue.    
+but that's enough to color the plastic a deep hue.    
 
 190
 00:11:47,140 --> 00:11:50,308
-         the mixer feeds        
-  a plastic injection machine.  
+the mixer feeds a plastic injection machine.  
 
 191
 00:11:50,443 --> 00:11:53,444
-      it heats the pellets      
-   to 400 degrees fahrenheit,   
+it heats the pellets to 400 degrees fahrenheit,   
 
 192
 00:11:53,513 --> 00:11:56,514
-          melting them          
-     in a matter of seconds.    
+melting them in a matter of seconds.    
 
 193
 00:11:56,516 --> 00:12:00,118
-    the machine then injects    
- the molten plastic into molds. 
+the machine then injects the molten plastic into molds. 
 
 194
 00:12:00,187 --> 00:12:03,922
-     a system of hoses cools    
-   the molds with cold water,   
+a system of hoses cools the molds with cold water,   
 
 195
 00:12:04,057 --> 00:12:07,325
@@ -923,373 +793,319 @@ instantly hardening the plastic.
 
 196
 00:12:07,394 --> 00:12:08,726
-     when the machine opens,    
+when the machine opens,    
 
 197
 00:12:08,762 --> 00:12:12,397
-   ejectors thrust the blocks   
-    to a conveyor belt below.   
+ejectors thrust the blocks to a conveyor belt below.   
 
 198
 00:12:12,399 --> 00:12:15,867
-  for these blocks, the entire  
-  cycle, from start to finish,  
+for these blocks, the entire cycle, from start to finish,  
 
 199
 00:12:15,936 --> 00:12:18,936
-     takes just 14 seconds.     
+takes just 14 seconds.     
 
 200
 00:12:19,005 --> 00:12:22,540
- the length of the cycle varies 
-   with the size of the block.  
+the length of the cycle varies with the size of the block.  
 
 201
 00:12:22,542 --> 00:12:26,877
-   this large school bus, for   
- example, requires more plastic,
+this large school bus, for example, requires more plastic,
 
 202
 00:12:26,913 --> 00:12:29,914
-      so injection molding      
-        takes 22 seconds.       
+so injection molding takes 22 seconds.       
 
 203
 00:12:32,252 --> 00:12:35,754
-     the wheels for the bus     
-        take 20 seconds.        
+the wheels for the bus take 20 seconds.        
 
 204
 00:12:56,176 --> 00:12:57,909
-       at packaging time,       
+at packaging time,       
 
 205
 00:12:57,911 --> 00:13:01,846
-  each type of block is loaded  
- into a separate vibrating bowl.
+each type of block is loaded into a separate vibrating bowl.
 
 206
 00:13:01,981 --> 00:13:04,248
-           the shaking          
-      separates the pieces,     
+the shaking separates the pieces,     
 
 207
 00:13:04,284 --> 00:13:08,319
-    enabling them to pass by    
- an optical counter one by one. 
+enabling them to pass by an optical counter one by one. 
 
 208
 00:13:08,388 --> 00:13:10,722
-         this automated         
-       counting equipment       
+this automated counting equipment       
 
 209
 00:13:10,724 --> 00:13:14,125
-  can tally up to 16 different  
-   types of blocks at a time.   
+can tally up to 16 different types of blocks at a time.   
 
 210
 00:13:14,260 --> 00:13:17,194
-      it can be programmed      
-        to assemble a kit       
+it can be programmed to assemble a kit       
 
 211
 00:13:17,230 --> 00:13:20,665
-     consisting of specific     
-  quantities of certain blocks. 
+consisting of specific quantities of certain blocks. 
 
 212
 00:13:37,784 --> 00:13:40,952
-    once each kit is counted,   
-     it drops into a bucket.    
+once each kit is counted, it drops into a bucket.    
 
 213
 00:13:46,459 --> 00:13:48,760
-           the factory          
-     also makes the buckets     
+the factory also makes the buckets     
 
 214
 00:13:48,762 --> 00:13:51,296
-  by plastic injection molding. 
+by plastic injection molding. 
 
 215
 00:13:51,298 --> 00:13:53,297
-    and it even incorporates    
-          the labeling          
+and it even incorporates the labeling          
 
 216
 00:13:53,366 --> 00:13:54,965
-    right into that process.    
+right into that process.    
 
 217
 00:13:55,001 --> 00:13:57,368
-    here's how it all works.    
+here's how it all works.    
 
 218
 00:13:57,404 --> 00:13:59,437
-    a robot takes two labels,   
+a robot takes two labels,   
 
 219
 00:13:59,506 --> 00:14:02,273
- one for the front of the bucket
-      and one for the back.     
+one for the front of the bucket
+and one for the back.     
 
 220
 00:14:03,643 --> 00:14:05,443
-  it passes a static generator  
+it passes a static generator  
 
 221
 00:14:05,512 --> 00:14:08,179
-        that charges them       
-    with static electricity.    
+that charges them with static electricity.    
 
 222
 00:14:11,451 --> 00:14:14,252
-  then it loads the two labels  
-         into the mold.         
+then it loads the two labels into the mold.         
 
 223
 00:14:14,321 --> 00:14:17,455
-   the static cling holds them  
-       in a flat position       
+the static cling holds them in a flat position       
 
 224
 00:14:17,457 --> 00:14:19,257
-        while the machine       
-       injects the plastic      
+while the machine injects the plastic      
 
 225
 00:14:19,392 --> 00:14:21,292
-      and molds the bucket.     
+and molds the bucket.     
 
 226
 00:14:51,358 --> 00:14:54,491
-         the hot plastic        
-  melts the labels on contact,  
+the hot plastic melts the labels on contact,  
 
 227
 00:14:54,527 --> 00:14:57,895
-          bonding them          
-    into the finished bucket.   
+bonding them into the finished bucket.   
 
 228
 00:14:57,898 --> 00:15:01,432
-      the result -- labels      
-    that can't be peeled off.   
+the result -- labels that can't be peeled off.   
 
 229
 00:15:07,707 --> 00:15:11,108
-   the factory produces large   
-    blocks from polypropylene   
+the factory produces large blocks from polypropylene   
 
 230
 00:15:11,177 --> 00:15:15,313
-  or high-density polyethylene, 
-  which are flexible plastics.  
+or high-density polyethylene, which are flexible plastics.  
 
 231
 00:15:15,448 --> 00:15:19,116
-  this makes the blocks easier  
-   for young children to use.   
+this makes the blocks easier for young children to use.   
 
 232
 00:15:19,185 --> 00:15:22,654
-      small blocks are made     
-   of high-impact polystyrene,  
+small blocks are made of high-impact polystyrene,  
 
 233
 00:15:22,789 --> 00:15:25,390
-  a plastic that can be molded  
-      with great precision      
+a plastic that can be molded with great precision      
 
 234
 00:15:25,392 --> 00:15:28,893
-    into tight-fitting blocks   
-  designed for older children.  
+into tight-fitting blocks designed for older children.  
 
 235
 00:15:39,272 --> 00:15:42,273
-  narrator: just walk down the  
+narrator: just walk down the  
 aisle of your local supermarket,
 
 236
 00:15:42,408 --> 00:15:46,477
-    and you'll see shelf upon   
+and you'll see shelf upon   
 shelves of soaps and detergents.
 
 237
 00:15:46,479 --> 00:15:50,014
-      with so many versions     
- of each product to choose from,
+with so many versions of each product to choose from,
 
 238
 00:15:50,050 --> 00:15:52,216
-       from extra-strength      
-        to antibacterial        
+from extra-strength to antibacterial        
 
 239
 00:15:52,218 --> 00:15:53,617
-      to lemon-fresh scent,     
+to lemon-fresh scent,     
 
 240
 00:15:53,653 --> 00:15:56,921
-        consumers aren't        
-   the only ones cleaning up.   
+consumers aren't the only ones cleaning up.   
 
 241
 00:16:04,998 --> 00:16:09,367
-  the craft of soapmaking began 
-   in europe around 700 a.d.,   
+the craft of soapmaking began in europe around 700 a.d.,   
 
 242
 00:16:09,502 --> 00:16:12,970
- but soap remained a luxury item
-   for another thousand years.  
+but soap remained a luxury item
+for another thousand years.  
 
 243
 00:16:13,006 --> 00:16:14,705
- that's when a french scientist 
+that's when a french scientist 
 
 244
 00:16:14,741 --> 00:16:17,241
-           discovered           
-   how to make inexpensive lye  
+discovered how to make inexpensive lye  
 
 245
 00:16:17,277 --> 00:16:19,243
-        using table salt.       
+using table salt.       
 
 246
 00:16:19,279 --> 00:16:21,579
- people also made soap at home, 
+people also made soap at home, 
 
 247
 00:16:21,648 --> 00:16:24,314
-      by boiling wood ashes     
-        with animal fats.       
+by boiling wood ashes with animal fats.       
 
 248
 00:16:24,351 --> 00:16:27,518
-          by the 1900s,         
-    the growing soap industry   
+by the 1900s, the growing soap industry   
 
 249
 00:16:27,554 --> 00:16:30,455
-     found ways to make mild    
-    and fragranced products.    
+found ways to make mild and fragranced products.    
 
 250
 00:16:30,590 --> 00:16:33,457
- and in 1916, a german scientist
+and in 1916, a german scientist
 
 251
 00:16:33,526 --> 00:16:36,427
-       invented the first       
-      synthetic detergent.      
+invented the first synthetic detergent.      
 
 252
 00:16:45,005 --> 00:16:48,740
-  this company produces mostly  
-   industrial-use detergents,   
+this company produces mostly industrial-use detergents,   
 
 253
 00:16:48,875 --> 00:16:51,142
-      liquid and powdered.      
+liquid and powdered.      
 
 254
 00:16:51,277 --> 00:16:54,011
-     it uses salt as filler     
-      in the powdered ones.     
+it uses salt as filler in the powdered ones.     
 
 255
 00:16:54,080 --> 00:16:58,816
-   fillers add volume, making   
-  a product less concentrated.  
+fillers add volume, making a product less concentrated.  
 
 256
 00:16:58,818 --> 00:17:00,418
-          this will be          
-      a powdered detergent      
+this will be a powdered detergent      
 
 257
 00:17:00,487 --> 00:17:03,021
-          for cleaning          
-  and degreasing cement floors. 
+for cleaning and degreasing cement floors. 
 
 258
 00:17:03,156 --> 00:17:06,290
-       they add colorant,       
-        then surfactant,        
+they add colorant, then surfactant,        
 
 259
 00:17:06,359 --> 00:17:08,426
- a substance that creates foam, 
+a substance that creates foam, 
 
 260
 00:17:08,428 --> 00:17:10,628
-           the vehicle          
-     for lifting away dirt.     
+the vehicle for lifting away dirt.     
 
 261
 00:17:10,763 --> 00:17:13,297
-   now they pour in pine oil,   
+now they pour in pine oil,   
 
 262
 00:17:13,333 --> 00:17:17,235
-      a disinfecting agent      
-    that also adds fragrance.   
+a disinfecting agent that also adds fragrance.   
 
 263
 00:17:17,237 --> 00:17:21,238
-    now the cleaning agent --   
-    sodium tripolyphosphate.    
+now the cleaning agent -- sodium tripolyphosphate.    
 
 264
 00:17:21,307 --> 00:17:25,175
-      it's essential to mix     
- all the ingredients thoroughly.
+it's essential to mix all the ingredients thoroughly.
 
 265
 00:17:25,211 --> 00:17:26,643
-   this ensures the chemicals   
+this ensures the chemicals   
 
 266
 00:17:26,679 --> 00:17:29,113
-     are evenly distributed     
-     throughout the cleaner.    
+are evenly distributed throughout the cleaner.    
 
 267
 00:17:32,252 --> 00:17:33,384
-       the last ingredient      
+the last ingredient      
 
 268
 00:17:33,453 --> 00:17:36,187
-      is a chemical called      
-      sodium metasilicate.      
+is a chemical called sodium metasilicate.      
 
 269
 00:17:36,189 --> 00:17:38,656
-            it boosts           
-  the mixture's alkaline level. 
+it boosts the mixture's alkaline level. 
 
 270
 00:17:38,791 --> 00:17:41,392
-     this particular cleaner    
-      needs high alkalinity     
+this particular cleaner needs high alkalinity     
 
 271
 00:17:41,461 --> 00:17:43,994
-        to be effective.        
+to be effective.        
 
 272
 00:17:44,030 --> 00:17:46,264
-      the factory packages      
-     its powdered cleaners,     
+the factory packages its powdered cleaners,     
 
 273
 00:17:46,399 --> 00:17:49,333
-   such as this laundry soap,   
-    in large plastic buckets.   
+such as this laundry soap, in large plastic buckets.   
 
 274
 00:17:49,369 --> 00:17:53,871
@@ -1298,42 +1114,35 @@ pours in the appropriate amount,
 
 275
 00:17:54,006 --> 00:17:56,741
-      capping the container     
-    tightly to prevent leaks.   
+capping the container tightly to prevent leaks.   
 
 276
 00:17:58,711 --> 00:18:01,412
-      the filler in liquid      
-   cleaning products is water.  
+the filler in liquid cleaning products is water.  
 
 277
 00:18:01,481 --> 00:18:05,816
-  to produce liquid hand soap,  
-   they first add citric acid.  
+to produce liquid hand soap, they first add citric acid.  
 
 278
 00:18:05,819 --> 00:18:07,885
-  this creates the mild acidity 
+this creates the mild acidity 
 
 279
 00:18:07,921 --> 00:18:11,556
-     needed to get the most     
-     out of the surfactants.    
+needed to get the most out of the surfactants.    
 
 280
 00:18:11,558 --> 00:18:16,093
-    this soap contains three    
- different types of surfactants.
+this soap contains three different types of surfactants.
 
 281
 00:18:16,162 --> 00:18:19,697
-   it's a specific formulation  
- designed by the company chemist
+it's a specific formulation designed by the company chemist
 
 282
 00:18:19,766 --> 00:18:22,500
-     to optimize the soap's     
-         cleaning power.        
+to optimize the soap's cleaning power.        
 
 283
 00:18:27,040 --> 00:18:28,972
@@ -1341,31 +1150,29 @@ to give the soap a pearl luster,
 
 284
 00:18:29,008 --> 00:18:32,310
-        the company uses        
+the company uses        
 this secret recipe of chemicals.
 
 285
 00:18:35,248 --> 00:18:37,915
-        the factory makes       
-     most of its liquid soap    
+the factory makes most of its liquid soap    
 
 286
 00:18:37,951 --> 00:18:39,917
-  from this same base mixture.  
+from this same base mixture.  
 
 287
 00:18:39,953 --> 00:18:42,653
- the colors and fragrances vary.
+the colors and fragrances vary.
 
 288
 00:18:42,722 --> 00:18:45,656
-          for coloring,         
-   it uses powdered pigments.   
+for coloring, it uses powdered pigments.   
 
 289
 00:18:45,791 --> 00:18:48,993
- it dissolves them in hot water,
-       then pours them in.      
+it dissolves them in hot water,
+then pours them in.      
 
 290
 00:18:50,130 --> 00:18:52,930
@@ -1373,173 +1180,153 @@ this batch of soap will be pink.
 
 291
 00:18:55,435 --> 00:18:57,902
-            they pour           
- in a rose-scented fragrance... 
+they pour in a rose-scented fragrance... 
 
 292
 00:19:00,473 --> 00:19:03,341
-   ...then add a preservative   
-  to prevent the proliferation  
+...then add a preservative to prevent the proliferation  
 
 293
 00:19:03,343 --> 00:19:05,943
-           of bacteria          
-   should the soap be exposed   
+of bacteria should the soap be exposed   
 
 294
 00:19:06,078 --> 00:19:07,678
-  to a substandard environment. 
+to a substandard environment. 
 
 295
 00:19:09,815 --> 00:19:12,283
-            finally,            
-    they adjust the viscosity   
+finally, they adjust the viscosity   
 
 296
 00:19:12,352 --> 00:19:14,685
- by adding a powdered thickener.
+by adding a powdered thickener.
 
 297
 00:19:14,687 --> 00:19:18,088
-    if liquid soap is runny,    
+if liquid soap is runny,    
 it'll leak out of the dispenser.
 
 298
 00:19:18,124 --> 00:19:22,693
-   after 15 minutes of mixing,  
-       the soap is ready.       
+after 15 minutes of mixing, the soap is ready.       
 
 299
 00:19:22,695 --> 00:19:24,629
- and the lab analyzes a sample, 
+and the lab analyzes a sample, 
 
 300
 00:19:24,764 --> 00:19:29,566
-     assessing its physical     
-    and chemical properties.    
+assessing its physical and chemical properties.    
 
 301
 00:19:29,602 --> 00:19:31,302
- when the batch gets the "okay,"
+when the batch gets the "okay,"
 
 302
 00:19:31,437 --> 00:19:33,971
-           it proceeds          
-    to the packaging machine.   
+it proceeds to the packaging machine.   
 
 303
 00:19:34,106 --> 00:19:36,240
-       this soap is going       
-       into dispenser bags      
+this soap is going into dispenser bags      
 
 304
 00:19:36,375 --> 00:19:37,775
-      made of plastic film.     
+made of plastic film.     
 
 305
 00:19:37,844 --> 00:19:40,444
-           the machine          
-     first inserts a valve.     
+the machine first inserts a valve.     
 
 306
 00:19:47,120 --> 00:19:50,654
- it heat-seals the film, forming
-     the bottom of the bag.     
+it heat-seals the film, forming
+the bottom of the bag.     
 
 307
 00:19:50,690 --> 00:19:54,058
-         then it injects        
-       27 ounces of soap.       
+then it injects 27 ounces of soap.       
 
 308
 00:19:54,060 --> 00:19:57,995
-     next, it simultaneously    
-  heat-seals the top of the bag 
+next, it simultaneously heat-seals the top of the bag 
 
 309
 00:19:58,130 --> 00:19:59,597
- and the bottom of the next one.
+and the bottom of the next one.
 
 310
 00:19:59,732 --> 00:20:00,998
-       it cuts them apart,      
+it cuts them apart,      
 
 311
 00:20:01,067 --> 00:20:04,669
-   releasing the finished bag   
-    to a conveyor belt below.   
+releasing the finished bag to a conveyor belt below.   
 
 312
 00:20:07,540 --> 00:20:09,540
-    after checking for leaks,   
+after checking for leaks,   
 
 313
 00:20:09,542 --> 00:20:13,544
-   workers insert a spout that  
- controls output from the valve.
+workers insert a spout that controls output from the valve.
 
 314
 00:20:13,613 --> 00:20:15,479
-   this ensures the dispenser   
+this ensures the dispenser   
 
 315
 00:20:15,615 --> 00:20:18,616
- will release a measured amount 
-        of soap per push.       
+will release a measured amount of soap per push.       
 
 316
 00:20:20,553 --> 00:20:23,221
-    elsewhere in the factory,   
-      an automated machine      
+elsewhere in the factory, an automated machine      
 
 317
 00:20:23,356 --> 00:20:26,156
-   called the pressure filler   
-    pumps dishwashing liquid    
+called the pressure filler pumps dishwashing liquid    
 
 318
 00:20:26,192 --> 00:20:28,292
-      into plastic bottles.     
+into plastic bottles.     
 
 319
 00:20:28,328 --> 00:20:30,361
-           an overflow          
-    and weight-control device   
+an overflow and weight-control device   
 
 320
 00:20:30,430 --> 00:20:32,630
-  ensures the right fill level. 
+ensures the right fill level. 
 
 321
 00:20:42,575 --> 00:20:46,377
-    the next machine applies    
+the next machine applies    
 a twist cap with pull-out spout.
 
 322
 00:20:49,415 --> 00:20:51,549
-   then it's off to labeling.   
+then it's off to labeling.   
 
 323
 00:20:56,189 --> 00:20:59,323
- those bags of liquid hand soap 
-     went into special boxes    
+those bags of liquid hand soap went into special boxes    
 
 324
 00:20:59,325 --> 00:21:02,827
- that are designed to slip right
-    into the soap dispenser.    
+that are designed to slip right
+into the soap dispenser.    
 
 325
 00:21:16,676 --> 00:21:18,809
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 326
 00:21:18,878 --> 00:21:21,478
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 327
 00:21:21,547 --> 00:21:23,748
-      drop us a line at...      
+drop us a line at...      
 

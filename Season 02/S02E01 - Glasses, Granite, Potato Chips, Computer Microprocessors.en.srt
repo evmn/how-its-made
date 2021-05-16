@@ -1,85 +1,74 @@
 ﻿1
 00:00:22,489 --> 00:00:24,957
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 2
 00:00:26,093 --> 00:00:28,226
-      ...eyeglass lenses...     
+...eyeglass lenses...
 
 3
 00:00:28,228 --> 00:00:30,029
-           granite...           
+granite...
 
 4
 00:00:30,031 --> 00:00:32,163
-         potato chips...        
+potato chips...
 
 5
 00:00:32,165 --> 00:00:34,566
-  and computer microprocessors. 
+and computer microprocessors.
 
 6
 00:00:37,571 --> 00:00:41,005
-          remember when         
- wearing coke-bottle eyeglasses 
+remember when wearing coke-bottle eyeglasses
 
 7
 00:00:41,007 --> 00:00:43,708
-    was your one-way ticket     
-    to being the class nerd?    
+was your one-way ticket to being the class nerd?
 
 8
 00:00:43,710 --> 00:00:46,979
-  well, today, even if you need 
-   a heavy-duty prescription,   
+well, today, even if you need a heavy-duty prescription,
 
 9
 00:00:46,981 --> 00:00:49,514
-          you can wear          
-     fashionable eyeglasses     
+you can wear fashionable eyeglasses
 
 10
 00:00:49,516 --> 00:00:52,284
-    with thin and lightweight   
-         plastic lenses.        
+with thin and lightweight plastic lenses.
 
 11
 00:00:56,190 --> 00:00:59,391
-    eyeglass lenses start out   
-     as large plastic disks.    
+eyeglass lenses start out as large plastic disks.
 
 12
 00:00:59,393 --> 00:01:00,726
-         the first step         
+the first step
 
 13
 00:01:00,728 --> 00:01:03,929
-  is to place a protective film 
-      over the convex side      
+is to place a protective film over the convex side
 
 14
 00:01:03,931 --> 00:01:05,464
-     so it won't get damaged    
+so it won't get damaged
 
 15
 00:01:05,466 --> 00:01:08,033
-     while the lab works on     
-        the concave side.       
+while the lab works on the concave side.
 
 16
 00:01:10,537 --> 00:01:14,072
-  with a scanner, they retrieve 
-   the customer's prescription  
+with a scanner, they retrieve the customer's prescription
 
 17
 00:01:14,074 --> 00:01:15,607
-   from the central computer.   
+from the central computer.
 
 18
 00:01:15,609 --> 00:01:17,809
-       then they program        
-       those measurements       
+then they program those measurements
 
 19
 00:01:17,811 --> 00:01:19,611
@@ -87,530 +76,447 @@ into the tray holding the disks.
 
 20
 00:01:19,613 --> 00:01:24,149
-  next, they heat up a mixture  
- of seven metals to 122 degrees.
+next, they heat up a mixture of seven metals to 122 degrees.
 
 21
 00:01:24,151 --> 00:01:26,885
- any hotter would melt the disk 
-           on contact.          
+any hotter would melt the disk on contact.
 
 22
 00:01:26,887 --> 00:01:30,488
-    out of that molten metal,   
-    they mold an attachment.    
+out of that molten metal, they mold an attachment.
 
 23
 00:01:30,490 --> 00:01:32,024
-      this allows the disk      
+this allows the disk
 
 24
 00:01:32,026 --> 00:01:34,460
-   to be mounted on a machine   
-          for tooling.          
+to be mounted on a machine for tooling.
 
 25
 00:01:36,497 --> 00:01:38,897
-         at this point,         
-        robots take over.       
+at this point, robots take over.
 
 26
 00:01:38,899 --> 00:01:41,633
-          when the tray         
-     with the disks arrives,    
+when the tray with the disks arrives,
 
 27
 00:01:41,635 --> 00:01:45,436
-    the milling machine reads   
-  the prescription information, 
+the milling machine reads the prescription information,
 
 28
 00:01:45,438 --> 00:01:48,173
-    then reshapes the plastic   
-          accordingly.          
+then reshapes the plastic accordingly.
 
 29
 00:01:48,175 --> 00:01:50,041
-    first, it thins the disk    
+first, it thins the disk
 
 30
 00:01:50,043 --> 00:01:53,178
-       and shaves it down       
-     to a smaller diameter.     
+and shaves it down to a smaller diameter.
 
 31
 00:01:53,180 --> 00:01:57,382
-         then it creates        
-     the required curvature.    
+then it creates the required curvature.
 
 32
 00:01:57,384 --> 00:01:59,918
-     the disk is now a lens.    
+the disk is now a lens.
 
 33
 00:01:59,920 --> 00:02:02,854
-     but you can still see      
-     the concentric circles     
+but you can still see the concentric circles
 
 34
 00:02:02,856 --> 00:02:04,189
-      left by the tooling,      
+left by the tooling,
 
 35
 00:02:04,191 --> 00:02:06,658
-   and the surface of the lens  
-            is rough,           
+and the surface of the lens is rough,
 
 36
 00:02:06,660 --> 00:02:10,729
-        so they polish it       
-      using abrasive paper      
+so they polish it using abrasive paper
 
 37
 00:02:10,731 --> 00:02:15,000
-  under water heated precisely  
-         to 66 degrees.         
+under water heated precisely to 66 degrees.
 
 38
 00:02:15,002 --> 00:02:17,736
-      the water temperature     
-        must be constant,       
+the water temperature must be constant,
 
 39
 00:02:17,738 --> 00:02:20,672
-        or else the lens        
-      will become deformed.     
+or else the lens will become deformed.
 
 40
 00:02:20,674 --> 00:02:23,075
-        now that the lens       
-      is perfectly shaped,      
+now that the lens is perfectly shaped,
 
 41
 00:02:23,077 --> 00:02:25,377
-           they remove          
-     the metal attachment...    
+they remove the metal attachment...
 
 42
 00:02:32,152 --> 00:02:34,619
-        ...then peel off        
-       the protective film      
+...then peel off the protective film
 
 43
 00:02:34,621 --> 00:02:35,921
-       on the other side.       
+on the other side.
 
 44
 00:02:41,228 --> 00:02:43,695
-         using a machine        
-      called a lensometer,      
+using a machine called a lensometer,
 
 45
 00:02:43,697 --> 00:02:46,932
- they make sure the prescription
-          is accurate.          
+they make sure the prescription
+is accurate.
 
 46
 00:02:56,577 --> 00:02:58,977
-   next, the lenses go through  
+next, the lenses go through
 
 47
 00:02:58,979 --> 00:03:02,781
-          an automated          
-   15-stage chemical cleaning   
+an automated 15-stage chemical cleaning
 
 48
 00:03:02,783 --> 00:03:06,718
-  then are coated with varnish  
- to make them scratch-resistant.
+then are coated with varnish to make them scratch-resistant.
 
 49
 00:03:06,720 --> 00:03:09,321
-      they go into an oven      
-         for three hours        
+they go into an oven for three hours
 
 50
 00:03:09,323 --> 00:03:10,889
-    until the varnish cures.    
+until the varnish cures.
 
 51
 00:03:13,661 --> 00:03:16,594
-           next comes           
-  the antireflection treatment. 
+next comes the antireflection treatment.
 
 52
 00:03:16,596 --> 00:03:19,731
-       this will increase       
-    the lenses' transparency,   
+this will increase the lenses' transparency,
 
 53
 00:03:19,733 --> 00:03:21,399
-     allowing in more light.    
+allowing in more light.
 
 54
 00:03:21,401 --> 00:03:23,936
-  the lenses go into a chamber. 
+the lenses go into a chamber.
 
 55
 00:03:23,938 --> 00:03:27,072
-            they add            
-  different powdered chemicals, 
+they add different powdered chemicals,
 
 56
 00:03:27,074 --> 00:03:29,808
-     such as silicium oxide,    
-         titanium oxide,        
+such as silicium oxide, titanium oxide,
 
 57
 00:03:29,810 --> 00:03:32,411
-      and zirconium oxide.      
+and zirconium oxide.
 
 58
 00:03:32,413 --> 00:03:36,948
- they close the door, then pump 
- all the air out of the chamber.
+they close the door, then pump all the air out of the chamber.
 
 59
 00:03:36,950 --> 00:03:39,685
-      using a high-powered      
-         electron beam,         
+using a high-powered electron beam,
 
 60
 00:03:39,687 --> 00:03:42,621
-     they heat the chemicals    
-      to the boiling point.     
+they heat the chemicals to the boiling point.
 
 61
 00:03:42,623 --> 00:03:45,890
-      the powders transform     
-       from solid to gas,       
+the powders transform from solid to gas,
 
 62
 00:03:45,892 --> 00:03:48,727
-       coating the lenses       
-         in the process.        
+coating the lenses in the process.
 
 63
 00:03:51,231 --> 00:03:54,299
-    it's finally time to fit    
-    the lenses to the frame.    
+it's finally time to fit the lenses to the frame.
 
 64
 00:03:58,238 --> 00:04:00,839
-   they position a suction cup  
-          on the lenses         
+they position a suction cup on the lenses
 
 65
 00:04:00,841 --> 00:04:03,542
-      to hold them in place     
-       during the fitting.      
+to hold them in place during the fitting.
 
 66
 00:04:10,251 --> 00:04:14,286
-      an automated machine      
-traces the shape of the frame...
+an automated machine traces the shape of the frame...
 
 67
 00:04:21,328 --> 00:04:24,496
-     ...then cuts the lenses    
-         to that shape.         
+...then cuts the lenses to that shape.
 
 68
 00:04:37,611 --> 00:04:42,414
-      with regular frames,      
-    the lenses simply pop in.   
+with regular frames, the lenses simply pop in.
 
 69
 00:04:42,416 --> 00:04:45,283
-            to attach           
-    ultralight metal frames,    
+to attach ultralight metal frames,
 
 70
 00:04:45,285 --> 00:04:48,654
-        they drill holes        
-    right through the lenses.   
+they drill holes right through the lenses.
 
 71
 00:05:15,716 --> 00:05:19,184
-        from plastic disk       
-    to the latest in eyewear    
+from plastic disk to the latest in eyewear
 
 72
 00:05:19,186 --> 00:05:21,853
-       in just three days.      
+in just three days.
 
 73
 00:05:28,328 --> 00:05:31,196
- narrator: what do you get when 
- you cross a spider with a goat?
+narrator: what do you get when you cross a spider with a goat?
 
 74
 00:05:31,198 --> 00:05:33,665
-          a silk fiber          
-      stronger than steel,      
+a silk fiber stronger than steel,
 
 75
 00:05:33,667 --> 00:05:35,600
-        yet more elastic        
-           than nylon.          
+yet more elastic than nylon.
 
 76
 00:05:35,602 --> 00:05:38,736
-      researchers implanted     
-  a spider's web-spinning genes 
+researchers implanted a spider's web-spinning genes
 
 77
 00:05:38,738 --> 00:05:40,806
-  into a goat's mammary glands. 
+into a goat's mammary glands.
 
 78
 00:05:40,808 --> 00:05:43,975
-    the result -- goat's milk   
-       with silk proteins,      
+the result -- goat's milk with silk proteins,
 
 79
 00:05:43,977 --> 00:05:48,180
-  the raw material for a fabric 
-strong enough to be bulletproof.
+the raw material for a fabric strong enough to be bulletproof.
 
 80
 00:05:53,553 --> 00:05:57,622
-        granite is one of       
- the strongest stones on earth, 
+granite is one of the strongest stones on earth,
 
 81
 00:05:57,624 --> 00:06:01,292
-  and it's the darling of decor 
-           these days.          
+and it's the darling of decor these days.
 
 82
 00:06:01,294 --> 00:06:03,561
-      as an indoor/outdoor      
-       building material,       
+as an indoor/outdoor building material,
 
 83
 00:06:03,563 --> 00:06:07,766
-     it's timeless, elegant,    
-   and resistant to acid rain.  
+it's timeless, elegant, and resistant to acid rain.
 
 84
 00:06:10,236 --> 00:06:12,571
-    nature's granite factory    
+nature's granite factory
 
 85
 00:06:12,573 --> 00:06:16,641
-         lies many miles        
-  beneath the earth's surface.  
+lies many miles beneath the earth's surface.
 
 86
 00:06:16,643 --> 00:06:19,110
-       boiling molten rock      
-         called "magma"         
+boiling molten rock called "magma"
 
 87
 00:06:19,112 --> 00:06:21,847
-       builds up pressure       
-      from the intense heat     
+builds up pressure from the intense heat
 
 88
 00:06:21,849 --> 00:06:26,718
-  and rises through cracks and  
- crevices in the earth's crust. 
+and rises through cracks and crevices in the earth's crust.
 
 89
 00:06:26,720 --> 00:06:31,389
-  as it rises, it slowly cools  
-  and solidifies into granite.  
+as it rises, it slowly cools and solidifies into granite.
 
 90
 00:06:31,391 --> 00:06:34,393
-     most granite is buried     
-     under sedimentary rock,    
+most granite is buried under sedimentary rock,
 
 91
 00:06:34,395 --> 00:06:37,395
-         which makes up         
-  most of the earth's surface.  
+which makes up most of the earth's surface.
 
 92
 00:06:37,397 --> 00:06:40,332
-   the challenge is to extract  
-         as much granite        
+the challenge is to extract as much granite
 
 93
 00:06:40,334 --> 00:06:42,200
-   from the quarry as possible  
+from the quarry as possible
 
 94
 00:06:42,202 --> 00:06:44,535
-          while losing          
- as little as possible to damage
+while losing as little as possible to damage
 
 95
 00:06:44,537 --> 00:06:47,072
-  from the extraction process.  
+from the extraction process.
 
 96
 00:06:47,074 --> 00:06:50,876
-     they start by outlining    
-     a section of rock wall     
+they start by outlining a section of rock wall
 
 97
 00:06:50,878 --> 00:06:54,946
-       up to 99 feet long       
-        by 23 feet wide.        
+up to 99 feet long by 23 feet wide.
 
 98
 00:06:54,948 --> 00:06:58,616
-      they use a gas flame      
-  to burn long, narrow channels 
+they use a gas flame to burn long, narrow channels
 
 99
 00:06:58,618 --> 00:07:00,218
-      to free up the sides.     
+to free up the sides.
 
 100
 00:07:00,220 --> 00:07:02,621
-      then they drill holes     
-          23 feet deep          
+then they drill holes 23 feet deep
 
 101
 00:07:02,623 --> 00:07:05,891
-   along the back and bottom.   
+along the back and bottom.
 
 102
 00:07:05,893 --> 00:07:09,227
-   they feed explosive cables   
-         into the holes.        
+they feed explosive cables into the holes.
 
 103
 00:07:18,906 --> 00:07:20,972
-      then they set it off.     
+then they set it off.
 
 104
 00:07:23,710 --> 00:07:26,244
-          the explosion         
-      detaches the section.     
+the explosion detaches the section.
 
 105
 00:07:26,246 --> 00:07:29,514
-   then they use a combination  
-     of drills, steel pegs,     
+then they use a combination of drills, steel pegs,
 
 106
 00:07:29,516 --> 00:07:31,917
-       plates, and wedges       
-         to cut it down         
+plates, and wedges to cut it down
 
 107
 00:07:31,919 --> 00:07:35,186
-     and cut it down further    
-  until they have rough blocks  
+and cut it down further until they have rough blocks
 
 108
 00:07:35,188 --> 00:07:39,991
-     measuring 10 feet long     
- by 5 feet wide and 5 feet deep,
+measuring 10 feet long by 5 feet wide and 5 feet deep,
 
 109
 00:07:39,993 --> 00:07:42,760
-   a size the granite factory   
-           can handle.          
+a size the granite factory can handle.
 
 110
 00:07:42,762 --> 00:07:44,395
-    the blocks may be small,    
+the blocks may be small,
 
 111
 00:07:44,397 --> 00:07:48,700
-       but each one weighs      
-    more than 45,000 pounds.    
+but each one weighs more than 45,000 pounds.
 
 112
 00:07:52,806 --> 00:07:56,274
-  at the factory, the first cut 
-      is called "slabbing."     
+at the factory, the first cut is called "slabbing."
 
 113
 00:07:56,276 --> 00:07:58,009
-    they use this type of saw   
+they use this type of saw
 
 114
 00:07:58,011 --> 00:08:01,079
-          to cut slabs          
-    more than 2 inches thick.   
+to cut slabs more than 2 inches thick.
 
 115
 00:08:01,081 --> 00:08:02,747
-   the blade's metal segments   
+the blade's metal segments
 
 116
 00:08:02,749 --> 00:08:05,216
-       contain synthetic        
-       diamond particles,       
+contain synthetic diamond particles,
 
 117
 00:08:05,218 --> 00:08:08,686
 which create the friction needed
-        to make the cut.        
+to make the cut.
 
 118
 00:08:08,688 --> 00:08:11,423
-       water keeps the saw      
-        from overheating.       
+water keeps the saw from overheating.
 
 119
 00:08:11,425 --> 00:08:13,491
-      it's a slow process.      
+it's a slow process.
 
 120
 00:08:13,493 --> 00:08:19,164
 the saw cuts less than 22 square
-    feet of granite per hour.   
+feet of granite per hour.
 
 121
 00:08:19,166 --> 00:08:23,501
 they use a gang saw to cut slabs
-   thinner than 5 centimeters   
+thinner than 5 centimeters
 
 122
 00:08:23,503 --> 00:08:26,037
-  to make kitchen countertops,  
-          for example.          
+to make kitchen countertops, for example.
 
 123
 00:08:26,039 --> 00:08:27,973
-  this saw has steel blades --  
+this saw has steel blades --
 
 124
 00:08:27,975 --> 00:08:31,776
- tense enough not to bend under 
-     the pressure of cutting    
+tense enough not to bend under the pressure of cutting
 
 125
 00:08:31,778 --> 00:08:34,979
-      and calibrated to cut     
-    as straight as possible.    
+and calibrated to cut as straight as possible.
 
 126
 00:08:34,981 --> 00:08:39,384
- the gang saw cuts at a rate of 
- about 86 square feet per hour. 
+the gang saw cuts at a rate of about 86 square feet per hour.
 
 127
 00:08:39,386 --> 00:08:43,788
-   it takes three entire days   
- to cut through the rough block.
+it takes three entire days to cut through the rough block.
 
 128
 00:08:48,662 --> 00:08:51,863
-       once a slab is cut,      
-     it goes for polishing.     
+once a slab is cut, it goes for polishing.
 
 129
 00:08:51,865 --> 00:08:55,266
-   this is what will bring out  
-    the beauty of the stone.    
+this is what will bring out the beauty of the stone.
 
 130
 00:08:55,268 --> 00:08:58,536
@@ -618,637 +524,546 @@ the polishing line has 19 heads,
 
 131
 00:08:58,538 --> 00:09:02,207
-  each of which has six bricks  
-    that polish by abrasion,    
+each of which has six bricks that polish by abrasion,
 
 132
 00:09:02,209 --> 00:09:03,341
-         like sandpaper.        
+like sandpaper.
 
 133
 00:09:03,343 --> 00:09:06,211
-        the brick grains        
-     get progressively finer    
+the brick grains get progressively finer
 
 134
 00:09:06,213 --> 00:09:07,878
-    as you go down the line.    
+as you go down the line.
 
 135
 00:09:07,880 --> 00:09:10,281
-  the polishing line processes  
+the polishing line processes
 
 136
 00:09:10,283 --> 00:09:13,351
-     about a 10 square feet     
-     of granite per minute.     
+about a 10 square feet of granite per minute.
 
 137
 00:09:13,353 --> 00:09:17,422
- for a high-gloss finish, a slab
-   goes through all 19 heads.   
+for a high-gloss finish, a slab
+goes through all 19 heads.
 
 138
 00:09:17,424 --> 00:09:22,260
-for a semigloss finish, it goes 
-through just the first 10 heads.
+for a semigloss finish, it goes through just the first 10 heads.
 
 139
 00:09:28,502 --> 00:09:32,837
- for a rough finish, slabs skip 
- the polishing line altogether  
+for a rough finish, slabs skip the polishing line altogether
 
 140
 00:09:32,839 --> 00:09:36,574
 and instead go through a process
-        called "flaming."       
+called "flaming."
 
 141
 00:09:36,576 --> 00:09:39,444
-     with a stream of water     
-        to keep the slab        
+with a stream of water to keep the slab
 
 142
 00:09:39,446 --> 00:09:41,545
-  from cracking under the heat, 
+from cracking under the heat,
 
 143
 00:09:41,547 --> 00:09:45,249
-    they run a propane flame    
-   at 2,000 degrees fahrenheit  
+they run a propane flame at 2,000 degrees fahrenheit
 
 144
 00:09:45,251 --> 00:09:48,386
-       across the surface.      
+across the surface.
 
 145
 00:09:48,388 --> 00:09:49,788
-        this intense heat       
+this intense heat
 
 146
 00:09:49,790 --> 00:09:53,257
-        makes the quartz        
-   inside the granite explode,  
+makes the quartz inside the granite explode,
 
 147
 00:09:53,259 --> 00:09:55,193
-    creating a rough surface.   
+creating a rough surface.
 
 148
 00:09:55,195 --> 00:09:58,930
-  they often use this technique 
-      for nonslip flooring.     
+they often use this technique for nonslip flooring.
 
 149
 00:10:01,801 --> 00:10:03,134
-        after the finish,       
+after the finish,
 
 150
 00:10:03,136 --> 00:10:07,072
-       the last step is to      
-cut the slabs to specifications.
+the last step is to cut the slabs to specifications.
 
 151
 00:10:24,358 --> 00:10:27,225
-      granite is composed       
-      of various minerals.      
+granite is composed of various minerals.
 
 152
 00:10:27,227 --> 00:10:30,495
-       they're interlocked      
- like pieces in a jigsaw puzzle,
+they're interlocked like pieces in a jigsaw puzzle,
 
 153
 00:10:30,497 --> 00:10:33,364
-        giving the stone        
-     its trademark speckles     
+giving the stone its trademark speckles
 
 154
 00:10:33,366 --> 00:10:36,701
-  and its remarkable strength.  
+and its remarkable strength.
 
 155
 00:10:44,177 --> 00:10:46,243
-            narrator:           
-  they say chips were invented  
+narrator: they say chips were invented
 
 156
 00:10:46,245 --> 00:10:48,446
-     when someone sent back     
-       his fried potatoes,      
+when someone sent back his fried potatoes,
 
 157
 00:10:48,448 --> 00:10:50,515
-     complaining the slices     
-         were too thick.        
+complaining the slices were too thick.
 
 158
 00:10:50,517 --> 00:10:53,051
-   the insulted chef cut them   
-           paper-thin           
+the insulted chef cut them paper-thin
 
 159
 00:10:53,053 --> 00:10:54,786
-   and fried them to a crisp.   
+and fried them to a crisp.
 
 160
 00:10:54,788 --> 00:10:56,787
-    so pride, not necessity,    
+so pride, not necessity,
 
 161
 00:10:56,789 --> 00:10:59,557
-         was the mother         
-       of this invention.       
+was the mother of this invention.
 
 162
 00:11:03,329 --> 00:11:07,332
- potato chips have since become 
-   the consummate snack food.   
+potato chips have since become the consummate snack food.
 
 163
 00:11:07,334 --> 00:11:10,534
-      they have to be made      
-      with fresh potatoes,      
+they have to be made with fresh potatoes,
 
 164
 00:11:10,536 --> 00:11:12,404
-   no more than 24 hours old,   
+no more than 24 hours old,
 
 165
 00:11:12,406 --> 00:11:15,807
-       otherwise the chips      
-     will have black spots.     
+otherwise the chips will have black spots.
 
 166
 00:11:15,809 --> 00:11:18,876
-    after a brushing machine    
-        removes the dirt,       
+after a brushing machine removes the dirt,
 
 167
 00:11:18,878 --> 00:11:22,714
-    the potatoes travel along   
-  a water canal to the peeler.  
+the potatoes travel along a water canal to the peeler.
 
 168
 00:11:24,951 --> 00:11:27,018
-  they tumble around and around 
+they tumble around and around
 
 169
 00:11:27,020 --> 00:11:29,687
-      against the peeler's      
-        abrasive rollers        
+against the peeler's abrasive rollers
 
 170
 00:11:29,689 --> 00:11:31,422
-    until the skins come off.   
+until the skins come off.
 
 171
 00:11:31,424 --> 00:11:36,594
-  this machine can peel 12,000  
-  pounds of potatoes per hour.  
+this machine can peel 12,000 pounds of potatoes per hour.
 
 172
 00:11:41,034 --> 00:11:46,371
-   next stop -- a machine that  
- separates the potatoes by size.
+next stop -- a machine that separates the potatoes by size.
 
 173
 00:11:46,373 --> 00:11:49,507
-    the small ones fall below   
-          to be rinsed.         
+the small ones fall below to be rinsed.
 
 174
 00:11:49,509 --> 00:11:52,577
-   the larger ones stay on top  
-           to be cut.           
+the larger ones stay on top to be cut.
 
 175
 00:11:56,183 --> 00:11:59,150
-       then they fall down      
-       to the rinser, too.      
+then they fall down to the rinser, too.
 
 176
 00:12:09,462 --> 00:12:13,498
-       next, the potatoes       
-       go through slicers.      
+next, the potatoes go through slicers.
 
 177
 00:12:13,500 --> 00:12:16,000
-       the slicers' blades      
-         are adjustable.        
+the slicers' blades are adjustable.
 
 178
 00:12:16,002 --> 00:12:18,603
-         they can be set        
-    to different thicknesses    
+they can be set to different thicknesses
 
 179
 00:12:18,605 --> 00:12:22,473
 or to different shapes, to slice
-   ripple chips, for example.   
+ripple chips, for example.
 
 180
 00:12:22,475 --> 00:12:25,677
-      the centrifugal force     
-     created by the spinning    
+the centrifugal force created by the spinning
 
 181
 00:12:25,679 --> 00:12:29,013
-       throws the potatoes      
-    against the sharp blades.   
+throws the potatoes against the sharp blades.
 
 182
 00:12:29,015 --> 00:12:34,285
- to make regular chips, they cut
- slices 6/100 of an inch thick. 
+to make regular chips, they cut
+slices 6/100 of an inch thick.
 
 183
 00:12:34,287 --> 00:12:38,256
-        an average potato       
-   will yield about 36 chips.   
+an average potato will yield about 36 chips.
 
 184
 00:12:41,761 --> 00:12:45,229
-       finally, it's time       
-   to wash the potato slices.   
+finally, it's time to wash the potato slices.
 
 185
 00:12:45,231 --> 00:12:47,899
-        they spin inside        
-         a giant barrel         
+they spin inside a giant barrel
 
 186
 00:12:47,901 --> 00:12:50,802
-      of cold, fresh water      
-      for about a minute.       
+of cold, fresh water for about a minute.
 
 187
 00:12:53,907 --> 00:12:55,706
-   then, like at the car wash,  
+then, like at the car wash,
 
 188
 00:12:55,708 --> 00:12:58,176
-      the slices pass under     
-          an air blower         
+the slices pass under an air blower
 
 189
 00:12:58,178 --> 00:12:59,978
-   to dry up the excess water.  
+to dry up the excess water.
 
 190
 00:12:59,980 --> 00:13:02,514
-  the fryer contains canola oil 
+the fryer contains canola oil
 
 191
 00:13:02,516 --> 00:13:06,584
-           boiling at           
-     375 degrees fahrenheit.    
+boiling at 375 degrees fahrenheit.
 
 192
 00:13:06,586 --> 00:13:08,853
-     it takes just 3 minutes    
+it takes just 3 minutes
 
 193
 00:13:08,855 --> 00:13:13,258
-    to fry the potato slices    
-       into potato chips.       
+to fry the potato slices into potato chips.
 
 194
 00:13:13,260 --> 00:13:16,394
-   as the chips exit the fryer  
-      on the conveyor belt,     
+as the chips exit the fryer on the conveyor belt,
 
 195
 00:13:16,396 --> 00:13:18,096
-    the excess oil drips off.   
+the excess oil drips off.
 
 196
 00:13:19,733 --> 00:13:22,801
-     next, a shower of salt.    
+next, a shower of salt.
 
 197
 00:13:28,141 --> 00:13:31,876
-     the chips then move on     
-         to the sorter.         
+the chips then move on to the sorter.
 
 198
 00:13:31,878 --> 00:13:34,945
-      an electronic camera      
-      identifies any chips      
+an electronic camera identifies any chips
 
 199
 00:13:34,947 --> 00:13:37,148
-      that have brown spots     
-        or other defects.       
+that have brown spots or other defects.
 
 200
 00:13:37,150 --> 00:13:41,152
-    the camera then triggers    
-          the thin pipe         
+the camera then triggers the thin pipe
 
 201
 00:13:41,154 --> 00:13:42,687
-  directly above that bum chip  
+directly above that bum chip
 
 202
 00:13:42,689 --> 00:13:45,790
 to blow it off the conveyor belt
-       with air pressure.       
+with air pressure.
 
 203
 00:13:48,961 --> 00:13:50,628
-    elsewhere in the factory,   
+elsewhere in the factory,
 
 204
 00:13:50,630 --> 00:13:54,032
- they're making another popular 
-    snack food, cheese puffs.   
+they're making another popular snack food, cheese puffs.
 
 205
 00:13:54,034 --> 00:13:56,901
-      they take corn flour      
-     and mix it with water.     
+they take corn flour and mix it with water.
 
 206
 00:13:56,903 --> 00:14:00,972
-   an extrusion machine forces  
-the mixture through round holes.
+an extrusion machine forces the mixture through round holes.
 
 207
 00:14:00,974 --> 00:14:03,908
-   when the snakelike streams   
-     come out the other end,    
+when the snakelike streams come out the other end,
 
 208
 00:14:03,910 --> 00:14:05,710
- a knife cuts them into pieces. 
+a knife cuts them into pieces.
 
 209
 00:14:05,712 --> 00:14:07,311
-     the heat in the machine    
+the heat in the machine
 
 210
 00:14:07,313 --> 00:14:10,848
-      then causes the flour     
-   in those pieces to explode,  
+then causes the flour in those pieces to explode,
 
 211
 00:14:10,850 --> 00:14:12,650
- creating slightly curled puffs.
+creating slightly curled puffs.
 
 212
 00:14:12,652 --> 00:14:15,520
-     they spray those puffs     
-  with a mixture of canola oil, 
+they spray those puffs with a mixture of canola oil,
 
 213
 00:14:15,522 --> 00:14:17,989
-        powdered cheese,        
-     and natural colorings.     
+powdered cheese, and natural colorings.
 
 214
 00:14:17,991 --> 00:14:20,592
-        a revolving drum        
-     mixes it all together.     
+a revolving drum mixes it all together.
 
 215
 00:14:28,935 --> 00:14:30,735
-  back in the chips department, 
+back in the chips department,
 
 216
 00:14:30,737 --> 00:14:34,072
-   they spray the potato chips  
-    with powdered seasonings,   
+they spray the potato chips with powdered seasonings,
 
 217
 00:14:34,074 --> 00:14:38,209
- which simulate flavors such as 
- barbecue or salt and vinegar.  
+which simulate flavors such as barbecue or salt and vinegar.
 
 218
 00:14:46,353 --> 00:14:49,420
-   the next machine separates   
-     and weighs the portions    
+the next machine separates and weighs the portions
 
 219
 00:14:49,422 --> 00:14:51,689
-         to be packaged.        
+to be packaged.
 
 220
 00:15:10,176 --> 00:15:14,512
-    the chips drop into bags    
-   that are then heat-sealed.   
+the chips drop into bags that are then heat-sealed.
 
 221
 00:15:17,784 --> 00:15:20,051
-   it's taken about 15 minutes  
+it's taken about 15 minutes
 
 222
 00:15:20,053 --> 00:15:23,588
-      to go from raw potato     
-       to potato chips --       
+to go from raw potato to potato chips --
 
 223
 00:15:23,590 --> 00:15:26,858
-          a lot longer          
-   than it takes to eat them.   
+a lot longer than it takes to eat them.
 
 224
 00:15:35,334 --> 00:15:39,670
-   narrator: a microprocessor   
- is the brain inside a computer.
+narrator: a microprocessor is the brain inside a computer.
 
 225
 00:15:39,672 --> 00:15:43,541
-   its made up of a microchip   
-     on an electronic card.     
+its made up of a microchip on an electronic card.
 
 226
 00:15:43,543 --> 00:15:46,477
-       preparing the chip       
-   to be installed on the card  
+preparing the chip to be installed on the card
 
 227
 00:15:46,479 --> 00:15:50,248
-          is a delicate         
-     and precise operation.     
+is a delicate and precise operation.
 
 228
 00:15:56,957 --> 00:16:01,091
-        scientists built        
-   the first computer in 1937,  
+scientists built the first computer in 1937,
 
 229
 00:16:01,093 --> 00:16:03,694
-  but it could only do algebra. 
+but it could only do algebra.
 
 230
 00:16:03,696 --> 00:16:07,365
-    the first general-purpose   
-       computer, in 1946,       
+the first general-purpose computer, in 1946,
 
 231
 00:16:07,367 --> 00:16:10,434
-          was the size          
-      of 20 refrigerators.      
+was the size of 20 refrigerators.
 
 232
 00:16:10,436 --> 00:16:14,905
-  during the 1950s, transistors 
-  replaced bulky vacuum tubes,  
+during the 1950s, transistors replaced bulky vacuum tubes,
 
 233
 00:16:14,907 --> 00:16:18,643
-    then integrated circuits    
-      replaced transistors.     
+then integrated circuits replaced transistors.
 
 234
 00:16:18,645 --> 00:16:21,579
-  but the biggest breakthrough  
-          came in 1971          
+but the biggest breakthrough came in 1971
 
 235
 00:16:21,581 --> 00:16:23,381
-   with the microprocessor --   
+with the microprocessor --
 
 236
 00:16:23,383 --> 00:16:26,917
-       all the components       
-     on one miniscule chip.     
+all the components on one miniscule chip.
 
 237
 00:16:26,919 --> 00:16:30,521
-        that's what made        
- the personal computer possible.
+that's what made the personal computer possible.
 
 238
 00:16:38,597 --> 00:16:42,667
 they start with a ceramic square
-       called a substrate.      
+called a substrate.
 
 239
 00:16:42,669 --> 00:16:45,470
- this will carry the microchip. 
+this will carry the microchip.
 
 240
 00:16:45,472 --> 00:16:48,873
-  a machine coats the substrate 
-       surface with flux,       
+a machine coats the substrate surface with flux,
 
 241
 00:16:48,875 --> 00:16:51,476
-           a chemical           
-      that makes it sticky.     
+a chemical that makes it sticky.
 
 242
 00:16:51,478 --> 00:16:55,513
-  this will hold the microchip  
-  in place until it's soldered. 
+this will hold the microchip in place until it's soldered.
 
 243
 00:17:02,688 --> 00:17:05,957
-      the factory receives      
-   the microchips ready-made,   
+the factory receives the microchips ready-made,
 
 244
 00:17:05,959 --> 00:17:08,126
- with all the circuits in place.
+with all the circuits in place.
 
 245
 00:17:11,564 --> 00:17:15,199
-     they place a microchip     
-       on each substrate.       
+they place a microchip on each substrate.
 
 246
 00:17:20,039 --> 00:17:22,907
-       an infrared light        
-       guides the machine       
+an infrared light guides the machine
 
 247
 00:17:22,909 --> 00:17:26,544
-        to place the chip       
-  in precisely the right spot.  
+to place the chip in precisely the right spot.
 
 248
 00:17:37,057 --> 00:17:39,657
-     they pull a sample from    
-       the production line      
+they pull a sample from the production line
 
 249
 00:17:39,659 --> 00:17:41,392
-        to further verify       
-         the positioning        
+to further verify the positioning
 
 250
 00:17:41,394 --> 00:17:43,194
-       with a microscope.       
+with a microscope.
 
 251
 00:17:46,666 --> 00:17:50,668
-  next stop -- a soldering oven 
-         at 689 degrees.        
+next stop -- a soldering oven at 689 degrees.
 
 252
 00:17:50,670 --> 00:17:55,606
-    the heat melts tiny beads   
- of tin positioned on the chip, 
+the heat melts tiny beads of tin positioned on the chip,
 
 253
 00:17:55,608 --> 00:17:58,075
-  binding it to the substrate.  
+binding it to the substrate.
 
 254
 00:17:58,077 --> 00:18:01,345
-  next, they prepare to solder  
-         an aluminum cap        
+next, they prepare to solder an aluminum cap
 
 255
 00:18:01,347 --> 00:18:02,814
-      over each microchip.      
+over each microchip.
 
 256
 00:18:02,816 --> 00:18:05,482
-        the cap will have       
-        two functions --        
+the cap will have two functions --
 
 257
 00:18:05,484 --> 00:18:06,950
-       to protect the chip      
+to protect the chip
 
 258
 00:18:06,952 --> 00:18:10,488
-    and to dissipate the heat   
-    that the chip generates.    
+and to dissipate the heat that the chip generates.
 
 259
 00:18:23,836 --> 00:18:27,304
-          a robotic arm         
-  picks up four caps at a time  
+a robotic arm picks up four caps at a time
 
 260
 00:18:27,306 --> 00:18:30,541
-       and positions them       
-      over the microchips.      
+and positions them over the microchips.
 
 261
 00:18:48,061 --> 00:18:53,931
 they go into a soldering oven at
- 302 degrees for about an hour. 
+302 degrees for about an hour.
 
 262
 00:18:56,202 --> 00:18:59,536
-   the next step is to create   
-   the electrical connections   
+the next step is to create the electrical connections
 
 263
 00:18:59,538 --> 00:19:02,006
-         that will later        
-     link the microprocessor    
+that will later link the microprocessor
 
 264
 00:19:02,008 --> 00:19:04,275
-        to the computer's       
-        electronic card.        
+to the computer's electronic card.
 
 265
 00:19:04,277 --> 00:19:09,146
@@ -1257,131 +1072,110 @@ pieces of tin, called "columns."
 
 266
 00:19:09,148 --> 00:19:11,149
-    tin conducts electricity.   
+tin conducts electricity.
 
 267
 00:19:11,151 --> 00:19:14,952
-    a giant suctioning sieve    
-      vibrates the columns      
+a giant suctioning sieve vibrates the columns
 
 268
 00:19:14,954 --> 00:19:17,154
-     until they fall through    
-           the holes.           
+until they fall through the holes.
 
 269
 00:19:17,156 --> 00:19:18,689
-  this lines them up vertically 
+this lines them up vertically
 
 270
 00:19:18,691 --> 00:19:21,092
-  so that they can be attached  
-        to the substrate.       
+so that they can be attached to the substrate.
 
 271
 00:19:24,631 --> 00:19:27,698
-        a machine spreads       
-     a thick adhesive paste,    
+a machine spreads a thick adhesive paste,
 
 272
 00:19:27,700 --> 00:19:31,669
-   then attaches the vertical   
- columns in it from underneath. 
+then attaches the vertical columns in it from underneath.
 
 273
 00:19:39,512 --> 00:19:43,247
-     a robotic arm positions    
-   the chip-carrying substrate  
+a robotic arm positions the chip-carrying substrate
 
 274
 00:19:43,249 --> 00:19:44,949
-    onto the pasted columns.    
+onto the pasted columns.
 
 275
 00:19:47,053 --> 00:19:51,656
-    the result is a microchip   
-     with 1,000 connections.    
+the result is a microchip with 1,000 connections.
 
 276
 00:19:56,462 --> 00:19:58,195
-   for even more connections,   
+for even more connections,
 
 277
 00:19:58,197 --> 00:20:00,598
-       they use tin balls       
-       instead of columns       
+they use tin balls instead of columns
 
 278
 00:20:00,600 --> 00:20:03,400
-   because balls are sturdier   
-       and more reliable.       
+because balls are sturdier and more reliable.
 
 279
 00:20:03,402 --> 00:20:06,270
-           they, too,           
- go through a suctioning sieve, 
+they, too, go through a suctioning sieve,
 
 280
 00:20:06,272 --> 00:20:09,740
-     only instead of paste,     
-   they're stuck on with flux,  
+only instead of paste, they're stuck on with flux,
 
 281
 00:20:09,742 --> 00:20:12,009
-      that sticky chemical      
-          used earlier          
+that sticky chemical used earlier
 
 282
 00:20:12,011 --> 00:20:14,812
-    to position the microchip   
-       onto the substrate.      
+to position the microchip onto the substrate.
 
 283
 00:20:27,827 --> 00:20:29,626
-   the finished microchip unit  
+the finished microchip unit
 
 284
 00:20:29,628 --> 00:20:32,163
-    goes into a bath of water   
-          and solvents          
+goes into a bath of water and solvents
 
 285
 00:20:32,165 --> 00:20:35,866
-    to remove any excess flux   
-       or other residues.       
+to remove any excess flux or other residues.
 
 286
 00:20:42,574 --> 00:20:46,844
-          last stop --          
-    quality control testing,    
+last stop -- quality control testing,
 
 287
 00:20:46,846 --> 00:20:52,316
-    up to 12 hours in an oven   
-     heated to 284 degrees.     
+up to 12 hours in an oven heated to 284 degrees.
 
 288
 00:20:52,318 --> 00:20:56,520
-  from here, the microprocessor 
-  unit goes to another factory  
+from here, the microprocessor unit goes to another factory
 
 289
 00:20:56,522 --> 00:20:59,056
-    where it's soldered onto    
-       an electronic card,      
+where it's soldered onto an electronic card,
 
 290
 00:20:59,058 --> 00:21:02,393
-      which then goes into      
-           a computer.          
+which then goes into a computer.
 
 291
 00:21:02,395 --> 00:21:05,463
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 292
 00:21:05,465 --> 00:21:08,366
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
+
 

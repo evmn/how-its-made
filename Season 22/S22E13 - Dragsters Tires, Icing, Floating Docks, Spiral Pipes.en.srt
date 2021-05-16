@@ -1,113 +1,92 @@
 ﻿1
 00:00:53,520 --> 00:00:55,788
-  narrator: a dragster's tires  
-     take quite a beating       
+narrator: a dragster's tires take quite a beating       
 
 2
 00:00:55,790 --> 00:00:59,191
-       during the brief,        
-      but fast run down the     
-           racetrack.           
+during the brief, but fast run down the racetrack.           
 
 3
 00:00:59,193 --> 00:01:01,861
-     the tires have to face     
-     full-on acceleration       
+the tires have to face full-on acceleration       
 
 4
 00:01:01,863 --> 00:01:03,795
-    right out of the starting   
-             gate,              
+right out of the starting gate,              
 
 5
 00:01:03,797 --> 00:01:06,431
-    then heavy-duty braking     
-    after the finish line,      
+then heavy-duty braking after the finish line,      
 
 6
 00:01:06,433 --> 00:01:08,668
-          with the car          
-  deploying a rear parachute    
+with the car deploying a rear parachute    
 
 7
 00:01:08,670 --> 00:01:11,437
-   and slowing to an eventual   
-             stop.              
+and slowing to an eventual stop.              
 
 8
 00:01:13,741 --> 00:01:17,409
-         a drag race is         
-     the ultimate automotive    
-            sprint,             
+a drag race is the ultimate automotive sprint,             
 
 9
 00:01:17,411 --> 00:01:18,677
-    with rapid acceleration     
+with rapid acceleration     
 
 10
 00:01:18,679 --> 00:01:22,415
-           to speeds            
-  topping 310 miles per hour.   
+to speeds topping 310 miles per hour.   
 
 11
 00:01:22,417 --> 00:01:25,951
-     optimal tire traction      
-   can give a car the winning   
-             edge.              
+optimal tire traction can give a car the winning edge.              
 
 12
 00:01:25,953 --> 00:01:29,822
-    dragster tires, like most   
-             tires,             
-     are made from rubber,      
+dragster tires, like most tires, are made from rubber,      
 
 13
 00:01:29,824 --> 00:01:33,158
-    which hasn't been cured     
+which hasn't been cured     
 to a firm and permanent state.  
 
 14
 00:01:33,160 --> 00:01:34,894
-  for most parts of the tire,   
+for most parts of the tire,   
 
 15
 00:01:34,896 --> 00:01:38,230
-   they reinforce the rubber    
-      with nylon fabric.        
+they reinforce the rubber with nylon fabric.        
 
 16
 00:01:38,232 --> 00:01:41,100
-  the machine heats and kneads  
- rubber slabs until they melt,  
+the machine heats and kneads rubber slabs until they melt,  
 
 17
 00:01:41,102 --> 00:01:45,037
-  then coats both sides of the  
+then coats both sides of the  
 material with a molten rubber.  
 
 18
 00:01:45,039 --> 00:01:48,240
-   when the fabric-reinforced   
-    sheet of rubber cools,      
+when the fabric-reinforced sheet of rubber cools,      
 
 19
 00:01:48,242 --> 00:01:51,777
-   the machine slices it into   
- pieces of a specific length,   
+the machine slices it into pieces of a specific length,   
 
 20
 00:01:51,779 --> 00:01:55,448
- making the cuts at a diagonal, 
-     called a bias angle.       
+making the cuts at a diagonal, called a bias angle.       
 
 21
 00:01:55,450 --> 00:01:59,118
-  a skilled tire builder then   
- joins the edges of the piece   
+a skilled tire builder then joins the edges of the piece   
 
 22
 00:01:59,120 --> 00:02:00,052
-        to form a band,         
+to form a band,         
 
 23
 00:02:00,054 --> 00:02:02,188
@@ -115,8 +94,7 @@ sticks it to an identical band
 
 24
 00:02:02,190 --> 00:02:04,323
-            made of             
-   an opposite bias piece --    
+made of an opposite bias piece --    
 
 25
 00:02:04,325 --> 00:02:06,458
@@ -124,1005 +102,826 @@ layering increases strength --
 
 26
 00:02:06,460 --> 00:02:11,329
-   then stretches this two-ply  
-              band              
- over a tire-building machine.  
+then stretches this two-ply band over a tire-building machine.  
 
 27
 00:02:11,331 --> 00:02:12,798
-  next, he applies the belts,   
+next, he applies the belts,   
 
 28
 00:02:12,800 --> 00:02:16,135
-    two opposing bias pieces    
- of fabric-reinforced rubber,   
+two opposing bias pieces of fabric-reinforced rubber,   
 
 29
 00:02:16,137 --> 00:02:20,873
- which he lays diagonally onto  
-  the tread area of the tire.   
+which he lays diagonally onto the tread area of the tire.   
 
 30
 00:02:20,875 --> 00:02:23,676
- a laser guide marks the edges  
+a laser guide marks the edges  
 
 31
 00:02:23,678 --> 00:02:26,678
- so that he can match the belts 
-        to each other.          
+so that he can match the belts to each other.          
 
 32
 00:02:26,680 --> 00:02:29,949
- these belts help give the tire 
-     stiffness, strength,       
+these belts help give the tire stiffness, strength,       
 
 33
 00:02:29,951 --> 00:02:31,584
-        and stability.          
+and stability.          
 
 34
 00:02:36,024 --> 00:02:39,091
-        he uses a roller        
- to press out any trapped air   
+he uses a roller to press out any trapped air   
 
 35
 00:02:39,093 --> 00:02:41,160
- between the plies and belts.   
+between the plies and belts.   
 
 36
 00:02:41,162 --> 00:02:43,762
-       this helps ensure        
-       a thorough bond.         
+this helps ensure a thorough bond.         
 
 37
 00:02:43,764 --> 00:02:47,299
-     after a stitcher wheel     
-     folds down the plies,      
+after a stitcher wheel folds down the plies,      
 
 38
 00:02:47,301 --> 00:02:50,836
-      he folds the ends of      
+he folds the ends of      
 the material into the machine.  
 
 39
 00:02:50,838 --> 00:02:53,905
-        then, he applies        
+then, he applies        
 a contact cement-type material  
 
 40
 00:02:53,907 --> 00:02:57,375
-     to enhance the natural     
-            adhesion            
-      of uncured rubber.        
+to enhance the natural adhesion of uncured rubber.        
 
 41
 00:02:57,377 --> 00:03:02,381
-     meanwhile, an automated    
-             machine            
-    makes the tires' beads,     
+meanwhile, an automated machine makes the tires' beads,     
 
 42
 00:03:02,383 --> 00:03:04,984
-  the rigid hoops around both   
-     sides of the opening,      
+the rigid hoops around both sides of the opening,      
 
 43
 00:03:04,986 --> 00:03:07,385
-      which holds the tire      
-     firmly to the wheel.       
+which holds the tire firmly to the wheel.       
 
 44
 00:03:07,387 --> 00:03:10,923
-       each bead is made        
-   from a thick, steel wire.    
+each bead is made from a thick, steel wire.    
 
 45
 00:03:10,925 --> 00:03:15,194
-          the machine           
-    first encapsulates it in    
-            rubber.             
+the machine first encapsulates it in rubber.             
 
 46
 00:03:23,471 --> 00:03:27,540
- then, it winds the bead around 
-  a mandrill up to 50 times,    
+then, it winds the bead around a mandrill up to 50 times,    
 
 47
 00:03:27,542 --> 00:03:28,874
-        forming a hoop.         
+forming a hoop.         
 
 48
 00:03:28,876 --> 00:03:32,144
-  the machine forms four beads  
-          at a time.            
+the machine forms four beads at a time.            
 
 49
 00:03:37,084 --> 00:03:39,017
-   the next machine wraps the   
-              hoop              
+the next machine wraps the hoop              
 
 50
 00:03:39,019 --> 00:03:41,420
-           in a piece           
- of fabric-reinforced rubber.   
+in a piece of fabric-reinforced rubber.   
 
 51
 00:03:41,422 --> 00:03:44,890
-     this additional layer      
-  will stiffen the sidewall,    
+this additional layer will stiffen the sidewall,    
 
 52
 00:03:44,892 --> 00:03:46,959
-      the non-treaded area      
-         of the tire.           
+the non-treaded area of the tire.           
 
 53
 00:03:51,965 --> 00:03:54,767
-    the builder uses a tool     
-     called a bead server       
+the builder uses a tool called a bead server       
 
 54
 00:03:54,769 --> 00:03:57,436
-  to mount the finished bead.   
+to mount the finished bead.   
 
 55
 00:03:57,438 --> 00:03:58,904
-  while the tire is spinning,   
+while the tire is spinning,   
 
 56
 00:03:58,906 --> 00:04:01,640
-     he applies the contact     
-     cement-type material       
+he applies the contact cement-type material       
 
 57
 00:04:01,642 --> 00:04:03,843
-            to help             
- the rubber-to-rubber adhesion  
+to help the rubber-to-rubber adhesion  
 
 58
 00:04:03,845 --> 00:04:07,480
- when he wraps the plies around 
+when he wraps the plies around 
 the bead to secure it further.  
 
 59
 00:04:11,452 --> 00:04:14,787
-       the stitcher wheel       
-    smoothes the plies flat     
+the stitcher wheel smoothes the plies flat     
 
 60
 00:04:14,789 --> 00:04:18,256
-  and pushes out trapped air.   
+and pushes out trapped air.   
 
 61
 00:04:18,258 --> 00:04:19,858
-    then, the tire builder      
+then, the tire builder      
 
 62
 00:04:19,860 --> 00:04:23,729
-       applies a strip of       
-   fabric-reinforced rubber on  
-              top               
+applies a strip of fabric-reinforced rubber on top               
 
 63
 00:04:23,731 --> 00:04:25,264
-      and rolls it flat.        
+and rolls it flat.        
 
 64
 00:04:25,266 --> 00:04:28,200
-      this strip will make      
-  the bead area more durable    
+this strip will make the bead area more durable    
 
 65
 00:04:28,202 --> 00:04:30,802
-         when the tire          
-    is mounted on a wheel.      
+when the tire is mounted on a wheel.      
 
 66
 00:04:30,804 --> 00:04:33,071
-       he applies a layer       
-   of non-reinforced rubber     
+he applies a layer of non-reinforced rubber     
 
 67
 00:04:33,073 --> 00:04:34,339
-       on the sidewall.         
+on the sidewall.         
 
 68
 00:04:34,341 --> 00:04:37,009
-          this covers           
-    the edges of the plies      
+this covers the edges of the plies      
 
 69
 00:04:37,011 --> 00:04:41,013
-     and will help the tire     
+and will help the tire     
 retain air once it's inflated.  
 
 70
 00:04:41,015 --> 00:04:44,216
-  this machine makes the tread  
-               by               
-    extruding molten rubber     
+this machine makes the tread by extruding molten rubber     
 
 71
 00:04:44,218 --> 00:04:47,152
-         through a dye          
-   into a continuous strip,     
+through a dye into a continuous strip,     
 
 72
 00:04:47,154 --> 00:04:50,489
-        then applying it        
-    onto the spinning tire.     
+then applying it onto the spinning tire.     
 
 73
 00:04:50,491 --> 00:04:54,360
-   the fully constructed tire   
+the fully constructed tire   
 now goes into a press to cure.  
 
 74
 00:04:54,362 --> 00:04:57,696
-   inside, a hot mold closes    
-     around the perimeter,      
+inside, a hot mold closes around the perimeter,      
 
 75
 00:04:57,698 --> 00:04:59,832
-      while a bag inflates      
-        in the middle,          
+while a bag inflates in the middle,          
 
 76
 00:04:59,834 --> 00:05:03,302
-    pushing the tire outward    
+pushing the tire outward    
 against the walls of the mold.  
 
 77
 00:05:03,304 --> 00:05:05,704
-    when the tire comes out,    
-   about half an hour later,    
+when the tire comes out, about half an hour later,    
 
 78
 00:05:05,706 --> 00:05:08,240
-    the rubber is no longer     
-       soft and pliable,        
+the rubber is no longer soft and pliable,        
 
 79
 00:05:08,242 --> 00:05:11,109
-   and its chemical structure   
-        is stabilized,          
+and its chemical structure is stabilized,          
 
 80
 00:05:11,111 --> 00:05:13,379
-      locking in the final      
-          dimensions.           
+locking in the final dimensions.           
 
 81
 00:05:13,381 --> 00:05:16,582
- workers seal the wheel opening 
-     and inflate the tire       
+workers seal the wheel opening and inflate the tire       
 
 82
 00:05:16,584 --> 00:05:19,918
-       to hold the shape        
-    until the rubber cools.     
+to hold the shape until the rubber cools.     
 
 83
 00:05:19,920 --> 00:05:21,854
-   once the rubber has cooled   
-     to room temperature,       
+once the rubber has cooled to room temperature,       
 
 84
 00:05:21,856 --> 00:05:23,388
-  which takes about an hour,    
+which takes about an hour,    
 
 85
 00:05:23,390 --> 00:05:26,592
-  the tire undergoes a series   
-  of quality-control checks.    
+the tire undergoes a series of quality-control checks.    
 
 86
 00:05:26,594 --> 00:05:29,995
-    here, a worker performs     
-      a visual inspection       
+here, a worker performs a visual inspection       
 
 87
 00:05:29,997 --> 00:05:33,465
-    while trimming off excess   
-             rubber             
-      from the bead area.       
+while trimming off excess rubber from the bead area.       
 
 88
 00:05:33,467 --> 00:05:37,469
-    before the decals go on,    
-   they also x-ray the tire,    
+before the decals go on, they also x-ray the tire,    
 
 89
 00:05:37,471 --> 00:05:40,872
-    looking for any internal    
-             flaws.             
+looking for any internal flaws.             
 
 90
 00:05:40,874 --> 00:05:44,210
-     life in the fast lane,     
-   while exciting, is short.    
+life in the fast lane, while exciting, is short.    
 
 91
 00:05:44,212 --> 00:05:46,212
-         dragster tires         
-      need to be replaced       
+dragster tires need to be replaced       
 
 92
 00:05:46,214 --> 00:05:50,082
-    every four to six trips     
-     down the drag strip.       
+every four to six trips down the drag strip.       
 
 93
 00:06:05,499 --> 00:06:07,766
-   narrator: icing dates back   
-   to 17th-century england.     
+narrator: icing dates back to 17th-century england.     
 
 94
 00:06:07,768 --> 00:06:10,703
-         early versions         
-    were poured directly onto   
-             cake.              
+early versions were poured directly onto cake.              
 
 95
 00:06:10,705 --> 00:06:12,504
-       the cake was then        
-     put back in the oven       
+the cake was then put back in the oven       
 
 96
 00:06:12,506 --> 00:06:15,374
-       until the topping        
- cooked into an icelike glaze,  
+until the topping cooked into an icelike glaze,  
 
 97
 00:06:15,376 --> 00:06:17,443
-     hence the term icing.      
+hence the term icing.      
 
 98
 00:06:17,445 --> 00:06:21,814
-    hundreds of years later,    
- success never tasted sweeter.  
+hundreds of years later, success never tasted sweeter.  
 
 99
 00:06:25,986 --> 00:06:29,722
- today, icing comes ready-made  
-      in cans and tubes.        
+today, icing comes ready-made in cans and tubes.        
 
 100
 00:06:29,724 --> 00:06:32,925
- no need to make a sticky mess  
-        in the kitchen.         
+no need to make a sticky mess in the kitchen.         
 
 101
 00:06:32,927 --> 00:06:35,928
-     just press the nozzle      
- to transform a plain cupcake   
+just press the nozzle to transform a plain cupcake   
 
 102
 00:06:35,930 --> 00:06:39,398
-  into an elaborate dessert.    
+into an elaborate dessert.    
 
 103
 00:06:39,400 --> 00:06:43,268
-   it takes a dozen different   
-  ingredients to make icing,    
+it takes a dozen different ingredients to make icing,    
 
 104
 00:06:43,270 --> 00:06:46,538
-         beginning with         
-   vegetable-oil shortening.    
+beginning with vegetable-oil shortening.    
 
 105
 00:06:46,540 --> 00:06:49,808
- they encapsulate food coloring 
-  in the block of shortening.   
+they encapsulate food coloring in the block of shortening.   
 
 106
 00:06:49,810 --> 00:06:52,677
-  this keeps the food coloring  
-    from becoming airborne,     
+this keeps the food coloring from becoming airborne,     
 
 107
 00:06:52,679 --> 00:06:55,213
-      as a mixture creams       
-  the shortening with sugar,    
+as a mixture creams the shortening with sugar,    
 
 108
 00:06:55,215 --> 00:06:58,483
-        which they pipe         
+which they pipe         
 directly into the mixer basin.  
 
 109
 00:06:58,485 --> 00:07:01,153
-  sugar is the main ingredient  
-           in icing.            
+sugar is the main ingredient in icing.            
 
 110
 00:07:05,225 --> 00:07:07,760
-           corn syrup           
-    is the next ingredient.     
+corn syrup is the next ingredient.     
 
 111
 00:07:07,762 --> 00:07:12,163
-     it adds more sweetness     
-   and liquidity to the mix.    
+it adds more sweetness and liquidity to the mix.    
 
 112
 00:07:12,165 --> 00:07:15,367
-  the mixer arm spirals around  
-  the basin for a few minutes   
+the mixer arm spirals around the basin for a few minutes   
 
 113
 00:07:15,369 --> 00:07:19,771
-     to blend everything.       
+to blend everything.       
 
 114
 00:07:19,773 --> 00:07:25,110
-   then, they add cornstarch,   
-              which             
-    will act as a thickening    
-             agent.             
+then, they add cornstarch, which will act as a thickening agent.             
 
 115
 00:07:25,112 --> 00:07:28,980
- they pour warm water into the  
+they pour warm water into the  
 mixture and beat until smooth.  
 
 116
 00:07:28,982 --> 00:07:31,650
-    if the icing consistency    
-         is too thin,           
+if the icing consistency is too thin,           
 
 117
 00:07:31,652 --> 00:07:35,254
-    they thicken it with more   
-             sugar.             
+they thicken it with more sugar.             
 
 118
 00:07:35,256 --> 00:07:38,657
-    this 1,000-pound batch of   
-              icing             
-           is done,             
+this 1,000-pound batch of icing is done,             
 
 119
 00:07:38,659 --> 00:07:43,061
-   and there's enough to fill   
-     2,000 aluminum cans.       
+and there's enough to fill 2,000 aluminum cans.       
 
 120
 00:07:43,063 --> 00:07:45,930
-           a conveyor           
- delivers the cans to fillers   
+a conveyor delivers the cans to fillers   
 
 121
 00:07:45,932 --> 00:07:49,535
-    that inject half a pound    
-    of icing into each can.     
+that inject half a pound of icing into each can.     
 
 122
 00:07:55,942 --> 00:07:58,811
-        the system fills        
-      3,600 cans an hour,       
+the system fills 3,600 cans an hour,       
 
 123
 00:07:58,813 --> 00:08:02,147
-     and no one has to get      
-     their fingers sticky.      
+and no one has to get their fingers sticky.      
 
 124
 00:08:02,149 --> 00:08:05,217
-   plastic nozzles now funnel   
-    toward the containers,      
+plastic nozzles now funnel toward the containers,      
 
 125
 00:08:05,219 --> 00:08:07,085
-   and with perfect timing,     
+and with perfect timing,     
 
 126
 00:08:07,087 --> 00:08:11,290
-   a press seals one to each    
-   of the icing-filled cans.    
+a press seals one to each of the icing-filled cans.    
 
 127
 00:08:13,360 --> 00:08:14,893
-       at the same time,        
+at the same time,        
 
 128
 00:08:14,895 --> 00:08:18,364
- a pump shoots air into a small 
+a pump shoots air into a small 
 hole in the bottom of the can.  
 
 129
 00:08:18,366 --> 00:08:22,468
-  this pressurizes the icing so 
-               it               
+this pressurizes the icing so it               
 can be pumped out when needed.  
 
 130
 00:08:24,237 --> 00:08:26,905
-    the burst of air carries    
-  a tiny, rubber cap with it,   
+the burst of air carries a tiny, rubber cap with it,   
 
 131
 00:08:26,907 --> 00:08:30,476
-     and it plugs the hole      
-   to maintain the pressure.    
+and it plugs the hole to maintain the pressure.    
 
 132
 00:08:32,713 --> 00:08:37,082
- the cans move forward and meet 
- up with the applicator tips.   
+the cans move forward and meet up with the applicator tips.   
 
 133
 00:08:39,453 --> 00:08:42,187
- there are four tips per can,   
+there are four tips per can,   
 
 134
 00:08:42,189 --> 00:08:45,123
-         held together          
+held together          
 by little, plastic connectors.  
 
 135
 00:08:45,125 --> 00:08:48,260
-  the four applicator clusters  
-    fall out of the feeder      
+the four applicator clusters fall out of the feeder      
 
 136
 00:08:48,262 --> 00:08:50,362
- and land on the can nozzles.   
+and land on the can nozzles.   
 
 137
 00:08:51,866 --> 00:08:55,567
-    clear caps then fall into   
-              place             
-         on the cans.           
+clear caps then fall into place on the cans.           
 
 138
 00:08:59,473 --> 00:09:03,008
- a blade cuts a labeled plastic 
- sleeve to the correct length.  
+a blade cuts a labeled plastic sleeve to the correct length.  
 
 139
 00:09:03,010 --> 00:09:05,477
-    the sleeve drops onto the   
-             cans,              
+the sleeve drops onto the cans,              
 
 140
 00:09:05,479 --> 00:09:07,980
-      draping them loosely      
-        for the moment.         
+draping them loosely for the moment.         
 
 141
 00:09:11,285 --> 00:09:13,618
-          they ride by          
-    a spinning plastic disk     
+they ride by a spinning plastic disk     
 
 142
 00:09:13,620 --> 00:09:16,055
-     that tucks the sleeves     
-       all the way down.        
+that tucks the sleeves all the way down.        
 
 143
 00:09:18,692 --> 00:09:20,492
-   then, it's into a drier,     
+then, it's into a drier,     
 
 144
 00:09:20,494 --> 00:09:24,496
-   where the heat shrinks the   
-              wrap              
-    to the cans, sealing the    
-             icing.             
+where the heat shrinks the wrap to the cans, sealing the icing.             
 
 145
 00:09:26,834 --> 00:09:29,368
-      it's a perfect fit.       
+it's a perfect fit.       
 
 146
 00:09:34,241 --> 00:09:38,843
-     next, they make icing      
-    for packaging in squeeze    
-             tubes.             
+next, they make icing for packaging in squeeze tubes.             
 
 147
 00:09:38,845 --> 00:09:41,179
-      they blend together       
-     the same ingredients,      
+they blend together the same ingredients,      
 
 148
 00:09:41,181 --> 00:09:44,450
-    but in different amounts    
-   and in a different order.    
+but in different amounts and in a different order.    
 
 149
 00:09:44,452 --> 00:09:47,519
-         this achieves          
-    a thicker consistency.      
+this achieves a thicker consistency.      
 
 150
 00:09:47,521 --> 00:09:53,058
-   thicker icing can be more    
- easily squeezed out of tubes.  
+thicker icing can be more easily squeezed out of tubes.  
 
 151
 00:09:53,060 --> 00:09:58,062
-    for ready-made icing, it    
-             really             
-   is all in the packaging.     
+for ready-made icing, it really is all in the packaging.     
 
 152
 00:09:58,064 --> 00:10:00,732
-        a mechanized arm        
-   picks up the squeeze tube    
+a mechanized arm picks up the squeeze tube    
 
 153
 00:10:00,734 --> 00:10:03,735
-        and delivers it         
-    to the filling machine.     
+and delivers it to the filling machine.     
 
 154
 00:10:06,607 --> 00:10:10,442
-  a vacuum pump sucks out air   
-     and any contaminants.      
+a vacuum pump sucks out air and any contaminants.      
 
 155
 00:10:12,146 --> 00:10:16,748
-       another mechanism        
- orients the tube for filling.  
+another mechanism orients the tube for filling.  
 
 156
 00:10:16,750 --> 00:10:19,484
-   nozzles now inject thick,    
- yellow icing into the tubes,   
+nozzles now inject thick, yellow icing into the tubes,   
 
 157
 00:10:19,486 --> 00:10:21,286
-         but stop short         
-    at a complete fill-up,      
+but stop short at a complete fill-up,      
 
 158
 00:10:21,288 --> 00:10:24,556
-         leaving space          
+leaving space          
 for the open ends to be closed  
 
 159
 00:10:24,558 --> 00:10:26,492
-    and sealed by hot jaws.     
+and sealed by hot jaws.     
 
 160
 00:10:32,232 --> 00:10:36,101
-          once closed,          
- the machine ejects the tubes.  
+once closed, the machine ejects the tubes.  
 
 161
 00:10:36,103 --> 00:10:39,638
-       each one contains        
-     four ounces of icing.      
+each one contains four ounces of icing.      
 
 162
 00:10:39,640 --> 00:10:42,107
-    it's about half as much     
-          as the can.           
+it's about half as much as the can.           
 
 163
 00:10:42,109 --> 00:10:44,976
-     to decorate with icing     
-         from a tube,           
+to decorate with icing from a tube,           
 
 164
 00:10:44,978 --> 00:10:48,980
-    the consumer squeezes it    
-    out of the bottom tip.      
+the consumer squeezes it out of the bottom tip.      
 
 165
 00:10:48,982 --> 00:10:54,386
-   to apply icing from a can,   
-  you pump it out of the top.   
+to apply icing from a can, you pump it out of the top.   
 
 166
 00:10:54,388 --> 00:10:58,957
-   no matter how you ice it,    
-   the result will be sweet.    
+no matter how you ice it, the result will be sweet.    
 
 167
 00:11:16,142 --> 00:11:18,610
-         the egyptians          
+the egyptians          
 built the earliest known docks  
 
 168
 00:11:18,612 --> 00:11:21,546
-  on the shores of the red sea  
-        around 2500 bc.         
+on the shores of the red sea around 2500 bc.         
 
 169
 00:11:21,548 --> 00:11:23,415
- more than 4,000 years later,   
+more than 4,000 years later,   
 
 170
 00:11:23,417 --> 00:11:26,684
-    our lakes and rivers are    
-             dotted             
-   with floating structures     
+our lakes and rivers are dotted with floating structures     
 
 171
 00:11:26,686 --> 00:11:30,021
-     where boaters can dock     
-  their crafts, go for a dip,   
+where boaters can dock their crafts, go for a dip,   
 
 172
 00:11:30,023 --> 00:11:34,826
-  or just lounge in the sun.    
+or just lounge in the sun.    
 
 173
 00:11:34,828 --> 00:11:36,895
-   floating docks can be much   
-              more              
+floating docks can be much more              
 
 174
 00:11:36,897 --> 00:11:39,698
-       than just walkways       
-  where you tie up your boat.   
+than just walkways where you tie up your boat.   
 
 175
 00:11:39,700 --> 00:11:43,501
-     they can be waterborne     
-            buildings           
-  with slips, jet-ski ports,    
+they can be waterborne buildings with slips, jet-ski ports,    
 
 176
 00:11:43,503 --> 00:11:46,838
-   and even a rooftop deck.     
+and even a rooftop deck.     
 
 177
 00:11:46,840 --> 00:11:48,840
-   this facility has created    
+this facility has created    
 
 178
 00:11:48,842 --> 00:11:51,576
-     its own computer-aided     
-       design software.         
+its own computer-aided design software.         
 
 179
 00:11:51,578 --> 00:11:55,714
-    with it, they can quickly   
-             design             
-   each component of a dock in  
-              3-d.              
+with it, they can quickly design each component of a dock in 3-d.              
 
 180
 00:11:55,716 --> 00:11:59,051
-      the program will even     
-            calculate           
-  how many floats are needed    
+the program will even calculate how many floats are needed    
 
 181
 00:11:59,053 --> 00:12:00,352
-    and where they should be    
-             placed             
+and where they should be placed             
 
 182
 00:12:00,354 --> 00:12:03,255
-     to keep the dock level     
-         in the water.          
+to keep the dock level in the water.          
 
 183
 00:12:03,257 --> 00:12:06,591
-   thanks to its lightweight,   
-      rustproof strength,       
+thanks to its lightweight, rustproof strength,       
 
 184
 00:12:06,593 --> 00:12:10,062
- aluminum is the ideal material 
-      for building docks.       
+aluminum is the ideal material for building docks.       
 
 185
 00:12:10,064 --> 00:12:14,066
- all the aluminum here has been 
-   extruded in unique shapes    
+all the aluminum here has been extruded in unique shapes    
 
 186
 00:12:14,068 --> 00:12:16,534
-           according            
-  to the design requirements.   
+according to the design requirements.   
 
 187
 00:12:16,536 --> 00:12:19,805
-     the plans are printed,     
-    and workers consult them    
-            closely             
+the plans are printed, and workers consult them closely             
 
 188
 00:12:19,807 --> 00:12:22,607
-          as they cut           
-    and form the material.      
+as they cut and form the material.      
 
 189
 00:12:22,609 --> 00:12:24,742
-      the blades they use       
-    are specially designed      
+the blades they use are specially designed      
 
 190
 00:12:24,744 --> 00:12:26,278
-     for cutting aluminum.      
+for cutting aluminum.      
 
 191
 00:12:26,280 --> 00:12:29,414
- they use a variety of methods  
-      to form the shapes,       
+they use a variety of methods to form the shapes,       
 
 192
 00:12:29,416 --> 00:12:32,284
-    including drill presses     
-   equipped with components     
+including drill presses equipped with components     
 
 193
 00:12:32,286 --> 00:12:35,620
-       called hole saws.        
+called hole saws.        
 
 194
 00:12:35,622 --> 00:12:38,223
-  workers lay the material out  
-     on the factory floor       
+workers lay the material out on the factory floor       
 
 195
 00:12:38,225 --> 00:12:41,626
-         in preparation         
- for assembling the structure.  
+in preparation for assembling the structure.  
 
 196
 00:12:41,628 --> 00:12:43,962
-       the final assembly       
-     of the floating docks      
+the final assembly of the floating docks      
 
 197
 00:12:43,964 --> 00:12:48,834
-    will happen on the water    
-         at the site.           
+will happen on the water at the site.           
 
 198
 00:12:48,836 --> 00:12:51,036
-    they tack-weld the parts    
-        to each other,          
+they tack-weld the parts to each other,          
 
 199
 00:12:51,038 --> 00:12:53,839
-         then make sure         
+then make sure         
 everything is perfectly square  
 
 200
 00:12:53,841 --> 00:12:56,374
- before doing the final weld.   
+before doing the final weld.   
 
 201
 00:12:56,376 --> 00:13:00,778
-  unlike steel, aluminum loses  
-  strength when it's welded.    
+unlike steel, aluminum loses strength when it's welded.    
 
 202
 00:13:00,780 --> 00:13:03,515
-        for this reason,        
- the designers of these docks   
+for this reason, the designers of these docks   
 
 203
 00:13:03,517 --> 00:13:07,853
- have created special aluminum  
+have created special aluminum  
 sleeves for every major joint.  
 
 204
 00:13:07,855 --> 00:13:10,188
- that means there's extra metal 
-      supporting the weld       
+that means there's extra metal supporting the weld       
 
 205
 00:13:10,190 --> 00:13:14,326
-      and strengthening the     
-           structure.           
+and strengthening the structure.           
 
 206
 00:13:14,328 --> 00:13:16,328
-          to make sure          
-   everything fits properly,    
+to make sure everything fits properly,    
 
 207
 00:13:16,330 --> 00:13:19,864
- the workers join the sections  
-         to each other          
+the workers join the sections to each other          
 
 208
 00:13:19,866 --> 00:13:22,867
-   with stainless-steel bolts   
-        and lock nuts.          
+with stainless-steel bolts and lock nuts.          
 
 209
 00:13:22,869 --> 00:13:25,470
-   there is minimal reaction    
- between the different metals,  
+there is minimal reaction between the different metals,  
 
 210
 00:13:25,472 --> 00:13:27,605
-        because there is        
-   so little stainless steel    
+because there is so little stainless steel    
 
 211
 00:13:27,607 --> 00:13:31,409
-    relative to the quantity    
-    of aluminum being used.     
+relative to the quantity of aluminum being used.     
 
 212
 00:13:31,411 --> 00:13:34,479
-    once the bottom section     
-   of the dock is assembled,    
+once the bottom section of the dock is assembled,    
 
 213
 00:13:34,481 --> 00:13:36,814
- workers build up from there.   
+workers build up from there.   
 
 214
 00:13:36,816 --> 00:13:38,817
-      for this test phase,      
-      they use shortened,       
+for this test phase, they use shortened,       
 
 215
 00:13:38,819 --> 00:13:42,287
-      temporary roof poles      
-  to make the process easier.   
+temporary roof poles to make the process easier.   
 
 216
 00:13:42,289 --> 00:13:45,490
- the blue material on the poles 
-   is polyethylene bushing,     
+the blue material on the poles is polyethylene bushing,     
 
 217
 00:13:45,492 --> 00:13:47,692
-    which prevents creaking     
+which prevents creaking     
 
 218
 00:13:47,694 --> 00:13:50,962
-   when the dock is stressed    
-      in turbulent water.       
+when the dock is stressed in turbulent water.       
 
 219
 00:13:50,964 --> 00:13:53,031
-        because aluminum        
-      is so lightweight,        
+because aluminum is so lightweight,        
 
 220
 00:13:53,033 --> 00:13:56,167
-   there's no need for cranes   
- in an aluminum dock facility.  
+there's no need for cranes in an aluminum dock facility.  
 
 221
 00:13:56,169 --> 00:14:00,505
-      manpower is enough.       
+manpower is enough.       
 
 222
 00:14:00,507 --> 00:14:03,909
-    workers attach a series     
-  of narrow, aluminum tubes,    
+workers attach a series of narrow, aluminum tubes,    
 
 223
 00:14:03,911 --> 00:14:06,511
-        called purlins,         
-     to the roof and deck.      
+called purlins, to the roof and deck.      
 
 224
 00:14:06,513 --> 00:14:10,315
-  workers install the roofing   
-     by screwing it into the    
-            purlins.            
+workers install the roofing by screwing it into the purlins.            
 
 225
 00:14:10,317 --> 00:14:13,318
-         in most cases,         
-  the roof won't be installed   
+in most cases, the roof won't be installed   
 
 226
 00:14:13,320 --> 00:14:16,587
-  until the dock is assembled   
-           on-site.             
+until the dock is assembled on-site.             
 
 227
 00:14:16,589 --> 00:14:19,057
-   satisfied that everything    
-     assembles correctly,       
+satisfied that everything assembles correctly,       
 
 228
 00:14:19,059 --> 00:14:21,459
@@ -1130,294 +929,237 @@ the workers take it all apart.
 
 229
 00:14:21,461 --> 00:14:25,263
-  they flip the lower sections  
-  over and attach the floats.   
+they flip the lower sections over and attach the floats.   
 
 230
 00:14:25,265 --> 00:14:28,800
-    these floats consist of     
-    roto-molded polyethylene    
-            shells.             
+these floats consist of roto-molded polyethylene shells.             
 
 231
 00:14:28,802 --> 00:14:32,270
-       styrofoam has been       
-       expanded in place        
+styrofoam has been expanded in place        
 
 232
 00:14:32,272 --> 00:14:34,206
-    to fit inside the shell     
-          perfectly.            
+to fit inside the shell perfectly.            
 
 233
 00:14:34,208 --> 00:14:38,210
-     even if the outer shell    
-             breaks,            
-  the dock will still float.    
+even if the outer shell breaks, the dock will still float.    
 
 234
 00:14:39,746 --> 00:14:42,880
-      this facility offers      
-  a range of decking options    
+this facility offers a range of decking options    
 
 235
 00:14:42,882 --> 00:14:46,217
-   from aluminum to concrete    
-     to plastic composite       
+from aluminum to concrete to plastic composite       
 
 236
 00:14:46,219 --> 00:14:49,821
-    to specialty woods like     
+to specialty woods like     
 this one, which is called ipe.  
 
 237
 00:14:49,823 --> 00:14:54,625
-  like teak, ipe is incredibly  
- durable and extremely stable.  
+like teak, ipe is incredibly durable and extremely stable.  
 
 238
 00:14:54,627 --> 00:14:58,163
- in other words, it won't rot,  
-      swell, or contract,       
+in other words, it won't rot, swell, or contract,       
 
 239
 00:14:58,165 --> 00:15:02,200
-   despite extended exposure    
-       to a high-humidity       
-          environment.          
+despite extended exposure to a high-humidity environment.          
 
 240
 00:15:05,439 --> 00:15:09,441
- if the dock has an upper deck, 
-      it needs a railing.       
+if the dock has an upper deck, it needs a railing.       
 
 241
 00:15:09,443 --> 00:15:11,309
-     it's important to have     
-            something           
-        to lean against         
+it's important to have something to lean against         
 
 242
 00:15:11,311 --> 00:15:13,712
- when you're sipping cocktails  
-    and watching the sunset     
+when you're sipping cocktails and watching the sunset     
 
 243
 00:15:13,714 --> 00:15:15,113
-    after a long boat ride.     
+after a long boat ride.     
 
 244
 00:15:15,115 --> 00:15:18,917
-      of course, it's also      
-   a crucial safety feature.    
+of course, it's also a crucial safety feature.    
 
 245
 00:15:18,919 --> 00:15:22,053
-     there are 12 different     
-    components to assemble      
+there are 12 different components to assemble      
 
 246
 00:15:22,055 --> 00:15:23,655
-  for just this one section,    
+for just this one section,    
 
 247
 00:15:23,657 --> 00:15:26,792
-   and there might be as many   
-   as 15 different sections     
+and there might be as many as 15 different sections     
 
 248
 00:15:26,794 --> 00:15:29,561
-       of varying lengths       
-      for an entire dock.       
+of varying lengths for an entire dock.       
 
 249
 00:15:31,331 --> 00:15:34,166
-  customers can choose to add   
-    a range of accessories      
+customers can choose to add a range of accessories      
 
 250
 00:15:34,168 --> 00:15:36,735
-       to floating docks        
-    made at this facility.      
+to floating docks made at this facility.      
 
 251
 00:15:36,737 --> 00:15:39,070
-   to make things like safety   
-     railings and ladders,      
+to make things like safety railings and ladders,      
 
 252
 00:15:39,072 --> 00:15:42,607
-          workers use           
-  a hydraulic bending machine   
+workers use a hydraulic bending machine   
 
 253
 00:15:42,609 --> 00:15:45,610
-    to shape aluminum tubing    
-   to the required contours.    
+to shape aluminum tubing to the required contours.    
 
 254
 00:15:45,612 --> 00:15:47,746
-     all the aluminum these     
-       manufacturers use        
+all the aluminum these manufacturers use        
 
 255
 00:15:47,748 --> 00:15:50,748
-    in their floating docks     
-    is a marine-grade alloy     
+in their floating docks is a marine-grade alloy     
 
 256
 00:15:50,750 --> 00:15:53,285
-      especially resistant      
-        to degradation          
+especially resistant to degradation          
 
 257
 00:15:53,287 --> 00:15:55,754
-    when exposed to water.      
+when exposed to water.      
 
 258
 00:15:55,756 --> 00:15:58,890
-  finally, it's time to build   
-      the docks in place.       
+finally, it's time to build the docks in place.       
 
 259
 00:15:58,892 --> 00:16:02,360
- thanks to careful planning on  
+thanks to careful planning on  
 the part of the manufacturers,  
 
 260
 00:16:02,362 --> 00:16:04,095
-     assembly is a breeze.      
+assembly is a breeze.      
 
 261
 00:16:04,097 --> 00:16:06,898
-     the crew doesn't need      
- much more than a ratchet set   
+the crew doesn't need much more than a ratchet set   
 
 262
 00:16:06,900 --> 00:16:08,233
-   to pull it all together.     
+to pull it all together.     
 
 263
 00:16:08,235 --> 00:16:11,570
-      it's smooth sailing       
-       from here on out.        
+it's smooth sailing from here on out.        
 
 264
 00:16:26,653 --> 00:16:28,920
-   in the modern world, steel   
-              pipes             
-  form an underground network   
+in the modern world, steel pipes form an underground network   
 
 265
 00:16:28,922 --> 00:16:32,190
-     to deliver necessities     
- like drinking water or fuel.   
+to deliver necessities like drinking water or fuel.   
 
 266
 00:16:32,192 --> 00:16:35,193
-     these pipes are often      
-        spirally welded         
+these pipes are often spirally welded         
 
 267
 00:16:35,195 --> 00:16:37,195
- and can be made in any size.   
+and can be made in any size.   
 
 268
 00:16:37,197 --> 00:16:40,532
-      in fact, longer pipe      
-      means fewer joints        
+in fact, longer pipe means fewer joints        
 
 269
 00:16:40,534 --> 00:16:43,468
-         and less work          
- to install them underground.   
+and less work to install them underground.   
 
 270
 00:16:46,940 --> 00:16:51,676
-  spirally welded pipes can be  
-  short, or they can go on and  
-              on.               
+spirally welded pipes can be short, or they can go on and on.               
 
 271
 00:16:51,678 --> 00:16:53,745
-      the potential length      
-         is limitless,          
+the potential length is limitless,          
 
 272
 00:16:53,747 --> 00:16:55,947
-            because,            
- unlike other kinds of pipes,   
+because, unlike other kinds of pipes,   
 
 273
 00:16:55,949 --> 00:16:58,016
-          spiral pipes          
-     don't have to conform      
+spiral pipes don't have to conform      
 
 274
 00:16:58,018 --> 00:17:02,621
-  to the size of a forming roll 
-               or               
-    the dimensions of a steel   
-             plate.             
+to the size of a forming roll or the dimensions of a steel plate.             
 
 275
 00:17:02,623 --> 00:17:07,425
-   they can spiral-weld these   
-              coils             
-  of steel sheets endlessly.    
+they can spiral-weld these coils of steel sheets endlessly.    
 
 276
 00:17:10,229 --> 00:17:14,032
-   but first they have to take  
-               the              
- kink out of the coiled steel.  
+but first they have to take the kink out of the coiled steel.  
 
 277
 00:17:14,034 --> 00:17:17,301
-     a machine unwinds it       
+a machine unwinds it       
 
 278
 00:17:17,303 --> 00:17:22,506
- and pushes it between rollers  
-   to completely flatten it.    
+and pushes it between rollers to completely flatten it.    
 
 279
 00:17:22,508 --> 00:17:24,776
-    a fixed arm then presses    
-   the steel against rollers    
+a fixed arm then presses the steel against rollers    
 
 280
 00:17:24,778 --> 00:17:28,446
-          to round it           
-    to a precise diameter,      
+to round it to a precise diameter,      
 
 281
 00:17:28,448 --> 00:17:32,650
- and an automated system welds  
-    the formed pipe from the    
-            inside.             
+and an automated system welds the formed pipe from the inside.             
 
 282
 00:17:32,652 --> 00:17:35,186
-    a barely visible mantel     
-       of powdered flux         
+a barely visible mantel of powdered flux         
 
 283
 00:17:35,188 --> 00:17:37,589
- protects the welding process.  
+protects the welding process.  
 
 284
 00:17:40,928 --> 00:17:43,395
-   copper-coated steel wire     
+copper-coated steel wire     
 
 285
 00:17:43,397 --> 00:17:45,864
-   acts as both an electrode    
-    for the welding process     
+acts as both an electrode for the welding process     
 
 286
 00:17:45,866 --> 00:17:49,200
-    and as filler material.     
+and as filler material.     
 
 287
 00:17:49,202 --> 00:17:51,903
@@ -1425,296 +1167,236 @@ with the inside weld complete,
 
 288
 00:17:51,905 --> 00:17:54,406
-     a second welder device     
-   works on the outside of the  
-              pipe              
+a second welder device works on the outside of the pipe              
 
 289
 00:17:54,408 --> 00:17:57,342
-   to give it a double-welded   
-             seam.              
+to give it a double-welded seam.              
 
 290
 00:18:00,279 --> 00:18:04,549
-  a plasma torch cuts the pipe  
-  to length cleanly by melting  
-              it.               
+a plasma torch cuts the pipe to length cleanly by melting it.               
 
 291
 00:18:04,551 --> 00:18:06,685
-         in this case,          
-  they're making a water pipe   
+in this case, they're making a water pipe   
 
 292
 00:18:06,687 --> 00:18:12,090
-   that's 6 feet in diameter    
-    and 50 feet in length.      
+that's 6 feet in diameter and 50 feet in length.      
 
 293
 00:18:12,092 --> 00:18:16,361
-    the pipe then rolls over    
-     to the next station.       
+the pipe then rolls over to the next station.       
 
 294
 00:18:18,432 --> 00:18:21,232
-     here, a worker grinds      
-     both ends of the pipe      
+here, a worker grinds both ends of the pipe      
 
 295
 00:18:21,234 --> 00:18:23,068
-    to improve the profile.     
+to improve the profile.     
 
 296
 00:18:27,307 --> 00:18:29,507
-   then it's over to a die.     
+then it's over to a die.     
 
 297
 00:18:29,509 --> 00:18:31,175
-   it stretches one end of the  
-              pipe              
+it stretches one end of the pipe              
 
 298
 00:18:31,177 --> 00:18:34,512
-   to create a slight flare,    
-           or bell.             
+to create a slight flare, or bell.             
 
 299
 00:18:34,514 --> 00:18:37,014
-     this will allow it to      
-  be connected to the narrower  
-              end               
+this will allow it to be connected to the narrower end               
 
 300
 00:18:37,016 --> 00:18:41,119
-    of another pipe, forming    
- what's known as a lap joint.   
+of another pipe, forming what's known as a lap joint.   
 
 301
 00:18:41,121 --> 00:18:43,454
-         next, they cap         
-     the ends of the pipe       
+next, they cap the ends of the pipe       
 
 302
 00:18:43,456 --> 00:18:46,992
-       and pump in water        
+and pump in water        
 to a highly pressurized state.  
 
 303
 00:18:46,994 --> 00:18:48,660
-   they look for leaks in the   
-              weld              
+they look for leaks in the weld              
 
 304
 00:18:48,662 --> 00:18:50,995
-          and confirm           
-     that it's watertight.      
+and confirm that it's watertight.      
 
 305
 00:18:50,997 --> 00:18:54,532
- another worker installs rubber 
+another worker installs rubber 
 dams at both ends of the pipe.  
 
 306
 00:19:00,407 --> 00:19:04,709
-   a cement fixture then flows  
-              into              
-    a long applicator with a    
-            nozzle.             
+a cement fixture then flows into a long applicator with a nozzle.             
 
 307
 00:19:07,214 --> 00:19:11,082
- the nozzle applies the cement  
-   to the pipe's inner wall     
+the nozzle applies the cement to the pipe's inner wall     
 
 308
 00:19:11,084 --> 00:19:14,285
-      as the pipe spins and     
-            generates           
-     a centrifugal effect       
+as the pipe spins and generates a centrifugal effect       
 
 309
 00:19:14,287 --> 00:19:16,755
-        that's 70 times         
-     the force of gravity.      
+that's 70 times the force of gravity.      
 
 310
 00:19:16,757 --> 00:19:20,291
-     this causes the cement     
- to be distributed uniformly.   
+this causes the cement to be distributed uniformly.   
 
 311
 00:19:20,293 --> 00:19:24,829
-    the rubber dams contain     
-     the cement during this     
-            process.            
+the rubber dams contain the cement during this process.            
 
 312
 00:19:24,831 --> 00:19:27,298
-  the spinning displaces water  
-        in the cement,          
+the spinning displaces water in the cement,          
 
 313
 00:19:27,300 --> 00:19:31,369
- and a blower forces that water 
-       out of the pipe.         
+and a blower forces that water out of the pipe.         
 
 314
 00:19:31,371 --> 00:19:35,039
- next, a worker drapes plastic  
-  onto both ends of the pipe.   
+next, a worker drapes plastic onto both ends of the pipe.   
 
 315
 00:19:35,041 --> 00:19:37,842
-   he tacks it with magnets     
+he tacks it with magnets     
 
 316
 00:19:37,844 --> 00:19:40,078
-  and then secures it tightly   
-     with an elastic cord.      
+and then secures it tightly with an elastic cord.      
 
 317
 00:19:42,915 --> 00:19:45,850
-       he pumps hot steam       
-        into the pipe.          
+he pumps hot steam into the pipe.          
 
 318
 00:19:45,852 --> 00:19:51,122
-   over a period of 18 hours,   
-  the steam cures the cement.   
+over a period of 18 hours, the steam cures the cement.   
 
 319
 00:19:51,124 --> 00:19:53,925
-        it's a slow cure        
-      for better structural     
-           integrity.           
+it's a slow cure for better structural integrity.           
 
 320
 00:19:53,927 --> 00:19:56,728
-        for our camera,         
- they open one end of the pipe  
+for our camera, they open one end of the pipe  
 
 321
 00:19:56,730 --> 00:20:00,198
-       for an inside look       
-    at the steaming action.     
+for an inside look at the steaming action.     
 
 322
 00:20:00,200 --> 00:20:03,801
-        18 hours later,         
- they remove the rubber dams.   
+18 hours later, they remove the rubber dams.   
 
 323
 00:20:03,803 --> 00:20:09,140
- the spiral-welded pipe now has 
-    a tough, protective inner   
-             liner.             
+the spiral-welded pipe now has a tough, protective inner liner.             
 
 324
 00:20:09,142 --> 00:20:12,410
-   next, the pipe moves into    
-       a blast chamber,         
+next, the pipe moves into a blast chamber,         
 
 325
 00:20:12,412 --> 00:20:15,480
-     where fine, steel shot     
-   bombards the outside of the  
-              pipe              
+where fine, steel shot bombards the outside of the pipe              
 
 326
 00:20:15,482 --> 00:20:17,482
-    to clean it thoroughly.     
+to clean it thoroughly.     
 
 327
 00:20:17,484 --> 00:20:20,552
-        this prepares it        
-      for the next step.        
+this prepares it for the next step.        
 
 328
 00:20:22,622 --> 00:20:25,490
-       a sprayer applies        
-      a liquid adhesive.        
+a sprayer applies a liquid adhesive.        
 
 329
 00:20:27,894 --> 00:20:30,962
-  over the adhesive, they wrap  
-  a polyethylene-backed tape.   
+over the adhesive, they wrap a polyethylene-backed tape.   
 
 330
 00:20:33,166 --> 00:20:35,900
-           they apply           
-   a total of three layers of   
-             tape.              
+they apply a total of three layers of tape.              
 
 331
 00:20:35,902 --> 00:20:38,903
-         the first one          
- provides corrosion protection  
+the first one provides corrosion protection  
 
 332
 00:20:38,905 --> 00:20:42,439
- to the spirally welded steel.  
+to the spirally welded steel.  
 
 333
 00:20:42,441 --> 00:20:45,843
-      the other two layers      
-      protect the first.        
+the other two layers protect the first.        
 
 334
 00:20:45,845 --> 00:20:50,782
- they give the spirally welded  
-   pipe a tough outer skin.     
+they give the spirally welded pipe a tough outer skin.     
 
 335
 00:20:50,784 --> 00:20:53,584
-       the three tapes are      
-          color-coded.          
+the three tapes are color-coded.          
 
 336
 00:20:53,586 --> 00:20:55,786
-        this will allow         
-    the depth of any damage     
+this will allow the depth of any damage     
 
 337
 00:20:55,788 --> 00:20:58,389
-     to be quickly assessed     
-            on-site.            
+to be quickly assessed on-site.            
 
 338
 00:21:04,730 --> 00:21:08,533
-   they produce approximately   
+they produce approximately   
 15 spirally welded water pipes  
 
 339
 00:21:08,535 --> 00:21:12,070
-      per eight-hour shift      
-       at this factory.         
+per eight-hour shift at this factory.         
 
 340
 00:21:14,140 --> 00:21:18,810
- they should last for a century 
-         underground.           
+they should last for a century underground.           
 
 341
 00:21:18,812 --> 00:21:21,746
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 342
 00:21:21,748 --> 00:21:24,749
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 343
 00:21:31,024 --> 00:21:33,023
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 344
 00:21:33,025 --> 00:21:36,027
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 345
 00:21:36,029 --> 00:21:38,062
-     drop us a line at...       
+drop us a line at...       
 

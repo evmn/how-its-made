@@ -1,449 +1,383 @@
 ﻿1
 00:00:01,869 --> 00:00:04,936
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,938 --> 00:00:07,906
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,785 --> 00:00:54,452
-  narrator: whether tightening  
-     the wheels on your bike    
+narrator: whether tightening the wheels on your bike    
 
 4
 00:00:54,454 --> 00:00:55,721
-     or working on your car,    
+or working on your car,    
 
 5
 00:00:55,723 --> 00:00:56,788
-      a combination wrench      
+a combination wrench      
 
 6
 00:00:56,790 --> 00:00:58,924
-   can make the toughest jobs   
-         safe and easy.         
+can make the toughest jobs safe and easy.         
 
 7
 00:00:58,926 --> 00:01:01,793
-  the best combination wrench   
-  gives you reach and strength  
+the best combination wrench gives you reach and strength  
 
 8
 00:01:01,795 --> 00:01:03,128
-  and won't bust your knuckles  
+and won't bust your knuckles  
 
 9
 00:01:03,130 --> 00:01:05,664
-       when you're working      
- in those hard-to-reach places. 
+when you're working in those hard-to-reach places. 
 
 10
 00:01:05,666 --> 00:01:10,335
-   a high-quality combination   
- wrench can last you a lifetime.
+a high-quality combination wrench can last you a lifetime.
 
 11
 00:01:15,209 --> 00:01:18,477
-  a combination wrench tightens 
-   and loosens nuts and bolts   
+a combination wrench tightens and loosens nuts and bolts   
 
 12
 00:01:18,479 --> 00:01:20,479
-   using its u-shaped open end  
+using its u-shaped open end  
 
 13
 00:01:20,481 --> 00:01:25,284
-     or its enclosed box end    
-     with a hexagonal shape.    
+or its enclosed box end with a hexagonal shape.    
 
 14
 00:01:25,286 --> 00:01:29,554
-    combination wrenches come   
-  in imperial and metric sizes. 
+combination wrenches come in imperial and metric sizes. 
 
 15
 00:01:29,556 --> 00:01:33,691
-  to start, a steel bar travels 
-   into a die-cutting machine   
+to start, a steel bar travels into a die-cutting machine   
 
 16
 00:01:33,693 --> 00:01:36,962
-    that cuts it into lengths   
-         called billets.        
+that cuts it into lengths called billets.        
 
 17
 00:01:36,964 --> 00:01:39,765
-           each billet          
-      will become a wrench.     
+each billet will become a wrench.     
 
 18
 00:01:46,974 --> 00:01:48,307
-           one by one,          
+one by one,          
 
 19
 00:01:48,309 --> 00:01:52,644
-   a machine feeds the billets  
-    into an induction heater.   
+a machine feeds the billets into an induction heater.   
 
 20
 00:01:52,646 --> 00:01:55,848
-      it heats them to more     
- than 1,800 degrees fahrenheit, 
+it heats them to more than 1,800 degrees fahrenheit, 
 
 21
 00:01:55,850 --> 00:01:59,518
-         then sends them        
-      into a forging press,     
+then sends them into a forging press,     
 
 22
 00:01:59,520 --> 00:02:03,655
-   where the first die creates  
-   the wrench's general shape.  
+where the first die creates the wrench's general shape.  
 
 23
 00:02:03,657 --> 00:02:07,025
-         the second die         
-  gives it its finished shape.  
+the second die gives it its finished shape.  
 
 24
 00:02:07,027 --> 00:02:10,662
-          and the third         
-   trims off the excess metal.  
+and the third trims off the excess metal.  
 
 25
 00:02:14,468 --> 00:02:16,668
-          the wrenches          
-      exit the forge press      
+the wrenches exit the forge press      
 
 26
 00:02:16,670 --> 00:02:19,972
-    and cool off on their way   
-     into a collection box.     
+and cool off on their way into a collection box.     
 
 27
 00:02:22,743 --> 00:02:25,076
-    then a worker grinds off    
-         the trim line,         
+then a worker grinds off the trim line,         
 
 28
 00:02:25,078 --> 00:02:26,344
-   a thin line of excess metal  
+a thin line of excess metal  
 
 29
 00:02:26,346 --> 00:02:29,281
-      created when the top      
- and bottom dies come together. 
+created when the top and bottom dies come together. 
 
 30
 00:02:31,885 --> 00:02:33,351
-      he loads the wrenches     
+he loads the wrenches     
 
 31
 00:02:33,353 --> 00:02:36,221
-        into an automatic       
-     edge-polishing machine.    
+into an automatic edge-polishing machine.    
 
 32
 00:02:36,223 --> 00:02:38,690
- using an 80-grit sanding belt, 
+using an 80-grit sanding belt, 
 
 33
 00:02:38,692 --> 00:02:43,395
 the machine grinds the trim line
-  on both sides of the handle.  
+on both sides of the handle.  
 
 34
 00:02:47,834 --> 00:02:51,303
-       the wrenches leave       
-   the edge-polishing machine   
+the wrenches leave the edge-polishing machine   
 
 35
 00:02:51,305 --> 00:02:52,571
-         trim-line-free.        
+trim-line-free.        
 
 36
 00:02:57,777 --> 00:03:03,181
 a worker then places each wrench
- onto a 75-ton hydraulic press, 
+onto a 75-ton hydraulic press, 
 
 37
 00:03:03,183 --> 00:03:07,653
- which stamps it with the brand 
-  name, size, and part number.  
+which stamps it with the brand name, size, and part number.  
 
 38
 00:03:12,192 --> 00:03:16,795
-     this bend machine gives    
- the box end a 15-degree angle. 
+this bend machine gives the box end a 15-degree angle. 
 
 39
 00:03:16,797 --> 00:03:19,064
- a vertical milling machine then
- drills a hole into the box end,
+a vertical milling machine then
+drills a hole into the box end,
 
 40
 00:03:19,066 --> 00:03:22,868
- using coolant to keep the drill
-        from overheating.       
+using coolant to keep the drill
+from overheating.       
 
 41
 00:03:26,940 --> 00:03:30,208
-       this is a hydraulic      
-       hex broach machine.      
+this is a hydraulic hex broach machine.      
 
 42
 00:03:30,210 --> 00:03:35,147
-  the broach tool is what gives 
-   the hole a hexagonal shape.  
+the broach tool is what gives the hole a hexagonal shape.  
 
 43
 00:03:44,558 --> 00:03:48,360
-    open-end wrenches also go   
- through a broaching operation. 
+open-end wrenches also go through a broaching operation. 
 
 44
 00:03:48,362 --> 00:03:51,829
-  in this case, the broach tool 
-       shapes the open end      
+in this case, the broach tool shapes the open end      
 
 45
 00:03:51,831 --> 00:03:53,799
-     into the desired size.     
+into the desired size.     
 
 46
 00:04:00,240 --> 00:04:02,640
-      a worker then grinds      
-  the open end of the wrenches  
+a worker then grinds the open end of the wrenches  
 
 47
 00:04:02,642 --> 00:04:05,644
-         and makes sure         
-    they're perfectly smooth.   
+and makes sure they're perfectly smooth.   
 
 48
 00:04:08,782 --> 00:04:10,515
-    the wrenches now undergo    
+the wrenches now undergo    
 
 49
 00:04:10,517 --> 00:04:12,517
-          a three-stage         
-    heat-tempering procedure    
+a three-stage heat-tempering procedure    
 
 50
 00:04:12,519 --> 00:04:14,453
-    to harden and strengthen    
-           the metal.           
+to harden and strengthen the metal.           
 
 51
 00:04:20,394 --> 00:04:22,461
- for some combination wrenches, 
+for some combination wrenches, 
 
 52
 00:04:22,463 --> 00:04:25,130
-     a sliding machine cuts     
-  an opening out of the box end 
+a sliding machine cuts an opening out of the box end 
 
 53
 00:04:25,132 --> 00:04:28,367
-     that has the hex shape     
-        broached into it.       
+that has the hex shape broached into it.       
 
 54
 00:04:30,304 --> 00:04:33,138
-      this turns the wrench     
-     into a flare nut wrench    
+this turns the wrench into a flare nut wrench    
 
 55
 00:04:33,140 --> 00:04:35,740
-   that's ideal for working on  
-      hard-to-reach bolts,      
+that's ideal for working on hard-to-reach bolts,      
 
 56
 00:04:35,742 --> 00:04:37,709
-    like on a hydraulic line.   
+like on a hydraulic line.   
 
 57
 00:04:42,282 --> 00:04:44,949
-         ceramic stones         
-     and a chemical solution    
+ceramic stones and a chemical solution    
 
 58
 00:04:44,951 --> 00:04:47,486
-       polish the wrenches      
-        for eight hours,        
+polish the wrenches for eight hours,        
 
 59
 00:04:47,488 --> 00:04:50,055
-           giving them          
-     a bright luster finish.    
+giving them a bright luster finish.    
 
 60
 00:04:54,561 --> 00:04:57,696
 a machine then dips the wrenches
- into a nickel-plating solution 
+into a nickel-plating solution 
 
 61
 00:04:57,698 --> 00:04:59,898
-      that helps make them      
-      corrosion-resistant.      
+that helps make them corrosion-resistant.      
 
 62
 00:05:02,503 --> 00:05:03,635
-      this series of baths      
+this series of baths      
 
 63
 00:05:03,637 --> 00:05:06,238
-     then plate the wrenches    
-     with trivalent chrome,     
+then plate the wrenches with trivalent chrome,     
 
 64
 00:05:06,240 --> 00:05:07,372
-        which is a safer,       
+which is a safer,       
 
 65
 00:05:07,374 --> 00:05:09,508
-  more environmentally friendly 
-           alternative          
+more environmentally friendly alternative          
 
 66
 00:05:09,510 --> 00:05:12,044
- to traditional plating methods.
+to traditional plating methods.
 
 67
 00:05:15,048 --> 00:05:16,848
-  after a final rinse in water, 
+after a final rinse in water, 
 
 68
 00:05:16,850 --> 00:05:20,218
-      the wrenches come out     
- with a bright cosmetic finish. 
+the wrenches come out with a bright cosmetic finish. 
 
 69
 00:05:23,123 --> 00:05:26,525
-    combination wrenches are    
- available in a variety of sets,
+combination wrenches are available in a variety of sets,
 
 70
 00:05:26,527 --> 00:05:29,528
-   all conveniently organized   
-       and neatly stored.       
+all conveniently organized and neatly stored.       
 
 71
 00:05:29,530 --> 00:05:32,196
-        since the 1920s,        
+since the 1920s,        
 
 72
 00:05:32,198 --> 00:05:34,466
-  this company has been making  
-      combination wrenches      
+this company has been making combination wrenches      
 
 73
 00:05:34,468 --> 00:05:36,801
-     of all shapes and sizes    
+of all shapes and sizes    
 
 74
 00:05:36,803 --> 00:05:40,205
-            for jobs            
-    of all shapes and sizes.    
+for jobs of all shapes and sizes.    
 
 75
 00:05:51,951 --> 00:05:53,618
-       narrator: in a time      
-   of health-conscious eating,  
+narrator: in a time of health-conscious eating,  
 
 76
 00:05:53,620 --> 00:05:55,020
-           deli meats           
-   remain a mealtime favorite.  
+deli meats remain a mealtime favorite.  
 
 77
 00:05:55,022 --> 00:05:57,822
-         almost everyone        
- loves a great-tasting sandwich 
+almost everyone loves a great-tasting sandwich 
 
 78
 00:05:57,824 --> 00:05:59,424
-  or sausage hot off the grill. 
+or sausage hot off the grill. 
 
 79
 00:05:59,426 --> 00:06:03,028
- today, the best deli meats are 
- prepared from the leanest cuts.
+today, the best deli meats are prepared from the leanest cuts.
 
 80
 00:06:03,030 --> 00:06:04,495
-     they have no trans fat,    
+they have no trans fat,    
 
 81
 00:06:04,497 --> 00:06:06,965
-     they are low in sodium     
-       and saturated fat,       
+they are low in sodium and saturated fat,       
 
 82
 00:06:06,967 --> 00:06:09,034
-     and contain no fillers.    
+and contain no fillers.    
 
 83
 00:06:12,772 --> 00:06:16,308
-     some companies prepare     
-   deli meats largely by hand   
+some companies prepare deli meats largely by hand   
 
 84
 00:06:16,310 --> 00:06:19,010
-           to maintain          
-    that old-world tradition.   
+to maintain that old-world tradition.   
 
 85
 00:06:22,916 --> 00:06:27,085
-     sausages begin as cuts     
-  of fresh meats in a grinder.  
+sausages begin as cuts of fresh meats in a grinder.  
 
 86
 00:06:30,523 --> 00:06:35,126
-         the ground meat        
- falls into a collection tub... 
+the ground meat falls into a collection tub... 
 
 87
 00:06:35,128 --> 00:06:39,730
-  which then deposits the meats 
-          into a mixer.         
+which then deposits the meats into a mixer.         
 
 88
 00:06:39,732 --> 00:06:43,802
-           adding ice           
- keeps the meats cold and fresh.
+adding ice keeps the meats cold and fresh.
 
 89
 00:06:43,804 --> 00:06:45,736
-     a worker then adds salt    
+a worker then adds salt    
 
 90
 00:06:45,738 --> 00:06:48,940
-     and all-natural spices     
-         and seasonings.        
+and all-natural spices and seasonings.        
 
 91
 00:06:53,947 --> 00:06:57,882
-            the mixer           
-     blends it all together.    
+the mixer blends it all together.    
 
 92
 00:06:57,884 --> 00:07:00,886
-            a worker            
- feeds a natural sausage casing 
+a worker feeds a natural sausage casing 
 
 93
 00:07:00,888 --> 00:07:03,755
-         into a machine         
-     called a sausage linker    
+into a machine called a sausage linker    
 
 94
 00:07:03,757 --> 00:07:06,658
-      that forms and links      
-          the sausages.         
+that forms and links the sausages.         
 
 95
 00:07:10,897 --> 00:07:12,964
@@ -452,51 +386,45 @@ a look inside the sausage linker
 96
 00:07:12,966 --> 00:07:16,501
 reveals where the meat is pumped
-     into the natural casing    
+into the natural casing    
 
 97
 00:07:16,503 --> 00:07:19,271
-           and shaped           
- into the desired sausage size. 
+and shaped into the desired sausage size. 
 
 98
 00:07:21,508 --> 00:07:23,842
-         as the sausages        
-     come out of the linker,    
+as the sausages come out of the linker,    
 
 99
 00:07:23,844 --> 00:07:25,777
-         they hook onto         
-       a conveyor system.       
+they hook onto a conveyor system.       
 
 100
 00:07:25,779 --> 00:07:30,348
-       they're ready to go      
+they're ready to go      
 into the smokehouse for cooking.
 
 101
 00:07:32,385 --> 00:07:33,585
- workers send the cooked sausage
-          into an oven          
+workers send the cooked sausage
+into an oven          
 
 102
 00:07:33,587 --> 00:07:36,922
-          that destroys         
- any possible surface bacteria. 
+that destroys any possible surface bacteria. 
 
 103
 00:07:41,061 --> 00:07:43,795
-     they pack the sausages     
-       into plastic bags,       
+they pack the sausages into plastic bags,       
 
 104
 00:07:43,797 --> 00:07:46,298
-     which are date-stamped.    
+which are date-stamped.    
 
 105
 00:07:48,868 --> 00:07:51,936
-         then a machine         
-   vacuum-seals the packages,   
+then a machine vacuum-seals the packages,   
 
 106
 00:07:51,938 --> 00:07:54,172
@@ -504,499 +432,426 @@ making them ready for the store.
 
 107
 00:07:56,409 --> 00:07:57,742
-      an olive loaf begins      
+an olive loaf begins      
 
 108
 00:07:57,744 --> 00:08:01,346
-    with a mixture of olives,   
-     pickles, and pimientos.    
+with a mixture of olives, pickles, and pimientos.    
 
 109
 00:08:01,348 --> 00:08:04,816
-    again, a worker adds salt   
-   and all-natural seasonings,  
+again, a worker adds salt and all-natural seasonings,  
 
 110
 00:08:04,818 --> 00:08:08,253
-     mixing it together with    
-  blended fresh beef and pork.  
+mixing it together with blended fresh beef and pork.  
 
 111
 00:08:13,894 --> 00:08:16,428
-      this stuffer machine      
-         fills loaf pans        
+this stuffer machine fills loaf pans        
 
 112
 00:08:16,430 --> 00:08:18,296
- with the season-blended meats. 
+with the season-blended meats. 
 
 113
 00:08:25,172 --> 00:08:26,771
-   another worker puts a rack   
+another worker puts a rack   
 
 114
 00:08:26,773 --> 00:08:28,840
-           filled with          
-      uncooked olive loaves     
+filled with uncooked olive loaves     
 
 115
 00:08:28,842 --> 00:08:30,876
-     into a smokehouse oven.    
+into a smokehouse oven.    
 
 116
 00:08:33,780 --> 00:08:36,915
-    after an initial cooking    
-    that sets the loaf shape,   
+after an initial cooking that sets the loaf shape,   
 
 117
 00:08:36,917 --> 00:08:39,450
-      he removes the loaves     
-         from the oven.         
+he removes the loaves from the oven.         
 
 118
 00:08:39,452 --> 00:08:43,254
- at this time, only the exposed 
- part of the loaves is browned. 
+at this time, only the exposed part of the loaves is browned. 
 
 119
 00:08:43,256 --> 00:08:45,790
-       after he takes them      
-        out of the pans,        
+after he takes them out of the pans,        
 
 120
 00:08:45,792 --> 00:08:48,993
- they will go back into the oven
-       to brown all sides.      
+they will go back into the oven
+to brown all sides.      
 
 121
 00:08:48,995 --> 00:08:51,796
-     it takes about 10 hours    
+it takes about 10 hours    
 
 122
 00:08:51,798 --> 00:08:54,966
-     to cook these special      
-     european-style loaves.     
+to cook these special european-style loaves.     
 
 123
 00:08:58,138 --> 00:09:01,339
-         another worker         
- loads pepperoni into a machine 
+another worker loads pepperoni into a machine 
 
 124
 00:09:01,341 --> 00:09:02,941
-    called a revolving horn.    
+called a revolving horn.    
 
 125
 00:09:02,943 --> 00:09:06,077
-       it stuffs a casing       
- with a mixture of beef and pork
+it stuffs a casing with a mixture of beef and pork
 
 126
 00:09:06,079 --> 00:09:08,346
-  seasoned with italian spices. 
+seasoned with italian spices. 
 
 127
 00:09:10,416 --> 00:09:14,085
-   the horn stuffs the casing   
- with the precise amount of meat
+the horn stuffs the casing with the precise amount of meat
 
 128
 00:09:14,087 --> 00:09:16,021
-      and seals both ends.      
+and seals both ends.      
 
 129
 00:09:22,161 --> 00:09:25,030
-          the pepperoni         
-    is then hung up on a rack   
+the pepperoni is then hung up on a rack   
 
 130
 00:09:25,032 --> 00:09:27,933
-   and taken into a smokehouse  
-          for cooking.          
+and taken into a smokehouse for cooking.          
 
 131
 00:09:30,370 --> 00:09:33,038
-         another worker         
-     prepares german bologna    
+another worker prepares german bologna    
 
 132
 00:09:33,040 --> 00:09:35,173
-           by slipping          
-      a natural beef casing     
+by slipping a natural beef casing     
 
 133
 00:09:35,175 --> 00:09:37,676
-         onto a machine         
-     called a stuffing horn.    
+onto a machine called a stuffing horn.    
 
 134
 00:09:39,646 --> 00:09:42,581
-      he stuffs the casing      
- with a mixture of beef and pork
+he stuffs the casing with a mixture of beef and pork
 
 135
 00:09:42,583 --> 00:09:45,783
-     and all-natural spices     
-         and seasonings.        
+and all-natural spices and seasonings.        
 
 136
 00:09:46,452 --> 00:09:50,088
- he seals the end of the casing 
-      with aluminum clips.      
+he seals the end of the casing with aluminum clips.      
 
 137
 00:09:52,191 --> 00:09:54,926
-         another worker,        
-   using a paddle with spikes,  
+another worker, using a paddle with spikes,  
 
 138
 00:09:54,928 --> 00:09:58,330
- perforates the casing to allow 
-  air to escape during cooking  
+perforates the casing to allow air to escape during cooking  
 
 139
 00:09:58,332 --> 00:10:01,333
-            to ensure           
-   even cooking and browning.   
+to ensure even cooking and browning.   
 
 140
 00:10:06,806 --> 00:10:08,940
-            now it's            
-    the german bologna's turn   
+now it's the german bologna's turn   
 
 141
 00:10:08,942 --> 00:10:12,077
-  for a stay in the smokehouse. 
+for a stay in the smokehouse. 
 
 142
 00:10:12,079 --> 00:10:14,478
-    about eight hours later,    
+about eight hours later,    
 
 143
 00:10:14,480 --> 00:10:17,449
-       the german bologna       
-       is evenly cooked.        
+the german bologna is evenly cooked.        
 
 144
 00:10:20,687 --> 00:10:24,889
- using a guide, a worker slices 
-   the sausage into even cuts,  
+using a guide, a worker slices the sausage into even cuts,  
 
 145
 00:10:24,891 --> 00:10:28,426
-      which are then packed     
-        and date-stamped.       
+which are then packed and date-stamped.       
 
 146
 00:10:31,765 --> 00:10:33,431
-  from authentic german bologna 
+from authentic german bologna 
 
 147
 00:10:33,433 --> 00:10:36,701
-    to all types of sausages    
-  and distinctive deli loaves,  
+to all types of sausages and distinctive deli loaves,  
 
 148
 00:10:36,703 --> 00:10:39,871
-           deli meats           
-  are served around the world.  
+deli meats are served around the world.  
 
 149
 00:10:49,849 --> 00:10:51,182
-            narrator:           
-   scotland is the birthplace   
+narrator: scotland is the birthplace   
 
 150
 00:10:51,184 --> 00:10:52,583
-          both of golf          
-   and the motorized golf car,  
+both of golf and the motorized golf car,  
 
 151
 00:10:52,585 --> 00:10:56,587
-  invented in 1946 by a dentist 
-    named john "doc" keegan.    
+invented in 1946 by a dentist named john "doc" keegan.    
 
 152
 00:10:56,589 --> 00:10:58,122
-      since the late 1950s,     
+since the late 1950s,     
 
 153
 00:10:58,124 --> 00:11:01,992
-  golf cars have become widely  
-  used on courses everywhere.   
+golf cars have become widely used on courses everywhere.   
 
 154
 00:11:01,994 --> 00:11:04,863
- they're built low to the ground
-        to remain steady,       
+they're built low to the ground
+to remain steady,       
 
 155
 00:11:04,865 --> 00:11:07,632
-            even over           
-    the most uneven terrain.    
+even over the most uneven terrain.    
 
 156
 00:11:12,339 --> 00:11:14,605
-  this battery-powered golf car 
+this battery-powered golf car 
 
 157
 00:11:14,607 --> 00:11:18,076
 has everything to get you around
-      in comfort and style.     
+in comfort and style.     
 
 158
 00:11:18,078 --> 00:11:20,412
-        it can't help you       
-        with your swing,        
+it can't help you with your swing,        
 
 159
 00:11:20,414 --> 00:11:23,515
-       but it<i> can</i> get you       
-  to the next hole in a jiffy.  
+but it<i> can</i> get you to the next hole in a jiffy.  
 
 160
 00:11:25,285 --> 00:11:28,753
-  to make a golf car, the first 
-   step is to build the frame   
+to make a golf car, the first step is to build the frame   
 
 161
 00:11:28,755 --> 00:11:30,955
-        with lightweight        
-        aluminum i-beams.       
+with lightweight aluminum i-beams.       
 
 162
 00:11:30,957 --> 00:11:33,424
-         they go through        
-      two separate machines     
+they go through two separate machines     
 
 163
 00:11:33,426 --> 00:11:35,527
-    to bend them into shape.    
+to bend them into shape.    
 
 164
 00:11:37,163 --> 00:11:39,564
-           metal forms          
-      press down into vinyl     
+metal forms press down into vinyl     
 
 165
 00:11:39,566 --> 00:11:43,201
-  and stretch it into the shape 
-  of the front and back seats.  
+and stretch it into the shape of the front and back seats.  
 
 166
 00:11:46,973 --> 00:11:50,308
 workers cut and staple the vinyl
-       over a plywood base      
+over a plywood base      
 
 167
 00:11:50,310 --> 00:11:53,044
-      covered with a layer      
-        of foam padding.        
+covered with a layer of foam padding.        
 
 168
 00:11:53,046 --> 00:11:54,845
- they trim away the excess vinyl
+they trim away the excess vinyl
 
 169
 00:11:54,847 --> 00:11:57,482
-   and set the finished seats   
-             aside.             
+and set the finished seats aside.             
 
 170
 00:12:01,988 --> 00:12:04,655
-          now it's time         
-  to assemble the power train.  
+now it's time to assemble the power train.  
 
 171
 00:12:04,657 --> 00:12:07,859
-   here, workers place an axle  
-     onto the differential,     
+here, workers place an axle onto the differential,     
 
 172
 00:12:07,861 --> 00:12:10,462
-    which rotates the wheels.   
+which rotates the wheels.   
 
 173
 00:12:14,134 --> 00:12:16,935
-          they cover it         
-      with a staff ring...      
+they cover it with a staff ring...      
 
 174
 00:12:16,937 --> 00:12:20,805
-       then bolt the car's      
-     48-volt electric motor     
+then bolt the car's 48-volt electric motor     
 
 175
 00:12:20,807 --> 00:12:22,606
-       onto the transaxle,      
+onto the transaxle,      
 
 176
 00:12:22,608 --> 00:12:27,812
-   the assembled transmission,  
-  differential, and drive axle. 
+the assembled transmission, differential, and drive axle. 
 
 177
 00:12:27,814 --> 00:12:30,749
-  they assemble the car's frame 
-          on a fixture,         
+they assemble the car's frame on a fixture,         
 
 178
 00:12:30,751 --> 00:12:35,353
- starting with the driver side, 
-   then the passenger side...   
+starting with the driver side, then the passenger side...   
 
 179
 00:12:35,355 --> 00:12:39,290
-   then the center i-beam that  
-  holds the two sides together. 
+then the center i-beam that holds the two sides together. 
 
 180
 00:12:42,095 --> 00:12:45,229
-  they set the assembled frame  
-      onto the power train      
+they set the assembled frame onto the power train      
 
 181
 00:12:45,231 --> 00:12:48,566
-    and bolt the car's front    
-  suspension mechanism onto it. 
+and bolt the car's front suspension mechanism onto it. 
 
 182
 00:12:50,837 --> 00:12:54,038
-       as the car moves on      
-  to the next assembly station, 
+as the car moves on to the next assembly station, 
 
 183
 00:12:54,040 --> 00:12:55,840
- a plastic underbody comes down 
+a plastic underbody comes down 
 
 184
 00:12:55,842 --> 00:12:58,710
-            to cover            
-  the front part of the frame.  
+to cover the front part of the frame.  
 
 185
 00:12:58,712 --> 00:13:02,580
-     workers now set in the     
-  accelerator and brake pedal.  
+workers now set in the accelerator and brake pedal.  
 
 186
 00:13:02,582 --> 00:13:05,516
-         then they lower        
-      the power compartment     
+then they lower the power compartment     
 
 187
 00:13:05,518 --> 00:13:08,953
-  that holds the car's battery  
-     at the vehicle's rear.     
+that holds the car's battery at the vehicle's rear.     
 
 188
 00:13:11,925 --> 00:13:15,860
- they connect the battery to the
- motor with four separate wires,
+they connect the battery to the
+motor with four separate wires,
 
 189
 00:13:15,862 --> 00:13:18,663
-        then hook them up       
- to the electric control module 
+then hook them up to the electric control module 
 
 190
 00:13:18,665 --> 00:13:20,732
-    that commands the engine.   
+that commands the engine.   
 
 191
 00:13:20,734 --> 00:13:22,734
-       now they can cover       
-     the rear working parts     
+now they can cover the rear working parts     
 
 192
 00:13:22,736 --> 00:13:24,335
-   with the plastic underbody.  
+with the plastic underbody.  
 
 193
 00:13:26,939 --> 00:13:29,140
-          the underbody         
-      provides the support      
+the underbody provides the support      
 
 194
 00:13:29,142 --> 00:13:31,876
-       on which to install      
-    the car's working parts,    
+on which to install the car's working parts,    
 
 195
 00:13:31,878 --> 00:13:35,980
-    like this pedal mechanism   
-     or the steering column.    
+like this pedal mechanism or the steering column.    
 
 196
 00:13:37,083 --> 00:13:39,016
-     all the electric tools     
-        that apply torque       
+all the electric tools that apply torque       
 
 197
 00:13:39,018 --> 00:13:41,018
-     are computer-monitored.    
+are computer-monitored.    
 
 198
 00:13:41,020 --> 00:13:42,953
- if the amount of torque applied
+if the amount of torque applied
 
 199
 00:13:42,955 --> 00:13:46,023
-        at any of the 130       
- assembly stations is incorrect,
+at any of the 130 assembly stations is incorrect,
 
 200
 00:13:46,025 --> 00:13:50,094
 the system prevents the car from
-  advancing to the next station 
+advancing to the next station 
 
 201
 00:13:50,096 --> 00:13:51,829
-    until they get it right.    
+until they get it right.    
 
 202
 00:13:51,831 --> 00:13:54,699
-  this eliminates any problems  
-        that might arise        
+this eliminates any problems that might arise        
 
 203
 00:13:54,701 --> 00:13:58,036
-       with over-tightened      
-         or loose bolts.        
+with over-tightened or loose bolts.        
 
 204
 00:14:04,543 --> 00:14:06,911
-       workers now tighten      
-       the battery wires,       
+workers now tighten the battery wires,       
 
 205
 00:14:06,913 --> 00:14:08,513
-   then check the accelerator.  
+then check the accelerator.  
 
 206
 00:14:08,515 --> 00:14:12,650
- golf cars may not attain speeds
-  higher than 15 miles per hour 
+golf cars may not attain speeds
+higher than 15 miles per hour 
 
 207
 00:14:12,652 --> 00:14:15,553
-          in compliance         
-   with industry regulations.   
+in compliance with industry regulations.   
 
 208
 00:14:17,857 --> 00:14:20,057
-        next, they set in       
-    the front and back seats    
+next, they set in the front and back seats    
 
 209
 00:14:20,059 --> 00:14:23,194
-      that fit snugly into      
-  the molded plastic rear body  
+that fit snugly into the molded plastic rear body  
 
 210
 00:14:23,196 --> 00:14:26,598
-  and screw in the front fascia 
-   that covers the underbody.   
+and screw in the front fascia that covers the underbody.   
 
 211
 00:14:29,802 --> 00:14:31,669
@@ -1004,295 +859,260 @@ they set the brake rod in place,
 
 212
 00:14:31,671 --> 00:14:34,471
-       make sure it moves       
-    the brake pedal properly,   
+make sure it moves the brake pedal properly,   
 
 213
 00:14:34,473 --> 00:14:35,607
-         and tighten it.        
+and tighten it.        
 
 214
 00:14:37,477 --> 00:14:40,278
-   the screen located overhead  
+the screen located overhead  
 
 215
 00:14:40,280 --> 00:14:43,448
- indicates when they've applied 
+indicates when they've applied 
 just the right amount of torque.
 
 216
 00:14:45,451 --> 00:14:48,419
-            finally,            
-   they hammer in the hubcaps   
+finally, they hammer in the hubcaps   
 
 217
 00:14:48,421 --> 00:14:50,955
-           and set in           
-     the front beauty panel,    
+and set in the front beauty panel,    
 
 218
 00:14:50,957 --> 00:14:53,357
-  also made of molded plastic.  
+also made of molded plastic.  
 
 219
 00:14:53,359 --> 00:14:58,362
-  the car's now fully assembled 
-       and ready to roll.       
+the car's now fully assembled and ready to roll.       
 
 220
 00:14:58,364 --> 00:15:01,366
-     the finished golf cars     
-     offload automatically      
+the finished golf cars offload automatically      
 
 221
 00:15:01,368 --> 00:15:04,569
-     from the assembly line     
-   thanks to a hydraulic lift.  
+from the assembly line thanks to a hydraulic lift.  
 
 222
 00:15:08,708 --> 00:15:11,842
-   they get a final inspection  
-       from every angle --      
+they get a final inspection from every angle --      
 
 223
 00:15:11,844 --> 00:15:13,811
-      even under the seat.      
+even under the seat.      
 
 224
 00:15:21,187 --> 00:15:25,122
-   finally, workers drive them  
-       to an outdoor lot.       
+finally, workers drive them to an outdoor lot.       
 
 225
 00:15:25,124 --> 00:15:27,525
-          no worries --         
-     their aluminum chassis     
+no worries -- their aluminum chassis     
 
 226
 00:15:27,527 --> 00:15:31,062
-  ensures they can endure even  
+ensures they can endure even  
 the harshest weather conditions.
 
 227
 00:15:31,064 --> 00:15:33,664
-              soon,             
-   they'll carry eager golfers  
+soon, they'll carry eager golfers  
 
 228
 00:15:33,666 --> 00:15:36,734
-         across courses         
-      throughout the world.     
+across courses throughout the world.     
 
 229
 00:15:48,481 --> 00:15:50,281
-            narrator:           
-     an airship is basically    
-     a large helium balloon     
+narrator: an airship is basically a large helium balloon     
 
 230
 00:15:50,283 --> 00:15:51,949
- with an engine for propulsion. 
+with an engine for propulsion. 
 
 231
 00:15:51,951 --> 00:15:55,820
- the passengers and crew ride in
- a gondola suspended underneath.
+the passengers and crew ride in
+a gondola suspended underneath.
 
 232
 00:15:55,822 --> 00:15:58,356
-  when there's an inside frame  
-         supporting it,         
+when there's an inside frame supporting it,         
 
 233
 00:15:58,358 --> 00:16:00,358
-           the airship          
-     is called a rigid type.    
+the airship is called a rigid type.    
 
 234
 00:16:00,360 --> 00:16:02,559
-   when there's no framework,   
+when there's no framework,   
 
 235
 00:16:02,561 --> 00:16:05,697
-  it's called a nonrigid type,  
-            or blimp.           
+it's called a nonrigid type, or blimp.           
 
 236
 00:16:10,503 --> 00:16:11,969
-      the envelope material     
+the envelope material     
 
 237
 00:16:11,971 --> 00:16:15,840
- is made of five polyester-based
-    fabrics bonded together.    
+is made of five polyester-based
+fabrics bonded together.    
 
 238
 00:16:15,842 --> 00:16:20,511
- it's lightweight, yet resistant
- to harsh weather and u.v. rays.
+it's lightweight, yet resistant
+to harsh weather and u.v. rays.
 
 239
 00:16:20,513 --> 00:16:23,581
- the crew inflates the envelope 
-          with helium,          
+the crew inflates the envelope with helium,          
 
 240
 00:16:23,583 --> 00:16:26,184
-   an inert, nonflammable gas.  
+an inert, nonflammable gas.  
 
 241
 00:16:26,186 --> 00:16:28,186
-   at the back of the envelope  
+at the back of the envelope  
 
 242
 00:16:28,188 --> 00:16:31,922
-      are a rudder and fins     
-          for steering.         
+are a rudder and fins for steering.         
 
 243
 00:16:31,924 --> 00:16:34,392
-     the factory constructs     
-        each fin's frame        
+the factory constructs each fin's frame        
 
 244
 00:16:34,394 --> 00:16:37,662
-          out of tough,         
-    lightweight carbon fiber.   
+out of tough, lightweight carbon fiber.   
 
 245
 00:16:37,664 --> 00:16:40,330
- workers coat it with adhesive, 
+workers coat it with adhesive, 
 
 246
 00:16:40,332 --> 00:16:42,533
-           then apply           
-  a polyester aircraft fabric,  
+then apply a polyester aircraft fabric,  
 
 247
 00:16:42,535 --> 00:16:46,571
-      adding extra adhesive     
-       to seal the seams.       
+adding extra adhesive to seal the seams.       
 
 248
 00:16:52,612 --> 00:16:54,412
-      then, using an iron,      
+then, using an iron,      
 
 249
 00:16:54,414 --> 00:16:57,949
-   they heat-shrink the fabric  
-        until it's taut.        
+they heat-shrink the fabric until it's taut.        
 
 250
 00:16:59,886 --> 00:17:04,555
-  they repeat this process with 
+they repeat this process with 
 two additional layers of fabric,
 
 251
 00:17:04,557 --> 00:17:06,958
-      then paint it white.      
+then paint it white.      
 
 252
 00:17:10,830 --> 00:17:12,696
-       they mount the fins      
-     to the airship envelope    
+they mount the fins to the airship envelope    
 
 253
 00:17:12,698 --> 00:17:15,766
-       with a combination       
-    of steel cables and rope.   
+with a combination of steel cables and rope.   
 
 254
 00:17:15,768 --> 00:17:17,701
-   the steel cables are rigid,  
+the steel cables are rigid,  
 
 255
 00:17:17,703 --> 00:17:21,305
- but the rope has some give when
- the envelope flexes in flight. 
+but the rope has some give when
+the envelope flexes in flight. 
 
 256
 00:17:25,778 --> 00:17:27,845
- a system of cables and pulleys 
+a system of cables and pulleys 
 
 257
 00:17:27,847 --> 00:17:31,515
-   connect the rudder and fin   
-         to the cockpit.        
+connect the rudder and fin to the cockpit.        
 
 258
 00:17:31,517 --> 00:17:34,919
-   the pilot manipulates them   
-           with yokes.          
+the pilot manipulates them with yokes.          
 
 259
 00:17:34,921 --> 00:17:37,522
-            the flaps           
-  control up-and-down movement, 
+the flaps control up-and-down movement, 
 
 260
 00:17:37,524 --> 00:17:40,391
- the rudder, sideways movement. 
+the rudder, sideways movement. 
 
 261
 00:17:42,728 --> 00:17:46,397
- engineers inspect the envelope 
-   inside and out for pinholes  
+engineers inspect the envelope inside and out for pinholes  
 
 262
 00:17:46,399 --> 00:17:48,699
-            to ensure           
-     no helium can leak out.    
+to ensure no helium can leak out.    
 
 263
 00:17:50,803 --> 00:17:52,270
-      to repair a pinhole,      
+to repair a pinhole,      
 
 264
 00:17:52,272 --> 00:17:55,806
-   technicians first cover it   
-      with a piece of tape,     
+technicians first cover it with a piece of tape,     
 
 265
 00:17:55,808 --> 00:17:59,310
-   then brush on some adhesive  
-     in a circular pattern.     
+then brush on some adhesive in a circular pattern.     
 
 266
 00:18:03,482 --> 00:18:05,416
-   they apply a circular patch  
+they apply a circular patch  
 
 267
 00:18:05,418 --> 00:18:08,886
-   made of the same five-layer  
-     fabric as the envelope.    
+made of the same five-layer fabric as the envelope.    
 
 268
 00:18:10,490 --> 00:18:13,758
- using a spatula, they push out 
-       air and excess glue      
+using a spatula, they push out air and excess glue      
 
 269
 00:18:13,760 --> 00:18:16,761
-  to ensure airtight adhesion.  
+to ensure airtight adhesion.  
 
 270
 00:18:16,763 --> 00:18:20,298
-        the airship runs        
+the airship runs        
 on two gasoline-powered engines.
 
 271
 00:18:20,300 --> 00:18:22,366
-       workers hoist them       
-       into the engine bay      
+workers hoist them into the engine bay      
 
 272
 00:18:22,368 --> 00:18:23,801
-   at the back of the gondola.  
+at the back of the gondola.  
 
 273
 00:18:26,172 --> 00:18:30,908
 the propeller's sharp blades are
-  encased in a duct for safety. 
+encased in a duct for safety. 
 
 274
 00:18:30,910 --> 00:18:34,112
@@ -1300,182 +1120,160 @@ one propeller goes on each side.
 
 275
 00:18:37,049 --> 00:18:39,049
-           the blades           
-     of the propeller pivot     
+the blades of the propeller pivot     
 
 276
 00:18:39,051 --> 00:18:41,251
- to move the airship in reverse 
+to move the airship in reverse 
 
 277
 00:18:41,253 --> 00:18:44,388
-     without having to stop     
-           the engine.          
+without having to stop the engine.          
 
 278
 00:18:44,390 --> 00:18:47,992
-  the cockpit electrical panel  
-    has gas-management gauges   
+the cockpit electrical panel has gas-management gauges   
 
 279
 00:18:47,994 --> 00:18:51,662
-  because as the airship rises, 
-       the helium expands.      
+because as the airship rises, the helium expands.      
 
 280
 00:18:51,664 --> 00:18:55,065
-   so the pilot has to reduce   
+so the pilot has to reduce   
 air pressure inside the envelope
 
 281
 00:18:55,067 --> 00:18:57,134
-    to keep it from bursting.   
+to keep it from bursting.   
 
 282
 00:18:57,136 --> 00:19:00,638
- in a pinch, the pilot can also 
-  open a valve to vent helium.  
+in a pinch, the pilot can also open a valve to vent helium.  
 
 283
 00:19:02,542 --> 00:19:04,342
-    to test the helium valve,   
+to test the helium valve,   
 
 284
 00:19:04,344 --> 00:19:07,145
-           technicians          
-     blow in pressurized air    
+technicians blow in pressurized air    
 
 285
 00:19:07,147 --> 00:19:09,213
-      while brushing liquid     
-         along the edge.        
+while brushing liquid along the edge.        
 
 286
 00:19:09,215 --> 00:19:13,484
-   any bubbles indicate leaks   
-       that need sealing.       
+any bubbles indicate leaks that need sealing.       
 
 287
 00:19:13,486 --> 00:19:16,888
-   the valve opens and closes   
-     with levers and cables.    
+the valve opens and closes with levers and cables.    
 
 288
 00:19:16,890 --> 00:19:19,823
-   unlike electronic controls,  
+unlike electronic controls,  
 
 289
 00:19:19,825 --> 00:19:23,294
 cables can be repaired in midair
-      if something breaks.      
+if something breaks.      
 
 290
 00:19:26,432 --> 00:19:28,032
-      inside the envelope,      
+inside the envelope,      
 
 291
 00:19:28,034 --> 00:19:31,235
-     they install air sacks     
-        called ballonets,       
+they install air sacks called ballonets,       
 
 292
 00:19:31,237 --> 00:19:33,637
- the gray areas in this diagram.
+the gray areas in this diagram.
 
 293
 00:19:33,639 --> 00:19:36,840
 the pilot deflates the ballonets
-             to rise            
+to rise            
 
 294
 00:19:36,842 --> 00:19:39,043
-  and inflates them to descend. 
+and inflates them to descend. 
 
 295
 00:19:41,447 --> 00:19:44,248
-         workers attach         
-    the envelope and gondola    
+workers attach the envelope and gondola    
 
 296
 00:19:44,250 --> 00:19:46,383
- with cables, belts, and braces 
+with cables, belts, and braces 
 
 297
 00:19:46,385 --> 00:19:50,054
-     and fill a ballast tank    
-  under the gondola with water. 
+and fill a ballast tank under the gondola with water. 
 
 298
 00:19:50,056 --> 00:19:51,389
-        in an emergency,        
+in an emergency,        
 
 299
 00:19:51,391 --> 00:19:55,459
-   the crew can dump the water  
-    for a boost of buoyancy.    
+the crew can dump the water for a boost of buoyancy.    
 
 300
 00:19:55,461 --> 00:19:59,263
-      the gondola also has      
-   compartments for shot bags,  
+the gondola also has compartments for shot bags,  
 
 301
 00:19:59,265 --> 00:20:02,066
-     22-pound bags of lead.     
+22-pound bags of lead.     
 
 302
 00:20:02,068 --> 00:20:05,536
-         before takeoff,        
-   the pilot checks the weight  
+before takeoff, the pilot checks the weight  
 
 303
 00:20:05,538 --> 00:20:08,272
-   with passengers, equipment,  
-       and fuel on board.       
+with passengers, equipment, and fuel on board.       
 
 304
 00:20:08,274 --> 00:20:10,408
-          then the crew         
-     loads enough shot bags     
+then the crew loads enough shot bags     
 
 305
 00:20:10,410 --> 00:20:12,743
-     to balance the airship.    
+to balance the airship.    
 
 306
 00:20:14,146 --> 00:20:17,515
-      to park the airship,      
- they lock its nose onto a mast.
+to park the airship, they lock its nose onto a mast.
 
 307
 00:20:25,558 --> 00:20:27,558
-    just before flight time,    
+just before flight time,    
 
 308
 00:20:27,560 --> 00:20:30,427
-      a truck tows the mast     
-       out of the hangar.       
+a truck tows the mast out of the hangar.       
 
 309
 00:20:30,429 --> 00:20:32,763
-  then it's all hands on deck.  
+then it's all hands on deck.  
 
 310
 00:20:32,765 --> 00:20:37,802
-   well, actually, all hands    
-   on gondola, until takeoff.   
+well, actually, all hands on gondola, until takeoff.   
 
 311
 00:20:47,980 --> 00:20:50,447
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 312
 00:20:50,449 --> 00:20:53,384
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 313
 00:20:53,386 --> 00:20:55,686
-      drop us a line at...      
+drop us a line at...      
 

@@ -1,83 +1,70 @@
 ﻿1
 00:00:01,736 --> 00:00:04,804
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,806 --> 00:00:07,773
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:22,624 --> 00:00:25,024
-           narrator:            
- today, on "how it's made"...   
+narrator: today, on "how it's made"...   
 
 4
 00:00:51,652 --> 00:00:54,453
-     history suggests slate     
-   may have first been mined    
+history suggests slate may have first been mined    
 
 5
 00:00:54,455 --> 00:00:56,122
-       in the roman era,        
+in the roman era,        
 
 6
 00:00:56,124 --> 00:00:58,190
-      although the earliest     
-            confirmed           
-     records date back to       
+although the earliest confirmed records date back to       
 
 7
 00:00:58,192 --> 00:01:01,460
-       the early 1700s.         
+the early 1700s.         
 
 8
 00:01:01,462 --> 00:01:04,797
-   slate tiles were used for    
- general building construction  
+slate tiles were used for general building construction  
 
 9
 00:01:04,799 --> 00:01:06,499
-   and are still used today     
+and are still used today     
 
 10
 00:01:06,501 --> 00:01:08,668
-  for practical and aesthetic   
-           purposes.            
+for practical and aesthetic purposes.            
 
 11
 00:01:12,807 --> 00:01:15,474
-  these pieces of floor slate   
-      appear to be right        
+these pieces of floor slate appear to be right        
 
 12
 00:01:15,476 --> 00:01:16,742
-       from the quarry,         
+from the quarry,         
 
 13
 00:01:16,744 --> 00:01:19,679
-        but they're part        
-         of an 18-piece puzzle  
+but they're part of an 18-piece puzzle  
 
 14
 00:01:19,681 --> 00:01:22,415
-    that's cut the same way     
-          every time.           
+that's cut the same way every time.           
 
 15
 00:01:22,417 --> 00:01:23,882
-  these pieces of wall slate    
+these pieces of wall slate    
 
 16
 00:01:23,884 --> 00:01:25,918
-        are much thinner        
-  and are used for paneling.    
+are much thinner and are used for paneling.    
 
 17
 00:01:29,023 --> 00:01:31,957
-     uncut sheets of slate      
-  in a variety of thicknesses   
+uncut sheets of slate in a variety of thicknesses   
 
 18
 00:01:31,959 --> 00:01:33,559
@@ -85,660 +72,546 @@ come straight from the quarry.
 
 19
 00:01:37,164 --> 00:01:40,232
-     after the slate sheets     
-  are stacked on a forklift,    
+after the slate sheets are stacked on a forklift,    
 
 20
 00:01:40,234 --> 00:01:41,833
-       a worker carefully       
-          drives them           
+a worker carefully drives them           
 
 21
 00:01:41,835 --> 00:01:43,769
-        to another part         
-     of the storage yard.       
+to another part of the storage yard.       
 
 22
 00:01:47,241 --> 00:01:48,741
-   he sets them down gently.    
+he sets them down gently.    
 
 23
 00:01:52,112 --> 00:01:54,379
-    another worker splits the   
-             sheets             
-           of slate             
+another worker splits the sheets of slate             
 
 24
 00:01:54,381 --> 00:01:55,815
-  using a pneumatic zip gun.    
+using a pneumatic zip gun.    
 
 25
 00:01:58,986 --> 00:02:01,921
-   it's a delicate process.     
+it's a delicate process.     
 
 26
 00:02:01,923 --> 00:02:04,189
-    once he splits the slate    
-            sheets,             
+once he splits the slate sheets,             
 
 27
 00:02:04,191 --> 00:02:07,026
- the worker inspects the lines  
-    in the pieces of slate      
+the worker inspects the lines in the pieces of slate      
 
 28
 00:02:07,028 --> 00:02:08,594
-     and looks for cracks.      
+and looks for cracks.      
 
 29
 00:02:11,866 --> 00:02:15,267
-   then, he carries the sheet   
-     to a gauging machine.      
+then, he carries the sheet to a gauging machine.      
 
 30
 00:02:15,269 --> 00:02:17,136
-    he checks the thickness     
-         of the sheet           
+he checks the thickness of the sheet           
 
 31
 00:02:17,138 --> 00:02:20,039
-   to make sure it won't cause  
-              jams              
-     on the cutting table.      
+to make sure it won't cause jams on the cutting table.      
 
 32
 00:02:24,478 --> 00:02:27,480
- this multiblade cutting table  
-    slices a sheet of slate     
+this multiblade cutting table slices a sheet of slate     
 
 33
 00:02:27,482 --> 00:02:29,348
-   into a series of strips.     
+into a series of strips.     
 
 34
 00:02:33,287 --> 00:02:35,821
-          it's covered          
-     with recycled water.       
+it's covered with recycled water.       
 
 35
 00:02:35,823 --> 00:02:37,823
-        this lubricates         
-     the cutting process,       
+this lubricates the cutting process,       
 
 36
 00:02:37,825 --> 00:02:39,825
-        cools the slate         
-      and cutting blades,       
+cools the slate and cutting blades,       
 
 37
 00:02:39,827 --> 00:02:42,895
-   and removes unwanted dust    
-        and particles.          
+and removes unwanted dust and particles.          
 
 38
 00:02:42,897 --> 00:02:45,364
-    a conveyor slowly moves     
-   the slate sheet forward.     
+a conveyor slowly moves the slate sheet forward.     
 
 39
 00:02:49,369 --> 00:02:51,103
- a total of 18 diamond blades   
+a total of 18 diamond blades   
 
 40
 00:02:51,105 --> 00:02:53,739
-    slice the sheet of slate    
-         into strips.           
+slice the sheet of slate into strips.           
 
 41
 00:02:57,111 --> 00:02:59,712
-     these strips of slate      
-      will be used for wall     
-           paneling.            
+these strips of slate will be used for wall paneling.            
 
 42
 00:03:03,517 --> 00:03:06,118
-       this cutting table       
-    can cut several sheets of   
-             slate              
+this cutting table can cut several sheets of slate              
 
 43
 00:03:06,120 --> 00:03:07,486
-       at the same time.        
+at the same time.        
 
 44
 00:03:10,792 --> 00:03:13,391
-    once the cutting process    
-         is complete,           
+once the cutting process is complete,           
 
 45
 00:03:13,393 --> 00:03:16,328
-  a worker inspects the strips  
-      of slate and sorts        
+a worker inspects the strips of slate and sorts        
 
 46
 00:03:16,330 --> 00:03:20,732
-  them according to thickness   
-          and width.            
+them according to thickness and width.            
 
 47
 00:03:20,734 --> 00:03:23,903
-  next, he piles some of them   
- in preparation for splitting.  
+next, he piles some of them in preparation for splitting.  
 
 48
 00:03:26,074 --> 00:03:29,141
-    he cracks thicker strips    
-     of slate using a stone     
-            splitter            
+he cracks thicker strips of slate using a stone splitter            
 
 49
 00:03:29,143 --> 00:03:30,876
- with a hardened steel blade.   
+with a hardened steel blade.   
 
 50
 00:03:34,081 --> 00:03:35,413
-         he makes sure          
-      they're thin enough       
+he makes sure they're thin enough       
 
 51
 00:03:35,415 --> 00:03:37,816
- to be used for wall paneling.  
+to be used for wall paneling.  
 
 52
 00:03:37,818 --> 00:03:43,288
-    once the pieces of slate    
- reach their final thickness,   
+once the pieces of slate reach their final thickness,   
 
 53
 00:03:43,290 --> 00:03:47,126
- a worker places them in boxes, 
-    ready for installation.     
+a worker places them in boxes, ready for installation.     
 
 54
 00:03:50,164 --> 00:03:52,097
-   a worker inspects a sheet    
-           of slate             
+a worker inspects a sheet of slate             
 
 55
 00:03:52,099 --> 00:03:54,233
-      that will be used for     
-           flooring.            
+that will be used for flooring.            
 
 56
 00:03:54,235 --> 00:03:56,902
-     the thickness of slate     
-            flooring            
-       must be constant.        
+the thickness of slate flooring must be constant.        
 
 57
 00:04:01,108 --> 00:04:03,375
-     he places a sheet on a     
-           conveyor.            
+he places a sheet on a conveyor.            
 
 58
 00:04:03,377 --> 00:04:06,111
-       it takes the slate       
-  through a gauging machine,    
+it takes the slate through a gauging machine,    
 
 59
 00:04:06,113 --> 00:04:07,980
-       where its surface        
- will be made perfectly even.   
+where its surface will be made perfectly even.   
 
 60
 00:04:11,986 --> 00:04:15,720
-   using two diamond grinding   
-  wheels, the gauging machine   
+using two diamond grinding wheels, the gauging machine   
 
 61
 00:04:15,722 --> 00:04:19,492
- shaves off any pieces of stone 
-      that exceed a preset      
-           thickness.           
+shaves off any pieces of stone that exceed a preset thickness.           
 
 62
 00:04:22,163 --> 00:04:23,863
-     after several minutes      
-          of shaving,           
+after several minutes of shaving,           
 
 63
 00:04:23,865 --> 00:04:27,800
-    the slate sheet emerges     
-   from the gauging machine.    
+the slate sheet emerges from the gauging machine.    
 
 64
 00:04:27,802 --> 00:04:31,804
-  an employee checks the sheet  
-   to make sure it's smooth.    
+an employee checks the sheet to make sure it's smooth.    
 
 65
 00:04:31,806 --> 00:04:36,875
- first, he checks the underside 
- of the eventual floor tiles.   
+first, he checks the underside of the eventual floor tiles.   
 
 66
 00:04:36,877 --> 00:04:38,944
- then, he checks the top side,  
+then, he checks the top side,  
 
 67
 00:04:38,946 --> 00:04:40,946
-         the stone face         
-    that will be displayed.     
+the stone face that will be displayed.     
 
 68
 00:04:43,885 --> 00:04:47,019
- the worker places the smooth,  
-      flat piece of slate       
+the worker places the smooth, flat piece of slate       
 
 69
 00:04:47,021 --> 00:04:48,620
-      on a cutting frame.       
+on a cutting frame.       
 
 70
 00:04:48,622 --> 00:04:50,355
-    the computerized cutting    
-            machine             
+the computerized cutting machine             
 
 71
 00:04:50,357 --> 00:04:54,960
-    cuts 18 pieces of slate     
+cuts 18 pieces of slate     
 according to a preset pattern.  
 
 72
 00:04:54,962 --> 00:04:58,164
-   a high-velocity water jet    
- cuts the stone at three times  
+a high-velocity water jet cuts the stone at three times  
 
 73
 00:04:58,166 --> 00:05:00,565
-      the speed of sound.       
+the speed of sound.       
 
 74
 00:05:00,567 --> 00:05:04,370
-       the water is pure,       
-    filtered several times.     
+the water is pure, filtered several times.     
 
 75
 00:05:04,372 --> 00:05:07,039
-    the first time the slabs    
-   move through the machine,    
+the first time the slabs move through the machine,    
 
 76
 00:05:07,041 --> 00:05:09,375
-    it cuts pieces 1 to 9,      
+it cuts pieces 1 to 9,      
 
 77
 00:05:09,377 --> 00:05:11,243
- and the second time through,   
+and the second time through,   
 
 78
 00:05:11,245 --> 00:05:13,212
-   it cuts pieces 10 to 18.     
+it cuts pieces 10 to 18.     
 
 79
 00:05:17,051 --> 00:05:20,118
-   the worker snaps off excess  
-              trim              
-          and stacks            
+the worker snaps off excess trim and stacks            
 
 80
 00:05:20,120 --> 00:05:24,390
-    the cut pieces of slate     
-  according to their numbers.   
+the cut pieces of slate according to their numbers.   
 
 81
 00:05:24,392 --> 00:05:27,392
-      all the number ones       
- are identical to each other,   
+all the number ones are identical to each other,   
 
 82
 00:05:27,394 --> 00:05:30,296
-    as are each of the other    
-             numbers            
-   in the 18-piece pattern.     
+as are each of the other numbers in the 18-piece pattern.     
 
 83
 00:05:35,336 --> 00:05:36,802
-     repeated on a floor,       
+repeated on a floor,       
 
 84
 00:05:36,804 --> 00:05:40,071
-      the 18-piece pattern      
-       appears natural.         
+the 18-piece pattern appears natural.         
 
 85
 00:05:40,073 --> 00:05:43,742
- this nonporous slate comes in  
+this nonporous slate comes in  
 different textures and colors,  
 
 86
 00:05:43,744 --> 00:05:46,712
-      and can also be used      
-   in bathrooms or roofing.     
+and can also be used in bathrooms or roofing.     
 
 87
 00:06:03,698 --> 00:06:06,031
-           narrator:            
-    the first hot dog carts     
+narrator: the first hot dog carts     
 
 88
 00:06:06,033 --> 00:06:09,567
-   were rolled out in new york  
-              city              
-   in the mid-19th century.     
+were rolled out in new york city in the mid-19th century.     
 
 89
 00:06:09,569 --> 00:06:13,906
-  they were simple push carts   
-  with small charcoal stoves    
+they were simple push carts with small charcoal stoves    
 
 90
 00:06:13,908 --> 00:06:16,975
- and served sausages on buns.   
+and served sausages on buns.   
 
 91
 00:06:16,977 --> 00:06:19,712
- those sandwiches became known  
-         as hot dogs.           
+those sandwiches became known as hot dogs.           
 
 92
 00:06:24,719 --> 00:06:28,720
-     a modern hot dog cart      
-    is a kitchen on wheels.     
+a modern hot dog cart is a kitchen on wheels.     
 
 93
 00:06:28,722 --> 00:06:30,990
-   equipped with a water tank   
-           and sink,            
+equipped with a water tank and sink,            
 
 94
 00:06:30,992 --> 00:06:32,457
-     a steamer and grill,       
+a steamer and grill,       
 
 95
 00:06:32,459 --> 00:06:35,060
-         and a cooler,          
+and a cooler,          
 it's made to serve the public.  
 
 96
 00:06:38,199 --> 00:06:41,333
- and they're sometimes designed 
-   to stand out in a crowd.     
+and they're sometimes designed to stand out in a crowd.     
 
 97
 00:06:44,071 --> 00:06:45,470
-  to make this hot dog cart,    
+to make this hot dog cart,    
 
 98
 00:06:45,472 --> 00:06:48,440
-     they start with molds      
- for the hot dog-shaped body.   
+they start with molds for the hot dog-shaped body.   
 
 99
 00:06:52,213 --> 00:06:55,948
-  a worker brushes a nonstick   
- coating into the first mold.   
+a worker brushes a nonstick coating into the first mold.   
 
 100
 00:06:55,950 --> 00:06:58,751
-   it will allow the completed  
-              part              
-     to be easily removed.      
+it will allow the completed part to be easily removed.      
 
 101
 00:07:03,090 --> 00:07:07,493
- he places fiberglass one sheet 
-     at time in the mold.       
+he places fiberglass one sheet at time in the mold.       
 
 102
 00:07:07,495 --> 00:07:12,097
-  he brushes a generous amount  
-    of epoxy resin onto each    
-             piece.             
+he brushes a generous amount of epoxy resin onto each piece.             
 
 103
 00:07:12,099 --> 00:07:15,500
-     the fiberglass starts      
-   to solidify very quickly,    
+the fiberglass starts to solidify very quickly,    
 
 104
 00:07:15,502 --> 00:07:18,570
-    but he leaves it to set     
+but he leaves it to set     
 overnight for a complete cure.  
 
 105
 00:07:24,177 --> 00:07:27,179
-  they assemble the two halves  
-  of the hot dog-shaped body    
+they assemble the two halves of the hot dog-shaped body    
 
 106
 00:07:27,181 --> 00:07:30,916
-    and apply bonding to the    
-             seams.             
+and apply bonding to the seams.             
 
 107
 00:07:30,918 --> 00:07:33,052
-      a colorful paint job      
-      completes the look.       
+a colorful paint job completes the look.       
 
 108
 00:07:36,257 --> 00:07:38,123
-   next, computerized tools     
+next, computerized tools     
 
 109
 00:07:38,125 --> 00:07:41,193
-      cut holes in a sheet      
-     of food-grade steel.       
+cut holes in a sheet of food-grade steel.       
 
 110
 00:07:41,195 --> 00:07:44,063
-  these holes will accommodate  
-      the sink, faucets,        
+these holes will accommodate the sink, faucets,        
 
 111
 00:07:44,065 --> 00:07:47,099
-       and other parts.         
+and other parts.         
 
 112
 00:07:47,101 --> 00:07:49,601
-     then, the cooler door      
-         takes shape.           
+then, the cooler door takes shape.           
 
 113
 00:07:49,603 --> 00:07:50,869
-        using a press,          
+using a press,          
 
 114
 00:07:50,871 --> 00:07:53,272
-  the worker bends up the edge  
-      of a piece of steel       
+the worker bends up the edge of a piece of steel       
 
 115
 00:07:53,274 --> 00:07:54,873
-   that's been cut to size.     
+that's been cut to size.     
 
 116
 00:07:57,745 --> 00:08:00,612
-     he transfers the part      
-    to another break press.     
+he transfers the part to another break press.     
 
 117
 00:08:00,614 --> 00:08:04,149
-   this one is computerized.    
+this one is computerized.    
 
 118
 00:08:04,151 --> 00:08:08,753
- it folds back the bend to give 
-    the door a strong, smooth   
-             edge.              
+it folds back the bend to give the door a strong, smooth edge.              
 
 119
 00:08:08,755 --> 00:08:13,092
-    he repeats this process     
-      on two other sides.       
+he repeats this process on two other sides.       
 
 120
 00:08:13,094 --> 00:08:18,630
-  he then clamps a continuous   
-   hinge to the only unfolded   
-             edge,              
+he then clamps a continuous hinge to the only unfolded edge,              
 
 121
 00:08:18,632 --> 00:08:20,699
-          and he welds          
-  and rivets the hinge to it.   
+and he welds and rivets the hinge to it.   
 
 122
 00:08:27,975 --> 00:08:31,376
- work now begins on the chassis 
-     of the hot dog cart.       
+work now begins on the chassis of the hot dog cart.       
 
 123
 00:08:31,378 --> 00:08:33,445
-    a worker welds heavy wall   
-             steel              
+a worker welds heavy wall steel              
 
 124
 00:08:33,447 --> 00:08:35,814
-        tubing to create        
-      a rugged framework.       
+tubing to create a rugged framework.       
 
 125
 00:08:38,052 --> 00:08:39,384
-      after painting it,        
+after painting it,        
 
 126
 00:08:39,386 --> 00:08:42,054
-    he bolts the wheel axle     
-   to brackets on the sides.    
+he bolts the wheel axle to brackets on the sides.    
 
 127
 00:08:50,197 --> 00:08:51,530
-     he tightens the bolts      
+he tightens the bolts      
 
 128
 00:08:51,532 --> 00:08:54,033
-       to an exact torque       
-   using a pneumatic wrench.    
+to an exact torque using a pneumatic wrench.    
 
 129
 00:08:57,004 --> 00:08:59,370
-      he screws taillights      
-        to the bumper.          
+he screws taillights to the bumper.          
 
 130
 00:08:59,372 --> 00:09:02,807
-  the lights are surrounded by  
+the lights are surrounded by  
 metal brackets to protect them  
 
 131
 00:09:02,809 --> 00:09:06,011
-       from being damaged       
- by customers waiting in line.  
+from being damaged by customers waiting in line.  
 
 132
 00:09:06,013 --> 00:09:08,514
-       the brackets also        
-  serve as a mounting plate.    
+the brackets also serve as a mounting plate.    
 
 133
 00:09:12,018 --> 00:09:14,953
-     the team now transfers     
-   the fiberglass cart body     
+the team now transfers the fiberglass cart body     
 
 134
 00:09:14,955 --> 00:09:16,121
-        to the chassis.         
+to the chassis.         
 
 135
 00:09:19,160 --> 00:09:20,759
-    they drill large holes      
+they drill large holes      
 
 136
 00:09:20,761 --> 00:09:24,229
-       to vent gas fumes        
-    and smaller screw holes     
+to vent gas fumes and smaller screw holes     
 
 137
 00:09:24,231 --> 00:09:25,764
-       to secure the body       
-        to the chassis.         
+to secure the body to the chassis.         
 
 138
 00:09:32,840 --> 00:09:37,042
-    they line the cart with a   
-             molded             
+they line the cart with a molded             
 fiberglass and styrofoam unit.  
 
 139
 00:09:37,044 --> 00:09:40,379
-    it has compartments for     
-     the water tank and food    
-            cooler,             
+it has compartments for the water tank and food cooler,             
 
 140
 00:09:40,381 --> 00:09:42,981
-       and it also serves       
-    as an insulating layer.     
+and it also serves as an insulating layer.     
 
 141
 00:09:45,186 --> 00:09:47,853
-  they install the steel food   
-     preparation surface,       
+they install the steel food preparation surface,       
 
 142
 00:09:47,855 --> 00:09:50,322
-    which has been equipped     
-   with a sink and faucets.     
+which has been equipped with a sink and faucets.     
 
 143
 00:09:53,527 --> 00:09:57,196
- a member of the team tightens  
- a crimp ring around the hoses  
+a member of the team tightens a crimp ring around the hoses  
 
 144
 00:09:57,198 --> 00:10:01,066
-        to supply water         
-     to the sink faucets.       
+to supply water to the sink faucets.       
 
 145
 00:10:01,068 --> 00:10:04,336
-       he runs a gas line       
-   to the steamer's burners     
+he runs a gas line to the steamer's burners     
 
 146
 00:10:04,338 --> 00:10:06,438
-     and lowers the steamer     
-    into place on the cart.     
+and lowers the steamer into place on the cart.     
 
 147
 00:10:11,011 --> 00:10:14,079
-    he assembles a barbecue     
+he assembles a barbecue     
 to the other side of the cart,  
 
 148
 00:10:14,081 --> 00:10:16,214
-    and this gives customers    
-       a grilled option         
+and this gives customers a grilled option         
 
 149
 00:10:16,216 --> 00:10:17,216
-      for their hot dogs.       
+for their hot dogs.       
 
 150
 00:10:22,022 --> 00:10:24,456
-   they hinge the cooler door   
-   to the front of the cart.    
+they hinge the cooler door to the front of the cart.    
 
 151
 00:10:30,030 --> 00:10:32,964
-     once closed, the door      
-  seals the insulated chamber   
+once closed, the door seals the insulated chamber   
 
 152
 00:10:32,966 --> 00:10:36,235
-  to keep hot dogs, sausages,   
-       and sodas on ice.        
+to keep hot dogs, sausages, and sodas on ice.        
 
 153
 00:10:42,309 --> 00:10:43,976
@@ -746,149 +619,125 @@ the team presses bold graphics
 
 154
 00:10:43,978 --> 00:10:47,479
-    to the fiberglass shell     
+to the fiberglass shell     
 and peels off the paper liner.  
 
 155
 00:10:49,984 --> 00:10:53,752
-   and with that, this hot dog  
-              cart              
-  is ready to hit the street,   
+and with that, this hot dog cart is ready to hit the street,   
 
 156
 00:10:55,923 --> 00:10:57,589
-    just in time for lunch.     
+just in time for lunch.     
 
 157
 00:11:14,542 --> 00:11:16,674
- narrator: decades ago, people  
-   had to get out of the car    
+narrator: decades ago, people had to get out of the car    
 
 158
 00:11:16,676 --> 00:11:21,413
-  when arriving home in order   
-   to open the garage door.     
+when arriving home in order to open the garage door.     
 
 159
 00:11:21,415 --> 00:11:24,616
-  today, it's routine to open   
-  and close your garage door    
+today, it's routine to open and close your garage door    
 
 160
 00:11:24,618 --> 00:11:27,419
-   at the push of a button,     
+at the push of a button,     
 
 161
 00:11:27,421 --> 00:11:31,356
-  either on a wall-mounted pad  
-    or on a remote control.     
+either on a wall-mounted pad or on a remote control.     
 
 162
 00:11:33,761 --> 00:11:37,496
-  a garage door opener's motor  
+a garage door opener's motor  
 drives either a belt, a chain,  
 
 163
 00:11:37,498 --> 00:11:39,965
-        or a screw rod,         
-      like these models.        
+or a screw rod, like these models.        
 
 164
 00:11:39,967 --> 00:11:44,369
- in turn, they move a carriage  
- connected to the garage door.  
+in turn, they move a carriage connected to the garage door.  
 
 165
 00:11:44,371 --> 00:11:45,903
-       at this factory,         
+at this factory,         
 
 166
 00:11:45,905 --> 00:11:49,174
-   the production line starts   
-  and ends at the same place.   
+the production line starts and ends at the same place.   
 
 167
 00:11:49,176 --> 00:11:52,311
- they take one completed garage 
-   door opener off the line,    
+they take one completed garage door opener off the line,    
 
 168
 00:11:52,313 --> 00:11:53,911
-     then start a new one       
+then start a new one       
 
 169
 00:11:53,913 --> 00:11:59,150
-   by attaching a power cord    
- to the unit's steel chassis.   
+by attaching a power cord to the unit's steel chassis.   
 
 170
 00:11:59,152 --> 00:12:00,318
- then, they place the chassis   
+then, they place the chassis   
 
 171
 00:12:00,320 --> 00:12:02,387
-   onto a traveling assembly    
-            fixture             
+onto a traveling assembly fixture             
 
 172
 00:12:02,389 --> 00:12:03,855
-  and plug in the power cord    
+and plug in the power cord    
 
 173
 00:12:03,857 --> 00:12:06,091
-        to prep the unit        
-      for testing later.        
+to prep the unit for testing later.        
 
 174
 00:12:07,995 --> 00:12:12,931
- they place the unit's plastic  
- housing next to the chassis,   
+they place the unit's plastic housing next to the chassis,   
 
 175
 00:12:12,933 --> 00:12:15,667
-           then snap            
- in the plastic safety cover.   
+then snap in the plastic safety cover.   
 
 176
 00:12:15,669 --> 00:12:17,936
-   this goes over the direct    
-        current motor,          
+this goes over the direct current motor,          
 
 177
 00:12:17,938 --> 00:12:21,939
-         the equivalent         
-     of 1 1/4 horsepower.       
+the equivalent of 1 1/4 horsepower.       
 
 178
 00:12:21,941 --> 00:12:25,009
- they attach an optical encoder 
-         to the motor.          
+they attach an optical encoder to the motor.          
 
 179
 00:12:25,011 --> 00:12:28,546
-    the encoder is a sensor     
-     which reads the door's     
-            position            
+the encoder is a sensor which reads the door's position            
 
 180
 00:12:28,548 --> 00:12:31,450
-  so that the motor knows when  
- to stop moving the carriage.   
+so that the motor knows when to stop moving the carriage.   
 
 181
 00:12:33,887 --> 00:12:36,221
-      they place the motor      
-   against the safety cover,    
+they place the motor against the safety cover,    
 
 182
 00:12:36,223 --> 00:12:37,689
-    then screw it in place.     
+then screw it in place.     
 
 183
 00:12:40,894 --> 00:12:44,029
-        in the housing,         
-     they install the motion    
-            sensor.             
+in the housing, they install the motion sensor.             
 
 184
 00:12:44,031 --> 00:12:45,764
@@ -896,8 +745,7 @@ it turns on the opener's light
 
 185
 00:12:45,766 --> 00:12:47,965
-            as soon             
-  as you walk into the garage   
+as soon as you walk into the garage   
 
 186
 00:12:47,967 --> 00:12:49,701
@@ -905,607 +753,495 @@ or when the garage door opens.
 
 187
 00:12:52,839 --> 00:12:56,441
-   next are the switches for    
+next are the switches for    
 programming the remote control  
 
 188
 00:12:56,443 --> 00:12:58,443
-        and for setting         
-      the travel limits.        
+and for setting the travel limits.        
 
 189
 00:12:58,445 --> 00:13:00,045
- these are the points to which  
+these are the points to which  
 
 190
 00:13:00,047 --> 00:13:04,783
- the opener must move the door  
-  to fully open and close it.   
+the opener must move the door to fully open and close it.   
 
 191
 00:13:04,785 --> 00:13:08,053
- they then install the circuit  
-  board, routing the antenna    
+they then install the circuit board, routing the antenna    
 
 192
 00:13:08,055 --> 00:13:11,723
-     for the remote control     
-            receiver            
-        to the outside.         
+for the remote control receiver to the outside.         
 
 193
 00:13:11,725 --> 00:13:14,525
-    they plug in the motion     
-         sensor cable,          
+they plug in the motion sensor cable,          
 
 194
 00:13:14,527 --> 00:13:18,529
-   then wire and plug in the    
- connector for the light bulbs  
+then wire and plug in the connector for the light bulbs  
 
 195
 00:13:18,531 --> 00:13:21,800
- and fasten the board in place  
-         with screws.           
+and fasten the board in place with screws.           
 
 196
 00:13:21,802 --> 00:13:25,804
-   they attach the electrical   
-  ground wire to the chassis,   
+they attach the electrical ground wire to the chassis,   
 
 197
 00:13:25,806 --> 00:13:27,272
-   connect the power cable,     
+connect the power cable,     
 
 198
 00:13:27,274 --> 00:13:30,275
- and then, the optical encoder  
-     to the circuit board.      
+and then, the optical encoder to the circuit board.      
 
 199
 00:13:32,946 --> 00:13:35,547
-      with all the internal     
-           components           
-        installed now,          
+with all the internal components installed now,          
 
 200
 00:13:35,549 --> 00:13:38,216
-     they affix the housing     
-        to the chassis.         
+they affix the housing to the chassis.         
 
 201
 00:13:38,218 --> 00:13:40,819
-    this completes the brain    
-  of the garage door opener,    
+this completes the brain of the garage door opener,    
 
 202
 00:13:40,821 --> 00:13:42,187
-   called the operator unit.    
+called the operator unit.    
 
 203
 00:13:45,158 --> 00:13:48,827
-  an automated testing machine  
- now checks all the functions,  
+an automated testing machine now checks all the functions,  
 
 204
 00:13:48,829 --> 00:13:51,563
-      simulating the load       
-      of the garage door.       
+simulating the load of the garage door.       
 
 205
 00:13:51,565 --> 00:13:55,033
- it also checks the light bulb  
-   sockets and the connection   
-             ports              
+it also checks the light bulb sockets and the connection ports              
 
 206
 00:13:55,035 --> 00:13:59,103
-      on the circuit board      
-     for the safety beams.      
+on the circuit board for the safety beams.      
 
 207
 00:13:59,105 --> 00:14:01,773
-         the beams stop         
- and reverse the closing door   
+the beams stop and reverse the closing door   
 
 208
 00:14:01,775 --> 00:14:05,310
-   if they detect any object    
-         in its path.           
+if they detect any object in its path.           
 
 209
 00:14:05,312 --> 00:14:10,048
-     once the operator unit     
-        passes inspect,         
+once the operator unit passes inspect,         
 
 210
 00:14:10,050 --> 00:14:14,352
-   it comes full circle to the  
-              end,              
-   which is also the start,     
+it comes full circle to the end, which is also the start,     
 
 211
 00:14:14,354 --> 00:14:15,420
-    of the production line.     
+of the production line.     
 
 212
 00:14:17,724 --> 00:14:20,458
-         a plastic lens         
-  to enclose the light bulbs,   
+a plastic lens to enclose the light bulbs,   
 
 213
 00:14:20,460 --> 00:14:23,061
-   and the unit comes off the   
-             line.              
+and the unit comes off the line.              
 
 214
 00:14:27,067 --> 00:14:31,937
-       the carriage rail        
-    is milled from galvanized   
-             steel.             
+the carriage rail is milled from galvanized steel.             
 
 215
 00:14:31,939 --> 00:14:34,872
-          it has slots          
- for locking in plastic liners  
+it has slots for locking in plastic liners  
 
 216
 00:14:34,874 --> 00:14:37,409
-   which hold the screw rod.    
+which hold the screw rod.    
 
 217
 00:14:44,551 --> 00:14:46,218
-   to produce the screw rod,    
+to produce the screw rod,    
 
 218
 00:14:46,220 --> 00:14:49,020
-      the factory machines      
-     a solid bar of steel       
+the factory machines a solid bar of steel       
 
 219
 00:14:49,022 --> 00:14:51,556
-   to the required dimensions   
-         and profile.           
+to the required dimensions and profile.           
 
 220
 00:14:51,558 --> 00:14:55,627
-    then, with high-pressure    
-  rollers, it forms threads in  
-              it.               
+then, with high-pressure rollers, it forms threads in it.               
 
 221
 00:14:55,629 --> 00:14:59,764
-  workers insert the screw rod  
- into the liners in the rail.   
+workers insert the screw rod into the liners in the rail.   
 
 222
 00:14:59,766 --> 00:15:01,032
-    for the retail market,      
+for the retail market,      
 
 223
 00:15:01,034 --> 00:15:03,902
-      rather than produce       
- one long rail and screw rod,   
+rather than produce one long rail and screw rod,   
 
 224
 00:15:03,904 --> 00:15:05,970
-          the factory           
+the factory           
 makes three shorter connecting  
 
 225
 00:15:05,972 --> 00:15:09,641
-       sections that fit        
-    into a smaller package.     
+sections that fit into a smaller package.     
 
 226
 00:15:09,643 --> 00:15:12,844
-    this machine lubricates     
-  the screw rod with grease.    
+this machine lubricates the screw rod with grease.    
 
 227
 00:15:12,846 --> 00:15:15,580
-  it helps it rotate smoothly   
-       in the rail liner        
+it helps it rotate smoothly in the rail liner        
 
 228
 00:15:15,582 --> 00:15:19,050
-    when the opener's motor     
-          is running.           
+when the opener's motor is running.           
 
 229
 00:15:19,052 --> 00:15:20,718
-   when the screw rod turns,    
+when the screw rod turns,    
 
 230
 00:15:20,720 --> 00:15:22,988
-       teeth on the base        
-   of the carriage interlock    
+teeth on the base of the carriage interlock    
 
 231
 00:15:22,990 --> 00:15:24,189
-       with the threads,        
+with the threads,        
 
 232
 00:15:24,191 --> 00:15:26,458
-      moving the carriage       
-        along the rail.         
+moving the carriage along the rail.         
 
 233
 00:15:26,460 --> 00:15:30,996
-   workers first install the    
- carriage base at the factory.  
+workers first install the carriage base at the factory.  
 
 234
 00:15:30,998 --> 00:15:32,464
-        then, they pack         
+then, they pack         
 
 235
 00:15:32,466 --> 00:15:34,332
-   all the garage door opener   
-   components for shipping,     
+all the garage door opener components for shipping,     
 
 236
 00:15:34,334 --> 00:15:36,802
-     starting with the rail     
-            sections            
-    and the operator unit.      
+starting with the rail sections and the operator unit.      
 
 237
 00:15:41,608 --> 00:15:45,677
-       last to go in are        
- the wall-mounted control pad,  
+last to go in are the wall-mounted control pad,  
 
 238
 00:15:45,679 --> 00:15:48,746
-      the remote controls,      
-     and the safety beams,      
+the remote controls, and the safety beams,      
 
 239
 00:15:48,748 --> 00:15:53,084
- which you install on each side 
-  of the garage door opening.   
+which you install on each side of the garage door opening.   
 
 240
 00:15:53,086 --> 00:15:55,420
-        when you install        
-    the garage door opener,     
+when you install the garage door opener,     
 
 241
 00:15:55,422 --> 00:15:58,556
-    you insert the screw rod    
- into the motor's drive shaft.  
+you insert the screw rod into the motor's drive shaft.  
 
 242
 00:15:58,558 --> 00:16:00,892
-  then, you assemble the rest   
-       of the carriage,         
+then, you assemble the rest of the carriage,         
 
 243
 00:16:00,894 --> 00:16:02,227
-    connecting it to an arm     
+connecting it to an arm     
 
 244
 00:16:02,229 --> 00:16:04,629
-         which attaches         
-      to the garage door.       
+which attaches to the garage door.       
 
 245
 00:16:04,631 --> 00:16:08,834
-          motor runs,           
-    screw rod turns, carriage   
-             moves,             
+motor runs, screw rod turns, carriage moves,             
 
 246
 00:16:08,836 --> 00:16:11,269
-      and your garage door      
-       opens or closes.         
+and your garage door opens or closes.         
 
 247
 00:16:24,585 --> 00:16:26,317
-     narrator: the bicycle      
+narrator: the bicycle      
 
 248
 00:16:26,319 --> 00:16:28,787
-   is the most efficient mode   
-  of transport ever invented.   
+is the most efficient mode of transport ever invented.   
 
 249
 00:16:28,789 --> 00:16:30,388
-      ninety-nine percent       
-         of the effort          
+ninety-nine percent of the effort          
 
 250
 00:16:30,390 --> 00:16:33,658
-    put into turning a pedal    
-  is transferred to movement,   
+put into turning a pedal is transferred to movement,   
 
 251
 00:16:33,660 --> 00:16:36,127
-    so the lighter the bike,    
-          the better.           
+so the lighter the bike, the better.           
 
 252
 00:16:36,129 --> 00:16:37,929
- using cutting-edge materials,  
+using cutting-edge materials,  
 
 253
 00:16:37,931 --> 00:16:41,266
-  a high-performance seat can   
-     weigh as little as five    
-            ounces.             
+a high-performance seat can weigh as little as five ounces.             
 
 254
 00:16:44,671 --> 00:16:46,404
-   this company made a special  
-              seat              
+this company made a special seat              
 
 255
 00:16:46,406 --> 00:16:49,006
-   for a past tour de france    
-            winner.             
+for a past tour de france winner.             
 
 256
 00:16:49,008 --> 00:16:52,611
- in fact, half the cyclists on  
-    the prestigious pro tour    
-             racing             
+in fact, half the cyclists on the prestigious pro tour racing             
 
 257
 00:16:52,613 --> 00:16:54,812
-   circuit use their seats.     
+circuit use their seats.     
 
 258
 00:16:54,814 --> 00:16:57,949
- the design process begins with 
-     the simplest tools --      
+the design process begins with the simplest tools --      
 
 259
 00:16:57,951 --> 00:16:59,818
-      pencils and paper.        
+pencils and paper.        
 
 260
 00:16:59,820 --> 00:17:02,954
-        designers sketch        
-    out a few basic ideas.      
+designers sketch out a few basic ideas.      
 
 261
 00:17:02,956 --> 00:17:05,757
-   specialists then transform   
-      the sketched ideas        
+specialists then transform the sketched ideas        
 
 262
 00:17:05,759 --> 00:17:07,892
-   into 3-d digital images.     
+into 3-d digital images.     
 
 263
 00:17:07,894 --> 00:17:12,364
-        the manufacturers       
-          machine-model         
+the manufacturers machine-model         
 those images into a prototype.  
 
 264
 00:17:12,366 --> 00:17:16,568
-      after testing, they       
-     begin the manufacturing    
-            process.            
+after testing, they begin the manufacturing process.            
 
 265
 00:17:16,570 --> 00:17:18,036
-    a worker places a base,     
+a worker places a base,     
 
 266
 00:17:18,038 --> 00:17:21,305
-           or shell,            
-    on the upper segment of a   
-             mold.              
+or shell, on the upper segment of a mold.              
 
 267
 00:17:21,307 --> 00:17:23,108
-    this company makes their    
-             shells             
+this company makes their shells             
 
 268
 00:17:23,110 --> 00:17:25,410
-         from a variety         
-  of carbon fiber materials.    
+from a variety of carbon fiber materials.    
 
 269
 00:17:27,580 --> 00:17:31,048
-    polyurethane pours into     
+polyurethane pours into     
 the other section of the mold.  
 
 270
 00:17:31,050 --> 00:17:32,517
- this is the part of the mold   
+this is the part of the mold   
 
 271
 00:17:32,519 --> 00:17:34,652
-    that will give the seat     
-          its shape.            
+that will give the seat its shape.            
 
 272
 00:17:34,654 --> 00:17:36,454
-     when the mold closes,      
+when the mold closes,      
 
 273
 00:17:36,456 --> 00:17:39,657
- it cooks at a mere 104 degrees 
-          fahrenheit.           
+it cooks at a mere 104 degrees fahrenheit.           
 
 274
 00:17:39,659 --> 00:17:42,594
-    a chemical reaction takes   
-              place             
-       inside the mold,         
+a chemical reaction takes place inside the mold,         
 
 275
 00:17:42,596 --> 00:17:46,464
- which causes the polyurethane  
-          to expand.            
+which causes the polyurethane to expand.            
 
 276
 00:17:46,466 --> 00:17:47,732
-      five minutes later,       
+five minutes later,       
 
 277
 00:17:47,734 --> 00:17:51,469
- an operator removes the seats  
-        from the molds.         
+an operator removes the seats from the molds.         
 
 278
 00:17:51,471 --> 00:17:56,474
-  here, we see what the shells  
-  look like before and after.   
+here, we see what the shells look like before and after.   
 
 279
 00:17:56,476 --> 00:17:59,678
-    a worker removes excess     
-  polyurethane from the edges   
+a worker removes excess polyurethane from the edges   
 
 280
 00:17:59,680 --> 00:18:01,479
-         with a knife.          
+with a knife.          
 
 281
 00:18:01,481 --> 00:18:03,815
- while the polyurethane cures,  
+while the polyurethane cures,  
 
 282
 00:18:03,817 --> 00:18:05,750
-            workers             
-  prepare the cover material.   
+workers prepare the cover material.   
 
 283
 00:18:05,752 --> 00:18:08,353
-        the material is         
-   a proprietary microfiber     
+the material is a proprietary microfiber     
 
 284
 00:18:08,355 --> 00:18:10,821
-     specially made for this    
-            company.            
+specially made for this company.            
 
 285
 00:18:10,823 --> 00:18:14,025
-   not only does this material  
-              need              
-  to be flexible, waterproof,   
+not only does this material need to be flexible, waterproof,   
 
 286
 00:18:14,027 --> 00:18:15,226
-       and comfortable,         
+and comfortable,         
 
 287
 00:18:15,228 --> 00:18:18,562
-     it has to be incredibly    
-            durable.            
+it has to be incredibly durable.            
 
 288
 00:18:18,564 --> 00:18:21,132
- once they've cut the material  
-         into strips,           
+once they've cut the material into strips,           
 
 289
 00:18:21,134 --> 00:18:24,835
-          the workers           
-    stack them on a stamping    
-             press.             
+the workers stack them on a stamping press.             
 
 290
 00:18:24,837 --> 00:18:28,839
-   a die has been custom made   
-   to match the design of the   
-             seat.              
+a die has been custom made to match the design of the seat.              
 
 291
 00:18:28,841 --> 00:18:31,509
-       the stamping press       
-  descends with enough force    
+the stamping press descends with enough force    
 
 292
 00:18:31,511 --> 00:18:35,112
-     to cut through multiple    
-            layers.             
+to cut through multiple layers.             
 
 293
 00:18:35,114 --> 00:18:38,383
-     it's now time to join      
- the three panels of material   
+it's now time to join the three panels of material   
 
 294
 00:18:38,385 --> 00:18:40,185
- that make up the seat cover.   
+that make up the seat cover.   
 
 295
 00:18:40,187 --> 00:18:42,721
-         this facility          
-   has two different methods    
+this facility has two different methods    
 
 296
 00:18:42,723 --> 00:18:45,323
-    for attaching the pieces    
-        to each other.          
+for attaching the pieces to each other.          
 
 297
 00:18:45,325 --> 00:18:47,058
-         in this case,          
+in this case,          
 
 298
 00:18:47,060 --> 00:18:49,361
-   a skilled worker carefully   
-      stitches the material     
-           together.            
+a skilled worker carefully stitches the material together.            
 
 299
 00:18:52,532 --> 00:18:54,466
-       a different method       
-     of joining the panels      
+a different method of joining the panels      
 
 300
 00:18:54,468 --> 00:18:58,335
-       involves a process       
-    called thermal welding.     
+involves a process called thermal welding.     
 
 301
 00:18:58,337 --> 00:19:00,471
- an operator skives, or thins,  
+an operator skives, or thins,  
 
 302
 00:19:00,473 --> 00:19:03,742
-   the edges by shaving them    
- so that there won't be a bump  
+the edges by shaving them so that there won't be a bump  
 
 303
 00:19:03,744 --> 00:19:06,544
-      where they overlap.       
+where they overlap.       
 
 304
 00:19:06,546 --> 00:19:09,948
-       double-sided tape        
-     will hold the material     
-           together.            
+double-sided tape will hold the material together.            
 
 305
 00:19:09,950 --> 00:19:15,219
-    a special tape dispenser    
-             applies            
- the tape to the skived edges.  
+a special tape dispenser applies the tape to the skived edges.  
 
 306
 00:19:15,221 --> 00:19:20,891
- a worker positions the panels, 
-    carefully overlapping the   
-             edges.             
+a worker positions the panels, carefully overlapping the edges.             
 
 307
 00:19:20,893 --> 00:19:22,493
-  a vacuum system removes air   
+a vacuum system removes air   
 
 308
 00:19:22,495 --> 00:19:25,897
-    from between the top and    
-             bottom             
-    sections of the press,      
+from between the top and bottom sections of the press,      
 
 309
 00:19:25,899 --> 00:19:27,231
@@ -1513,216 +1249,180 @@ holding the panels in position
 
 310
 00:19:27,233 --> 00:19:30,168
-   and ensuring there will be   
-   no bubbles at the seams.     
+and ensuring there will be no bubbles at the seams.     
 
 311
 00:19:30,170 --> 00:19:33,371
-         the press then         
-      heats the material        
+the press then heats the material        
 
 312
 00:19:33,373 --> 00:19:35,840
- up to 280 degrees fahrenheit,  
+up to 280 degrees fahrenheit,  
 
 313
 00:19:35,842 --> 00:19:40,778
-   ensuring that the adhesive   
-              bonds             
-     the panels together.       
+ensuring that the adhesive bonds the panels together.       
 
 314
 00:19:40,780 --> 00:19:42,781
-           the design           
-  of the shell for this seat    
+the design of the shell for this seat    
 
 315
 00:19:42,783 --> 00:19:44,382
-    has several slots in it     
+has several slots in it     
 
 316
 00:19:44,384 --> 00:19:46,984
-         to help create         
-     the right combination      
+to help create the right combination      
 
 317
 00:19:46,986 --> 00:19:48,652
- of flexibility and rigidity.   
+of flexibility and rigidity.   
 
 318
 00:19:48,654 --> 00:19:50,254
-        a laser machine         
+a laser machine         
 
 319
 00:19:50,256 --> 00:19:53,724
-    cuts stripes in the cover   
-             fabric             
-  to create a graphic element   
+cuts stripes in the cover fabric to create a graphic element   
 
 320
 00:19:53,726 --> 00:19:55,393
-   that reflects this design    
-           feature.             
+that reflects this design feature.             
 
 321
 00:19:57,597 --> 00:20:00,331
-  workers glue silver material  
-       under the stripes        
+workers glue silver material under the stripes        
 
 322
 00:20:00,333 --> 00:20:01,599
-      to highlight them,        
+to highlight them,        
 
 323
 00:20:01,601 --> 00:20:05,670
-    then brush glue all over    
-  the underside of the cover.   
+then brush glue all over the underside of the cover.   
 
 324
 00:20:05,672 --> 00:20:09,206
- mounting the cover on the seat 
-    requires two operators.     
+mounting the cover on the seat requires two operators.     
 
 325
 00:20:09,208 --> 00:20:12,343
- they place the cover glue side 
-       down on the seat,        
+they place the cover glue side down on the seat,        
 
 326
 00:20:12,345 --> 00:20:14,746
-            ensuring            
+ensuring            
 that it's positioned perfectly  
 
 327
 00:20:14,748 --> 00:20:16,247
-     and that there are no      
-         air pockets.           
+and that there are no air pockets.           
 
 328
 00:20:18,485 --> 00:20:21,086
-      they work the cover       
-      into a small recess       
+they work the cover into a small recess       
 
 329
 00:20:21,088 --> 00:20:23,955
- that runs around the perimeter 
-         of the base.           
+that runs around the perimeter of the base.           
 
 330
 00:20:23,957 --> 00:20:26,590
-    they will then trim off     
-      the excess material       
+they will then trim off the excess material       
 
 331
 00:20:26,592 --> 00:20:28,159
-     with a utility knife.      
+with a utility knife.      
 
 332
 00:20:28,161 --> 00:20:30,562
-           the amount           
-        of skilled manual       
-         craftsmanship          
+the amount of skilled manual craftsmanship          
 
 333
 00:20:30,564 --> 00:20:32,563
- required to build these seats  
+required to build these seats  
 
 334
 00:20:32,565 --> 00:20:35,299
-        is a key feature        
-       of their quality,        
+is a key feature of their quality,        
 
 335
 00:20:35,301 --> 00:20:39,570
-  but the company also relies   
-       on state-of-the-art      
-          technology.           
+but the company also relies on state-of-the-art technology.           
 
 336
 00:20:39,572 --> 00:20:43,575
-     bicycle seats sit on a     
-            framework           
-        called a rail.          
+bicycle seats sit on a framework called a rail.          
 
 337
 00:20:43,577 --> 00:20:46,244
-   this facility makes rails    
-    from both carbon fiber      
+this facility makes rails from both carbon fiber      
 
 338
 00:20:46,246 --> 00:20:48,246
-       and metal alloys,        
+and metal alloys,        
 
 339
 00:20:48,248 --> 00:20:50,381
-     and it tests each one      
-      with a dynamometer.       
+and it tests each one with a dynamometer.       
 
 340
 00:20:52,452 --> 00:20:53,851
-       workers put glue         
+workers put glue         
 
 341
 00:20:53,853 --> 00:20:56,521
-    in the attachment points    
-   on the bottom of the seat    
+in the attachment points on the bottom of the seat    
 
 342
 00:20:56,523 --> 00:21:00,525
-       to ensure that it        
-    passes a stringent safety   
-             test.              
+to ensure that it passes a stringent safety test.              
 
 343
 00:21:00,527 --> 00:21:04,929
-   a customized machine bends   
+a customized machine bends   
 the seat to fit into the rail.  
 
 344
 00:21:04,931 --> 00:21:08,132
-   the seat will then be bent   
-              back              
-    in the other direction      
+the seat will then be bent back in the other direction      
 
 345
 00:21:08,134 --> 00:21:11,202
-          to return it          
-    to its original shape.      
+to return it to its original shape.      
 
 346
 00:21:11,204 --> 00:21:13,804
-   the seat is now finished.    
+the seat is now finished.    
 
 347
 00:21:13,806 --> 00:21:15,940
-             fusing             
-  state-of-the-art technology   
+fusing state-of-the-art technology   
 
 348
 00:21:15,942 --> 00:21:17,876
-  with skilled craftsmanship,   
+with skilled craftsmanship,   
 
 349
 00:21:17,878 --> 00:21:21,212
-          this company          
-  makes 520,000 bicycle seats   
+this company makes 520,000 bicycle seats   
 
 350
 00:21:21,214 --> 00:21:22,447
-          every year.           
+every year.           
 
 351
 00:21:29,890 --> 00:21:31,956
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 352
 00:21:31,958 --> 00:21:34,626
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 353
 00:21:34,628 --> 00:21:40,165
-       drop us a line at        
+drop us a line at        
 sciencechannel.com/howitsmade.  
 

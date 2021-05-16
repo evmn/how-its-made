@@ -1,240 +1,198 @@
 ﻿1
 00:00:01,869 --> 00:00:04,937
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,939 --> 00:00:07,974
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:22,757 --> 00:00:26,024
-           narrator:            
- today, on "how it's made"...   
+narrator: today, on "how it's made"...   
 
 4
 00:00:26,026 --> 00:00:27,994
-  mouth-blown window glass...   
+mouth-blown window glass...   
 
 5
 00:00:32,166 --> 00:00:33,966
-       ...water pumps...        
+...water pumps...        
 
 6
 00:00:38,506 --> 00:00:39,939
-          ...sake...            
+...sake...            
 
 7
 00:00:44,045 --> 00:00:45,811
-       ...and tweezers.         
+...and tweezers.         
 
 8
 00:00:52,320 --> 00:00:56,656
-    before machine-made plate   
-              glass             
- became popular in the 1920s,   
+before machine-made plate glass became popular in the 1920s,   
 
 9
 00:00:56,658 --> 00:00:59,926
-          window glass          
-    was blown by artisans.      
+window glass was blown by artisans.      
 
 10
 00:00:59,928 --> 00:01:01,661
-  today, specialty companies    
+today, specialty companies    
 
 11
 00:01:01,663 --> 00:01:04,663
-    still make window glass     
-     the traditional way.       
+still make window glass the traditional way.       
 
 12
 00:01:04,665 --> 00:01:07,800
-    while machine-made glass    
- is uniformly clear and flat,   
+while machine-made glass is uniformly clear and flat,   
 
 13
 00:01:07,802 --> 00:01:11,337
-    mouth-blown window glass    
-    has subtle variations.      
+mouth-blown window glass has subtle variations.      
 
 14
 00:01:14,208 --> 00:01:15,541
-      this german company       
+this german company       
 
 15
 00:01:15,543 --> 00:01:21,146
-    produces a wide variety     
-  of mouth-blown sheet glass.   
+produces a wide variety of mouth-blown sheet glass.   
 
 16
 00:01:21,148 --> 00:01:24,016
-       it's used to make        
-     contemporary wall light    
-            panels.             
+it's used to make contemporary wall light panels.             
 
 17
 00:01:24,018 --> 00:01:27,954
-  it can also be used to make   
-     clear or stained glass     
-            windows.            
+it can also be used to make clear or stained glass windows.            
 
 18
 00:01:32,026 --> 00:01:33,693
-      the company can make      
-         glass sheets           
+the company can make glass sheets           
 
 19
 00:01:33,695 --> 00:01:37,330
-   in 5,000 different colors    
-         and textures.          
+in 5,000 different colors and textures.          
 
 20
 00:01:42,904 --> 00:01:46,305
- this furnace melts silica sand 
-  and other natural materials   
+this furnace melts silica sand and other natural materials   
 
 21
 00:01:46,307 --> 00:01:48,240
-          into glass.           
+into glass.           
 
 22
 00:01:48,242 --> 00:01:51,176
-      the starter begins by     
-            inserting           
-     the end of a blowpipe      
+the starter begins by inserting the end of a blowpipe      
 
 23
 00:01:51,178 --> 00:01:53,045
-        into a furnace.         
+into a furnace.         
 
 24
 00:01:56,784 --> 00:01:59,851
-    he takes a small amount     
-   of colorless molten glass    
+he takes a small amount of colorless molten glass    
 
 25
 00:01:59,853 --> 00:02:01,120
-      out of the furnace        
+out of the furnace        
 
 26
 00:02:01,122 --> 00:02:03,055
-         and rotates it         
-       in a wooden mold.        
+and rotates it in a wooden mold.        
 
 27
 00:02:03,057 --> 00:02:04,924
-       the mold is lined        
-       with heavy paper         
+the mold is lined with heavy paper         
 
 28
 00:02:04,926 --> 00:02:08,928
-    to soften the surface.      
+to soften the surface.      
 
 29
 00:02:08,930 --> 00:02:11,197
-    then, he inserts a metal    
-             needle             
-     through the blowpipe       
+then, he inserts a metal needle through the blowpipe       
 
 30
 00:02:11,199 --> 00:02:13,666
- to create a pathway for air.   
+to create a pathway for air.   
 
 31
 00:02:19,474 --> 00:02:23,742
-   he returns to the furnace    
-    for more molten glass.      
+he returns to the furnace for more molten glass.      
 
 32
 00:02:23,744 --> 00:02:26,212
-   the artisans make multiple   
-              trips             
-        to the furnace,         
+the artisans make multiple trips to the furnace,         
 
 33
 00:02:26,214 --> 00:02:28,213
-    shaping the molten glass    
-           in stages            
+shaping the molten glass in stages            
 
 34
 00:02:28,215 --> 00:02:31,684
-   so it's easier to handle.    
+so it's easier to handle.    
 
 35
 00:02:31,686 --> 00:02:36,489
-    this time, the assistant    
-             shapes             
- the glass with a large mold.   
+this time, the assistant shapes the glass with a large mold.   
 
 36
 00:02:36,491 --> 00:02:37,690
-    when the shape is set,      
+when the shape is set,      
 
 37
 00:02:37,692 --> 00:02:39,959
-         the assistant          
-   prepares it for blowing.     
+the assistant prepares it for blowing.     
 
 38
 00:02:39,961 --> 00:02:42,294
-      he uses a fork tool       
-       to push the glass        
+he uses a fork tool to push the glass        
 
 39
 00:02:42,296 --> 00:02:45,498
-    to the top of the pipe.     
+to the top of the pipe.     
 
 40
 00:02:45,500 --> 00:02:48,834
- the starter rotates the glass  
- in a larger, paper-lined mold  
+the starter rotates the glass in a larger, paper-lined mold  
 
 41
 00:02:48,836 --> 00:02:50,503
-     to round it further.       
+to round it further.       
 
 42
 00:02:53,107 --> 00:02:55,107
-        the molten glass        
-         cools rapidly          
+the molten glass cools rapidly          
 
 43
 00:02:55,109 --> 00:02:57,909
-         once it comes          
-      out of the furnace.       
+once it comes out of the furnace.       
 
 44
 00:02:57,911 --> 00:03:00,846
-       if the temperature       
-   dips below 1,800 degrees,    
+if the temperature dips below 1,800 degrees,    
 
 45
 00:03:00,848 --> 00:03:02,782
-   it's not longer workable.    
+it's not longer workable.    
 
 46
 00:03:02,784 --> 00:03:07,253
- so the team must work quickly  
-      and reheat the glass      
-          repeatedly.           
+so the team must work quickly and reheat the glass repeatedly.           
 
 47
 00:03:07,255 --> 00:03:09,788
-       another assistant        
-    lubricates the blowpipe     
+another assistant lubricates the blowpipe     
 
 48
 00:03:09,790 --> 00:03:12,925
-    so it will rotate easily    
-     on the support stand.      
+so it will rotate easily on the support stand.      
 
 49
 00:03:12,927 --> 00:03:17,062
-  the starter hands the glass   
-       over to the master       
-          glassblower.          
+the starter hands the glass over to the master glassblower.          
 
 50
 00:03:17,064 --> 00:03:19,064
@@ -242,33 +200,27 @@ first, he rotates the blowpipe
 
 51
 00:03:19,066 --> 00:03:21,666
-    to straighten and center    
-      the drooping glass.       
+to straighten and center the drooping glass.       
 
 52
 00:03:21,668 --> 00:03:24,336
-    then, he begins turning     
-   and blowing into the pipe    
+then, he begins turning and blowing into the pipe    
 
 53
 00:03:24,338 --> 00:03:27,206
-    to gradually inflate the    
-             glass.             
+to gradually inflate the glass.             
 
 54
 00:03:27,208 --> 00:03:29,475
-      this requires great       
-       physical strength        
+this requires great physical strength        
 
 55
 00:03:29,477 --> 00:03:34,146
- as well as tremendous artistic 
-     and technical skill.       
+as well as tremendous artistic and technical skill.       
 
 56
 00:03:34,148 --> 00:03:38,750
-    the pipe and glass weigh    
-   over 30 pounds combined.     
+the pipe and glass weigh over 30 pounds combined.     
 
 57
 00:03:38,752 --> 00:03:41,019
@@ -276,13 +228,11 @@ when the glass starts to cool,
 
 58
 00:03:41,021 --> 00:03:43,555
-         the assistant          
- reheats it in a smaller oven.  
+the assistant reheats it in a smaller oven.  
 
 59
 00:03:43,557 --> 00:03:46,024
-       he passes the pipe       
-   back to the glassblower,     
+he passes the pipe back to the glassblower,     
 
 60
 00:03:46,026 --> 00:03:48,194
@@ -290,110 +240,93 @@ who then resumes inflating it.
 
 61
 00:03:52,233 --> 00:03:54,500
-           this time,           
-   he swings it upside-down,    
+this time, he swings it upside-down,    
 
 62
 00:03:54,502 --> 00:03:59,371
-     using gravity to help      
-      elongate the shape.       
+using gravity to help elongate the shape.       
 
 63
 00:03:59,373 --> 00:04:04,110
-  next, he will transform the   
+next, he will transform the   
 glass balloon into a cylinder.  
 
 64
 00:04:04,112 --> 00:04:08,313
-       first, he reheats        
-     the tip of the glass       
+first, he reheats the tip of the glass       
 
 65
 00:04:08,315 --> 00:04:10,583
-         and weakens it         
-      with a hot burner.        
+and weakens it with a hot burner.        
 
 66
 00:04:12,720 --> 00:04:15,988
-        then, he reheats        
-  the entire glass cylinder.    
+then, he reheats the entire glass cylinder.    
 
 67
 00:04:15,990 --> 00:04:18,124
-  this expands the air inside   
+this expands the air inside   
 
 68
 00:04:18,126 --> 00:04:21,193
-           and forces           
-    the weakened tip open.      
+and forces the weakened tip open.      
 
 69
 00:04:21,195 --> 00:04:23,262
-      the glassblower taps      
-       the opposite side        
+the glassblower taps the opposite side        
 
 70
 00:04:23,264 --> 00:04:26,599
-        of the hot glass        
-   with a cold metal stick.     
+of the hot glass with a cold metal stick.     
 
 71
 00:04:26,601 --> 00:04:29,602
-       the thermal shock        
-  causes a neat stress break.   
+the thermal shock causes a neat stress break.   
 
 72
 00:04:29,604 --> 00:04:33,605
-    this releases the glass     
-      from the blowpipe.        
+this releases the glass from the blowpipe.        
 
 73
 00:04:33,607 --> 00:04:35,674
-      then, the assistant       
-     slices it lengthwise       
+then, the assistant slices it lengthwise       
 
 74
 00:04:35,676 --> 00:04:38,410
-      with a glass cutter       
+with a glass cutter       
 
 75
 00:04:38,412 --> 00:04:41,947
-        and hands it off        
-    to the flattening team.     
+and hands it off to the flattening team.     
 
 76
 00:04:41,949 --> 00:04:45,818
-   their job is to transform    
+their job is to transform    
 the cylinder into sheet glass.  
 
 77
 00:04:45,820 --> 00:04:47,619
-    the flattening master's     
-           assistant            
+the flattening master's assistant            
 
 78
 00:04:47,621 --> 00:04:51,156
-       puts the cylinder        
-        into a furnace.         
+puts the cylinder into a furnace.         
 
 79
 00:04:51,158 --> 00:04:55,628
-          it's heated           
-    to over 1,500 degrees.      
+it's heated to over 1,500 degrees.      
 
 80
 00:04:55,630 --> 00:04:58,363
-       the glass softens        
-     in about 30 minutes.       
+the glass softens in about 30 minutes.       
 
 81
 00:04:58,365 --> 00:04:59,965
-  then, the flattening master   
+then, the flattening master   
 
 82
 00:04:59,967 --> 00:05:02,834
- reaches into the opposite end  
-  of the furnace with a stick   
+reaches into the opposite end of the furnace with a stick   
 
 83
 00:05:02,836 --> 00:05:06,906
@@ -401,325 +334,265 @@ and gently opens the cylinder.
 
 84
 00:05:06,908 --> 00:05:08,774
-  next, the flattening master   
+next, the flattening master   
 
 85
 00:05:08,776 --> 00:05:14,046
-     irons the glass sheet      
-  with a special wooden tool.   
+irons the glass sheet with a special wooden tool.   
 
 86
 00:05:14,048 --> 00:05:16,515
-         the flat sheet         
- goes into the annealing oven   
+the flat sheet goes into the annealing oven   
 
 87
 00:05:16,517 --> 00:05:19,251
-         for a gradual          
-     controlled cooldown.       
+for a gradual controlled cooldown.       
 
 88
 00:05:19,253 --> 00:05:23,122
-      this relieves stress      
-    and prevents cracking.      
+this relieves stress and prevents cracking.      
 
 89
 00:05:23,124 --> 00:05:24,990
-      the flatting master's     
-           assistant            
+the flatting master's assistant            
 
 90
 00:05:24,992 --> 00:05:27,125
-       removes the glass        
-    from the annealing oven     
+removes the glass from the annealing oven     
 
 91
 00:05:27,127 --> 00:05:29,662
-          and performs          
-     a visual inspection.       
+and performs a visual inspection.       
 
 92
 00:05:32,600 --> 00:05:35,267
-        the last step is        
-  to cut the edges straight.    
+the last step is to cut the edges straight.    
 
 93
 00:05:37,404 --> 00:05:39,804
-      to make multicolored      
-      and textured glass,       
+to make multicolored and textured glass,       
 
 94
 00:05:39,806 --> 00:05:45,210
-       they add additional      
-           ingredients          
-  during the melting process.   
+they add additional ingredients during the melting process.   
 
 95
 00:05:45,212 --> 00:05:48,681
-    mouth-blown window glass    
-  contains natural variations   
+mouth-blown window glass contains natural variations   
 
 96
 00:05:48,683 --> 00:05:53,552
-    that play with the light    
-   and create a subtle glow,    
+that play with the light and create a subtle glow,    
 
 97
 00:05:53,554 --> 00:05:57,289
-    a glow that machine-made    
- window glass can't replicate.  
+a glow that machine-made window glass can't replicate.  
 
 98
 00:06:09,303 --> 00:06:12,104
-           narrator:            
- water is essential for life.   
+narrator: water is essential for life.   
 
 99
 00:06:12,106 --> 00:06:15,307
-    but most of earth's fresh   
-              water             
-    is trapped underground.     
+but most of earth's fresh water is trapped underground.     
 
 100
 00:06:15,309 --> 00:06:18,844
- to tap into these reservoirs,  
-     we need water pumps.       
+to tap into these reservoirs, we need water pumps.       
 
 101
 00:06:18,846 --> 00:06:22,047
- they've existed in many forms  
-    for thousands of years.     
+they've existed in many forms for thousands of years.     
 
 102
 00:06:22,049 --> 00:06:24,783
-          the designs           
-   have improved over time,     
+the designs have improved over time,     
 
 103
 00:06:24,785 --> 00:06:28,721
-  and today's water pumps are   
- truly an underground success.  
+and today's water pumps are truly an underground success.  
 
 104
 00:06:32,659 --> 00:06:35,327
-          for farmers           
+for farmers           
 and municipal water providers,  
 
 105
 00:06:35,329 --> 00:06:39,665
-     the turbine water pump     
-        is a workhorse.         
+the turbine water pump is a workhorse.         
 
 106
 00:06:39,667 --> 00:06:41,934
-     it can pump thousands      
-      of gallons of water       
+it can pump thousands of gallons of water       
 
 107
 00:06:41,936 --> 00:06:43,869
-     out of the ground every    
-            minute.             
+out of the ground every minute.             
 
 108
 00:06:46,340 --> 00:06:48,274
-      they start by making      
-        diffuser bowls          
+they start by making diffuser bowls          
 
 109
 00:06:48,276 --> 00:06:51,810
-  using urn-shaped castings.    
+using urn-shaped castings.    
 
 110
 00:06:51,812 --> 00:06:56,081
-  one turbine pump could have   
-   up to 30 diffuser bowls.     
+one turbine pump could have up to 30 diffuser bowls.     
 
 111
 00:06:56,083 --> 00:06:59,284
-         the bowls hold         
+the bowls hold         
 the pump's spinning impellers.  
 
 112
 00:06:59,286 --> 00:07:01,754
-       computerized tools       
-      refine their shape        
+computerized tools refine their shape        
 
 113
 00:07:01,756 --> 00:07:04,890
-    so the bowls fit neatly     
-      in the pump column.       
+so the bowls fit neatly in the pump column.       
 
 114
 00:07:04,892 --> 00:07:07,892
-      another set of tools      
-  carve the bronze impellers.   
+another set of tools carve the bronze impellers.   
 
 115
 00:07:07,894 --> 00:07:09,494
-  they fine-tune the casings    
+they fine-tune the casings    
 
 116
 00:07:09,496 --> 00:07:14,633
- so that the impellers will fit 
-   into the diffuser bowls.     
+so that the impellers will fit into the diffuser bowls.     
 
 117
 00:07:14,635 --> 00:07:18,036
-  here's a look at both sides   
-  of the finished impellers.    
+here's a look at both sides of the finished impellers.    
 
 118
 00:07:18,038 --> 00:07:21,106
-       an uneven impeller       
-  will vibrate when spinning.   
+an uneven impeller will vibrate when spinning.   
 
 119
 00:07:21,108 --> 00:07:25,110
- a technician uses this machine 
-   to check for imbalances.     
+a technician uses this machine to check for imbalances.     
 
 120
 00:07:25,112 --> 00:07:27,245
-     when sensors locate the    
-            problem,            
+when sensors locate the problem,            
 
 121
 00:07:27,247 --> 00:07:29,448
-    he sands down the metal     
-         in that area.          
+he sands down the metal in that area.          
 
 122
 00:07:29,450 --> 00:07:31,316
-  this balances the impeller.   
+this balances the impeller.   
 
 123
 00:07:31,318 --> 00:07:34,252
-        next, a machine         
+next, a machine         
 
 124
 00:07:34,254 --> 00:07:37,423
- carves the top attachment ring 
-    of the discharge head.      
+carves the top attachment ring of the discharge head.      
 
 125
 00:07:39,526 --> 00:07:43,529
-       the discharge head       
- shields the motor from water.  
+the discharge head shields the motor from water.  
 
 126
 00:07:43,531 --> 00:07:47,666
- it also changes the water flow 
- from vertical to horizontal.   
+it also changes the water flow from vertical to horizontal.   
 
 127
 00:07:47,668 --> 00:07:50,402
-        next, a machine         
-   carves the outflow flange    
+next, a machine carves the outflow flange    
 
 128
 00:07:50,404 --> 00:07:54,806
-        and drills holes        
-    for attaching a gasket.     
+and drills holes for attaching a gasket.     
 
 129
 00:07:54,808 --> 00:07:58,076
-          an employee           
-     paints the part blue.      
+an employee paints the part blue.      
 
 130
 00:07:58,078 --> 00:08:00,946
-  the paint protects the metal  
-         against rust.          
+the paint protects the metal against rust.          
 
 131
 00:08:03,484 --> 00:08:05,884
-       he also highlights       
-   the embossed company name    
+he also highlights the embossed company name    
 
 132
 00:08:05,886 --> 00:08:08,020
-    with bright red paint.      
+with bright red paint.      
 
 133
 00:08:08,022 --> 00:08:11,223
-   here are the machine parts   
-  before and after painting.    
+here are the machine parts before and after painting.    
 
 134
 00:08:11,225 --> 00:08:15,360
-        next, they make         
-    the pump's shaft pipes.     
+next, they make the pump's shaft pipes.     
 
 135
 00:08:15,362 --> 00:08:18,496
-    tools work on both ends     
-  of the pipes simultaneously   
+tools work on both ends of the pipes simultaneously   
 
 136
 00:08:18,498 --> 00:08:20,366
- to refine the inner diameter.  
+to refine the inner diameter.  
 
 137
 00:08:20,368 --> 00:08:22,634
-    then, they carve threads    
-          into them.            
+then, they carve threads into them.            
 
 138
 00:08:22,636 --> 00:08:25,537
-   they clean the pipes, then   
-   roll them into the holding   
-             area.              
+they clean the pipes, then roll them into the holding area.              
 
 139
 00:08:30,377 --> 00:08:32,377
-   next, computerized tools     
+next, computerized tools     
 
 140
 00:08:32,379 --> 00:08:35,380
-          cut threads           
-   into the bronze bearings.    
+cut threads into the bronze bearings.    
 
 141
 00:08:35,382 --> 00:08:36,915
-       these threads will       
-          interconnect          
+these threads will interconnect          
 
 142
 00:08:36,917 --> 00:08:39,518
-         with the ones          
-      on the shaft pipes.       
+with the ones on the shaft pipes.       
 
 143
 00:08:41,388 --> 00:08:43,655
-        a worker screws         
-    the completed bearings      
+a worker screws the completed bearings      
 
 144
 00:08:43,657 --> 00:08:48,060
-         into the ends          
-      of the shaft pipes.       
+into the ends of the shaft pipes.       
 
 145
 00:08:48,062 --> 00:08:52,097
-   then, he screws the pipes    
-       together in a loose      
-          preassembly.          
+then, he screws the pipes together in a loose preassembly.          
 
 146
 00:08:54,201 --> 00:08:59,805
- he brushes lubricant onto the  
-     exposed section of the     
-           bearings.            
+he brushes lubricant onto the exposed section of the bearings.            
 
 147
 00:08:59,807 --> 00:09:04,810
-      he links four pipes       
-  to create one 20-foot pipe.   
+he links four pipes to create one 20-foot pipe.   
 
 148
 00:09:04,812 --> 00:09:07,546
-     he sets the long pipe      
-    in a cradle-like device     
+he sets the long pipe in a cradle-like device     
 
 149
 00:09:07,548 --> 00:09:10,749
@@ -727,139 +600,113 @@ and activates the drive wheel.
 
 150
 00:09:10,751 --> 00:09:14,486
-     as the pipes tighten,      
+as the pipes tighten,      
 the bearing disappears inside.  
 
 151
 00:09:20,627 --> 00:09:24,696
-   the worker inserts a steel   
-              shaft             
-    into each 20-foot pipe.     
+the worker inserts a steel shaft into each 20-foot pipe.     
 
 152
 00:09:28,635 --> 00:09:32,404
-   he caps the ends to secure   
- the shafts inside the pipes.   
+he caps the ends to secure the shafts inside the pipes.   
 
 153
 00:09:36,309 --> 00:09:38,977
-        this wider pipe         
-  is called the column pipe.    
+this wider pipe is called the column pipe.    
 
 154
 00:09:38,979 --> 00:09:42,247
-      an employee attaches      
+an employee attaches      
 an assembly flange to each end  
 
 155
 00:09:42,249 --> 00:09:44,316
-  and secures it with bolts.    
+and secures it with bolts.    
 
 156
 00:09:47,388 --> 00:09:50,456
-   a worker connects a suction  
-              bell              
-     to one of the shafts.      
+a worker connects a suction bell to one of the shafts.      
 
 157
 00:09:50,458 --> 00:09:54,126
-   the suction bell will draw   
- the well water into the pump.  
+the suction bell will draw the well water into the pump.  
 
 158
 00:09:54,128 --> 00:09:56,929
-  then, he slides an impeller   
-          into place.           
+then, he slides an impeller into place.           
 
 159
 00:10:00,734 --> 00:10:02,867
-    he secures the impeller     
-         to the shaft           
+he secures the impeller to the shaft           
 
 160
 00:10:02,869 --> 00:10:05,337
-      with a tapered clamp      
-       called a collet.         
+with a tapered clamp called a collet.         
 
 161
 00:10:05,339 --> 00:10:08,474
-    he encases the impeller     
-   in an iron diffuser bowl.    
+he encases the impeller in an iron diffuser bowl.    
 
 162
 00:10:08,476 --> 00:10:11,143
-   he bolts the diffuser bowl   
-     to the suction bell.       
+he bolts the diffuser bowl to the suction bell.       
 
 163
 00:10:13,013 --> 00:10:14,345
-    they add more impellers     
+they add more impellers     
 
 164
 00:10:14,347 --> 00:10:16,815
-     to increase the power      
-      of the water pump.        
+to increase the power of the water pump.        
 
 165
 00:10:16,817 --> 00:10:18,217
-     a more powerful pump       
+a more powerful pump       
 
 166
 00:10:18,219 --> 00:10:21,253
- will be able to extract water  
-   from deeper underground.     
+will be able to extract water from deeper underground.     
 
 167
 00:10:26,026 --> 00:10:28,359
-  they apply protective paint   
-         to the pump,           
+they apply protective paint to the pump,           
 
 168
 00:10:28,361 --> 00:10:30,562
-           and then,            
-    it's ready to install.      
+and then, it's ready to install.      
 
 169
 00:10:33,033 --> 00:10:35,634
-            on site,            
- workers use special equipment  
+on site, workers use special equipment  
 
 170
 00:10:35,636 --> 00:10:38,137
-     to help guide the pump     
-        into the well.          
+to help guide the pump into the well.          
 
 171
 00:10:40,441 --> 00:10:42,641
-    they join the shaft pipe    
-         to the pump.           
+they join the shaft pipe to the pump.           
 
 172
 00:10:45,312 --> 00:10:49,648
-   then, they slide the column  
-              pipe              
-     around the shaft pipe      
+then, they slide the column pipe around the shaft pipe      
 
 173
 00:10:49,650 --> 00:10:51,817
-     and bolt it to the top     
-         of the pump.           
+and bolt it to the top of the pump.           
 
 174
 00:10:54,922 --> 00:10:58,123
- the team adds more shaft pipe  
-      for a deeper reach.       
+the team adds more shaft pipe for a deeper reach.       
 
 175
 00:10:58,125 --> 00:11:01,093
-             then,              
-   they install the discharge   
-             head.              
+then, they install the discharge head.              
 
 176
 00:11:03,730 --> 00:11:06,664
-       this turbine pump        
- is now ready to extract water  
+this turbine pump is now ready to extract water  
 
 177
 00:11:06,666 --> 00:11:09,334
@@ -867,154 +714,127 @@ from great depths underground.
 
 178
 00:11:23,750 --> 00:11:26,151
-           narrator:            
-  sake is japanese rice wine.   
+narrator: sake is japanese rice wine.   
 
 179
 00:11:26,153 --> 00:11:29,221
-       it's distinguished       
-    by two main factors --      
+it's distinguished by two main factors --      
 
 180
 00:11:29,223 --> 00:11:32,491
-     how the rice is milled     
-     before fermentation,       
+how the rice is milled before fermentation,       
 
 181
 00:11:32,493 --> 00:11:34,493
-      and whether there's       
-     any distilled alcohol      
+and whether there's any distilled alcohol      
 
 182
 00:11:34,495 --> 00:11:36,828
-   added to the final blend.    
+added to the final blend.    
 
 183
 00:11:36,830 --> 00:11:38,764
-   sake can be mass-produced    
+sake can be mass-produced    
 
 184
 00:11:38,766 --> 00:11:40,832
-         or handcrafted         
-     the traditional way.       
+or handcrafted the traditional way.       
 
 185
 00:11:43,704 --> 00:11:45,303
-  this canadian microbrewery    
+this canadian microbrewery    
 
 186
 00:11:45,305 --> 00:11:48,774
-   only makes pure rice wine    
-      called junmai-shu.        
+only makes pure rice wine called junmai-shu.        
 
 187
 00:11:48,776 --> 00:11:52,244
-    the brewery doesn't add     
-   any extra alcohol to their   
-             sake.              
+the brewery doesn't add any extra alcohol to their sake.              
 
 188
 00:11:52,246 --> 00:11:54,512
-    the clear sake, known as    
-            seishu,             
+the clear sake, known as seishu,             
 
 189
 00:11:54,514 --> 00:11:57,248
-    have a subtle, fruitier,    
-         nutty flavor.          
+have a subtle, fruitier, nutty flavor.          
 
 190
 00:11:57,250 --> 00:11:59,718
-     cloudier sake is called    
-            nigori.             
+cloudier sake is called nigori.             
 
 191
 00:11:59,720 --> 00:12:01,320
-  it contains rice sediment,    
+it contains rice sediment,    
 
 192
 00:12:01,322 --> 00:12:05,256
-         which produces         
-     its creamier texture.      
+which produces its creamier texture.      
 
 193
 00:12:05,258 --> 00:12:08,526
-   the rice is milled before    
-  it arrives at the brewery.    
+the rice is milled before it arrives at the brewery.    
 
 194
 00:12:08,528 --> 00:12:10,796
-        milling removes         
-    the proteins and lipids     
+milling removes the proteins and lipids     
 
 195
 00:12:10,798 --> 00:12:12,965
-     on the outside layers      
-      of the rice grain.        
+on the outside layers of the rice grain.        
 
 196
 00:12:15,202 --> 00:12:18,736
-    this rice has 30 percent    
-   of its grain milled away.    
+this rice has 30 percent of its grain milled away.    
 
 197
 00:12:18,738 --> 00:12:21,673
-     the starch of the core     
-  will produce premium sake.    
+the starch of the core will produce premium sake.    
 
 198
 00:12:21,675 --> 00:12:23,541
-  first, they wash the rice.    
+first, they wash the rice.    
 
 199
 00:12:23,543 --> 00:12:25,811
-       then, the pour it        
-        in a porous bag         
+then, the pour it in a porous bag         
 
 200
 00:12:25,813 --> 00:12:28,280
-          and soak it           
-    in cold filtered water.     
+and soak it in cold filtered water.     
 
 201
 00:12:28,282 --> 00:12:32,818
- the brewmaster checks the rice 
-        with his hands.         
+the brewmaster checks the rice with his hands.         
 
 202
 00:12:32,820 --> 00:12:35,153
-        once it reaches         
-    the right consistency,      
+once it reaches the right consistency,      
 
 203
 00:12:35,155 --> 00:12:37,155
- they drain the bag overnight.  
+they drain the bag overnight.  
 
 204
 00:12:37,157 --> 00:12:39,925
-    then, they pour the rice    
-        into a steamer.         
+then, they pour the rice into a steamer.         
 
 205
 00:12:45,499 --> 00:12:49,234
-   the steamer cooks the rice   
-              under             
-  pressure for about an hour.   
+the steamer cooks the rice under pressure for about an hour.   
 
 206
 00:12:49,236 --> 00:12:50,835
-     they cover the steamer     
-          with cloth            
+they cover the steamer with cloth            
 
 207
 00:12:50,837 --> 00:12:54,573
-    to contain the rice as it   
-             cooks.             
+to contain the rice as it cooks.             
 
 208
 00:12:54,575 --> 00:12:59,511
-  the steamer softens the rice  
-   but doesn't overcook it.     
+the steamer softens the rice but doesn't overcook it.     
 
 209
 00:12:59,513 --> 00:13:01,579
@@ -1022,327 +842,268 @@ to ferment at the right speed,
 
 210
 00:13:01,581 --> 00:13:04,650
-   the rice needs to be firm    
-    on the outside and soft     
+the rice needs to be firm on the outside and soft     
 
 211
 00:13:04,652 --> 00:13:07,652
-        in the center.          
+in the center.          
 
 212
 00:13:07,654 --> 00:13:10,122
-   workers separate the rice    
-           by hand,             
+workers separate the rice by hand,             
 
 213
 00:13:10,124 --> 00:13:14,459
- then use fans to cool the rice 
-   down to about 98 degrees.    
+then use fans to cool the rice down to about 98 degrees.    
 
 214
 00:13:14,461 --> 00:13:17,462
-     next, they transfer it     
-       to a heated room.        
+next, they transfer it to a heated room.        
 
 215
 00:13:17,464 --> 00:13:19,063
-   they spread out the rice     
+they spread out the rice     
 
 216
 00:13:19,065 --> 00:13:23,935
- and cover it with mold spores  
-     imported from japan.       
+and cover it with mold spores imported from japan.       
 
 217
 00:13:23,937 --> 00:13:27,338
-    when heated, the spores     
-    germinate and grow on the   
-             rice.              
+when heated, the spores germinate and grow on the rice.              
 
 218
 00:13:27,340 --> 00:13:29,741
-  the spores secrete enzymes    
+the spores secrete enzymes    
 
 219
 00:13:29,743 --> 00:13:35,013
- that will transform the starch 
-   into fermentable sugars.     
+that will transform the starch into fermentable sugars.     
 
 220
 00:13:35,015 --> 00:13:38,283
-  workers insert a thermometer  
-         into the rice          
+workers insert a thermometer into the rice          
 
 221
 00:13:38,285 --> 00:13:42,286
-     then wrap it in cloth      
-     to hold in the heat.       
+then wrap it in cloth to hold in the heat.       
 
 222
 00:13:42,288 --> 00:13:43,955
-        48 hours later,         
+48 hours later,         
 
 223
 00:13:43,957 --> 00:13:47,158
-  the sweet rice, called koji,  
-           is ready.            
+the sweet rice, called koji, is ready.            
 
 224
 00:13:47,160 --> 00:13:50,628
-        now, they begin         
-   the fermentation process.    
+now, they begin the fermentation process.    
 
 225
 00:13:50,630 --> 00:13:54,031
-  they mix 3/4 of steamed rice  
-       with 1/4 of koji         
+they mix 3/4 of steamed rice with 1/4 of koji         
 
 226
 00:13:54,033 --> 00:13:56,834
-  in a temperature-controlled   
-      fermentation tank.        
+in a temperature-controlled fermentation tank.        
 
 227
 00:13:56,836 --> 00:13:59,637
-  then, they add spring water   
-          and yeast.            
+then, they add spring water and yeast.            
 
 228
 00:13:59,639 --> 00:14:01,106
- the mold enzymes in the koji   
+the mold enzymes in the koji   
 
 229
 00:14:01,108 --> 00:14:05,777
-       convert the starch       
-    in the steamed rice into    
-            sugars.             
+convert the starch in the steamed rice into sugars.             
 
 230
 00:14:05,779 --> 00:14:09,247
-    the yeast consumes those    
-             sugars             
-     and produces alcohol.      
+the yeast consumes those sugars and produces alcohol.      
 
 231
 00:14:09,249 --> 00:14:13,585
-       the process takes        
-      about three weeks.        
+the process takes about three weeks.        
 
 232
 00:14:13,587 --> 00:14:16,388
-     the brewmaster checks      
-   the temperature, acidity,    
+the brewmaster checks the temperature, acidity,    
 
 233
 00:14:16,390 --> 00:14:20,792
-        residual sugar,         
- and alcohol levels every day.  
+residual sugar, and alcohol levels every day.  
 
 234
 00:14:20,794 --> 00:14:24,796
-    when the brew is ready,     
- they pour it into cloth bags.  
+when the brew is ready, they pour it into cloth bags.  
 
 235
 00:14:24,798 --> 00:14:27,866
-   they neatly stack the bags   
-   in a traditional japanese    
+they neatly stack the bags in a traditional japanese    
 
 236
 00:14:27,868 --> 00:14:29,501
-       mechanical press.        
+mechanical press.        
 
 237
 00:14:32,739 --> 00:14:36,608
-      large sake breweries      
- automate this entire process,  
+large sake breweries automate this entire process,  
 
 238
 00:14:36,610 --> 00:14:38,210
-  but this smaller operation    
+but this smaller operation    
 
 239
 00:14:38,212 --> 00:14:42,481
- follows century-old traditions 
- and does everything by hand.   
+follows century-old traditions and does everything by hand.   
 
 240
 00:14:42,483 --> 00:14:44,149
-    as the press fills up,      
+as the press fills up,      
 
 241
 00:14:44,151 --> 00:14:48,420
-     the weight of the bags     
-   kick-starts the pressing.    
+the weight of the bags kick-starts the pressing.    
 
 242
 00:14:48,422 --> 00:14:51,823
-      they seal the press       
-    with heavy steel plates     
+they seal the press with heavy steel plates     
 
 243
 00:14:51,825 --> 00:14:54,226
-           and mount            
-    the pressing mechanism.     
+and mount the pressing mechanism.     
 
 244
 00:14:56,830 --> 00:14:58,296
-    as they turn the crank,     
+as they turn the crank,     
 
 245
 00:14:58,298 --> 00:15:02,033
-       the press squeezes       
-    all the liquid out of the   
-             bags.              
+the press squeezes all the liquid out of the bags.              
 
 246
 00:15:02,035 --> 00:15:03,301
-      when they're done,        
+when they're done,        
 
 247
 00:15:03,303 --> 00:15:07,705
-     only unfermented rice      
-     will be left behind.       
+only unfermented rice will be left behind.       
 
 248
 00:15:07,707 --> 00:15:09,774
-        the liquid sake         
-     drains out of a spout      
+the liquid sake drains out of a spout      
 
 249
 00:15:09,776 --> 00:15:11,743
-   at the base of the press.    
+at the base of the press.    
 
 250
 00:15:18,519 --> 00:15:21,319
-       they age the sake        
-     in refrigerated tanks      
+they age the sake in refrigerated tanks      
 
 251
 00:15:21,321 --> 00:15:22,921
-      for up to 4 months.       
+for up to 4 months.       
 
 252
 00:15:25,659 --> 00:15:32,330
- as it ages, the sake develops  
-     deeper and more complex    
-            flavors.            
+as it ages, the sake develops deeper and more complex flavors.            
 
 253
 00:15:32,332 --> 00:15:35,066
-     not only is this sake      
-     entirely handcrafted,      
+not only is this sake entirely handcrafted,      
 
 254
 00:15:35,068 --> 00:15:38,470
-    it's also hand-bottled.     
+it's also hand-bottled.     
 
 255
 00:15:38,472 --> 00:15:40,605
-          workers use           
- a gravity-fed filling machine  
+workers use a gravity-fed filling machine  
 
 256
 00:15:40,607 --> 00:15:43,541
-          to pour sake          
-   into these glass bottles.    
+to pour sake into these glass bottles.    
 
 257
 00:15:43,543 --> 00:15:46,678
-        the dark bottles        
-    protects the sake from uv   
-             rays,              
+the dark bottles protects the sake from uv rays,              
 
 258
 00:15:46,680 --> 00:15:49,114
-  which would spoil its color   
-          and flavor.           
+which would spoil its color and flavor.           
 
 259
 00:15:49,116 --> 00:15:52,617
-             next,              
-   they add the aluminum twist  
-              cap.              
+next, they add the aluminum twist cap.              
 
 260
 00:15:52,619 --> 00:15:55,286
-    a machine molds it to the   
-              shape             
-       of the bottleneck        
+a machine molds it to the shape of the bottleneck        
 
 261
 00:15:55,288 --> 00:15:58,756
-  and crimps the bottom rim.    
+and crimps the bottom rim.    
 
 262
 00:15:58,758 --> 00:16:00,691
-       they apply a label       
-        to each bottle          
+they apply a label to each bottle          
 
 263
 00:16:00,693 --> 00:16:04,762
-         with a simple          
-      hand-crank machine.       
+with a simple hand-crank machine.       
 
 264
 00:16:04,764 --> 00:16:09,034
-   full-strength sake has an    
+full-strength sake has an    
 alcohol content of 18 percent.  
 
 265
 00:16:09,036 --> 00:16:11,102
-      some sake is diluted      
-       with spring water        
+some sake is diluted with spring water        
 
 266
 00:16:11,104 --> 00:16:14,306
-  to bring the alcohol content  
-     down before bottling.      
+to bring the alcohol content down before bottling.      
 
 267
 00:16:16,443 --> 00:16:20,712
-     the sake this brewery      
-  produces is unpasteurized.    
+the sake this brewery produces is unpasteurized.    
 
 268
 00:16:20,714 --> 00:16:25,450
-    this enhances the flavor    
-  but requires refrigeration.   
+this enhances the flavor but requires refrigeration.   
 
 269
 00:16:42,402 --> 00:16:46,604
-           narrator:            
-    tweezers were first used    
+narrator: tweezers were first used    
 
 270
 00:16:46,606 --> 00:16:50,208
-   these indispensable tools    
-  help us grip small objects.   
+these indispensable tools help us grip small objects.   
 
 271
 00:16:50,210 --> 00:16:52,010
-        we use tweezers         
-       to pull splinters        
+we use tweezers to pull splinters        
 
 272
 00:16:52,012 --> 00:16:54,879
-       and unwanted hair        
-        from our skin.          
+and unwanted hair from our skin.          
 
 273
 00:16:54,881 --> 00:16:56,747
-      they can also handle      
-        the tiny parts          
+they can also handle the tiny parts          
 
 274
 00:16:56,749 --> 00:16:59,584
-  found in mechanical devices,  
-         like watches.          
+found in mechanical devices, like watches.          
 
 275
 00:17:03,357 --> 00:17:05,824
-      when something small      
-       eludes our grasp,        
+when something small eludes our grasp,        
 
 276
 00:17:05,826 --> 00:17:07,892
@@ -1350,347 +1111,288 @@ tweezers help us pick them up.
 
 277
 00:17:07,894 --> 00:17:10,762
-    they act as an extension    
- of our forefinger and thumb,   
+they act as an extension of our forefinger and thumb,   
 
 278
 00:17:10,764 --> 00:17:14,899
-  allowing us to grab and hold  
-               on               
-    to the tiniest things.      
+allowing us to grab and hold on to the tiniest things.      
 
 279
 00:17:14,901 --> 00:17:17,368
-        first, a worker         
-    preps the tweezer mold      
+first, a worker preps the tweezer mold      
 
 280
 00:17:17,370 --> 00:17:22,574
- by grinding and sanding around 
-  the tweezer-shaped cavity.    
+by grinding and sanding around the tweezer-shaped cavity.    
 
 281
 00:17:22,576 --> 00:17:23,908
-    this smoothes the mold,     
+this smoothes the mold,     
 
 282
 00:17:23,910 --> 00:17:28,113
-  making it easier to cut out   
-       the metal parts.         
+making it easier to cut out the metal parts.         
 
 283
 00:17:28,115 --> 00:17:32,150
-   a worker buffs the mold to   
-              give              
- the surface a glossy finish.   
+a worker buffs the mold to give the surface a glossy finish.   
 
 284
 00:17:38,659 --> 00:17:40,058
-   a computer-guided machine    
+a computer-guided machine    
 
 285
 00:17:40,060 --> 00:17:43,261
-      carves a die cutter       
-     out of a steel block.      
+carves a die cutter out of a steel block.      
 
 286
 00:17:43,263 --> 00:17:45,396
-            it uses             
-   an electrified brass wire    
+it uses an electrified brass wire    
 
 287
 00:17:45,398 --> 00:17:48,933
-  to slice through the steel.   
+to slice through the steel.   
 
 288
 00:17:48,935 --> 00:17:52,737
-    the die cutter perfectly    
-   matches the tweezer mold.    
+the die cutter perfectly matches the tweezer mold.    
 
 289
 00:17:52,739 --> 00:17:54,406
- after the tools are prepped,   
+after the tools are prepped,   
 
 290
 00:17:54,408 --> 00:17:56,675
-         they're ready          
-     to make the tweezers.      
+they're ready to make the tweezers.      
 
 291
 00:17:56,677 --> 00:17:58,676
-        a coil of thick         
-     stainless steel wire       
+a coil of thick stainless steel wire       
 
 292
 00:17:58,678 --> 00:18:02,680
-          unwinds into          
-     the molding machine.       
+unwinds into the molding machine.       
 
 293
 00:18:02,682 --> 00:18:04,883
-     rollers straighten out     
-          the kinks.            
+rollers straighten out the kinks.            
 
 294
 00:18:08,622 --> 00:18:10,822
-      an automated device       
-        grabs the wire          
+an automated device grabs the wire          
 
 295
 00:18:10,824 --> 00:18:13,491
-      and pulls it between      
- the die-cutter and the mold.   
+and pulls it between the die-cutter and the mold.   
 
 296
 00:18:17,764 --> 00:18:20,231
- the die-cutter pushes the wire 
-         into the mold          
+the die-cutter pushes the wire into the mold          
 
 297
 00:18:20,233 --> 00:18:22,566
-    and cuts out the shape it   
-             needs.             
+and cuts out the shape it needs.             
 
 298
 00:18:22,568 --> 00:18:24,502
- the excess steel slides out,   
+the excess steel slides out,   
 
 299
 00:18:24,504 --> 00:18:28,039
-          and a spool           
-  collects it for recycling.    
+and a spool collects it for recycling.    
 
 300
 00:18:28,041 --> 00:18:32,110
-    the mold ejects the part    
-          into a bin.           
+the mold ejects the part into a bin.           
 
 301
 00:18:32,112 --> 00:18:34,846
-   they are a little thinner    
-     at the gripping end.       
+they are a little thinner at the gripping end.       
 
 302
 00:18:34,848 --> 00:18:39,250
- this design gives the tweezers 
-       more flexibility.        
+this design gives the tweezers more flexibility.        
 
 303
 00:18:39,252 --> 00:18:41,319
-     an employee places two     
-         of the parts           
+an employee places two of the parts           
 
 304
 00:18:41,321 --> 00:18:44,122
-    in an induction welder.     
+in an induction welder.     
 
 305
 00:18:44,124 --> 00:18:45,457
-    he activates the welder     
+he activates the welder     
 
 306
 00:18:45,459 --> 00:18:47,926
-        to fuse it twice        
-     at the gripping end.       
+to fuse it twice at the gripping end.       
 
 307
 00:18:49,929 --> 00:18:52,397
-         a double weld          
-     reinforces the joint,      
+a double weld reinforces the joint,      
 
 308
 00:18:52,399 --> 00:18:56,034
-    making it very difficult    
-  to pull the tweezers apart.   
+making it very difficult to pull the tweezers apart.   
 
 309
 00:19:00,473 --> 00:19:03,474
-     this welder assembles      
-   approximately 3,000 pairs    
+this welder assembles approximately 3,000 pairs    
 
 310
 00:19:03,476 --> 00:19:05,176
-    of tweezers per shift.      
+of tweezers per shift.      
 
 311
 00:19:09,016 --> 00:19:11,883
-     each pair of tweezers      
-    is thoroughly polished      
+each pair of tweezers is thoroughly polished      
 
 312
 00:19:11,885 --> 00:19:15,420
-     to make them smoother      
-      and easier to grip.       
+to make them smoother and easier to grip.       
 
 313
 00:19:15,422 --> 00:19:19,357
-  it's a multi-step process.    
+it's a multi-step process.    
 
 314
 00:19:19,359 --> 00:19:22,494
-       first, an employee       
+first, an employee       
 sands the body of the tweezers  
 
 315
 00:19:22,496 --> 00:19:26,964
-   using fine abrasive paper    
-     and polishing cream.       
+using fine abrasive paper and polishing cream.       
 
 316
 00:19:26,966 --> 00:19:31,236
-       next, the tweezers       
- go into a vibrating polisher.  
+next, the tweezers go into a vibrating polisher.  
 
 317
 00:19:31,238 --> 00:19:33,505
-       they bounce around       
-      with ceramic stones       
+they bounce around with ceramic stones       
 
 318
 00:19:33,507 --> 00:19:38,309
-      and various polishing     
-            solutions           
-         for 24 hours.          
+and various polishing solutions for 24 hours.          
 
 319
 00:19:38,311 --> 00:19:41,179
-        after that, they        
+after that, they        
 wash off the chemical residue.  
 
 320
 00:19:41,181 --> 00:19:44,381
-       then, they filter        
-   and neutralize the water.    
+then, they filter and neutralize the water.    
 
 321
 00:19:44,383 --> 00:19:45,917
-     using another device,      
+using another device,      
 
 322
 00:19:45,919 --> 00:19:48,853
-      they shoot fine glass     
-            particles           
-       at the tweezers.         
+they shoot fine glass particles at the tweezers.         
 
 323
 00:19:48,855 --> 00:19:51,522
- this gives them a satin finish 
-        that's durable          
+this gives them a satin finish that's durable          
 
 324
 00:19:51,524 --> 00:19:52,957
-    and resists scratching.     
+and resists scratching.     
 
 325
 00:19:56,129 --> 00:19:59,831
-   a worker levels a tweezers'  
-              tips              
-     using a sanding belt.      
+a worker levels a tweezers' tips using a sanding belt.      
 
 326
 00:20:02,335 --> 00:20:03,935
-         she makes sure         
-      the claw-like tips        
+she makes sure the claw-like tips        
 
 327
 00:20:03,937 --> 00:20:06,538
-  are exactly the same length   
-          and angle.            
+are exactly the same length and angle.            
 
 328
 00:20:11,611 --> 00:20:14,412
-   another member of the team   
- sands the inside of the tips   
+another member of the team sands the inside of the tips   
 
 329
 00:20:14,414 --> 00:20:17,348
-   using a very fine abrasive   
-             disc.              
+using a very fine abrasive disc.              
 
 330
 00:20:17,350 --> 00:20:19,651
-       this will improve        
-      the tweezer's grip.       
+this will improve the tweezer's grip.       
 
 331
 00:20:27,294 --> 00:20:30,361
-        the factory also        
- makes carbon steel tweezers.   
+the factory also makes carbon steel tweezers.   
 
 332
 00:20:30,363 --> 00:20:33,698
- they're a cheaper alternative  
-      to stainless steel.       
+they're a cheaper alternative to stainless steel.       
 
 333
 00:20:33,700 --> 00:20:36,768
- they immerse the carbon steel  
- tweezers in a chrome solution  
+they immerse the carbon steel tweezers in a chrome solution  
 
 334
 00:20:36,770 --> 00:20:39,504
-  to protect them from rust.    
+to protect them from rust.    
 
 335
 00:20:39,506 --> 00:20:44,041
-    the tweezers' electrical    
-             charge             
-     attracts the chrome.       
+the tweezers' electrical charge attracts the chrome.       
 
 336
 00:20:44,043 --> 00:20:47,145
-     the result is a shiny      
+the result is a shiny      
 and protective chrome plating.  
 
 337
 00:20:49,783 --> 00:20:55,853
- next, an employee prepares the 
- tweezers for laser lettering.  
+next, an employee prepares the tweezers for laser lettering.  
 
 338
 00:20:55,855 --> 00:20:57,655
- she places them in a fixture   
+she places them in a fixture   
 
 339
 00:20:57,657 --> 00:21:00,225
-     and selects the image      
-       on her computer.         
+and selects the image on her computer.         
 
 340
 00:21:03,864 --> 00:21:05,263
-   she activates the laser,     
+she activates the laser,     
 
 341
 00:21:05,265 --> 00:21:07,932
-   and it permanently etches    
- the graphics onto the metal.   
+and it permanently etches the graphics onto the metal.   
 
 342
 00:21:14,274 --> 00:21:18,475
-   next, she rubs special oil   
- onto the surface of the metal  
+next, she rubs special oil onto the surface of the metal  
 
 343
 00:21:18,477 --> 00:21:21,179
-    and cleans the tweezers     
-          thoroughly.           
+and cleans the tweezers thoroughly.           
 
 344
 00:21:24,417 --> 00:21:27,619
- she also inspects the tweezers 
-    for any cosmetic flaws      
+she also inspects the tweezers for any cosmetic flaws      
 
 345
 00:21:27,621 --> 00:21:30,054
-         and makes sure         
-    they function properly.     
+and makes sure they function properly.     
 
 346
 00:21:34,361 --> 00:21:37,828
-     these tweezers are now     
- ready for plucking, primping,  
+these tweezers are now ready for plucking, primping,  
 
 347
 00:21:37,830 --> 00:21:39,964
-   and any other small jobs.    
+and any other small jobs.    
 

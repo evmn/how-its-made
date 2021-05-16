@@ -1,187 +1,157 @@
 ﻿1
 00:00:16,283 --> 00:00:19,285
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:19,287 --> 00:00:22,221
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:53,921 --> 00:00:56,455
-  narrator: mines and quarries  
-         use crushers           
+narrator: mines and quarries use crushers           
 
 4
 00:00:56,457 --> 00:00:58,057
-  to break down raw material.   
+to break down raw material.   
 
 5
 00:00:58,059 --> 00:01:01,928
- those raw materials go through 
+those raw materials go through 
 a vibrating screen to separate  
 
 6
 00:01:01,930 --> 00:01:04,930
-    the particles by size.      
+the particles by size.      
 
 7
 00:01:04,932 --> 00:01:08,066
-    the vibrations cause the    
-             smaller            
-    pieces to fall through      
+the vibrations cause the smaller pieces to fall through      
 
 8
 00:01:08,068 --> 00:01:11,804
-  the screen while the larger   
-     pieces remain on top.      
+the screen while the larger pieces remain on top.      
 
 9
 00:01:14,341 --> 00:01:17,142
-   this limestone quarry uses   
-      a vibrating screen        
+this limestone quarry uses a vibrating screen        
 
 10
 00:01:17,144 --> 00:01:19,078
-       with three decks.        
+with three decks.        
 
 11
 00:01:19,080 --> 00:01:21,547
-  the top deck filters out the  
-        largest stones,         
+the top deck filters out the largest stones,         
 
 12
 00:01:21,549 --> 00:01:24,349
-         which will be          
-    used to make concrete.      
+which will be used to make concrete.      
 
 13
 00:01:24,351 --> 00:01:27,152
-    the second deck collects    
-       half-inch rocks.         
+the second deck collects half-inch rocks.         
 
 14
 00:01:27,154 --> 00:01:29,955
-     they'll be used to make    
-            asphalt.            
+they'll be used to make asphalt.            
 
 15
 00:01:29,957 --> 00:01:32,692
-         the final deck         
+the final deck         
 gathers the smallest materials  
 
 16
 00:01:32,694 --> 00:01:36,495
-  to product limestone sand.    
+to product limestone sand.    
 
 17
 00:01:36,497 --> 00:01:39,898
-        the screen mesh         
-   is made from steel wire.     
+the screen mesh is made from steel wire.     
 
 18
 00:01:39,900 --> 00:01:42,968
-  this steel contains carbon,   
-    making it more durable      
+this steel contains carbon, making it more durable      
 
 19
 00:01:42,970 --> 00:01:45,771
-      than regular steel.       
+than regular steel.       
 
 20
 00:01:45,773 --> 00:01:50,843
-      a pair of wheel dyes      
- crimp it into a wave pattern.  
+a pair of wheel dyes crimp it into a wave pattern.  
 
 21
 00:01:50,845 --> 00:01:53,312
-    the diameter of the wire    
-       and crimp pattern        
+the diameter of the wire and crimp pattern        
 
 22
 00:01:53,314 --> 00:01:57,183
-  determine the shape and size  
- of the screen mesh openings.   
+determine the shape and size of the screen mesh openings.   
 
 23
 00:01:57,185 --> 00:02:02,988
-  workers can change the dyes   
- to crimp different patterns.   
+workers can change the dyes to crimp different patterns.   
 
 24
 00:02:02,990 --> 00:02:06,225
-  the machine cuts the crimped  
-  wire to a specific length.    
+the machine cuts the crimped wire to a specific length.    
 
 25
 00:02:08,730 --> 00:02:12,131
- then, workers take the pieces  
-        over to a loom.         
+then, workers take the pieces over to a loom.         
 
 26
 00:02:12,133 --> 00:02:15,801
- it weaves screens the same way 
- a textile loom weaves cloth.   
+it weaves screens the same way a textile loom weaves cloth.   
 
 27
 00:02:17,605 --> 00:02:20,005
-   they lay the crimped wires   
-          vertically,           
+they lay the crimped wires vertically,           
 
 28
 00:02:20,007 --> 00:02:22,875
-  playing one in between each   
-    of the loom's heddles.      
+playing one in between each of the loom's heddles.      
 
 29
 00:02:26,947 --> 00:02:28,614
- they line up the crimped wire  
+they line up the crimped wire  
 
 30
 00:02:28,616 --> 00:02:31,751
-    so that the bottom of one   
-              crimp             
-  faces the top of the next.    
+so that the bottom of one crimp faces the top of the next.    
 
 31
 00:02:35,690 --> 00:02:37,089
-   then they weave a straight   
-              wire              
+then they weave a straight wire              
 
 32
 00:02:37,091 --> 00:02:39,659
-      horizontally across       
- the vertically crimped wires.  
+horizontally across the vertically crimped wires.  
 
 33
 00:02:46,701 --> 00:02:49,568
-     they continue to feed      
-    straight wires across.      
+they continue to feed straight wires across.      
 
 34
 00:02:49,570 --> 00:02:52,772
-       then use the loom        
-      to secure each one in     
-           position.            
+then use the loom to secure each one in position.            
 
 35
 00:03:06,187 --> 00:03:08,654
-          the vertical          
+the vertical          
 and horizontal wires interlock  
 
 36
 00:03:08,656 --> 00:03:10,389
-       to form the mesh.        
+to form the mesh.        
 
 37
 00:03:23,537 --> 00:03:26,471
-  once they've woven a section  
-    to the required length,     
+once they've woven a section to the required length,     
 
 38
 00:03:26,473 --> 00:03:28,140
- a sheer cuts it off the loom.  
+a sheer cuts it off the loom.  
 
 39
 00:03:36,684 --> 00:03:38,283
@@ -189,73 +159,60 @@ another sheet cuts the section
 
 40
 00:03:38,285 --> 00:03:40,586
-       to the customer's        
-     requested dimensions.      
+to the customer's requested dimensions.      
 
 41
 00:03:55,570 --> 00:03:58,637
-     this is the final size     
-  of the screen mesh section.   
+this is the final size of the screen mesh section.   
 
 42
 00:04:01,843 --> 00:04:04,376
-  next, workers insert one set  
-         of the screen          
+next, workers insert one set of the screen          
 
 43
 00:04:04,378 --> 00:04:07,179
-    into an electromagnetic     
-       induction heater.        
+into an electromagnetic induction heater.        
 
 44
 00:04:07,181 --> 00:04:10,783
-   the device evenly generates  
-              heat              
-       inside the steel.        
+the device evenly generates heat inside the steel.        
 
 45
 00:04:10,785 --> 00:04:14,453
-    this is critical because    
-             heating            
+this is critical because heating            
 unevenly can weaken the steel.  
 
 46
 00:04:17,458 --> 00:04:20,059
-   they inset the heated edge   
-       in a steel strip         
+they inset the heated edge in a steel strip         
 
 47
 00:04:20,061 --> 00:04:22,461
-      mounted in a press.       
+mounted in a press.       
 
 48
 00:04:22,463 --> 00:04:25,531
-   the press clamps the strip   
-      over the edge then        
+the press clamps the strip over the edge then        
 
 49
 00:04:25,533 --> 00:04:27,733
-  vents it into a hook strip.   
+vents it into a hook strip.   
 
 50
 00:04:30,671 --> 00:04:33,806
-    they repeat the process     
-  on the opposite site side.    
+they repeat the process on the opposite site side.    
 
 51
 00:04:33,808 --> 00:04:36,208
-      the two hook strips       
-    attach the mesh section     
+the two hook strips attach the mesh section     
 
 52
 00:04:36,210 --> 00:04:37,710
-   to the vibrating screen.     
+to the vibrating screen.     
 
 53
 00:04:43,884 --> 00:04:47,286
-    the loom can weave many     
-    different types of screen   
-             mesh.              
+the loom can weave many different types of screen mesh.              
 
 54
 00:04:47,288 --> 00:04:49,221
@@ -263,502 +220,405 @@ this one is made of finer wire
 
 55
 00:04:49,223 --> 00:04:53,892
-         that's crimped         
-    in a different pattern.     
+that's crimped in a different pattern.     
 
 56
 00:04:53,894 --> 00:04:58,164
-   the openings of the screen   
-              mesh              
-       are larger and more      
-          rectangular.          
+the openings of the screen mesh are larger and more rectangular.          
 
 57
 00:04:58,166 --> 00:05:01,267
-    it's designed for a less    
-             precise            
-       sorting process.         
+it's designed for a less precise sorting process.         
 
 58
 00:05:12,980 --> 00:05:14,246
-       for both screens,        
+for both screens,        
 
 59
 00:05:14,248 --> 00:05:16,982
-    the weaving and cutting     
-    processes are the same.     
+the weaving and cutting processes are the same.     
 
 60
 00:05:16,984 --> 00:05:20,719
-     they even use the same     
-            technique           
-  to attach the hook strips.    
+they even use the same technique to attach the hook strips.    
 
 61
 00:05:20,721 --> 00:05:23,556
-  the only thing that changes   
-   is the crimping pattern.     
+the only thing that changes is the crimping pattern.     
 
 62
 00:05:25,459 --> 00:05:29,794
-  next, they connect the hook   
-     strips to the vibrating    
-            screen.             
+next, they connect the hook strips to the vibrating screen.             
 
 63
 00:05:29,796 --> 00:05:31,930
-  installers lay the sections   
-          end-to-end            
+installers lay the sections end-to-end            
 
 64
 00:05:31,932 --> 00:05:35,935
-    on each of the machine's    
-             decks.             
+on each of the machine's decks.             
 
 65
 00:05:35,937 --> 00:05:38,270
-       then they fashion        
+then they fashion        
 the hook strips to the machine  
 
 66
 00:05:38,272 --> 00:05:42,007
-      with tension rails        
+with tension rails        
 
 67
 00:05:42,009 --> 00:05:44,710
-     and secure those rails     
-       with large bolts.        
+and secure those rails with large bolts.        
 
 68
 00:05:49,150 --> 00:05:52,618
-  when the mine or quarry needs 
-               to               
-      change the screening      
-          parameters,           
+when the mine or quarry needs to change the screening parameters,           
 
 69
 00:05:52,620 --> 00:05:55,855
-   they simply replace these    
- screens with different ones.   
+they simply replace these screens with different ones.   
 
 70
 00:06:10,238 --> 00:06:13,171
- narrator: whoopie pies are not 
-         pies at all.           
+narrator: whoopie pies are not pies at all.           
 
 71
 00:06:13,173 --> 00:06:16,575
-   this all-american treat is   
-              made              
-   of vanilla cream frosting    
+this all-american treat is made of vanilla cream frosting    
 
 72
 00:06:16,577 --> 00:06:21,246
- sandwiched between two pieces  
-   of round chocolate cake.     
+sandwiched between two pieces of round chocolate cake.     
 
 73
 00:06:21,248 --> 00:06:23,983
-        the whoopie pie         
- was invented in new england.   
+the whoopie pie was invented in new england.   
 
 74
 00:06:23,985 --> 00:06:26,886
- and today, it is the official  
-     state treat of maine.      
+and today, it is the official state treat of maine.      
 
 75
 00:06:30,257 --> 00:06:32,791
-   this company adds a modern   
-              twist             
-        to the classic          
+this company adds a modern twist to the classic          
 
 76
 00:06:32,793 --> 00:06:34,727
-      whoopie pie recipe.       
+whoopie pie recipe.       
 
 77
 00:06:34,729 --> 00:06:37,262
-   in addition to traditional   
-    chocolate and vanilla,      
+in addition to traditional chocolate and vanilla,      
 
 78
 00:06:37,264 --> 00:06:40,399
-  the company makes four other  
-     all-natural flavors.       
+the company makes four other all-natural flavors.       
 
 79
 00:06:40,401 --> 00:06:42,801
-        the ingredients         
-     are certified vegan,       
+the ingredients are certified vegan,       
 
 80
 00:06:42,803 --> 00:06:45,604
- non-gmo, gluten-free, kosher   
+non-gmo, gluten-free, kosher   
 
 81
 00:06:45,606 --> 00:06:49,408
-            and free            
+and free            
 of many common food allergens.  
 
 82
 00:06:49,410 --> 00:06:54,145
-    workers begin by making     
-     the chocolate cakes.       
+workers begin by making the chocolate cakes.       
 
 83
 00:06:54,147 --> 00:06:58,417
- the first ingredient is water  
-     followed by apple cider    
-            vinegar.            
+the first ingredient is water followed by apple cider vinegar.            
 
 84
 00:06:58,419 --> 00:07:03,021
-  then, they add either canola  
-       or sunflower oil.        
+then, they add either canola or sunflower oil.        
 
 85
 00:07:03,023 --> 00:07:06,558
-       they mix the liquid      
-           ingredients          
-       in a large bowl.         
+they mix the liquid ingredients in a large bowl.         
 
 86
 00:07:06,560 --> 00:07:08,693
-     then they add the dry      
-         ingredients,           
+then they add the dry ingredients,           
 
 87
 00:07:08,695 --> 00:07:13,098
- starting with tapioca starch,  
-   bean flour, and sorghum,     
+starting with tapioca starch, bean flour, and sorghum,     
 
 88
 00:07:13,100 --> 00:07:16,302
-     a gluten-free grain.       
+a gluten-free grain.       
 
 89
 00:07:16,304 --> 00:07:19,904
-     next, they mix in cocoa    
-             powder,            
-    granulated cane sugar,      
+next, they mix in cocoa powder, granulated cane sugar,      
 
 90
 00:07:19,906 --> 00:07:22,041
-    and light brown sugar.      
+and light brown sugar.      
 
 91
 00:07:22,043 --> 00:07:24,376
-       they run the mixer       
-     at a very high speed       
+they run the mixer at a very high speed       
 
 92
 00:07:24,378 --> 00:07:26,845
-       to incorporate air       
-        in the batter.          
+to incorporate air in the batter.          
 
 93
 00:07:26,847 --> 00:07:30,315
-     this will make the cake    
-             lighter            
-         and fluffier.          
+this will make the cake lighter and fluffier.          
 
 94
 00:07:30,317 --> 00:07:32,184
-    after about 4 minutes of    
-            mixing,             
+after about 4 minutes of mixing,             
 
 95
 00:07:32,186 --> 00:07:33,986
-     the batter is ready.       
+the batter is ready.       
 
 96
 00:07:33,988 --> 00:07:36,655
-       they test a sample       
-      using a viscometer,       
+they test a sample using a viscometer,       
 
 97
 00:07:36,657 --> 00:07:40,458
-            a device            
- that measures the thickness.   
+a device that measures the thickness.   
 
 98
 00:07:40,460 --> 00:07:42,728
-         if the batter          
-   is the right consistency,    
+if the batter is the right consistency,    
 
 99
 00:07:42,730 --> 00:07:45,831
- they pump it through a hopper  
- into a multi-head depositer.   
+they pump it through a hopper into a multi-head depositer.   
 
 100
 00:07:49,737 --> 00:07:52,604
-    each of its five nozzles    
-   shoot one ounce of batter    
+each of its five nozzles shoot one ounce of batter    
 
 101
 00:07:52,606 --> 00:07:55,140
-  onto a moving baking sheet.   
+onto a moving baking sheet.   
 
 102
 00:07:55,142 --> 00:07:59,078
-        a finished sheet        
+a finished sheet        
 contains seven rows of batter.  
 
 103
 00:07:59,080 --> 00:08:02,214
-  workers load multiple sheets  
-    of batter into an oven.     
+workers load multiple sheets of batter into an oven.     
 
 104
 00:08:04,551 --> 00:08:08,687
-    the sheets rotate for 15    
-             minutes            
-   at 75 degree fahrenheit,     
+the sheets rotate for 15 minutes at 75 degree fahrenheit,     
 
 105
 00:08:08,689 --> 00:08:10,622
-   evenly baking the cakes.     
+evenly baking the cakes.     
 
 106
 00:08:13,427 --> 00:08:16,494
-    the precise combination     
-    of ingredients allows the   
-             acids              
+the precise combination of ingredients allows the acids              
 
 107
 00:08:16,496 --> 00:08:20,231
-   in the apple cider vinegar   
-     to react with the cocoa    
-            powder.             
+in the apple cider vinegar to react with the cocoa powder.             
 
 108
 00:08:20,233 --> 00:08:22,434
-    the result is a perfect     
-     little chocolate cake      
+the result is a perfect little chocolate cake      
 
 109
 00:08:22,436 --> 00:08:25,037
-     that's rich in flavor      
-     and moist in texture.      
+that's rich in flavor and moist in texture.      
 
 110
 00:08:28,108 --> 00:08:31,109
-      the main ingredient       
+the main ingredient       
 for the filling is shortening.  
 
 111
 00:08:31,111 --> 00:08:33,712
-           it's made            
-  from sustainable palm oil.    
+it's made from sustainable palm oil.    
 
 112
 00:08:33,714 --> 00:08:37,516
-   this means the palm tress    
-  were responsibly harvested.   
+this means the palm tress were responsibly harvested.   
 
 113
 00:08:37,518 --> 00:08:39,384
- they mix the shortening well,  
+they mix the shortening well,  
 
 114
 00:08:39,386 --> 00:08:42,054
-    incorporating enough air    
- to make it light and fluffy.   
+incorporating enough air to make it light and fluffy.   
 
 115
 00:08:43,390 --> 00:08:45,723
-         then they add          
-      powdered cane sugar       
+then they add powdered cane sugar       
 
 116
 00:08:45,725 --> 00:08:48,594
-     and organic rice milk      
-  as a dairy-free substitute.   
+and organic rice milk as a dairy-free substitute.   
 
 117
 00:08:50,664 --> 00:08:54,066
-         the rice milk          
-  makes the frosting creamy.    
+the rice milk makes the frosting creamy.    
 
 118
 00:08:54,068 --> 00:08:58,136
-   for vanilla frosting, they   
-     simply add pure vanilla    
-            extract.            
+for vanilla frosting, they simply add pure vanilla extract.            
 
 119
 00:08:58,138 --> 00:09:01,006
-        this is a batch         
-    of raspberry frosting,      
+this is a batch of raspberry frosting,      
 
 120
 00:09:01,008 --> 00:09:02,941
-          so they add           
-    pure raspberry extract      
+so they add pure raspberry extract      
 
 121
 00:09:02,943 --> 00:09:06,211
-         and beet juice         
-          for color.            
+and beet juice for color.            
 
 122
 00:09:06,213 --> 00:09:07,879
- when they make mint frosting,  
+when they make mint frosting,  
 
 123
 00:09:07,881 --> 00:09:10,014
-  they use pure mint extract    
+they use pure mint extract    
 
 124
 00:09:10,016 --> 00:09:13,619
-      and alfalfa extract       
-       for green color.         
+and alfalfa extract for green color.         
 
 125
 00:09:13,621 --> 00:09:16,287
-     lemon frosting is made     
-    from pure lemon extract     
+lemon frosting is made from pure lemon extract     
 
 126
 00:09:16,289 --> 00:09:18,556
-    and turmeric for color.     
+and turmeric for color.     
 
 127
 00:09:18,558 --> 00:09:20,826
-      they check the shade      
-     against a color chart      
+they check the shade against a color chart      
 
 128
 00:09:20,828 --> 00:09:22,961
- to ensure the correct flavor.  
+to ensure the correct flavor.  
 
 129
 00:09:26,700 --> 00:09:30,902
- the multi-head depositer drops 
- frosting on the baking sheets  
+the multi-head depositer drops frosting on the baking sheets  
 
 130
 00:09:30,904 --> 00:09:33,439
-   in the same configuration    
-        as the batter.          
+in the same configuration as the batter.          
 
 131
 00:09:42,249 --> 00:09:44,450
-       then they assemble       
-        the final pie.          
+then they assemble the final pie.          
 
 132
 00:09:44,452 --> 00:09:48,920
-   workers start by placing a   
-              piece             
-      of cake on top of the     
-           frosting.            
+workers start by placing a piece of cake on top of the frosting.            
 
 133
 00:09:48,922 --> 00:09:51,390
-  they press down hard enough   
-    to spread the frosting      
+they press down hard enough to spread the frosting      
 
 134
 00:09:51,392 --> 00:09:53,192
- just shy of the cake's edge.   
+just shy of the cake's edge.   
 
 135
 00:09:56,396 --> 00:09:59,331
-       they cover the top       
-    with a sheet of parchment   
-             paper              
+they cover the top with a sheet of parchment paper              
 
 136
 00:09:59,333 --> 00:10:03,135
-  then place a baking sheet on  
-               top              
-       and flip it over.        
+then place a baking sheet on top and flip it over.        
 
 137
 00:10:03,137 --> 00:10:07,406
-   they remove the top baking   
-              sheet             
-   and the parchment paper.     
+they remove the top baking sheet and the parchment paper.     
 
 138
 00:10:09,210 --> 00:10:12,411
- then, they carefully place the 
+then, they carefully place the 
 second cake onto the frosting.  
 
 139
 00:10:22,022 --> 00:10:25,357
-     workers roll the trays     
- of whoopie pies into a cooler  
+workers roll the trays of whoopie pies into a cooler  
 
 140
 00:10:25,359 --> 00:10:28,627
-    where the desserts chill    
-     for about 15 minutes.      
+where the desserts chill for about 15 minutes.      
 
 141
 00:10:28,629 --> 00:10:32,297
-    this hardens them so they   
-              won't             
+this hardens them so they won't             
 get squished during packaging.  
 
 142
 00:10:35,236 --> 00:10:38,102
- workers place the whoopie pies 
-      on a conveyer belt        
+workers place the whoopie pies on a conveyer belt        
 
 143
 00:10:38,104 --> 00:10:42,040
-   that leads to an automated   
-       wrapping machine.        
+that leads to an automated wrapping machine.        
 
 144
 00:10:42,042 --> 00:10:45,510
-    it wraps double-printed     
-   packaging around each pie    
+it wraps double-printed packaging around each pie    
 
 145
 00:10:45,512 --> 00:10:48,147
-  and seals them underneath.    
+and seals them underneath.    
 
 146
 00:10:52,519 --> 00:10:56,988
- then the machine cuts the film 
-       between each pie.        
+then the machine cuts the film between each pie.        
 
 147
 00:10:56,990 --> 00:10:59,791
-   the next machine packages    
-   four sealed whoopie pies     
+the next machine packages four sealed whoopie pies     
 
 148
 00:10:59,793 --> 00:11:01,793
-        per retail box.         
+per retail box.         
 
 149
 00:11:01,795 --> 00:11:04,729
-  there are zero preservatives  
-    in these whoopie pies.      
+there are zero preservatives in these whoopie pies.      
 
 150
 00:11:04,731 --> 00:11:07,132
-     they're shipped frozen     
-     to the grocery store       
+they're shipped frozen to the grocery store       
 
 151
 00:11:07,134 --> 00:11:09,200
-     and sold in the freezer    
-            section.            
+and sold in the freezer section.            
 
 152
 00:11:09,202 --> 00:11:10,669
-  when it's time for a treat,   
+when it's time for a treat,   
 
 153
 00:11:10,671 --> 00:11:14,039
-      simply let them thaw      
+simply let them thaw      
 to room temperature and enjoy.  
 
 154
@@ -767,491 +627,398 @@ narrator: wooden utility poles
 
 155
 00:11:28,889 --> 00:11:31,490
-    are a constant presence     
-         in our lives.          
+are a constant presence in our lives.          
 
 156
 00:11:31,492 --> 00:11:33,892
-   they were originally built   
-    in the mid-19th century     
+they were originally built in the mid-19th century     
 
 157
 00:11:33,894 --> 00:11:36,562
-  to suspend telegraph lines.   
+to suspend telegraph lines.   
 
 158
 00:11:36,564 --> 00:11:39,564
-    now, they hold up power     
-        and phone lines         
+now, they hold up power and phone lines         
 
 159
 00:11:39,566 --> 00:11:41,967
-     as well as fiber-optic     
-      and coaxial cables        
+as well as fiber-optic and coaxial cables        
 
 160
 00:11:41,969 --> 00:11:44,303
-         for television         
-   and computer networking.     
+for television and computer networking.     
 
 161
 00:11:48,242 --> 00:11:51,243
-  builders use many different   
-  types of pine or fir trees    
+builders use many different types of pine or fir trees    
 
 162
 00:11:51,245 --> 00:11:53,712
-    to make utility poles.      
+to make utility poles.      
 
 163
 00:11:53,714 --> 00:11:58,717
-   in the us, southern yellow   
-              pine              
-  is the most popular choice.   
+in the us, southern yellow pine is the most popular choice.   
 
 164
 00:11:58,719 --> 00:12:03,021
-   foresters select trees that  
-               are              
-  10 to 20 inches in diameter   
+foresters select trees that are 10 to 20 inches in diameter   
 
 165
 00:12:03,023 --> 00:12:05,524
-  and at least 30 feet high.    
+and at least 30 feet high.    
 
 166
 00:12:05,526 --> 00:12:08,594
-   they look for a straight,    
- healthy trunk with few limbs.  
+they look for a straight, healthy trunk with few limbs.  
 
 167
 00:12:10,731 --> 00:12:13,865
-     the foresters mark the     
-            selected            
-    tress with spray paint.     
+the foresters mark the selected tress with spray paint.     
 
 168
 00:12:17,604 --> 00:12:20,639
-    then, the tree harvester    
-  saws them down at the base.   
+then, the tree harvester saws them down at the base.   
 
 169
 00:12:25,278 --> 00:12:28,146
-   after the loggers saw off    
-  the limbs and cut the trees   
+after the loggers saw off the limbs and cut the trees   
 
 170
 00:12:28,148 --> 00:12:30,148
-    to a specified length,      
+to a specified length,      
 
 171
 00:12:30,150 --> 00:12:32,351
-          a log truck           
-    delivers the poles to the   
-             mill.              
+a log truck delivers the poles to the mill.              
 
 172
 00:12:36,023 --> 00:12:38,557
-      there, a truck scale      
-       weighs the load.         
+there, a truck scale weighs the load.         
 
 173
 00:12:38,559 --> 00:12:41,393
-    then, workers ticket it     
-    with a tracking number.     
+then, workers ticket it with a tracking number.     
 
 174
 00:12:45,832 --> 00:12:47,099
-   the truck enters the yard    
+the truck enters the yard    
 
 175
 00:12:47,101 --> 00:12:51,703
-         and the poles          
-   are unloaded into piles.     
+and the poles are unloaded into piles.     
 
 176
 00:12:51,705 --> 00:12:54,740
-    a loader feeds the poles    
-    to a debarking machine.     
+a loader feeds the poles to a debarking machine.     
 
 177
 00:13:00,914 --> 00:13:04,516
-   the machine's razor-sharp    
-   cutters shave of the bark    
+the machine's razor-sharp cutters shave of the bark    
 
 178
 00:13:04,518 --> 00:13:07,886
-     and the layer of tissue    
-             beneath            
- the bark called the cambium.   
+and the layer of tissue beneath the bark called the cambium.   
 
 179
 00:13:15,395 --> 00:13:18,664
-   next, a saw trims one inch   
-   off the bottom of the log    
+next, a saw trims one inch off the bottom of the log    
 
 180
 00:13:18,666 --> 00:13:21,533
-      to make it square.        
+to make it square.        
 
 181
 00:13:21,535 --> 00:13:24,001
-       at the same time,        
-      nozzles spray lines       
+at the same time, nozzles spray lines       
 
 182
 00:13:24,003 --> 00:13:27,272
-      of red food coloring      
-   at set intervals along the   
-             pole.              
+of red food coloring at set intervals along the pole.              
 
 183
 00:13:27,274 --> 00:13:29,474
-           these mark           
-  indicate different lengths.   
+these mark indicate different lengths.   
 
 184
 00:13:33,947 --> 00:13:36,348
-         another worker         
-     inspects the quality       
+another worker inspects the quality       
 
 185
 00:13:36,350 --> 00:13:37,816
-        and measures the        
-         circumference.         
+and measures the circumference.         
 
 186
 00:13:37,818 --> 00:13:40,685
-        this assessment         
- determines the wood's class.   
+this assessment determines the wood's class.   
 
 187
 00:13:40,687 --> 00:13:43,121
- he marks the length and class  
-  on the bottom of the pole.    
+he marks the length and class on the bottom of the pole.    
 
 188
 00:13:47,360 --> 00:13:49,761
-     the bark and shavings      
-    removed from the poles      
+the bark and shavings removed from the poles      
 
 189
 00:13:49,763 --> 00:13:52,764
-     don't go to waste --       
+don't go to waste --       
 
 190
 00:13:52,766 --> 00:13:55,534
-        a grinding mill         
- reduces them to small fibers.  
+a grinding mill reduces them to small fibers.  
 
 191
 00:13:58,705 --> 00:14:02,374
- the factory uses those fibers  
-     to power the boiler.       
+the factory uses those fibers to power the boiler.       
 
 192
 00:14:02,376 --> 00:14:04,910
-            the fire            
-   in the boiler will product   
-             heat,              
+the fire in the boiler will product heat,              
 
 193
 00:14:04,912 --> 00:14:06,445
-    which dries the poles.      
+which dries the poles.      
 
 194
 00:14:09,649 --> 00:14:12,584
-    after the poles have been   
-             sorted             
-     by length and class,       
+after the poles have been sorted by length and class,       
 
 195
 00:14:12,586 --> 00:14:15,720
-            loaders             
-  stack them on large trams.    
+loaders stack them on large trams.    
 
 196
 00:14:15,722 --> 00:14:17,122
-   they place spacer sticks     
+they place spacer sticks     
 
 197
 00:14:17,124 --> 00:14:21,392
- in between each pole to allow  
-   air to flow around them.     
+in between each pole to allow air to flow around them.     
 
 198
 00:14:21,394 --> 00:14:24,329
-   then, the loaders push the   
-              trams             
-      into a large kiln.        
+then, the loaders push the trams into a large kiln.        
 
 199
 00:14:26,866 --> 00:14:30,067
-   the steam from the boiler    
-   flows through the trams,     
+the steam from the boiler flows through the trams,     
 
 200
 00:14:30,069 --> 00:14:33,205
- heating the inside of the kiln 
-   to 200 degree fahrenheit.    
+heating the inside of the kiln to 200 degree fahrenheit.    
 
 201
 00:14:35,409 --> 00:14:38,876
-  large fans blow the hot air   
-  around the poles for 3 days   
+large fans blow the hot air around the poles for 3 days   
 
 202
 00:14:38,878 --> 00:14:40,278
-    until the wood is dry.      
+until the wood is dry.      
 
 203
 00:14:43,150 --> 00:14:45,150
-         when the poles         
-     come out of the kiln,      
+when the poles come out of the kiln,      
 
 204
 00:14:45,152 --> 00:14:47,586
-       workers brand them       
-   with product information.    
+workers brand them with product information.    
 
 205
 00:14:51,225 --> 00:14:54,860
- next, they cut a flat surface  
-   on one side of the pole.     
+next, they cut a flat surface on one side of the pole.     
 
 206
 00:14:59,566 --> 00:15:02,067
-     then, they drill holes     
-     to attach a crossarm.      
+then, they drill holes to attach a crossarm.      
 
 207
 00:15:06,706 --> 00:15:08,640
-  after they drill the holes,   
+after they drill the holes,   
 
 208
 00:15:08,642 --> 00:15:11,576
-      they stack the poles      
-       in another tram.         
+they stack the poles in another tram.         
 
 209
 00:15:11,578 --> 00:15:12,711
-    this one takes them to      
+this one takes them to      
 
 210
 00:15:12,713 --> 00:15:15,180
-        a 125-foot-long         
-      treatment cylinder.       
+a 125-foot-long treatment cylinder.       
 
 211
 00:15:20,654 --> 00:15:23,054
-       they lock the door       
-    and vacuum all the air      
+they lock the door and vacuum all the air      
 
 212
 00:15:23,056 --> 00:15:24,522
-     out of the cylinder.       
+out of the cylinder.       
 
 213
 00:15:24,524 --> 00:15:28,259
-     they fill the cylinder     
+they fill the cylinder     
 with a liquid that's 98% water  
 
 214
 00:15:28,261 --> 00:15:31,396
- and 2% chemical preservative.  
+and 2% chemical preservative.  
 
 215
 00:15:31,398 --> 00:15:35,199
- the preservative is a mixture  
+the preservative is a mixture  
 of chrome, copper and arsenic.  
 
 216
 00:15:35,201 --> 00:15:36,935
-  once the cylinder is full,    
+once the cylinder is full,    
 
 217
 00:15:36,937 --> 00:15:40,071
-    the pumps start running     
-   to pressurize the liquid,    
+the pumps start running to pressurize the liquid,    
 
 218
 00:15:40,073 --> 00:15:43,608
-       infusing the wood        
-  with the chemical solution.   
+infusing the wood with the chemical solution.   
 
 219
 00:15:43,610 --> 00:15:45,076
-      the 2-hour process        
+the 2-hour process        
 
 220
 00:15:45,078 --> 00:15:50,281
-   leaves the wood resistant    
- to rot, fungus and termites.   
+leaves the wood resistant to rot, fungus and termites.   
 
 221
 00:15:50,283 --> 00:15:53,818
-        next, inspectors        
-   bore 3-inch holes into each  
-              pole              
+next, inspectors bore 3-inch holes into each pole              
 
 222
 00:15:53,820 --> 00:15:57,822
-     to collect a sample.       
+to collect a sample.       
 
 223
 00:15:57,824 --> 00:16:00,025
-  the inspectors check to make  
-     sure the preservative      
+the inspectors check to make sure the preservative      
 
 224
 00:16:00,027 --> 00:16:03,628
-       saturated the wood       
-     to the target depth.       
+saturated the wood to the target depth.       
 
 225
 00:16:03,630 --> 00:16:06,898
-  then, they send the samples   
-  to the on-site laboratory,    
+then, they send the samples to the on-site laboratory,    
 
 226
 00:16:06,900 --> 00:16:09,834
-     where they're dried in     
-   a microwave oven and ground  
-              up.               
+where they're dried in a microwave oven and ground up.               
 
 227
 00:16:09,836 --> 00:16:12,504
-    they also put the sample    
-      in an x-ray machine       
+they also put the sample in an x-ray machine       
 
 228
 00:16:12,506 --> 00:16:16,575
- to analyze the chrome, copper  
-      and arsenic levels.       
+to analyze the chrome, copper and arsenic levels.       
 
 229
 00:16:16,577 --> 00:16:20,578
-  these quality control steps   
+these quality control steps   
 ensure that every utility pole  
 
 230
 00:16:20,580 --> 00:16:25,450
-   contains the right amount    
-  of chemical preservatives.    
+contains the right amount of chemical preservatives.    
 
 231
 00:16:25,452 --> 00:16:29,488
-    these finished poles will   
-             assist             
- for at least 45 to 60 years.   
+these finished poles will assist for at least 45 to 60 years.   
 
 232
 00:16:44,070 --> 00:16:46,204
-   narrator: humans have been   
-    using roller conveyors      
+narrator: humans have been using roller conveyors      
 
 233
 00:16:46,206 --> 00:16:49,207
-    for thousands of years.     
+for thousands of years.     
 
 234
 00:16:49,209 --> 00:16:51,142
-     the ancient egyptians      
-       used wood rollers        
+the ancient egyptians used wood rollers        
 
 235
 00:16:51,144 --> 00:16:55,347
-    to move the large stones    
- needed to build the pyramids.  
+to move the large stones needed to build the pyramids.  
 
 236
 00:16:55,349 --> 00:16:57,949
-       today's conveyors        
-       are more complex.        
+today's conveyors are more complex.        
 
 237
 00:16:57,951 --> 00:17:00,485
-     but the basic concept      
-      is still the same.        
+but the basic concept is still the same.        
 
 238
 00:17:05,158 --> 00:17:08,493
-   many factories use roller    
-      conveyors to transfer     
-           materials            
+many factories use roller conveyors to transfer materials            
 
 239
 00:17:08,495 --> 00:17:12,897
-        from one station        
-  to another during assembly.   
+from one station to another during assembly.   
 
 240
 00:17:12,899 --> 00:17:18,636
-   they can move heavy loads    
-  up to 65 feet in a minute.    
+they can move heavy loads up to 65 feet in a minute.    
 
 241
 00:17:18,638 --> 00:17:20,038
- to make the conveyer rollers,  
+to make the conveyer rollers,  
 
 242
 00:17:20,040 --> 00:17:23,241
-          this factory          
-    starts with hollow steel    
-             tubes.             
+this factory starts with hollow steel tubes.             
 
 243
 00:17:23,243 --> 00:17:25,910
-  they deliver to the factory   
-          in batches.           
+they deliver to the factory in batches.           
 
 244
 00:17:25,912 --> 00:17:30,715
- after they arrive, a band saw  
-   cuts the tubes to length.    
+after they arrive, a band saw cuts the tubes to length.    
 
 245
 00:17:30,717 --> 00:17:34,319
-   the diameter can vary from   
-              batch             
-           to batch.            
+the diameter can vary from batch to batch.            
 
 246
 00:17:34,321 --> 00:17:37,589
-         so an employee         
-        obtains the exact       
-         measurements.          
+so an employee obtains the exact measurements.          
 
 247
 00:17:39,859 --> 00:17:42,127
-   he inputs the measurements   
-        into a computer         
+he inputs the measurements into a computer         
 
 248
 00:17:42,129 --> 00:17:44,795
-   that controls this laser.    
+that controls this laser.    
 
 249
 00:17:44,797 --> 00:17:50,335
-  the laser etches the company  
-   logo onto a sheet of thick   
-             steel              
+the laser etches the company logo onto a sheet of thick steel              
 
 250
 00:17:50,337 --> 00:17:53,471
-   and cuts out support disks   
-     for the roller axles.      
+and cuts out support disks for the roller axles.      
 
 251
 00:17:56,509 --> 00:18:00,145
-      the support disks fit     
-            perfectly           
-   into the hollow rollers.     
+the support disks fit perfectly into the hollow rollers.     
 
 252
 00:18:04,284 --> 00:18:06,751
- an employee feeds a flat sheet 
-           of steel             
+an employee feeds a flat sheet of steel             
 
 253
 00:18:06,753 --> 00:18:09,688
@@ -1259,27 +1026,23 @@ to a computerized break press.
 
 254
 00:18:09,690 --> 00:18:11,823
-       it bends the sheet       
-     into a vertical rail       
+it bends the sheet into a vertical rail       
 
 255
 00:18:11,825 --> 00:18:16,695
-    for the conveyer frame.     
+for the conveyer frame.     
 
 256
 00:18:16,697 --> 00:18:19,297
-        here's the steel        
-   before and after bending.    
+here's the steel before and after bending.    
 
 257
 00:18:21,701 --> 00:18:23,901
-       a worker joins two       
-        vertical rails          
+a worker joins two vertical rails          
 
 258
 00:18:23,903 --> 00:18:26,905
-      with steel supports       
-     called crossmembers.       
+with steel supports called crossmembers.       
 
 259
 00:18:26,907 --> 00:18:30,241
@@ -1287,17 +1050,15 @@ he welds them where they meet.
 
 260
 00:18:30,243 --> 00:18:32,611
-     this creates the frame     
-   for the roller conveyer.     
+this creates the frame for the roller conveyer.     
 
 261
 00:18:37,317 --> 00:18:40,451
-  then, they paint the frame.   
+then, they paint the frame.   
 
 262
 00:18:40,453 --> 00:18:42,987
-      the paint isn't just      
-        for decoration.         
+the paint isn't just for decoration.         
 
 263
 00:18:42,989 --> 00:18:47,124
@@ -1305,199 +1066,165 @@ it also protects against rust.
 
 264
 00:18:47,126 --> 00:18:49,393
-       next, they install       
-     the chain-driven axle      
+next, they install the chain-driven axle      
 
 265
 00:18:49,395 --> 00:18:51,863
-  that will spin the roller.    
+that will spin the roller.    
 
 266
 00:18:51,865 --> 00:18:54,933
-    an employee measures it     
- and confirms its dimensions.   
+an employee measures it and confirms its dimensions.   
 
 267
 00:18:58,204 --> 00:19:01,773
-  another worker slides three   
- support disks on to the axle.  
+another worker slides three support disks on to the axle.  
 
 268
 00:19:05,412 --> 00:19:08,580
- he welds the disks in place.   
+he welds the disks in place.   
 
 269
 00:19:10,483 --> 00:19:13,918
-      the disks on the end      
+the disks on the end      
 fit snugly to the roller rims.  
 
 270
 00:19:15,822 --> 00:19:18,056
-    this is why premeasuring    
-       is so important.         
+this is why premeasuring is so important.         
 
 271
 00:19:22,229 --> 00:19:24,429
-       he welds the disks       
-   to the ends of the tubes.    
+he welds the disks to the ends of the tubes.    
 
 272
 00:19:30,170 --> 00:19:31,903
-     he slides roller chain     
-           sprockets            
+he slides roller chain sprockets            
 
 273
 00:19:31,905 --> 00:19:34,406
-    onto the end of the axle    
-   and welds them in place.     
+onto the end of the axle and welds them in place.     
 
 274
 00:19:39,779 --> 00:19:41,312
-   he uses a dial indicator     
+he uses a dial indicator     
 
 275
 00:19:41,314 --> 00:19:43,448
-  to measure the circumference  
-         of the roller          
+to measure the circumference of the roller          
 
 276
 00:19:43,450 --> 00:19:45,684
-          and confirm           
- that it's sufficiently round.  
+and confirm that it's sufficiently round.  
 
 277
 00:19:48,388 --> 00:19:50,521
-  using a forklift, the team    
+using a forklift, the team    
 
 278
 00:19:50,523 --> 00:19:54,993
- lifts the motor and places it  
-    in the conveyer frame.      
+lifts the motor and places it in the conveyer frame.      
 
 279
 00:19:54,995 --> 00:19:56,728
-     they slide the motor's     
-         threaded rods          
+they slide the motor's threaded rods          
 
 280
 00:19:56,730 --> 00:20:01,599
-    into holes drilled in the   
-             frame.             
+into holes drilled in the frame.             
 
 281
 00:20:01,601 --> 00:20:05,269
-    an employee places metal    
-             washers            
-     on the threaded rods.      
+an employee places metal washers on the threaded rods.      
 
 282
 00:20:05,271 --> 00:20:09,541
-  then he screws nuts to them,  
-    securing the motor to the   
-             frame.             
+then he screws nuts to them, securing the motor to the frame.             
 
 283
 00:20:09,543 --> 00:20:13,545
-     he installs a bearing      
+he installs a bearing      
 on the end of the roller axle.  
 
 284
 00:20:13,547 --> 00:20:16,715
-   next, workers arrange the    
+next, workers arrange the    
 rollers on the conveyer frame.  
 
 285
 00:20:20,887 --> 00:20:22,086
-    they place the bearings     
+they place the bearings     
 
 286
 00:20:22,088 --> 00:20:24,289
-         on the flange          
- of one of the vertical rails.  
+on the flange of one of the vertical rails.  
 
 287
 00:20:28,361 --> 00:20:33,431
-    they attach the bearings    
-     to the rail with socket    
-            screws.             
+they attach the bearings to the rail with socket screws.             
 
 288
 00:20:33,433 --> 00:20:36,234
-       one of the workers       
-    attaches the welded steel   
-             chain              
+one of the workers attaches the welded steel chain              
 
 289
 00:20:36,236 --> 00:20:38,236
-    to the teeth of sprocket    
-            wheels.             
+to the teeth of sprocket wheels.             
 
 290
 00:20:44,377 --> 00:20:47,445
-     he joins the sections      
-    of the roller chain with    
-             links.             
+he joins the sections of the roller chain with links.             
 
 291
 00:20:51,318 --> 00:20:54,152
-     then he drops the ends     
-    of the chains down to the   
-             motor.             
+then he drops the ends of the chains down to the motor.             
 
 292
 00:20:58,258 --> 00:21:01,326
-  the worker loops the chains   
- around the motor sprockets...  
+the worker loops the chains around the motor sprockets...  
 
 293
 00:21:04,264 --> 00:21:06,531
-     and connects the ends      
-     with the joiner plate      
+and connects the ends with the joiner plate      
 
 294
 00:21:06,533 --> 00:21:10,735
-      and retaining clip.       
+and retaining clip.       
 
 295
 00:21:10,737 --> 00:21:13,104
-       now, they're ready       
-  to put this roller conveyer   
+now, they're ready to put this roller conveyer   
 
 296
 00:21:13,106 --> 00:21:14,405
-         to the test.           
+to the test.           
 
 297
 00:21:17,744 --> 00:21:20,744
-    an employee measures the    
-     rotational speed of the    
-            rollers             
+an employee measures the rotational speed of the rollers             
 
 298
 00:21:20,746 --> 00:21:23,114
-       with an instrument       
-     called a tachometer.       
+with an instrument called a tachometer.       
 
 299
 00:21:30,223 --> 00:21:33,591
-  he also tests the conveyor's  
+he also tests the conveyor's  
 ability to move heavy objects.  
 
 300
 00:21:36,630 --> 00:21:38,162
-        once approved,          
+once approved,          
 
 301
 00:21:38,164 --> 00:21:40,498
-  the roller conveyer will be   
-  shipped to another factory,   
+the roller conveyer will be shipped to another factory,   
 
 302
 00:21:40,500 --> 00:21:42,166
-        where it will be        
-       an important part        
+where it will be an important part        
 
 303
 00:21:42,168 --> 00:21:44,135
- of the manufacturing process.  
+of the manufacturing process.  
 

@@ -1,401 +1,344 @@
 ﻿1
 00:00:01,869 --> 00:00:04,870
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,872 --> 00:00:07,840
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,853 --> 00:00:55,121
-    narrator: the instruments   
-      in the violin family      
+narrator: the instruments in the violin family      
 
 4
 00:00:55,123 --> 00:00:56,522
-      have a distinct sound     
+have a distinct sound     
 
 5
 00:00:56,524 --> 00:00:59,524
-    created in large part by    
- the type of strings they have. 
+created in large part by the type of strings they have. 
 
 6
 00:00:59,526 --> 00:01:00,726
-     while there are strings    
+while there are strings    
 
 7
 00:01:00,728 --> 00:01:03,462
-   made of synthetic materials  
-    or metals on the market,    
+made of synthetic materials or metals on the market,    
 
 8
 00:01:03,464 --> 00:01:04,997
-  traditional strings are made  
+traditional strings are made  
 
 9
 00:01:04,999 --> 00:01:07,399
-       of a specific part       
-      of a certain animal.      
+of a specific part of a certain animal.      
 
 10
 00:01:07,401 --> 00:01:09,468
-   stay tuned for the details.  
+stay tuned for the details.  
 
 11
 00:01:12,940 --> 00:01:16,608
- [ slow classical music plays ] 
+[ slow classical music plays ] 
 
 12
 00:01:16,610 --> 00:01:19,345
-    playing an instrument in    
- the violin family takes guts --
+playing an instrument in the violin family takes guts --
 
 13
 00:01:19,347 --> 00:01:20,546
-           literally.           
+literally.           
 
 14
 00:01:20,548 --> 00:01:23,549
-         that's because         
-  the instrument's four strings 
+that's because the instrument's four strings 
 
 15
 00:01:23,551 --> 00:01:25,618
-  are made of sheep intestines. 
+are made of sheep intestines. 
 
 16
 00:01:25,620 --> 00:01:28,020
-        the two thinner,        
-       higher note strings      
+the two thinner, higher note strings      
 
 17
 00:01:28,022 --> 00:01:29,355
-     are made of plain gut.     
+are made of plain gut.     
 
 18
 00:01:29,357 --> 00:01:31,757
-        the two thicker,        
-       lower note strings       
+the two thicker, lower note strings       
 
 19
 00:01:31,759 --> 00:01:34,226
-         have a gut core        
-     wrapped in silver wire,    
+have a gut core wrapped in silver wire,    
 
 20
 00:01:34,228 --> 00:01:38,096
-  then silk thread wound around 
-        the extremities.        
+then silk thread wound around the extremities.        
 
 21
 00:01:38,098 --> 00:01:41,167
-         the intestines,        
-   each roughly 65 feet long,   
+the intestines, each roughly 65 feet long,   
 
 22
 00:01:41,169 --> 00:01:43,769
- come from local slaughterhouses
+come from local slaughterhouses
 
 23
 00:01:43,771 --> 00:01:46,705
-   and arrive already emptied,  
-      cleaned, and salted.      
+and arrive already emptied, cleaned, and salted.      
 
 24
 00:01:46,707 --> 00:01:50,108
-         the first step         
-  is to soak them in cold water 
+the first step is to soak them in cold water 
 
 25
 00:01:50,110 --> 00:01:51,710
-      for one to two days.      
+for one to two days.      
 
 26
 00:01:51,712 --> 00:01:54,580
-    this starts a controlled,   
-    very smelly decomposition   
+this starts a controlled, very smelly decomposition   
 
 27
 00:01:54,582 --> 00:01:57,450
-      which helps loosen up     
-   the intestines' components.  
+which helps loosen up the intestines' components.  
 
 28
 00:01:57,452 --> 00:02:00,119
-    next, using a half piece    
-          of wood cane,         
+next, using a half piece of wood cane,         
 
 29
 00:02:00,121 --> 00:02:02,054
-  the string maker scrapes off  
+the string maker scrapes off  
 
 30
 00:02:02,056 --> 00:02:05,191
-     the outer layers of fat    
-      and mucosa membranes.     
+the outer layers of fat and mucosa membranes.     
 
 31
 00:02:05,193 --> 00:02:08,461
-     then, five times a day     
-           for a week,          
+then, five times a day for a week,          
 
 32
 00:02:08,463 --> 00:02:11,731
-       he softens the gut       
-   in an alkaline potash bath   
+he softens the gut in an alkaline potash bath   
 
 33
 00:02:11,733 --> 00:02:15,000
-      and pulls it against      
-   a handmade copper thimble.   
+and pulls it against a handmade copper thimble.   
 
 34
 00:02:15,002 --> 00:02:17,869
-    this gently scrapes away    
-       the waste remnants       
+this gently scrapes away the waste remnants       
 
 35
 00:02:17,871 --> 00:02:21,273
-     until the gut is a tube    
-  of pure, transparent muscle,  
+until the gut is a tube of pure, transparent muscle,  
 
 36
 00:02:21,275 --> 00:02:24,877
-   at which point he slices it  
-      with a splitting horn     
+at which point he slices it with a splitting horn     
 
 37
 00:02:24,879 --> 00:02:27,813
-      into two gut ribbons      
-      of differing widths.      
+into two gut ribbons of differing widths.      
 
 38
 00:02:27,815 --> 00:02:30,282
-     the thinner, right one     
-   for making violin strings,   
+the thinner, right one for making violin strings,   
 
 39
 00:02:30,284 --> 00:02:31,350
-      the thicker, left one     
+the thicker, left one     
 
 40
 00:02:31,352 --> 00:02:35,287
-        for making cello        
-    and double bass strings.    
+for making cello and double bass strings.    
 
 41
 00:02:35,289 --> 00:02:39,491
-   during the scraping phase,   
-   guts sometimes break apart.  
+during the scraping phase, guts sometimes break apart.  
 
 42
 00:02:39,493 --> 00:02:41,227
-       rather than discard      
-          these pieces,         
+rather than discard these pieces,         
 
 43
 00:02:41,229 --> 00:02:43,162
-        the string maker        
-       knots them together      
+the string maker knots them together      
 
 44
 00:02:43,164 --> 00:02:44,664
- to produce full-length strands.
+to produce full-length strands.
 
 45
 00:02:48,169 --> 00:02:50,302
-  the string maker's assistants 
+the string maker's assistants 
 
 46
 00:02:50,304 --> 00:02:53,305
-      cut the gut ribbons       
-      into 23-foot lengths      
+cut the gut ribbons into 23-foot lengths      
 
 47
 00:02:53,307 --> 00:02:55,441
- and bleach them for four days. 
+and bleach them for four days. 
 
 48
 00:02:55,443 --> 00:02:58,911
-      this prevents the gut     
-       from turning brown.      
+this prevents the gut from turning brown.      
 
 49
 00:02:58,913 --> 00:03:02,180
-       then they count out      
- the number of strands required 
+then they count out the number of strands required 
 
 50
 00:03:02,182 --> 00:03:04,850
-           to produce           
-   the various size strings --  
+to produce the various size strings --  
 
 51
 00:03:04,852 --> 00:03:07,786
-        from six to make        
-   the thinnest violin string   
+from six to make the thinnest violin string   
 
 52
 00:03:07,788 --> 00:03:13,592
-  all the way up to 120 to make 
+all the way up to 120 to make 
 the thickest double bass string.
 
 53
 00:03:13,594 --> 00:03:15,461
-   they tie the ends in a loop  
+they tie the ends in a loop  
 
 54
 00:03:15,463 --> 00:03:18,196
-        and hook them up        
-     to a twisting machine,     
+and hook them up to a twisting machine,     
 
 55
 00:03:18,198 --> 00:03:19,865
-  then turn the machine's crank 
+then turn the machine's crank 
 
 56
 00:03:19,867 --> 00:03:22,200
-        and tightly twist       
-    the gut ribbons together    
+and tightly twist the gut ribbons together    
 
 57
 00:03:22,202 --> 00:03:26,538
-       to form one strong,      
-         single string.         
+to form one strong, single string.         
 
 58
 00:03:26,540 --> 00:03:29,275
-      then, since the guts      
-  have begun to dry out a bit,  
+then, since the guts have begun to dry out a bit,  
 
 59
 00:03:29,277 --> 00:03:30,742
-    they rehydrate the string   
+they rehydrate the string   
 
 60
 00:03:30,744 --> 00:03:33,412
-  to restore a consistent level 
-          of moisture.          
+to restore a consistent level of moisture.          
 
 61
 00:03:33,414 --> 00:03:37,149
-    then they twist it again    
-        and transfer it,        
+then they twist it again and transfer it,        
 
 62
 00:03:37,151 --> 00:03:40,820
- along with additional strings, 
-       to a drying frame.       
+along with additional strings, to a drying frame.       
 
 63
 00:03:40,822 --> 00:03:43,088
-   there's no set drying time.  
+there's no set drying time.  
 
 64
 00:03:43,090 --> 00:03:46,892
-    they monitor each string    
- individually around the clock. 
+they monitor each string individually around the clock. 
 
 65
 00:03:46,894 --> 00:03:48,427
-       as a string dries,       
+as a string dries,       
 
 66
 00:03:48,429 --> 00:03:51,897
-     it shrinks in diameter     
-      but grows in length,      
+it shrinks in diameter but grows in length,      
 
 67
 00:03:51,899 --> 00:03:53,299
-         creating slack.        
+creating slack.        
 
 68
 00:03:53,301 --> 00:03:56,235
-   so, they repeatedly remove   
-           and retwist          
+so, they repeatedly remove and retwist          
 
 69
 00:03:56,237 --> 00:03:57,770
-   until it dries completely,   
+until it dries completely,   
 
 70
 00:03:57,772 --> 00:03:59,905
-  at which point it stabilizes. 
+at which point it stabilizes. 
 
 71
 00:03:59,907 --> 00:04:02,374
-           this drying          
-     and retwisting process     
+this drying and retwisting process     
 
 72
 00:04:02,376 --> 00:04:04,443
-   can take up to seven days.   
+can take up to seven days.   
 
 73
 00:04:04,445 --> 00:04:05,911
-       the string is ready      
+the string is ready      
 
 74
 00:04:05,913 --> 00:04:09,648
-    when it's hard and stiff    
-     and slightly yellowed.     
+when it's hard and stiff and slightly yellowed.     
 
 75
 00:04:09,650 --> 00:04:12,584
-         at that stage,         
-  they rub it with horsehair -- 
+at that stage, they rub it with horsehair -- 
 
 76
 00:04:12,586 --> 00:04:15,521
-   the traditional equivalent   
-      of coarse sandpaper.      
+the traditional equivalent of coarse sandpaper.      
 
 77
 00:04:15,523 --> 00:04:19,658
-   it makes the string smooth   
-      and even throughout.      
+it makes the string smooth and even throughout.      
 
 78
 00:04:19,660 --> 00:04:21,860
-     next, they fine-polish     
-           the string           
+next, they fine-polish the string           
 
 79
 00:04:21,862 --> 00:04:23,395
-   with abrasive, dried grass   
+with abrasive, dried grass   
 
 80
 00:04:23,397 --> 00:04:26,198
 in a cloth that's been moistened
-         with olive oil.        
+with olive oil.        
 
 81
 00:04:26,200 --> 00:04:29,268
-       some string makers       
-         use almond oil         
+some string makers use almond oil         
 
 82
 00:04:29,270 --> 00:04:32,338
-  and pumice or powdered glass  
-        as the abrasive.        
+and pumice or powdered glass as the abrasive.        
 
 83
 00:04:37,011 --> 00:04:40,278
-     they sever the strings     
-     from the drying frame      
+they sever the strings from the drying frame      
 
 84
 00:04:40,280 --> 00:04:42,481
-          and cut them          
-      to standard lengths.      
+and cut them to standard lengths.      
 
 85
 00:04:42,483 --> 00:04:45,751
-      these strings will be     
-    for a child-size violin,    
+these strings will be for a child-size violin,    
 
 86
 00:04:45,753 --> 00:04:49,288
@@ -403,267 +346,230 @@ so they're 100 centimeters long.
 
 87
 00:04:49,290 --> 00:04:51,890
- to produce the correct sounds, 
+to produce the correct sounds, 
 
 88
 00:04:51,892 --> 00:04:54,360
-        the instrument's        
-     two lower-note strings     
+the instrument's two lower-note strings     
 
 89
 00:04:54,362 --> 00:04:57,095
-  must be considerably thicker  
-        than the others.        
+must be considerably thicker than the others.        
 
 90
 00:04:57,097 --> 00:04:59,698
-         the problem is         
-   this thickness in gut alone  
+the problem is this thickness in gut alone  
 
 91
 00:04:59,700 --> 00:05:01,366
-   would produce a dull sound,  
+would produce a dull sound,  
 
 92
 00:05:01,368 --> 00:05:04,637
-     so they wrap the string    
-   in sterling silver wire --   
+so they wrap the string in sterling silver wire --   
 
 93
 00:05:04,639 --> 00:05:07,039
-          silver being          
-  seven times denser than gut.  
+silver being seven times denser than gut.  
 
 94
 00:05:07,041 --> 00:05:09,374
-      this gives the string     
-         the right sound        
+this gives the string the right sound        
 
 95
 00:05:09,376 --> 00:05:14,513
-   and a loud, brilliant tone   
-     with minimal thickness.    
+and a loud, brilliant tone with minimal thickness.    
 
 96
 00:05:14,515 --> 00:05:16,248
-      next, for decoration,     
+next, for decoration,     
 
 97
 00:05:16,250 --> 00:05:19,585
-  they wrap the top and bottom  
-    of these gut-core strings   
+they wrap the top and bottom of these gut-core strings   
 
 98
 00:05:19,587 --> 00:05:20,586
-        with silk thread.       
+with silk thread.       
 
 99
 00:05:20,588 --> 00:05:22,121
-       on a violin string,      
+on a violin string,      
 
 100
 00:05:22,123 --> 00:05:25,391
 the silk runs about a centimeter
-        long on each end.       
+long on each end.       
 
 101
 00:05:25,393 --> 00:05:27,459
-    on a longer cello string,   
-         like this one,         
+on a longer cello string, like this one,         
 
 102
 00:05:27,461 --> 00:05:29,728
-      about 5 centimeters.      
+about 5 centimeters.      
 
 103
 00:05:29,730 --> 00:05:31,463
-       the finished string      
+the finished string      
 
 104
 00:05:31,465 --> 00:05:34,332
-     is ready to be inserted    
-   into its retail packaging.   
+is ready to be inserted into its retail packaging.   
 
 105
 00:05:34,334 --> 00:05:37,469
-    there are less expensive    
+there are less expensive    
 synthetic strings on the market,
 
 106
 00:05:37,471 --> 00:05:39,738
-            however,            
-  particularly for early music, 
+however, particularly for early music, 
 
 107
 00:05:39,740 --> 00:05:42,274
-      many musicians prefer     
-       the sound and feel       
+many musicians prefer the sound and feel       
 
 108
 00:05:42,276 --> 00:05:44,009
-  of traditional gut strings -- 
+of traditional gut strings -- 
 
 109
 00:05:44,011 --> 00:05:47,913
-       made by hand today       
+made by hand today       
 just as they were centuries ago.
 
 110
 00:06:04,031 --> 00:06:06,765
-       narrator: absinthe       
-   is a strong alcoholic drink  
+narrator: absinthe is a strong alcoholic drink  
 
 111
 00:06:06,767 --> 00:06:08,234
-    with a colorful history.    
+with a colorful history.    
 
 112
 00:06:08,236 --> 00:06:10,902
-      during the late 1800s     
-        and early 1900s,        
+during the late 1800s and early 1900s,        
 
 113
 00:06:10,904 --> 00:06:13,305
-            drinking            
-   this anise-flavored spirit   
+drinking this anise-flavored spirit   
 
 114
 00:06:13,307 --> 00:06:16,308
-          was the rage          
-    among european bohemians.   
+was the rage among european bohemians.   
 
 115
 00:06:16,310 --> 00:06:19,311
-    conservatives of the day    
- saw it as dangerous and immoral
+conservatives of the day saw it as dangerous and immoral
 
 116
 00:06:19,313 --> 00:06:21,579
-          and succeeded         
-   in getting absinthe banned   
+and succeeded in getting absinthe banned   
 
 117
 00:06:21,581 --> 00:06:23,015
-      in several countries.     
+in several countries.     
 
 118
 00:06:27,188 --> 00:06:29,922
-       the traditional way      
-        to drink absinthe       
+the traditional way to drink absinthe       
 
 119
 00:06:29,924 --> 00:06:32,924
-       is to pour one part      
-          into a glass,         
+is to pour one part into a glass,         
 
 120
 00:06:32,926 --> 00:06:35,861
-  straddle a specially designed 
-          slotted spoon         
+straddle a specially designed slotted spoon         
 
 121
 00:06:35,863 --> 00:06:38,597
-      holding a sugar cube      
-         over the glass,        
+holding a sugar cube over the glass,        
 
 122
 00:06:38,599 --> 00:06:41,866
-     then, very slowly, drip    
-  three to five parts ice water 
+then, very slowly, drip three to five parts ice water 
 
 123
 00:06:41,868 --> 00:06:43,669
-     directly onto the cube,    
+directly onto the cube,    
 
 124
 00:06:43,671 --> 00:06:48,807
-      dissolving the sugar      
-    into the diluting spirit.   
+dissolving the sugar into the diluting spirit.   
 
 125
 00:06:48,809 --> 00:06:52,811
-    this transforms the drink   
-      from clear to cloudy      
+this transforms the drink from clear to cloudy      
 
 126
 00:06:52,813 --> 00:06:55,547
-          and draws out         
-  the subtle flavors and aromas 
+and draws out the subtle flavors and aromas 
 
 127
 00:06:55,549 --> 00:06:57,149
-   of the herbal ingredients.   
+of the herbal ingredients.   
 
 128
 00:06:57,151 --> 00:06:59,218
-         you can do this        
-       with a single glass      
+you can do this with a single glass      
 
 129
 00:06:59,220 --> 00:07:02,221
- or several using a traditional 
-      absinthe fountain --      
+or several using a traditional absinthe fountain --      
 
 130
 00:07:02,223 --> 00:07:05,224
-  a large mounted glass vessel  
+a large mounted glass vessel  
 
 131
 00:07:05,226 --> 00:07:08,827
-  which dispenses the ice water 
-    through multiple spigots.   
+which dispenses the ice water through multiple spigots.   
 
 132
 00:07:08,829 --> 00:07:12,298
-        this 180-year-old       
-        french distillery       
+this 180-year-old french distillery       
 
 133
 00:07:12,300 --> 00:07:15,634
-   makes both white and green   
-      versions of absinthe.     
+makes both white and green versions of absinthe.     
 
 134
 00:07:15,636 --> 00:07:19,571
-  each is made from a different 
-  combination aromatic plants.  
+each is made from a different combination aromatic plants.  
 
 135
 00:07:19,573 --> 00:07:21,306
-       however, for both,       
+however, for both,       
 
 136
 00:07:21,308 --> 00:07:25,978
-   the primary ingredients are  
- green anise and grand wormwood.
+the primary ingredients are green anise and grand wormwood.
 
 137
 00:07:25,980 --> 00:07:27,912
-    both also contain fennel.   
+both also contain fennel.   
 
 138
 00:07:27,914 --> 00:07:30,516
-       the white absinthe       
-         has more of it.        
+the white absinthe has more of it.        
 
 139
 00:07:30,518 --> 00:07:33,652
-     and only green absinthe    
-   contains additional plants,  
+and only green absinthe contains additional plants,  
 
 140
 00:07:33,654 --> 00:07:38,057
-     such as petty wormwood,    
-  hyssop, mint, and chamomile.  
+such as petty wormwood, hyssop, mint, and chamomile.  
 
 141
 00:07:38,059 --> 00:07:41,793
-     the distillery workers     
-   pour the recipe ingredients  
+the distillery workers pour the recipe ingredients  
 
 142
 00:07:41,795 --> 00:07:43,262
-      into a copper still.      
+into a copper still.      
 
 143
 00:07:43,264 --> 00:07:46,899
@@ -672,92 +578,79 @@ alcohol made from white grapes.
 
 144
 00:07:46,901 --> 00:07:50,402
-         the plants soak        
- in this alcohol base overnight,
+the plants soak in this alcohol base overnight,
 
 145
 00:07:50,404 --> 00:07:52,537
-  gradually imbuing the alcohol 
+gradually imbuing the alcohol 
 
 146
 00:07:52,539 --> 00:07:55,607
-  with their respective flavors 
-           and aromas.          
+with their respective flavors and aromas.          
 
 147
 00:07:55,609 --> 00:07:58,944
-          this process          
-      is called maceration.     
+this process is called maceration.     
 
 148
 00:07:58,946 --> 00:08:02,147
-          the next day,         
-      distillation begins.      
+the next day, distillation begins.      
 
 149
 00:08:02,149 --> 00:08:04,282
-       they heat the still      
-     with pressurized steam.    
+they heat the still with pressurized steam.    
 
 150
 00:08:04,284 --> 00:08:07,553
-     after about 45 minutes,    
+after about 45 minutes,    
 
 151
 00:08:07,555 --> 00:08:09,822
-       the spirit reaches       
-       the boiling point,       
+the spirit reaches the boiling point,       
 
 152
 00:08:09,824 --> 00:08:12,691
-      and a floating gauge      
-  monitoring its alcohol level  
+and a floating gauge monitoring its alcohol level  
 
 153
 00:08:12,693 --> 00:08:13,959
-          slowly rises          
+slowly rises          
 
 154
 00:08:13,961 --> 00:08:15,627
-     and flows out the neck     
-          of the still.         
+and flows out the neck of the still.         
 
 155
 00:08:18,899 --> 00:08:23,035
- however, what comes out during 
-   the first 10 minutes or so   
+however, what comes out during the first 10 minutes or so   
 
 156
 00:08:23,037 --> 00:08:24,836
-      has to be discarded.      
+has to be discarded.      
 
 157
 00:08:24,838 --> 00:08:28,640
-        it's white, oily,       
-  and has a 90% alcohol level.  
+it's white, oily, and has a 90% alcohol level.  
 
 158
 00:08:28,642 --> 00:08:31,243
-          what follows          
-      is the good stuff --      
+what follows is the good stuff --      
 
 159
 00:08:31,245 --> 00:08:32,711
-         crystal clear,         
+crystal clear,         
 
 160
 00:08:32,713 --> 00:08:36,314
-  with an average alcohol level 
-         of 78% to 80%.         
+with an average alcohol level of 78% to 80%.         
 
 161
 00:08:36,316 --> 00:08:38,250
-      this streams steadily     
-        out of the still        
+this streams steadily out of the still        
 
 162
 00:08:38,252 --> 00:08:40,719
- for about three to five hours, 
+for about three to five hours, 
 
 163
 00:08:40,721 --> 00:08:42,588
@@ -765,103 +658,89 @@ followed by a weak tail-end flow
 
 164
 00:08:42,590 --> 00:08:44,856
-        that they discard       
-      like the first flow.      
+that they discard like the first flow.      
 
 165
 00:08:44,858 --> 00:08:48,794
-        then they dilute        
+then they dilute        
 this distilled spirit with water
 
 166
 00:08:48,796 --> 00:08:52,064
-  to reduce the final alcohol   
-  level of this white absinthe  
+to reduce the final alcohol level of this white absinthe  
 
 167
 00:08:52,066 --> 00:08:53,731
-             to 60%.            
+to 60%.            
 
 168
 00:08:53,733 --> 00:08:57,735
-     to make green absinthe,    
-   before that final dilution,  
+to make green absinthe, before that final dilution,  
 
 169
 00:08:57,737 --> 00:09:00,873
-  they pump the white absinthe  
-      through a burlap bag      
+they pump the white absinthe through a burlap bag      
 
 170
 00:09:00,875 --> 00:09:02,741
- containing a specific plant -- 
+containing a specific plant -- 
 
 171
 00:09:02,743 --> 00:09:07,146
-      the identity of which     
-  the distillery won't divulge. 
+the identity of which the distillery won't divulge. 
 
 172
 00:09:07,148 --> 00:09:09,214
-     they let the plant soak    
-         in the absinthe        
+they let the plant soak in the absinthe        
 
 173
 00:09:09,216 --> 00:09:10,816
- for a specific length of time. 
+for a specific length of time. 
 
 174
 00:09:10,818 --> 00:09:14,286
-         this draws out         
-    the plant's chlorophyll,    
+this draws out the plant's chlorophyll,    
 
 175
 00:09:14,288 --> 00:09:17,355
-     which colors the spirit    
-          bright green.         
+which colors the spirit bright green.         
 
 176
 00:09:17,357 --> 00:09:19,291
-   then they dilute with water  
+then they dilute with water  
 
 177
 00:09:19,293 --> 00:09:22,361
-      to obtain the target      
-      alcohol level of 62%,     
+to obtain the target alcohol level of 62%,     
 
 178
 00:09:22,363 --> 00:09:24,830
-         slightly higher        
-      than white absinthe.      
+slightly higher than white absinthe.      
 
 179
 00:09:24,832 --> 00:09:27,900
-    that extra bit of alcohol   
- helps preserve the chlorophyll.
+that extra bit of alcohol helps preserve the chlorophyll.
 
 180
 00:09:27,902 --> 00:09:31,436
-      in the distillery's       
-      in-house laboratory,      
+in the distillery's in-house laboratory,      
 
 181
 00:09:31,438 --> 00:09:35,507
 quality-control technicians test
-    a sample from each batch    
+a sample from each batch    
 
 182
 00:09:35,509 --> 00:09:37,709
- to verify the alcohol content. 
+to verify the alcohol content. 
 
 183
 00:09:37,711 --> 00:09:41,847
-   absinthe contains about 20%  
- more alcohol than most spirits.
+absinthe contains about 20% more alcohol than most spirits.
 
 184
 00:09:46,387 --> 00:09:49,121
-        the lab monitors        
-      the level of thujone,     
+the lab monitors the level of thujone,     
 
 185
 00:09:49,123 --> 00:09:51,456
@@ -869,294 +748,256 @@ a chemical compound in wormwood,
 
 186
 00:09:51,458 --> 00:09:54,126
-           the drink's          
-     second key ingredient.     
+the drink's second key ingredient.     
 
 187
 00:09:54,128 --> 00:09:56,528
-  thujone content is regulated  
+thujone content is regulated  
 
 188
 00:09:56,530 --> 00:09:58,197
-       to varying degrees       
-       in many countries.       
+to varying degrees in many countries.       
 
 189
 00:09:58,199 --> 00:09:59,865
-   the european union permits   
+the european union permits   
 
 190
 00:09:59,867 --> 00:10:02,467
-   up to 35 parts per million,  
-          for example,          
+up to 35 parts per million, for example,          
 
 191
 00:10:02,469 --> 00:10:06,672
-      while canada, no more     
-    than 7 parts per million.   
+while canada, no more than 7 parts per million.   
 
 192
 00:10:06,674 --> 00:10:08,473
-   the distillery, therefore,   
+the distillery, therefore,   
 
 193
 00:10:08,475 --> 00:10:11,076
-    bottles several versions    
-          of absinthe,          
+bottles several versions of absinthe,          
 
 194
 00:10:11,078 --> 00:10:13,011
- tailoring the wormwood portion 
-          of the recipe         
+tailoring the wormwood portion of the recipe         
 
 195
 00:10:13,013 --> 00:10:15,747
-   to the export destination.   
+to the export destination.   
 
 196
 00:10:15,749 --> 00:10:20,686
-         white absinthe         
-    has a strong anise taste,   
+white absinthe has a strong anise taste,   
 
 197
 00:10:20,688 --> 00:10:22,687
-  well balanced with wormwood,  
+well balanced with wormwood,  
 
 198
 00:10:22,689 --> 00:10:25,023
-     whereas green absinthe,    
-     containing more plants,    
+whereas green absinthe, containing more plants,    
 
 199
 00:10:25,025 --> 00:10:28,760
-   has a more complex flavor.   
+has a more complex flavor.   
 
 200
 00:10:28,762 --> 00:10:31,429
 while white is typically bottled
-         in clear glass,        
+in clear glass,        
 
 201
 00:10:31,431 --> 00:10:33,831
-     green is always bottled    
-     in dark-colored glass.     
+green is always bottled in dark-colored glass.     
 
 202
 00:10:33,833 --> 00:10:36,835
-   that's because chlorophyll,  
+that's because chlorophyll,  
 
 203
 00:10:36,837 --> 00:10:39,104
-        the plant pigment       
- that produces the green color, 
+the plant pigment that produces the green color, 
 
 204
 00:10:39,106 --> 00:10:41,640
-  is highly sensitive to light. 
+is highly sensitive to light. 
 
 205
 00:10:41,642 --> 00:10:44,776
-       without dark glass       
-   shielding it from exposure,  
+without dark glass shielding it from exposure,  
 
 206
 00:10:44,778 --> 00:10:46,978
-    the green absinthe inside   
-        would turn yellow       
+the green absinthe inside would turn yellow       
 
 207
 00:10:46,980 --> 00:10:48,113
-      and eventually brown.     
+and eventually brown.     
 
 208
 00:10:48,115 --> 00:10:52,184
-    this would have no effect   
-    whatsoever on the taste,    
+this would have no effect whatsoever on the taste,    
 
 209
 00:10:52,186 --> 00:10:53,785
-    however, the potent drink   
+however, the potent drink   
 
 210
 00:10:53,787 --> 00:10:55,454
-  known in 19th-century france  
+known in 19th-century france  
 
 211
 00:10:55,456 --> 00:10:57,722
-        as<i> la fée verte,</i>        
-        the green fairy,        
+as<i> la fée verte,</i> the green fairy,        
 
 212
 00:10:57,724 --> 00:11:00,359
-  would lose some of its magic. 
+would lose some of its magic. 
 
 213
 00:11:14,475 --> 00:11:16,074
-   narrator: there are reports  
+narrator: there are reports  
 
 214
 00:11:16,076 --> 00:11:19,477
-    of archaeologists finding   
-  evidence of belts and buckles 
+of archaeologists finding evidence of belts and buckles 
 
 215
 00:11:19,479 --> 00:11:22,614
-     dating back to the 6th     
-  and 7th centuries in britain. 
+dating back to the 6th and 7th centuries in britain. 
 
 216
 00:11:22,616 --> 00:11:23,815
-     decorative belt buckles    
+decorative belt buckles    
 
 217
 00:11:23,817 --> 00:11:26,151
-    appear to have been worn    
-       for the first time       
+appear to have been worn for the first time       
 
 218
 00:11:26,153 --> 00:11:28,554
-      as symbols of status      
-          in the 1500s          
+as symbols of status in the 1500s          
 
 219
 00:11:28,556 --> 00:11:30,622
-   throughout regional spain.   
+throughout regional spain.   
 
 220
 00:11:34,828 --> 00:11:36,962
-             today,             
-   hand-engraved belt buckles   
+today, hand-engraved belt buckles   
 
 221
 00:11:36,964 --> 00:11:39,831
-       are prized not only      
-     as fashion accessories     
+are prized not only as fashion accessories     
 
 222
 00:11:39,833 --> 00:11:43,168
-    but as inspired examples    
-    of workmanship and art.     
+but as inspired examples of workmanship and art.     
 
 223
 00:11:43,170 --> 00:11:47,639
-  the buckle maker welds small  
-  stainless steel rods together 
+the buckle maker welds small stainless steel rods together 
 
 224
 00:11:47,641 --> 00:11:49,775
- to form the back of the buckle.
+to form the back of the buckle.
 
 225
 00:11:49,777 --> 00:11:51,977
-       after placing them       
-      in a welding fixture,     
+after placing them in a welding fixture,     
 
 226
 00:11:51,979 --> 00:11:55,380
-    he precision-welds them.    
+he precision-welds them.    
 
 227
 00:11:55,382 --> 00:11:56,981
-     using another fixture,     
+using another fixture,     
 
 228
 00:11:56,983 --> 00:12:00,085
- the buckle maker adds a center 
- pin to the back of the buckle. 
+the buckle maker adds a center pin to the back of the buckle. 
 
 229
 00:12:02,856 --> 00:12:05,123
-   after precision-welding it   
-           into place,          
+after precision-welding it into place,          
 
 230
 00:12:05,125 --> 00:12:07,726
-        he melts the tip        
-   of the stainless steel pin   
+he melts the tip of the stainless steel pin   
 
 231
 00:12:07,728 --> 00:12:10,195
-       into a smooth ball.      
+into a smooth ball.      
 
 232
 00:12:10,197 --> 00:12:14,199
-        this locating pin       
- centers the belt in the buckle.
+this locating pin centers the belt in the buckle.
 
 233
 00:12:14,201 --> 00:12:16,200
-        the buckle maker        
-      uses a jeweler's saw      
+the buckle maker uses a jeweler's saw      
 
 234
 00:12:16,202 --> 00:12:17,602
- to cut the shape of the buckle 
+to cut the shape of the buckle 
 
 235
 00:12:17,604 --> 00:12:20,305
-        from heavy gauge        
-     solid sterling silver.     
+from heavy gauge solid sterling silver.     
 
 236
 00:12:25,212 --> 00:12:29,548
-   he stamps the company logo   
-  into the back of the buckle.  
+he stamps the company logo into the back of the buckle.  
 
 237
 00:12:29,550 --> 00:12:31,083
-       using pure silver,       
+using pure silver,       
 
 238
 00:12:31,085 --> 00:12:35,087
-   he solders the welded rods   
-  onto the back of the buckle,  
+he solders the welded rods onto the back of the buckle,  
 
 239
 00:12:35,089 --> 00:12:38,423
-  along with a stainless steel  
-         keeper tongue.         
+along with a stainless steel keeper tongue.         
 
 240
 00:12:38,425 --> 00:12:42,227
-     he uses a jeweler's saw    
-      to cut out initials,      
+he uses a jeweler's saw to cut out initials,      
 
 241
 00:12:42,229 --> 00:12:44,796
-         using the font,        
-       material, and size       
+using the font, material, and size       
 
 242
 00:12:44,798 --> 00:12:46,832
-    selected by the customer.   
+selected by the customer.   
 
 243
 00:12:46,834 --> 00:12:49,301
-        the buckle maker        
-      uses a soldering gun      
+the buckle maker uses a soldering gun      
 
 244
 00:12:49,303 --> 00:12:51,903
-         to apply solder        
-   to the back of the letters,  
+to apply solder to the back of the letters,  
 
 245
 00:12:51,905 --> 00:12:53,505
-  which are made of gold fill,  
+which are made of gold fill,  
 
 246
 00:12:53,507 --> 00:12:57,041
-      a thin layer of gold      
-        on top of brass.        
+a thin layer of gold on top of brass.        
 
 247
 00:12:57,043 --> 00:12:59,044
-     he carefully positions     
-          the initials          
+he carefully positions the initials          
 
 248
 00:12:59,046 --> 00:13:00,778
- on the sterling silver buckle, 
+on the sterling silver buckle, 
 
 249
 00:13:00,780 --> 00:13:04,449
@@ -1165,191 +1006,165 @@ for the soldering phase to come.
 
 250
 00:13:04,451 --> 00:13:06,718
-         too much solder        
-   on the back of the letters,  
+too much solder on the back of the letters,  
 
 251
 00:13:06,720 --> 00:13:09,788
-      and it could flow out     
-    onto the buckle surface.    
+and it could flow out onto the buckle surface.    
 
 252
 00:13:09,790 --> 00:13:11,123
-     heating the belt buckle    
+heating the belt buckle    
 
 253
 00:13:11,125 --> 00:13:13,525
-        causes the solder       
-   on the back of the letters   
+causes the solder on the back of the letters   
 
 254
 00:13:13,527 --> 00:13:16,795
-        to attach firmly        
- to the sterling silver surface.
+to attach firmly to the sterling silver surface.
 
 255
 00:13:16,797 --> 00:13:21,199
-     the attachment process     
-     happens very quickly.      
+the attachment process happens very quickly.      
 
 256
 00:13:21,201 --> 00:13:25,003
-   with a polishing compound    
-   and cloth polishing wheel,   
+with a polishing compound and cloth polishing wheel,   
 
 257
 00:13:25,005 --> 00:13:29,474
-       he gives the buckle      
-       a brilliant shine.       
+he gives the buckle a brilliant shine.       
 
 258
 00:13:29,476 --> 00:13:32,344
-        the buckle maker        
-    hand-engraves the buckle    
+the buckle maker hand-engraves the buckle    
 
 259
 00:13:32,346 --> 00:13:34,813
- using assorted engraving tools.
+using assorted engraving tools.
 
 260
 00:13:36,816 --> 00:13:40,752
-     he uses a shading tool     
-     to add depth to lines.     
+he uses a shading tool to add depth to lines.     
 
 261
 00:13:40,754 --> 00:13:43,555
-      he follows guidelines     
-       drawn in felt pen.       
+he follows guidelines drawn in felt pen.       
 
 262
 00:13:43,557 --> 00:13:46,591
-      the pattern engraved      
-   is chosen by the customer.   
+the pattern engraved is chosen by the customer.   
 
 263
 00:13:49,229 --> 00:13:54,166
-    the belt maker rolls out    
-  a piece of tan strap leather. 
+the belt maker rolls out a piece of tan strap leather. 
 
 264
 00:13:54,168 --> 00:13:55,366
-      using a gauge knife,      
+using a gauge knife,      
 
 265
 00:13:55,368 --> 00:13:57,302
-        he cuts the width       
-        of leather needed       
+he cuts the width of leather needed       
 
 266
 00:13:57,304 --> 00:14:00,872
-     to make the belt chosen    
-        by the customer.        
+to make the belt chosen by the customer.        
 
 267
 00:14:02,909 --> 00:14:06,111
-         the belt maker         
-     uses a variety of tools    
+the belt maker uses a variety of tools    
 
 268
 00:14:06,113 --> 00:14:08,113
-  to cut and shape the leather. 
+to cut and shape the leather. 
 
 269
 00:14:08,115 --> 00:14:10,015
-  he cuts the tip of the belt.  
+he cuts the tip of the belt.  
 
 270
 00:14:12,919 --> 00:14:15,787
-      he places the leather     
-    in room-temperature water   
+he places the leather in room-temperature water   
 
 271
 00:14:15,789 --> 00:14:17,255
-     for about five minutes.    
+for about five minutes.    
 
 272
 00:14:17,257 --> 00:14:21,326
-    when bubbles stop rising,   
-    the leather is saturated.   
+when bubbles stop rising, the leather is saturated.   
 
 273
 00:14:21,328 --> 00:14:24,061
-  after the leather has dried,  
+after the leather has dried,  
 
 274
 00:14:24,063 --> 00:14:28,800
-   he transfers a pattern from  
+he transfers a pattern from  
 the design strip to the leather.
 
 275
 00:14:31,071 --> 00:14:34,740
-    stamping tools allow him    
-   to stamp intricate designs.  
+stamping tools allow him to stamp intricate designs.  
 
 276
 00:14:34,742 --> 00:14:38,610
-      using a swivel knife,     
-       he cuts to a depth       
+using a swivel knife, he cuts to a depth       
 
 277
 00:14:38,612 --> 00:14:43,147
- of between a quarter to a third
- of the way through the leather.
+of between a quarter to a third
+of the way through the leather.
 
 278
 00:14:43,149 --> 00:14:46,752
-       the initial pattern      
-        has been carved.        
+the initial pattern has been carved.        
 
 279
 00:14:46,754 --> 00:14:50,822
-   with a beveler, he deepens   
-  and shapes the carved lines.  
+with a beveler, he deepens and shapes the carved lines.  
 
 280
 00:14:53,427 --> 00:14:55,827
-  he chooses a bar backgrounder 
+he chooses a bar backgrounder 
 
 281
 00:14:55,829 --> 00:15:00,031
-         to create leaf         
-       in the background.       
+to create leaf in the background.       
 
 282
 00:15:00,033 --> 00:15:01,499
-      with a swivel knife,      
+with a swivel knife,      
 
 283
 00:15:01,501 --> 00:15:03,635
-            he makes            
-   the final decorative cuts.   
+he makes the final decorative cuts.   
 
 284
 00:15:03,637 --> 00:15:05,303
-   the belt maker applies dye   
+the belt maker applies dye   
 
 285
 00:15:05,305 --> 00:15:08,372
-   to the background sections   
-     of the carved leather,     
+to the background sections of the carved leather,     
 
 286
 00:15:08,374 --> 00:15:12,978
-  completing the most intricate 
-        part of his work.       
+completing the most intricate part of his work.       
 
 287
 00:15:12,980 --> 00:15:15,013
- he stamps in the maker's mark. 
+he stamps in the maker's mark. 
 
 288
 00:15:18,117 --> 00:15:20,185
-   using a piece of sheepskin,  
+using a piece of sheepskin,  
 
 289
 00:15:20,187 --> 00:15:24,189
-    he applies an oil finish    
-          to the belt.          
+he applies an oil finish to the belt.          
 
 290
 00:15:24,191 --> 00:15:26,724
@@ -1357,486 +1172,420 @@ a thin paste highlights the cuts
 
 291
 00:15:26,726 --> 00:15:30,595
-       and gives the belt       
-       an antique finish.       
+and gives the belt an antique finish.       
 
 292
 00:15:30,597 --> 00:15:33,532
-      a final tanned coat       
-      waterproofs the belt      
+a final tanned coat waterproofs the belt      
 
 293
 00:15:33,534 --> 00:15:35,000
-      and helps protect it.     
+and helps protect it.     
 
 294
 00:15:35,002 --> 00:15:37,969
-   he makes holes in the belt.  
+he makes holes in the belt.  
 
 295
 00:15:44,344 --> 00:15:45,877
-    the belt has a bend in it   
+the belt has a bend in it   
 
 296
 00:15:45,879 --> 00:15:48,146
-        where the buckle        
-        will be attached.       
+where the buckle will be attached.       
 
 297
 00:15:52,553 --> 00:15:54,752
-      with chicago screws,      
+with chicago screws,      
 
 298
 00:15:54,754 --> 00:15:57,622
-  he attaches the buckle firmly 
-          to the belt.          
+he attaches the buckle firmly to the belt.          
 
 299
 00:15:57,624 --> 00:16:02,561
-  ideally, the belt and buckle  
-     complement each other.     
+ideally, the belt and buckle complement each other.     
 
 300
 00:16:02,563 --> 00:16:04,496
-       strong and stylish,      
+strong and stylish,      
 
 301
 00:16:04,498 --> 00:16:07,399
-    meticulously handcrafted    
-     belt buckles and belts     
+meticulously handcrafted belt buckles and belts     
 
 302
 00:16:07,401 --> 00:16:10,235
-      have managed to make      
-    a clear fashion statement   
+have managed to make a clear fashion statement   
 
 303
 00:16:10,237 --> 00:16:11,937
-     out of belt-tightening.    
+out of belt-tightening.    
 
 304
 00:16:25,585 --> 00:16:26,718
-    narrator: the lever lock    
+narrator: the lever lock    
 
 305
 00:16:26,720 --> 00:16:28,653
-          was invented          
-    in the late 18th century    
+was invented in the late 18th century    
 
 306
 00:16:28,655 --> 00:16:30,188
-        by an englishman.       
+by an englishman.       
 
 307
 00:16:30,190 --> 00:16:31,790
-   at the time, the ward lock,  
+at the time, the ward lock,  
 
 308
 00:16:31,792 --> 00:16:34,526
-        with its simple,        
-   concentric plate mechanism,  
+with its simple, concentric plate mechanism,  
 
 309
 00:16:34,528 --> 00:16:36,794
-    was the main kind of lock   
-             in use.            
+was the main kind of lock in use.            
 
 310
 00:16:36,796 --> 00:16:40,532
-   it was medieval technology   
-    and fairly easy to pick.    
+it was medieval technology and fairly easy to pick.    
 
 311
 00:16:40,534 --> 00:16:43,802
-  the lever lock took security  
-      to a whole new level.     
+the lever lock took security to a whole new level.     
 
 312
 00:16:46,339 --> 00:16:49,207
-     more than two centuries    
-     after their invention,     
+more than two centuries after their invention,     
 
 313
 00:16:49,209 --> 00:16:51,876
-      lever locks are still     
-        on security duty.       
+lever locks are still on security duty.       
 
 314
 00:16:51,878 --> 00:16:54,946
-          the mechanism         
-      hasn't changed much,      
+the mechanism hasn't changed much,      
 
 315
 00:16:54,948 --> 00:16:58,817
-  except instead of two levers, 
-    there can be many inside.   
+except instead of two levers, there can be many inside.   
 
 316
 00:16:58,819 --> 00:17:00,285
-      they fall into slots,     
+they fall into slots,     
 
 317
 00:17:00,287 --> 00:17:03,755
-        locking the bolt        
-  until a key lifts the levers. 
+locking the bolt until a key lifts the levers. 
 
 318
 00:17:03,757 --> 00:17:06,157
-      this lever mechanism      
-         is very rugged.        
+this lever mechanism is very rugged.        
 
 319
 00:17:06,159 --> 00:17:07,892
-  it will continue to function  
+it will continue to function  
 
 320
 00:17:07,894 --> 00:17:10,962
-    even if dirt or moisture    
-      infiltrates the lock.     
+even if dirt or moisture infiltrates the lock.     
 
 321
 00:17:10,964 --> 00:17:14,633
-   it's why many armed forces   
+it's why many armed forces   
 will only use this kind of lock.
 
 322
 00:17:14,635 --> 00:17:16,968
-     to make the two halves     
-        of the lock body,       
+to make the two halves of the lock body,       
 
 323
 00:17:16,970 --> 00:17:19,371
-           they uncoil          
-  a narrow band of heavy steel. 
+they uncoil a narrow band of heavy steel. 
 
 324
 00:17:19,373 --> 00:17:22,040
-     rollers straighten it.     
+rollers straighten it.     
 
 325
 00:17:22,042 --> 00:17:25,710
-    then a punch press shapes   
-     and cuts out the part.     
+then a punch press shapes and cuts out the part.     
 
 326
 00:17:25,712 --> 00:17:29,914
-      four punches produce      
-      a fully formed part.      
+four punches produce a fully formed part.      
 
 327
 00:17:29,916 --> 00:17:32,249
-         the front half         
-    includes the side flange,   
+the front half includes the side flange,   
 
 328
 00:17:32,251 --> 00:17:35,287
-      the keyhole, a post,      
-        and rivet holes.        
+the keyhole, a post, and rivet holes.        
 
 329
 00:17:39,859 --> 00:17:42,994
-        the parts tumble        
-        with wood chips,        
+the parts tumble with wood chips,        
 
 330
 00:17:42,996 --> 00:17:45,597
-    and the friction removes    
-   unwanted bits called burrs.  
+and the friction removes unwanted bits called burrs.  
 
 331
 00:17:45,599 --> 00:17:49,333
- the chips also absorb residual 
-    oil from punch pressing.    
+the chips also absorb residual oil from punch pressing.    
 
 332
 00:17:49,335 --> 00:17:52,470
- they punch out the lock levers 
-        and other parts.        
+they punch out the lock levers and other parts.        
 
 333
 00:17:52,472 --> 00:17:55,940
-     they plate all 23 parts    
-        with yellow zinc.       
+they plate all 23 parts with yellow zinc.       
 
 334
 00:17:55,942 --> 00:18:00,879
-       next, rivets funnel      
-    into a network of tubing.   
+next, rivets funnel into a network of tubing.   
 
 335
 00:18:00,881 --> 00:18:06,351
-   they tumble four at a time   
-    into an assembly device.    
+they tumble four at a time into an assembly device.    
 
 336
 00:18:06,353 --> 00:18:10,622
 there are different-sized rivets
-  to fit different-sized holes. 
+to fit different-sized holes. 
 
 337
 00:18:10,624 --> 00:18:13,157
-       the delivery system      
-        pushes the rivets       
+the delivery system pushes the rivets       
 
 338
 00:18:13,159 --> 00:18:15,694
-        up through holes        
-     in the assembly device.    
+up through holes in the assembly device.    
 
 339
 00:18:15,696 --> 00:18:19,030
 a factory worker places the back
-  of a lock body on the rivets, 
+of a lock body on the rivets, 
 
 340
 00:18:19,032 --> 00:18:22,968
-      and a hydraulic press     
-    squeezes them into place.   
+and a hydraulic press squeezes them into place.   
 
 341
 00:18:22,970 --> 00:18:25,437
-   he keeps a stash of rivets   
-        at the workbench        
+he keeps a stash of rivets at the workbench        
 
 342
 00:18:25,439 --> 00:18:28,573
-  in the event that the tubing  
-        doesn't deliver.        
+in the event that the tubing doesn't deliver.        
 
 343
 00:18:28,575 --> 00:18:30,308
-    the back of the lock body   
+the back of the lock body   
 
 344
 00:18:30,310 --> 00:18:33,311
-     is now ready to receive    
-       the lock mechanism.      
+is now ready to receive the lock mechanism.      
 
 345
 00:18:33,313 --> 00:18:36,381
-     there are 240 different    
-       lever combinations.      
+there are 240 different lever combinations.      
 
 346
 00:18:36,383 --> 00:18:39,584
-         the next worker        
-  determines which one to use.  
+the next worker determines which one to use.  
 
 347
 00:18:39,586 --> 00:18:43,121
-    she places the bolt lever   
-          in the casing         
+she places the bolt lever in the casing         
 
 348
 00:18:43,123 --> 00:18:46,391
- and slides all the other levers
-          onto a rivet.         
+and slides all the other levers
+onto a rivet.         
 
 349
 00:18:46,393 --> 00:18:50,128
- there are a total of six levers
-   in this particular padlock.  
+there are a total of six levers
+in this particular padlock.  
 
 350
 00:18:50,130 --> 00:18:52,997
-      some locks have more,     
-        some have fewer.        
+some locks have more, some have fewer.        
 
 351
 00:18:52,999 --> 00:18:56,434
-   the more levers there are,   
+the more levers there are,   
 the tougher the lock is to pick.
 
 352
 00:18:58,538 --> 00:19:01,673
-    she wraps a metal spring    
-        around a rivet...       
+she wraps a metal spring around a rivet...       
 
 353
 00:19:04,077 --> 00:19:07,545
- ...and then hinges the shackle 
-        to a third post.        
+...and then hinges the shackle to a third post.        
 
 354
 00:19:07,547 --> 00:19:09,681
-  she sets the back half aside  
+she sets the back half aside  
 
 355
 00:19:09,683 --> 00:19:14,752
- and assembles the keyhole cover
- to the front part of the lock. 
+and assembles the keyhole cover
+to the front part of the lock. 
 
 356
 00:19:14,754 --> 00:19:19,557
 she winds a spring around a post
-  and places the cover over it. 
+and places the cover over it. 
 
 357
 00:19:19,559 --> 00:19:24,295
- the spring will allow the cover
-   to be swung open and shut.   
+the spring will allow the cover
+to be swung open and shut.   
 
 358
 00:19:24,297 --> 00:19:26,598
-         a rivet secures        
-       the keyhole cover.       
+a rivet secures the keyhole cover.       
 
 359
 00:19:29,569 --> 00:19:33,104
-     she now brings the two     
-   lock body halves together,   
+she now brings the two lock body halves together,   
 
 360
 00:19:33,106 --> 00:19:35,974
-   so the rivets from the back  
-   protrude through the front.  
+so the rivets from the back protrude through the front.  
 
 361
 00:19:35,976 --> 00:19:39,277
-     she flattens the rivets    
-   to hold the parts together.  
+she flattens the rivets to hold the parts together.  
 
 362
 00:19:41,714 --> 00:19:43,982
-  the next part is the clevis.  
+the next part is the clevis.  
 
 363
 00:19:43,984 --> 00:19:46,784
-   it's a u-shaped attachment   
-           for a chain          
+it's a u-shaped attachment for a chain          
 
 364
 00:19:46,786 --> 00:19:50,889
- to make the lock easier to hang
- onto when not in lockdown mode.
+to make the lock easier to hang
+onto when not in lockdown mode.
 
 365
 00:19:52,659 --> 00:19:56,795
- another worker now categorizes 
-  the locks in separate boxes,  
+another worker now categorizes the locks in separate boxes,  
 
 366
 00:19:56,797 --> 00:19:58,730
-   according to the key code.   
+according to the key code.   
 
 367
 00:19:58,732 --> 00:20:02,934
- he leaves a key code i.d. card 
-          in each box.          
+he leaves a key code i.d. card in each box.          
 
 368
 00:20:02,936 --> 00:20:05,603
-    when transferring a lock    
-          for painting,         
+when transferring a lock for painting,         
 
 369
 00:20:05,605 --> 00:20:07,338
-  that i.d. card goes with it.  
+that i.d. card goes with it.  
 
 370
 00:20:07,340 --> 00:20:09,340
-  this system prevents mix-ups, 
+this system prevents mix-ups, 
 
 371
 00:20:09,342 --> 00:20:12,577
-  so that later they'll be able 
-     to make keys to match.     
+so that later they'll be able to make keys to match.     
 
 372
 00:20:18,485 --> 00:20:20,618
-      they spray the locks      
-         military green         
+they spray the locks military green         
 
 373
 00:20:20,620 --> 00:20:23,455
-    and give them four coats    
-    for corrosion resistance.   
+and give them four coats for corrosion resistance.   
 
 374
 00:20:26,760 --> 00:20:29,894
-       it's time to rev up      
-         the key cutter.        
+it's time to rev up the key cutter.        
 
 375
 00:20:29,896 --> 00:20:32,096
-   there are 240 key profiles   
+there are 240 key profiles   
 
 376
 00:20:32,098 --> 00:20:35,099
-   to match the 240 lever lock  
-          combinations.         
+to match the 240 lever lock combinations.         
 
 377
 00:20:35,101 --> 00:20:37,568
-  the operator sets the blades  
-     in the desired sequence    
+the operator sets the blades in the desired sequence    
 
 378
 00:20:37,570 --> 00:20:41,606
 and carves the keys to give them
-       the right geometry.      
+the right geometry.      
 
 379
 00:20:44,644 --> 00:20:46,377
-    with the correct profile,   
+with the correct profile,   
 
 380
 00:20:46,379 --> 00:20:49,647
-    the key lifts and lowers    
-     the levers in the lock     
+the key lifts and lowers the levers in the lock     
 
 381
 00:20:49,649 --> 00:20:51,850
-      to open and close it.     
+to open and close it.     
 
 382
 00:20:56,656 --> 00:21:00,391
-       a standard padlock       
-      comes with two keys.      
+a standard padlock comes with two keys.      
 
 383
 00:21:00,393 --> 00:21:01,859
-  if the owner loses them both, 
+if the owner loses them both, 
 
 384
 00:21:01,861 --> 00:21:04,395
-      the lock will usually     
-      need to be replaced.      
+the lock will usually need to be replaced.      
 
 385
 00:21:04,397 --> 00:21:07,798
- that's because the keycode is  
- never written on the lock body 
+that's because the keycode is never written on the lock body 
 
 386
 00:21:07,800 --> 00:21:09,234
-  to avoid tipping off thieves. 
+to avoid tipping off thieves. 
 
 387
 00:21:11,938 --> 00:21:14,939
-     the technician confirms    
-      that both keys work,      
+the technician confirms that both keys work,      
 
 388
 00:21:14,941 --> 00:21:18,409
-  and this lever padlock is now 
-    ready to thwart criminals   
+and this lever padlock is now ready to thwart criminals   
 
 389
 00:21:18,411 --> 00:21:20,678
-   and safeguard possessions.   
+and safeguard possessions.   
 
 390
 00:21:30,757 --> 00:21:33,491
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 391
 00:21:33,493 --> 00:21:36,227
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 392
 00:21:36,229 --> 00:21:39,397
-      drop us a line at...      
+drop us a line at...      
 

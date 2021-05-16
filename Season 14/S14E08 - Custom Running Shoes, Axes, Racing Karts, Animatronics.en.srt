@@ -1,922 +1,654 @@
 ﻿1
 00:00:05,673 --> 00:00:08,874
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:08,876 --> 00:00:11,844
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:55,990 --> 00:01:00,660
-   >> narrator: poorly fitted   
-              shoes             
-    can ruin a runner's day.    
-     they can compromise the    
+>> narrator: poorly fitted shoes can ruin a runner's day. they can compromise the    
 
 4
 00:01:00,662 --> 00:01:05,397
-   gait and lead to injuries.   
-  it's why custom-made running  
+gait and lead to injuries. it's why custom-made running  
 
 5
 00:01:05,399 --> 00:01:10,936
- tailored for one specific pair 
- of feet, they give the runner  
-   the necessary support to go  
+tailored for one specific pair of feet, they give the runner the necessary support to go  
 
 6
 00:01:10,938 --> 00:01:19,679
-           distance.            
- thanks to the use of synthetic 
+distance. thanks to the use of synthetic 
 
 7
 00:01:19,681 --> 00:01:26,552
- more lightweight and flexible  
-       than ever before.  custo 
+more lightweight and flexible than ever before.  custo 
 
 8
 00:01:26,554 --> 00:01:29,355
- the concept one step further.  
+the concept one step further.  
 
 9
 00:01:29,357 --> 00:01:44,036
- they start by taking a precise 
-  3-d laser scan of each foot.  
+they start by taking a precise 3-d laser scan of each foot.  
 
 10
 00:01:44,038 --> 00:01:50,676
-    device called a pressure    
-             plate.             
-  rubber tipped pins sprout up  
+device called a pressure plate. rubber tipped pins sprout up  
 
 11
 00:01:50,678 --> 00:01:58,383
-    this technique creates an   
-              exact             
- outline of the sole, including 
+this technique creates an exact outline of the sole, including 
 
 12
 00:01:58,385 --> 00:02:03,189
-   next, a high-pressure water  
-               jet              
- cuts through synthetic fabric  
+next, a high-pressure water jet cuts through synthetic fabric  
 
 13
 00:02:03,191 --> 00:02:07,994
-  a computer guides the cuts,   
-   following the measurements   
-              from   the scans. 
+a computer guides the cuts, following the measurements from   the scans. 
 
 14
 00:02:07,996 --> 00:02:13,465
-   the cutouts will be used to  
-              make              
-  the upper -- that's the part  
-               of the shoe that 
+the cutouts will be used to make the upper -- that's the part of the shoe that 
 
 15
 00:02:13,467 --> 00:02:19,004
-        top of the foot.        
- a seamstress sews together the 
+top of the foot. a seamstress sews together the 
 
 16
 00:02:19,006 --> 00:02:25,343
-  shell of the running shoe's   
-             upper.   uppers co 
+shell of the running shoe's upper.   uppers co 
 
 17
 00:02:25,345 --> 00:02:30,949
-   colors, and when a shoe is   
-   custom ordered, the athlete  
-               can choose.      
+colors, and when a shoe is custom ordered, the athlete can choose.      
 
 18
 00:02:30,951 --> 00:02:35,554
- after holes for the laces have 
-   been punched into the upper  
-              part    of the ru 
+after holes for the laces have been punched into the upper part    of the ru 
 
 19
 00:02:35,556 --> 00:02:40,292
-     seamstress stitches on     
-   stripes -- a trademark look  
-               for  the company 
+seamstress stitches on stripes -- a trademark look for  the company 
 
 20
 00:02:40,294 --> 00:02:51,903
-    she sews the tongue and a   
-             fabric             
- innersole to the upper, using  
+she sews the tongue and a fabric innersole to the upper, using  
 
 21
 00:02:51,905 --> 00:03:01,379
-        prevent fraying.        
-  the innersole joins the two   
+prevent fraying. the innersole joins the two   
 
 22
 00:03:01,381 --> 00:03:06,185
-     custom running shoe is     
-            starting            
-       to come together.  but t 
+custom running shoe is starting to come together.  but t 
 
 23
 00:03:06,187 --> 00:03:11,190
- structure before it's ready to 
-        pound pavement.  so, th 
+structure before it's ready to pound pavement.  so, th 
 
 24
 00:03:11,192 --> 00:03:18,197
-     plastic replica of the     
-            athlete's           
- foot, called a last, into the  
+plastic replica of the athlete's foot, called a last, into the  
 
 25
 00:03:18,199 --> 00:03:23,668
-  she glues fabric to the heel  
-               of               
- each shoe, and then pounds and 
-    presses it to ensure the fa 
+she glues fabric to the heel of each shoe, and then pounds and presses it to ensure the fa 
 
 26
 00:03:23,670 --> 00:03:25,937
-           adheres.             
+adheres.             
 
 27
 00:03:25,939 --> 00:03:36,748
-   left to sit for five hours,  
-               the              
- shoes conform to the shape of  
+left to sit for five hours, the shoes conform to the shape of  
 
 28
 00:03:36,750 --> 00:03:44,690
-   but if the measurements are  
-              even              
-   slightly off, they'll scrap  
-               the  shoe and st 
+but if the measurements are even slightly off, they'll scrap the  shoe and st 
 
 29
 00:03:44,692 --> 00:03:50,762
-     it's time for the foam     
-            midsoles.           
- the workers cut the foam with  
+it's time for the foam midsoles. the workers cut the foam with  
 
 30
 00:03:50,764 --> 00:03:57,969
-             feet.              
-  the foam is dual density for  
+feet. the foam is dual density for  
 
 31
 00:03:57,971 --> 00:04:03,375
-     he sands each midsole,     
-            beveling            
-           the tips.  this will 
+he sands each midsole, beveling the tips.  this will 
 
 32
 00:04:03,377 --> 00:04:12,585
- landing when the foot hits the 
-            ground. the outsole 
+landing when the foot hits the ground. the outsole 
 
 33
 00:04:12,587 --> 00:04:18,590
-    the worker sculpts these    
-             treaded            
-  rubber soles along the same   
+the worker sculpts these treaded rubber soles along the same   
 
 34
 00:04:18,592 --> 00:04:29,868
-      they'll fit together      
-           perfectly.           
-   he glues the mid and outer   
-              soles    together 
+they'll fit together perfectly. he glues the mid and outer soles    together 
 
 35
 00:04:29,870 --> 00:04:34,740
-  to make sure this job really  
-  sticks, they squeeze the two  
-     soles together using a   h 
+to make sure this job really sticks, they squeeze the two soles together using a   h 
 
 36
 00:04:34,742 --> 00:04:43,481
-             press.             
- in a custom shoe, the athlete  
+press. in a custom shoe, the athlete  
 
 37
 00:04:43,483 --> 00:04:48,354
-     a deeper tread is more     
- appropriate for trail running, 
+a deeper tread is more appropriate for trail running, 
 
 38
 00:04:48,356 --> 00:04:50,489
-       pavement better.         
+pavement better.         
 
 39
 00:04:50,491 --> 00:05:03,569
-    the worker now glues the    
-             bottom             
-    of the shoe to the top.     
-    the sole is made a little l 
+the worker now glues the bottom of the shoe to the top. the sole is made a little l 
 
 40
 00:05:03,571 --> 00:05:08,707
-  than the fabric upper, which  
-  allows her to fold it around  
-               the    upper for 
+than the fabric upper, which allows her to fold it around the    upper for 
 
 41
 00:05:08,709 --> 00:05:23,622
-  a machine they call the claw  
-   applies pressure to enhance  
-               the              
-   bonding of the sole to the s 
+a machine they call the claw applies pressure to enhance the bonding of the sole to the s 
 
 42
 00:05:23,624 --> 00:05:28,059
- then they insert a memory foam 
-    insole which melds to the   
-              shape  of the foo 
+then they insert a memory foam insole which melds to the shape  of the foo 
 
 43
 00:05:28,061 --> 00:05:33,732
- this insole is also breathable 
-  and has been treated with an  
+this insole is also breathable and has been treated with an  
 
 44
 00:05:33,734 --> 00:05:41,140
- the athlete's name on the heel 
-   is the final personal touch  
-               for   these cust 
+the athlete's name on the heel is the final personal touch for   these cust 
 
 45
 00:05:41,142 --> 00:05:46,745
-  they've taken about five days 
-               to               
- make, but they're ready for a  
+they've taken about five days to make, but they're ready for a  
 
 46
 00:05:46,747 --> 00:06:07,166
-    >> narrator: ever since     
-  primitive times, humans have  
+>> narrator: ever since primitive times, humans have  
 
 47
 00:06:07,168 --> 00:06:12,637
-  the first axes were simple,   
-  sharpened stones, but when a  
+the first axes were simple, sharpened stones, but when a  
 
 48
 00:06:12,639 --> 00:06:18,176
-  years ago, it increased the   
-   force that could be applied  
-              with each strike, 
+years ago, it increased the force that could be applied with each strike, 
 
 49
 00:06:18,178 --> 00:06:26,918
-    ax much greater impact.     
- today, the ax hasn't lost its  
+ax much greater impact. today, the ax hasn't lost its  
 
 50
 00:06:26,920 --> 00:06:32,591
-  despite the proliferation of  
- mechanized tools, it offers a  
+despite the proliferation of mechanized tools, it offers a  
 
 51
 00:06:32,593 --> 00:06:40,532
-         the job done.          
-     a modern ax starts as a    
-            cylinder of high-qu 
+the job done. a modern ax starts as a cylinder of high-qu 
 
 52
 00:06:40,534 --> 00:06:46,739
-    a ram nudges it into an     
-       induction furnace.       
-   the intense heat makes the s 
+a ram nudges it into an induction furnace. the intense heat makes the s 
 
 53
 00:06:46,741 --> 00:06:56,015
-     white hot and pliable,     
-            allowing            
- it to be stretched and shaped. 
-  a powerful press then pounds  
+white hot and pliable, allowing it to be stretched and shaped. a powerful press then pounds  
 
 54
 00:06:56,017 --> 00:07:06,691
- steel into a series of dies to 
- further define the ax profile. 
+steel into a series of dies to further define the ax profile. 
 
 55
 00:07:06,693 --> 00:07:12,030
-  operators now transfer the ax 
-               to               
- another ram, which presses it  
+operators now transfer the ax to another ram, which presses it  
 
 56
 00:07:12,032 --> 00:07:18,169
-           level it.            
-   then it's on to a revolving  
-              rack              
-  for a half-hour to cool down  
+level it. then it's on to a revolving rack for a half-hour to cool down  
 
 57
 00:07:18,171 --> 00:07:26,245
-   harden, just enough so they  
-               can              
-          be handled.  a worker 
+harden, just enough so they can be handled.  a worker 
 
 58
 00:07:26,247 --> 00:07:33,252
-      axes into a tumbler.      
-   they are tossed about with   
-              tiny              
-     steel pellets, and the   r 
+axes into a tumbler. they are tossed about with tiny steel pellets, and the   r 
 
 59
 00:07:33,254 --> 00:07:38,390
-  friction rubs scale from the  
- surface of the steel and also  
+friction rubs scale from the surface of the steel and also  
 
 60
 00:07:38,392 --> 00:07:50,602
-  then this worker presses the  
- back of the ax head against a  
-    sanding belt to bevel the e 
+then this worker presses the back of the ax head against a sanding belt to bevel the e 
 
 61
 00:07:50,604 --> 00:07:57,342
-  he sands the sides of the ax  
-   head for a smooth finish.  i 
+he sands the sides of the ax head for a smooth finish.  i 
 
 62
 00:07:57,344 --> 00:08:05,283
-    both sides of the cutting   
-              edge.             
-  it takes well-honed skill to  
-               do               
-      this with such quick      
+both sides of the cutting edge. it takes well-honed skill to do this with such quick      
 
 63
 00:08:05,285 --> 00:08:12,357
-  he then polishes the neck of  
-               the              
-     ax against a narrower,     
+he then polishes the neck of the ax against a narrower,     
 
 64
 00:08:12,359 --> 00:08:19,498
-  and it's time for a dip in a  
-  special solution, heated to   
+and it's time for a dip in a special solution, heated to   
 
 65
 00:08:19,500 --> 00:08:24,502
-  they then quench the red-hot  
-       steel in warm oil.  the  
+they then quench the red-hot steel in warm oil.  the  
 
 66
 00:08:24,504 --> 00:08:30,308
-    hardens the metal so it's   
-              tough             
-  enough for any wood-chopping  
+hardens the metal so it's tough enough for any wood-chopping  
 
 67
 00:08:30,310 --> 00:08:35,581
- at the next station, a worker  
-  assembles prepunched leather  
-               and  plastic rin 
+at the next station, a worker assembles prepunched leather and  plastic rin 
 
 68
 00:08:35,583 --> 00:08:41,120
-             grip.              
- she places the black-and-white 
-  plastic rings at each end of  
+grip. she places the black-and-white plastic rings at each end of  
 
 69
 00:08:41,122 --> 00:08:48,193
-  leather pad, to give the grip 
-                a               
-        customized look.   the  
+leather pad, to give the grip a customized look.   the  
 
 70
 00:08:48,195 --> 00:08:55,867
- smaller as she tapers the grip 
-  to fit the throat ax handle.  
-    it takes about 36 of the    
+smaller as she tapers the grip to fit the throat ax handle. it takes about 36 of the    
 
 71
 00:08:55,869 --> 00:09:05,144
-   rings and 6 plastic ones to  
-              make              
-           one grip. she transf 
+rings and 6 plastic ones to make one grip. she transf 
 
 72
 00:09:05,146 --> 00:09:11,483
-     an assembly press...and    
-             inserts            
-    the lower part of the ax,   
-              which  has been l 
+an assembly press...and inserts the lower part of the ax, which  has been l 
 
 73
 00:09:11,485 --> 00:09:18,223
-  wax, into the grip's center   
-             holes.    a hydrau 
+wax, into the grip's center holes.    a hydrau 
 
 74
 00:09:18,225 --> 00:09:23,028
-            through.            
-  the lubrication ensures this  
-               job doesn't hit  
+through. the lubrication ensures this job doesn't hit  
 
 75
 00:09:23,030 --> 00:09:33,972
-  she now flattens metal prongs 
-               at               
-    the base of the handle to   
-             secure    the grip 
+she now flattens metal prongs at the base of the handle to secure    the grip 
 
 76
 00:09:33,974 --> 00:09:39,978
-   the axes rotate as a long,   
-   abrasive belt rocks against  
-               the    leather.  
+the axes rotate as a long, abrasive belt rocks against the    leather.  
 
 77
 00:09:39,980 --> 00:09:43,982
- it sands the grip to make the  
-         layers flush.          
+it sands the grip to make the layers flush.          
 
 78
 00:09:43,984 --> 00:09:56,061
- a worker finishes off the job  
- with a particularly aggressive 
+a worker finishes off the job with a particularly aggressive 
 
 79
 00:09:56,063 --> 00:10:13,678
- his handiwork makes this grip  
-      look really smooth.  a di 
+his handiwork makes this grip look really smooth.  a di 
 
 80
 00:10:13,680 --> 00:10:19,751
-  out the grain of the various  
-  pieces of leather, and they   
+out the grain of the various pieces of leather, and they   
 
 81
 00:10:19,753 --> 00:10:32,096
-     once the lacquer dries,    
-             another            
-  worker polishes the exposed   
-   steel against a belt with a  
+once the lacquer dries, another worker polishes the exposed steel against a belt with a  
 
 82
 00:10:32,098 --> 00:10:38,903
-           fine grit.           
-  the result is a glossy sheen  
+fine grit. the result is a glossy sheen  
 
 83
 00:10:38,905 --> 00:10:41,640
-   definitely look good on the  
-              job.              
+definitely look good on the job.              
 
 84
 00:10:41,642 --> 00:10:53,118
-   it takes about two days to   
-              make              
- one of these axes, but they're 
+it takes about two days to make one of these axes, but they're 
 
 85
 00:10:53,120 --> 00:11:16,274
- >> narrator: kart racing is an 
- international motor sport that 
-      has a huge following,   e 
+>> narrator: kart racing is an international motor sport that has a huge following,   e 
 
 86
 00:11:16,276 --> 00:11:20,546
-           in europe.           
-   the karts look a bit like mi 
+in europe. the karts look a bit like mi 
 
 87
 00:11:20,548 --> 00:11:25,751
- but have no suspension system. 
-  kart racing can be even more  
+but have no suspension system. kart racing can be even more  
 
 88
 00:11:25,753 --> 00:11:33,492
-      [ engine revving ]        
-    of their small size and     
-   increased maneuverability.   
+[ engine revving ] of their small size and increased maneuverability.   
 
 89
 00:11:33,494 --> 00:11:40,565
-  this italian-made racing kart 
-               --               
-  with its one-cylinder, 125cc  
-   engine -- reaches speeds of  
+this italian-made racing kart -- with its one-cylinder, 125cc engine -- reaches speeds of  
 
 90
 00:11:40,567 --> 00:11:45,903
-        miles per hour.         
-   an aluminum case houses all  
-               the   engine com 
+miles per hour. an aluminum case houses all the   engine com 
 
 91
 00:11:45,905 --> 00:11:54,445
- a computer-guided drill bores  
-  various holes for installing  
+a computer-guided drill bores various holes for installing  
 
 92
 00:11:54,447 --> 00:11:59,651
-  first in -- the engine's six  
-          steel gears.          
-      each gear is actually   c 
+first in -- the engine's six steel gears. each gear is actually   c 
 
 93
 00:11:59,653 --> 00:12:08,327
-       of several gears.        
- they thread them onto a shaft. 
+of several gears. they thread them onto a shaft. 
 
 94
 00:12:08,329 --> 00:12:10,995
-           gear box.            
+gear box.            
 
 95
 00:12:10,997 --> 00:12:24,742
- behind the gears goes the gear 
-   shifter, which the driver op 
+behind the gears goes the gear shifter, which the driver op 
 
 96
 00:12:24,744 --> 00:12:30,015
-  next comes the drive shaft.   
- it turns a chain that rotates  
+next comes the drive shaft. it turns a chain that rotates  
 
 97
 00:12:30,017 --> 00:12:39,691
-    rear wheels are mounted.    
-    on the other side of the    
-             engine case, they  
+rear wheels are mounted. on the other side of the engine case, they  
 
 98
 00:12:39,693 --> 00:12:45,430
-       drive-shaft gears.       
- these ensure the shaft rotates 
-   at a stable and controlled r 
+drive-shaft gears. these ensure the shaft rotates at a stable and controlled r 
 
 99
 00:12:45,432 --> 00:12:51,703
-   the red markings help the    
-  technicians align the gears.  
+the red markings help the technicians align the gears.  
 
 100
 00:12:51,705 --> 00:12:56,508
-           gear box.            
-   the clutch's main housing,   
+gear box. the clutch's main housing,   
 
 101
 00:12:56,510 --> 00:13:02,113
-         clutch disks.          
-      these disks transmit      
-           crankshaft  motion t 
+clutch disks. these disks transmit crankshaft  motion t 
 
 102
 00:13:02,115 --> 00:13:11,123
-  turns the drive shaft, which  
-  moves the chain that rotates  
-               the  rear wheels 
+turns the drive shaft, which moves the chain that rotates the  rear wheels 
 
 103
 00:13:11,125 --> 00:13:20,665
-  thick steel springs grip and  
-   release the clutch disks.    
-   this flap component, called  
+thick steel springs grip and release the clutch disks. this flap component, called  
 
 104
 00:13:20,667 --> 00:13:26,804
- lameli pack, controls how much 
-    fuel enters the engine.  st 
+lameli pack, controls how much fuel enters the engine.  st 
 
 105
 00:13:26,806 --> 00:13:32,678
-  pedal creates a vacuum that   
-  opens the flaps and sucks in  
+pedal creates a vacuum that opens the flaps and sucks in  
 
 106
 00:13:32,680 --> 00:13:39,418
- the cylinder houses the piston 
- that rotates the crank shaft.  
+the cylinder houses the piston that rotates the crank shaft.  
 
 107
 00:13:39,420 --> 00:13:47,025
-      cylinder in which the     
-           combustion           
-         cycle occurs.  the ign 
+cylinder in which the combustion cycle occurs.  the ign 
 
 108
 00:13:47,027 --> 00:13:59,971
-      side of the engine.       
- the engine is now finished and 
+side of the engine. the engine is now finished and 
 
 109
 00:13:59,973 --> 00:14:08,447
-    technicians use special     
-   instruments to monitor and   
+technicians use special instruments to monitor and   
 
 110
 00:14:08,449 --> 00:14:14,052
-  the racing kart's chassis is  
-     made of steel tubing.      
-     at the back, they mount    
+the racing kart's chassis is made of steel tubing. at the back, they mount    
 
 111
 00:14:14,054 --> 00:14:24,129
-     to hold the rear axle.     
-    then they mount the axle    
-             itself    and on i 
+to hold the rear axle. then they mount the axle itself    and on i 
 
 112
 00:14:24,131 --> 00:14:29,200
- they attach brake calipers to  
-          the chassis.          
-  under breaking, they squeeze  
+they attach brake calipers to the chassis. under breaking, they squeeze  
 
 113
 00:14:29,202 --> 00:14:34,806
- disks to stop the wheels from  
-            turning.            
-    after measuring again, to e 
+disks to stop the wheels from turning. after measuring again, to e 
 
 114
 00:14:34,808 --> 00:14:40,077
-   the rear axle is perfectly   
-  centered, they lock it into p 
+the rear axle is perfectly centered, they lock it into p 
 
 115
 00:14:40,079 --> 00:14:46,284
-    it to rotate, of course.    
-  now for the steering system.  
+it to rotate, of course. now for the steering system.  
 
 116
 00:14:46,286 --> 00:14:50,888
- technicians mount a spindle on 
-           each side.  the spin 
+technicians mount a spindle on each side.  the spin 
 
 117
 00:14:50,890 --> 00:14:53,024
-         front wheels.          
+front wheels.          
 
 118
 00:14:53,026 --> 00:15:05,036
-  once technicians fasten the   
-  steering column up top, they  
+once technicians fasten the steering column up top, they  
 
 119
 00:15:05,038 --> 00:15:07,505
-           spindles.            
+spindles.            
 
 120
 00:15:07,507 --> 00:15:20,252
- tie rods transmit the rotation 
-   of the steering column, via  
-               the spindles, to 
+tie rods transmit the rotation of the steering column, via the spindles, to 
 
 121
 00:15:20,254 --> 00:15:29,928
-  next, technicians mount two   
-  spring-loaded pedals in front 
-               of  the chassis. 
+next, technicians mount two spring-loaded pedals in front of  the chassis. 
 
 122
 00:15:29,930 --> 00:15:35,600
- the brake system is hydraulic, 
- meaning that pressurized fluid 
+the brake system is hydraulic, meaning that pressurized fluid 
 
 123
 00:15:35,602 --> 00:15:45,944
-  or release the brake disks.   
-  next come the wheel humps on  
+or release the brake disks. next come the wheel humps on  
 
 124
 00:15:45,946 --> 00:15:51,349
-       then the engine...       
-    followed by the tires...    
-    and a fiberglass driver's s 
+then the engine... followed by the tires... and a fiberglass driver's s 
 
 125
 00:15:51,351 --> 00:15:57,422
-   which, due to the lack of    
-   suspension, lets the driver  
-              feel    every inc 
+which, due to the lack of suspension, lets the driver feel    every inc 
 
 126
 00:15:57,424 --> 00:16:03,295
- finally -- the steering wheel  
-   and a data recording device  
-              that              
-  tracks everything from speed  
+finally -- the steering wheel and a data recording device that tracks everything from speed  
 
 127
 00:16:03,297 --> 00:16:06,965
-  lap time to tire and exhaust  
-         temperatures.          
+lap time to tire and exhaust temperatures.          
 
 128
 00:16:06,967 --> 00:16:25,650
-  >> narrator: animatronics is  
-               the              
-     construction of robotic    
-             puppets  that move 
+>> narrator: animatronics is the construction of robotic puppets  that move 
 
 129
 00:16:25,652 --> 00:16:30,722
-   you often see animatronic    
- characters in science fiction  
+you often see animatronic characters in science fiction  
 
 130
 00:16:30,724 --> 00:16:35,126
-         and carnivals.         
-  please be advised that this   
+and carnivals. please be advised that this   
 
 131
 00:16:35,128 --> 00:16:44,936
-     may not be suitable for    
-             younger            
-            viewers.   when it  
+may not be suitable for younger viewers.   when it  
 
 132
 00:16:44,938 --> 00:16:51,008
-  genre, the more gruesome the  
-   animatronic character, the b 
+genre, the more gruesome the animatronic character, the b 
 
 133
 00:16:51,010 --> 00:16:56,080
-      meet crazy kristen.       
-  she starts out as a hunk of   
+meet crazy kristen. she starts out as a hunk of   
 
 134
 00:16:56,082 --> 00:17:05,624
-  her creator sculpts her form  
-               on               
-       a vertical table. once h 
+her creator sculpts her form on a vertical table. once h 
 
 135
 00:17:05,626 --> 00:17:10,161
-   switches to finer tools to   
-              craft             
-      her gory features.        
+switches to finer tools to craft her gory features.        
 
 136
 00:17:10,163 --> 00:17:27,245
- he uses water and a sponge to  
-     give her skin realistic    
-            texture.            
-   once the clay is hardened,   
+he uses water and a sponge to give her skin realistic texture. once the clay is hardened,   
 
 137
 00:17:27,247 --> 00:17:35,853
- lay crazy kristen on her back  
-    and drown here in gypsum    
+lay crazy kristen on her back and drown here in gypsum    
 
 138
 00:17:35,855 --> 00:17:41,059
- in an hour or so, the plaster  
-   sets, and they remove the    
-   sculpture, creating a mold   
+in an hour or so, the plaster sets, and they remove the sculpture, creating a mold   
 
 139
 00:17:41,061 --> 00:17:48,600
- which they'll produce multiple 
-        crazy kristens.         
-   the mold is quite heavy, so  
+which they'll produce multiple crazy kristens. the mold is quite heavy, so  
 
 140
 00:17:48,602 --> 00:17:54,739
-   easier handling, they sever  
-               the              
-          body in two.   then t 
+easier handling, they sever the body in two.   then t 
 
 141
 00:17:54,741 --> 00:18:00,745
-    cavity with liquid latex    
-             rubber.            
-  a three-millimeter skin soon  
-    hardens against the mold ca 
+cavity with liquid latex rubber. a three-millimeter skin soon hardens against the mold ca 
 
 142
 00:18:00,747 --> 00:18:09,487
-             wall.              
- they suction out the remaining 
+wall. they suction out the remaining 
 
 143
 00:18:09,489 --> 00:18:16,361
-  meanwhile, they weld together 
-                a               
-   steel skeleton, a grate for  
-               her              
-    rib cage, a strip for her   
+meanwhile, they weld together a steel skeleton, a grate for her rib cage, a strip for her   
 
 144
 00:18:16,363 --> 00:18:23,034
- chains for her arm bones, ball 
-  bearings for her joints, and  
-   steel reinforced rubber for  
+chains for her arm bones, ball bearings for her joints, and steel reinforced rubber for  
 
 145
 00:18:23,036 --> 00:18:32,243
-             neck.              
- so far, crazy kristen has skin 
+neck. so far, crazy kristen has skin 
 
 146
 00:18:32,245 --> 00:18:40,518
-      now she needs flesh.      
-   they fill each mold cavity   
-              with  expanding p 
+now she needs flesh. they fill each mold cavity with  expanding p 
 
 147
 00:18:40,520 --> 00:18:45,056
- to control the expansion, they 
-  cover the top with a plastic  
+to control the expansion, they cover the top with a plastic  
 
 148
 00:18:45,058 --> 00:18:53,464
-          their hands.          
- the lower body doesn't require 
+their hands. the lower body doesn't require 
 
 149
 00:18:53,466 --> 00:18:58,736
- because it's immobile -- just  
-  steel chains to hold them in  
+because it's immobile -- just steel chains to hold them in  
 
 150
 00:18:58,738 --> 00:19:14,485
-   once the foam hardens, it's  
-              safe              
-   to extract crazy kristen's   
-              body from the mol 
+once the foam hardens, it's safe to extract crazy kristen's body from the mol 
 
 151
 00:19:14,487 --> 00:19:21,559
-   they trim off excess latex   
-              along             
-  the perimeter...then sit her  
-      upper body on a large   s 
+they trim off excess latex along the perimeter...then sit her upper body on a large   s 
 
 152
 00:19:21,561 --> 00:19:28,833
-   ball bearing mounted on a    
-      vertical metal base.   th 
+ball bearing mounted on a vertical metal base.   th 
 
 153
 00:19:28,835 --> 00:19:34,238
-   through holes in the base.   
- each rod is bolted to a plate  
+through holes in the base. each rod is bolted to a plate  
 
 154
 00:19:34,240 --> 00:19:40,311
-    joints in her skeleton.     
-  the other end gets welded to  
-               the  base.       
+joints in her skeleton. the other end gets welded to the  base.       
 
 155
 00:19:40,313 --> 00:19:45,383
- these cylinder are pneumatic,  
- meaning air pressure opens and 
+these cylinder are pneumatic, meaning air pressure opens and 
 
 156
 00:19:45,385 --> 00:19:51,789
-  crazy kristen thrash about.   
-  it's all controlled by this d 
+crazy kristen thrash about. it's all controlled by this d 
 
 157
 00:19:51,791 --> 00:19:58,262
-       guitar amplifier.        
- it sends electric pulses that  
-      control the pneumatic   c 
+guitar amplifier. it sends electric pulses that control the pneumatic   c 
 
 158
 00:19:58,264 --> 00:20:02,801
-     an actress records the     
-    accompanying shrieks and    
-             moans.    >> [ scr 
+an actress records the accompanying shrieks and moans.    >> [ scr 
 
 159
 00:20:02,803 --> 00:20:07,272
- >> narrator: they transfer the 
-   soundtrack to the digital  c 
+>> narrator: they transfer the soundtrack to the digital  c 
 
 160
 00:20:07,274 --> 00:20:14,679
-      the box triggers the      
- sound effects, along with the  
+the box triggers the sound effects, along with the  
 
 161
 00:20:14,681 --> 00:20:20,417
-       it's time to apply       
-    crazy kristen's makeup.     
-  for her skin colors, they use 
+it's time to apply crazy kristen's makeup. for her skin colors, they use 
 
 162
 00:20:20,419 --> 00:20:29,093
- half-and-half mixture of house 
- paint and liquid latex rubber. 
+half-and-half mixture of house paint and liquid latex rubber. 
 
 163
 00:20:29,095 --> 00:20:32,830
-     off-white opaque ink.      
+off-white opaque ink.      
 
 164
 00:20:32,832 --> 00:20:38,503
@@ -924,20 +656,19 @@ then they airbrush the iris...
 
 165
 00:20:38,505 --> 00:20:40,371
-   and paint in the pupil with  
-              the               
+and paint in the pupil with the               
 
 166
 00:20:40,373 --> 00:20:46,644
- stick end of a small brush...  
+stick end of a small brush...  
 
 167
 00:20:46,646 --> 00:20:50,181
- a few veins with a red pen...  
+a few veins with a red pen...  
 
 168
 00:20:50,183 --> 00:20:51,783
-     airbrushed ink on her      
+airbrushed ink on her      
 
 169
 00:20:51,785 --> 00:20:54,118
@@ -945,37 +676,35 @@ mouthguard...and finally clear
 
 170
 00:20:54,120 --> 00:20:56,654
-   epoxy over her eyeballs, to  
-              make              
+epoxy over her eyeballs, to make              
 
 171
 00:20:56,656 --> 00:21:03,127
-         them glassy.           
+them glassy.           
 
 172
 00:21:03,129 --> 00:21:05,129
- they top her off with a wig,   
+they top her off with a wig,   
 
 173
 00:21:05,131 --> 00:21:07,065
-  mount her lower body to the   
+mount her lower body to the   
 
 174
 00:21:07,067 --> 00:21:08,933
- base, then complete her look   
+base, then complete her look   
 
 175
 00:21:08,935 --> 00:21:11,069
-     with a straight jacket,    
-            because             
+with a straight jacket, because             
 
 176
 00:21:11,071 --> 00:21:12,937
-    crazy kristen's home is     
+crazy kristen's home is     
 
 177
 00:21:12,939 --> 00:21:16,074
-      the insane asylum.        
+the insane asylum.        
 
 178
 00:21:16,076 --> 00:21:25,950
@@ -983,14 +712,13 @@ if you have any comments about
 
 179
 00:21:25,952 --> 00:21:27,685
- the show, or if you'd like to  
+the show, or if you'd like to  
 
 180
 00:21:27,687 --> 00:21:29,554
-    suggest topics for future   
-             shows,             
+suggest topics for future shows,             
 
 181
 00:21:29,556 --> 00:21:29,720
-             drop               
+drop               
 

@@ -1,174 +1,149 @@
 ﻿1
 00:00:01,735 --> 00:00:04,670
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>
 
 2
 00:00:04,672 --> 00:00:07,706
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc.
 
 3
 00:00:22,623 --> 00:00:26,358
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...
 
 4
 00:00:26,360 --> 00:00:30,028
-   winter jackets, animation,   
+winter jackets, animation,
 
 5
 00:00:30,030 --> 00:00:34,099
-   mushrooms, and gold rings.   
+mushrooms, and gold rings.
 
 6
 00:00:37,370 --> 00:00:40,906
-    as anyone who's shivered    
-  through a cold winter knows,  
+as anyone who's shivered through a cold winter knows,
 
 7
 00:00:40,908 --> 00:00:44,109
- you've got your run-of-the-mill
-         winter jackets         
+you've got your run-of-the-mill
+winter jackets
 
 8
 00:00:44,111 --> 00:00:46,311
-            and then,           
-those really warm winter jackets
+and then, those really warm winter jackets
 
 9
 00:00:46,313 --> 00:00:48,380
-   that can run up to $1,000.   
+that can run up to $1,000.
 
 10
 00:00:48,382 --> 00:00:52,985
- the difference is what they're 
- made of and how they're made.  
+the difference is what they're made of and how they're made.
 
 11
 00:00:52,987 --> 00:00:57,189
- a top-of-the-line winter jacket
-      gives you the warmth      
+a top-of-the-line winter jacket
+gives you the warmth
 
 12
 00:00:57,191 --> 00:00:58,790
-       without the weight.      
+without the weight.
 
 13
 00:00:58,792 --> 00:01:01,659
-         it's waterproof        
-       and comfortable --       
+it's waterproof and comfortable --
 
 14
 00:01:01,661 --> 00:01:05,063
-        no bulky stuffing       
-    or constrictive styling.    
+no bulky stuffing or constrictive styling.
 
 15
 00:01:05,065 --> 00:01:07,866
-  the designer draws a pattern  
-          by computer.          
+the designer draws a pattern by computer.
 
 16
 00:01:07,868 --> 00:01:11,870
- a software program then adapts 
- the pattern to different sizes.
+a software program then adapts the pattern to different sizes.
 
 17
 00:01:11,872 --> 00:01:15,073
-     a giant printer puts it    
-            to paper.           
+a giant printer puts it to paper.
 
 18
 00:01:15,075 --> 00:01:18,077
-     the tailor spreads out     
-         several layers         
+the tailor spreads out several layers
 
 19
 00:01:18,079 --> 00:01:21,480
-     of each of the fabrics     
-   that'll make up the jacket.  
+of each of the fabrics that'll make up the jacket.
 
 20
 00:01:27,221 --> 00:01:29,988
-   he lays out the pattern...   
+he lays out the pattern...
 
 21
 00:01:32,960 --> 00:01:35,761
-    ...then pins it in place.   
+...then pins it in place.
 
 22
 00:01:42,103 --> 00:01:45,570
-  next, he cuts through several 
-   layers of fabric at a time   
+next, he cuts through several layers of fabric at a time
 
 23
 00:01:45,572 --> 00:01:47,239
-     with electric scissors.    
+with electric scissors.
 
 24
 00:01:47,241 --> 00:01:50,175
-     these scissors maneuver    
-       much like a jigsaw       
+these scissors maneuver much like a jigsaw
 
 25
 00:01:50,177 --> 00:01:53,579
-   around the lines and curves  
-     of the pattern pieces.     
+around the lines and curves of the pattern pieces.
 
 26
 00:01:53,581 --> 00:01:56,715
-       the finished jacket      
-    will actually be made up    
+the finished jacket will actually be made up
 
 27
 00:01:56,717 --> 00:01:58,850
- of two jackets sewn together --
+of two jackets sewn together --
 
 28
 00:01:58,852 --> 00:02:01,452
-      an insulation jacket      
-          on the inside         
+an insulation jacket on the inside
 
 29
 00:02:01,454 --> 00:02:03,889
-        and a windbreaker       
-         on the outside.        
+and a windbreaker on the outside.
 
 30
 00:02:10,998 --> 00:02:14,933
-   the inner insulation jacket  
-   begins with a nylon lining.  
+the inner insulation jacket begins with a nylon lining.
 
 31
 00:02:14,935 --> 00:02:17,735
-         then they layer        
-      the key components --     
+then they layer the key components --
 
 32
 00:02:17,737 --> 00:02:21,073
- a film to stabilize and protect
-         the insulation,        
+a film to stabilize and protect
+the insulation,
 
 33
 00:02:21,075 --> 00:02:24,343
-    then the thick polyester    
-       insulation itself.       
+then the thick polyester insulation itself.
 
 34
 00:02:24,345 --> 00:02:28,613
-  at this point, the insulation 
-layer is larger than the lining.
+at this point, the insulation layer is larger than the lining.
 
 35
 00:02:28,615 --> 00:02:32,617
-this ensures that every inch of 
-the jacket will have insulation.
+this ensures that every inch of the jacket will have insulation.
 
 36
 00:02:32,619 --> 00:02:34,819
-     working with one piece     
-           at a time,           
+working with one piece at a time,
 
 37
 00:02:34,821 --> 00:02:37,355
@@ -177,39 +152,36 @@ they stitch the layers together.
 38
 00:02:37,357 --> 00:02:40,292
 each line of stitching is tacked
-at the beginning and at the end 
+at the beginning and at the end
 
 39
 00:02:40,294 --> 00:02:41,960
-       for added strength.      
+for added strength.
 
 40
 00:02:43,964 --> 00:02:46,365
-          they cut off          
-     the excess insulation,     
+they cut off the excess insulation,
 
 41
 00:02:46,367 --> 00:02:49,100
-      then sew an overlock      
-        around each piece       
+then sew an overlock around each piece
 
 42
 00:02:49,102 --> 00:02:51,970
 to hold the remaining insulation
-        solidly in place.       
+solidly in place.
 
 43
 00:02:51,972 --> 00:02:55,974
-   once they've completed each  
- piece of the insulation jacket,
+once they've completed each piece of the insulation jacket,
 
 44
 00:02:55,976 --> 00:02:58,843
-    they sew it all together.   
+they sew it all together.
 
 45
 00:02:58,845 --> 00:03:02,447
-  next step -- the windbreaker. 
+next step -- the windbreaker.
 
 46
 00:03:02,449 --> 00:03:05,717
@@ -217,194 +189,165 @@ the outer fabric is heavy nylon.
 
 47
 00:03:05,719 --> 00:03:08,119
- the lining is a special fabric 
-        with tiny holes,        
+the lining is a special fabric with tiny holes,
 
 48
 00:03:08,121 --> 00:03:10,922
-          large enough          
-     to let humidity escape,    
+large enough to let humidity escape,
 
 49
 00:03:10,924 --> 00:03:13,725
-        but small enough        
-     to stop water droplets     
+but small enough to stop water droplets
 
 50
 00:03:13,727 --> 00:03:15,460
-   and wind from penetrating.   
+and wind from penetrating.
 
 51
 00:03:15,462 --> 00:03:18,329
-     this is what will allow    
-      the jacket to breath,     
+this is what will allow the jacket to breath,
 
 52
 00:03:18,331 --> 00:03:19,797
-     while at the same time,    
+while at the same time,
 
 53
 00:03:19,799 --> 00:03:22,467
-       making it windproof      
-         and waterproof.        
+making it windproof and waterproof.
 
 54
 00:03:22,469 --> 00:03:26,805
-  finally, it's time to put the 
- two jacket components together.
+finally, it's time to put the two jacket components together.
 
 55
 00:03:26,807 --> 00:03:29,074
-       using two separate       
-         strong threads,        
+using two separate strong threads,
 
 56
 00:03:29,076 --> 00:03:31,943
-         they sew seams         
-    made of knotted stitches.   
+they sew seams made of knotted stitches.
 
 57
 00:03:31,945 --> 00:03:34,012
- no seams go through the jacket 
+no seams go through the jacket
 
 58
 00:03:34,014 --> 00:03:37,149
-    because that would break    
-     the insulation barrier     
+because that would break the insulation barrier
 
 59
 00:03:37,151 --> 00:03:39,284
-      and let in cold air.      
+and let in cold air.
 
 60
 00:03:39,286 --> 00:03:41,419
-            they join           
-    the two jackets together    
+they join the two jackets together
 
 61
 00:03:41,421 --> 00:03:44,889
-   only where they have to --   
-   at the collar, the cuffs,    
+only where they have to -- at the collar, the cuffs,
 
 62
 00:03:44,891 --> 00:03:48,493
-            the hem,            
-      and along the zipper.     
+the hem, and along the zipper.
 
 63
 00:03:48,495 --> 00:03:51,562
-         and this isn't         
-      any ordinary zipper.      
+and this isn't any ordinary zipper.
 
 64
 00:03:51,564 --> 00:03:53,632
-            it's made           
-  of corrosion-resistant nylon  
+it's made of corrosion-resistant nylon
 
 65
 00:03:53,634 --> 00:03:55,033
-   with a nickel-plated slider  
+with a nickel-plated slider
 
 66
 00:03:55,035 --> 00:03:58,770
-  that lasts seven times longer 
-      than a normal slider.     
+that lasts seven times longer than a normal slider.
 
 67
 00:03:58,772 --> 00:04:03,108
- until now, they've been sewing 
- the jacket turned inside out.  
+until now, they've been sewing the jacket turned inside out.
 
 68
 00:04:03,110 --> 00:04:06,478
- now they turn it right-side in 
-         for finishing.         
+now they turn it right-side in for finishing.
 
 69
 00:04:12,452 --> 00:04:15,120
-     these heavy-duty snaps     
-        have sturdy grips       
+these heavy-duty snaps have sturdy grips
 
 70
 00:04:15,122 --> 00:04:18,657
- that anchor themselves between 
-   the fibers in the material   
+that anchor themselves between the fibers in the material
 
 71
 00:04:18,659 --> 00:04:21,793
-  so they won't tear the fabric 
-       with repeated use.       
+so they won't tear the fabric with repeated use.
 
 72
 00:04:27,201 --> 00:04:30,602
-          some jackets          
-   have decorative embroidery.  
+some jackets have decorative embroidery.
 
 73
 00:04:30,604 --> 00:04:34,106
 designers use a computer program
-     to prepare the pattern.    
+to prepare the pattern.
 
 74
 00:04:36,610 --> 00:04:40,312
 the automatic machine embroiders
-      five jackets at once.     
+five jackets at once.
 
 75
 00:04:54,161 --> 00:04:59,298
-   this intricate owl pattern   
- takes 1 1/4 hours to complete. 
+this intricate owl pattern takes 1 1/4 hours to complete.
 
 76
 00:05:06,640 --> 00:05:09,240
-        the final result        
-       is a stylish jacket      
+the final result is a stylish jacket
 
 77
 00:05:09,242 --> 00:05:12,977
-     whose secret weapon is     
-that hidden layer of insulation.
+whose secret weapon is that hidden layer of insulation.
 
 78
 00:05:12,979 --> 00:05:14,980
- it traps air inside your body, 
+it traps air inside your body,
 
 79
 00:05:14,982 --> 00:05:16,581
-        then heats it up,       
+then heats it up,
 
 80
 00:05:16,583 --> 00:05:21,019
-  creating a cushion of warmth  
-  against the cold of winter.   
+creating a cushion of warmth against the cold of winter.
 
 81
 00:05:28,261 --> 00:05:30,529
-            narrator:           
-      what is biophotonics?     
+narrator: what is biophotonics?
 
 82
 00:05:30,531 --> 00:05:32,531
- well, bio is short for biology.
+well, bio is short for biology.
 
 83
 00:05:32,533 --> 00:05:34,799
-    photonics is the physics    
-            of light.           
+photonics is the physics of light.
 
 84
 00:05:34,801 --> 00:05:37,469
-          biophotonics          
-   uses sophisticated imaging   
+biophotonics uses sophisticated imaging
 
 85
 00:05:37,471 --> 00:05:40,072
-       and other sensitive      
-       optical instruments      
+and other sensitive optical instruments
 
 86
 00:05:40,074 --> 00:05:42,941
- to conduct biomedical research.
+to conduct biomedical research.
 
 87
 00:05:42,943 --> 00:05:45,143
@@ -412,65 +355,55 @@ biophotonics has a range of uses
 
 88
 00:05:45,145 --> 00:05:48,280
-     from medical diagnosis     
-       to drug screening.       
+from medical diagnosis to drug screening.
 
 89
 00:05:53,487 --> 00:05:56,088
-       in the golden years      
-        of animated film,       
+in the golden years of animated film,
 
 90
 00:05:56,090 --> 00:05:59,825
-  teams of animators would draw 
-    every single illustration   
+teams of animators would draw every single illustration
 
 91
 00:05:59,827 --> 00:06:02,427
-            by hand.            
+by hand.
 
 92
 00:06:02,429 --> 00:06:05,897
-       today, they do much      
-   of their work by computer,   
+today, they do much of their work by computer,
 
 93
 00:06:05,899 --> 00:06:08,734
-      but that doesn't mean     
-     it's any less artistic.    
+but that doesn't mean it's any less artistic.
 
 94
 00:06:11,038 --> 00:06:13,438
-          it all starts         
-      with a screenplay --      
+it all starts with a screenplay --
 
 95
 00:06:13,440 --> 00:06:16,041
-       a script containing      
-       not just dialogue,       
+a script containing not just dialogue,
 
 96
 00:06:16,043 --> 00:06:19,110
- but also physical descriptions 
-        of the characters       
+but also physical descriptions of the characters
 
 97
 00:06:19,112 --> 00:06:20,979
-     and background scenery.    
+and background scenery.
 
 98
 00:06:20,981 --> 00:06:24,649
-        the art director        
- begins creating the characters.
+the art director begins creating the characters.
 
 99
 00:06:24,651 --> 00:06:26,952
-       he draws in pencil.      
+he draws in pencil.
 
 100
 00:06:31,258 --> 00:06:36,027
-  when he's finished, he traces 
-    the drawing in felt pen.    
+when he's finished, he traces the drawing in felt pen.
 
 101
 00:06:42,202 --> 00:06:44,836
@@ -478,80 +411,67 @@ then he erases the pencil marks.
 
 102
 00:06:48,007 --> 00:06:50,909
-        he adds shadowing       
-        to create relief.       
+he adds shadowing to create relief.
 
 103
 00:06:53,814 --> 00:06:55,947
-         once he's drawn        
-       all the characters,      
+once he's drawn all the characters,
 
 104
 00:06:55,949 --> 00:06:57,916
-  he starts the backgrounds...  
+he starts the backgrounds...
 
 105
 00:07:02,222 --> 00:07:05,757
-     ...and then the objects    
- that appear in the backgrounds.
+...and then the objects that appear in the backgrounds.
 
 106
 00:07:09,696 --> 00:07:13,098
-      the storyboard artist     
-  blocks out the film on paper, 
+the storyboard artist blocks out the film on paper,
 
 107
 00:07:13,100 --> 00:07:14,833
-       drawing by drawing.      
+drawing by drawing.
 
 108
 00:07:14,835 --> 00:07:16,701
-       the production team      
-   will follow this storyboard  
+the production team will follow this storyboard
 
 109
 00:07:16,703 --> 00:07:19,271
-      the way a dressmaker      
-       follows a pattern.       
+the way a dressmaker follows a pattern.
 
 110
 00:07:26,513 --> 00:07:29,714
-   they blow up the drawings,   
-  scan them into the computer,  
+they blow up the drawings, scan them into the computer,
 
 111
 00:07:29,716 --> 00:07:32,383
-       then play them back      
-     in chronological order.    
+then play them back in chronological order.
 
 112
 00:07:32,385 --> 00:07:35,053
-          this creates          
- what's called an "animatic" -- 
+this creates what's called an "animatic" --
 
 113
 00:07:35,055 --> 00:07:37,388
-    a two-dimensional version   
-          of the film,          
+a two-dimensional version of the film,
 
 114
 00:07:37,390 --> 00:07:39,123
-      minus the animation.      
+minus the animation.
 
 115
 00:07:39,125 --> 00:07:40,992
-       should the director      
-      now decide to change,     
+should the director now decide to change,
 
 116
 00:07:40,994 --> 00:07:44,463
-    say, a ground-level view    
-of the street to an aerial view,
+say, a ground-level view of the street to an aerial view,
 
 117
 00:07:44,465 --> 00:07:48,533
-    he has the artist redraw    
- the street from that new angle.
+he has the artist redraw the street from that new angle.
 
 118
 00:07:48,535 --> 00:07:52,537
@@ -560,709 +480,615 @@ bringing the characters to life.
 
 119
 00:07:52,539 --> 00:07:54,272
-   using specialized software,  
+using specialized software,
 
 120
 00:07:54,274 --> 00:07:57,942
-  they build a skeleton to fit  
-  inside the character's body.  
+they build a skeleton to fit inside the character's body.
 
 121
 00:07:57,944 --> 00:07:59,744
-  when they move the skeleton,  
+when they move the skeleton,
 
 122
 00:07:59,746 --> 00:08:02,613
-       the software makes       
-     the body move with it.     
+the software makes the body move with it.
 
 123
 00:08:02,615 --> 00:08:05,483
-    they make the characters    
-        three-dimensional       
+they make the characters three-dimensional
 
 124
 00:08:05,485 --> 00:08:08,353
-        using a technique       
-   called wireframe animation.  
+using a technique called wireframe animation.
 
 125
 00:08:08,355 --> 00:08:11,289
-        first, they build       
-   the shape of the character   
+first, they build the shape of the character
 
 126
 00:08:11,291 --> 00:08:13,558
-     using a wire structure.    
+using a wire structure.
 
 127
 00:08:13,560 --> 00:08:15,961
-       then they add color      
-          and clothing.         
+then they add color and clothing.
 
 128
 00:08:22,969 --> 00:08:26,171
-          they further          
-      refine the character      
+they further refine the character
 
 129
 00:08:26,173 --> 00:08:27,906
-  by modifying facial features, 
+by modifying facial features,
 
 130
 00:08:27,908 --> 00:08:31,810
-       by adding texture,       
-       and by shadowing.        
+by adding texture, and by shadowing.
 
 131
 00:08:38,518 --> 00:08:40,651
-  they use specialized software 
+they use specialized software
 
 132
 00:08:40,653 --> 00:08:44,522
- to synchronize the character's 
-    mouth with the dialogue.    
+to synchronize the character's mouth with the dialogue.
 
 133
 00:08:44,524 --> 00:08:47,659
-      the technician works      
-      syllable by syllable,     
+the technician works syllable by syllable,
 
 134
 00:08:47,661 --> 00:08:50,928
-   picking the mouth movement   
-    that matches each sound.    
+picking the mouth movement that matches each sound.
 
 135
 00:08:50,930 --> 00:08:54,666
-   it's a painstaking process   
-     that takes many months.    
+it's a painstaking process that takes many months.
 
 136
 00:08:58,404 --> 00:09:01,406
-    another animator applies    
-      the lighting effects.     
+another animator applies the lighting effects.
 
 137
 00:09:01,408 --> 00:09:04,476
-    lighting is as important    
-     in an animated cartoon     
+lighting is as important in an animated cartoon
 
 138
 00:09:04,478 --> 00:09:07,812
-       as it is in a movie      
-        with real people.       
+as it is in a movie with real people.
 
 139
 00:09:07,814 --> 00:09:11,016
-    it creates relief, making   
- everything look more realistic.
+it creates relief, making everything look more realistic.
 
 140
 00:09:19,826 --> 00:09:23,428
-   the animators cut and paste  
-   the characters and objects   
+the animators cut and paste the characters and objects
 
 141
 00:09:23,430 --> 00:09:26,364
-      onto the backgrounds.     
+onto the backgrounds.
 
 142
 00:09:26,366 --> 00:09:28,966
- with the characters' movements 
- programmed into the computer,  
+with the characters' movements programmed into the computer,
 
 143
 00:09:28,968 --> 00:09:31,169
-       the animators turn       
-       a two-dimensional        
+the animators turn a two-dimensional
 
 144
 00:09:31,171 --> 00:09:35,974
- still version of the film into 
- a three-dimensional animation, 
+still version of the film into a three-dimensional animation,
 
 145
 00:09:35,976 --> 00:09:39,144
-     essentially a rough cut    
-          of the film.          
+essentially a rough cut of the film.
 
 146
 00:09:49,055 --> 00:09:53,792
-    meanwhile, in the studio,   
-   the soundtrack takes shape.  
+meanwhile, in the studio, the soundtrack takes shape.
 
 147
 00:09:53,794 --> 00:09:56,261
-          actors record         
-    the characters' dialogue.   
+actors record the characters' dialogue.
 
 148
 00:09:56,263 --> 00:09:59,531
-   the sound technician weaves  
- together the voices, the music,
+the sound technician weaves together the voices, the music,
 
 149
 00:09:59,533 --> 00:10:04,402
-  and the sound effects using   
-  specially designed software.  
+and the sound effects using specially designed software.
 
 150
 00:10:07,140 --> 00:10:10,675
-    they sync the soundtrack    
-  to the rough cut of the film. 
+they sync the soundtrack to the rough cut of the film.
 
 151
 00:10:10,677 --> 00:10:15,547
-then they refine the rough cut, 
-playing with colors and textures
+then they refine the rough cut, playing with colors and textures
 
 152
 00:10:15,549 --> 00:10:18,316
-        and smoothing out       
-   the characters' movements.   
+and smoothing out the characters' movements.
 
 153
 00:10:25,558 --> 00:10:30,361
-    after a full year's work    
- and more than 42,000 drawings, 
+after a full year's work and more than 42,000 drawings,
 
 154
 00:10:30,363 --> 00:10:35,433
 this 24-minute computer-animated
-    film is finally finished.   
+film is finally finished.
 
 155
 00:10:44,311 --> 00:10:46,978
-            narrator:           
- have you ever dined on fungus? 
+narrator: have you ever dined on fungus?
 
 156
 00:10:46,980 --> 00:10:49,914
 well, if you've eaten mushrooms,
-            you have.           
+you have.
 
 157
 00:10:49,916 --> 00:10:51,850
- we like to think of those tasty
+we like to think of those tasty
 
 158
 00:10:51,852 --> 00:10:54,852
-  little umbrella-shaped things 
-         as vegetables,         
+little umbrella-shaped things as vegetables,
 
 159
 00:10:54,854 --> 00:10:57,655
- but technically, they're fungi.
+but technically, they're fungi.
 
 160
 00:10:57,657 --> 00:10:59,791
-    fungus omelette, anyone?    
+fungus omelette, anyone?
 
 161
 00:11:02,395 --> 00:11:04,328
-   mushrooms grow in compost,   
+mushrooms grow in compost,
 
 162
 00:11:04,330 --> 00:11:08,033
-   and preparing that compost   
-     is a science in itself.    
+and preparing that compost is a science in itself.
 
 163
 00:11:08,035 --> 00:11:10,869
-   it starts with horse manure  
-           and straw.           
+it starts with horse manure and straw.
 
 164
 00:11:10,871 --> 00:11:14,405
- the correct balance of moisture
-      and air is critical,      
+the correct balance of moisture
+and air is critical,
 
 165
 00:11:14,407 --> 00:11:17,008
-       because mushrooms        
-       need both to grow,       
+because mushrooms need both to grow,
 
 166
 00:11:17,010 --> 00:11:20,545
-   so mushroom farmers have to  
-    turn the pile frequently    
+so mushroom farmers have to turn the pile frequently
 
 167
 00:11:20,547 --> 00:11:24,348
-  to air it out, and they water 
-   it daily for about a week.   
+to air it out, and they water it daily for about a week.
 
 168
 00:11:24,350 --> 00:11:29,020
 this kicks up plenty of chemical
-    and biological activity.    
+and biological activity.
 
 169
 00:11:29,022 --> 00:11:30,355
-         ammonia forms,         
+ammonia forms,
 
 170
 00:11:30,357 --> 00:11:32,657
-     and microorganisms grow    
-         and reproduce,         
+and microorganisms grow and reproduce,
 
 171
 00:11:32,659 --> 00:11:35,426
-         releasing heat.        
+releasing heat.
 
 172
 00:11:35,428 --> 00:11:39,363
-      good compost requires     
- a nitrogen content of about 2%,
+good compost requires a nitrogen content of about 2%,
 
 173
 00:11:39,365 --> 00:11:42,233
-         so farmers add         
-    a nitrogen supplement --    
+so farmers add a nitrogen supplement --
 
 174
 00:11:42,235 --> 00:11:43,568
-         chicken manure.        
+chicken manure.
 
 175
 00:11:45,572 --> 00:11:47,705
-     they also add gypsum --    
+they also add gypsum --
 
 176
 00:11:47,707 --> 00:11:50,641
-     a mineral that improves    
-  the structure of the compost  
+a mineral that improves the structure of the compost
 
 177
 00:11:50,643 --> 00:11:53,411
-  and neutralizes its acidity.  
+and neutralizes its acidity.
 
 178
 00:12:01,721 --> 00:12:03,588
-  at the week to two-week mark, 
+at the week to two-week mark,
 
 179
 00:12:03,590 --> 00:12:06,457
-          depending on          
- how the compost is progressing,
+depending on how the compost is progressing,
 
 180
 00:12:06,459 --> 00:12:08,192
-   it goes into the composter,  
+it goes into the composter,
 
 181
 00:12:08,194 --> 00:12:11,262
-     which waters, aerates,     
-         and blends it.         
+which waters, aerates, and blends it.
 
 182
 00:12:11,264 --> 00:12:13,531
-      the compost comes out     
-        chocolate brown,        
+the compost comes out chocolate brown,
 
 183
 00:12:13,533 --> 00:12:15,266
-      smelling of ammonia.      
+smelling of ammonia.
 
 184
 00:12:15,268 --> 00:12:16,801
-    next, they pasteurize it,   
+next, they pasteurize it,
 
 185
 00:12:16,803 --> 00:12:20,204
-     to kill off any insects    
-         or insect eggs.        
+to kill off any insects or insect eggs.
 
 186
 00:12:20,206 --> 00:12:24,476
-      they heat the compost     
- at 136 degrees for eight hours,
+they heat the compost at 136 degrees for eight hours,
 
 187
 00:12:24,478 --> 00:12:27,745
-       then at 113 degrees      
-         for five days.         
+then at 113 degrees for five days.
 
 188
 00:12:27,747 --> 00:12:30,148
-  then, over several more days, 
+then, over several more days,
 
 189
 00:12:30,150 --> 00:12:32,951
-     they gradually cool it     
-          to 77 degrees         
+they gradually cool it to 77 degrees
 
 190
 00:12:32,953 --> 00:12:35,553
-        as microorganisms       
-        turn the ammonia        
+as microorganisms turn the ammonia
 
 191
 00:12:35,555 --> 00:12:38,956
-   into a nitrogen protein --   
-      a mushroom nutrient.      
+into a nitrogen protein -- a mushroom nutrient.
 
 192
 00:12:38,958 --> 00:12:41,092
-  the compost is finally ready. 
+the compost is finally ready.
 
 193
 00:12:41,094 --> 00:12:43,895
- the farmer sows grains of wheat
+the farmer sows grains of wheat
 
 194
 00:12:43,897 --> 00:12:46,497
-           inoculated           
-    with mushroom mycelium --   
+inoculated with mushroom mycelium --
 
 195
 00:12:46,499 --> 00:12:50,100
- fine threads of fungi that act 
-    as the mushrooms' roots.    
+fine threads of fungi that act as the mushrooms' roots.
 
 196
 00:12:50,102 --> 00:12:54,105
-  a layer of soil and peat moss 
-   goes on top of the compost.  
+a layer of soil and peat moss goes on top of the compost.
 
 197
 00:12:54,107 --> 00:12:57,108
-    the mycelium draws water    
-          from the soil         
+the mycelium draws water from the soil
 
 198
 00:12:57,110 --> 00:12:59,777
- and nutrients from the compost.
+and nutrients from the compost.
 
 199
 00:12:59,779 --> 00:13:03,848
-     after about two weeks,     
-tiny mushrooms begin to develop.
+after about two weeks, tiny mushrooms begin to develop.
 
 200
 00:13:03,850 --> 00:13:07,719
-    they grow fast, doubling    
-   their size every 24 hours,   
+they grow fast, doubling their size every 24 hours,
 
 201
 00:13:07,721 --> 00:13:10,054
- and this in relative darkness. 
+and this in relative darkness.
 
 202
 00:13:10,056 --> 00:13:13,524
-   green plants need sunlight   
-       for photosynthesis       
+green plants need sunlight for photosynthesis
 
 203
 00:13:13,526 --> 00:13:15,860
-      but mushrooms don't.      
+but mushrooms don't.
 
 204
 00:13:15,862 --> 00:13:19,464
- what mushrooms do need is air, 
+what mushrooms do need is air,
 
 205
 00:13:19,466 --> 00:13:23,467
- because they breathe in oxygen 
- and breathe out carbon dioxide.
+because they breathe in oxygen and breathe out carbon dioxide.
 
 206
 00:13:23,469 --> 00:13:26,337
-  green plants do the opposite. 
+green plants do the opposite.
 
 207
 00:13:59,572 --> 00:14:03,908
 another three days, and the tiny
-    mushrooms are fully grown   
+mushrooms are fully grown
 
 208
 00:14:03,910 --> 00:14:07,178
-    and ready for harvesting.   
+and ready for harvesting.
 
 209
 00:14:07,180 --> 00:14:11,049
-   pickers have to be careful   
-     not to remove the roots    
+pickers have to be careful not to remove the roots
 
 210
 00:14:11,051 --> 00:14:14,853
-  because left intact, they'll  
- sprout a new batch of mushrooms
+because left intact, they'll sprout a new batch of mushrooms
 
 211
 00:14:14,855 --> 00:14:18,723
-    every three to five days    
-     for about three weeks.     
+every three to five days for about three weeks.
 
 212
 00:14:21,061 --> 00:14:23,861
 they put the harvested mushrooms
-        in a refrigerator       
+in a refrigerator
 
 213
 00:14:23,863 --> 00:14:26,931
 just above freezing temperature,
-     for about a half-hour,     
+for about a half-hour,
 
 214
 00:14:26,933 --> 00:14:30,235
-  to stop the growing process.  
+to stop the growing process.
 
 215
 00:14:32,873 --> 00:14:36,207
-     on the packaging line,     
-    they weigh the mushrooms    
+on the packaging line, they weigh the mushrooms
 
 216
 00:14:36,209 --> 00:14:39,210
 and arrange them in a container,
-           buttons up.          
+buttons up.
 
 217
 00:14:47,887 --> 00:14:50,421
-      a machine perforates      
-      the plastic covering      
+a machine perforates the plastic covering
 
 218
 00:14:50,423 --> 00:14:52,556
-  to let the mushrooms breathe. 
+to let the mushrooms breathe.
 
 219
 00:14:52,558 --> 00:14:54,659
-          this ensures          
-      a longer shelf life.      
+this ensures a longer shelf life.
 
 220
 00:15:04,371 --> 00:15:06,570
- the mushrooms stay in a fridge 
+the mushrooms stay in a fridge
 
 221
 00:15:06,572 --> 00:15:09,707
- until they leave for the store 
-       the following day.       
+until they leave for the store the following day.
 
 222
 00:15:20,653 --> 00:15:22,987
-    it's taken about 12 weeks   
+it's taken about 12 weeks
 
 223
 00:15:22,989 --> 00:15:27,892
-  from the start of composting  
-   to your supermarket shelf.   
+from the start of composting to your supermarket shelf.
 
 224
 00:15:36,136 --> 00:15:39,070
- narrator: gold jewelry has been
-  a symbol of wealth and status 
+narrator: gold jewelry has been
+a symbol of wealth and status
 
 225
 00:15:39,072 --> 00:15:40,672
-      throughout the ages.      
+throughout the ages.
 
 226
 00:15:40,674 --> 00:15:43,341
-         today, though,         
-   it isn't just for the rich.  
+today, though, it isn't just for the rich.
 
 227
 00:15:43,343 --> 00:15:47,278
-even ordinary people are likely 
-to have a gold ring or necklace,
+even ordinary people are likely to have a gold ring or necklace,
 
 228
 00:15:47,280 --> 00:15:49,380
-          just a little         
-      less diamond-studded.     
+just a little less diamond-studded.
 
 229
 00:15:57,424 --> 00:15:59,824
-     as early as 2,000 b.c.,    
+as early as 2,000 b.c.,
 
 230
 00:15:59,826 --> 00:16:02,760
-    egyptian kings and queens   
-       adorned themselves       
+egyptian kings and queens adorned themselves
 
 231
 00:16:02,762 --> 00:16:07,231
-        in golden jewelry       
-  encrusted with precious gems. 
+in golden jewelry encrusted with precious gems.
 
 232
 00:16:07,233 --> 00:16:10,702
-     when the spanish sailed    
-    to the new world in 1492,   
+when the spanish sailed to the new world in 1492,
 
 233
 00:16:10,704 --> 00:16:15,105
- they discovered mayan and aztec
- masterpieces of colored stones 
+they discovered mayan and aztec
+masterpieces of colored stones
 
 234
 00:16:15,107 --> 00:16:18,042
-         and pure gold.         
+and pure gold.
 
 235
 00:16:18,044 --> 00:16:21,446
-  today, elaborate gold jewelry 
-        and precious gems       
+today, elaborate gold jewelry and precious gems
 
 236
 00:16:21,448 --> 00:16:24,782
-    are well beyond the reach   
-     of the average person,     
+are well beyond the reach of the average person,
 
 237
 00:16:24,784 --> 00:16:27,185
- except for the diamond ring -- 
+except for the diamond ring --
 
 238
 00:16:27,187 --> 00:16:30,655
-   still the customary symbol   
-         of engagements.        
+still the customary symbol of engagements.
 
 239
 00:16:35,928 --> 00:16:39,663
-           the client           
-    and the jewelry designer    
+the client and the jewelry designer
 
 240
 00:16:39,665 --> 00:16:41,666
-          first decide          
-     how the ring will look.    
+first decide how the ring will look.
 
 241
 00:16:41,668 --> 00:16:44,202
-   the designer then measures   
-       the client's finger      
+the designer then measures the client's finger
 
 242
 00:16:44,204 --> 00:16:47,605
-   to determine her ring size.  
+to determine her ring size.
 
 243
 00:16:47,607 --> 00:16:51,075
- he then sketches out the design
-     they've agreed upon --     
+he then sketches out the design
+they've agreed upon --
 
 244
 00:16:51,077 --> 00:16:53,411
-         a grooved band         
-      with three diamonds.      
+a grooved band with three diamonds.
 
 245
 00:16:53,413 --> 00:16:57,148
-      the model maker works     
-   with a special carving wax.  
+the model maker works with a special carving wax.
 
 246
 00:16:57,150 --> 00:16:58,483
-        using a compass,        
+using a compass,
 
 247
 00:16:58,485 --> 00:17:01,953
-     he measures and marks      
-     the width of the band,     
+he measures and marks the width of the band,
 
 248
 00:17:01,955 --> 00:17:05,756
-   then carefully saws it off.  
+then carefully saws it off.
 
 249
 00:17:05,758 --> 00:17:07,691
-       he takes his gauge       
+he takes his gauge
 
 250
 00:17:07,693 --> 00:17:10,094
-     and puts it on a stick     
-    with ring-size markings,    
+and puts it on a stick with ring-size markings,
 
 251
 00:17:10,096 --> 00:17:11,695
-        called a mandrel.       
+called a mandrel.
 
 252
 00:17:11,697 --> 00:17:15,032
-     he adjusts his compass     
-        to the ring size,       
+he adjusts his compass to the ring size,
 
 253
 00:17:15,034 --> 00:17:18,169
-   then scores the finger hole  
-      on the block of wax.      
+then scores the finger hole on the block of wax.
 
 254
 00:17:18,171 --> 00:17:20,171
-     he then takes his drill    
+he then takes his drill
 
 255
 00:17:20,173 --> 00:17:22,940
-    and carefully carves out    
-       the hole he scored.      
+and carefully carves out the hole he scored.
 
 256
 00:17:27,713 --> 00:17:31,782
-   then he grinds off the wax   
-   on the outside of the band.  
+then he grinds off the wax on the outside of the band.
 
 257
 00:17:31,784 --> 00:17:35,253
-   using the compass again, he  
- scores the middle of the band, 
+using the compass again, he scores the middle of the band,
 
 258
 00:17:35,255 --> 00:17:36,920
-  where he'll make the groove.  
+where he'll make the groove.
 
 259
 00:17:36,922 --> 00:17:40,257
-  then, using a fine drill bit, 
-    he carves out the groove.   
+then, using a fine drill bit, he carves out the groove.
 
 260
 00:17:40,259 --> 00:17:43,127
-          with a file,          
-   he then refines the groove   
+with a file, he then refines the groove
 
 261
 00:17:43,129 --> 00:17:45,596
-           and shapes           
-     the curves of the ring     
+and shapes the curves of the ring
 
 262
 00:17:45,598 --> 00:17:47,331
-    according to the design.    
+according to the design.
 
 263
 00:17:49,335 --> 00:17:52,203
-    after putting wax prongs    
-          on the band,          
+after putting wax prongs on the band,
 
 264
 00:17:52,205 --> 00:17:54,472
-     he attaches a wax stem     
-          to the model.         
+he attaches a wax stem to the model.
 
 265
 00:17:54,474 --> 00:17:57,741
-   he then positions the stem   
-  into the base of the cylinder 
+he then positions the stem into the base of the cylinder
 
 266
 00:17:57,743 --> 00:18:01,679
-    that the jeweler will use   
-        to cast the ring.       
+that the jeweler will use to cast the ring.
 
 267
 00:18:01,681 --> 00:18:04,615
- the base goes onto the platform
-      of a vacuum machine.      
+the base goes onto the platform
+of a vacuum machine.
 
 268
 00:18:04,617 --> 00:18:07,351
-   the jeweler puts a cylinder  
-       on top of the base,      
+the jeweler puts a cylinder on top of the base,
 
 269
 00:18:07,353 --> 00:18:09,554
@@ -1270,175 +1096,148 @@ then pours in a special plaster.
 
 270
 00:18:11,557 --> 00:18:14,225
-  the vacuum sucks all the air  
-       out of the plaster.      
+the vacuum sucks all the air out of the plaster.
 
 271
 00:18:14,227 --> 00:18:16,960
-       this is a key part       
-         of the process,        
+this is a key part of the process,
 
 272
 00:18:16,962 --> 00:18:18,762
-           because if           
-     any air bubbles remain,    
+because if any air bubbles remain,
 
 273
 00:18:18,764 --> 00:18:22,032
-    the finished ring will be   
-          out of shape.         
+the finished ring will be out of shape.
 
 274
 00:18:22,034 --> 00:18:24,435
-     in less than a minute,     
-     the vacuuming is done,     
+in less than a minute, the vacuuming is done,
 
 275
 00:18:24,437 --> 00:18:26,637
-        and the cylinder        
-      goes into the furnace     
+and the cylinder goes into the furnace
 
 276
 00:18:26,639 --> 00:18:29,207
-  at 1,350 degrees fahrenheit.  
+at 1,350 degrees fahrenheit.
 
 277
 00:18:31,243 --> 00:18:32,776
-    the wax model evaporates,   
+the wax model evaporates,
 
 278
 00:18:32,778 --> 00:18:35,512
- leaving a void the exact shape 
-           of the ring          
+leaving a void the exact shape of the ring
 
 279
 00:18:35,514 --> 00:18:36,981
-    in the hardened plaster.    
+in the hardened plaster.
 
 280
 00:18:36,983 --> 00:18:39,917
-    next, they melt the gold.   
+next, they melt the gold.
 
 281
 00:18:39,919 --> 00:18:43,854
-   the gold content of jewelry  
-      is measured by karat.     
+the gold content of jewelry is measured by karat.
 
 282
 00:18:43,856 --> 00:18:46,858
-  the lower the karat, the less 
-    gold and the more alloy,    
+the lower the karat, the less gold and the more alloy,
 
 283
 00:18:46,860 --> 00:18:50,394
-     or cheaper metals such     
- as nickel, silver, and copper. 
+or cheaper metals such as nickel, silver, and copper.
 
 284
 00:18:50,396 --> 00:18:52,396
-        after five hours,       
+after five hours,
 
 285
 00:18:52,398 --> 00:18:54,498
-       the cylinder comes       
-       out of the furnace       
+the cylinder comes out of the furnace
 
 286
 00:18:54,500 --> 00:18:56,434
-          and goes into         
-      the casting machine.      
+and goes into the casting machine.
 
 287
 00:18:59,305 --> 00:19:01,806
-        the machine spins       
-       for about a minute.      
+the machine spins for about a minute.
 
 288
 00:19:01,808 --> 00:19:04,942
-      the centrifugal force     
-    shoots the liquefied gold   
+the centrifugal force shoots the liquefied gold
 
 289
 00:19:04,944 --> 00:19:08,346
-      into the plaster mold     
-   that's inside the cylinder.  
+into the plaster mold that's inside the cylinder.
 
 290
 00:19:14,620 --> 00:19:17,755
-    the jeweler then immerses   
-   the cylinder in cold water.  
+the jeweler then immerses the cylinder in cold water.
 
 291
 00:19:17,757 --> 00:19:21,159
-  this cools the gold and makes 
-    the plaster disintegrate.   
+this cools the gold and makes the plaster disintegrate.
 
 292
 00:19:21,161 --> 00:19:25,028
-           what's left          
-     is the cast gold ring,     
+what's left is the cast gold ring,
 
 293
 00:19:25,030 --> 00:19:30,034
-    but its surface is rough,   
- so on to the finishing process.
+but its surface is rough, so on to the finishing process.
 
 294
 00:19:30,036 --> 00:19:33,571
-  the jeweler saws off the stem 
-        and gets to work.       
+the jeweler saws off the stem and gets to work.
 
 295
 00:19:33,573 --> 00:19:37,608
-  he files and grinds the ring  
-  until the surface is smooth.  
+he files and grinds the ring until the surface is smooth.
 
 296
 00:19:43,382 --> 00:19:47,885
- then he stamps on his trademark
-     and the karat marking.     
+then he stamps on his trademark
+and the karat marking.
 
 297
 00:19:50,723 --> 00:19:53,591
-    then he hammers the ring    
-         on the mandrel         
+then he hammers the ring on the mandrel
 
 298
 00:19:53,593 --> 00:19:55,259
-   to make it perfectly round.  
+to make it perfectly round.
 
 299
 00:19:55,261 --> 00:20:00,398
-  the jeweler then hands it off 
-  to a specialist in polishing. 
+the jeweler then hands it off to a specialist in polishing.
 
 300
 00:20:00,400 --> 00:20:03,400
-   the polisher runs the ring   
-        against a series        
+the polisher runs the ring against a series
 
 301
 00:20:03,402 --> 00:20:06,604
-        of buffing wheels       
-  until it's bright and shiny.  
+of buffing wheels until it's bright and shiny.
 
 302
 00:20:06,606 --> 00:20:08,472
- the polisher then hands it off 
+the polisher then hands it off
 
 303
 00:20:08,474 --> 00:20:10,741
-         to a specialist        
-      in setting gemstones.     
+to a specialist in setting gemstones.
 
 304
 00:20:10,743 --> 00:20:12,610
-     the setter straightens     
-           the prongs           
+the setter straightens the prongs
 
 305
 00:20:12,612 --> 00:20:14,011
-   that'll hold the diamonds.   
+that'll hold the diamonds.
 
 306
 00:20:14,013 --> 00:20:16,681
@@ -1446,82 +1245,70 @@ then, with a delicate drill bit,
 
 307
 00:20:16,683 --> 00:20:20,084
-     he carefully carves out    
-    the inside of the prongs.   
+he carefully carves out the inside of the prongs.
 
 308
 00:20:20,086 --> 00:20:24,155
- the edges of the diamonds will 
- fit directly into these slots. 
+the edges of the diamonds will fit directly into these slots.
 
 309
 00:20:26,225 --> 00:20:30,494
-    he readjusts the prongs,    
-    then sets the diamonds,     
+he readjusts the prongs, then sets the diamonds,
 
 310
 00:20:30,496 --> 00:20:33,431
-     making sure the prongs     
-    hold them down securely.    
+making sure the prongs hold them down securely.
 
 311
 00:20:35,968 --> 00:20:38,836
-    that's a 1-carat diamond    
-         in the middle,         
+that's a 1-carat diamond in the middle,
 
 312
 00:20:38,838 --> 00:20:42,506
-       a 1/2-carat diamond      
-          on each side.         
+a 1/2-carat diamond on each side.
 
 313
 00:20:42,508 --> 00:20:44,709
-    the jeweler then immerses   
-        the finished ring       
+the jeweler then immerses the finished ring
 
 314
 00:20:44,711 --> 00:20:46,177
-  into the ultrasonic machine.  
+into the ultrasonic machine.
 
 315
 00:20:46,179 --> 00:20:50,580
-   the vibrations in the water  
-penetrate every nook and cranny,
+the vibrations in the water penetrate every nook and cranny,
 
 316
 00:20:50,582 --> 00:20:51,982
-        washing the ring.       
+washing the ring.
 
 317
 00:20:51,984 --> 00:20:55,253
-    finally, he puts the ring   
-    under a jet of hot steam    
+finally, he puts the ring under a jet of hot steam
 
 318
 00:20:55,255 --> 00:20:58,923
-          to blast away         
-     any remaining residue.     
+to blast away any remaining residue.
 
 319
 00:20:58,925 --> 00:21:00,791
-           and voilà.           
+and voilà.
 
 320
 00:21:00,793 --> 00:21:04,328
-     with a ring like that,     
-    who wouldn't say "i do"?    
+with a ring like that, who wouldn't say "i do"?
 
 321
 00:21:07,467 --> 00:21:10,401
-    if you have any comments    
-         about the show         
+if you have any comments about the show
 
 322
 00:21:10,403 --> 00:21:13,204
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,
 
 323
 00:21:13,206 --> 00:21:15,740
-      drop us a line at...      
+drop us a line at...
+
 

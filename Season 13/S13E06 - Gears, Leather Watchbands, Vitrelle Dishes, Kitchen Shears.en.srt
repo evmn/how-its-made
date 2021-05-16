@@ -1,169 +1,144 @@
 ﻿1
 00:00:52,052 --> 00:00:55,054
-    narrator: if you've ever    
-  looked inside a wind-up watch 
+narrator: if you've ever looked inside a wind-up watch 
 
 2
 00:00:55,056 --> 00:00:58,324
-    or a car's transmission,    
- you've seen a system of gears. 
+or a car's transmission, you've seen a system of gears. 
 
 3
 00:00:58,326 --> 00:01:00,058
-  a gear is a wheel with teeth  
+a gear is a wheel with teeth  
 
 4
 00:01:00,060 --> 00:01:02,595
-   that meshes with the teeth   
-         of another gear        
+that meshes with the teeth of another gear        
 
 5
 00:01:02,597 --> 00:01:05,130
-        to transmit power       
-     on a continuous basis.     
+to transmit power on a continuous basis.     
 
 6
 00:01:05,132 --> 00:01:07,933
-         combining gears        
-     of different diameters     
+combining gears of different diameters     
 
 7
 00:01:07,935 --> 00:01:10,436
-     affects rotation speed     
-           and force.           
+affects rotation speed and force.           
 
 8
 00:01:15,209 --> 00:01:16,809
-    this factory makes gears    
+this factory makes gears    
 
 9
 00:01:16,811 --> 00:01:22,081
-   that go into transmissions   
-    for industrial machines.    
+that go into transmissions for industrial machines.    
 
 10
 00:01:22,083 --> 00:01:25,618
- production begins with a large,
- round bar of high-grade steel, 
+production begins with a large,
+round bar of high-grade steel, 
 
 11
 00:01:25,620 --> 00:01:27,953
-         which contains         
-   a certain amount of carbon   
+which contains a certain amount of carbon   
 
 12
 00:01:27,955 --> 00:01:30,056
-    to make it even stronger.   
+to make it even stronger.   
 
 13
 00:01:33,628 --> 00:01:34,760
-      an automated band saw     
+an automated band saw     
 
 14
 00:01:34,762 --> 00:01:37,162
-       slices off a piece       
-   that's the right thickness   
+slices off a piece that's the right thickness   
 
 15
 00:01:37,164 --> 00:01:39,365
-      for the size of gear      
-         they're making.        
+for the size of gear they're making.        
 
 16
 00:01:40,902 --> 00:01:43,502
-      this piece is called      
-          a gear blank.         
+this piece is called a gear blank.         
 
 17
 00:01:47,307 --> 00:01:50,375
-      they mount the blank      
- on a computer-controlled blade.
+they mount the blank on a computer-controlled blade.
 
 18
 00:01:50,377 --> 00:01:51,977
-          as it spins,          
+as it spins,          
 
 19
 00:01:51,979 --> 00:01:55,548
-   a turret carrying a series   
-   of carbide tools moves in.   
+a turret carrying a series of carbide tools moves in.   
 
 20
 00:01:57,385 --> 00:02:00,586
-  one tool after another takes  
-  its turn machining the blank  
+one tool after another takes its turn machining the blank  
 
 21
 00:02:00,588 --> 00:02:02,588
-      to a specific shape.      
+to a specific shape.      
 
 22
 00:02:16,671 --> 00:02:19,138
-      a shower of coolant       
-      prevents overheating      
+a shower of coolant prevents overheating      
 
 23
 00:02:19,140 --> 00:02:21,407
-      when the jumbo drill      
-          has its turn.         
+when the jumbo drill has its turn.         
 
 24
 00:02:21,409 --> 00:02:24,343
-  it bores a hole right through 
-    the middle of the blank.    
+it bores a hole right through the middle of the blank.    
 
 25
 00:02:25,880 --> 00:02:29,415
-  the last tool carves a groove 
-   on the front of the blank.   
+the last tool carves a groove on the front of the blank.   
 
 26
 00:02:29,417 --> 00:02:32,852
- this final bit of metal removal
-   lessens the gear's weight.   
+this final bit of metal removal
+lessens the gear's weight.   
 
 27
 00:02:34,889 --> 00:02:37,823
-     now the blank goes into    
-   a computer-controlled mill.  
+now the blank goes into a computer-controlled mill.  
 
 28
 00:02:37,825 --> 00:02:41,160
-  the mill drills holes through 
-   which lubrication will flow  
+the mill drills holes through which lubrication will flow  
 
 29
 00:02:41,162 --> 00:02:42,695
-   when the gear is operating.  
+when the gear is operating.  
 
 30
 00:02:45,633 --> 00:02:48,868
-    these holes also lighten    
-       the gear's weight.       
+these holes also lighten the gear's weight.       
 
 31
 00:02:50,905 --> 00:02:53,105
-         when the blank         
-       comes off the mill,      
+when the blank comes off the mill,      
 
 32
 00:02:53,107 --> 00:02:56,342
- they stamp it with the company 
-      name and part number.     
+they stamp it with the company name and part number.     
 
 33
 00:03:02,983 --> 00:03:04,984
-    now for the gear's teeth.   
+now for the gear's teeth.   
 
 34
 00:03:04,986 --> 00:03:08,186
- a machine called a gear shaper 
- carves out the inner teeth --  
+a machine called a gear shaper carves out the inner teeth --  
 
 35
 00:03:08,188 --> 00:03:09,789
-            the ones            
-    lining the center hole --   
+the ones lining the center hole --   
 
 36
 00:03:09,791 --> 00:03:12,224
@@ -171,44 +146,40 @@ with its titanium-coated cutter.
 
 37
 00:03:14,128 --> 00:03:15,528
- the machine's other components 
+the machine's other components 
 
 38
 00:03:15,530 --> 00:03:17,663
-   keep the cutter's movement   
-        correctly timed.        
+keep the cutter's movement correctly timed.        
 
 39
 00:03:19,266 --> 00:03:22,734
-  the number of teeth and tooth 
-  size vary from gear to gear,  
+the number of teeth and tooth size vary from gear to gear,  
 
 40
 00:03:22,736 --> 00:03:26,471
- so for each model, the factory 
-   has to fit the gear shaper   
+so for each model, the factory has to fit the gear shaper   
 
 41
 00:03:26,473 --> 00:03:28,007
-     with a specific cutter.    
+with a specific cutter.    
 
 42
 00:03:29,810 --> 00:03:31,409
- now for the outside gear teeth.
+now for the outside gear teeth.
 
 43
 00:03:31,411 --> 00:03:33,813
- the computer-controlled machine
-         that cuts them         
+the computer-controlled machine
+that cuts them         
 
 44
 00:03:33,815 --> 00:03:35,748
-    is called a gear hobber.    
+is called a gear hobber.    
 
 45
 00:03:35,750 --> 00:03:38,718
-    the gear turns against it   
-           as it cuts.          
+the gear turns against it as it cuts.          
 
 46
 00:03:47,695 --> 00:03:51,163
@@ -217,126 +188,110 @@ depth of the teeth in one shot,
 
 47
 00:03:51,165 --> 00:03:52,965
-     the cutter would chip,     
+the cutter would chip,     
 
 48
 00:03:52,967 --> 00:03:55,834
-    so the gear keeps turning   
-     around and around again    
+so the gear keeps turning around and around again    
 
 49
 00:03:55,836 --> 00:03:58,504
-       as the hobber cuts       
-   a bit more with each pass,   
+as the hobber cuts a bit more with each pass,   
 
 50
 00:03:58,506 --> 00:04:00,840
-         until the teeth        
-      are the right depth.      
+until the teeth are the right depth.      
 
 51
 00:04:12,653 --> 00:04:16,054
-     then the gear undergoes    
-   a computerized inspection.   
+then the gear undergoes a computerized inspection.   
 
 52
 00:04:16,056 --> 00:04:20,659
-    a probe scans the entire    
- surface, including every tooth.
+a probe scans the entire surface, including every tooth.
 
 53
 00:04:20,661 --> 00:04:22,394
-  it sends data to a computer,  
+it sends data to a computer,  
 
 54
 00:04:22,396 --> 00:04:24,663
-       which then analyzes      
-         the dimensions         
+which then analyzes the dimensions         
 
 55
 00:04:24,665 --> 00:04:27,900
-      and ensures they meet     
- the engineering specifications.
+and ensures they meet the engineering specifications.
 
 56
 00:04:29,736 --> 00:04:32,671
-         gears that pass        
- this quality-control inspection
+gears that pass this quality-control inspection
 
 57
 00:04:32,673 --> 00:04:35,207
-        go into a furnace       
-       for heat treatment.      
+go into a furnace for heat treatment.      
 
 58
 00:04:35,209 --> 00:04:36,942
-   this strengthens the steel.  
+this strengthens the steel.  
 
 59
 00:04:42,082 --> 00:04:45,351
-        when the furnace        
- reaches a certain temperature, 
+when the furnace reaches a certain temperature, 
 
 60
 00:04:45,353 --> 00:04:47,286
-   they inject carbon inside.   
+they inject carbon inside.   
 
 61
 00:04:47,288 --> 00:04:50,823
-  the gears absorb it, and the  
- steel strengthens even further.
+the gears absorb it, and the steel strengthens even further.
 
 62
 00:04:50,825 --> 00:04:55,961
-   a soaking in oil afterward   
-       hardens the metal.       
+a soaking in oil afterward hardens the metal.       
 
 63
 00:04:55,963 --> 00:04:59,064
-    heat treatment, however,    
-    distorts steel somewhat,    
+heat treatment, however, distorts steel somewhat,    
 
 64
 00:04:59,066 --> 00:05:02,434
-    so each gear now goes to    
- a computer-controlled grinder. 
+so each gear now goes to a computer-controlled grinder. 
 
 65
 00:05:02,436 --> 00:05:06,104
-        it restores them        
- to very precise specifications 
+it restores them to very precise specifications 
 
 66
 00:05:06,106 --> 00:05:08,307
-  for bearings to fit properly. 
+for bearings to fit properly. 
 
 67
 00:05:12,713 --> 00:05:16,182
- this factory manufactures gears
-        in various sizes,       
+this factory manufactures gears
+in various sizes,       
 
 68
 00:05:16,184 --> 00:05:17,850
-     and not only in steel.     
+and not only in steel.     
 
 69
 00:05:17,852 --> 00:05:21,520
- it also makes gears in material
-    such as nylon, aluminum,    
+it also makes gears in material
+such as nylon, aluminum,    
 
 70
 00:05:21,522 --> 00:05:24,856
-   brass, and stainless steel.  
+brass, and stainless steel.  
 
 71
 00:05:24,858 --> 00:05:28,394
- some gears have straight teeth,
-      others angled teeth,      
+some gears have straight teeth,
+others angled teeth,      
 
 72
 00:05:28,396 --> 00:05:31,663
-     which makes less noise     
-          when turning.         
+which makes less noise when turning.         
 
 73
 00:05:31,665 --> 00:05:33,498
@@ -344,118 +299,101 @@ gears are an essential component
 
 74
 00:05:33,500 --> 00:05:36,468
-   in everything from watches   
-   to heavy mining equipment,   
+in everything from watches to heavy mining equipment,   
 
 75
 00:05:36,470 --> 00:05:39,138
-     keeping machinery going    
-         at every turn.         
+keeping machinery going at every turn.         
 
 76
 00:05:54,755 --> 00:05:57,089
-            narrator:           
- when it comes to wristwatches, 
+narrator: when it comes to wristwatches, 
 
 77
 00:05:57,091 --> 00:06:00,492
-   there's nothing quite like   
- a band made of genuine leather.
+there's nothing quite like a band made of genuine leather.
 
 78
 00:06:00,494 --> 00:06:03,028
-      it has a classic look     
-        that's versatile,       
+it has a classic look that's versatile,       
 
 79
 00:06:03,030 --> 00:06:06,031
-    working with both casual    
-       and formal attire.       
+working with both casual and formal attire.       
 
 80
 00:06:06,033 --> 00:06:08,701
-     and a leather watchband    
-      is always comfortable     
+and a leather watchband is always comfortable     
 
 81
 00:06:08,703 --> 00:06:09,834
-        against the skin        
+against the skin        
 
 82
 00:06:09,836 --> 00:06:13,572
-   because, unlike synthetics,  
-        leather breathes.       
+because, unlike synthetics, leather breathes.       
 
 83
 00:06:18,111 --> 00:06:20,980
-    these premium watchbands    
-     are made of alligator,     
+these premium watchbands are made of alligator,     
 
 84
 00:06:20,982 --> 00:06:24,383
- a leather with an unmistakable 
-       texture and shine.       
+a leather with an unmistakable texture and shine.       
 
 85
 00:06:27,121 --> 00:06:30,723
-      the tannery dyes the      
+the tannery dyes the      
 croc leathers in classic shades,
 
 86
 00:06:30,725 --> 00:06:35,860
-    as well as in the latest    
- high-fashion colors and styles.
+as well as in the latest high-fashion colors and styles.
 
 87
 00:06:35,862 --> 00:06:38,530
- nearly all the production steps
-           are manual,          
+nearly all the production steps
+are manual,          
 
 88
 00:06:38,532 --> 00:06:40,199
-         beginning with         
-     cutting leather pieces     
+beginning with cutting leather pieces     
 
 89
 00:06:40,201 --> 00:06:42,134
-   for the band's two straps.   
+for the band's two straps.   
 
 90
 00:06:42,136 --> 00:06:45,270
-      every watchband model     
-     requires a steel cutter    
+every watchband model requires a steel cutter    
 
 91
 00:06:45,272 --> 00:06:47,840
-  for each strap in every size. 
+for each strap in every size. 
 
 92
 00:06:53,747 --> 00:06:57,349
-   now they coat the back side  
-    of each piece with glue.    
+now they coat the back side of each piece with glue.    
 
 93
 00:06:57,351 --> 00:06:59,351
-  later, when it's almost dry,  
+later, when it's almost dry,  
 
 94
 00:06:59,353 --> 00:07:01,887
-  they center a watchband core  
-            onto it.            
+they center a watchband core onto it.            
 
 95
 00:07:01,889 --> 00:07:05,223
-       this flexible form       
-  is made of synthetic material 
+this flexible form is made of synthetic material 
 
 96
 00:07:05,225 --> 00:07:07,526
-   reinforced with fiberglass.  
+reinforced with fiberglass.  
 
 97
 00:07:09,563 --> 00:07:12,231
-         using a machine        
-       with a fine blade,       
+using a machine with a fine blade,       
 
 98
 00:07:12,233 --> 00:07:14,366
@@ -464,487 +402,422 @@ they make small cuts at the ends
 99
 00:07:14,368 --> 00:07:17,736
 to let the leather fold smoothly
-         over the form.         
+over the form.         
 
 100
 00:07:21,909 --> 00:07:25,177
-     one side of each strap     
-   attaches to the watch face   
+one side of each strap attaches to the watch face   
 
 101
 00:07:25,179 --> 00:07:26,712
-    with a spring-loaded bar.   
+with a spring-loaded bar.   
 
 102
 00:07:26,714 --> 00:07:29,247
-        they mark exactly       
-       where the bar goes,      
+they mark exactly where the bar goes,      
 
 103
 00:07:29,249 --> 00:07:32,384
-     then punch a tiny hole     
-       for its tiny base.       
+then punch a tiny hole for its tiny base.       
 
 104
 00:07:40,928 --> 00:07:44,462
-        next, they apply        
-       super-strength glue      
+next, they apply super-strength glue      
 
 105
 00:07:44,464 --> 00:07:47,733
-    and fold the leather over   
-       to encase the bar.       
+and fold the leather over to encase the bar.       
 
 106
 00:07:47,735 --> 00:07:49,601
-    the glue dries instantly.   
+the glue dries instantly.   
 
 107
 00:07:53,074 --> 00:07:55,807
-     they now coat the rest     
-     of the form with glue,     
+they now coat the rest of the form with glue,     
 
 108
 00:07:55,809 --> 00:07:56,942
-      then lay it in a mold     
+then lay it in a mold     
 
 109
 00:07:56,944 --> 00:07:59,478
-    that pushes the leather     
-    against the edge tightly    
+that pushes the leather against the edge tightly    
 
 110
 00:07:59,480 --> 00:08:02,247
-       so they can neatly       
-    fold over the remainder.    
+so they can neatly fold over the remainder.    
 
 111
 00:08:09,556 --> 00:08:11,690
-    now they run the open end   
-        through a machine       
+now they run the open end through a machine       
 
 112
 00:08:11,692 --> 00:08:13,726
-    that cuts a beveled edge.   
+that cuts a beveled edge.   
 
 113
 00:08:15,629 --> 00:08:18,763
-  next, they run a tiny sander  
-        over the leather        
+next, they run a tiny sander over the leather        
 
 114
 00:08:18,765 --> 00:08:20,032
-        on the back side.       
+on the back side.       
 
 115
 00:08:20,034 --> 00:08:21,833
-   this roughens the surface,   
+this roughens the surface,   
 
 116
 00:08:21,835 --> 00:08:24,303
-         which will help        
-   the leather backing adhere.  
+which will help the leather backing adhere.  
 
 117
 00:08:30,711 --> 00:08:33,112
-        to make the loops       
-  which go on the buckle strap, 
+to make the loops which go on the buckle strap, 
 
 118
 00:08:33,114 --> 00:08:36,382
-       they bevel the ends      
-    of small leather strips.    
+they bevel the ends of small leather strips.    
 
 119
 00:08:39,386 --> 00:08:41,653
-     they glue and fold them    
-          into a loop,          
+they glue and fold them into a loop,          
 
 120
 00:08:41,655 --> 00:08:45,024
 making sure they're large enough
-   to fit around both straps.   
+to fit around both straps.   
 
 121
 00:08:50,597 --> 00:08:53,198
-          one loop sits         
-   directly below the buckle.   
+one loop sits directly below the buckle.   
 
 122
 00:08:53,200 --> 00:08:57,002
-  a glued-over flap of leather  
-      locks it in position.     
+a glued-over flap of leather locks it in position.     
 
 123
 00:08:57,004 --> 00:09:00,873
- they press it flat with pliers 
-     to ensure a good bond.     
+they press it flat with pliers to ensure a good bond.     
 
 124
 00:09:03,743 --> 00:09:05,744
- they machine-stitch each strap 
+they machine-stitch each strap 
 
 125
 00:09:05,746 --> 00:09:08,547
-          with strong,          
-   polyethylene-based thread.   
+with strong, polyethylene-based thread.   
 
 126
 00:09:12,086 --> 00:09:15,954
 to prevent unraveling, they melt
-  them right into the leather.  
+them right into the leather.  
 
 127
 00:09:24,965 --> 00:09:28,500
- on the buckle end, they pierce 
-     two holes for stitches     
+on the buckle end, they pierce two holes for stitches     
 
 128
 00:09:28,502 --> 00:09:31,236
-         that reinforce         
-    the locked-in first loop.   
+that reinforce the locked-in first loop.   
 
 129
 00:09:31,238 --> 00:09:34,039
-    then they punch two holes   
- in the back of the second loop 
+then they punch two holes in the back of the second loop 
 
 130
 00:09:34,041 --> 00:09:37,376
-   for stitching to reinforce   
-    its glued-together ends.    
+for stitching to reinforce its glued-together ends.    
 
 131
 00:09:37,378 --> 00:09:39,378
-  this loop has to be movable,  
+this loop has to be movable,  
 
 132
 00:09:39,380 --> 00:09:43,382
-     so they don't stitch it    
-          to the band.          
+so they don't stitch it to the band.          
 
 133
 00:09:43,384 --> 00:09:45,317
-       they heat the edge       
-         of each strap.         
+they heat the edge of each strap.         
 
 134
 00:09:45,319 --> 00:09:49,154
-  the iron's rounded tip molds  
-  an attractive, rounded edge.  
+the iron's rounded tip molds an attractive, rounded edge.  
 
 135
 00:09:52,726 --> 00:09:54,326
-   using a heated tool again,   
+using a heated tool again,   
 
 136
 00:09:54,328 --> 00:09:57,930
- they widen the channel through 
-   which the buckle will pass.  
+they widen the channel through which the buckle will pass.  
 
 137
 00:10:00,567 --> 00:10:03,935
- now they insert the buckle end 
-     into a stamping press.     
+now they insert the buckle end into a stamping press.     
 
 138
 00:10:03,937 --> 00:10:06,438
-         it cuts a slot         
-    for the buckle's tongue.    
+it cuts a slot for the buckle's tongue.    
 
 139
 00:10:09,009 --> 00:10:13,212
 a heat press burns the company's
-  name into the leather lining. 
+name into the leather lining. 
 
 140
 00:10:13,214 --> 00:10:16,548
-         that same strap        
-     then goes into a press,    
+that same strap then goes into a press,    
 
 141
 00:10:16,550 --> 00:10:19,284
- which punches the sizing holes.
+which punches the sizing holes.
 
 142
 00:10:19,286 --> 00:10:23,955
-  from here, both straps go off 
-    to the buckle department.   
+from here, both straps go off to the buckle department.   
 
 143
 00:10:23,957 --> 00:10:25,957
-  random samples are subjected  
+random samples are subjected  
 
 144
 00:10:25,959 --> 00:10:28,493
-           to rigorous          
-    quality-control testing.    
+to rigorous quality-control testing.    
 
 145
 00:10:28,495 --> 00:10:31,230
-       this machine pulls       
-      the ends of the strap     
+this machine pulls the ends of the strap     
 
 146
 00:10:31,232 --> 00:10:35,033
- in opposite directions, with up
- to nearly 50 pounds of tension,
+in opposite directions, with up
+to nearly 50 pounds of tension,
 
 147
 00:10:35,035 --> 00:10:38,036
- far more than anyone would ever
-     apply to the watchband     
+far more than anyone would ever
+apply to the watchband     
 
 148
 00:10:38,038 --> 00:10:40,572
-  when they pull to buckle it.  
+when they pull to buckle it.  
 
 149
 00:10:58,725 --> 00:11:02,260
-            narrator:           
-   vitrelle is a super-durable  
-       dinnerware material      
+narrator: vitrelle is a super-durable dinnerware material      
 
 150
 00:11:02,262 --> 00:11:05,897
-  invented in the united states 
-       in the early 1970s.      
+invented in the united states in the early 1970s.      
 
 151
 00:11:05,899 --> 00:11:09,668
-    it's made of three layers   
-    of glass, fused together.   
+it's made of three layers of glass, fused together.   
 
 152
 00:11:09,670 --> 00:11:12,271
-         vitrelle dishes        
-    are thin and lightweight,   
+vitrelle dishes are thin and lightweight,   
 
 153
 00:11:12,273 --> 00:11:15,206
-      yet they're stronger      
-  and far more break-resistant  
+yet they're stronger and far more break-resistant  
 
 154
 00:11:15,208 --> 00:11:17,109
-    than ordinary dinnerware.   
+than ordinary dinnerware.   
 
 155
 00:11:21,748 --> 00:11:24,683
-       in a perfect union       
-  of form, function, and food,  
+in a perfect union of form, function, and food,  
 
 156
 00:11:24,685 --> 00:11:27,018
-     this company serves up     
-       vitrelle dinnerware      
+this company serves up vitrelle dinnerware      
 
 157
 00:11:27,020 --> 00:11:29,354
-  in several striking designs.  
+in several striking designs.  
 
 158
 00:11:32,293 --> 00:11:36,294
-       the dishes are made      
-      of 65% recycled glass     
+the dishes are made of 65% recycled glass     
 
 159
 00:11:36,296 --> 00:11:39,765
-  from earlier production runs. 
+from earlier production runs. 
 
 160
 00:11:39,767 --> 00:11:42,701
-      to make the other 35%     
-        that's new glass,       
+to make the other 35% that's new glass,       
 
 161
 00:11:42,703 --> 00:11:45,370
-      the factory combines      
-    several raw materials --    
+the factory combines several raw materials --    
 
 162
 00:11:45,372 --> 00:11:46,971
-             sand...            
+sand...            
 
 163
 00:11:46,973 --> 00:11:48,040
-             salt...            
+salt...            
 
 164
 00:11:48,042 --> 00:11:49,574
-          limestone...          
+limestone...          
 
 165
 00:11:49,576 --> 00:11:50,975
-           feldspar...          
+feldspar...          
 
 166
 00:11:50,977 --> 00:11:52,444
-   and two more types of salt.  
+and two more types of salt.  
 
 167
 00:11:52,446 --> 00:11:56,248
-      the exact proportions     
-  are a closely guarded secret. 
+the exact proportions are a closely guarded secret. 
 
 168
 00:11:58,052 --> 00:12:00,585
-         the ingredients        
-       go into a furnace,       
+the ingredients go into a furnace,       
 
 169
 00:12:00,587 --> 00:12:03,155
-          where a fiery         
-    2,500 degrees fahrenheit    
+where a fiery 2,500 degrees fahrenheit    
 
 170
 00:12:03,157 --> 00:12:06,792
-  melts them into liquid glass. 
+melts them into liquid glass. 
 
 171
 00:12:06,794 --> 00:12:08,527
-      it exits the furnace.     
+it exits the furnace.     
 
 172
 00:12:08,529 --> 00:12:11,796
-     an extruder shapes it      
-     into a three-ply sheet     
+an extruder shapes it into a three-ply sheet     
 
 173
 00:12:11,798 --> 00:12:15,200
-     that lands in a mold --    
-   in this case, a plate mold.  
+that lands in a mold -- in this case, a plate mold.  
 
 174
 00:12:17,270 --> 00:12:19,071
- a trimmer cuts off the excess, 
+a trimmer cuts off the excess, 
 
 175
 00:12:19,073 --> 00:12:21,540
-      while compressed air      
-      blows down from above     
+while compressed air blows down from above     
 
 176
 00:12:21,542 --> 00:12:25,077
- to cool and solidify the glass.
+to cool and solidify the glass.
 
 177
 00:12:25,079 --> 00:12:27,879
-          a vacuum arm          
-    then extracts each dish,    
+a vacuum arm then extracts each dish,    
 
 178
 00:12:27,881 --> 00:12:30,082
- and the leftovers are recycled.
+and the leftovers are recycled.
 
 179
 00:12:33,887 --> 00:12:37,489
-     the dishes now undergo     
-  what's called fire polishing. 
+the dishes now undergo what's called fire polishing. 
 
 180
 00:12:37,491 --> 00:12:40,626
-     each one passes through    
-       a gas-oxygen flame,      
+each one passes through a gas-oxygen flame,      
 
 181
 00:12:40,628 --> 00:12:43,628
-           which seals          
-   the three layers of glass.   
+which seals the three layers of glass.   
 
 182
 00:12:43,630 --> 00:12:45,097
-  it also melts the outer rim,  
+it also melts the outer rim,  
 
 183
 00:12:45,099 --> 00:12:47,432
-   smoothing and rounding out   
-         the rough edge         
+smoothing and rounding out the rough edge         
 
 184
 00:12:47,434 --> 00:12:49,434
-    created by the trimming.    
+created by the trimming.    
 
 185
 00:12:52,840 --> 00:12:55,774
-        oval dishes go on       
-   a different fire polisher,   
+oval dishes go on a different fire polisher,   
 
 186
 00:12:55,776 --> 00:12:59,211
-    designed for an oval rim    
-    rather than a round one.    
+designed for an oval rim rather than a round one.    
 
 187
 00:13:21,068 --> 00:13:25,737
-  now the conveyor system flips 
+now the conveyor system flips 
 each dish over for backstamping.
 
 188
 00:13:27,541 --> 00:13:29,240
-           the bottom           
-     of every vitrelle dish     
+the bottom of every vitrelle dish     
 
 189
 00:13:29,242 --> 00:13:33,545
-       has the trade name       
-     and other information.     
+has the trade name and other information.     
 
 190
 00:13:33,547 --> 00:13:36,381
-     a silk-screen machine      
-     applies the lettering.     
+a silk-screen machine applies the lettering.     
 
 191
 00:13:43,023 --> 00:13:46,258
-      then a gas-air flame      
-  bakes the ink into the glass. 
+then a gas-air flame bakes the ink into the glass. 
 
 192
 00:13:49,796 --> 00:13:51,296
-        once that's done,       
+once that's done,       
 
 193
 00:13:51,298 --> 00:13:55,701
-    the conveyor system flips   
- the dishes right side up again.
+the conveyor system flips the dishes right side up again.
 
 194
 00:13:57,504 --> 00:13:59,103
-     to decorate the dishes,    
+to decorate the dishes,    
 
 195
 00:13:59,105 --> 00:14:03,708
-     a machine silk-screens     
-   the design onto membranes.   
+a machine silk-screens the design onto membranes.   
 
 196
 00:14:03,710 --> 00:14:09,514
 robotic arms position a membrane
-        above each dish.        
+above each dish.        
 
 197
 00:14:09,516 --> 00:14:13,318
-  then a press head pushes the  
- membrane down onto the surface,
+then a press head pushes the membrane down onto the surface,
 
 198
 00:14:13,320 --> 00:14:15,587
-     transferring the paint.    
+transferring the paint.    
 
 199
 00:14:23,730 --> 00:14:25,930
-          robotic arms          
-      then move the dishes      
+robotic arms then move the dishes      
 
 200
 00:14:25,932 --> 00:14:28,266
-   back onto a conveyor belt.   
+back onto a conveyor belt.   
 
 201
 00:14:40,414 --> 00:14:44,249
-  certain dishes have a design  
-         on the outside.        
+certain dishes have a design on the outside.        
 
 202
 00:14:47,354 --> 00:14:49,020
@@ -952,423 +825,368 @@ an automated silk-screen machine
 
 203
 00:14:49,022 --> 00:14:51,356
-        applies the paint       
-    directly to the surface.    
+applies the paint directly to the surface.    
 
 204
 00:14:56,230 --> 00:14:59,163
-      the decorated dishes      
+the decorated dishes      
 now travel through a tunnel oven
 
 205
 00:14:59,165 --> 00:15:01,966
-       for 5 1/2 minutes.       
+for 5 1/2 minutes.       
 
 206
 00:15:01,968 --> 00:15:04,502
-           the nearly           
-  1,500-degree fahrenheit heat  
+the nearly 1,500-degree fahrenheit heat  
 
 207
 00:15:04,504 --> 00:15:06,705
-     cures the enamel paint.    
+cures the enamel paint.    
 
 208
 00:15:06,707 --> 00:15:08,373
-     at the end of the ride,    
+at the end of the ride,    
 
 209
 00:15:08,375 --> 00:15:12,177
-       a tempering process      
- that makes the glass stronger. 
+a tempering process that makes the glass stronger. 
 
 210
 00:15:13,513 --> 00:15:17,516
- then, nozzles spray the dishes 
-    in a soy-based silicone.    
+then, nozzles spray the dishes in a soy-based silicone.    
 
 211
 00:15:17,518 --> 00:15:21,987
- this wash-off coating prevents 
-   scratches during packaging.  
+this wash-off coating prevents scratches during packaging.  
 
 212
 00:15:21,989 --> 00:15:25,390
-  the factory subjects a sample 
-    from each production run    
+the factory subjects a sample from each production run    
 
 213
 00:15:25,392 --> 00:15:30,061
-    to a 6 1/2-foot-drop test   
-     and a rim-impact test.     
+to a 6 1/2-foot-drop test and a rim-impact test.     
 
 214
 00:15:30,063 --> 00:15:33,532
- the sample mustn't break, chip,
-           or crack...          
+the sample mustn't break, chip,
+or crack...          
 
 215
 00:15:35,735 --> 00:15:38,670
-        ...all to ensure        
-     this stylish dinnerware    
+...all to ensure this stylish dinnerware    
 
 216
 00:15:38,672 --> 00:15:43,074
-     will withstand whatever    
-  your household can dish out.  
+will withstand whatever your household can dish out.  
 
 217
 00:16:02,295 --> 00:16:05,096
- narrator: shears are typically 
-      larger than scissors,     
+narrator: shears are typically larger than scissors,     
 
 218
 00:16:05,098 --> 00:16:07,532
-    for heavier-duty cutting.   
+for heavier-duty cutting.   
 
 219
 00:16:07,534 --> 00:16:10,167
-       and you can insert       
-       up to three fingers      
+and you can insert up to three fingers      
 
 220
 00:16:10,169 --> 00:16:12,036
-  in the handle's finger ring.  
+in the handle's finger ring.  
 
 221
 00:16:12,038 --> 00:16:15,106
-       using more fingers       
-   gives you a stronger grasp,  
+using more fingers gives you a stronger grasp,  
 
 222
 00:16:15,108 --> 00:16:19,311
-   which translates into more   
- control and more cutting force.
+which translates into more control and more cutting force.
 
 223
 00:16:25,118 --> 00:16:27,519
-      these high-end shears     
+these high-end shears     
 
 224
 00:16:27,521 --> 00:16:29,921
-          effortlessly          
-     slice through produce,     
+effortlessly slice through produce,     
 
 225
 00:16:29,923 --> 00:16:34,392
-        snip fresh herbs,       
-       and open packaging.      
+snip fresh herbs, and open packaging.      
 
 226
 00:16:34,394 --> 00:16:38,530
-      outside the kitchen,      
- they easily cut many materials,
+outside the kitchen, they easily cut many materials,
 
 227
 00:16:38,532 --> 00:16:41,866
-     including thin aluminum    
-      and galvanized steel.     
+including thin aluminum and galvanized steel.     
 
 228
 00:16:41,868 --> 00:16:43,602
-  the secret to their strength? 
+the secret to their strength? 
 
 229
 00:16:43,604 --> 00:16:45,470
- blades made of stainless steel,
+blades made of stainless steel,
 
 230
 00:16:45,472 --> 00:16:48,540
-         which contains         
-   a minute amount of carbon.   
+which contains a minute amount of carbon.   
 
 231
 00:16:48,542 --> 00:16:50,207
-          to make them,         
+to make them,         
 
 232
 00:16:50,209 --> 00:16:52,743
-   workers feed a bar of this   
-   high-carbon stainless steel  
+workers feed a bar of this high-carbon stainless steel  
 
 233
 00:16:52,745 --> 00:16:53,812
-          into a press.         
+into a press.         
 
 234
 00:16:53,814 --> 00:16:57,949
-   it stamps out blade shapes   
-         called blanks.         
+it stamps out blade shapes called blanks.         
 
 235
 00:16:57,951 --> 00:17:00,819
-         stainless steel        
-       can be heat-treated      
+stainless steel can be heat-treated      
 
 236
 00:17:00,821 --> 00:17:03,955
-    to make it more durable     
-    and corrosion-resistant.    
+to make it more durable and corrosion-resistant.    
 
 237
 00:17:03,957 --> 00:17:08,560
 but first, a furnace softens the
- blanks for the forging process 
+blanks for the forging process 
 
 238
 00:17:08,562 --> 00:17:12,097
-      that transforms them      
-          into blades.          
+that transforms them into blades.          
 
 239
 00:17:12,099 --> 00:17:15,433
-           each blank           
-     goes onto a forging dye    
+each blank goes onto a forging dye    
 
 240
 00:17:15,435 --> 00:17:17,235
-          that has two          
-     blade-shaped cavities.     
+that has two blade-shaped cavities.     
 
 241
 00:17:17,237 --> 00:17:20,505
-       one strike in each,      
-    and the blank is a blade.   
+one strike in each, and the blank is a blade.   
 
 242
 00:17:23,710 --> 00:17:24,976
-         once it cools,         
+once it cools,         
 
 243
 00:17:24,978 --> 00:17:27,579
-        a trimming press        
-  cuts off all the excess metal 
+a trimming press cuts off all the excess metal 
 
 244
 00:17:27,581 --> 00:17:29,114
-      around the perimeter.     
+around the perimeter.     
 
 245
 00:17:34,454 --> 00:17:36,855
-       heating and forging      
-       tend to warp steel,      
+heating and forging tend to warp steel,      
 
 246
 00:17:36,857 --> 00:17:39,791
 so another press makes the blade
-         perfectly flat         
+perfectly flat         
 
 247
 00:17:39,793 --> 00:17:41,459
-       and straight again.      
+and straight again.      
 
 248
 00:17:49,269 --> 00:17:51,936
-    trimming the excess metal   
-    leaves some rough areas,    
+trimming the excess metal leaves some rough areas,    
 
 249
 00:17:51,938 --> 00:17:56,541
-  so the next step is to smooth 
+so the next step is to smooth 
 the surface with a sanding belt.
 
 250
 00:18:01,081 --> 00:18:04,415
-  to make the hole for the bolt 
-   on which the blades pivot,   
+to make the hole for the bolt on which the blades pivot,   
 
 251
 00:18:04,417 --> 00:18:09,086
-     they drill a round hole    
-       partway through...       
+they drill a round hole partway through...       
 
 252
 00:18:09,088 --> 00:18:12,223
- then pierce a rectangular hole 
-        through the rest.       
+then pierce a rectangular hole through the rest.       
 
 253
 00:18:12,225 --> 00:18:14,426
-    you'll see why later on.    
+you'll see why later on.    
 
 254
 00:18:17,630 --> 00:18:20,498
-         now the blades         
-    undergo heat treatment --   
+now the blades undergo heat treatment --   
 
 255
 00:18:20,500 --> 00:18:23,835
-  first, to harden them, a slow 
-   heating and rapid cooling,   
+first, to harden them, a slow heating and rapid cooling,   
 
 256
 00:18:23,837 --> 00:18:26,438
-       then, to make them       
-       tough and durable,       
+then, to make them tough and durable,       
 
 257
 00:18:26,440 --> 00:18:29,040
-   a reheat and slow cooling.   
+a reheat and slow cooling.   
 
 258
 00:18:31,578 --> 00:18:34,579
- a grinder shapes the round area
-        next to the tang,       
+a grinder shapes the round area
+next to the tang,       
 
 259
 00:18:34,581 --> 00:18:37,482
-   the term for the metal core  
-         of the handle.         
+the term for the metal core of the handle.         
 
 260
 00:18:39,052 --> 00:18:40,317
-      with a sanding belt,      
+with a sanding belt,      
 
 261
 00:18:40,319 --> 00:18:43,888
-    they smooth out and blend   
-      the adjacent corners.     
+they smooth out and blend the adjacent corners.     
 
 262
 00:18:49,062 --> 00:18:52,330
-   here, two polishing wheels   
-        give the surface        
+here, two polishing wheels give the surface        
 
 263
 00:18:52,332 --> 00:18:54,199
-    an upscale satin finish.    
+an upscale satin finish.    
 
 264
 00:18:56,737 --> 00:19:00,138
-  then an etching machine uses  
+then an etching machine uses  
 electrically activated chemicals
 
 265
 00:19:00,140 --> 00:19:04,275
- to imprint the company's name  
- into the thumb-operated blade. 
+to imprint the company's name into the thumb-operated blade. 
 
 266
 00:19:06,747 --> 00:19:10,215
-       just one final step      
- before the blades are finished.
+just one final step before the blades are finished.
 
 267
 00:19:10,217 --> 00:19:11,816
-   a computer-operated grinder  
+a computer-operated grinder  
 
 268
 00:19:11,818 --> 00:19:15,787
-    serrates the inside edge    
-  of the thumb-operated blade.  
+serrates the inside edge of the thumb-operated blade.  
 
 269
 00:19:19,425 --> 00:19:21,760
-        workers now load        
-      six blades at a time      
+workers now load six blades at a time      
 
 270
 00:19:21,762 --> 00:19:24,162
-    into an injection-molding   
-            machine.            
+into an injection-molding machine.            
 
 271
 00:19:24,164 --> 00:19:27,432
-   the machine shoots molten    
-   plastic into the cavities,   
+the machine shoots molten plastic into the cavities,   
 
 272
 00:19:27,434 --> 00:19:30,935
- then rapidly cools the material
-      until it solidifies.      
+then rapidly cools the material
+until it solidifies.      
 
 273
 00:19:32,505 --> 00:19:35,440
-  each blade exits the machine  
-      with a molded handle      
+each blade exits the machine with a molded handle      
 
 274
 00:19:35,442 --> 00:19:37,942
-    firmly encasing the tang.   
+firmly encasing the tang.   
 
 275
 00:19:39,846 --> 00:19:41,713
-  now for the final assembly -- 
+now for the final assembly -- 
 
 276
 00:19:41,715 --> 00:19:45,049
-     first they drive a bolt    
-     with a rectangular head    
+first they drive a bolt with a rectangular head    
 
 277
 00:19:45,051 --> 00:19:49,387
-       into the pivot hole      
-  of the finger-operated blade. 
+into the pivot hole of the finger-operated blade. 
 
 278
 00:19:49,389 --> 00:19:52,056
-          then they add         
-    the thumb-operated blade    
+then they add the thumb-operated blade    
 
 279
 00:19:52,058 --> 00:19:55,526
-    and press the bolt again    
-    into its final position.    
+and press the bolt again into its final position.    
 
 280
 00:19:55,528 --> 00:19:57,728
-  a self-locking, hexagonal nut 
+a self-locking, hexagonal nut 
 
 281
 00:19:57,730 --> 00:20:00,398
-        secures the bolt        
-        from underneath.        
+secures the bolt from underneath.        
 
 282
 00:20:04,404 --> 00:20:09,007
-     an automatic tightener     
-   does the initial fastening.  
+an automatic tightener does the initial fastening.  
 
 283
 00:20:09,009 --> 00:20:12,610
-    then workers do the final   
-  tension adjustment manually.  
+then workers do the final tension adjustment manually.  
 
 284
 00:20:18,885 --> 00:20:20,351
-         the final step         
+the final step         
 
 285
 00:20:20,353 --> 00:20:24,288
- is to grind the excess plastic 
-      off the handle stops.     
+is to grind the excess plastic off the handle stops.     
 
 286
 00:20:24,290 --> 00:20:28,259
- this enables the blade to close
- fully and in perfect alignment.
+this enables the blade to close
+fully and in perfect alignment.
 
 287
 00:20:34,701 --> 00:20:36,968
-  so, why the rectangular bolt? 
+so, why the rectangular bolt? 
 
 288
 00:20:36,970 --> 00:20:38,770
-         watch closely.         
+watch closely.         
 
 289
 00:20:38,772 --> 00:20:41,305
-         it allows you,         
-   with just one simple twist,  
+it allows you, with just one simple twist,  
 
 290
 00:20:41,307 --> 00:20:43,774
-     to separate the blades     
-          for cleaning          
+to separate the blades for cleaning          
 
 291
 00:20:43,776 --> 00:20:47,712
-    and then reassemble them.   
+and then reassemble them.   
 
 292
 00:20:47,714 --> 00:20:50,982
@@ -1376,25 +1194,21 @@ now, that's cutting-edge design.
 
 293
 00:21:03,196 --> 00:21:05,330
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 294
 00:21:05,332 --> 00:21:07,999
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 295
 00:21:08,001 --> 00:21:10,268
-      drop us a line at...      
+drop us a line at...      
 
 296
 00:21:10,270 --> 00:21:13,270
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 297
 00:21:13,272 --> 00:21:16,207
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 

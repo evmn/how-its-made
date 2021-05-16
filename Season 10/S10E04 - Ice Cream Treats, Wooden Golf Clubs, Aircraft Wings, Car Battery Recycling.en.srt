@@ -2674,13 +2674,11 @@ of our landfills.
 
 452
 00:21:18,612 --> 00:21:20,612
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 453
 00:21:20,614 --> 00:21:23,314
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 454
 00:21:23,616 --> 00:21:25,049

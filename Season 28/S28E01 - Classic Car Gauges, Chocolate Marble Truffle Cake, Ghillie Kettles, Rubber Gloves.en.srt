@@ -1,104 +1,86 @@
 ﻿1
 00:00:03,871 --> 00:00:06,872
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:06,874 --> 00:00:09,709
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:53,187 --> 00:00:55,253
-     narrator: they may have    
-             stopped            
-        making the car.         
+narrator: they may have stopped making the car.         
 
 4
 00:00:55,255 --> 00:00:57,857
-   but they still manufacture   
-      replacement gauges        
+but they still manufacture replacement gauges        
 
 5
 00:00:57,859 --> 00:01:00,259
-         that look just         
-      like the originals.       
+that look just like the originals.       
 
 6
 00:01:00,261 --> 00:01:02,661
-           after all,           
-  modern digital instruments    
+after all, modern digital instruments    
 
 7
 00:01:02,663 --> 00:01:03,796
-   just wouldn't look right     
+just wouldn't look right     
 
 8
 00:01:03,798 --> 00:01:06,632
-        in the dashboard        
-     of a classic vehicle.      
+in the dashboard of a classic vehicle.      
 
 9
 00:01:06,634 --> 00:01:09,135
- technicians give the mechanism 
-      a bit of an update,       
+technicians give the mechanism a bit of an update,       
 
 10
 00:01:09,137 --> 00:01:11,203
-  but the look is all retro.    
+but the look is all retro.    
 
 11
 00:01:13,841 --> 00:01:15,674
-   these car gauges are new.    
+these car gauges are new.    
 
 12
 00:01:15,676 --> 00:01:17,677
-         but they have          
-      the same old faces.       
+but they have the same old faces.       
 
 13
 00:01:17,679 --> 00:01:21,813
- the old-style dials are built  
-    to the original designs     
+the old-style dials are built to the original designs     
 
 14
 00:01:21,815 --> 00:01:26,218
-    as replacement parts for    
- classic and vintage vehicles.  
+as replacement parts for classic and vintage vehicles.  
 
 15
 00:01:26,220 --> 00:01:27,953
-  making a classic car gauge    
+making a classic car gauge    
 
 16
 00:01:27,955 --> 00:01:31,490
-          starts with           
-  a zinc-coated steel blank.    
+starts with a zinc-coated steel blank.    
 
 17
 00:01:31,492 --> 00:01:34,092
-        a worker places         
-     the blank on a tool.       
+a worker places the blank on a tool.       
 
 18
 00:01:34,094 --> 00:01:36,295
-      a press stretches it      
-        around the form         
+a press stretches it around the form         
 
 19
 00:01:36,297 --> 00:01:38,430
-   to shape it into the gauge   
-             case.              
+to shape it into the gauge case.              
 
 20
 00:01:38,432 --> 00:01:41,167
-         after a flange         
-  has been formed on the rim    
+after a flange has been formed on the rim    
 
 21
 00:01:41,169 --> 00:01:43,769
-       and holes punched        
-    for assembly purposes,      
+and holes punched for assembly purposes,      
 
 22
 00:01:43,771 --> 00:01:46,171
@@ -106,39 +88,31 @@ it's on to the next operation.
 
 23
 00:01:46,173 --> 00:01:49,241
-     a worker welds a stud      
-   to the back of the case.     
+a worker welds a stud to the back of the case.     
 
 24
 00:01:49,243 --> 00:01:54,046
- the stud will be used to mount 
-  the gauge to the dashboard.   
+the stud will be used to mount the gauge to the dashboard.   
 
 25
 00:01:54,048 --> 00:01:57,283
-     another worker paints      
- the inside of the case white.  
+another worker paints the inside of the case white.  
 
 26
 00:02:00,054 --> 00:02:03,723
-    next up is a brass tube     
-      for the light bulb.       
+next up is a brass tube for the light bulb.       
 
 27
 00:02:03,725 --> 00:02:08,126
-    a worker secures it in a    
-             fixture            
- and places the case over it.   
+a worker secures it in a fixture and places the case over it.   
 
 28
 00:02:08,128 --> 00:02:10,262
-         a press crimps         
-   the top of the light tube    
+a press crimps the top of the light tube    
 
 29
 00:02:10,264 --> 00:02:12,264
-    around one of the holes     
-         in the case,           
+around one of the holes in the case,           
 
 30
 00:02:12,266 --> 00:02:16,268
@@ -146,189 +120,161 @@ securing the tube to the back.
 
 31
 00:02:16,270 --> 00:02:17,803
-   a mechanized printer pad     
+a mechanized printer pad     
 
 32
 00:02:17,805 --> 00:02:20,472
-  picks up ink from engravings  
-       on a metal plate         
+picks up ink from engravings on a metal plate         
 
 33
 00:02:20,474 --> 00:02:22,708
- and transfers them to a dial.  
+and transfers them to a dial.  
 
 34
 00:02:27,081 --> 00:02:30,015
-  for this gauge, they'll need  
-   a hollow, curved spring,     
+for this gauge, they'll need a hollow, curved spring,     
 
 35
 00:02:30,017 --> 00:02:32,951
-   known as a bourdon tube.     
+known as a bourdon tube.     
 
 36
 00:02:32,953 --> 00:02:35,688
- to shape this flat brass tube  
-        into a spring,          
+to shape this flat brass tube into a spring,          
 
 37
 00:02:35,690 --> 00:02:38,891
-     a worker tucks one end     
-     into a forming tool.       
+a worker tucks one end into a forming tool.       
 
 38
 00:02:38,893 --> 00:02:40,826
-       he inserts a shim        
-      into the other end        
+he inserts a shim into the other end        
 
 39
 00:02:40,828 --> 00:02:42,294
-    to keep the tube hollow     
+to keep the tube hollow     
 
 40
 00:02:42,296 --> 00:02:45,297
-         as he curls it         
-       around the form.         
+as he curls it around the form.         
 
 41
 00:02:45,299 --> 00:02:50,235
-    this turns the flat tube    
-    into a c-shape spring.      
+this turns the flat tube into a c-shape spring.      
 
 42
 00:02:50,237 --> 00:02:54,573
-     he then crimps one end     
-        in this press.          
+he then crimps one end in this press.          
 
 43
 00:02:54,575 --> 00:02:57,976
-    he dips the crimped end     
+he dips the crimped end     
 into a chemical cleaning agent  
 
 44
 00:02:57,978 --> 00:02:59,578
-   and then into hot solder.    
+and then into hot solder.    
 
 45
 00:02:59,580 --> 00:03:01,513
-      the solder hardens        
+the solder hardens        
 
 46
 00:03:01,515 --> 00:03:04,116
-       and seals this end       
-    of the bourdon spring.      
+and seals this end of the bourdon spring.      
 
 47
 00:03:07,321 --> 00:03:09,054
-  he solders a brass adapter    
+he solders a brass adapter    
 
 48
 00:03:09,056 --> 00:03:11,657
-       to the opened end        
-     of the bourdon tube.       
+to the opened end of the bourdon tube.       
 
 49
 00:03:11,659 --> 00:03:13,391
-      this hollow socket        
+this hollow socket        
 
 50
 00:03:13,393 --> 00:03:15,994
- is the part that will receive  
-      the fluid pressure.       
+is the part that will receive the fluid pressure.       
 
 51
 00:03:15,996 --> 00:03:19,198
-    that pressure will cause    
-      the tube to unwind        
+that pressure will cause the tube to unwind        
 
 52
 00:03:19,200 --> 00:03:22,268
-    and move gears that turn    
+and move gears that turn    
 the pointer on the gauge dial.  
 
 53
 00:03:26,274 --> 00:03:28,741
-        a worker places         
-       the tube in water        
+a worker places the tube in water        
 
 54
 00:03:28,743 --> 00:03:33,212
-   and pumps pressurized air    
-  into it through the socket.   
+and pumps pressurized air into it through the socket.   
 
 55
 00:03:33,214 --> 00:03:36,082
-   he checks for bubbles that   
-              would             
-   indicate there's a leak.     
+he checks for bubbles that would indicate there's a leak.     
 
 56
 00:03:39,086 --> 00:03:41,319
-      they make the gears       
-     that move the pointer      
+they make the gears that move the pointer      
 
 57
 00:03:41,321 --> 00:03:43,622
-   using a hobbing machine.     
+using a hobbing machine.     
 
 58
 00:03:43,624 --> 00:03:45,958
-     it's a spinning cutter     
-       that carves teeth        
+it's a spinning cutter that carves teeth        
 
 59
 00:03:45,960 --> 00:03:50,162
-       into brass parts,        
-        known as racks.         
+into brass parts, known as racks.         
 
 60
 00:03:50,164 --> 00:03:54,834
- a worker inserts a brass pivot 
-     in a holding device.       
+a worker inserts a brass pivot in a holding device.       
 
 61
 00:03:54,836 --> 00:03:56,168
-        using a press,          
+using a press,          
 
 62
 00:03:56,170 --> 00:03:58,571
-      she crimps the pivot      
-  to the center of the rack.    
+she crimps the pivot to the center of the rack.    
 
 63
 00:04:02,509 --> 00:04:04,777
-       she then assembles       
-  a hair spring and a pinion    
+she then assembles a hair spring and a pinion    
 
 64
 00:04:04,779 --> 00:04:06,779
-   between two brass plates.    
+between two brass plates.    
 
 65
 00:04:10,384 --> 00:04:13,119
-     she positions the rack     
-     in the gear sandwich.      
+she positions the rack in the gear sandwich.      
 
 66
 00:04:16,190 --> 00:04:19,558
-    she secures the assembly    
-      using a hand press.       
+she secures the assembly using a hand press.       
 
 67
 00:04:22,463 --> 00:04:25,664
-      now, with tweezers,       
-    she pulls the end of the    
-             spring             
+now, with tweezers, she pulls the end of the spring             
 
 68
 00:04:25,666 --> 00:04:27,466
-         through a hole         
-      in one of the posts       
+through a hole in one of the posts       
 
 69
 00:04:27,468 --> 00:04:31,337
-     and locks it in place      
-          with a pin.           
+and locks it in place with a pin.           
 
 70
 00:04:31,339 --> 00:04:33,005
@@ -336,13 +282,11 @@ she turns the shaft to confirm
 
 71
 00:04:33,007 --> 00:04:37,742
- that the rack-and-pinion gears 
-   engage and work smoothly.    
+that the rack-and-pinion gears engage and work smoothly.    
 
 72
 00:04:37,744 --> 00:04:40,212
-           returning            
-     to the bourdon tubes,      
+returning to the bourdon tubes,      
 
 73
 00:04:40,214 --> 00:04:42,281
@@ -350,219 +294,183 @@ she transfers one to a fixture
 
 74
 00:04:42,283 --> 00:04:43,883
-    and locks it in place.      
+and locks it in place.      
 
 75
 00:04:47,421 --> 00:04:50,356
-      she places the gears      
-  on top of the bourdon tube    
+she places the gears on top of the bourdon tube    
 
 76
 00:04:50,358 --> 00:04:53,058
-         and screws it          
-  to the side of the socket.    
+and screws it to the side of the socket.    
 
 77
 00:04:56,230 --> 00:04:58,363
-       she then installs        
-   the bourdon tube assembly    
+she then installs the bourdon tube assembly    
 
 78
 00:04:58,365 --> 00:05:00,266
-   in the gas gauge casing.     
+in the gas gauge casing.     
 
 79
 00:05:04,972 --> 00:05:06,906
-    a worker now connects the   
-             gauge              
+a worker now connects the gauge              
 
 80
 00:05:06,908 --> 00:05:10,376
- to a pressurized air source.   
+to a pressurized air source.   
 
 81
 00:05:10,378 --> 00:05:13,111
-  she pops the retro-look dial  
-        into the device         
+she pops the retro-look dial into the device         
 
 82
 00:05:13,113 --> 00:05:16,581
-    and attaches the pointer    
- to the protruding gear shaft.  
+and attaches the pointer to the protruding gear shaft.  
 
 83
 00:05:16,583 --> 00:05:19,051
-    she then introduces air     
-      at a known pressure       
+she then introduces air at a known pressure       
 
 84
 00:05:19,053 --> 00:05:20,753
-    to calibrate the gauge.     
+to calibrate the gauge.     
 
 85
 00:05:24,258 --> 00:05:28,928
-       she tucks a gasket       
-       into the top rim         
+she tucks a gasket into the top rim         
 
 86
 00:05:28,930 --> 00:05:31,530
-         and then fits          
-     a glass pane on top.       
+and then fits a glass pane on top.       
 
 87
 00:05:35,202 --> 00:05:38,737
- a chrome-plated bezel retains  
-  the assembly and frames it.   
+a chrome-plated bezel retains the assembly and frames it.   
 
 88
 00:05:41,275 --> 00:05:43,876
-         a press snaps          
-   the components together.     
+a press snaps the components together.     
 
 89
 00:05:47,415 --> 00:05:52,217
-        made to measure,        
-      this car gauge is now     
-           complete,            
+made to measure, this car gauge is now complete,            
 
 90
 00:05:52,219 --> 00:05:54,486
- and it looks like a classic.   
+and it looks like a classic.   
 
 91
 00:06:05,499 --> 00:06:08,367
-              93                
+93                
 
 92
 00:06:11,105 --> 00:06:12,637
-           narrator:            
-   a chocolate truffle cake     
+narrator: a chocolate truffle cake     
 
 93
 00:06:12,639 --> 00:06:15,641
-       has nothing to do        
-   with those rare and pricey   
-             fungi              
+has nothing to do with those rare and pricey fungi              
 
 94
 00:06:15,643 --> 00:06:17,176
- that are a culinary delicacy,  
+that are a culinary delicacy,  
 
 95
 00:06:17,178 --> 00:06:20,179
-   nor is it directly related   
-   to the chocolate truffle,    
+nor is it directly related to the chocolate truffle,    
 
 96
 00:06:20,181 --> 00:06:23,449
-      a decadent confection     
-           consisting           
- of a chocolate ganache center  
+a decadent confection consisting of a chocolate ganache center  
 
 97
 00:06:23,451 --> 00:06:25,050
-  coated in either chocolate,   
+coated in either chocolate,   
 
 98
 00:06:25,052 --> 00:06:27,753
-         cocoa powder,          
-   or toasted, chopped nuts.    
+cocoa powder, or toasted, chopped nuts.    
 
 99
 00:06:31,325 --> 00:06:34,860
-    a chocolate truffle cake    
-     has many variations.       
+a chocolate truffle cake has many variations.       
 
 100
 00:06:34,862 --> 00:06:36,128
-     this version features      
+this version features      
 
 101
 00:06:36,130 --> 00:06:39,131
-     a flourless chocolate      
-       truffle cake base        
+a flourless chocolate truffle cake base        
 
 102
 00:06:39,133 --> 00:06:41,733
-         under a layer          
-       of chocolate marble      
-          cheesecake,           
+under a layer of chocolate marble cheesecake,           
 
 103
 00:06:41,735 --> 00:06:43,769
- garnished with fudge ganache.  
+garnished with fudge ganache.  
 
 104
 00:06:46,073 --> 00:06:49,742
- to make the cheesecake layer,  
- they begin with cream cheese.  
+to make the cheesecake layer, they begin with cream cheese.  
 
 105
 00:06:49,744 --> 00:06:52,811
-   they mix for three or four   
-     minutes to soften it,      
+they mix for three or four minutes to soften it,      
 
 106
 00:06:52,813 --> 00:06:55,414
- then blend in sugar and salt.  
+then blend in sugar and salt.  
 
 107
 00:06:57,752 --> 00:06:59,685
-   next, they add sour cream    
+next, they add sour cream    
 
 108
 00:06:59,687 --> 00:07:02,888
-     to make the cheesecake     
-    creamier and fluffier.      
+to make the cheesecake creamier and fluffier.      
 
 109
 00:07:05,826 --> 00:07:08,226
-      the last ingredients      
-        are whole eggs          
+the last ingredients are whole eggs          
 
 110
 00:07:08,228 --> 00:07:11,096
- blended with vanilla extract.  
+blended with vanilla extract.  
 
 111
 00:07:11,098 --> 00:07:16,035
- another three to four minutes  
-     of mixing completes the    
-            batter.             
+another three to four minutes of mixing completes the batter.             
 
 112
 00:07:16,037 --> 00:07:18,036
- to make the chocolate truffle  
-          cake base,            
+to make the chocolate truffle cake base,            
 
 113
 00:07:18,038 --> 00:07:22,641
-   they combine water, sugar,   
-    corn syrup, and cream of    
-            tartar,             
+they combine water, sugar, corn syrup, and cream of tartar,             
 
 114
 00:07:22,643 --> 00:07:24,075
-  which is a leavening agent    
+which is a leavening agent    
 
 115
 00:07:24,077 --> 00:07:27,713
- that works in flourless cakes  
-        like this one.          
+that works in flourless cakes like this one.          
 
 116
 00:07:27,715 --> 00:07:30,048
-        it also prevents        
-   the sugar they just added    
+it also prevents the sugar they just added    
 
 117
 00:07:30,050 --> 00:07:31,917
-      from crystallizing.       
+from crystallizing.       
 
 118
 00:07:31,919 --> 00:07:34,787
-      while heating those       
-    ingredients to a boil,      
+while heating those ingredients to a boil,      
 
 119
 00:07:34,789 --> 00:07:37,655
@@ -570,194 +478,163 @@ they soften butter in a mixer,
 
 120
 00:07:37,657 --> 00:07:40,191
-        then add melted         
-     semisweet chocolate,       
+then add melted semisweet chocolate,       
 
 121
 00:07:40,193 --> 00:07:42,361
-     which contains vanilla     
-            extract.            
+which contains vanilla extract.            
 
 122
 00:07:45,066 --> 00:07:46,999
-      they mix for another      
-      five minutes or so        
+they mix for another five minutes or so        
 
 123
 00:07:47,001 --> 00:07:50,803
-      until the chocolate       
-   is thoroughly blended in.    
+until the chocolate is thoroughly blended in.    
 
 124
 00:07:50,805 --> 00:07:53,872
-         then they add          
-    the boiled ingredients,     
+then they add the boiled ingredients,     
 
 125
 00:07:53,874 --> 00:07:55,374
-     then coffee syrup...       
+then coffee syrup...       
 
 126
 00:07:57,878 --> 00:08:01,413
-  ...then blended whole eggs.   
+...then blended whole eggs.   
 
 127
 00:08:01,415 --> 00:08:04,149
-            a final             
-    five minutes of mixing,     
+a final five minutes of mixing,     
 
 128
 00:08:04,151 --> 00:08:08,487
-   and the chocolate truffle    
-     cake batter is ready.      
+and the chocolate truffle cake batter is ready.      
 
 129
 00:08:08,489 --> 00:08:09,888
-       they pump it into        
+they pump it into        
 
 130
 00:08:09,890 --> 00:08:12,157
-    the funnel-shaped feeder    
-        of a depositor.         
+the funnel-shaped feeder of a depositor.         
 
 131
 00:08:16,030 --> 00:08:19,631
-     workers meanwhile line     
-     aluminum cake pans with    
-            silicone            
+workers meanwhile line aluminum cake pans with silicone            
 
 132
 00:08:19,633 --> 00:08:21,767
-         and place them         
-      on a conveyor belt.       
+and place them on a conveyor belt.       
 
 133
 00:08:25,439 --> 00:08:27,306
-    the depositor is set up     
-           to squirt            
+the depositor is set up to squirt            
 
 134
 00:08:27,308 --> 00:08:30,642
- exactly 28 ounces of the thick 
- chocolate truffle cake batter  
+exactly 28 ounces of the thick chocolate truffle cake batter  
 
 135
 00:08:30,644 --> 00:08:33,178
-        into each pan.          
+into each pan.          
 
 136
 00:08:38,185 --> 00:08:39,785
-     they pump the thinner      
-       cheesecake batter        
+they pump the thinner cheesecake batter        
 
 137
 00:08:39,787 --> 00:08:42,454
-         to the feeder          
-    of a second depositor,      
+to the feeder of a second depositor,      
 
 138
 00:08:42,456 --> 00:08:45,190
-   which squirts an identical   
-  amount of cheesecake batter   
+which squirts an identical amount of cheesecake batter   
 
 139
 00:08:45,192 --> 00:08:47,392
-         into the pan.          
+into the pan.          
 
 140
 00:08:47,394 --> 00:08:48,861
-  this batter is much lighter   
+this batter is much lighter   
 
 141
 00:08:48,863 --> 00:08:50,795
-    than the dense chocolate    
-     truffle cake batter.       
+than the dense chocolate truffle cake batter.       
 
 142
 00:08:50,797 --> 00:08:52,664
-     so rather than blend,      
+so rather than blend,      
 
 143
 00:08:52,666 --> 00:08:55,067
-      the two batters form      
-       separate layers.         
+the two batters form separate layers.         
 
 144
 00:08:57,938 --> 00:08:59,538
-   using the squeeze bottle,    
+using the squeeze bottle,    
 
 145
 00:08:59,540 --> 00:09:02,374
-   they drizzle on some extra   
- chocolate truffle cake batter  
+they drizzle on some extra chocolate truffle cake batter  
 
 146
 00:09:07,080 --> 00:09:09,147
-    and drag a knife back and   
-             forth,             
+and drag a knife back and forth,             
 
 147
 00:09:09,149 --> 00:09:11,149
-     creating what's known      
-       in pastry making         
+creating what's known in pastry making         
 
 148
 00:09:11,151 --> 00:09:13,185
-  as a napoleon-style design.   
+as a napoleon-style design.   
 
 149
 00:09:19,560 --> 00:09:20,893
- they put the pans in the oven  
+they put the pans in the oven  
 
 150
 00:09:20,895 --> 00:09:25,497
-         for 90 minutes         
-   at 90 degrees fahrenheit.    
+for 90 minutes at 90 degrees fahrenheit.    
 
 151
 00:09:25,499 --> 00:09:28,566
-      the long baking time      
-       at a relatively low      
-          temperature           
+the long baking time at a relatively low temperature           
 
 152
 00:09:28,568 --> 00:09:30,235
-  ensures the heat penetrates   
+ensures the heat penetrates   
 
 153
 00:09:30,237 --> 00:09:32,837
-       the dense truffle        
-       batter gradually.        
+the dense truffle batter gradually.        
 
 154
 00:09:32,839 --> 00:09:35,040
-     otherwise, the outside     
-    of the cake would burn      
+otherwise, the outside of the cake would burn      
 
 155
 00:09:35,042 --> 00:09:37,342
-       before the inside        
-        is fully baked.         
+before the inside is fully baked.         
 
 156
 00:09:39,847 --> 00:09:42,181
-         the cakes cool         
-     at room temperature,       
+the cakes cool at room temperature,       
 
 157
 00:09:42,183 --> 00:09:44,516
-          then go into          
-     a freezer overnight.       
+then go into a freezer overnight.       
 
 158
 00:09:44,518 --> 00:09:45,984
-     the next day, workers      
+the next day, workers      
 
 159
 00:09:45,986 --> 00:09:49,254
-    easily pop the rock-solid   
-              cakes             
-         from the pans          
+easily pop the rock-solid cakes from the pans          
 
 160
 00:09:49,256 --> 00:09:52,724
@@ -765,37 +642,31 @@ thanks to that silicone liner.
 
 161
 00:09:52,726 --> 00:09:57,196
-      they place the cake       
-    on a cardboard circle,      
+they place the cake on a cardboard circle,      
 
 162
 00:09:57,198 --> 00:09:58,397
-   then, with a pastry bag,     
+then, with a pastry bag,     
 
 163
 00:09:58,399 --> 00:10:02,801
-        garnish the edge        
-      with fudge ganache.       
+garnish the edge with fudge ganache.       
 
 164
 00:10:02,803 --> 00:10:05,137
-      the ganache is made       
-        of heavy cream,         
+the ganache is made of heavy cream,         
 
 165
 00:10:05,139 --> 00:10:07,606
-    corn syrup and the same     
-       melted chocolate         
+corn syrup and the same melted chocolate         
 
 166
 00:10:07,608 --> 00:10:09,441
-    they put in the truffle     
-         cake batter.           
+they put in the truffle cake batter.           
 
 167
 00:10:11,811 --> 00:10:14,480
-    they placed the finished    
- chocolate marble truffle cake  
+they placed the finished chocolate marble truffle cake  
 
 168
 00:10:14,482 --> 00:10:17,482
@@ -803,641 +674,541 @@ into an automatic cake slicer.
 
 169
 00:10:17,484 --> 00:10:21,019
-  the turntable rotates after   
-   each strike of the blade     
+the turntable rotates after each strike of the blade     
 
 170
 00:10:21,021 --> 00:10:25,090
-   until the machine has cut    
-    the cake into 12 slices     
+until the machine has cut the cake into 12 slices     
 
 171
 00:10:25,092 --> 00:10:27,726
-       and separated them       
-     with paper dividers.       
+and separated them with paper dividers.       
 
 172
 00:10:30,831 --> 00:10:33,031
-       they wrap the cake       
-      in a cardboard band       
+they wrap the cake in a cardboard band       
 
 173
 00:10:33,033 --> 00:10:35,000
- printed with the brand name.   
+printed with the brand name.   
 
 174
 00:10:40,641 --> 00:10:42,908
-   then they put the dessert    
-      through a machine,        
+then they put the dessert through a machine,        
 
 175
 00:10:42,910 --> 00:10:45,710
-     which encases the cake     
-       in plastic film,         
+which encases the cake in plastic film,         
 
 176
 00:10:45,712 --> 00:10:48,280
-       then applies heat        
-   to shrink the film taut.     
+then applies heat to shrink the film taut.     
 
 177
 00:10:53,921 --> 00:10:56,054
-     to serve this decadent     
-            dessert,            
+to serve this decadent dessert,            
 
 178
 00:10:56,056 --> 00:10:57,656
-       you let it defrost       
-      at room temperature       
+you let it defrost at room temperature       
 
 179
 00:10:57,658 --> 00:10:59,391
-    for four to five hours      
+for four to five hours      
 
 180
 00:10:59,393 --> 00:11:02,126
-  or in the fridge overnight.   
+or in the fridge overnight.   
 
 181
 00:11:02,128 --> 00:11:04,395
-     impatient chocoholics      
-         take note --           
+impatient chocoholics take note --           
 
 182
 00:11:04,397 --> 00:11:07,332
-      you can also defrost      
-   a slice in the microwave     
+you can also defrost a slice in the microwave     
 
 183
 00:11:07,334 --> 00:11:08,867
-      in just 30 seconds.       
+in just 30 seconds.       
 
 184
 00:11:19,747 --> 00:11:22,814
-              187               
+187               
 
 185
 00:11:25,286 --> 00:11:28,486
-    narrator: invented in the   
-              1890s             
-      by irish fishermen,       
+narrator: invented in the 1890s by irish fishermen,       
 
 186
 00:11:28,488 --> 00:11:32,357
-  the ghillie kettle is still   
- popular off the beaten path.   
+the ghillie kettle is still popular off the beaten path.   
 
 187
 00:11:32,359 --> 00:11:35,293
-      simply stuff twigs,       
-    leaves or other scraps      
+simply stuff twigs, leaves or other scraps      
 
 188
 00:11:35,295 --> 00:11:37,696
-     in the bottom chamber      
-          and ignite.           
+in the bottom chamber and ignite.           
 
 189
 00:11:37,698 --> 00:11:40,299
-  the water in the surrounding  
-   chamber boils in minutes,    
+the water in the surrounding chamber boils in minutes,    
 
 190
 00:11:40,301 --> 00:11:42,367
-      allowing you to have      
-         a quick cuppa          
+allowing you to have a quick cuppa          
 
 191
 00:11:42,369 --> 00:11:44,369
-   in the middle of nowhere.    
+in the middle of nowhere.    
 
 192
 00:11:47,441 --> 00:11:49,174
-          roughing it           
-      in the wilderness?        
+roughing it in the wilderness?        
 
 193
 00:11:49,176 --> 00:11:51,109
-    with the ghillie kettle,    
-      you can still have        
+with the ghillie kettle, you can still have        
 
 194
 00:11:51,111 --> 00:11:53,779
-     a civilized cup of tea     
-          unplugged.            
+a civilized cup of tea unplugged.            
 
 195
 00:11:56,450 --> 00:12:01,586
- making a ghillie kettle starts 
-  with a thick aluminum disk.   
+making a ghillie kettle starts with a thick aluminum disk.   
 
 196
 00:12:01,588 --> 00:12:05,457
- a metalworker clamps the disk  
-  against a form in a lathe.    
+a metalworker clamps the disk against a form in a lathe.    
 
 197
 00:12:05,459 --> 00:12:06,991
-      as the lathe spins,       
+as the lathe spins,       
 
 198
 00:12:06,993 --> 00:12:10,562
-      he presses the disk       
-    to the form using a blunt   
-             tool.              
+he presses the disk to the form using a blunt tool.              
 
 199
 00:12:12,933 --> 00:12:15,734
-    this transforms the disk    
-     into a flared vessel,      
+this transforms the disk into a flared vessel,      
 
 200
 00:12:15,736 --> 00:12:18,737
-      one that looks like       
-         a flower pot.          
+one that looks like a flower pot.          
 
 201
 00:12:18,739 --> 00:12:21,473
-      a cutter at the side      
-        trims the rim.          
+a cutter at the side trims the rim.          
 
 202
 00:12:21,475 --> 00:12:25,210
-    they call this flower-pot   
-              shape             
-          the draft.            
+they call this flower-pot shape the draft.            
 
 203
 00:12:25,212 --> 00:12:29,881
- the next phase takes the draft 
-  from flared to cylindrical.   
+the next phase takes the draft from flared to cylindrical.   
 
 204
 00:12:29,883 --> 00:12:33,218
- a worker presses the spinning  
-    draft to another form.      
+a worker presses the spinning draft to another form.      
 
 205
 00:12:33,220 --> 00:12:37,689
-  this stretches the aluminum   
-  shape longer and narrower.    
+this stretches the aluminum shape longer and narrower.    
 
 206
 00:12:37,691 --> 00:12:40,158
-     finally, they taper the    
-            cylinder            
-          at the top            
+finally, they taper the cylinder at the top            
 
 207
 00:12:40,160 --> 00:12:41,826
-   to form a slanted chimney    
+to form a slanted chimney    
 
 208
 00:12:41,828 --> 00:12:44,963
-   and slice off the bottom.    
+and slice off the bottom.    
 
 209
 00:12:44,965 --> 00:12:47,165
-         from flat disk         
-       to a tall kettle,        
+from flat disk to a tall kettle,        
 
 210
 00:12:47,167 --> 00:12:50,302
-    it's a dramatic change.     
+it's a dramatic change.     
 
 211
 00:12:50,304 --> 00:12:54,439
-        he drills a hole        
+he drills a hole        
 in the gradient of the kettle.  
 
 212
 00:12:54,441 --> 00:12:59,377
-       he inserts a screw       
-  that's attached to a punch.   
+he inserts a screw that's attached to a punch.   
 
 213
 00:12:59,379 --> 00:13:01,246
- then, using an allen wrench,   
+then, using an allen wrench,   
 
 214
 00:13:01,248 --> 00:13:02,580
-      he turns the screw,       
+he turns the screw,       
 
 215
 00:13:02,582 --> 00:13:04,249
-   forcing the punch into the   
-             metal              
+forcing the punch into the metal              
 
 216
 00:13:04,251 --> 00:13:06,885
-       to cut out a hole        
-     for the kettle spout.      
+to cut out a hole for the kettle spout.      
 
 217
 00:13:10,390 --> 00:13:12,924
- he now slides the kettle body  
-          over a post           
+he now slides the kettle body over a post           
 
 218
 00:13:12,926 --> 00:13:16,461
-      with a die that fits      
-     into the spout hole.       
+with a die that fits into the spout hole.       
 
 219
 00:13:16,463 --> 00:13:20,565
-  he places the spout over the  
-               die              
- and hammers it into the hole.  
+he places the spout over the die and hammers it into the hole.  
 
 220
 00:13:20,567 --> 00:13:24,135
-  the die helps form the seam   
-     as the metal spreads       
+the die helps form the seam as the metal spreads       
 
 221
 00:13:24,137 --> 00:13:25,603
-      due to the impact,        
+due to the impact,        
 
 222
 00:13:25,605 --> 00:13:29,808
-   tightly locking the spout    
-      to the kettle body.       
+tightly locking the spout to the kettle body.       
 
 223
 00:13:29,810 --> 00:13:32,477
-       a worker transfers       
-      the kettle to a jig       
+a worker transfers the kettle to a jig       
 
 224
 00:13:32,479 --> 00:13:34,613
- with a template for drilling.  
+with a template for drilling.  
 
 225
 00:13:34,615 --> 00:13:36,547
-      he drills holes into      
-       the kettle body,         
+he drills holes into the kettle body,         
 
 226
 00:13:36,549 --> 00:13:40,352
-    relying on the template     
-   to space them correctly.     
+relying on the template to space them correctly.     
 
 227
 00:13:40,354 --> 00:13:43,889
- these holes are for the handle 
-    and chain attachments.      
+these holes are for the handle and chain attachments.      
 
 228
 00:13:46,493 --> 00:13:50,762
-    next, the inner wall of     
-    the ghillie kettle takes    
-             shape.             
+next, the inner wall of the ghillie kettle takes shape.             
 
 229
 00:13:50,764 --> 00:13:52,330
-  wielding a tool with force,   
+wielding a tool with force,   
 
 230
 00:13:52,332 --> 00:13:55,366
-  a worker pulls and stretches  
-       the aluminum disk        
+a worker pulls and stretches the aluminum disk        
 
 231
 00:13:55,368 --> 00:13:57,035
-       into a long cone.        
+into a long cone.        
 
 232
 00:14:02,376 --> 00:14:05,444
-      he inserts the cone       
-      in the kettle body.       
+he inserts the cone in the kettle body.       
 
 233
 00:14:05,446 --> 00:14:08,179
- a gap between them will serve  
-     as the water chamber.      
+a gap between them will serve as the water chamber.      
 
 234
 00:14:08,181 --> 00:14:12,384
-       and smoke will be        
-    vented out the center.      
+and smoke will be vented out the center.      
 
 235
 00:14:12,386 --> 00:14:14,119
-            he rolls            
-   the upper lip of the cone    
+he rolls the upper lip of the cone    
 
 236
 00:14:14,121 --> 00:14:15,854
- around the kettle's top rim,   
+around the kettle's top rim,   
 
 237
 00:14:15,856 --> 00:14:19,591
-    locking them together.      
+locking them together.      
 
 238
 00:14:19,593 --> 00:14:22,561
-      he also secures them      
-   at the base the same way.    
+he also secures them at the base the same way.    
 
 239
 00:14:26,466 --> 00:14:28,666
-    he transfers the ghillie    
-             kettle             
-          to a stand            
+he transfers the ghillie kettle to a stand            
 
 240
 00:14:28,668 --> 00:14:32,104
-       to keep it upright       
+to keep it upright       
 as he rivets steel ears to it.  
 
 241
 00:14:35,342 --> 00:14:36,874
-  the ears are for attaching    
+the ears are for attaching    
 
 242
 00:14:36,876 --> 00:14:39,244
-     the handle and a chain     
-    for the kettle whistle.     
+the handle and a chain for the kettle whistle.     
 
 243
 00:14:43,350 --> 00:14:45,750
- he now assembles the whistle.  
+he now assembles the whistle.  
 
 244
 00:14:45,752 --> 00:14:47,685
-        he aligns a gap         
-       in a round plate         
+he aligns a gap in a round plate         
 
 245
 00:14:47,687 --> 00:14:50,087
- with one in the whistle body.  
+with one in the whistle body.  
 
 246
 00:14:50,089 --> 00:14:54,493
-    this small gap will allow   
-              steam             
-       to pass through.         
+this small gap will allow steam to pass through.         
 
 247
 00:14:54,495 --> 00:14:57,629
-     he inserts a screw and     
+he inserts a screw and     
 a ball knob in the center hole  
 
 248
 00:14:57,631 --> 00:15:01,633
- to hold the whistle together.  
+to hold the whistle together.  
 
 249
 00:15:01,635 --> 00:15:04,702
-    the base of the ghillie     
-     is this fire chamber.      
+the base of the ghillie is this fire chamber.      
 
 250
 00:15:04,704 --> 00:15:06,237
-     for packing purposes,      
+for packing purposes,      
 
 251
 00:15:06,239 --> 00:15:11,709
-    he stacks it upside down    
+he stacks it upside down    
 and places the kettle over it.  
 
 252
 00:15:11,711 --> 00:15:14,045
-   he wraps the entire kettle   
-     in british newsprint       
+he wraps the entire kettle in british newsprint       
 
 253
 00:15:14,047 --> 00:15:15,847
-         for shipping.          
+for shipping.          
 
 254
 00:15:15,849 --> 00:15:17,315
-       this protects it         
+this protects it         
 
 255
 00:15:17,317 --> 00:15:19,717
-  and also gives the purchaser  
-       something to burn        
+and also gives the purchaser something to burn        
 
 256
 00:15:19,719 --> 00:15:22,587
-         the first time         
-    he or she tries it out.     
+the first time he or she tries it out.     
 
 257
 00:15:25,458 --> 00:15:26,925
-       he crimps the ends       
-         of the handle          
+he crimps the ends of the handle          
 
 258
 00:15:26,927 --> 00:15:30,095
-   to the ears that protrude    
-    through the headlines.      
+to the ears that protrude through the headlines.      
 
 259
 00:15:34,334 --> 00:15:37,735
-     he places the whistle      
-    over the wrapped spout      
+he places the whistle over the wrapped spout      
 
 260
 00:15:37,737 --> 00:15:40,639
-   and then tucks the kettle    
-    into a drawstring tote.     
+and then tucks the kettle into a drawstring tote.     
 
 261
 00:15:44,344 --> 00:15:46,211
-      this ghillie kettle       
-      is ready to provide       
+this ghillie kettle is ready to provide       
 
 262
 00:15:46,213 --> 00:15:49,314
-  the convenience of hot water  
-       in the backwoods.        
+the convenience of hot water in the backwoods.        
 
 263
 00:15:51,418 --> 00:15:54,085
-       the camper removes       
-  the whistle from the spout    
+the camper removes the whistle from the spout    
 
 264
 00:15:54,087 --> 00:15:56,288
-   and pours water into it.     
+and pours water into it.     
 
 265
 00:15:56,290 --> 00:16:01,226
-     this particular model      
-   can hold about 51 ounces.    
+this particular model can hold about 51 ounces.    
 
 266
 00:16:01,228 --> 00:16:02,494
-    he replaces the whistle     
+he replaces the whistle     
 
 267
 00:16:02,496 --> 00:16:06,498
-      and lights the fire       
-    in the bottom chamber.      
+and lights the fire in the bottom chamber.      
 
 268
 00:16:06,500 --> 00:16:09,767
-          as it burns,          
+as it burns,          
 smoke comes out of the center.  
 
 269
 00:16:09,769 --> 00:16:12,703
-     the cone-shaped cavity     
-   creates an upward draft,     
+the cone-shaped cavity creates an upward draft,     
 
 270
 00:16:12,705 --> 00:16:14,906
-    ensuring rapid boiling      
+ensuring rapid boiling      
 
 271
 00:16:14,908 --> 00:16:18,310
-         even in windy          
-       or damp weather.         
+even in windy or damp weather.         
 
 272
 00:16:18,312 --> 00:16:20,045
-        within minutes,         
-       there's hot water        
+within minutes, there's hot water        
 
 273
 00:16:20,047 --> 00:16:22,647
-         for beverages          
-       or soup noodles.         
+for beverages or soup noodles.         
 
 274
 00:16:22,649 --> 00:16:24,982
-     smoking and whistling      
-      in the wilderness,        
+smoking and whistling in the wilderness,        
 
 275
 00:16:24,984 --> 00:16:28,386
-   the ghillie kettle offers    
- some of the comforts of home.  
+the ghillie kettle offers some of the comforts of home.  
 
 276
 00:16:38,198 --> 00:16:41,366
-              281               
+281               
 
 277
 00:16:43,403 --> 00:16:46,938
-           narrator:            
-   it was an american nurse's   
+narrator: it was an american nurse's   
 
 278
 00:16:46,940 --> 00:16:50,275
-  that led to the development   
-   of medical rubber gloves.    
+that led to the development of medical rubber gloves.    
 
 279
 00:16:50,277 --> 00:16:51,809
-      the year was 1890,        
+the year was 1890,        
 
 280
 00:16:51,811 --> 00:16:55,080
-        and the hospital        
-      was johns hopkins in      
-           baltimore.           
+and the hospital was johns hopkins in baltimore.           
 
 281
 00:16:55,082 --> 00:16:57,215
-          sympathetic           
-    to the nurse's plight,      
+sympathetic to the nurse's plight,      
 
 282
 00:16:57,217 --> 00:16:59,350
-      the chief of surgery      
-    asked a rubber company      
+the chief of surgery asked a rubber company      
 
 283
 00:16:59,352 --> 00:17:02,120
- to develop protective gloves.  
+to develop protective gloves.  
 
 284
 00:17:05,091 --> 00:17:06,357
-       around the world,        
+around the world,        
 
 285
 00:17:06,359 --> 00:17:08,226
-         healing hands          
-      wear rubber gloves        
+healing hands wear rubber gloves        
 
 286
 00:17:08,228 --> 00:17:11,963
-  to stop the spread of germs   
-        and save lives.         
+to stop the spread of germs and save lives.         
 
 287
 00:17:11,965 --> 00:17:14,432
-         to make them,          
-   they need a lot of hands,    
+to make them, they need a lot of hands,    
 
 288
 00:17:14,434 --> 00:17:17,769
-       the kind made from       
-     ceramic or aluminum.       
+the kind made from ceramic or aluminum.       
 
 289
 00:17:17,771 --> 00:17:19,337
-    they'll serve as molds.     
+they'll serve as molds.     
 
 290
 00:17:21,975 --> 00:17:24,508
-        first, they need        
-       to remove residue        
+first, they need to remove residue        
 
 291
 00:17:24,510 --> 00:17:27,712
-      from the last rubber      
-       glove production.        
+from the last rubber glove production.        
 
 292
 00:17:27,714 --> 00:17:30,682
-     so they do a thorough      
-   washing in soapy water...    
+so they do a thorough washing in soapy water...    
 
 293
 00:17:36,056 --> 00:17:38,456
-    ...and then in bleach.      
+...and then in bleach.      
 
 294
 00:17:38,458 --> 00:17:40,992
-        they must remove        
-    every speck of residue      
+they must remove every speck of residue      
 
 295
 00:17:40,994 --> 00:17:42,860
-          because even          
-   the smallest contaminant     
+because even the smallest contaminant     
 
 296
 00:17:42,862 --> 00:17:45,396
-          could lodge           
-  in the latex rubber gloves    
+could lodge in the latex rubber gloves    
 
 297
 00:17:45,398 --> 00:17:48,199
-       and create holes.        
+and create holes.        
 
 298
 00:17:48,201 --> 00:17:49,467
-      leaving the bleach,       
+leaving the bleach,       
 
 299
 00:17:49,469 --> 00:17:54,138
-    the ceramic hands twirl     
+the ceramic hands twirl     
 into round, revolving brushes.  
 
 300
 00:17:54,140 --> 00:17:56,874
-         their bristles         
-       scour the surface        
+their bristles scour the surface        
 
 301
 00:17:56,876 --> 00:18:00,278
-  and the hard-to-reach areas   
- between the ceramic fingers.   
+and the hard-to-reach areas between the ceramic fingers.   
 
 302
 00:18:04,818 --> 00:18:06,418
@@ -1445,47 +1216,39 @@ after this thorough scrubbing,
 
 303
 00:18:06,420 --> 00:18:09,654
-      the hand molds dive       
-   into a tub of hot water.     
+the hand molds dive into a tub of hot water.     
 
 304
 00:18:12,492 --> 00:18:15,693
-     it's the last cleaning     
-   before production begins.    
+it's the last cleaning before production begins.    
 
 305
 00:18:15,695 --> 00:18:17,095
-     as they exit the tub,      
+as they exit the tub,      
 
 306
 00:18:17,097 --> 00:18:20,865
-        the hands swivel        
-     on the rail carrier to     
-           drip-dry.            
+the hands swivel on the rail carrier to drip-dry.            
 
 307
 00:18:24,104 --> 00:18:25,970
-      still slightly damp       
-         and spinning,          
+still slightly damp and spinning,          
 
 308
 00:18:25,972 --> 00:18:29,106
-      the hand molds head       
-     into a chemical bath,      
+the hand molds head into a chemical bath,      
 
 309
 00:18:29,108 --> 00:18:31,509
-       which forms a film       
-        on the surface.         
+which forms a film on the surface.         
 
 310
 00:18:31,511 --> 00:18:32,844
-    it's a critical coating     
+it's a critical coating     
 
 311
 00:18:32,846 --> 00:18:35,713
-     because liquid rubber      
- won't adhere to bare ceramic,  
+because liquid rubber won't adhere to bare ceramic,  
 
 312
 00:18:35,715 --> 00:18:38,049
@@ -1493,277 +1256,235 @@ but it will to this substance.
 
 313
 00:18:40,987 --> 00:18:44,322
-     the ceramic molds now      
+the ceramic molds now      
 reach into warm liquid rubber,  
 
 314
 00:18:44,324 --> 00:18:46,991
-    which has been enhanced     
-      for extra strength.       
+which has been enhanced for extra strength.       
 
 315
 00:18:46,993 --> 00:18:49,794
-    the liquid rubber reacts    
-   with the chemical coating    
+the liquid rubber reacts with the chemical coating    
 
 316
 00:18:49,796 --> 00:18:52,530
-          on the hands          
-     and becomes gel-like.      
+on the hands and becomes gel-like.      
 
 317
 00:18:57,204 --> 00:18:58,803
-  coated with the rubber gel,   
+coated with the rubber gel,   
 
 318
 00:18:58,805 --> 00:19:01,606
-         the hands spin         
-    to shake off any drops      
+the hands spin to shake off any drops      
 
 319
 00:19:01,608 --> 00:19:03,108
-  as they head into an oven.    
+as they head into an oven.    
 
 320
 00:19:07,948 --> 00:19:09,147
-      under intense heat,       
+under intense heat,       
 
 321
 00:19:09,149 --> 00:19:12,083
-        the rubber dries        
-       to the hand form         
+the rubber dries to the hand form         
 
 322
 00:19:12,085 --> 00:19:14,018
-       and also undergoes       
-      a chemical process,       
+and also undergoes a chemical process,       
 
 323
 00:19:14,020 --> 00:19:15,687
-     called vulcanization,      
+called vulcanization,      
 
 324
 00:19:15,689 --> 00:19:20,891
-     that makes the rubber      
-     stronger and elastic.      
+that makes the rubber stronger and elastic.      
 
 325
 00:19:20,893 --> 00:19:22,626
-     after a wash and dry,      
+after a wash and dry,      
 
 326
 00:19:22,628 --> 00:19:26,231
-     the gloves spin through    
-             brushes            
-   which roll up the cuffs.     
+the gloves spin through brushes which roll up the cuffs.     
 
 327
 00:19:26,233 --> 00:19:28,700
-        this cuff roll,         
-       called the bead,         
+this cuff roll, called the bead,         
 
 328
 00:19:28,702 --> 00:19:30,502
-   has a specific purpose --    
+has a specific purpose --    
 
 329
 00:19:30,504 --> 00:19:33,972
-   it makes it easier to pull   
+it makes it easier to pull   
 the rubber glove off the mold.  
 
 330
 00:19:40,180 --> 00:19:42,313
-    workers grab the gloves     
-         by the beads           
+workers grab the gloves by the beads           
 
 331
 00:19:42,315 --> 00:19:46,050
-        to peel them off        
-      the ceramic forms.        
+to peel them off the ceramic forms.        
 
 332
 00:19:46,052 --> 00:19:47,719
-    these particular medical    
-             gloves             
+these particular medical gloves             
 
 333
 00:19:47,721 --> 00:19:49,921
-          were molded           
-     from synthetic rubber      
+were molded from synthetic rubber      
 
 334
 00:19:49,923 --> 00:19:52,389
-   for people who can't wear    
-     natural latex rubber       
+for people who can't wear natural latex rubber       
 
 335
 00:19:52,391 --> 00:19:54,258
-       due to allergies.        
+due to allergies.        
 
 336
 00:19:54,260 --> 00:19:56,861
- these synthetic rubber gloves  
-      are a bit stickier        
+these synthetic rubber gloves are a bit stickier        
 
 337
 00:19:56,863 --> 00:19:58,863
- than the natural latex ones.   
+than the natural latex ones.   
 
 338
 00:19:58,865 --> 00:20:01,166
-        and they must be        
-       removed by hand.         
+and they must be removed by hand.         
 
 339
 00:20:04,204 --> 00:20:06,337
-   however, the natural latex   
-             glove              
+however, the natural latex glove              
 
 340
 00:20:06,339 --> 00:20:08,606
-  come off much more easily.    
+come off much more easily.    
 
 341
 00:20:08,608 --> 00:20:11,275
-     bursts of pressurized      
-     air blow these gloves      
+bursts of pressurized air blow these gloves      
 
 342
 00:20:11,277 --> 00:20:14,546
-    off the ceramic forms.      
+off the ceramic forms.      
 
 343
 00:20:14,548 --> 00:20:17,081
-       at a test station,       
-    a worker now stretches      
+at a test station, a worker now stretches      
 
 344
 00:20:17,083 --> 00:20:19,216
-    and inflates each medical   
-             glove              
+and inflates each medical glove              
 
 345
 00:20:19,218 --> 00:20:22,220
-    to check for weak spots     
-          and holes.            
+to check for weak spots and holes.            
 
 346
 00:20:22,222 --> 00:20:25,490
-      even a pinhole leak       
- would be cause for rejection.  
+even a pinhole leak would be cause for rejection.  
 
 347
 00:20:27,894 --> 00:20:29,694
-        next, they take         
-        a sample glove          
+next, they take a sample glove          
 
 348
 00:20:29,696 --> 00:20:33,030
-        from every batch        
-    and pump water into it,     
+from every batch and pump water into it,     
 
 349
 00:20:33,032 --> 00:20:35,233
-   again checking for leaks.    
+again checking for leaks.    
 
 350
 00:20:35,235 --> 00:20:37,301
-      if the sample glove       
-        is watertight,          
+if the sample glove is watertight,          
 
 351
 00:20:37,303 --> 00:20:40,405
- they approve the entire batch  
-         for shipment.          
+they approve the entire batch for shipment.          
 
 352
 00:20:43,043 --> 00:20:44,976
-     they color-code gloves     
-         for strength.          
+they color-code gloves for strength.          
 
 353
 00:20:44,978 --> 00:20:49,981
-  these orange cleaning gloves  
-    are thick and reusable.     
+these orange cleaning gloves are thick and reusable.     
 
 354
 00:20:49,983 --> 00:20:51,583
-            others,             
-   like the medical gloves,     
+others, like the medical gloves,     
 
 355
 00:20:51,585 --> 00:20:53,952
-      are for limited use       
-        and disposable.         
+are for limited use and disposable.         
 
 356
 00:20:56,256 --> 00:20:58,056
-    each rubber formulation     
-         is customized          
+each rubber formulation is customized          
 
 357
 00:20:58,058 --> 00:21:01,659
-      for color, strength,      
-  and other characteristics.    
+for color, strength, and other characteristics.    
 
 358
 00:21:04,330 --> 00:21:06,997
-       it has taken a lot       
-  of fake hands and real ones   
+it has taken a lot of fake hands and real ones   
 
 359
 00:21:06,999 --> 00:21:08,533
-    to make rubber gloves.      
+to make rubber gloves.      
 
 360
 00:21:08,535 --> 00:21:11,001
- and it all happens very fast.  
+and it all happens very fast.  
 
 361
 00:21:11,003 --> 00:21:13,404
-        they manufacture        
-  200 rubber gloves a minute    
+they manufacture 200 rubber gloves a minute    
 
 362
 00:21:13,406 --> 00:21:14,606
-       at this factory.         
+at this factory.         
 
 363
 00:21:14,608 --> 00:21:17,875
-   that's about 12,000 gloves   
-           per hour.            
+that's about 12,000 gloves per hour.            
 
 364
 00:21:17,877 --> 00:21:20,344
-       they pack them up        
-      in batches of 100.        
+they pack them up in batches of 100.        
 
 365
 00:21:20,346 --> 00:21:22,614
-     a cornstarch solution      
-        applied earlier         
+a cornstarch solution applied earlier         
 
 366
 00:21:22,616 --> 00:21:25,483
-    keeps them from sticking    
-     together in the box.       
+keeps them from sticking together in the box.       
 
 367
 00:21:25,485 --> 00:21:28,419
-       later, that starch       
- will also act as a lubricant   
+later, that starch will also act as a lubricant   
 
 368
 00:21:28,421 --> 00:21:32,490
-      to allow the gloves       
-  to slide easily onto hands.   
+to allow the gloves to slide easily onto hands.   
 
 369
 00:21:34,628 --> 00:21:37,361
-         and with that,         
- these rubber gloves are ready  
+and with that, these rubber gloves are ready  
 
 370
 00:21:37,363 --> 00:21:39,330
-    to protect the public.      
+to protect the public.      
 

@@ -1,84 +1,72 @@
 ﻿1
 00:00:01,869 --> 00:00:04,936
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,938 --> 00:00:07,906
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,719 --> 00:00:53,785
-            narrator:           
-     a traffic intersection,    
+narrator: a traffic intersection,    
 
 4
 00:00:53,787 --> 00:00:56,855
-     a hollywood movie set,     
-  the outside of an airplane -- 
+a hollywood movie set, the outside of an airplane -- 
 
 5
 00:00:56,857 --> 00:00:59,924
-      it's hard to imagine      
-  any common ground among them  
+it's hard to imagine any common ground among them  
 
 6
 00:00:59,926 --> 00:01:02,327
-    until you flip a switch,    
-         a light switch.        
+until you flip a switch, a light switch.        
 
 7
 00:01:02,329 --> 00:01:05,597
-  traffic lights, movie lights, 
-       and aircraft lights      
+traffic lights, movie lights, and aircraft lights      
 
 8
 00:01:05,599 --> 00:01:08,734
-  are all made of the same type 
-        of special glass.       
+are all made of the same type of special glass.       
 
 9
 00:01:08,736 --> 00:01:10,636
-  it's called technical glass.  
+it's called technical glass.  
 
 10
 00:01:15,142 --> 00:01:18,476
-       borosilicate glass       
-   has a low thermal expansion  
+borosilicate glass has a low thermal expansion  
 
 11
 00:01:18,478 --> 00:01:19,878
-      and is very durable.      
+and is very durable.      
 
 12
 00:01:19,880 --> 00:01:22,347
-            it's used           
+it's used           
 in high-temperature applications
 
 13
 00:01:22,349 --> 00:01:24,850
-  and when abrasion resistance  
-          is important.         
+and when abrasion resistance is important.         
 
 14
 00:01:27,287 --> 00:01:32,090
- it begins with a mix of silica 
+it begins with a mix of silica 
 sand and chemicals called batch.
 
 15
 00:01:32,092 --> 00:01:33,358
-    workers shovel the batch    
+workers shovel the batch    
 
 16
 00:01:33,360 --> 00:01:35,360
-       and recycled glass,      
-         called cullet,         
+and recycled glass, called cullet,         
 
 17
 00:01:35,362 --> 00:01:38,029
-       into a pot furnace,      
-  where they melt for two days. 
+into a pot furnace, where they melt for two days. 
 
 18
 00:01:38,031 --> 00:01:40,432
@@ -86,41 +74,35 @@ a variety of colorants are added
 
 19
 00:01:40,434 --> 00:01:43,302
-        to make hundreds        
-      of different colors.      
+to make hundreds of different colors.      
 
 20
 00:01:46,239 --> 00:01:48,974
-          next, it's on         
-     to the molding process.    
+next, it's on to the molding process.    
 
 21
 00:01:48,976 --> 00:01:50,308
-       workers heat a ring      
+workers heat a ring      
 
 22
 00:01:50,310 --> 00:01:53,044
-         and transfer it        
-      to the top of a mold.     
+and transfer it to the top of a mold.     
 
 23
 00:01:53,046 --> 00:01:56,181
-    then they twist and turn    
-     a stick called a punty     
+then they twist and turn a stick called a punty     
 
 24
 00:01:56,183 --> 00:01:57,850
-   to gather some melted glass  
+to gather some melted glass  
 
 25
 00:01:57,852 --> 00:02:00,419
-     and carefully string it    
-          in the mold.          
+and carefully string it in the mold.          
 
 26
 00:02:02,656 --> 00:02:06,791
-       a plunger squeezes       
-   the molten gob into shape.   
+a plunger squeezes the molten gob into shape.   
 
 27
 00:02:06,793 --> 00:02:11,863
@@ -128,205 +110,180 @@ the glass solidifies in seconds.
 
 28
 00:02:11,865 --> 00:02:13,598
-     this glass lens is used    
+this glass lens is used    
 
 29
 00:02:13,600 --> 00:02:16,635
-    as a landing-light cover    
-         on an aircraft.        
+as a landing-light cover on an aircraft.        
 
 30
 00:02:19,339 --> 00:02:22,941
-  they extract it from the mold 
-     for a quick inspection.    
+they extract it from the mold for a quick inspection.    
 
 31
 00:02:22,943 --> 00:02:25,744
-       any imperfections,       
-      and it gets recycled.     
+any imperfections, and it gets recycled.     
 
 32
 00:02:25,746 --> 00:02:27,612
-   if the lens is acceptable,   
+if the lens is acceptable,   
 
 33
 00:02:27,614 --> 00:02:31,150
-  it's held in a forming device 
-     to finalize the shape.     
+it's held in a forming device to finalize the shape.     
 
 34
 00:02:47,100 --> 00:02:50,636
- the burner maintains the proper
-    temperature of the ring.    
+the burner maintains the proper
+temperature of the ring.    
 
 35
 00:02:53,107 --> 00:02:56,908
-     once formed, the lenses    
+once formed, the lenses    
 are cooled in an annealing oven,
 
 36
 00:02:56,910 --> 00:03:00,178
- which relieves unwanted stress 
-          in the glass.         
+which relieves unwanted stress in the glass.         
 
 37
 00:03:00,180 --> 00:03:01,380
-       this circular mold       
+this circular mold       
 
 38
 00:03:01,382 --> 00:03:04,048
-        makes theatrical        
-     and landscape lighting.    
+makes theatrical and landscape lighting.    
 
 39
 00:03:04,050 --> 00:03:07,118
-  again, a gob of molten glass  
-     is dropped in the mold,    
+again, a gob of molten glass is dropped in the mold,    
 
 40
 00:03:07,120 --> 00:03:10,388
-  and the plunger is depressed, 
-        forming the lens.       
+and the plunger is depressed, forming the lens.       
 
 41
 00:03:10,390 --> 00:03:11,856
-      heat-resistant tongs      
+heat-resistant tongs      
 
 42
 00:03:11,858 --> 00:03:14,660
-         enable workers         
-    to handle the hot lenses.   
+enable workers to handle the hot lenses.   
 
 43
 00:03:14,662 --> 00:03:17,729
-   red and yellow lenses need   
-   a high-temperature anneal    
+red and yellow lenses need a high-temperature anneal    
 
 44
 00:03:17,731 --> 00:03:19,130
-    for the color to appear.    
+for the color to appear.    
 
 45
 00:03:19,132 --> 00:03:20,932
-    this is called striking.    
+this is called striking.    
 
 46
 00:03:20,934 --> 00:03:22,801
-    back on the molding line,   
+back on the molding line,   
 
 47
 00:03:22,803 --> 00:03:24,469
-     special tools are used     
+special tools are used     
 
 48
 00:03:24,471 --> 00:03:27,739
-  to ensure this aircraft lens  
-      maintains its shape.      
+to ensure this aircraft lens maintains its shape.      
 
 49
 00:03:27,741 --> 00:03:30,742
- a quick spin on the light wheel
-    illuminates any defects.    
+a quick spin on the light wheel
+illuminates any defects.    
 
 50
 00:03:34,281 --> 00:03:36,881
-          after a trip          
-   through the annealing lair,  
+after a trip through the annealing lair,  
 
 51
 00:03:36,883 --> 00:03:39,718
-      the lenses are ready      
-     for further processing.    
+the lenses are ready for further processing.    
 
 52
 00:03:44,491 --> 00:03:48,293
- the molding process for larger 
- lenses can be more complicated.
+the molding process for larger lenses can be more complicated.
 
 53
 00:03:48,295 --> 00:03:52,631
- this large convex lens requires
-  several gobs of molten glass  
+this large convex lens requires
+several gobs of molten glass  
 
 54
 00:03:52,633 --> 00:03:55,701
-        placed carefully        
-     on top of one another.     
+placed carefully on top of one another.     
 
 55
 00:04:03,777 --> 00:04:06,778
-       the plunger enters       
-     into the molten glass,     
+the plunger enters into the molten glass,     
 
 56
 00:04:06,780 --> 00:04:08,179
-        forming the lens.       
+forming the lens.       
 
 57
 00:04:08,181 --> 00:04:11,316
-       deep ridges located      
-   in the plunger of the mold   
+deep ridges located in the plunger of the mold   
 
 58
 00:04:11,318 --> 00:04:14,720
-   create the circular prisms   
-       on the glass lens.       
+create the circular prisms on the glass lens.       
 
 59
 00:04:14,722 --> 00:04:15,920
-         within seconds,        
+within seconds,        
 
 60
 00:04:15,922 --> 00:04:19,324
 the lens is ready for extraction
-         and inspection.        
+and inspection.        
 
 61
 00:04:19,326 --> 00:04:21,193
-   using heat-resistant mitts,  
+using heat-resistant mitts,  
 
 62
 00:04:21,195 --> 00:04:24,462
-  workers scrutinize the glass  
-        from every angle,       
+workers scrutinize the glass from every angle,       
 
 63
 00:04:24,464 --> 00:04:28,233
-  checking for small fractures  
- or imperfections in the glass. 
+checking for small fractures or imperfections in the glass. 
 
 64
 00:04:34,341 --> 00:04:36,341
- next, they inspect for flatness
+next, they inspect for flatness
 
 65
 00:04:36,343 --> 00:04:38,877
-       using a paper-thin       
-         plastic feeler.        
+using a paper-thin plastic feeler.        
 
 66
 00:04:38,879 --> 00:04:40,478
-    if it slides underneath,    
+if it slides underneath,    
 
 67
 00:04:40,480 --> 00:04:42,681
-       the lens is warped       
-       and unacceptable.        
+the lens is warped and unacceptable.        
 
 68
 00:04:42,683 --> 00:04:45,350
- they check the glass thickness 
-       in many locations,       
+they check the glass thickness in many locations,       
 
 69
 00:04:45,352 --> 00:04:48,587
-       using a calibrated       
-        thickness gauge.        
+using a calibrated thickness gauge.        
 
 70
 00:04:50,757 --> 00:04:55,960
-       any major defects,       
-   and they discard the lens.   
+any major defects, and they discard the lens.   
 
 71
 00:04:55,962 --> 00:04:58,496
@@ -334,230 +291,198 @@ in the factory's finishing shop,
 
 72
 00:04:58,498 --> 00:05:01,700
-     they use a diamond saw     
-   to slice away excess glass   
+they use a diamond saw to slice away excess glass   
 
 73
 00:05:01,702 --> 00:05:03,034
-      around the periphery.     
+around the periphery.     
 
 74
 00:05:03,036 --> 00:05:04,903
- a special sanding belt is used 
+a special sanding belt is used 
 
 75
 00:05:04,905 --> 00:05:07,306
-      to smooth the surface     
-         to perfection.         
+to smooth the surface to perfection.         
 
 76
 00:05:13,714 --> 00:05:16,047
-              then,             
-   with a cloth buffing wheel,  
+then, with a cloth buffing wheel,  
 
 77
 00:05:16,049 --> 00:05:18,449
-      they polish the glass     
-           to a shine.          
+they polish the glass to a shine.          
 
 78
 00:05:18,451 --> 00:05:20,652
- at last, the final inspection. 
+at last, the final inspection. 
 
 79
 00:05:20,654 --> 00:05:24,455
-  using calipers, they measure  
-    the lens's ridged edges,    
+using calipers, they measure the lens's ridged edges,    
 
 80
 00:05:24,457 --> 00:05:25,857
-       called the flange,       
+called the flange,       
 
 81
 00:05:25,859 --> 00:05:28,894
-   to make sure the dimensions  
-          are correct.          
+to make sure the dimensions are correct.          
 
 82
 00:05:31,598 --> 00:05:34,933
-    producing such a colorful   
-  assortment of technical glass 
+producing such a colorful assortment of technical glass 
 
 83
 00:05:34,935 --> 00:05:36,268
-      takes a lot of work,      
+takes a lot of work,      
 
 84
 00:05:36,270 --> 00:05:39,404
-   but at least there's light   
-   at the end of the tunnel.    
+but at least there's light at the end of the tunnel.    
 
 85
 00:05:51,084 --> 00:05:52,818
-            narrator:           
- in the days before electricity,
+narrator: in the days before electricity,
 
 86
 00:05:52,820 --> 00:05:54,419
-          doing laundry         
-    was just plain hard work.   
+doing laundry was just plain hard work.   
 
 87
 00:05:54,421 --> 00:05:55,887
-       the first electric       
-        washing machines        
+the first electric washing machines        
 
 88
 00:05:55,889 --> 00:05:58,557
- were little more than a bucket 
-     with a motor attached.     
+were little more than a bucket with a motor attached.     
 
 89
 00:05:58,559 --> 00:06:00,959
-    fully automatic machines    
-    came about in the 1960s.    
+fully automatic machines came about in the 1960s.    
 
 90
 00:06:00,961 --> 00:06:03,094
-     but with rising concern    
-      for the environment,      
+but with rising concern for the environment,      
 
 91
 00:06:03,096 --> 00:06:06,231
- there are new designs that need
-   less water and electricity   
+there are new designs that need
+less water and electricity   
 
 92
 00:06:06,233 --> 00:06:08,567
-   to get the dirty job done.   
+to get the dirty job done.   
 
 93
 00:06:11,971 --> 00:06:14,840
-     most washing machines      
-     contain a circular tub     
+most washing machines contain a circular tub     
 
 94
 00:06:14,842 --> 00:06:16,174
-      to hold the laundry.      
+to hold the laundry.      
 
 95
 00:06:16,176 --> 00:06:18,710
-         but this model         
-     has a unique feature --    
+but this model has a unique feature --    
 
 96
 00:06:18,712 --> 00:06:20,846
-      a hexagon-shaped tub      
-        made from panels        
+a hexagon-shaped tub made from panels        
 
 97
 00:06:20,848 --> 00:06:23,482
-          of laser-cut,         
-   perforated stainless steel.  
+of laser-cut, perforated stainless steel.  
 
 98
 00:06:31,792 --> 00:06:34,525
-          the operator          
-    separates the cut panels    
+the operator separates the cut panels    
 
 99
 00:06:34,527 --> 00:06:38,263
-   and places one on a bending  
-  machine called a press brake. 
+and places one on a bending machine called a press brake. 
 
 100
 00:06:38,265 --> 00:06:40,866
-       it forces the panel      
-         against a die,         
+it forces the panel against a die,         
 
 101
 00:06:40,868 --> 00:06:42,133
-        bending the edge.       
+bending the edge.       
 
 102
 00:06:42,135 --> 00:06:45,470
-    the operator repositions    
-  the panel for the next bend,  
+the operator repositions the panel for the next bend,  
 
 103
 00:06:45,472 --> 00:06:48,774
-      repeating this until      
+repeating this until      
 the six-sided shape is complete.
 
 104
 00:06:57,017 --> 00:06:59,818
-   then an assembler attaches   
-          a hinged door         
+then an assembler attaches a hinged door         
 
 105
 00:06:59,820 --> 00:07:01,553
-      to the tub's opening.     
+to the tub's opening.     
 
 106
 00:07:01,555 --> 00:07:03,522
-    that's where the laundry    
-            goes in.            
+that's where the laundry goes in.            
 
 107
 00:07:05,826 --> 00:07:09,160
-   this inner tub is contained  
-      by another outer tub.     
+this inner tub is contained by another outer tub.     
 
 108
 00:07:09,162 --> 00:07:10,162
-         to assemble it,        
+to assemble it,        
 
 109
 00:07:10,164 --> 00:07:12,497
-          a welder sets         
-     a stainless steel plate    
+a welder sets a stainless steel plate    
 
 110
 00:07:12,499 --> 00:07:15,967
-     onto a welding fixture.    
+onto a welding fixture.    
 
 111
 00:07:15,969 --> 00:07:17,969
-         then he places         
-      the tub's main frame      
+then he places the tub's main frame      
 
 112
 00:07:17,971 --> 00:07:22,707
-      and slides in another     
-   steel plate to close it up.  
+and slides in another steel plate to close it up.  
 
 113
 00:07:22,709 --> 00:07:25,510
-        he clamps the tub       
-         firmly in place        
+he clamps the tub firmly in place        
 
 114
 00:07:25,512 --> 00:07:30,248
- then spot-welds it on each side
-  so the pieces hold together.  
+then spot-welds it on each side
+so the pieces hold together.  
 
 115
 00:07:37,057 --> 00:07:41,326
- next, he takes the tub over to 
- a machine called a seam welder.
+next, he takes the tub over to a machine called a seam welder.
 
 116
 00:07:41,328 --> 00:07:43,662
-             there,             
-   an electrode wheel travels   
+there, an electrode wheel travels   
 
 117
 00:07:43,664 --> 00:07:44,862
-    all along the tub's edge,   
+all along the tub's edge,   
 
 118
 00:07:44,864 --> 00:07:46,665
-        welding together        
-    the front and back panels   
+welding together the front and back panels   
 
 119
 00:07:46,667 --> 00:07:47,699
-       to the main frame.       
+to the main frame.       
 
 120
 00:07:56,276 --> 00:07:57,876
@@ -565,833 +490,719 @@ there's still more welding to do
 
 121
 00:07:57,878 --> 00:07:59,678
-          with the use          
-    of a robotic welding arm    
+with the use of a robotic welding arm    
 
 122
 00:07:59,680 --> 00:08:03,982
-     to build the machine's     
-     24x27-inch steel base.     
+to build the machine's 24x27-inch steel base.     
 
 123
 00:08:07,888 --> 00:08:11,289
-    a concrete counterweight    
- mounted on the outer tub's side
+a concrete counterweight mounted on the outer tub's side
 
 124
 00:08:11,291 --> 00:08:13,892
-      prevents the machine      
-      from shaking too much     
+prevents the machine from shaking too much     
 
 125
 00:08:13,894 --> 00:08:15,360
-     when it's in operation.    
+when it's in operation.    
 
 126
 00:08:15,362 --> 00:08:19,764
-   next, an assembler attaches  
- a pressure tube and a sump hose
+next, an assembler attaches a pressure tube and a sump hose
 
 127
 00:08:19,766 --> 00:08:22,166
-     to draw the used water     
-       out of the machine.      
+to draw the used water out of the machine.      
 
 128
 00:08:22,168 --> 00:08:24,870
-       he seals both tubes      
-   with a watertight adhesive.  
+he seals both tubes with a watertight adhesive.  
 
 129
 00:08:28,508 --> 00:08:31,042
-       now he can install       
-      the suspension struts     
+now he can install the suspension struts     
 
 130
 00:08:31,044 --> 00:08:34,312
-   that support the outer tub,  
- one at each corner of the base.
+that support the outer tub, one at each corner of the base.
 
 131
 00:08:39,519 --> 00:08:42,921
-     a single electric motor    
-    powers the whole machine.   
+a single electric motor powers the whole machine.   
 
 132
 00:08:42,923 --> 00:08:45,390
-            it's set            
-   on the machine's underside   
+it's set on the machine's underside   
 
 133
 00:08:45,392 --> 00:08:47,225
-  on an adjustable pivot shaft. 
+on an adjustable pivot shaft. 
 
 134
 00:08:50,597 --> 00:08:52,531
-    with the motor in place,    
+with the motor in place,    
 
 135
 00:08:52,533 --> 00:08:56,201
-    assemblers now turn over    
-    the completed outer tub     
+assemblers now turn over the completed outer tub     
 
 136
 00:08:56,203 --> 00:08:58,135
-   and lower it into position   
-          on its base.          
+and lower it into position on its base.          
 
 137
 00:08:58,137 --> 00:09:00,471
- they connect the support struts
-        on all four sides       
+they connect the support struts
+on all four sides       
 
 138
 00:09:00,473 --> 00:09:01,872
-      and then push the tub     
+and then push the tub     
 
 139
 00:09:01,874 --> 00:09:04,142
-     to make sure the struts    
-         align properly         
+to make sure the struts align properly         
 
 140
 00:09:04,144 --> 00:09:05,677
- and keep the machine balanced. 
+and keep the machine balanced. 
 
 141
 00:09:11,018 --> 00:09:15,353
-       next, the inner tub      
-   is set into the outer tub.   
+next, the inner tub is set into the outer tub.   
 
 142
 00:09:15,355 --> 00:09:18,089
-         workers insert         
-     a stainless steel shaft    
+workers insert a stainless steel shaft    
 
 143
 00:09:18,091 --> 00:09:19,624
-    right through both tubs.    
+right through both tubs.    
 
 144
 00:09:22,562 --> 00:09:24,362
-   a strip of watertight foam   
-             is set             
+a strip of watertight foam is set             
 
 145
 00:09:24,364 --> 00:09:26,431
- along the outer tub's perimeter
-           to seal it           
+along the outer tub's perimeter
+to seal it           
 
 146
 00:09:26,433 --> 00:09:29,100
-         before workers         
-     install a plastic bezel    
+before workers install a plastic bezel    
 
 147
 00:09:29,102 --> 00:09:32,437
- that keeps water from splashing
-       out of the machine.      
+that keeps water from splashing
+out of the machine.      
 
 148
 00:09:37,978 --> 00:09:40,711
-        next, assemblers        
-    install the drive pulley    
+next, assemblers install the drive pulley    
 
 149
 00:09:40,713 --> 00:09:43,748
-  onto the shaft that supports  
-         the inner tub.         
+onto the shaft that supports the inner tub.         
 
 150
 00:09:45,719 --> 00:09:48,586
- a drive belt connects the motor
-         to the pulley,         
+a drive belt connects the motor
+to the pulley,         
 
 151
 00:09:48,588 --> 00:09:49,988
-     which rotates the shaft    
+which rotates the shaft    
 
 152
 00:09:49,990 --> 00:09:52,190
-        and the inner tub       
-        that it supports.       
+and the inner tub that it supports.       
 
 153
 00:09:52,192 --> 00:09:54,993
-         now they slide         
- a stainless steel outer cabinet
+now they slide a stainless steel outer cabinet
 
 154
 00:09:54,995 --> 00:09:57,128
-          onto the base         
-      that covers the tubs.     
+onto the base that covers the tubs.     
 
 155
 00:09:57,130 --> 00:09:58,597
-  it contains a control board,  
+it contains a control board,  
 
 156
 00:09:58,599 --> 00:10:00,798
-            the brain           
-     of the washing machine.    
+the brain of the washing machine.    
 
 157
 00:10:00,800 --> 00:10:04,135
-          the assembler         
-    sets the lid into place,    
+the assembler sets the lid into place,    
 
 158
 00:10:04,137 --> 00:10:06,404
-  and the machine is complete.  
+and the machine is complete.  
 
 159
 00:10:06,406 --> 00:10:07,739
-    the control-board wiring    
+the control-board wiring    
 
 160
 00:10:07,741 --> 00:10:09,940
-   is located on the underside  
-           of the lid.          
+is located on the underside of the lid.          
 
 161
 00:10:09,942 --> 00:10:11,476
-  that's also where the valves  
+that's also where the valves  
 
 162
 00:10:11,478 --> 00:10:14,145
 that dispense detergent, bleach,
-        and softener are.       
+and softener are.       
 
 163
 00:10:14,147 --> 00:10:15,813
-   before it leaves the plant,  
+before it leaves the plant,  
 
 164
 00:10:15,815 --> 00:10:18,817
- a member of the quality-control
-        team tests it out       
+a member of the quality-control
+team tests it out       
 
 165
 00:10:18,819 --> 00:10:20,485
- with a load of soiled laundry. 
+with a load of soiled laundry. 
 
 166
 00:10:20,487 --> 00:10:22,486
- according to the manufacturers,
+according to the manufacturers,
 
 167
 00:10:22,488 --> 00:10:25,156
-        the unique shape        
-   of the inner tub is the key  
+the unique shape of the inner tub is the key  
 
 168
 00:10:25,158 --> 00:10:27,892
-  to making this a lean, green  
-         washing machine        
+to making this a lean, green washing machine        
 
 169
 00:10:27,894 --> 00:10:30,361
-    that requires less water,   
-         less detergent,        
+that requires less water, less detergent,        
 
 170
 00:10:30,363 --> 00:10:32,631
-         and less energy        
-      to get the job done.      
+and less energy to get the job done.      
 
 171
 00:10:32,633 --> 00:10:35,366
-   there's been a lot of water  
-        under the bridge        
+there's been a lot of water under the bridge        
 
 172
 00:10:35,368 --> 00:10:37,902
-         since the days         
-    of those first machines.    
+since the days of those first machines.    
 
 173
 00:10:37,904 --> 00:10:40,538
-  they've sure come a long way. 
+they've sure come a long way. 
 
 174
 00:10:49,516 --> 00:10:51,716
-   narrator: the playing card   
-        traces its roots        
+narrator: the playing card traces its roots        
 
 175
 00:10:51,718 --> 00:10:54,852
-   back more than 1,100 years   
-      to 9th century china.     
+back more than 1,100 years to 9th century china.     
 
 176
 00:10:54,854 --> 00:10:57,455
-           since then,          
-    generations young and old   
+since then, generations young and old   
 
 177
 00:10:57,457 --> 00:11:00,058
-   lay down their true colors   
-     in a variety of games,     
+lay down their true colors in a variety of games,     
 
 178
 00:11:00,060 --> 00:11:03,327
-         each as unique         
- as the traditional 52-card deck
+each as unique as the traditional 52-card deck
 
 179
 00:11:03,329 --> 00:11:06,164
-         and as timeless        
-    as the four famous suits.   
+and as timeless as the four famous suits.   
 
 180
 00:11:11,337 --> 00:11:12,603
-       whatever the hand,       
+whatever the hand,       
 
 181
 00:11:12,605 --> 00:11:15,540
-      a winning combination     
-      of technical features     
+a winning combination of technical features     
 
 182
 00:11:15,542 --> 00:11:19,010
-   makes these playing cards    
-   durable and cheater-proof.   
+makes these playing cards durable and cheater-proof.   
 
 183
 00:11:19,012 --> 00:11:21,813
-     industrial humidifiers     
-   control the moisture level   
+industrial humidifiers control the moisture level   
 
 184
 00:11:21,815 --> 00:11:23,348
-       of the card stock.       
+of the card stock.       
 
 185
 00:11:23,350 --> 00:11:27,619
-  this prevents the cardboard   
-  from drying out and warping.  
+this prevents the cardboard from drying out and warping.  
 
 186
 00:11:27,621 --> 00:11:29,353
-  technicians regularly monitor 
+technicians regularly monitor 
 
 187
 00:11:29,355 --> 00:11:31,756
-   the cardboard's temperature  
-          and humidity          
+the cardboard's temperature and humidity          
 
 188
 00:11:31,758 --> 00:11:33,024
-    by inserting a flat probe   
+by inserting a flat probe   
 
 189
 00:11:33,026 --> 00:11:36,161
-      4 inches from the top     
-    of the 3,000-sheet stack.   
+4 inches from the top of the 3,000-sheet stack.   
 
 190
 00:11:39,032 --> 00:11:41,499
-     card stock arrives from    
-  the paper mill ready-made --  
+card stock arrives from the paper mill ready-made --  
 
 191
 00:11:41,501 --> 00:11:45,436
-     two layers of cardboard    
-    bonded with colored glue.   
+two layers of cardboard bonded with colored glue.   
 
 192
 00:11:45,438 --> 00:11:47,705
-        this construction       
-     makes the playing cards    
+this construction makes the playing cards    
 
 193
 00:11:47,707 --> 00:11:49,574
-   impossible to see through.   
+impossible to see through.   
 
 194
 00:11:49,576 --> 00:11:51,509
- before making printing plates, 
+before making printing plates, 
 
 195
 00:11:51,511 --> 00:11:54,645
- a technician checks the artwork
-          for the deck,         
+a technician checks the artwork
+for the deck,         
 
 196
 00:11:54,647 --> 00:11:57,315
-         then prints out        
-     a low-resolution sample    
+then prints out a low-resolution sample    
 
 197
 00:11:57,317 --> 00:12:00,651
-     to confirm the sequence    
-     and layout are correct.    
+to confirm the sequence and layout are correct.    
 
 198
 00:12:00,653 --> 00:12:03,121
-   there's absolutely no room   
-           for error,           
+there's absolutely no room for error,           
 
 199
 00:12:03,123 --> 00:12:05,523
- so she carefully double-checks 
-           every card           
+so she carefully double-checks every card           
 
 200
 00:12:05,525 --> 00:12:10,862
-   for suit, sequence, color,   
-           and layout.          
+for suit, sequence, color, and layout.          
 
 201
 00:12:10,864 --> 00:12:13,131
-   a signature on this sticker  
+a signature on this sticker  
 
 202
 00:12:13,133 --> 00:12:16,267
-      confirms these cards      
-      are good for print.       
+confirms these cards are good for print.       
 
 203
 00:12:16,269 --> 00:12:19,470
-    the next step is to make    
-        a digital proof.        
+the next step is to make a digital proof.        
 
 204
 00:12:19,472 --> 00:12:21,972
-  this printer's internal laser 
+this printer's internal laser 
 
 205
 00:12:21,974 --> 00:12:25,543
- heat-transfers dots of colored 
-    foils onto a clear film.    
+heat-transfers dots of colored foils onto a clear film.    
 
 206
 00:12:25,545 --> 00:12:28,213
- these dots perfectly reproduce 
-      the content and color     
+these dots perfectly reproduce the content and color     
 
 207
 00:12:28,215 --> 00:12:30,414
-          of each card.         
+of each card.         
 
 208
 00:12:30,416 --> 00:12:34,552
-   next, a laminating machine   
-     bonds the exposed films    
+next, a laminating machine bonds the exposed films    
 
 209
 00:12:34,554 --> 00:12:36,955
-          onto a sheet          
-      of the same cardboard     
+onto a sheet of the same cardboard     
 
 210
 00:12:36,957 --> 00:12:38,889
-     used to make the cards.    
+used to make the cards.    
 
 211
 00:12:38,891 --> 00:12:40,625
-  this produces a printed proof 
+this produces a printed proof 
 
 212
 00:12:40,627 --> 00:12:42,961
-      showing exactly what      
-   the finished playing cards   
+showing exactly what the finished playing cards   
 
 213
 00:12:42,963 --> 00:12:44,696
-         will look like.        
+will look like.        
 
 214
 00:12:47,634 --> 00:12:51,302
-   here, graphic artists adapt  
+here, graphic artists adapt  
 hand drawings of the face cards,
 
 215
 00:12:51,304 --> 00:12:54,339
-    adding color and a touch    
- of regal class wherever needed.
+adding color and a touch of regal class wherever needed.
 
 216
 00:12:57,310 --> 00:13:00,044
-        the next step is        
-  to make the printing plates.  
+the next step is to make the printing plates.  
 
 217
 00:13:00,046 --> 00:13:01,646
-     a computer-guided laser    
+a computer-guided laser    
 
 218
 00:13:01,648 --> 00:13:03,982
-        etches the design       
-    into the polymer surface    
+etches the design into the polymer surface    
 
 219
 00:13:03,984 --> 00:13:05,249
-     of the printing plate.     
+of the printing plate.     
 
 220
 00:13:05,251 --> 00:13:07,451
-       entirely automated,      
+entirely automated,      
 
 221
 00:13:07,453 --> 00:13:11,189
-      this machine produces     
-       30 plates an hour.       
+this machine produces 30 plates an hour.       
 
 222
 00:13:20,132 --> 00:13:21,866
-   to set up for a print run,   
+to set up for a print run,   
 
 223
 00:13:21,868 --> 00:13:24,402
-    workers pour several cans   
-        of thick cyan ink       
+workers pour several cans of thick cyan ink       
 
 224
 00:13:24,404 --> 00:13:27,338
-       into the ink duct.       
+into the ink duct.       
 
 225
 00:13:27,340 --> 00:13:30,341
-    the three other colors --   
-           same setup.          
+the three other colors -- same setup.          
 
 226
 00:13:30,343 --> 00:13:32,276
-     when the printing press    
-          gets rolling,         
+when the printing press gets rolling,         
 
 227
 00:13:32,278 --> 00:13:34,212
-          each fountain         
-    will disperse ink evenly    
+each fountain will disperse ink evenly    
 
 228
 00:13:34,214 --> 00:13:37,415
-         via 16 rollers.        
+via 16 rollers.        
 
 229
 00:13:37,417 --> 00:13:40,484
-        feeders transport       
- the cardboard sheets one by one
+feeders transport the cardboard sheets one by one
 
 230
 00:13:40,486 --> 00:13:42,687
-         into the press.        
+into the press.        
 
 231
 00:13:45,558 --> 00:13:48,893
-       each printing plate      
- is mounted on a rotating drum. 
+each printing plate is mounted on a rotating drum. 
 
 232
 00:13:48,895 --> 00:13:51,562
-    rollers transfer the ink    
-         onto the plate,        
+rollers transfer the ink onto the plate,        
 
 233
 00:13:51,564 --> 00:13:54,431
-       which then transfer      
-     onto a rubber blanket,     
+which then transfer onto a rubber blanket,     
 
 234
 00:13:54,433 --> 00:13:57,168
-          which presses         
-  against the passing cardboard 
+which presses against the passing cardboard 
 
 235
 00:13:57,170 --> 00:13:59,036
- as it moves through the press. 
+as it moves through the press. 
 
 236
 00:13:59,038 --> 00:14:01,239
-   at the end of the machine,   
+at the end of the machine,   
 
 237
 00:14:01,241 --> 00:14:04,642
-        the printed sheet       
-    is flattened and stacked.   
+the printed sheet is flattened and stacked.   
 
 238
 00:14:04,644 --> 00:14:07,578
-    they feed the same sheets   
-     back through the press,    
+they feed the same sheets back through the press,    
 
 239
 00:14:07,580 --> 00:14:10,448
-     this time upside-down.     
+this time upside-down.     
 
 240
 00:14:12,785 --> 00:14:13,985
-       the sheets now move      
+the sheets now move      
 
 241
 00:14:13,987 --> 00:14:16,687
-    through a cutting machine   
-        called the combi,       
+through a cutting machine called the combi,       
 
 242
 00:14:16,689 --> 00:14:19,056
-  where rotating blades divide  
-     the sheet into columns,    
+where rotating blades divide the sheet into columns,    
 
 243
 00:14:19,058 --> 00:14:22,293
-   then into individual cards.  
+then into individual cards.  
 
 244
 00:14:29,469 --> 00:14:31,669
-      the cards get grouped     
-           into decks.          
+the cards get grouped into decks.          
 
 245
 00:14:31,671 --> 00:14:35,106
-  then the deck heads into what 
+then the deck heads into what 
 they call the cornering station.
 
 246
 00:14:38,878 --> 00:14:41,612
-         a die descends         
-     and, in one fell swoop,    
+a die descends and, in one fell swoop,    
 
 247
 00:14:41,614 --> 00:14:43,481
-   cuts off all four corners.   
+cuts off all four corners.   
 
 248
 00:14:43,483 --> 00:14:45,817
-       next, a robotic arm      
-        nudges each deck        
+next, a robotic arm nudges each deck        
 
 249
 00:14:45,819 --> 00:14:48,553
-    onto a conveyor destined    
-     for the cello wrapper.     
+onto a conveyor destined for the cello wrapper.     
 
 250
 00:14:51,624 --> 00:14:53,958
-          grippers pull         
-   a cellophane reel downwards  
+grippers pull a cellophane reel downwards  
 
 251
 00:14:53,960 --> 00:14:55,893
-          while a knife         
-       then cuts the film.      
+while a knife then cuts the film.      
 
 252
 00:14:55,895 --> 00:14:59,296
-      a heated bar descends     
-       and seals the film,      
+a heated bar descends and seals the film,      
 
 253
 00:14:59,298 --> 00:15:01,232
-    which forms an envelope.    
+which forms an envelope.    
 
 254
 00:15:01,234 --> 00:15:03,100
-       with a simple pull,      
+with a simple pull,      
 
 255
 00:15:03,102 --> 00:15:06,971
-       the red tear strip       
-      removes the wrapper.      
+the red tear strip removes the wrapper.      
 
 256
 00:15:09,843 --> 00:15:11,642
-  the traditional english deck  
+the traditional english deck  
 
 257
 00:15:11,644 --> 00:15:14,913
-  is the international standard 
-    for games such as poker.    
+is the international standard for games such as poker.    
 
 258
 00:15:14,915 --> 00:15:17,849
-  but there are many more types 
-        of playing cards.       
+but there are many more types of playing cards.       
 
 259
 00:15:17,851 --> 00:15:20,118
-   this set of spanish cards,   
-          for example,          
+this set of spanish cards, for example,          
 
 260
 00:15:20,120 --> 00:15:23,221
-  has no numbers, just symbols. 
+has no numbers, just symbols. 
 
 261
 00:15:26,525 --> 00:15:29,927
-      whether at the casino     
-         blackjack table        
+whether at the casino blackjack table        
 
 262
 00:15:29,929 --> 00:15:32,597
-      or the kitchen table,     
+or the kitchen table,     
 playing cards are the real deal.
 
 263
 00:15:48,148 --> 00:15:50,348
-      narrator: a crossbow      
-    is a modern bow and arrow   
+narrator: a crossbow is a modern bow and arrow   
 
 264
 00:15:50,350 --> 00:15:51,883
-  that you shoot like a rifle.  
+that you shoot like a rifle.  
 
 265
 00:15:51,885 --> 00:15:54,953
-      it's popular for both     
-  target shooting and hunting.  
+it's popular for both target shooting and hunting.  
 
 266
 00:15:54,955 --> 00:15:57,955
-   with a rifle, you can shoot  
-      from 200 yards away.      
+with a rifle, you can shoot from 200 yards away.      
 
 267
 00:15:57,957 --> 00:16:00,958
-      but using a crossbow      
-     is more of a challenge.    
+but using a crossbow is more of a challenge.    
 
 268
 00:16:00,960 --> 00:16:04,696
-  you have to be at least four  
-  times closer to your target.  
+you have to be at least four times closer to your target.  
 
 269
 00:16:09,168 --> 00:16:12,836
-       a crossbow consists      
-    of the bow and the stock.   
+a crossbow consists of the bow and the stock.   
 
 270
 00:16:12,838 --> 00:16:15,372
-    the bow shoots the arrow,   
-         while the stock        
+the bow shoots the arrow, while the stock        
 
 271
 00:16:15,374 --> 00:16:18,309
-       houses the trigger       
-      and the aiming scope.     
+houses the trigger and the aiming scope.     
 
 272
 00:16:20,179 --> 00:16:22,847
-      a plate of fiberglass     
-      is the starting point     
+a plate of fiberglass is the starting point     
 
 273
 00:16:22,849 --> 00:16:24,248
-      for the bow's limbs,      
+for the bow's limbs,      
 
 274
 00:16:24,250 --> 00:16:26,450
-       the two curved arms      
-         that pull back         
+the two curved arms that pull back         
 
 275
 00:16:26,452 --> 00:16:28,386
- and release to shoot the arrow.
+and release to shoot the arrow.
 
 276
 00:16:28,388 --> 00:16:30,521
- a vacuum holds the plate steady
+a vacuum holds the plate steady
 
 277
 00:16:30,523 --> 00:16:34,258
-  as a computer-guided grinder  
-   does some initial shaping.   
+as a computer-guided grinder does some initial shaping.   
 
 278
 00:16:35,662 --> 00:16:39,197
-    workers measure the plate   
-        with micrometers        
+workers measure the plate with micrometers        
 
 279
 00:16:39,199 --> 00:16:41,866
-       to ensure it meets       
-     strict specifications.     
+to ensure it meets strict specifications.     
 
 280
 00:16:41,868 --> 00:16:44,402
-     this is a special type     
-         of fiberglass.         
+this is a special type of fiberglass.         
 
 281
 00:16:44,404 --> 00:16:46,804
-       the fibers all run       
-     in the same direction,     
+the fibers all run in the same direction,     
 
 282
 00:16:46,806 --> 00:16:50,375
 meaning they can bend repeatedly
-  without weakening over time.  
+without weakening over time.  
 
 283
 00:16:51,945 --> 00:16:55,346
-     workers mount the plate    
-  on a computer-guided cutter.  
+workers mount the plate on a computer-guided cutter.  
 
 284
 00:16:55,348 --> 00:16:58,882
-  it carves out the limbs with  
-  a high-pressure water jet --  
+it carves out the limbs with a high-pressure water jet --  
 
 285
 00:16:58,884 --> 00:17:01,619
-      the most precise way      
-      to slice fiberglass.      
+the most precise way to slice fiberglass.      
 
 286
 00:17:07,827 --> 00:17:11,762
- each plate yields four limbs --
-        two bows' worth.        
+each plate yields four limbs --
+two bows' worth.        
 
 287
 00:17:11,764 --> 00:17:14,232
-       the severed fibers       
-    make their surface rough,   
+the severed fibers make their surface rough,   
 
 288
 00:17:14,234 --> 00:17:16,366
-      so a little polishing     
-          is in order.          
+so a little polishing is in order.          
 
 289
 00:17:16,368 --> 00:17:18,436
-          the limbs go          
-      into a vibrating tub      
+the limbs go into a vibrating tub      
 
 290
 00:17:18,438 --> 00:17:22,173
-   filled with ceramic stones   
-   that rub against the limbs,  
+filled with ceramic stones that rub against the limbs,  
 
 291
 00:17:22,175 --> 00:17:24,108
- wearing down the coarse fibers.
+wearing down the coarse fibers.
 
 292
 00:17:24,110 --> 00:17:26,711
-     now the limbs are ready    
-         for decoration.        
+now the limbs are ready for decoration.        
 
 293
 00:17:26,713 --> 00:17:29,179
-      the design is printed     
-        on plastic film.        
+the design is printed on plastic film.        
 
 294
 00:17:29,181 --> 00:17:31,449
-     this machine uses heat     
-          and pressure          
+this machine uses heat and pressure          
 
 295
 00:17:31,451 --> 00:17:34,585
-     to transfer the design.    
+to transfer the design.    
 
 296
 00:17:34,587 --> 00:17:37,388
-     the next bow component     
-      is called the riser.      
+the next bow component is called the riser.      
 
 297
 00:17:37,390 --> 00:17:39,390
@@ -1399,296 +1210,262 @@ they machine it out of aluminum,
 
 298
 00:17:39,392 --> 00:17:41,893
-         then jazz it up        
-      with an ink transfer.     
+then jazz it up with an ink transfer.     
 
 299
 00:17:43,996 --> 00:17:45,262
-      to assemble the bow,      
+to assemble the bow,      
 
 300
 00:17:45,264 --> 00:17:47,798
-        they bolt a limb        
-   to each side of the riser.   
+they bolt a limb to each side of the riser.   
 
 301
 00:17:47,800 --> 00:17:49,266
-      it acts as a spacer,      
+it acts as a spacer,      
 
 302
 00:17:49,268 --> 00:17:52,136
-  separating the limbs so that  
- the arrow can pass between them
+separating the limbs so that the arrow can pass between them
 
 303
 00:17:52,138 --> 00:17:53,604
-         when you shoot.        
+when you shoot.        
 
 304
 00:17:57,744 --> 00:18:01,145
-       the riser and limbs      
-        go into a press,        
+the riser and limbs go into a press,        
 
 305
 00:18:01,147 --> 00:18:04,348
-     which applies more than    
-     660 pounds of pressure,    
+which applies more than 660 pounds of pressure,    
 
 306
 00:18:04,350 --> 00:18:07,618
- bending the limbs into an arc. 
+bending the limbs into an arc. 
 
 307
 00:18:07,620 --> 00:18:10,354
-    next, workers mount a set   
-       of aluminum pulleys      
+next, workers mount a set of aluminum pulleys      
 
 308
 00:18:10,356 --> 00:18:11,355
-        on each limb tip.       
+on each limb tip.       
 
 309
 00:18:11,357 --> 00:18:15,293
- these are called compound cams.
+these are called compound cams.
 
 310
 00:18:15,295 --> 00:18:17,294
-         next, the yoke.        
+next, the yoke.        
 
 311
 00:18:17,296 --> 00:18:20,097
-       a yoke is a string       
-    with a loop on each end.    
+a yoke is a string with a loop on each end.    
 
 312
 00:18:20,099 --> 00:18:23,167
-      they anchor one loop      
-  to one side of the limb tip,  
+they anchor one loop to one side of the limb tip,  
 
 313
 00:18:23,169 --> 00:18:26,337
-       pass the other end       
+pass the other end       
 through a loop on a steel cable,
 
 314
 00:18:26,339 --> 00:18:29,040
-         then anchor it         
-       to the other side.       
+then anchor it to the other side.       
 
 315
 00:18:29,042 --> 00:18:30,641
-      this forms "y" shape      
+this forms "y" shape      
 
 316
 00:18:30,643 --> 00:18:34,044
-    that distributes pressure   
-       on the limb evenly.      
+that distributes pressure on the limb evenly.      
 
 317
 00:18:34,046 --> 00:18:36,180
-  they repeat the same process  
+they repeat the same process  
 
 318
 00:18:36,182 --> 00:18:38,715
-       with a second yoke       
-       on the other limb.       
+with a second yoke on the other limb.       
 
 319
 00:18:38,717 --> 00:18:40,651
-     now for the bowstring.     
+now for the bowstring.     
 
 320
 00:18:40,653 --> 00:18:42,052
-          on each limb,         
+on each limb,         
 
 321
 00:18:42,054 --> 00:18:45,789
-  they attach the bowstring end 
-     to one side of the cam.    
+they attach the bowstring end to one side of the cam.    
 
 322
 00:18:45,791 --> 00:18:48,659
-   then they anchor the cable   
-      coming from the yoke      
+then they anchor the cable coming from the yoke      
 
 323
 00:18:48,661 --> 00:18:50,661
-       to the other side.       
+to the other side.       
 
 324
 00:18:55,401 --> 00:18:59,002
-   next, two rubber silencers   
-     go onto the bowstring.     
+next, two rubber silencers go onto the bowstring.     
 
 325
 00:18:59,004 --> 00:19:00,271
-         when you shoot,        
+when you shoot,        
 
 326
 00:19:00,273 --> 00:19:03,607
-     these silencers absorb     
-     the string's vibration,    
+these silencers absorb the string's vibration,    
 
 327
 00:19:03,609 --> 00:19:05,075
-       reducing the sound.      
+reducing the sound.      
 
 328
 00:19:05,077 --> 00:19:08,478
-    these components make up    
- what's known as a compound bow.
+these components make up what's known as a compound bow.
 
 329
 00:19:08,480 --> 00:19:10,615
-       this design enables      
-          the bowstring         
+this design enables the bowstring         
 
 330
 00:19:10,617 --> 00:19:12,350
-  to propel the arrow farther.  
+to propel the arrow farther.  
 
 331
 00:19:12,352 --> 00:19:15,686
-     now the bow is finished    
-     and ready for testing.     
+now the bow is finished and ready for testing.     
 
 332
 00:19:15,688 --> 00:19:18,422
-       this scale measures      
-   how much strength it takes   
+this scale measures how much strength it takes   
 
 333
 00:19:18,424 --> 00:19:20,558
-        to draw the bow.        
+to draw the bow.        
 
 334
 00:19:23,162 --> 00:19:26,430
-           elsewhere,           
-  the stock is coming together. 
+elsewhere, the stock is coming together. 
 
 335
 00:19:26,432 --> 00:19:28,365
-  first, the trigger mechanism. 
+first, the trigger mechanism. 
 
 336
 00:19:28,367 --> 00:19:32,303
- it undergoes extensive testing 
- in a specially designed device 
+it undergoes extensive testing in a specially designed device 
 
 337
 00:19:32,305 --> 00:19:36,307
-  that applies air pressure to  
- simulate the bowstring tension.
+that applies air pressure to simulate the bowstring tension.
 
 338
 00:19:36,309 --> 00:19:40,578
- they pull the trigger six times
-  to ensure it fires properly.  
+they pull the trigger six times
+to ensure it fires properly.  
 
 339
 00:19:40,580 --> 00:19:42,913
-         then they apply        
-        the safety catch.       
+then they apply the safety catch.       
 
 340
 00:19:42,915 --> 00:19:45,583
-        and with a strap        
-    to get maximum strength,    
+and with a strap to get maximum strength,    
 
 341
 00:19:45,585 --> 00:19:46,984
-      they pull some more.      
+they pull some more.      
 
 342
 00:19:46,986 --> 00:19:48,653
-   this makes absolutely sure   
+this makes absolutely sure   
 
 343
 00:19:48,655 --> 00:19:50,787
-           the trigger          
-     won't fire accidentally    
+the trigger won't fire accidentally    
 
 344
 00:19:50,789 --> 00:19:52,390
-     in the safety position.    
+in the safety position.    
 
 345
 00:19:54,126 --> 00:19:57,795
 after attaching a connecting rod
-  that fits in the bow's riser, 
+that fits in the bow's riser, 
 
 346
 00:19:57,797 --> 00:20:00,531
-    they install the trigger    
-         in the barrel.         
+they install the trigger in the barrel.         
 
 347
 00:20:00,533 --> 00:20:04,936
- then they bolt these components
-     into the stock housing.    
+then they bolt these components
+into the stock housing.    
 
 348
 00:20:04,938 --> 00:20:09,273
- they attach a bridge and rail  
- on which the scope will mount. 
+they attach a bridge and rail on which the scope will mount. 
 
 349
 00:20:09,275 --> 00:20:13,377
- now they test the trigger again
-   to check the installation.   
+now they test the trigger again
+to check the installation.   
 
 350
 00:20:18,484 --> 00:20:21,485
-    connecting the crossbow's   
-     two sections is simple.    
+connecting the crossbow's two sections is simple.    
 
 351
 00:20:21,487 --> 00:20:24,822
-   you insert the stock's rod   
-    into a slot in the riser    
+you insert the stock's rod into a slot in the riser    
 
 352
 00:20:24,824 --> 00:20:26,690
- and tighten the mounting bolt. 
+and tighten the mounting bolt. 
 
 353
 00:20:26,692 --> 00:20:28,558
- then you attach a foot stirrup.
+then you attach a foot stirrup.
 
 354
 00:20:28,560 --> 00:20:31,829
-   to cock the bow, you stand   
-   the crossbow on the ground,  
+to cock the bow, you stand the crossbow on the ground,  
 
 355
 00:20:31,831 --> 00:20:33,497
-  put your foot in the stirrup, 
+put your foot in the stirrup, 
 
 356
 00:20:33,499 --> 00:20:35,299
-  and pull the bowstring upward 
+and pull the bowstring upward 
 
 357
 00:20:35,301 --> 00:20:37,901
-         until it locks         
-   into the trigger mechanism.  
+until it locks into the trigger mechanism.  
 
 358
 00:20:37,903 --> 00:20:41,739
- then you pick up the crossbow, 
-         aim, and fire.         
+then you pick up the crossbow, aim, and fire.         
 
 359
 00:20:47,580 --> 00:20:49,913
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 360
 00:20:49,915 --> 00:20:52,849
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 361
 00:20:52,851 --> 00:20:54,919
-      drop us a line at...      
+drop us a line at...      
 

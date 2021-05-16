@@ -1,366 +1,312 @@
 ﻿1
 00:00:01,802 --> 00:00:04,803
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,805 --> 00:00:07,773
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:53,487 --> 00:00:55,654
-            narrator:           
-  abalone is an edible mollusk. 
+narrator: abalone is an edible mollusk. 
 
 4
 00:00:55,656 --> 00:00:58,390
-          its shell has         
+its shell has         
 a multicolored iridescent lining
 
 5
 00:00:58,392 --> 00:01:00,326
-        that's been used        
-       since ancient times      
+that's been used since ancient times      
 
 6
 00:01:00,328 --> 00:01:03,295
-       to decorate jewelry      
-    and other prized objects.   
+to decorate jewelry and other prized objects.   
 
 7
 00:01:03,297 --> 00:01:05,630
-         more recently,         
-     abalone has been tapped    
+more recently, abalone has been tapped    
 
 8
 00:01:05,632 --> 00:01:07,165
-    as a source of collagen,    
+as a source of collagen,    
 
 9
 00:01:07,167 --> 00:01:09,935
-     a protein that supports    
-     the structure of bones,    
+a protein that supports the structure of bones,    
 
 10
 00:01:09,937 --> 00:01:13,439
-  connective tissues, and skin. 
+connective tissues, and skin. 
 
 11
 00:01:13,441 --> 00:01:17,142
-       abalone collagen is      
-  a popular treatment in asia.  
+abalone collagen is a popular treatment in asia.  
 
 12
 00:01:17,144 --> 00:01:20,112
-      this farm and factory     
-      raises the abalones,      
+this farm and factory raises the abalones,      
 
 13
 00:01:20,114 --> 00:01:23,214
-  then extracts their collagen  
-        to add to drinks,       
+then extracts their collagen to add to drinks,       
 
 14
 00:01:23,216 --> 00:01:26,552
-    cosmetics, and medicine.    
+cosmetics, and medicine.    
 
 15
 00:01:26,554 --> 00:01:28,621
-       the abalones spend       
-     their first six months     
+the abalones spend their first six months     
 
 16
 00:01:28,623 --> 00:01:31,657
-     in the farm's hatchery     
-        and nursery pond.       
+in the farm's hatchery and nursery pond.       
 
 17
 00:01:31,659 --> 00:01:34,793
-      nocturnal, they hide      
+nocturnal, they hide      
 from daylight under cement tiles
 
 18
 00:01:34,795 --> 00:01:36,895
-          that simulate         
-      their natural habitat     
+that simulate their natural habitat     
 
 19
 00:01:36,897 --> 00:01:39,765
-       of rocks and coral.      
+of rocks and coral.      
 
 20
 00:01:39,767 --> 00:01:41,634
-  their single shell has pores  
+their single shell has pores  
 
 21
 00:01:41,636 --> 00:01:43,668
-      that regulate various     
-        bodily functions        
+that regulate various bodily functions        
 
 22
 00:01:43,670 --> 00:01:47,473
-        such as breathing       
-        and reproduction.       
+such as breathing and reproduction.       
 
 23
 00:01:47,475 --> 00:01:50,442
-     the main ingredient in     
- their specially formulated food
+the main ingredient in their specially formulated food
 
 24
 00:01:50,444 --> 00:01:52,778
-           is seaweed.          
+is seaweed.          
 
 25
 00:01:52,780 --> 00:01:55,314
-         feeding time is        
-       once every evening.      
+feeding time is once every evening.      
 
 26
 00:01:55,316 --> 00:01:57,849
-                     ♪♪         
+♪♪         
 
 27
 00:01:57,851 --> 00:01:59,384
-      at six months of age,     
+at six months of age,     
 
 28
 00:01:59,386 --> 00:02:03,121
-      the abalones graduate     
-    to the cultivation pond.    
+the abalones graduate to the cultivation pond.    
 
 29
 00:02:03,123 --> 00:02:06,191
-       there are two types      
-       of growing methods.      
+there are two types of growing methods.      
 
 30
 00:02:06,193 --> 00:02:09,227
-   in this one, before filling  
-     the pond with seawater,    
+in this one, before filling the pond with seawater,    
 
 31
 00:02:09,229 --> 00:02:11,930
-    workers lay cement tiles    
-         at the bottom,         
+workers lay cement tiles at the bottom,         
 
 32
 00:02:11,932 --> 00:02:14,900
-   along with underwater pipes  
-       that supply oxygen,      
+along with underwater pipes that supply oxygen,      
 
 33
 00:02:14,902 --> 00:02:17,369
- which abalones need to survive.
+which abalones need to survive.
 
 34
 00:02:20,841 --> 00:02:22,841
-        the other method        
-       houses the abalones      
+the other method houses the abalones      
 
 35
 00:02:22,843 --> 00:02:25,176
-            in stacks           
-     of polyethylene crates,    
+in stacks of polyethylene crates,    
 
 36
 00:02:25,178 --> 00:02:28,213
-  referred to as condominiums.  
+referred to as condominiums.  
 
 37
 00:02:28,215 --> 00:02:31,684
-     with 50 to 100 abalones    
-         in each condo,         
+with 50 to 100 abalones in each condo,         
 
 38
 00:02:31,686 --> 00:02:34,553
-    the yield per square foot   
-    is significantly greater.   
+the yield per square foot is significantly greater.   
 
 39
 00:02:36,557 --> 00:02:39,325
-        every second day,       
-    workers remove the condos   
+every second day, workers remove the condos   
 
 40
 00:02:39,327 --> 00:02:42,528
-    from the cultivation pond   
-    to rinse out the crates,    
+from the cultivation pond to rinse out the crates,    
 
 41
 00:02:42,530 --> 00:02:45,564
-       check the abalones,      
-         and feed them.         
+check the abalones, and feed them.         
 
 42
 00:02:45,566 --> 00:02:48,300
-     rather than wastefully     
-       using new seawater,      
+rather than wastefully using new seawater,      
 
 43
 00:02:48,302 --> 00:02:50,769
-         the pond water         
-      is regularly drained,     
+the pond water is regularly drained,     
 
 44
 00:02:50,771 --> 00:02:53,238
-   cleaned, and recirculated.   
+cleaned, and recirculated.   
 
 45
 00:02:53,240 --> 00:02:55,507
-       the cleaning system      
-        filters out feces       
+the cleaning system filters out feces       
 
 46
 00:02:55,509 --> 00:02:57,610
-    and neutralizes ammonia.    
+and neutralizes ammonia.    
 
 47
 00:02:59,780 --> 00:03:02,514
-   after six months to a year   
-    in the cultivation pond,    
+after six months to a year in the cultivation pond,    
 
 48
 00:03:02,516 --> 00:03:06,819
-     the abalones are mature    
-    and ready for harvesting.   
+the abalones are mature and ready for harvesting.   
 
 49
 00:03:06,821 --> 00:03:08,853
-       workers remove them      
-         from the shell         
+workers remove them from the shell         
 
 50
 00:03:08,855 --> 00:03:11,857
-  and remove organs to be used  
-       for other products.      
+and remove organs to be used for other products.      
 
 51
 00:03:11,859 --> 00:03:14,493
-    then, the workers prepare   
-       to extract collagen      
+then, the workers prepare to extract collagen      
 
 52
 00:03:14,495 --> 00:03:16,594
-         from the meat.         
+from the meat.         
 
 53
 00:03:16,596 --> 00:03:21,233
-    first, they mash the meat   
- in an industrial-sized blender.
+first, they mash the meat in an industrial-sized blender.
 
 54
 00:03:21,235 --> 00:03:23,669
-       the trick is to use      
-      an extraction method      
+the trick is to use an extraction method      
 
 55
 00:03:23,671 --> 00:03:25,571
-          that doesn't          
-      destroy the collagen      
+that doesn't destroy the collagen      
 
 56
 00:03:25,573 --> 00:03:28,907
- or diminish its effectiveness. 
+or diminish its effectiveness. 
 
 57
 00:03:28,909 --> 00:03:32,477
-   abalone collagen must have   
-   full potency when consumed   
+abalone collagen must have full potency when consumed   
 
 58
 00:03:32,479 --> 00:03:34,413
-      in order to stimulate     
-         the human body         
+in order to stimulate the human body         
 
 59
 00:03:34,415 --> 00:03:38,050
-         to produce more        
-      of its own collagen.      
+to produce more of its own collagen.      
 
 60
 00:03:38,052 --> 00:03:41,453
-     since prolonged heating    
-  turns collagen into gelatin,  
+since prolonged heating turns collagen into gelatin,  
 
 61
 00:03:41,455 --> 00:03:44,823
-      worker use a process      
-     called cold extraction,    
+worker use a process called cold extraction,    
 
 62
 00:03:44,825 --> 00:03:46,892
-        stirring the meat       
-      in refrigerated tanks     
+stirring the meat in refrigerated tanks     
 
 63
 00:03:46,894 --> 00:03:48,494
-      for up to seven days      
+for up to seven days      
 
 64
 00:03:48,496 --> 00:03:50,429
-  until the collagen separates  
+until the collagen separates  
 
 65
 00:03:50,431 --> 00:03:52,898
-      and rises to the top.     
+and rises to the top.     
 
 66
 00:03:52,900 --> 00:03:55,200
- workers skim off the collagen, 
+workers skim off the collagen, 
 
 67
 00:03:55,202 --> 00:03:57,368
-          then, to make         
-    this particular product,    
+then, to make this particular product,    
 
 68
 00:03:57,370 --> 00:04:00,706
-            blend it            
-    with mixed fruit juices.    
+blend it with mixed fruit juices.    
 
 69
 00:04:00,708 --> 00:04:03,208
-    then they heat the drink    
-     in pasteurization tanks    
+then they heat the drink in pasteurization tanks    
 
 70
 00:04:03,210 --> 00:04:07,446
-        for three minutes       
-    to kill off any bacteria.   
+for three minutes to kill off any bacteria.   
 
 71
 00:04:07,448 --> 00:04:09,748
- the drink contains 20% collagen
+the drink contains 20% collagen
 
 72
 00:04:09,750 --> 00:04:13,451
-         and 80% juice.         
+and 80% juice.         
 
 73
 00:04:13,453 --> 00:04:15,521
-         when it's time         
-     to package the product,    
+when it's time to package the product,    
 
 74
 00:04:15,523 --> 00:04:17,622
-        the conveyor belt       
-       moves glass bottles      
+the conveyor belt moves glass bottles      
 
 75
 00:04:17,624 --> 00:04:19,291
-    to the cleaning station,    
+to the cleaning station,    
 
 76
 00:04:19,293 --> 00:04:22,928
-      which washes them out     
- with pressurized boiling water.
+which washes them out with pressurized boiling water.
 
 77
 00:04:29,636 --> 00:04:32,638
-   after washing, the bottles   
-    move to the next machine    
+after washing, the bottles move to the next machine    
 
 78
 00:04:32,640 --> 00:04:34,640
@@ -368,162 +314,137 @@ which fills them with the drink.
 
 79
 00:04:38,378 --> 00:04:40,245
-        the next machine        
-        seals the bottles       
+the next machine seals the bottles       
 
 80
 00:04:40,247 --> 00:04:42,081
-   with an aluminum twist cap.  
+with an aluminum twist cap.  
 
 81
 00:04:49,256 --> 00:04:50,823
-     controlled by a sensor,    
+controlled by a sensor,    
 
 82
 00:04:50,825 --> 00:04:54,359
-    an inkjet printer applies   
-    the lot number on the cap   
+an inkjet printer applies the lot number on the cap   
 
 83
 00:04:54,361 --> 00:04:56,361
-    along with the product's    
-        expiration date,        
+along with the product's expiration date,        
 
 84
 00:04:56,363 --> 00:04:59,330
-          a year away.          
+a year away.          
 
 85
 00:04:59,332 --> 00:05:01,233
-        a worker visually       
-      inspects the bottles      
+a worker visually inspects the bottles      
 
 86
 00:05:01,235 --> 00:05:05,170
-     as they make their way     
-    to the labeling machine.    
+as they make their way to the labeling machine.    
 
 87
 00:05:05,172 --> 00:05:07,906
 the factory's on-site laboratory
-        conducts a series       
+conducts a series       
 
 88
 00:05:07,908 --> 00:05:12,644
-    of quality control tests    
-       on random samples.       
+of quality control tests on random samples.       
 
 89
 00:05:12,646 --> 00:05:14,646
-          in this test,         
-       the technician uses      
+in this test, the technician uses      
 
 90
 00:05:14,648 --> 00:05:17,749
-      a ph meter to ensure      
-      the product's acidity     
+a ph meter to ensure the product's acidity     
 
 91
 00:05:17,751 --> 00:05:20,219
-      is within a specific      
-          target range.         
+is within a specific target range.         
 
 92
 00:05:22,389 --> 00:05:25,023
-        in another test,        
-     she places a few drops     
+in another test, she places a few drops     
 
 93
 00:05:25,025 --> 00:05:27,826
-           on a device          
-     called a refractometer.    
+on a device called a refractometer.    
 
 94
 00:05:27,828 --> 00:05:28,994
-   it measures to what extent   
+it measures to what extent   
 
 95
 00:05:28,996 --> 00:05:31,362
-      light passing through     
-       the liquid is bent,      
+light passing through the liquid is bent,      
 
 96
 00:05:31,364 --> 00:05:33,699
-      which gives a reading     
-        of the sweetness.       
+which gives a reading of the sweetness.       
 
 97
 00:05:36,303 --> 00:05:39,103
-        while this drink        
- is a skin enhancement product, 
+while this drink is a skin enhancement product, 
 
 98
 00:05:39,105 --> 00:05:41,206
-     other abalone collagen     
-          formulations          
+other abalone collagen formulations          
 
 99
 00:05:41,208 --> 00:05:45,009
-        are designed for        
- weight loss, boosting immunity,
+are designed for weight loss, boosting immunity,
 
 100
 00:05:45,011 --> 00:05:48,914
-    increasing bone density,    
-  and strengthening cartilage.  
+increasing bone density, and strengthening cartilage.  
 
 101
 00:06:02,329 --> 00:06:04,596
 narrator: an essential component
-       of an audio system       
+of an audio system       
 
 102
 00:06:04,598 --> 00:06:07,199
-    is the digital-to-analog    
-           converter.           
+is the digital-to-analog converter.           
 
 103
 00:06:07,201 --> 00:06:09,268
-        it receives data        
-      from a digital device     
+it receives data from a digital device     
 
 104
 00:06:09,270 --> 00:06:12,004
-     such as a computer, tv,    
-         or disc player         
+such as a computer, tv, or disc player         
 
 105
 00:06:12,006 --> 00:06:14,305
-          and converts          
-     that signal to analog,     
+and converts that signal to analog,     
 
 106
 00:06:14,307 --> 00:06:15,774
-   an electrical audio signal   
+an electrical audio signal   
 
 107
 00:06:15,776 --> 00:06:17,576
-      that the sound system     
-           can amplify          
+that the sound system can amplify          
 
 108
 00:06:17,578 --> 00:06:19,478
-   and play through speakers.   
+and play through speakers.   
 
 109
 00:06:22,182 --> 00:06:24,416
-     this digital-to-analog     
-           converter,           
+this digital-to-analog converter,           
 
 110
 00:06:24,418 --> 00:06:27,385
-     part of a product line     
-  of high-end audio components, 
+part of a product line of high-end audio components, 
 
 111
 00:06:27,387 --> 00:06:31,055
-       has four inputs for      
-   different digital devices.   
+has four inputs for different digital devices.   
 
 112
 00:06:31,057 --> 00:06:34,125
@@ -531,228 +452,197 @@ it also has a built-in cd drive.
 
 113
 00:06:34,127 --> 00:06:36,028
-     many of the converter's    
-        structural parts        
+many of the converter's structural parts        
 
 114
 00:06:36,030 --> 00:06:39,431
-            are made            
-  by computer-guided machines.  
+are made by computer-guided machines.  
 
 115
 00:06:39,433 --> 00:06:41,700
-   this computer-guided lathe,  
-          for example,          
+this computer-guided lathe, for example,          
 
 116
 00:06:41,702 --> 00:06:43,569
-    rotates an aluminum bar,    
+rotates an aluminum bar,    
 
 117
 00:06:43,571 --> 00:06:46,171
-   which a cutting tool forms   
-      into one of four legs     
+which a cutting tool forms into one of four legs     
 
 118
 00:06:46,173 --> 00:06:48,273
-   that support the cd drive.   
+that support the cd drive.   
 
 119
 00:06:48,275 --> 00:06:50,309
-                     ♪♪         
+♪♪         
 
 120
 00:06:50,311 --> 00:06:51,643
-    this milling machine cuts   
+this milling machine cuts   
 
 121
 00:06:51,645 --> 00:06:53,578
-       and shapes most of       
-       the aluminum parts       
+and shapes most of the aluminum parts       
 
 122
 00:06:53,580 --> 00:06:56,548
-           that makeup          
-    the converter's chassis,    
+that makeup the converter's chassis,    
 
 123
 00:06:56,550 --> 00:07:01,186
-      the box that contains     
- all the electronic components. 
+the box that contains all the electronic components. 
 
 124
 00:07:01,188 --> 00:07:03,588
-       the parts come off       
-    the mill with sharp burrs   
+the parts come off the mill with sharp burrs   
 
 125
 00:07:03,590 --> 00:07:05,256
-       along their edges,       
+along their edges,       
 
 126
 00:07:05,258 --> 00:07:08,727
 so the next step is to trim them
-     with a de-burring tool.    
+with a de-burring tool.    
 
 127
 00:07:13,300 --> 00:07:15,467
-          workers spray         
-    the trimmed chassis parts   
+workers spray the trimmed chassis parts   
 
 128
 00:07:15,469 --> 00:07:17,269
-    with black powder paint,    
+with black powder paint,    
 
 129
 00:07:17,271 --> 00:07:22,507
- then bake the paint in an oven 
-    to make it more durable.    
+then bake the paint in an oven to make it more durable.    
 
 130
 00:07:22,509 --> 00:07:24,776
-    then they print labeling    
-     on the chassis's front     
+then they print labeling on the chassis's front     
 
 131
 00:07:24,778 --> 00:07:27,879
- and back panels by squeegeeing 
-        white epoxy paint       
+and back panels by squeegeeing white epoxy paint       
 
 132
 00:07:27,881 --> 00:07:30,148
-  through a silkscreen stencil. 
+through a silkscreen stencil. 
 
 133
 00:07:30,150 --> 00:07:31,850
-   then workers put the panels  
+then workers put the panels  
 
 134
 00:07:31,852 --> 00:07:33,752
-           in the oven          
-       to bake the paint.       
+in the oven to bake the paint.       
 
 135
 00:07:36,857 --> 00:07:38,657
- workers install them in between
+workers install them in between
 
 136
 00:07:38,659 --> 00:07:41,626
-    the cd drive support base   
-      and each of the feet      
+the cd drive support base and each of the feet      
 
 137
 00:07:41,628 --> 00:07:44,596
-      to create a floating      
-        suspension system       
+to create a floating suspension system       
 
 138
 00:07:44,598 --> 00:07:47,065
-     that protects the drive    
-         from vibration.        
+that protects the drive from vibration.        
 
 139
 00:07:52,673 --> 00:07:54,873
-      next, workers install     
-          the cd drive          
+next, workers install the cd drive          
 
 140
 00:07:54,875 --> 00:07:56,742
-     onto the support base.     
+onto the support base.     
 
 141
 00:08:01,448 --> 00:08:04,750
-    they install the drive's    
-        protective cover.       
+they install the drive's protective cover.       
 
 142
 00:08:04,752 --> 00:08:08,320
-  it prevents dust from getting 
-   into the cd optical reader.  
+it prevents dust from getting into the cd optical reader.  
 
 143
 00:08:12,359 --> 00:08:14,459
-  meanwhile, a technician tests 
+meanwhile, a technician tests 
 
 144
 00:08:14,461 --> 00:08:16,627
-     each of the converter's    
-       five circuit boards      
+each of the converter's five circuit boards      
 
 145
 00:08:16,629 --> 00:08:20,365
-          to make sure          
-    they function perfectly.    
+to make sure they function perfectly.    
 
 146
 00:08:20,367 --> 00:08:22,600
-         this board runs        
-       the l.e.d. display       
+this board runs the l.e.d. display       
 
 147
 00:08:22,602 --> 00:08:24,336
- which shows the selected input 
+which shows the selected input 
 
 148
 00:08:24,338 --> 00:08:26,438
- and other playback information.
+and other playback information.
 
 149
 00:08:29,543 --> 00:08:32,043
-   once all the circuit boards  
-        pass inspection,        
+once all the circuit boards pass inspection,        
 
 150
 00:08:32,045 --> 00:08:36,581
- workers solder the l.e.d. board
+workers solder the l.e.d. board
 to the front panel circuit board
 
 151
 00:08:36,583 --> 00:08:39,451
-   which runs the converter's   
-         user controls.         
+which runs the converter's user controls.         
 
 152
 00:08:44,591 --> 00:08:47,325
-       the worker inserts       
-  brushed aluminum push buttons 
+the worker inserts brushed aluminum push buttons 
 
 153
 00:08:47,327 --> 00:08:49,962
-     into the front panel's     
-         labeled holes.         
+into the front panel's labeled holes.         
 
 154
 00:08:54,901 --> 00:08:57,769
-        then they attach        
- the front panel circuit board. 
+then they attach the front panel circuit board. 
 
 155
 00:08:57,771 --> 00:09:00,905
-  this aligns the push buttons  
- with the corresponding contacts
+this aligns the push buttons with the corresponding contacts
 
 156
 00:09:00,907 --> 00:09:02,274
-          on the board.         
+on the board.         
 
 157
 00:09:05,712 --> 00:09:08,013
-      the worker assembles      
-       the chassis bottom,      
+the worker assembles the chassis bottom,      
 
 158
 00:09:08,015 --> 00:09:10,349
-     side, and back panels.     
+side, and back panels.     
 
 159
 00:09:15,656 --> 00:09:19,725
-   they attach the front panel  
- with its push button controls, 
+they attach the front panel with its push button controls, 
 
 160
 00:09:19,727 --> 00:09:23,061
-       and in the center,       
-  an opening for the cd drive.  
+and in the center, an opening for the cd drive.  
 
 161
 00:09:26,567 --> 00:09:28,233
@@ -760,90 +650,81 @@ the technician visually inspects
 
 162
 00:09:28,235 --> 00:09:30,735
-         the converter's        
-       main circuit board,      
+the converter's main circuit board,      
 
 163
 00:09:30,737 --> 00:09:33,605
-         which converts         
-  the digital signal to analog. 
+which converts the digital signal to analog. 
 
 164
 00:09:37,077 --> 00:09:39,644
-    if the main circuit board   
-       passes inspection,       
+if the main circuit board passes inspection,       
 
 165
 00:09:39,646 --> 00:09:42,013
-         they install it        
-  in the back of the converter  
+they install it in the back of the converter  
 
 166
 00:09:42,015 --> 00:09:44,082
- next to the power supply board.
+next to the power supply board.
 
 167
 00:09:47,654 --> 00:09:50,655
-         next, a worker         
-     installs the cd drive.     
+next, a worker installs the cd drive.     
 
 168
 00:09:50,657 --> 00:09:52,791
-          this requires         
-     connecting three cables    
+this requires connecting three cables    
 
 169
 00:09:52,793 --> 00:09:54,793
-     into the main board --     
+into the main board --     
 
 170
 00:09:54,795 --> 00:09:56,495
-   one for the optical reader,  
+one for the optical reader,  
 
 171
 00:09:56,497 --> 00:09:59,764
 and two for the motors that open
-   and close the loading tray   
+and close the loading tray   
 
 172
 00:09:59,766 --> 00:10:01,933
-   and spin the compact disc.   
+and spin the compact disc.   
 
 173
 00:10:04,104 --> 00:10:07,172
- before completing the converter
-     by closing up the top,     
+before completing the converter
+by closing up the top,     
 
 174
 00:10:07,174 --> 00:10:09,474
-   a worker tests the cd drive  
+a worker tests the cd drive  
 
 175
 00:10:09,476 --> 00:10:11,610
-       as well as the four      
-      other digital inputs,     
+as well as the four other digital inputs,     
 
 176
 00:10:11,612 --> 00:10:13,778
-       which are designed       
-     for connecting devices     
+which are designed for connecting devices     
 
 177
 00:10:13,780 --> 00:10:15,647
-    such as audio components,   
+such as audio components,   
 
 178
 00:10:15,649 --> 00:10:17,682
-     dvd or blu-ray players,    
+dvd or blu-ray players,    
 
 179
 00:10:17,684 --> 00:10:21,519
-       tvs, and computers.      
+tvs, and computers.      
 
 180
 00:10:21,521 --> 00:10:24,155
-    the testing machine takes   
-    all kinds of measurements   
+the testing machine takes all kinds of measurements   
 
 181
 00:10:24,157 --> 00:10:26,057
@@ -851,17 +732,15 @@ to ensure the converter performs
 
 182
 00:10:26,059 --> 00:10:29,895
-     to a list of technical     
-         specifications.        
+to a list of technical specifications.        
 
 183
 00:10:29,897 --> 00:10:31,830
- if the unit passes inspection, 
+if the unit passes inspection, 
 
 184
 00:10:31,832 --> 00:10:36,034
-   they complete the assembly   
-   by attaching the top cover.  
+they complete the assembly by attaching the top cover.  
 
 185
 00:10:36,036 --> 00:10:38,036
@@ -869,140 +748,120 @@ this digital-to-analog converter
 
 186
 00:10:38,038 --> 00:10:40,038
-      is now ready to play      
-        its critical role       
+is now ready to play its critical role       
 
 187
 00:10:40,040 --> 00:10:43,275
- in this high-end audio system, 
+in this high-end audio system, 
 
 188
 00:10:43,277 --> 00:10:46,311
-        reproducing sound       
-     for the discerning ear.    
+reproducing sound for the discerning ear.    
 
 189
 00:11:01,694 --> 00:11:03,095
-            narrator:           
-       embossed wood trim       
+narrator: embossed wood trim       
 
 190
 00:11:03,097 --> 00:11:06,330
-   can make factory furniture   
-        look handcrafted.       
+can make factory furniture look handcrafted.       
 
 191
 00:11:06,332 --> 00:11:09,034
-   the technique was developed  
-       over a century ago       
+the technique was developed over a century ago       
 
 192
 00:11:09,036 --> 00:11:11,570
-        to mimic carvings       
-     on fancier furnishings     
+to mimic carvings on fancier furnishings     
 
 193
 00:11:11,572 --> 00:11:14,105
-    that were only available    
-         to the wealthy.        
+that were only available to the wealthy.        
 
 194
 00:11:14,107 --> 00:11:17,209
-    today, this trim is still   
- giving furniture and cabinetry 
+today, this trim is still giving furniture and cabinetry 
 
 195
 00:11:17,211 --> 00:11:19,010
-    the look of hand carving.   
+the look of hand carving.   
 
 196
 00:11:23,884 --> 00:11:25,951
-           the purpose          
-      of embossed wood trim     
+the purpose of embossed wood trim     
 
 197
 00:11:25,953 --> 00:11:27,885
-      is purely aesthetic.      
+is purely aesthetic.      
 
 198
 00:11:27,887 --> 00:11:30,054
-        it can transform        
-      a piece of furniture      
+it can transform a piece of furniture      
 
 199
 00:11:30,056 --> 00:11:33,358
- and make it a beautiful thing. 
+and make it a beautiful thing. 
 
 200
 00:11:33,360 --> 00:11:38,096
- making embossed moulding starts
-  with a rough piece of maple.  
+making embossed moulding starts
+with a rough piece of maple.  
 
 201
 00:11:38,098 --> 00:11:39,363
-        using a rip saw,        
+using a rip saw,        
 
 202
 00:11:39,365 --> 00:11:42,834
-       a woodworker slices      
-     the board into strips.     
+a woodworker slices the board into strips.     
 
 203
 00:11:42,836 --> 00:11:44,169
-    the first cut straightens   
+the first cut straightens   
 
 204
 00:11:44,171 --> 00:11:47,672
-      the edge of the wood      
-        to correct warps,       
+the edge of the wood to correct warps,       
 
 205
 00:11:47,674 --> 00:11:49,473
-       and the second one       
-        trims the strips        
+and the second one trims the strips        
 
 206
 00:11:49,475 --> 00:11:50,976
-    to the correct dimension.   
+to the correct dimension.   
 
 207
 00:11:50,978 --> 00:11:53,511
-                     ♪♪         
+♪♪         
 
 208
 00:11:53,513 --> 00:11:56,014
-     he then carves through     
-    the center of each strip    
+he then carves through the center of each strip    
 
 209
 00:11:56,016 --> 00:11:59,484
-    to get two pieces of trim   
-         from one board.        
+to get two pieces of trim from one board.        
 
 210
 00:11:59,486 --> 00:12:03,287
-       each strip is about      
-         1/2 inch thick.        
+each strip is about 1/2 inch thick.        
 
 211
 00:12:03,289 --> 00:12:05,991
-      the strips are ready      
-    to be fed to the moulder,   
+the strips are ready to be fed to the moulder,   
 
 212
 00:12:05,993 --> 00:12:09,828
- a machine that shapes the flat 
- surface to a specific profile. 
+a machine that shapes the flat surface to a specific profile. 
 
 213
 00:12:12,032 --> 00:12:14,732
-         the moulder has        
-       five cutter heads.       
+the moulder has five cutter heads.       
 
 214
 00:12:14,734 --> 00:12:17,068
-        to prepare them,        
-       he inserts a spacer      
+to prepare them, he inserts a spacer      
 
 215
 00:12:17,070 --> 00:12:19,271
@@ -1010,233 +869,196 @@ and a blade into the steel head.
 
 216
 00:12:22,208 --> 00:12:25,043
-        he uses a magnet        
-  to pull them into alignment.  
+he uses a magnet to pull them into alignment.  
 
 217
 00:12:27,848 --> 00:12:30,115
-        the worker locks        
-      the blade and spacer      
+the worker locks the blade and spacer      
 
 218
 00:12:30,117 --> 00:12:32,150
- to the cutter head with bolts. 
+to the cutter head with bolts. 
 
 219
 00:12:34,922 --> 00:12:38,223
-    he slides the cutter head   
- onto a spindle in the moulder. 
+he slides the cutter head onto a spindle in the moulder. 
 
 220
 00:12:40,894 --> 00:12:42,961
-      the worker secures it     
-           with a nut,          
+the worker secures it with a nut,          
 
 221
 00:12:42,963 --> 00:12:45,129
-      using a special tool      
-          for the job.          
+using a special tool for the job.          
 
 222
 00:12:45,131 --> 00:12:47,599
-    once all the cutter heads   
-          are in place,         
+once all the cutter heads are in place,         
 
 223
 00:12:47,601 --> 00:12:49,901
-       he turns the switch      
-         on the machine.        
+he turns the switch on the machine.        
 
 224
 00:12:52,172 --> 00:12:54,839
-      as the cutters spin,      
-       the operator feeds       
+as the cutters spin, the operator feeds       
 
 225
 00:12:54,841 --> 00:12:56,875
-         the long strips        
-        of wood to them.        
+the long strips of wood to them.        
 
 226
 00:12:58,945 --> 00:13:00,945
-     rubber and steel wheels    
-         move the board         
+rubber and steel wheels move the board         
 
 227
 00:13:00,947 --> 00:13:02,847
-  from one cutter to the next.  
+from one cutter to the next.  
 
 228
 00:13:06,086 --> 00:13:08,620
-    the cutter progressively    
-        profiles the area       
+the cutter progressively profiles the area       
 
 229
 00:13:08,622 --> 00:13:10,088
-      that's to be embossed     
+that's to be embossed     
 
 230
 00:13:10,090 --> 00:13:12,691
-     and creates decorative     
-         raised borders.        
+and creates decorative raised borders.        
 
 231
 00:13:17,898 --> 00:13:20,198
-       here's a side view       
-       of the contouring.       
+here's a side view of the contouring.       
 
 232
 00:13:23,003 --> 00:13:26,537
-        this trim is now        
-      ready for embossing.      
+this trim is now ready for embossing.      
 
 233
 00:13:26,539 --> 00:13:31,776
-  some of the embossing wheels  
- at this shop date back to 1908.
+some of the embossing wheels at this shop date back to 1908.
 
 234
 00:13:31,778 --> 00:13:33,845
-        the oldest wheels       
-       are made of bronze,      
+the oldest wheels are made of bronze,      
 
 235
 00:13:33,847 --> 00:13:37,315
-       and the newer ones       
-       are made of steel.       
+and the newer ones are made of steel.       
 
 236
 00:13:37,317 --> 00:13:41,986
- there are hundreds of patterns 
-         to choose from.        
+there are hundreds of patterns to choose from.        
 
 237
 00:13:41,988 --> 00:13:46,991
-  the worker selects the wheel  
-    with the desired pattern.   
+the worker selects the wheel with the desired pattern.   
 
 238
 00:13:46,993 --> 00:13:49,094
-          he mounts it          
-     to an embossing machine    
+he mounts it to an embossing machine    
 
 239
 00:13:49,096 --> 00:13:51,229
-     that was built in 1908.    
+that was built in 1908.    
 
 240
 00:13:53,900 --> 00:13:57,368
- the worker locks the embossing 
-      wheel onto the shaft.     
+the worker locks the embossing wheel onto the shaft.     
 
 241
 00:13:57,370 --> 00:14:01,239
-       he ignites torches       
- that heat the embossing wheel. 
+he ignites torches that heat the embossing wheel. 
 
 242
 00:14:01,241 --> 00:14:03,174
-   as the hot wheel revolves,   
+as the hot wheel revolves,   
 
 243
 00:14:03,176 --> 00:14:06,645
-     it presses the pattern     
- into the moulded strip of wood.
+it presses the pattern into the moulded strip of wood.
 
 244
 00:14:06,647 --> 00:14:08,980
-   the heat releases moisture   
-         from the wood,         
+the heat releases moisture from the wood,         
 
 245
 00:14:08,982 --> 00:14:12,583
-     preventing splintering     
-        during embossing.       
+preventing splintering during embossing.       
 
 246
 00:14:12,585 --> 00:14:14,686
-       a drive wheel below      
-        works in concert        
+a drive wheel below works in concert        
 
 247
 00:14:14,688 --> 00:14:17,956
-    with the embossing wheel    
-    to move the wood forward.   
+with the embossing wheel to move the wood forward.   
 
 248
 00:14:21,094 --> 00:14:22,894
-      next up are rosettes      
+next up are rosettes      
 
 249
 00:14:22,896 --> 00:14:25,663
-   that are used to accentuate  
-    the corners of furniture,   
+that are used to accentuate the corners of furniture,   
 
 250
 00:14:25,665 --> 00:14:28,733
-       windows, and doors.      
+windows, and doors.      
 
 251
 00:14:28,735 --> 00:14:32,003
-    using a sliding apparatus   
-        known as a sled,        
+using a sliding apparatus known as a sled,        
 
 252
 00:14:32,005 --> 00:14:36,541
- the woodworker delivers a board
-     to the teeth of a saw.     
+the woodworker delivers a board
+to the teeth of a saw.     
 
 253
 00:14:36,543 --> 00:14:38,476
-     he makes straight cuts     
-           and squares          
+he makes straight cuts and squares          
 
 254
 00:14:38,478 --> 00:14:41,879
-   to the desired dimensions.   
+to the desired dimensions.   
 
 255
 00:14:41,881 --> 00:14:44,281
-     the worker draws lines     
-         from one corner        
+the worker draws lines from one corner        
 
 256
 00:14:44,283 --> 00:14:46,050
- of the wood square to another, 
+of the wood square to another, 
 
 257
 00:14:46,052 --> 00:14:49,987
-  and from the opposite sides.  
+and from the opposite sides.  
 
 258
 00:14:49,989 --> 00:14:53,625
-   the lines intersect at the   
-   exact center of the square.  
+the lines intersect at the exact center of the square.  
 
 259
 00:14:56,196 --> 00:14:59,030
-  the worker clamps the square  
-      in a milling machine      
+the worker clamps the square in a milling machine      
 
 260
 00:14:59,032 --> 00:15:03,134
-   with the cutting tool aimed  
-     directly at the center.    
+with the cutting tool aimed directly at the center.    
 
 261
 00:15:03,136 --> 00:15:07,672
-  he activates the tool to make 
-     the first circular cut.    
+he activates the tool to make the first circular cut.    
 
 262
 00:15:07,674 --> 00:15:10,775
-   he removes the wood square   
-      to check out the cut.     
+he removes the wood square to check out the cut.     
 
 263
 00:15:13,012 --> 00:15:14,879
-     the worker measures it     
-           to confirm           
+the worker measures it to confirm           
 
 264
 00:15:14,881 --> 00:15:18,048
@@ -1244,244 +1066,213 @@ that it is in fact, dead center.
 
 265
 00:15:18,050 --> 00:15:20,318
-      he returns the square     
-         to the platform        
+he returns the square to the platform        
 
 266
 00:15:20,320 --> 00:15:23,287
-     under the milling tool.    
+under the milling tool.    
 
 267
 00:15:23,289 --> 00:15:25,423
-   this time the cutter spins   
-          into the wood         
+this time the cutter spins into the wood         
 
 268
 00:15:25,425 --> 00:15:29,193
-         to make a wider        
-    and deeper circular cut.    
+to make a wider and deeper circular cut.    
 
 269
 00:15:29,195 --> 00:15:32,630
 this further expands the pattern
-      in a radial fashion.      
+in a radial fashion.      
 
 270
 00:15:37,204 --> 00:15:41,306
-        and it completes        
-      the rosette pattern.      
+and it completes the rosette pattern.      
 
 271
 00:15:41,308 --> 00:15:43,908
-       the worker examines      
-     the quality of the cut     
+the worker examines the quality of the cut     
 
 272
 00:15:43,910 --> 00:15:46,277
-    and measures the distance   
-     to the edge of the wood    
+and measures the distance to the edge of the wood    
 
 273
 00:15:46,279 --> 00:15:48,146
-  to verify that it's to spec.  
+to verify that it's to spec.  
 
 274
 00:15:50,250 --> 00:15:53,685
-    from a simple wood square   
-     to an elegant rosette,     
+from a simple wood square to an elegant rosette,     
 
 275
 00:15:53,687 --> 00:15:56,087
-        this job is done.       
+this job is done.       
 
 276
 00:15:56,089 --> 00:15:57,655
-    the trim can now be used    
+the trim can now be used    
 
 277
 00:15:57,657 --> 00:15:59,791
-        to make furniture       
-       looked hand carved       
+to make furniture looked hand carved       
 
 278
 00:15:59,793 --> 00:16:01,693
-     without all the effort.    
+without all the effort.    
 
 279
 00:16:15,708 --> 00:16:17,775
-       narrator: a stapler      
-     can instantly transform    
+narrator: a stapler can instantly transform    
 
 280
 00:16:17,777 --> 00:16:20,245
-        a pile of papers        
-        into a document.        
+a pile of papers into a document.        
 
 281
 00:16:20,247 --> 00:16:22,046
- its story begins with the rapid
+its story begins with the rapid
 
 282
 00:16:22,048 --> 00:16:23,681
-  increase in the use of paper  
+increase in the use of paper  
 
 283
 00:16:23,683 --> 00:16:26,517
-          in the middle         
-      of the 19th century.      
+in the middle of the 19th century.      
 
 284
 00:16:26,519 --> 00:16:27,886
-    the stapler was developed   
+the stapler was developed   
 
 285
 00:16:27,888 --> 00:16:30,955
- because people needed something
-   better than string or pins   
+because people needed something
+better than string or pins   
 
 286
 00:16:30,957 --> 00:16:32,857
-   to hold the pages together.  
+to hold the pages together.  
 
 287
 00:16:36,897 --> 00:16:39,763
-       plier staplers open      
-      and close like pliers     
+plier staplers open and close like pliers     
 
 288
 00:16:39,765 --> 00:16:42,834
-    to tackle fastening jobs    
-      with quick precision.     
+to tackle fastening jobs with quick precision.     
 
 289
 00:16:42,836 --> 00:16:45,103
-                     ♪♪         
+♪♪         
 
 290
 00:16:45,105 --> 00:16:48,673
-      making these staplers     
-  starts with the cover plate.  
+making these staplers starts with the cover plate.  
 
 291
 00:16:48,675 --> 00:16:52,076
-         a press wields         
-     up to 176 tons of force    
+a press wields up to 176 tons of force    
 
 292
 00:16:52,078 --> 00:16:55,079
-      to shape steel blanks     
-      to a slopped profile.     
+to shape steel blanks to a slopped profile.     
 
 293
 00:16:57,516 --> 00:17:01,519
-     a robot inserts tracks     
-   into nickel steel casings.   
+a robot inserts tracks into nickel steel casings.   
 
 294
 00:17:01,521 --> 00:17:03,421
-     these are the vertical     
-          staple tracks         
+these are the vertical staple tracks         
 
 295
 00:17:03,423 --> 00:17:06,224
-  for the front of the stapler. 
+for the front of the stapler. 
 
 296
 00:17:06,226 --> 00:17:08,760
-         tools bend tabs        
-   on the ends of the casings   
+tools bend tabs on the ends of the casings   
 
 297
 00:17:08,762 --> 00:17:11,562
-    to fasten the two parts.    
+to fasten the two parts.    
 
 298
 00:17:11,564 --> 00:17:15,333
- another robot serves up covers 
-   for the stapler's magazines  
+another robot serves up covers for the stapler's magazines  
 
 299
 00:17:15,335 --> 00:17:17,168
-     to an automated welder.    
+to an automated welder.    
 
 300
 00:17:17,170 --> 00:17:19,570
-        the welder fuses        
-     an assembly attachment     
+the welder fuses an assembly attachment     
 
 301
 00:17:19,572 --> 00:17:21,206
-         to each cover.         
+to each cover.         
 
 302
 00:17:23,677 --> 00:17:26,744
-    a worker immerses some of   
-  the stapler's interior parts  
+a worker immerses some of the stapler's interior parts  
 
 303
 00:17:26,746 --> 00:17:31,249
-     in a solution of water     
-       and zinc phosphate.      
+in a solution of water and zinc phosphate.      
 
 304
 00:17:31,251 --> 00:17:34,085
-       this solution forms      
-    an anti-corrosion coating   
+this solution forms an anti-corrosion coating   
 
 305
 00:17:34,087 --> 00:17:36,554
-  on the surface of the steel.  
+on the surface of the steel.  
 
 306
 00:17:36,556 --> 00:17:40,458
-     these particular parts     
-       are pusher guides.       
+these particular parts are pusher guides.       
 
 307
 00:17:40,460 --> 00:17:43,894
-        the top part has        
-     the protective coating.    
+the top part has the protective coating.    
 
 308
 00:17:43,896 --> 00:17:45,296
-   the parts then take a ride   
+the parts then take a ride   
 
 309
 00:17:45,298 --> 00:17:48,466
-       with ceramic stones      
-     and polishing solution.    
+with ceramic stones and polishing solution.    
 
 310
 00:17:48,468 --> 00:17:52,636
-    this smoothes rough bits    
-      and makes them shine.     
+this smoothes rough bits and makes them shine.     
 
 311
 00:17:52,638 --> 00:17:54,606
-    next up is the die plate.   
+next up is the die plate.   
 
 312
 00:17:54,608 --> 00:17:56,140
-  this is the part that shapes  
+this is the part that shapes  
 
 313
 00:17:56,142 --> 00:17:59,910
-      and closes the staple     
-        during stapling.        
+and closes the staple during stapling.        
 
 314
 00:17:59,912 --> 00:18:03,047
-   an automated system screws   
-   an iron "u"-bolt attachment  
+an automated system screws an iron "u"-bolt attachment  
 
 315
 00:18:03,049 --> 00:18:04,282
-        to the die plate.       
+to the die plate.       
 
 316
 00:18:06,519 --> 00:18:09,453
-      a robot then inserts      
-        the spring block,       
+a robot then inserts the spring block,       
 
 317
 00:18:09,455 --> 00:18:11,222
@@ -1489,245 +1280,212 @@ the part that allows the stapler
 
 318
 00:18:11,224 --> 00:18:15,893
-      to spring back to its     
-  original position after use.  
+to spring back to its original position after use.  
 
 319
 00:18:15,895 --> 00:18:17,962
- meanwhile at the next station, 
+meanwhile at the next station, 
 
 320
 00:18:17,964 --> 00:18:20,764
-         a robot places         
- a piece of precision-cut steel 
+a robot places a piece of precision-cut steel 
 
 321
 00:18:20,766 --> 00:18:23,167
-           on a mold.           
+on a mold.           
 
 322
 00:18:23,169 --> 00:18:25,069
- a press drives it into the mold
+a press drives it into the mold
 
 323
 00:18:25,071 --> 00:18:27,204
-           to shape it          
-      into the stapler body     
+to shape it into the stapler body     
 
 324
 00:18:27,206 --> 00:18:29,474
-         that holds all         
-     the working components.    
+that holds all the working components.    
 
 325
 00:18:31,477 --> 00:18:34,112
-      more robots then work     
-      in perfect sequence,      
+more robots then work in perfect sequence,      
 
 326
 00:18:34,114 --> 00:18:37,582
-   to install thick metal pins  
-    across the stapler body.    
+to install thick metal pins across the stapler body.    
 
 327
 00:18:39,652 --> 00:18:43,621
-        these pins brace        
-    the stapler's structure,    
+these pins brace the stapler's structure,    
 
 328
 00:18:43,623 --> 00:18:45,123
-       but that's not all.      
+but that's not all.      
 
 329
 00:18:45,125 --> 00:18:46,957
-      some of the stapler's     
-          working parts         
+some of the stapler's working parts         
 
 330
 00:18:46,959 --> 00:18:49,127
-   will hook onto these pins.   
+will hook onto these pins.   
 
 331
 00:18:51,531 --> 00:18:53,931
-        other robots now        
-      fasten the die plate      
+other robots now fasten the die plate      
 
 332
 00:18:53,933 --> 00:18:57,335
-    to one end of the stapler   
-     body using rivet hinge.    
+to one end of the stapler body using rivet hinge.    
 
 333
 00:18:59,439 --> 00:19:01,405
-         in the process,        
-        they also fasten        
+in the process, they also fasten        
 
 334
 00:19:01,407 --> 00:19:04,142
-        the spring block        
-   securely to the die plate.   
+the spring block securely to the die plate.   
 
 335
 00:19:11,384 --> 00:19:13,751
- after cleaning and degreasing, 
+after cleaning and degreasing, 
 
 336
 00:19:13,753 --> 00:19:17,288
-       the stapler bodies       
-    head into a paint booth.    
+the stapler bodies head into a paint booth.    
 
 337
 00:19:17,290 --> 00:19:19,290
-    spray guns apply primer,    
+spray guns apply primer,    
 
 338
 00:19:19,292 --> 00:19:22,360
-  and a curtain of water behind 
-  the parts prevents emissions  
+and a curtain of water behind the parts prevents emissions  
 
 339
 00:19:22,362 --> 00:19:24,095
-  from escaping from the booth. 
+from escaping from the booth. 
 
 340
 00:19:26,099 --> 00:19:29,200
-     the next sprayers coat     
-   the parts with green paint.  
+the next sprayers coat the parts with green paint.  
 
 341
 00:19:32,405 --> 00:19:34,939
-       with the paint dry       
-      on the stapler body,      
+with the paint dry on the stapler body,      
 
 342
 00:19:34,941 --> 00:19:39,610
-  workers are ready to assemble 
-     all the working parts.     
+workers are ready to assemble all the working parts.     
 
 343
 00:19:39,612 --> 00:19:43,514
- the assembler slides the front 
-     staple track into place    
+the assembler slides the front staple track into place    
 
 344
 00:19:43,516 --> 00:19:47,652
-  and inserts the staple pusher 
-      guide into the body.      
+and inserts the staple pusher guide into the body.      
 
 345
 00:19:47,654 --> 00:19:50,387
-   she positions a metal plate  
-         over the guide         
+she positions a metal plate over the guide         
 
 346
 00:19:50,389 --> 00:19:52,023
- and screws everything in place 
+and screws everything in place 
 
 347
 00:19:52,025 --> 00:19:55,359
-          through holes         
-   in the body of the stapler.  
+through holes in the body of the stapler.  
 
 348
 00:19:55,361 --> 00:20:00,631
- the assembler clips a retaining
-     ring around each screw.    
+the assembler clips a retaining
+ring around each screw.    
 
 349
 00:20:00,633 --> 00:20:02,567
-     next up is the driver.     
+next up is the driver.     
 
 350
 00:20:02,569 --> 00:20:04,168
-   this part detaches staples   
+this part detaches staples   
 
 351
 00:20:04,170 --> 00:20:08,038
- one at a time during stapling. 
+one at a time during stapling. 
 
 352
 00:20:08,040 --> 00:20:10,340
-      after installing it,      
-      the assembler inserts     
+after installing it, the assembler inserts     
 
 353
 00:20:10,342 --> 00:20:11,909
-    the spring loaded pusher    
+the spring loaded pusher    
 
 354
 00:20:11,911 --> 00:20:15,680
-        and hooks the end       
-      on the staple guide.      
+and hooks the end on the staple guide.      
 
 355
 00:20:15,682 --> 00:20:17,548
-    another worker assembles    
-           the handle           
+another worker assembles the handle           
 
 356
 00:20:17,550 --> 00:20:19,083
-     that allows the stapler    
+that allows the stapler    
 
 357
 00:20:19,085 --> 00:20:23,421
-          to be wielded         
-    with plier-like accuracy.   
+to be wielded with plier-like accuracy.   
 
 358
 00:20:23,423 --> 00:20:26,790
-      he secures the handle     
-    with a rolling fastener.    
+he secures the handle with a rolling fastener.    
 
 359
 00:20:26,792 --> 00:20:29,027
-      this rolling fastener     
-      indirectly bears down     
+this rolling fastener indirectly bears down     
 
 360
 00:20:29,029 --> 00:20:32,463
-     on the staples to apply    
-    pressure during stapling.   
+on the staples to apply pressure during stapling.   
 
 361
 00:20:35,735 --> 00:20:39,536
-       another team member      
-   then inspects the stapler.   
+another team member then inspects the stapler.   
 
 362
 00:20:39,538 --> 00:20:42,006
- satisfied with its fabrication,
+satisfied with its fabrication,
 
 363
 00:20:42,008 --> 00:20:43,608
- she reaches for the cover plate
+she reaches for the cover plate
 
 364
 00:20:43,610 --> 00:20:47,912
-      and hammers the wings     
- to bend them for a better fit. 
+and hammers the wings to bend them for a better fit. 
 
 365
 00:20:47,914 --> 00:20:50,881
-   she slides the cover plate   
- into the grooves of the stapler
+she slides the cover plate into the grooves of the stapler
 
 366
 00:20:50,883 --> 00:20:53,918
-      and loads the staples     
-     to give it a trial run.    
+and loads the staples to give it a trial run.    
 
 367
 00:20:57,791 --> 00:21:00,224
-        she staples paper       
-      repeatedly to confirm     
+she staples paper repeatedly to confirm     
 
 368
 00:21:00,226 --> 00:21:03,861
-  that it's fully operational.  
+that it's fully operational.  
 
 369
 00:21:03,863 --> 00:21:07,732
-      these plier staplers      
+these plier staplers      
 are now ready for the workplace,
 
 370
@@ -1736,6 +1494,5 @@ where with a few quick crunches,
 
 371
 00:21:09,768 --> 00:21:12,637
-        they'll help keep       
-     the paperwork in order.    
+they'll help keep the paperwork in order.    
 

@@ -1,161 +1,139 @@
 ﻿1
 00:00:02,937 --> 00:00:06,004
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:06,006 --> 00:00:08,975
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:52,854 --> 00:00:55,788
-     narrator: the sombrero     
-  is a traditional mexican hat  
+narrator: the sombrero is a traditional mexican hat  
 
 4
 00:00:55,790 --> 00:00:58,924
-    with a large brim that's    
- designed to cast a wide shadow 
+with a large brim that's designed to cast a wide shadow 
 
 5
 00:00:58,926 --> 00:01:00,526
-  over the face and shoulders.  
+over the face and shoulders.  
 
 6
 00:01:00,528 --> 00:01:03,062
-       everyday sombreros       
-       are made of straw,       
+everyday sombreros are made of straw,       
 
 7
 00:01:03,064 --> 00:01:05,998
-       but mariachi bands       
- and other folkloric performers 
+but mariachi bands and other folkloric performers 
 
 8
 00:01:06,000 --> 00:01:09,201
-        wear fancier ones       
- made of velvet, wool, or felt, 
+wear fancier ones made of velvet, wool, or felt, 
 
 9
 00:01:09,203 --> 00:01:11,837
-   with elaborate decorations.  
+with elaborate decorations.  
 
 10
 00:01:15,476 --> 00:01:18,344
-     these fancy sombreros      
-     are produced primarily     
+these fancy sombreros are produced primarily     
 
 11
 00:01:18,346 --> 00:01:20,479
-          as decorative         
-       tourist souvenirs.       
+as decorative tourist souvenirs.       
 
 12
 00:01:20,481 --> 00:01:26,419
- artisans construct and decorate
-   each one entirely by hand.   
+artisans construct and decorate
+each one entirely by hand.   
 
 13
 00:01:26,421 --> 00:01:29,555
-    they start by positioning   
-    a sun-shaped cutting die    
+they start by positioning a sun-shaped cutting die    
 
 14
 00:01:29,557 --> 00:01:32,224
- at the center of a large sheet 
-         of thick paper.        
+at the center of a large sheet of thick paper.        
 
 15
 00:01:32,226 --> 00:01:37,196
-  as the press closes, the die  
- slices through, making a hole. 
+as the press closes, the die slices through, making a hole. 
 
 16
 00:01:42,369 --> 00:01:44,303
-  next, they sandwich the sheet 
+next, they sandwich the sheet 
 
 17
 00:01:44,305 --> 00:01:48,174
-     between two fiery hot      
-     sombrero-shaped forms.     
+between two fiery hot sombrero-shaped forms.     
 
 18
 00:01:48,176 --> 00:01:51,277
-      these mold the paper      
- to the shape of the hat's brim.
+these mold the paper to the shape of the hat's brim.
 
 19
 00:01:57,318 --> 00:01:59,985
-  then they trim off the excess 
+then they trim off the excess 
 
 20
 00:01:59,987 --> 00:02:04,690
-    and stitch the perimeter    
-     to reinforce the edge.     
+and stitch the perimeter to reinforce the edge.     
 
 21
 00:02:07,528 --> 00:02:10,262
-     now they soak the brim     
-     in a gelatin solution      
+now they soak the brim in a gelatin solution      
 
 22
 00:02:10,264 --> 00:02:13,499
 and lay it out in the sun to dry
-      to stiffen the paper.     
+to stiffen the paper.     
 
 23
 00:02:16,938 --> 00:02:21,007
 next, they fold a sheet of paper
-   and die-cut another shape.   
+and die-cut another shape.   
 
 24
 00:02:22,276 --> 00:02:25,343
- they sew the far ends together 
-        to form a circle.       
+they sew the far ends together to form a circle.       
 
 25
 00:02:25,345 --> 00:02:28,748
-     this will form the top     
+this will form the top     
 of the sombrero, called the cup.
 
 26
 00:02:30,684 --> 00:02:34,920
 they spread glue along the base,
- where it attaches to the brim. 
+where it attaches to the brim. 
 
 27
 00:02:36,624 --> 00:02:39,291
-      they also apply glue      
-       to a paper circle.       
+they also apply glue to a paper circle.       
 
 28
 00:02:41,496 --> 00:02:42,895
-     then they place the cup    
+then they place the cup    
 
 29
 00:02:42,897 --> 00:02:46,198
-      on the same hot form      
-   they use to mold the brim.   
+on the same hot form they use to mold the brim.   
 
 30
 00:02:55,576 --> 00:02:56,976
-     after shaping the cup,     
+after shaping the cup,     
 
 31
 00:02:56,978 --> 00:03:00,079
-     they reinforce the top     
-     with the paper circle.     
+they reinforce the top with the paper circle.     
 
 32
 00:03:11,325 --> 00:03:14,593
-          the sombrero          
-    is now fully constructed.   
+the sombrero is now fully constructed.   
 
 33
 00:03:14,595 --> 00:03:16,762
-  the next step is to cover it  
-           in fabric.           
+the next step is to cover it in fabric.           
 
 34
 00:03:16,764 --> 00:03:19,532
@@ -163,86 +141,73 @@ they coat the surface with glue,
 
 35
 00:03:19,534 --> 00:03:24,470
-    then, section by section,   
+then, section by section,   
 adhere pieces of velvet or felt.
 
 36
 00:03:24,472 --> 00:03:26,739
-    they start with the cup.    
+they start with the cup.    
 
 37
 00:03:26,741 --> 00:03:30,876
-   the fabric has been pre-cut  
- and sewn to the correct shape. 
+the fabric has been pre-cut and sewn to the correct shape. 
 
 38
 00:03:38,553 --> 00:03:41,420
-        the next section        
-    is the brim's underside.    
+the next section is the brim's underside.    
 
 39
 00:03:53,600 --> 00:03:56,635
- they trim off the excess fabric
-      with a razor blade...     
+they trim off the excess fabric
+with a razor blade...     
 
 40
 00:04:00,441 --> 00:04:03,275
-         ...and cut away        
-    the fabric over the cup.    
+...and cut away the fabric over the cup.    
 
 41
 00:04:08,449 --> 00:04:12,785
-     next, a piece to cover     
-      the top of the brim.      
+next, a piece to cover the top of the brim.      
 
 42
 00:04:12,787 --> 00:04:15,987
-         throughout the         
-   fabric-application process,  
+throughout the fabric-application process,  
 
 43
 00:04:15,989 --> 00:04:18,256
-      he's careful to pull      
-        the material taut       
+he's careful to pull the material taut       
 
 44
 00:04:18,258 --> 00:04:20,259
-       and smooth it down.      
+and smooth it down.      
 
 45
 00:04:23,397 --> 00:04:27,099
-      a final trimming, and     
- the sombrero is fully covered. 
+a final trimming, and the sombrero is fully covered. 
 
 46
 00:04:31,272 --> 00:04:33,739
-    elsewhere in the factory,   
-       automated machines       
+elsewhere in the factory, automated machines       
 
 47
 00:04:33,741 --> 00:04:36,142
-          weave spools          
-     of polypropylene string    
+weave spools of polypropylene string    
 
 48
 00:04:36,144 --> 00:04:39,145
-   and metallic plastic string  
-       into colorful trim.      
+and metallic plastic string into colorful trim.      
 
 49
 00:04:44,351 --> 00:04:46,485
-            artisans            
-  in the decoration department  
+artisans in the decoration department  
 
 50
 00:04:46,487 --> 00:04:50,089
-      cut out paper motifs      
-     and cover them in trim.    
+cut out paper motifs and cover them in trim.    
 
 51
 00:04:50,091 --> 00:04:53,025
-         then, they make        
-       colorful appliqués       
+then, they make colorful appliqués       
 
 52
 00:04:53,027 --> 00:04:55,294
@@ -250,171 +215,144 @@ by sewing the motifs and sequins
 
 53
 00:04:55,296 --> 00:04:57,530
-       onto velvet-covered      
-          paper shapes.         
+onto velvet-covered paper shapes.         
 
 54
 00:05:00,501 --> 00:05:03,803
-    they glue these appliqués   
-       onto the sombrero.       
+they glue these appliqués onto the sombrero.       
 
 55
 00:05:12,513 --> 00:05:13,979
-     finally, they glue trim    
+finally, they glue trim    
 
 56
 00:05:13,981 --> 00:05:17,382
-    where the appliqué edges    
-      and hat surface meet.     
+where the appliqué edges and hat surface meet.     
 
 57
 00:05:17,384 --> 00:05:21,187
-    this holds the edges down   
-  and finishes them off nicely. 
+this holds the edges down and finishes them off nicely. 
 
 58
 00:05:24,458 --> 00:05:28,928
-  on pricier sombreros, all the 
- decorations are sewn by hand --
+on pricier sombreros, all the decorations are sewn by hand --
 
 59
 00:05:28,930 --> 00:05:30,963
-     no glued-on appliqués.     
+no glued-on appliqués.     
 
 60
 00:05:35,469 --> 00:05:37,870
-      the artisans complete     
-         every sombrero         
+the artisans complete every sombrero         
 
 61
 00:05:37,872 --> 00:05:39,271
-     with the fabric lining     
-           in the cup,          
+with the fabric lining in the cup,          
 
 62
 00:05:39,273 --> 00:05:42,074
-     then an under-the-chin     
-           drawstring,          
+then an under-the-chin drawstring,          
 
 63
 00:05:42,076 --> 00:05:46,378
-  handy for wearing or hanging  
-      this mexican memento.     
+handy for wearing or hanging this mexican memento.     
 
 64
 00:06:04,031 --> 00:06:05,564
-            narrator:           
-       supermarket shelves      
+narrator: supermarket shelves      
 
 65
 00:06:05,566 --> 00:06:07,166
-           are stocked          
-      with a vast selection     
+are stocked with a vast selection     
 
 66
 00:06:07,168 --> 00:06:10,769
-      of tasty, ready-made      
- salad dressings and marinades. 
+of tasty, ready-made salad dressings and marinades. 
 
 67
 00:06:10,771 --> 00:06:13,972
-  dressing adds instant pizzazz 
-          to the salad,         
+dressing adds instant pizzazz to the salad,         
 
 68
 00:06:13,974 --> 00:06:17,776
-    whereas marinade flavors    
-    and tenderizes raw food     
+whereas marinade flavors and tenderizes raw food     
 
 69
 00:06:17,778 --> 00:06:21,647
-    by slow penetration over    
-  a few hours prior to cooking. 
+by slow penetration over a few hours prior to cooking. 
 
 70
 00:06:25,386 --> 00:06:28,053
-     salad dressings can be     
-   cream- or mayonnaise-based   
+salad dressings can be cream- or mayonnaise-based   
 
 71
 00:06:28,055 --> 00:06:30,589
-    or oil-and-vinegar-based.   
+or oil-and-vinegar-based.   
 
 72
 00:06:30,591 --> 00:06:33,058
-      this particular line      
-   of dressings and marinades   
+this particular line of dressings and marinades   
 
 73
 00:06:33,060 --> 00:06:36,128
-       is made entirely of      
- certified organic ingredients. 
+is made entirely of certified organic ingredients. 
 
 74
 00:06:36,130 --> 00:06:38,864
-      it's also gluten-free     
-         and sugar-free         
+it's also gluten-free and sugar-free         
 
 75
 00:06:38,866 --> 00:06:42,201
-  for those with celiac disease 
-          or diabetes.          
+for those with celiac disease or diabetes.          
 
 76
 00:06:42,203 --> 00:06:45,671
- while the salad dressing's base
-      stays much the same,      
+while the salad dressing's base
+stays much the same,      
 
 77
 00:06:45,673 --> 00:06:49,141
- the seasoning ingredients vary 
-  to create different flavors,  
+the seasoning ingredients vary to create different flavors,  
 
 78
 00:06:49,143 --> 00:06:51,610
-   such as the one we're about  
-      to see being made --      
+such as the one we're about to see being made --      
 
 79
 00:06:51,612 --> 00:06:54,946
-        sun-dried tomato        
-     and garlic vinaigrette.    
+sun-dried tomato and garlic vinaigrette.    
 
 80
 00:06:54,948 --> 00:06:58,350
-    on the production floor,    
-  they start by heating water,  
+on the production floor, they start by heating water,  
 
 81
 00:06:58,352 --> 00:07:00,185
-    then adding tomato paste.   
+then adding tomato paste.   
 
 82
 00:07:04,158 --> 00:07:07,159
-   next, they add dried basil.  
+next, they add dried basil.  
 
 83
 00:07:07,161 --> 00:07:10,428
-    they pour all ingredients   
-    directly into the vortex    
+they pour all ingredients directly into the vortex    
 
 84
 00:07:10,430 --> 00:07:14,432
-  created by the mixing blade   
-  to ensure thorough blending.  
+created by the mixing blade to ensure thorough blending.  
 
 85
 00:07:14,434 --> 00:07:17,336
-         next, they add         
-      sun-dried tomatoes...     
+next, they add sun-dried tomatoes...     
 
 86
 00:07:19,373 --> 00:07:20,773
-       ...minced garlic...      
+...minced garlic...      
 
 87
 00:07:22,910 --> 00:07:24,109
-          ...and salt.          
+...and salt.          
 
 88
 00:07:24,111 --> 00:07:26,244
@@ -422,170 +360,148 @@ after 15 more minutes of mixing,
 
 89
 00:07:26,246 --> 00:07:29,381
-      they add soybean oil      
-   and extra virgin olive oil,  
+they add soybean oil and extra virgin olive oil,  
 
 90
 00:07:29,383 --> 00:07:31,050
-     both expeller-pressed,     
+both expeller-pressed,     
 
 91
 00:07:31,052 --> 00:07:33,385
-        meaning extracted       
-    from the source naturally   
+meaning extracted from the source naturally   
 
 92
 00:07:33,387 --> 00:07:35,053
-    using a mechanical press    
+using a mechanical press    
 
 93
 00:07:35,055 --> 00:07:37,589
-    and not the conventional    
-        chemical process.       
+and not the conventional chemical process.       
 
 94
 00:07:37,591 --> 00:07:40,859
-       the last ingredient      
+the last ingredient      
 is gluten-free red wine vinegar.
 
 95
 00:07:40,861 --> 00:07:44,063
-        whereas the oils        
- provide both taste and texture,
+whereas the oils provide both taste and texture,
 
 96
 00:07:44,065 --> 00:07:47,799
-      this vinegar produces     
-      a full-bodied flavor.     
+this vinegar produces a full-bodied flavor.     
 
 97
 00:07:47,801 --> 00:07:50,602
 cooking another 20 minutes or so
-          on high heat          
+on high heat          
 
 98
 00:07:50,604 --> 00:07:52,203
-     stabilizes the product,    
+stabilizes the product,    
 
 99
 00:07:52,205 --> 00:07:55,808
-    giving unopened dressing    
-  a shelf life of up to a year. 
+giving unopened dressing a shelf life of up to a year. 
 
 100
 00:07:59,213 --> 00:08:02,347
-      on the bottling line,     
-  a machine called the inverter 
+on the bottling line, a machine called the inverter 
 
 101
 00:08:02,349 --> 00:08:05,384
-  flips the empty glass bottles 
-          upside down.          
+flips the empty glass bottles upside down.          
 
 102
 00:08:07,354 --> 00:08:09,621
-     then, from underneath,     
-          an air nozzle         
+then, from underneath, an air nozzle         
 
 103
 00:08:09,623 --> 00:08:11,623
-        shoots in a blast       
-        of filtered air.        
+shoots in a blast of filtered air.        
 
 104
 00:08:11,625 --> 00:08:15,294
-  this loosens any dust or dirt 
-  particles inside the bottle,  
+this loosens any dust or dirt particles inside the bottle,  
 
 105
 00:08:15,296 --> 00:08:18,697
-        enabling a vacuum       
-    to then suction them out.   
+enabling a vacuum to then suction them out.   
 
 106
 00:08:18,699 --> 00:08:22,034
-     another inverter flips     
- the bottles right side up again
+another inverter flips the bottles right side up again
 
 107
 00:08:22,036 --> 00:08:23,769
-          as they enter         
-      the filling machine.      
+as they enter the filling machine.      
 
 108
 00:08:31,311 --> 00:08:34,380
- exiting the filler, the bottles
-     pass through a machine     
+exiting the filler, the bottles
+pass through a machine     
 
 109
 00:08:34,382 --> 00:08:36,382
-  which dispenses plastic caps, 
+which dispenses plastic caps, 
 
 110
 00:08:36,384 --> 00:08:41,253
-  then, with a row of spinning  
-     disks, twists them on.     
+then, with a row of spinning disks, twists them on.     
 
 111
 00:08:41,255 --> 00:08:44,089
-  finally, a tamper-proof seal  
-           and labels.          
+finally, a tamper-proof seal and labels.          
 
 112
 00:08:47,194 --> 00:08:50,329
- the marinade-production process
-        is much the same,       
+the marinade-production process
+is much the same,       
 
 113
 00:08:50,331 --> 00:08:52,731
- but with different ingredients,
-           of course.           
+but with different ingredients,
+of course.           
 
 114
 00:08:52,733 --> 00:08:55,467
-           this batch           
-   is sesame teriyaki flavor,   
+this batch is sesame teriyaki flavor,   
 
 115
 00:08:55,469 --> 00:08:58,537
-    of which a key component    
-     is gluten-free tamari,     
+of which a key component is gluten-free tamari,     
 
 116
 00:08:58,539 --> 00:09:02,006
-      a japanese soy sauce      
-      made without wheat.       
+a japanese soy sauce made without wheat.       
 
 117
 00:09:02,008 --> 00:09:05,811
-  again, the process begins by  
- heating water in a cook kettle.
+again, the process begins by heating water in a cook kettle.
 
 118
 00:09:05,813 --> 00:09:08,813
-     they pump in tamari...     
+they pump in tamari...     
 
 119
 00:09:08,815 --> 00:09:12,484
-         pour in salt...        
+pour in salt...        
 
 120
 00:09:12,486 --> 00:09:14,119
-      then powdered ginger.     
+then powdered ginger.     
 
 121
 00:09:16,357 --> 00:09:19,357
-       next, minced garlic      
-        and sesame seeds.       
+next, minced garlic and sesame seeds.       
 
 122
 00:09:20,561 --> 00:09:25,030
- then, agave nectar, a natural  
- sweetener that's low-glycemic. 
+then, agave nectar, a natural sweetener that's low-glycemic. 
 
 123
 00:09:25,032 --> 00:09:27,899
-    they add pureed ginger...   
+they add pureed ginger...   
 
 124
 00:09:27,901 --> 00:09:31,636
@@ -593,32 +509,27 @@ then, expeller-press soybean oil
 
 125
 00:09:31,638 --> 00:09:35,106
-     mixed with xanthan gum,    
-      a natural thickener.      
+mixed with xanthan gum, a natural thickener.      
 
 126
 00:09:35,108 --> 00:09:37,509
-    about 20 minutes' cooking   
-          on high heat,         
+about 20 minutes' cooking on high heat,         
 
 127
 00:09:37,511 --> 00:09:41,446
-    and this sesame teriyaki    
- marinade is ready for bottling.
+and this sesame teriyaki marinade is ready for bottling.
 
 128
 00:09:41,448 --> 00:09:43,448
- like before, the glass bottles 
+like before, the glass bottles 
 
 129
 00:09:43,450 --> 00:09:46,384
-    undergo a vacuum cleaning   
-     en route to the filler.    
+undergo a vacuum cleaning en route to the filler.    
 
 130
 00:09:46,386 --> 00:09:49,855
-     there, pistons suck up     
-  the marinade like a syringe,  
+there, pistons suck up the marinade like a syringe,  
 
 131
 00:09:49,857 --> 00:09:52,057
@@ -626,18 +537,15 @@ then inject it into the bottles.
 
 132
 00:10:04,205 --> 00:10:06,805
-       the filled bottles       
-     go through the capper,     
+the filled bottles go through the capper,     
 
 133
 00:10:06,807 --> 00:10:09,741
- then travel on a conveyor belt 
-      to the next machine,      
+then travel on a conveyor belt to the next machine,      
 
 134
 00:10:09,743 --> 00:10:13,745
- which slips a plastic neckband 
-         over each cap.         
+which slips a plastic neckband over each cap.         
 
 135
 00:10:19,420 --> 00:10:23,088
@@ -646,59 +554,51 @@ neckband tightly around the cap,
 
 136
 00:10:23,090 --> 00:10:24,957
-     creating a tamper seal.    
+creating a tamper seal.    
 
 137
 00:10:27,427 --> 00:10:29,161
-  finally, the labeling machine 
+finally, the labeling machine 
 
 138
 00:10:29,163 --> 00:10:31,763
-          applies glue          
-  to the back of a paper label, 
+applies glue to the back of a paper label, 
 
 139
 00:10:31,765 --> 00:10:34,366
-          then wraps it         
-   around the passing bottle.   
+then wraps it around the passing bottle.   
 
 140
 00:10:42,209 --> 00:10:45,043
-        besides flavoring       
-    and tenderizing raw food    
+besides flavoring and tenderizing raw food    
 
 141
 00:10:45,045 --> 00:10:46,645
-         before cooking,        
+before cooking,        
 
 142
 00:10:46,647 --> 00:10:47,846
-   you can also pour marinade   
+you can also pour marinade   
 
 143
 00:10:47,848 --> 00:10:52,184
- over meat, fish, or vegetables 
-         while cooking,         
+over meat, fish, or vegetables while cooking,         
 
 144
 00:10:52,186 --> 00:10:56,355
-      a surefire way to let     
- the gourmet out of the bottle. 
+a surefire way to let the gourmet out of the bottle. 
 
 145
 00:11:14,208 --> 00:11:17,209
-            narrator:           
-   a cap gun is a toy revolver  
+narrator: a cap gun is a toy revolver  
 
 146
 00:11:17,211 --> 00:11:18,810
-      which, when you pull      
-          its trigger,          
+which, when you pull its trigger,          
 
 147
 00:11:18,812 --> 00:11:21,213
-    makes an explosive sound    
-         like a gunshot         
+makes an explosive sound like a gunshot         
 
 148
 00:11:21,215 --> 00:11:23,481
@@ -706,17 +606,15 @@ and emits a small puff of smoke.
 
 149
 00:11:23,483 --> 00:11:26,150
-           the caps --          
-     tiny dots of gunpowder     
+the caps -- tiny dots of gunpowder     
 
 150
 00:11:26,152 --> 00:11:27,552
-    on either a plastic ring    
+on either a plastic ring    
 
 151
 00:11:27,554 --> 00:11:29,754
-       or a strip of paper      
-     inserted in the gun --     
+or a strip of paper inserted in the gun --     
 
 152
 00:11:29,756 --> 00:11:32,124
@@ -724,184 +622,157 @@ produce these realistic effects.
 
 153
 00:11:36,030 --> 00:11:40,298
-   cowboy-style cap guns were   
- the rage in the 1950s and '60s 
+cowboy-style cap guns were the rage in the 1950s and '60s 
 
 154
 00:11:40,300 --> 00:11:43,168
-      during the golden age     
-          of westerns.          
+during the golden age of westerns.          
 
 155
 00:11:43,170 --> 00:11:45,036
-   this small american factory  
+this small american factory  
 
 156
 00:11:45,038 --> 00:11:48,439
-  uses the molds the major toy  
- companies of the day discarded 
+uses the molds the major toy companies of the day discarded 
 
 157
 00:11:48,441 --> 00:11:51,843
-    when they stopped making    
-       cap guns long ago.       
+when they stopped making cap guns long ago.       
 
 158
 00:11:51,845 --> 00:11:53,979
-      caps are little dots      
-          of gunpowder          
+caps are little dots of gunpowder          
 
 159
 00:11:53,981 --> 00:11:56,381
-      about 1/16 of an inch     
-          in diameter,          
+about 1/16 of an inch in diameter,          
 
 160
 00:11:56,383 --> 00:11:58,984
-  sandwiched between two strips 
-            of paper.           
+sandwiched between two strips of paper.           
 
 161
 00:11:58,986 --> 00:12:01,386
-       pulling the trigger      
-       releases a hammer,       
+pulling the trigger releases a hammer,       
 
 162
 00:12:01,388 --> 00:12:03,755
-     which strikes the cap,     
-          exploding it.         
+which strikes the cap, exploding it.         
 
 163
 00:12:09,863 --> 00:12:12,797
- this injection-molding machine 
-        makes the grips,        
+this injection-molding machine makes the grips,        
 
 164
 00:12:12,799 --> 00:12:15,000
-  the faces of the gun handle.  
+the faces of the gun handle.  
 
 165
 00:12:15,002 --> 00:12:16,801
-  it shoots hot liquid plastic  
+it shoots hot liquid plastic  
 
 166
 00:12:16,803 --> 00:12:19,204
-       into 10 grip molds       
-         simultaneously.        
+into 10 grip molds simultaneously.        
 
 167
 00:12:19,206 --> 00:12:23,075
 the plastic cools and solidifies
-        in just seconds.        
+in just seconds.        
 
 168
 00:12:25,079 --> 00:12:28,413
-  the color and design of grips 
-         vary by model.         
+the color and design of grips vary by model.         
 
 169
 00:12:28,415 --> 00:12:32,384
- the ones on this rancher-style 
- cap gun feature a steer's head.
+the ones on this rancher-style cap gun feature a steer's head.
 
 170
 00:12:35,088 --> 00:12:38,290
-       the rest of the gun      
-      is made of cast zinc.     
+the rest of the gun is made of cast zinc.     
 
 171
 00:12:38,292 --> 00:12:41,093
-     workers load a zinc bar    
-       into a smelting pot      
+workers load a zinc bar into a smelting pot      
 
 172
 00:12:41,095 --> 00:12:44,228
-         heated to about        
-     750 degrees fahrenheit.    
+heated to about 750 degrees fahrenheit.    
 
 173
 00:12:44,230 --> 00:12:47,699
-          the bar melts         
-   within a couple of minutes.  
+the bar melts within a couple of minutes.  
 
 174
 00:12:47,701 --> 00:12:51,302
- the molten zinc travels through
-   heated pipes to a plunger,   
+the molten zinc travels through
+heated pipes to a plunger,   
 
 175
 00:12:51,304 --> 00:12:54,840
-     which injects the zinc     
-     into a gun-parts mold.     
+which injects the zinc into a gun-parts mold.     
 
 176
 00:12:54,842 --> 00:12:59,778
- the zinc takes just 10 seconds 
-       to cool and harden.      
+the zinc takes just 10 seconds to cool and harden.      
 
 177
 00:12:59,780 --> 00:13:03,048
-    then it's just a matter     
-    of separating the parts.    
+then it's just a matter of separating the parts.    
 
 178
 00:13:03,050 --> 00:13:04,449
-      the gun's main body,      
+the gun's main body,      
 
 179
 00:13:04,451 --> 00:13:06,785
-  which contains the right side 
-        of the barrel...        
+which contains the right side of the barrel...        
 
 180
 00:13:06,787 --> 00:13:09,321
-        the loading gate,       
-   which covers the cap box...  
+the loading gate, which covers the cap box...  
 
 181
 00:13:09,323 --> 00:13:10,789
-         the cylinder...        
+the cylinder...        
 
 182
 00:13:10,791 --> 00:13:12,924
- the left side of the barrel... 
+the left side of the barrel... 
 
 183
 00:13:12,926 --> 00:13:15,593
-         and toy bullets        
-  which load into the cartridge 
+and toy bullets which load into the cartridge 
 
 184
 00:13:15,595 --> 00:13:17,595
- but don't shoot out of the gun.
+but don't shoot out of the gun.
 
 185
 00:13:17,597 --> 00:13:21,733
-     the trigger and hammer     
-  are cast in a separate mold.  
+the trigger and hammer are cast in a separate mold.  
 
 186
 00:13:21,735 --> 00:13:23,735
-    every piece has flashing,   
+every piece has flashing,   
 
 187
 00:13:23,737 --> 00:13:25,603
-          excess metal          
-      that forms in the gap     
+excess metal that forms in the gap     
 
 188
 00:13:25,605 --> 00:13:27,806
-     between the two halves     
-          of the mold.          
+between the two halves of the mold.          
 
 189
 00:13:27,808 --> 00:13:30,875
-     after removing as much     
-    as they can with pliers,    
+after removing as much as they can with pliers,    
 
 190
 00:13:30,877 --> 00:13:33,145
-   workers file down the rest.  
+workers file down the rest.  
 
 191
 00:13:34,948 --> 00:13:40,085
@@ -910,118 +781,99 @@ they use a sander to remove it.
 
 192
 00:13:40,087 --> 00:13:43,755
- workers rinse the smooth parts 
- in acid to clean the surface,  
+workers rinse the smooth parts in acid to clean the surface,  
 
 193
 00:13:43,757 --> 00:13:46,224
-     then electroplate them     
-           with zinc.           
+then electroplate them with zinc.           
 
 194
 00:13:46,226 --> 00:13:48,760
-       they dip the parts       
-    in a clear liquid coating   
+they dip the parts in a clear liquid coating   
 
 195
 00:13:48,762 --> 00:13:52,097
- to make the mat surface shiny. 
+to make the mat surface shiny. 
 
 196
 00:13:52,099 --> 00:13:53,732
-     now assembly can begin.    
+now assembly can begin.    
 
 197
 00:13:56,236 --> 00:13:59,905
- first, they install the spring 
- which opens the loading gate.  
+first, they install the spring which opens the loading gate.  
 
 198
 00:14:02,041 --> 00:14:05,177
-     they take the left side    
-         of the barrel,         
+they take the left side of the barrel,         
 
 199
 00:14:05,179 --> 00:14:08,846
-    add the latch that holds    
-    the loading gate closed     
+add the latch that holds the loading gate closed     
 
 200
 00:14:08,848 --> 00:14:13,051
-    and the spring which puts   
-     tension on that latch.     
+and the spring which puts tension on that latch.     
 
 201
 00:14:13,053 --> 00:14:17,255
-       then the cylinder,       
- and, finally, the guiding disk 
+then the cylinder, and, finally, the guiding disk 
 
 202
 00:14:17,257 --> 00:14:20,726
-    which turns the cylinder    
-  when you squeeze the trigger. 
+which turns the cylinder when you squeeze the trigger. 
 
 203
 00:14:20,728 --> 00:14:23,194
-       they screw all that      
-        to the main body,       
+they screw all that to the main body,       
 
 204
 00:14:23,196 --> 00:14:25,731
-  which contains the right side 
-         of the barrel.         
+which contains the right side of the barrel.         
 
 205
 00:14:28,869 --> 00:14:31,870
-        next, they insert       
-  an orange plastic safety tip  
+next, they insert an orange plastic safety tip  
 
 206
 00:14:31,872 --> 00:14:33,872
-   into the end of the barrel.  
+into the end of the barrel.  
 
 207
 00:14:33,874 --> 00:14:36,340
-        laws require this       
-       to prevent cap guns      
+laws require this to prevent cap guns      
 
 208
 00:14:36,342 --> 00:14:40,946
-       from being mistaken      
-       for real firearms.       
+from being mistaken for real firearms.       
 
 209
 00:14:40,948 --> 00:14:44,015
-   they hook the loading-gate   
-   spring to the gate's latch   
+they hook the loading-gate spring to the gate's latch   
 
 210
 00:14:44,017 --> 00:14:46,885
-       to hold it closed.       
+to hold it closed.       
 
 211
 00:14:46,887 --> 00:14:49,654
-       then, they install       
-      the hammer spring...      
+then, they install the hammer spring...      
 
 212
 00:14:52,091 --> 00:14:54,492
-         ...and hammer.         
+...and hammer.         
 
 213
 00:14:54,494 --> 00:14:57,429
-    two brass grommets secure   
-    the cylinder-turning arm    
+two brass grommets secure the cylinder-turning arm    
 
 214
 00:14:57,431 --> 00:15:00,165
-   and the pusher which feeds   
-       the caps one by one      
+and the pusher which feeds the caps one by one      
 
 215
 00:15:00,167 --> 00:15:03,034
-       out of the cap box       
-     into striking position.    
+out of the cap box into striking position.    
 
 216
 00:15:03,036 --> 00:15:05,770
@@ -1029,33 +881,27 @@ the trigger spring keeps tension
 
 217
 00:15:05,772 --> 00:15:08,840
-     on both the cap pusher     
-        and the trigger.        
+on both the cap pusher and the trigger.        
 
 218
 00:15:08,842 --> 00:15:12,911
-       next, they install       
-       the loading gate.        
+next, they install the loading gate.        
 
 219
 00:15:18,985 --> 00:15:21,319
-        after hooking up        
-       additional springs,      
+after hooking up additional springs,      
 
 220
 00:15:21,321 --> 00:15:23,454
-   workers attach the top part  
-      of the hammer spring      
+workers attach the top part of the hammer spring      
 
 221
 00:15:23,456 --> 00:15:27,058
-       to the holding pin       
-        on the hammer...        
+to the holding pin on the hammer...        
 
 222
 00:15:27,060 --> 00:15:29,193
-      then, the bottom part     
-      of the hammer spring      
+then, the bottom part of the hammer spring      
 
 223
 00:15:29,195 --> 00:15:32,063
@@ -1063,221 +909,193 @@ to the holding pin on the frame.
 
 224
 00:15:32,065 --> 00:15:37,436
-  finally, the plastic grips -- 
+finally, the plastic grips -- 
 one for each side of the handle.
 
 225
 00:15:47,147 --> 00:15:49,347
- being cast from vintage molds, 
+being cast from vintage molds, 
 
 226
 00:15:49,349 --> 00:15:52,416
-         these cap guns         
-  feature intricate scrollwork, 
+these cap guns feature intricate scrollwork, 
 
 227
 00:15:52,418 --> 00:15:56,354
-    a degree of craftsmanship   
- rarely seen in toys nowadays --
+a degree of craftsmanship rarely seen in toys nowadays --
 
 228
 00:15:56,356 --> 00:15:58,890
-    something perhaps better    
-   appreciated by the parents   
+something perhaps better appreciated by the parents   
 
 229
 00:15:58,892 --> 00:16:00,559
-    of the wild west cowboys    
+of the wild west cowboys    
 
 230
 00:16:00,561 --> 00:16:03,395
-     than by the pint-sized     
-     gunslingers themselves.    
+than by the pint-sized gunslingers themselves.    
 
 231
 00:16:24,852 --> 00:16:26,651
-            narrator:           
-  when parts of the human body  
+narrator: when parts of the human body  
 
 232
 00:16:26,653 --> 00:16:29,787
-   break down or are damaged,   
-      options are limited.      
+break down or are damaged, options are limited.      
 
 233
 00:16:29,789 --> 00:16:32,657
-    scientists are working on   
-   providing replacement parts  
+scientists are working on providing replacement parts  
 
 234
 00:16:32,659 --> 00:16:35,927
-    on demand, like fingers,    
-       ears, and bladders.      
+on demand, like fingers, ears, and bladders.      
 
 235
 00:16:35,929 --> 00:16:37,795
- laboratory-engineered bladders 
+laboratory-engineered bladders 
 
 236
 00:16:37,797 --> 00:16:40,464
- have already been successfully 
-      implanted in humans.      
+have already been successfully implanted in humans.      
 
 237
 00:16:40,466 --> 00:16:44,536
-  the stuff of science fiction  
-     may soon be a reality.     
+the stuff of science fiction may soon be a reality.     
 
 238
 00:16:47,941 --> 00:16:49,474
-     they begin with a mold,    
+they begin with a mold,    
 
 239
 00:16:49,476 --> 00:16:52,810
-   a finger mold on the right   
-     and an ear on the left.    
+a finger mold on the right and an ear on the left.    
 
 240
 00:16:52,812 --> 00:16:55,680
-    these molds could be made   
-      of synthetic polymers     
+these molds could be made of synthetic polymers     
 
 241
 00:16:55,682 --> 00:16:58,482
-      or natural materials      
-        such as collagen.       
+or natural materials such as collagen.       
 
 242
 00:16:58,484 --> 00:17:02,153
- scientists will grow real cells
-          on the molds.         
+scientists will grow real cells
+on the molds.         
 
 243
 00:17:02,155 --> 00:17:03,755
-     to obtain those cells,     
+to obtain those cells,     
 
 244
 00:17:03,757 --> 00:17:06,958
-   a scientists first extracts  
-   a small piece of cartilage,  
+a scientists first extracts a small piece of cartilage,  
 
 245
 00:17:06,960 --> 00:17:09,827
-  which is a type of connective 
-       tissue in the body.      
+which is a type of connective tissue in the body.      
 
 246
 00:17:09,829 --> 00:17:12,030
- she chops it into little bits. 
+she chops it into little bits. 
 
 247
 00:17:12,032 --> 00:17:15,233
-    she transfers the minced    
-    cartilage to a test tube    
+she transfers the minced cartilage to a test tube    
 
 248
 00:17:15,235 --> 00:17:17,569
-        partially filled        
-     with a special enzyme.     
+partially filled with a special enzyme.     
 
 249
 00:17:17,571 --> 00:17:19,437
-  this enzyme dissolves tissue, 
+this enzyme dissolves tissue, 
 
 250
 00:17:19,439 --> 00:17:21,773
-          leaving only          
-      the cartilage cells.      
+leaving only the cartilage cells.      
 
 251
 00:17:21,775 --> 00:17:24,242
-  she then places the test tube 
-         in a centrifuge        
+she then places the test tube in a centrifuge        
 
 252
 00:17:24,244 --> 00:17:26,378
-     for a high-speed spin.     
+for a high-speed spin.     
 
 253
 00:17:26,380 --> 00:17:28,512
- this causes the cartilage cells
+this causes the cartilage cells
 
 254
 00:17:28,514 --> 00:17:30,582
-           to separate          
-    from the enzyme solution    
+to separate from the enzyme solution    
 
 255
 00:17:30,584 --> 00:17:32,384
-    and settle on the bottom.   
+and settle on the bottom.   
 
 256
 00:17:32,386 --> 00:17:34,386
-   she siphons off the liquid,  
+she siphons off the liquid,  
 
 257
 00:17:34,388 --> 00:17:37,522
-       and the tiny cells       
-    remain in the test tube.    
+and the tiny cells remain in the test tube.    
 
 258
 00:17:37,524 --> 00:17:41,393
-  next, she adds a red liquid.  
+next, she adds a red liquid.  
 
 259
 00:17:41,395 --> 00:17:42,660
-     it's a culture medium.     
+it's a culture medium.     
 
 260
 00:17:42,662 --> 00:17:45,797
-   it will act as a fertilizer  
-    to stimulate cell growth.   
+it will act as a fertilizer to stimulate cell growth.   
 
 261
 00:17:45,799 --> 00:17:47,599
-  transferred to a petri dish,  
+transferred to a petri dish,  
 
 262
 00:17:47,601 --> 00:17:50,669
-       she swishes the mix      
-     to dispense the cells.     
+she swishes the mix to dispense the cells.     
 
 263
 00:17:50,671 --> 00:17:52,870
-   then it's into an incubator  
+then it's into an incubator  
 
 264
 00:17:52,872 --> 00:17:56,341
-     warmed to 98.6 degrees     
-  fahrenheit, body temperature. 
+warmed to 98.6 degrees fahrenheit, body temperature. 
 
 265
 00:17:56,343 --> 00:18:00,478
-  it's the perfect environment  
-    to spur more cell growth.   
+it's the perfect environment to spur more cell growth.   
 
 266
 00:18:00,480 --> 00:18:03,148
-           meanwhile,           
-  a computer-controlled machine 
+meanwhile, a computer-controlled machine 
 
 267
 00:18:03,150 --> 00:18:05,350
-   builds the mold of the ear.  
+builds the mold of the ear.  
 
 268
 00:18:05,352 --> 00:18:07,218
-   it layers synthetic polymer  
+it layers synthetic polymer  
 
 269
 00:18:07,220 --> 00:18:09,688
-           to produce           
-   an authentic-looking shape.  
+to produce an authentic-looking shape.  
 
 270
 00:18:12,291 --> 00:18:15,427
-       this process takes       
-       about five hours.        
+this process takes about five hours.        
 
 271
 00:18:15,429 --> 00:18:20,765
@@ -1286,141 +1104,125 @@ cells have multiplied 20 times.
 
 272
 00:18:20,767 --> 00:18:24,502
-    the scientist drips them    
-    onto the completed mold,    
+the scientist drips them onto the completed mold,    
 
 273
 00:18:24,504 --> 00:18:26,571
-  where they continue to grow.  
+where they continue to grow.  
 
 274
 00:18:26,573 --> 00:18:29,107
-         in the future,         
-     cell-covered ear molds     
+in the future, cell-covered ear molds     
 
 275
 00:18:29,109 --> 00:18:31,309
-       could be implanted       
-     under a patient's skin.    
+could be implanted under a patient's skin.    
 
 276
 00:18:31,311 --> 00:18:33,110
-      cartilage would form,     
+cartilage would form,     
 
 277
 00:18:33,112 --> 00:18:35,947
-    and the body would accept   
-      the part as its own.      
+and the body would accept the part as its own.      
 
 278
 00:18:38,852 --> 00:18:40,251
-        other scientists        
+other scientists        
 
 279
 00:18:40,253 --> 00:18:43,455
-     are working on growing     
- blood vessels and heart valves.
+are working on growing blood vessels and heart valves.
 
 280
 00:18:43,457 --> 00:18:47,658
- they start by extracting a type
- of stem cell from human blood. 
+they start by extracting a type
+of stem cell from human blood. 
 
 281
 00:18:47,660 --> 00:18:50,061
-         the researcher         
-     first fills a test tube    
+the researcher first fills a test tube    
 
 282
 00:18:50,063 --> 00:18:52,797
-         with the clear,        
-     high-density solution.     
+with the clear, high-density solution.     
 
 283
 00:18:52,799 --> 00:18:55,700
-     he adds diluted blood      
-     to the clear solution.     
+he adds diluted blood to the clear solution.     
 
 284
 00:18:58,071 --> 00:19:00,871
- almost instantly, the different
-     components of the blood    
+almost instantly, the different
+components of the blood    
 
 285
 00:19:00,873 --> 00:19:03,875
-       begin to separate.       
+begin to separate.       
 
 286
 00:19:03,877 --> 00:19:06,343
-   the heavier red blood cells  
-             plummet            
+the heavier red blood cells plummet            
 
 287
 00:19:06,345 --> 00:19:09,981
- and the lighter stem cells rise
-  to the top of the test tube.  
+and the lighter stem cells rise
+to the top of the test tube.  
 
 288
 00:19:14,821 --> 00:19:16,287
-    a spin in the centrifuge    
+a spin in the centrifuge    
 
 289
 00:19:16,289 --> 00:19:18,622
-      leaves the components     
-       visibly separated,       
+leaves the components visibly separated,       
 
 290
 00:19:18,624 --> 00:19:22,493
- allowing scientists to retrieve
-       the desired cells.       
+allowing scientists to retrieve
+the desired cells.       
 
 291
 00:19:22,495 --> 00:19:25,230
-      they'll convert them      
-      to endothelial cells,     
+they'll convert them to endothelial cells,     
 
 292
 00:19:25,232 --> 00:19:28,566
-    which line the inside of    
- blood vessels and heart valves.
+which line the inside of blood vessels and heart valves.
 
 293
 00:19:28,568 --> 00:19:31,903
- in the meantime, they construct
-     the blood-vessel mold.     
+in the meantime, they construct
+the blood-vessel mold.     
 
 294
 00:19:31,905 --> 00:19:35,240
-   the scientist adds solvent   
-       to liquid collagen,      
+the scientist adds solvent to liquid collagen,      
 
 295
 00:19:35,242 --> 00:19:37,442
-           causing it           
-     to instantly dissolve.     
+causing it to instantly dissolve.     
 
 296
 00:19:39,913 --> 00:19:41,646
-   he adds little white beads.  
+he adds little white beads.  
 
 297
 00:19:41,648 --> 00:19:43,214
-   they're synthetic polymers.  
+they're synthetic polymers.  
 
 298
 00:19:46,319 --> 00:19:50,988
- and they liquefy over a period 
-        of about an hour.       
+and they liquefy over a period of about an hour.       
 
 299
 00:19:50,990 --> 00:19:54,726
-     they spray the collagen    
+they spray the collagen    
 concoction onto a rod that spins
 
 300
 00:19:54,728 --> 00:20:00,198
-     as a carriage moves it     
-  to and fro for even coverage. 
+as a carriage moves it to and fro for even coverage. 
 
 301
 00:20:00,200 --> 00:20:02,867
@@ -1428,73 +1230,59 @@ the collagen-and-polymer mixture
 
 302
 00:20:02,869 --> 00:20:05,437
-       quickly solidifies       
-         around the rod.        
+quickly solidifies around the rod.        
 
 303
 00:20:08,208 --> 00:20:11,876
-    the scientist slides off    
-  the now-hardened biomaterial. 
+the scientist slides off the now-hardened biomaterial. 
 
 304
 00:20:13,947 --> 00:20:17,214
-  he now has a mold for shaping 
-      a human blood vessel.     
+he now has a mold for shaping a human blood vessel.     
 
 305
 00:20:17,216 --> 00:20:22,420
-   he coats the mold with the   
- microscopic endothelial cells, 
+he coats the mold with the microscopic endothelial cells, 
 
 306
 00:20:22,422 --> 00:20:25,090
-    which, by now, have grown   
-         and multiplied.        
+which, by now, have grown and multiplied.        
 
 307
 00:20:25,092 --> 00:20:28,692
- he then pumps fluid through it 
-     to simulate blood flow.    
+he then pumps fluid through it to simulate blood flow.    
 
 308
 00:20:28,694 --> 00:20:31,629
-    this conditions the cells   
-       to go with the flow      
+this conditions the cells to go with the flow      
 
 309
 00:20:31,631 --> 00:20:35,700
-    and collectively operate    
-    as a real blood vessel.     
+and collectively operate as a real blood vessel.     
 
 310
 00:20:35,702 --> 00:20:38,970
-   to grow a heart valve, they  
- don't actually build a mold -- 
+to grow a heart valve, they don't actually build a mold -- 
 
 311
 00:20:38,972 --> 00:20:41,772
-      they use a real valve     
-           from a pig.          
+they use a real valve from a pig.          
 
 312
 00:20:41,774 --> 00:20:43,975
-          the scientist         
-      plunges the pig valve     
+the scientist plunges the pig valve     
 
 313
 00:20:43,977 --> 00:20:46,644
-        into a container        
-  filled with a mild detergent. 
+into a container filled with a mild detergent. 
 
 314
 00:20:46,646 --> 00:20:49,247
-     it goes into a machine     
-       that shakes it up.       
+it goes into a machine that shakes it up.       
 
 315
 00:20:49,249 --> 00:20:52,316
-  the agitation helps scrub off 
-           the cells,           
+the agitation helps scrub off the cells,           
 
 316
 00:20:52,318 --> 00:20:55,720
@@ -1502,49 +1290,42 @@ leaving only the valve skeleton.
 
 317
 00:20:55,722 --> 00:20:58,857
- he saturates the valve skeleton
-        with human cells,       
+he saturates the valve skeleton
+with human cells,       
 
 318
 00:20:58,859 --> 00:21:01,159
-   where they grow and thrive.  
+where they grow and thrive.  
 
 319
 00:21:04,931 --> 00:21:08,065
-     the research team then     
- pumps fluid through the valve, 
+the research team then pumps fluid through the valve, 
 
 320
 00:21:08,067 --> 00:21:10,268
-       just like they did       
-     with the blood vessel.     
+just like they did with the blood vessel.     
 
 321
 00:21:10,270 --> 00:21:12,469
-      this trains the cells     
-         to do the work         
+this trains the cells to do the work         
 
 322
 00:21:12,471 --> 00:21:14,973
-      they would need to do     
-       in the human body.       
+they would need to do in the human body.       
 
 323
 00:21:16,810 --> 00:21:20,044
-      even dr. frankenstein     
-       would be impressed.      
+even dr. frankenstein would be impressed.      
 
 324
 00:21:30,824 --> 00:21:33,290
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 325
 00:21:33,292 --> 00:21:35,760
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 326
 00:21:35,762 --> 00:21:37,695
-      drop us a line at...      
+drop us a line at...      
 

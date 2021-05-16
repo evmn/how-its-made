@@ -1,298 +1,258 @@
 ﻿1
 00:00:00,868 --> 00:00:06,806
-                     ♪♪         
+♪♪         
 
 2
 00:00:06,808 --> 00:00:09,875
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 3
 00:00:09,877 --> 00:00:12,812
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 4
 00:00:12,814 --> 00:00:17,617
-                     ♪♪         
+♪♪         
 
 5
 00:00:17,619 --> 00:00:22,455
-                     ♪♪         
+♪♪         
 
 6
 00:00:27,295 --> 00:00:32,064
-                     ♪♪         
+♪♪         
 
 7
 00:00:34,102 --> 00:00:38,104
-                     ♪♪         
+♪♪         
 
 8
 00:00:39,974 --> 00:00:44,043
-                     ♪♪         
+♪♪         
 
 9
 00:00:45,846 --> 00:00:50,349
-                     ♪♪         
+♪♪         
 
 10
 00:00:52,520 --> 00:00:56,589
-   narrator: the exact origins  
+narrator: the exact origins  
 of the cotton plant are unknown,
 
 11
 00:00:56,591 --> 00:00:58,924
-     although archeologists     
-      have unearthed pieces     
+although archeologists have unearthed pieces     
 
 12
 00:00:58,926 --> 00:01:02,128
-         of cotton cloth        
-      over 7,000 years old.     
+of cotton cloth over 7,000 years old.     
 
 13
 00:01:02,130 --> 00:01:04,863
-     through the centuries,     
- cotton fiber was traditionally 
+through the centuries, cotton fiber was traditionally 
 
 14
 00:01:04,865 --> 00:01:08,534
-        processed by hand       
-  until the first 18th century, 
+processed by hand until the first 18th century, 
 
 15
 00:01:08,536 --> 00:01:10,736
-         when the first         
-  automated processing machine  
+when the first automated processing machine  
 
 16
 00:01:10,738 --> 00:01:12,271
-          was invented.         
+was invented.         
 
 17
 00:01:14,275 --> 00:01:17,476
-      before cotton arrives     
- at the textile mill to be spun 
+before cotton arrives at the textile mill to be spun 
 
 18
 00:01:17,478 --> 00:01:19,679
-           into thread          
-     and woven into fabric,     
+into thread and woven into fabric,     
 
 19
 00:01:19,681 --> 00:01:22,448
-      it makes the journey      
-       from field to bale.      
+it makes the journey from field to bale.      
 
 20
 00:01:24,285 --> 00:01:26,018
- cotton takes about five months 
+cotton takes about five months 
 
 21
 00:01:26,020 --> 00:01:29,154
-   to grow from a planted seed  
-        to a ripe plant.        
+to grow from a planted seed to a ripe plant.        
 
 22
 00:01:29,156 --> 00:01:31,557
-    this harvesting machine,    
-     called a cotton picker,    
+this harvesting machine, called a cotton picker,    
 
 23
 00:01:31,559 --> 00:01:34,760
-    plucks fluffy seed cotton   
-    out of the plant's bowl,    
+plucks fluffy seed cotton out of the plant's bowl,    
 
 24
 00:01:34,762 --> 00:01:38,297
-       leaving a trail of       
-    burrs and sticks behind.    
+leaving a trail of burrs and sticks behind.    
 
 25
 00:01:38,299 --> 00:01:40,566
-       the machine empties      
-       the plucked cotton       
+the machine empties the plucked cotton       
 
 26
 00:01:40,568 --> 00:01:43,235
-   into a tractor-drawn buggy.  
+into a tractor-drawn buggy.  
 
 27
 00:01:43,237 --> 00:01:45,570
-       this machine builds      
-         the seed cotton        
+this machine builds the seed cotton        
 
 28
 00:01:45,572 --> 00:01:49,508
-  into a humongous rectangular  
-     block called a module.     
+into a humongous rectangular block called a module.     
 
 29
 00:01:49,510 --> 00:01:51,577
-  a truck transports the module 
+a truck transports the module 
 
 30
 00:01:51,579 --> 00:01:55,648
-    to the processing plant,    
-     known as a cotton gin.     
+to the processing plant, known as a cotton gin.     
 
 31
 00:01:55,650 --> 00:01:58,718
-         once the cotton        
+once the cotton        
 arrives to the processing plant,
 
 32
 00:01:58,720 --> 00:02:00,786
-  sticks and burrs are removed, 
+sticks and burrs are removed, 
 
 33
 00:02:00,788 --> 00:02:03,656
- as well as any lingering debris
-           and seeds.           
+as well as any lingering debris
+and seeds.           
 
 34
 00:02:05,259 --> 00:02:08,393
-          a truck dumps         
-    the module into a feeder,   
+a truck dumps the module into a feeder,   
 
 35
 00:02:08,395 --> 00:02:12,397
-     which moves the packed     
-  seed cotton into a dispenser. 
+which moves the packed seed cotton into a dispenser. 
 
 36
 00:02:12,399 --> 00:02:14,333
-  the ground seed cotton falls  
+the ground seed cotton falls  
 
 37
 00:02:14,335 --> 00:02:17,737
-      onto a conveyor belt,     
-   which leads to the hot box.  
+onto a conveyor belt, which leads to the hot box.  
 
 38
 00:02:17,739 --> 00:02:20,739
-        the hot box mixes       
-  the seed cotton with hot air, 
+the hot box mixes the seed cotton with hot air, 
 
 39
 00:02:20,741 --> 00:02:23,208
-    which allows the moisture   
-          to evaporate,         
+which allows the moisture to evaporate,         
 
 40
 00:02:23,210 --> 00:02:27,413
-     making the seed cotton     
-        easier to clean.        
+making the seed cotton easier to clean.        
 
 41
 00:02:27,415 --> 00:02:29,748
-            a machine           
-      called the wad buster     
+a machine called the wad buster     
 
 42
 00:02:29,750 --> 00:02:31,684
-            breaks up           
-    the clumps of seed cotton   
+breaks up the clumps of seed cotton   
 
 43
 00:02:31,686 --> 00:02:34,220
- by tossing it against a screen.
+by tossing it against a screen.
 
 44
 00:02:34,222 --> 00:02:37,156
-   loose debris falls through   
-      the screen openings,      
+loose debris falls through the screen openings,      
 
 45
 00:02:37,158 --> 00:02:39,158
-      down a narrow shoot.      
+down a narrow shoot.      
 
 46
 00:02:39,160 --> 00:02:41,493
-      then the seed cotton      
-     moves through a machine    
+then the seed cotton moves through a machine    
 
 47
 00:02:41,495 --> 00:02:44,229
-     called the steady flow,    
-    which divides it equally    
+called the steady flow, which divides it equally    
 
 48
 00:02:44,231 --> 00:02:45,965
-  between two processing lines. 
+between two processing lines. 
 
 49
 00:02:48,435 --> 00:02:52,304
-  on each line, the seed cotton 
-     enters a burr machine,     
+on each line, the seed cotton enters a burr machine,     
 
 50
 00:02:52,306 --> 00:02:55,307
-   which grabs the seed cotton  
-       with a circular saw      
+which grabs the seed cotton with a circular saw      
 
 51
 00:02:55,309 --> 00:02:57,909
-          and swings it         
-       against metal bars.      
+and swings it against metal bars.      
 
 52
 00:02:57,911 --> 00:03:01,113
-  the centrifugal force shakes  
-     off the heavier debris.    
+the centrifugal force shakes off the heavier debris.    
 
 53
 00:03:02,650 --> 00:03:04,517
-         the seed cotton        
-        exits the machine       
+the seed cotton exits the machine       
 
 54
 00:03:04,519 --> 00:03:09,255
-        through one pipe,       
- and the debris through another.
+through one pipe, and the debris through another.
 
 55
 00:03:09,257 --> 00:03:11,991
-          a large auger         
-      transfers the debris      
+a large auger transfers the debris      
 
 56
 00:03:11,993 --> 00:03:15,461
-        to a waste chute        
-      and out of the plant.     
+to a waste chute and out of the plant.     
 
 57
 00:03:19,333 --> 00:03:20,966
-    the seed cotton is ready    
+the seed cotton is ready    
 
 58
 00:03:20,968 --> 00:03:23,836
-       for the final stage      
-         of processing.         
+for the final stage of processing.         
 
 59
 00:03:26,407 --> 00:03:29,007
-       a network of pipes       
-     feeds a row of machines    
+a network of pipes feeds a row of machines    
 
 60
 00:03:29,009 --> 00:03:32,011
-       called gin stands.       
+called gin stands.       
 
 61
 00:03:32,013 --> 00:03:35,347
 the gin stand separates the seed
-     from the fluffy stuff,     
+from the fluffy stuff,     
 
 62
 00:03:35,349 --> 00:03:37,283
-        called the lint.        
+called the lint.        
 
 63
 00:03:37,285 --> 00:03:41,887
-        inside each stand       
-     are 116 circular saws,     
+inside each stand are 116 circular saws,     
 
 64
 00:03:41,889 --> 00:03:44,289
@@ -300,381 +260,327 @@ which are arranged horizontally,
 
 65
 00:03:44,291 --> 00:03:46,892
- each separated by a steel rib. 
+each separated by a steel rib. 
 
 66
 00:03:46,894 --> 00:03:50,095
-   the saw teeth grab the seed  
-    cotton and pull the lint    
+the saw teeth grab the seed cotton and pull the lint    
 
 67
 00:03:50,097 --> 00:03:53,499
-     through the narrow gap     
-      between saw and rib.      
+through the narrow gap between saw and rib.      
 
 68
 00:03:53,501 --> 00:03:55,634
-      the seed is too large     
-        to pass through,        
+the seed is too large to pass through,        
 
 69
 00:03:55,636 --> 00:03:59,839
-   so it spins in front of the  
+so it spins in front of the  
 rib, then drops into a conveyor.
 
 70
 00:03:59,841 --> 00:04:04,042
-    the lint goes into a flue   
+the lint goes into a flue   
 which leads to the packing area.
 
 71
 00:04:04,044 --> 00:04:07,045
-           cotton seed          
-   is sold as livestock feed,   
+cotton seed is sold as livestock feed,   
 
 72
 00:04:07,047 --> 00:04:09,782
-  particularly for dairy cows.  
+particularly for dairy cows.  
 
 73
 00:04:09,784 --> 00:04:15,921
-    it contains 23% protein,    
-     20% fat, and 25% fiber.    
+it contains 23% protein, 20% fat, and 25% fiber.    
 
 74
 00:04:15,923 --> 00:04:19,124
-   cotton seed is also milled   
-      into cotton seed oil,     
+cotton seed is also milled into cotton seed oil,     
 
 75
 00:04:19,126 --> 00:04:21,327
-          a cooking oil         
-   that's a common ingredient   
+a cooking oil that's a common ingredient   
 
 76
 00:04:21,329 --> 00:04:24,463
-       in salad dressings       
-         and mayonnaise.        
+in salad dressings and mayonnaise.        
 
 77
 00:04:24,465 --> 00:04:30,669
-  the cotton lint is now ready  
-    to be formed into bales.    
+the cotton lint is now ready to be formed into bales.    
 
 78
 00:04:30,671 --> 00:04:33,806
-    pipes feed the loose lint   
-       to the press area.       
+pipes feed the loose lint to the press area.       
 
 79
 00:04:33,808 --> 00:04:37,342
-    when it arrives, a pusher   
-  moves the lint into a machine 
+when it arrives, a pusher moves the lint into a machine 
 
 80
 00:04:37,344 --> 00:04:39,612
-       called the tramper,      
-      which shoves it down      
+called the tramper, which shoves it down      
 
 81
 00:04:39,614 --> 00:04:44,149
-     into a bale-shaped box.    
+into a bale-shaped box.    
 
 82
 00:04:44,151 --> 00:04:48,086
-      once the box reaches      
-   500 pounds of cotton lint,   
+once the box reaches 500 pounds of cotton lint,   
 
 83
 00:04:48,088 --> 00:04:54,160
-  a press compacts the lint...  
+a press compacts the lint...  
 
 84
 00:04:54,162 --> 00:04:56,962
-     and tie-wraps the bale.    
+and tie-wraps the bale.    
 
 85
 00:04:56,964 --> 00:05:03,569
-                     ♪♪         
+♪♪         
 
 86
 00:05:03,571 --> 00:05:10,308
-                     ♪♪         
+♪♪         
 
 87
 00:05:10,310 --> 00:05:14,179
- next, a conveyor moves the bale
-      to a bagging machine      
+next, a conveyor moves the bale
+to a bagging machine      
 
 88
 00:05:14,181 --> 00:05:19,385
-  and past grippers, which pull 
-    a sample from each side.    
+and past grippers, which pull a sample from each side.    
 
 89
 00:05:23,591 --> 00:05:26,725
-   while the bale slides into   
-    a protective plastic bag,   
+while the bale slides into a protective plastic bag,   
 
 90
 00:05:26,727 --> 00:05:31,263
-      the grippers deposit      
-     the sample into a bin.     
+the grippers deposit the sample into a bin.     
 
 91
 00:05:31,265 --> 00:05:34,599
-   technicians label the bale   
-      with an i.d. number,      
+technicians label the bale with an i.d. number,      
 
 92
 00:05:34,601 --> 00:05:38,870
-  then open the bin to retrieve 
-    the corresponding sample.   
+then open the bin to retrieve the corresponding sample.   
 
 93
 00:05:38,872 --> 00:05:40,472
-    then the sample is bagged   
+then the sample is bagged   
 
 94
 00:05:40,474 --> 00:05:43,075
-           and labeled          
-   with the bale i.d. number.   
+and labeled with the bale i.d. number.   
 
 95
 00:05:43,077 --> 00:05:44,944
- the factory submits the sample 
+the factory submits the sample 
 
 96
 00:05:44,946 --> 00:05:47,479
-      to the united states      
-   department of agriculture,   
+to the united states department of agriculture,   
 
 97
 00:05:47,481 --> 00:05:50,882
-       where it's analyzed      
- for fiber length, cleanliness, 
+where it's analyzed for fiber length, cleanliness, 
 
 98
 00:05:50,884 --> 00:05:52,951
-             color,             
-       and other criteria.      
+color, and other criteria.      
 
 99
 00:05:52,953 --> 00:05:55,020
- once the analysis is complete, 
+once the analysis is complete, 
 
 100
 00:05:55,022 --> 00:05:58,324
-    the bale is given a grade   
-   and processed accordingly.   
+the bale is given a grade and processed accordingly.   
 
 101
 00:06:05,633 --> 00:06:10,769
-                     ♪♪         
+♪♪         
 
 102
 00:06:10,771 --> 00:06:13,038
-    narrator: a roping chute    
-      is a temporary stall      
+narrator: a roping chute is a temporary stall      
 
 103
 00:06:13,040 --> 00:06:14,706
-   with a spring-loaded gate.   
+with a spring-loaded gate.   
 
 104
 00:06:14,708 --> 00:06:16,442
-   during roping competitions,  
+during roping competitions,  
 
 105
 00:06:16,444 --> 00:06:18,810
-      livestock are placed      
-     in this holding device     
+livestock are placed in this holding device     
 
 106
 00:06:18,812 --> 00:06:21,513
-      until the gate opens,     
-      releasing the steer.      
+until the gate opens, releasing the steer.      
 
 107
 00:06:21,515 --> 00:06:23,248
- the steer is given a head start
+the steer is given a head start
 
 108
 00:06:23,250 --> 00:06:26,251
-   while a professional rider   
-      follows on horseback      
+while a professional rider follows on horseback      
 
 109
 00:06:26,253 --> 00:06:28,187
-       while another steer      
-        enters the chute,       
+while another steer enters the chute,       
 
 110
 00:06:28,189 --> 00:06:30,089
-    ready for the next chase.   
+ready for the next chase.   
 
 111
 00:06:32,125 --> 00:06:34,993
-     in a roping competition    
-     at the rodeo, the chute    
+in a roping competition at the rodeo, the chute    
 
 112
 00:06:34,995 --> 00:06:37,195
-    is the starting point and   
-   holding gate for the steer.  
+is the starting point and holding gate for the steer.  
 
 113
 00:06:37,197 --> 00:06:41,000
-   an operator opens the gate   
-      to release the animal     
+an operator opens the gate to release the animal     
 
 114
 00:06:41,002 --> 00:06:44,670
-         into the arena,        
-  signaling the games to begin. 
+into the arena, signaling the games to begin. 
 
 115
 00:06:44,672 --> 00:06:46,204
-     to make a roping chute,    
+to make a roping chute,    
 
 116
 00:06:46,206 --> 00:06:48,674
-     technicians start with     
-        a coil of steel.        
+technicians start with a coil of steel.        
 
 117
 00:06:48,676 --> 00:06:52,144
-        the coil unwinds,       
-     moving between rollers.    
+the coil unwinds, moving between rollers.    
 
 118
 00:06:52,146 --> 00:06:54,747
-    the rollers form the coil   
-           into tubing          
+the rollers form the coil into tubing          
 
 119
 00:06:54,749 --> 00:06:56,949
-        that will be used       
-   for the chute's framework.   
+that will be used for the chute's framework.   
 
 120
 00:06:56,951 --> 00:06:59,884
-   a constant flow of coolant   
-      prevents overheating      
+a constant flow of coolant prevents overheating      
 
 121
 00:06:59,886 --> 00:07:04,223
-        and flushes away        
-     dirt and contaminants.     
+and flushes away dirt and contaminants.     
 
 122
 00:07:04,225 --> 00:07:07,559
 next, the tubing travels through
-      a welding operation.      
+a welding operation.      
 
 123
 00:07:07,561 --> 00:07:13,498
-     rollers close the gap,     
-  and a welder fuses the seam.  
+rollers close the gap, and a welder fuses the seam.  
 
 124
 00:07:13,500 --> 00:07:15,634
-     then the tubing travels    
-        through a channel       
+then the tubing travels through a channel       
 
 125
 00:07:15,636 --> 00:07:18,103
-      with flowing coolant.     
+with flowing coolant.     
 
 126
 00:07:18,105 --> 00:07:21,773
-    once out of the channel,    
-    a blade cuts it to size.    
+once out of the channel, a blade cuts it to size.    
 
 127
 00:07:21,775 --> 00:07:26,178
-  an operator loads the tubing  
- into a rotary bending machine. 
+an operator loads the tubing into a rotary bending machine. 
 
 128
 00:07:26,180 --> 00:07:27,713
-    he activates the machine,   
+he activates the machine,   
 
 129
 00:07:27,715 --> 00:07:32,050
-          which rotates         
-    to form rounded corners.    
+which rotates to form rounded corners.    
 
 130
 00:07:32,052 --> 00:07:34,853
-  the operator makes two bends  
-         in the tubing,         
+the operator makes two bends in the tubing,         
 
 131
 00:07:34,855 --> 00:07:37,055
-     which creates the frame    
-           for a gate.          
+which creates the frame for a gate.          
 
 132
 00:07:37,057 --> 00:07:40,993
-    he will need to make two    
- of these to complete the gate. 
+he will need to make two of these to complete the gate. 
 
 133
 00:07:40,995 --> 00:07:43,528
-       an automated shear       
-       cuts steel sheets,       
+an automated shear cuts steel sheets,       
 
 134
 00:07:43,530 --> 00:07:48,066
- creating panels for the walls. 
+creating panels for the walls. 
 
 135
 00:07:48,068 --> 00:07:50,869
-      at the next station,      
-      a computerized laser      
+at the next station, a computerized laser      
 
 136
 00:07:50,871 --> 00:07:53,272
-         cuts out parts         
-     on another steel sheet     
+cuts out parts on another steel sheet     
 
 137
 00:07:53,274 --> 00:07:55,507
-     to make a control box.     
+to make a control box.     
 
 138
 00:07:58,079 --> 00:08:00,746
-      the laser cuts holes      
-         for components         
+the laser cuts holes for components         
 
 139
 00:08:00,748 --> 00:08:05,950
-    and perforates the steel.   
+and perforates the steel.   
 
 140
 00:08:05,952 --> 00:08:09,154
-    the perforations map out    
-     the locations for folds    
+the perforations map out the locations for folds    
 
 141
 00:08:09,156 --> 00:08:14,225
-       and make it easier       
-       to fold the steel.       
+and make it easier to fold the steel.       
 
 142
 00:08:14,227 --> 00:08:18,096
-   next, a technician works on  
-     parts called linkages,     
+next, a technician works on parts called linkages,     
 
 143
 00:08:18,098 --> 00:08:20,699
-   welding rivets to each end.  
+welding rivets to each end.  
 
 144
 00:08:20,701 --> 00:08:24,036
-   these linkages will connect  
-   the tailgate to the frame,   
+these linkages will connect the tailgate to the frame,   
 
 145
 00:08:24,038 --> 00:08:27,973
@@ -682,510 +588,434 @@ allowing the gate to slide open.
 
 146
 00:08:27,975 --> 00:08:31,709
-      the technician locks      
+the technician locks      
 the tailgate frame in a fixture.
 
 147
 00:08:31,711 --> 00:08:33,846
-           the fixture          
-     holds the frame steady     
+the fixture holds the frame steady     
 
 148
 00:08:33,848 --> 00:08:36,514
-           as he welds          
-    one end of the linkages.    
+as he welds one end of the linkages.    
 
 149
 00:08:36,516 --> 00:08:38,783
-    the other end is riveted.   
+the other end is riveted.   
 
 150
 00:08:38,785 --> 00:08:41,586
-      the rivet has a head      
-   to allow a pivoting action   
+the rivet has a head to allow a pivoting action   
 
 151
 00:08:41,588 --> 00:08:45,190
-    as the gate slides open.    
+as the gate slides open.    
 
 152
 00:08:45,192 --> 00:08:48,193
-      he welds steel panels     
-        to the tailgate.        
+he welds steel panels to the tailgate.        
 
 153
 00:08:48,195 --> 00:08:49,995
-    they'll serve as shields,   
+they'll serve as shields,   
 
 154
 00:08:49,997 --> 00:08:51,997
-             keeping            
-   the animal's legs protected  
+keeping the animal's legs protected  
 
 155
 00:08:51,999 --> 00:08:55,868
-      from becoming trapped     
-          in the chute.         
+from becoming trapped in the chute.         
 
 156
 00:08:55,870 --> 00:09:00,005
-          he also welds         
-   a shield to the threshold.   
+he also welds a shield to the threshold.   
 
 157
 00:09:00,007 --> 00:09:02,340
-      at the next station,      
-       another technician       
+at the next station, another technician       
 
 158
 00:09:02,342 --> 00:09:04,943
-       begins construction      
-        on the head gate.       
+begins construction on the head gate.       
 
 159
 00:09:04,945 --> 00:09:07,546
-      he welds steel pipes      
-        to the upper part       
+he welds steel pipes to the upper part       
 
 160
 00:09:07,548 --> 00:09:10,215
-        to create grating       
-        for ventilation.        
+to create grating for ventilation.        
 
 161
 00:09:10,217 --> 00:09:12,283
-           he creates           
-     steel panel enclosures     
+he creates steel panel enclosures     
 
 162
 00:09:12,285 --> 00:09:18,824
-  instead of more open grating  
-  to protect the animal's legs. 
+instead of more open grating to protect the animal's legs. 
 
 163
 00:09:18,826 --> 00:09:22,694
-  on the top of the two doors,  
-     he welds more paneling,    
+on the top of the two doors, he welds more paneling,    
 
 164
 00:09:22,696 --> 00:09:24,430
-         which will keep        
-        the animal's head       
+which will keep the animal's head       
 
 165
 00:09:24,432 --> 00:09:28,100
-         inside the gate        
-        when it's closed.       
+inside the gate when it's closed.       
 
 166
 00:09:28,102 --> 00:09:31,169
-       the roping chute's       
-   head gate is now complete.   
+the roping chute's head gate is now complete.   
 
 167
 00:09:31,171 --> 00:09:33,171
-           it operates          
-       like a saloon door,      
+it operates like a saloon door,      
 
 168
 00:09:33,173 --> 00:09:38,243
-    swinging open to release    
-   the animal into the arena.   
+swinging open to release the animal into the arena.   
 
 169
 00:09:38,245 --> 00:09:41,179
-   next, the parts are placed   
-        in a welding jig.       
+next, the parts are placed in a welding jig.       
 
 170
 00:09:41,181 --> 00:09:42,781
-   one of the welders installs  
+one of the welders installs  
 
 171
 00:09:42,783 --> 00:09:44,983
-       a release mechanism      
-        for the head gate       
+a release mechanism for the head gate       
 
 172
 00:09:44,985 --> 00:09:49,588
-      while the other welds     
-  the tailgate to the sidebars. 
+while the other welds the tailgate to the sidebars. 
 
 173
 00:09:49,590 --> 00:09:52,524
-   at the front, the assembler  
-      adds a braking device     
+at the front, the assembler adds a braking device     
 
 174
 00:09:52,526 --> 00:09:58,130
-         that will keep         
-   the gate open when needed.   
+that will keep the gate open when needed.   
 
 175
 00:09:58,132 --> 00:10:02,200
-     they align side panels     
-         to the frame...        
+they align side panels to the frame...        
 
 176
 00:10:02,202 --> 00:10:05,204
-       and open the gates       
-   to gain access to the chute  
+and open the gates to gain access to the chute  
 
 177
 00:10:05,206 --> 00:10:11,143
-          as they weld          
-    the panels to the frame.    
+as they weld the panels to the frame.    
 
 178
 00:10:11,145 --> 00:10:13,278
-         this completes         
-    the structural components   
+this completes the structural components   
 
 179
 00:10:13,280 --> 00:10:15,347
-   of the rodeo roping chute.   
+of the rodeo roping chute.   
 
 180
 00:10:15,349 --> 00:10:21,153
-                     ♪♪         
+♪♪         
 
 181
 00:10:21,155 --> 00:10:22,688
-      springs are installed     
+springs are installed     
 
 182
 00:10:22,690 --> 00:10:28,293
-     to support the opening     
-  and closing of the head gate. 
+to support the opening and closing of the head gate. 
 
 183
 00:10:28,295 --> 00:10:34,232
-           the tension          
-    is adjusted accordingly.    
+the tension is adjusted accordingly.    
 
 184
 00:10:34,234 --> 00:10:37,769
-    then the roping chute is    
- immersed in vat of blue paint. 
+then the roping chute is immersed in vat of blue paint. 
 
 185
 00:10:37,771 --> 00:10:43,041
-     a crane lifts the chute    
-         out of the vat,        
+a crane lifts the chute out of the vat,        
 
 186
 00:10:43,043 --> 00:10:46,244
-   and it's set aside to dry.   
+and it's set aside to dry.   
 
 187
 00:10:46,246 --> 00:10:49,314
-      the operating levers      
-     are painted separately.    
+the operating levers are painted separately.    
 
 188
 00:10:49,316 --> 00:10:51,849
-  once try, operators bold them 
+once try, operators bold them 
 
 189
 00:10:51,851 --> 00:10:54,186
-    to the release mechanism    
-           and brakes.          
+to the release mechanism and brakes.          
 
 190
 00:10:54,188 --> 00:10:56,054
-  during a roping competition,  
+during a roping competition,  
 
 191
 00:10:56,056 --> 00:10:58,723
-     the operator will turn     
-      the head gate levers      
+the operator will turn the head gate levers      
 
 192
 00:10:58,725 --> 00:11:05,130
-      to release the animal     
+to release the animal     
 at specifically timed intervals.
 
 193
 00:11:05,132 --> 00:11:07,466
-          then, it's up         
-   to competing professionals   
+then, it's up to competing professionals   
 
 194
 00:11:07,468 --> 00:11:11,870
-  to grab the bull by the horns 
-      as fast as they can.      
+to grab the bull by the horns as fast as they can.      
 
 195
 00:11:11,872 --> 00:11:15,974
-                     ♪♪         
+♪♪         
 
 196
 00:11:23,417 --> 00:11:29,221
-                     ♪♪         
+♪♪         
 
 197
 00:11:29,223 --> 00:11:32,891
-            narrator:           
-   the word noodle is derived   
-   from the german word<i> nudel,</i>  
+narrator: the word noodle is derived from the german word<i> nudel,</i>  
 
 198
 00:11:32,893 --> 00:11:35,360
-       but the food itself      
-      was invented in china     
+but the food itself was invented in china     
 
 199
 00:11:35,362 --> 00:11:37,562
-  as early as 4,000 years ago.  
+as early as 4,000 years ago.  
 
 200
 00:11:37,564 --> 00:11:40,465
 even though cooking with noodles
-      originated in china,      
+originated in china,      
 
 201
 00:11:40,467 --> 00:11:43,301
- cultures from around the globe 
-        have used noodles       
+cultures from around the globe have used noodles       
 
 202
 00:11:43,303 --> 00:11:46,738
-         in an array of         
-    unique and tasty dishes.    
+in an array of unique and tasty dishes.    
 
 203
 00:11:50,110 --> 00:11:51,643
-      noodles seem simple.      
+noodles seem simple.      
 
 204
 00:11:51,645 --> 00:11:53,378
-  they're just unleavened dough 
+they're just unleavened dough 
 
 205
 00:11:53,380 --> 00:11:55,513
-  formed into different shapes  
-            and sizes           
+formed into different shapes and sizes           
 
 206
 00:11:55,515 --> 00:11:58,050
-        and then cooked,        
+and then cooked,        
 
 207
 00:11:58,052 --> 00:12:02,854
-  but manufacturing them isn't  
-    as simple as you'd think.   
+but manufacturing them isn't as simple as you'd think.   
 
 208
 00:12:02,856 --> 00:12:05,791
-         noodle recipes         
-    always start with flour.    
+noodle recipes always start with flour.    
 
 209
 00:12:05,793 --> 00:12:08,927
-        at this facility,       
-  a food-processing technician  
+at this facility, a food-processing technician  
 
 210
 00:12:08,929 --> 00:12:13,065
-   pours wheat flour and water  
-       into a large mixer.      
+pours wheat flour and water into a large mixer.      
 
 211
 00:12:13,067 --> 00:12:15,133
-         the technician         
-      makes sure the ratio      
+the technician makes sure the ratio      
 
 212
 00:12:15,135 --> 00:12:19,671
-       equals 80.4% flour       
-          to 17% water.         
+equals 80.4% flour to 17% water.         
 
 213
 00:12:19,673 --> 00:12:25,143
-   the remaining 2.6% is salt.  
+the remaining 2.6% is salt.  
 
 214
 00:12:25,145 --> 00:12:30,349
-   the dough is flattened and   
-  rolled in a molding machine.  
+the dough is flattened and rolled in a molding machine.  
 
 215
 00:12:30,351 --> 00:12:33,218
-    once the molding machine    
-     has finished flattening    
+once the molding machine has finished flattening    
 
 216
 00:12:33,220 --> 00:12:35,553
-           and winding          
-    the dough into big rolls,   
+and winding the dough into big rolls,   
 
 217
 00:12:35,555 --> 00:12:38,690
-  they're set aside to mature.  
+they're set aside to mature.  
 
 218
 00:12:38,692 --> 00:12:41,226
-   then each roll goes through  
-          this machine,         
+then each roll goes through this machine,         
 
 219
 00:12:41,228 --> 00:12:43,094
-     called a calendar mill.    
+called a calendar mill.    
 
 220
 00:12:43,096 --> 00:12:45,764
-         a calendar mill        
- is a series of pressure rollers
+a calendar mill is a series of pressure rollers
 
 221
 00:12:45,766 --> 00:12:50,902
-  designed to reduce a material 
-     to a uniform thickness.    
+designed to reduce a material to a uniform thickness.    
 
 222
 00:12:50,904 --> 00:12:54,039
-     the dough is flattened     
-    and rolled six more times   
+the dough is flattened and rolled six more times   
 
 223
 00:12:54,041 --> 00:12:55,240
-     in the molding machine     
+in the molding machine     
 
 224
 00:12:55,242 --> 00:12:58,243
-        until it reaches        
-     its desired thickness.     
+until it reaches its desired thickness.     
 
 225
 00:12:58,245 --> 00:13:04,049
-                     ♪♪         
+♪♪         
 
 226
 00:13:04,051 --> 00:13:06,985
-        the calendar mill       
-     quickly and accurately     
+the calendar mill quickly and accurately     
 
 227
 00:13:06,987 --> 00:13:09,788
-        slices the dough        
-      into slender noodles      
+slices the dough into slender noodles      
 
 228
 00:13:09,790 --> 00:13:12,858
-       before cutting them      
-          to 47 inches.         
+before cutting them to 47 inches.         
 
 229
 00:13:12,860 --> 00:13:16,595
-                     ♪♪         
+♪♪         
 
 230
 00:13:16,597 --> 00:13:19,464
-         it's important         
-      for dough to mature.      
+it's important for dough to mature.      
 
 231
 00:13:19,466 --> 00:13:22,334
-       this helps give it       
-    strength and elasticity.    
+this helps give it strength and elasticity.    
 
 232
 00:13:22,336 --> 00:13:27,606
-                     ♪♪         
+♪♪         
 
 233
 00:13:27,608 --> 00:13:32,077
-  the noodles fold over hangers 
-  and head to the next station. 
+the noodles fold over hangers and head to the next station. 
 
 234
 00:13:32,079 --> 00:13:35,280
-                     ♪♪         
+♪♪         
 
 235
 00:13:35,282 --> 00:13:37,282
-  a food-processing technician  
+a food-processing technician  
 
 236
 00:13:37,284 --> 00:13:40,686
-     transfers seven hangers    
-    of noodles to one hanger,   
+transfers seven hangers of noodles to one hanger,   
 
 237
 00:13:40,688 --> 00:13:43,154
-    which is the appropriate    
-         density needed         
+which is the appropriate density needed         
 
 238
 00:13:43,156 --> 00:13:46,958
- for the final maturation phase 
-      of noodle production.     
+for the final maturation phase of noodle production.     
 
 239
 00:13:46,960 --> 00:13:51,830
-                     ♪♪         
+♪♪         
 
 240
 00:13:51,832 --> 00:13:53,765
-      the technician wheels     
-           the hangers          
+the technician wheels the hangers          
 
 241
 00:13:53,767 --> 00:13:57,302
-      into a device called      
-         a steam boiler.        
+into a device called a steam boiler.        
 
 242
 00:13:57,304 --> 00:14:00,238
-     the noodles will spend     
-      3 1/2 hours steaming      
+the noodles will spend 3 1/2 hours steaming      
 
 243
 00:14:00,240 --> 00:14:03,975
-         at temperatures        
-  up to 212 degree fahrenheit.  
+at temperatures up to 212 degree fahrenheit.  
 
 244
 00:14:03,977 --> 00:14:06,978
-                     ♪♪         
+♪♪         
 
 245
 00:14:06,980 --> 00:14:10,048
-    once thoroughly steamed,    
-      the noodles are moved     
+once thoroughly steamed, the noodles are moved     
 
 246
 00:14:10,050 --> 00:14:13,518
-          to a station          
-  to cool and dry for 24 hours  
+to a station to cool and dry for 24 hours  
 
 247
 00:14:13,520 --> 00:14:17,456
-         before they're         
-      ready for packaging.      
+before they're ready for packaging.      
 
 248
 00:14:17,458 --> 00:14:20,324
-                     ♪♪         
+♪♪         
 
 249
 00:14:20,326 --> 00:14:22,461
-           the workers          
-    who package these noodles   
+the workers who package these noodles   
 
 250
 00:14:22,463 --> 00:14:24,996
-      are specially trained     
-         using a scale,         
+are specially trained using a scale,         
 
 251
 00:14:24,998 --> 00:14:27,131
-   which helps them determine   
-        how many noodles        
+which helps them determine how many noodles        
 
 252
 00:14:27,133 --> 00:14:30,868
-   should be bundled together.  
+should be bundled together.  
 
 253
 00:14:30,870 --> 00:14:33,338
@@ -1193,200 +1023,172 @@ once their training is complete,
 
 254
 00:14:33,340 --> 00:14:34,673
-    the technician can bundle   
+the technician can bundle   
 
 255
 00:14:34,675 --> 00:14:37,609
-  the right quantity of noodles 
-             by eye.            
+the right quantity of noodles by eye.            
 
 256
 00:14:37,611 --> 00:14:41,212
-                     ♪♪         
+♪♪         
 
 257
 00:14:41,214 --> 00:14:44,682
-     this facility relies on    
-  a traditional, manual process 
+this facility relies on a traditional, manual process 
 
 258
 00:14:44,684 --> 00:14:47,285
-  to manufacture their noodle.  
+to manufacture their noodle.  
 
 259
 00:14:47,287 --> 00:14:48,754
-   according to the facility,   
+according to the facility,   
 
 260
 00:14:48,756 --> 00:14:50,889
-       this allows workers      
-         an opportunity         
+this allows workers an opportunity         
 
 261
 00:14:50,891 --> 00:14:55,093
-       to closely inspect       
-   the quality of the noodles.  
+to closely inspect the quality of the noodles.  
 
 262
 00:14:55,095 --> 00:14:59,030
-       this facility also       
-   manufactures a dry noodle.   
+this facility also manufactures a dry noodle.   
 
 263
 00:14:59,032 --> 00:15:01,099
- the process is nearly the same,
+the process is nearly the same,
 
 264
 00:15:01,101 --> 00:15:02,500
-       except that rather       
-         than go through        
+except that rather than go through        
 
 265
 00:15:02,502 --> 00:15:05,103
-       a maturation phase       
-        in a steam oven,        
+a maturation phase in a steam oven,        
 
 266
 00:15:05,105 --> 00:15:10,641
 these noodles dry, step by step,
-     in a thermostatic room.    
+in a thermostatic room.    
 
 267
 00:15:10,643 --> 00:15:13,244
-       the production line      
-    manufactures the noodles    
+the production line manufactures the noodles    
 
 268
 00:15:13,246 --> 00:15:17,449
-       at 45 inches before      
- transferring them to small bins
+at 45 inches before transferring them to small bins
 
 269
 00:15:17,451 --> 00:15:19,784
-          where large,          
-     stainless steel blades     
+where large, stainless steel blades     
 
 270
 00:15:19,786 --> 00:15:23,588
-         chop them down         
-          to 7 inches.          
+chop them down to 7 inches.          
 
 271
 00:15:23,590 --> 00:15:24,922
-       for these noodles,       
+for these noodles,       
 
 272
 00:15:24,924 --> 00:15:27,058
-        the manufacturers       
-      have added turmeric,      
+the manufacturers have added turmeric,      
 
 273
 00:15:27,060 --> 00:15:30,195
-     a spice which provides     
-      both color and flavor     
+a spice which provides both color and flavor     
 
 274
 00:15:30,197 --> 00:15:34,932
-      and is also believed      
-    to have health benefits.    
+and is also believed to have health benefits.    
 
 275
 00:15:34,934 --> 00:15:36,868
-  while this facility packages  
+while this facility packages  
 
 276
 00:15:36,870 --> 00:15:39,070
-    certain noodle varieties    
-            by hand,            
+certain noodle varieties by hand,            
 
 277
 00:15:39,072 --> 00:15:41,873
-  it also has a fully automated 
-         packaging line         
+it also has a fully automated packaging line         
 
 278
 00:15:41,875 --> 00:15:43,675
-   for other types of noodles.  
+for other types of noodles.  
 
 279
 00:15:43,677 --> 00:15:47,078
-      manufacturers produce     
- different varieties of noodles 
+manufacturers produce different varieties of noodles 
 
 280
 00:15:47,080 --> 00:15:49,213
-   based on customer demands.   
+based on customer demands.   
 
 281
 00:15:49,215 --> 00:15:53,084
-         they sell them         
-    packaged and in bundles.    
+they sell them packaged and in bundles.    
 
 282
 00:15:53,086 --> 00:15:59,624
-   this line is packaging them  
-       in 3-ounce bundles.      
+this line is packaging them in 3-ounce bundles.      
 
 283
 00:15:59,626 --> 00:16:01,359
-    after thousands of years,   
+after thousands of years,   
 
 284
 00:16:01,361 --> 00:16:04,095
-    people all over the world   
-     still can't get enough     
+people all over the world still can't get enough     
 
 285
 00:16:04,097 --> 00:16:07,566
-  of eating a variety of dishes 
-       made up of noodles.      
+of eating a variety of dishes made up of noodles.      
 
 286
 00:16:15,242 --> 00:16:21,312
-                     ♪♪         
+♪♪         
 
 287
 00:16:21,314 --> 00:16:23,181
-            narrator:           
-  throughout the 20th century,  
+narrator: throughout the 20th century,  
 
 288
 00:16:23,183 --> 00:16:25,116
-        multiple versions       
-      of the rotary engine      
+multiple versions of the rotary engine      
 
 289
 00:16:25,118 --> 00:16:26,585
-       were manufactured.       
+were manufactured.       
 
 290
 00:16:26,587 --> 00:16:29,654
-      even though they were     
-     small, light, and fast,    
+even though they were small, light, and fast,    
 
 291
 00:16:29,656 --> 00:16:31,923
-         those produced         
-    had high fuel consumption   
+those produced had high fuel consumption   
 
 292
 00:16:31,925 --> 00:16:34,859
-          and released          
-   large amounts of emissions.  
+and released large amounts of emissions.  
 
 293
 00:16:34,861 --> 00:16:37,395
-    today, the rotary engine    
-      has been redesigned,      
+today, the rotary engine has been redesigned,      
 
 294
 00:16:37,397 --> 00:16:41,866
-   revving up for a comeback.   
+revving up for a comeback.   
 
 295
 00:16:41,868 --> 00:16:44,335
-        the rotary engine       
-    that powers this go-kart    
+the rotary engine that powers this go-kart    
 
 296
 00:16:44,337 --> 00:16:46,337
@@ -1394,75 +1196,63 @@ is one-fifth the size and weight
 
 297
 00:16:46,339 --> 00:16:49,073
-      of the piston engine      
-        it has replaced.        
+of the piston engine it has replaced.        
 
 298
 00:16:49,075 --> 00:16:51,810
-   with less to weigh it down   
-    in the engine department,   
+with less to weigh it down in the engine department,   
 
 299
 00:16:51,812 --> 00:16:55,880
-      this go-kart can gain     
-        some major speed.       
+this go-kart can gain some major speed.       
 
 300
 00:16:55,882 --> 00:16:59,351
-     this rotary engine aims    
-    to boost fuel efficiency    
+this rotary engine aims to boost fuel efficiency    
 
 301
 00:16:59,353 --> 00:17:01,085
-       and cut emissions.       
+and cut emissions.       
 
 302
 00:17:01,087 --> 00:17:02,888
-  produced on a limited scale,  
+produced on a limited scale,  
 
 303
 00:17:02,890 --> 00:17:07,225
- this prototype is small enough 
-      to fit in a backpack.     
+this prototype is small enough to fit in a backpack.     
 
 304
 00:17:07,227 --> 00:17:10,895
-    the housing is made from    
-   a solid block of aluminum.   
+the housing is made from a solid block of aluminum.   
 
 305
 00:17:10,897 --> 00:17:12,229
-    computer models are used    
+computer models are used    
 
 306
 00:17:12,231 --> 00:17:14,699
-           to generate          
-   the machining instructions.  
+to generate the machining instructions.  
 
 307
 00:17:14,701 --> 00:17:18,436
-   traditional rotary engines   
-  have an oblong shaped housing 
+traditional rotary engines have an oblong shaped housing 
 
 308
 00:17:18,438 --> 00:17:22,440
-     and a triangular rotor     
- that spins within the interior.
+and a triangular rotor that spins within the interior.
 
 309
 00:17:22,442 --> 00:17:25,310
-         this new design        
-      performs differently.     
+this new design performs differently.     
 
 310
 00:17:25,312 --> 00:17:28,914
-   computerized tools profile   
-     the triangular housing,    
+computerized tools profile the triangular housing,    
 
 311
 00:17:28,916 --> 00:17:31,916
-  creating combustion chambers  
-          on the inside         
+creating combustion chambers on the inside         
 
 312
 00:17:31,918 --> 00:17:34,519
@@ -1470,121 +1260,105 @@ and cooling fins on the outside.
 
 313
 00:17:34,521 --> 00:17:37,722
-     they transform a solid     
-     hardened steel cylinder    
+they transform a solid hardened steel cylinder    
 
 314
 00:17:37,724 --> 00:17:41,459
-   into a hollow crank shaft.   
+into a hollow crank shaft.   
 
 315
 00:17:41,461 --> 00:17:43,661
-  the cylinder turns in a lathe 
+the cylinder turns in a lathe 
 
 316
 00:17:43,663 --> 00:17:46,931
-     as a series of cutters     
-       sculpt it together,      
+as a series of cutters sculpt it together,      
 
 317
 00:17:46,933 --> 00:17:48,800
-  creating a hollow crankshaft  
+creating a hollow crankshaft  
 
 318
 00:17:48,802 --> 00:17:53,138
-  that will funnel air and fuel 
-        into the engine.        
+that will funnel air and fuel into the engine.        
 
 319
 00:17:53,140 --> 00:17:58,476
- computerized tools mill a piece
- of steel to a precise geometry.
+computerized tools mill a piece
+of steel to a precise geometry.
 
 320
 00:17:58,478 --> 00:18:00,144
-    this peanut-shaped rotor    
+this peanut-shaped rotor    
 
 321
 00:18:00,146 --> 00:18:04,482
-          is the heart          
-      of the rotary engine.     
+is the heart of the rotary engine.     
 
 322
 00:18:04,484 --> 00:18:07,619
-      the rotor is immersed     
-       in de-ionized water      
+the rotor is immersed in de-ionized water      
 
 323
 00:18:07,621 --> 00:18:10,154
-        as an electrified       
-      brass wire generates      
+as an electrified brass wire generates      
 
 324
 00:18:10,156 --> 00:18:13,825
-        a spark that cuts       
-         into the steel.        
+a spark that cuts into the steel.        
 
 325
 00:18:13,827 --> 00:18:16,361
-    this step forms a ridged    
-       hole in the center       
+this step forms a ridged hole in the center       
 
 326
 00:18:16,363 --> 00:18:18,830
-  that will connect to a gear.  
+that will connect to a gear.  
 
 327
 00:18:20,367 --> 00:18:23,568
-      a technician inserts      
-   the pinion gear in a vessel  
+a technician inserts the pinion gear in a vessel  
 
 328
 00:18:23,570 --> 00:18:25,904
-        which will engage       
-     with the ridged profile    
+which will engage with the ridged profile    
 
 329
 00:18:25,906 --> 00:18:27,772
-   in the center of the rotor.  
+in the center of the rotor.  
 
 330
 00:18:27,774 --> 00:18:30,175
-       then the technician      
-        fills the vessel        
+then the technician fills the vessel        
 
 331
 00:18:30,177 --> 00:18:32,043
-      with liquid nitrogen,     
+with liquid nitrogen,     
 
 332
 00:18:32,045 --> 00:18:35,913
-        which freezes to        
+which freezes to        
 negative 374 degrees fahrenheit.
 
 333
 00:18:35,915 --> 00:18:39,517
-       the liquid nitrogen      
-   causes the gear to shrink.   
+the liquid nitrogen causes the gear to shrink.   
 
 334
 00:18:39,519 --> 00:18:44,722
-     he transfers the frozen    
-    pinion gear to the rotor.   
+he transfers the frozen pinion gear to the rotor.   
 
 335
 00:18:44,724 --> 00:18:47,625
-         using a press,         
-    he drives the pinion gear   
+using a press, he drives the pinion gear   
 
 336
 00:18:47,627 --> 00:18:50,428
-         into the rotor         
-      to a specific depth.      
+into the rotor to a specific depth.      
 
 337
 00:18:52,666 --> 00:18:55,666
-    as the pinion gear thaws    
-      to room temperature,      
+as the pinion gear thaws to room temperature,      
 
 338
 00:18:55,668 --> 00:18:58,069
@@ -1592,192 +1366,161 @@ it expands to its original size,
 
 339
 00:18:58,071 --> 00:19:01,373
-    allowing it to fit snugly   
-       in the rotor gear.       
+allowing it to fit snugly in the rotor gear.       
 
 340
 00:19:04,277 --> 00:19:06,343
-  another computerized machine  
+another computerized machine  
 
 341
 00:19:06,345 --> 00:19:09,347
-       carves into a piece      
-       of cast iron steel,      
+carves into a piece of cast iron steel,      
 
 342
 00:19:09,349 --> 00:19:11,549
-  held in the fixture by bolts. 
+held in the fixture by bolts. 
 
 343
 00:19:11,551 --> 00:19:15,620
-       this piece will be       
-    the seal for the engine.    
+this piece will be the seal for the engine.    
 
 344
 00:19:15,622 --> 00:19:19,690
-     the seal is sliver thin    
-     and tightly engineered.    
+the seal is sliver thin and tightly engineered.    
 
 345
 00:19:19,692 --> 00:19:21,893
-      it's a critical part      
-         that will keep         
+it's a critical part that will keep         
 
 346
 00:19:21,895 --> 00:19:28,899
-       the rotary engine's      
-   working chambers air-tight.  
+the rotary engine's working chambers air-tight.  
 
 347
 00:19:28,901 --> 00:19:31,369
-      the seals will slide      
-        between the rotor       
+the seals will slide between the rotor       
 
 348
 00:19:31,371 --> 00:19:35,306
-     and one of the engine's    
-   chrome-plated side plates.   
+and one of the engine's chrome-plated side plates.   
 
 349
 00:19:35,308 --> 00:19:37,241
-          an automated          
-      grinding wheel gives      
+an automated grinding wheel gives      
 
 350
 00:19:37,243 --> 00:19:41,379
-         the side plate         
-  a level and mirrored finish.  
+the side plate a level and mirrored finish.  
 
 351
 00:19:41,381 --> 00:19:43,915
-     heating the side plate     
-     causes the center board    
+heating the side plate causes the center board    
 
 352
 00:19:43,917 --> 00:19:46,184
-      to temporarily widen.     
+to temporarily widen.     
 
 353
 00:19:46,186 --> 00:19:49,287
- a technician inserts a bearing 
-          into the bore         
+a technician inserts a bearing into the bore         
 
 354
 00:19:49,289 --> 00:19:53,324
-        and, as it cools,       
-   it shrinks to the bearing.   
+and, as it cools, it shrinks to the bearing.   
 
 355
 00:19:53,326 --> 00:19:59,264
-    the assembler inserts the   
- crank shaft in the side cover. 
+the assembler inserts the crank shaft in the side cover. 
 
 356
 00:19:59,266 --> 00:20:02,734
- he turns the assembly over and 
-       slides a ring gear       
+he turns the assembly over and slides a ring gear       
 
 357
 00:20:02,736 --> 00:20:05,403
-         into the cover.        
+into the cover.        
 
 358
 00:20:05,405 --> 00:20:08,473
-       he sets the fixture      
-     in an upright position     
+he sets the fixture in an upright position     
 
 359
 00:20:08,475 --> 00:20:10,875
-            and turns           
-    the crankshaft to confirm   
+and turns the crankshaft to confirm   
 
 360
 00:20:10,877 --> 00:20:15,346
-   that it revolves smoothly.   
+that it revolves smoothly.   
 
 361
 00:20:15,348 --> 00:20:18,283
-      he slides the rotor,      
- equipped with one of the seals,
+he slides the rotor, equipped with one of the seals,
 
 362
 00:20:18,285 --> 00:20:21,086
-      onto the crankshaft.      
+onto the crankshaft.      
 
 363
 00:20:21,088 --> 00:20:27,425
- next, the technician assembles 
-   the housing to the motor...  
+next, the technician assembles the housing to the motor...  
 
 364
 00:20:27,427 --> 00:20:29,827
-     and tests the rotation     
-          of the rotor.         
+and tests the rotation of the rotor.         
 
 365
 00:20:29,829 --> 00:20:32,764
-       as the rotor turns,      
-        it forms chambers       
+as the rotor turns, it forms chambers       
 
 366
 00:20:32,766 --> 00:20:36,234
-   where the combustion cycle   
-        will take place.        
+where the combustion cycle will take place.        
 
 367
 00:20:36,236 --> 00:20:38,503
-       he slips a bearing       
-       and a counterweight      
+he slips a bearing and a counterweight      
 
 368
 00:20:38,505 --> 00:20:43,441
-         onto the shaft,        
-    followed by a bell mouth.   
+onto the shaft, followed by a bell mouth.   
 
 369
 00:20:43,443 --> 00:20:47,245
-      the exhaust cover has     
- three ports to release gasses. 
+the exhaust cover has three ports to release gasses. 
 
 370
 00:20:47,247 --> 00:20:50,982
-    the port in the center is   
- the opening for the bell mouth.
+the port in the center is the opening for the bell mouth.
 
 371
 00:20:50,984 --> 00:20:53,784
-     the technician attaches    
-    an engine intake adaptor    
+the technician attaches an engine intake adaptor    
 
 372
 00:20:53,786 --> 00:20:55,853
-       to the bell mouth.       
+to the bell mouth.       
 
 373
 00:20:55,855 --> 00:20:58,857
-      after the components      
-  have been secured with bolts, 
+after the components have been secured with bolts, 
 
 374
 00:20:58,859 --> 00:21:01,459
-      a dynamometer machine     
-         runs the engine        
+a dynamometer machine runs the engine        
 
 375
 00:21:01,461 --> 00:21:05,797
-  and measures its performance. 
+and measures its performance. 
 
 376
 00:21:05,799 --> 00:21:08,666
-       capable of running       
-     on a variety of fuels,     
+capable of running on a variety of fuels,     
 
 377
 00:21:08,668 --> 00:21:12,937
-    this new rotary engine is   
- ready to start powering things.
+this new rotary engine is ready to start powering things.
 
 378
 00:21:12,939 --> 00:21:16,107
-       [ engine revving ]       
+[ engine revving ]       
 

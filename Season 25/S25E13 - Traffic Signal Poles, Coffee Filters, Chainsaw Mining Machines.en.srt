@@ -1,544 +1,430 @@
 ﻿1
 00:00:01,869 --> 00:00:04,937
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,939 --> 00:00:08,040
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:54,121 --> 00:00:56,255
- narrator: traffic-signal poles 
-     must be strong enough      
+narrator: traffic-signal poles must be strong enough      
 
 4
 00:00:56,257 --> 00:00:59,191
-       to bear the weight       
- of road signs, street lights,  
+to bear the weight of road signs, street lights,  
 
 5
 00:00:59,193 --> 00:01:01,660
-     and, of course, traffic    
-            signals.            
+and, of course, traffic signals.            
 
 6
 00:01:01,662 --> 00:01:04,196
-   the poles are also built     
+the poles are also built     
 
 7
 00:01:04,198 --> 00:01:06,732
-          to withstand          
-  extreme weather conditions,   
+to withstand extreme weather conditions,   
 
 8
 00:01:06,734 --> 00:01:12,604
-       such as high winds       
- and heavy snow accumulation.   
+such as high winds and heavy snow accumulation.   
 
 9
 00:01:12,606 --> 00:01:16,341
-      traffic signal poles      
-    are made of high-strength   
-             steel.             
+traffic signal poles are made of high-strength steel.             
 
 10
 00:01:16,343 --> 00:01:19,678
-   years of weather exposure    
-     can cause corrosion,       
+years of weather exposure can cause corrosion,       
 
 11
 00:01:19,680 --> 00:01:23,682
-  so the poles are galvanized   
- on both sides for protection.  
+so the poles are galvanized on both sides for protection.  
 
 12
 00:01:23,684 --> 00:01:25,817
-           each pole            
-      has a welded plate        
+each pole has a welded plate        
 
 13
 00:01:25,819 --> 00:01:28,888
-         to connect it          
-   to a perpendicular pole.     
+to connect it to a perpendicular pole.     
 
 14
 00:01:28,890 --> 00:01:32,692
-     the poles are made out     
-    of these steel sheets.      
+the poles are made out of these steel sheets.      
 
 15
 00:01:32,694 --> 00:01:35,895
-    the steel arrives at the    
-             factory            
-      in one large roll.        
+the steel arrives at the factory in one large roll.        
 
 16
 00:01:35,897 --> 00:01:39,966
- they use a decoiler to unwind  
- the sheet and flatten it out.  
+they use a decoiler to unwind the sheet and flatten it out.  
 
 17
 00:01:39,968 --> 00:01:43,336
-      then a shear cuts it      
-    to the correct length.      
+then a shear cuts it to the correct length.      
 
 18
 00:01:46,373 --> 00:01:48,574
-    a computer-guided plasma    
-             cutter             
+a computer-guided plasma cutter             
 
 19
 00:01:48,576 --> 00:01:51,910
-       marks short lines        
-  on both ends of the sheet.    
+marks short lines on both ends of the sheet.    
 
 20
 00:01:51,912 --> 00:01:55,781
-      these lines indicate      
- where to bend the flat sheet   
+these lines indicate where to bend the flat sheet   
 
 21
 00:01:55,783 --> 00:01:57,350
-     to form a round pole.      
+to form a round pole.      
 
 22
 00:01:59,520 --> 00:02:03,055
-   the machine cuts the sheet   
-   into a rectangular shape,    
+the machine cuts the sheet into a rectangular shape,    
 
 23
 00:02:03,057 --> 00:02:06,726
-   or a trapezoid shape if the  
-              pole              
-    will taper at the top.      
+or a trapezoid shape if the pole will taper at the top.      
 
 24
 00:02:09,329 --> 00:02:12,264
-   workers number the machine   
-              lines             
-          with chalk,           
+workers number the machine lines with chalk,           
 
 25
 00:02:12,266 --> 00:02:16,602
- giving lines directly opposite 
+giving lines directly opposite 
 of each other the same number.  
 
 26
 00:02:16,604 --> 00:02:18,203
- then they transfer the sheet   
+then they transfer the sheet   
 
 27
 00:02:18,205 --> 00:02:21,574
-      to a bending machine      
-     called a press brake.      
+to a bending machine called a press brake.      
 
 28
 00:02:27,548 --> 00:02:30,616
-    the press brake bends the   
-              sheet             
-     along the marked line      
+the press brake bends the sheet along the marked line      
 
 29
 00:02:30,618 --> 00:02:33,152
-   to a preprogrammed angle.    
+to a preprogrammed angle.    
 
 30
 00:02:37,692 --> 00:02:40,092
-          workers use           
-  a digital measuring device    
+workers use a digital measuring device    
 
 31
 00:02:40,094 --> 00:02:42,628
-  to make sure the first bend   
-         is accurate.           
+to make sure the first bend is accurate.           
 
 32
 00:02:42,630 --> 00:02:45,164
-     if it is, they continue    
-            bending             
+if it is, they continue bending             
 
 33
 00:02:45,166 --> 00:02:48,300
-      along the remainder       
-         of the lines,          
+along the remainder of the lines,          
 
 34
 00:02:48,302 --> 00:02:52,371
-  transforming the flat sheet   
- into a multisided round pole.  
+transforming the flat sheet into a multisided round pole.  
 
 35
 00:02:55,375 --> 00:02:58,043
-       now the pole moves       
-     to a welding station,      
+now the pole moves to a welding station,      
 
 36
 00:02:58,045 --> 00:03:01,714
-    where hydraulic rollers     
-    apply pressure from both    
-             sides.             
+where hydraulic rollers apply pressure from both sides.             
 
 37
 00:03:01,716 --> 00:03:04,850
-          this forces           
-     the edges of the sheet     
-            together            
+this forces the edges of the sheet together            
 
 38
 00:03:04,852 --> 00:03:08,854
-   so that a welding head can   
-              fuse              
-  the seam with molten steel.   
+so that a welding head can fuse the seam with molten steel.   
 
 39
 00:03:08,856 --> 00:03:10,322
-       at the same time,        
+at the same time,        
 
 40
 00:03:10,324 --> 00:03:12,858
-       the head deposits        
+the head deposits        
 a granular powder called flux,  
 
 41
 00:03:12,860 --> 00:03:15,261
-       which prevents air       
-   from penetrating the weld    
+which prevents air from penetrating the weld    
 
 42
 00:03:15,263 --> 00:03:19,131
-       and weakening it.        
+and weakening it.        
 
 43
 00:03:19,133 --> 00:03:21,867
-     workers place the pole     
-     in a hydraulic press       
+workers place the pole in a hydraulic press       
 
 44
 00:03:21,869 --> 00:03:26,038
-     so it doesn't warp as      
-     the seam weld cools and    
-            shrinks.            
+so it doesn't warp as the seam weld cools and shrinks.            
 
 45
 00:03:29,276 --> 00:03:32,210
-             next,              
-    a computer-guided plasma    
-            machine             
+next, a computer-guided plasma machine             
 
 46
 00:03:32,212 --> 00:03:35,347
-    cuts a connection plate     
-      out of thick steel.       
+cuts a connection plate out of thick steel.       
 
 47
 00:03:35,349 --> 00:03:39,485
- the machine also drills holes  
-  for the high-strength bolts   
+the machine also drills holes for the high-strength bolts   
 
 48
 00:03:39,487 --> 00:03:42,822
-   needed to attach the plate   
-  to the traffic-signal pole.   
+needed to attach the plate to the traffic-signal pole.   
 
 49
 00:03:46,494 --> 00:03:48,094
-            workers             
-  center the connection plate   
+workers center the connection plate   
 
 50
 00:03:48,096 --> 00:03:52,665
-   on support plates they've    
-  already welded to the pole.   
+on support plates they've already welded to the pole.   
 
 51
 00:03:54,102 --> 00:03:57,069
-         then they weld         
-     everything in place.       
+then they weld everything in place.       
 
 52
 00:04:03,110 --> 00:04:06,178
- next, workers weld a baseplate 
-  to the bottom of the pole.    
+next, workers weld a baseplate to the bottom of the pole.    
 
 53
 00:04:06,180 --> 00:04:07,980
-          it has holes          
-     for the anchor bolts,      
+it has holes for the anchor bolts,      
 
 54
 00:04:07,982 --> 00:04:11,817
-   which are used for securing  
-               the              
- traffic signal to the street.  
+which are used for securing the traffic signal to the street.  
 
 55
 00:04:14,856 --> 00:04:17,989
-   workers inspect the welds    
-    with a testing device.      
+workers inspect the welds with a testing device.      
 
 56
 00:04:17,991 --> 00:04:20,726
-  it uses an electric current   
-     to magnetically draw       
+it uses an electric current to magnetically draw       
 
 57
 00:04:20,728 --> 00:04:24,062
-         colored powder         
-   into any defective area.     
+colored powder into any defective area.     
 
 58
 00:04:24,064 --> 00:04:28,868
- the factory ships the finished 
- poles to a galvanizing plant,  
+the factory ships the finished poles to a galvanizing plant,  
 
 59
 00:04:28,870 --> 00:04:32,938
-      where they're dipped      
-  in a series of wash tanks.    
+where they're dipped in a series of wash tanks.    
 
 60
 00:04:32,940 --> 00:04:36,075
-       the plant's tanks        
-        are deep enough         
+the plant's tanks are deep enough         
 
 61
 00:04:36,077 --> 00:04:39,878
-  to fully submerge the poles   
-   so they can treat both the   
-             inner              
+to fully submerge the poles so they can treat both the inner              
 
 62
 00:04:39,880 --> 00:04:43,015
-       and outer surface        
-       at the same time.        
+and outer surface at the same time.        
 
 63
 00:04:43,017 --> 00:04:46,752
-  now the poles go into a vat   
-       of sulfuric acid.        
+now the poles go into a vat of sulfuric acid.        
 
 64
 00:04:46,754 --> 00:04:50,822
-      this bath dissolves       
+this bath dissolves       
 the more stubborn contaminants  
 
 65
 00:04:50,824 --> 00:04:52,891
-  that washing can't remove.    
+that washing can't remove.    
 
 66
 00:04:52,893 --> 00:04:55,628
-         the next tank          
-      contains a chemical       
+the next tank contains a chemical       
 
 67
 00:04:55,630 --> 00:04:58,097
-          that weakens          
-   the surface of the poles.    
+that weakens the surface of the poles.    
 
 68
 00:04:58,099 --> 00:05:01,367
-  this allows the galvanizing   
- metal to penetrate the steel,  
+this allows the galvanizing metal to penetrate the steel,  
 
 69
 00:05:01,369 --> 00:05:03,268
-     rather than sit on the     
-            surface.            
+rather than sit on the surface.            
 
 70
 00:05:03,270 --> 00:05:08,040
-         the final tank         
-     contains molten zinc.      
+the final tank contains molten zinc.      
 
 71
 00:05:13,581 --> 00:05:16,515
-       as the poles bathe       
-    in the 842-degree zinc,     
+as the poles bathe in the 842-degree zinc,     
 
 72
 00:05:16,517 --> 00:05:19,785
-   workers in fire-protection   
-              suits             
-       skim the surface         
+workers in fire-protection suits skim the surface         
 
 73
 00:05:19,787 --> 00:05:25,724
-      to remove iron oxide      
-   and ash that floats to the   
-              top.              
+to remove iron oxide and ash that floats to the top.              
 
 74
 00:05:25,726 --> 00:05:28,994
-     this keeps the freshly     
-   galvanized surface clean     
+this keeps the freshly galvanized surface clean     
 
 75
 00:05:28,996 --> 00:05:32,832
-  as the poles are hoisted out  
-               of               
-    the tank and set aside to   
-             cool.              
+as the poles are hoisted out of the tank and set aside to cool.              
 
 76
 00:05:35,803 --> 00:05:39,137
-   because they're galvanized   
-     rather than painted,       
+because they're galvanized rather than painted,       
 
 77
 00:05:39,139 --> 00:05:42,541
-     these poles are able to    
-             support            
-    traffic lights, signs,      
+these poles are able to support traffic lights, signs,      
 
 78
 00:05:42,543 --> 00:05:48,414
-        and street lamps        
-     for 40 years or more.      
+and street lamps for 40 years or more.      
 
 79
 00:06:00,494 --> 00:06:02,628
-           narrator:            
-  in 1908, a german housewife   
+narrator: in 1908, a german housewife   
 
 80
 00:06:02,630 --> 00:06:06,165
- came up with a solution to get 
+came up with a solution to get 
 rid of bitter-tasting sediment  
 
 81
 00:06:06,167 --> 00:06:07,166
-        in her coffee.          
+in her coffee.          
 
 82
 00:06:07,168 --> 00:06:08,634
-   she punched nail holes in a  
-              pot               
+she punched nail holes in a pot               
 
 83
 00:06:08,636 --> 00:06:10,969
-        and covered them        
-     with blotting paper.       
+and covered them with blotting paper.       
 
 84
 00:06:10,971 --> 00:06:13,572
- then she placed ground coffee  
-         on the paper           
+then she placed ground coffee on the paper           
 
 85
 00:06:13,574 --> 00:06:14,974
-       and filled the pot       
-        with hot water.         
+and filled the pot with hot water.         
 
 86
 00:06:14,976 --> 00:06:16,375
-       it worked so well        
+it worked so well        
 
 87
 00:06:16,377 --> 00:06:20,579
-    that she started selling    
- her coffee filters worldwide.  
+that she started selling her coffee filters worldwide.  
 
 88
 00:06:20,581 --> 00:06:25,117
-      these coffee filters      
-   are made of 100% cellulose   
-             fiber              
+these coffee filters are made of 100% cellulose fiber              
 
 89
 00:06:25,119 --> 00:06:29,321
-   harvested from slow-growing  
-              pine              
-       and spruce trees         
+harvested from slow-growing pine and spruce trees         
 
 90
 00:06:29,323 --> 00:06:32,858
-         in the forests         
-   of southern scandinavia.     
+in the forests of southern scandinavia.     
 
 91
 00:06:32,860 --> 00:06:34,659
-    the raw material produces   
-             paper              
+the raw material produces paper              
 
 92
 00:06:34,661 --> 00:06:37,595
-    that lets about 3 ounces    
-   of water pass through it     
+that lets about 3 ounces of water pass through it     
 
 93
 00:06:37,597 --> 00:06:39,864
- in approximately 40 seconds.   
+in approximately 40 seconds.   
 
 94
 00:06:39,866 --> 00:06:44,402
- that's the optimal saturation  
-     rate for producing good    
-            coffee.             
+that's the optimal saturation rate for producing good coffee.             
 
 95
 00:06:44,404 --> 00:06:47,406
-              30%               
-    of the paper's cellulose    
-            content             
+30% of the paper's cellulose content             
 
 96
 00:06:47,408 --> 00:06:50,209
-          is left over          
-   from earlier production.     
+is left over from earlier production.     
 
 97
 00:06:50,211 --> 00:06:53,412
-         the other 70%          
-    is raw cellulose fiber.     
+the other 70% is raw cellulose fiber.     
 
 98
 00:06:53,414 --> 00:06:57,215
-     the materials go into a    
-             machine            
-       called a pulper,         
+the materials go into a machine called a pulper,         
 
 99
 00:06:57,217 --> 00:07:00,286
-          which works           
- like a giant food processor.   
+which works like a giant food processor.   
 
 100
 00:07:00,288 --> 00:07:03,288
-  it blends the raw materials   
-        with hot water,         
+it blends the raw materials with hot water,         
 
 101
 00:07:03,290 --> 00:07:07,426
-   making a fiber soup called   
-             pulp.              
+making a fiber soup called pulp.              
 
 102
 00:07:10,964 --> 00:07:16,034
-     a paper-making machine     
-   spreads a one-inch layer of  
-              pulp              
+a paper-making machine spreads a one-inch layer of pulp              
 
 103
 00:07:16,036 --> 00:07:19,438
-   across a wire-mesh belt.     
+across a wire-mesh belt.     
 
 104
 00:07:19,440 --> 00:07:22,908
- water jets cut a straight edge 
-        on both sides.          
+water jets cut a straight edge on both sides.          
 
 105
 00:07:22,910 --> 00:07:25,978
-    as moisture drains down     
-       through the belt,        
+as moisture drains down through the belt,        
 
 106
 00:07:25,980 --> 00:07:28,647
-         the pulp forms         
-    a soggy sheet of paper.     
+the pulp forms a soggy sheet of paper.     
 
 107
 00:07:28,649 --> 00:07:31,517
@@ -546,33 +432,27 @@ it has a water content of 80%.
 
 108
 00:07:31,519 --> 00:07:34,986
-        all this happens        
-    at an astounding pace.      
+all this happens at an astounding pace.      
 
 109
 00:07:34,988 --> 00:07:38,723
-     the machine lays down      
- 1,300 feet of pulp a minute.   
+the machine lays down 1,300 feet of pulp a minute.   
 
 110
 00:07:38,725 --> 00:07:42,327
-      at the next station,      
-   heavy compression rollers    
+at the next station, heavy compression rollers    
 
 111
 00:07:42,329 --> 00:07:45,230
- squeeze almost half the water  
-       out of the paper.        
+squeeze almost half the water out of the paper.        
 
 112
 00:07:48,869 --> 00:07:53,271
-     a tool applies a crepe     
-            texture.            
+a tool applies a crepe texture.            
 
 113
 00:07:53,273 --> 00:07:55,874
-         this increases         
- the surface area of the paper  
+this increases the surface area of the paper  
 
 114
 00:07:55,876 --> 00:07:57,343
@@ -580,175 +460,140 @@ and improves filtration speed.
 
 115
 00:08:02,883 --> 00:08:05,284
-             next,              
-    they use 38 steam-heated    
-            rollers             
+next, they use 38 steam-heated rollers             
 
 116
 00:08:05,286 --> 00:08:07,152
- to dry the paper completely.   
+to dry the paper completely.   
 
 117
 00:08:07,154 --> 00:08:09,755
-          the rollers'          
-     surface temperatures       
+the rollers' surface temperatures       
 
 118
 00:08:09,757 --> 00:08:11,023
-    are around 250 degrees.     
+are around 250 degrees.     
 
 119
 00:08:11,025 --> 00:08:14,426
-     as the finished paper      
-      exits the machine,        
+as the finished paper exits the machine,        
 
 120
 00:08:14,428 --> 00:08:17,696
-            a camera            
-    registers the location of   
-             holes,             
+a camera registers the location of holes,             
 
 121
 00:08:17,698 --> 00:08:21,233
-     dirt, or other defects     
-   that have to be cut out.     
+dirt, or other defects that have to be cut out.     
 
 122
 00:08:21,235 --> 00:08:24,837
-     it takes the machine 45    
-            minutes             
+it takes the machine 45 minutes             
 
 123
 00:08:24,839 --> 00:08:28,574
-   to produce an 11-mile-long   
-              sheet             
-    of coffee-filter paper.     
+to produce an 11-mile-long sheet of coffee-filter paper.     
 
 124
 00:08:28,576 --> 00:08:31,977
-    the roll is transferred     
-     to a cutting machine.      
+the roll is transferred to a cutting machine.      
 
 125
 00:08:31,979 --> 00:08:35,113
-      the paper is sliced       
-      into two-foot rolls       
+the paper is sliced into two-foot rolls       
 
 126
 00:08:35,115 --> 00:08:38,450
-         so it can fit          
- in the filter-making machine.  
+so it can fit in the filter-making machine.  
 
 127
 00:08:42,590 --> 00:08:44,590
-            sensors             
- in the filter-making machine   
+sensors in the filter-making machine   
 
 128
 00:08:44,592 --> 00:08:47,760
-      make sure the paper       
-     is aligned correctly.      
+make sure the paper is aligned correctly.      
 
 129
 00:08:49,130 --> 00:08:51,930
-     at the machine's first     
-            station,            
+at the machine's first station,            
 
 130
 00:08:51,932 --> 00:08:54,600
-          tiny needles          
-   pierce holes in the paper    
+tiny needles pierce holes in the paper    
 
 131
 00:08:54,602 --> 00:08:57,736
-     to enhance the quality     
-        of filtration.          
+to enhance the quality of filtration.          
 
 132
 00:08:58,939 --> 00:09:01,239
-     at the next station,       
+at the next station,       
 
 133
 00:09:01,241 --> 00:09:05,010
-        a stamp imprints        
+a stamp imprints        
 the company logo in the paper.  
 
 134
 00:09:05,012 --> 00:09:08,480
-            a knife             
-   slices the paper in half,    
+a knife slices the paper in half,    
 
 135
 00:09:08,482 --> 00:09:10,882
-          creating two          
- side-by-side production lines  
+creating two side-by-side production lines  
 
 136
 00:09:10,884 --> 00:09:13,152
-   from this point forward.     
+from this point forward.     
 
 137
 00:09:13,154 --> 00:09:16,421
-           each line            
-   enters a folding station,    
+each line enters a folding station,    
 
 138
 00:09:16,423 --> 00:09:21,293
-   where guides fold the flat   
-              sheet             
-           in half.             
+where guides fold the flat sheet in half.             
 
 139
 00:09:21,295 --> 00:09:24,295
-   a roller embosses a seam     
+a roller embosses a seam     
 
 140
 00:09:24,297 --> 00:09:27,366
-  connecting the two layers of  
-   paper along the bottom and   
-             side.              
+connecting the two layers of paper along the bottom and side.              
 
 141
 00:09:27,368 --> 00:09:31,370
-   then a second roller cuts    
-    the conical shape of the    
-            filter.             
+then a second roller cuts the conical shape of the filter.             
 
 142
 00:09:31,372 --> 00:09:36,641
-      the machine produces      
-   4,000 filters per minute.    
+the machine produces 4,000 filters per minute.    
 
 143
 00:09:36,643 --> 00:09:41,046
-        the next station        
-    cuts the filters apart      
+the next station cuts the filters apart      
 
 144
 00:09:41,048 --> 00:09:43,315
-    and collects the leftover   
-             paper,             
+and collects the leftover paper,             
 
 145
 00:09:43,317 --> 00:09:45,884
-     which will be recycled     
-          into pulp.            
+which will be recycled into pulp.            
 
 146
 00:09:48,923 --> 00:09:51,857
-      the filters are sent      
-    to an automatic counting    
-            machine             
+the filters are sent to an automatic counting machine             
 
 147
 00:09:51,859 --> 00:09:56,995
-       that divides them        
-      into stacks of 80.        
+that divides them into stacks of 80.        
 
 148
 00:09:56,997 --> 00:10:01,900
-  the machine feeds the stacks  
-    to the packaging line.      
+the machine feeds the stacks to the packaging line.      
 
 149
 00:10:07,474 --> 00:10:09,208
@@ -756,218 +601,177 @@ an automated packaging machine
 
 150
 00:10:09,210 --> 00:10:11,777
-       aligns each stack        
-     with a flattened box.      
+aligns each stack with a flattened box.      
 
 151
 00:10:13,881 --> 00:10:17,749
-  then it opens the box with a  
-     vacuum and inserts the     
-            filters.            
+then it opens the box with a vacuum and inserts the filters.            
 
 152
 00:10:20,420 --> 00:10:23,355
-    if the machine's sensor     
-      detects a problem,        
+if the machine's sensor detects a problem,        
 
 153
 00:10:23,357 --> 00:10:26,825
-   like filters in the wrong    
- position or missing filters,   
+like filters in the wrong position or missing filters,   
 
 154
 00:10:26,827 --> 00:10:31,029
-       it ejects that box       
-        from the line.          
+it ejects that box from the line.          
 
 155
 00:10:31,031 --> 00:10:35,434
-  this factory produces a few   
-  different types of filters.   
+this factory produces a few different types of filters.   
 
 156
 00:10:35,436 --> 00:10:38,636
-       how the cellulose        
-  is processed in the pulper    
+how the cellulose is processed in the pulper    
 
 157
 00:10:38,638 --> 00:10:41,640
-   determines how the filter    
-         will perform.          
+determines how the filter will perform.          
 
 158
 00:10:41,642 --> 00:10:45,443
-    for example, the factory    
-  processes cellulose finely    
+for example, the factory processes cellulose finely    
 
 159
 00:10:45,445 --> 00:10:49,447
-    to make filters designed    
-    to brew strong coffee.      
+to make filters designed to brew strong coffee.      
 
 160
 00:10:49,449 --> 00:10:52,917
- fine cellulose produces paper  
-      that drains slowly,       
+fine cellulose produces paper that drains slowly,       
 
 161
 00:10:52,919 --> 00:10:55,820
-     keeping the water and      
- coffee beans together longer,  
+keeping the water and coffee beans together longer,  
 
 162
 00:10:55,822 --> 00:10:59,291
-     resulting in a stronger    
-            flavor.             
+resulting in a stronger flavor.             
 
 163
 00:11:11,338 --> 00:11:13,605
-           narrator:            
-   chainsaw mining machines     
+narrator: chainsaw mining machines     
 
 164
 00:11:13,607 --> 00:11:14,939
-     are among the largest      
+are among the largest      
 
 165
 00:11:14,941 --> 00:11:17,342
-     and heaviest chainsaws     
-         in the world.          
+and heaviest chainsaws in the world.          
 
 166
 00:11:17,344 --> 00:11:20,345
- they're used in rock quarries  
-      to cut and extract        
+they're used in rock quarries to cut and extract        
 
 167
 00:11:20,347 --> 00:11:22,814
- some of the toughest materials 
-           on earth.            
+some of the toughest materials on earth.            
 
 168
 00:11:22,816 --> 00:11:24,415
-  the machine's massive blade   
+the machine's massive blade   
 
 169
 00:11:24,417 --> 00:11:27,619
-     can make both vertical     
-     and horizontal cuts,       
+can make both vertical and horizontal cuts,       
 
 170
 00:11:27,621 --> 00:11:29,922
-   slicing through hard stone   
-     as if it were butter.      
+slicing through hard stone as if it were butter.      
 
 171
 00:11:32,893 --> 00:11:36,828
- hundreds of feet underground,  
-     this monster chainsaw      
+hundreds of feet underground, this monster chainsaw      
 
 172
 00:11:36,830 --> 00:11:40,899
-       is carving through       
+is carving through       
 geological deposits of marble.  
 
 173
 00:11:40,901 --> 00:11:45,036
-  the chainsaw arm can rotate   
-    to make both horizontal     
+the chainsaw arm can rotate to make both horizontal     
 
 174
 00:11:45,038 --> 00:11:47,639
- and vertical cuts as needed.   
+and vertical cuts as needed.   
 
 175
 00:11:50,644 --> 00:11:54,046
-     it cuts uniform blocks     
-          of marble.            
+it cuts uniform blocks of marble.            
 
 176
 00:11:54,048 --> 00:11:59,584
-     then a loader extracts     
+then a loader extracts     
 the blocks from the rock face.  
 
 177
 00:11:59,586 --> 00:12:03,788
-     they're the exact size     
-    the customer requested,     
+they're the exact size the customer requested,     
 
 178
 00:12:03,790 --> 00:12:05,724
-    thanks to the precision     
-           and power            
+thanks to the precision and power            
 
 179
 00:12:05,726 --> 00:12:08,060
-     of the chainsaw mining     
-            machine.            
+of the chainsaw mining machine.            
 
 180
 00:12:10,664 --> 00:12:13,665
-  it takes several steel tubes  
-     of various dimensions      
+it takes several steel tubes of various dimensions      
 
 181
 00:12:13,667 --> 00:12:17,803
-            to make             
-  a chainsaw mining machine.    
+to make a chainsaw mining machine.    
 
 182
 00:12:17,805 --> 00:12:24,609
-  they use an automated saw to  
-               cut              
-    the tubes to the correct    
-            length.             
+they use an automated saw to cut the tubes to the correct length.             
 
 183
 00:12:24,611 --> 00:12:27,512
-     this one will be used      
-       for the chassis.         
+this one will be used for the chassis.         
 
 184
 00:12:33,287 --> 00:12:36,754
-    they assemble the tubes     
- in the correct configuration.  
+they assemble the tubes in the correct configuration.  
 
 185
 00:12:36,756 --> 00:12:40,225
-    then a worker joins them    
-          with welds.           
+then a worker joins them with welds.           
 
 186
 00:12:40,227 --> 00:12:43,094
-    they lower the completed    
-            chassis             
+they lower the completed chassis             
 
 187
 00:12:43,096 --> 00:12:45,597
-              onto              
- the chainsaw machine tracks.   
+onto the chainsaw machine tracks.   
 
 188
 00:12:47,568 --> 00:12:52,104
-     the chassis is bolted      
- to the fifth-wheel coupling.   
+the chassis is bolted to the fifth-wheel coupling.   
 
 189
 00:12:52,106 --> 00:12:56,308
-    this allows the machine     
-    to rotate 360 degrees.      
+this allows the machine to rotate 360 degrees.      
 
 190
 00:13:01,448 --> 00:13:04,248
-  they bring in the framework   
-  that will house the motors,   
+they bring in the framework that will house the motors,   
 
 191
 00:13:04,250 --> 00:13:06,885
-           oil tank,            
-  and electrical components.    
+oil tank, and electrical components.    
 
 192
 00:13:10,590 --> 00:13:12,858
-    they bolt the framework     
-        to the chassis.         
+they bolt the framework to the chassis.         
 
 193
 00:13:15,129 --> 00:13:17,062
@@ -975,59 +779,48 @@ the next part is a rail system
 
 194
 00:13:17,064 --> 00:13:20,198
-    for raising and lowering    
-      the chainsaw blade.       
+for raising and lowering the chainsaw blade.       
 
 195
 00:13:23,670 --> 00:13:26,271
-            a worker            
-   attaches the rail system     
+a worker attaches the rail system     
 
 196
 00:13:26,273 --> 00:13:29,141
-         to the chassis         
-      using a thick pin.        
+to the chassis using a thick pin.        
 
 197
 00:13:29,143 --> 00:13:30,808
-   this pin acts as a hinge,    
+this pin acts as a hinge,    
 
 198
 00:13:30,810 --> 00:13:37,249
-      allowing the vertical     
-            structure           
+allowing the vertical structure           
 to be folded down when needed.  
 
 199
 00:13:39,119 --> 00:13:42,286
-      after verifying that      
- the machine's basic framework  
+after verifying that the machine's basic framework  
 
 200
 00:13:42,288 --> 00:13:46,023
-      fits together well,       
-     they take it apart for     
-           painting.            
+fits together well, they take it apart for painting.            
 
 201
 00:13:46,025 --> 00:13:48,493
-    they also paint the gear    
-            motors.             
+they also paint the gear motors.             
 
 202
 00:13:48,495 --> 00:13:50,829
-     this one will power the    
-            carriage            
+this one will power the carriage            
 
 203
 00:13:50,831 --> 00:13:53,432
-   that moves the blade back    
-          and forth.            
+that moves the blade back and forth.            
 
 204
 00:13:55,702 --> 00:13:57,569
-       once all the parts       
-      have been painted,        
+once all the parts have been painted,        
 
 205
 00:13:57,571 --> 00:14:01,639
@@ -1035,466 +828,379 @@ they reassemble the framework.
 
 206
 00:14:01,641 --> 00:14:04,976
- next, they mount the carriage  
- to the front of the machine.   
+next, they mount the carriage to the front of the machine.   
 
 207
 00:14:04,978 --> 00:14:07,245
-           it rotates           
-   within the vertical rail     
+it rotates within the vertical rail     
 
 208
 00:14:07,247 --> 00:14:09,414
-     to position the blade      
-         for cutting.           
+to position the blade for cutting.           
 
 209
 00:14:11,951 --> 00:14:13,985
-      workers then install      
-        the gear motor          
+workers then install the gear motor          
 
 210
 00:14:13,987 --> 00:14:18,490
-   that powers the horizontal   
-    movement of the chainsaw    
-             blade.             
+that powers the horizontal movement of the chainsaw blade.             
 
 211
 00:14:22,129 --> 00:14:24,730
-         they secure it         
-      with several bolts.       
+they secure it with several bolts.       
 
 212
 00:14:28,802 --> 00:14:34,005
-      two more gear motors      
- will drive the cutting chain   
+two more gear motors will drive the cutting chain   
 
 213
 00:14:34,007 --> 00:14:37,042
-     and rotate the blade.      
+and rotate the blade.      
 
 214
 00:14:42,282 --> 00:14:44,950
-      the team mounts them      
- to the front of the carriage,  
+the team mounts them to the front of the carriage,  
 
 215
 00:14:44,952 --> 00:14:47,085
-          to the right          
-   of the other gear motor.     
+to the right of the other gear motor.     
 
 216
 00:14:49,222 --> 00:14:53,958
- at the back of the carriage,   
+at the back of the carriage,   
 
 217
 00:14:53,960 --> 00:14:56,561
-   a worker assembles a gear    
-      known as a pinion.        
+a worker assembles a gear known as a pinion.        
 
 218
 00:14:58,832 --> 00:15:02,868
-       the pinion engages       
- with a track called the rack.  
+the pinion engages with a track called the rack.  
 
 219
 00:15:05,305 --> 00:15:07,038
-  this rack-and-pinion system   
+this rack-and-pinion system   
 
 220
 00:15:07,040 --> 00:15:10,308
-      allows the carriage       
-   to slide back and forth.     
+allows the carriage to slide back and forth.     
 
 221
 00:15:13,113 --> 00:15:16,714
- a worker folds hydraulic hoses 
-     in a long metal cage       
+a worker folds hydraulic hoses in a long metal cage       
 
 222
 00:15:16,716 --> 00:15:20,218
-       and bolts the cage       
- to the front of the machine.   
+and bolts the cage to the front of the machine.   
 
 223
 00:15:32,666 --> 00:15:34,599
-        then he connects        
-    the cutting-chain hoses     
+then he connects the cutting-chain hoses     
 
 224
 00:15:34,601 --> 00:15:36,067
-         to the motor,          
+to the motor,          
 
 225
 00:15:36,069 --> 00:15:39,237
-   protecting the connections   
-   with metal half-flanges.     
+protecting the connections with metal half-flanges.     
 
 226
 00:15:43,410 --> 00:15:48,914
-         they make all          
- the electrical connections...  
+they make all the electrical connections...  
 
 227
 00:15:52,819 --> 00:15:55,753
-    ...then screw fireproof     
-     and waterproof covers      
+...then screw fireproof and waterproof covers      
 
 228
 00:15:55,755 --> 00:15:57,889
-  onto the electronics boxes.   
+onto the electronics boxes.   
 
 229
 00:16:01,227 --> 00:16:05,830
-   they program the chainsaw    
-  machine's operator screen.    
+they program the chainsaw machine's operator screen.    
 
 230
 00:16:05,832 --> 00:16:09,835
-  stay tuned, because the big   
-    chainsaw blade is next.     
+stay tuned, because the big chainsaw blade is next.     
 
 231
 00:16:22,382 --> 00:16:24,516
-           narrator:            
-   few things are as fierce     
+narrator: few things are as fierce     
 
 232
 00:16:24,518 --> 00:16:27,919
- as the blade of a stonecutting 
-       chainsaw machine.        
+as the blade of a stonecutting chainsaw machine.        
 
 233
 00:16:27,921 --> 00:16:31,456
-       it's 10 feet long,       
-   weighs over 1,300 pounds,    
+it's 10 feet long, weighs over 1,300 pounds,    
 
 234
 00:16:31,458 --> 00:16:33,058
-       and has big teeth        
+and has big teeth        
 
 235
 00:16:33,060 --> 00:16:36,995
-   that make cutting through    
-     solid rock look easy.      
+that make cutting through solid rock look easy.      
 
 236
 00:16:36,997 --> 00:16:39,330
-     it's no surprise that      
-    making one of these giant   
-             blades             
+it's no surprise that making one of these giant blades             
 
 237
 00:16:39,332 --> 00:16:42,167
-        is a huge job.          
+is a huge job.          
 
 238
 00:16:46,673 --> 00:16:50,474
- a computer-driven plasma flame 
-      cuts a large blade        
+a computer-driven plasma flame cuts a large blade        
 
 239
 00:16:50,476 --> 00:16:53,478
-          from a sheet          
-     of high-carbon steel.      
+from a sheet of high-carbon steel.      
 
 240
 00:17:02,956 --> 00:17:05,624
-         using a crane          
-    with a powerful magnet,     
+using a crane with a powerful magnet,     
 
 241
 00:17:05,626 --> 00:17:09,060
-   they transfer the chainsaw   
-              blade             
-     to a milling station.      
+they transfer the chainsaw blade to a milling station.      
 
 242
 00:17:11,231 --> 00:17:15,100
-    here, computerized tools    
-     smooth out the steel.      
+here, computerized tools smooth out the steel.      
 
 243
 00:17:18,638 --> 00:17:21,506
-   they also bring the blade    
-     to the correct width       
+they also bring the blade to the correct width       
 
 244
 00:17:21,508 --> 00:17:25,109
-       and carve channels       
-    for lubrication tubes.      
+and carve channels for lubrication tubes.      
 
 245
 00:17:25,111 --> 00:17:28,313
-        they drill holes        
-       for metal plates         
+they drill holes for metal plates         
 
 246
 00:17:28,315 --> 00:17:31,182
-        that will align         
-      the cutting chain.        
+that will align the cutting chain.        
 
 247
 00:17:37,056 --> 00:17:40,926
-    the team paints the saw     
-  and adds an attachment bar,   
+the team paints the saw and adds an attachment bar,   
 
 248
 00:17:40,928 --> 00:17:45,863
-  then mounts it to the front   
-   of the chainsaw machine.     
+then mounts it to the front of the chainsaw machine.     
 
 249
 00:17:45,865 --> 00:17:50,268
-    they slide the bar into     
-    the blade support on the    
-             front.             
+they slide the bar into the blade support on the front.             
 
 250
 00:17:50,270 --> 00:17:53,271
-   it's a critical connection   
-  because it bears the weight   
+it's a critical connection because it bears the weight   
 
 251
 00:17:53,273 --> 00:17:55,707
-       of the heavy blade       
-   as it saws through stone.    
+of the heavy blade as it saws through stone.    
 
 252
 00:17:59,479 --> 00:18:01,345
-         they secure it         
-     to the blade support       
+they secure it to the blade support       
 
 253
 00:18:01,347 --> 00:18:03,348
-  with a thick pin and a nut.   
+with a thick pin and a nut.   
 
 254
 00:18:08,955 --> 00:18:12,357
-        next, they make         
-  the cutting-chain sprocket.   
+next, they make the cutting-chain sprocket.   
 
 255
 00:18:12,359 --> 00:18:15,960
-     a computer-guided tool     
- carves toothlike projections   
+a computer-guided tool carves toothlike projections   
 
 256
 00:18:15,962 --> 00:18:19,230
-    around the rim of a steel   
-             disk.              
+around the rim of a steel disk.              
 
 257
 00:18:22,102 --> 00:18:27,038
-   these teeth are designed to  
-              grab              
-    the links of the cutting    
-             chain.             
+these teeth are designed to grab the links of the cutting chain.             
 
 258
 00:18:27,040 --> 00:18:30,241
-          the sprocket          
-    is ready to be mounted      
+the sprocket is ready to be mounted      
 
 259
 00:18:30,243 --> 00:18:32,510
-   to the chainsaw machine.     
+to the chainsaw machine.     
 
 260
 00:18:34,982 --> 00:18:38,116
-     an employee slides the     
-            sprocket            
-         onto a shaft           
+an employee slides the sprocket onto a shaft           
 
 261
 00:18:38,118 --> 00:18:41,319
-        protruding from         
- the cutting-chain gear motor.  
+protruding from the cutting-chain gear motor.  
 
 262
 00:18:41,321 --> 00:18:44,956
-       he bolts the disk        
-    to the surrounding hub.     
+he bolts the disk to the surrounding hub.     
 
 263
 00:18:47,060 --> 00:18:52,329
-             next,              
-    they assemble the cutting   
-             chain.             
+next, they assemble the cutting chain.             
 
 264
 00:18:52,331 --> 00:18:58,335
-   a two-part fastener system   
-   holds the links together.    
+a two-part fastener system holds the links together.    
 
 265
 00:18:58,337 --> 00:19:01,206
-   it starts with this hollow   
-              pin.              
+it starts with this hollow pin.              
 
 266
 00:19:01,208 --> 00:19:05,142
- a worker drives the hollow pin 
-   into a hole in the links     
+a worker drives the hollow pin into a hole in the links     
 
 267
 00:19:05,144 --> 00:19:08,413
-   using a hydraulic press.     
+using a hydraulic press.     
 
 268
 00:19:08,415 --> 00:19:11,683
-   he inserts an l-shaped pin   
-     into the hollow pin.       
+he inserts an l-shaped pin into the hollow pin.       
 
 269
 00:19:11,685 --> 00:19:14,486
- the tongue of the l-shaped pin 
-      fits into a groove        
+the tongue of the l-shaped pin fits into a groove        
 
 270
 00:19:14,488 --> 00:19:18,223
-  adjacent to the hollow pin.   
+adjacent to the hollow pin.   
 
 271
 00:19:18,225 --> 00:19:24,095
-      the press forces the      
- l-shaped pin into the groove.  
+the press forces the l-shaped pin into the groove.  
 
 272
 00:19:24,097 --> 00:19:26,864
-   he alternates outer links    
-        and inner ones          
+he alternates outer links and inner ones          
 
 273
 00:19:26,866 --> 00:19:30,568
-    to build a 30-foot chain    
+to build a 30-foot chain    
 that will fit to the saw body.  
 
 274
 00:19:30,570 --> 00:19:33,971
-      then another worker       
- loops it around the saw blade  
+then another worker loops it around the saw blade  
 
 275
 00:19:33,973 --> 00:19:36,708
-         and sprocket.          
+and sprocket.          
 
 276
 00:19:40,714 --> 00:19:43,248
-    the chain fits perfectly    
-          to the saw.           
+the chain fits perfectly to the saw.           
 
 277
 00:19:46,186 --> 00:19:50,387
- he joins the ends of the chain 
-       with a hollow pin        
+he joins the ends of the chain with a hollow pin        
 
 278
 00:19:50,389 --> 00:19:55,860
-      and an l-shaped pin       
-     to complete the loop.      
+and an l-shaped pin to complete the loop.      
 
 279
 00:19:55,862 --> 00:19:59,264
-        he flattens them        
-   with a hammer instead of a   
-             press              
+he flattens them with a hammer instead of a press              
 
 280
 00:19:59,266 --> 00:20:02,734
-      because it's easier       
+because it's easier       
 to use a hammer at this angle.  
 
 281
 00:20:02,736 --> 00:20:04,669
-    the chain is in place,      
+the chain is in place,      
 
 282
 00:20:04,671 --> 00:20:08,473
- but it doesn't have the teeth  
-  it needs to cut stone yet.    
+but it doesn't have the teeth it needs to cut stone yet.    
 
 283
 00:20:08,475 --> 00:20:12,610
-   these parts, a carrier and   
-   a tungsten carbide cutting   
-              bit,              
+these parts, a carrier and a tungsten carbide cutting bit,              
 
 284
 00:20:12,612 --> 00:20:16,948
-   give the blade its cutting   
-             edge.              
+give the blade its cutting edge.              
 
 285
 00:20:18,684 --> 00:20:22,120
-    he places a set on each     
- of the chain's outer links...  
+he places a set on each of the chain's outer links...  
 
 286
 00:20:24,891 --> 00:20:26,691
-    ...then screws them in.     
+...then screws them in.     
 
 287
 00:20:32,299 --> 00:20:34,766
-    studded with tough, sharp   
-             teeth,             
+studded with tough, sharp teeth,             
 
 288
 00:20:34,768 --> 00:20:38,770
-    this mega chainsaw is now   
-              ready             
-   for rock-cutting action.     
+this mega chainsaw is now ready for rock-cutting action.     
 
 289
 00:20:38,772 --> 00:20:43,174
- it cuts through stone cleanly  
-       and efficiently.         
+it cuts through stone cleanly and efficiently.         
 
 290
 00:20:45,178 --> 00:20:46,977
-      its size and power        
+its size and power        
 
 291
 00:20:46,979 --> 00:20:51,015
-        make it a force         
-       to be reckoned with      
-          underground.          
+make it a force to be reckoned with underground.          
 
 292
 00:20:53,319 --> 00:20:55,720
-   despite its bulky frame,     
+despite its bulky frame,     
 
 293
 00:20:55,722 --> 00:21:00,592
-  this chainsaw mining machine  
-  has a wide range of motion.   
+this chainsaw mining machine has a wide range of motion.   
 
 294
 00:21:00,594 --> 00:21:04,529
-    here, the front carriage    
-       rotates the blade        
+here, the front carriage rotates the blade        
 
 295
 00:21:04,531 --> 00:21:09,367
-  to demonstrate how it can be  
-  repositioned between cuts.    
+to demonstrate how it can be repositioned between cuts.    
 
 296
 00:21:12,005 --> 00:21:20,478
- no matter how you slice it...  
-   that's pretty impressive.    
+no matter how you slice it... that's pretty impressive.    
 
 297
 00:21:28,421 --> 00:21:30,688
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 298
 00:21:30,690 --> 00:21:33,557
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 299
 00:21:33,559 --> 00:21:35,627
-     drop us a line at...       
+drop us a line at...       
 

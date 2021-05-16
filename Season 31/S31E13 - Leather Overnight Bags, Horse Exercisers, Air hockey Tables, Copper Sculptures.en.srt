@@ -1,88 +1,78 @@
 ﻿1
 00:00:00,935 --> 00:00:08,140
-                     ♪          
+♪          
 
 2
 00:00:08,142 --> 00:00:15,281
-                     ♪          
+♪          
 
 3
 00:00:15,283 --> 00:00:22,488
-                     ♪          
+♪          
 
 4
 00:00:22,490 --> 00:00:26,225
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 5
 00:00:26,227 --> 00:00:28,160
-  ...leather overnight bags...  
+...leather overnight bags...  
 
 6
 00:00:32,233 --> 00:00:33,900
-     ...horse exercisers...     
+...horse exercisers...     
 
 7
 00:00:37,972 --> 00:00:39,805
-     ...air hockey tables...    
+...air hockey tables...    
 
 8
 00:00:44,111 --> 00:00:46,078
-    ...and copper sculptures.   
+...and copper sculptures.   
 
 9
 00:00:47,448 --> 00:00:50,382
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 10
 00:00:50,384 --> 00:00:53,452
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 11
 00:00:53,454 --> 00:00:55,387
-     whether heading across     
-           the country          
+whether heading across the country          
 
 12
 00:00:55,389 --> 00:00:59,325
-  or taking a weekend getaway,  
-     people love to travel.     
+or taking a weekend getaway, people love to travel.     
 
 13
 00:00:59,327 --> 00:01:01,127
- regardless of the destination, 
+regardless of the destination, 
 
 14
 00:01:01,129 --> 00:01:04,397
-  it's impossible to leave home 
-        without luggage.        
+it's impossible to leave home without luggage.        
 
 15
 00:01:04,399 --> 00:01:06,799
- luggage is made from all kinds 
-          of materials,         
+luggage is made from all kinds of materials,         
 
 16
 00:01:06,801 --> 00:01:09,468
- including wood, metal, plastic,
+including wood, metal, plastic,
 
 17
 00:01:09,470 --> 00:01:12,104
-     hi-tech polycarbonates,    
-          and leather.          
+hi-tech polycarbonates, and leather.          
 
 18
 00:01:14,475 --> 00:01:18,410
- not all leather overnight bags 
-       are created equal.       
+not all leather overnight bags are created equal.       
 
 19
 00:01:18,412 --> 00:01:20,546
-       this dark brown bag      
-         was constructed        
+this dark brown bag was constructed        
 
 20
 00:01:20,548 --> 00:01:22,848
@@ -90,38 +80,31 @@ with the capacity to hold water.
 
 21
 00:01:25,419 --> 00:01:28,086
-       the process starts       
-     with full-grain hides,     
+the process starts with full-grain hides,     
 
 22
 00:01:28,088 --> 00:01:31,823
-          chrome-tanned         
-     by an outside facility.    
+chrome-tanned by an outside facility.    
 
 23
 00:01:31,825 --> 00:01:33,893
- chrome-tanning is an effective 
-            treatment           
+chrome-tanning is an effective treatment           
 
 24
 00:01:33,895 --> 00:01:37,830
-    which allows the leather    
- to become more water resistant.
+which allows the leather to become more water resistant.
 
 25
 00:01:37,832 --> 00:01:41,167
-     this bag is constructed    
- from a single piece of leather,
+this bag is constructed from a single piece of leather,
 
 26
 00:01:41,169 --> 00:01:44,770
-     making it more durable     
-        and water-tight.        
+making it more durable and water-tight.        
 
 27
 00:01:44,772 --> 00:01:47,506
-     first, a leather worker    
-         uses a template        
+first, a leather worker uses a template        
 
 28
 00:01:47,508 --> 00:01:49,642
@@ -129,290 +112,253 @@ to cut out the shape of the bag.
 
 29
 00:01:49,644 --> 00:01:54,980
-                     ♪          
+♪          
 
 30
 00:01:54,982 --> 00:02:00,119
-                     ♪          
+♪          
 
 31
 00:02:00,121 --> 00:02:02,455
-       he uses the machine      
-       to shave the edges       
+he uses the machine to shave the edges       
 
 32
 00:02:02,457 --> 00:02:05,991
-    off the piece of leather    
-  in a process called sciving,  
+off the piece of leather in a process called sciving,  
 
 33
 00:02:05,993 --> 00:02:09,461
-   which prepares the leather   
-     for folding and sewing.    
+which prepares the leather for folding and sewing.    
 
 34
 00:02:09,463 --> 00:02:10,863
-       using a hole punch,      
+using a hole punch,      
 
 35
 00:02:10,865 --> 00:02:13,465
-        another craftsman       
-   taps the series of openings  
+another craftsman taps the series of openings  
 
 36
 00:02:13,467 --> 00:02:18,471
-     for riveting on buckles    
-     and other attachments.     
+for riveting on buckles and other attachments.     
 
 37
 00:02:18,473 --> 00:02:20,940
-     the holes will prevent     
-    the opening from ripping.   
+the holes will prevent the opening from ripping.   
 
 38
 00:02:20,942 --> 00:02:26,479
-                     ♪          
+♪          
 
 39
 00:02:26,481 --> 00:02:29,482
-     next, a leather worker     
-     uses a template to mark    
+next, a leather worker uses a template to mark    
 
 40
 00:02:29,484 --> 00:02:32,652
-        where he'll apply       
+where he'll apply       
 a strip of glue to the top edge.
 
 41
 00:02:37,291 --> 00:02:41,093
-  he attaches a polyester strip 
- to the bottom edge of the glue 
+he attaches a polyester strip to the bottom edge of the glue 
 
 42
 00:02:43,363 --> 00:02:46,365
-      and spreads more glue     
-    on top of the polyester.    
+and spreads more glue on top of the polyester.    
 
 43
 00:02:49,170 --> 00:02:52,437
-    then he folds and hammers   
- the top portion of the leather 
+then he folds and hammers the top portion of the leather 
 
 44
 00:02:52,439 --> 00:02:56,575
- over onto the polyester strip. 
+over onto the polyester strip. 
 
 45
 00:02:56,577 --> 00:02:58,044
-         once complete,         
+once complete,         
 
 46
 00:02:58,046 --> 00:03:01,247
-    the leather worker trims    
-   the edges of the polyester.  
+the leather worker trims the edges of the polyester.  
 
 47
 00:03:03,451 --> 00:03:06,985
- the leather is then placed into
-  a machine known as a clicker, 
+the leather is then placed into
+a machine known as a clicker, 
 
 48
 00:03:06,987 --> 00:03:11,056
-   to stamp out the bag straps  
-  and other leather components. 
+to stamp out the bag straps and other leather components. 
 
 49
 00:03:11,058 --> 00:03:16,395
-                     ♪          
+♪          
 
 50
 00:03:16,397 --> 00:03:19,798
-  the clicker works by applying 
-       25 tons of pressure      
+the clicker works by applying 25 tons of pressure      
 
 51
 00:03:19,800 --> 00:03:23,469
-      to custom-made dyes.      
+to custom-made dyes.      
 
 52
 00:03:23,471 --> 00:03:26,338
-   the shoulder pad is one of   
-      22 pieces of leather      
+the shoulder pad is one of 22 pieces of leather      
 
 53
 00:03:26,340 --> 00:03:28,074
-   that will complete the bag.  
+that will complete the bag.  
 
 54
 00:03:30,878 --> 00:03:33,145
-      a craftsperson glues      
-        a foam rectangle        
+a craftsperson glues a foam rectangle        
 
 55
 00:03:33,147 --> 00:03:35,548
- between two layers of leather. 
+between two layers of leather. 
 
 56
 00:03:35,550 --> 00:03:40,485
- this type of glue won't bubble 
-      in hot temperatures.      
+this type of glue won't bubble in hot temperatures.      
 
 57
 00:03:40,487 --> 00:03:43,555
-       chrome-tanned hide       
-         is tough stuff,        
+chrome-tanned hide is tough stuff,        
 
 58
 00:03:43,557 --> 00:03:46,024
-      so manufacturers use      
-         a heated stamp         
+so manufacturers use a heated stamp         
 
 59
 00:03:46,026 --> 00:03:48,194
-      to brand the leather      
-        with their logo.        
+to brand the leather with their logo.        
 
 60
 00:03:51,165 --> 00:03:53,632
-      a leather worker uses     
-        a sewing machine        
+a leather worker uses a sewing machine        
 
 61
 00:03:53,634 --> 00:03:57,236
-        to piece together       
- multiple parts of the leather. 
+to piece together multiple parts of the leather. 
 
 62
 00:03:57,238 --> 00:04:00,039
-   the stitching perforations   
-      weakens the leather,      
+the stitching perforations weakens the leather,      
 
 63
 00:04:00,041 --> 00:04:03,441
-     so for added strength,     
+so for added strength,     
 the craftsman uses a heavy gauge
 
 64
 00:04:03,443 --> 00:04:07,580
-       continuous-filament      
-        polyester thread.       
+continuous-filament polyester thread.       
 
 65
 00:04:07,582 --> 00:04:11,250
-   next, a craftsman attaches   
-          the buckles.          
+next, a craftsman attaches the buckles.          
 
 66
 00:04:11,252 --> 00:04:14,253
-    he places one steel rivet   
-      in each buckle piece      
+he places one steel rivet in each buckle piece      
 
 67
 00:04:14,255 --> 00:04:16,922
-   and secures it into place.   
+and secures it into place.   
 
 68
 00:04:16,924 --> 00:04:19,725
- he leaves the remaining rivets 
-       out to accommodate       
+he leaves the remaining rivets out to accommodate       
 
 69
 00:04:19,727 --> 00:04:21,059
-       the sewing machine,      
+the sewing machine,      
 
 70
 00:04:21,061 --> 00:04:23,461
-      which will reinforce      
-         the attachment.        
+which will reinforce the attachment.        
 
 71
 00:04:23,463 --> 00:04:27,800
-  the buckles are made of high  
-  strength 316 stainless steel. 
+the buckles are made of high strength 316 stainless steel. 
 
 72
 00:04:27,802 --> 00:04:34,073
-                     ♪          
+♪          
 
 73
 00:04:34,075 --> 00:04:38,343
- a craftsman attaches a piece of
- plastic to reinforce the handle
+a craftsman attaches a piece of
+plastic to reinforce the handle
 
 74
 00:04:38,345 --> 00:04:41,680
-  and prevent the leather from  
-  becoming misshapen over time. 
+and prevent the leather from becoming misshapen over time. 
 
 75
 00:04:41,682 --> 00:04:48,487
-                     ♪          
+♪          
 
 76
 00:04:48,489 --> 00:04:52,958
-  once he's glued in pieces of  
- plastic to each handle opening,
+once he's glued in pieces of plastic to each handle opening,
 
 77
 00:04:52,960 --> 00:04:57,296
-       the leather worker       
-     finishes all the seams.    
+the leather worker finishes all the seams.    
 
 78
 00:04:57,298 --> 00:05:00,432
 this type of continuous-filament
-        polyester thread        
+polyester thread        
 
 79
 00:05:00,434 --> 00:05:04,102
-  is the same kind that is used 
-   to sew parachutes together.  
+is the same kind that is used to sew parachutes together.  
 
 80
 00:05:04,104 --> 00:05:09,842
-                     ♪          
+♪          
 
 81
 00:05:09,844 --> 00:05:13,178
-   next, a craftswoman cleans   
-        the completed bag       
+next, a craftswoman cleans the completed bag       
 
 82
 00:05:13,180 --> 00:05:15,247
-  and applies a generous amount 
-         of leather milk        
+and applies a generous amount of leather milk        
 
 83
 00:05:15,249 --> 00:05:17,515
-    to condition the leather.   
+to condition the leather.   
 
 84
 00:05:17,517 --> 00:05:19,518
-        the leather milk        
-     is made of all-natural,    
+the leather milk is made of all-natural,    
 
 85
 00:05:19,520 --> 00:05:21,654
-     non-toxic ingredients.     
+non-toxic ingredients.     
 
 86
 00:05:21,656 --> 00:05:26,925
-                     ♪          
+♪          
 
 87
 00:05:26,927 --> 00:05:30,862
-  the craftswoman uses a torch  
-  to singe off any stray hairs  
+the craftswoman uses a torch to singe off any stray hairs  
 
 88
 00:05:30,864 --> 00:05:34,867
- before the strap is attached to
+before the strap is attached to
 a set of upper or lower d-rings.
 
 89
 00:05:37,538 --> 00:05:39,404
-      this first little bag     
-         can now be worn        
+this first little bag can now be worn        
 
 90
 00:05:39,406 --> 00:05:43,075
@@ -420,86 +366,73 @@ as a backpack or a shoulder bag.
 
 91
 00:05:43,077 --> 00:05:45,945
-      stylish and durable,      
-   this leather overnight bag   
+stylish and durable, this leather overnight bag   
 
 92
 00:05:45,947 --> 00:05:47,613
-   is built to hold your stuff  
+is built to hold your stuff  
 
 93
 00:05:47,615 --> 00:05:50,182
-        while you travel        
-       to any destination.      
+while you travel to any destination.      
 
 94
 00:05:59,226 --> 00:06:04,897
-                     ♪          
+♪          
 
 95
 00:06:04,899 --> 00:06:08,968
-            narrator:           
-  horses need regular exercise  
-    to stay healthy and fit.    
+narrator: horses need regular exercise to stay healthy and fit.    
 
 96
 00:06:08,970 --> 00:06:11,036
-   this innovative mechanical   
-            exerciser           
+this innovative mechanical exerciser           
 
 97
 00:06:11,038 --> 00:06:15,307
- provides horses with a safe way
-  to stay active on their own,  
+provides horses with a safe way
+to stay active on their own,  
 
 98
 00:06:15,309 --> 00:06:19,178
-  especially if they spend long 
+especially if they spend long 
 periods of time in their stalls.
 
 99
 00:06:22,449 --> 00:06:25,050
-   the rotating panels of this  
-            exerciser           
+the rotating panels of this exerciser           
 
 100
 00:06:25,052 --> 00:06:28,987
-      give horses the push      
-    they need to get moving.    
+give horses the push they need to get moving.    
 
 101
 00:06:28,989 --> 00:06:31,924
-      an operator regulates     
-     the speed of the panel,    
+an operator regulates the speed of the panel,    
 
 102
 00:06:31,926 --> 00:06:34,793
-     which controls the pace    
-         of the workout.        
+which controls the pace of the workout.        
 
 103
 00:06:34,795 --> 00:06:36,528
-   making this horse exerciser  
+making this horse exerciser  
 
 104
 00:06:36,530 --> 00:06:39,398
-          starts with a         
-   computer-generated design.   
+starts with a computer-generated design.   
 
 105
 00:06:39,400 --> 00:06:43,135
-         this one is for        
-     a six-horse exerciser.     
+this one is for a six-horse exerciser.     
 
 106
 00:06:43,137 --> 00:06:47,006
-   once designing is complete,  
-      production can begin.     
+once designing is complete, production can begin.     
 
 107
 00:06:47,008 --> 00:06:50,009
-  first, a sheet of mile-carbon 
-          steel uncoils         
+first, a sheet of mile-carbon steel uncoils         
 
 108
 00:06:50,011 --> 00:06:52,344
@@ -507,31 +440,28 @@ into a rolling slitting machine.
 
 109
 00:06:52,346 --> 00:06:54,680
-      circular blades above     
-         and below slice        
+circular blades above and below slice        
 
 110
 00:06:54,682 --> 00:06:57,615
-  the steel sheet into strips.  
+the steel sheet into strips.  
 
 111
 00:06:57,617 --> 00:07:01,620
- most of the strips will be made
-     into structural tubing.    
+most of the strips will be made
+into structural tubing.    
 
 112
 00:07:01,622 --> 00:07:04,556
-    one of the strips enters    
-     a 300-foot-long machine    
+one of the strips enters a 300-foot-long machine    
 
 113
 00:07:04,558 --> 00:07:06,758
-       with many rollers.       
+with many rollers.       
 
 114
 00:07:06,760 --> 00:07:11,563
-   the rollers shape the strip  
-       from flat to round.      
+the rollers shape the strip from flat to round.      
 
 115
 00:07:11,565 --> 00:07:14,499
@@ -539,194 +469,167 @@ more rollers shape the material.
 
 116
 00:07:14,501 --> 00:07:17,836
- as an induction coil energized 
-      by a radio-frequency      
+as an induction coil energized by a radio-frequency      
 
 117
 00:07:17,838 --> 00:07:21,707
-     electric current wields    
-          it together.          
+electric current wields it together.          
 
 118
 00:07:21,709 --> 00:07:26,578
- a blade shaves the excess steel
-     from the wielded steam.    
+a blade shaves the excess steel
+from the wielded steam.    
 
 119
 00:07:26,580 --> 00:07:28,647
- meanwhile another tubing sheers
+meanwhile another tubing sheers
 
 120
 00:07:28,649 --> 00:07:31,649
- the tubing against a set of guy
-        clamping blocks,        
+the tubing against a set of guy
+clamping blocks,        
 
 121
 00:07:31,651 --> 00:07:33,719
-          cutting it to         
-      the specified length.     
+cutting it to the specified length.     
 
 122
 00:07:36,590 --> 00:07:40,659
-    finally, the tubing exits   
-     the cutting operation.     
+finally, the tubing exits the cutting operation.     
 
 123
 00:07:40,661 --> 00:07:43,262
- a technician wields both plates
-          to the tubing         
+a technician wields both plates
+to the tubing         
 
 124
 00:07:43,264 --> 00:07:45,664
-            and adds            
-     a cable-stabilizer bar.    
+and adds a cable-stabilizer bar.    
 
 125
 00:07:48,602 --> 00:07:51,136
-  the completed part will serve 
-       as one of the arms       
+the completed part will serve as one of the arms       
 
 126
 00:07:51,138 --> 00:07:55,541
-   that link the center shaft   
-    to the revolving panels.    
+that link the center shaft to the revolving panels.    
 
 127
 00:07:55,543 --> 00:07:57,609
-    another machinist builds    
-           the panels           
+another machinist builds the panels           
 
 128
 00:07:57,611 --> 00:08:00,879
-       for the exerciser's      
-     inner and outer walls.     
+for the exerciser's inner and outer walls.     
 
 129
 00:08:00,881 --> 00:08:04,616
-  to do so, he arranges tubing  
-    horizontally and inserts    
+to do so, he arranges tubing horizontally and inserts    
 
 130
 00:08:04,618 --> 00:08:07,619
-     a vertical support bar.    
+a vertical support bar.    
 
 131
 00:08:07,621 --> 00:08:09,755
-      he wields a framework     
-          to the tubing         
+he wields a framework to the tubing         
 
 132
 00:08:09,757 --> 00:08:12,691
-        to hold the panel       
-       structure together.      
+to hold the panel structure together.      
 
 133
 00:08:12,693 --> 00:08:15,894
-     he adds a steel shield     
-       to the lower part.       
+he adds a steel shield to the lower part.       
 
 134
 00:08:15,896 --> 00:08:18,230
-  the shield will prevent sand  
-        from being forced       
+the shield will prevent sand from being forced       
 
 135
 00:08:18,232 --> 00:08:23,701
-   out of the exerciser track   
-     by the horses' hooves.     
+out of the exerciser track by the horses' hooves.     
 
 136
 00:08:23,703 --> 00:08:25,703
- once construction is complete, 
+once construction is complete, 
 
 137
 00:08:25,705 --> 00:08:28,807
-      the technician stacks     
- the assembled panels together. 
+the technician stacks the assembled panels together. 
 
 138
 00:08:31,178 --> 00:08:33,178
-   next, an overhead monorail   
+next, an overhead monorail   
 
 139
 00:08:33,180 --> 00:08:36,348
-      transports the panels     
- to the powder-coating station. 
+transports the panels to the powder-coating station. 
 
 140
 00:08:40,654 --> 00:08:42,120
-      using an applicator,      
+using an applicator,      
 
 141
 00:08:42,122 --> 00:08:45,657
-  a technician applies a powder 
-  coat to the revolving panels. 
+a technician applies a powder coat to the revolving panels. 
 
 142
 00:08:45,659 --> 00:08:47,893
-    the powder coat provides    
-        an anti-corrosive       
+the powder coat provides an anti-corrosive       
 
 143
 00:08:47,895 --> 00:08:50,529
-       protective finish.       
+protective finish.       
 
 144
 00:08:50,531 --> 00:08:53,932
-    a team clamps one of the    
- structural panels in a machine 
+a team clamps one of the structural panels in a machine 
 
 145
 00:08:53,934 --> 00:08:56,201
- with powerful mechanical arms. 
+with powerful mechanical arms. 
 
 146
 00:08:56,203 --> 00:09:00,739
-     the arms bend the panel    
-    to a specified curvature.   
+the arms bend the panel to a specified curvature.   
 
 147
 00:09:00,741 --> 00:09:04,009
-    all the structural panels   
-   are bent to the same angle,  
+all the structural panels are bent to the same angle,  
 
 148
 00:09:04,011 --> 00:09:07,078
-      so that when looked,      
-    they'll form a round pen.   
+so that when looked, they'll form a round pen.   
 
 149
 00:09:07,080 --> 00:09:12,551
-                     ♪          
+♪          
 
 150
 00:09:12,553 --> 00:09:14,152
-      using a press brake,      
+using a press brake,      
 
 151
 00:09:14,154 --> 00:09:19,891
 a technician makes two strategic
- bends in a flat sheet of steel,
+bends in a flat sheet of steel,
 
 152
 00:09:19,893 --> 00:09:22,728
-     which creates a flared     
-       three-walled part.       
+which creates a flared three-walled part.       
 
 153
 00:09:26,633 --> 00:09:28,833
-   another machinist fits two   
-         of these parts         
+another machinist fits two of these parts         
 
 154
 00:09:28,835 --> 00:09:32,437
- together to create a structure 
-       known as the tree.       
+together to create a structure known as the tree.       
 
 155
 00:09:32,439 --> 00:09:34,907
-    then he wields connectors   
-           to the tree          
+then he wields connectors to the tree          
 
 156
 00:09:34,909 --> 00:09:37,276
@@ -734,52 +637,43 @@ for the cables and tubular arms.
 
 157
 00:09:40,648 --> 00:09:45,184
-    a loop is wielded on top    
-     for handling purposes.     
+a loop is wielded on top for handling purposes.     
 
 158
 00:09:45,186 --> 00:09:47,719
-     then the tree is given     
-  a powder-coat finish to match 
+then the tree is given a powder-coat finish to match 
 
 159
 00:09:47,721 --> 00:09:50,322
-            the rest            
- of the horse-exerciser machine.
+the rest of the horse-exerciser machine.
 
 160
 00:09:53,527 --> 00:09:56,861
-   using a hoist, a technician  
-     lowers the drive shaft     
+using a hoist, a technician lowers the drive shaft     
 
 161
 00:09:56,863 --> 00:10:00,999
-         onto the motor         
-    and shakes the framework    
+onto the motor and shakes the framework    
 
 162
 00:10:01,001 --> 00:10:03,302
-     to bring the connection    
-         into alignment.        
+to bring the connection into alignment.        
 
 163
 00:10:06,740 --> 00:10:09,674
-   then the assembly is tested  
-      to confirm the motor      
+then the assembly is tested to confirm the motor      
 
 164
 00:10:09,676 --> 00:10:11,343
-        turns the shaft.        
+turns the shaft.        
 
 165
 00:10:13,614 --> 00:10:17,149
-     steel panels fit to the    
- framework to enclose the motor 
+steel panels fit to the framework to enclose the motor 
 
 166
 00:10:17,151 --> 00:10:20,686
-         and protect it         
-       from the elements.       
+and protect it from the elements.       
 
 167
 00:10:20,688 --> 00:10:24,622
@@ -788,40 +682,35 @@ can be accessed for maintenance.
 
 168
 00:10:24,624 --> 00:10:29,694
-                     ♪          
+♪          
 
 169
 00:10:29,696 --> 00:10:32,865
-     now complete, the parts    
-     are ready for shipping.    
+now complete, the parts are ready for shipping.    
 
 170
 00:10:37,638 --> 00:10:40,438
-  on-site assembly takes about  
-           nine hours,          
+on-site assembly takes about nine hours,          
 
 171
 00:10:40,440 --> 00:10:41,839
-  but it's well worth the wait  
+but it's well worth the wait  
 
 172
 00:10:41,841 --> 00:10:44,009
-         when the horses        
-       get to test it out.      
+when the horses get to test it out.      
 
 173
 00:10:47,648 --> 00:10:49,247
-    halfway through the test,   
+halfway through the test,   
 
 174
 00:10:49,249 --> 00:10:51,850
-      the operator reverses     
-  the direction of the machine  
+the operator reverses the direction of the machine  
 
 175
 00:10:51,852 --> 00:10:54,253
-        to ensure all of        
-       the horses' muscles      
+to ensure all of the horses' muscles      
 
 176
 00:10:54,255 --> 00:10:58,524
@@ -829,91 +718,76 @@ are being exercised accordingly,
 
 177
 00:10:58,526 --> 00:11:02,494
-   proving that running around  
- in circles can be a good thing.
+proving that running around in circles can be a good thing.
 
 178
 00:11:13,807 --> 00:11:18,877
-                     ♪          
+♪          
 
 179
 00:11:18,879 --> 00:11:22,748
-            narrator:           
-    air hockey was developed    
- in the late '60s and early '70s
+narrator: air hockey was developed in the late '60s and early '70s
 
 180
 00:11:22,750 --> 00:11:25,817
-           by a group           
- of american billiard engineers.
+by a group of american billiard engineers.
 
 181
 00:11:25,819 --> 00:11:29,421
-  when in play, the puck floats 
-    on a thin cushion of air,   
+when in play, the puck floats on a thin cushion of air,   
 
 182
 00:11:29,423 --> 00:11:31,757
-      propelled by players      
-          on each end.          
+propelled by players on each end.          
 
 183
 00:11:31,759 --> 00:11:34,959
-        with no friction,       
-      the puck moves fast,      
+with no friction, the puck moves fast,      
 
 184
 00:11:34,961 --> 00:11:39,097
-        making air hockey       
-       a high-speed game.       
+making air hockey a high-speed game.       
 
 185
 00:11:39,099 --> 00:11:40,632
-    in a game of air hockey,    
+in a game of air hockey,    
 
 186
 00:11:40,634 --> 00:11:43,168
-       the puck levitates       
-        ever so slightly,       
+the puck levitates ever so slightly,       
 
 187
 00:11:43,170 --> 00:11:45,503
-          made possible         
-    by a constant flow of air   
+made possible by a constant flow of air   
 
 188
 00:11:45,505 --> 00:11:49,307
-  flowing through perforations  
-        in the playfield.       
+flowing through perforations in the playfield.       
 
 189
 00:11:49,309 --> 00:11:52,778
-  the playfield is made from a  
-  laminated composite material  
+the playfield is made from a laminated composite material  
 
 190
 00:11:52,780 --> 00:11:57,382
-       that's been printed      
-    with air hockey graphics.   
+that's been printed with air hockey graphics.   
 
 191
 00:11:57,384 --> 00:12:01,386
-    a computerized drill cuts   
-  into three playfields at once 
+a computerized drill cuts into three playfields at once 
 
 192
 00:12:01,388 --> 00:12:03,422
- in the same consistent pattern.
+in the same consistent pattern.
 
 193
 00:12:06,460 --> 00:12:09,794
-    the size of the holes are   
- a little larger than pin holes,
+the size of the holes are a little larger than pin holes,
 
 194
 00:12:09,796 --> 00:12:15,334
 creating over 4,600 perforations
-  in each air hockey playfield. 
+in each air hockey playfield. 
 
 195
 00:12:19,406 --> 00:12:21,539
@@ -921,195 +795,166 @@ an automated tool carves grooves
 
 196
 00:12:21,541 --> 00:12:25,744
-      in a sheet of medium      
-      density fiber board.      
+in a sheet of medium density fiber board.      
 
 197
 00:12:25,746 --> 00:12:30,682
- the board will serve as a base 
-       for the playfield.       
+the board will serve as a base for the playfield.       
 
 198
 00:12:30,684 --> 00:12:33,151
-       air will circulate       
-     in the grooves and exit    
+air will circulate in the grooves and exit    
 
 199
 00:12:33,153 --> 00:12:35,687
-  through the playfield holes.  
+through the playfield holes.  
 
 200
 00:12:35,689 --> 00:12:40,225
-    next, sawdust is blasted    
-       out of the grooves.      
+next, sawdust is blasted out of the grooves.      
 
 201
 00:12:40,227 --> 00:12:44,496
-  the grooves' fiberboard moves 
-   through a glue applicator.   
+the grooves' fiberboard moves through a glue applicator.   
 
 202
 00:12:44,498 --> 00:12:46,765
-     the rubber roller coats    
-      the top of the board      
+the rubber roller coats the top of the board      
 
 203
 00:12:46,767 --> 00:12:48,634
-  with a small amount of glue,  
+with a small amount of glue,  
 
 204
 00:12:48,636 --> 00:12:51,069
-       so it doesn't seep       
-        into the grooves.       
+so it doesn't seep into the grooves.       
 
 205
 00:12:53,307 --> 00:12:57,542
- as the board exits, technicians
-  move the board onto a stack.  
+as the board exits, technicians
+move the board onto a stack.  
 
 206
 00:13:00,247 --> 00:13:02,781
 once the board is in the correct
-            position,           
+position,           
 
 207
 00:13:02,783 --> 00:13:05,050
-     the laminate is applied    
+the laminate is applied    
 
 208
 00:13:05,052 --> 00:13:07,786
-  and aligned with the grooves  
-       in the fiber board.      
+and aligned with the grooves in the fiber board.      
 
 209
 00:13:11,391 --> 00:13:14,993
-   a cardboard cover is placed  
- on the laminate for protection 
+a cardboard cover is placed on the laminate for protection 
 
 210
 00:13:14,995 --> 00:13:18,796
-          as the stack          
-     moves through a press.     
+as the stack moves through a press.     
 
 211
 00:13:18,798 --> 00:13:21,733
-     the weight of the press    
-  squeezes the stack together,  
+the weight of the press squeezes the stack together,  
 
 212
 00:13:21,735 --> 00:13:24,569
-        ensuring adhesion       
-       as the glue cures.       
+ensuring adhesion as the glue cures.       
 
 213
 00:13:27,341 --> 00:13:30,608
 meanwhile, a craftswoman applies
-        stick-on graphics       
+stick-on graphics       
 
 214
 00:13:30,610 --> 00:13:32,744
-   onto the side apron boards.  
+onto the side apron boards.  
 
 215
 00:13:36,282 --> 00:13:39,418
-    she opens a pre-cut slot    
-         for a coin door        
+she opens a pre-cut slot for a coin door        
 
 216
 00:13:39,420 --> 00:13:41,653
- and exposes a hole for a bolt. 
+and exposes a hole for a bolt. 
 
 217
 00:13:44,224 --> 00:13:47,091
-      she cuts open a slot      
-     for maintenance access     
+she cuts open a slot for maintenance access     
 
 218
 00:13:47,093 --> 00:13:49,861
-      and removes the panel     
-   that will serve as a door.   
+and removes the panel that will serve as a door.   
 
 219
 00:13:52,499 --> 00:13:55,167
-      she numbers the door      
-    and the side apron piece,   
+she numbers the door and the side apron piece,   
 
 220
 00:13:55,169 --> 00:13:58,403
- so she can match them up later 
-      during installation.      
+so she can match them up later during installation.      
 
 221
 00:14:01,374 --> 00:14:04,042
-     after applying art work    
-       to the end panels,       
+after applying art work to the end panels,       
 
 222
 00:14:04,044 --> 00:14:07,312
-  another technician assembles  
-       curved corner parts      
+another technician assembles curved corner parts      
 
 223
 00:14:09,450 --> 00:14:12,718
-    and links mental brackets   
-    to the side apron parts.    
+and links mental brackets to the side apron parts.    
 
 224
 00:14:15,322 --> 00:14:17,789
-      he installs a bracket     
-      for a puck deflector      
+he installs a bracket for a puck deflector      
 
 225
 00:14:17,791 --> 00:14:23,462
-          in the center         
-        of the end panel        
+in the center of the end panel        
 
 226
 00:14:23,464 --> 00:14:25,931
-         and screws down        
-     the corner connectors.     
+and screws down the corner connectors.     
 
 227
 00:14:28,402 --> 00:14:31,169
-     he sets the end panels     
-  in an upside-down possession  
+he sets the end panels in an upside-down possession  
 
 228
 00:14:31,171 --> 00:14:34,338
-       on the work surface      
+on the work surface      
 
 229
 00:14:34,340 --> 00:14:37,743
-  and attaches the side boards  
-    to the corner connectors.   
+and attaches the side boards to the corner connectors.   
 
 230
 00:14:40,214 --> 00:14:42,514
- this completes the table apron.
+this completes the table apron.
 
 231
 00:14:45,486 --> 00:14:48,887
-   a locked door is installed   
-      in the plywood floor.     
+a locked door is installed in the plywood floor.     
 
 232
 00:14:48,889 --> 00:14:52,057
- this will serve as an interior 
-      storage compartment.      
+this will serve as an interior storage compartment.      
 
 233
 00:14:56,296 --> 00:14:59,231
-   next, a craftsman installs   
-          the coin door         
+next, a craftsman installs the coin door         
 
 234
 00:14:59,233 --> 00:15:01,233
-   and secures it into place.   
+and secures it into place.   
 
 235
 00:15:03,570 --> 00:15:06,771
-     he mounts wire speakers    
-   that projects sound effects  
+he mounts wire speakers that projects sound effects  
 
 236
 00:15:06,773 --> 00:15:08,974
@@ -1117,463 +962,402 @@ to a computerized optical system
 
 237
 00:15:08,976 --> 00:15:12,177
-           that tracks          
-      the puck's movements.     
+that tracks the puck's movements.     
 
 238
 00:15:12,179 --> 00:15:15,247
-  once the structure is fitted  
-       with wooden panels,      
+once the structure is fitted with wooden panels,      
 
 239
 00:15:15,249 --> 00:15:20,252
- the game's flashing lights and 
+the game's flashing lights and 
 sensor activators are installed.
 
 240
 00:15:20,254 --> 00:15:21,720
-       at another station,      
+at another station,      
 
 241
 00:15:21,722 --> 00:15:26,324
-    a team flips a playfield    
-    over to work on the back.   
+a team flips a playfield over to work on the back.   
 
 242
 00:15:26,326 --> 00:15:29,594
- one technician attaches a board
-     above the open grooves,    
+one technician attaches a board
+above the open grooves,    
 
 243
 00:15:29,596 --> 00:15:31,830
- creating a chamber for airflow.
+creating a chamber for airflow.
 
 244
 00:15:34,667 --> 00:15:38,136
- the motor and fan are installed
-     over the small opening.    
+the motor and fan are installed
+over the small opening.    
 
 245
 00:15:38,138 --> 00:15:40,605
-    this system will blow air   
-        into the grooves        
+this system will blow air into the grooves        
 
 246
 00:15:40,607 --> 00:15:44,276
- and the playfield perforations.
+and the playfield perforations.
 
 247
 00:15:44,278 --> 00:15:46,211
-  the playfield is turned over  
+the playfield is turned over  
 
 248
 00:15:46,213 --> 00:15:49,747
-        and lowered onto        
-      the table structure.      
+and lowered onto the table structure.      
 
 249
 00:15:49,749 --> 00:15:52,617
-     next, aluminum bumpers     
-   are attached to the table's  
+next, aluminum bumpers are attached to the table's  
 
 250
 00:15:52,619 --> 00:15:57,155
-       border as a barrier      
-    for the puck during play.   
+border as a barrier for the puck during play.   
 
 251
 00:15:57,157 --> 00:16:00,892
- a technician installs goal puck
-     deflectors on the ends     
+a technician installs goal puck
+deflectors on the ends     
 
 252
 00:16:03,163 --> 00:16:08,300
-   and screws in metal plates   
-    over the deflector cups.    
+and screws in metal plates over the deflector cups.    
 
 253
 00:16:08,302 --> 00:16:10,835
-       he installs a lock       
-    on each goal compartment    
+he installs a lock on each goal compartment    
 
 254
 00:16:10,837 --> 00:16:12,804
-  so no one can steal the puck. 
+so no one can steal the puck. 
 
 255
 00:16:16,243 --> 00:16:20,177
-     finally, the air hockey    
-   table assembly is complete.  
+finally, the air hockey table assembly is complete.  
 
 256
 00:16:20,179 --> 00:16:22,013
-      let the games begin.      
+let the games begin.      
 
 257
 00:16:30,724 --> 00:16:36,528
-                     ♪          
+♪          
 
 258
 00:16:36,530 --> 00:16:39,664
-     narrator: artisans have    
-  worked with copper for years. 
+narrator: artisans have worked with copper for years. 
 
 259
 00:16:39,666 --> 00:16:44,068
-   the metal is soft enough to  
- easily cut, shape, and emboss. 
+the metal is soft enough to easily cut, shape, and emboss. 
 
 260
 00:16:44,070 --> 00:16:47,004
- unless sealed, copper's bright,
-          shiny surface         
+unless sealed, copper's bright,
+shiny surface         
 
 261
 00:16:47,006 --> 00:16:49,274
- naturally tarnishes over time, 
+naturally tarnishes over time, 
 
 262
 00:16:49,276 --> 00:16:53,578
- producing a warm, aged finish, 
-     referred to as patina.     
+producing a warm, aged finish, referred to as patina.     
 
 263
 00:16:57,283 --> 00:16:58,884
-     these intricate copper     
-           sculptures           
+these intricate copper sculptures           
 
 264
 00:16:58,886 --> 00:17:03,488
-    are the work of an artist   
-   with a quirky imagination.   
+are the work of an artist with a quirky imagination.   
 
 265
 00:17:03,490 --> 00:17:07,892
- this style of work is designed 
-  to rotate on rods as lawn art 
+this style of work is designed to rotate on rods as lawn art 
 
 266
 00:17:07,894 --> 00:17:10,295
-        or weather vanes.       
+or weather vanes.       
 
 267
 00:17:10,297 --> 00:17:12,531
-   when a customer commissions  
-          a sculpture,          
+when a customer commissions a sculpture,          
 
 268
 00:17:12,533 --> 00:17:15,433
- the artist draws the sculpture 
-          on cardstock,         
+the artist draws the sculpture on cardstock,         
 
 269
 00:17:15,435 --> 00:17:17,168
-     a thick type of paper.     
+a thick type of paper.     
 
 270
 00:17:21,375 --> 00:17:24,376
-    when planning a spinning    
-  sculpture like this griffin,  
+when planning a spinning sculpture like this griffin,  
 
 271
 00:17:24,378 --> 00:17:26,711
-       the artist sketches      
-         the side view.         
+the artist sketches the side view.         
 
 272
 00:17:29,249 --> 00:17:30,848
-    using a pair of scissors,   
+using a pair of scissors,   
 
 273
 00:17:30,850 --> 00:17:33,251
-           he cuts off          
-      the excess cardstock.     
+he cuts off the excess cardstock.     
 
 274
 00:17:33,253 --> 00:17:39,190
-                     ♪          
+♪          
 
 275
 00:17:39,192 --> 00:17:41,192
-  then he uses smaller scissors 
+then he uses smaller scissors 
 
 276
 00:17:41,194 --> 00:17:44,329
-     to cut precisely along     
-    the lines of his drawing.   
+to cut precisely along the lines of his drawing.   
 
 277
 00:17:44,331 --> 00:17:51,335
-                     ♪          
+♪          
 
 278
 00:17:51,337 --> 00:17:53,939
-         now the artist         
-   has a pattern to work with.  
+now the artist has a pattern to work with.  
 
 279
 00:17:57,277 --> 00:17:59,911
-       he lays the pattern      
-      on a sheet of copper,     
+he lays the pattern on a sheet of copper,     
 
 280
 00:18:02,883 --> 00:18:04,282
-         tapes it down,         
+tapes it down,         
 
 281
 00:18:06,552 --> 00:18:08,687
-          and traces it         
-      with a fine-point pen     
+and traces it with a fine-point pen     
 
 282
 00:18:08,689 --> 00:18:10,821
-      to get a crisp line.      
+to get a crisp line.      
 
 283
 00:18:10,823 --> 00:18:13,825
-   the tracing must be precise  
- for the sculpture's components 
+the tracing must be precise for the sculpture's components 
 
 284
 00:18:13,827 --> 00:18:16,361
-      to line up properly.      
+to line up properly.      
 
 285
 00:18:16,363 --> 00:18:19,230
-      he repeats this step      
-  on a second sheet of copper,  
+he repeats this step on a second sheet of copper,  
 
 286
 00:18:19,232 --> 00:18:22,566
-       since the sculpture      
-       will be two-sided.       
+since the sculpture will be two-sided.       
 
 287
 00:18:22,568 --> 00:18:26,905
-     he cuts along the line     
-       with metal sheers.       
+he cuts along the line with metal sheers.       
 
 288
 00:18:26,907 --> 00:18:29,440
-       first, he cuts away      
-        the excess copper       
+first, he cuts away the excess copper       
 
 289
 00:18:29,442 --> 00:18:32,377
-          and then does         
-      the detailed cutting.     
+and then does the detailed cutting.     
 
 290
 00:18:32,379 --> 00:18:37,315
- he cuts out pieces for the left
+he cuts out pieces for the left
 and right side of the sculpture.
 
 291
 00:18:37,317 --> 00:18:41,652
- the artist draws an eye on the 
-  back of the right-side head.  
+the artist draws an eye on the back of the right-side head.  
 
 292
 00:18:41,654 --> 00:18:44,188
-    with a round-head hammer,   
-       he taps a piece of       
+with a round-head hammer, he taps a piece of       
 
 293
 00:18:44,190 --> 00:18:47,759
-      stainless-steel wire      
+stainless-steel wire      
 on the line to create an eyelid.
 
 294
 00:18:50,330 --> 00:18:54,332
-     he uses tools designed     
-      for stamping leather.     
+he uses tools designed for stamping leather.     
 
 295
 00:18:54,334 --> 00:18:57,802
-      he recesses the head,     
-  so that on the reverse side,  
+he recesses the head, so that on the reverse side,  
 
 296
 00:18:57,804 --> 00:19:01,473
-   the front of the sculpture,  
-  the head will appear raised.  
+the front of the sculpture, the head will appear raised.  
 
 297
 00:19:04,343 --> 00:19:06,878
- this technique brings dimension
-           and texture          
+this technique brings dimension
+and texture          
 
 298
 00:19:06,880 --> 00:19:10,215
-     to what was originally     
-     a flat piece of copper.    
+to what was originally a flat piece of copper.    
 
 299
 00:19:10,217 --> 00:19:12,350
-   the artist hammers the back  
-           of the wing          
+the artist hammers the back of the wing          
 
 300
 00:19:12,352 --> 00:19:15,487
-      to gradually contour      
-    and texture the feathers.   
+to gradually contour and texture the feathers.   
 
 301
 00:19:18,825 --> 00:19:21,826
-     he uses different tools    
-     to create finer effects    
+he uses different tools to create finer effects    
 
 302
 00:19:21,828 --> 00:19:23,895
-        such as veining.        
+such as veining.        
 
 303
 00:19:23,897 --> 00:19:26,898
-     this age-old technique     
- of hammering a malleable metal 
+this age-old technique of hammering a malleable metal 
 
 304
 00:19:26,900 --> 00:19:30,034
-      from the reverse side     
-  to create a design in relief  
+from the reverse side to create a design in relief  
 
 305
 00:19:30,036 --> 00:19:35,306
-       is called repoussé,      
-    french for "pushed back".   
+is called repoussé, french for "pushed back".   
 
 306
 00:19:35,308 --> 00:19:37,842
-     the artist heats a part    
-          with a torch          
+the artist heats a part with a torch          
 
 307
 00:19:37,844 --> 00:19:41,446
- and applies zinc chloride flux 
-        to the parameter.       
+and applies zinc chloride flux to the parameter.       
 
 308
 00:19:41,448 --> 00:19:44,048
-  this caustic solution cleans  
-           the copper,          
+this caustic solution cleans the copper,          
 
 309
 00:19:44,050 --> 00:19:47,686
- removing impurities that would 
-  prevent solder from adhering. 
+removing impurities that would prevent solder from adhering. 
 
 310
 00:19:51,124 --> 00:19:54,658
-    then he uses a blowtorch    
-   to melt silver-based solder  
+then he uses a blowtorch to melt silver-based solder  
 
 311
 00:19:54,660 --> 00:19:55,793
-        onto the copper,        
+onto the copper,        
 
 312
 00:19:55,795 --> 00:19:57,862
-             around             
-   the parameter of the part.   
+around the parameter of the part.   
 
 313
 00:20:02,802 --> 00:20:05,203
-       this step is called      
-         pre-soldering,         
+this step is called pre-soldering,         
 
 314
 00:20:05,205 --> 00:20:08,139
-        as the sculpture        
-  will be fully soldered later. 
+as the sculpture will be fully soldered later. 
 
 315
 00:20:08,141 --> 00:20:16,347
-                     ♪          
+♪          
 
 316
 00:20:16,349 --> 00:20:18,616
-     he pre-solders the back    
-          of the pieces         
+he pre-solders the back of the pieces         
 
 317
 00:20:18,618 --> 00:20:21,619
-      that will be attached     
-       to matching pieces.      
+that will be attached to matching pieces.      
 
 318
 00:20:21,621 --> 00:20:23,688
- then he heats the front surface
+then he heats the front surface
 
 319
 00:20:23,690 --> 00:20:27,224
-          to bring out          
-      a rainbow of colors.      
+to bring out a rainbow of colors.      
 
 320
 00:20:27,226 --> 00:20:29,627
-         next, he aligns        
-       the matching parts       
+next, he aligns the matching parts       
 
 321
 00:20:29,629 --> 00:20:31,629
-  and heats them with a torch.  
+and heats them with a torch.  
 
 322
 00:20:31,631 --> 00:20:34,032
- this melts the solder along the
-           parameter,           
+this melts the solder along the
+parameter,           
 
 323
 00:20:34,034 --> 00:20:36,901
-   fusing the pieces together.  
+fusing the pieces together.  
 
 324
 00:20:36,903 --> 00:20:40,438
 in areas where the sides are too
-     far apart to be fused,     
+far apart to be fused,     
 
 325
 00:20:40,440 --> 00:20:45,042
- he solders a small copper patch
-      to fit over the gap.      
+he solders a small copper patch
+to fit over the gap.      
 
 326
 00:20:45,044 --> 00:20:48,580
-    he flattens all the seams   
-    with fine grinding tools    
+he flattens all the seams with fine grinding tools    
 
 327
 00:20:48,582 --> 00:20:51,649
-   until they appear seamless.  
+until they appear seamless.  
 
 328
 00:20:51,651 --> 00:20:56,387
-   he repeats this process for  
- each section of the sculpture. 
+he repeats this process for each section of the sculpture. 
 
 329
 00:20:56,389 --> 00:20:58,656
-      once all the sections     
-         are assembled,         
+once all the sections are assembled,         
 
 330
 00:20:58,658 --> 00:21:00,725
- he solders them to each other. 
+he solders them to each other. 
 
 331
 00:21:04,397 --> 00:21:06,531
-       the wing fits into       
-         a thin channel         
+the wing fits into a thin channel         
 
 332
 00:21:06,533 --> 00:21:08,933
-    he hammered into the body   
-        of the sculpture.       
+he hammered into the body of the sculpture.       
 
 333
 00:21:08,935 --> 00:21:10,935
-       he melts the solder      
-         in the channel         
+he melts the solder in the channel         
 
 334
 00:21:10,937 --> 00:21:13,138
@@ -1581,33 +1365,30 @@ to produce a neat and even seam.
 
 335
 00:21:13,140 --> 00:21:20,078
-                     ♪          
+♪          
 
 336
 00:21:20,080 --> 00:21:24,148
- to display the copper sculpture
-  or use it as a weather vane,  
+to display the copper sculpture
+or use it as a weather vane,  
 
 337
 00:21:24,150 --> 00:21:26,083
-       the artist solders       
-         a ball bearing         
+the artist solders a ball bearing         
 
 338
 00:21:26,085 --> 00:21:28,019
-      inside a copper tube,     
+inside a copper tube,     
 
 339
 00:21:28,021 --> 00:21:33,091
-     then attaches the tube     
- to the bottom of the sculpture.
+then attaches the tube to the bottom of the sculpture.
 
 340
 00:21:33,093 --> 00:21:34,826
-   the tube slides over a rod,  
+the tube slides over a rod,  
 
 341
 00:21:34,828 --> 00:21:38,329
- so it can be set in the ground 
-     or mounted on the roof.    
+so it can be set in the ground or mounted on the roof.    
 

@@ -1,434 +1,372 @@
 ﻿1
 00:00:02,069 --> 00:00:05,137
-                     ♪♪         
+♪♪         
 
 2
 00:00:05,139 --> 00:00:08,073
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 3
 00:00:08,075 --> 00:00:11,010
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 4
 00:00:53,286 --> 00:00:56,255
-     a combination square is    
-    a measuring tool you use    
+a combination square is a measuring tool you use    
 
 5
 00:00:56,257 --> 00:00:57,456
-    when building with wood,    
+when building with wood,    
 
 6
 00:00:57,458 --> 00:00:58,990
-        masonry or metal        
+masonry or metal        
 
 7
 00:00:58,992 --> 00:01:00,659
-          to make sure          
-      something's straight,     
+to make sure something's straight,     
 
 8
 00:01:00,661 --> 00:01:02,461
-         even and level.        
+even and level.        
 
 9
 00:01:02,463 --> 00:01:03,796
-    it's essentially a ruler    
+it's essentially a ruler    
 
 10
 00:01:03,798 --> 00:01:06,632
-      with interchangeable      
-         sliding heads.         
+with interchangeable sliding heads.         
 
 11
 00:01:06,634 --> 00:01:08,733
-      the most basic head,      
-        called a square,        
+the most basic head, called a square,        
 
 12
 00:01:08,735 --> 00:01:13,271
-           measures 90          
-      and 45 degree angles.     
+measures 90 and 45 degree angles.     
 
 13
 00:01:13,273 --> 00:01:16,808
-     this combination square    
-     comes with three heads.    
+this combination square comes with three heads.    
 
 14
 00:01:16,810 --> 00:01:19,678
-     they lock into a groove    
-    on one side of the blade.   
+they lock into a groove on one side of the blade.   
 
 15
 00:01:19,680 --> 00:01:22,280
-        the blade starts        
-     out grooved but blank.     
+the blade starts out grooved but blank.     
 
 16
 00:01:22,282 --> 00:01:24,816
-           so to etch           
-    the graduations into it,    
+so to etch the graduations into it,    
 
 17
 00:01:24,818 --> 00:01:27,819
-  they first coat the surfaces  
-        with photoresist,       
+they first coat the surfaces with photoresist,       
 
 18
 00:01:27,821 --> 00:01:29,021
-     a chemical that hardens    
+a chemical that hardens    
 
 19
 00:01:29,023 --> 00:01:32,624
-          when exposed          
-      to ultraviolet light.     
+when exposed to ultraviolet light.     
 
 20
 00:01:32,626 --> 00:01:34,093
-       then they flash uv       
+then they flash uv       
 
 21
 00:01:34,095 --> 00:01:35,894
-       light on both sides      
-          of the blade          
+light on both sides of the blade          
 
 22
 00:01:35,896 --> 00:01:39,164
 through polyester film negatives
-       of the graduations.      
+of the graduations.      
 
 23
 00:01:39,166 --> 00:01:41,300
-        the light hardens       
-         only the photo         
+the light hardens only the photo         
 
 24
 00:01:41,302 --> 00:01:43,768
-     resistant hits through     
-        the clear parts.        
+resistant hits through the clear parts.        
 
 25
 00:01:43,770 --> 00:01:47,105
-      the rest remain soft.     
+the rest remain soft.     
 
 26
 00:01:47,107 --> 00:01:49,241
-         after manually         
-       masking the groove,      
+after manually masking the groove,      
 
 27
 00:01:49,243 --> 00:01:53,445
-  workers put the blade through 
+workers put the blade through 
 a photochemical etching machine.
 
 28
 00:01:53,447 --> 00:01:55,981
-          it washes off         
-      the soft photoresist      
+it washes off the soft photoresist      
 
 29
 00:01:55,983 --> 00:01:58,584
-      that's in the pattern     
-       of the graduations,      
+that's in the pattern of the graduations,      
 
 30
 00:01:58,586 --> 00:02:00,252
-   then hits that bared steel   
+then hits that bared steel   
 
 31
 00:02:00,254 --> 00:02:02,387
-       with a metal-eating      
-         salt solution,         
+with a metal-eating salt solution,         
 
 32
 00:02:02,389 --> 00:02:05,657
-     etching the graduations    
-         into the blade.        
+etching the graduations into the blade.        
 
 33
 00:02:05,659 --> 00:02:08,794
-    everything else is masked   
-    by hardened photo resist,   
+everything else is masked by hardened photo resist,   
 
 34
 00:02:08,796 --> 00:02:12,664
- which they wash off afterward. 
+which they wash off afterward. 
 
 35
 00:02:12,666 --> 00:02:15,066
-       the blade measures       
-       in imperial units.       
+the blade measures in imperial units.       
 
 36
 00:02:15,068 --> 00:02:16,668
-  they set it in this machine,  
+they set it in this machine,  
 
 37
 00:02:16,670 --> 00:02:20,606
-  which registers the location  
-       of the 1-inch mark,      
+which registers the location of the 1-inch mark,      
 
 38
 00:02:20,608 --> 00:02:22,741
-        then grinds down        
-      the end of the blade      
+then grinds down the end of the blade      
 
 39
 00:02:22,743 --> 00:02:26,811
-      until it's precisely      
-     1 inch from that line.     
+until it's precisely 1 inch from that line.     
 
 40
 00:02:26,813 --> 00:02:29,414
-       they run the blade       
-     through a sandblaster.     
+they run the blade through a sandblaster.     
 
 41
 00:02:29,416 --> 00:02:32,284
-      it shoots glass beads     
-     onto the steel surface     
+it shoots glass beads onto the steel surface     
 
 42
 00:02:32,286 --> 00:02:34,552
-           to make it           
-     microscopically rough.     
+to make it microscopically rough.     
 
 43
 00:02:34,554 --> 00:02:36,888
-    this will give the chrome   
-        plating a matte,        
+this will give the chrome plating a matte,        
 
 44
 00:02:36,890 --> 00:02:39,157
-   rather than glossy finish,   
+rather than glossy finish,   
 
 45
 00:02:39,159 --> 00:02:43,228
-     making the graduations     
-         easier to read.        
+making the graduations easier to read.        
 
 46
 00:02:43,230 --> 00:02:44,429
-         before plating,        
+before plating,        
 
 47
 00:02:44,431 --> 00:02:47,466
-      they clean the blade      
-     by dipping it in acid.     
+they clean the blade by dipping it in acid.     
 
 48
 00:02:49,703 --> 00:02:51,970
-      then they submerge it     
-   in the electroplating tank   
+then they submerge it in the electroplating tank   
 
 49
 00:02:51,972 --> 00:02:54,239
-      for about 15 seconds.     
+for about 15 seconds.     
 
 50
 00:02:54,241 --> 00:02:55,707
-      now, the steel blade,     
+now, the steel blade,     
 
 51
 00:02:55,709 --> 00:02:58,110
-      with its graduations      
-         on both sides,         
+with its graduations on both sides,         
 
 52
 00:02:58,112 --> 00:02:59,845
-      is plated in chrome.      
+is plated in chrome.      
 
 53
 00:03:02,116 --> 00:03:06,852
-          the next step         
-    is called black filling.    
+the next step is called black filling.    
 
 54
 00:03:06,854 --> 00:03:08,653
-  they apply black enamel paint 
+they apply black enamel paint 
 
 55
 00:03:08,655 --> 00:03:10,321
-   to both sides of the blade,  
+to both sides of the blade,  
 
 56
 00:03:10,323 --> 00:03:12,591
-  then wipe the surface clean.  
+then wipe the surface clean.  
 
 57
 00:03:12,593 --> 00:03:16,395
-        the black remains       
-  in the recessed graduations,  
+the black remains in the recessed graduations,  
 
 58
 00:03:16,397 --> 00:03:19,598
-       making the numbers       
-    and lines easier to read.   
+making the numbers and lines easier to read.   
 
 59
 00:03:19,600 --> 00:03:22,667
-   fifteen minutes in an oven   
-    to bake on the blackfill,   
+fifteen minutes in an oven to bake on the blackfill,   
 
 60
 00:03:22,669 --> 00:03:25,003
-         then a quality         
-       control inspection       
+then a quality control inspection       
 
 61
 00:03:25,005 --> 00:03:28,473
-   and the blade is finished.   
+and the blade is finished.   
 
 62
 00:03:28,475 --> 00:03:30,609
-   meanwhile, in another part   
-         of the factory,        
+meanwhile, in another part of the factory,        
 
 63
 00:03:30,611 --> 00:03:33,411
-      this computer guided      
-    machine uses both milling   
+this computer guided machine uses both milling   
 
 64
 00:03:33,413 --> 00:03:35,146
-  and drilling tools to machine 
+and drilling tools to machine 
 
 65
 00:03:35,148 --> 00:03:38,417
-          forged pieces         
-      of steel into heads.      
+forged pieces of steel into heads.      
 
 66
 00:03:38,419 --> 00:03:40,485
- this is the forged square head,
+this is the forged square head,
 
 67
 00:03:40,487 --> 00:03:43,422
-   before and after machining   
-     to its finished shape.     
+before and after machining to its finished shape.     
 
 68
 00:03:43,424 --> 00:03:48,026
-          the next step         
-     is to harden the steel.    
+the next step is to harden the steel.    
 
 69
 00:03:48,028 --> 00:03:50,896
-       they place the head      
- into the furnace for 3 minutes 
+they place the head into the furnace for 3 minutes 
 
 70
 00:03:50,898 --> 00:03:54,299
-          at more than          
-    1,472 degrees fahrenheit.   
+at more than 1,472 degrees fahrenheit.   
 
 71
 00:03:54,301 --> 00:03:57,035
-       the head comes out       
-     covered in black soot.     
+the head comes out covered in black soot.     
 
 72
 00:03:57,037 --> 00:03:58,970
-   so they sandblast it clean.  
+so they sandblast it clean.  
 
 73
 00:03:58,972 --> 00:04:02,174
-       the surface is now       
-      prepped for painting.     
+the surface is now prepped for painting.     
 
 74
 00:04:02,176 --> 00:04:04,976
-    the apply powdered paint    
-       electrostatically,       
+the apply powdered paint electrostatically,       
 
 75
 00:04:04,978 --> 00:04:08,046
-       running a positive       
-  electrical charge to the head 
+running a positive electrical charge to the head 
 
 76
 00:04:08,048 --> 00:04:10,114
-         and a negative         
-        one to the paint.       
+and a negative one to the paint.       
 
 77
 00:04:10,116 --> 00:04:13,185
-      this draws the paint      
-   to the part like a magnet,   
+this draws the paint to the part like a magnet,   
 
 78
 00:04:13,187 --> 00:04:17,522
-   coating the entire service   
-        in an even layer.       
+coating the entire service in an even layer.       
 
 79
 00:04:17,524 --> 00:04:22,527
-    a 45 minute trip through    
-   an oven bakes on the paint.  
+a 45 minute trip through an oven bakes on the paint.  
 
 80
 00:04:22,529 --> 00:04:25,597
-    then, they mount the head   
-  on a computer-guided machine  
+then, they mount the head on a computer-guided machine  
 
 81
 00:04:25,599 --> 00:04:26,932
-   that grinds that paint off   
+that grinds that paint off   
 
 82
 00:04:26,934 --> 00:04:29,668
-           the head's           
-    angle-measuring surfaces.   
+the head's angle-measuring surfaces.   
 
 83
 00:04:29,670 --> 00:04:33,271
-          they install          
-    the head's bubble level.    
+they install the head's bubble level.    
 
 84
 00:04:33,273 --> 00:04:35,674
-       first, they insert       
-    a white paper background,   
+first, they insert a white paper background,   
 
 85
 00:04:35,676 --> 00:04:38,677
-      which makes it easier     
-     to see the air bubble.     
+which makes it easier to see the air bubble.     
 
 86
 00:04:41,481 --> 00:04:44,215
-   then they insert the glass   
-   vial containing the bubble   
+then they insert the glass vial containing the bubble   
 
 87
 00:04:44,217 --> 00:04:46,885
- floating in a glucose solution.
+floating in a glucose solution.
 
 88
 00:04:46,887 --> 00:04:49,354
-    a dab of plaster at both    
-       ends holds the vial      
+a dab of plaster at both ends holds the vial      
 
 89
 00:04:49,356 --> 00:04:52,624
-     in its designated slot.    
+in its designated slot.    
 
 90
 00:04:52,626 --> 00:04:54,025
-   they assemble the lock bolt  
+they assemble the lock bolt  
 
 91
 00:04:54,027 --> 00:04:57,429
-       that holds the head      
-     in the blade's groove.     
+that holds the head in the blade's groove.     
 
 92
 00:04:57,431 --> 00:04:58,696
-   they mount it with a spring  
+they mount it with a spring  
 
 93
 00:04:58,698 --> 00:05:00,565
@@ -436,652 +374,565 @@ and a washer to prevent the lock
 
 94
 00:05:00,567 --> 00:05:03,435
-          from rotating         
-    and secure it with a nut.   
+from rotating and secure it with a nut.   
 
 95
 00:05:06,307 --> 00:05:09,841
-  then they close up the bubble 
-   level slot with an endcap.   
+then they close up the bubble level slot with an endcap.   
 
 96
 00:05:14,315 --> 00:05:16,848
-     they run the unpainted     
-    angle measuring surfaces    
+they run the unpainted angle measuring surfaces    
 
 97
 00:05:16,850 --> 00:05:22,254
-    against the buffing wheel   
- to polish the steel to a shine.
+against the buffing wheel to polish the steel to a shine.
 
 98
 00:05:22,256 --> 00:05:23,621
-         the last step,         
+the last step,         
 
 99
 00:05:23,623 --> 00:05:27,658
-      inserting a scribing      
-       awl into its slot.       
+inserting a scribing awl into its slot.       
 
 100
 00:05:27,660 --> 00:05:29,795
-         you use the awl        
-     to make a scratch mark     
+you use the awl to make a scratch mark     
 
 101
 00:05:29,797 --> 00:05:32,531
-  when you take a measurement.  
+when you take a measurement.  
 
 102
 00:05:32,533 --> 00:05:37,935
-    now, the final assembly,    
-        the square head,        
+now, the final assembly, the square head,        
 
 103
 00:05:37,937 --> 00:05:40,005
-       the protractor head      
+the protractor head      
 
 104
 00:05:43,210 --> 00:05:46,077
-      and the center head.      
+and the center head.      
 
 105
 00:05:46,079 --> 00:05:48,613
-        all three come on       
-     the combination square.    
+all three come on the combination square.    
 
 106
 00:05:48,615 --> 00:05:52,851
-    but when using the tool,    
- you install only one at a time.
+but when using the tool, you install only one at a time.
 
 107
 00:05:55,622 --> 00:05:58,490
-                     ♪♪         
+♪♪         
 
 108
 00:06:00,493 --> 00:06:02,361
-  narrator: by the late 1960s,  
+narrator: by the late 1960s,  
 
 109
 00:06:02,363 --> 00:06:04,029
- fishermen just couldn't keep up
+fishermen just couldn't keep up
 
 110
 00:06:04,031 --> 00:06:06,498
-      with a growing global     
-       demand for shrimp.       
+with a growing global demand for shrimp.       
 
 111
 00:06:06,500 --> 00:06:09,434
-       this gave birth to       
-   commercial shrimp farming.   
+this gave birth to commercial shrimp farming.   
 
 112
 00:06:09,436 --> 00:06:10,935
-  most shrimp farms are located 
+most shrimp farms are located 
 
 113
 00:06:10,937 --> 00:06:13,905
-     near the sea for access    
-         to salt water.         
+near the sea for access to salt water.         
 
 114
 00:06:13,907 --> 00:06:16,708
-      the greatest producer     
-    of farmed shrimp is asia,   
+the greatest producer of farmed shrimp is asia,   
 
 115
 00:06:16,710 --> 00:06:20,445
-       with thailand being      
-      the largest exporter.     
+with thailand being the largest exporter.     
 
 116
 00:06:20,447 --> 00:06:23,114
-     shrimp hatcheries raise    
-          the offspring         
+shrimp hatcheries raise the offspring         
 
 117
 00:06:23,116 --> 00:06:26,384
-     of their breeding stock    
-  through three larval stages,  
+of their breeding stock through three larval stages,  
 
 118
 00:06:26,386 --> 00:06:28,186
- then sell them to shrimp farms,
+then sell them to shrimp farms,
 
 119
 00:06:28,188 --> 00:06:32,457
-         which grow them        
-         to market size.        
+which grow them to market size.        
 
 120
 00:06:32,459 --> 00:06:33,992
-   as this model demonstrates,  
+as this model demonstrates,  
 
 121
 00:06:33,994 --> 00:06:37,596
- the shrimp farm first purifies 
-      the seawater it uses,     
+the shrimp farm first purifies the seawater it uses,     
 
 122
 00:06:37,598 --> 00:06:39,598
-        through a system        
-       of treatment ponds       
+through a system of treatment ponds       
 
 123
 00:06:39,600 --> 00:06:44,069
-         containing fish        
-  that feed on microorganisms.  
+containing fish that feed on microorganisms.  
 
 124
 00:06:44,071 --> 00:06:46,004
-       then the farm pumps      
-        the treated water       
+then the farm pumps the treated water       
 
 125
 00:06:46,006 --> 00:06:47,472
-       to a culture pond,       
+to a culture pond,       
 
 126
 00:06:47,474 --> 00:06:50,942
-      in which the juvenile     
-    shrimp grow to maturity.    
+in which the juvenile shrimp grow to maturity.    
 
 127
 00:06:50,944 --> 00:06:55,613
-  this is what the shrimp look  
-   like at about 2 months old.  
+this is what the shrimp look like at about 2 months old.  
 
 128
 00:06:55,615 --> 00:06:57,415
-        shrimp farms are        
-        typically located       
+shrimp farms are typically located       
 
 129
 00:06:57,417 --> 00:07:00,551
- on a coast for seawater access.
+on a coast for seawater access.
 
 130
 00:07:00,553 --> 00:07:02,420
-         workers spread         
-       organic fertilizer       
+workers spread organic fertilizer       
 
 131
 00:07:02,422 --> 00:07:04,489
- before filling the culture pond
+before filling the culture pond
 
 132
 00:07:04,491 --> 00:07:06,157
-   to restore the soil bottom   
+to restore the soil bottom   
 
 133
 00:07:06,159 --> 00:07:10,161
-      to optimum conditions     
-        between harvests.       
+to optimum conditions between harvests.       
 
 134
 00:07:10,163 --> 00:07:12,964
-     they pump seawater into    
-    the first treatment pond,   
+they pump seawater into the first treatment pond,   
 
 135
 00:07:12,966 --> 00:07:17,101
-  where tilapia fish naturally  
-  purify the water by consuming 
+where tilapia fish naturally purify the water by consuming 
 
 136
 00:07:17,103 --> 00:07:20,505
- floating microscopic organisms 
-        called plankton.        
+floating microscopic organisms called plankton.        
 
 137
 00:07:20,507 --> 00:07:22,640
-          plant matter          
-      in fish feces settle      
+plant matter in fish feces settle      
 
 138
 00:07:22,642 --> 00:07:24,575
-   at the bottom of the pond.   
+at the bottom of the pond.   
 
 139
 00:07:24,577 --> 00:07:26,044
-  a pump moves water from this  
+a pump moves water from this  
 
 140
 00:07:26,046 --> 00:07:28,179
-      first treatment pond      
-        to a second one.        
+first treatment pond to a second one.        
 
 141
 00:07:28,181 --> 00:07:33,852
-    for another round of this   
-    natural cleaning process.   
+for another round of this natural cleaning process.   
 
 142
 00:07:33,854 --> 00:07:35,720
- then a pump transfers the water
+then a pump transfers the water
 
 143
 00:07:35,722 --> 00:07:38,690
- from the second treatment pond 
-      to the cultural pond.     
+from the second treatment pond to the cultural pond.     
 
 144
 00:07:41,929 --> 00:07:43,728
-     once the pond is full,     
+once the pond is full,     
 
 145
 00:07:43,730 --> 00:07:47,265
 they release the juvenile shrimp
-  purchased from the hatchery.  
+purchased from the hatchery.  
 
 146
 00:07:47,267 --> 00:07:50,535
-    workers regularly monitor   
-    the water's oxygen level    
+workers regularly monitor the water's oxygen level    
 
 147
 00:07:50,537 --> 00:07:52,203
-   and run aeration propellers  
+and run aeration propellers  
 
 148
 00:07:52,205 --> 00:07:54,739
-     when it drops too low.     
+when it drops too low.     
 
 149
 00:07:54,741 --> 00:07:56,541
-    the agitation also helps    
+the agitation also helps    
 
 150
 00:07:56,543 --> 00:08:00,011
-        debris settle at        
-     the bottom of the pond.    
+debris settle at the bottom of the pond.    
 
 151
 00:08:00,013 --> 00:08:03,481
-   workers run a weekly water   
-     quality test on samples    
+workers run a weekly water quality test on samples    
 
 152
 00:08:03,483 --> 00:08:06,551
-    drawn from the treatment    
-       and culture ponds.       
+drawn from the treatment and culture ponds.       
 
 153
 00:08:06,553 --> 00:08:08,553
-      regularly monitoring      
-        the cultural pond       
+regularly monitoring the cultural pond       
 
 154
 00:08:08,555 --> 00:08:10,088
-    is particularly critical    
+is particularly critical    
 
 155
 00:08:10,090 --> 00:08:13,959
- because shrimp feces and urine 
-    break down into ammonia,    
+because shrimp feces and urine break down into ammonia,    
 
 156
 00:08:13,961 --> 00:08:16,361
-  which is toxic at high level. 
+which is toxic at high level. 
 
 157
 00:08:16,363 --> 00:08:19,764
-    the test solution reacts    
- to the concentration of ammonia
+the test solution reacts to the concentration of ammonia
 
 158
 00:08:19,766 --> 00:08:21,032
-      in the water sample,      
+in the water sample,      
 
 159
 00:08:21,034 --> 00:08:23,835
-         turning a shade        
-       of yellow or green.      
+turning a shade of yellow or green.      
 
 160
 00:08:23,837 --> 00:08:26,238
-   they consult a color chart   
-        to translate this       
+they consult a color chart to translate this       
 
 161
 00:08:26,240 --> 00:08:29,708
-        into a milligrams       
-  of ammonia per meter reading. 
+into a milligrams of ammonia per meter reading. 
 
 162
 00:08:29,710 --> 00:08:32,377
-        then they consult       
-      a table showing safe,     
+then they consult a table showing safe,     
 
 163
 00:08:32,379 --> 00:08:35,647
-   dangerous and toxic levels.  
+dangerous and toxic levels.  
 
 164
 00:08:35,649 --> 00:08:37,982
-        if the reading is       
-      above the safe range,     
+if the reading is above the safe range,     
 
 165
 00:08:37,984 --> 00:08:39,184
-     they dilute the ammonia    
+they dilute the ammonia    
 
 166
 00:08:39,186 --> 00:08:40,918
-  by pumping more treated water 
+by pumping more treated water 
 
 167
 00:08:40,920 --> 00:08:43,854
-     into the culture pond.     
+into the culture pond.     
 
 168
 00:08:43,856 --> 00:08:46,391
-     once a week, they also     
-        pull a few shrimp       
+once a week, they also pull a few shrimp       
 
 169
 00:08:46,393 --> 00:08:50,127
-      from the culture pond     
-    to extract their livers.    
+from the culture pond to extract their livers.    
 
 170
 00:08:50,129 --> 00:08:53,898
-       first, they examine      
-     the shape of the organ.    
+first, they examine the shape of the organ.    
 
 171
 00:08:53,900 --> 00:08:55,934
-      they examine it under     
-          a microscope          
+they examine it under a microscope          
 
 172
 00:08:55,936 --> 00:08:59,404
-     to see how fatty it is.    
+to see how fatty it is.    
 
 173
 00:08:59,406 --> 00:09:02,274
-       a well-shaped liver      
-  with sufficient fat indicates 
+a well-shaped liver with sufficient fat indicates 
 
 174
 00:09:02,276 --> 00:09:04,008
-         the shrimp was         
-         in good health,        
+the shrimp was in good health,        
 
 175
 00:09:04,010 --> 00:09:06,978
- and, therefore, the others back
-      in the pond are too.      
+and, therefore, the others back
+in the pond are too.      
 
 176
 00:09:11,351 --> 00:09:14,219
-   the growing shrimp are fed   
-      an all-natural diet,      
+the growing shrimp are fed an all-natural diet,      
 
 177
 00:09:14,221 --> 00:09:16,688
-   which includes probiotics,   
+which includes probiotics,   
 
 178
 00:09:16,690 --> 00:09:18,690
-            tamarind,           
+tamarind,           
 
 179
 00:09:18,692 --> 00:09:21,226
-   which is soaked in water...  
+which is soaked in water...  
 
 180
 00:09:23,830 --> 00:09:27,232
-           and garlic.          
+and garlic.          
 
 181
 00:09:27,234 --> 00:09:30,101
-     workers add these three    
- ingredients to the shrimp feed,
+workers add these three ingredients to the shrimp feed,
 
 182
 00:09:30,103 --> 00:09:33,371
-       which is a mixture       
-     of fish meal, fish oil,    
+which is a mixture of fish meal, fish oil,    
 
 183
 00:09:33,373 --> 00:09:35,941
-  soy bean pulp and rice flour. 
+soy bean pulp and rice flour. 
 
 184
 00:09:37,978 --> 00:09:40,511
-       tamarind maintains       
-   the right level of acidity   
+tamarind maintains the right level of acidity   
 
 185
 00:09:40,513 --> 00:09:43,782
-      in the shrimp's gut.      
+in the shrimp's gut.      
 
 186
 00:09:43,784 --> 00:09:46,952
-    garlic prevents bacteria    
-      buildup in the colon.     
+garlic prevents bacteria buildup in the colon.     
 
 187
 00:09:50,189 --> 00:09:53,658
-   and the probiotic solution   
-  provides beneficial bacteria, 
+and the probiotic solution provides beneficial bacteria, 
 
 188
 00:09:53,660 --> 00:09:55,793
-    which prevents infections   
-          and improves          
+which prevents infections and improves          
 
 189
 00:09:55,795 --> 00:09:58,730
-         how the shrimp         
-       digests nutrients.       
+how the shrimp digests nutrients.       
 
 190
 00:10:01,201 --> 00:10:04,002
-  after blending and liquefying 
-     the three ingredients,     
+after blending and liquefying the three ingredients,     
 
 191
 00:10:04,004 --> 00:10:06,204
-          they mix in 6         
-        fluid ounces per        
+they mix in 6 fluid ounces per        
 
 192
 00:10:06,206 --> 00:10:08,239
-    2 pounds of shrimp feed.    
+2 pounds of shrimp feed.    
 
 193
 00:10:13,814 --> 00:10:17,148
-        four times a day,       
-         at 8 am, noon,         
+four times a day, at 8 am, noon,         
 
 194
 00:10:17,150 --> 00:10:20,218
-         4 pm and 8 pm,         
-        workers pour food       
+4 pm and 8 pm, workers pour food       
 
 195
 00:10:20,220 --> 00:10:22,286
-        onto an automatic       
-        feeding machine,        
+onto an automatic feeding machine,        
 
 196
 00:10:22,288 --> 00:10:25,890
-   which distributes it evenly  
-  throughout the culture pond.  
+which distributes it evenly throughout the culture pond.  
 
 197
 00:10:30,897 --> 00:10:34,432
-      the shrimp feed over      
-   the entire 12 hour period,   
+the shrimp feed over the entire 12 hour period,   
 
 198
 00:10:34,434 --> 00:10:36,034
-      eating the equivalent     
-           of about 4%          
+eating the equivalent of about 4%          
 
 199
 00:10:36,036 --> 00:10:38,103
-   to 5% of their body weight.  
+to 5% of their body weight.  
 
 200
 00:10:45,846 --> 00:10:48,179
-       after 4 to 5 months      
-      in the cultural pond,     
+after 4 to 5 months in the cultural pond,     
 
 201
 00:10:48,181 --> 00:10:50,982
-        the shrimp mature       
-         to market size,        
+the shrimp mature to market size,        
 
 202
 00:10:50,984 --> 00:10:55,386
-    which is 20 to 30 grams.    
+which is 20 to 30 grams.    
 
 203
 00:10:55,388 --> 00:10:56,721
-     once they're harvested,    
+once they're harvested,    
 
 204
 00:10:56,723 --> 00:10:58,789
-         the farm drains        
-        the culture pond        
+the farm drains the culture pond        
 
 205
 00:10:58,791 --> 00:11:01,826
-     and starts the process     
-         all over again.        
+and starts the process all over again.        
 
 206
 00:11:08,802 --> 00:11:11,770
-                     ♪♪         
+♪♪         
 
 207
 00:11:13,940 --> 00:11:16,874
-    the ball valve came into    
-   large scale industrial use   
+the ball valve came into large scale industrial use   
 
 208
 00:11:16,876 --> 00:11:19,210
-    during the 20th century.    
+during the 20th century.    
 
 209
 00:11:19,212 --> 00:11:20,812
- with a hollow and pivoting ball
+with a hollow and pivoting ball
 
 210
 00:11:20,814 --> 00:11:22,880
- to control the flow of fluids, 
+to control the flow of fluids, 
 
 211
 00:11:22,882 --> 00:11:26,684
-      this valve is durable     
- and resistant to contamination.
+this valve is durable and resistant to contamination.
 
 212
 00:11:26,686 --> 00:11:29,353
-    it's why many industries    
-       rely on ball valves      
+it's why many industries rely on ball valves      
 
 213
 00:11:29,355 --> 00:11:31,322
-   to keep production flowing.  
+to keep production flowing.  
 
 214
 00:11:34,761 --> 00:11:37,361
-       ball valves control      
-       the flow of gases.       
+ball valves control the flow of gases.       
 
 215
 00:11:37,363 --> 00:11:39,964
-  in machinery used to produce  
-       high-tech products       
+in machinery used to produce high-tech products       
 
 216
 00:11:39,966 --> 00:11:41,899
-        like led lights.        
+like led lights.        
 
 217
 00:11:41,901 --> 00:11:43,701
-        it's just one way       
-         they contribute        
+it's just one way they contribute        
 
 218
 00:11:43,703 --> 00:11:46,171
-      to the modern world.      
+to the modern world.      
 
 219
 00:11:46,173 --> 00:11:47,906
-   making ball valves for led   
+making ball valves for led   
 
 220
 00:11:47,908 --> 00:11:49,240
-      manufacturing starts      
+manufacturing starts      
 
 221
 00:11:49,242 --> 00:11:53,177
-         with an 11-foot        
-      long steel bar stock.     
+with an 11-foot long steel bar stock.     
 
 222
 00:11:53,179 --> 00:11:57,382
-    as coolant, a saw carves    
-       it up like salami,       
+as coolant, a saw carves it up like salami,       
 
 223
 00:11:57,384 --> 00:12:01,786
- producing 50 or 60 steel pucks.
+producing 50 or 60 steel pucks.
 
 224
 00:12:01,788 --> 00:12:04,989
-      computerized tooling      
- then drills holes in the pucks,
+computerized tooling then drills holes in the pucks,
 
 225
 00:12:04,991 --> 00:12:08,392
- as it begins to transform them 
-  into the valve center parts.  
+as it begins to transform them into the valve center parts.  
 
 226
 00:12:08,394 --> 00:12:13,832
-       the system changes       
-    tool bits automatically.    
+the system changes tool bits automatically.    
 
 227
 00:12:13,834 --> 00:12:15,666
-  cutters square up the pucks,  
+cutters square up the pucks,  
 
 228
 00:12:15,668 --> 00:12:18,837
- so that they'll fit in the led 
-     chip making machinery.     
+so that they'll fit in the led chip making machinery.     
 
 229
 00:12:21,474 --> 00:12:24,208
-      a grinding tool mills     
-      the tops of the parts     
+a grinding tool mills the tops of the parts     
 
 230
 00:12:24,210 --> 00:12:26,277
-     to a precise tolerance.    
+to a precise tolerance.    
 
 231
 00:12:28,748 --> 00:12:31,349
-      once the final shape      
-       has been achieved,       
+once the final shape has been achieved,       
 
 232
 00:12:31,351 --> 00:12:34,152
-         a worker gives         
-       the part a sanding.      
+a worker gives the part a sanding.      
 
 233
 00:12:34,154 --> 00:12:36,888
-     he removes rough bits,     
-         known as burrs,        
+he removes rough bits, known as burrs,        
 
 234
 00:12:36,890 --> 00:12:40,758
@@ -1089,49 +940,43 @@ and smoothes the entire surface.
 
 235
 00:12:40,760 --> 00:12:42,227
-      with a narrow blade,      
+with a narrow blade,      
 
 236
 00:12:42,229 --> 00:12:44,895
-       he then scrapes off      
-     any burrs in the holes     
+he then scrapes off any burrs in the holes     
 
 237
 00:12:44,897 --> 00:12:47,765
-        that could impede       
-      the valve's function.     
+that could impede the valve's function.     
 
 238
 00:12:47,767 --> 00:12:49,500
-  with the deburring complete,  
+with the deburring complete,  
 
 239
 00:12:49,502 --> 00:12:52,237
-  he measures each valve body.  
+he measures each valve body.  
 
 240
 00:12:52,239 --> 00:12:55,506
-     ceramic bits that look     
-      like aquarium gravel      
+ceramic bits that look like aquarium gravel      
 
 241
 00:12:55,508 --> 00:12:59,777
-   will now be used to polish   
-     the steel valve parts.     
+will now be used to polish the steel valve parts.     
 
 242
 00:12:59,779 --> 00:13:01,979
-       the operator places      
-        the valve bodies        
+the operator places the valve bodies        
 
 243
 00:13:01,981 --> 00:13:04,849
- in the cells of a drum tumbler.
+in the cells of a drum tumbler.
 
 244
 00:13:04,851 --> 00:13:07,852
- he puts the lid on the tumbler 
-     and sets it in motion.     
+he puts the lid on the tumbler and sets it in motion.     
 
 245
 00:13:07,854 --> 00:13:11,188
@@ -1139,114 +984,99 @@ the friction polishes the steel,
 
 246
 00:13:11,190 --> 00:13:12,724
-    creating a smooth surface   
+creating a smooth surface   
 
 247
 00:13:12,726 --> 00:13:15,760
-  that won't block the movement 
-        of gas molecules.       
+that won't block the movement of gas molecules.       
 
 248
 00:13:18,998 --> 00:13:22,700
-   next, they assemble flanges  
-         to the endcaps.        
+next, they assemble flanges to the endcaps.        
 
 249
 00:13:22,702 --> 00:13:25,203
-       after tack welding       
-     the two parts together,    
+after tack welding the two parts together,    
 
 250
 00:13:25,205 --> 00:13:28,807
-     an operator places them    
-     in a revolving fixture.    
+an operator places them in a revolving fixture.    
 
 251
 00:13:28,809 --> 00:13:30,541
-     he welds them together,    
+he welds them together,    
 
 252
 00:13:30,543 --> 00:13:32,810
-     creating a substantial     
-           inside seam          
+creating a substantial inside seam          
 
 253
 00:13:32,812 --> 00:13:36,815
-        that will hold up       
-      to vacuum conditions.     
+that will hold up to vacuum conditions.     
 
 254
 00:13:36,817 --> 00:13:39,217
-  he scrubs off the heat stain  
-        inside the part,        
+he scrubs off the heat stain inside the part,        
 
 255
 00:13:39,219 --> 00:13:41,285
-       using a wire brush.      
+using a wire brush.      
 
 256
 00:13:41,287 --> 00:13:43,888
-    the stain has also spread   
-        around the seams        
+the stain has also spread around the seams        
 
 257
 00:13:43,890 --> 00:13:45,489
-  on the outside of the parts.  
+on the outside of the parts.  
 
 258
 00:13:45,491 --> 00:13:50,762
- so a worker rinses the outside 
-     of the seam with water.    
+so a worker rinses the outside of the seam with water.    
 
 259
 00:13:50,764 --> 00:13:52,564
-     he washes off the stain    
+he washes off the stain    
 
 260
 00:13:52,566 --> 00:13:55,032
-      using an electrified      
-          carbon brush          
+using an electrified carbon brush          
 
 261
 00:13:55,034 --> 00:13:57,402
- and an acid cleaning solution. 
+and an acid cleaning solution. 
 
 262
 00:14:00,774 --> 00:14:03,507
-         then it's in to        
-     an ultrasonic cleaner,     
+then it's in to an ultrasonic cleaner,     
 
 263
 00:14:03,509 --> 00:14:05,576
-        where soundwaves        
-      ripple through water      
+where soundwaves ripple through water      
 
 264
 00:14:05,578 --> 00:14:09,981
-         to remove dust         
- and cleaning solution residue. 
+to remove dust and cleaning solution residue. 
 
 265
 00:14:09,983 --> 00:14:11,249
-   to assemble the ball valve,  
+to assemble the ball valve,  
 
 266
 00:14:11,251 --> 00:14:12,650
-      the technician places     
+the technician places     
 
 267
 00:14:12,652 --> 00:14:15,453
-       two rubber o-rings       
-      on top of an endcap.      
+two rubber o-rings on top of an endcap.      
 
 268
 00:14:18,859 --> 00:14:20,992
- next is a thick synthetic ring,
+next is a thick synthetic ring,
 
 269
 00:14:20,994 --> 00:14:24,061
-        which will secure       
-     the ball in the valve.     
+which will secure the ball in the valve.     
 
 270
 00:14:24,063 --> 00:14:26,631
@@ -1254,636 +1084,544 @@ he seats the valve body over it.
 
 271
 00:14:30,736 --> 00:14:33,137
-           he cleanses          
-      the hollow steel ball     
+he cleanses the hollow steel ball     
 
 272
 00:14:33,139 --> 00:14:35,340
-         and inserts it         
-       in the valve body.       
+and inserts it in the valve body.       
 
 273
 00:14:38,879 --> 00:14:41,078
- he stacks more rubber sealers, 
+he stacks more rubber sealers, 
 
 274
 00:14:41,080 --> 00:14:45,550
-    another synthetic sealer    
-   and another endcap on top.   
+another synthetic sealer and another endcap on top.   
 
 275
 00:14:45,552 --> 00:14:48,218
-      he inserts long bolts     
-      into the four corners     
+he inserts long bolts into the four corners     
 
 276
 00:14:48,220 --> 00:14:49,620
-          of the valve          
+of the valve          
 
 277
 00:14:49,622 --> 00:14:52,624
-    and secures them tightly    
-      with nuts to keep air     
+and secures them tightly with nuts to keep air     
 
 278
 00:14:52,626 --> 00:14:54,692
-  from seeping into the valve.  
+from seeping into the valve.  
 
 279
 00:14:57,630 --> 00:14:59,764
-      he attaches a handle      
-          to the stem,          
+he attaches a handle to the stem,          
 
 280
 00:14:59,766 --> 00:15:03,567
- protruding from the valve body.
+protruding from the valve body.
 
 281
 00:15:03,569 --> 00:15:06,571
-     he installs a stop pin     
-      to prevent the handle     
+he installs a stop pin to prevent the handle     
 
 282
 00:15:06,573 --> 00:15:10,774
-       from opening beyond      
-         a quarter turn.        
+from opening beyond a quarter turn.        
 
 283
 00:15:10,776 --> 00:15:13,444
-  finally, he tightens the nut  
-      that locks the handle     
+finally, he tightens the nut that locks the handle     
 
 284
 00:15:13,446 --> 00:15:16,914
-       to the valve stem.       
+to the valve stem.       
 
 285
 00:15:16,916 --> 00:15:20,184
-  he now secures the ball valve 
-            in a vise           
+he now secures the ball valve in a vise           
 
 286
 00:15:20,186 --> 00:15:24,055
-        to hold it steady       
-  while he tests its function.  
+to hold it steady while he tests its function.  
 
 287
 00:15:24,057 --> 00:15:26,190
-   when the whole of the ball   
-     is aligned with flanges    
+when the whole of the ball is aligned with flanges    
 
 288
 00:15:26,192 --> 00:15:28,726
-         of the endcaps,        
-       the valve is open.       
+of the endcaps, the valve is open.       
 
 289
 00:15:28,728 --> 00:15:32,263
-   and when it's perpendicular  
-        to it, it's shut.       
+and when it's perpendicular to it, it's shut.       
 
 290
 00:15:32,265 --> 00:15:34,532
-  satisfied with its function,  
+satisfied with its function,  
 
 291
 00:15:34,534 --> 00:15:38,336
-   he transfers the ball valve  
-     to the laser engraver.     
+he transfers the ball valve to the laser engraver.     
 
 292
 00:15:38,338 --> 00:15:40,738
-        the laser etches        
-        the serial number       
+the laser etches the serial number       
 
 293
 00:15:40,740 --> 00:15:43,341
-      and other information     
-      onto the valve body.      
+and other information onto the valve body.      
 
 294
 00:15:45,879 --> 00:15:48,346
-    and now, one final test,    
+and now, one final test,    
 
 295
 00:15:48,348 --> 00:15:50,114
-     the technician connects    
-            the valve           
+the technician connects the valve           
 
 296
 00:15:50,116 --> 00:15:51,816
-   to a vacuum pumping system   
+to a vacuum pumping system   
 
 297
 00:15:51,818 --> 00:15:55,286
-          and activates         
-    a leak-detecting device.    
+and activates a leak-detecting device.    
 
 298
 00:15:55,288 --> 00:15:57,155
- while the pump draws a vacuum, 
+while the pump draws a vacuum, 
 
 299
 00:15:57,157 --> 00:15:59,957
-      he sprays helium gas      
-         onto the valve         
+he sprays helium gas onto the valve         
 
 300
 00:15:59,959 --> 00:16:02,226
-      to detect any leaks.      
+to detect any leaks.      
 
 301
 00:16:02,228 --> 00:16:05,229
-     this ensures the valve     
-      will operate properly     
+this ensures the valve will operate properly     
 
 302
 00:16:05,231 --> 00:16:07,698
-  in a high vacuum environment. 
+in a high vacuum environment. 
 
 303
 00:16:07,700 --> 00:16:10,567
-    some of these ball valves   
-     are manually operated.     
+some of these ball valves are manually operated.     
 
 304
 00:16:10,569 --> 00:16:13,304
-  and others are computerized.  
+and others are computerized.  
 
 305
 00:16:13,306 --> 00:16:15,105
-        both versions are       
-       designed to hold up      
+both versions are designed to hold up      
 
 306
 00:16:15,107 --> 00:16:18,176
-    to high vacuum conditions   
-      and handle the flow.      
+to high vacuum conditions and handle the flow.      
 
 307
 00:16:21,781 --> 00:16:24,749
-                     ♪♪         
+♪♪         
 
 308
 00:16:26,986 --> 00:16:28,987
-   narrator: if you have grass  
-        or weeds to cut,        
+narrator: if you have grass or weeds to cut,        
 
 309
 00:16:28,989 --> 00:16:31,989
-    but can't access the spot   
-      with your lawn mower,     
+but can't access the spot with your lawn mower,     
 
 310
 00:16:31,991 --> 00:16:34,792
-        you need a string       
-      trimmer for the job.      
+you need a string trimmer for the job.      
 
 311
 00:16:34,794 --> 00:16:36,995
-          it's compact,         
-     letting you cut around     
+it's compact, letting you cut around     
 
 312
 00:16:36,997 --> 00:16:38,663
-     and in between objects,    
+and in between objects,    
 
 313
 00:16:38,665 --> 00:16:40,665
-        and doesn't ride        
-         on the ground.         
+and doesn't ride on the ground.         
 
 314
 00:16:40,667 --> 00:16:43,534
-    so you can easily use it    
-       on a steep terrain.      
+so you can easily use it on a steep terrain.      
 
 315
 00:16:47,673 --> 00:16:50,808
-     a string trimmer slices    
-   the vegetation in its path   
+a string trimmer slices the vegetation in its path   
 
 316
 00:16:50,810 --> 00:16:52,744
-   with a rotating nylon line.  
+with a rotating nylon line.  
 
 317
 00:16:52,746 --> 00:16:55,546
-      the motor that turns      
-        the spool of line       
+the motor that turns the spool of line       
 
 318
 00:16:55,548 --> 00:16:58,182
-   is protected by a two-part   
-    housing made of polymer.    
+is protected by a two-part housing made of polymer.    
 
 319
 00:17:00,086 --> 00:17:03,287
- the polymer pellets are pumped 
-  through pipes to the hopper,  
+the polymer pellets are pumped through pipes to the hopper,  
 
 320
 00:17:03,289 --> 00:17:05,222
-     that feeds an injection    
-        molding machine.        
+that feeds an injection molding machine.        
 
 321
 00:17:05,224 --> 00:17:07,558
-     the machine melts them,    
+the machine melts them,    
 
 322
 00:17:07,560 --> 00:17:11,295
- then shoots the liquid plastic 
-   into housing-shaped molds.   
+then shoots the liquid plastic into housing-shaped molds.   
 
 323
 00:17:11,297 --> 00:17:15,900
 the machine then cools the molds
-     to solidify the plastic    
+to solidify the plastic    
 
 324
 00:17:15,902 --> 00:17:17,969
-  and ejects the molded parts,  
+and ejects the molded parts,  
 
 325
 00:17:17,971 --> 00:17:23,508
- which a robot grabs and places 
-      in a collection box.      
+which a robot grabs and places in a collection box.      
 
 326
 00:17:23,510 --> 00:17:26,310
-   to make other plastic parts  
-     of the string trimmer,     
+to make other plastic parts of the string trimmer,     
 
 327
 00:17:26,312 --> 00:17:29,847
-  they install different molds  
+they install different molds  
 on the injection molding machine
 
 328
 00:17:29,849 --> 00:17:31,181
-    and hook up the feed line   
+and hook up the feed line   
 
 329
 00:17:31,183 --> 00:17:34,519
-   for whichever color pellets  
-         they're using.         
+for whichever color pellets they're using.         
 
 330
 00:17:34,521 --> 00:17:36,053
-    to make the cutting line,   
+to make the cutting line,   
 
 331
 00:17:36,055 --> 00:17:39,790
-   an extrusion machine melts   
-      down plastic pellets,     
+an extrusion machine melts down plastic pellets,     
 
 332
 00:17:39,792 --> 00:17:41,592
-     then forces the liquid     
-         plastic through        
+then forces the liquid plastic through        
 
 333
 00:17:41,594 --> 00:17:45,196
-    a round die to form line.   
+a round die to form line.   
 
 334
 00:17:45,198 --> 00:17:48,332
-     a cold water bath cools    
-    and solidifies the shape.   
+a cold water bath cools and solidifies the shape.   
 
 335
 00:17:48,334 --> 00:17:51,069
-      then, heated rollers      
-        stretch the line        
+then, heated rollers stretch the line        
 
 336
 00:17:51,071 --> 00:17:53,805
-        until its reduced       
-  to 3 millimeters in diameter. 
+until its reduced to 3 millimeters in diameter. 
 
 337
 00:17:55,474 --> 00:17:58,209
-        the line is wound       
-       onto large spools,       
+the line is wound onto large spools,       
 
 338
 00:17:58,211 --> 00:17:59,477
-     which feed the machines    
+which feed the machines    
 
 339
 00:17:59,479 --> 00:18:03,480
-     that wind the finished     
-         trimmer spools.        
+that wind the finished trimmer spools.        
 
 340
 00:18:03,482 --> 00:18:04,882
-  on the engine assembly line,  
+on the engine assembly line,  
 
 341
 00:18:04,884 --> 00:18:07,017
-      an automated machine      
-         applies sealant        
+an automated machine applies sealant        
 
 342
 00:18:07,019 --> 00:18:10,254
-  to the magnesium engine pan.  
+to the magnesium engine pan.  
 
 343
 00:18:14,160 --> 00:18:15,960
-     they place the cylinder    
+they place the cylinder    
 
 344
 00:18:15,962 --> 00:18:17,761
-     on an assembly fixture,    
+on an assembly fixture,    
 
 345
 00:18:17,763 --> 00:18:21,165
-         apply a gasket,        
-     then insert the piston.    
+apply a gasket, then insert the piston.    
 
 346
 00:18:21,167 --> 00:18:23,034
-        already assembled       
-        to the crankcase,       
+already assembled to the crankcase,       
 
 347
 00:18:23,036 --> 00:18:25,235
-  its up and down motion turns. 
+its up and down motion turns. 
 
 348
 00:18:25,237 --> 00:18:28,372
-  then they mate the engine pan 
-        to the crankcase.       
+then they mate the engine pan to the crankcase.       
 
 349
 00:18:28,374 --> 00:18:33,711
-     the sealant in between     
+the sealant in between     
 making that connection airtight.
 
 350
 00:18:33,713 --> 00:18:36,713
-   an automated machine screws  
-    the components together,    
+an automated machine screws the components together,    
 
 351
 00:18:36,715 --> 00:18:38,982
-         then closes off        
-        the exhaust ports       
+then closes off the exhaust ports       
 
 352
 00:18:38,984 --> 00:18:42,719
-       and pulls a vacuum       
-        to test the seal.       
+and pulls a vacuum to test the seal.       
 
 353
 00:18:42,721 --> 00:18:45,189
-     if the engine assembly     
-        passes the test,        
+if the engine assembly passes the test,        
 
 354
 00:18:45,191 --> 00:18:47,658
-        it continues down       
-       the assembly line.       
+it continues down the assembly line.       
 
 355
 00:18:47,660 --> 00:18:49,994
-    they install a gasket...    
+they install a gasket...    
 
 356
 00:18:52,598 --> 00:18:55,532
-        the carburetor...       
+the carburetor...       
 
 357
 00:18:55,534 --> 00:18:57,668
-         another gasket         
+another gasket         
 
 358
 00:18:57,670 --> 00:19:00,004
-         and the housing        
-       for the air filter.      
+and the housing for the air filter.      
 
 359
 00:19:00,006 --> 00:19:03,274
-   then they install a baffle,  
+then they install a baffle,  
 
 360
 00:19:03,276 --> 00:19:04,875
-      which distributes air     
+which distributes air     
 
 361
 00:19:04,877 --> 00:19:07,344
-        so that it enters       
-     the air filter evenly.     
+so that it enters the air filter evenly.     
 
 362
 00:19:07,346 --> 00:19:12,216
-      they attach a gasket      
-        under the muffler       
+they attach a gasket under the muffler       
 
 363
 00:19:12,218 --> 00:19:14,351
-      and screw the muffler     
-       onto the cylinder.       
+and screw the muffler onto the cylinder.       
 
 364
 00:19:14,353 --> 00:19:18,222
-     the gasket and sealant     
-      on the screws ensure      
+the gasket and sealant on the screws ensure      
 
 365
 00:19:18,224 --> 00:19:22,693
-     the only exhaust gases     
- can escape through the muffler.
+the only exhaust gases can escape through the muffler.
 
 366
 00:19:22,695 --> 00:19:24,628
-       next, the flywheel.      
+next, the flywheel.      
 
 367
 00:19:24,630 --> 00:19:27,632
-        when it rotates,        
-     magnets inside produce     
+when it rotates, magnets inside produce     
 
 368
 00:19:27,634 --> 00:19:30,301
-    an electromagnetic field    
-        the ignition uses       
+an electromagnetic field the ignition uses       
 
 369
 00:19:30,303 --> 00:19:31,835
-    to set off the spark plug   
+to set off the spark plug   
 
 370
 00:19:31,837 --> 00:19:35,506
-     that starts the engine     
-        combustion cycle.       
+that starts the engine combustion cycle.       
 
 371
 00:19:35,508 --> 00:19:37,574
-    after mounting the clutch   
-        on the flywheel,        
+after mounting the clutch on the flywheel,        
 
 372
 00:19:37,576 --> 00:19:41,112
-     they install the spark     
-      plug on the cylinder.     
+they install the spark plug on the cylinder.     
 
 373
 00:19:41,114 --> 00:19:42,246
-     this automated machine     
+this automated machine     
 
 374
 00:19:42,248 --> 00:19:44,448
-     simultaneously tightens    
-         the spark plug,        
+simultaneously tightens the spark plug,        
 
 375
 00:19:44,450 --> 00:19:49,853
-   the clutch and the flywheel  
-      to specified torques.     
+the clutch and the flywheel to specified torques.     
 
 376
 00:19:49,855 --> 00:19:51,856
-         by this point,         
-       workers have welded      
+by this point, workers have welded      
 
 377
 00:19:51,858 --> 00:19:53,991
-           a fuel tank          
-      to the motor housing.     
+a fuel tank to the motor housing.     
 
 378
 00:19:53,993 --> 00:19:56,460
-     they've also installed     
-           a trigger,           
+they've also installed a trigger,           
 
 379
 00:19:56,462 --> 00:19:59,329
-       a trigger release,       
-       and a stop switch.       
+a trigger release, and a stop switch.       
 
 380
 00:19:59,331 --> 00:20:03,667
-    they place the assembled    
-    engine into the housing.    
+they place the assembled engine into the housing.    
 
 381
 00:20:03,669 --> 00:20:07,205
- they also place the air filter 
-    into the filter housing.    
+they also place the air filter into the filter housing.    
 
 382
 00:20:09,942 --> 00:20:11,942
-      at the next station,      
+at the next station,      
 
 383
 00:20:11,944 --> 00:20:14,779
-      they attach the other     
-   half of the motor housing.   
+they attach the other half of the motor housing.   
 
 384
 00:20:18,751 --> 00:20:22,353
-   a robot tightens the screws  
-      to a specific torque.     
+a robot tightens the screws to a specific torque.     
 
 385
 00:20:25,692 --> 00:20:28,826
-    next, they screw a cover    
-    on to the filter housing.   
+next, they screw a cover on to the filter housing.   
 
 386
 00:20:32,298 --> 00:20:35,032
-        then they create        
-     the trimmer's powerhead    
+then they create the trimmer's powerhead    
 
 387
 00:20:35,034 --> 00:20:38,235
-          by installing         
-       the starter cover.       
+by installing the starter cover.       
 
 388
 00:20:38,237 --> 00:20:41,138
-    it contains the cord you    
-    pull to start the engine.   
+it contains the cord you pull to start the engine.   
 
 389
 00:20:43,642 --> 00:20:44,842
-    elsewhere in the factory,   
+elsewhere in the factory,   
 
 390
 00:20:44,844 --> 00:20:46,677
- they build the shaft assembly, 
+they build the shaft assembly, 
 
 391
 00:20:46,679 --> 00:20:49,647
-     to which they'll later     
-      attach the powerhead.     
+to which they'll later attach the powerhead.     
 
 392
 00:20:49,649 --> 00:20:52,516
-    first, they put together    
-   the handle in the gearhead   
+first, they put together the handle in the gearhead   
 
 393
 00:20:52,518 --> 00:20:55,186
-  that turns the spool of line. 
+that turns the spool of line. 
 
 394
 00:20:55,188 --> 00:20:57,121
-  then they install the spool.  
+then they install the spool.  
 
 395
 00:20:57,123 --> 00:20:59,656
-   when the cutting line wears  
-         down from use,         
+when the cutting line wears down from use,         
 
 396
 00:20:59,658 --> 00:21:01,525
-        you tap the spool       
-       against the ground       
+you tap the spool against the ground       
 
 397
 00:21:01,527 --> 00:21:05,396
-    to automatically advance    
-           more line.           
+to automatically advance more line.           
 
 398
 00:21:05,398 --> 00:21:08,399
-      they insert the shaft     
-  assembly into the powerhead.  
+they insert the shaft assembly into the powerhead.  
 
 399
 00:21:08,401 --> 00:21:11,535
-   the other end of the drive   
- shaft connects to the gearhead.
+the other end of the drive shaft connects to the gearhead.
 
 400
 00:21:13,406 --> 00:21:17,274
-   the last step is to attach   
-    the gearhead's deflector,   
+the last step is to attach the gearhead's deflector,   
 
 401
 00:21:17,276 --> 00:21:19,009
-        which is designed       
-         to help prevent        
+which is designed to help prevent        
 
 402
 00:21:19,011 --> 00:21:22,613
-      what you're trimming      
-     from flying up at you.     
+what you're trimming from flying up at you.     
 
 403
 00:21:22,615 --> 00:21:24,215
-   to use the string trimmer,   
+to use the string trimmer,   
 
 404
 00:21:24,217 --> 00:21:27,284
-     you fill the fuel tank     
-   with a gas and oil mixture.  
+you fill the fuel tank with a gas and oil mixture.  
 
 405
 00:21:27,286 --> 00:21:31,222
-    then, just pull the cord    
-        to start her up.        
+then, just pull the cord to start her up.        
 

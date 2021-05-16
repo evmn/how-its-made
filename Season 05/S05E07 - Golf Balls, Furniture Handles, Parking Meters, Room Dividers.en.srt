@@ -1,145 +1,125 @@
 ﻿1
 00:00:01,869 --> 00:00:04,870
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,872 --> 00:00:07,873
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:22,189 --> 00:00:26,024
-            narrator:           
-   today on "how it's made"...  
+narrator: today on "how it's made"...  
 
 4
 00:00:26,060 --> 00:00:27,993
-           golf balls.          
+golf balls.          
 
 5
 00:00:32,066 --> 00:00:34,299
-       furniture handles.       
+furniture handles.       
 
 6
 00:00:37,538 --> 00:00:39,471
-         parking meters.        
+parking meters.        
 
 7
 00:00:43,110 --> 00:00:44,910
-       and room dividers.       
+and room dividers.       
 
 8
 00:00:52,586 --> 00:00:56,255
-  different types of golf balls 
-   deliver different results.   
+different types of golf balls deliver different results.   
 
 9
 00:00:56,257 --> 00:00:59,524
 highly skilled golfers often use
-  what's called a wound ball -- 
+what's called a wound ball -- 
 
 10
 00:00:59,560 --> 00:01:02,994
-  a ball made of rubber thread  
-  wound tightly over a core --  
+a ball made of rubber thread wound tightly over a core --  
 
 11
 00:01:03,030 --> 00:01:05,464
-       because its flight       
-      is more controllable.     
+because its flight is more controllable.     
 
 12
 00:01:05,533 --> 00:01:08,667
-   but most people use what's   
-   called a two-piece ball --   
+but most people use what's called a two-piece ball --   
 
 13
 00:01:08,736 --> 00:01:11,837
-  a ball whose core is covered  
-     in a dimpled material.     
+a ball whose core is covered in a dimpled material.     
 
 14
 00:01:14,742 --> 00:01:17,476
-        today's golf ball       
-   has really come a long way   
+today's golf ball has really come a long way   
 
 15
 00:01:17,545 --> 00:01:21,079
- if you consider that the early 
-   ones were made of feathers.  
+if you consider that the early ones were made of feathers.  
 
 16
 00:01:21,082 --> 00:01:24,550
-  this is what's inside now --  
-        a bouncy rubber.        
+this is what's inside now -- a bouncy rubber.        
 
 17
 00:01:24,552 --> 00:01:27,952
-    they mix it up with other   
- chemicals to make a hot batter 
+they mix it up with other chemicals to make a hot batter 
 
 18
 00:01:27,988 --> 00:01:30,355
-      and then roll it out      
-        like a pie crust,       
+and then roll it out like a pie crust,       
 
 19
 00:01:30,491 --> 00:01:33,892
-           cooling it           
-  between two huge steel drums. 
+cooling it between two huge steel drums. 
 
 20
 00:01:35,729 --> 00:01:38,297
-         next they push         
-  the rolled-up rubbery sheets  
+next they push the rolled-up rubbery sheets  
 
 21
 00:01:38,299 --> 00:01:41,099
-       into this machine,       
-       called an extruder.      
+into this machine, called an extruder.      
 
 22
 00:01:41,168 --> 00:01:45,437
-  there's a ram inside, and it  
+there's a ram inside, and it  
 forces the rubber through a die.
 
 23
 00:01:45,572 --> 00:01:48,907
- this makes shapes that resemble
-       large marshmallows,      
+this makes shapes that resemble
+large marshmallows,      
 
 24
 00:01:48,943 --> 00:01:50,375
-          called slugs.         
+called slugs.         
 
 25
 00:01:50,411 --> 00:01:55,380
-   a conveyor belt sends them   
- to a compression-mold machine. 
+a conveyor belt sends them to a compression-mold machine. 
 
 26
 00:01:55,382 --> 00:01:58,784
-     here a worker positions    
-   the slugs in a steel mold.   
+here a worker positions the slugs in a steel mold.   
 
 27
 00:01:58,919 --> 00:02:00,786
-  the slugs often vary in color 
+the slugs often vary in color 
 
 28
 00:02:00,921 --> 00:02:04,590
-  depending on the type of ball 
-         being produced.        
+depending on the type of ball being produced.        
 
 29
 00:02:04,592 --> 00:02:06,592
-      when the door closes,     
+when the door closes,     
 
 30
 00:02:06,594 --> 00:02:09,661
-   the bottom part of the mold  
-  presses up into the top part, 
+the bottom part of the mold presses up into the top part, 
 
 31
 00:02:09,663 --> 00:02:12,998
@@ -147,221 +127,198 @@ applying over a ton of pressure.
 
 32
 00:02:13,000 --> 00:02:15,133
- this is a shape-and-bake system
+this is a shape-and-bake system
 
 33
 00:02:15,136 --> 00:02:17,135
-    because inside this mold,   
+because inside this mold,   
 
 34
 00:02:17,138 --> 00:02:19,071
-    the newly rounded rubber    
-           is cooking           
+the newly rounded rubber is cooking           
 
 35
 00:02:19,206 --> 00:02:22,407
-   at 332 degrees fahrenheit.   
+at 332 degrees fahrenheit.   
 
 36
 00:02:22,443 --> 00:02:24,843
-    baking it for 13 minutes    
-           hardens it.          
+baking it for 13 minutes hardens it.          
 
 37
 00:02:28,749 --> 00:02:30,949
-     then after it's cooled     
-           with water,          
+then after it's cooled with water,          
 
 38
 00:02:30,985 --> 00:02:35,353
-   a worker places a piece of   
+a worker places a piece of   
 slotted plexiglas over the mold.
 
 39
 00:02:35,389 --> 00:02:37,755
-         this holds down        
-     the leftover trimmings     
+this holds down the leftover trimmings     
 
 40
 00:02:37,791 --> 00:02:41,126
-  so that only the ball shapes  
-  get picked up by the vacuum.  
+so that only the ball shapes get picked up by the vacuum.  
 
 41
 00:02:44,831 --> 00:02:48,967
- he peels off the excess rubber 
-      for recycling later.      
+he peels off the excess rubber for recycling later.      
 
 42
 00:02:49,003 --> 00:02:52,237
-  the marshmallow-shaped slugs  
-    have now been transformed   
+the marshmallow-shaped slugs have now been transformed   
 
 43
 00:02:52,239 --> 00:02:55,307
-  into a solid golf-ball core.  
+into a solid golf-ball core.  
 
 44
 00:02:55,376 --> 00:02:59,511
- a robot transports these cores 
-        to another mold.        
+a robot transports these cores to another mold.        
 
 45
 00:02:59,646 --> 00:03:02,381
-   a ram pushes melted plastic  
-          through tubes         
+a ram pushes melted plastic through tubes         
 
 46
 00:03:02,383 --> 00:03:03,649
-     and into a mold cavity.    
+and into a mold cavity.    
 
 47
 00:03:03,784 --> 00:03:06,384
-  this forms the outside shell  
-        of the golf ball,       
+this forms the outside shell of the golf ball,       
 
 48
 00:03:06,453 --> 00:03:07,852
-    complete with the dimples   
+complete with the dimples   
 
 49
 00:03:07,922 --> 00:03:10,589
-     that will help the ball    
-         travel farther.        
+that will help the ball travel farther.        
 
 50
 00:03:13,327 --> 00:03:16,528
 this is an inside look at a ball
-       with its new shell.      
+with its new shell.      
 
 51
 00:03:21,835 --> 00:03:25,537
-  this injecting-molding system 
- generates four dozen golf balls
+this injecting-molding system generates four dozen golf balls
 
 52
 00:03:25,672 --> 00:03:27,172
-          every minute.         
+every minute.         
 
 53
 00:03:29,577 --> 00:03:32,610
- the new balls are on the move. 
+the new balls are on the move. 
 
 54
 00:03:32,646 --> 00:03:33,878
-      they roll into a bin      
+they roll into a bin      
 
 55
 00:03:33,948 --> 00:03:36,948
-       which funnels them       
-    to a golf-ball elevator.    
+which funnels them to a golf-ball elevator.    
 
 56
 00:03:36,951 --> 00:03:39,684
-      they're on their way      
-       to get cleaned up.       
+they're on their way to get cleaned up.       
 
 57
 00:03:39,720 --> 00:03:41,219
-  look closely, and you'll see  
+look closely, and you'll see  
 
 58
 00:03:41,288 --> 00:03:44,155
-    little pieces of leftover   
-   plastic on the ball shells.  
+little pieces of leftover plastic on the ball shells.  
 
 59
 00:03:44,225 --> 00:03:46,558
-        the next process        
-      will get rid of that.     
+the next process will get rid of that.     
 
 60
 00:03:50,364 --> 00:03:54,299
-   this is an automatic miller  
+this is an automatic miller  
 that removes the excess plastic.
 
 61
 00:04:03,077 --> 00:04:06,111
-       this is a golf ball      
-         before milling.        
+this is a golf ball before milling.        
 
 62
 00:04:06,246 --> 00:04:08,046
-      and here it is after.     
+and here it is after.     
 
 63
 00:04:08,048 --> 00:04:11,582
-      the flecks of plastic     
-       have been removed.       
+the flecks of plastic have been removed.       
 
 64
 00:04:11,619 --> 00:04:14,986
-        next robotic arms       
-      shovel the golf balls     
+next robotic arms shovel the golf balls     
 
 65
 00:04:14,989 --> 00:04:16,521
-     towards a chute entry.     
+towards a chute entry.     
 
 66
 00:04:16,657 --> 00:04:18,590
-  this is a quality checkpoint. 
+this is a quality checkpoint. 
 
 67
 00:04:18,659 --> 00:04:20,658
-    if the ball is not smooth   
-          and uniform,          
+if the ball is not smooth and uniform,          
 
 68
 00:04:20,694 --> 00:04:23,328
- it won't go through this hole. 
+it won't go through this hole. 
 
 69
 00:04:23,364 --> 00:04:27,599
 now a wheel rolls the golf balls
-   towards a stamping machine.  
+towards a stamping machine.  
 
 70
 00:04:27,734 --> 00:04:31,870
 robotic arms carry silicone pads
-    to an etched steel plate.   
+to an etched steel plate.   
 
 71
 00:04:32,005 --> 00:04:34,639
-      the pads soak up ink      
-      from the etched plate     
+the pads soak up ink from the etched plate     
 
 72
 00:04:34,641 --> 00:04:36,341
-  and transfer it to the balls. 
+and transfer it to the balls. 
 
 73
 00:04:41,782 --> 00:04:44,749
-    the pads brand each ball    
-      with a player number,     
+the pads brand each ball with a player number,     
 
 74
 00:04:44,818 --> 00:04:47,552
-        the company name,       
-       and the model type.      
+the company name, and the model type.      
 
 75
 00:04:47,621 --> 00:04:51,023
- then beams of ultraviolet light
-         harden the ink.        
+then beams of ultraviolet light
+harden the ink.        
 
 76
 00:05:00,367 --> 00:05:02,634
- they dump the balls into a bin,
+they dump the balls into a bin,
 
 77
 00:05:02,703 --> 00:05:07,038
- but they funnel some balls over
-  to another stamping machine.  
+but they funnel some balls over
+to another stamping machine.  
 
 78
 00:05:07,107 --> 00:05:09,240
-  this one does custom logoing. 
+this one does custom logoing. 
 
 79
 00:05:09,276 --> 00:05:11,276
@@ -370,7 +327,7 @@ now, that's a stamp of approval.
 80
 00:05:13,113 --> 00:05:16,848
 next an automated machine sprays
-   the balls with polyurethane  
+the balls with polyurethane  
 
 81
 00:05:16,983 --> 00:05:18,917
@@ -378,816 +335,706 @@ while they rotate atop spindles.
 
 82
 00:05:18,986 --> 00:05:21,853
-        the polyurethane        
-     protects the ink logos     
+the polyurethane protects the ink logos     
 
 83
 00:05:21,922 --> 00:05:24,690
-     that have been stamped     
-          on the balls.         
+that have been stamped on the balls.         
 
 84
 00:05:30,264 --> 00:05:34,266
-   robotic arms carry the wet   
-  golf balls to a drying rack,  
+robotic arms carry the wet golf balls to a drying rack,  
 
 85
 00:05:34,268 --> 00:05:38,937
- where they cook at 150 degrees 
-    fahrenheit for 5 minutes.   
+where they cook at 150 degrees fahrenheit for 5 minutes.   
 
 86
 00:05:38,939 --> 00:05:41,873
-       then they're done.       
+then they're done.       
 
 87
 00:05:41,942 --> 00:05:45,009
-    and that's the technique    
-      behind the golf ball.     
+and that's the technique behind the golf ball.     
 
 88
 00:05:45,045 --> 00:05:48,480
-    it's up to you to explain   
-      your golf technique.      
+it's up to you to explain your golf technique.      
 
 89
 00:05:57,691 --> 00:06:00,625
-   narrator: imagine a dresser  
- with antique-style brass pulls.
+narrator: imagine a dresser with antique-style brass pulls.
 
 90
 00:06:00,761 --> 00:06:04,429
-  now imagine that same dresser 
- with country-style wooden knobs
+now imagine that same dresser with country-style wooden knobs
 
 91
 00:06:04,431 --> 00:06:08,032
- or funky plastic knobs or sleek
-   handles in stainless steel.  
+or funky plastic knobs or sleek
+handles in stainless steel.  
 
 92
 00:06:08,102 --> 00:06:09,401
-     the decorative hardware    
+the decorative hardware    
 
 93
 00:06:09,436 --> 00:06:11,436
-     on a piece of furniture    
-         or on cabinetry        
+on a piece of furniture or on cabinetry        
 
 94
 00:06:11,571 --> 00:06:13,305
- dramatically affects its look, 
+dramatically affects its look, 
 
 95
 00:06:13,440 --> 00:06:16,742
-   so changing them is an easy  
-    and inexpensive makeover.   
+so changing them is an easy and inexpensive makeover.   
 
 96
 00:06:20,447 --> 00:06:22,380
-     how would we get a grip    
-            on things           
+how would we get a grip on things           
 
 97
 00:06:22,416 --> 00:06:23,848
-   without knobs and handles?   
+without knobs and handles?   
 
 98
 00:06:23,884 --> 00:06:26,851
-   they're more than something  
-  that can open doors for you.  
+they're more than something that can open doors for you.  
 
 99
 00:06:26,920 --> 00:06:30,989
-       the many styles add      
- to the appeal of our furniture.
+the many styles add to the appeal of our furniture.
 
 100
 00:06:30,991 --> 00:06:35,059
- to make a handle, an electrical
- hoist drops big chunks of zinc 
+to make a handle, an electrical
+hoist drops big chunks of zinc 
 
 101
 00:06:35,095 --> 00:06:37,062
-     into a melting furnace.    
+into a melting furnace.    
 
 102
 00:06:37,197 --> 00:06:40,465
-   at 800 degrees fahrenheit,   
+at 800 degrees fahrenheit,   
 metal quickly turns into liquid.
 
 103
 00:06:40,467 --> 00:06:44,136
 it's so hot, you'd lose a finger
-       if you touched it.       
+if you touched it.       
 
 104
 00:06:44,271 --> 00:06:47,339
- automated arms move an iron pot
-       full of the liquid       
+automated arms move an iron pot
+full of the liquid       
 
 105
 00:06:47,474 --> 00:06:48,606
-       to a railroad car,       
+to a railroad car,       
 
 106
 00:06:48,675 --> 00:06:51,476
-         which takes it         
-       to the next stage.       
+which takes it to the next stage.       
 
 107
 00:06:51,611 --> 00:06:53,545
- here they pour the liquid metal
+here they pour the liquid metal
 
 108
 00:06:53,547 --> 00:06:55,814
-      into another furnace      
-       that's just as hot.      
+into another furnace that's just as hot.      
 
 109
 00:06:55,816 --> 00:06:57,682
-         this is called         
-       a machine furnace.       
+this is called a machine furnace.       
 
 110
 00:06:57,751 --> 00:07:01,953
- a hydraulically driven cylinder
-     pushes the liquid metal    
+a hydraulically driven cylinder
+pushes the liquid metal    
 
 111
 00:07:01,955 --> 00:07:03,955
-   through a system of nozzles  
-            and pipes           
+through a system of nozzles and pipes           
 
 112
 00:07:03,957 --> 00:07:05,423
-  that run through the furnace. 
+that run through the furnace. 
 
 113
 00:07:05,492 --> 00:07:07,893
-   it carries the liquid metal  
-            to a die.           
+it carries the liquid metal to a die.           
 
 114
 00:07:08,028 --> 00:07:11,129
-   the die shapes the handles   
-      cookie-cutter style.      
+the die shapes the handles cookie-cutter style.      
 
 115
 00:07:14,435 --> 00:07:16,634
- water flushes through the die. 
+water flushes through the die. 
 
 116
 00:07:16,703 --> 00:07:18,035
-    this cools down the zinc,   
+this cools down the zinc,   
 
 117
 00:07:18,071 --> 00:07:20,037
-         and it hardens         
-       into a handle shape      
+and it hardens into a handle shape      
 
 118
 00:07:20,073 --> 00:07:21,439
-   with a lot of extra molding  
+with a lot of extra molding  
 
 119
 00:07:21,508 --> 00:07:23,742
-   that they're going to have   
-         to get rid of.         
+that they're going to have to get rid of.         
 
 120
 00:07:26,179 --> 00:07:28,045
-  so, now that they've cooled,  
+so, now that they've cooled,  
 
 121
 00:07:28,081 --> 00:07:31,716
-     it's safe to touch them    
- and remove some of that waste. 
+it's safe to touch them and remove some of that waste. 
 
 122
 00:07:31,785 --> 00:07:33,718
-  a worker snaps some of it off 
+a worker snaps some of it off 
 
 123
 00:07:33,787 --> 00:07:35,920
-    and tosses it into a bin    
-      for recycling later,      
+and tosses it into a bin for recycling later,      
 
 124
 00:07:35,956 --> 00:07:38,656
-      and the handle shapes     
-     go into a separate bin.    
+and the handle shapes go into a separate bin.    
 
 125
 00:07:38,725 --> 00:07:42,193
- but there are still some little
-  bits of waste on the handles  
+but there are still some little
+bits of waste on the handles  
 
 126
 00:07:42,229 --> 00:07:43,461
-        called overflows,       
+called overflows,       
 
 127
 00:07:43,563 --> 00:07:47,098
 so a mechanically driven spinner
-    tosses the handles around   
+tosses the handles around   
 
 128
 00:07:47,134 --> 00:07:50,201
-  and knocks off any overflows  
-     that have been missed.     
+and knocks off any overflows that have been missed.     
 
 129
 00:07:50,237 --> 00:07:53,972
- it's a lot faster than picking 
+it's a lot faster than picking 
 off those little pieces by hand.
 
 130
 00:07:59,746 --> 00:08:02,547
 a worker dumps the handle shapes
-           into a bin.          
+into a bin.          
 
 131
 00:08:02,549 --> 00:08:05,383
-   they're definitely starting  
-       to take shape now.       
+they're definitely starting to take shape now.       
 
 132
 00:08:09,356 --> 00:08:12,824
-  a similar die-casting system  
-     is used to make knobs,     
+a similar die-casting system is used to make knobs,     
 
 133
 00:08:12,893 --> 00:08:16,093
-       but the knobs come       
-   in two interlocking pieces.  
+but the knobs come in two interlocking pieces.  
 
 134
 00:08:16,129 --> 00:08:19,731
- they place them on a turntable 
-     and fit them together.     
+they place them on a turntable and fit them together.     
 
 135
 00:08:23,070 --> 00:08:26,771
-  then a 4-ton hydraulic press  
-    presses down on the knob,   
+then a 4-ton hydraulic press presses down on the knob,   
 
 136
 00:08:26,807 --> 00:08:28,507
-  and that pressure seals them. 
+and that pressure seals them. 
 
 137
 00:08:28,642 --> 00:08:30,708
-       they pour a mixture      
-  of water and oil on the knobs 
+they pour a mixture of water and oil on the knobs 
 
 138
 00:08:30,777 --> 00:08:32,443
-   to cool and lubricate them,  
+to cool and lubricate them,  
 
 139
 00:08:32,513 --> 00:08:34,112
-   while an automated machine   
+while an automated machine   
 
 140
 00:08:34,247 --> 00:08:36,314
-  drives a screw into the back  
-          of the knob.          
+drives a screw into the back of the knob.          
 
 141
 00:08:36,316 --> 00:08:38,850
-   this makes a thread pattern  
-          inside of it          
+this makes a thread pattern inside of it          
 
 142
 00:08:38,852 --> 00:08:41,987
-   so it can be easily screwed  
-      onto furniture later.     
+so it can be easily screwed onto furniture later.     
 
 143
 00:08:42,122 --> 00:08:45,390
-   now they plunge the handles  
-      into a chemical bath.     
+now they plunge the handles into a chemical bath.     
 
 144
 00:08:45,392 --> 00:08:48,259
-       the chemicals help       
-     to conduct electricity.    
+the chemicals help to conduct electricity.    
 
 145
 00:08:48,295 --> 00:08:50,729
-          this process          
-    is called electroplating.   
+this process is called electroplating.   
 
 146
 00:08:50,731 --> 00:08:52,664
-           the handles          
-     are negatively charged.    
+the handles are negatively charged.    
 
 147
 00:08:52,799 --> 00:08:56,468
 the brass particles in the water
-     are positively charged.    
+are positively charged.    
 
 148
 00:08:56,470 --> 00:08:58,269
-    they attract and connect,   
+they attract and connect,   
 
 149
 00:08:58,305 --> 00:09:01,439
-         and this causes        
-   the brass plating to form.   
+and this causes the brass plating to form.   
 
 150
 00:09:01,475 --> 00:09:04,475
-      they dip the handles      
-  into the chemical wash twice  
+they dip the handles into the chemical wash twice  
 
 151
 00:09:04,545 --> 00:09:06,545
-      and then rinse twice.     
+and then rinse twice.     
 
 152
 00:09:14,588 --> 00:09:18,222
 next they dump the brass handles
-       into a vat of acid.      
+into a vat of acid.      
 
 153
 00:09:18,292 --> 00:09:19,691
-        this oxidizes it,       
+this oxidizes it,       
 
 154
 00:09:19,760 --> 00:09:22,961
-      blackening the finish     
-    to make it look antique.    
+blackening the finish to make it look antique.    
 
 155
 00:09:23,096 --> 00:09:26,097
-    this brass pull has aged    
-         a hundred years        
+this brass pull has aged a hundred years        
 
 156
 00:09:26,166 --> 00:09:27,899
-     in just a few minutes.     
+in just a few minutes.     
 
 157
 00:09:31,104 --> 00:09:34,372
-  next they funnel the handles  
-   into a big, round polisher.  
+next they funnel the handles into a big, round polisher.  
 
 158
 00:09:34,441 --> 00:09:36,173
-  it's called a bowl vibrator.  
+it's called a bowl vibrator.  
 
 159
 00:09:36,209 --> 00:09:39,177
-    the handles are mixed in    
-    with steel ball bearings.   
+the handles are mixed in with steel ball bearings.   
 
 160
 00:09:39,246 --> 00:09:40,845
-      the machine vibrates,     
+the machine vibrates,     
 
 161
 00:09:40,881 --> 00:09:44,783
- and the friction from the ball 
- bearings polishes the handles. 
+and the friction from the ball bearings polishes the handles. 
 
 162
 00:09:44,785 --> 00:09:48,420
- now those antique brass handles
-     have a shinier finish.     
+now those antique brass handles
+have a shinier finish.     
 
 163
 00:09:51,158 --> 00:09:53,791
-       sometimes they use       
- ceramic pellets in the polisher
+sometimes they use ceramic pellets in the polisher
 
 164
 00:09:53,827 --> 00:09:55,193
-    instead of ball bearings.   
+instead of ball bearings.   
 
 165
 00:09:55,195 --> 00:09:57,862
-    they spray soap and water   
-          into the bowl         
+they spray soap and water into the bowl         
 
 166
 00:09:57,864 --> 00:10:01,332
-    to lubricate the handles    
- and allow them to move freely. 
+to lubricate the handles and allow them to move freely. 
 
 167
 00:10:01,401 --> 00:10:04,735
-      this gentler friction     
- results in a different finish. 
+this gentler friction results in a different finish. 
 
 168
 00:10:04,771 --> 00:10:07,672
-    the polish on the handles   
-        will be brighter.       
+the polish on the handles will be brighter.       
 
 169
 00:10:11,411 --> 00:10:13,811
-      now they put a handle     
-          into a clamp.         
+now they put a handle into a clamp.         
 
 170
 00:10:13,847 --> 00:10:16,481
-       with air pressure,       
-      it squeeze the handle     
+with air pressure, it squeeze the handle     
 
 171
 00:10:16,616 --> 00:10:18,950
-        so that it hooks        
-        into a backplate.       
+so that it hooks into a backplate.       
 
 172
 00:10:18,952 --> 00:10:21,953
- when the pressure is released, 
-        the fit is snug.        
+when the pressure is released, the fit is snug.        
 
 173
 00:10:22,088 --> 00:10:25,757
-   a front and backplate gives  
- a handle a more elaborate look.
+a front and backplate gives a handle a more elaborate look.
 
 174
 00:10:30,030 --> 00:10:32,564
-       they buff up a knob      
-  with a cloth polishing wheel  
+they buff up a knob with a cloth polishing wheel  
 
 175
 00:10:32,566 --> 00:10:33,898
-   that's mechanically driven.  
+that's mechanically driven.  
 
 176
 00:10:33,967 --> 00:10:38,370
-    this process gives knobs    
-  and handles a certain gleam.  
+this process gives knobs and handles a certain gleam.  
 
 177
 00:10:38,505 --> 00:10:40,372
-    it's the finishing touch.   
+it's the finishing touch.   
 
 178
 00:11:03,196 --> 00:11:06,530
-            narrator:           
- the beatles wrote a song about 
-   lovely rita the meter maid,  
+narrator: the beatles wrote a song about lovely rita the meter maid,  
 
 179
 00:11:06,566 --> 00:11:08,867
-   but try finding anyone else  
-       singing the praises      
+but try finding anyone else singing the praises      
 
 180
 00:11:08,869 --> 00:11:10,601
-   of those uniformed patrols   
+of those uniformed patrols   
 
 181
 00:11:10,671 --> 00:11:13,871
-       who ticket your car      
-    when your meter expires.    
+who ticket your car when your meter expires.    
 
 182
 00:11:13,907 --> 00:11:17,809
- parking meters have been around
-        since the 1930s,        
+parking meters have been around
+since the 1930s,        
 
 183
 00:11:17,811 --> 00:11:20,979
-  and ever since then, drivers  
-  have had to pay for parking.  
+and ever since then, drivers have had to pay for parking.  
 
 184
 00:11:27,087 --> 00:11:28,619
-      it's time to find out     
+it's time to find out     
 
 185
 00:11:28,689 --> 00:11:32,690
-    just how these heavy-duty   
-      piggy banks are made.     
+just how these heavy-duty piggy banks are made.     
 
 186
 00:11:32,726 --> 00:11:34,759
-    first the low-tech part.    
+first the low-tech part.    
 
 187
 00:11:34,828 --> 00:11:38,028
-    the time-limit label goes   
- onto a zinc dome-shaped plate. 
+the time-limit label goes onto a zinc dome-shaped plate. 
 
 188
 00:11:38,065 --> 00:11:40,598
- then a worker sprays lubricant 
+then a worker sprays lubricant 
 
 189
 00:11:40,634 --> 00:11:42,900
-       onto various parts       
-       of the motherboard       
+onto various parts of the motherboard       
 
 190
 00:11:42,969 --> 00:11:45,170
-          that contains         
-       computer circuitry.      
+that contains computer circuitry.      
 
 191
 00:11:45,172 --> 00:11:48,439
-    after he snaps the board    
+after he snaps the board    
 onto the plate, he screws it in.
 
 192
 00:11:48,475 --> 00:11:51,509
-     then he fastens another    
+then he fastens another    
 dome-shaped plate onto the back,
 
 193
 00:11:51,545 --> 00:11:55,246
-   sandwiching the motherboard  
-     between the two plates.    
+sandwiching the motherboard between the two plates.    
 
 194
 00:11:55,381 --> 00:11:57,248
-  the worker hooks the board up 
+the worker hooks the board up 
 
 195
 00:11:57,383 --> 00:11:59,584
-     to the power source --     
-       the battery pack --      
+to the power source -- the battery pack --      
 
 196
 00:11:59,586 --> 00:12:02,186
-      and he tucks the pack     
-   into a special compartment   
+and he tucks the pack into a special compartment   
 
 197
 00:12:02,222 --> 00:12:04,589
-      so that it's secure.      
+so that it's secure.      
 
 198
 00:12:04,724 --> 00:12:07,926
-   then he plugs a programming  
-    device called an "x" key    
+then he plugs a programming device called an "x" key    
 
 199
 00:12:08,061 --> 00:12:10,861
-     into prongs protruding     
-      from the motherboard.     
+into prongs protruding from the motherboard.     
 
 200
 00:12:10,897 --> 00:12:13,932
-     the key feeds software     
-   to the motherboard inside.   
+the key feeds software to the motherboard inside.   
 
 201
 00:12:14,067 --> 00:12:17,202
-       when numbers appear      
- on the screen, it's programmed.
+when numbers appear on the screen, it's programmed.
 
 202
 00:12:17,204 --> 00:12:19,537
-         the next piece,        
-      called a smartchute,      
+the next piece, called a smartchute,      
 
 203
 00:12:19,672 --> 00:12:21,405
-  also has computer circuitry.  
+also has computer circuitry.  
 
 204
 00:12:21,441 --> 00:12:24,809
-      it analyzes the coins     
- as they fall through the meter.
+it analyzes the coins as they fall through the meter.
 
 205
 00:12:24,811 --> 00:12:27,979
-   it can even recognize coins  
-      from other countries.     
+it can even recognize coins from other countries.     
 
 206
 00:12:31,985 --> 00:12:34,886
-     he puts the chute into     
-   a protective plastic casing  
+he puts the chute into a protective plastic casing  
 
 207
 00:12:35,021 --> 00:12:37,355
-          and plugs it          
-   into the protruding prongs   
+and plugs it into the protruding prongs   
 
 208
 00:12:37,357 --> 00:12:39,490
-     that were used earlier     
-      to program the meter.     
+that were used earlier to program the meter.     
 
 209
 00:12:39,559 --> 00:12:41,292
-         the two boards         
-        make a connection       
+the two boards make a connection       
 
 210
 00:12:41,328 --> 00:12:43,294
-     and can now communicate    
-         to one another.        
+and can now communicate to one another.        
 
 211
 00:12:43,330 --> 00:12:46,096
-  he clicks another zinc plate  
-       over the coin chute      
+he clicks another zinc plate over the coin chute      
 
 212
 00:12:46,133 --> 00:12:49,367
-   and adds a stainless-steel   
- coin slot for added protection.
+and adds a stainless-steel coin slot for added protection.
 
 213
 00:12:49,369 --> 00:12:51,502
-            this card           
-   is a radio-frequency probe   
+this card is a radio-frequency probe   
 
 214
 00:12:51,571 --> 00:12:54,038
-   that detects how much money  
-         is in the meter        
+that detects how much money is in the meter        
 
 215
 00:12:54,107 --> 00:12:56,574
-           as well as           
-    maintenance information.    
+as well as maintenance information.    
 
 216
 00:12:56,576 --> 00:13:00,044
 just how good is a parking meter
-       at analyzing coins?      
+at analyzing coins?      
 
 217
 00:13:00,113 --> 00:13:02,980
-      this particular meter     
-       was made in canada.      
+this particular meter was made in canada.      
 
 218
 00:13:03,049 --> 00:13:05,383
-        a canadian nickel       
-     and a british 20 pence     
+a canadian nickel and a british 20 pence     
 
 219
 00:13:05,385 --> 00:13:06,785
-   are roughly the same size.   
+are roughly the same size.   
 
 220
 00:13:06,920 --> 00:13:09,788
-    put in a canadian nickel,   
-   and you get three minutes.   
+put in a canadian nickel, and you get three minutes.   
 
 221
 00:13:13,093 --> 00:13:15,994
-      but try the 20 pence.     
-       nothing registers.       
+but try the 20 pence. nothing registers.       
 
 222
 00:13:16,129 --> 00:13:19,764
-       the meter treats it      
-       like a plug nickel.      
+the meter treats it like a plug nickel.      
 
 223
 00:13:22,435 --> 00:13:25,403
-       the meters are now       
-  in an environmental chamber.  
+the meters are now in an environmental chamber.  
 
 224
 00:13:25,405 --> 00:13:29,073
 this chamber replicates the most
-   extreme climate conditions.  
+extreme climate conditions.  
 
 225
 00:13:29,109 --> 00:13:32,877
 it's a test to make sure they're
-  ready for life on the street. 
+ready for life on the street. 
 
 226
 00:13:32,879 --> 00:13:34,879
-  now it's time to make a lock. 
+now it's time to make a lock. 
 
 227
 00:13:34,881 --> 00:13:38,483
- he puts a zinc-alloy lock plug 
-    containing brass tumblers   
+he puts a zinc-alloy lock plug containing brass tumblers   
 
 228
 00:13:38,485 --> 00:13:40,218
-     into a miniature lathe.    
+into a miniature lathe.    
 
 229
 00:13:40,287 --> 00:13:43,087
-     the lathe spins rapidly    
-           on its axis          
+the lathe spins rapidly on its axis          
 
 230
 00:13:43,123 --> 00:13:45,623
-         while pressing         
- against the hard steel blades. 
+while pressing against the hard steel blades. 
 
 231
 00:13:45,659 --> 00:13:47,892
-         the blades cut         
-   the spinning lock tumblers   
+the blades cut the spinning lock tumblers   
 
 232
 00:13:48,027 --> 00:13:49,627
-   to the appropriate length.   
+to the appropriate length.   
 
 233
 00:13:49,762 --> 00:13:51,162
-           the result?          
+the result?          
 
 234
 00:13:51,164 --> 00:13:54,098
-   a lock plug that has brass   
-  tumblers of different lengths 
+a lock plug that has brass tumblers of different lengths 
 
 235
 00:13:54,167 --> 00:13:57,635
-      that can't be opened      
-    without the correct key.    
+that can't be opened without the correct key.    
 
 236
 00:13:57,671 --> 00:14:00,705
-      here a worker places      
-    the lock barrel in a vise   
+here a worker places the lock barrel in a vise   
 
 237
 00:14:00,840 --> 00:14:03,708
-      to give a better view     
-       of the lock system.      
+to give a better view of the lock system.      
 
 238
 00:14:03,710 --> 00:14:06,511
-         as you can see,        
-  it turns easily with the key. 
+as you can see, it turns easily with the key. 
 
 239
 00:14:06,513 --> 00:14:08,513
-      but, vandals, beware.     
+but, vandals, beware.     
 
 240
 00:14:08,515 --> 00:14:12,717
-      this lock is designed     
-      to be tough to pick.      
+this lock is designed to be tough to pick.      
 
 241
 00:14:15,789 --> 00:14:18,923
-    next he inserts the lock    
-  into the bottom of a coin can 
+next he inserts the lock into the bottom of a coin can 
 
 242
 00:14:18,925 --> 00:14:20,258
-     that's made of plastic.    
+that's made of plastic.    
 
 243
 00:14:20,327 --> 00:14:21,659
-          he closes it          
+he closes it          
 
 244
 00:14:21,794 --> 00:14:24,796
-   and then puts it on what's   
- called a sonic welding machine.
+and then puts it on what's called a sonic welding machine.
 
 245
 00:14:24,798 --> 00:14:27,432
-     it emits high-frequency    
-        sound vibrations        
+it emits high-frequency sound vibrations        
 
 246
 00:14:27,534 --> 00:14:30,001
-       that actually melt       
-       the rigid plastic,       
+that actually melt the rigid plastic,       
 
 247
 00:14:30,070 --> 00:14:34,005
-         welding the top        
-   and bottom pieces together.  
+welding the top and bottom pieces together.  
 
 248
 00:14:34,074 --> 00:14:37,074
-     now these coins will be    
-     really tough to get out    
+now these coins will be really tough to get out    
 
 249
 00:14:37,143 --> 00:14:39,210
-        without that key.       
+without that key.       
 
 250
 00:14:39,279 --> 00:14:42,347
-  next he brushes a second lock 
-     system with a lubricant    
+next he brushes a second lock system with a lubricant    
 
 251
 00:14:42,482 --> 00:14:44,148
-  and adds a hard steel shield  
+and adds a hard steel shield  
 
 252
 00:14:44,150 --> 00:14:47,618
-    that will resist attempts   
-        to drill into it.       
+that will resist attempts to drill into it.       
 
 253
 00:14:47,621 --> 00:14:50,021
@@ -1195,93 +1042,84 @@ this lock goes onto an iron door
 
 254
 00:14:50,090 --> 00:14:54,425
- which will be part of the vault
-   that contains the coin can.  
+which will be part of the vault
+that contains the coin can.  
 
 255
 00:14:54,494 --> 00:14:57,495
-  he brushes the lock assembly  
-     with another lubricant     
+he brushes the lock assembly with another lubricant     
 
 256
 00:14:57,497 --> 00:14:59,898
-  to make the locking operation 
-            smoother.           
+to make the locking operation smoother.           
 
 257
 00:15:07,908 --> 00:15:10,708
 then he installs a rubber gasket
-         along the frame        
+along the frame        
 
 258
 00:15:10,777 --> 00:15:12,443
-   for the meter dome window.   
+for the meter dome window.   
 
 259
 00:15:12,445 --> 00:15:14,111
-   this gasket seals the dome   
+this gasket seals the dome   
 
 260
 00:15:14,147 --> 00:15:16,613
-  and protects the electronics  
-       from harsh weather.      
+and protects the electronics from harsh weather.      
 
 261
 00:15:16,650 --> 00:15:19,316
 he places a tough plastic window
-          on the gasket         
+on the gasket         
 
 262
 00:15:19,352 --> 00:15:21,051
- and tops it with a zinc strap. 
+and tops it with a zinc strap. 
 
 263
 00:15:21,087 --> 00:15:23,120
-    he screws all the pieces    
-            together.           
+he screws all the pieces together.           
 
 264
 00:15:23,189 --> 00:15:26,590
-  then he places the iron case  
+then he places the iron case  
 that will hold all the mechanics
 
 265
 00:15:26,660 --> 00:15:29,260
-       on top of the vault      
-    containing the coin can.    
+on top of the vault containing the coin can.    
 
 266
 00:15:29,262 --> 00:15:33,330
-  he attaches the windowed cap  
- and strap assembly with hinges.
+he attaches the windowed cap and strap assembly with hinges.
 
 267
 00:15:33,366 --> 00:15:34,666
-    and there's a third lock    
+and there's a third lock    
 
 268
 00:15:34,801 --> 00:15:38,269
- to help protect the electrical 
+to help protect the electrical 
 components of the parking meter.
 
 269
 00:15:38,404 --> 00:15:40,537
-          after a check         
-      for fit and function,     
+after a check for fit and function,     
 
 270
 00:15:40,573 --> 00:15:42,540
-           he installs          
-      the actual mechanics.     
+he installs the actual mechanics.     
 
 271
 00:15:42,675 --> 00:15:44,408
- this means it's all systems go.
+this means it's all systems go.
 
 272
 00:15:44,444 --> 00:15:47,211
-   the parking meter is ready   
-         for the street.        
+the parking meter is ready for the street.        
 
 273
 00:15:47,247 --> 00:15:49,280
@@ -1289,102 +1127,90 @@ later the coins can be collected
 
 274
 00:15:49,282 --> 00:15:52,083
-      without even opening      
-      the plastic coin can.     
+without even opening the plastic coin can.     
 
 275
 00:15:52,085 --> 00:15:54,485
-     this special receptacle    
-       activates the lock       
+this special receptacle activates the lock       
 
 276
 00:15:54,487 --> 00:15:55,886
-    at the bottom of the can.   
+at the bottom of the can.   
 
 277
 00:15:55,922 --> 00:15:59,624
 once turned, the coins deposited
-     into the parking meter     
+into the parking meter     
 
 278
 00:15:59,759 --> 00:16:01,859
-    drop into the receptacle.   
+drop into the receptacle.   
 
 279
 00:16:08,501 --> 00:16:11,101
-      narrator: if you need     
- to section off part of a room, 
+narrator: if you need to section off part of a room, 
 
 280
 00:16:11,137 --> 00:16:14,238
-  there are many types of room  
-  dividers that can do the job. 
+there are many types of room dividers that can do the job. 
 
 281
 00:16:14,240 --> 00:16:18,109
 accordion doors routinely divide
-         meeting rooms.         
+meeting rooms.         
 
 282
 00:16:18,111 --> 00:16:20,578
-      sliding walls made up     
-       of multiple panels       
+sliding walls made up of multiple panels       
 
 283
 00:16:20,713 --> 00:16:23,581
-        can easily split        
- a large reception hall in half 
+can easily split a large reception hall in half 
 
 284
 00:16:23,583 --> 00:16:26,684
-     or partition an office     
-       in no time at all.       
+or partition an office in no time at all.       
 
 285
 00:16:33,259 --> 00:16:36,728
-  this particular company makes 
-  two types of room dividers -- 
+this particular company makes two types of room dividers -- 
 
 286
 00:16:36,863 --> 00:16:39,129
-         sliding panels         
-      called operable walls     
+sliding panels called operable walls     
 
 287
 00:16:39,165 --> 00:16:41,065
-      and accordion doors.      
+and accordion doors.      
 
 288
 00:16:41,134 --> 00:16:43,801
-            both have           
-     built-in soundproofing.    
+both have built-in soundproofing.    
 
 289
 00:16:43,936 --> 00:16:46,738
-      the folding mechanism     
+the folding mechanism     
 at the core of an accordion door
 
 290
 00:16:46,873 --> 00:16:48,338
-     is called a pantograph.    
+is called a pantograph.    
 
 291
 00:16:48,375 --> 00:16:50,675
-  it's made of flat steel bars  
-        riveted together        
+it's made of flat steel bars riveted together        
 
 292
 00:16:50,677 --> 00:16:53,210
- in a crisscross configuration. 
+in a crisscross configuration. 
 
 293
 00:16:53,279 --> 00:16:55,746
-  a worker tightens the rivets  
+a worker tightens the rivets  
 
 294
 00:16:55,749 --> 00:16:57,815
-  just enough to hold the bars  
-           in position          
+just enough to hold the bars in position          
 
 295
 00:16:57,950 --> 00:17:00,751
@@ -1392,183 +1218,157 @@ without impeding their movement.
 
 296
 00:17:00,787 --> 00:17:03,287
-      then he inserts pins      
-    along the top and bottom,   
+then he inserts pins along the top and bottom,   
 
 297
 00:17:03,423 --> 00:17:07,691
-          securing them         
-   with steel retaining rings.  
+securing them with steel retaining rings.  
 
 298
 00:17:07,727 --> 00:17:09,560
- the pantograph is custom-built 
+the pantograph is custom-built 
 
 299
 00:17:09,596 --> 00:17:13,163
- to expand to the precise width 
-   of the door they're making,  
+to expand to the precise width of the door they're making,  
 
 300
 00:17:13,199 --> 00:17:14,698
- the pins attached to the covers
+the pins attached to the covers
 
 301
 00:17:14,768 --> 00:17:16,900
-         that will later        
-    sandwich the pantograph,    
+that will later sandwich the pantograph,    
 
 302
 00:17:16,936 --> 00:17:20,838
-  forming the accordion door's  
-            surface.            
+forming the accordion door's surface.            
 
 303
 00:17:20,840 --> 00:17:23,440
-      to make those covers,     
-     they first make slats.     
+to make those covers, they first make slats.     
 
 304
 00:17:23,476 --> 00:17:26,710
-     this automated machine     
-  hot-glues a band of cardboard 
+this automated machine hot-glues a band of cardboard 
 
 305
 00:17:26,780 --> 00:17:28,112
-      onto a band of steel.     
+onto a band of steel.     
 
 306
 00:17:28,148 --> 00:17:30,081
-    then a series of rollers    
+then a series of rollers    
 
 307
 00:17:30,150 --> 00:17:32,517
-       progressively folds      
-        the sides upward,       
+progressively folds the sides upward,       
 
 308
 00:17:32,652 --> 00:17:35,720
-      forming a steel edge      
-      around the cardboard.     
+forming a steel edge around the cardboard.     
 
 309
 00:17:35,855 --> 00:17:39,590
-    finally the machine cuts    
- the continuous band into slats,
+finally the machine cuts the continuous band into slats,
 
 310
 00:17:39,725 --> 00:17:41,859
-   whose length is the height   
-      of the accordion door     
+whose length is the height of the accordion door     
 
 311
 00:17:41,994 --> 00:17:44,261
-         they're making.        
+they're making.        
 
 312
 00:17:44,297 --> 00:17:46,397
- now workers pair up the slats, 
+now workers pair up the slats, 
 
 313
 00:17:46,532 --> 00:17:49,400
-         connecting them        
-     with cardboard strips.     
+connecting them with cardboard strips.     
 
 314
 00:17:54,007 --> 00:17:56,874
-       they feed each pair      
-      into a glue machine.      
+they feed each pair into a glue machine.      
 
 315
 00:17:56,876 --> 00:17:58,609
-   the slats come out adhered   
+the slats come out adhered   
 
 316
 00:17:58,611 --> 00:18:03,181
-   to a soft and flexible type  
-   of paper that's tearproof.   
+to a soft and flexible type of paper that's tearproof.   
 
 317
 00:18:11,291 --> 00:18:14,692
- next workers connect six pairs 
-    of slats to form a panel.   
+next workers connect six pairs of slats to form a panel.   
 
 318
 00:18:14,827 --> 00:18:17,495
-        then they glue on       
-    the decorative surface --   
+then they glue on the decorative surface --   
 
 319
 00:18:17,630 --> 00:18:20,965
-          in this case,         
-    commercial-quality vinyl.   
+in this case, commercial-quality vinyl.   
 
 320
 00:18:21,100 --> 00:18:23,567
-   to block sound from passing  
-        through the space       
+to block sound from passing through the space       
 
 321
 00:18:23,636 --> 00:18:25,636
-         above and below        
-       the accordion door,      
+above and below the accordion door,      
 
 322
 00:18:25,771 --> 00:18:27,905
-         a worker glues         
-     a felt-and-vinyl strip     
+a worker glues a felt-and-vinyl strip     
 
 323
 00:18:27,941 --> 00:18:30,707
-      to the top and bottom     
-         of each panel.         
+to the top and bottom of each panel.         
 
 324
 00:18:30,743 --> 00:18:33,844
- after lining the inside of each
-    panel with acoustic wool,   
+after lining the inside of each
+panel with acoustic wool,   
 
 325
 00:18:33,913 --> 00:18:35,246
-    a soundproofing material,   
+a soundproofing material,   
 
 326
 00:18:35,381 --> 00:18:37,781
-     another worker gathers     
-      the number of panels      
+another worker gathers the number of panels      
 
 327
 00:18:37,817 --> 00:18:39,650
- required for the door's width. 
+required for the door's width. 
 
 328
 00:18:39,785 --> 00:18:40,851
-        he attaches them        
+he attaches them        
 
 329
 00:18:40,887 --> 00:18:43,588
-    using industrial-strength   
-         steel staples.         
+using industrial-strength steel staples.         
 
 330
 00:18:43,590 --> 00:18:46,257
-          then he slips         
-     u-shaped steel channels    
+then he slips u-shaped steel channels    
 
 331
 00:18:46,326 --> 00:18:49,193
-        onto what will be       
-    the door's inside folds.    
+onto what will be the door's inside folds.    
 
 332
 00:18:49,195 --> 00:18:52,196
-  using an air-powered machine  
-        called a serter,        
+using an air-powered machine called a serter,        
 
 333
 00:18:52,232 --> 00:18:55,633
- he presses the channels tightly
-            in place.           
+he presses the channels tightly
+in place.           
 
 334
 00:18:59,139 --> 00:19:01,339
@@ -1576,146 +1376,125 @@ now he installs the pentographs.
 
 335
 00:19:01,341 --> 00:19:04,341
-     the height of the doors    
-       determine how many.      
+the height of the doors determine how many.      
 
 336
 00:19:04,377 --> 00:19:06,476
-  using steel retaining rings,  
+using steel retaining rings,  
 
 337
 00:19:06,513 --> 00:19:10,047
-  he locks the pentograph pins  
-   into holes on the channels.  
+he locks the pentograph pins into holes on the channels.  
 
 338
 00:19:14,387 --> 00:19:17,989
-    the second cover goes on    
-          the same way.         
+the second cover goes on the same way.         
 
 339
 00:19:28,801 --> 00:19:31,636
-           after this,          
-   workers apply a metal trim   
+after this, workers apply a metal trim   
 
 340
 00:19:31,638 --> 00:19:34,171
-     to finish off the front    
-         and back ends.         
+to finish off the front and back ends.         
 
 341
 00:19:34,240 --> 00:19:38,042
- they also install a handle for 
-  opening and closing the door. 
+they also install a handle for opening and closing the door. 
 
 342
 00:19:38,044 --> 00:19:41,646
-    the door hangs by wheels    
- attached to the top pentograph.
+the door hangs by wheels attached to the top pentograph.
 
 343
 00:19:41,648 --> 00:19:45,182
-   operable walls are made up   
-   of several sliding panels.   
+operable walls are made up of several sliding panels.   
 
 344
 00:19:45,251 --> 00:19:48,452
-          for each one,         
+for each one,         
 workers build an aluminum frame,
 
 345
 00:19:48,454 --> 00:19:50,922
-          then install          
-  a soundproofing mechanism --  
+then install a soundproofing mechanism --  
 
 346
 00:19:51,057 --> 00:19:52,857
- a crank-activated aluminum seal
+a crank-activated aluminum seal
 
 347
 00:19:52,859 --> 00:19:55,893
-  that juts out to fill the gap 
-   above and below the panel.   
+that juts out to fill the gap above and below the panel.   
 
 348
 00:19:57,730 --> 00:20:00,397
 to make the front and back faces
-         of each panel,         
+of each panel,         
 
 349
 00:20:00,433 --> 00:20:02,866
-   workers begin with a sheet   
-        of gypsum board.        
+workers begin with a sheet of gypsum board.        
 
 350
 00:20:02,936 --> 00:20:05,069
-       to one side of it,       
-     they glue a steel sheet    
+to one side of it, they glue a steel sheet    
 
 351
 00:20:05,204 --> 00:20:08,339
-         that's at least        
-     4/100 of an inch thick.    
+that's at least 4/100 of an inch thick.    
 
 352
 00:20:08,341 --> 00:20:10,074
-  this provides soundproofing.  
+this provides soundproofing.  
 
 353
 00:20:10,143 --> 00:20:13,211
-  to the other side, they glue  
-     a decorative surface --    
+to the other side, they glue a decorative surface --    
 
 354
 00:20:13,346 --> 00:20:14,745
-     in this case, laminate,    
+in this case, laminate,    
 
 355
 00:20:14,747 --> 00:20:18,482
-    a thinner version of the    
- material used for countertops. 
+a thinner version of the material used for countertops. 
 
 356
 00:20:18,484 --> 00:20:21,619
-  a machine called a pinch roll 
-        applies pressure        
+a machine called a pinch roll applies pressure        
 
 357
 00:20:21,754 --> 00:20:23,988
-            to ensure           
-   the laminate adheres well.   
+to ensure the laminate adheres well.   
 
 358
 00:20:25,758 --> 00:20:28,025
-     workers slide the face     
-         into the frame,        
+workers slide the face into the frame,        
 
 359
 00:20:28,061 --> 00:20:29,160
-       fill in the middle       
+fill in the middle       
 
 360
 00:20:29,162 --> 00:20:31,428
-      with acoustical wool      
-       for soundproofing,       
+with acoustical wool for soundproofing,       
 
 361
 00:20:31,497 --> 00:20:34,665
- then slide in a second facing. 
+then slide in a second facing. 
 
 362
 00:20:40,173 --> 00:20:42,440
-    they close up the bottom,   
+they close up the bottom,   
 
 363
 00:20:42,575 --> 00:20:46,010
-    then test the retractable   
-       soundproofing seal.      
+then test the retractable soundproofing seal.      
 
 364
 00:20:49,382 --> 00:20:51,716
-          the last step         
-    is to install the wheels    
+the last step is to install the wheels    
 
 365
 00:20:51,718 --> 00:20:53,718
@@ -1723,30 +1502,25 @@ that run along the ceiling rail.
 
 366
 00:20:55,688 --> 00:20:59,323
-  an operable wall can have one 
-    or many types of faces --   
+an operable wall can have one or many types of faces --   
 
 367
 00:20:59,325 --> 00:21:02,059
-      from fabric, mirror,      
-       or galvanized steel      
+from fabric, mirror, or galvanized steel      
 
 368
 00:21:02,194 --> 00:21:06,230
-   to blackboard, markerboard,  
-    even cork bulletin board.   
+to blackboard, markerboard, even cork bulletin board.   
 
 369
 00:21:12,672 --> 00:21:14,472
-    if you have any comments    
-         about the show         
+if you have any comments about the show         
 
 370
 00:21:14,607 --> 00:21:17,207
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 371
 00:21:17,277 --> 00:21:18,809
-      drop us a line at...      
+drop us a line at...      
 

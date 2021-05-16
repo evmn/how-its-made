@@ -1,740 +1,635 @@
 ﻿1
 00:00:01,736 --> 00:00:04,737
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,739 --> 00:00:07,773
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:53,321 --> 00:00:56,255
- narrator: the first stock cars 
-  were souped-up family sedans. 
+narrator: the first stock cars were souped-up family sedans. 
 
 4
 00:00:56,324 --> 00:00:59,859
- but today, they're custom-built
-       for the racetrack.       
+but today, they're custom-built
+for the racetrack.       
 
 5
 00:00:59,861 --> 00:01:02,661
-          each car body         
-     must match the contours    
+each car body must match the contours    
 
 6
 00:01:02,730 --> 00:01:04,797
-   of templates set by nascar,  
+of templates set by nascar,  
 
 7
 00:01:04,799 --> 00:01:08,167
-    the national association    
-    of stock car auto racing.   
+the national association of stock car auto racing.   
 
 8
 00:01:15,176 --> 00:01:17,610
-        on the racetrack,       
-       the shape of a car       
+on the racetrack, the shape of a car       
 
 9
 00:01:17,612 --> 00:01:20,880
- can give it an aerodynamic edge
-      over the competition,     
+can give it an aerodynamic edge
+over the competition,     
 
 10
 00:01:21,015 --> 00:01:26,118
- so in nascar races, car bodies 
-    must have uniform curves.   
+so in nascar races, car bodies must have uniform curves.   
 
 11
 00:01:26,154 --> 00:01:29,288
-  the regulations put the focus 
-         on driver skill        
+the regulations put the focus on driver skill        
 
 12
 00:01:29,423 --> 00:01:31,357
-  and make the race a fair one. 
+and make the race a fair one. 
 
 13
 00:01:31,426 --> 00:01:34,560
-         they mold some         
-     of the car's body parts    
+they mold some of the car's body parts    
 
 14
 00:01:34,562 --> 00:01:36,629
-       from a carbon fiber      
-      and kevlar material.      
+from a carbon fiber and kevlar material.      
 
 15
 00:01:36,764 --> 00:01:40,766
-   first, a technician applies  
-    a release agent to a mold   
+first, a technician applies a release agent to a mold   
 
 16
 00:01:40,802 --> 00:01:42,701
-    for the car's front end.    
+for the car's front end.    
 
 17
 00:01:42,770 --> 00:01:45,438
 then he sprays a paint undercoat
-            into it.            
+into it.            
 
 18
 00:01:45,573 --> 00:01:50,843
- this undercoat will eventually 
+this undercoat will eventually 
 transfer to the completed panel.
 
 19
 00:01:50,845 --> 00:01:55,314
 a computerized cutter slices the
- carbon fiber and kevlar fabric 
+carbon fiber and kevlar fabric 
 
 20
 00:01:55,449 --> 00:01:56,949
-          into strips.          
+into strips.          
 
 21
 00:01:59,354 --> 00:02:01,720
-     it produces 22 pieces,     
+it produces 22 pieces,     
 
 22
 00:02:01,756 --> 00:02:05,457
-       each one cut to fit      
+each one cut to fit      
 a different section of the mold.
 
 23
 00:02:05,493 --> 00:02:08,994
 the technician rolls epoxy resin
-         onto the fabric        
+onto the fabric        
 
 24
 00:02:08,996 --> 00:02:10,462
-      one strip at a time.      
+one strip at a time.      
 
 25
 00:02:10,531 --> 00:02:13,466
-         once the strip         
-   has been completely coated,  
+once the strip has been completely coated,  
 
 26
 00:02:13,601 --> 00:02:15,601
-  he transfers it to the mold.  
+he transfers it to the mold.  
 
 27
 00:02:18,740 --> 00:02:21,407
-       he tucks the fabric      
-        into the contours       
+he tucks the fabric into the contours       
 
 28
 00:02:21,409 --> 00:02:23,909
-         and smooths out        
-        any big wrinkles.       
+and smooths out any big wrinkles.       
 
 29
 00:02:25,413 --> 00:02:29,481
- he layers the strips three deep
-  in a crisscross configuration 
+he layers the strips three deep
+in a crisscross configuration 
 
 30
 00:02:29,517 --> 00:02:32,417
-    for structural integrity.   
+for structural integrity.   
 
 31
 00:02:32,453 --> 00:02:36,589
-  a co-worker covers the carbon 
- fiber with perforated plastic. 
+a co-worker covers the carbon fiber with perforated plastic. 
 
 32
 00:02:38,960 --> 00:02:42,828
-  they add layers of absorbent  
-  polyester and thick plastic,  
+they add layers of absorbent polyester and thick plastic,  
 
 33
 00:02:42,963 --> 00:02:45,765
-         which they glue        
-    to the edge of the mold.    
+which they glue to the edge of the mold.    
 
 34
 00:02:45,900 --> 00:02:49,034
-      they insert a fitting     
-      and connect a vacuum,     
+they insert a fitting and connect a vacuum,     
 
 35
 00:02:49,037 --> 00:02:52,638
-       which sucks out air      
-     and excess epoxy resin.    
+which sucks out air and excess epoxy resin.    
 
 36
 00:02:52,707 --> 00:02:55,441
-     the polyester material     
-       soaks up the resin       
+the polyester material soaks up the resin       
 
 37
 00:02:55,510 --> 00:02:59,178
-  as it flows through the holes 
-   in the first plastic layer.  
+as it flows through the holes in the first plastic layer.  
 
 38
 00:02:59,180 --> 00:03:03,648
- this both smooths and compacts 
-    the carbon-fiber layers.    
+this both smooths and compacts the carbon-fiber layers.    
 
 39
 00:03:03,718 --> 00:03:07,253
-    then it's into a hot oven   
-    to bake for three hours.    
+then it's into a hot oven to bake for three hours.    
 
 40
 00:03:07,388 --> 00:03:09,121
-    this activates the epoxy    
+this activates the epoxy    
 
 41
 00:03:09,157 --> 00:03:12,925
-   and combines the layers of   
- carbon fiber and kevlar fabric.
+and combines the layers of carbon fiber and kevlar fabric.
 
 42
 00:03:13,026 --> 00:03:16,529
-       an employee removes      
-  the completed stock-car panel 
+an employee removes the completed stock-car panel 
 
 43
 00:03:16,531 --> 00:03:17,830
-        and inspects it.        
+and inspects it.        
 
 44
 00:03:19,467 --> 00:03:21,801
-         then it's over         
-       to a weigh station.      
+then it's over to a weigh station.      
 
 45
 00:03:21,936 --> 00:03:24,069
-     at just under 8 pounds,    
+at just under 8 pounds,    
 
 46
 00:03:24,105 --> 00:03:27,540
-     the part is lightweight    
-   yet virtually shatterproof.  
+the part is lightweight yet virtually shatterproof.  
 
 47
 00:03:27,675 --> 00:03:29,675
- meanwhile, at another factory, 
+meanwhile, at another factory, 
 
 48
 00:03:29,810 --> 00:03:32,411
-         work begins on         
-     the stock-car chassis.     
+work begins on the stock-car chassis.     
 
 49
 00:03:32,413 --> 00:03:36,082
- they build it from square steel
-   tubing that's super strong.  
+they build it from square steel
+tubing that's super strong.  
 
 50
 00:03:36,217 --> 00:03:38,617
-           an employee          
-    welds the pieces together   
+an employee welds the pieces together   
 
 51
 00:03:38,653 --> 00:03:41,353
-  to create a support structure 
-          for the car.          
+to create a support structure for the car.          
 
 52
 00:03:42,390 --> 00:03:43,955
-      at the next station,      
+at the next station,      
 
 53
 00:03:43,958 --> 00:03:47,693
-  a worker forces narrow steel  
-   tubing against a spiral bit  
+a worker forces narrow steel tubing against a spiral bit  
 
 54
 00:03:47,828 --> 00:03:49,829
-     to carve notches in it.    
+to carve notches in it.    
 
 55
 00:03:51,099 --> 00:03:53,598
-           this tubing          
-      is for the roll cage,     
+this tubing is for the roll cage,     
 
 56
 00:03:53,634 --> 00:03:57,836
- the structure that protects the
- driver if there's an accident. 
+the structure that protects the
+driver if there's an accident. 
 
 57
 00:03:57,872 --> 00:04:01,573
-      the notches will help     
-       form better joints.      
+the notches will help form better joints.      
 
 58
 00:04:01,609 --> 00:04:06,244
-   he grinds the rough edges,   
-    creating a smooth surface   
+he grinds the rough edges, creating a smooth surface   
 
 59
 00:04:06,280 --> 00:04:09,248
-        to weld the tube        
-  to the rest of the roll cage. 
+to weld the tube to the rest of the roll cage. 
 
 60
 00:04:15,323 --> 00:04:18,724
-     once complete, the team    
-     transfers the roll cage    
+once complete, the team transfers the roll cage    
 
 61
 00:04:18,726 --> 00:04:21,961
-        to the main frame       
-         of the chassis.        
+to the main frame of the chassis.        
 
 62
 00:04:24,332 --> 00:04:27,533
-        they tack-weld it       
-  before doing the final welds. 
+they tack-weld it before doing the final welds. 
 
 63
 00:04:31,872 --> 00:04:34,673
-          the next part         
-    is called the rear clip.    
+the next part is called the rear clip.    
 
 64
 00:04:34,709 --> 00:04:39,745
- it holds the fuel tank and has 
- mounts for the rear suspension.
+it holds the fuel tank and has mounts for the rear suspension.
 
 65
 00:04:39,880 --> 00:04:42,881
-     with the car framework     
-          now complete,         
+with the car framework now complete,         
 
 66
 00:04:42,950 --> 00:04:46,485
-      a technician scans it     
+a technician scans it     
 using a digital measuring probe.
 
 67
 00:04:46,487 --> 00:04:49,789
-     the scan confirms that     
-   the dimensions are correct.  
+the scan confirms that the dimensions are correct.  
 
 68
 00:04:51,793 --> 00:04:54,092
-        they now assemble       
-        the various steel       
+they now assemble the various steel       
 
 69
 00:04:54,162 --> 00:04:57,663
-   and carbon-fiber body parts  
-   to the stock-car framework.  
+and carbon-fiber body parts to the stock-car framework.  
 
 70
 00:05:02,036 --> 00:05:04,369
-          they measure          
-     the completed car body     
+they measure the completed car body     
 
 71
 00:05:04,438 --> 00:05:06,705
- by laying template grids on it.
+by laying template grids on it.
 
 72
 00:05:06,841 --> 00:05:11,710
-      the biggest one sits      
-   over the center of the car.  
+the biggest one sits over the center of the car.  
 
 73
 00:05:11,779 --> 00:05:14,113
-        they pull a gauge       
-        through the gaps        
+they pull a gauge through the gaps        
 
 74
 00:05:14,115 --> 00:05:16,715
-      between the templates     
-        and the car body.       
+between the templates and the car body.       
 
 75
 00:05:18,586 --> 00:05:22,521
-      the gap cannot exceed     
-  the tolerances set by nascar. 
+the gap cannot exceed the tolerances set by nascar. 
 
 76
 00:05:22,590 --> 00:05:25,190
- they often must tweak the shape
-         of a body part         
+they often must tweak the shape
+of a body part         
 
 77
 00:05:25,259 --> 00:05:27,126
-      to meet regulations.      
+to meet regulations.      
 
 78
 00:05:29,397 --> 00:05:31,330
- once the car has been painted, 
+once the car has been painted, 
 
 79
 00:05:31,332 --> 00:05:35,000
-   they apply headlight decals  
+they apply headlight decals  
 where the real ones usually are.
 
 80
 00:05:35,135 --> 00:05:37,603
-         real headlights        
-    would add too much weight   
+real headlights would add too much weight   
 
 81
 00:05:37,672 --> 00:05:40,306
-     and pose a safety risk     
-       if they shattered.       
+and pose a safety risk if they shattered.       
 
 82
 00:05:42,276 --> 00:05:45,210
-     it's taken three weeks     
-       of intensive work,       
+it's taken three weeks of intensive work,       
 
 83
 00:05:45,279 --> 00:05:49,014
-     but this stock-car body    
- is now ready for the mechanics.
+but this stock-car body is now ready for the mechanics.
 
 84
 00:05:49,149 --> 00:05:52,484
-        things are about        
-        to pick up speed.       
+things are about to pick up speed.       
 
 85
 00:06:05,967 --> 00:06:08,234
-  narrator: the game of hurling 
-   has been played in ireland   
+narrator: the game of hurling has been played in ireland   
 
 86
 00:06:08,369 --> 00:06:10,435
-    for at least 2,000 years.   
+for at least 2,000 years.   
 
 87
 00:06:10,504 --> 00:06:13,171
-      players swing a stick     
-         called a hurley        
+players swing a stick called a hurley        
 
 88
 00:06:13,207 --> 00:06:17,376
-     to hit a ball the size     
-  of a hockey puck into a net.  
+to hit a ball the size of a hockey puck into a net.  
 
 89
 00:06:17,378 --> 00:06:19,577
-      winning takes skill,      
-         quick reflexes,        
+winning takes skill, quick reflexes,        
 
 90
 00:06:19,614 --> 00:06:22,147
-         and, of course,        
-     the luck of the irish.     
+and, of course, the luck of the irish.     
 
 91
 00:06:25,653 --> 00:06:28,254
-          pass the ball         
-   and pass on the tradition.   
+pass the ball and pass on the tradition.   
 
 92
 00:06:28,389 --> 00:06:30,255
- hurling is a game that's older 
+hurling is a game that's older 
 
 93
 00:06:30,291 --> 00:06:32,858
-    than the recorded history   
-           of ireland.          
+than the recorded history of ireland.          
 
 94
 00:06:36,931 --> 00:06:40,599
-  in ireland, hurleys are still 
-  made the old-fashioned way -- 
+in ireland, hurleys are still made the old-fashioned way -- 
 
 95
 00:06:40,668 --> 00:06:42,968
-     by hand in small shops.    
+by hand in small shops.    
 
 96
 00:06:45,406 --> 00:06:47,940
-   ash is the wood of choice.   
+ash is the wood of choice.   
 
 97
 00:06:47,942 --> 00:06:50,809
-     they use only the part     
-    of the tree near the root   
+they use only the part of the tree near the root   
 
 98
 00:06:50,845 --> 00:06:53,679
-     because the grain flows    
-    in a natural curve there,   
+because the grain flows in a natural curve there,   
 
 99
 00:06:53,781 --> 00:06:57,616
-  making the stick less likely  
-      to break during play.     
+making the stick less likely to break during play.     
 
 100
 00:06:57,752 --> 00:07:00,286
-        the hurley maker        
-        slices the trunk        
+the hurley maker slices the trunk        
 
 101
 00:07:00,421 --> 00:07:03,155
-           into planks          
-    that are one inch thick.    
+into planks that are one inch thick.    
 
 102
 00:07:03,224 --> 00:07:07,226
-      he'll make one hurley     
-        from each plank.        
+he'll make one hurley from each plank.        
 
 103
 00:07:08,529 --> 00:07:10,962
-      he stacks the planks      
+he stacks the planks      
 
 104
 00:07:10,965 --> 00:07:14,333
-   and then picks through them  
-   to select one for shaping.   
+and then picks through them to select one for shaping.   
 
 105
 00:07:19,140 --> 00:07:22,374
-    he scrutinizes the curve    
-   of the grain on the boards.  
+he scrutinizes the curve of the grain on the boards.  
 
 106
 00:07:22,376 --> 00:07:23,842
-     it needs to be suitable    
+it needs to be suitable    
 
 107
 00:07:23,844 --> 00:07:26,645
-   for the size of the hurley   
-        he'll be making.        
+for the size of the hurley he'll be making.        
 
 108
 00:07:28,049 --> 00:07:29,914
-       his selection made,      
+his selection made,      
 
 109
 00:07:29,951 --> 00:07:32,718
-     he places a see-through    
-  plastic pattern on the board. 
+he places a see-through plastic pattern on the board. 
 
 110
 00:07:32,853 --> 00:07:36,655
-   the transparency allows him  
- to find the curve of the grain 
+the transparency allows him to find the curve of the grain 
 
 111
 00:07:36,657 --> 00:07:40,125
-   and position it within the   
- striking surface of the hurley.
+and position it within the striking surface of the hurley.
 
 112
 00:07:40,127 --> 00:07:43,562
-  he draws an outline around it 
-         with a pencil.         
+he draws an outline around it with a pencil.         
 
 113
 00:07:45,866 --> 00:07:48,867
-        after a rough cut       
-    and some initial shaping,   
+after a rough cut and some initial shaping,   
 
 114
 00:07:48,903 --> 00:07:52,571
-    he re-pencils the pattern   
-  and cuts it with a band saw.  
+he re-pencils the pattern and cuts it with a band saw.  
 
 115
 00:07:57,878 --> 00:08:01,679
-      the striking surface      
+the striking surface      
 of the hurley is called the bas.
 
 116
 00:08:01,716 --> 00:08:04,516
- it's the most substantial part 
-          of the stick.         
+it's the most substantial part of the stick.         
 
 117
 00:08:07,287 --> 00:08:10,956
- he sculpts the stick to various
-   thicknesses with a planer.   
+he sculpts the stick to various
+thicknesses with a planer.   
 
 118
 00:08:15,062 --> 00:08:18,764
-  he keeps it thick at the bas  
-    and thins it at the stem    
+he keeps it thick at the bas and thins it at the stem    
 
 119
 00:08:18,899 --> 00:08:20,832
-        to give the stick       
-         some elasticity        
+to give the stick some elasticity        
 
 120
 00:08:20,901 --> 00:08:22,301
-     when striking the ball.    
+when striking the ball.    
 
 121
 00:08:22,303 --> 00:08:25,871
-   this will allow the player   
-    to hit the ball farther.    
+this will allow the player to hit the ball farther.    
 
 122
 00:08:32,947 --> 00:08:36,582
-       he sands the edges       
-     to make them more even.    
+he sands the edges to make them more even.    
 
 123
 00:08:36,584 --> 00:08:40,119
-        he tapers the bas       
-        to the very end,        
+he tapers the bas to the very end,        
 
 124
 00:08:40,254 --> 00:08:43,322
 creating a sloped surface so the
-  ball can be picked up easily. 
+ball can be picked up easily. 
 
 125
 00:08:47,194 --> 00:08:50,529
-        he then switches        
-  to a finer grid abrasive belt 
+he then switches to a finer grid abrasive belt 
 
 126
 00:08:50,664 --> 00:08:53,132
-      and sands the handle      
-    and the rest of the stick   
+and sands the handle and the rest of the stick   
 
 127
 00:08:53,134 --> 00:08:55,034
-    until it's super smooth.    
+until it's super smooth.    
 
 128
 00:08:57,405 --> 00:08:59,938
-   next, he cuts steel banding  
-           to a length          
+next, he cuts steel banding to a length          
 
 129
 00:08:59,940 --> 00:09:03,375
-    that's a little more than   
- twice the diameter of the bas. 
+that's a little more than twice the diameter of the bas. 
 
 130
 00:09:05,880 --> 00:09:08,813
-        he loops the band       
-    around the end of the bas   
+he loops the band around the end of the bas   
 
 131
 00:09:08,816 --> 00:09:10,749
-   and clamps it snugly to it.  
+and clamps it snugly to it.  
 
 132
 00:09:13,621 --> 00:09:16,789
-      he drives large nails     
-  into the band to puncture it. 
+he drives large nails into the band to puncture it. 
 
 133
 00:09:20,294 --> 00:09:22,827
-    he hammers smaller nails    
-        into those holes        
+he hammers smaller nails into those holes        
 
 134
 00:09:22,863 --> 00:09:24,963
-         and all the way        
-        through the wood.       
+and all the way through the wood.       
 
 135
 00:09:28,435 --> 00:09:31,636
- he clips the protruding nails. 
+he clips the protruding nails. 
 
 136
 00:09:31,672 --> 00:09:35,941
-  he then flattens the cut ends 
- to turn the nails into rivets. 
+he then flattens the cut ends to turn the nails into rivets. 
 
 137
 00:09:40,114 --> 00:09:42,247
-        he folds the ends       
-   of the looped band together  
+he folds the ends of the looped band together  
 
 138
 00:09:42,316 --> 00:09:45,851
-      at the rim of the bas     
-   and nails them to the wood.  
+at the rim of the bas and nails them to the wood.  
 
 139
 00:09:49,023 --> 00:09:51,656
-     now securely attached,     
+now securely attached,     
 
 140
 00:09:51,692 --> 00:09:53,592
-         the steel band         
-    will reinforce the hurley   
+the steel band will reinforce the hurley   
 
 141
 00:09:53,661 --> 00:09:58,464
- at its most vulnerable point --
+at its most vulnerable point --
 the end of the striking surface.
 
 142
 00:09:58,599 --> 00:10:01,533
-        not every player        
-   wants their hurley banded.   
+not every player wants their hurley banded.   
 
 143
 00:10:01,569 --> 00:10:04,603
-  this is an optional feature.  
+this is an optional feature.  
 
 144
 00:10:04,738 --> 00:10:07,606
-    he now winds rubber tape    
-      just under the handle     
+he now winds rubber tape just under the handle     
 
 145
 00:10:07,608 --> 00:10:08,941
-      for better gripping.      
+for better gripping.      
 
 146
 00:10:10,945 --> 00:10:14,279
-    he continues to twist it    
-     partway down the stick     
+he continues to twist it partway down the stick     
 
 147
 00:10:14,281 --> 00:10:18,217
-    because players sometimes   
- grip it there with both hands. 
+because players sometimes grip it there with both hands. 
 
 148
 00:10:20,087 --> 00:10:23,488
-     he finishes the wrap at    
- both ends with electrical tape,
+he finishes the wrap at both ends with electrical tape,
 
 149
 00:10:23,491 --> 00:10:25,823
-       which has stronger       
-        adhesive backing.       
+which has stronger adhesive backing.       
 
 150
 00:10:25,860 --> 00:10:28,927
-   it will prevent unraveling   
-       of the rubber tape.      
+it will prevent unraveling of the rubber tape.      
 
 151
 00:10:32,099 --> 00:10:36,100
-   it's taken about 20 minutes  
-   to craft this hurley stick.  
+it's taken about 20 minutes to craft this hurley stick.  
 
 152
 00:10:36,137 --> 00:10:39,237
-      how long it will last     
-       is anyone's guess.       
+how long it will last is anyone's guess.       
 
 153
 00:10:39,306 --> 00:10:41,440
- there's no warranty on hurleys,
+there's no warranty on hurleys,
 
 154
 00:10:41,575 --> 00:10:44,242
-     and it's sure to break     
-          at some point         
+and it's sure to break at some point         
 
 155
 00:10:44,278 --> 00:10:47,178
@@ -742,821 +637,705 @@ because hurling is a rough game.
 
 156
 00:10:47,214 --> 00:10:51,283
-     some players go through    
- several hurleys in one season. 
+some players go through several hurleys in one season. 
 
 157
 00:10:54,455 --> 00:10:57,188
-        it doesn't matter       
-       if you lose a stick      
+it doesn't matter if you lose a stick      
 
 158
 00:10:57,224 --> 00:10:59,191
-  as long as you win the game.  
+as long as you win the game.  
 
 159
 00:11:15,543 --> 00:11:16,941
-            narrator:           
-       in an audio system,      
+narrator: in an audio system,      
 
 160
 00:11:16,977 --> 00:11:19,544
- the amplifier is the component 
-  which makes the sound louder  
+the amplifier is the component which makes the sound louder  
 
 161
 00:11:19,547 --> 00:11:22,548
-  and sends it to the speakers. 
+and sends it to the speakers. 
 
 162
 00:11:22,683 --> 00:11:25,751
-  while most amps on the market 
-   are powered by transistors,  
+while most amps on the market are powered by transistors,  
 
 163
 00:11:25,886 --> 00:11:29,688
-        many audiophiles        
-    swear by tube amplifiers,   
+many audiophiles swear by tube amplifiers,   
 
 164
 00:11:29,757 --> 00:11:32,558
-         which use older        
-     vacuum-tube technology.    
+which use older vacuum-tube technology.    
 
 165
 00:11:34,561 --> 00:11:37,329
-      [ guitar notes play ]     
+[ guitar notes play ]     
 
 166
 00:11:38,966 --> 00:11:41,166
-          many believe          
-      that tube amplifiers      
+many believe that tube amplifiers      
 
 167
 00:11:41,235 --> 00:11:44,969
-        produce a warmer,       
-       more natural sound.      
+produce a warmer, more natural sound.      
 
 168
 00:11:45,005 --> 00:11:47,439
-  this factory makes the amp's  
-          main chassis          
+this factory makes the amp's main chassis          
 
 169
 00:11:47,441 --> 00:11:49,841
-          from a sheet          
-  of polished stainless steel.  
+from a sheet of polished stainless steel.  
 
 170
 00:11:49,843 --> 00:11:52,244
-  a computer-guided punch press 
+a computer-guided punch press 
 
 171
 00:11:52,313 --> 00:11:55,247
-      cuts openings for the     
- power switches, control knobs, 
+cuts openings for the power switches, control knobs, 
 
 172
 00:11:55,382 --> 00:11:56,781
-      and other components.     
+and other components.     
 
 173
 00:11:56,850 --> 00:12:00,252
 the press prepares eight chassis
-           per sheet.           
+per sheet.           
 
 174
 00:12:00,254 --> 00:12:04,188
-      workers separate them     
- with a few strikes of a mallet.
+workers separate them with a few strikes of a mallet.
 
 175
 00:12:04,225 --> 00:12:06,325
-      then they place them      
-          one at a time         
+then they place them one at a time         
 
 176
 00:12:06,460 --> 00:12:09,661
-      in a bending machine      
-      called a press break.     
+in a bending machine called a press break.     
 
 177
 00:12:09,796 --> 00:12:13,264
-  once they position the sheet  
- with the help of metal guides, 
+once they position the sheet with the help of metal guides, 
 
 178
 00:12:13,300 --> 00:12:15,067
-   they activate a foot pedal,  
+they activate a foot pedal,  
 
 179
 00:12:15,069 --> 00:12:18,971
-  releasing 90 tons of pressure 
- to bend the edge of the sheet. 
+releasing 90 tons of pressure to bend the edge of the sheet. 
 
 180
 00:12:21,542 --> 00:12:23,608
-        then they remove        
-        the adhesive film       
+then they remove the adhesive film       
 
 181
 00:12:23,611 --> 00:12:26,411
-    which has been protecting   
-    the mirror-finish surface   
+which has been protecting the mirror-finish surface   
 
 182
 00:12:26,480 --> 00:12:27,813
-         of the chassis.        
+of the chassis.        
 
 183
 00:12:27,948 --> 00:12:31,850
-  they clean off any remaining  
- adhesive residue with alcohol. 
+they clean off any remaining adhesive residue with alcohol. 
 
 184
 00:12:33,354 --> 00:12:37,155
-    then they put the chassis   
-      into an offset press.     
+then they put the chassis into an offset press.     
 
 185
 00:12:37,157 --> 00:12:39,891
-       using a silk-screen      
-        printing process,       
+using a silk-screen printing process,       
 
 186
 00:12:39,960 --> 00:12:42,694
-     it labels the controls     
-        and connections.        
+it labels the controls and connections.        
 
 187
 00:12:44,965 --> 00:12:46,965
- next are the speaker terminals,
+next are the speaker terminals,
 
 188
 00:12:46,967 --> 00:12:49,834
- which connect the speaker wires
-           to the amp.          
+which connect the speaker wires
+to the amp.          
 
 189
 00:12:49,870 --> 00:12:53,171
-    these connectors are made   
-      of gold-plated brass,     
+these connectors are made of gold-plated brass,     
 
 190
 00:12:53,207 --> 00:12:55,106
-  which are nonmagnetic metals. 
+which are nonmagnetic metals. 
 
 191
 00:12:55,175 --> 00:12:57,976
-    magnetic ones would react   
-     to the electric current    
+magnetic ones would react to the electric current    
 
 192
 00:12:58,111 --> 00:13:00,712
-      and cause distortion.     
+and cause distortion.     
 
 193
 00:13:00,781 --> 00:13:03,582
-  the terminal's circuit board, 
-         installed next,        
+the terminal's circuit board, installed next,        
 
 194
 00:13:03,717 --> 00:13:06,652
-  carries the amplified signal  
-   from the main circuit board  
+carries the amplified signal from the main circuit board  
 
 195
 00:13:06,787 --> 00:13:08,786
-    to the speaker terminals.   
+to the speaker terminals.   
 
 196
 00:13:08,856 --> 00:13:11,322
-    they install and connect    
-        the power switch        
+they install and connect the power switch        
 
 197
 00:13:11,358 --> 00:13:14,593
-    and the circuit board for   
-  the vacuum-tube illumination. 
+and the circuit board for the vacuum-tube illumination. 
 
 198
 00:13:14,595 --> 00:13:17,629
-         this indicates         
-       the tube's status.       
+this indicates the tube's status.       
 
 199
 00:13:19,900 --> 00:13:22,801
-     meanwhile, this machine    
-  winds strands of copper wire  
+meanwhile, this machine winds strands of copper wire  
 
 200
 00:13:22,936 --> 00:13:24,536
-     around plastic bobbins     
+around plastic bobbins     
 
 201
 00:13:24,671 --> 00:13:28,139
-    to begin making the amp's   
-      output transformers.      
+to begin making the amp's output transformers.      
 
 202
 00:13:28,175 --> 00:13:31,342
-       output transformers      
-    match the amp's circuitry   
+output transformers match the amp's circuitry   
 
 203
 00:13:31,378 --> 00:13:35,680
 to the electronic specifications
- of different types of speakers.
+of different types of speakers.
 
 204
 00:13:35,683 --> 00:13:38,617
-      the number of wires,      
-     their different gauges,    
+the number of wires, their different gauges,    
 
 205
 00:13:38,619 --> 00:13:41,619
-  and the number of revolutions 
-        around the bobbin       
+and the number of revolutions around the bobbin       
 
 206
 00:13:41,655 --> 00:13:44,622
-       create this unique       
-         compatibility.         
+create this unique compatibility.         
 
 207
 00:13:44,692 --> 00:13:47,692
-     after taping the wires     
-     to prevent unraveling,     
+after taping the wires to prevent unraveling,     
 
 208
 00:13:47,761 --> 00:13:51,696
- they join, then solder the ends
-      to additional wiring.     
+they join, then solder the ends
+to additional wiring.     
 
 209
 00:13:51,699 --> 00:13:54,166
-     they will later connect    
-    to the amp's main board.    
+they will later connect to the amp's main board.    
 
 210
 00:13:54,301 --> 00:13:58,302
-       a fiberglass sleeve      
-    insulates the connection.   
+a fiberglass sleeve insulates the connection.   
 
 211
 00:13:58,339 --> 00:14:01,773
-      they place the bobbin     
-    in a lamination machine.    
+they place the bobbin in a lamination machine.    
 
 212
 00:14:01,809 --> 00:14:05,177
-   laminations are thin plates  
-        of carbon steel.        
+laminations are thin plates of carbon steel.        
 
 213
 00:14:05,179 --> 00:14:09,181
-     the machine stacks them    
-     all around the bobbin.     
+the machine stacks them all around the bobbin.     
 
 214
 00:14:09,183 --> 00:14:13,685
- then workers put a bolt in each
-  corner to hold them together. 
+then workers put a bolt in each
+corner to hold them together. 
 
 215
 00:14:17,791 --> 00:14:21,660
- they place the laminated bobbin
-     in an aluminum housing     
+they place the laminated bobbin
+in an aluminum housing     
 
 216
 00:14:21,795 --> 00:14:24,796
-   and pour in hot black tar.   
+and pour in hot black tar.   
 
 217
 00:14:24,865 --> 00:14:28,133
 this immobilizes the laminations
-      so they won't rattle      
+so they won't rattle      
 
 218
 00:14:28,202 --> 00:14:31,936
-   when the amp is amplifying   
-        low frequencies.        
+when the amp is amplifying low frequencies.        
 
 219
 00:14:31,972 --> 00:14:35,073
-      then workers install      
-   the two output transformers  
+then workers install the two output transformers  
 
 220
 00:14:35,075 --> 00:14:36,942
-        into the chassis,       
+into the chassis,       
 
 221
 00:14:36,944 --> 00:14:40,479
- along with a third transformer 
-        to power the amp.       
+along with a third transformer to power the amp.       
 
 222
 00:14:42,549 --> 00:14:45,083
-       they take the amp's      
-       main circuit board,      
+they take the amp's main circuit board,      
 
 223
 00:14:45,119 --> 00:14:48,086
-     plug in ceramic sockets    
-     for the vacuum tubes...    
+plug in ceramic sockets for the vacuum tubes...    
 
 224
 00:14:50,624 --> 00:14:53,725
 ...and solder the sockets' leads
-          to the board.         
+to the board.         
 
 225
 00:14:55,829 --> 00:14:58,563
-       then, after feeding      
-     the transformer leads,     
+then, after feeding the transformer leads,     
 
 226
 00:14:58,565 --> 00:15:01,199
-    they mount the main board   
-         in the chassis,        
+they mount the main board in the chassis,        
 
 227
 00:15:01,301 --> 00:15:05,103
-      screwing it to posts      
-      to hold it in place.      
+screwing it to posts to hold it in place.      
 
 228
 00:15:05,105 --> 00:15:08,540
-        then they connect       
-     the transformer leads.     
+then they connect the transformer leads.     
 
 229
 00:15:15,849 --> 00:15:20,051
-   they plug the vacuum tubes   
-  one by one into the sockets.  
+they plug the vacuum tubes one by one into the sockets.  
 
 230
 00:15:20,120 --> 00:15:24,388
-   the tubes are made of glass  
-   with a heat-resistant base.  
+the tubes are made of glass with a heat-resistant base.  
 
 231
 00:15:24,425 --> 00:15:27,525
-      the interior contains     
-     a combination of metals    
+the interior contains a combination of metals    
 
 232
 00:15:27,594 --> 00:15:31,462
-           but no air,          
-   hence the term vacuum tube.  
+but no air, hence the term vacuum tube.  
 
 233
 00:15:31,498 --> 00:15:33,331
- the amp has 11 tubes in all -- 
+the amp has 11 tubes in all -- 
 
 234
 00:15:33,467 --> 00:15:36,067
-        seven small ones        
-     to power input signals     
+seven small ones to power input signals     
 
 235
 00:15:36,069 --> 00:15:39,203
-          from a source         
-       such as a cd player      
+from a source such as a cd player      
 
 236
 00:15:39,239 --> 00:15:42,974
-        and four big ones       
+and four big ones       
 to power output to the speakers.
 
 237
 00:15:46,313 --> 00:15:49,281
-  then they attach the chassis' 
-     ventilated bottom cover    
+then they attach the chassis' ventilated bottom cover    
 
 238
 00:15:49,283 --> 00:15:52,484
-     made of painted steel.     
+made of painted steel.     
 
 239
 00:15:52,486 --> 00:15:53,618
-        they affix decals       
+they affix decals       
 
 240
 00:15:53,654 --> 00:15:56,221
-        to differentiate        
-     the output transformers    
+to differentiate the output transformers    
 
 241
 00:15:56,223 --> 00:15:58,256
-   from the power transformer.  
+from the power transformer.  
 
 242
 00:16:00,561 --> 00:16:03,695
-    l.e.d. lights turn green    
-   when the amp is powered up   
+l.e.d. lights turn green when the amp is powered up   
 
 243
 00:16:03,697 --> 00:16:06,764
-      and ready to deliver      
-    that warm, natural sound    
+and ready to deliver that warm, natural sound    
 
 244
 00:16:06,834 --> 00:16:09,968
-        that many believe       
-  only traditional vacuum tubes 
+that many believe only traditional vacuum tubes 
 
 245
 00:16:10,037 --> 00:16:11,870
-          can produce.          
+can produce.          
 
 246
 00:16:27,921 --> 00:16:31,389
- narrator: people generally like
+narrator: people generally like
 their coffee either hot or iced,
 
 247
 00:16:31,525 --> 00:16:34,792
-         hence the need         
-   for the thermal coffee pot.  
+hence the need for the thermal coffee pot.  
 
 248
 00:16:34,862 --> 00:16:38,062
-       pour in hot coffee,      
-   and the pot holds in heat,   
+pour in hot coffee, and the pot holds in heat,   
 
 249
 00:16:38,098 --> 00:16:40,197
-       keeping the coffee       
-       at that temperature      
+keeping the coffee at that temperature      
 
 250
 00:16:40,234 --> 00:16:42,200
-      for a good half-hour.     
+for a good half-hour.     
 
 251
 00:16:47,941 --> 00:16:51,543
-  the trick to a thermal coffee 
-   pot is in the construction.  
+the trick to a thermal coffee pot is in the construction.  
 
 252
 00:16:51,678 --> 00:16:54,346
-      both the body and lid     
-       have a double wall,      
+both the body and lid have a double wall,      
 
 253
 00:16:54,481 --> 00:16:56,414
- two layers of stainless steel. 
+two layers of stainless steel. 
 
 254
 00:16:56,483 --> 00:17:00,217
-   between them is a tiny gap   
-    just 5 to 6 millimeters.    
+between them is a tiny gap just 5 to 6 millimeters.    
 
 255
 00:17:00,254 --> 00:17:03,622
-       the air in this gap      
-    insulates the inner wall,   
+the air in this gap insulates the inner wall,   
 
 256
 00:17:03,624 --> 00:17:06,157
-        trapping the heat       
-         inside the pot.        
+trapping the heat inside the pot.        
 
 257
 00:17:07,561 --> 00:17:10,495
-         they start with        
-     a stainless-steel sheet    
+they start with a stainless-steel sheet    
 
 258
 00:17:10,630 --> 00:17:12,831
-   just 1.2 millimeters thick.  
+just 1.2 millimeters thick.  
 
 259
 00:17:12,833 --> 00:17:15,967
-   the first step is to cut it  
-       into smaller pieces      
+the first step is to cut it into smaller pieces      
 
 260
 00:17:16,003 --> 00:17:17,435
-     on a mechanical press.     
+on a mechanical press.     
 
 261
 00:17:17,571 --> 00:17:21,572
- to make the coffee pot's body, 
-    they cut it into strips,    
+to make the coffee pot's body, they cut it into strips,    
 
 262
 00:17:21,608 --> 00:17:27,044
-  then each strip into squares  
-      measuring 8x8 inches.     
+then each strip into squares measuring 8x8 inches.     
 
 263
 00:17:27,080 --> 00:17:30,181
-    then they put each square   
-  in another mechanical press.  
+then they put each square in another mechanical press.  
 
 264
 00:17:30,250 --> 00:17:33,451
-      it stamps the square      
-      onto a circular die,      
+it stamps the square onto a circular die,      
 
 265
 00:17:33,587 --> 00:17:35,453
-   which cuts it into a disk.   
+which cuts it into a disk.   
 
 266
 00:17:35,589 --> 00:17:39,057
-    they'll now use this disk   
-     to make the outer wall.    
+they'll now use this disk to make the outer wall.    
 
 267
 00:17:39,192 --> 00:17:41,926
-        they run the disk       
-      through a lubricator      
+they run the disk through a lubricator      
 
 268
 00:17:41,929 --> 00:17:45,530
- that coats the surface with oil
-      to aid the next step      
+that coats the surface with oil
+to aid the next step      
 
 269
 00:17:45,599 --> 00:17:49,601
-       on a machine called      
- a hydraulic deep drawing press.
+on a machine called a hydraulic deep drawing press.
 
 270
 00:17:49,736 --> 00:17:52,337
-      the machine's molders     
-       draw the flat disk       
+the machine's molders draw the flat disk       
 
 271
 00:17:52,406 --> 00:17:54,272
- into a three-dimensional shape.
+into a three-dimensional shape.
 
 272
 00:17:54,407 --> 00:17:56,942
-         this stretches         
-   the stainless-steel fibers   
+this stretches the stainless-steel fibers   
 
 273
 00:17:57,077 --> 00:18:00,011
-    to a very fragile state.    
+to a very fragile state.    
 
 274
 00:18:00,146 --> 00:18:01,546
-    they strengthen the piece   
+they strengthen the piece   
 
 275
 00:18:01,548 --> 00:18:03,815
-        by what's called        
-     thermic normalization,     
+by what's called thermic normalization,     
 
 276
 00:18:03,884 --> 00:18:07,285
-        heating the metal       
-  to 1,800 degrees fahrenheit,  
+heating the metal to 1,800 degrees fahrenheit,  
 
 277
 00:18:07,287 --> 00:18:10,822
-      then letting it cool      
-      to room temperature.      
+then letting it cool to room temperature.      
 
 278
 00:18:10,957 --> 00:18:14,426
-      this process restores     
+this process restores     
 the original molecular structure
 
 279
 00:18:14,561 --> 00:18:16,027
-     of the stainless steel     
+of the stainless steel     
 
 280
 00:18:16,162 --> 00:18:19,497
-   so it can be shaped further  
-        without breaking.       
+so it can be shaped further without breaking.       
 
 281
 00:18:19,533 --> 00:18:23,535
-    but first, they even out    
- the jagged rim with a trimmer. 
+but first, they even out the jagged rim with a trimmer. 
 
 282
 00:18:29,309 --> 00:18:32,777
-    then they return the wall   
-    to the deep drawing press   
+then they return the wall to the deep drawing press   
 
 283
 00:18:32,779 --> 00:18:35,713
-         outfitted with         
-  a differently shaped molder.  
+outfitted with a differently shaped molder.  
 
 284
 00:18:35,782 --> 00:18:40,051
-    the second drawing tapers   
+the second drawing tapers   
 the wall to a more rounded shape
 
 285
 00:18:40,087 --> 00:18:44,723
-    and forms a base to make    
-   the bottom perfectly flat.   
+and forms a base to make the bottom perfectly flat.   
 
 286
 00:18:44,858 --> 00:18:46,524
- then it's back to the trimmer, 
+then it's back to the trimmer, 
 
 287
 00:18:46,593 --> 00:18:50,128
- outfitted with a different tool
-  this time, to smooth the rim. 
+outfitted with a different tool
+this time, to smooth the rim. 
 
 288
 00:18:54,001 --> 00:18:55,667
-   they repeat the same steps   
+they repeat the same steps   
 
 289
 00:18:55,802 --> 00:18:58,335
-    to make the coffee pot's    
-           inner wall.          
+to make the coffee pot's inner wall.          
 
 290
 00:18:58,372 --> 00:19:01,873
-     the deep drawing press     
- pulls the stainless-steel disk 
+the deep drawing press pulls the stainless-steel disk 
 
 291
 00:19:01,875 --> 00:19:03,808
- into a slightly different shape
+into a slightly different shape
 
 292
 00:19:03,943 --> 00:19:07,145
-      with a lip protruding     
-          to one side.          
+with a lip protruding to one side.          
 
 293
 00:19:12,686 --> 00:19:14,885
-       they heat the wall       
-      in the induction oven     
+they heat the wall in the induction oven     
 
 294
 00:19:14,921 --> 00:19:16,821
-           to restore           
-     the molecular structure    
+to restore the molecular structure    
 
 295
 00:19:16,890 --> 00:19:18,456
-    before shaping the metal    
-            further.            
+before shaping the metal further.            
 
 296
 00:19:21,228 --> 00:19:24,629
-    then they place the wall    
- in a mold and release a press. 
+then they place the wall in a mold and release a press. 
 
 297
 00:19:29,436 --> 00:19:33,104
- this shapes the protruding lip 
-          into a spout.         
+this shapes the protruding lip into a spout.         
 
 298
 00:19:35,575 --> 00:19:38,309
-   then they transfer the wall  
-        to another press,       
+then they transfer the wall to another press,       
 
 299
 00:19:38,311 --> 00:19:41,546
-   which stamps it with a die,  
-    cutting off excess metal.   
+which stamps it with a die, cutting off excess metal.   
 
 300
 00:19:43,984 --> 00:19:47,118
-     they check to make sure    
- that the inner and outer walls 
+they check to make sure that the inner and outer walls 
 
 301
 00:19:47,120 --> 00:19:48,652
-     fit together properly.     
+fit together properly.     
 
 302
 00:19:48,689 --> 00:19:50,254
-     if everything is fine,     
+if everything is fine,     
 
 303
 00:19:50,290 --> 00:19:53,724
-     they polish both walls     
-         inside and out.        
+they polish both walls inside and out.        
 
 304
 00:19:53,760 --> 00:19:54,926
-    a little polishing paste    
+a little polishing paste    
 
 305
 00:19:55,062 --> 00:19:57,595
-   applied with a sisal brush   
-     on the polishing wheel     
+applied with a sisal brush on the polishing wheel     
 
 306
 00:19:57,631 --> 00:20:00,265
-   has the surfaces glistening  
-           in no time.          
+has the surfaces glistening in no time.          
 
 307
 00:20:00,400 --> 00:20:04,636
-  the surface is now perfectly  
-  smooth and ready for welding. 
+the surface is now perfectly smooth and ready for welding. 
 
 308
 00:20:06,573 --> 00:20:08,005
-    the first part they weld    
+the first part they weld    
 
 309
 00:20:08,041 --> 00:20:10,542
-       is the coffee pot's      
-     stainless-steel handle.    
+is the coffee pot's stainless-steel handle.    
 
 310
 00:20:10,677 --> 00:20:13,645
- they shape it with two strikes 
-    of a press, then polish.    
+they shape it with two strikes of a press, then polish.    
 
 311
 00:20:16,583 --> 00:20:18,016
-     they use a spot welder     
+they use a spot welder     
 
 312
 00:20:18,151 --> 00:20:21,152
-       to fuse the handle       
-    to the pot's outer wall.    
+to fuse the handle to the pot's outer wall.    
 
 313
 00:20:24,191 --> 00:20:26,958
-     then they turn the wall    
-           upside down          
+then they turn the wall upside down          
 
 314
 00:20:27,093 --> 00:20:30,328
 to stamp the manufacturer's logo
-        into the bottom.        
+into the bottom.        
 
 315
 00:20:32,699 --> 00:20:34,766
-        now the assembly.       
+now the assembly.       
 
 316
 00:20:34,768 --> 00:20:37,301
-    they place the inner wall   
-          on a fixture,         
+they place the inner wall on a fixture,         
 
 317
 00:20:37,370 --> 00:20:39,170
-  then the outer wall over it.  
+then the outer wall over it.  
 
 318
 00:20:39,172 --> 00:20:43,842
-    a press pushes the inner    
-      to the correct depth.     
+a press pushes the inner to the correct depth.     
 
 319
 00:20:43,844 --> 00:20:46,043
-  then they weld along the rim  
-       of the outer wall,       
+then they weld along the rim of the outer wall,       
 
 320
 00:20:46,079 --> 00:20:48,580
-   fusing it to the inner one.  
+fusing it to the inner one.  
 
 321
 00:20:50,851 --> 00:20:54,718
-    the coffee pot's lid also   
+the coffee pot's lid also   
 has double walls for insulation.
 
 322
 00:20:54,788 --> 00:20:56,921
-    they weld a hinged lever    
-           to the lid           
+they weld a hinged lever to the lid           
 
 323
 00:20:56,923 --> 00:21:00,291
-  and the adjoining part of the 
-  hinge to the coffee-pot body. 
+and the adjoining part of the hinge to the coffee-pot body. 
 
 324
 00:21:03,263 --> 00:21:06,130
-  then they gently hammer a pin 
-       through the hinge,       
+then they gently hammer a pin through the hinge,       
 
 325
 00:21:06,133 --> 00:21:09,934
-  riveting the ends of the pin  
-   so that it can't fall out.   
+riveting the ends of the pin so that it can't fall out.   
 
 326
 00:21:13,440 --> 00:21:17,208
-    after a thorough cleaning   
-        in a dishwasher,        
+after a thorough cleaning in a dishwasher,        
 
 327
 00:21:17,210 --> 00:21:20,211
- the coffee pot is ready to use.
+the coffee pot is ready to use.
 

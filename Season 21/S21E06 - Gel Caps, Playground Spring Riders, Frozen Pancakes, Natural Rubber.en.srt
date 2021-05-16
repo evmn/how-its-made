@@ -1,694 +1,580 @@
 ﻿1
 00:00:01,802 --> 00:00:04,937
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,939 --> 00:00:07,907
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:50,385 --> 00:00:53,919
-  narrator: liquid medication   
-    used to always come in a    
-            bottle,             
+narrator: liquid medication used to always come in a bottle,             
 
 4
 00:00:53,921 --> 00:00:56,855
-      and you had to pour       
- your dose with a steady hand   
+and you had to pour your dose with a steady hand   
 
 5
 00:00:56,857 --> 00:00:58,324
-         into a spoon.          
+into a spoon.          
 
 6
 00:00:58,326 --> 00:01:01,193
-    today, many medications     
-        and supplements         
+today, many medications and supplements         
 
 7
 00:01:01,195 --> 00:01:03,529
-          come inside           
-    small food-safe casings     
+come inside small food-safe casings     
 
 8
 00:01:03,531 --> 00:01:06,431
-    that are easy to swallow    
-        and portable --         
+that are easy to swallow and portable --         
 
 9
 00:01:06,433 --> 00:01:08,634
-      soft gel capsules.        
+soft gel capsules.        
 
 10
 00:01:10,738 --> 00:01:13,806
-     many types of products     
-     come in gel capsules,      
+many types of products come in gel capsules,      
 
 11
 00:01:13,808 --> 00:01:15,408
-    from prescription drugs     
+from prescription drugs     
 
 12
 00:01:15,410 --> 00:01:18,210
-     to health supplements      
-      such as fish oils.        
+to health supplements such as fish oils.        
 
 13
 00:01:18,212 --> 00:01:22,014
-  many of these medicine fills  
- go bad if exposed to oxygen,   
+many of these medicine fills go bad if exposed to oxygen,   
 
 14
 00:01:22,016 --> 00:01:24,817
-        so the gel cap,         
-   besides being convenient,    
+so the gel cap, besides being convenient,    
 
 15
 00:01:24,819 --> 00:01:27,353
-          also serves           
-   as a protective barrier.     
+also serves as a protective barrier.     
 
 16
 00:01:27,355 --> 00:01:29,688
-        every ingredient        
-      in both the gel cap       
+every ingredient in both the gel cap       
 
 17
 00:01:29,690 --> 00:01:31,624
- and the medicine fill inside   
+and the medicine fill inside   
 
 18
 00:01:31,626 --> 00:01:34,160
-           undergoes            
- extensive testing for purity.  
+undergoes extensive testing for purity.  
 
 19
 00:01:34,162 --> 00:01:38,430
-  the first test phase checks   
- for bacterial contamination.   
+the first test phase checks for bacterial contamination.   
 
 20
 00:01:38,432 --> 00:01:41,767
-    lab technicians dissolve    
- the ingredients in solution,   
+lab technicians dissolve the ingredients in solution,   
 
 21
 00:01:41,769 --> 00:01:44,703
-   apply it to a food source    
-       in a petri dish,         
+apply it to a food source in a petri dish,         
 
 22
 00:01:44,705 --> 00:01:46,839
-         then incubate          
-     the dish for 72 hours      
+then incubate the dish for 72 hours      
 
 23
 00:01:46,841 --> 00:01:49,775
-          to encourage          
+to encourage          
 any existing bacteria to grow.  
 
 24
 00:01:49,777 --> 00:01:53,379
-   then they draw samples and   
-      examine them under a      
-          microscope.           
+then they draw samples and examine them under a microscope.           
 
 25
 00:01:53,381 --> 00:01:55,848
-        if those samples        
-      are bacteria-free,        
+if those samples are bacteria-free,        
 
 26
 00:01:55,850 --> 00:01:59,184
-    the ingredient moves on     
-     to the second phase of     
-            testing,            
+the ingredient moves on to the second phase of testing,            
 
 27
 00:01:59,186 --> 00:02:02,454
- which checks for contaminants  
-    such as lead, arsenic,      
+which checks for contaminants such as lead, arsenic,      
 
 28
 00:02:02,456 --> 00:02:04,457
-     mercury, and cadmium.      
+mercury, and cadmium.      
 
 29
 00:02:04,459 --> 00:02:06,992
-         this machine,          
-    called a spectrometer,      
+this machine, called a spectrometer,      
 
 30
 00:02:06,994 --> 00:02:10,329
-     injects the ingredient     
-            solution            
-     into a plasma flame,       
+injects the ingredient solution into a plasma flame,       
 
 31
 00:02:10,331 --> 00:02:14,066
-  then, by reading the changes  
-     in light wavelengths,      
+then, by reading the changes in light wavelengths,      
 
 32
 00:02:14,068 --> 00:02:16,202
-            analyzes            
-   the chemical composition.    
+analyzes the chemical composition.    
 
 33
 00:02:16,204 --> 00:02:18,070
-       if the ingredient        
-     is contaminant-free,       
+if the ingredient is contaminant-free,       
 
 34
 00:02:18,072 --> 00:02:20,006
-     it gets the go-ahead.      
+it gets the go-ahead.      
 
 35
 00:02:20,008 --> 00:02:23,609
-  the gel cap is made entirely  
-   of natural ingredients --    
+the gel cap is made entirely of natural ingredients --    
 
 36
 00:02:23,611 --> 00:02:27,012
-        gelatin derived         
-       from beef bones,         
+gelatin derived from beef bones,         
 
 37
 00:02:27,014 --> 00:02:29,148
-      palm oil glycerin,        
+palm oil glycerin,        
 
 38
 00:02:29,150 --> 00:02:31,083
-      and purified water.       
+and purified water.       
 
 39
 00:02:31,085 --> 00:02:33,352
-       the proportions are      
-          top-secret.           
+the proportions are top-secret.           
 
 40
 00:02:33,354 --> 00:02:37,223
- an industrial blender combines 
-     the three ingredients      
+an industrial blender combines the three ingredients      
 
 41
 00:02:37,225 --> 00:02:38,957
-   to a uniform consistency,    
+to a uniform consistency,    
 
 42
 00:02:38,959 --> 00:02:42,361
-     then heats the mixture     
-  to 175 degrees fahrenheit.    
+then heats the mixture to 175 degrees fahrenheit.    
 
 43
 00:02:42,363 --> 00:02:44,363
-       a vacuum sucks out       
-        the air bubbles         
+a vacuum sucks out the air bubbles         
 
 44
 00:02:44,365 --> 00:02:48,034
- as this now-ready gel material 
-  flows into a holding tank.    
+as this now-ready gel material flows into a holding tank.    
 
 45
 00:02:48,036 --> 00:02:51,369
-  simultaneously, they prepare  
-     the medicine fill --       
+simultaneously, they prepare the medicine fill --       
 
 46
 00:02:51,371 --> 00:02:54,373
-   in this case, vitamin d.     
+in this case, vitamin d.     
 
 47
 00:02:54,375 --> 00:02:56,508
-  they combine it with soybean  
-              oil               
+they combine it with soybean oil               
 
 48
 00:02:56,510 --> 00:02:59,044
-     to adjust the potency      
-  to the specified strength.    
+to adjust the potency to the specified strength.    
 
 49
 00:02:59,046 --> 00:03:02,782
-    meanwhile, they maintain    
-     the gel-cap material       
+meanwhile, they maintain the gel-cap material       
 
 50
 00:03:02,784 --> 00:03:05,985
-      in the holding tank       
-   at 140 degrees fahrenheit    
+in the holding tank at 140 degrees fahrenheit    
 
 51
 00:03:05,987 --> 00:03:08,320
-         to prevent it          
- from prematurely solidifying.  
+to prevent it from prematurely solidifying.  
 
 52
 00:03:08,322 --> 00:03:11,590
-   even the hose leaving that   
-              tank              
-   is wrapped in heater tape    
+even the hose leaving that tank is wrapped in heater tape    
 
 53
 00:03:11,592 --> 00:03:13,726
-    to keep the gel liquid.     
+to keep the gel liquid.     
 
 54
 00:03:13,728 --> 00:03:16,795
-     a separate hose feeds      
-    the vitamin d solution      
+a separate hose feeds the vitamin d solution      
 
 55
 00:03:16,797 --> 00:03:18,264
-   from another holding tank    
+from another holding tank    
 
 56
 00:03:18,266 --> 00:03:20,265
- down to the production floor,  
-           as well.             
+down to the production floor, as well.             
 
 57
 00:03:20,267 --> 00:03:22,935
-       this hose doesn't        
-        require heating         
+this hose doesn't require heating         
 
 58
 00:03:22,937 --> 00:03:27,873
- because vitamin d and soybean  
- oil don't solidify when cool.  
+because vitamin d and soybean oil don't solidify when cool.  
 
 59
 00:03:27,875 --> 00:03:30,676
-    on the production line,     
-  two stations simultaneously   
+on the production line, two stations simultaneously   
 
 60
 00:03:30,678 --> 00:03:33,279
-      spread a thin layer       
-         of molten gel          
+spread a thin layer of molten gel          
 
 61
 00:03:33,281 --> 00:03:34,814
-    across a cooling drum.      
+across a cooling drum.      
 
 62
 00:03:34,816 --> 00:03:38,417
-      the gel hardens into      
- a solid, yet malleable, sheet  
+the gel hardens into a solid, yet malleable, sheet  
 
 63
 00:03:38,419 --> 00:03:40,553
-      about the thickness       
-         of cardboard.          
+about the thickness of cardboard.          
 
 64
 00:03:40,555 --> 00:03:43,088
-     each sheet passes over     
-        a rotating die          
+each sheet passes over a rotating die          
 
 65
 00:03:43,090 --> 00:03:45,891
- with capsule-shaped cavities.  
+with capsule-shaped cavities.  
 
 66
 00:03:45,893 --> 00:03:48,160
- just before the two gel sheets 
-        come together,          
+just before the two gel sheets come together,          
 
 67
 00:03:48,162 --> 00:03:50,563
-          pumps inject          
-     the required quantity      
+pumps inject the required quantity      
 
 68
 00:03:50,565 --> 00:03:53,566
-     of vitamin d solution      
-       into each cavity,        
+of vitamin d solution into each cavity,        
 
 69
 00:03:53,568 --> 00:03:55,968
-      the pressure pushing      
- the gelatin into the cavity.   
+the pressure pushing the gelatin into the cavity.   
 
 70
 00:03:55,970 --> 00:03:59,304
-       at the same time,        
-    the machine heats the gel   
-             sheets             
+at the same time, the machine heats the gel sheets             
 
 71
 00:03:59,306 --> 00:04:02,441
-    so that when they meet,     
-  they adhere to each other,    
+so that when they meet, they adhere to each other,    
 
 72
 00:04:02,443 --> 00:04:03,909
-     forming full capsules      
+forming full capsules      
 
 73
 00:04:03,911 --> 00:04:06,712
-  with the vitamin d solution   
-        sealed inside.          
+with the vitamin d solution sealed inside.          
 
 74
 00:04:06,714 --> 00:04:08,113
-     in the final second,       
+in the final second,       
 
 75
 00:04:08,115 --> 00:04:11,183
-  the die's sharp edges slice   
-      the gel caps free,        
+the die's sharp edges slice the gel caps free,        
 
 76
 00:04:11,185 --> 00:04:13,852
-         and they fall          
-   to a conveyer belt below.    
+and they fall to a conveyer belt below.    
 
 77
 00:04:13,854 --> 00:04:15,320
-        at this point,          
+at this point,          
 
 78
 00:04:15,322 --> 00:04:17,856
-  the filled gel caps contain   
-    a fair bit of moisture,     
+the filled gel caps contain a fair bit of moisture,     
 
 79
 00:04:17,858 --> 00:04:20,192
-    so they're quite soft.      
+so they're quite soft.      
 
 80
 00:04:20,194 --> 00:04:22,127
-          if they lay           
-    on a surface too long,      
+if they lay on a surface too long,      
 
 81
 00:04:22,129 --> 00:04:23,596
-        they'd flatten,         
+they'd flatten,         
 
 82
 00:04:23,598 --> 00:04:25,397
-   so the conveyer belt whisks  
-              them              
-         very quickly           
+so the conveyer belt whisks them very quickly           
 
 83
 00:04:25,399 --> 00:04:27,132
-     into a rotating drum,      
+into a rotating drum,      
 
 84
 00:04:27,134 --> 00:04:29,535
-       where they tumble        
-   in slightly cold, dry air    
+where they tumble in slightly cold, dry air    
 
 85
 00:04:29,537 --> 00:04:31,737
-    for about three hours.      
+for about three hours.      
 
 86
 00:04:31,739 --> 00:04:35,274
-  this removes enough moisture  
-    to make the gel caps hard   
-             enough             
+this removes enough moisture to make the gel caps hard enough             
 
 87
 00:04:35,276 --> 00:04:38,077
-      to lie on a surface       
-      without flattening.       
+to lie on a surface without flattening.       
 
 88
 00:04:38,079 --> 00:04:42,615
-   after exiting, the gel caps  
-              move              
-     into a second dryer,       
+after exiting, the gel caps move into a second dryer,       
 
 89
 00:04:42,617 --> 00:04:44,817
-             where,             
+where,             
 spread out on trays this time,  
 
 90
 00:04:44,819 --> 00:04:47,686
- they dry for about 36 hours.   
+they dry for about 36 hours.   
 
 91
 00:04:47,688 --> 00:04:49,021
-          after that,           
+after that,           
 
 92
 00:04:49,023 --> 00:04:52,358
-  the gel caps are hard enough  
-    to be safely packaged.      
+the gel caps are hard enough to be safely packaged.      
 
 93
 00:04:52,360 --> 00:04:55,094
-        the gel caps --         
+the gel caps --         
 
 94
 00:04:55,096 --> 00:04:58,296
-  the ones being packaged here  
-      contain flax oil --       
+the ones being packaged here contain flax oil --       
 
 95
 00:04:58,298 --> 00:05:00,432
-      travel down a series      
-     of vibrating plates,       
+travel down a series of vibrating plates,       
 
 96
 00:05:00,434 --> 00:05:03,769
-  which progressively line them 
-               up               
-        in single file.         
+which progressively line them up in single file.         
 
 97
 00:05:03,771 --> 00:05:06,638
-       as they pass by,         
+as they pass by,         
 
 98
 00:05:06,640 --> 00:05:08,707
-   electronic eyes count out    
-          the number            
+electronic eyes count out the number            
 
 99
 00:05:08,709 --> 00:05:10,309
-    of capsules per bottle,     
+of capsules per bottle,     
 
 100
 00:05:10,311 --> 00:05:13,178
-     triggering the filling     
-            mechanism           
-   to collect that quantity     
+triggering the filling mechanism to collect that quantity     
 
 101
 00:05:13,180 --> 00:05:15,848
-         and release it         
-     into an empty bottle.      
+and release it into an empty bottle.      
 
 102
 00:05:23,591 --> 00:05:26,658
-    the next station applies    
-     a plastic twist cap,       
+the next station applies a plastic twist cap,       
 
 103
 00:05:26,660 --> 00:05:29,128
- then the bottles move onward,  
+then the bottles move onward,  
 
 104
 00:05:29,130 --> 00:05:31,597
-        each one plowing        
-   directly into the center     
+each one plowing directly into the center     
 
 105
 00:05:31,599 --> 00:05:33,399
- of an adhesive-backed label,   
+of an adhesive-backed label,   
 
 106
 00:05:33,401 --> 00:05:37,336
-    which rollers then apply    
-       around he sides.         
+which rollers then apply around he sides.         
 
 107
 00:05:37,338 --> 00:05:38,537
-       before shipping,         
+before shipping,         
 
 108
 00:05:38,539 --> 00:05:41,206
- the quality-control lab tests  
-        random samples          
+the quality-control lab tests random samples          
 
 109
 00:05:41,208 --> 00:05:42,741
-   from the production batch    
+from the production batch    
 
 110
 00:05:42,743 --> 00:05:46,111
-  to verify that the gel caps   
-   meet all specifications.     
+to verify that the gel caps meet all specifications.     
 
 111
 00:06:00,828 --> 00:06:03,295
-           narrator:            
-  it's a playground staple --   
+narrator: it's a playground staple --   
 
 112
 00:06:03,297 --> 00:06:05,898
-          a stationary          
-    ride-on cartoon animal      
+a stationary ride-on cartoon animal      
 
 113
 00:06:05,900 --> 00:06:08,767
-    that bounces up and down    
-   and rocks back and forth,    
+that bounces up and down and rocks back and forth,    
 
 114
 00:06:08,769 --> 00:06:11,169
-          courtesy of           
-   a huge spring underneath     
+courtesy of a huge spring underneath     
 
 115
 00:06:11,171 --> 00:06:12,771
-   secured into the ground.     
+secured into the ground.     
 
 116
 00:06:12,773 --> 00:06:15,708
-      the bouncy coil base      
-    is what gives this type     
+the bouncy coil base is what gives this type     
 
 117
 00:06:15,710 --> 00:06:18,677
-    of playground equipment     
-  its name -- a spring rider.   
+of playground equipment its name -- a spring rider.   
 
 118
 00:06:22,116 --> 00:06:25,784
-        the spring rider        
-   is a playground favorite.    
+the spring rider is a playground favorite.    
 
 119
 00:06:25,786 --> 00:06:27,987
-       to withstand years       
-    of rambunctious riders,     
+to withstand years of rambunctious riders,     
 
 120
 00:06:27,989 --> 00:06:30,389
-     it has to be solid and     
-            durable,            
+it has to be solid and durable,            
 
 121
 00:06:30,391 --> 00:06:33,592
-  yet for a toddler to be able  
-    to rock back and forth,     
+yet for a toddler to be able to rock back and forth,     
 
 122
 00:06:33,594 --> 00:06:35,260
-    it can't be too heavy.      
+it can't be too heavy.      
 
 123
 00:06:35,262 --> 00:06:37,930
- that's why the spring is made  
-        of thick steel,         
+that's why the spring is made of thick steel,         
 
 124
 00:06:37,932 --> 00:06:40,599
-         and the animal         
-   of lightweight aluminum.     
+and the animal of lightweight aluminum.     
 
 125
 00:06:40,601 --> 00:06:45,404
-         that sand core         
-  is comprised of two halves,   
+that sand core is comprised of two halves,   
 
 126
 00:06:45,406 --> 00:06:47,740
-           each made            
-   with an aluminum mold --     
+each made with an aluminum mold --     
 
 127
 00:06:47,742 --> 00:06:49,475
-   duck-shaped in this case.    
+duck-shaped in this case.    
 
 128
 00:06:49,477 --> 00:06:52,611
-        workers fill it         
-  with sand and adhesive mix    
+workers fill it with sand and adhesive mix    
 
 129
 00:06:52,613 --> 00:06:54,480
- that sets into a solid block.  
+that sets into a solid block.  
 
 130
 00:06:54,482 --> 00:06:58,483
-          they insert           
-  several steel support rods,   
+they insert several steel support rods,   
 
 131
 00:06:58,485 --> 00:07:03,221
-        fill to the top,        
-   and even out the surface,    
+fill to the top, and even out the surface,    
 
 132
 00:07:03,223 --> 00:07:05,824
-     then expose two hooks      
-      they'll later grab        
+then expose two hooks they'll later grab        
 
 133
 00:07:05,826 --> 00:07:08,894
-    to extract the core half    
-     once the sand hardens      
+to extract the core half once the sand hardens      
 
 134
 00:07:08,896 --> 00:07:10,495
-     in about 20 minutes.       
+in about 20 minutes.       
 
 135
 00:07:10,497 --> 00:07:14,099
-  meanwhile, other workers use  
-      an aluminum pattern       
+meanwhile, other workers use an aluminum pattern       
 
 136
 00:07:14,101 --> 00:07:16,568
-       to make each half        
-   of the duck casting mold.    
+to make each half of the duck casting mold.    
 
 137
 00:07:16,570 --> 00:07:20,038
-         after applying         
-    a powder release agent      
+after applying a powder release agent      
 
 138
 00:07:20,040 --> 00:07:21,507
-     to prevent sticking,       
+to prevent sticking,       
 
 139
 00:07:21,509 --> 00:07:23,442
-    they cover the pattern      
+they cover the pattern      
 
 140
 00:07:23,444 --> 00:07:26,779
-     with a sieved mixture      
-       of sand and clay.        
+with a sieved mixture of sand and clay.        
 
 141
 00:07:26,781 --> 00:07:29,381
-       they mount a frame       
-      around the pattern        
+they mount a frame around the pattern        
 
 142
 00:07:29,383 --> 00:07:30,849
-     to contain the sand,       
+to contain the sand,       
 
 143
 00:07:30,851 --> 00:07:32,518
-  as they add more and more,    
+as they add more and more,    
 
 144
 00:07:32,520 --> 00:07:35,120
-   repeatedly packing it down   
-         in all areas           
+repeatedly packing it down in all areas           
 
 145
 00:07:35,122 --> 00:07:38,857
@@ -696,136 +582,111 @@ with a pneumatic ramming tool.
 
 146
 00:07:38,859 --> 00:07:41,259
-  then they remove the frame    
+then they remove the frame    
 
 147
 00:07:41,261 --> 00:07:43,795
-       and cover the sand       
-     with a wooden board.       
+and cover the sand with a wooden board.       
 
 148
 00:07:43,797 --> 00:07:45,998
-         this provides          
- a hard surface for the press,  
+this provides a hard surface for the press,  
 
 149
 00:07:46,000 --> 00:07:50,068
-  which now applies the weight  
-     of about four mid-sized    
-            s.u.v.s.            
+which now applies the weight of about four mid-sized s.u.v.s.            
 
 150
 00:07:50,070 --> 00:07:52,203
- then they flip over the mold   
+then they flip over the mold   
 
 151
 00:07:52,205 --> 00:07:56,141
-     and remove the pattern     
- which formed the mold cavity.  
+and remove the pattern which formed the mold cavity.  
 
 152
 00:07:56,143 --> 00:07:58,410
-            the sand            
-  is now so firmly compacted    
+the sand is now so firmly compacted    
 
 153
 00:07:58,412 --> 00:08:00,478
-   that it holds the shape.     
+that it holds the shape.     
 
 154
 00:08:00,480 --> 00:08:03,749
-   one half of the sand mold    
-         has channels           
+one half of the sand mold has channels           
 
 155
 00:08:03,751 --> 00:08:06,818
- through which the molten metal 
-  will flow into the cavity.    
+through which the molten metal will flow into the cavity.    
 
 156
 00:08:06,820 --> 00:08:10,956
-  workers now position several  
-     quarter-inch-thick foam    
-            spacers             
+workers now position several quarter-inch-thick foam spacers             
 
 157
 00:08:10,958 --> 00:08:12,324
-         in the cavity          
+in the cavity          
 
 158
 00:08:12,326 --> 00:08:14,626
-           and place            
-   half of the core on top of   
-             them.              
+and place half of the core on top of them.              
 
 159
 00:08:14,628 --> 00:08:16,895
- the spacers elevate the core,  
+the spacers elevate the core,  
 
 160
 00:08:16,897 --> 00:08:20,566
- creating a quarter-inch cavity 
-    between core and mold.      
+creating a quarter-inch cavity between core and mold.      
 
 161
 00:08:20,568 --> 00:08:23,469
-   the other half of the core   
-         goes on top.           
+the other half of the core goes on top.           
 
 162
 00:08:25,639 --> 00:08:28,040
-     after placing spacers      
-        on top of that          
+after placing spacers on top of that          
 
 163
 00:08:28,042 --> 00:08:31,443
-  to create a quarter-inch gap  
-    on this side, as well,      
+to create a quarter-inch gap on this side, as well,      
 
 164
 00:08:31,445 --> 00:08:34,980
-      they carefully lower      
-   the other half of the sand   
-             mold.              
+they carefully lower the other half of the sand mold.              
 
 165
 00:08:34,982 --> 00:08:37,582
-       now they're ready        
-       to cast the duck.        
+now they're ready to cast the duck.        
 
 166
 00:08:37,584 --> 00:08:39,518
- the melting point of aluminum  
+the melting point of aluminum  
 
 167
 00:08:39,520 --> 00:08:42,721
-          is just over          
-   1,090 degrees fahrenheit.    
+is just over 1,090 degrees fahrenheit.    
 
 168
 00:08:42,723 --> 00:08:45,858
-     however, they heat much    
-             higher,            
-       to 1,400 degrees,        
+however, they heat much higher, to 1,400 degrees,        
 
 169
 00:08:45,860 --> 00:08:49,727
-      so it'll flow faster      
-  and fill the entire cavity    
+so it'll flow faster and fill the entire cavity    
 
 170
 00:08:49,729 --> 00:08:52,731
- before beginning to solidify.  
+before beginning to solidify.  
 
 171
 00:08:52,733 --> 00:08:55,000
-      they pour the metal       
-     through holes on top.      
+they pour the metal through holes on top.      
 
 172
 00:08:55,002 --> 00:08:57,869
-  it flows through the runners  
-     into the mold cavity,      
+it flows through the runners into the mold cavity,      
 
 173
 00:08:57,871 --> 00:08:59,471
@@ -833,77 +694,64 @@ which is that quarter-inch gap
 
 174
 00:08:59,473 --> 00:09:01,473
-          surrounding           
-     the duck-shaped core.      
+surrounding the duck-shaped core.      
 
 175
 00:09:01,475 --> 00:09:07,212
-  about 20 minutes later, the   
-      metal has cooled and      
-          solidified.           
+about 20 minutes later, the metal has cooled and solidified.           
 
 176
 00:09:07,214 --> 00:09:10,281
-   they break the mold apart    
-     on a vibrating sieve,      
+they break the mold apart on a vibrating sieve,      
 
 177
 00:09:10,283 --> 00:09:13,485
-  releasing the aluminum duck   
- and shaking out the core sand  
+releasing the aluminum duck and shaking out the core sand  
 
 178
 00:09:13,487 --> 00:09:16,020
-         through a hole         
-  at the bottom of the duck.    
+through a hole at the bottom of the duck.    
 
 179
 00:09:16,022 --> 00:09:18,022
-       after cutting off        
-        excess aluminum         
+after cutting off excess aluminum         
 
 180
 00:09:18,024 --> 00:09:19,691
- that hardened in the runners,  
+that hardened in the runners,  
 
 181
 00:09:19,693 --> 00:09:22,160
-   they grind down the seam,    
+they grind down the seam,    
 
 182
 00:09:22,162 --> 00:09:25,497
-    which formed in between     
-  the two halves of the mold.   
+which formed in between the two halves of the mold.   
 
 183
 00:09:25,499 --> 00:09:28,233
-       next, they weld on       
-       aluminum handles         
+next, they weld on aluminum handles         
 
 184
 00:09:28,235 --> 00:09:30,836
-         for the child          
-     to grip when riding.       
+for the child to grip when riding.       
 
 185
 00:09:30,838 --> 00:09:34,573
-   these handles are cast in    
+these handles are cast in    
 sand molds just like the duck.  
 
 186
 00:09:37,711 --> 00:09:40,245
-       workers grind down       
- the weld and any sharp edges,  
+workers grind down the weld and any sharp edges,  
 
 187
 00:09:40,247 --> 00:09:46,185
-   making the entire surface    
-       nice and smooth.         
+making the entire surface nice and smooth.         
 
 188
 00:09:46,187 --> 00:09:49,721
-            next --             
-  a coat of polyester powder    
+next -- a coat of polyester powder    
 
 189
 00:09:49,723 --> 00:09:53,859
@@ -911,280 +759,232 @@ in bright rubber-ducky yellow.
 
 190
 00:09:53,861 --> 00:09:57,262
-    then -- a 20-minute trip    
-        through an oven         
+then -- a 20-minute trip through an oven         
 
 191
 00:09:57,264 --> 00:10:01,066
-      to bake the coating,      
-   making it ultra-durable.     
+to bake the coating, making it ultra-durable.     
 
 192
 00:10:01,068 --> 00:10:06,338
-   now, delicately airbrushed   
-    with the urethane enamel    
-             paint,             
+now, delicately airbrushed with the urethane enamel paint,             
 
 193
 00:10:06,340 --> 00:10:09,007
-          the details           
+the details           
 that bring mr. duck to life --  
 
 194
 00:10:09,009 --> 00:10:12,744
-   his feet, wings, bill, and   
-             eyes.              
+his feet, wings, bill, and eyes.              
 
 195
 00:10:12,746 --> 00:10:17,216
-         the thick coil         
+the thick coil         
 that makes this a spring rider  
 
 196
 00:10:17,218 --> 00:10:20,285
-            is made             
- of a flexible type of steel.   
+is made of a flexible type of steel.   
 
 197
 00:10:20,287 --> 00:10:23,455
-           they bolt            
- a steel spacer plate to it...  
+they bolt a steel spacer plate to it...  
 
 198
 00:10:25,825 --> 00:10:28,694
-     ...then hide the bolts     
-   under an aluminum cover.     
+...then hide the bolts under an aluminum cover.     
 
 199
 00:10:30,898 --> 00:10:34,833
- after attaching a foot rest -- 
-        steel, again --         
+after attaching a foot rest -- steel, again --         
 
 200
 00:10:34,835 --> 00:10:37,903
-    they bolt the duck to the   
-             plate.             
+they bolt the duck to the plate.             
 
 201
 00:10:37,905 --> 00:10:41,839
-        all these parts,        
-  like the duck, are painted    
+all these parts, like the duck, are painted    
 
 202
 00:10:41,841 --> 00:10:44,776
-     with baked-on polyester    
-            coating.            
+with baked-on polyester coating.            
 
 203
 00:10:44,778 --> 00:10:48,514
- the spring bolts to a concrete 
-   block buried underground.    
+the spring bolts to a concrete block buried underground.    
 
 204
 00:10:48,516 --> 00:10:51,716
-       ducky and friends        
-   are designed to withstand    
+ducky and friends are designed to withstand    
 
 205
 00:10:51,718 --> 00:10:53,251
-  even the harshest winters,    
+even the harshest winters,    
 
 206
 00:10:53,253 --> 00:10:57,055
-     letting children enjoy     
-    a little spring all year    
-             round.             
+letting children enjoy a little spring all year round.             
 
 207
 00:11:10,738 --> 00:11:15,206
-  narrator: early versions of   
-     pancakes were thin like    
-            crepes.             
+narrator: early versions of pancakes were thin like crepes.             
 
 208
 00:11:15,208 --> 00:11:19,478
-  by the 1780s, american cooks  
- were adding a leavening agent  
+by the 1780s, american cooks were adding a leavening agent  
 
 209
 00:11:19,480 --> 00:11:22,748
-        for a fluffier,         
-     more filling pancake.      
+for a fluffier, more filling pancake.      
 
 210
 00:11:22,750 --> 00:11:26,017
-      that's when pancakes      
-  transitioned from side dish   
+that's when pancakes transitioned from side dish   
 
 211
 00:11:26,019 --> 00:11:29,254
-         to main course         
+to main course         
 for the first meal of the day.  
 
 212
 00:11:32,359 --> 00:11:37,495
-  call them hot cakes, griddle  
+call them hot cakes, griddle  
 cakes, flapjacks, or pancakes,  
 
 213
 00:11:37,497 --> 00:11:40,566
-        there's nothing         
+there's nothing         
 like a heaping helping of them  
 
 214
 00:11:40,568 --> 00:11:41,967
-     splashed with syrup.       
+splashed with syrup.       
 
 215
 00:11:41,969 --> 00:11:43,635
-   and with frozen pancakes,    
+and with frozen pancakes,    
 
 216
 00:11:43,637 --> 00:11:47,206
- whipping up some for breakfast 
-    has never been easier.      
+whipping up some for breakfast has never been easier.      
 
 217
 00:11:49,643 --> 00:11:53,111
- pancake production starts off  
-   with a leavening agent --    
+pancake production starts off with a leavening agent --    
 
 218
 00:11:53,113 --> 00:11:54,646
-      the baking powder.        
+the baking powder.        
 
 219
 00:11:54,648 --> 00:11:58,250
-    they combine salt, whey,    
-    and various flavorings      
+they combine salt, whey, and various flavorings      
 
 220
 00:11:58,252 --> 00:11:59,584
-       in a big blender         
+in a big blender         
 
 221
 00:11:59,586 --> 00:12:02,120
-           to create            
-   a dry-ingredient premix.     
+to create a dry-ingredient premix.     
 
 222
 00:12:04,992 --> 00:12:07,993
-      since these will be       
-     buttermilk pancakes,       
+since these will be buttermilk pancakes,       
 
 223
 00:12:07,995 --> 00:12:13,065
-            they add            
-     powdered buttermilk for    
-            flavor.             
+they add powdered buttermilk for flavor.             
 
 224
 00:12:13,067 --> 00:12:16,401
-      they now pump liquid      
-           ingredients          
-      from storage tanks        
+they now pump liquid ingredients from storage tanks        
 
 225
 00:12:16,403 --> 00:12:17,769
-     into a huge blender.       
+into a huge blender.       
 
 226
 00:12:20,874 --> 00:12:23,608
- these include water and eggs,  
+these include water and eggs,  
 
 227
 00:12:23,610 --> 00:12:26,612
- sweet cream, liquefied sugar,  
+sweet cream, liquefied sugar,  
 
 228
 00:12:26,614 --> 00:12:28,347
-       and soybean oil.         
+and soybean oil.         
 
 229
 00:12:28,349 --> 00:12:30,882
-            they add            
-   the dry premix and flour     
+they add the dry premix and flour     
 
 230
 00:12:30,884 --> 00:12:34,353
-    until the batter reaches    
-   the desired consistency.     
+until the batter reaches the desired consistency.     
 
 231
 00:12:34,355 --> 00:12:37,222
-       an employee tests        
-    the batter's viscosity      
+an employee tests the batter's viscosity      
 
 232
 00:12:37,224 --> 00:12:40,225
-        by pouring some         
-    in a device with a little   
-             gate.              
+by pouring some in a device with a little gate.              
 
 233
 00:12:40,227 --> 00:12:44,229
- he opens the gate and measures 
-     the flow down a ramp.      
+he opens the gate and measures the flow down a ramp.      
 
 234
 00:12:44,231 --> 00:12:46,965
-           if it runs           
-    too thick or too thin,      
+if it runs too thick or too thin,      
 
 235
 00:12:46,967 --> 00:12:48,834
-   it won't produce pancakes    
+it won't produce pancakes    
 
 236
 00:12:48,836 --> 00:12:51,770
- that are the desired diameter  
-        and uniformity.         
+that are the desired diameter and uniformity.         
 
 237
 00:12:51,772 --> 00:12:54,706
-   the pancake batter passes    
-      the viscosity test.       
+the pancake batter passes the viscosity test.       
 
 238
 00:12:54,708 --> 00:12:57,442
-    they release the batter     
-    from the holding tank,      
+they release the batter from the holding tank,      
 
 239
 00:12:57,444 --> 00:13:00,078
-          and it flows          
-   into a depositor system.     
+and it flows into a depositor system.     
 
 240
 00:13:02,849 --> 00:13:05,116
-     the depositor has nine     
-            nozzles.            
+the depositor has nine nozzles.            
 
 241
 00:13:05,118 --> 00:13:09,321
-  each nozzle shoots an exact   
- amount of the pancake batter   
+each nozzle shoots an exact amount of the pancake batter   
 
 242
 00:13:09,323 --> 00:13:13,725
-  onto a hot moving griddle.    
+onto a hot moving griddle.    
 
 243
 00:13:13,727 --> 00:13:15,460
-           because of           
-    the perfect viscosity,      
+because of the perfect viscosity,      
 
 244
 00:13:15,462 --> 00:13:19,865
-     each deposit of batter     
-            radiates            
-    out to form a neat, round   
-             shape,             
+each deposit of batter radiates out to form a neat, round shape,             
 
 245
 00:13:19,867 --> 00:13:22,801
-     each one the same size     
-        as the next --          
+each one the same size as the next --          
 
 246
 00:13:22,803 --> 00:13:26,671
@@ -1192,435 +992,359 @@ about four inches in diameter.
 
 247
 00:13:26,673 --> 00:13:31,343
- they run three depositors and  
+they run three depositors and  
 moving griddles simultaneously  
 
 248
 00:13:31,345 --> 00:13:34,279
-           to produce           
-    750 pancakes a minute.      
+to produce 750 pancakes a minute.      
 
 249
 00:13:34,281 --> 00:13:38,250
-      that's an incredible      
-   45,000 pancakes an hour.     
+that's an incredible 45,000 pancakes an hour.     
 
 250
 00:13:41,555 --> 00:13:44,222
-     after several seconds      
-        on the griddle,         
+after several seconds on the griddle,         
 
 251
 00:13:44,224 --> 00:13:45,890
-      one side is cooked,       
+one side is cooked,       
 
 252
 00:13:45,892 --> 00:13:50,962
-  so automated stainless-steel  
-   spatulas flip the pancakes   
-             over.              
+so automated stainless-steel spatulas flip the pancakes over.              
 
 253
 00:13:50,964 --> 00:13:53,698
-      there are two sets of     
-           flippers.            
+there are two sets of flippers.            
 
 254
 00:13:53,700 --> 00:13:57,035
-        after flipping,         
-  the first set repositions,    
+after flipping, the first set repositions,    
 
 255
 00:13:57,037 --> 00:13:59,771
-    and the second set flips    
-   the next row of pancakes.    
+and the second set flips the next row of pancakes.    
 
 256
 00:13:59,773 --> 00:14:03,275
-         it's mechanized        
-        synchronization.        
+it's mechanized synchronization.        
 
 257
 00:14:05,579 --> 00:14:09,581
- the flippers are spaced apart  
- exactly as the depositors are  
+the flippers are spaced apart exactly as the depositors are  
 
 258
 00:14:09,583 --> 00:14:13,651
- so the pancakes arrive at the  
- flippers in the correct order  
+so the pancakes arrive at the flippers in the correct order  
 
 259
 00:14:13,653 --> 00:14:15,821
-   to be picked up and turned   
-             over.              
+to be picked up and turned over.              
 
 260
 00:14:18,859 --> 00:14:20,392
-         once flipped,          
+once flipped,          
 
 261
 00:14:20,394 --> 00:14:22,727
-     the pancakes continue      
-  along the cooking conveyer,   
+the pancakes continue along the cooking conveyer,   
 
 262
 00:14:22,729 --> 00:14:24,529
- and the other side is cooked.  
+and the other side is cooked.  
 
 263
 00:14:24,531 --> 00:14:29,534
-       it's a short ride        
-      for these pancakes        
+it's a short ride for these pancakes        
 
 264
 00:14:29,536 --> 00:14:31,403
-   to be completely cooked.     
+to be completely cooked.     
 
 265
 00:14:35,275 --> 00:14:36,808
-    from dollops of batter      
+from dollops of batter      
 
 266
 00:14:36,810 --> 00:14:39,611
-      to uniformly rounded      
-     and cooked pancakes,       
+to uniformly rounded and cooked pancakes,       
 
 267
 00:14:39,613 --> 00:14:43,014
-     this process has taken     
-       just 90 seconds.         
+this process has taken just 90 seconds.         
 
 268
 00:14:43,016 --> 00:14:47,085
-  the pancakes somersault off   
-      the cooking griddle       
+the pancakes somersault off the cooking griddle       
 
 269
 00:14:47,087 --> 00:14:50,422
-       and over a roller        
- to land on the next conveyer.  
+and over a roller to land on the next conveyer.  
 
 270
 00:14:50,424 --> 00:14:54,892
-      the somersault exit       
-        has a purpose.          
+the somersault exit has a purpose.          
 
 271
 00:14:54,894 --> 00:15:00,565
-   it keeps the pancakes from   
-    folding over so they land   
-             flat.              
+it keeps the pancakes from folding over so they land flat.              
 
 272
 00:15:00,567 --> 00:15:06,571
-   hot off the griddles, the    
-    pancakes cool down on the   
-             ride,              
+hot off the griddles, the pancakes cool down on the ride,              
 
 273
 00:15:06,573 --> 00:15:09,374
- as all three production lines  
-             merge              
+as all three production lines merge              
 
 274
 00:15:09,376 --> 00:15:11,209
-   and head into a freezer.     
+and head into a freezer.     
 
 275
 00:15:15,916 --> 00:15:18,784
-      inside the freezer,       
+inside the freezer,       
 
 276
 00:15:18,786 --> 00:15:21,519
-       it's a very frigid       
-       minus-18 degrees,        
+it's a very frigid minus-18 degrees,        
 
 277
 00:15:21,521 --> 00:15:25,356
- and the pancakes freeze fast.  
+and the pancakes freeze fast.  
 
 278
 00:15:25,358 --> 00:15:28,860
-         now it's over          
-    to the packaging line.      
+now it's over to the packaging line.      
 
 279
 00:15:28,862 --> 00:15:32,263
-  this is where the uniformity  
-  of these pancakes pays off.   
+this is where the uniformity of these pancakes pays off.   
 
 280
 00:15:32,265 --> 00:15:36,201
-  their similar diameter means  
-   they can be neatly packed    
+their similar diameter means they can be neatly packed    
 
 281
 00:15:36,203 --> 00:15:38,703
-       in groups of six.        
+in groups of six.        
 
 282
 00:15:42,742 --> 00:15:47,012
-   machinery seals two stacks   
-    of six frozen pancakes      
+machinery seals two stacks of six frozen pancakes      
 
 283
 00:15:47,014 --> 00:15:51,216
-       in one wrapping.         
+in one wrapping.         
 
 284
 00:15:51,218 --> 00:15:53,418
-          it has taken          
-    less than five minutes      
+it has taken less than five minutes      
 
 285
 00:15:53,420 --> 00:15:56,687
-      to prepare, freeze,       
-  and package these pancakes.   
+to prepare, freeze, and package these pancakes.   
 
 286
 00:15:56,689 --> 00:15:59,424
-            at home,            
-  prep time in the microwave    
+at home, prep time in the microwave    
 
 287
 00:15:59,426 --> 00:16:01,025
-    should be mere seconds.     
+should be mere seconds.     
 
 288
 00:16:01,027 --> 00:16:05,063
-      just add syrup, and       
+just add syrup, and       
 this story has a sweet ending.  
 
 289
 00:16:20,914 --> 00:16:24,716
-           narrator:            
- natural rubber comes from the  
+narrator: natural rubber comes from the  
 
 290
 00:16:24,718 --> 00:16:26,183
-    thousands of years ago,     
+thousands of years ago,     
 
 291
 00:16:26,185 --> 00:16:28,854
-       the native people        
- of central and south america   
+the native people of central and south america   
 
 292
 00:16:28,856 --> 00:16:31,990
-  discovered that the hardened  
-               sap              
-   was elastic and bounced.     
+discovered that the hardened sap was elastic and bounced.     
 
 293
 00:16:31,992 --> 00:16:34,459
-       they played games        
-    with the balls of sap.      
+they played games with the balls of sap.      
 
 294
 00:16:34,461 --> 00:16:36,928
-    when european explorers     
-          came along,           
+when european explorers came along,           
 
 295
 00:16:36,930 --> 00:16:39,397
-          it was soon           
-    a whole new ball game.      
+it was soon a whole new ball game.      
 
 296
 00:16:42,669 --> 00:16:45,870
-         today, we make         
-  thousands of useful things    
+today, we make thousands of useful things    
 
 297
 00:16:45,872 --> 00:16:49,274
- from the fluid that circulates 
-    through rubber trees --     
+from the fluid that circulates through rubber trees --     
 
 298
 00:16:49,276 --> 00:16:52,476
-     everything from tires      
-     to balloons to boots.      
+everything from tires to balloons to boots.      
 
 299
 00:16:52,478 --> 00:16:54,879
-       the seeds are sewn       
-        on plantations          
+the seeds are sewn on plantations          
 
 300
 00:16:54,881 --> 00:16:56,147
-  like this one in thailand.    
+like this one in thailand.    
 
 301
 00:16:58,217 --> 00:17:01,820
-     it takes several years     
-     for the rubber trees to    
-            mature,             
+it takes several years for the rubber trees to mature,             
 
 302
 00:17:01,822 --> 00:17:04,289
- then the sap is ready to tap.  
+then the sap is ready to tap.  
 
 303
 00:17:04,291 --> 00:17:08,693
-     in the coolness of the     
-            morning,            
-  when the sap flows freely,    
+in the coolness of the morning, when the sap flows freely,    
 
 304
 00:17:08,695 --> 00:17:13,431
-    the farm worker slashes     
-  the bark with a hook blade.   
+the farm worker slashes the bark with a hook blade.   
 
 305
 00:17:13,433 --> 00:17:15,634
-     the sap oozes from the     
-           abrasion.            
+the sap oozes from the abrasion.            
 
 306
 00:17:15,636 --> 00:17:18,169
- it spills onto a metal spout   
+it spills onto a metal spout   
 
 307
 00:17:18,171 --> 00:17:20,972
-            inserted            
-  below the slashed section.    
+inserted below the slashed section.    
 
 308
 00:17:20,974 --> 00:17:26,778
-   the spout funnels the sap    
-   into a ceramic cup below.    
+the spout funnels the sap into a ceramic cup below.    
 
 309
 00:17:26,780 --> 00:17:29,581
-            it flows            
- for about five or six hours,   
+it flows for about five or six hours,   
 
 310
 00:17:29,583 --> 00:17:31,516
-  partially filling the cup.    
+partially filling the cup.    
 
 311
 00:17:31,518 --> 00:17:34,653
-   they wait a couple of days   
-    for the tree to recover     
+they wait a couple of days for the tree to recover     
 
 312
 00:17:34,655 --> 00:17:37,789
-          and then tap          
- another section of the tree.   
+and then tap another section of the tree.   
 
 313
 00:17:37,791 --> 00:17:41,726
-  after straining impurities,   
+after straining impurities,   
 
 314
 00:17:41,728 --> 00:17:46,398
-    they pour the rubber sap    
-      into a plastic tub.       
+they pour the rubber sap into a plastic tub.       
 
 315
 00:17:46,400 --> 00:17:51,136
-      they add formic acid      
-     and swish it around.       
+they add formic acid and swish it around.       
 
 316
 00:17:51,138 --> 00:17:54,005
-        the acid causes         
-     the sap to coagulate.      
+the acid causes the sap to coagulate.      
 
 317
 00:17:54,007 --> 00:17:57,275
-    after 15 to 30 minutes,     
+after 15 to 30 minutes,     
 
 318
 00:17:57,277 --> 00:18:03,081
-          it thickens           
-  to the consistency of tofu.   
+it thickens to the consistency of tofu.   
 
 319
 00:18:03,083 --> 00:18:06,684
-     this tofu-like sap has     
-      a sticky structure        
+this tofu-like sap has a sticky structure        
 
 320
 00:18:06,686 --> 00:18:11,022
-         that allows it         
-    to now be rolled out like   
-             dough.             
+that allows it to now be rolled out like dough.             
 
 321
 00:18:11,024 --> 00:18:13,558
-    the rolling squeezes out    
-         excess water           
+the rolling squeezes out excess water           
 
 322
 00:18:13,560 --> 00:18:16,293
-           and leaves           
+and leaves           
 a ribbed pattern on the sheets  
 
 323
 00:18:16,295 --> 00:18:19,964
-   that increases the surface   
-              area              
-       to hasten drying.        
+that increases the surface area to hasten drying.        
 
 324
 00:18:19,966 --> 00:18:24,102
-      then they rinse off       
-       the formic acid.         
+then they rinse off the formic acid.         
 
 325
 00:18:24,104 --> 00:18:28,973
-  they hang the rubber sheets   
- to dry for about five hours.   
+they hang the rubber sheets to dry for about five hours.   
 
 326
 00:18:28,975 --> 00:18:32,978
-     as they dry, the rubber    
-            thickens            
-     and becomes stronger,      
+as they dry, the rubber thickens and becomes stronger,      
 
 327
 00:18:32,980 --> 00:18:35,246
-    and the color darkens.      
+and the color darkens.      
 
 328
 00:18:35,248 --> 00:18:39,050
-   the coagulated rubber sap    
-     has been transformed.      
+the coagulated rubber sap has been transformed.      
 
 329
 00:18:39,052 --> 00:18:43,588
-   in a few short steps, it's   
-              gone              
-   from a liquid to a solid.    
+in a few short steps, it's gone from a liquid to a solid.    
 
 330
 00:18:43,590 --> 00:18:46,724
-          workers pile          
+workers pile          
 the rubber sheets onto pallets  
 
 331
 00:18:46,726 --> 00:18:50,128
-      and weigh the load.       
+and weigh the load.       
 
 332
 00:18:50,130 --> 00:18:55,867
-   there's a little over a ton  
-               and              
-    a half of rubber in this    
-             stack.             
+there's a little over a ton and a half of rubber in this stack.             
 
 333
 00:18:55,869 --> 00:18:58,335
-           they store           
-   the stacks in a warehouse    
+they store the stacks in a warehouse    
 
 334
 00:18:58,337 --> 00:19:00,871
-      until the next stage      
-        of processing.          
+until the next stage of processing.          
 
 335
 00:19:00,873 --> 00:19:03,407
@@ -1628,206 +1352,171 @@ when they're ready to move on,
 
 336
 00:19:03,409 --> 00:19:06,211
-          workers peel          
-   each sheet from the stack    
+workers peel each sheet from the stack    
 
 337
 00:19:06,213 --> 00:19:08,813
-     and soak them in water     
-     for about 20 minutes.      
+and soak them in water for about 20 minutes.      
 
 338
 00:19:08,815 --> 00:19:11,883
-     this washes away some      
- of the surface contaminants,   
+this washes away some of the surface contaminants,   
 
 339
 00:19:11,885 --> 00:19:12,917
-         but not all.           
+but not all.           
 
 340
 00:19:16,022 --> 00:19:19,624
-   the rubber sheets then go    
-    into a machine with many    
-            brushes             
+the rubber sheets then go into a machine with many brushes             
 
 341
 00:19:19,626 --> 00:19:22,227
-   that scrub off more of the   
-             dirt.              
+that scrub off more of the dirt.              
 
 342
 00:19:24,564 --> 00:19:29,901
-   after one more rinse, the    
-        rubber sheets are       
-         squeaky-clean.         
+after one more rinse, the rubber sheets are squeaky-clean.         
 
 343
 00:19:29,903 --> 00:19:34,505
-  as you can see, the color of  
-     the rubber sheets vary     
-            somewhat            
+as you can see, the color of the rubber sheets vary somewhat            
 
 344
 00:19:34,507 --> 00:19:37,509
-           depending            
-  on the tree they came from,   
+depending on the tree they came from,   
 
 345
 00:19:37,511 --> 00:19:39,577
-        their thickness,        
-      and other factors.        
+their thickness, and other factors.        
 
 346
 00:19:42,782 --> 00:19:46,051
-           they hang            
-   the sheets on racks to drip  
-              dry.              
+they hang the sheets on racks to drip dry.              
 
 347
 00:19:51,324 --> 00:19:54,358
-        next, they build        
-    a fire in a brick oven      
+next, they build a fire in a brick oven      
 
 348
 00:19:54,360 --> 00:19:56,461
-  and smoke the rubber sheets   
-     in a chamber overhead      
+and smoke the rubber sheets in a chamber overhead      
 
 349
 00:19:56,463 --> 00:19:59,264
-        for five days.          
+for five days.          
 
 350
 00:19:59,266 --> 00:20:02,133
-          it's a slow,          
-    low-temperature smoking     
+it's a slow, low-temperature smoking     
 
 351
 00:20:02,135 --> 00:20:06,371
-   that preserves the sheets    
+that preserves the sheets    
 to prevent the growth of mold.  
 
 352
 00:20:10,843 --> 00:20:13,745
-         after smoking,         
-  they clip out contaminants    
+after smoking, they clip out contaminants    
 
 353
 00:20:13,747 --> 00:20:17,682
- like bark or insects that have 
+like bark or insects that have 
 become imbedded in the rubber.  
 
 354
 00:20:17,684 --> 00:20:21,085
-         in many cases,         
-    they can't get it all.      
+in many cases, they can't get it all.      
 
 355
 00:20:21,087 --> 00:20:25,089
-  they grade the rubber sheets  
-       by examining them        
+they grade the rubber sheets by examining them        
 
 356
 00:20:25,091 --> 00:20:27,091
-    against a bright light.     
+against a bright light.     
 
 357
 00:20:27,093 --> 00:20:29,427
-       sheets with fewer        
-    remaining contaminants      
+sheets with fewer remaining contaminants      
 
 358
 00:20:29,429 --> 00:20:31,262
-    receive a higher rating     
+receive a higher rating     
 
 359
 00:20:31,264 --> 00:20:33,364
-    and will command a better   
-             price.             
+and will command a better price.             
 
 360
 00:20:33,366 --> 00:20:39,170
-     they stack the sheets      
-    according to the grade,     
+they stack the sheets according to the grade,     
 
 361
 00:20:39,172 --> 00:20:43,541
-            and then            
- it's into a hydraulic bailer.  
+and then it's into a hydraulic bailer.  
 
 362
 00:20:43,543 --> 00:20:48,713
-    it presses the stack of     
- rubber sheets into cube form.  
+it presses the stack of rubber sheets into cube form.  
 
 363
 00:20:51,451 --> 00:20:53,117
-  the dimensions of the cubes   
+the dimensions of the cubes   
 
 364
 00:20:53,119 --> 00:20:55,987
-    conform to international    
-     packaging regulations      
+conform to international packaging regulations      
 
 365
 00:20:55,989 --> 00:20:59,390
-     so they'll fit neatly      
- into containers for shipping.  
+so they'll fit neatly into containers for shipping.  
 
 366
 00:20:59,392 --> 00:21:01,326
-  they spray the rubber cubes   
+they spray the rubber cubes   
 
 367
 00:21:01,328 --> 00:21:04,529
-      with a mix of calcium     
-            carbonate           
-         and solvent.           
+with a mix of calcium carbonate and solvent.           
 
 368
 00:21:04,531 --> 00:21:06,531
-       the mixture forms        
-      a film on the cubes       
+the mixture forms a film on the cubes       
 
 369
 00:21:06,533 --> 00:21:07,631
-      that prevents mold        
+that prevents mold        
 
 370
 00:21:07,633 --> 00:21:09,000
-         and keeps them         
-    from sticking together      
+and keeps them from sticking together      
 
 371
 00:21:09,002 --> 00:21:11,202
-       during transport.        
+during transport.        
 
 372
 00:21:11,204 --> 00:21:14,405
-    this rubber is now ready    
-     for the next factory       
+this rubber is now ready for the next factory       
 
 373
 00:21:14,407 --> 00:21:16,875
- and the next transformation.   
+and the next transformation.   
 
 374
 00:21:16,877 --> 00:21:18,943
-     it could become almost     
-           anything.            
+it could become almost anything.            
 
 375
 00:21:25,952 --> 00:21:28,553
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 376
 00:21:28,555 --> 00:21:31,623
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 377
 00:21:31,625 --> 00:21:37,061
-     drop us a line at...       
+drop us a line at...       
 

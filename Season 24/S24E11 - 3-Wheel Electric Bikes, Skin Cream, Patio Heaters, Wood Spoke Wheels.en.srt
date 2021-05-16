@@ -1,297 +1,257 @@
 ﻿1
 00:00:01,535 --> 00:00:04,603
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,605 --> 00:00:07,539
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:53,053 --> 00:00:55,854
-            narrator:           
-    in 1895, ogden bolton jr.   
+narrator: in 1895, ogden bolton jr.   
 
 4
 00:00:55,856 --> 00:00:57,989
-         registered one         
-      of the first patents      
+registered one of the first patents      
 
 5
 00:00:57,991 --> 00:01:00,191
-     for an electric bicycle    
-           in the u.s.          
+for an electric bicycle in the u.s.          
 
 6
 00:01:00,193 --> 00:01:01,726
-        a century later,        
+a century later,        
 
 7
 00:01:01,728 --> 00:01:03,995
- they've become one of the most 
-    popular electric vehicles   
+they've become one of the most popular electric vehicles   
 
 8
 00:01:03,997 --> 00:01:05,264
-          in the world.         
+in the world.         
 
 9
 00:01:05,266 --> 00:01:07,732
-        using electricity       
-     to enhance performance,    
+using electricity to enhance performance,    
 
 10
 00:01:07,734 --> 00:01:10,569
-           the e-bike           
-  is definitely in the current. 
+the e-bike is definitely in the current. 
 
 11
 00:01:13,940 --> 00:01:17,542
-   these electric three-wheel   
- trikes combine ergonomic design
+these electric three-wheel trikes combine ergonomic design
 
 12
 00:01:17,544 --> 00:01:21,079
-        with cutting-edge       
-     mechanical engineering.    
+with cutting-edge mechanical engineering.    
 
 13
 00:01:21,081 --> 00:01:25,083
-  a rechargeable battery powers 
-      the electric engine.      
+a rechargeable battery powers the electric engine.      
 
 14
 00:01:25,085 --> 00:01:29,354
-   the rider sits comfortably   
-     in the ergonomic seat,     
+the rider sits comfortably in the ergonomic seat,     
 
 15
 00:01:29,356 --> 00:01:32,290
- places his feet on the pedals, 
+places his feet on the pedals, 
 
 16
 00:01:32,292 --> 00:01:34,259
-   releases the parking brake,  
+releases the parking brake,  
 
 17
 00:01:34,261 --> 00:01:35,961
-         and takes off.         
+and takes off.         
 
 18
 00:01:38,232 --> 00:01:40,832
-           the process          
- begins with a water jet cutter.
+the process begins with a water jet cutter.
 
 19
 00:01:40,834 --> 00:01:44,102
-   it uses ultra-high-pressure  
-         water and sand         
+it uses ultra-high-pressure water and sand         
 
 20
 00:01:44,104 --> 00:01:47,705
-          to cut parts          
-  out of a thin aluminum sheet. 
+to cut parts out of a thin aluminum sheet. 
 
 21
 00:01:47,707 --> 00:01:50,442
-    the cutter significantly    
-      enhances productivity     
+the cutter significantly enhances productivity     
 
 22
 00:01:50,444 --> 00:01:52,777
- without sacrificing precision. 
+without sacrificing precision. 
 
 23
 00:01:52,779 --> 00:01:56,115
- it can make several parts out  
- of a single sheet of aluminum. 
+it can make several parts out of a single sheet of aluminum. 
 
 24
 00:02:02,322 --> 00:02:03,922
-      parts that are ready      
-          for assembly          
+parts that are ready for assembly          
 
 25
 00:02:03,924 --> 00:02:06,825
-    go to the cnc brake press   
-          for folding.          
+go to the cnc brake press for folding.          
 
 26
 00:02:11,198 --> 00:02:13,998
-  a stopper positions the piece 
-          on the v die,         
+a stopper positions the piece on the v die,         
 
 27
 00:02:14,000 --> 00:02:16,235
-          where a punch         
-     comes down to fold it.     
+where a punch comes down to fold it.     
 
 28
 00:02:20,274 --> 00:02:22,273
-            a worker            
-    inspects the folded part    
+a worker inspects the folded part    
 
 29
 00:02:22,275 --> 00:02:24,610
-          to make sure          
-    it's ready for assembly.    
+to make sure it's ready for assembly.    
 
 30
 00:02:27,948 --> 00:02:32,584
-  a cnc bender curves aluminum  
- extrusion tubes for the frame. 
+a cnc bender curves aluminum extrusion tubes for the frame. 
 
 31
 00:02:34,154 --> 00:02:35,220
-        this machine has        
+this machine has        
 
 32
 00:02:35,222 --> 00:02:37,623
-    multidirectional bending    
-          capabilities          
+multidirectional bending capabilities          
 
 33
 00:02:37,625 --> 00:02:41,326
-   and can make multiple bends  
-   to a single extrusion tube.  
+and can make multiple bends to a single extrusion tube.  
 
 34
 00:02:44,965 --> 00:02:49,234
 the trike frame assembly process
-        starts on a jig.        
+starts on a jig.        
 
 35
 00:02:49,236 --> 00:02:51,169
-       once all the tubes       
-          are in place,         
+once all the tubes are in place,         
 
 36
 00:02:51,171 --> 00:02:54,640
-       a welder spot-welds      
-     the aluminum brackets.     
+a welder spot-welds the aluminum brackets.     
 
 37
 00:02:54,642 --> 00:03:01,380
 he welds about 20 spots, bonding
-   the brackets to the tubes.   
+the brackets to the tubes.   
 
 38
 00:03:01,382 --> 00:03:03,248
- the tubes bear most of the load
+the tubes bear most of the load
 
 39
 00:03:03,250 --> 00:03:07,518
-       while the brackets       
-     keep the frame aligned.    
+while the brackets keep the frame aligned.    
 
 40
 00:03:07,520 --> 00:03:10,255
-         the worker uses        
-  an electric tig-welding torch 
+the worker uses an electric tig-welding torch 
 
 41
 00:03:10,257 --> 00:03:12,391
-    to complete the welding.    
+to complete the welding.    
 
 42
 00:03:12,393 --> 00:03:15,393
-  he welds at a low temperature 
-    to avoid heat deformation   
+he welds at a low temperature to avoid heat deformation   
 
 43
 00:03:15,395 --> 00:03:17,996
-          in the metal.         
+in the metal.         
 
 44
 00:03:17,998 --> 00:03:22,267
 a mechanic installs thermoformed
-     recyclable abs plastic     
+recyclable abs plastic     
 
 45
 00:03:22,269 --> 00:03:25,470
-   over the back frame tubes.   
+over the back frame tubes.   
 
 46
 00:03:25,472 --> 00:03:27,005
-  he assembles the rear wheels, 
+he assembles the rear wheels, 
 
 47
 00:03:27,007 --> 00:03:29,541
-    which have a seven-degree   
-      negative camber angle     
+which have a seven-degree negative camber angle     
 
 48
 00:03:29,543 --> 00:03:33,478
-  for better grip and handling. 
+for better grip and handling. 
 
 49
 00:03:33,480 --> 00:03:35,280
-       the mechanic mounts      
-          brake levers,         
+the mechanic mounts brake levers,         
 
 50
 00:03:35,282 --> 00:03:39,351
- gear shifters, and handle grips
-      onto the steering bar     
+gear shifters, and handle grips
+onto the steering bar     
 
 51
 00:03:39,353 --> 00:03:41,486
-          and tightens          
-    the six-point socket nuts   
+and tightens the six-point socket nuts   
 
 52
 00:03:41,488 --> 00:03:43,121
-      with an allen wrench.     
+with an allen wrench.     
 
 53
 00:03:48,495 --> 00:03:51,830
 he applies a structural adhesive
-      on the drop-out poles     
+on the drop-out poles     
 
 54
 00:03:51,832 --> 00:03:54,633
-      and in slots located      
-    on the front frame tubes.   
+and in slots located on the front frame tubes.   
 
 55
 00:03:55,902 --> 00:03:58,636
-      the adhesive provides     
-  the flexibility and strength  
+the adhesive provides the flexibility and strength  
 
 56
 00:03:58,638 --> 00:04:01,573
-         needed to keep         
- the drop-out poles in position.
+needed to keep the drop-out poles in position.
 
 57
 00:04:06,247 --> 00:04:10,716
- now, the mechanic assembles the
- front and back frames together.
+now, the mechanic assembles the
+front and back frames together.
 
 58
 00:04:10,718 --> 00:04:12,851
-         the two frames         
-     connect under the seat     
+the two frames connect under the seat     
 
 59
 00:04:12,853 --> 00:04:16,188
- through an integrated direction
-  pivot and suspension system.  
+through an integrated direction
+pivot and suspension system.  
 
 60
 00:04:18,125 --> 00:04:20,859
-  the mechanic slips the front  
-  wheel into the drop-out poles 
+the mechanic slips the front wheel into the drop-out poles 
 
 61
 00:04:20,861 --> 00:04:22,660
-          on the frame.         
+on the frame.         
 
 62
 00:04:22,662 --> 00:04:28,066
-   he uses a calibrated torque  
- wrench to tight the wheel nut. 
+he uses a calibrated torque wrench to tight the wheel nut. 
 
 63
 00:04:28,068 --> 00:04:31,870
@@ -300,209 +260,183 @@ cassette to the bottom bracket,
 
 64
 00:04:31,872 --> 00:04:33,805
-           then bolts           
-     on the pedal crank arm     
+then bolts on the pedal crank arm     
 
 65
 00:04:33,807 --> 00:04:36,942
-              using             
-  a threaded taper pin system.  
+using a threaded taper pin system.  
 
 66
 00:04:40,947 --> 00:04:44,683
- next he installs the derailleur
-   for the nine-gear cassette   
+next he installs the derailleur
+for the nine-gear cassette   
 
 67
 00:04:44,685 --> 00:04:47,286
-            and bolts           
-  it on with a lock-tight bolt. 
+and bolts it on with a lock-tight bolt. 
 
 68
 00:04:51,692 --> 00:04:54,893
-     the compact drivetrain     
-       makes the trike 15%      
+the compact drivetrain makes the trike 15%      
 
 69
 00:04:54,895 --> 00:04:59,064
-   more energy-efficient than   
- regular bicycles or tricycles. 
+more energy-efficient than regular bicycles or tricycles. 
 
 70
 00:05:05,439 --> 00:05:07,905
-       a mechanic installs      
-      the disc brake system     
+a mechanic installs the disc brake system     
 
 71
 00:05:07,907 --> 00:05:09,574
- on the front wheel electric hub
+on the front wheel electric hub
 
 72
 00:05:09,576 --> 00:05:13,779
-          and verifies          
+and verifies          
 that it is functioning properly.
 
 73
 00:05:13,781 --> 00:05:17,382
-       the seats are made       
-    of woven synthetic fabric   
+the seats are made of woven synthetic fabric   
 
 74
 00:05:17,384 --> 00:05:18,650
-    wrapped around the frame    
+wrapped around the frame    
 
 75
 00:05:18,652 --> 00:05:21,119
-          and tightened         
-      with bungee elastics.     
+and tightened with bungee elastics.     
 
 76
 00:05:23,523 --> 00:05:28,993
- he locks the removable battery 
-    pack in place with a key.   
+he locks the removable battery pack in place with a key.   
 
 77
 00:05:28,995 --> 00:05:31,996
-   a console indicates levels   
-    of electrical assistance    
+a console indicates levels of electrical assistance    
 
 78
 00:05:31,998 --> 00:05:34,533
-    and battery regeneration.   
+and battery regeneration.   
 
 79
 00:05:34,535 --> 00:05:38,670
-     this trike's wheel base    
+this trike's wheel base    
 allows it to ride on bike paths.
 
 80
 00:05:38,672 --> 00:05:43,208
-        when on the road,       
- its width takes up more space. 
+when on the road, its width takes up more space. 
 
 81
 00:05:43,210 --> 00:05:44,876
-           the design           
-     of this electric trike     
+the design of this electric trike     
 
 82
 00:05:44,878 --> 00:05:49,848
-  combines stability and safety 
- for a secure and pleasant ride.
+combines stability and safety for a secure and pleasant ride.
 
 83
 00:05:59,493 --> 00:06:00,758
-    narrator: the easiest way   
+narrator: the easiest way   
 
 84
 00:06:00,760 --> 00:06:04,363
-        to treat dry skin       
+to treat dry skin       
 is to spread on some skin cream.
 
 85
 00:06:04,365 --> 00:06:06,030
-  it rejuvenates the skin cells 
+it rejuvenates the skin cells 
 
 86
 00:06:06,032 --> 00:06:08,166
-            and acts            
-    as a protective barrier.    
+and acts as a protective barrier.    
 
 87
 00:06:08,168 --> 00:06:10,568
- this is particularly important 
-         in the winter,         
+this is particularly important in the winter,         
 
 88
 00:06:10,570 --> 00:06:12,637
-      when cold outdoor air     
-       and indoor heating       
+when cold outdoor air and indoor heating       
 
 89
 00:06:12,639 --> 00:06:15,140
-        suck the moisture       
-        out of your skin.       
+suck the moisture out of your skin.       
 
 90
 00:06:19,179 --> 00:06:20,778
-      if you have dry skin,     
+if you have dry skin,     
 
 91
 00:06:20,780 --> 00:06:24,416
- it's wise to keep a good supply
-     of skin cream on hand.     
+it's wise to keep a good supply
+of skin cream on hand.     
 
 92
 00:06:29,389 --> 00:06:32,790
-      it's not just dry air     
+it's not just dry air     
 that makes skin flaky and itchy.
 
 93
 00:06:32,792 --> 00:06:35,527
-   cancer treatments can also   
-        dry out the skin,       
+cancer treatments can also dry out the skin,       
 
 94
 00:06:35,529 --> 00:06:38,997
-    along with other medical    
-   conditions, like diabetes.   
+along with other medical conditions, like diabetes.   
 
 95
 00:06:41,201 --> 00:06:43,868
-      the first ingredient      
-        is stearic acid.        
+the first ingredient is stearic acid.        
 
 96
 00:06:43,870 --> 00:06:46,605
-           it's a wax           
-   derived from palm tree oil.  
+it's a wax derived from palm tree oil.  
 
 97
 00:06:46,607 --> 00:06:51,276
-       the next ingredient      
-       is refined lanolin.      
+the next ingredient is refined lanolin.      
 
 98
 00:06:51,278 --> 00:06:53,945
-          it's blended          
-    with isopropyl myristate,   
+it's blended with isopropyl myristate,   
 
 99
 00:06:53,947 --> 00:06:57,816
- a natural oil that helps soften
-        the stearic acid.       
+a natural oil that helps soften
+the stearic acid.       
 
 100
 00:06:57,818 --> 00:07:01,486
 these ingredients make up what's
-  called the oil-soluble phase  
+called the oil-soluble phase  
 
 101
 00:07:01,488 --> 00:07:03,488
-         of the recipe.         
+of the recipe.         
 
 102
 00:07:03,490 --> 00:07:07,025
-  workers heat the stearic acid 
-       until it liquefies,      
+workers heat the stearic acid until it liquefies,      
 
 103
 00:07:07,027 --> 00:07:10,695
-  then add the blend of lanolin 
-     and isopropyl myristate    
+then add the blend of lanolin and isopropyl myristate    
 
 104
 00:07:10,697 --> 00:07:12,764
-        and keep heating.       
+and keep heating.       
 
 105
 00:07:12,766 --> 00:07:15,033
- while the oil phase is heating,
+while the oil phase is heating,
 
 106
 00:07:15,035 --> 00:07:19,037
- they prepare the water-soluble 
-      phase of the recipe.      
+they prepare the water-soluble phase of the recipe.      
 
 107
 00:07:19,039 --> 00:07:22,774
@@ -511,331 +445,288 @@ derived from a vegetable source,
 
 108
 00:07:22,776 --> 00:07:25,043
-          such as corn.         
+such as corn.         
 
 109
 00:07:25,045 --> 00:07:29,647
-      they heat and mix it,     
-    then add purified water.    
+they heat and mix it, then add purified water.    
 
 110
 00:07:29,649 --> 00:07:30,715
-      they continue heating     
+they continue heating     
 
 111
 00:07:30,717 --> 00:07:33,318
-           the mixture          
+the mixture          
 to just below the boiling point,
 
 112
 00:07:33,320 --> 00:07:35,386
-     add a floral fragrance,    
+add a floral fragrance,    
 
 113
 00:07:35,388 --> 00:07:38,790
-     then pump the oil phase    
-  into the bottom of the tank.  
+then pump the oil phase into the bottom of the tank.  
 
 114
 00:07:38,792 --> 00:07:40,191
-          it blends in          
-      with the water phase      
+it blends in with the water phase      
 
 115
 00:07:40,193 --> 00:07:44,529
-     while naturally rising     
-           to the top.          
+while naturally rising to the top.          
 
 116
 00:07:44,531 --> 00:07:46,597
-      they gradually lower      
-        the temperature.        
+they gradually lower the temperature.        
 
 117
 00:07:46,599 --> 00:07:49,868
-     this makes the mixture     
-    creamy and bright white.    
+this makes the mixture creamy and bright white.    
 
 118
 00:07:52,005 --> 00:07:55,740
-    after an hour of mixing,    
-    the skin cream is ready.    
+after an hour of mixing, the skin cream is ready.    
 
 119
 00:07:55,742 --> 00:07:57,275
-          they pump it          
-     out of the mixing tank     
+they pump it out of the mixing tank     
 
 120
 00:07:57,277 --> 00:08:00,145
-    to supply tanks that feed   
-        the filling line.       
+to supply tanks that feed the filling line.       
 
 121
 00:08:05,552 --> 00:08:09,020
- this company packages its skin 
-          cream in jars         
+this company packages its skin cream in jars         
 
 122
 00:08:09,022 --> 00:08:12,190
-    for body cream and tubes    
-         for hand cream.        
+for body cream and tubes for hand cream.        
 
 123
 00:08:16,362 --> 00:08:19,964
-      workers unpack boxes      
+workers unpack boxes      
 of plastic jars and line them up
 
 124
 00:08:19,966 --> 00:08:23,368
-       on a conveyer belt       
+on a conveyer belt       
 that feeds the labeling machine.
 
 125
 00:08:23,370 --> 00:08:26,971
-         each jar passes        
-       a photo-eye sensor.      
+each jar passes a photo-eye sensor.      
 
 126
 00:08:26,973 --> 00:08:29,841
-      this sensor triggers      
-  the machines to spin the jar  
+this sensor triggers the machines to spin the jar  
 
 127
 00:08:29,843 --> 00:08:31,109
-        at the same speed       
+at the same speed       
 
 128
 00:08:31,111 --> 00:08:33,712
-      as the adhesive label     
-      coming off the roll.      
+as the adhesive label coming off the roll.      
 
 129
 00:08:40,386 --> 00:08:42,120
- workers place the labeled jars 
+workers place the labeled jars 
 
 130
 00:08:42,122 --> 00:08:45,123
-        onto a turntable        
- that feeds the filling machine.
+onto a turntable that feeds the filling machine.
 
 131
 00:08:48,529 --> 00:08:52,097
-      two single-file lanes     
-   each lead to three nozzles.  
+two single-file lanes each lead to three nozzles.  
 
 132
 00:08:56,403 --> 00:09:00,738
-      the machine fills up      
-     to 125 jars per minute,    
+the machine fills up to 125 jars per minute,    
 
 133
 00:09:00,740 --> 00:09:04,709
-      depositing 12 ounces      
-  of skin cream into each jar.  
+depositing 12 ounces of skin cream into each jar.  
 
 134
 00:09:09,482 --> 00:09:11,282
-  the two lanes of filled jars  
+the two lanes of filled jars  
 
 135
 00:09:11,284 --> 00:09:14,019
-     merge as they approach     
-      the capping machine.      
+merge as they approach the capping machine.      
 
 136
 00:09:16,757 --> 00:09:21,292
-   the caps come down a chute   
-   to the machine's carousel.   
+the caps come down a chute to the machine's carousel.   
 
 137
 00:09:21,294 --> 00:09:24,829
- a device called a timing screw 
-  correctly positions each jar  
+a device called a timing screw correctly positions each jar  
 
 138
 00:09:24,831 --> 00:09:26,298
-        to receive a lid.       
+to receive a lid.       
 
 139
 00:09:29,970 --> 00:09:31,302
-  the lower part of the machine 
+the lower part of the machine 
 
 140
 00:09:31,304 --> 00:09:35,473
- holds the jar steady as an arm 
-    secures the lid in place.   
+holds the jar steady as an arm secures the lid in place.   
 
 141
 00:09:40,714 --> 00:09:43,515
-  the next station on the line  
-    applies an adhesive label   
+the next station on the line applies an adhesive label   
 
 142
 00:09:43,517 --> 00:09:45,317
-          onto the cap.         
+onto the cap.         
 
 143
 00:09:47,454 --> 00:09:50,388
-     the jars of body cream     
-       are ready for sale.      
+the jars of body cream are ready for sale.      
 
 144
 00:09:50,390 --> 00:09:53,591
-        this factory also       
-  packages hand cream in a tube 
+this factory also packages hand cream in a tube 
 
 145
 00:09:53,593 --> 00:09:55,627
-        that you can keep       
-    in your purse or pocket.    
+that you can keep in your purse or pocket.    
 
 146
 00:09:59,666 --> 00:10:00,798
-        a mechanical arm        
+a mechanical arm        
 
 147
 00:10:00,800 --> 00:10:04,735
-        places the tubes        
- on a turntable, cap side down. 
+places the tubes on a turntable, cap side down. 
 
 148
 00:10:04,737 --> 00:10:08,139
-     the bottom of each tube    
- is open and ready for filling. 
+the bottom of each tube is open and ready for filling. 
 
 149
 00:10:15,749 --> 00:10:19,451
-  a nozzle squirts two ounces   
-  of skin cream into the tube.  
+a nozzle squirts two ounces of skin cream into the tube.  
 
 150
 00:10:23,623 --> 00:10:27,158
- then the machine heats the open
-   end to soften the plastic,   
+then the machine heats the open
+end to soften the plastic,   
 
 151
 00:10:27,160 --> 00:10:28,226
-         clamps it shut,        
+clamps it shut,        
 
 152
 00:10:28,228 --> 00:10:30,962
-     then cools the plastic     
-        to a solid state.       
+then cools the plastic to a solid state.       
 
 153
 00:10:35,302 --> 00:10:37,902
-     when you rub the cream     
-          on your skin,         
+when you rub the cream on your skin,         
 
 154
 00:10:37,904 --> 00:10:39,103
-      the key ingredients,      
+the key ingredients,      
 
 155
 00:10:39,105 --> 00:10:42,907
-      glycerin and lanolin,     
-      pack a one-two punch.     
+glycerin and lanolin, pack a one-two punch.     
 
 156
 00:10:42,909 --> 00:10:44,643
-    glycerin is hydroscopic,    
+glycerin is hydroscopic,    
 
 157
 00:10:44,645 --> 00:10:48,380
-     meaning it draws water     
-    from the air to the skin.   
+meaning it draws water from the air to the skin.   
 
 158
 00:10:48,382 --> 00:10:50,114
-   lanolin smoothes the skin,   
+lanolin smoothes the skin,   
 
 159
 00:10:50,116 --> 00:10:53,485
-    forming a protective film   
-    to lock in the moisture.    
+forming a protective film to lock in the moisture.    
 
 160
 00:11:03,129 --> 00:11:04,329
-            narrator:           
- patio heaters make it possible 
+narrator: patio heaters make it possible 
 
 161
 00:11:04,331 --> 00:11:07,332
-         to dine outside        
-      even when it's cold.      
+to dine outside even when it's cold.      
 
 162
 00:11:07,334 --> 00:11:09,934
- when this outdoor space heater 
-          is turned on,         
+when this outdoor space heater is turned on,         
 
 163
 00:11:09,936 --> 00:11:12,136
- it creates a circle of warmth. 
+it creates a circle of warmth. 
 
 164
 00:11:12,138 --> 00:11:14,939
-  the heater can take the chill 
-  out of a cold summer evening  
+the heater can take the chill out of a cold summer evening  
 
 165
 00:11:14,941 --> 00:11:18,143
-     and extend patio season    
-       well into the fall.      
+and extend patio season well into the fall.      
 
 166
 00:11:24,618 --> 00:11:27,752
-        it's a chill day,       
-     but not on this patio.     
+it's a chill day, but not on this patio.     
 
 167
 00:11:27,754 --> 00:11:29,754
-  it has its own microclimate,  
+it has its own microclimate,  
 
 168
 00:11:29,756 --> 00:11:32,223
-   one that's warm and toasty.  
+one that's warm and toasty.  
 
 169
 00:11:32,225 --> 00:11:35,527
-         it's all thanks        
+it's all thanks        
 to the infrared heater overhead.
 
 170
 00:11:38,164 --> 00:11:39,898
-     to make a patio heater,    
+to make a patio heater,    
 
 171
 00:11:39,900 --> 00:11:43,368
-     an engineer first maps     
-  out the design on a computer. 
+an engineer first maps out the design on a computer. 
 
 172
 00:11:43,370 --> 00:11:45,770
-     he transfers the design    
-      to cutting equipment,     
+he transfers the design to cutting equipment,     
 
 173
 00:11:45,772 --> 00:11:49,307
-        like this laser.        
+like this laser.        
 
 174
 00:11:49,309 --> 00:11:51,042
-  it cuts screw holes and vents 
+it cuts screw holes and vents 
 
 175
 00:11:51,044 --> 00:11:55,446
-    into steel that's covered   
-  by a protective plastic film. 
+into steel that's covered by a protective plastic film. 
 
 176
 00:11:55,448 --> 00:11:56,981
-   the laser also cuts a part   
+the laser also cuts a part   
 
 177
 00:11:56,983 --> 00:12:00,151
-       that will be shaped      
+that will be shaped      
 into the patio heater's housing.
 
 178
@@ -844,275 +735,236 @@ after removing the plastic film,
 
 179
 00:12:08,461 --> 00:12:10,861
-    a worker places the steel   
-        between the jaws        
+a worker places the steel between the jaws        
 
 180
 00:12:10,863 --> 00:12:14,466
-        of a press brake.       
+of a press brake.       
 
 181
 00:12:14,468 --> 00:12:18,136
-        it bends the part       
- to form a rim around the edges.
+it bends the part to form a rim around the edges.
 
 182
 00:12:18,138 --> 00:12:22,807
- additional bends give the part 
-       a rounded profile.       
+additional bends give the part a rounded profile.       
 
 183
 00:12:22,809 --> 00:12:25,476
-      a laser probe checks      
-    that the worker's fingers   
+a laser probe checks that the worker's fingers   
 
 184
 00:12:25,478 --> 00:12:27,846
-    are not getting too close   
-          to the jaws.          
+are not getting too close to the jaws.          
 
 185
 00:12:31,351 --> 00:12:33,685
-       once all the parts       
-    have been cut and shaped,   
+once all the parts have been cut and shaped,   
 
 186
 00:12:33,687 --> 00:12:38,690
-        the patio heater        
-    is ready to be assembled.   
+the patio heater is ready to be assembled.   
 
 187
 00:12:38,692 --> 00:12:41,292
-  a worker creates a reflector  
-      that will direct heat     
+a worker creates a reflector that will direct heat     
 
 188
 00:12:41,294 --> 00:12:43,561
-    down and out of the unit.   
+down and out of the unit.   
 
 189
 00:12:46,499 --> 00:12:49,634
-  then he attaches an insulator 
-        to the reflector.       
+then he attaches an insulator to the reflector.       
 
 190
 00:12:49,636 --> 00:12:50,901
-    it will protect the roof    
+it will protect the roof    
 
 191
 00:12:50,903 --> 00:12:56,774
-    and walls that the heater   
-       will be mounted to.      
+and walls that the heater will be mounted to.      
 
 192
 00:12:56,776 --> 00:13:01,445
-    he inserts the insulator    
-    and reflector assembly.     
+he inserts the insulator and reflector assembly.     
 
 193
 00:13:01,447 --> 00:13:03,381
-            the legs            
-  of the reflector assembly fit 
+the legs of the reflector assembly fit 
 
 194
 00:13:03,383 --> 00:13:05,950
-    into the laser-cut holes    
-         in the housing.        
+into the laser-cut holes in the housing.        
 
 195
 00:13:08,588 --> 00:13:11,255
-      he temporarily places     
-      the control box cover     
+he temporarily places the control box cover     
 
 196
 00:13:11,257 --> 00:13:12,923
-   at the end of the housing.   
+at the end of the housing.   
 
 197
 00:13:12,925 --> 00:13:16,161
-    then he aligns and welds    
-  a side panel to the housing.  
+then he aligns and welds a side panel to the housing.  
 
 198
 00:13:21,734 --> 00:13:24,469
-     he welds a second panel    
-       to the other side.       
+he welds a second panel to the other side.       
 
 199
 00:13:28,741 --> 00:13:32,143
-   after covering the assembly  
- with protective plastic again, 
+after covering the assembly with protective plastic again, 
 
 200
 00:13:32,145 --> 00:13:34,678
- he grinds down the welded seam.
+he grinds down the welded seam.
 
 201
 00:13:34,680 --> 00:13:38,016
-   this gives the patio heater  
-       unit cleaner edges.      
+this gives the patio heater unit cleaner edges.      
 
 202
 00:13:41,354 --> 00:13:44,689
-   he buffs the seams to a low  
-    sheen using a cloth wheel   
+he buffs the seams to a low sheen using a cloth wheel   
 
 203
 00:13:44,691 --> 00:13:47,491
-      and polishing paste.      
+and polishing paste.      
 
 204
 00:13:47,493 --> 00:13:51,696
-   this makes the seams blend   
-       in with the steel.       
+this makes the seams blend in with the steel.       
 
 205
 00:13:51,698 --> 00:13:53,164
-       the burner is next.      
+the burner is next.      
 
 206
 00:13:53,166 --> 00:13:54,498
-       it's made of steel       
+it's made of steel       
 
 207
 00:13:54,500 --> 00:13:59,437
-     but has a ceramic grill    
-  with hundreds of tiny holes.  
+but has a ceramic grill with hundreds of tiny holes.  
 
 208
 00:13:59,439 --> 00:14:00,638
-     this contoured pattern     
+this contoured pattern     
 
 209
 00:14:00,640 --> 00:14:05,576
-           allows heat          
-  to radiate in all directions. 
+allows heat to radiate in all directions. 
 
 210
 00:14:05,578 --> 00:14:07,045
-       he tucks insulation      
+he tucks insulation      
 
 211
 00:14:07,047 --> 00:14:11,783
- into the heater body to protect
-     it from the hot burner.    
+into the heater body to protect
+it from the hot burner.    
 
 212
 00:14:11,785 --> 00:14:15,186
-   then he installs the burner  
-    on top of the insulation.   
+then he installs the burner on top of the insulation.   
 
 213
 00:14:15,188 --> 00:14:19,524
- it fits snugly to the reflector
-    and insulator framework.    
+it fits snugly to the reflector
+and insulator framework.    
 
 214
 00:14:19,526 --> 00:14:22,527
-      he places a separator     
-    at one end of the burner,   
+he places a separator at one end of the burner,   
 
 215
 00:14:22,529 --> 00:14:25,797
-         leaving a space        
- for a control box and gas line.
+leaving a space for a control box and gas line.
 
 216
 00:14:27,800 --> 00:14:29,133
-   he inserts the control box   
+he inserts the control box   
 
 217
 00:14:29,135 --> 00:14:33,337
-    and connects the gas line   
-         to the burner.         
+and connects the gas line to the burner.         
 
 218
 00:14:33,339 --> 00:14:35,006
-  he attaches the spark igniter 
+he attaches the spark igniter 
 
 219
 00:14:35,008 --> 00:14:37,642
-     and temperature sensor     
-        to the separator.       
+and temperature sensor to the separator.       
 
 220
 00:14:46,486 --> 00:14:51,956
-    he secures the burner to    
- the main assembly with screws. 
+he secures the burner to the main assembly with screws. 
 
 221
 00:14:51,958 --> 00:14:55,293
 he tucks the electronic controls
-      into the control box      
+into the control box      
 
 222
 00:14:55,295 --> 00:14:57,528
- and connects all of the wiring.
+and connects all of the wiring.
 
 223
 00:15:06,840 --> 00:15:11,208
-  he seals the control box with 
+he seals the control box with 
 a metal plate and rubber gasket.
 
 224
 00:15:11,210 --> 00:15:15,045
-   this makes the electronics   
-           watertight.          
+this makes the electronics watertight.          
 
 225
 00:15:15,047 --> 00:15:18,782
- finally, he adds a vented panel
-   to the top of the controls   
+finally, he adds a vented panel
+to the top of the controls   
 
 226
 00:15:18,784 --> 00:15:22,587
-        and a metal grill       
-   to the rest of the heater.   
+and a metal grill to the rest of the heater.   
 
 227
 00:15:22,589 --> 00:15:25,056
-     over at a test station,    
-          a technician          
+over at a test station, a technician          
 
 228
 00:15:25,058 --> 00:15:28,559
-      powers up the heater      
- using a remote-control system. 
+powers up the heater using a remote-control system. 
 
 229
 00:15:33,266 --> 00:15:35,833
-     he checks for gas leaks    
-          or blockages          
+he checks for gas leaks or blockages          
 
 230
 00:15:35,835 --> 00:15:39,136
-          and confirms          
-      that the temperature      
+and confirms that the temperature      
 
 231
 00:15:39,138 --> 00:15:41,773
-      rises in response to      
- the remote control's commands. 
+rises in response to the remote control's commands. 
 
 232
 00:15:46,278 --> 00:15:49,280
-        this patio heater       
-   has passed all of the tests  
+this patio heater has passed all of the tests  
 
 233
 00:15:49,282 --> 00:15:53,417
-        and is now ready        
-     for the outside world,     
+and is now ready for the outside world,     
 
 234
 00:15:53,419 --> 00:15:56,554
-   where people are sure to be  
-   attracted to its warm glow.  
+where people are sure to be attracted to its warm glow.  
 
 235
 00:16:09,302 --> 00:16:10,634
-   narrator: in the early days  
-       of the automobile,       
+narrator: in the early days of the automobile,       
 
 236
 00:16:10,636 --> 00:16:12,770
@@ -1120,31 +972,28 @@ wheels had wood spokes and rims.
 
 237
 00:16:12,772 --> 00:16:14,438
-        but by the 1920s,       
+but by the 1920s,       
 
 238
 00:16:14,440 --> 00:16:17,041
-    manufacturers began using   
-     more durable materials,    
+manufacturers began using more durable materials,    
 
 239
 00:16:17,043 --> 00:16:19,176
-      like iron and steel.      
+like iron and steel.      
 
 240
 00:16:19,178 --> 00:16:23,114
-  today, wood-spoke wheels are  
+today, wood-spoke wheels are  
 used in classic-car restoration.
 
 241
 00:16:30,322 --> 00:16:34,859
-       in the early 1900s,      
-   cars had wood-spoke wheels.  
+in the early 1900s, cars had wood-spoke wheels.  
 
 242
 00:16:34,861 --> 00:16:37,328
-   when those antique vehicles  
-        need new wheels,        
+when those antique vehicles need new wheels,        
 
 243
 00:16:37,330 --> 00:16:39,396
@@ -1156,373 +1005,324 @@ they can build wood-spoke wheels
 
 245
 00:16:41,267 --> 00:16:44,068
-       just as it was done      
-         a century ago.         
+just as it was done a century ago.         
 
 246
 00:16:44,070 --> 00:16:46,070
-       production starts        
-       with the steel rim       
+production starts with the steel rim       
 
 247
 00:16:46,072 --> 00:16:48,005
-           that wraps           
-     around the wood wheel.     
+that wraps around the wood wheel.     
 
 248
 00:16:48,007 --> 00:16:52,143
-         the steel spins        
- in a lathe as stationary tools 
+the steel spins in a lathe as stationary tools 
 
 249
 00:16:52,145 --> 00:16:53,944
-  cut it to the correct profile 
+cut it to the correct profile 
 
 250
 00:16:53,946 --> 00:16:56,781
-        and create a lip        
-  for gripping the rubber tire. 
+and create a lip for gripping the rubber tire. 
 
 251
 00:16:59,085 --> 00:17:00,485
-    a worker measures the rim   
+a worker measures the rim   
 
 252
 00:17:00,487 --> 00:17:04,021
-           to confirm           
- it's the same as the original. 
+to confirm it's the same as the original. 
 
 253
 00:17:04,023 --> 00:17:06,758
-   you can see the difference   
-     the machining has made.    
+you can see the difference the machining has made.    
 
 254
 00:17:08,961 --> 00:17:11,829
-   another member of the team   
-  measures the moisture content 
+another member of the team measures the moisture content 
 
 255
 00:17:11,831 --> 00:17:14,631
-         of hickory wood        
-       and selects boards       
+of hickory wood and selects boards       
 
 256
 00:17:14,633 --> 00:17:17,768
-  that are sufficiently dried.  
+that are sufficiently dried.  
 
 257
 00:17:17,770 --> 00:17:20,237
-    he traces a rough pattern   
-        of a wheel spoke        
+he traces a rough pattern of a wheel spoke        
 
 258
 00:17:20,239 --> 00:17:22,540
-            and cuts            
-    along the penciled lines.   
+and cuts along the penciled lines.   
 
 259
 00:17:23,843 --> 00:17:28,112
-  this gives him a basic shape  
-          to work with.         
+this gives him a basic shape to work with.         
 
 260
 00:17:28,114 --> 00:17:32,183
-              next              
+next              
 he selects a more exact pattern.
 
 261
 00:17:32,185 --> 00:17:35,119
-     he clamps this pattern     
-  in a wood carving duplicator  
+he clamps this pattern in a wood carving duplicator  
 
 262
 00:17:35,121 --> 00:17:39,390
-         alongside four         
-      of the rough spokes.      
+alongside four of the rough spokes.      
 
 263
 00:17:39,392 --> 00:17:41,458
-     he follows the contours    
-         of the pattern         
+he follows the contours of the pattern         
 
 264
 00:17:41,460 --> 00:17:43,061
-      with a tracing wheel.     
+with a tracing wheel.     
 
 265
 00:17:46,132 --> 00:17:50,201
- the tracing wheel moves cutting
-  tools that carve the hickory. 
+the tracing wheel moves cutting
+tools that carve the hickory. 
 
 266
 00:17:50,203 --> 00:17:55,006
-   this duplicates the profile  
-   of the wheel spoke pattern.  
+this duplicates the profile of the wheel spoke pattern.  
 
 267
 00:17:55,008 --> 00:17:57,742
-     he sands off marks left    
-      by the cutting tools      
+he sands off marks left by the cutting tools      
 
 268
 00:17:57,744 --> 00:18:01,478
-    and smoothes the surface    
-   of the newly formed spokes.  
+and smoothes the surface of the newly formed spokes.  
 
 269
 00:18:01,480 --> 00:18:05,482
-   then he secures the spokes   
-     one at a time in a jig.    
+then he secures the spokes one at a time in a jig.    
 
 270
 00:18:05,484 --> 00:18:08,152
-    this steadies the spokes    
-    as he cuts the wider ends   
+this steadies the spokes as he cuts the wider ends   
 
 271
 00:18:08,154 --> 00:18:09,720
-       into a wedge shape.      
+into a wedge shape.      
 
 272
 00:18:13,426 --> 00:18:15,159
-   together, two wheelwrights   
+together, two wheelwrights   
 
 273
 00:18:15,161 --> 00:18:18,162
-       arrange the spokes       
-      in a wheel formation.     
+arrange the spokes in a wheel formation.     
 
 274
 00:18:18,164 --> 00:18:21,999
-   the wedges fit together at   
+the wedges fit together at   
 the center like pieces of a pie.
 
 275
 00:18:24,303 --> 00:18:26,304
-       they tighten clamps      
-       to bring the spokes      
+they tighten clamps to bring the spokes      
 
 276
 00:18:26,306 --> 00:18:28,039
-     into perfect alignment.    
+into perfect alignment.    
 
 277
 00:18:30,243 --> 00:18:34,245
- one of the wheelwrights inserts
- a steel hub in the center hole.
+one of the wheelwrights inserts
+a steel hub in the center hole.
 
 278
 00:18:34,247 --> 00:18:37,181
-         he drills holes        
- into the wood and inserts bolts
+he drills holes into the wood and inserts bolts
 
 279
 00:18:37,183 --> 00:18:39,016
-    to secure the steel hub.    
+to secure the steel hub.    
 
 280
 00:18:42,455 --> 00:18:45,456
-       using a tool that's      
-  like a big pencil sharpener,  
+using a tool that's like a big pencil sharpener,  
 
 281
 00:18:45,458 --> 00:18:48,926
-       he carves the ends       
- of the spokes, creating dowels.
+he carves the ends of the spokes, creating dowels.
 
 282
 00:18:51,530 --> 00:18:53,998
- dowels are peg-like fasteners. 
+dowels are peg-like fasteners. 
 
 283
 00:18:56,336 --> 00:18:58,402
- he sands the dowels on an angle
+he sands the dowels on an angle
 
 284
 00:18:58,404 --> 00:19:01,338
-    to create a gentle slope    
-          in each one.          
+to create a gentle slope in each one.          
 
 285
 00:19:01,340 --> 00:19:03,941
-      these slopes make it      
-   easier to slide the spokes   
+these slopes make it easier to slide the spokes   
 
 286
 00:19:03,943 --> 00:19:10,548
-   into the two-part wood rim.  
+into the two-part wood rim.  
 
 287
 00:19:10,550 --> 00:19:13,951
-      using a special tool,     
-   the team stretches the rim   
+using a special tool, the team stretches the rim   
 
 288
 00:19:13,953 --> 00:19:17,155
-      and pulls the spokes      
-         into position.         
+and pulls the spokes into position.         
 
 289
 00:19:17,157 --> 00:19:19,556
-        then they insert        
- the doweled ends of the spokes 
+then they insert the doweled ends of the spokes 
 
 290
 00:19:19,558 --> 00:19:21,225
-         into the holes.        
+into the holes.        
 
 291
 00:19:21,227 --> 00:19:23,293
-   this process is difficult.   
+this process is difficult.   
 
 292
 00:19:23,295 --> 00:19:24,362
-         one wrong move,        
+one wrong move,        
 
 293
 00:19:24,364 --> 00:19:28,365
 and they could damage the spokes
-             or rim.            
+or rim.            
 
 294
 00:19:28,367 --> 00:19:30,034
-   but thanks to their skill,   
+but thanks to their skill,   
 
 295
 00:19:30,036 --> 00:19:32,502
-      the wood-spoke wheel      
-         comes together.        
+the wood-spoke wheel comes together.        
 
 296
 00:19:32,504 --> 00:19:34,171
-  all of the parts are intact,  
+all of the parts are intact,  
 
 297
 00:19:34,173 --> 00:19:38,843
-         and the spokes         
- are firmly secured in the rim. 
+and the spokes are firmly secured in the rim. 
 
 298
 00:19:38,845 --> 00:19:41,979
-   a wheelwright measures the   
-  circumference of the wood rim 
+a wheelwright measures the circumference of the wood rim 
 
 299
 00:19:41,981 --> 00:19:45,216
-     and calculates how much    
-  will need to be trimmed off.  
+and calculates how much will need to be trimmed off.  
 
 300
 00:19:48,321 --> 00:19:51,188
-    he shaves down the wheel,   
-   adjusting the circumference  
+he shaves down the wheel, adjusting the circumference  
 
 301
 00:19:51,190 --> 00:19:54,058
-    to the desired dimension.   
+to the desired dimension.   
 
 302
 00:19:54,060 --> 00:19:58,329
-   the wheel must be slightly   
+the wheel must be slightly   
 larger than the outer steel rim.
 
 303
 00:19:58,331 --> 00:20:01,532
-      you'll see why next.      
+you'll see why next.      
 
 304
 00:20:01,534 --> 00:20:05,202
-  they place the steel rim over 
-      an intense gas flame      
+they place the steel rim over an intense gas flame      
 
 305
 00:20:05,204 --> 00:20:07,371
-          and cover it          
-     with a piece of metal.     
+and cover it with a piece of metal.     
 
 306
 00:20:09,475 --> 00:20:13,544
-  the heat causes the steel rim 
-           to expand.           
+the heat causes the steel rim to expand.           
 
 307
 00:20:13,546 --> 00:20:15,145
-     after about 15 minutes,    
+after about 15 minutes,    
 
 308
 00:20:15,147 --> 00:20:17,681
-         the wheelwright        
-       removes the cover.       
+the wheelwright removes the cover.       
 
 309
 00:20:17,683 --> 00:20:19,883
- he grips the hot rim with tongs
+he grips the hot rim with tongs
 
 310
 00:20:19,885 --> 00:20:22,486
-        and transfers it        
-       to the wood wheel.       
+and transfers it to the wood wheel.       
 
 311
 00:20:22,488 --> 00:20:23,954
-     the enlarged steel rim     
+the enlarged steel rim     
 
 312
 00:20:23,956 --> 00:20:28,626
- fits loosely around the outside
-      of the wooden wheel.      
+fits loosely around the outside
+of the wooden wheel.      
 
 313
 00:20:28,628 --> 00:20:31,429
-    they now spray the steel    
-        with cold water.        
+they now spray the steel with cold water.        
 
 314
 00:20:31,431 --> 00:20:34,565
-        as the rim cools,       
- it shrinks to the hickory wood,
+as the rim cools, it shrinks to the hickory wood,
 
 315
 00:20:34,567 --> 00:20:38,302
-   creating a permanent bond.   
+creating a permanent bond.   
 
 316
 00:20:38,304 --> 00:20:40,638
-         the wheelwright        
-     shaves the spokes down     
+the wheelwright shaves the spokes down     
 
 317
 00:20:40,640 --> 00:20:42,640
-        to make them look       
-        more streamlined.       
+to make them look more streamlined.       
 
 318
 00:20:45,878 --> 00:20:48,279
-        he sands the wood       
-      to enhance the grain.     
+he sands the wood to enhance the grain.     
 
 319
 00:20:52,385 --> 00:20:56,987
-        it took 16 hours        
- to make this wood-spoke wheel. 
+it took 16 hours to make this wood-spoke wheel. 
 
 320
 00:20:56,989 --> 00:21:00,491
-    it's brand-new, but looks   
-    like a thing of the past.   
+it's brand-new, but looks like a thing of the past.   
 
 321
 00:21:12,604 --> 00:21:15,273
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 322
 00:21:15,275 --> 00:21:18,342
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 323
 00:21:18,344 --> 00:21:20,645
-      drop us a line at...      
+drop us a line at...      
 

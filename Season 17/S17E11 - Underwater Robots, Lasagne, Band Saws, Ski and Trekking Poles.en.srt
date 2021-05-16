@@ -3244,13 +3244,11 @@ for action.
 
 545
 00:21:19,278 --> 00:21:22,280
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 546
 00:21:22,282 --> 00:21:25,250
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 547
 00:21:31,490 --> 00:21:32,891

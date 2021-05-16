@@ -1,217 +1,178 @@
 ﻿1
 00:00:22,489 --> 00:00:25,891
-           narrator:            
- today, on "how it's made"...   
+narrator: today, on "how it's made"...   
 
 2
 00:00:54,321 --> 00:00:55,921
-    it's common for pressure    
-          to build up           
+it's common for pressure to build up           
 
 3
 00:00:55,923 --> 00:00:59,191
- inside chemical tanker trucks  
-       during transport.        
+inside chemical tanker trucks during transport.        
 
 4
 00:00:59,193 --> 00:01:01,393
-         special vents          
-    regulate that pressure,     
+special vents regulate that pressure,     
 
 5
 00:01:01,395 --> 00:01:03,595
-           preventing           
-  any unwanted gas build-up,    
+preventing any unwanted gas build-up,    
 
 6
 00:01:03,597 --> 00:01:05,497
-        which could lead        
-       to an explosion.         
+which could lead to an explosion.         
 
 7
 00:01:15,609 --> 00:01:17,743
-     pressure relief vents      
-    are standard equipment      
+pressure relief vents are standard equipment      
 
 8
 00:01:17,745 --> 00:01:19,878
-  on chemical tanker trucks.    
+on chemical tanker trucks.    
 
 9
 00:01:21,816 --> 00:01:23,681
- they ensure tanks can hold up  
+they ensure tanks can hold up  
 
 10
 00:01:23,683 --> 00:01:27,553
-        to the pressures        
-  inherent to this industry.    
+to the pressures inherent to this industry.    
 
 11
 00:01:27,555 --> 00:01:32,891
-  production starts with a bin  
-        of wax pellets.         
+production starts with a bin of wax pellets.         
 
 12
 00:01:32,893 --> 00:01:35,960
-    they use pellets to make    
-             models             
-      of the vent's parts       
+they use pellets to make models of the vent's parts       
 
 13
 00:01:35,962 --> 00:01:39,198
-          in a process          
-   called lost-wax casting.     
+in a process called lost-wax casting.     
 
 14
 00:01:41,368 --> 00:01:43,835
-        pellets are fed         
-  into an injection machine.    
+pellets are fed into an injection machine.    
 
 15
 00:01:43,837 --> 00:01:47,506
-   the wax melts into a mold    
- of the vent's lower housing.   
+the wax melts into a mold of the vent's lower housing.   
 
 16
 00:01:52,579 --> 00:01:58,183
-   four wax models are fused    
-  to a single wax tree stand.   
+four wax models are fused to a single wax tree stand.   
 
 17
 00:01:58,185 --> 00:02:01,719
- the tree stand is left to cure 
-    for a couple of hours.      
+the tree stand is left to cure for a couple of hours.      
 
 18
 00:02:01,721 --> 00:02:04,122
-      once cured, a worker      
-       dips the wax tree        
+once cured, a worker dips the wax tree        
 
 19
 00:02:04,124 --> 00:02:06,525
-   into a slurry of ceramic.    
+into a slurry of ceramic.    
 
 20
 00:02:06,527 --> 00:02:08,794
-      he removes the stand      
-        of wax models,          
+he removes the stand of wax models,          
 
 21
 00:02:08,796 --> 00:02:12,064
-    then twirls it to drain     
-      any excess ceramic.       
+then twirls it to drain any excess ceramic.       
 
 22
 00:02:19,607 --> 00:02:23,141
-       this is the first        
- of several ceramic coatings.   
+this is the first of several ceramic coatings.   
 
 23
 00:02:23,143 --> 00:02:25,944
-       between coatings,        
-    he applies silica sand      
+between coatings, he applies silica sand      
 
 24
 00:02:25,946 --> 00:02:28,614
-      to the wet ceramic.       
+to the wet ceramic.       
 
 25
 00:02:28,616 --> 00:02:30,882
-         the sand rains         
-    down onto the ceramic,      
+the sand rains down onto the ceramic,      
 
 26
 00:02:30,884 --> 00:02:32,885
-   creating a stucco effect.    
+creating a stucco effect.    
 
 27
 00:02:36,357 --> 00:02:39,824
-   the first layer of stucco    
-    is finally granulated.      
+the first layer of stucco is finally granulated.      
 
 28
 00:02:39,826 --> 00:02:42,461
-      the next few layers       
-        will be coarse.         
+the next few layers will be coarse.         
 
 29
 00:02:44,965 --> 00:02:48,367
-  by building up progressively  
-   coarser layers of stucco,    
+by building up progressively coarser layers of stucco,    
 
 30
 00:02:48,369 --> 00:02:50,235
-  he creates a ceramic shell    
+he creates a ceramic shell    
 
 31
 00:02:50,237 --> 00:02:53,105
-   with the desired thickness   
-         and strength.          
+with the desired thickness and strength.          
 
 32
 00:02:55,576 --> 00:02:59,978
-    the final layer of sand     
-        is very coarse.         
+the final layer of sand is very coarse.         
 
 33
 00:02:59,980 --> 00:03:03,715
-   air pumps through the sand   
-     as the worker dumps the    
-            models.             
+air pumps through the sand as the worker dumps the models.             
 
 34
 00:03:03,717 --> 00:03:08,053
-  this process ensures uniform  
- coverage of the heavier sand.  
+this process ensures uniform coverage of the heavier sand.  
 
 35
 00:03:10,391 --> 00:03:13,658
-   they bake the forms next,    
-      melting out the wax       
+they bake the forms next, melting out the wax       
 
 36
 00:03:13,660 --> 00:03:17,262
-   and hardening the ceramic    
-         into shells.           
+and hardening the ceramic into shells.           
 
 37
 00:03:17,264 --> 00:03:21,800
-   next, a team pours blazing   
-  liquid steel into a ladle.    
+next, a team pours blazing liquid steel into a ladle.    
 
 38
 00:03:21,802 --> 00:03:23,534
-       the ceramic shells       
-       have been heated         
+the ceramic shells have been heated         
 
 39
 00:03:23,536 --> 00:03:26,471
-    to around 3,000 degrees     
-          in an oven.           
+to around 3,000 degrees in an oven.           
 
 40
 00:03:26,473 --> 00:03:30,042
- workers pour hot, liquid steel 
-     into the hollow tree.      
+workers pour hot, liquid steel into the hollow tree.      
 
 41
 00:03:33,213 --> 00:03:36,148
-  they add a chemical sealer,   
-   then top the molten metal    
+they add a chemical sealer, then top the molten metal    
 
 42
 00:03:36,150 --> 00:03:38,917
-          with a piece          
- of ceramic-fiber insulation.   
+with a piece of ceramic-fiber insulation.   
 
 43
 00:03:51,698 --> 00:03:53,632
-    after about 3 hours in an   
-             oven,              
+after about 3 hours in an oven,              
 
 44
 00:03:53,634 --> 00:03:56,034
- the steel castings are solid.  
+the steel castings are solid.  
 
 45
 00:03:56,036 --> 00:03:58,036
@@ -219,414 +180,342 @@ a worker shatters the ceramic,
 
 46
 00:03:58,038 --> 00:04:01,440
-           revealing            
-    the vent-housing parts.     
+revealing the vent-housing parts.     
 
 47
 00:04:01,442 --> 00:04:07,578
- a powerful circular saw slices 
-    the parts off the tree.     
+a powerful circular saw slices the parts off the tree.     
 
 48
 00:04:07,580 --> 00:04:10,182
-       workers clean off        
-     any ceramic residue.       
+workers clean off any ceramic residue.       
 
 49
 00:04:12,319 --> 00:04:15,720
-      computer-guided tools     
-            calibrate           
+computer-guided tools calibrate           
 the pressure-vent housing part  
 
 50
 00:04:15,722 --> 00:04:18,123
-  to precise specifications.    
+to precise specifications.    
 
 51
 00:04:23,196 --> 00:04:26,831
- after cleaning and polishing,  
-     the part is complete.      
+after cleaning and polishing, the part is complete.      
 
 52
 00:04:26,833 --> 00:04:28,533
-    it's time for assembly.     
+it's time for assembly.     
 
 53
 00:04:28,535 --> 00:04:32,337
- the worker starts with the top 
-     of the pressure vent.      
+the worker starts with the top of the pressure vent.      
 
 54
 00:04:32,339 --> 00:04:37,075
-   a large spring is inserted   
-    to aid pressure relief.     
+a large spring is inserted to aid pressure relief.     
 
 55
 00:04:37,077 --> 00:04:39,544
-     a metal plate is added     
-  to seal the top of the vent   
+a metal plate is added to seal the top of the vent   
 
 56
 00:04:39,546 --> 00:04:42,213
-      to the lower part.        
+to the lower part.        
 
 57
 00:04:42,215 --> 00:04:46,551
- the lower vent housing is then 
-  seated on the metal plate.    
+the lower vent housing is then seated on the metal plate.    
 
 58
 00:04:46,553 --> 00:04:49,421
-     he moves the assembly      
-    under a hydraulic ram.      
+he moves the assembly under a hydraulic ram.      
 
 59
 00:04:49,423 --> 00:04:51,623
-        the ram presses         
-      the lower housing,        
+the ram presses the lower housing,        
 
 60
 00:04:51,625 --> 00:04:55,827
-    the sealer plate, and the   
-             spring             
-    to a specific tension.      
+the sealer plate, and the spring to a specific tension.      
 
 61
 00:04:55,829 --> 00:05:00,365
-    he then screws the lower    
-             housing            
-    to the top of the vent.     
+he then screws the lower housing to the top of the vent.     
 
 62
 00:05:00,367 --> 00:05:02,901
-     a metal ring inscribed     
-     with the vent's model      
+a metal ring inscribed with the vent's model      
 
 63
 00:05:02,903 --> 00:05:05,404
-         and flow rate          
-    is attached at the top.     
+and flow rate is attached at the top.     
 
 64
 00:05:11,712 --> 00:05:16,581
-   this chemical tank pressure  
-              vent              
-   is now ready for testing.    
+this chemical tank pressure vent is now ready for testing.    
 
 65
 00:05:16,583 --> 00:05:20,085
-    the technician screws it    
-      to the test stand.        
+the technician screws it to the test stand.        
 
 66
 00:05:22,456 --> 00:05:23,921
-     he activates a system      
+he activates a system      
 
 67
 00:05:23,923 --> 00:05:26,591
-   that forces compressed air   
-        into the vent.          
+that forces compressed air into the vent.          
 
 68
 00:05:26,593 --> 00:05:30,929
- this confirms whether the vent 
- works at the desired setting.  
+this confirms whether the vent works at the desired setting.  
 
 69
 00:05:30,931 --> 00:05:33,465
-         once approved,         
-      he attaches a cover       
+once approved, he attaches a cover       
 
 70
 00:05:33,467 --> 00:05:35,701
-       to shield the vent       
-      from rain and snow.       
+to shield the vent from rain and snow.       
 
 71
 00:05:38,605 --> 00:05:40,472
-  the trackable serial number   
+the trackable serial number   
 
 72
 00:05:40,474 --> 00:05:42,874
-     is etched into the top     
-        using a laser.          
+is etched into the top using a laser.          
 
 73
 00:05:49,416 --> 00:05:53,652
-     this vent is now ready     
-      to prevent hazardous      
-          situations.           
+this vent is now ready to prevent hazardous situations.           
 
 74
 00:06:10,371 --> 00:06:15,240
-   narrator: the candy wafer    
- is a classic american treat.   
+narrator: the candy wafer is a classic american treat.   
 
 75
 00:06:15,242 --> 00:06:17,242
-       invented in 1847,        
+invented in 1847,        
 
 76
 00:06:17,244 --> 00:06:20,245
- it's a thin, lightweight disk  
-       of sugary candy.         
+it's a thin, lightweight disk of sugary candy.         
 
 77
 00:06:20,247 --> 00:06:23,248
-   it's softer and dissolves    
-    faster than hard candy.     
+it's softer and dissolves faster than hard candy.     
 
 78
 00:06:25,452 --> 00:06:27,252
-   you can bite into it right   
-              away              
+you can bite into it right away              
 
 79
 00:06:27,254 --> 00:06:30,588
- or let it melt in your mouth.  
+or let it melt in your mouth.  
 
 80
 00:06:30,590 --> 00:06:33,925
-       these candy wafers       
-     come in eight different    
-            flavors.            
+these candy wafers come in eight different flavors.            
 
 81
 00:06:33,927 --> 00:06:36,461
-       the original roll        
-    has a random assortment     
+the original roll has a random assortment     
 
 82
 00:06:36,463 --> 00:06:37,929
-         of 38 pieces.          
+of 38 pieces.          
 
 83
 00:06:37,931 --> 00:06:40,799
- part of the fun is seeing how  
- many of your favorite flavors  
+part of the fun is seeing how many of your favorite flavors  
 
 84
 00:06:40,801 --> 00:06:43,935
-           you get.             
+you get.             
 
 85
 00:06:43,937 --> 00:06:46,471
- this factory makes one flavor  
-          at a time.            
+this factory makes one flavor at a time.            
 
 86
 00:06:46,473 --> 00:06:48,874
-         the first step         
-    is to add food coloring     
+the first step is to add food coloring     
 
 87
 00:06:48,876 --> 00:06:52,611
-         and flavoring          
-     to pulverized sugar.       
+and flavoring to pulverized sugar.       
 
 88
 00:06:52,613 --> 00:06:53,945
-        this pink color         
+this pink color         
 
 89
 00:06:53,947 --> 00:06:56,715
-       and mint flavoring       
- produces a wintergreen taste.  
+and mint flavoring produces a wintergreen taste.  
 
 90
 00:06:59,486 --> 00:07:01,086
-    corn syrup comes next,      
+corn syrup comes next,      
 
 91
 00:07:01,088 --> 00:07:03,822
- along with a binding solution  
-       of vegetable gums        
+along with a binding solution of vegetable gums        
 
 92
 00:07:03,824 --> 00:07:07,692
-    and gelatin dissolved in    
-             water.             
+and gelatin dissolved in water.             
 
 93
 00:07:07,694 --> 00:07:09,694
-          after mixing          
-     for about 8 minutes,       
+after mixing for about 8 minutes,       
 
 94
 00:07:09,696 --> 00:07:13,832
-       the candy dough's        
-    consistency is checked.     
+the candy dough's consistency is checked.     
 
 95
 00:07:13,834 --> 00:07:16,634
-       if it isn't thick,       
-  elastic, or sticky enough,    
+if it isn't thick, elastic, or sticky enough,    
 
 96
 00:07:16,636 --> 00:07:20,305
- more binding solution is added 
+more binding solution is added 
 until the dough is just right.  
 
 97
 00:07:22,575 --> 00:07:25,110
-    workers divide the dough    
-         into chunks,           
+workers divide the dough into chunks,           
 
 98
 00:07:25,112 --> 00:07:27,045
-         then feed them         
-     into a dough shooter.      
+then feed them into a dough shooter.      
 
 99
 00:07:27,047 --> 00:07:30,114
-   this is the first station    
-  on the wafer-forming line.    
+this is the first station on the wafer-forming line.    
 
 100
 00:07:30,116 --> 00:07:32,717
-        the black dough         
-      is licorice flavor.       
+the black dough is licorice flavor.       
 
 101
 00:07:32,719 --> 00:07:34,652
-           a conveyor           
-    returns leftover dough      
+a conveyor returns leftover dough      
 
 102
 00:07:34,654 --> 00:07:35,854
-   from the end of the line     
+from the end of the line     
 
 103
 00:07:35,856 --> 00:07:38,490
-          to be reused          
-    for making new wafers.      
+to be reused for making new wafers.      
 
 104
 00:07:42,195 --> 00:07:44,729
- they're pushed through a slot, 
-    forming the dough sheet     
+they're pushed through a slot, forming the dough sheet     
 
 105
 00:07:44,731 --> 00:07:47,732
-     that's 20 inches wide      
-    by about an inch thick.     
+that's 20 inches wide by about an inch thick.     
 
 106
 00:07:47,734 --> 00:07:50,802
-       this yellow dough        
-      is lemon flavored.        
+this yellow dough is lemon flavored.        
 
 107
 00:07:57,110 --> 00:07:59,010
-      a steady sprinkle of      
-           cornstarch           
+a steady sprinkle of cornstarch           
 
 108
 00:07:59,012 --> 00:08:02,947
-       prevents the sheet       
-      from sticking to the      
-           equipment.           
+prevents the sheet from sticking to the equipment.           
 
 109
 00:08:02,949 --> 00:08:05,550
-        rollers compress        
+rollers compress        
 and stretch the dough forward,  
 
 110
 00:08:05,552 --> 00:08:08,753
-      flattening the sheet      
-       to an inch thick.        
+flattening the sheet to an inch thick.        
 
 111
 00:08:08,755 --> 00:08:10,956
-    the next station stamps     
+the next station stamps     
 
 112
 00:08:10,958 --> 00:08:13,825
-      on the company logo,      
-   then cuts out the wafers.    
+on the company logo, then cuts out the wafers.    
 
 113
 00:08:13,827 --> 00:08:18,429
-  the cutter moves up and down  
-     180 times per minute.      
+the cutter moves up and down 180 times per minute.      
 
 114
 00:08:18,431 --> 00:08:21,099
- the wafers fall through a gap  
+the wafers fall through a gap  
 
 115
 00:08:21,101 --> 00:08:23,602
-    to a moving conveyor belt   
-             below.             
+to a moving conveyor belt below.             
 
 116
 00:08:28,107 --> 00:08:30,174
-       the conveyor belt        
-       moves the wafers         
+the conveyor belt moves the wafers         
 
 117
 00:08:30,176 --> 00:08:32,043
- to a multilevel tunnel dryer.  
+to a multilevel tunnel dryer.  
 
 118
 00:08:36,916 --> 00:08:38,717
-  they pass through the dryer   
+they pass through the dryer   
 
 119
 00:08:38,719 --> 00:08:41,419
-            13 times            
-  over the course of an hour.   
+13 times over the course of an hour.   
 
 120
 00:08:48,328 --> 00:08:51,596
-       these green wafers       
-      are lime flavored.        
+these green wafers are lime flavored.        
 
 121
 00:08:51,598 --> 00:08:55,734
-     the dryer temperature      
-      is about 150 degrees      
-          fahrenheit,           
+the dryer temperature is about 150 degrees fahrenheit,           
 
 122
 00:08:55,736 --> 00:08:57,802
-     warm enough to remove      
-     half of the moisture       
+warm enough to remove half of the moisture       
 
 123
 00:08:57,804 --> 00:09:00,805
-  without melting the sugar.    
+without melting the sugar.    
 
 124
 00:09:00,807 --> 00:09:03,875
-       these brown wafers       
-     are chocolate flavor.      
+these brown wafers are chocolate flavor.      
 
 125
 00:09:03,877 --> 00:09:06,077
-     once out of the dryer,     
-          the wafers            
+once out of the dryer, the wafers            
 
 126
 00:09:06,079 --> 00:09:08,613
-        pile up in trays        
-       without sticking.        
+pile up in trays without sticking.        
 
 127
 00:09:11,351 --> 00:09:14,619
-    workers stack the trays     
-       in a drying room.        
+workers stack the trays in a drying room.        
 
 128
 00:09:14,621 --> 00:09:18,756
-          it's heated           
-  and humidified with steam.    
+it's heated and humidified with steam.    
 
 129
 00:09:18,758 --> 00:09:21,559
-   the candy wafers stay here   
-  until their moisture level    
+the candy wafers stay here until their moisture level    
 
 130
 00:09:21,561 --> 00:09:25,063
@@ -634,37 +523,31 @@ drops to between 0.75% and 1%.
 
 131
 00:09:28,501 --> 00:09:30,501
-     the factory tests a few    
-            samples             
+the factory tests a few samples             
 
 132
 00:09:30,503 --> 00:09:33,171
-         using a device         
-    called a penetrometer.      
+using a device called a penetrometer.      
 
 133
 00:09:33,173 --> 00:09:36,241
- it measures the force required 
- to penetrate the candy wafer   
+it measures the force required to penetrate the candy wafer   
 
 134
 00:09:36,243 --> 00:09:39,577
- to the point of breaking it.   
+to the point of breaking it.   
 
 135
 00:09:39,579 --> 00:09:44,649
-    this ensures the candies    
- are the correct consistency.   
+this ensures the candies are the correct consistency.   
 
 136
 00:09:44,651 --> 00:09:47,518
-      when the trays come       
-    out of the drying room,     
+when the trays come out of the drying room,     
 
 137
 00:09:47,520 --> 00:09:51,189
-    workers send the candies    
-    to the packaging line.      
+workers send the candies to the packaging line.      
 
 138
 00:09:51,191 --> 00:09:54,125
@@ -672,10 +555,7 @@ the colors are mixed together,
 
 139
 00:09:54,127 --> 00:09:58,863
-  ensuring every roll of candy  
-               has              
-     a random assortment of     
-            flavors.            
+ensuring every roll of candy has a random assortment of flavors.            
 
 140
 00:09:58,865 --> 00:10:03,067
@@ -683,163 +563,136 @@ the wafers flow into channels,
 
 141
 00:10:03,069 --> 00:10:05,236
-    which stand them on their   
-             sides.             
+which stand them on their sides.             
 
 142
 00:10:08,541 --> 00:10:10,809
-          workers grab          
-    about two rolls' worth,     
+workers grab about two rolls' worth,     
 
 143
 00:10:10,811 --> 00:10:12,877
-     then fill two channels     
-          of a feeder           
+then fill two channels of a feeder           
 
 144
 00:10:12,879 --> 00:10:15,113
-        that takes them         
-   to the wrapping station.     
+that takes them to the wrapping station.     
 
 145
 00:10:18,218 --> 00:10:20,018
-         another worker         
-      fills in the gaps,        
+another worker fills in the gaps,        
 
 146
 00:10:20,020 --> 00:10:22,820
-       ensuring each roll       
-        has 38 pieces.          
+ensuring each roll has 38 pieces.          
 
 147
 00:10:22,822 --> 00:10:26,090
-      the wrapping machine      
-         cuts printed,          
+the wrapping machine cuts printed,          
 
 148
 00:10:26,092 --> 00:10:27,825
-  translucent paper wrapping    
+translucent paper wrapping    
 
 149
 00:10:27,827 --> 00:10:31,696
-   and applies a bead of glue   
-         to one edge.           
+and applies a bead of glue to one edge.           
 
 150
 00:10:31,698 --> 00:10:34,699
-    in a matter of seconds,     
-  the machine lifts the roll    
+in a matter of seconds, the machine lifts the roll    
 
 151
 00:10:34,701 --> 00:10:37,102
-       into the wrapper,        
-       seals the edges,         
+into the wrapper, seals the edges,         
 
 152
 00:10:37,104 --> 00:10:39,437
-  and twists the ends closed.   
+and twists the ends closed.   
 
 153
 00:10:39,439 --> 00:10:42,040
-    as the sealed rolls move    
-      on a conveyor belt,       
+as the sealed rolls move on a conveyor belt,       
 
 154
 00:10:42,042 --> 00:10:46,510
-       heated blocks iron       
-    the twisted ends flat.      
+heated blocks iron the twisted ends flat.      
 
 155
 00:10:46,512 --> 00:10:49,380
-     each candy wafer roll      
-       weighs 2 ounces.         
+each candy wafer roll weighs 2 ounces.         
 
 156
 00:10:49,382 --> 00:10:52,584
-     workers pack 24 rolls      
-        per retail box,         
+workers pack 24 rolls per retail box,         
 
 157
 00:10:52,586 --> 00:10:55,120
-      then pack the boxes       
-      in shipping cases.        
+then pack the boxes in shipping cases.        
 
 158
 00:10:57,924 --> 00:11:01,192
-  in addition to a traditional  
-  roll with assorted flavors,   
+in addition to a traditional roll with assorted flavors,   
 
 159
 00:11:01,194 --> 00:11:04,329
-        the factory also        
+the factory also        
 produces chocolate-only rolls.  
 
 160
 00:11:04,331 --> 00:11:07,031
-   production has modernized    
-        over the years,         
+production has modernized over the years,         
 
 161
 00:11:07,033 --> 00:11:09,333
-         but the recipe         
-  itself hasn't changed much    
+but the recipe itself hasn't changed much    
 
 162
 00:11:09,335 --> 00:11:11,002
-  since the first candy wafer   
+since the first candy wafer   
 
 163
 00:11:11,004 --> 00:11:15,040
-           rolled off           
- the production line in 1847.   
+rolled off the production line in 1847.   
 
 164
 00:11:27,687 --> 00:11:31,289
- narrator: food trucks used to  
-     only sell sandwiches       
+narrator: food trucks used to only sell sandwiches       
 
 165
 00:11:31,291 --> 00:11:34,159
-  and other prepackaged food.   
-         not anymore.           
+and other prepackaged food. not anymore.           
 
 166
 00:11:34,161 --> 00:11:36,227
-     the modern food truck      
-    is a mobile restaurant      
+the modern food truck is a mobile restaurant      
 
 167
 00:11:36,229 --> 00:11:38,630
-  with a full kitchen inside.   
+with a full kitchen inside.   
 
 168
 00:11:38,632 --> 00:11:40,297
-     food is cooked fresh       
+food is cooked fresh       
 
 169
 00:11:40,299 --> 00:11:42,667
-     and sold to customers      
-   through a service window.    
+and sold to customers through a service window.    
 
 170
 00:11:49,042 --> 00:11:51,976
-        most food trucks        
-  are standard panel trucks.    
+most food trucks are standard panel trucks.    
 
 171
 00:11:51,978 --> 00:11:55,446
-  their cargo area is a fully   
-  equipped commercial kitchen   
+their cargo area is a fully equipped commercial kitchen   
 
 172
 00:11:55,448 --> 00:11:58,149
-     with a service window      
-         on one side.           
+with a service window on one side.           
 
 173
 00:12:01,521 --> 00:12:04,722
-   they're usually customized   
-    by boutique companies,      
+they're usually customized by boutique companies,      
 
 174
 00:12:04,724 --> 00:12:08,193
@@ -847,262 +700,213 @@ so there's no standard method.
 
 175
 00:12:08,195 --> 00:12:11,996
- however, certain modifications 
-     to the panel trucks are    
-            common,             
+however, certain modifications to the panel trucks are common,             
 
 176
 00:12:11,998 --> 00:12:14,665
-         like enhancing         
- the truck's suspension system  
+like enhancing the truck's suspension system  
 
 177
 00:12:14,667 --> 00:12:16,601
-         or reinforcing         
-    the flooring and walls      
+or reinforcing the flooring and walls      
 
 178
 00:12:16,603 --> 00:12:20,138
-    to support the kitchen's    
-            weight.             
+to support the kitchen's weight.             
 
 179
 00:12:20,140 --> 00:12:22,140
-     the lighten the load,      
-         this company           
+the lighten the load, this company           
 
 180
 00:12:22,142 --> 00:12:24,275
-      builds the kitchen's      
-     structural components      
+builds the kitchen's structural components      
 
 181
 00:12:24,277 --> 00:12:27,145
-      out of aluminum bars      
-   rather than heavy steel.     
+out of aluminum bars rather than heavy steel.     
 
 182
 00:12:29,682 --> 00:12:31,883
-   once the pieces are cut,     
+once the pieces are cut,     
 
 183
 00:12:31,885 --> 00:12:34,819
-      a worker assembles,       
-   then welds them together.    
+a worker assembles, then welds them together.    
 
 184
 00:12:37,023 --> 00:12:40,959
-  this structure will support   
- a stainless-steel countertop.  
+this structure will support a stainless-steel countertop.  
 
 185
 00:12:48,235 --> 00:12:50,502
-  workers cut the countertops   
-         and cabinets           
+workers cut the countertops and cabinets           
 
 186
 00:12:50,504 --> 00:12:52,971
-       from thick sheets        
-      of stainless steel.       
+from thick sheets of stainless steel.       
 
 187
 00:12:56,709 --> 00:13:00,044
-   they bend the sheets using   
-    a machine called a press    
-             break.             
+they bend the sheets using a machine called a press break.             
 
 188
 00:13:07,587 --> 00:13:08,919
-     for this countertop,       
+for this countertop,       
 
 189
 00:13:08,921 --> 00:13:10,989
-  they bend a 90-degree angle   
-       on the front end         
+they bend a 90-degree angle on the front end         
 
 190
 00:13:10,991 --> 00:13:14,159
-    to form a 1.5-inch square   
-             edge.              
+to form a 1.5-inch square edge.              
 
 191
 00:13:16,462 --> 00:13:18,529
-     to construct walls and     
-           ceilings,            
+to construct walls and ceilings,            
 
 192
 00:13:18,531 --> 00:13:21,399
-     they rivet thin sheets     
+they rivet thin sheets     
 of stainless steel or aluminum  
 
 193
 00:13:21,401 --> 00:13:23,234
-      to panels of wood.        
+to panels of wood.        
 
 194
 00:13:25,605 --> 00:13:29,073
-     fire-retardant plywood     
-   is used for the kitchens.    
+fire-retardant plywood is used for the kitchens.    
 
 195
 00:13:29,075 --> 00:13:34,479
-    the boards are installed    
-  over styrofoam insulation.    
+the boards are installed over styrofoam insulation.    
 
 196
 00:13:34,481 --> 00:13:37,815
-     they leave the truck's     
-     aluminum floor as is.      
+they leave the truck's aluminum floor as is.      
 
 197
 00:13:37,817 --> 00:13:41,753
-    once the walls, ceiling,    
-  and flooring are complete,    
+once the walls, ceiling, and flooring are complete,    
 
 198
 00:13:41,755 --> 00:13:46,891
-    it's time to install the    
-     kitchen's cabinets and     
-           counters.            
+it's time to install the kitchen's cabinets and counters.            
 
 199
 00:13:46,893 --> 00:13:48,893
-         workers screw          
-     each counter support       
+workers screw each counter support       
 
 200
 00:13:48,895 --> 00:13:50,961
-    to the wooden structure     
-         of the wall,           
+to the wooden structure of the wall,           
 
 201
 00:13:50,963 --> 00:13:53,865
-   then fasten the countertop   
-         with rivets.           
+then fasten the countertop with rivets.           
 
 202
 00:14:02,175 --> 00:14:03,641
-    they peel off the film      
+they peel off the film      
 
 203
 00:14:03,643 --> 00:14:06,344
-      that was protecting       
- the stainless-steel surface.   
+that was protecting the stainless-steel surface.   
 
 204
 00:14:08,648 --> 00:14:11,783
-       next, they install       
-     the major appliances,      
+next, they install the major appliances,      
 
 205
 00:14:11,785 --> 00:14:13,651
-         which include          
-  a commercial refrigerator,    
+which include a commercial refrigerator,    
 
 206
 00:14:13,653 --> 00:14:15,887
-      freezer, and cooking      
-           equipment.           
+freezer, and cooking equipment.           
 
 207
 00:14:18,525 --> 00:14:20,858
-    then the electrical box     
-         is installed.          
+then the electrical box is installed.          
 
 208
 00:14:20,860 --> 00:14:23,594
-      they connect wiring       
-       for the outlets,         
+they connect wiring for the outlets,         
 
 209
 00:14:23,596 --> 00:14:25,730
-    lighting, water heater,     
-          water pump,           
+lighting, water heater, water pump,           
 
 210
 00:14:25,732 --> 00:14:27,765
- and air-conditioning system.   
+and air-conditioning system.   
 
 211
 00:14:34,274 --> 00:14:38,009
-   the generator is installed   
-     underneath the nearest     
-            counter.            
+the generator is installed underneath the nearest counter.            
 
 212
 00:14:38,011 --> 00:14:41,145
-     it supplies the truck      
-       with electricity.        
+it supplies the truck with electricity.        
 
 213
 00:14:41,147 --> 00:14:45,149
- next to the electrical box is  
-    the power-transfer box.     
+next to the electrical box is the power-transfer box.     
 
 214
 00:14:45,151 --> 00:14:46,884
-     it contains a switch       
+it contains a switch       
 
 215
 00:14:46,886 --> 00:14:50,021
-     that enables the truck     
-     to use an outdoor power    
-            source.             
+that enables the truck to use an outdoor power source.             
 
 216
 00:14:50,023 --> 00:14:53,090
- the switches for the interior  
-     and exterior lighting      
+the switches for the interior and exterior lighting      
 
 217
 00:14:53,092 --> 00:14:55,326
-         are underneath         
-      the electrical box.       
+are underneath the electrical box.       
 
 218
 00:15:01,067 --> 00:15:03,234
-        workers install         
-      the light fixtures,       
+workers install the light fixtures,       
 
 219
 00:15:03,236 --> 00:15:06,037
-        cabinetry, sink,        
-      and serving window.       
+cabinetry, sink, and serving window.       
 
 220
 00:15:09,976 --> 00:15:12,043
-    they also install the gas   
-             lines              
+they also install the gas lines              
 
 221
 00:15:12,045 --> 00:15:15,313
-   that power the commercial    
-      cooking equipment.        
+that power the commercial cooking equipment.        
 
 222
 00:15:15,315 --> 00:15:18,515
-         this truck has         
-   several gas appliances --    
+this truck has several gas appliances --    
 
 223
 00:15:18,517 --> 00:15:21,586
-     a six-burner gas range     
-       with large oven,         
+a six-burner gas range with large oven,         
 
 224
 00:15:21,588 --> 00:15:26,224
-    a deep fryer, a charcoal    
-             grill,             
+a deep fryer, a charcoal grill,             
 and a flattop cooking surface.  
 
 225
 00:15:28,862 --> 00:15:30,795
-    the kitchen is equipped     
-    with a ventilation hood     
+the kitchen is equipped with a ventilation hood     
 
 226
 00:15:30,797 --> 00:15:33,531
-    over the cooking area.      
+over the cooking area.      
 
 227
 00:15:33,533 --> 00:15:35,933
@@ -1110,223 +914,181 @@ its powerful fan gathers smoke
 
 228
 00:15:35,935 --> 00:15:39,737
-    and sends it out a vent     
-     on top of the truck.       
+and sends it out a vent on top of the truck.       
 
 229
 00:15:39,739 --> 00:15:42,507
-           it's time            
-    to outfit the exterior.     
+it's time to outfit the exterior.     
 
 230
 00:15:46,079 --> 00:15:49,547
- some food trucks are painted,  
-     but most use graphics      
+some food trucks are painted, but most use graphics      
 
 231
 00:15:49,549 --> 00:15:52,216
-   that are digitally printed   
-      on adhesive vinyl.        
+that are digitally printed on adhesive vinyl.        
 
 232
 00:15:56,489 --> 00:16:00,557
-  after positioning each panel  
-        of the design,          
+after positioning each panel of the design,          
 
 233
 00:16:00,559 --> 00:16:02,826
- they apply heat with a torch.  
+they apply heat with a torch.  
 
 234
 00:16:02,828 --> 00:16:04,428
-   this removes trapped air,    
+this removes trapped air,    
 
 235
 00:16:04,430 --> 00:16:07,699
-    stretching the vinyl over   
-             rivets             
-    and other protrusions.      
+stretching the vinyl over rivets and other protrusions.      
 
 236
 00:16:12,372 --> 00:16:15,773
-       this mobile eatery       
-     is ready to roll with a    
-            kitchen             
+this mobile eatery is ready to roll with a kitchen             
 
 237
 00:16:15,775 --> 00:16:19,777
-      that meets fire-code      
- and food-service regulations.  
+that meets fire-code and food-service regulations.  
 
 238
 00:16:24,316 --> 00:16:27,452
-     it may not provide the     
-            ambiance            
-   of a sit-down restaurant,    
+it may not provide the ambiance of a sit-down restaurant,    
 
 239
 00:16:27,454 --> 00:16:31,923
-   but when a food truck pulls  
-               up,              
- you never need a reservation.  
+but when a food truck pulls up, you never need a reservation.  
 
 240
 00:16:45,338 --> 00:16:49,406
-  narrator: rope has been made  
-               out              
+narrator: rope has been made out              
 of plant fibers for centuries.  
 
 241
 00:16:49,408 --> 00:16:52,410
-       stronger synthetic       
+stronger synthetic       
 and steel cords are available,  
 
 242
 00:16:52,412 --> 00:16:55,213
-   but there's still a market   
-    for traditional twine.      
+but there's still a market for traditional twine.      
 
 243
 00:16:58,551 --> 00:17:00,551
-      they have their own       
-       unique strengths,        
+they have their own unique strengths,        
 
 244
 00:17:00,553 --> 00:17:03,955
-  and that's why we are still   
-     bound by their ties.       
+and that's why we are still bound by their ties.       
 
 245
 00:17:07,694 --> 00:17:10,895
-   woven from manila, sisal,    
-        or flax fibers,         
+woven from manila, sisal, or flax fibers,         
 
 246
 00:17:10,897 --> 00:17:15,099
-     traditional ropes are      
-    a binding element in our    
-             world.             
+traditional ropes are a binding element in our world.             
 
 247
 00:17:15,101 --> 00:17:17,501
-    they're easier to grip      
+they're easier to grip      
 
 248
 00:17:17,503 --> 00:17:22,106
-          and stretch           
-     less than synthetics.      
+and stretch less than synthetics.      
 
 249
 00:17:22,108 --> 00:17:23,975
-          at this deep          
-     and narrow building,       
+at this deep and narrow building,       
 
 250
 00:17:23,977 --> 00:17:26,110
-          they've been          
-   twisting fibers into rope    
+they've been twisting fibers into rope    
 
 251
 00:17:26,112 --> 00:17:28,579
- for more than two centuries.   
+for more than two centuries.   
 
 252
 00:17:28,581 --> 00:17:31,916
-  they're still producing rope  
-    the old-fashioned way.      
+they're still producing rope the old-fashioned way.      
 
 253
 00:17:31,918 --> 00:17:36,320
- the process starts with racks  
-    of natural-fiber yarns.     
+the process starts with racks of natural-fiber yarns.     
 
 254
 00:17:36,322 --> 00:17:39,023
-     the yarns are funneled     
-      through separators,       
+the yarns are funneled through separators,       
 
 255
 00:17:39,025 --> 00:17:41,859
-      which configure them      
-   to twist evenly together.    
+which configure them to twist evenly together.    
 
 256
 00:17:41,861 --> 00:17:44,061
-           the fibers           
-   then travel through tubes    
+the fibers then travel through tubes    
 
 257
 00:17:44,063 --> 00:17:47,131
-     that squeeze them into     
-            bundles.            
+that squeeze them into bundles.            
 
 258
 00:17:47,133 --> 00:17:48,866
-      workers tie the ends      
-        of the bundles          
+workers tie the ends of the bundles          
 
 259
 00:17:48,868 --> 00:17:53,671
-     onto a wheeled vehicle     
-  called the forming machine.   
+onto a wheeled vehicle called the forming machine.   
 
 260
 00:17:53,673 --> 00:17:54,872
-  they roll the machine back    
+they roll the machine back    
 
 261
 00:17:54,874 --> 00:17:57,341
-     until there's no slack     
-        in the bundles.         
+until there's no slack in the bundles.         
 
 262
 00:17:57,343 --> 00:18:01,612
-    the machine is then sent    
-      to the opposite end       
+the machine is then sent to the opposite end       
 
 263
 00:18:01,614 --> 00:18:05,249
-        of the factory,         
-     over 1,000 feet away.      
+of the factory, over 1,000 feet away.      
 
 264
 00:18:07,486 --> 00:18:10,288
-         as the machine         
- travels backwards, its gears   
+as the machine travels backwards, its gears   
 
 265
 00:18:10,290 --> 00:18:15,626
- turn hooks, twisting the yarns 
-  into a tight configuration.   
+turn hooks, twisting the yarns into a tight configuration.   
 
 266
 00:18:15,628 --> 00:18:17,161
-  the formation of the twists   
+the formation of the twists   
 
 267
 00:18:17,163 --> 00:18:19,230
-  ensure an even distribution   
-          of tension.           
+ensure an even distribution of tension.           
 
 268
 00:18:19,232 --> 00:18:24,034
-    this is what makes rope     
-          so strong.            
+this is what makes rope so strong.            
 
 269
 00:18:24,036 --> 00:18:27,371
-    this long, indoor space     
-     is called a ropewalk.      
+this long, indoor space is called a ropewalk.      
 
 270
 00:18:27,373 --> 00:18:30,041
-   there aren't many of them    
-      left in the world.        
+there aren't many of them left in the world.        
 
 271
 00:18:33,446 --> 00:18:36,447
-         halfway down,          
-   a worker places a trestle    
+halfway down, a worker places a trestle    
 
 272
 00:18:36,449 --> 00:18:39,317
@@ -1334,216 +1096,179 @@ underneath the twisting yarns.
 
 273
 00:18:39,319 --> 00:18:44,321
- this keeps them off the floor  
-    and prevents tangling.      
+this keeps them off the floor and prevents tangling.      
 
 274
 00:18:44,323 --> 00:18:47,458
-        when the machine        
-    reaches the back wall, it   
-             stops,             
+when the machine reaches the back wall, it stops,             
 
 275
 00:18:47,460 --> 00:18:50,895
-   and workers cut both ends    
-        of the strands.         
+and workers cut both ends of the strands.         
 
 276
 00:18:53,466 --> 00:18:54,798
-    they tie them to posts      
+they tie them to posts      
 
 277
 00:18:54,800 --> 00:18:57,802
-      to maintain tension       
-    and prevent unraveling.     
+to maintain tension and prevent unraveling.     
 
 278
 00:19:03,409 --> 00:19:05,142
-  the twisted fibers stretch    
+the twisted fibers stretch    
 
 279
 00:19:05,144 --> 00:19:07,612
-  from one end of the building  
-         to the other.          
+from one end of the building to the other.          
 
 280
 00:19:11,884 --> 00:19:14,685
-          on one side,          
- they tie three of the strands  
+on one side, they tie three of the strands  
 
 281
 00:19:14,687 --> 00:19:18,156
-     to a machine that will     
-  transform them into a rope.   
+to a machine that will transform them into a rope.   
 
 282
 00:19:24,163 --> 00:19:26,297
-         halfway down,          
-     they bring in a cart       
+halfway down, they bring in a cart       
 
 283
 00:19:26,299 --> 00:19:29,133
-       that holds a piece       
-   of grooved wood known as a   
-              top.              
+that holds a piece of grooved wood known as a top.              
 
 284
 00:19:31,371 --> 00:19:34,805
- they tuck the twisted strands  
- into the grooves of the top.   
+they tuck the twisted strands into the grooves of the top.   
 
 285
 00:19:39,111 --> 00:19:40,645
-    they then roll the cart     
+they then roll the cart     
 
 286
 00:19:40,647 --> 00:19:44,781
-          down to face          
-   the rope-making machine.     
+down to face the rope-making machine.     
 
 287
 00:19:44,783 --> 00:19:49,320
-       a worker ties rope       
+a worker ties rope       
 around the strands in the top.  
 
 288
 00:19:49,322 --> 00:19:52,656
-    this holds them in place    
-  as the rope-making machine    
+this holds them in place as the rope-making machine    
 
 289
 00:19:52,658 --> 00:19:57,194
-    twists the three strands    
-           into one.            
+twists the three strands into one.            
 
 290
 00:19:57,196 --> 00:20:01,365
-   the cart rolls along rails   
- propelled by twisting action.  
+the cart rolls along rails propelled by twisting action.  
 
 291
 00:20:06,072 --> 00:20:09,406
-  it leaves newly formed rope   
-         in its wake.           
+it leaves newly formed rope in its wake.           
 
 292
 00:20:09,408 --> 00:20:11,742
-        the rope machine        
-      with twisting hooks       
+the rope machine with twisting hooks       
 
 293
 00:20:11,744 --> 00:20:14,278
-  remains in the same place.    
+remains in the same place.    
 
 294
 00:20:17,684 --> 00:20:19,616
-     when the cart arrives      
-     at the opposite side       
+when the cart arrives at the opposite side       
 
 295
 00:20:19,618 --> 00:20:23,087
-        of the building,        
-      the rope is formed.       
+of the building, the rope is formed.       
 
 296
 00:20:23,089 --> 00:20:26,357
-        a worker removes        
-   the ties around the top.     
+a worker removes the ties around the top.     
 
 297
 00:20:26,359 --> 00:20:27,692
- they now have a piece of rope  
+they now have a piece of rope  
 
 298
 00:20:27,694 --> 00:20:29,694
-   that's over 700 feet long    
+that's over 700 feet long    
 
 299
 00:20:29,696 --> 00:20:32,363
-     and almost 5 inches in     
-           diameter.            
+and almost 5 inches in diameter.            
 
 300
 00:20:36,835 --> 00:20:39,237
-      they slice the rope       
-         at both ends.          
+they slice the rope at both ends.          
 
 301
 00:20:43,576 --> 00:20:45,709
-       then they wind it        
-       onto a big spool,        
+then they wind it onto a big spool,        
 
 302
 00:20:45,711 --> 00:20:48,578
- packing it into a tight coil.  
+packing it into a tight coil.  
 
 303
 00:20:48,580 --> 00:20:52,450
-     this traditional rope      
+this traditional rope      
 is almost ready to be shipped.  
 
 304
 00:20:55,187 --> 00:20:57,120
-          the customer          
-     requested looped ends      
+the customer requested looped ends      
 
 305
 00:20:57,122 --> 00:21:01,325
-     for securing the rope      
-        with a shackle.         
+for securing the rope with a shackle.         
 
 306
 00:21:01,327 --> 00:21:03,928
-       so, the rope-maker       
-       unravels the ends        
+so, the rope-maker unravels the ends        
 
 307
 00:21:03,930 --> 00:21:08,799
-      and pierces the rope      
-   with a hollow tool called a  
-              fid.              
+and pierces the rope with a hollow tool called a fid.              
 
 308
 00:21:08,801 --> 00:21:10,935
-        he makes a loop         
+he makes a loop         
 
 309
 00:21:10,937 --> 00:21:14,604
-    and slides the unraveled    
-             strands            
-       through the fid.         
+and slides the unraveled strands through the fid.         
 
 310
 00:21:14,606 --> 00:21:17,608
-      he finishes the job       
-    by weaving the strands      
+he finishes the job by weaving the strands      
 
 311
 00:21:17,610 --> 00:21:18,876
-        into the rope.          
+into the rope.          
 
 312
 00:21:22,081 --> 00:21:25,283
-     they're ready to test      
-    a segment of the rope.      
+they're ready to test a segment of the rope.      
 
 313
 00:21:25,285 --> 00:21:28,619
-       two hydraulic jaws       
-   pull it until it breaks.     
+two hydraulic jaws pull it until it breaks.     
 
 314
 00:21:31,223 --> 00:21:35,860
-     the rope must be able      
-  to handle 55 tons of force.   
+the rope must be able to handle 55 tons of force.   
 
 315
 00:21:38,297 --> 00:21:41,698
-     traditional ropes have     
-   the strength to carry on,    
+traditional ropes have the strength to carry on,    
 
 316
 00:21:41,700 --> 00:21:44,535
-       as they have done        
-     for a very long time.      
+as they have done for a very long time.      
 

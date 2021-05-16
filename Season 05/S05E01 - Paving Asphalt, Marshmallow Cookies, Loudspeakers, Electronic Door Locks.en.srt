@@ -3336,11 +3336,9 @@ drop us a line at...
 
 562
 00:21:19,345 --> 00:21:21,411
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 563
 00:21:21,413 --> 00:21:23,381
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 

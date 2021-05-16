@@ -1,286 +1,226 @@
 ﻿1
 00:00:51,986 --> 00:00:54,253
-  narrator: in the early days   
-       of the railroad,         
+narrator: in the early days of the railroad,         
 
 2
 00:00:54,255 --> 00:00:57,657
-    train rails were made of    
-             either             
-  cast iron or wrought iron.    
+train rails were made of either cast iron or wrought iron.    
 
 3
 00:00:57,659 --> 00:01:00,726
-   cast iron was too brittle    
-    and would break easily.     
+cast iron was too brittle and would break easily.     
 
 4
 00:01:00,728 --> 00:01:04,263
-   wrought iron was too soft    
-     and would wear out too     
-            quickly.            
+wrought iron was too soft and would wear out too quickly.            
 
 5
 00:01:04,265 --> 00:01:06,666
-   so steel eventually became   
-         and remained           
+so steel eventually became and remained           
 
 6
 00:01:06,668 --> 00:01:09,101
-     the train-rail metal of    
-            choice.             
+the train-rail metal of choice.             
 
 7
 00:01:13,408 --> 00:01:16,542
-     the train wheel's rim      
+the train wheel's rim      
 runs on the inside of the rail  
 
 8
 00:01:16,544 --> 00:01:20,145
-    to keep the train on the    
-             track.             
+to keep the train on the track.             
 
 9
 00:01:20,147 --> 00:01:24,082
-  this plant makes train rails  
+this plant makes train rails  
 entirely out of recycled steel  
 
 10
 00:01:24,084 --> 00:01:26,485
-  from scrapyards, food cans,   
+from scrapyards, food cans,   
 
 11
 00:01:26,487 --> 00:01:30,356
-    and recycled pieces from    
-     the rail-making process    
-            itself.             
+and recycled pieces from the rail-making process itself.             
 
 12
 00:01:33,962 --> 00:01:38,096
-   electromagnets pick up the   
-             scrap              
+electromagnets pick up the scrap              
 
 13
 00:01:38,098 --> 00:01:40,266
-          and dump it           
-     in a charging bucket.      
+and dump it in a charging bucket.      
 
 14
 00:01:42,437 --> 00:01:44,704
-    a truck hauls the bucket    
-            inside,             
+a truck hauls the bucket inside,             
 
 15
 00:01:44,706 --> 00:01:48,774
-     where a crane drops the    
-            contents            
-        into a furnace.         
+where a crane drops the contents into a furnace.         
 
 16
 00:01:48,776 --> 00:01:50,643
-  an intense electric current   
+an intense electric current   
 
 17
 00:01:50,645 --> 00:01:54,747
-     melts the scrap steel      
- at 3,000 degrees fahrenheit.   
+melts the scrap steel at 3,000 degrees fahrenheit.   
 
 18
 00:01:57,051 --> 00:01:59,985
-       it then flows into       
-  a large brick-lined ladle,    
+it then flows into a large brick-lined ladle,    
 
 19
 00:01:59,987 --> 00:02:03,389
-     where they add carbon,     
- manganese, and other elements  
+where they add carbon, manganese, and other elements  
 
 20
 00:02:03,391 --> 00:02:05,925
-     to make the steel more     
-            durable.            
+to make the steel more durable.            
 
 21
 00:02:05,927 --> 00:02:09,128
-    the alloy then runs down    
-        a ceramic tube          
+the alloy then runs down a ceramic tube          
 
 22
 00:02:09,130 --> 00:02:11,664
-        that shields it         
-   from exposure to oxygen,     
+that shields it from exposure to oxygen,     
 
 23
 00:02:11,666 --> 00:02:14,934
-  which would ruin the metal.   
+which would ruin the metal.   
 
 24
 00:02:14,936 --> 00:02:17,870
-  from there, the molten metal  
-       flows into molds,        
+from there, the molten metal flows into molds,        
 
 25
 00:02:17,872 --> 00:02:20,806
-      which extrude it into     
-           continuous           
-      rectangular blocks        
+which extrude it into continuous rectangular blocks        
 
 26
 00:02:20,808 --> 00:02:22,675
-        called blooms.          
+called blooms.          
 
 27
 00:02:25,213 --> 00:02:29,482
-   acetylene torches cut each   
-              bloom             
-     into 12-foot lengths.      
+acetylene torches cut each bloom into 12-foot lengths.      
 
 28
 00:02:35,823 --> 00:02:39,024
-     a crane then transfers     
-   the blooms to a furnace,     
+a crane then transfers the blooms to a furnace,     
 
 29
 00:02:39,026 --> 00:02:41,293
-   which, over the next five    
-        to seven hours,         
+which, over the next five to seven hours,         
 
 30
 00:02:41,295 --> 00:02:45,498
-          reheats them          
- to 2,300 degrees fahrenheit.   
+reheats them to 2,300 degrees fahrenheit.   
 
 31
 00:02:45,500 --> 00:02:48,367
-     this softens the steel     
-     for further shaping.       
+this softens the steel for further shaping.       
 
 32
 00:02:52,306 --> 00:02:56,776
- then the reheated blooms enter 
-   a machine called a rolling   
-             mill,              
+then the reheated blooms enter a machine called a rolling mill,              
 
 33
 00:02:56,778 --> 00:03:01,180
-   which elongates each bloom,  
-              more              
- than quadrupling its length.   
+which elongates each bloom, more than quadrupling its length.   
 
 34
 00:03:04,585 --> 00:03:09,088
-     a shear then slices the    
-             longer,            
-    thinner blooms into four    
-            pieces.             
+a shear then slices the longer, thinner blooms into four pieces.             
 
 35
 00:03:20,201 --> 00:03:23,668
-     the pieces now go into     
+the pieces now go into     
 another furnace for reheating.  
 
 36
 00:03:23,670 --> 00:03:26,471
-  this preps them for the next  
-               set              
-       of rolling mills,        
+this preps them for the next set of rolling mills,        
 
 37
 00:03:26,473 --> 00:03:29,809
- which will gradually form them 
-   to the final rail shape.     
+which will gradually form them to the final rail shape.     
 
 38
 00:03:33,214 --> 00:03:36,282
-   different railroads used to  
-               use              
-    different-shaped rails,     
+different railroads used to use different-shaped rails,     
 
 39
 00:03:36,284 --> 00:03:38,750
-    which required changing     
-      the train's wheels        
+which required changing the train's wheels        
 
 40
 00:03:38,752 --> 00:03:41,187
- when passing from one railway  
-          to another.           
+when passing from one railway to another.           
 
 41
 00:03:41,189 --> 00:03:43,955
-     by the turn of the 20th    
-            century,            
+by the turn of the 20th century,            
 
 42
 00:03:43,957 --> 00:03:46,491
-       the t-shaped rail        
- became the industry standard   
+the t-shaped rail became the industry standard   
 
 43
 00:03:46,493 --> 00:03:49,061
-     and remains so today.      
+and remains so today.      
 
 44
 00:03:52,100 --> 00:03:54,833
-     for the final shaping,     
-        each steel rail         
+for the final shaping, each steel rail         
 
 45
 00:03:54,835 --> 00:03:58,404
-      passes several times      
-    through three consecutive   
-             mills.             
+passes several times through three consecutive mills.             
 
 46
 00:04:03,377 --> 00:04:05,578
- this is what a mill's rollers  
-          look like.            
+this is what a mill's rollers look like.            
 
 47
 00:04:05,580 --> 00:04:07,713
-    and here's the standard     
-           "t" shape            
+and here's the standard "t" shape            
 
 48
 00:04:07,715 --> 00:04:10,249
- to which they form the steel.  
+to which they form the steel.  
 
 49
 00:04:13,721 --> 00:04:19,057
-  next, a saw slices off about  
-               12               
+next, a saw slices off about 12               
 inches to square off the ends.  
 
 50
 00:04:19,059 --> 00:04:21,060
-   the cut-off pieces go back   
-       to the scrapyard.        
+the cut-off pieces go back to the scrapyard.        
 
 51
 00:04:21,062 --> 00:04:24,530
-     the rails, meanwhile,      
-         are laid out           
+the rails, meanwhile, are laid out           
 
 52
 00:04:24,532 --> 00:04:28,533
-        until they cool         
-      to about 930 degrees      
-          fahrenheit.           
+until they cool to about 930 degrees fahrenheit.           
 
 53
 00:04:28,535 --> 00:04:32,004
-     then an electromagnet      
- piles them in a holding box,   
+then an electromagnet piles them in a holding box,   
 
 54
 00:04:32,006 --> 00:04:33,606
-  where they sit for 10 hours   
+where they sit for 10 hours   
 
 55
 00:04:33,608 --> 00:04:37,609
-      until they cool off       
-      to about 190 degrees      
-          fahrenheit.           
+until they cool off to about 190 degrees fahrenheit.           
 
 56
 00:04:37,611 --> 00:04:39,545
@@ -288,301 +228,244 @@ when they come out of the box,
 
 57
 00:04:39,547 --> 00:04:42,347
-        they run through        
-     two sets of rollers.       
+they run through two sets of rollers.       
 
 58
 00:04:42,349 --> 00:04:45,184
-         the first set          
-  flexes the rail vertically.   
+the first set flexes the rail vertically.   
 
 59
 00:04:48,890 --> 00:04:50,889
-   the second, horizontally.    
+the second, horizontally.    
 
 60
 00:04:50,891 --> 00:04:52,491
-     this flexing process       
+this flexing process       
 
 61
 00:04:52,493 --> 00:04:55,294
-   straightens out the rails,   
-     which curve slightly       
+straightens out the rails, which curve slightly       
 
 62
 00:04:55,296 --> 00:04:58,163
-    due to all that heating,    
-     shaping, and cooling.      
+due to all that heating, shaping, and cooling.      
 
 63
 00:04:58,165 --> 00:05:00,966
-        next, each rail         
-     passes over a mirror,      
+next, each rail passes over a mirror,      
 
 64
 00:05:00,968 --> 00:05:05,371
- enabling inspectors to examine 
-   the bottom, as well as the   
-              top.              
+enabling inspectors to examine the bottom, as well as the top.              
 
 65
 00:05:07,975 --> 00:05:09,842
- finally, a saw cuts the rails  
+finally, a saw cuts the rails  
 
 66
 00:05:09,844 --> 00:05:12,511
-        to whatever size        
-    the railway ordered --      
+to whatever size the railway ordered --      
 
 67
 00:05:12,513 --> 00:05:15,748
- most often the standard length 
-          of 82 feet.           
+most often the standard length of 82 feet.           
 
 68
 00:05:17,918 --> 00:05:21,120
- the quality-control department 
-    measures random samples     
+the quality-control department measures random samples     
 
 69
 00:05:21,122 --> 00:05:23,856
-          to make sure          
-     all the dimensions are     
-            precise.            
+to make sure all the dimensions are precise.            
 
 70
 00:05:23,858 --> 00:05:26,124
-   every rail bears a number    
+every rail bears a number    
 
 71
 00:05:26,126 --> 00:05:29,261
- identifying the batch of steel 
-      from which it came.       
+identifying the batch of steel from which it came.       
 
 72
 00:05:29,263 --> 00:05:31,664
-   in the event of a problem,   
-          that number           
+in the event of a problem, that number           
 
 73
 00:05:31,666 --> 00:05:35,267
- lets them trace all the rails  
-   made from the same batch.    
+lets them trace all the rails made from the same batch.    
 
 74
 00:05:35,269 --> 00:05:39,071
-   it's a system that ensures   
-     a safe, smooth ride.       
+it's a system that ensures a safe, smooth ride.       
 
 75
 00:05:54,288 --> 00:05:57,489
-   narrator: in regions where   
-     fresh drinking water is    
-            limited,            
+narrator: in regions where fresh drinking water is limited,            
 
 76
 00:05:57,491 --> 00:06:00,559
-      desalination plants       
-  remove salt from seawater,    
+desalination plants remove salt from seawater,    
 
 77
 00:06:00,561 --> 00:06:04,362
- converting it into freshwater  
-       suitable for human       
-          consumption.          
+converting it into freshwater suitable for human consumption.          
 
 78
 00:06:04,364 --> 00:06:08,166
-   there are more than 13,000   
+there are more than 13,000   
 desalination plants worldwide,  
 
 79
 00:06:08,168 --> 00:06:11,437
-  producing 12 billion gallons  
-        of water a day.         
+producing 12 billion gallons of water a day.         
 
 80
 00:06:17,778 --> 00:06:21,313
-  the desalination plant that   
- produced this drinkable water  
+the desalination plant that produced this drinkable water  
 
 81
 00:06:21,315 --> 00:06:24,516
-     is located right next      
- to an electrical power plant   
+is located right next to an electrical power plant   
 
 82
 00:06:24,518 --> 00:06:29,321
-      which uses seawater       
- to cool down its condensers.   
+which uses seawater to cool down its condensers.   
 
 83
 00:06:29,323 --> 00:06:31,991
-     post-cooling, the water    
-             travels            
-     via underground pipes      
+post-cooling, the water travels via underground pipes      
 
 84
 00:06:31,993 --> 00:06:34,927
-  to the desalination plant.    
+to the desalination plant.    
 
 85
 00:06:34,929 --> 00:06:38,730
-    before salt extraction,     
-    the water is pretreated     
+before salt extraction, the water is pretreated     
 
 86
 00:06:38,732 --> 00:06:41,599
-        in a multiphase         
-       cleaning process.        
+in a multiphase cleaning process.        
 
 87
 00:06:41,601 --> 00:06:44,135
-     first, the water flows     
-        through screens         
+first, the water flows through screens         
 
 88
 00:06:44,137 --> 00:06:46,572
- that filter out large debris.  
+that filter out large debris.  
 
 89
 00:06:50,745 --> 00:06:52,878
-    from there, it flows into   
-             basins             
+from there, it flows into basins             
 
 90
 00:06:52,880 --> 00:06:55,513
-         for the first          
-      pretreatment stage.       
+for the first pretreatment stage.       
 
 91
 00:06:55,515 --> 00:06:58,283
-        as large paddles        
-      agitate the water,        
+as large paddles agitate the water,        
 
 92
 00:06:58,285 --> 00:07:00,685
-  the plant adds two chemicals  
-               --               
+the plant adds two chemicals --               
 
 93
 00:07:00,687 --> 00:07:03,888
-      sodium hypochlorite,      
-        a disinfectant,         
+sodium hypochlorite, a disinfectant,         
 
 94
 00:07:03,890 --> 00:07:06,225
-      and ferric chloride,      
-         a coagulant.           
+and ferric chloride, a coagulant.           
 
 95
 00:07:06,227 --> 00:07:08,627
-         the coagulant          
-      binds together sand       
+the coagulant binds together sand       
 
 96
 00:07:08,629 --> 00:07:11,096
-    and other tiny particles    
-          of debris,            
+and other tiny particles of debris,            
 
 97
 00:07:11,098 --> 00:07:15,300
-     forming heavier clumps     
-   that sink to the bottom.     
+forming heavier clumps that sink to the bottom.     
 
 98
 00:07:15,302 --> 00:07:18,904
-   this removes a significant   
-    portion of dirt from the    
-             water,             
+this removes a significant portion of dirt from the water,             
 
 99
 00:07:18,906 --> 00:07:22,308
-       but it's still far       
-   from being crystal clear.    
+but it's still far from being crystal clear.    
 
 100
 00:07:26,046 --> 00:07:28,580
-      the water now moves       
-  into another set of basins    
+the water now moves into another set of basins    
 
 101
 00:07:28,582 --> 00:07:32,584
-  for the second pretreatment   
-   phase -- sand filtering.     
+for the second pretreatment phase -- sand filtering.     
 
 102
 00:07:32,586 --> 00:07:35,854
-   inside each sand filter,     
+inside each sand filter,     
 
 103
 00:07:35,856 --> 00:07:37,923
-      regulated by various      
-   pressure and flow gauges,    
+regulated by various pressure and flow gauges,    
 
 104
 00:07:37,925 --> 00:07:40,058
-    a steady stream of air      
+a steady stream of air      
 
 105
 00:07:40,060 --> 00:07:44,063
-     continually moves sand     
-     in a circular motion.      
+continually moves sand in a circular motion.      
 
 106
 00:07:47,201 --> 00:07:50,135
-      the seawater enters       
- at the bottom of each filter   
+the seawater enters at the bottom of each filter   
 
 107
 00:07:50,137 --> 00:07:51,870
-     and flows to the top.      
+and flows to the top.      
 
 108
 00:07:51,872 --> 00:07:55,273
-   as the sand moves downward   
-   against the rising water,    
+as the sand moves downward against the rising water,    
 
 109
 00:07:55,275 --> 00:07:58,544
-       the dirt particles       
-      attach to the sand.       
+the dirt particles attach to the sand.       
 
 110
 00:08:06,887 --> 00:08:09,254
- the seawater now looks clean   
+the seawater now looks clean   
 
 111
 00:08:09,256 --> 00:08:12,591
-       but still contains       
-    microscopic particles.      
+but still contains microscopic particles.      
 
 112
 00:08:14,228 --> 00:08:18,229
-     so it enters the final     
-      pretreatment phase.       
+so it enters the final pretreatment phase.       
 
 113
 00:08:18,231 --> 00:08:22,233
-    this time, the filtering    
-             medium             
-    is diatomaceous earth,      
+this time, the filtering medium is diatomaceous earth,      
 
 114
 00:08:22,235 --> 00:08:25,637
-        a powdered rock         
- that contains algae fossils.   
+a powdered rock that contains algae fossils.   
 
 115
 00:08:25,639 --> 00:08:30,909
-   finer than sand, it filters  
-               out              
- those microscopic particles.   
+finer than sand, it filters out those microscopic particles.   
 
 116
 00:08:30,911 --> 00:08:33,711
-          the seawater          
-    is now perfectly clean      
+the seawater is now perfectly clean      
 
 117
 00:08:33,713 --> 00:08:37,783
@@ -590,378 +473,303 @@ and ready for salt extraction.
 
 118
 00:08:37,785 --> 00:08:40,719
-  they do that using membranes  
-               --               
+they do that using membranes --               
 
 119
 00:08:40,721 --> 00:08:43,188
-  cylinders containing layers   
-       of plastic sheets        
+cylinders containing layers of plastic sheets        
 
 120
 00:08:43,190 --> 00:08:47,459
-      that have pores .001      
- the diameter of a human hair,  
+that have pores .001 the diameter of a human hair,  
 
 121
 00:08:47,461 --> 00:08:51,530
-      small enough to trap      
-  microscopic salt crystals.    
+small enough to trap microscopic salt crystals.    
 
 122
 00:08:51,532 --> 00:08:53,665
-           the plant            
-   pumps the clean saltwater    
+the plant pumps the clean saltwater    
 
 123
 00:08:53,667 --> 00:08:57,136
- under extremely high pressure  
-      through long tubes,       
+under extremely high pressure through long tubes,       
 
 124
 00:08:57,138 --> 00:08:59,938
-     each of which contains     
-       eight membranes.         
+each of which contains eight membranes.         
 
 125
 00:08:59,940 --> 00:09:03,142
-     by the time the water      
-     passes through all the     
-           membranes            
+by the time the water passes through all the membranes            
 
 126
 00:09:03,144 --> 00:09:07,546
- and reaches the center of the  
-      tube, it's completely     
-           salt-free.           
+and reaches the center of the tube, it's completely salt-free.           
 
 127
 00:09:07,548 --> 00:09:10,215
-   plant personnel and a slew   
- of sophisticated instruments   
+plant personnel and a slew of sophisticated instruments   
 
 128
 00:09:10,217 --> 00:09:15,754
-  continually monitor every one 
-               of               
+continually monitor every one of               
 the system's 10,000 membranes.  
 
 129
 00:09:19,160 --> 00:09:22,994
-      meanwhile, the plant      
-    sends the debris removed    
-            earlier             
+meanwhile, the plant sends the debris removed earlier             
 
 130
 00:09:22,996 --> 00:09:24,630
-     to large waste basins      
+to large waste basins      
 
 131
 00:09:24,632 --> 00:09:26,665
-       for another round        
-    of chemical treatment.      
+for another round of chemical treatment.      
 
 132
 00:09:28,302 --> 00:09:30,502
-        after the solids        
-     settle to the bottom,      
+after the solids settle to the bottom,      
 
 133
 00:09:30,504 --> 00:09:33,305
-   the dirty water goes back    
-   to the front of the plant    
+the dirty water goes back to the front of the plant    
 
 134
 00:09:33,307 --> 00:09:35,140
-  to be cleaned and recycled.   
+to be cleaned and recycled.   
 
 135
 00:09:47,855 --> 00:09:49,788
-    pressure rollers squeeze    
-      the remaining water       
+pressure rollers squeeze the remaining water       
 
 136
 00:09:49,790 --> 00:09:51,690
-      out of the solids.        
+out of the solids.        
 
 137
 00:09:53,460 --> 00:09:56,995
-     trucks then transport      
- the dry solids to a landfill.  
+trucks then transport the dry solids to a landfill.  
 
 138
 00:09:56,997 --> 00:10:00,799
- the extracted salt, meanwhile, 
-   goes to the power plant,     
+the extracted salt, meanwhile, goes to the power plant,     
 
 139
 00:10:00,801 --> 00:10:04,002
-       which dilutes it,        
-  then returns it to the sea    
+which dilutes it, then returns it to the sea    
 
 140
 00:10:04,004 --> 00:10:07,372
-   in a way that doesn't upset  
-               the              
-    water's natural salinity    
-             level.             
+in a way that doesn't upset the water's natural salinity level.             
 
 141
 00:10:12,679 --> 00:10:14,612
-      processing saltwater      
-        into freshwater         
+processing saltwater into freshwater         
 
 142
 00:10:14,614 --> 00:10:17,549
-          strips away           
- the water's natural minerals.  
+strips away the water's natural minerals.  
 
 143
 00:10:17,551 --> 00:10:20,885
-       not replacing them       
-  would create two problems.    
+not replacing them would create two problems.    
 
 144
 00:10:20,887 --> 00:10:23,755
-             first,             
-    the water wouldn't taste    
-             right.             
+first, the water wouldn't taste right.             
 
 145
 00:10:23,757 --> 00:10:26,892
-            second,             
-  it would damage metal pipes   
+second, it would damage metal pipes   
 
 146
 00:10:26,894 --> 00:10:30,428
-     by aggressively trying     
-     to replace the missing     
-           minerals.            
+by aggressively trying to replace the missing minerals.            
 
 147
 00:10:30,430 --> 00:10:33,431
-   therefore, the plant adds    
+therefore, the plant adds    
 liquid lime and carbon dioxide  
 
 148
 00:10:33,433 --> 00:10:35,300
-         to the water.          
+to the water.          
 
 149
 00:10:35,302 --> 00:10:38,971
-  these two elements adjust the 
-               ph               
-       level and raise the      
-          alkalinity,           
+these two elements adjust the ph level and raise the alkalinity,           
 
 150
 00:10:38,973 --> 00:10:42,074
-     restoring the minerals     
-      and natural taste.        
+restoring the minerals and natural taste.        
 
 151
 00:10:56,823 --> 00:10:59,724
-     narrator: world war ii     
-            veterans            
-      disabled in combat        
+narrator: world war ii veterans disabled in combat        
 
 152
 00:10:59,726 --> 00:11:01,994
-     were the first to race     
-        in wheelchairs.         
+were the first to race in wheelchairs.         
 
 153
 00:11:01,996 --> 00:11:04,596
- but those chairs were clunky,  
-         steel models.          
+but those chairs were clunky, steel models.          
 
 154
 00:11:04,598 --> 00:11:07,532
-     fast-forward to today      
-     and wheelchair racing      
+fast-forward to today and wheelchair racing      
 
 155
 00:11:07,534 --> 00:11:10,401
-       is a serious sport       
-   with aerodynamic chairs.     
+is a serious sport with aerodynamic chairs.     
 
 156
 00:11:10,403 --> 00:11:13,071
-          these chairs          
-   have elongated mainframes    
+these chairs have elongated mainframes    
 
 157
 00:11:13,073 --> 00:11:15,841
-        and three wheels        
-       instead of four.         
+and three wheels instead of four.         
 
 158
 00:11:18,144 --> 00:11:20,545
-    this modern racing chair    
-          is tailored           
+this modern racing chair is tailored           
 
 159
 00:11:20,547 --> 00:11:23,415
-   to the athlete's physique,   
-     specific disability,       
+to the athlete's physique, specific disability,       
 
 160
 00:11:23,417 --> 00:11:26,351
-       and skill level.         
+and skill level.         
 
 161
 00:11:26,353 --> 00:11:29,421
- they begin by taking detailed  
-  measurements of the athlete   
+they begin by taking detailed measurements of the athlete   
 
 162
 00:11:29,423 --> 00:11:31,490
- as she sits in a demo chair.   
+as she sits in a demo chair.   
 
 163
 00:11:31,492 --> 00:11:35,027
-     they measure the width     
-    and height of her knees     
+they measure the width and height of her knees     
 
 164
 00:11:35,029 --> 00:11:37,829
-          to determine          
-  the best seating position.    
+to determine the best seating position.    
 
 165
 00:11:39,433 --> 00:11:41,166
- they check the balance point   
+they check the balance point   
 
 166
 00:11:41,168 --> 00:11:44,369
-  to decide how the rear-wheel  
-  axle should be positioned,    
+to decide how the rear-wheel axle should be positioned,    
 
 167
 00:11:44,371 --> 00:11:48,040
-  and they measure her arms so  
-   push rims can be sized for   
-              her.              
+and they measure her arms so push rims can be sized for her.              
 
 168
 00:11:48,042 --> 00:11:50,441
-       they then produce        
-       a digital drawing        
+they then produce a digital drawing        
 
 169
 00:11:50,443 --> 00:11:52,377
-   of the racing wheelchair,    
+of the racing wheelchair,    
 
 170
 00:11:52,379 --> 00:11:55,614
-    complete with any extras    
-   requested by the athlete.    
+complete with any extras requested by the athlete.    
 
 171
 00:12:00,453 --> 00:12:03,789
-     the fabricator selects     
-    the appropriate aluminum    
-             tubing             
+the fabricator selects the appropriate aluminum tubing             
 
 172
 00:12:03,791 --> 00:12:07,058
-          and cuts it           
-    to the desired length.      
+and cuts it to the desired length.      
 
 173
 00:12:07,060 --> 00:12:12,130
- this one will be the main tube 
- for the racing chair's frame.  
+this one will be the main tube for the racing chair's frame.  
 
 174
 00:12:12,132 --> 00:12:14,266
-     rollers curve the tube     
-            slightly            
-          at one end            
+rollers curve the tube slightly at one end            
 
 175
 00:12:14,268 --> 00:12:17,169
-        so the framework        
-  will accommodate the seat.    
+so the framework will accommodate the seat.    
 
 176
 00:12:22,743 --> 00:12:25,877
- a press then flattens the tube 
-         quite a bit.           
+a press then flattens the tube quite a bit.           
 
 177
 00:12:25,879 --> 00:12:27,278
-    this stiffens the metal     
+this stiffens the metal     
 
 178
 00:12:27,280 --> 00:12:31,015
- and will make the racing-chair 
-    frame more aerodynamic.     
+and will make the racing-chair frame more aerodynamic.     
 
 179
 00:12:31,017 --> 00:12:34,620
-   this small tube, which they  
-              weld              
-       to the main tube,        
+this small tube, which they weld to the main tube,        
 
 180
 00:12:34,622 --> 00:12:37,322
-  will hold the racing chair's  
-        steering fork.          
+will hold the racing chair's steering fork.          
 
 181
 00:12:43,563 --> 00:12:46,031
-    he now tapes a steering     
- mechanism for the front wheel  
+he now tapes a steering mechanism for the front wheel  
 
 182
 00:12:46,033 --> 00:12:47,699
-      onto the framework        
+onto the framework        
 
 183
 00:12:47,701 --> 00:12:51,470
-      and confirms that its     
-            placement           
-   is exact before welding.     
+and confirms that its placement is exact before welding.     
 
 184
 00:12:53,307 --> 00:12:56,174
-     this device will keep      
- the front wheel on autopilot,  
+this device will keep the front wheel on autopilot,  
 
 185
 00:12:56,176 --> 00:12:59,645
-   freeing the racer's hands    
-   to push the rear wheels.     
+freeing the racer's hands to push the rear wheels.     
 
 186
 00:13:01,448 --> 00:13:04,649
-    the welder now positions    
+the welder now positions    
 the other end of the main tube  
 
 187
 00:13:04,651 --> 00:13:07,252
-   perpendicular to the wheel   
-             axle.              
+perpendicular to the wheel axle.              
 
 188
 00:13:09,456 --> 00:13:12,057
-       he inches the tube       
+he inches the tube       
 towards the center of the axle  
 
 189
 00:13:12,059 --> 00:13:15,394
- until it's right on the mark.  
+until it's right on the mark.  
 
 190
 00:13:15,396 --> 00:13:17,462
-       he welds the axle        
-       to the main tube,        
+he welds the axle to the main tube,        
 
 191
 00:13:17,464 --> 00:13:20,132
-      giving the framework      
-        a "t" profile.          
+giving the framework a "t" profile.          
 
 192
 00:13:23,337 --> 00:13:25,537
@@ -969,552 +777,449 @@ temporary wheels lift the axle
 
 193
 00:13:25,539 --> 00:13:29,407
-       so he can install        
-        the seat frame.         
+so he can install the seat frame.         
 
 194
 00:13:29,409 --> 00:13:32,377
-    then a hydraulic machine    
-    bends an aluminum tube      
+then a hydraulic machine bends an aluminum tube      
 
 195
 00:13:32,379 --> 00:13:35,981
-    into a "u" shape to make    
+into a "u" shape to make    
 the racing chair's seat frame.  
 
 196
 00:13:39,085 --> 00:13:42,888
-  he positions the seat frame   
-       on the rear axle         
+he positions the seat frame on the rear axle         
 
 197
 00:13:42,890 --> 00:13:45,290
-  and does a few more welds.    
+and does a few more welds.    
 
 198
 00:13:47,294 --> 00:13:50,929
-  finally, he installs fenders  
-        on the wheels.          
+finally, he installs fenders on the wheels.          
 
 199
 00:13:55,769 --> 00:13:59,438
-   the main framework of this   
+the main framework of this   
 racing wheelchair is complete.  
 
 200
 00:13:59,440 --> 00:14:04,041
-  but to make it look flashy,   
-   they spray-paint it red.     
+but to make it look flashy, they spray-paint it red.     
 
 201
 00:14:04,043 --> 00:14:05,710
-   this is a powder coating.    
+this is a powder coating.    
 
 202
 00:14:05,712 --> 00:14:07,379
-  it's a thermoplastic paint    
+it's a thermoplastic paint    
 
 203
 00:14:07,381 --> 00:14:09,881
-         that's tougher         
-  than the conventional kind.   
+that's tougher than the conventional kind.   
 
 204
 00:14:12,119 --> 00:14:15,053
-    next, this machine rolls    
-        the push rims,          
+next, this machine rolls the push rims,          
 
 205
 00:14:15,055 --> 00:14:17,856
-     which the athlete uses     
-   to propel the wheelchair.    
+which the athlete uses to propel the wheelchair.    
 
 206
 00:14:24,198 --> 00:14:27,666
-      they weld on pegs for     
-            attaching           
-    the rims to the wheels,     
+they weld on pegs for attaching the rims to the wheels,     
 
 207
 00:14:27,668 --> 00:14:32,069
-   then glue a rubber sleeve    
-        onto each rim.          
+then glue a rubber sleeve onto each rim.          
 
 208
 00:14:32,071 --> 00:14:35,340
- they wrap it in tape to clamp  
-  the two as the glue dries.    
+they wrap it in tape to clamp the two as the glue dries.    
 
 209
 00:14:35,342 --> 00:14:36,674
-       the tape stays on        
+the tape stays on        
 
 210
 00:14:36,676 --> 00:14:39,511
-  until the chair is delivered  
-       to the customer.         
+until the chair is delivered to the customer.         
 
 211
 00:14:41,081 --> 00:14:43,482
-  they install the rear wheels  
-          at an angle           
+they install the rear wheels at an angle           
 
 212
 00:14:43,484 --> 00:14:46,184
-    to make the racing chair    
-  more stable when cornering.   
+to make the racing chair more stable when cornering.   
 
 213
 00:14:48,755 --> 00:14:52,089
-        they add padding        
-   for the athlete's knees,     
+they add padding for the athlete's knees,     
 
 214
 00:14:52,091 --> 00:14:55,560
-  then assemble the nylon seat  
-         to the chair.          
+then assemble the nylon seat to the chair.          
 
 215
 00:14:55,562 --> 00:14:59,197
-   next comes the front-wheel   
-   steering fork and handle.    
+next comes the front-wheel steering fork and handle.    
 
 216
 00:15:02,702 --> 00:15:06,438
-   they complete the assembly   
+they complete the assembly   
 with a spring-loaded cylinder.  
 
 217
 00:15:06,440 --> 00:15:08,907
-         that's part of         
+that's part of         
 the steering autopilot system.  
 
 218
 00:15:13,113 --> 00:15:17,115
-   after testing the steering   
-              fork,             
- they install the front wheel,  
+after testing the steering fork, they install the front wheel,  
 
 219
 00:15:17,117 --> 00:15:19,084
-        which is smaller        
-      than the rear two.        
+which is smaller than the rear two.        
 
 220
 00:15:24,191 --> 00:15:26,324
-    once it's been equipped     
-         with brakes,           
+once it's been equipped with brakes,           
 
 221
 00:15:26,326 --> 00:15:27,926
-   this custom racing chair     
+this custom racing chair     
 
 222
 00:15:27,928 --> 00:15:30,995
-      is ready to take on       
-       the competition.         
+is ready to take on the competition.         
 
 223
 00:15:30,997 --> 00:15:34,666
-   an elite athlete will buy    
+an elite athlete will buy    
 a new racing chair every year.  
 
 224
 00:15:34,668 --> 00:15:38,470
-    some choose rear wheels     
-   made of lightweight carbon   
-             fiber              
+some choose rear wheels made of lightweight carbon fiber              
 
 225
 00:15:38,472 --> 00:15:42,674
-     because any advantage      
+because any advantage      
 is welcome in the push to win.  
 
 226
 00:15:59,293 --> 00:16:01,225
-           narrator:            
-    parquetry was invented      
+narrator: parquetry was invented      
 
 227
 00:16:01,227 --> 00:16:03,528
-     in france in the 1600s     
-       as an alternative        
+in france in the 1600s as an alternative        
 
 228
 00:16:03,530 --> 00:16:05,630
-      to high-maintenance       
-       marble flooring.         
+to high-maintenance marble flooring.         
 
 229
 00:16:05,632 --> 00:16:07,832
-           it's made            
-   from small pieces of wood    
+it's made from small pieces of wood    
 
 230
 00:16:07,834 --> 00:16:10,368
-        bonded together         
-    in a geometric pattern.     
+bonded together in a geometric pattern.     
 
 231
 00:16:10,370 --> 00:16:12,370
-     the most common motif      
-          is squares.           
+the most common motif is squares.           
 
 232
 00:16:12,372 --> 00:16:14,706
-       but it also comes        
-      in other patterns,        
+but it also comes in other patterns,        
 
 233
 00:16:14,708 --> 00:16:18,376
-      such as herringbone,      
-   lozenges, and triangles.     
+such as herringbone, lozenges, and triangles.     
 
 234
 00:16:22,849 --> 00:16:25,650
-     parquetry can be made      
-    of laminate or plywood.     
+parquetry can be made of laminate or plywood.     
 
 235
 00:16:25,652 --> 00:16:27,919
-            however,            
-   the best-quality flooring    
+however, the best-quality flooring    
 
 236
 00:16:27,921 --> 00:16:33,791
-   is made from genuine wood,   
-              such              
-    as oak, maple, or yellow    
-             birch.             
+is made from genuine wood, such as oak, maple, or yellow birch.             
 
 237
 00:16:33,793 --> 00:16:36,595
-   the factory first cuts the   
-              wood              
-         into planks,           
+the factory first cuts the wood into planks,           
 
 238
 00:16:36,597 --> 00:16:40,665
-  measuring 2 to 5 inches wide  
-     by about a yard long.      
+measuring 2 to 5 inches wide by about a yard long.      
 
 239
 00:16:44,137 --> 00:16:46,404
-    a drum saw then cuts each   
-             plank              
+a drum saw then cuts each plank              
 
 240
 00:16:46,406 --> 00:16:49,073
-         into 6 blocks          
-      about 6 inches long       
+into 6 blocks about 6 inches long       
 
 241
 00:16:49,075 --> 00:16:52,377
-       while an inspector       
- discards any misshapen ones.   
+while an inspector discards any misshapen ones.   
 
 242
 00:16:55,549 --> 00:16:57,815
-      the blocks then move      
-       through a planer         
+the blocks then move through a planer         
 
 243
 00:16:57,817 --> 00:17:02,621
-    that shaves a fine layer    
-        off both sides.         
+that shaves a fine layer off both sides.         
 
 244
 00:17:02,623 --> 00:17:06,357
-  this reduces the blocks to a  
-   thickness of just under an   
-              inch              
+this reduces the blocks to a thickness of just under an inch              
 
 245
 00:17:06,359 --> 00:17:09,694
-      and smoothes the top      
-     and bottom surfaces.       
+and smoothes the top and bottom surfaces.       
 
 246
 00:17:09,696 --> 00:17:11,496
-             next,              
- the blocks run through a saw   
+next, the blocks run through a saw   
 
 247
 00:17:11,498 --> 00:17:14,499
-         with 10 blades         
-  that slice them into strips   
+with 10 blades that slice them into strips   
 
 248
 00:17:14,501 --> 00:17:18,103
-    measuring .3 inches wide    
-      by 6.2 inches long.       
+measuring .3 inches wide by 6.2 inches long.       
 
 249
 00:17:26,380 --> 00:17:28,580
-      quality controllers       
-       remove any strips        
+quality controllers remove any strips        
 
 250
 00:17:28,582 --> 00:17:30,448
- with inconsistent thickness,   
+with inconsistent thickness,   
 
 251
 00:17:30,450 --> 00:17:34,786
- which are usually the ones cut 
- from the block's extremities.  
+which are usually the ones cut from the block's extremities.  
 
 252
 00:17:34,788 --> 00:17:37,321
-  the good strips continue on   
-       to another area,         
+the good strips continue on to another area,         
 
 253
 00:17:37,323 --> 00:17:39,257
-       where they undergo       
-        a more thorough         
+where they undergo a more thorough         
 
 254
 00:17:39,259 --> 00:17:41,493
-  quality-control inspection.   
+quality-control inspection.   
 
 255
 00:17:43,397 --> 00:17:46,731
-        a worker checks         
-     the tops and bottoms,      
+a worker checks the tops and bottoms,      
 
 256
 00:17:46,733 --> 00:17:50,401
-       then lines them up       
-  on a conveyor belt good-side  
-              up.               
+then lines them up on a conveyor belt good-side up.               
 
 257
 00:17:50,403 --> 00:17:53,405
-       she also discards        
-    any substandard strips      
+she also discards any substandard strips      
 
 258
 00:17:53,407 --> 00:17:56,207
-   that may have slipped past   
-     the first inspection.      
+that may have slipped past the first inspection.      
 
 259
 00:17:59,212 --> 00:18:03,281
-       the conveyor belt        
-  then flips the strips over.   
+the conveyor belt then flips the strips over.   
 
 260
 00:18:03,283 --> 00:18:06,651
-   this positions the strips    
-   underside facing upward.     
+this positions the strips underside facing upward.     
 
 261
 00:18:11,224 --> 00:18:14,626
-   saws then cut two parallel   
-     grooves through them.      
+saws then cut two parallel grooves through them.      
 
 262
 00:18:14,628 --> 00:18:18,063
-    these grooves are set .9    
-             inches             
-      in from the edge...       
+these grooves are set .9 inches in from the edge...       
 
 263
 00:18:22,235 --> 00:18:25,170
-  ...and are just deep enough   
- to hold a thin aluminum wire   
+...and are just deep enough to hold a thin aluminum wire   
 
 264
 00:18:25,172 --> 00:18:28,506
-     that'll connect strips     
-            together            
-        to form tiles.          
+that'll connect strips together to form tiles.          
 
 265
 00:18:28,508 --> 00:18:33,144
-        the next machine        
- dispenses the parallel wires.  
+the next machine dispenses the parallel wires.  
 
 266
 00:18:37,517 --> 00:18:42,586
- a wheel pushes the wires deep  
-     inside their respective    
-            grooves.            
+a wheel pushes the wires deep inside their respective grooves.            
 
 267
 00:18:42,588 --> 00:18:44,322
-   after every seven strips,    
+after every seven strips,    
 
 268
 00:18:44,324 --> 00:18:47,459
-   the machine cuts the wires   
-     and starts new ones.       
+the machine cuts the wires and starts new ones.       
 
 269
 00:18:47,461 --> 00:18:52,297
-      the 7-length strips       
-  form a 6-inch-square tile.    
+the 7-length strips form a 6-inch-square tile.    
 
 270
 00:18:55,135 --> 00:18:58,136
-    an end-matching machine     
-     now squares each tile      
+an end-matching machine now squares each tile      
 
 271
 00:18:58,138 --> 00:19:02,006
-    so that the four corners    
-   are precisely 90 degrees.    
+so that the four corners are precisely 90 degrees.    
 
 272
 00:19:02,008 --> 00:19:05,877
-     then it carves tongues     
-  on two of the tile's edges    
+then it carves tongues on two of the tile's edges    
 
 273
 00:19:05,879 --> 00:19:08,446
-   and grooves into the other   
-              two.              
+and grooves into the other two.              
 
 274
 00:19:10,550 --> 00:19:14,952
-  four tile feeders then drop   
+four tile feeders then drop   
 tiles into an assembly machine  
 
 275
 00:19:14,954 --> 00:19:19,290
-    that inserts the tongues    
-       into the grooves.        
+that inserts the tongues into the grooves.        
 
 276
 00:19:19,292 --> 00:19:21,492
-    the machine then applies    
-           hot glue             
+the machine then applies hot glue             
 
 277
 00:19:21,494 --> 00:19:24,562
-   which bonds the four tiles   
-     into one larger tile       
+which bonds the four tiles into one larger tile       
 
 278
 00:19:24,564 --> 00:19:27,465
-    measuring 12x12 inches.     
+measuring 12x12 inches.     
 
 279
 00:19:33,239 --> 00:19:35,907
-    the tiles are now ready     
-        for varnishing.         
+the tiles are now ready for varnishing.         
 
 280
 00:19:35,909 --> 00:19:39,577
-     feeders drop them onto     
+feeders drop them onto     
 the automated varnishing line.  
 
 281
 00:19:47,120 --> 00:19:50,055
-     the tile surface gets a    
-            sanding.            
+the tile surface gets a sanding.            
 
 282
 00:19:57,330 --> 00:20:00,799
-       rollers then apply       
-   an even coat of varnish.     
+rollers then apply an even coat of varnish.     
 
 283
 00:20:00,801 --> 00:20:04,335
-     from there, the tiles      
-    immediately pass under      
+from there, the tiles immediately pass under      
 
 284
 00:20:04,337 --> 00:20:06,003
-      ultraviolet light.        
+ultraviolet light.        
 
 285
 00:20:06,005 --> 00:20:09,941
-     this dries the varnish     
-       within a second.         
+this dries the varnish within a second.         
 
 286
 00:20:09,943 --> 00:20:12,477
-        then the process        
-   repeats three more times     
+then the process repeats three more times     
 
 287
 00:20:12,479 --> 00:20:15,680
-   for a total of four coats    
-          of varnish.           
+for a total of four coats of varnish.           
 
 288
 00:20:15,682 --> 00:20:18,282
-   workers then stack them in   
-              10s,              
+workers then stack them in 10s,              
 
 289
 00:20:18,284 --> 00:20:21,352
-        at the same time        
-   doing a final inspection     
+at the same time doing a final inspection     
 
 290
 00:20:21,354 --> 00:20:25,022
-  and discarding any tile that  
-     has a less-than-perfect    
-            finish.             
+and discarding any tile that has a less-than-perfect finish.             
 
 291
 00:20:25,024 --> 00:20:27,224
-    on the packaging line,      
+on the packaging line,      
 
 292
 00:20:27,226 --> 00:20:30,862
-    each stack gets a label     
-  and clear plastic wrapping.   
+each stack gets a label and clear plastic wrapping.   
 
 293
 00:20:32,766 --> 00:20:36,267
-  an oven shrinks the plastic   
-   tightly around the tiles.    
+an oven shrinks the plastic tightly around the tiles.    
 
 294
 00:20:39,572 --> 00:20:43,240
-   those four coats of varnish  
-              made              
- this parquetry superdurable,   
+those four coats of varnish made this parquetry superdurable,   
 
 295
 00:20:43,242 --> 00:20:45,443
-  and because it's real wood,   
+and because it's real wood,   
 
 296
 00:20:45,445 --> 00:20:48,513
-  when the many years of wear   
-       do begin to show,        
+when the many years of wear do begin to show,        
 
 297
 00:20:48,515 --> 00:20:52,250
-  you can simply refinish the   
-      floor to its original     
-           splendor.            
+you can simply refinish the floor to its original splendor.            
 
 298
 00:20:52,252 --> 00:20:55,320
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 299
 00:20:55,322 --> 00:20:58,323
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 300
 00:21:00,126 --> 00:21:02,794
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 301
 00:21:02,796 --> 00:21:06,197
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 302
 00:21:06,199 --> 00:21:07,432
-     drop us a line at...       
+drop us a line at...       
 

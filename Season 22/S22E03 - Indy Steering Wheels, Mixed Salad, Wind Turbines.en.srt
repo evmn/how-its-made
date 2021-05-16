@@ -1,104 +1,87 @@
 ﻿1
 00:00:02,070 --> 00:00:05,070
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:05,072 --> 00:00:08,007
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:53,120 --> 00:00:56,656
-            narrator:           
-    the indy steering wheel     
-    isn't just for steering.    
+narrator: the indy steering wheel isn't just for steering.    
 
 4
 00:00:56,658 --> 00:00:58,991
-     it's the control center    
-        for the racecar,        
+it's the control center for the racecar,        
 
 5
 00:00:58,993 --> 00:01:00,592
-    replacing the dashboard.    
+replacing the dashboard.    
 
 6
 00:01:00,594 --> 00:01:03,596
- this incredible steering wheel 
-       is also detachable       
+this incredible steering wheel is also detachable       
 
 7
 00:01:03,598 --> 00:01:06,599
-       to allow the driver      
-  to enter and exit the cockpit 
+to allow the driver to enter and exit the cockpit 
 
 8
 00:01:06,601 --> 00:01:08,200
-       quickly and easily.      
+quickly and easily.      
 
 9
 00:01:08,202 --> 00:01:11,203
-       it's, quite simply,      
-       designed for speed.      
+it's, quite simply, designed for speed.      
 
 10
 00:01:15,076 --> 00:01:18,544
-   the indy steering wheel is   
-  a complex piece of equipment  
+the indy steering wheel is a complex piece of equipment  
 
 11
 00:01:18,546 --> 00:01:21,546
-      that puts everything      
-   at the driver's fingertips.  
+that puts everything at the driver's fingertips.  
 
 12
 00:01:21,548 --> 00:01:23,949
-            it starts           
-    with a full-scale design,   
+it starts with a full-scale design,   
 
 13
 00:01:23,951 --> 00:01:28,354
-   customized to the driver's   
-  racing style and preferences. 
+customized to the driver's racing style and preferences. 
 
 14
 00:01:28,356 --> 00:01:30,156
-      the technician aligns     
+the technician aligns     
 
 15
 00:01:30,158 --> 00:01:32,758
-     the traditional racing     
+the traditional racing     
 steering wheel with the drawing,
 
 16
 00:01:32,760 --> 00:01:36,228
-          and marks it          
-     for a complete remodel.    
+and marks it for a complete remodel.    
 
 17
 00:01:36,230 --> 00:01:39,831
-           he cuts out          
-    the leather and foam wrap   
+he cuts out the leather and foam wrap   
 
 18
 00:01:39,833 --> 00:01:41,967
-     within the marked lines    
+within the marked lines    
 
 19
 00:01:41,969 --> 00:01:45,104
-      and saws off a chunk      
-     of the aluminum frame.     
+and saws off a chunk of the aluminum frame.     
 
 20
 00:01:49,911 --> 00:01:52,377
-        he then activates       
-      a computerized cutter     
+he then activates a computerized cutter     
 
 21
 00:01:52,379 --> 00:01:55,715
- that carves away a big section 
-   of the steering wheel hub.   
+that carves away a big section of the steering wheel hub.   
 
 22
 00:01:55,717 --> 00:01:59,118
@@ -106,537 +89,456 @@ it also cuts holes for switches.
 
 23
 00:01:59,120 --> 00:02:01,186
-       with these changes,      
+with these changes,      
 
 24
 00:02:01,188 --> 00:02:04,389
-   the steering wheel is ready  
-     to accommodate a panel     
+the steering wheel is ready to accommodate a panel     
 
 25
 00:02:04,391 --> 00:02:07,193
-  with over two dozen controls  
-           and gauges.          
+with over two dozen controls and gauges.          
 
 26
 00:02:07,195 --> 00:02:10,329
- next, more computerized tooling
+next, more computerized tooling
 
 27
 00:02:10,331 --> 00:02:13,933
-       transforms a sheet       
-         of carbon fiber        
+transforms a sheet of carbon fiber        
 
 28
 00:02:13,935 --> 00:02:16,802
-    into the steering wheel's   
-          switch plate.         
+into the steering wheel's switch plate.         
 
 29
 00:02:16,804 --> 00:02:21,340
-        it cuts out holes       
-    for screws and switches,    
+it cuts out holes for screws and switches,    
 
 30
 00:02:21,342 --> 00:02:25,611
-      and it creates slots      
+and it creates slots      
 for the shift and clutch panels.
 
 31
 00:02:25,613 --> 00:02:28,681
-      the tool then zigzags     
-      around the perimeter      
+the tool then zigzags around the perimeter      
 
 32
 00:02:28,683 --> 00:02:32,752
- to trim the switch plate to fit
-  the modified steering wheel.  
+to trim the switch plate to fit
+the modified steering wheel.  
 
 33
 00:02:38,225 --> 00:02:39,958
-   with the trimmings removed,  
+with the trimmings removed,  
 
 34
 00:02:39,960 --> 00:02:43,095
-    the switch plate is ready   
-     for the working parts.     
+the switch plate is ready for the working parts.     
 
 35
 00:02:43,097 --> 00:02:46,164
-    the next technician plugs   
-    the color-coded switches    
+the next technician plugs the color-coded switches    
 
 36
 00:02:46,166 --> 00:02:48,634
-         into the holes         
-     and locks them in place    
+into the holes and locks them in place    
 
 37
 00:02:48,636 --> 00:02:52,371
-            with nuts           
-   and anti-vibration washers.  
+with nuts and anti-vibration washers.  
 
 38
 00:02:52,373 --> 00:02:55,040
-         the yellow one         
-  is a pit-lane speed limiter.  
+the yellow one is a pit-lane speed limiter.  
 
 39
 00:02:55,042 --> 00:02:56,909
-      as the name suggests,     
+as the name suggests,     
 
 40
 00:02:56,911 --> 00:03:00,913
-  it will limit the car's speed 
-        in the pit lane.        
+it will limit the car's speed in the pit lane.        
 
 41
 00:03:00,915 --> 00:03:02,715
-      once all the switches     
-      have been installed,      
+once all the switches have been installed,      
 
 42
 00:03:02,717 --> 00:03:07,186
-      he runs wires to them     
-  and solders the connections.  
+he runs wires to them and solders the connections.  
 
 43
 00:03:07,188 --> 00:03:09,422
-  this completes the circuitry. 
+this completes the circuitry. 
 
 44
 00:03:12,326 --> 00:03:15,594
-    he coats each connection    
-     with silicone sealant.     
+he coats each connection with silicone sealant.     
 
 45
 00:03:15,596 --> 00:03:19,198
-    this weather-proofs them    
- and further dampens vibrations.
+this weather-proofs them and further dampens vibrations.
 
 46
 00:03:19,200 --> 00:03:21,200
- and for additional protection, 
+and for additional protection, 
 
 47
 00:03:21,202 --> 00:03:24,403
- he applies glue to the plastic 
-   sheathing around the wires.  
+he applies glue to the plastic sheathing around the wires.  
 
 48
 00:03:24,405 --> 00:03:27,740
-      he adds a rubber boot     
-       to each connection.      
+he adds a rubber boot to each connection.      
 
 49
 00:03:27,742 --> 00:03:30,609
-      the boot fits loosely     
-       around it at first,      
+the boot fits loosely around it at first,      
 
 50
 00:03:30,611 --> 00:03:32,144
-     but, using a heat gun,     
+but, using a heat gun,     
 
 51
 00:03:32,146 --> 00:03:35,014
-           he shrinks           
- the specially formulated rubber
+he shrinks the specially formulated rubber
 
 52
 00:03:35,016 --> 00:03:36,415
-       to the connection.       
+to the connection.       
 
 53
 00:03:36,417 --> 00:03:40,519
-    this makes the boot fit     
-    like it was made for it.    
+this makes the boot fit like it was made for it.    
 
 54
 00:03:43,558 --> 00:03:45,957
-     the indy-steering-wheel    
-          switch plate          
+the indy-steering-wheel switch plate          
 
 55
 00:03:45,959 --> 00:03:47,760
-          is now ready          
-     for the shift paddles.     
+is now ready for the shift paddles.     
 
 56
 00:03:47,762 --> 00:03:52,364
- so next, the technician screws 
- a spacer plate into the slot.  
+so next, the technician screws a spacer plate into the slot.  
 
 57
 00:03:52,366 --> 00:03:55,701
-   this metal spacer slightly   
-  elevates the paddle mechanism 
+this metal spacer slightly elevates the paddle mechanism 
 
 58
 00:03:55,703 --> 00:03:58,437
-   to give it the right amount  
-          of clearance.         
+to give it the right amount of clearance.         
 
 59
 00:03:58,439 --> 00:04:03,975
-  he screws the paddle assembly 
-         to the spacer.         
+he screws the paddle assembly to the spacer.         
 
 60
 00:04:03,977 --> 00:04:07,713
-  he installs the second shift  
- paddle and two clutch paddles. 
+he installs the second shift paddle and two clutch paddles. 
 
 61
 00:04:07,715 --> 00:04:11,584
-   then he inserts the rotary   
-     switch for fuel mapping    
+then he inserts the rotary switch for fuel mapping    
 
 62
 00:04:11,586 --> 00:04:14,520
-         and secures it         
-     with a washer and nut.     
+and secures it with a washer and nut.     
 
 63
 00:04:14,522 --> 00:04:18,590
-    this fuel-mapping system    
-  will adjust the fuel-air mix  
+this fuel-mapping system will adjust the fuel-air mix  
 
 64
 00:04:18,592 --> 00:04:21,360
-      to boost or decrease      
-          power output.         
+to boost or decrease power output.         
 
 65
 00:04:23,531 --> 00:04:27,900
 he adds little decals with icons
-  to the color-coded switches.  
+to the color-coded switches.  
 
 66
 00:04:31,606 --> 00:04:35,708
- a radio-transmission icon marks
-    the communication switch.   
+a radio-transmission icon marks
+the communication switch.   
 
 67
 00:04:39,547 --> 00:04:42,214
-           he returns           
-   to the steering wheel now.   
+he returns to the steering wheel now.   
 
 68
 00:04:42,216 --> 00:04:44,683
-       he attaches a unit       
-       that displays rpm        
+he attaches a unit that displays rpm        
 
 69
 00:04:44,685 --> 00:04:47,953
-      and other information     
- that a normal dash would have. 
+and other information that a normal dash would have. 
 
 70
 00:04:47,955 --> 00:04:54,760
-          he screws it          
- to the exposed aluminum frame. 
+he screws it to the exposed aluminum frame. 
 
 71
 00:04:54,762 --> 00:04:58,430
-     he's now ready to mount    
-   the completed switch plate   
+he's now ready to mount the completed switch plate   
 
 72
 00:04:58,432 --> 00:05:00,833
-     to the steering wheel.     
+to the steering wheel.     
 
 73
 00:05:03,770 --> 00:05:07,039
-     three bolts to the hub     
-      secure the assembly.      
+three bolts to the hub secure the assembly.      
 
 74
 00:05:09,176 --> 00:05:11,844
-           he installs          
-    a spring-loaded mechanism   
+he installs a spring-loaded mechanism   
 
 75
 00:05:11,846 --> 00:05:13,778
-           at the back          
-      of the steering wheel     
+at the back of the steering wheel     
 
 76
 00:05:13,780 --> 00:05:15,648
-         that will allow        
-       the steering wheel       
+that will allow the steering wheel       
 
 77
 00:05:15,650 --> 00:05:18,050
-   to be installed or removed   
-        in half a second.       
+to be installed or removed in half a second.       
 
 78
 00:05:21,589 --> 00:05:24,924
- he tests the two shift paddles 
-   and the two clutch paddles   
+he tests the two shift paddles and the two clutch paddles   
 
 79
 00:05:24,926 --> 00:05:26,959
-          and confirms          
-     they operate smoothly.     
+and confirms they operate smoothly.     
 
 80
 00:05:31,732 --> 00:05:33,566
-            finally,            
-    he attached dense padding   
+finally, he attached dense padding   
 
 81
 00:05:33,568 --> 00:05:34,867
-    to the steering-wheel hub   
+to the steering-wheel hub   
 
 82
 00:05:34,869 --> 00:05:37,803
-       for a soft landing       
-      for the driver's head     
+for a soft landing for the driver's head     
 
 83
 00:05:37,805 --> 00:05:39,537
-     in the even of a crash.    
+in the even of a crash.    
 
 84
 00:05:39,539 --> 00:05:44,209
- this indy steering wheel costs 
- as much as a small compact car.
+this indy steering wheel costs as much as a small compact car.
 
 85
 00:05:44,211 --> 00:05:46,344
-  but for the driver and crew,  
+but for the driver and crew,  
 
 86
 00:05:46,346 --> 00:05:50,249
-   it's worth the investment    
-   if it helps win the prize.   
+it's worth the investment if it helps win the prize.   
 
 87
 00:06:05,232 --> 00:06:07,032
-   narrator: people have been   
-     dining on edible greens    
+narrator: people have been dining on edible greens    
 
 88
 00:06:07,034 --> 00:06:08,100
-     for thousands of years.    
+for thousands of years.    
 
 89
 00:06:08,102 --> 00:06:10,302
-     traditionally collected    
-          in the wild,          
+traditionally collected in the wild,          
 
 90
 00:06:10,304 --> 00:06:12,771
-     today, there's no need     
-       to forage for them       
+today, there's no need to forage for them       
 
 91
 00:06:12,773 --> 00:06:15,573
-      because field greens      
-  are cultivated commercially.  
+because field greens are cultivated commercially.  
 
 92
 00:06:15,575 --> 00:06:18,109
-     they're mixed, washed,     
-          and packaged          
+they're mixed, washed, and packaged          
 
 93
 00:06:18,111 --> 00:06:20,178
- for the consumer's convenience.
+for the consumer's convenience.
 
 94
 00:06:20,180 --> 00:06:22,715
-        it's an easy dish       
-        to toss together.       
+it's an easy dish to toss together.       
 
 95
 00:06:26,186 --> 00:06:29,854
-  packaged mixed greens combine 
-       mild-tasting leaves      
+packaged mixed greens combine mild-tasting leaves      
 
 96
 00:06:29,856 --> 00:06:31,724
-   with stronger-tasting ones   
+with stronger-tasting ones   
 
 97
 00:06:31,726 --> 00:06:34,326
-       and crunchy greens       
-     with more tender ones.     
+and crunchy greens with more tender ones.     
 
 98
 00:06:34,328 --> 00:06:36,862
-        so when it comes        
-     to texture and flavor,     
+so when it comes to texture and flavor,     
 
 99
 00:06:36,864 --> 00:06:39,131
-     it's truly a mixed bag.    
+it's truly a mixed bag.    
 
 100
 00:06:39,133 --> 00:06:42,734
-     they cultivate up to 20    
-    different kinds of greens   
+they cultivate up to 20 different kinds of greens   
 
 101
 00:06:42,736 --> 00:06:46,538
-    on this california farm,    
-   and they aren't all green.   
+on this california farm, and they aren't all green.   
 
 102
 00:06:46,540 --> 00:06:49,474
-          some are red.         
+some are red.         
 
 103
 00:06:49,476 --> 00:06:51,343
- they plant the various lettuces
+they plant the various lettuces
 
 104
 00:06:51,345 --> 00:06:54,613
-    according to the recipes    
-  for different packaged salads 
+according to the recipes for different packaged salads 
 
 105
 00:06:54,615 --> 00:06:58,950
-         so they'll have        
-   just the right combination.  
+so they'll have just the right combination.  
 
 106
 00:06:58,952 --> 00:07:02,153
-     with regular irrigation    
-       and fertilization,       
+with regular irrigation and fertilization,       
 
 107
 00:07:02,155 --> 00:07:03,689
-      the leaves flourish.      
+the leaves flourish.      
 
 108
 00:07:03,691 --> 00:07:05,757
-     it makes for a stunning    
-      red-and-green display     
+it makes for a stunning red-and-green display     
 
 109
 00:07:05,759 --> 00:07:06,892
-          in the field.         
+in the field.         
 
 110
 00:07:06,894 --> 00:07:10,562
-      after 30 to 45 days,      
+after 30 to 45 days,      
 
 111
 00:07:10,564 --> 00:07:13,899
-        these baby greens       
-     are ready for harvest.     
+these baby greens are ready for harvest.     
 
 112
 00:07:13,901 --> 00:07:17,970
-   a machine with a long blade  
-     moves across the field     
+a machine with a long blade moves across the field     
 
 113
 00:07:17,972 --> 00:07:20,873
-       and literally mows       
-       the field greens.        
+and literally mows the field greens.        
 
 114
 00:07:23,643 --> 00:07:27,379
-         the greens flow        
-        onto one conveyor       
+the greens flow onto one conveyor       
 
 115
 00:07:27,381 --> 00:07:29,315
-    and transfer to another.    
+and transfer to another.    
 
 116
 00:07:31,652 --> 00:07:33,585
-  the belt is a metal-mesh one  
+the belt is a metal-mesh one  
 
 117
 00:07:33,587 --> 00:07:37,055
-    to sift out contaminants    
-   like small rocks and twigs.  
+to sift out contaminants like small rocks and twigs.  
 
 118
 00:07:37,057 --> 00:07:40,793
-           at the end           
-    of the sifting conveyor,    
+at the end of the sifting conveyor,    
 
 119
 00:07:40,795 --> 00:07:43,996
-    the salad greens fly off    
-     and onto another belt.     
+the salad greens fly off and onto another belt.     
 
 120
 00:07:43,998 --> 00:07:48,133
 this belt serves them up to bins
-      on a flatbed trailer,     
+on a flatbed trailer,     
 
 121
 00:07:48,135 --> 00:07:51,470
-   creating an enormous salad   
-          in each one.          
+creating an enormous salad in each one.          
 
 122
 00:07:56,010 --> 00:07:58,743
-     workers cover the bins     
-          with plastic          
+workers cover the bins with plastic          
 
 123
 00:07:58,745 --> 00:08:01,814
-          and haul them         
-  to a nearby processing plant. 
+and haul them to a nearby processing plant. 
 
 124
 00:08:01,816 --> 00:08:05,751
-           on arrival,          
-    the salad greens transfer   
+on arrival, the salad greens transfer   
 
 125
 00:08:05,753 --> 00:08:08,687
-   to a vacuum-cooling chamber  
-            to chill.           
+to a vacuum-cooling chamber to chill.           
 
 126
 00:08:08,689 --> 00:08:12,223
-   the vacuum causes moisture   
-   on the greens to evaporate.  
+the vacuum causes moisture on the greens to evaporate.  
 
 127
 00:08:12,225 --> 00:08:13,759
-    as the water evaporates,    
+as the water evaporates,    
 
 128
 00:08:13,761 --> 00:08:16,428
-         it absorbs heat        
-    to lower the temperature    
+it absorbs heat to lower the temperature    
 
 129
 00:08:16,430 --> 00:08:17,829
-      and cool the greens.      
+and cool the greens.      
 
 130
 00:08:17,831 --> 00:08:22,835
-   the salad greens then head   
-     into an optical sorter.    
+the salad greens then head into an optical sorter.    
 
 131
 00:08:22,837 --> 00:08:26,038
-              here,             
- computerized cameras and lasers
+here, computerized cameras and lasers
 
 132
 00:08:26,040 --> 00:08:28,040
-   scan the greens for flaws,   
+scan the greens for flaws,   
 
 133
 00:08:28,042 --> 00:08:31,243
-       like discoloration       
-      and foreign material.     
+like discoloration and foreign material.     
 
 134
 00:08:31,245 --> 00:08:34,046
-   the operator has programmed  
-           the system           
+the operator has programmed the system           
 
 135
 00:08:34,048 --> 00:08:36,314
@@ -644,206 +546,180 @@ to detect flaws or contaminants.
 
 136
 00:08:36,316 --> 00:08:38,117
-  when the computer finds one,  
+when the computer finds one,  
 
 137
 00:08:38,119 --> 00:08:42,721
- it sends a signal to an air jet
-         that expels it.        
+it sends a signal to an air jet
+that expels it.        
 
 138
 00:08:42,723 --> 00:08:47,859
-   some good leaves get lost    
-   along the way -- about 3%.   
+some good leaves get lost along the way -- about 3%.   
 
 139
 00:08:47,861 --> 00:08:50,528
-         it's considered        
-       an acceptable loss.      
+it's considered an acceptable loss.      
 
 140
 00:08:50,530 --> 00:08:53,698
- the rejects will be composted. 
+the rejects will be composted. 
 
 141
 00:08:53,700 --> 00:08:55,667
-   out of the optical sorter,   
+out of the optical sorter,   
 
 142
 00:08:55,669 --> 00:08:58,670
-      an employee tosses in     
-       the bitter greens,       
+an employee tosses in the bitter greens,       
 
 143
 00:08:58,672 --> 00:09:02,006
-   like radicchio and frisée.   
+like radicchio and frisée.   
 
 144
 00:09:02,008 --> 00:09:06,078
-   this moving salad now heads  
- into a three-part wash system. 
+this moving salad now heads into a three-part wash system. 
 
 145
 00:09:06,080 --> 00:09:09,748
-       the first wash tank      
+the first wash tank      
 has rolling perforated cylinders
 
 146
 00:09:09,750 --> 00:09:12,885
- that keep the greens submerged 
-          for washing.          
+that keep the greens submerged for washing.          
 
 147
 00:09:12,887 --> 00:09:15,487
-        they also pick up       
-      unwanted tiny leaves      
+they also pick up unwanted tiny leaves      
 
 148
 00:09:15,489 --> 00:09:17,422
-  and remove them from the mix. 
+and remove them from the mix. 
 
 149
 00:09:17,424 --> 00:09:20,492
-    the salad greens transfer   
-     to a vibrating conveyor    
+the salad greens transfer to a vibrating conveyor    
 
 150
 00:09:20,494 --> 00:09:22,094
-   that shakes out the water.   
+that shakes out the water.   
 
 151
 00:09:22,096 --> 00:09:24,763
-        then they travel        
-   through a second wash tank   
+then they travel through a second wash tank   
 
 152
 00:09:24,765 --> 00:09:27,900
 and finally receive a third wash
-     from overhead sprayers.    
+from overhead sprayers.    
 
 153
 00:09:27,902 --> 00:09:30,301
-     the washed salad greens    
+the washed salad greens    
 
 154
 00:09:30,303 --> 00:09:33,372
-  fall into plastic containers  
-       with perforations.       
+fall into plastic containers with perforations.       
 
 155
 00:09:33,374 --> 00:09:36,241
-       they're essentially      
-      very large colanders.     
+they're essentially very large colanders.     
 
 156
 00:09:36,243 --> 00:09:40,913
-   they transfer each colander  
-  to a centrifuge and power up. 
+they transfer each colander to a centrifuge and power up. 
 
 157
 00:09:40,915 --> 00:09:42,714
-     it spins the colander,     
+it spins the colander,     
 
 158
 00:09:42,716 --> 00:09:45,383
-  and this causes the moisture  
-          on the greens         
+and this causes the moisture on the greens         
 
 159
 00:09:45,385 --> 00:09:47,652
-            to drain            
-   through there perforations.  
+to drain through there perforations.  
 
 160
 00:09:47,654 --> 00:09:49,388
- this leaves them dry and crisp.
+this leaves them dry and crisp.
 
 161
 00:09:49,390 --> 00:09:52,657
-   it is a large-scale version  
-      of the salad spinner      
+it is a large-scale version of the salad spinner      
 
 162
 00:09:52,659 --> 00:09:55,094
-        many people have        
-       in their kitchens.       
+many people have in their kitchens.       
 
 163
 00:10:01,202 --> 00:10:05,070
 these field greens are now ready
-     for the packaging line.    
+for the packaging line.    
 
 164
 00:10:05,072 --> 00:10:09,341
-   it's an entirely mechanized  
+it's an entirely mechanized  
 system with an endless appetite.
 
 165
 00:10:16,417 --> 00:10:20,652
-    the greens funnel through   
-  a hopper and land in buckets. 
+the greens funnel through a hopper and land in buckets. 
 
 166
 00:10:23,157 --> 00:10:24,857
-  this is a weighing operation. 
+this is a weighing operation. 
 
 167
 00:10:28,229 --> 00:10:31,897
-         there's a scale        
-       under each bucket.       
+there's a scale under each bucket.       
 
 168
 00:10:31,899 --> 00:10:34,232
-     when the target weight     
-           is reached,          
+when the target weight is reached,          
 
 169
 00:10:34,234 --> 00:10:37,035
- the bucket releases the greens.
+the bucket releases the greens.
 
 170
 00:10:37,037 --> 00:10:41,907
-     they slide down chutes     
-    into the bagging machine.   
+they slide down chutes into the bagging machine.   
 
 171
 00:10:41,909 --> 00:10:44,710
-     these salad greens are     
- still living, breathing plants.
+these salad greens are still living, breathing plants.
 
 172
 00:10:44,712 --> 00:10:46,778
-          the packaging         
-   will slow their respiration  
+the packaging will slow their respiration  
 
 173
 00:10:46,780 --> 00:10:50,515
-    and put the aging process   
-            on hold.            
+and put the aging process on hold.            
 
 174
 00:10:50,517 --> 00:10:53,318
-  machinery hermetically seals  
-         them in plastic        
+machinery hermetically seals them in plastic        
 
 175
 00:10:53,320 --> 00:10:57,055
-    to give them a shelf life   
-     of 14 days to 19 days.     
+to give them a shelf life of 14 days to 19 days.     
 
 176
 00:10:57,057 --> 00:10:58,724
-   and with that availability,  
+and with that availability,  
 
 177
 00:10:58,726 --> 00:11:02,794
-        there's no excuse       
-     not to eat your greens.    
+there's no excuse not to eat your greens.    
 
 178
 00:11:16,010 --> 00:11:18,610
-   narrator: wind turbines use  
- an unlimited natural resource, 
+narrator: wind turbines use an unlimited natural resource, 
 
 179
 00:11:18,612 --> 00:11:20,012
@@ -851,225 +727,190 @@ the wind, to produce electricity
 
 180
 00:11:20,014 --> 00:11:22,147
-        without polluting       
-        the environment.        
+without polluting the environment.        
 
 181
 00:11:22,149 --> 00:11:25,751
-  a turbine consists of a rotor 
-     and a massive propeller    
+a turbine consists of a rotor and a massive propeller    
 
 182
 00:11:25,753 --> 00:11:28,954
-     that spins in the wind     
-     on top of a high tower.    
+that spins in the wind on top of a high tower.    
 
 183
 00:11:28,956 --> 00:11:33,225
- it drives a built-in generator 
-   that produces electricity.   
+it drives a built-in generator that produces electricity.   
 
 184
 00:11:37,897 --> 00:11:40,899
-      the higher up you go,     
-       the windier it is.       
+the higher up you go, the windier it is.       
 
 185
 00:11:40,901 --> 00:11:42,767
-   so the taller the turbine,   
+so the taller the turbine,   
 
 186
 00:11:42,769 --> 00:11:45,370
-       the more wind power      
-          it harnesses.         
+the more wind power it harnesses.         
 
 187
 00:11:45,372 --> 00:11:48,106
-      they may not look it      
-        from a distance,        
+they may not look it from a distance,        
 
 188
 00:11:48,108 --> 00:11:52,043
-    but wind turbines can be    
- as high as a 20-story building 
+but wind turbines can be as high as a 20-story building 
 
 189
 00:11:52,045 --> 00:11:55,981
-        with rotor blades       
-   half a football field long.  
+with rotor blades half a football field long.  
 
 190
 00:11:55,983 --> 00:11:59,584
-      to begin constructing     
-      those massive blades,     
+to begin constructing those massive blades,     
 
 191
 00:11:59,586 --> 00:12:02,387
-         workers prepare        
-       fiberglass sheets,       
+workers prepare fiberglass sheets,       
 
 192
 00:12:02,389 --> 00:12:06,991
-   each one numbered according  
- to a detailed engineering plan.
+each one numbered according to a detailed engineering plan.
 
 193
 00:12:06,993 --> 00:12:08,993
-    then, following the plan,   
+then, following the plan,   
 
 194
 00:12:08,995 --> 00:12:12,664
 workers lay down specific sheets
-     in designated locations    
+in designated locations    
 
 195
 00:12:12,666 --> 00:12:15,367
-       in the bottom half       
-     of a blade-shaped mold.    
+in the bottom half of a blade-shaped mold.    
 
 196
 00:12:20,274 --> 00:12:22,941
-           for a blade          
-     to be free of defects,     
+for a blade to be free of defects,     
 
 197
 00:12:22,943 --> 00:12:25,610
-           each sheet           
-    must lie perfectly flat.    
+each sheet must lie perfectly flat.    
 
 198
 00:12:25,612 --> 00:12:27,412
-   so, using a smoothing tool,  
+so, using a smoothing tool,  
 
 199
 00:12:27,414 --> 00:12:30,082
-   workers remove air bubbles   
-          and creases.          
+workers remove air bubbles and creases.          
 
 200
 00:12:35,155 --> 00:12:36,888
- the surface of the mold cavity 
+the surface of the mold cavity 
 
 201
 00:12:36,890 --> 00:12:39,023
-           is treated           
-    with a non-stick coating.   
+is treated with a non-stick coating.   
 
 202
 00:12:39,025 --> 00:12:41,827
-   this will prevent the blade  
-    from adhering to the mold   
+this will prevent the blade from adhering to the mold   
 
 203
 00:12:41,829 --> 00:12:43,295
-      when they extract it.     
+when they extract it.     
 
 204
 00:12:43,297 --> 00:12:47,299
-  after placing all the sheets  
- in the bottom half of the mold,
+after placing all the sheets in the bottom half of the mold,
 
 205
 00:12:47,301 --> 00:12:50,502
-        workers construct       
-   the upper part of the blade  
+workers construct the upper part of the blade  
 
 206
 00:12:50,504 --> 00:12:54,640
- by laying fiberglass sheets on 
- the top half of the blade mold.
+by laying fiberglass sheets on the top half of the blade mold.
 
 207
 00:12:54,642 --> 00:12:58,110
-   again, every single sheet    
-   is numbered and positioned   
+again, every single sheet is numbered and positioned   
 
 208
 00:12:58,112 --> 00:13:00,578
-            according           
-    to the blade-design plan.   
+according to the blade-design plan.   
 
 209
 00:13:00,580 --> 00:13:06,651
-  an area of the mold can have  
- from for to 120 layered sheets 
+an area of the mold can have from for to 120 layered sheets 
 
 210
 00:13:06,653 --> 00:13:08,987
- of varying thickness, weights, 
-           and weaves,          
+of varying thickness, weights, and weaves,          
 
 211
 00:13:08,989 --> 00:13:11,590
-            depending           
-   on how structurally strong   
+depending on how structurally strong   
 
 212
 00:13:11,592 --> 00:13:14,159
-     that part of the blade     
-           has to be.           
+that part of the blade has to be.           
 
 213
 00:13:14,161 --> 00:13:16,862
-     to make specific areas     
-           more rigid,          
+to make specific areas more rigid,          
 
 214
 00:13:16,864 --> 00:13:20,332
-  between layers of fiberglass  
-       they install balsa,      
+between layers of fiberglass they install balsa,      
 
 215
 00:13:20,334 --> 00:13:22,433
- an extremely lightweight wood. 
+an extremely lightweight wood. 
 
 216
 00:13:22,435 --> 00:13:25,137
-       cut channels enable      
-        the balsa panels        
+cut channels enable the balsa panels        
 
 217
 00:13:25,139 --> 00:13:27,605
-      to flex to the shape      
-          of the blade.         
+to flex to the shape of the blade.         
 
 218
 00:13:27,607 --> 00:13:30,141
-          the channels          
-      are also the pathways     
+the channels are also the pathways     
 
 219
 00:13:30,143 --> 00:13:33,412
- through which the bonding agent
-         epoxy will flow        
+through which the bonding agent
+epoxy will flow        
 
 220
 00:13:33,414 --> 00:13:36,615
-      to saturate the wood      
-   and surrounding fiberglass.  
+to saturate the wood and surrounding fiberglass.  
 
 221
 00:13:39,152 --> 00:13:43,955
-    precision in the setup of   
+precision in the setup of   
 fiberglass and wood is critical.
 
 222
 00:13:43,957 --> 00:13:47,893
-        the process takes       
- a team of six workers 16 hours.
+the process takes a team of six workers 16 hours.
 
 223
 00:13:50,097 --> 00:13:51,496
-     they close up the mold     
+they close up the mold     
 
 224
 00:13:51,498 --> 00:13:54,366
-    by lowering the top half    
-      onto the bottom half.     
+by lowering the top half onto the bottom half.     
 
 225
 00:13:56,970 --> 00:14:01,039
-   then they inject the epoxy.  
+then they inject the epoxy.  
 
 226
 00:14:01,041 --> 00:14:07,779
@@ -1078,567 +919,488 @@ mold to 158 degrees fahrenheit.
 
 227
 00:14:07,781 --> 00:14:09,647
- this aids the chemical reaction
+this aids the chemical reaction
 
 228
 00:14:09,649 --> 00:14:12,049
-             between            
-  the epoxy's two components -- 
+between the epoxy's two components -- 
 
 229
 00:14:12,051 --> 00:14:14,586
-     a resin and a hardener.    
+a resin and a hardener.    
 
 230
 00:14:14,588 --> 00:14:18,724
-         after 9½ hours,        
-    the epoxy is fully cured.   
+after 9½ hours, the epoxy is fully cured.   
 
 231
 00:14:18,726 --> 00:14:20,258
-      with overhead cranes,     
+with overhead cranes,     
 
 232
 00:14:20,260 --> 00:14:23,127
-         they lift away         
-    the top half of the mold,   
+they lift away the top half of the mold,   
 
 233
 00:14:23,129 --> 00:14:26,864
-    revealing a turbine blade   
- measuring up to 60 yards long, 
+revealing a turbine blade measuring up to 60 yards long, 
 
 234
 00:14:26,866 --> 00:14:31,236
-  weighing in at about 10 tons. 
+weighing in at about 10 tons. 
 
 235
 00:14:37,744 --> 00:14:41,279
 using lifting devices positioned
-     at specific locations,     
+at specific locations,     
 
 236
 00:14:41,281 --> 00:14:45,149
-  they slowly extract the blade 
+they slowly extract the blade 
 from the bottom half of the mold
 
 237
 00:14:45,151 --> 00:14:52,057
-     and lay it onto a stand    
-      to cool for 4½ hours.     
+and lay it onto a stand to cool for 4½ hours.     
 
 238
 00:14:57,430 --> 00:15:01,232
- workers then transfer the blade
-  to a mill-and-drill machine,  
+workers then transfer the blade
+to a mill-and-drill machine,  
 
 239
 00:15:01,234 --> 00:15:04,770
-    which shapes the open end   
-  to align with the rotor hub.  
+which shapes the open end to align with the rotor hub.  
 
 240
 00:15:04,772 --> 00:15:08,372
-  the machine also drills holes 
-      for the 54 pin bolts      
+the machine also drills holes for the 54 pin bolts      
 
 241
 00:15:08,374 --> 00:15:10,909
-   that will fasten the blade   
-           to the hub.          
+that will fasten the blade to the hub.          
 
 242
 00:15:10,911 --> 00:15:14,246
-    next, workers grind away    
-   the seam of hardened epoxy   
+next, workers grind away the seam of hardened epoxy   
 
 243
 00:15:14,248 --> 00:15:17,449
 that formed where the two halves
-         of the mold met        
+of the mold met        
 
 244
 00:15:17,451 --> 00:15:20,518
-      and sand the surface      
-        perfectly smooth.       
+and sand the surface perfectly smooth.       
 
 245
 00:15:20,520 --> 00:15:24,121
-    then they spray the blade   
-     with a coat of primer,     
+then they spray the blade with a coat of primer,     
 
 246
 00:15:24,123 --> 00:15:26,324
-       which they let cure      
-         for six hours.         
+which they let cure for six hours.         
 
 247
 00:15:26,326 --> 00:15:28,860
-           then a coat          
-      of epoxy-based paint,     
+then a coat of epoxy-based paint,     
 
 248
 00:15:28,862 --> 00:15:31,796
-        letting that cure       
-     for about eight hours.     
+letting that cure for about eight hours.     
 
 249
 00:15:31,798 --> 00:15:35,533
-       then workers insert      
-       those 54 pin bolts       
+then workers insert those 54 pin bolts       
 
 250
 00:15:35,535 --> 00:15:38,603
-  made of a particularly strong 
-         grade of steel         
+made of a particularly strong grade of steel         
 
 251
 00:15:38,605 --> 00:15:41,205
-        and tighten them        
-      with a torque wrench.     
+and tighten them with a torque wrench.     
 
 252
 00:15:41,207 --> 00:15:44,543
-     after this, they weigh     
-   each blade on a floor scale  
+after this, they weigh each blade on a floor scale  
 
 253
 00:15:44,545 --> 00:15:48,213
-     and group three blades     
-  of similar weight per turbine 
+and group three blades of similar weight per turbine 
 
 254
 00:15:48,215 --> 00:15:51,483
-     to ensure the rotation     
-        will be balanced.       
+to ensure the rotation will be balanced.       
 
 255
 00:15:51,485 --> 00:15:54,886
-       the install a cover      
+the install a cover      
 over the opened end of the blade
 
 256
 00:15:54,888 --> 00:15:57,222
-        to prevent debris       
-       from falling inside      
+to prevent debris from falling inside      
 
 257
 00:15:57,224 --> 00:15:59,491
-        during transport        
-        to the wind farm.       
+during transport to the wind farm.       
 
 258
 00:16:01,695 --> 00:16:04,963
-    upon arrival, crews bolt    
-  three blades to a rotor hub,  
+upon arrival, crews bolt three blades to a rotor hub,  
 
 259
 00:16:04,965 --> 00:16:08,233
-      then hoist the rotor      
- to the top of the turbine tower
+then hoist the rotor to the top of the turbine tower
 
 260
 00:16:08,235 --> 00:16:11,102
- and connect it to the nacelle. 
+and connect it to the nacelle. 
 
 261
 00:16:26,786 --> 00:16:29,120
-      narrator: the nacelle     
-  is the part of a wind turbine 
+narrator: the nacelle is the part of a wind turbine 
 
 262
 00:16:29,122 --> 00:16:31,323
-   which transforms wind power  
-        into electricity.       
+which transforms wind power into electricity.       
 
 263
 00:16:31,325 --> 00:16:33,191
-  with the rotor mounted to it, 
+with the rotor mounted to it, 
 
 264
 00:16:33,193 --> 00:16:35,660
-       the nacelle houses       
-       a giant drivetrain.      
+the nacelle houses a giant drivetrain.      
 
 265
 00:16:35,662 --> 00:16:39,397
-  it multiplies the rotational  
-  speed of the spinning blades  
+it multiplies the rotational speed of the spinning blades  
 
 266
 00:16:39,399 --> 00:16:41,933
-        then transfers it       
-     to a massive generator,    
+then transfers it to a massive generator,    
 
 267
 00:16:41,935 --> 00:16:43,568
-   which produces electricity.  
+which produces electricity.  
 
 268
 00:16:46,874 --> 00:16:50,008
-     a wind turbine's rotor     
-     is made of three blades    
+a wind turbine's rotor is made of three blades    
 
 269
 00:16:50,010 --> 00:16:51,342
-       attached to a hub.       
+attached to a hub.       
 
 270
 00:16:51,344 --> 00:16:54,212
-      the hub alone weighs      
-       more than 30 tons.       
+the hub alone weighs more than 30 tons.       
 
 271
 00:16:54,214 --> 00:16:58,750
-  it's cast from ductile iron,  
-  a strong grade of cast iron.  
+it's cast from ductile iron, a strong grade of cast iron.  
 
 272
 00:17:01,287 --> 00:17:04,422
 at the factory, they use a crane
-       to hoist and affix       
+to hoist and affix       
 
 273
 00:17:04,424 --> 00:17:06,958
-         the hub casting        
-     to an assembly fixture.    
+the hub casting to an assembly fixture.    
 
 274
 00:17:06,960 --> 00:17:11,963
-   this fixture holds the hub   
+this fixture holds the hub   
 securely in a suspended position
 
 275
 00:17:11,965 --> 00:17:14,299
- while workers mount components 
-             to it,             
+while workers mount components to it,             
 
 276
 00:17:14,301 --> 00:17:16,434
-            starting            
-   with three blade bearings.   
+starting with three blade bearings.   
 
 277
 00:17:16,436 --> 00:17:19,103
-         a blade bearing        
-     is a giant ball bearing    
+a blade bearing is a giant ball bearing    
 
 278
 00:17:19,105 --> 00:17:21,105
- to which the blade is attached.
+to which the blade is attached.
 
 279
 00:17:21,107 --> 00:17:24,241
-        when it rotates,        
-       the blade pitches,       
+when it rotates, the blade pitches,       
 
 280
 00:17:24,243 --> 00:17:26,377
-    meaning it changes angle.   
+meaning it changes angle.   
 
 281
 00:17:26,379 --> 00:17:29,046
-    blades need to be pitched   
-    to better catch the wind    
+blades need to be pitched to better catch the wind    
 
 282
 00:17:29,048 --> 00:17:31,783
-  and to spin at optimal speed. 
+and to spin at optimal speed. 
 
 283
 00:17:31,785 --> 00:17:37,588
 each bearing attaches to the hub
-       with 54 huge bolts.      
+with 54 huge bolts.      
 
 284
 00:17:37,590 --> 00:17:41,192
-   the next hub components --   
-      three accumulators --     
+the next hub components -- three accumulators --     
 
 285
 00:17:41,194 --> 00:17:43,261
-   one for each blade bearing.  
+one for each blade bearing.  
 
 286
 00:17:43,263 --> 00:17:47,065
-      an accumulator stores     
-  hydraulic oil under pressure. 
+an accumulator stores hydraulic oil under pressure. 
 
 287
 00:17:47,067 --> 00:17:49,868
-         this oil moves         
-      hydraulic cylinders,      
+this oil moves hydraulic cylinders,      
 
 288
 00:17:49,870 --> 00:17:53,538
- which rotate the blade bearing 
-       to pitch the blade.      
+which rotate the blade bearing to pitch the blade.      
 
 289
 00:17:53,540 --> 00:17:56,141
-        workers assemble        
-        each accumulator,       
+workers assemble each accumulator,       
 
 290
 00:17:56,143 --> 00:17:59,744
-        mount its cover,        
+mount its cover,        
 
 291
 00:17:59,746 --> 00:18:02,581
-         then install it        
-       on a blade bearing.      
+then install it on a blade bearing.      
 
 292
 00:18:09,489 --> 00:18:11,423
-   once all three accumulators  
+once all three accumulators  
 
 293
 00:18:11,425 --> 00:18:13,891
-      and other components      
-         are installed,         
+and other components are installed,         
 
 294
 00:18:13,893 --> 00:18:15,293
-      the hub is finished.      
+the hub is finished.      
 
 295
 00:18:15,295 --> 00:18:17,829
-         they remove it         
-    from the assembly fixture   
+they remove it from the assembly fixture   
 
 296
 00:18:17,831 --> 00:18:20,431
-   and put a fiberglass cover   
-        over each bearing       
+and put a fiberglass cover over each bearing       
 
 297
 00:18:20,433 --> 00:18:22,133
- to protect the workings inside.
+to protect the workings inside.
 
 298
 00:18:24,972 --> 00:18:27,104
- meanwhile, in the same factory,
+meanwhile, in the same factory,
 
 299
 00:18:27,106 --> 00:18:30,041
-        workers assemble        
-   the wind turbine's nacelle.  
+workers assemble the wind turbine's nacelle.  
 
 300
 00:18:30,043 --> 00:18:31,509
-       first, they lay out      
+first, they lay out      
 
 301
 00:18:31,511 --> 00:18:34,379
-       the bottom section       
-      of its steel housing,     
+the bottom section of its steel housing,     
 
 302
 00:18:34,381 --> 00:18:37,582
-       then they assemble       
-         the yaw system,        
+then they assemble the yaw system,        
 
 303
 00:18:37,584 --> 00:18:40,919
- the key component that enables 
-      the nacelle and rotor     
+the key component that enables the nacelle and rotor     
 
 304
 00:18:40,921 --> 00:18:43,721
-     to rotate 360 degrees.     
+to rotate 360 degrees.     
 
 305
 00:18:43,723 --> 00:18:45,723
-           they mount           
-     a large stationary gear    
+they mount a large stationary gear    
 
 306
 00:18:45,725 --> 00:18:47,992
-          in the center         
-   of the system's mainframe.   
+in the center of the system's mainframe.   
 
 307
 00:18:47,994 --> 00:18:51,596
-    then, on the reverse side   
-        of the mainframe,       
+then, on the reverse side of the mainframe,       
 
 308
 00:18:51,598 --> 00:18:53,998
-  they install eight yaw gears. 
+they install eight yaw gears. 
 
 309
 00:18:54,000 --> 00:18:58,570
- these smaller gears engage the 
- large gear on the other side.  
+these smaller gears engage the large gear on the other side.  
 
 310
 00:19:00,874 --> 00:19:05,410
- fully assembled, the mainframe 
-    weighs more than 22 tons.   
+fully assembled, the mainframe weighs more than 22 tons.   
 
 311
 00:19:05,412 --> 00:19:09,280
- workers hoist it with a crane, 
-         then install it        
+workers hoist it with a crane, then install it        
 
 312
 00:19:09,282 --> 00:19:12,550
-     into the bottom section    
- of the nacelle's steel housing.
+into the bottom section of the nacelle's steel housing.
 
 313
 00:19:12,552 --> 00:19:13,885
-    they connect the gearbox    
+they connect the gearbox    
 
 314
 00:19:13,887 --> 00:19:16,620
-           to the rest          
-  of the nacelle's drivetrain.  
+to the rest of the nacelle's drivetrain.  
 
 315
 00:19:16,622 --> 00:19:19,490
 it works like a car transmission
-           in reverse.          
+in reverse.          
 
 316
 00:19:19,492 --> 00:19:22,694
-   while the car transmission   
+while the car transmission   
 takes combustion-produced energy
 
 317
 00:19:22,696 --> 00:19:25,763
-  and turns it into rotation -- 
-   the car wheel's turning --   
+and turns it into rotation -- the car wheel's turning --   
 
 318
 00:19:25,765 --> 00:19:28,299
-     the nacelle drivetrain     
-        takes rotation --       
+the nacelle drivetrain takes rotation --       
 
 319
 00:19:28,301 --> 00:19:30,435
-       the blades spinning      
-         in the wind --         
+the blades spinning in the wind --         
 
 320
 00:19:30,437 --> 00:19:32,370
-          and turns it          
-     into electrical energy.    
+and turns it into electrical energy.    
 
 321
 00:19:32,372 --> 00:19:33,838
-  those spinning blades rotate  
+those spinning blades rotate  
 
 322
 00:19:33,840 --> 00:19:36,975
-        the drivetrain's        
-      massive steel shaft.      
+the drivetrain's massive steel shaft.      
 
 323
 00:19:36,977 --> 00:19:40,445
- the opposite end of that shaft 
-    connects to the gearbox.    
+the opposite end of that shaft connects to the gearbox.    
 
 324
 00:19:40,447 --> 00:19:43,248
-       the gear's multiply      
-     the speed of rotation,     
+the gear's multiply the speed of rotation,     
 
 325
 00:19:43,250 --> 00:19:44,849
-   rotating the second shaft,   
+rotating the second shaft,   
 
 326
 00:19:44,851 --> 00:19:47,118
-     which they now connect     
-         to a generator,        
+which they now connect to a generator,        
 
 327
 00:19:47,120 --> 00:19:49,387
-        installed inside        
-      the nacelle housing.      
+installed inside the nacelle housing.      
 
 328
 00:19:49,389 --> 00:19:52,056
-        the second shaft        
-      powers the generator,     
+the second shaft powers the generator,     
 
 329
 00:19:52,058 --> 00:19:53,858
-   which produces electricity.  
+which produces electricity.  
 
 330
 00:19:53,860 --> 00:19:57,262
- after connecting the drivetrain
-        to the generator,       
+after connecting the drivetrain
+to the generator,       
 
 331
 00:19:57,264 --> 00:20:00,397
-         workers install        
- the top section of the housing,
+workers install the top section of the housing,
 
 332
 00:20:00,399 --> 00:20:03,368
-     as well as access doors    
-      for maintenance work.     
+as well as access doors for maintenance work.     
 
 333
 00:20:06,206 --> 00:20:08,807
-           technicians          
-      conduct various tests     
+technicians conduct various tests     
 
 334
 00:20:08,809 --> 00:20:11,609
-          to make sure          
-    everything runs properly.   
+to make sure everything runs properly.   
 
 335
 00:20:11,611 --> 00:20:15,547
 here, they are verifying the fan
-    that cools the generator.   
+that cools the generator.   
 
 336
 00:20:26,226 --> 00:20:30,361
- the finished nacelle looks like
-      a mammoth aa battery.     
+the finished nacelle looks like
+a mammoth aa battery.     
 
 337
 00:20:30,363 --> 00:20:33,030
-       it weighs 85 tons.       
+it weighs 85 tons.       
 
 338
 00:20:33,032 --> 00:20:35,867
-       nearly half of that      
-       is the drivetrain.       
+nearly half of that is the drivetrain.       
 
 339
 00:20:38,905 --> 00:20:41,906
-         the plant ships        
-  both the nacelle and the hub  
+the plant ships both the nacelle and the hub  
 
 340
 00:20:41,908 --> 00:20:45,376
-   separately to the wind farm  
-    by either truck or rail.    
+separately to the wind farm by either truck or rail.    
 
 341
 00:20:45,378 --> 00:20:47,712
-     the blades are shipped     
-           to the farm          
+the blades are shipped to the farm          
 
 342
 00:20:47,714 --> 00:20:50,949
-      from another factory      
- and the tower from yet another.
+from another factory and the tower from yet another.
 
 343
 00:20:54,588 --> 00:20:58,857
-    once all the parts arrive   
-  on site, assembly can begin.  
+once all the parts arrive on site, assembly can begin.  
 
 344
 00:20:58,859 --> 00:21:01,459
-  crews first direct the tower. 
+crews first direct the tower. 
 
 345
 00:21:01,461 --> 00:21:05,396
@@ -1647,39 +1409,33 @@ the way to the top and mount it.
 
 346
 00:21:05,398 --> 00:21:07,799
-         on the ground,         
-     they assemble the rotor    
+on the ground, they assemble the rotor    
 
 347
 00:21:07,801 --> 00:21:10,201
-    by installing the blades    
-           in the hub.          
+by installing the blades in the hub.          
 
 348
 00:21:10,203 --> 00:21:14,205
-    then they hoist the rotor   
-     to the top of the tower    
+then they hoist the rotor to the top of the tower    
 
 349
 00:21:14,207 --> 00:21:16,474
-  and mount it to the nacelle.  
+and mount it to the nacelle.  
 
 350
 00:21:16,476 --> 00:21:20,545
-     and from that point on,    
-   the wind does all the work.  
+and from that point on, the wind does all the work.  
 
 351
 00:21:32,959 --> 00:21:35,292
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 352
 00:21:35,294 --> 00:21:37,762
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 353
 00:21:37,764 --> 00:21:39,898
-      drop us a line at...      
+drop us a line at...      
 

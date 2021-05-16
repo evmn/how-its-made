@@ -1,167 +1,142 @@
 ﻿1
 00:00:20,288 --> 00:00:23,355
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:23,357 --> 00:00:26,325
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 3
 00:00:51,719 --> 00:00:53,785
- narrator: surgical instruments 
-          have evolved          
+narrator: surgical instruments have evolved          
 
 4
 00:00:53,787 --> 00:00:55,187
-  with the science of medicine. 
+with the science of medicine. 
 
 5
 00:00:55,189 --> 00:00:57,523
-     they actually date back    
-       thousands of years,      
+they actually date back thousands of years,      
 
 6
 00:00:57,525 --> 00:00:59,791
-       when primitive man       
-      used crude implements     
+when primitive man used crude implements     
 
 7
 00:00:59,793 --> 00:01:03,062
-     to cut holes in skulls     
-    to release evil spirits.    
+to cut holes in skulls to release evil spirits.    
 
 8
 00:01:03,064 --> 00:01:05,998
-         medical science        
- has come a long way since then,
+medical science has come a long way since then,
 
 9
 00:01:06,000 --> 00:01:09,302
-   and today's surgical tools   
-   are among its advancements.  
+and today's surgical tools are among its advancements.  
 
 10
 00:01:11,539 --> 00:01:13,606
-          in the hands          
-      of a skilled surgeon,     
+in the hands of a skilled surgeon,     
 
 11
 00:01:13,608 --> 00:01:15,741
-         the right tool         
-       can be a lifesaver.      
+the right tool can be a lifesaver.      
 
 12
 00:01:15,743 --> 00:01:18,010
-     there are now hundreds     
-         to choose from,        
+there are now hundreds to choose from,        
 
 13
 00:01:18,012 --> 00:01:22,147
-        each designed for       
-  a specific task or operation. 
+each designed for a specific task or operation. 
 
 14
 00:01:22,149 --> 00:01:24,082
- made of surgical-grade steel --
+made of surgical-grade steel --
 
 15
 00:01:24,084 --> 00:01:26,619
-       which is extremely       
-     corrosion-resistant --     
+which is extremely corrosion-resistant --     
 
 16
 00:01:26,621 --> 00:01:30,088
-   they can withstand frequent  
-    cleaning and sterilizing.   
+they can withstand frequent cleaning and sterilizing.   
 
 17
 00:01:30,090 --> 00:01:33,692
-  one of the more useful tools  
- is a self-retaining retractor, 
+one of the more useful tools is a self-retaining retractor, 
 
 18
 00:01:33,694 --> 00:01:36,428
-   which is used to pull back   
-        tissues or organs       
+which is used to pull back tissues or organs       
 
 19
 00:01:36,430 --> 00:01:38,030
-         during surgery.        
+during surgery.        
 
 20
 00:01:38,032 --> 00:01:39,831
-    using a circular cutter,    
+using a circular cutter,    
 
 21
 00:01:39,833 --> 00:01:43,102
-           they round           
+they round           
 the profile of the tool's joint.
 
 22
 00:01:43,104 --> 00:01:45,638
-        this round joint        
-     allows the tool to open    
+this round joint allows the tool to open    
 
 23
 00:01:45,640 --> 00:01:48,707
-  when the shanks are shut, the 
- opposite of a pair of scissors.
+when the shanks are shut, the opposite of a pair of scissors.
 
 24
 00:01:48,709 --> 00:01:51,644
-    next, cutters carve slots   
-          in two parts          
+next, cutters carve slots in two parts          
 
 25
 00:01:51,646 --> 00:01:54,780
-    to create the retractor's   
-       intermeshing jaws.       
+to create the retractor's intermeshing jaws.       
 
 26
 00:01:54,782 --> 00:01:58,851
-     these jaws will be used    
+these jaws will be used    
 to grasp and retract body tissue
 
 27
 00:01:58,853 --> 00:02:00,919
-   so the surgeon can operate.  
+so the surgeon can operate.  
 
 28
 00:02:00,921 --> 00:02:04,657
-  a technician sands the teeth  
-     down to a precise size.    
+a technician sands the teeth down to a precise size.    
 
 29
 00:02:04,659 --> 00:02:08,427
-   he must be accurate within   
-   a quarter of a millimeter.   
+he must be accurate within a quarter of a millimeter.   
 
 30
 00:02:10,598 --> 00:02:14,466
 he then smoothes the jaw's teeth
-    against a fine-grit wheel   
+against a fine-grit wheel   
 
 31
 00:02:14,468 --> 00:02:17,536
-   so they'll easily intermesh  
-          when needed.          
+so they'll easily intermesh when needed.          
 
 32
 00:02:17,538 --> 00:02:21,140
- he rounds the tips of the teeth
-       to make them blunt       
+he rounds the tips of the teeth
+to make them blunt       
 
 33
 00:02:21,142 --> 00:02:23,209
-      so they won't damage      
-          human tissue.         
+so they won't damage human tissue.         
 
 34
 00:02:23,211 --> 00:02:25,478
-         he hammers back        
-     the tips of the teeth,     
+he hammers back the tips of the teeth,     
 
 35
 00:02:25,480 --> 00:02:27,980
@@ -169,110 +144,97 @@ giving them a claw-like profile.
 
 36
 00:02:30,218 --> 00:02:31,951
-  with the teeth now complete,  
+with the teeth now complete,  
 
 37
 00:02:31,953 --> 00:02:35,154
- attention returns to the round 
-    joint of the instrument.    
+attention returns to the round joint of the instrument.    
 
 38
 00:02:35,156 --> 00:02:37,022
-        the carved slots        
-        and counter-sync        
+the carved slots and counter-sync        
 
 39
 00:02:37,024 --> 00:02:40,159
-       allow the two sides      
-   to fit together perfectly.   
+allow the two sides to fit together perfectly.   
 
 40
 00:02:40,161 --> 00:02:43,763
-   they install a part called   
-   the rack, below the joint,   
+they install a part called the rack, below the joint,   
 
 41
 00:02:43,765 --> 00:02:45,965
-     and file teeth into it.    
+and file teeth into it.    
 
 42
 00:02:45,967 --> 00:02:49,301
 it will be used to lock the tool
-      in an open position.      
+in an open position.      
 
 43
 00:02:49,303 --> 00:02:50,569
-      after heat treatment,     
+after heat treatment,     
 
 44
 00:02:50,571 --> 00:02:53,038
-         a worker sands         
-     all the tool components    
+a worker sands all the tool components    
 
 45
 00:02:53,040 --> 00:02:55,474
-     to smooth sharp edges.     
+to smooth sharp edges.     
 
 46
 00:02:58,979 --> 00:03:01,981
-    vibrating porcelain chips   
-     and polishing compound     
+vibrating porcelain chips and polishing compound     
 
 47
 00:03:01,983 --> 00:03:06,452
-   scrub them clean and remove  
-   burrs caused by machining.   
+scrub them clean and remove burrs caused by machining.   
 
 48
 00:03:06,454 --> 00:03:10,056
-  next, they install the pivot  
- screw and trigger for the rack.
+next, they install the pivot screw and trigger for the rack.
 
 49
 00:03:10,058 --> 00:03:11,390
-         by pressing it,        
+by pressing it,        
 
 50
 00:03:11,392 --> 00:03:15,127
- the surgeon can open the prongs
-      to the desired width      
+the surgeon can open the prongs
+to the desired width      
 
 51
 00:03:15,129 --> 00:03:17,663
- and lock the tool in position. 
+and lock the tool in position. 
 
 52
 00:03:19,734 --> 00:03:22,601
-      production now moves      
-     to the surgical clamp.     
+production now moves to the surgical clamp.     
 
 53
 00:03:22,603 --> 00:03:25,671
-   it's used to block the flow  
-   of blood during operations   
+it's used to block the flow of blood during operations   
 
 54
 00:03:25,673 --> 00:03:28,140
-             and has            
-  a more scissors-like joint -- 
+and has a more scissors-like joint -- 
 
 55
 00:03:28,142 --> 00:03:30,409
-  rectangular instead of round. 
+rectangular instead of round. 
 
 56
 00:03:30,411 --> 00:03:34,880
-       mechanized cutters       
-  carve the joint and catches.  
+mechanized cutters carve the joint and catches.  
 
 57
 00:03:34,882 --> 00:03:36,748
- a worker forces the finger bows
+a worker forces the finger bows
 
 58
 00:03:36,750 --> 00:03:38,951
-             against            
-    a spinning grinding wheel   
+against a spinning grinding wheel   
 
 59
 00:03:38,953 --> 00:03:41,887
@@ -280,487 +242,420 @@ to remove surface imperfections.
 
 60
 00:03:43,891 --> 00:03:46,224
-  precision is again critical,  
+precision is again critical,  
 
 61
 00:03:46,226 --> 00:03:49,094
-      as the worker grinds      
-    each of the tool's shanks   
+as the worker grinds each of the tool's shanks   
 
 62
 00:03:49,096 --> 00:03:50,629
-    to the correct thickness.   
+to the correct thickness.   
 
 63
 00:03:50,631 --> 00:03:54,166
-     he measures to confirm     
-   that the size is consistent  
+he measures to confirm that the size is consistent  
 
 64
 00:03:54,168 --> 00:03:55,568
-  along the length of the part. 
+along the length of the part. 
 
 65
 00:03:55,570 --> 00:04:00,272
-    he then files the joints    
-    so they mate perfectly.     
+he then files the joints so they mate perfectly.     
 
 66
 00:04:03,044 --> 00:04:07,112
-   he places the joint part of  
+he places the joint part of  
 one of the shanks over hot coals
 
 67
 00:04:07,114 --> 00:04:10,515
-       to soften the metal      
-     and make it malleable.     
+to soften the metal and make it malleable.     
 
 68
 00:04:10,517 --> 00:04:13,985
-     then he forces a spike     
-  through a slit in the joint,  
+then he forces a spike through a slit in the joint,  
 
 69
 00:04:13,987 --> 00:04:18,124
-   and the now-compliant steel  
-   stretches to open the slit.  
+and the now-compliant steel stretches to open the slit.  
 
 70
 00:04:18,126 --> 00:04:21,260
-   the other shank now slides   
-    easily into the opening.    
+the other shank now slides easily into the opening.    
 
 71
 00:04:21,262 --> 00:04:23,862
-      he hammers the joint      
-      to close the opening,     
+he hammers the joint to close the opening,     
 
 72
 00:04:23,864 --> 00:04:26,265
-        and the two arms        
-     of this surgical clamp     
+and the two arms of this surgical clamp     
 
 73
 00:04:26,267 --> 00:04:28,167
-    are now hinged together.    
+are now hinged together.    
 
 74
 00:04:30,671 --> 00:04:33,205
-          next he files         
-     the teeth of the clamp     
+next he files the teeth of the clamp     
 
 75
 00:04:33,207 --> 00:04:36,609
-      so they'll interlock      
-    when the tool is closed.    
+so they'll interlock when the tool is closed.    
 
 76
 00:04:40,014 --> 00:04:42,614
-      he bends the two ends     
-          around a tool         
+he bends the two ends around a tool         
 
 77
 00:04:42,616 --> 00:04:45,150
- to form the jaws of the clamp. 
+to form the jaws of the clamp. 
 
 78
 00:04:45,152 --> 00:04:47,619
-       these curved jaws        
-       will come in handy       
+these curved jaws will come in handy       
 
 79
 00:04:47,621 --> 00:04:50,956
- when the surgeon needs to reach
-     around organs or bone.     
+when the surgeon needs to reach
+around organs or bone.     
 
 80
 00:04:50,958 --> 00:04:54,159
- next, using a variety of tools,
+next, using a variety of tools,
 
 81
 00:04:54,161 --> 00:04:56,562
-           he adjusts           
- the shanks and the finger bows 
+he adjusts the shanks and the finger bows 
 
 82
 00:04:56,564 --> 00:04:58,764
-          to give them          
-     a more ergonomic feel.     
+to give them a more ergonomic feel.     
 
 83
 00:04:58,766 --> 00:05:02,368
-   this is called soft-setting  
-     because at this point,     
+this is called soft-setting because at this point,     
 
 84
 00:05:02,370 --> 00:05:06,171
-       the metal is still       
- soft enough to be manipulated. 
+the metal is still soft enough to be manipulated. 
 
 85
 00:05:06,173 --> 00:05:08,507
- he tweaks the bend of the jaws 
+he tweaks the bend of the jaws 
 
 86
 00:05:08,509 --> 00:05:11,043
-      until he's satisfied      
-      with the curvature.       
+until he's satisfied with the curvature.       
 
 87
 00:05:12,580 --> 00:05:15,314
-           he smoothes          
-  the inside of the finger bows 
+he smoothes the inside of the finger bows 
 
 88
 00:05:15,316 --> 00:05:17,383
-   with a fine abrasive belt.   
+with a fine abrasive belt.   
 
 89
 00:05:17,385 --> 00:05:20,051
-      after heat treatment      
-    to strengthen the metal,    
+after heat treatment to strengthen the metal,    
 
 90
 00:05:20,053 --> 00:05:22,854
-          they blast it         
-    with fine glass particles   
+they blast it with fine glass particles   
 
 91
 00:05:22,856 --> 00:05:24,657
-   to give it a satin finish.   
+to give it a satin finish.   
 
 92
 00:05:24,659 --> 00:05:28,260
 they laser-etch the company name
-     and identifying numbers    
+and identifying numbers    
 
 93
 00:05:28,262 --> 00:05:29,862
-    onto the surgical clamp.    
+onto the surgical clamp.    
 
 94
 00:05:29,864 --> 00:05:32,064
-           the numbers          
+the numbers          
 will allow the tool to be traced
 
 95
 00:05:32,066 --> 00:05:34,667
-      back to a particular      
-         production run.        
+back to a particular production run.        
 
 96
 00:05:34,669 --> 00:05:37,202
-       and now it's ready       
-       to take its place        
+and now it's ready to take its place        
 
 97
 00:05:37,204 --> 00:05:39,471
-       on the front lines       
-         of healthcare.         
+on the front lines of healthcare.         
 
 98
 00:05:54,121 --> 00:05:56,422
-            narrator:           
+narrator:           
 ketchup has a questionable past.
 
 99
 00:05:56,424 --> 00:05:57,690
-    according to one theory,    
+according to one theory,    
 
 100
 00:05:57,692 --> 00:06:01,160
-    it comes from the chinese   
-  "kê-chiap," a type of sauce.  
+it comes from the chinese "kê-chiap," a type of sauce.  
 
 101
 00:06:01,162 --> 00:06:04,163
-    another theory traces it    
-  to european pickling sauces,  
+another theory traces it to european pickling sauces,  
 
 102
 00:06:04,165 --> 00:06:06,365
-         and yet another        
-     claims arabic origins.     
+and yet another claims arabic origins.     
 
 103
 00:06:06,367 --> 00:06:09,434
 but there's widespread agreement
-     on where it ends up --     
+on where it ends up --     
 
 104
 00:06:09,436 --> 00:06:12,838
-    on hot dogs, hamburgers,    
-        and french fries.       
+on hot dogs, hamburgers, and french fries.       
 
 105
 00:06:15,643 --> 00:06:19,244
-     tomato ketchup recipes     
-       vary only slightly,      
+tomato ketchup recipes vary only slightly,      
 
 106
 00:06:19,246 --> 00:06:22,848
-  as consumers expect a certain 
-    familiar tomatoey taste.    
+as consumers expect a certain familiar tomatoey taste.    
 
 107
 00:06:22,850 --> 00:06:25,317
-   this u.s. company produces   
-       all-natural ketchup      
+this u.s. company produces all-natural ketchup      
 
 108
 00:06:25,319 --> 00:06:29,321
-   made entirely of certified   
-     organic ingredients --     
+made entirely of certified organic ingredients --     
 
 109
 00:06:29,323 --> 00:06:33,659
-  tomato paste, agave nectar -- 
-     a natural sweetener --     
+tomato paste, agave nectar -- a natural sweetener --     
 
 110
 00:06:33,661 --> 00:06:38,230
-      onion powder, spices,     
-    salt, and white vinegar.    
+onion powder, spices, salt, and white vinegar.    
 
 111
 00:06:40,133 --> 00:06:42,400
-        the tomato paste,       
-        not surprisingly,       
+the tomato paste, not surprisingly,       
 
 112
 00:06:42,402 --> 00:06:44,136
-     is the base ingredient.    
+is the base ingredient.    
 
 113
 00:06:44,138 --> 00:06:47,539
-     it arrives at the plant    
-          in huge bins,         
+it arrives at the plant in huge bins,         
 
 114
 00:06:47,541 --> 00:06:51,410
-  which have been vacuum-packed 
-     to preserve freshness.     
+which have been vacuum-packed to preserve freshness.     
 
 115
 00:06:51,412 --> 00:06:53,812
-    after unsealing each bin,   
+after unsealing each bin,   
 
 116
 00:06:53,814 --> 00:06:56,215
-          the factory's         
-   quality-control technician   
+the factory's quality-control technician   
 
 117
 00:06:56,217 --> 00:06:58,216
-  scoops a sample for testing.  
+scoops a sample for testing.  
 
 118
 00:06:58,218 --> 00:07:01,219
-    this is to make sure that   
-  the thickness is just right.  
+this is to make sure that the thickness is just right.  
 
 119
 00:07:01,221 --> 00:07:03,288
-  if the sample gets the okay,  
+if the sample gets the okay,  
 
 120
 00:07:03,290 --> 00:07:07,359
-   workers slide the bin under  
-   a powerful air-driven pump.  
+workers slide the bin under a powerful air-driven pump.  
 
 121
 00:07:13,501 --> 00:07:15,033
-    then they flip a switch,    
+then they flip a switch,    
 
 122
 00:07:15,035 --> 00:07:17,769
-          and the pump          
- begins moving the tomato paste 
+and the pump begins moving the tomato paste 
 
 123
 00:07:17,771 --> 00:07:19,304
-    to a large holding tank,    
+to a large holding tank,    
 
 124
 00:07:19,306 --> 00:07:22,774
- transferring nearly 310 pounds 
-      of this ketchup base      
+transferring nearly 310 pounds of this ketchup base      
 
 125
 00:07:22,776 --> 00:07:24,877
-    in less than 10 minutes.    
+in less than 10 minutes.    
 
 126
 00:07:33,587 --> 00:07:37,189
-       at production time,      
-  an intricate system of piping 
+at production time, an intricate system of piping 
 
 127
 00:07:37,191 --> 00:07:40,125
-   transfers a specific amount  
-         of tomato paste        
+transfers a specific amount of tomato paste        
 
 128
 00:07:40,127 --> 00:07:43,262
-     from the holding tank      
-     into a cooking kettle.     
+from the holding tank into a cooking kettle.     
 
 129
 00:07:43,264 --> 00:07:47,532
-       as the paste cooks,      
-  a mixer continuously revolves 
+as the paste cooks, a mixer continuously revolves 
 
 130
 00:07:47,534 --> 00:07:49,868
-           to keep it           
-   from sticking to the sides   
+to keep it from sticking to the sides   
 
 131
 00:07:49,870 --> 00:07:53,739
 and to blend in the onion powder
-        workers add next.       
+workers add next.       
 
 132
 00:07:53,741 --> 00:07:55,474
-      this and the upcoming     
-           ingredients          
+this and the upcoming ingredients          
 
 133
 00:07:55,476 --> 00:07:56,875
-     have been pre-measured     
+have been pre-measured     
 
 134
 00:07:56,877 --> 00:07:59,778
-   to be in correct proportion  
-       to the batch size.       
+to be in correct proportion to the batch size.       
 
 135
 00:08:01,348 --> 00:08:03,415
- the next ingredients are salt, 
+the next ingredients are salt, 
 
 136
 00:08:03,417 --> 00:08:07,753
-  then, as a sugar replacement, 
-  nectar from the agave plant.  
+then, as a sugar replacement, nectar from the agave plant.  
 
 137
 00:08:07,755 --> 00:08:10,222
- they pour in an initial amount,
+they pour in an initial amount,
 
 138
 00:08:10,224 --> 00:08:13,625
-           mix a bit,           
-   then pump in the remainder.  
+mix a bit, then pump in the remainder.  
 
 139
 00:08:19,500 --> 00:08:23,335
-       the last ingredient      
-        is white vinegar.       
+the last ingredient is white vinegar.       
 
 140
 00:08:26,506 --> 00:08:29,241
-    for competitive reasons,    
-    the company won't divulge   
+for competitive reasons, the company won't divulge   
 
 141
 00:08:29,243 --> 00:08:32,444
- the mixing time, cooking time, 
-     or cooking temperature,    
+the mixing time, cooking time, or cooking temperature,    
 
 142
 00:08:32,446 --> 00:08:37,683
-  all of which are key elements 
-   of this top-secret recipe.   
+all of which are key elements of this top-secret recipe.   
 
 143
 00:08:40,721 --> 00:08:42,120
-     on the packaging line,     
+on the packaging line,     
 
 144
 00:08:42,122 --> 00:08:45,324
-   an alignment machine stands  
-   the plastic bottles upright  
+an alignment machine stands the plastic bottles upright  
 
 145
 00:08:45,326 --> 00:08:48,861
-     as they make their way     
-     to the filling machine.    
+as they make their way to the filling machine.    
 
 146
 00:08:48,863 --> 00:08:51,930
 the finished ketchup, meanwhile,
-       is passing through       
+is passing through       
 
 147
 00:08:51,932 --> 00:08:55,601
- an elaborate system of cooling 
- pipes en route to the filler.  
+an elaborate system of cooling pipes en route to the filler.  
 
 148
 00:08:55,603 --> 00:08:57,870
-   and let the bottling begin.  
+and let the bottling begin.  
 
 149
 00:09:01,075 --> 00:09:04,843
-        the machine fills       
-   eight bottles at a time...   
+the machine fills eight bottles at a time...   
 
 150
 00:09:06,747 --> 00:09:09,748
-   ...150 bottles per minute.   
+...150 bottles per minute.   
 
 151
 00:09:16,223 --> 00:09:19,691
-  the factory tests every batch 
-     of ketchup it produces     
+the factory tests every batch of ketchup it produces     
 
 152
 00:09:19,693 --> 00:09:22,961
-      to ensure the correct     
-  consistency in every bottle.  
+to ensure the correct consistency in every bottle.  
 
 153
 00:09:27,367 --> 00:09:30,302
-        the next machine,       
+the next machine,       
 appropriately called the capper,
 
 154
 00:09:30,304 --> 00:09:33,238
-    places a plastic flip-cap   
-         on each bottle,        
+places a plastic flip-cap on each bottle,        
 
 155
 00:09:33,240 --> 00:09:38,010
-  then, with spinning circular  
-  belts, twists it on securely. 
+then, with spinning circular belts, twists it on securely. 
 
 156
 00:09:41,315 --> 00:09:43,115
-        the next machine        
+the next machine        
 
 157
 00:09:43,117 --> 00:09:45,784
-   cuts a decorative neck band  
-      made of plastic film      
+cuts a decorative neck band made of plastic film      
 
 158
 00:09:45,786 --> 00:09:47,753
-   and slips it over the cap.   
+and slips it over the cap.   
 
 159
 00:09:54,728 --> 00:09:57,929
-           each bottle          
-  then passes under an air jet. 
+each bottle then passes under an air jet. 
 
 160
 00:09:57,931 --> 00:10:00,866
-             the air            
-  blows the neck band downward  
+the air blows the neck band downward  
 
 161
 00:10:00,868 --> 00:10:03,869
-      until it's positioned     
-         under the cap.         
+until it's positioned under the cap.         
 
 162
 00:10:03,871 --> 00:10:08,173
@@ -769,28 +664,24 @@ shrinks the band to a tight fit.
 
 163
 00:10:13,614 --> 00:10:16,815
-   the next machine presses on  
-     two adhesive labels --     
+the next machine presses on two adhesive labels --     
 
 164
 00:10:16,817 --> 00:10:20,152
- one on the front of the bottle,
-     the other on the back.     
+one on the front of the bottle,
+the other on the back.     
 
 165
 00:10:20,154 --> 00:10:24,355
-        then it's off to        
- the packing-and-shipping area. 
+then it's off to the packing-and-shipping area. 
 
 166
 00:10:24,357 --> 00:10:28,093
-   a sealed bottle of ketchup   
- stays fresh for at least a year
+a sealed bottle of ketchup stays fresh for at least a year
 
 167
 00:10:28,095 --> 00:10:31,496
-    because the vinegar in it   
- acts as a natural preservative.
+because the vinegar in it acts as a natural preservative.
 
 168
 00:10:31,498 --> 00:10:33,565
@@ -798,137 +689,117 @@ ketchup also has health benefits
 
 169
 00:10:33,567 --> 00:10:36,168
-          because it's          
-     chock full of tomatoes,    
+because it's chock full of tomatoes,    
 
 170
 00:10:36,170 --> 00:10:39,171
-  which are high in lycopene -- 
-     a powerful antioxidant     
+which are high in lycopene -- a powerful antioxidant     
 
 171
 00:10:39,173 --> 00:10:43,642
-       believed to protect      
-  against many types of cancer. 
+believed to protect against many types of cancer. 
 
 172
 00:10:56,723 --> 00:10:59,524
-  narrator: double-decker buses 
-    have long been a fixture    
+narrator: double-decker buses have long been a fixture    
 
 173
 00:10:59,526 --> 00:11:01,393
-         on the streets         
-       of london, england.      
+on the streets of london, england.      
 
 174
 00:11:01,395 --> 00:11:02,794
-     a typical double-decker    
+a typical double-decker    
 
 175
 00:11:02,796 --> 00:11:06,397
-     carries 60% more riders    
-       than a regular bus.      
+carries 60% more riders than a regular bus.      
 
 176
 00:11:06,399 --> 00:11:08,133
-           and though           
-    quintessentially british,   
+and though quintessentially british,   
 
 177
 00:11:08,135 --> 00:11:11,336
-      nowadays you'll find      
-   london style double-deckers  
+nowadays you'll find london style double-deckers  
 
 178
 00:11:11,338 --> 00:11:15,174
- on the streets of several major
-  cities throughout the world.  
+on the streets of several major
+cities throughout the world.  
 
 179
 00:11:16,877 --> 00:11:20,412
-   every bus design undergoes   
-   rigorous stability testing.  
+every bus design undergoes rigorous stability testing.  
 
 180
 00:11:20,414 --> 00:11:22,814
-     they fill the prototype    
-        with lead weights       
+they fill the prototype with lead weights       
 
 181
 00:11:22,816 --> 00:11:25,284
-           to simulate          
-     a full passenger load,     
+to simulate a full passenger load,     
 
 182
 00:11:25,286 --> 00:11:28,487
-        then tips the bus       
-      to a 28-degree angle,     
+then tips the bus to a 28-degree angle,     
 
 183
 00:11:28,489 --> 00:11:31,156
-  the side wheels lifting about 
- shoulder height off the ground.
+the side wheels lifting about shoulder height off the ground.
 
 184
 00:11:31,158 --> 00:11:33,225
-         if the vehicle         
-       doesn't keel over,       
+if the vehicle doesn't keel over,       
 
 185
 00:11:33,227 --> 00:11:36,761
-   the design passes the test.  
+the design passes the test.  
 
 186
 00:11:36,763 --> 00:11:39,097
-     the bus's underframe --    
-         the chassis --         
+the bus's underframe -- the chassis --         
 
 187
 00:11:39,099 --> 00:11:41,500
-    is made of welded steel.    
+is made of welded steel.    
 
 188
 00:11:41,502 --> 00:11:44,035
-        they construct it       
-  in three separate modules --  
+they construct it in three separate modules --  
 
 189
 00:11:44,037 --> 00:11:45,903
-   front, center, and rear --   
+front, center, and rear --   
 
 190
 00:11:45,905 --> 00:11:48,306
-   then set the three modules   
-       in an alignment jig      
+then set the three modules in an alignment jig      
 
 191
 00:11:48,308 --> 00:11:50,042
-     to be welded together.     
+to be welded together.     
 
 192
 00:11:50,044 --> 00:11:53,378
-        once that's done,       
-  welders add a steel structure 
+once that's done, welders add a steel structure 
 
 193
 00:11:53,380 --> 00:11:56,848
-   that'll support the floors,  
-     seats, and body panels.    
+that'll support the floors, seats, and body panels.    
 
 194
 00:11:56,850 --> 00:12:01,052
- then they clean the chassis and
- paint it with anti-rust epoxy. 
+then they clean the chassis and
+paint it with anti-rust epoxy. 
 
 195
 00:12:01,054 --> 00:12:02,787
-   after baking on the paint,   
+after baking on the paint,   
 
 196
 00:12:02,789 --> 00:12:06,791
- they seal the gaps between the 
- welded parts with polyurethane.
+they seal the gaps between the welded parts with polyurethane.
 
 197
 00:12:06,793 --> 00:12:08,860
@@ -936,70 +807,62 @@ this prevents water penetration,
 
 198
 00:12:08,862 --> 00:12:11,529
-        which would cause       
-       internal corrosion.      
+which would cause internal corrosion.      
 
 199
 00:12:11,531 --> 00:12:13,732
-   meanwhile, technicians bolt  
+meanwhile, technicians bolt  
 
 200
 00:12:13,734 --> 00:12:16,935
-         the 6-cylinder,        
-      250-horsepower engine     
+the 6-cylinder, 250-horsepower engine     
 
 201
 00:12:16,937 --> 00:12:18,870
-  to the automatic transmission 
+to the automatic transmission 
 
 202
 00:12:18,872 --> 00:12:22,274
- and connect the hydraulic lines
-        and other piping.       
+and connect the hydraulic lines
+and other piping.       
 
 203
 00:12:22,276 --> 00:12:26,744
 then they wheel this engine pack
-    over to the assembly line   
+over to the assembly line   
 
 204
 00:12:26,746 --> 00:12:30,081
-      and bolt it to a bar      
-   at the rear of the chassis.  
+and bolt it to a bar at the rear of the chassis.  
 
 205
 00:12:30,083 --> 00:12:33,418
- by suspending the engine, they 
-  shield it from impact damage  
+by suspending the engine, they shield it from impact damage  
 
 206
 00:12:33,420 --> 00:12:36,088
-          in the event          
-    of a rear-end collision.    
+in the event of a rear-end collision.    
 
 207
 00:12:36,090 --> 00:12:40,592
- they also install the radiator,
- battery, and other components. 
+they also install the radiator,
+battery, and other components. 
 
 208
 00:12:44,764 --> 00:12:46,498
-  at the front of the chassis,  
+at the front of the chassis,  
 
 209
 00:12:46,500 --> 00:12:48,700
-          they install          
-    the driver's binnacle --    
+they install the driver's binnacle --    
 
 210
 00:12:48,702 --> 00:12:51,436
-            on which            
-  all the controls are located. 
+on which all the controls are located. 
 
 211
 00:12:51,438 --> 00:12:53,572
-       unlike a stationary      
-         car dashboard,         
+unlike a stationary car dashboard,         
 
 212
 00:12:53,574 --> 00:12:57,375
@@ -1008,50 +871,44 @@ tilts with the steering column.
 
 213
 00:12:57,377 --> 00:13:00,511
-        after installing        
-    the front and rear axles,   
+after installing the front and rear axles,   
 
 214
 00:13:00,513 --> 00:13:02,381
-  technicians mount the wheels. 
+technicians mount the wheels. 
 
 215
 00:13:02,383 --> 00:13:07,452
- each one is more than a yard in
- diameter and weighs 100 pounds.
+each one is more than a yard in
+diameter and weighs 100 pounds.
 
 216
 00:13:07,454 --> 00:13:08,987
-      the engineering specs     
+the engineering specs     
 
 217
 00:13:08,989 --> 00:13:11,656
-  require the wheel nuts to be  
- turned to a specific tightness.
+require the wheel nuts to be turned to a specific tightness.
 
 218
 00:13:11,658 --> 00:13:14,592
-      workers also install      
-        the driver's seat       
+workers also install the driver's seat       
 
 219
 00:13:14,594 --> 00:13:17,529
-        and the vehicle's       
-       73-gallon gas tank.      
+and the vehicle's 73-gallon gas tank.      
 
 220
 00:13:17,531 --> 00:13:20,531
-      the complete chassis      
- goes onto a test-drive machine 
+the complete chassis goes onto a test-drive machine 
 
 221
 00:13:20,533 --> 00:13:23,001
-         which simulates        
-     varying passenger loads    
+which simulates varying passenger loads    
 
 222
 00:13:23,003 --> 00:13:24,803
-      and road conditions.      
+and road conditions.      
 
 223
 00:13:24,805 --> 00:13:27,338
@@ -1059,527 +916,454 @@ a camera pointed at the binnacle
 
 224
 00:13:27,340 --> 00:13:29,007
-      records the accuracy      
-       of the speedometer       
+records the accuracy of the speedometer       
 
 225
 00:13:29,009 --> 00:13:31,609
-           and whether          
- any warning lights illuminate. 
+and whether any warning lights illuminate. 
 
 226
 00:13:31,611 --> 00:13:33,411
- then it's in to the body shop, 
+then it's in to the body shop, 
 
 227
 00:13:33,413 --> 00:13:37,282
- where workers mount fiberglass 
-     boxes over the wheels.     
+where workers mount fiberglass boxes over the wheels.     
 
 228
 00:13:37,284 --> 00:13:40,017
-          another team          
-  builds the inter-deck floor,  
+another team builds the inter-deck floor,  
 
 229
 00:13:40,019 --> 00:13:41,620
-  the aluminum-frame structure  
+the aluminum-frame structure  
 
 230
 00:13:41,622 --> 00:13:43,889
-         that separates         
-      the bus's two levels.     
+that separates the bus's two levels.     
 
 231
 00:13:43,891 --> 00:13:47,826
-  they affix the lower level's  
-  melamine ceiling to one side  
+they affix the lower level's melamine ceiling to one side  
 
 232
 00:13:47,828 --> 00:13:51,029
-      and the upper deck's      
-   plywood floor to the other.  
+and the upper deck's plywood floor to the other.  
 
 233
 00:13:51,031 --> 00:13:54,099
-        to make the roof,       
+to make the roof,       
 they construct an aluminum frame
 
 234
 00:13:54,101 --> 00:13:56,835
-   then glue an aluminum sheet  
-            onto it.            
+then glue an aluminum sheet onto it.            
 
 235
 00:13:56,837 --> 00:13:59,905
-     most of the bus's body     
-       is made of aluminum      
+most of the bus's body is made of aluminum      
 
 236
 00:13:59,907 --> 00:14:02,374
-            because,            
-    compared to other metals,   
+because, compared to other metals,   
 
 237
 00:14:02,376 --> 00:14:05,510
-   it's lightweight, durable,   
-       and easy to repair.      
+it's lightweight, durable, and easy to repair.      
 
 238
 00:14:05,512 --> 00:14:07,779
-    next, they paint the roof   
+next, they paint the roof   
 
 239
 00:14:07,781 --> 00:14:10,715
-     and install components     
-     integrated within it,      
+and install components integrated within it,      
 
 240
 00:14:10,717 --> 00:14:13,985
-   such as the aerial antenna   
-     and wires for lighting.    
+such as the aerial antenna and wires for lighting.    
 
 241
 00:14:13,987 --> 00:14:16,320
-   as this computer animation   
-          illustrates,          
+as this computer animation illustrates,          
 
 242
 00:14:16,322 --> 00:14:20,325
-          step by step,         
- the bus is slowly taking shape.
+step by step, the bus is slowly taking shape.
 
 243
 00:14:20,327 --> 00:14:23,261
-     workers insert the pegs    
-       underneath the roof      
+workers insert the pegs underneath the roof      
 
 244
 00:14:23,263 --> 00:14:27,165
-  into aluminum pillars running 
+into aluminum pillars running 
 the perimeter of the upper deck.
 
 245
 00:14:29,836 --> 00:14:33,939
-    along the sides, workers    
-  sandwich the structural frame 
+along the sides, workers sandwich the structural frame 
 
 246
 00:14:33,941 --> 00:14:37,342
-     between inner and outer    
-      aluminum body panels.     
+between inner and outer aluminum body panels.     
 
 247
 00:14:37,344 --> 00:14:39,277
-             first,             
-   they affix the inner ones,   
+first, they affix the inner ones,   
 
 248
 00:14:39,279 --> 00:14:41,412
-         then they fill         
-      the spaces in between     
+then they fill the spaces in between     
 
 249
 00:14:41,414 --> 00:14:45,484
- with blocks of foam insulation.
+with blocks of foam insulation.
 
 250
 00:14:45,486 --> 00:14:48,553
-     finally, they glue on      
-     the outer side panels,     
+finally, they glue on the outer side panels,     
 
 251
 00:14:48,555 --> 00:14:51,689
 pressing out the excess adhesive
-          with a roller         
+with a roller         
 
 252
 00:14:51,691 --> 00:14:53,825
-  so that the panel lays flat.  
+so that the panel lays flat.  
 
 253
 00:14:55,562 --> 00:14:59,564
- the front and back of the bus  
- are made of molded fiberglass. 
+the front and back of the bus are made of molded fiberglass. 
 
 254
 00:14:59,566 --> 00:15:01,566
- they have openings for windows,
+they have openings for windows,
 
 255
 00:15:01,568 --> 00:15:04,169
-        and in the back,        
+and in the back,        
 a cut-out beneath the top window
 
 256
 00:15:04,171 --> 00:15:06,505
-       for the upper-deck       
-        air-conditioner.        
+for the upper-deck air-conditioner.        
 
 257
 00:15:06,507 --> 00:15:10,107
-        as one crew glues       
+as one crew glues       
 all the window glass into place,
 
 258
 00:15:10,109 --> 00:15:13,979
-  others install the doors and, 
-  inside, the upholstered seats 
+others install the doors and, inside, the upholstered seats 
 
 259
 00:15:13,981 --> 00:15:17,582
-          and a durable         
-    non-slip floor covering.    
+and a durable non-slip floor covering.    
 
 260
 00:15:17,584 --> 00:15:20,786
-     once the bus comes back    
-      from the paint shop,      
+once the bus comes back from the paint shop,      
 
 261
 00:15:20,788 --> 00:15:23,254
-          the factory's         
-   quality-control department   
+the factory's quality-control department   
 
 262
 00:15:23,256 --> 00:15:24,589
-     inspects the interior.     
+inspects the interior.     
 
 263
 00:15:26,793 --> 00:15:29,661
-         the seat fabric        
-      is dark and patterned     
+the seat fabric is dark and patterned     
 
 264
 00:15:29,663 --> 00:15:31,530
-     to discourage graffiti.    
+to discourage graffiti.    
 
 265
 00:15:31,532 --> 00:15:35,066
-   the bus also has 12 cameras  
-   hidden in various locations  
+the bus also has 12 cameras hidden in various locations  
 
 266
 00:15:35,068 --> 00:15:37,335
-       to deter vandalism.      
+to deter vandalism.      
 
 267
 00:15:37,337 --> 00:15:39,404
-    the typical double-decker   
+the typical double-decker   
 
 268
 00:15:39,406 --> 00:15:42,541
-        is 11 yards long        
-    and nearly 15 feet high.    
+is 11 yards long and nearly 15 feet high.    
 
 269
 00:15:42,543 --> 00:15:45,911
- it carries up to 92 passengers.
+it carries up to 92 passengers.
 
 270
 00:16:00,026 --> 00:16:02,761
-     narrator: when you need    
-      something to lean on,     
+narrator: when you need something to lean on,     
 
 271
 00:16:02,763 --> 00:16:05,630
-   a walking stick can provide  
-     the necessary support.     
+a walking stick can provide the necessary support.     
 
 272
 00:16:05,632 --> 00:16:07,899
-      wooden walking sticks     
-    have been coming in handy   
+wooden walking sticks have been coming in handy   
 
 273
 00:16:07,901 --> 00:16:09,634
-     since primitive times.     
+since primitive times.     
 
 274
 00:16:09,636 --> 00:16:12,370
-       the first versions       
-   were likely crude branches,  
+the first versions were likely crude branches,  
 
 275
 00:16:12,372 --> 00:16:15,640
-       but they've evolved      
-   into something much finer.   
+but they've evolved into something much finer.   
 
 276
 00:16:20,981 --> 00:16:22,980
-  today's wooden walking sticks 
+today's wooden walking sticks 
 
 277
 00:16:22,982 --> 00:16:25,516
-     are designed to support    
-       the user in style.       
+are designed to support the user in style.       
 
 278
 00:16:25,518 --> 00:16:28,920
-   there are rustic versions    
-   for the outdoor adventurer   
+there are rustic versions for the outdoor adventurer   
 
 279
 00:16:28,922 --> 00:16:31,990
- and distinguished-looking ones 
-    for getting around town.    
+and distinguished-looking ones for getting around town.    
 
 280
 00:16:31,992 --> 00:16:33,391
-    but, whatever the style,    
+but, whatever the style,    
 
 281
 00:16:33,393 --> 00:16:37,195
- a walking stick adds stability 
-      to the human journey.     
+a walking stick adds stability to the human journey.     
 
 282
 00:16:37,197 --> 00:16:41,266
-       it all begins with       
-   these 3-year-old saplings.   
+it all begins with these 3-year-old saplings.   
 
 283
 00:16:41,268 --> 00:16:45,002
-      these are chestnut --     
- a lightweight and durable wood.
+these are chestnut -- a lightweight and durable wood.
 
 284
 00:16:45,004 --> 00:16:47,338
-         once the sticks        
-   have been peeled and dried,  
+once the sticks have been peeled and dried,  
 
 285
 00:16:47,340 --> 00:16:48,873
-  it's into the washing machine 
+it's into the washing machine 
 
 286
 00:16:48,875 --> 00:16:51,743
-  to scrub off any dirt or mold 
-   that may have accumulated.   
+to scrub off any dirt or mold that may have accumulated.   
 
 287
 00:16:54,213 --> 00:16:57,215
-          and it's not          
-  your usual washing machine -- 
+and it's not your usual washing machine -- 
 
 288
 00:16:57,217 --> 00:17:01,753
- this one is a long tank sized  
- specifically for these sticks. 
+this one is a long tank sized specifically for these sticks. 
 
 289
 00:17:01,755 --> 00:17:05,957
- a worker closes the lid tightly
-   so no sticks will spill out  
+a worker closes the lid tightly
+so no sticks will spill out  
 
 290
 00:17:05,959 --> 00:17:09,060
-       as the tank rotates      
-   in a trough of soapy water.  
+as the tank rotates in a trough of soapy water.  
 
 291
 00:17:09,062 --> 00:17:11,562
-       after a few minutes      
-        of tossing about,       
+after a few minutes of tossing about,       
 
 292
 00:17:11,564 --> 00:17:14,032
-      these sticks come out     
-         squeaky-clean,         
+these sticks come out squeaky-clean,         
 
 293
 00:17:14,034 --> 00:17:16,034
-        and they're ready       
-        for the steamer.        
+and they're ready for the steamer.        
 
 294
 00:17:16,036 --> 00:17:18,303
-     the sticks are steamed     
-         for 20 minutes,        
+the sticks are steamed for 20 minutes,        
 
 295
 00:17:18,305 --> 00:17:21,373
-      and this makes them       
-      soft enough to bend.      
+and this makes them soft enough to bend.      
 
 296
 00:17:21,375 --> 00:17:23,508
-  so next, he secures the stick 
+so next, he secures the stick 
 
 297
 00:17:23,510 --> 00:17:25,777
-          and activates         
-      a spring-loaded arm.      
+and activates a spring-loaded arm.      
 
 298
 00:17:25,779 --> 00:17:29,648
- it wraps one end around a form 
-    to curl it into a crook.    
+it wraps one end around a form to curl it into a crook.    
 
 299
 00:17:29,650 --> 00:17:32,116
-           he ties it           
-   so it holds the crook shape  
+he ties it so it holds the crook shape  
 
 300
 00:17:32,118 --> 00:17:33,851
-  and retracts the bending arm. 
+and retracts the bending arm. 
 
 301
 00:17:33,853 --> 00:17:37,054
-      this crook will serve     
- as the walking stick's handle. 
+this crook will serve as the walking stick's handle. 
 
 302
 00:17:37,056 --> 00:17:40,258
-      a century ago, crooks     
-  were formed entirely by hand, 
+a century ago, crooks were formed entirely by hand, 
 
 303
 00:17:40,260 --> 00:17:42,060
-   which took brute strength.   
+which took brute strength.   
 
 304
 00:17:42,062 --> 00:17:45,062
-     but with the invention     
-     of this nifty machine,     
+but with the invention of this nifty machine,     
 
 305
 00:17:45,064 --> 00:17:47,398
-             the job            
-   became a whole lot easier.   
+the job became a whole lot easier.   
 
 306
 00:17:47,400 --> 00:17:50,869
-   next, it's over to a device  
- called the straightening horse,
+next, it's over to a device called the straightening horse,
 
 307
 00:17:50,871 --> 00:17:53,604
-        because it's used       
+because it's used       
 to straighten the stick's shaft.
 
 308
 00:17:53,606 --> 00:17:55,874
-            this job            
-   does take a bit of muscle,   
+this job does take a bit of muscle,   
 
 309
 00:17:55,876 --> 00:17:58,476
-          as the worker         
+as the worker         
 wrenches the shaft between posts
 
 310
 00:17:58,478 --> 00:17:59,744
-       to set it straight.      
+to set it straight.      
 
 311
 00:17:59,746 --> 00:18:01,679
- with the shaft now quite linear
+with the shaft now quite linear
 
 312
 00:18:01,681 --> 00:18:04,749
- and the end curled into a crook
-         and still tied,        
+and the end curled into a crook
+and still tied,        
 
 313
 00:18:04,751 --> 00:18:07,952
-        it's time to set        
+it's time to set        
 the shape of this walking stick.
 
 314
 00:18:07,954 --> 00:18:11,356
-  and so it's in to the drying  
-   room for a couple of days.   
+and so it's in to the drying room for a couple of days.   
 
 315
 00:18:11,358 --> 00:18:15,626
-   the temperature in here is   
- around 175 degrees fahrenheit. 
+the temperature in here is around 175 degrees fahrenheit. 
 
 316
 00:18:15,628 --> 00:18:19,030
-     and as the sticks dry,     
-     the shape solidifies.      
+and as the sticks dry, the shape solidifies.      
 
 317
 00:18:19,032 --> 00:18:21,900
-  a worker then cuts the stick  
-     to the correct length,     
+a worker then cuts the stick to the correct length,     
 
 318
 00:18:21,902 --> 00:18:26,071
- and he also pares down the end 
+and he also pares down the end 
 to prepare it for capping later.
 
 319
 00:18:30,377 --> 00:18:33,178
-       he also sands down       
-     the knots in the wood,     
+he also sands down the knots in the wood,     
 
 320
 00:18:33,180 --> 00:18:36,581
-  creating a smoother surface.  
+creating a smoother surface.  
 
 321
 00:18:40,454 --> 00:18:43,121
-      from a simple sapling     
-        to a cane shape,        
+from a simple sapling to a cane shape,        
 
 322
 00:18:43,123 --> 00:18:45,190
-  it's quite a transformation.  
+it's quite a transformation.  
 
 323
 00:18:45,192 --> 00:18:46,725
-       and it's not over.       
+and it's not over.       
 
 324
 00:18:46,727 --> 00:18:50,261
-         the next worker        
-  exposes the wood to a flame,  
+the next worker exposes the wood to a flame,  
 
 325
 00:18:50,263 --> 00:18:52,596
- just long enough to blacken it.
+just long enough to blacken it.
 
 326
 00:18:52,598 --> 00:18:54,932
-        this is staining        
-     without the chemicals,     
+this is staining without the chemicals,     
 
 327
 00:18:54,934 --> 00:18:57,535
- and the finish is distinctive. 
+and the finish is distinctive. 
 
 328
 00:18:57,537 --> 00:18:59,737
- he now turns the walking stick 
+he now turns the walking stick 
 
 329
 00:18:59,739 --> 00:19:02,540
-      against a very sharp      
-         circular blade         
+against a very sharp circular blade         
 
 330
 00:19:02,542 --> 00:19:06,077
-  to carve spirals on the crook 
-       and down the shaft.      
+to carve spirals on the crook and down the shaft.      
 
 331
 00:19:06,079 --> 00:19:09,614
-   it's a candy-cane look, and  
-  achieving it is a bit tricky. 
+it's a candy-cane look, and achieving it is a bit tricky. 
 
 332
 00:19:09,616 --> 00:19:13,385
-          this is where         
-  on-the-job experience counts. 
+this is where on-the-job experience counts. 
 
 333
 00:19:16,289 --> 00:19:20,124
-    another worker then trims   
-  the end of the handle crook.  
+another worker then trims the end of the handle crook.  
 
 334
 00:19:20,126 --> 00:19:21,893
@@ -1587,8 +1371,7 @@ the cutoffs won't go to waste --
 
 335
 00:19:21,895 --> 00:19:24,696
-        they'll help fire       
-      the factory furnace.      
+they'll help fire the factory furnace.      
 
 336
 00:19:24,698 --> 00:19:26,964
@@ -1596,123 +1379,104 @@ next, a worker inserts the crook
 
 337
 00:19:26,966 --> 00:19:30,435
-    in a machine that works     
-    like a pencil sharpener,    
+in a machine that works like a pencil sharpener,    
 
 338
 00:19:30,437 --> 00:19:33,571
-     except the blade inside    
-         rounds the end.        
+except the blade inside rounds the end.        
 
 339
 00:19:33,573 --> 00:19:36,708
-     this process is called     
-       "nosing the stick."      
+this process is called "nosing the stick."      
 
 340
 00:19:36,710 --> 00:19:39,577
-   the stick that started out   
-       as a peeled sapling      
+the stick that started out as a peeled sapling      
 
 341
 00:19:39,579 --> 00:19:41,713
-            now looks           
-     dramatically different.    
+now looks dramatically different.    
 
 342
 00:19:41,715 --> 00:19:44,983
-           next, a dip          
-     in water-based lacquer     
+next, a dip in water-based lacquer     
 
 343
 00:19:44,985 --> 00:19:48,386
-    gives this walking stick    
-          a high gloss.         
+gives this walking stick a high gloss.         
 
 344
 00:19:48,588 --> 00:19:50,988
-    they hang it to drip-dry    
-          for an hour,          
+they hang it to drip-dry for an hour,          
 
 345
 00:19:50,990 --> 00:19:52,857
-  after which the walking stick 
+after which the walking stick 
 
 346
 00:19:52,859 --> 00:19:55,994
-    is ready for the end cap,   
-           or ferrule.          
+is ready for the end cap, or ferrule.          
 
 347
 00:19:55,996 --> 00:19:59,263
-          ferrules come         
-     in a variety of styles.    
+ferrules come in a variety of styles.    
 
 348
 00:19:59,265 --> 00:20:03,000
-    there are blunt ones, for   
- a good grip on indoor surfaces,
+there are blunt ones, for a good grip on indoor surfaces,
 
 349
 00:20:03,002 --> 00:20:04,668
- and there are pointed ferrules,
+and there are pointed ferrules,
 
 350
 00:20:04,670 --> 00:20:06,805
-         for navigating         
-    rougher, outdoor terrain.   
+for navigating rougher, outdoor terrain.   
 
 351
 00:20:06,807 --> 00:20:09,741
-   after hammering the ferrule  
-         onto the stick,        
+after hammering the ferrule onto the stick,        
 
 352
 00:20:09,743 --> 00:20:12,844
-   he drives a nail through it  
-          to secure it.         
+he drives a nail through it to secure it.         
 
 353
 00:20:15,281 --> 00:20:18,016
-    and these walking sticks    
-        are now complete.       
+and these walking sticks are now complete.       
 
 354
 00:20:18,018 --> 00:20:20,351
-         all that's left        
-        is to hang around       
+all that's left is to hang around       
 
 355
 00:20:20,353 --> 00:20:22,153
-    until the orders come in.   
+until the orders come in.   
 
 356
 00:20:22,155 --> 00:20:25,423
-        and those orders        
-   are usually very specific.   
+and those orders are usually very specific.   
 
 357
 00:20:25,425 --> 00:20:26,824
-     customers get to choose    
+customers get to choose    
 
 358
 00:20:26,826 --> 00:20:29,894
-   the length of stick that's   
-  appropriate for their height, 
+the length of stick that's appropriate for their height, 
 
 359
 00:20:29,896 --> 00:20:33,931
- as well as the style and finish
-          they prefer.          
+as well as the style and finish
+they prefer.          
 
 360
 00:20:33,933 --> 00:20:37,635
-       from a simple stick      
-  to a dignified-looking cane,  
+from a simple stick to a dignified-looking cane,  
 
 361
 00:20:37,637 --> 00:20:40,971
-   it's been quite a journey.   
+it's been quite a journey.   
 
 362
 00:20:40,973 --> 00:20:42,974
@@ -1720,15 +1484,13 @@ the path ahead may be uncertain,
 
 363
 00:20:42,976 --> 00:20:45,910
-      but with one of these     
-     walking sticks in hand,    
+but with one of these walking sticks in hand,    
 
 364
 00:20:45,912 --> 00:20:47,445
-    a person is well-equipped   
+a person is well-equipped   
 
 365
 00:20:47,447 --> 00:20:51,182
-     to make his or her way     
-          in the world.         
+to make his or her way in the world.         
 

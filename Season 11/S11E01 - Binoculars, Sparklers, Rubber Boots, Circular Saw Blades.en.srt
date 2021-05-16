@@ -1,58 +1,51 @@
 ﻿1
 00:00:51,785 --> 00:00:53,786
-            narrator:           
-      a pair of binoculars      
+narrator: a pair of binoculars      
 
 2
 00:00:53,788 --> 00:00:56,388
-    is essentially a handheld   
-        double telescope.       
+is essentially a handheld double telescope.       
 
 3
 00:00:56,390 --> 00:00:58,724
-   light rays from the object   
-         you're viewing         
+light rays from the object you're viewing         
 
 4
 00:00:58,726 --> 00:01:01,493
 enter the lenses on the far end,
-         the objectives.        
+the objectives.        
 
 5
 00:01:01,495 --> 00:01:04,129
-     this projects an image     
-    just behind those lenses    
+this projects an image just behind those lenses    
 
 6
 00:01:04,131 --> 00:01:05,798
- inside the binoculars' housing.
+inside the binoculars' housing.
 
 7
 00:01:05,800 --> 00:01:08,266
-   the smaller eyepiece lenses  
-        you peer through        
+the smaller eyepiece lenses you peer through        
 
 8
 00:01:08,268 --> 00:01:10,369
-    then magnify that image.    
+then magnify that image.    
 
 9
 00:01:13,607 --> 00:01:15,607
-   the objectives are curved,   
+the objectives are curved,   
 
 10
 00:01:15,609 --> 00:01:18,677
-   causing the image to appear  
-          upside down.          
+causing the image to appear upside down.          
 
 11
 00:01:18,679 --> 00:01:20,545
-   the turn it right side up,   
+the turn it right side up,   
 
 12
 00:01:20,547 --> 00:01:23,148
-      each binocular half       
-      needs a glass prism.      
+each binocular half needs a glass prism.      
 
 13
 00:01:23,150 --> 00:01:25,817
@@ -60,8 +53,7 @@ using u.v.-light-activated glue,
 
 14
 00:01:25,819 --> 00:01:28,820
-  workers mount several prisms  
-         on steel plates        
+workers mount several prisms on steel plates        
 
 15
 00:01:28,822 --> 00:01:32,825
@@ -70,89 +62,78 @@ of grinding and polishing steps.
 
 16
 00:01:34,561 --> 00:01:37,095
-        protective paint        
-        prevents any dust       
+protective paint prevents any dust       
 
 17
 00:01:37,097 --> 00:01:39,865
-       from contaminating       
-      the pristine surface.     
+from contaminating the pristine surface.     
 
 18
 00:01:39,867 --> 00:01:41,633
-   grinding with diamond dust   
+grinding with diamond dust   
 
 19
 00:01:41,635 --> 00:01:44,636
-       removes mere tenths      
-    of a millimeter of glass.   
+removes mere tenths of a millimeter of glass.   
 
 20
 00:01:44,638 --> 00:01:46,772
-            polishing           
-   with an even finer abrasive  
+polishing with an even finer abrasive  
 
 21
 00:01:46,774 --> 00:01:49,908
-      removes another 1/100     
-        of a millimeter.        
+removes another 1/100 of a millimeter.        
 
 22
 00:01:49,910 --> 00:01:53,845
- at the end of it all, the three
-    sides are perfectly flat.   
+at the end of it all, the three
+sides are perfectly flat.   
 
 23
 00:01:53,847 --> 00:01:55,647
-   this minimizes reflection,   
+this minimizes reflection,   
 
 24
 00:01:55,649 --> 00:01:58,650
-  critical for making the glass 
-          see-through.          
+critical for making the glass see-through.          
 
 25
 00:01:58,652 --> 00:02:00,385
-       to make each prism,      
+to make each prism,      
 
 26
 00:02:00,387 --> 00:02:04,723
-  they glue two pieces of glass 
-     together at 90 degrees.    
+they glue two pieces of glass together at 90 degrees.    
 
 27
 00:02:04,725 --> 00:02:08,026
-  this special machine ensures  
-      the angle is precise.     
+this special machine ensures the angle is precise.     
 
 28
 00:02:13,267 --> 00:02:16,001
-      a shot of u.v. light      
-         dries the glue.        
+a shot of u.v. light dries the glue.        
 
 29
 00:02:16,003 --> 00:02:20,405
 the first piece of glass rotates
- the inverted image 90 degrees. 
+the inverted image 90 degrees. 
 
 30
 00:02:20,407 --> 00:02:25,143
-  the second rotates it another 
+the second rotates it another 
 90 degrees, completing the flip.
 
 31
 00:02:25,145 --> 00:02:26,478
-     now for the objectives.    
+now for the objectives.    
 
 32
 00:02:26,480 --> 00:02:29,548
-    these curved lenses have    
-   undergone the same grinding  
+these curved lenses have undergone the same grinding  
 
 33
 00:02:29,550 --> 00:02:31,683
-       and polishing steps      
-         as the prisms.         
+and polishing steps as the prisms.         
 
 34
 00:02:31,685 --> 00:02:33,885
@@ -160,147 +141,125 @@ now they go through a nine-stage
 
 35
 00:02:33,887 --> 00:02:36,288
-         computer-guided        
-        cleaning process.       
+computer-guided cleaning process.       
 
 36
 00:02:36,290 --> 00:02:40,425
-  after inspecting the lenses,  
+after inspecting the lenses,  
 a technician glues two together.
 
 37
 00:02:40,427 --> 00:02:43,361
-   a double lens limits a type  
-          of distortion         
+a double lens limits a type of distortion         
 
 38
 00:02:43,363 --> 00:02:48,367
-  that causes fringes of color  
-  to appear around the image.   
+that causes fringes of color to appear around the image.   
 
 39
 00:02:51,838 --> 00:02:55,107
-   it's critical to match them  
-    to each other perfectly.    
+it's critical to match them to each other perfectly.    
 
 40
 00:02:55,109 --> 00:02:56,642
-     if the alignment's off     
+if the alignment's off     
 
 41
 00:02:56,644 --> 00:02:58,910
-    by more than just 1/100th   
-        of a millimeter,        
+by more than just 1/100th of a millimeter,        
 
 42
 00:02:58,912 --> 00:03:00,979
-     the image will be poor.    
+the image will be poor.    
 
 43
 00:03:01,781 --> 00:03:04,115
-     this alignment machine     
-         displays a dot         
+this alignment machine displays a dot         
 
 44
 00:03:04,117 --> 00:03:06,518
-     representing the center    
-          of each lens,         
+representing the center of each lens,         
 
 45
 00:03:06,520 --> 00:03:09,121
-      so it's just a matter     
-      of matching the dots.     
+so it's just a matter of matching the dots.     
 
 46
 00:03:09,123 --> 00:03:12,924
-  a 2-second shot of u.v. light 
-         dries the glue.        
+a 2-second shot of u.v. light dries the glue.        
 
 47
 00:03:12,926 --> 00:03:16,995
 next, a technician loads mineral
- pellets into a vacuum chamber. 
+pellets into a vacuum chamber. 
 
 48
 00:03:16,997 --> 00:03:19,932
-     their exact formulation    
-      is a company secret.      
+their exact formulation is a company secret.      
 
 49
 00:03:19,934 --> 00:03:23,068
-       the pellets produce      
- an anti-reflection lens coating
+the pellets produce an anti-reflection lens coating
 
 50
 00:03:23,070 --> 00:03:25,803
-      that lets more light      
-    come through the lenses.    
+that lets more light come through the lenses.    
 
 51
 00:03:25,805 --> 00:03:27,606
-   inside the vacuum chamber,   
+inside the vacuum chamber,   
 
 52
 00:03:27,608 --> 00:03:30,609
-       a beam of electrons      
-     evaporates the pellets     
+a beam of electrons evaporates the pellets     
 
 53
 00:03:30,611 --> 00:03:34,046
-   into microscopic particles   
-      that coat the lenses.     
+into microscopic particles that coat the lenses.     
 
 54
 00:03:38,285 --> 00:03:41,286
-  it's time to begin assembling 
-         the binoculars.        
+it's time to begin assembling the binoculars.        
 
 55
 00:03:41,288 --> 00:03:44,155
-      first, the objectives     
-      go into the housing,      
+first, the objectives go into the housing,      
 
 56
 00:03:44,157 --> 00:03:47,693
-    which is usually made of    
-  plastic, aluminum, or carbon. 
+which is usually made of plastic, aluminum, or carbon. 
 
 57
 00:03:49,029 --> 00:03:50,695
-    workers clean the lenses    
+workers clean the lenses    
 
 58
 00:03:50,697 --> 00:03:53,732
-        with a few blasts       
-    of compressed nitrogen...   
+with a few blasts of compressed nitrogen...   
 
 59
 00:03:55,835 --> 00:04:00,172
-  ...then secure them in place  
-  with threaded holding rings.  
+...then secure them in place with threaded holding rings.  
 
 60
 00:04:06,513 --> 00:04:09,881
-     now a few drops of glue    
-     behind the objectives,     
+now a few drops of glue behind the objectives,     
 
 61
 00:04:09,883 --> 00:04:12,050
-    where the prisms will go,   
+where the prisms will go,   
 
 62
 00:04:12,052 --> 00:04:14,920
-    another blast of nitrogen   
-       to remove any dust,      
+another blast of nitrogen to remove any dust,      
 
 63
 00:04:14,922 --> 00:04:16,922
-  then they insert the prisms.  
+then they insert the prisms.  
 
 64
 00:04:16,924 --> 00:04:20,992
-   this optical machine aligns  
-  the focal points of the prism 
+this optical machine aligns the focal points of the prism 
 
 65
 00:04:20,994 --> 00:04:23,261
@@ -308,18 +267,16 @@ and its corresponding objective.
 
 66
 00:04:24,265 --> 00:04:27,733
-      then, some more glue      
-   to lock in the positioning   
+then, some more glue to lock in the positioning   
 
 67
 00:04:27,735 --> 00:04:32,137
-    and a blast of u.v. light   
-        to dry the glue.        
+and a blast of u.v. light to dry the glue.        
 
 68
 00:04:32,139 --> 00:04:34,940
 now they silicone the objectives
-           and prisms           
+and prisms           
 
 69
 00:04:34,942 --> 00:04:37,008
@@ -327,97 +284,84 @@ to the housing's middle section.
 
 70
 00:04:37,010 --> 00:04:39,610
-  silicone creates an airtight  
-      and waterproof seal.      
+silicone creates an airtight and waterproof seal.      
 
 71
 00:04:39,612 --> 00:04:44,148
-     this holding mechanism     
-   presses the parts together   
+this holding mechanism presses the parts together   
 
 72
 00:04:44,150 --> 00:04:47,152
-          while workers         
-      drive in the screws.      
+while workers drive in the screws.      
 
 73
 00:04:47,154 --> 00:04:51,222
-  onto the opposite end of the  
- middle section go the oculars, 
+onto the opposite end of the middle section go the oculars, 
 
 74
 00:04:51,224 --> 00:04:53,825
-       the smaller lenses       
-     through which you look.    
+the smaller lenses through which you look.    
 
 75
 00:04:53,827 --> 00:04:56,494
-        those also attach       
-  with threaded holding rings.  
+those also attach with threaded holding rings.  
 
 76
 00:04:56,496 --> 00:04:58,696
-      now, through a valve      
-          on each side,         
+now, through a valve on each side,         
 
 77
 00:04:58,698 --> 00:05:00,965
-       a machine sucks air      
-        from the housing        
+a machine sucks air from the housing        
 
 78
 00:05:00,967 --> 00:05:02,834
-    and injects nitrogen gas.   
+and injects nitrogen gas.   
 
 79
 00:05:02,836 --> 00:05:06,171
-  nitrogen prevents the lenses  
-        from fogging up.        
+nitrogen prevents the lenses from fogging up.        
 
 80
 00:05:06,173 --> 00:05:07,572
-      a day after filling,      
+a day after filling,      
 
 81
 00:05:07,574 --> 00:05:09,975
-          they recheck          
-      the nitrogen pressure     
+they recheck the nitrogen pressure     
 
 82
 00:05:09,977 --> 00:05:12,577
-  to make sure there's no leak. 
+to make sure there's no leak. 
 
 83
 00:05:12,579 --> 00:05:15,380
-      this factory puts all     
-   the binoculars it produces   
+this factory puts all the binoculars it produces   
 
 84
 00:05:15,382 --> 00:05:17,315
-    through rigorous testing,   
+through rigorous testing,   
 
 85
 00:05:17,317 --> 00:05:20,251
-         subjecting them        
-     to prolonged vibration,    
+subjecting them to prolonged vibration,    
 
 86
 00:05:20,253 --> 00:05:23,254
-  water pressure, extreme heat, 
+water pressure, extreme heat, 
 
 87
 00:05:23,256 --> 00:05:27,459
-     freezing temperatures,     
-  and other trying conditions.  
+freezing temperatures, and other trying conditions.  
 
 88
 00:05:29,863 --> 00:05:31,263
-        after every test,       
+after every test,       
 
 89
 00:05:31,265 --> 00:05:35,133
- inspectors make sure everything
-     still works perfectly,     
+inspectors make sure everything
+still works perfectly,     
 
 90
 00:05:35,135 --> 00:05:38,136
@@ -430,161 +374,137 @@ on the party scene for decades,
 
 92
 00:05:54,822 --> 00:05:56,955
-  adding pyrotechnical glitter  
-           to weddings          
+adding pyrotechnical glitter to weddings          
 
 93
 00:05:56,957 --> 00:05:58,223
-   and birthday celebrations.   
+and birthday celebrations.   
 
 94
 00:05:58,225 --> 00:06:00,558
-     they evolved from more     
-     traditional fireworks      
+they evolved from more traditional fireworks      
 
 95
 00:06:00,560 --> 00:06:04,562
- and are the only kind that the 
- consumer can handle when lit.  
+and are the only kind that the consumer can handle when lit.  
 
 96
 00:06:04,564 --> 00:06:08,166
-  lighting one definitely means 
-    excitement is in the air.   
+lighting one definitely means excitement is in the air.   
 
 97
 00:06:13,039 --> 00:06:15,907
-  the splash of flash can last  
-        a minute or more,       
+the splash of flash can last a minute or more,       
 
 98
 00:06:15,909 --> 00:06:18,509
-     depending on the length    
-        of the sparkler.        
+depending on the length of the sparkler.        
 
 99
 00:06:18,511 --> 00:06:22,647
-   they start with steel wires  
- that are about 19 inches long. 
+they start with steel wires that are about 19 inches long. 
 
 100
 00:06:22,649 --> 00:06:25,717
-    they load bundles of them   
+they load bundles of them   
 into slots of a sorting machine.
 
 101
 00:06:31,792 --> 00:06:33,258
-      the machine vibrates,     
+the machine vibrates,     
 
 102
 00:06:33,260 --> 00:06:37,129
-  and the wires fall in single  
-  file into smaller openings.   
+and the wires fall in single file into smaller openings.   
 
 103
 00:06:38,665 --> 00:06:41,399
-     the operator then moves    
-   a spring-loaded wooden rack  
+the operator then moves a spring-loaded wooden rack  
 
 104
 00:06:41,401 --> 00:06:44,403
-         into position.         
+into position.         
 
 105
 00:06:44,405 --> 00:06:47,672
-    it opens like the bellows   
-        of an accordion.        
+it opens like the bellows of an accordion.        
 
 106
 00:06:48,875 --> 00:06:51,943
-       the operator rocks       
-  the sorting machine overhead, 
+the operator rocks the sorting machine overhead, 
 
 107
 00:06:51,945 --> 00:06:54,812
-       and the wires drop       
-   into the slits of the rack,  
+and the wires drop into the slits of the rack,  
 
 108
 00:06:54,814 --> 00:06:56,815
-       perfectly aligned.       
+perfectly aligned.       
 
 109
 00:07:05,025 --> 00:07:09,093
-    after 300 sparkler wires    
-   have fallen into position,   
+after 300 sparkler wires have fallen into position,   
 
 110
 00:07:09,095 --> 00:07:11,830
-   the operator pulls a handle  
-       to close the rack.       
+the operator pulls a handle to close the rack.       
 
 111
 00:07:14,234 --> 00:07:17,302
-         now, clamped in        
-    the accordion-style rack,   
+now, clamped in the accordion-style rack,   
 
 112
 00:07:17,304 --> 00:07:20,739
- the wires are ready to move on 
-      to the next station.      
+the wires are ready to move on to the next station.      
 
 113
 00:07:23,176 --> 00:07:26,511
-   wires for parade sparklers   
-       are much longer --       
+wires for parade sparklers are much longer --       
 
 114
 00:07:26,513 --> 00:07:28,447
-      36 inches, in fact --     
+36 inches, in fact --     
 
 115
 00:07:28,449 --> 00:07:30,982
-   which means they're heavier  
-    than ordinary sparklers.    
+which means they're heavier than ordinary sparklers.    
 
 116
 00:07:30,984 --> 00:07:34,519
 the operator loads each of these
-   wires manually into a rack   
+wires manually into a rack   
 
 117
 00:07:34,521 --> 00:07:37,322
-   that's larger and sturdier   
-       than the last one.       
+that's larger and sturdier than the last one.       
 
 118
 00:07:37,324 --> 00:07:40,258
-     this system of loading     
-  is a lot more time-consuming, 
+this system of loading is a lot more time-consuming, 
 
 119
 00:07:40,260 --> 00:07:42,994
- but parade sparklers are worth 
-        the extra trouble       
+but parade sparklers are worth the extra trouble       
 
 120
 00:07:42,996 --> 00:07:45,196
-      because they'll have      
-      a longer burn time --     
+because they'll have a longer burn time --     
 
 121
 00:07:45,198 --> 00:07:46,631
-       up to four minutes.      
+up to four minutes.      
 
 122
 00:07:54,341 --> 00:07:58,143
-     next, an operator loads    
-  boric acid and barium nitrate 
+next, an operator loads boric acid and barium nitrate 
 
 123
 00:07:58,145 --> 00:07:59,744
-     into a big mixing tank.    
+into a big mixing tank.    
 
 124
 00:07:59,746 --> 00:08:03,615
-       the barium nitrate       
-         is an oxidizer         
+the barium nitrate is an oxidizer         
 
 125
 00:08:03,617 --> 00:08:05,150
@@ -596,132 +516,113 @@ the boric acid is a neutralizer.
 
 127
 00:08:07,487 --> 00:08:11,756
-          he adds water         
-    and mixes in cornstarch.    
+he adds water and mixes in cornstarch.    
 
 128
 00:08:11,758 --> 00:08:14,860
-          it will bind          
-  all the ingredients together. 
+it will bind all the ingredients together. 
 
 129
 00:08:17,964 --> 00:08:22,167
-        next, he pours in       
-  some very fine iron filings.  
+next, he pours in some very fine iron filings.  
 
 130
 00:08:22,169 --> 00:08:26,037
-  these bits of iron will give  
- the sparklers their gold color.
+these bits of iron will give the sparklers their gold color.
 
 131
 00:08:29,442 --> 00:08:32,643
-   the operator then suits up   
-       in protective gear       
+the operator then suits up in protective gear       
 
 132
 00:08:32,645 --> 00:08:34,179
-      and closes the door.      
+and closes the door.      
 
 133
 00:08:34,181 --> 00:08:36,981
 he's the only one allowed inside
-     to load the sparklers'     
+to load the sparklers'     
 
 134
 00:08:36,983 --> 00:08:40,384
-   most volatile ingredient --  
-        aluminum powder.        
+most volatile ingredient -- aluminum powder.        
 
 135
 00:08:40,386 --> 00:08:42,587
- once mixed into the wet slurry,
+once mixed into the wet slurry,
 
 136
 00:08:42,589 --> 00:08:44,722
-           the powder           
-     is virtually harmless,     
+the powder is virtually harmless,     
 
 137
 00:08:44,724 --> 00:08:48,994
-   and they don't need to take  
-   as many safety precautions.  
+and they don't need to take as many safety precautions.  
 
 138
 00:08:48,996 --> 00:08:51,930
-    chain conveyors now move    
-   the rack of sparkler wires   
+chain conveyors now move the rack of sparkler wires   
 
 139
 00:08:51,932 --> 00:08:53,298
-         into position.         
+into position.         
 
 140
 00:08:53,300 --> 00:08:56,401
-   an elevator lifts up a tank  
-     of the sparkler slurry     
+an elevator lifts up a tank of the sparkler slurry     
 
 141
 00:08:56,403 --> 00:08:57,936
-     to dip the wires in it.    
+to dip the wires in it.    
 
 142
 00:09:01,808 --> 00:09:05,677
-     the next rack of wires     
- then moves forward for dipping.
+the next rack of wires then moves forward for dipping.
 
 143
 00:09:09,016 --> 00:09:12,417
-     286 racks of wires move    
-  through this dipping station  
+286 racks of wires move through this dipping station  
 
 144
 00:09:12,419 --> 00:09:14,986
-   every hour and 45 minutes.   
+every hour and 45 minutes.   
 
 145
 00:09:18,958 --> 00:09:23,228
 they go through a second dipping
-  station for one more coating. 
+station for one more coating. 
 
 146
 00:09:32,039 --> 00:09:36,841
-     the two coatings double    
-   the diameter of the wires.   
+the two coatings double the diameter of the wires.   
 
 147
 00:09:36,843 --> 00:09:38,643
-         after each dip,        
+after each dip,        
 
 148
 00:09:38,645 --> 00:09:41,579
-   wires ride an overhead rail  
-         through an oven        
+wires ride an overhead rail through an oven        
 
 149
 00:09:41,581 --> 00:09:44,549
-   to bake the sparkler slurry  
-        until it's hard.        
+to bake the sparkler slurry until it's hard.        
 
 150
 00:09:46,320 --> 00:09:49,187
-   an inspector then examines   
-         each sparkler.         
+an inspector then examines each sparkler.         
 
 151
 00:09:49,189 --> 00:09:51,522
-      she checks for cracks     
-          and defects.          
+she checks for cracks and defects.          
 
 152
 00:09:51,524 --> 00:09:54,191
-     any wire that's flawed     
-        will be rejected        
+any wire that's flawed will be rejected        
 
 153
 00:09:54,193 --> 00:09:57,796
-  because these sparklers have  
-  to outshine the competition.  
+because these sparklers have to outshine the competition.  
 
 154
 00:10:03,203 --> 00:10:05,536
@@ -729,406 +630,346 @@ it takes her about three minutes
 
 155
 00:10:05,538 --> 00:10:08,607
-  to examine the 300 sparklers  
-           on a rack.           
+to examine the 300 sparklers on a rack.           
 
 156
 00:10:11,678 --> 00:10:14,145
-     they check the diameter    
-        of each sparkler        
+they check the diameter of each sparkler        
 
 157
 00:10:14,147 --> 00:10:16,214
-          by sliding it         
-       through a template,      
+by sliding it through a template,      
 
 158
 00:10:16,216 --> 00:10:18,750
-        and they bend it        
-     to check its integrity.    
+and they bend it to check its integrity.    
 
 159
 00:10:23,757 --> 00:10:27,492
- the sparklers have been stored 
- for a week prior to packaging  
+the sparklers have been stored for a week prior to packaging  
 
 160
 00:10:27,494 --> 00:10:30,028
-     to allow them to cure.     
+to allow them to cure.     
 
 161
 00:10:32,498 --> 00:10:35,099
-      and now they're ready     
-          for a party,          
+and now they're ready for a party,          
 
 162
 00:10:35,101 --> 00:10:38,536
-     and they're sure to be     
-    the center of attention.    
+and they're sure to be the center of attention.    
 
 163
 00:10:48,382 --> 00:10:51,115
-   narrator: wellington boots,  
-     billy boots, galoshes.     
+narrator: wellington boots, billy boots, galoshes.     
 
 164
 00:10:51,117 --> 00:10:52,250
-          by any name,          
+by any name,          
 
 165
 00:10:52,252 --> 00:10:54,586
-        rubber rain boots       
-       owe their existence      
+rubber rain boots owe their existence      
 
 166
 00:10:54,588 --> 00:10:57,121
-   to a 19th-century american,  
-        charles goodyear.       
+to a 19th-century american, charles goodyear.       
 
 167
 00:10:57,123 --> 00:10:59,390
-           he invented          
-   the vulcanization process,   
+he invented the vulcanization process,   
 
 168
 00:10:59,392 --> 00:11:02,193
- a way of keeping natural rubber
-       from deteriorating.      
+a way of keeping natural rubber
+from deteriorating.      
 
 169
 00:11:02,195 --> 00:11:04,663
-  nowadays, rain boots are made 
-    from a synthetic material   
+nowadays, rain boots are made from a synthetic material   
 
 170
 00:11:04,665 --> 00:11:07,599
-  called thermoplastic rubber,  
-             or tpr.            
+called thermoplastic rubber, or tpr.            
 
 171
 00:11:11,138 --> 00:11:13,938
-      they're functional --     
-        even fashionable.       
+they're functional -- even fashionable.       
 
 172
 00:11:13,940 --> 00:11:17,542
-   making rubber boots begins   
-  with spools of polyester yarn 
+making rubber boots begins with spools of polyester yarn 
 
 173
 00:11:17,544 --> 00:11:18,976
-        for their lining.       
+for their lining.       
 
 174
 00:11:18,978 --> 00:11:21,612
-      a colored spool adds      
-      a thin line of color      
+a colored spool adds a thin line of color      
 
 175
 00:11:21,614 --> 00:11:24,149
-    to indicate the foot size   
-         of the lining.         
+to indicate the foot size of the lining.         
 
 176
 00:11:24,151 --> 00:11:26,016
-  a computer-programmed machine 
+a computer-programmed machine 
 
 177
 00:11:26,018 --> 00:11:28,820
-        crochets the yarn       
-        with 242 needles.       
+crochets the yarn with 242 needles.       
 
 178
 00:11:28,822 --> 00:11:32,690
-  as we can see in slow motion, 
-   each gate opens completely,  
+as we can see in slow motion, each gate opens completely,  
 
 179
 00:11:32,692 --> 00:11:34,959
-    then closes on the yarn.    
+then closes on the yarn.    
 
 180
 00:11:34,961 --> 00:11:38,430
-       the needles rotate       
-      750 times per second.     
+the needles rotate 750 times per second.     
 
 181
 00:11:38,432 --> 00:11:40,297
-  they can program the machine  
+they can program the machine  
 
 182
 00:11:40,299 --> 00:11:43,234
-         to make linings        
-      for any size of boot.     
+to make linings for any size of boot.     
 
 183
 00:11:48,374 --> 00:11:49,841
-      for quality control,      
+for quality control,      
 
 184
 00:11:49,843 --> 00:11:53,344
 workers spot-check a few linings
-        from every batch.       
+from every batch.       
 
 185
 00:12:03,390 --> 00:12:04,588
-      now the action moves      
+now the action moves      
 
 186
 00:12:04,590 --> 00:12:06,925
-        to this automated       
-    injection-molding machine   
+to this automated injection-molding machine   
 
 187
 00:12:06,927 --> 00:12:07,925
-       with six stations.       
+with six stations.       
 
 188
 00:12:07,927 --> 00:12:10,928
-        each one produces       
-        a pair of boots.        
+each one produces a pair of boots.        
 
 189
 00:12:10,930 --> 00:12:13,531
-  workers carefully roll a pair 
-           of linings           
+workers carefully roll a pair of linings           
 
 190
 00:12:13,533 --> 00:12:16,334
- onto each station's foot form, 
-        called the last.        
+onto each station's foot form, called the last.        
 
 191
 00:12:16,336 --> 00:12:19,270
-     these lasts will create    
-    the space inside the boot   
+these lasts will create the space inside the boot   
 
 192
 00:12:19,272 --> 00:12:21,206
-   for the lower leg and foot.  
+for the lower leg and foot.  
 
 193
 00:12:24,144 --> 00:12:27,678
-      a five-part boot mold     
-  closes around the foot last.  
+a five-part boot mold closes around the foot last.  
 
 194
 00:12:27,680 --> 00:12:30,281
-      then, a high-pressure     
-         injection screw        
+then, a high-pressure injection screw        
 
 195
 00:12:30,283 --> 00:12:32,283
-        pushes in melted        
-        synthetic rubber,       
+pushes in melted synthetic rubber,       
 
 196
 00:12:32,285 --> 00:12:34,319
-       first in the soles,      
-     then in the upper boot.    
+first in the soles, then in the upper boot.    
 
 197
 00:12:37,824 --> 00:12:40,225
-         the company lab        
-     regularly tests samples    
+the company lab regularly tests samples    
 
 198
 00:12:40,227 --> 00:12:42,160
- of the synthetic rubber pellets
+of the synthetic rubber pellets
 
 199
 00:12:42,162 --> 00:12:43,828
- that feed the injection machine
+that feed the injection machine
 
 200
 00:12:43,830 --> 00:12:45,964
-     to make sure they melt     
-         and flow well.         
+to make sure they melt and flow well.         
 
 201
 00:12:45,966 --> 00:12:49,967
-   the lab technician pours in  
-    some pellets, melts them,   
+the lab technician pours in some pellets, melts them,   
 
 202
 00:12:49,969 --> 00:12:53,371
-     then pushes in a piston    
-  to extrude the molten rubber. 
+then pushes in a piston to extrude the molten rubber. 
 
 203
 00:12:53,373 --> 00:12:57,208
-   the machine measures what's  
-   called the melt flow index.  
+the machine measures what's called the melt flow index.  
 
 204
 00:12:59,913 --> 00:13:01,713
-   back on the factory floor,   
+back on the factory floor,   
 
 205
 00:13:01,715 --> 00:13:04,649
-      a large suction hose      
-      feeds rubber pellets      
+a large suction hose feeds rubber pellets      
 
 206
 00:13:04,651 --> 00:13:06,184
-       to the injectors --      
+to the injectors --      
 
 207
 00:13:06,186 --> 00:13:08,887
-    black for the boot body,    
-       red for the soles.       
+black for the boot body, red for the soles.       
 
 208
 00:13:12,125 --> 00:13:16,261
-      and at this factory,      
-     nothing goes to waste.     
+and at this factory, nothing goes to waste.     
 
 209
 00:13:16,263 --> 00:13:18,329
-  it recycles rubber leftovers  
+it recycles rubber leftovers  
 
 210
 00:13:18,331 --> 00:13:22,066
-    or rejects of all colors    
-  into a batch of black rubber. 
+or rejects of all colors into a batch of black rubber. 
 
 211
 00:13:22,068 --> 00:13:25,270
-      the suction hose then     
- sends the pellets into a hopper
+the suction hose then sends the pellets into a hopper
 
 212
 00:13:25,272 --> 00:13:28,873
-     which feeds the barrel     
-     of the injection unit.     
+which feeds the barrel of the injection unit.     
 
 213
 00:13:28,875 --> 00:13:31,409
-        the heater bands        
-       inside the barrels       
+the heater bands inside the barrels       
 
 214
 00:13:31,411 --> 00:13:34,478
-        melt the pellets        
-     at 200 degrees celsius.    
+melt the pellets at 200 degrees celsius.    
 
 215
 00:13:34,480 --> 00:13:37,015
-   then, at the precise moment  
-        the mold arrives,       
+then, at the precise moment the mold arrives,       
 
 216
 00:13:37,017 --> 00:13:38,949
-       the injector shoots      
-      in the molten rubber.     
+the injector shoots in the molten rubber.     
 
 217
 00:13:38,951 --> 00:13:42,287
-   giant clamps apply pressure  
-      for about 10 seconds,     
+giant clamps apply pressure for about 10 seconds,     
 
 218
 00:13:42,289 --> 00:13:45,890
-          then release.         
+then release.         
 
 219
 00:13:45,892 --> 00:13:48,626
-      a hydraulic cylinder      
-      pushes up the last,       
+a hydraulic cylinder pushes up the last,       
 
 220
 00:13:48,628 --> 00:13:50,427
-  helping to extract the boots. 
+helping to extract the boots. 
 
 221
 00:13:51,498 --> 00:13:54,966
-  then it's quickly on with new 
-   linings for the next pair.   
+then it's quickly on with new linings for the next pair.   
 
 222
 00:13:58,638 --> 00:14:03,508
-       total molding time?      
-        just 30 seconds.        
+total molding time? just 30 seconds.        
 
 223
 00:14:06,513 --> 00:14:12,116
- the boots cool for 45 minutes, 
- then head off to packaging...  
+the boots cool for 45 minutes, then head off to packaging...  
 
 224
 00:14:12,118 --> 00:14:14,785
-      making just one stop      
-          along the way         
+making just one stop along the way         
 
 225
 00:14:14,787 --> 00:14:18,256
-   at the pad printing machine  
-   to get the company's logo.   
+at the pad printing machine to get the company's logo.   
 
 226
 00:14:18,258 --> 00:14:19,991
-    elsewhere in the factory,   
+elsewhere in the factory,   
 
 227
 00:14:19,993 --> 00:14:22,326
-          a seamstress          
-      carefully constructs      
+a seamstress carefully constructs      
 
 228
 00:14:22,328 --> 00:14:23,995
-    a patterned boot lining.    
+a patterned boot lining.    
 
 229
 00:14:23,997 --> 00:14:27,798
-   the factory crochets white   
-  linings in a continuous roll, 
+the factory crochets white linings in a continuous roll, 
 
 230
 00:14:27,800 --> 00:14:32,136
-    then has another company    
-      print on the design.      
+then has another company print on the design.      
 
 231
 00:14:32,138 --> 00:14:34,606
-       the trickiest part       
-       is shaping the toe       
+the trickiest part is shaping the toe       
 
 232
 00:14:34,608 --> 00:14:39,477
 because she has to curve and cut
- the material at the same time. 
+the material at the same time. 
 
 233
 00:14:39,479 --> 00:14:41,212
-   for these patterned boots,   
+for these patterned boots,   
 
 234
 00:14:41,214 --> 00:14:43,681
-       the machine injects      
- a transparent synthetic rubber 
+the machine injects a transparent synthetic rubber 
 
 235
 00:14:43,683 --> 00:14:45,015
-          into the mold         
+into the mold         
 
 236
 00:14:45,017 --> 00:14:48,219
-   so that the printed lining   
-       will show through.       
+so that the printed lining will show through.       
 
 237
 00:14:48,221 --> 00:14:51,556
-    the mirror-finish surface   
-       of the mold cavity       
+the mirror-finish surface of the mold cavity       
 
 238
 00:14:51,558 --> 00:14:53,458
-   produces a high-gloss boot.  
+produces a high-gloss boot.  
 
 239
 00:14:55,695 --> 00:14:59,964
- the printed boot requires more 
-   work and costlier materials  
+the printed boot requires more work and costlier materials  
 
 240
 00:14:59,966 --> 00:15:02,300
@@ -1136,169 +977,144 @@ and is therefore more expensive.
 
 241
 00:15:03,436 --> 00:15:05,369
- after the molding, for example,
+after the molding, for example,
 
 242
 00:15:05,371 --> 00:15:07,839
-          it has to go          
-    to the trimming station.    
+it has to go to the trimming station.    
 
 243
 00:15:07,841 --> 00:15:10,107
-   there, a worker shaves off   
-         excess material        
+there, a worker shaves off excess material        
 
 244
 00:15:10,109 --> 00:15:11,642
-    from the top of the boot.   
+from the top of the boot.   
 
 245
 00:15:11,644 --> 00:15:15,580
 then he sews on a fabric binding
-     to sandwich the lining.    
+to sandwich the lining.    
 
 246
 00:15:20,787 --> 00:15:24,322
-  the factory randomly selects  
-     a boot from each batch     
+the factory randomly selects a boot from each batch     
 
 247
 00:15:24,324 --> 00:15:28,392
- and puts it through a battery  
- of tests on this flex machine. 
+and puts it through a battery of tests on this flex machine. 
 
 248
 00:15:28,394 --> 00:15:31,195
-  it bends the boot in various  
-    ways some 300,000 times,    
+it bends the boot in various ways some 300,000 times,    
 
 249
 00:15:31,197 --> 00:15:36,367
- ensuring that these rain boots 
-       can walk the walk.       
+ensuring that these rain boots can walk the walk.       
 
 250
 00:15:48,815 --> 00:15:51,482
- narrator: when a construction  
- site is buzzing with activity, 
+narrator: when a construction site is buzzing with activity, 
 
 251
 00:15:51,484 --> 00:15:53,618
-     it's usually the sound     
-      of the circular saw.      
+it's usually the sound of the circular saw.      
 
 252
 00:15:53,620 --> 00:15:56,553
-  its spinning teeth can take a 
- bite out of any job in seconds.
+its spinning teeth can take a bite out of any job in seconds.
 
 253
 00:15:56,555 --> 00:15:58,889
-      there are many claims     
-        to the invention        
+there are many claims to the invention        
 
 254
 00:15:58,891 --> 00:16:00,224
-      of the circular saw,      
+of the circular saw,      
 
 255
 00:16:00,226 --> 00:16:02,927
-    but there's no doubt that   
-  when its design was perfected 
+but there's no doubt that when its design was perfected 
 
 256
 00:16:02,929 --> 00:16:06,464
-      in the last century,      
- it revolutionized woodworking. 
+in the last century, it revolutionized woodworking. 
 
 257
 00:16:09,769 --> 00:16:13,104
-      with a circular saw,      
- you can give odd jobs a whirl, 
+with a circular saw, you can give odd jobs a whirl, 
 
 258
 00:16:13,106 --> 00:16:15,039
-  and when the sawdust settles, 
+and when the sawdust settles, 
 
 259
 00:16:15,041 --> 00:16:18,042
-     you may have discovered    
-      your inner handyman.      
+you may have discovered your inner handyman.      
 
 260
 00:16:20,180 --> 00:16:22,380
-  to make a circular-saw blade, 
+to make a circular-saw blade, 
 
 261
 00:16:22,382 --> 00:16:24,715
-          a laser burns         
-      into a sheet of steel     
+a laser burns into a sheet of steel     
 
 262
 00:16:24,717 --> 00:16:27,452
-     to cut out jagged disks    
-       in the basic shape       
+to cut out jagged disks in the basic shape       
 
 263
 00:16:27,454 --> 00:16:30,288
-    of a circular-saw blade.    
+of a circular-saw blade.    
 
 264
 00:16:34,260 --> 00:16:36,127
- they feed each disk to rollers 
+they feed each disk to rollers 
 
 265
 00:16:36,129 --> 00:16:38,396
-       that press grooves       
-        onto both sides.        
+that press grooves onto both sides.        
 
 266
 00:16:38,398 --> 00:16:40,531
-          these grooves         
-      are tensioning rings      
+these grooves are tensioning rings      
 
 267
 00:16:40,533 --> 00:16:43,467
-    that will keep the blade    
-  from vibrating while cutting. 
+that will keep the blade from vibrating while cutting. 
 
 268
 00:16:43,469 --> 00:16:44,736
-     without these grooves,     
+without these grooves,     
 
 269
 00:16:44,738 --> 00:16:47,672
-       the circular blade       
-     wouldn't cut straight.     
+the circular blade wouldn't cut straight.     
 
 270
 00:16:51,011 --> 00:16:52,276
-      at the next station,      
+at the next station,      
 
 271
 00:16:52,278 --> 00:16:54,478
-   the assembler measures sags  
-           and buckles          
+the assembler measures sags and buckles          
 
 272
 00:16:54,480 --> 00:16:56,613
-    before feeding the disks    
-          to a machine          
+before feeding the disks to a machine          
 
 273
 00:16:56,615 --> 00:16:59,851
-      that rolls them flat      
-        like a pie crust.       
+that rolls them flat like a pie crust.       
 
 274
 00:17:02,822 --> 00:17:06,224
-        a grinding wheel        
-       polishes the blade.      
+a grinding wheel polishes the blade.      
 
 275
 00:17:08,294 --> 00:17:11,295
-   and then they load barrels   
-   of the disks into an oven    
+and then they load barrels of the disks into an oven    
 
 276
 00:17:11,297 --> 00:17:13,564
@@ -1306,56 +1122,48 @@ to bake until they're very hard.
 
 277
 00:17:13,566 --> 00:17:16,067
- this will take about 24 hours. 
+this will take about 24 hours. 
 
 278
 00:17:17,570 --> 00:17:20,971
-     meanwhile, carbide tips    
-      for the blades' teeth     
+meanwhile, carbide tips for the blades' teeth     
 
 279
 00:17:20,973 --> 00:17:23,241
-       funnel past a laser      
-          that confirms         
+funnel past a laser that confirms         
 
 280
 00:17:23,243 --> 00:17:26,110
-   they're properly positioned  
-       for the next step.       
+they're properly positioned for the next step.       
 
 281
 00:17:26,112 --> 00:17:29,046
-      a robot then picks up     
-        one tip at a time       
+a robot then picks up one tip at a time       
 
 282
 00:17:29,048 --> 00:17:30,915
-   and delivers it to nozzles.  
+and delivers it to nozzles.  
 
 283
 00:17:30,917 --> 00:17:34,251
-    the nozzles pump a paste    
-      called flux onto it.      
+the nozzles pump a paste called flux onto it.      
 
 284
 00:17:34,253 --> 00:17:39,057
-  another robot places a piece  
-  of solder metal on the flux.  
+another robot places a piece of solder metal on the flux.  
 
 285
 00:17:39,059 --> 00:17:44,595
 the next robot delivers the tips
-     to the saw-blade body.     
+to the saw-blade body.     
 
 286
 00:17:44,597 --> 00:17:47,598
- elements melt the solder metal 
-            and flux            
+elements melt the solder metal and flux            
 
 287
 00:17:47,600 --> 00:17:50,067
-    to fuse the carbide tips    
-          to the teeth.         
+to fuse the carbide tips to the teeth.         
 
 288
 00:17:50,069 --> 00:17:52,870
@@ -1363,112 +1171,96 @@ it's a technique called brazing.
 
 289
 00:17:58,344 --> 00:18:01,279
-     teeth with carbide tips    
-           last longer          
+teeth with carbide tips last longer          
 
 290
 00:18:01,281 --> 00:18:03,481
- without losing their sharpness.
+without losing their sharpness.
 
 291
 00:18:10,957 --> 00:18:12,757
-  circular blades for sawmills  
+circular blades for sawmills  
 
 292
 00:18:12,759 --> 00:18:15,026
-          have a larger         
-      and different design.     
+have a larger and different design.     
 
 293
 00:18:15,028 --> 00:18:17,761
-         they brush flux        
-       around a side hole       
+they brush flux around a side hole       
 
 294
 00:18:17,763 --> 00:18:22,233
- and then place soldering metal 
- on an elongated carbide tooth. 
+and then place soldering metal on an elongated carbide tooth. 
 
 295
 00:18:27,239 --> 00:18:30,241
-      they braze the tooth      
-     to the flux-coated hole    
+they braze the tooth to the flux-coated hole    
 
 296
 00:18:30,243 --> 00:18:33,844
-    and install several more    
-  of these carbide side teeth.  
+and install several more of these carbide side teeth.  
 
 297
 00:18:33,846 --> 00:18:36,180
-   the side teeth will enable   
-       this sawmill blade       
+the side teeth will enable this sawmill blade       
 
 298
 00:18:36,182 --> 00:18:38,583
-    to tear through big logs.   
+to tear through big logs.   
 
 299
 00:18:41,854 --> 00:18:45,189
- the smaller circular-saw blade 
-      now spins on an axle      
+the smaller circular-saw blade now spins on an axle      
 
 300
 00:18:45,191 --> 00:18:47,658
-      while a spray nozzle      
-         sandblasts it.         
+while a spray nozzle sandblasts it.         
 
 301
 00:18:47,660 --> 00:18:50,795
-        the sandblasting        
-       cleans the surface       
+the sandblasting cleans the surface       
 
 302
 00:18:50,797 --> 00:18:54,065
-       and gives the blade      
-       a brushed texture.       
+and gives the blade a brushed texture.       
 
 303
 00:18:58,805 --> 00:19:02,073
-  a mechanical finger now moves 
-    one of the blade's teeth    
+a mechanical finger now moves one of the blade's teeth    
 
 304
 00:19:02,075 --> 00:19:04,675
-  into position for sharpening. 
+into position for sharpening. 
 
 305
 00:19:04,677 --> 00:19:07,712
-        a grinding wheel        
-       tapers each tooth.       
+a grinding wheel tapers each tooth.       
 
 306
 00:19:09,815 --> 00:19:11,749
-   a different wheel moves in   
+a different wheel moves in   
 
 307
 00:19:11,751 --> 00:19:14,986
- and grinds the outside diameter
-          of the blade.         
+and grinds the outside diameter
+of the blade.         
 
 308
 00:19:16,556 --> 00:19:19,023
-       the geometric angle      
-    of the grinding can vary,   
+the geometric angle of the grinding can vary,   
 
 309
 00:19:19,025 --> 00:19:21,492
- depending on the type of blade 
-           being made.          
+depending on the type of blade being made.          
 
 310
 00:19:23,429 --> 00:19:27,030
-  the grinding wheel then hones 
-     the face of each tooth     
+the grinding wheel then hones the face of each tooth     
 
 311
 00:19:27,032 --> 00:19:29,000
-   to give it a sharper edge.   
+to give it a sharper edge.   
 
 312
 00:19:33,906 --> 00:19:35,840
@@ -1476,88 +1268,74 @@ next, a straightening specialist
 
 313
 00:19:35,842 --> 00:19:38,843
- pounds out any remaining bumps 
-         in the blade...        
+pounds out any remaining bumps in the blade...        
 
 314
 00:19:39,845 --> 00:19:43,047
-     ...and double-checks it    
-    with a straightedge tool.   
+...and double-checks it with a straightedge tool.   
 
 315
 00:19:45,451 --> 00:19:47,251
-    he wipes off any smudges    
+he wipes off any smudges    
 
 316
 00:19:47,253 --> 00:19:49,854
-    and then holds the blade    
-          to the light          
+and then holds the blade to the light          
 
 317
 00:19:49,856 --> 00:19:53,257
-   and examines it to confirm   
-      that it has no flaws.     
+and examines it to confirm that it has no flaws.     
 
 318
 00:20:02,068 --> 00:20:06,504
- a laser then etches the company
-    insignia onto the blade.    
+a laser then etches the company
+insignia onto the blade.    
 
 319
 00:20:10,476 --> 00:20:13,878
- and now the circular-saw blade 
-   is ready for its close-up.   
+and now the circular-saw blade is ready for its close-up.   
 
 320
 00:20:15,548 --> 00:20:17,681
-  a camera focuses on the teeth 
+a camera focuses on the teeth 
 
 321
 00:20:17,683 --> 00:20:20,550
-      and sends the picture     
-         to a computer.         
+and sends the picture to a computer.         
 
 322
 00:20:20,552 --> 00:20:23,888
-  it analyzes the cutting angle 
- and the clearance of each tooth
+it analyzes the cutting angle and the clearance of each tooth
 
 323
 00:20:23,890 --> 00:20:26,824
-          to make sure          
-      each one measures up.     
+to make sure each one measures up.     
 
 324
 00:20:29,629 --> 00:20:32,162
-           the result           
-     is circular-saw blades     
+the result is circular-saw blades     
 
 325
 00:20:32,164 --> 00:20:35,566
-   that should be able to keep  
-     their edge on the job.     
+that should be able to keep their edge on the job.     
 
 326
 00:20:35,568 --> 00:20:38,636
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 327
 00:20:38,638 --> 00:20:41,572
-      captions paid for by      
-  discovery communications, llc 
+captions paid for by discovery communications, llc 
 
 328
 00:20:45,177 --> 00:20:47,912
-    if you have any comments    
-         about the show         
+if you have any comments about the show         
 
 329
 00:20:47,914 --> 00:20:51,048
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 330
 00:20:51,050 --> 00:20:52,850
-      drop us a line at...      
+drop us a line at...      
 

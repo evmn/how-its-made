@@ -1,260 +1,215 @@
 ﻿1
 00:00:03,337 --> 00:00:06,339
-   -- <font color="#ffff00"> captions by vitac</font>  --    
-         <font color="#00ffff"> www.vitac.com</font>         
+-- <font color="#ffff00"> captions by vitac</font>  -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:06,341 --> 00:00:09,242
-      captions paid for by      
-   discovery communications     
+captions paid for by discovery communications     
 
 3
 00:00:44,245 --> 00:00:45,845
-           narrator:            
-      ...and water skis.        
+narrator: ...and water skis.        
 
 4
 00:00:53,787 --> 00:00:56,522
-    whether it's a hangnail     
-       that needs fixing        
+whether it's a hangnail that needs fixing        
 
 5
 00:00:56,524 --> 00:00:58,391
-    or it's simply time for a   
-             trim,              
+or it's simply time for a trim,              
 
 6
 00:00:58,393 --> 00:01:01,460
- a nail nipper is a good thing  
-  to have at your fingertips.   
+a nail nipper is a good thing to have at your fingertips.   
 
 7
 00:01:01,462 --> 00:01:03,529
- a nipper is a precision tool,  
+a nipper is a precision tool,  
 
 8
 00:01:03,531 --> 00:01:05,631
-        one that offers         
-      a bit more control        
+one that offers a bit more control        
 
 9
 00:01:05,633 --> 00:01:07,133
-  than lever-style clippers.    
+than lever-style clippers.    
 
 10
 00:01:07,135 --> 00:01:10,770
-     the result is usually      
-    a more manicured look.      
+the result is usually a more manicured look.      
 
 11
 00:01:15,944 --> 00:01:18,143
-           heavy duty           
- and made of stainless steel,   
+heavy duty and made of stainless steel,   
 
 12
 00:01:18,145 --> 00:01:21,546
-  the nipper nail cutter looks  
-               as               
- if it belongs in a tool chest  
+the nipper nail cutter looks as if it belongs in a tool chest  
 
 13
 00:01:21,548 --> 00:01:24,884
-   and it actually works like   
-        cutter pliers.          
+and it actually works like cutter pliers.          
 
 14
 00:01:27,955 --> 00:01:29,155
-     squeezing the handles      
+squeezing the handles      
 
 15
 00:01:29,157 --> 00:01:31,290
-    brings the curved blades    
-      at the end together       
+brings the curved blades at the end together       
 
 16
 00:01:31,292 --> 00:01:34,627
- for a well-rounded trim job.   
+for a well-rounded trim job.   
 
 17
 00:01:34,629 --> 00:01:37,562
-       the handles offer        
-  a bit moore maneuverability   
+the handles offer a bit moore maneuverability   
 
 18
 00:01:37,564 --> 00:01:42,101
-    than the lever mechanism    
-  on a standard nail clipper.   
+than the lever mechanism on a standard nail clipper.   
 
 19
 00:01:42,103 --> 00:01:45,904
-     production begins with     
-  these forged-steel blanks.    
+production begins with these forged-steel blanks.    
 
 20
 00:01:45,906 --> 00:01:49,709
-     they'll make two pairs     
+they'll make two pairs     
 of nail nippers from each one.  
 
 21
 00:01:49,711 --> 00:01:51,510
-      they load the blanks      
-        onto a carriage         
+they load the blanks onto a carriage         
 
 22
 00:01:51,512 --> 00:01:54,280
-      that transports them      
-        into a furnace.         
+that transports them into a furnace.         
 
 23
 00:01:55,849 --> 00:01:57,716
-  subjected to intense heat,    
+subjected to intense heat,    
 
 24
 00:01:57,718 --> 00:01:59,051
-    the steel blanks become     
+the steel blanks become     
 
 25
 00:01:59,053 --> 00:02:01,821
-    white-hot and malleable     
-          in minutes.           
+white-hot and malleable in minutes.           
 
 26
 00:02:05,526 --> 00:02:08,794
-       the foundry worker       
-  transfers a blank to a die.   
+the foundry worker transfers a blank to a die.   
 
 27
 00:02:08,796 --> 00:02:11,229
-   he moves it across the die   
-       and flips it over        
+he moves it across the die and flips it over        
 
 28
 00:02:11,231 --> 00:02:12,798
-   as a hammer slams it into    
+as a hammer slams it into    
 
 29
 00:02:12,800 --> 00:02:15,134
-        the shape of two        
-      nail-nipper shanks,       
+the shape of two nail-nipper shanks,       
 
 30
 00:02:15,136 --> 00:02:17,103
-   each with a cutting head.    
+each with a cutting head.    
 
 31
 00:02:18,806 --> 00:02:20,272
-   it takes several strikes     
+it takes several strikes     
 
 32
 00:02:20,274 --> 00:02:24,210
- to create the right impression 
-  on both sides of the blank.   
+to create the right impression on both sides of the blank.   
 
 33
 00:02:27,881 --> 00:02:31,350
-   the process transforms the   
-    narrow blank into a wider   
-             piece              
+the process transforms the narrow blank into a wider piece              
 
 34
 00:02:31,352 --> 00:02:34,086
-      with two nail-nipper      
-          formations.           
+with two nail-nipper formations.           
 
 35
 00:02:34,088 --> 00:02:37,890
-    this is the blank before    
-             forging            
-           and now.             
+this is the blank before forging and now.             
 
 36
 00:02:39,694 --> 00:02:42,895
- once the two shanks have been  
-    separated and trimmed,      
+once the two shanks have been separated and trimmed,      
 
 37
 00:02:42,897 --> 00:02:45,097
-      a drill cuts a hole       
-     under the blade end.       
+a drill cuts a hole under the blade end.       
 
 38
 00:02:45,099 --> 00:02:46,298
-    this is the area where      
+this is the area where      
 
 39
 00:02:46,300 --> 00:02:48,967
-       the nipper shanks        
-       are to be joined.        
+the nipper shanks are to be joined.        
 
 40
 00:02:48,969 --> 00:02:51,704
-         a milling tool         
-     shaves down the area       
+a milling tool shaves down the area       
 
 41
 00:02:51,706 --> 00:02:54,573
-  for a neat and level joint.   
+for a neat and level joint.   
 
 42
 00:02:54,575 --> 00:03:01,447
- this is the nail-nipper shank  
-    before the joint work and   
-             after.             
+this is the nail-nipper shank before the joint work and after.             
 
 43
 00:03:01,449 --> 00:03:05,050
-    they transfer the nipper    
-             shanks             
-    to a finishing machine.     
+they transfer the nipper shanks to a finishing machine.     
 
 44
 00:03:05,052 --> 00:03:07,986
- they bounce around in a stream 
-  of abrasive ceramic pebbles   
+they bounce around in a stream of abrasive ceramic pebbles   
 
 45
 00:03:07,988 --> 00:03:09,188
-       for a few hours.         
+for a few hours.         
 
 46
 00:03:09,190 --> 00:03:12,558
- this rubs off the rough bits.  
+this rubs off the rough bits.  
 
 47
 00:03:12,560 --> 00:03:15,795
-     a magnetized conveyor      
-  pulls out the steel shanks,   
+a magnetized conveyor pulls out the steel shanks,   
 
 48
 00:03:15,797 --> 00:03:19,065
-  leaving the ceramics behind   
-     and carries the shanks     
-            forward.            
+leaving the ceramics behind and carries the shanks forward.            
 
 49
 00:03:23,537 --> 00:03:26,939
-       an employee sands        
-   the entire surface of each   
-             shank              
+an employee sands the entire surface of each shank              
 
 50
 00:03:26,941 --> 00:03:29,375
-         until it looks         
-      completely smooth.        
+until it looks completely smooth.        
 
 51
 00:03:34,348 --> 00:03:36,348
-         he brushes oil         
-      onto a shank joint        
+he brushes oil onto a shank joint        
 
 52
 00:03:36,350 --> 00:03:39,684
- to prevent rust and abrasion.  
+to prevent rust and abrasion.  
 
 53
 00:03:39,686 --> 00:03:43,355
-   it's time to rivet the two   
- nail-nipper shanks together.   
+it's time to rivet the two nail-nipper shanks together.   
 
 54
 00:03:43,357 --> 00:03:44,890
@@ -262,91 +217,76 @@ the rivets funnel into tooling
 
 55
 00:03:44,892 --> 00:03:47,559
-        above and below         
-    the nail-nipper shanks.     
+above and below the nail-nipper shanks.     
 
 56
 00:03:47,561 --> 00:03:51,097
-    the machinery drives the    
-             rivets             
- into the holes in the shanks.  
+the machinery drives the rivets into the holes in the shanks.  
 
 57
 00:03:54,902 --> 00:03:57,303
-          once joined,          
-  they cannot be pulled apart   
+once joined, they cannot be pulled apart   
 
 58
 00:03:57,305 --> 00:04:00,840
- without completely destroying  
-       the nail nippers.        
+without completely destroying the nail nippers.        
 
 59
 00:04:03,778 --> 00:04:06,578
-         at this point,         
- the rivets protrude slightly   
+at this point, the rivets protrude slightly   
 
 60
 00:04:06,580 --> 00:04:09,749
-   and could snag on clothing   
-       or other things.         
+and could snag on clothing or other things.         
 
 61
 00:04:10,784 --> 00:04:12,651
- an employee sands each rivet   
+an employee sands each rivet   
 
 62
 00:04:12,653 --> 00:04:17,790
-  until it's on the same plane  
-    as the rest of the nipper   
-             joint.             
+until it's on the same plane as the rest of the nipper joint.             
 
 63
 00:04:17,792 --> 00:04:18,991
-     the vigorous sanding       
+the vigorous sanding       
 
 64
 00:04:18,993 --> 00:04:22,361
-      makes the rivet seem      
-     to almost disappear.       
+makes the rivet seem to almost disappear.       
 
 65
 00:04:24,798 --> 00:04:27,199
-          he polishes           
-    the inside of the nipper    
-             blades             
+he polishes the inside of the nipper blades             
 
 66
 00:04:27,201 --> 00:04:29,668
-      to completely smooth      
-         the surfaces.          
+to completely smooth the surfaces.          
 
 67
 00:04:29,670 --> 00:04:31,070
-        an even surface         
+an even surface         
 
 68
 00:04:31,072 --> 00:04:33,071
- can be more thoroughly cleaned 
-        and disinfected         
+can be more thoroughly cleaned and disinfected         
 
 69
 00:04:33,073 --> 00:04:35,107
-      between manicures.        
+between manicures.        
 
 70
 00:04:40,681 --> 00:04:43,749
-           the blades           
+the blades           
 are still blunt at this point.  
 
 71
 00:04:43,751 --> 00:04:46,885
-  the next member of the team   
-    files them on an angle      
+the next member of the team files them on an angle      
 
 72
 00:04:46,887 --> 00:04:49,155
- to give them a cutting edge.   
+to give them a cutting edge.   
 
 73
 00:04:51,025 --> 00:04:52,158
@@ -354,176 +294,145 @@ filing too little could hamper
 
 74
 00:04:52,160 --> 00:04:54,627
-         the clearance          
-      between the blades.       
+the clearance between the blades.       
 
 75
 00:04:54,629 --> 00:04:57,730
-        filing too much         
-     would ruin the nippers     
-           entirely.            
+filing too much would ruin the nippers entirely.            
 
 76
 00:04:59,967 --> 00:05:01,767
-    he tests them on paper.     
+he tests them on paper.     
 
 77
 00:05:01,769 --> 00:05:05,437
-   if the cutting edge slips,   
+if the cutting edge slips,   
 the blades may need more work.  
 
 78
 00:05:05,439 --> 00:05:08,574
-  if they slice right through,  
-      they're just right.       
+if they slice right through, they're just right.       
 
 79
 00:05:10,444 --> 00:05:14,780
-    next, he clamps the nail    
-             nippers            
-    onto a circular bench.      
+next, he clamps the nail nippers onto a circular bench.      
 
 80
 00:05:14,782 --> 00:05:16,782
-          it revolves           
-    to meet up with a laser     
+it revolves to meet up with a laser     
 
 81
 00:05:16,784 --> 00:05:19,451
-  that etches the company logo  
-     and other information      
+that etches the company logo and other information      
 
 82
 00:05:19,453 --> 00:05:22,854
-       onto the shanks.         
+onto the shanks.         
 
 83
 00:05:22,856 --> 00:05:25,658
-  after that, they drill holes  
-      and attach a spring       
+after that, they drill holes and attach a spring       
 
 84
 00:05:25,660 --> 00:05:29,862
-      to make the nippers       
-   easier to open and close.    
+to make the nippers easier to open and close.    
 
 85
 00:05:29,864 --> 00:05:33,332
-      for the professional      
-     who will be opening and    
-            closing             
+for the professional who will be opening and closing             
 
 86
 00:05:33,334 --> 00:05:36,334
-       these nail nippers       
-  a few hundred times a day,    
+these nail nippers a few hundred times a day,    
 
 87
 00:05:36,336 --> 00:05:39,804
-   this is a nifty feature.     
+this is a nifty feature.     
 
 88
 00:05:39,806 --> 00:05:41,540
-        they manufacture        
-      these nail nippers        
+they manufacture these nail nippers        
 
 89
 00:05:41,542 --> 00:05:46,946
- in batches of 300 or 400 over  
- a period of about two weeks,   
+in batches of 300 or 400 over a period of about two weeks,   
 
 90
 00:05:46,948 --> 00:05:50,316
-    so they're should always    
-      be plenty on hand.        
+so they're should always be plenty on hand.        
 
 91
 00:06:04,632 --> 00:06:06,999
-           narrator:            
- this putter is made of jade,   
+narrator: this putter is made of jade,   
 
 92
 00:06:07,001 --> 00:06:10,569
- a precious stone traditionally 
+a precious stone traditionally 
 used in jewelry and sculpture.  
 
 93
 00:06:10,571 --> 00:06:12,638
- long coveted for its beauty,   
+long coveted for its beauty,   
 
 94
 00:06:12,640 --> 00:06:15,240
-       jade is in demand        
-     on the putting green.      
+jade is in demand on the putting green.      
 
 95
 00:06:15,242 --> 00:06:18,711
- as tough as steel with a feel  
- that's distinctly different,   
+as tough as steel with a feel that's distinctly different,   
 
 96
 00:06:18,713 --> 00:06:22,348
-     a putter made of jade      
-   is definitely up to par.     
+a putter made of jade is definitely up to par.     
 
 97
 00:06:26,454 --> 00:06:27,920
-   the jade putter is among     
+the jade putter is among     
 
 98
 00:06:27,922 --> 00:06:30,055
-     a number of new clubs      
-        on the green...         
+a number of new clubs on the green...         
 
 99
 00:06:33,928 --> 00:06:38,130
-   along with crystal quartz    
-  and fossilized vegetation,    
+along with crystal quartz and fossilized vegetation,    
 
 100
 00:06:38,132 --> 00:06:41,533
-   known as petrified wood.     
+known as petrified wood.     
 
 101
 00:06:41,535 --> 00:06:44,603
-     to make a jade putter,     
-  they head for the hills --    
+to make a jade putter, they head for the hills --    
 
 102
 00:06:44,605 --> 00:06:49,041
-    specifically, a nephrite    
-   jade outcrop in wyoming.     
+specifically, a nephrite jade outcrop in wyoming.     
 
 103
 00:06:51,278 --> 00:06:56,048
-  here, the putter maker finds  
-     a 20-foot wide vein of     
-           nephrite.            
+here, the putter maker finds a 20-foot wide vein of nephrite.            
 
 104
 00:06:58,352 --> 00:07:02,487
- this stone has taken 2 billion 
-   years to form and develop    
+this stone has taken 2 billion years to form and develop    
 
 105
 00:07:02,489 --> 00:07:06,525
-    a very hard and fibrous     
-    crystalline structure.      
+a very hard and fibrous crystalline structure.      
 
 106
 00:07:08,495 --> 00:07:10,229
-   the carver selects slabs     
+the carver selects slabs     
 
 107
 00:07:10,231 --> 00:07:13,832
- that are thick enough to shape 
-    into four or five putter    
-             heads.             
+that are thick enough to shape into four or five putter heads.             
 
 108
 00:07:15,703 --> 00:07:18,037
-     this one has weathered     
-       to a rusty color,        
+this one has weathered to a rusty color,        
 
 109
 00:07:18,039 --> 00:07:20,439
@@ -531,262 +440,212 @@ but it should clean up nicely.
 
 110
 00:07:20,441 --> 00:07:21,840
-   the color of wyoming jade    
+the color of wyoming jade    
 
 111
 00:07:21,842 --> 00:07:25,077
-   ranges from white to green   
-           to black.            
+ranges from white to green to black.            
 
 112
 00:07:26,513 --> 00:07:29,581
-    he strikes the slab with    
-  a sledgehammer a few times    
+he strikes the slab with a sledgehammer a few times    
 
 113
 00:07:29,583 --> 00:07:32,251
-        to break it down        
-  to a more manageable size.    
+to break it down to a more manageable size.    
 
 114
 00:07:32,253 --> 00:07:36,588
-    he slices through one of    
+he slices through one of    
 the cut pieces with a rock saw  
 
 115
 00:07:36,590 --> 00:07:41,593
- while flushing it with coolant 
-  to save the diamond blade.    
+while flushing it with coolant to save the diamond blade.    
 
 116
 00:07:41,595 --> 00:07:43,395
-     he makes 9 or 10 cuts      
+he makes 9 or 10 cuts      
 
 117
 00:07:43,397 --> 00:07:48,600
-  to rough out the triangular   
-   mallet shape of the putter   
-             head.              
+to rough out the triangular mallet shape of the putter head.              
 
 118
 00:07:48,602 --> 00:07:52,171
-     he slices off the ends     
- to complete the basic shape.   
+he slices off the ends to complete the basic shape.   
 
 119
 00:07:56,410 --> 00:07:59,144
-   next, he anchors the jade    
-        in a wooden jig         
+next, he anchors the jade in a wooden jig         
 
 120
 00:07:59,146 --> 00:08:04,116
-     and cuts on an angle to    
-             profile            
- the sides of the putter head.  
+and cuts on an angle to profile the sides of the putter head.  
 
 121
 00:08:05,619 --> 00:08:07,419
- he slices off a back section   
+he slices off a back section   
 
 122
 00:08:07,421 --> 00:08:11,757
-  to give the putter clearance  
-  from the ground when swung.   
+to give the putter clearance from the ground when swung.   
 
 123
 00:08:11,759 --> 00:08:15,561
-          this putter           
-    has really taken shape.     
+this putter has really taken shape.     
 
 124
 00:08:15,563 --> 00:08:18,030
-      he removes material       
-       from the corners         
+he removes material from the corners         
 
 125
 00:08:18,032 --> 00:08:20,032
-       to center the mass       
-     behind the golf ball       
+to center the mass behind the golf ball       
 
 126
 00:08:20,034 --> 00:08:21,300
-   for more striking energy.    
+for more striking energy.    
 
 127
 00:08:24,839 --> 00:08:27,639
-       he sands the edges       
-   to round and soften them.    
+he sands the edges to round and soften them.    
 
 128
 00:08:27,641 --> 00:08:30,108
-   he's careful not to remove   
-     too much in one place      
+he's careful not to remove too much in one place      
 
 129
 00:08:30,110 --> 00:08:33,045
-   because that would affect    
-         the symmetry.          
+because that would affect the symmetry.          
 
 130
 00:08:34,514 --> 00:08:36,982
-        he then polishes        
-   the entire piece of jade     
+he then polishes the entire piece of jade     
 
 131
 00:08:36,984 --> 00:08:39,184
-    against diamond-abrasive    
-             belts.             
+against diamond-abrasive belts.             
 
 132
 00:08:39,186 --> 00:08:43,222
-   it's an intensive process    
-  that takes about two hours.   
+it's an intensive process that takes about two hours.   
 
 133
 00:08:46,794 --> 00:08:50,462
- he aims a drill and cores into 
- the putter head on a 20 angle  
+he aims a drill and cores into the putter head on a 20 angle  
 
 134
 00:08:50,464 --> 00:08:54,933
-         to make a hole         
-    for inserting the putter    
-             shaft.             
+to make a hole for inserting the putter shaft.             
 
 135
 00:08:54,935 --> 00:08:58,937
-   a perpetual flow of water    
-   keeps the diamond core bit   
-              cool              
+a perpetual flow of water keeps the diamond core bit cool              
 
 136
 00:08:58,939 --> 00:09:02,608
-      and also flushes out      
-  the little bits of filings.   
+and also flushes out the little bits of filings.   
 
 137
 00:09:04,745 --> 00:09:07,546
-   he gently taps the drilled   
-              core              
-           to jar it            
+he gently taps the drilled core to jar it            
 
 138
 00:09:07,548 --> 00:09:09,615
-       so it falls out of       
-       the putter head.         
+so it falls out of the putter head.         
 
 139
 00:09:13,687 --> 00:09:16,888
-       a laser emblazons        
-    the product name onto the   
-             jade,              
+a laser emblazons the product name onto the jade,              
 
 140
 00:09:16,890 --> 00:09:19,424
-       swiftly etching it       
-       into the surface.        
+swiftly etching it into the surface.        
 
 141
 00:09:19,426 --> 00:09:24,363
- the putters can be customized  
-   with a customer's name and   
-             logo.              
+the putters can be customized with a customer's name and logo.              
 
 142
 00:09:24,365 --> 00:09:27,299
-  he swabs gold-colored paint   
-    into the laser etching      
+he swabs gold-colored paint into the laser etching      
 
 143
 00:09:27,301 --> 00:09:29,301
-      to make the letters       
-       really stand out.        
+to make the letters really stand out.        
 
 144
 00:09:31,438 --> 00:09:32,637
-      the swabbing leaves       
+the swabbing leaves       
 
 145
 00:09:32,639 --> 00:09:34,773
-    a lot of residual paint     
-      around the letters,       
+a lot of residual paint around the letters,       
 
 146
 00:09:34,775 --> 00:09:36,909
-      so he rubs it off.        
+so he rubs it off.        
 
 147
 00:09:39,647 --> 00:09:41,913
-   he sprays the putter with    
-       a wax-based gloss        
+he sprays the putter with a wax-based gloss        
 
 148
 00:09:41,915 --> 00:09:45,517
-      to seal the stone.        
+to seal the stone.        
 
 149
 00:09:45,519 --> 00:09:47,853
-        he then buffs it        
-      against a felt belt       
+he then buffs it against a felt belt       
 
 150
 00:09:47,855 --> 00:09:51,356
-    to give the jade a satiny   
-             sheen.             
+to give the jade a satiny sheen.             
 
 151
 00:09:57,998 --> 00:09:59,531
-  he mixes epoxy ingredients    
+he mixes epoxy ingredients    
 
 152
 00:09:59,533 --> 00:10:04,002
-      to attach the shaft       
-  to the jade putter's head.    
+to attach the shaft to the jade putter's head.    
 
 153
 00:10:04,004 --> 00:10:08,941
-       he deposits epoxy        
-   in the hole in the shaft.    
+he deposits epoxy in the hole in the shaft.    
 
 154
 00:10:12,546 --> 00:10:16,882
-   he inserts the steel shaft   
-    into the 20-angle hole.     
+he inserts the steel shaft into the 20-angle hole.     
 
 155
 00:10:19,687 --> 00:10:22,154
-     the angle of the hole      
-  positions the putter shaft    
+the angle of the hole positions the putter shaft    
 
 156
 00:10:22,156 --> 00:10:24,556
-     to match the golfer's      
-        upright stance.         
+to match the golfer's upright stance.         
 
 157
 00:10:27,828 --> 00:10:30,095
-   once the pistol-style grip   
-     has been slipped on,       
+once the pistol-style grip has been slipped on,       
 
 158
 00:10:30,097 --> 00:10:34,233
-   he applies a metallic-look   
-              decal             
-        just below it.          
+he applies a metallic-look decal just below it.          
 
 159
 00:10:34,235 --> 00:10:37,836
-       the decal displays       
-  company contact information   
+the decal displays company contact information   
 
 160
 00:10:37,838 --> 00:10:39,304
-   in the event of a problem    
+in the event of a problem    
 
 161
 00:10:39,306 --> 00:10:42,374
-  that doesn't have to do with  
-    the golfer's technique.     
+that doesn't have to do with the golfer's technique.     
 
 162
 00:10:43,577 --> 00:10:45,444
@@ -794,88 +653,71 @@ after cleaning and inspection,
 
 163
 00:10:45,446 --> 00:10:49,180
-        this jade putter        
-     is ready for action.       
+this jade putter is ready for action.       
 
 164
 00:10:49,182 --> 00:10:52,050
-  putters carved from jade and  
-        other materials         
+putters carved from jade and other materials         
 
 165
 00:10:52,052 --> 00:10:54,986
-     are crafty editions to     
-     the golf-club arsenal      
+are crafty editions to the golf-club arsenal      
 
 166
 00:10:54,988 --> 00:10:58,757
-     and could lead to some     
-  artful moves on the green.    
+and could lead to some artful moves on the green.    
 
 167
 00:11:15,209 --> 00:11:17,676
-           narrator:            
-    ice cider is an alcoholic   
-             drink              
+narrator: ice cider is an alcoholic drink              
 
 168
 00:11:17,678 --> 00:11:20,279
-      made from fermented,      
- frozen apples or apple juice.  
+made from fermented, frozen apples or apple juice.  
 
 169
 00:11:20,281 --> 00:11:23,081
-       it's also known as       
-        apple ice wine          
+it's also known as apple ice wine          
 
 170
 00:11:23,083 --> 00:11:26,084
-        and is produced         
-   the same way as ice wine     
+and is produced the same way as ice wine     
 
 171
 00:11:26,086 --> 00:11:28,020
-        but with apples         
-      instead of grapes.        
+but with apples instead of grapes.        
 
 172
 00:11:28,022 --> 00:11:31,089
-   it's typically served with   
-              food              
-      such as foie gras,        
+it's typically served with food such as foie gras,        
 
 173
 00:11:31,091 --> 00:11:34,293
-         cheese, fruit,         
-      and dark chocolate.       
+cheese, fruit, and dark chocolate.       
 
 174
 00:11:36,163 --> 00:11:37,762
- there's a world of difference  
+there's a world of difference  
 
 175
 00:11:37,764 --> 00:11:39,764
-       between ice cider        
-      and regular cider.        
+between ice cider and regular cider.        
 
 176
 00:11:39,766 --> 00:11:42,568
-         regular cider          
-  is made from fresh apples,    
+regular cider is made from fresh apples,    
 
 177
 00:11:42,570 --> 00:11:45,103
-       whereas ice cider        
-  is made from frozen apples    
+whereas ice cider is made from frozen apples    
 
 178
 00:11:45,105 --> 00:11:47,439
-    or frozen apple juice.      
+or frozen apple juice.      
 
 179
 00:11:47,441 --> 00:11:50,575
-     and while cider can be     
-   a non-alcoholic beverage,    
+and while cider can be a non-alcoholic beverage,    
 
 180
 00:11:50,577 --> 00:11:53,845
@@ -883,37 +725,33 @@ ice cider is always alcoholic.
 
 181
 00:11:53,847 --> 00:11:56,447
-     there are two methods      
-     to making ice cider.       
+there are two methods to making ice cider.       
 
 182
 00:11:56,449 --> 00:11:58,183
-   one is to leave the apples   
-          on the tree           
+one is to leave the apples on the tree           
 
 183
 00:11:58,185 --> 00:12:02,521
-   to freeze over the winter,   
+to freeze over the winter,   
 then pick them and press them.  
 
 184
 00:12:02,523 --> 00:12:05,323
-       the other method,        
-   which we're about to see,    
+the other method, which we're about to see,    
 
 185
 00:12:05,325 --> 00:12:08,526
-    is to harvest the apples    
+is to harvest the apples    
 in the fall when they're ripe,  
 
 186
 00:12:08,528 --> 00:12:11,129
-          press them,           
-    then freeze the juice.      
+press them, then freeze the juice.      
 
 187
 00:12:14,468 --> 00:12:17,402
-     the apples are always      
+the apples are always      
 handpicked at perfect maturity  
 
 188
@@ -922,420 +760,344 @@ and always right off the tree.
 
 189
 00:12:20,407 --> 00:12:23,542
-     an ice-cider producer      
-   never uses fallen apples     
+an ice-cider producer never uses fallen apples     
 
 190
 00:12:23,544 --> 00:12:26,678
- because they often get damaged 
-   when they hit the ground     
+because they often get damaged when they hit the ground     
 
 191
 00:12:26,680 --> 00:12:30,048
-   and then pick up bacteria    
-       from lying there.        
+and then pick up bacteria from lying there.        
 
 192
 00:12:32,319 --> 00:12:35,019
-       this producer uses       
- different varieties of apples  
+this producer uses different varieties of apples  
 
 193
 00:12:35,021 --> 00:12:37,822
-     to make several types      
-         of ice cider.          
+to make several types of ice cider.          
 
 194
 00:12:37,824 --> 00:12:41,026
- the one we're about to see is  
-  made from empire, spartan,    
+the one we're about to see is made from empire, spartan,    
 
 195
 00:12:41,028 --> 00:12:44,396
-      cortland, mcintosh,       
-      and golden russet.        
+cortland, mcintosh, and golden russet.        
 
 196
 00:12:47,368 --> 00:12:48,700
-  straight from the orchard,    
+straight from the orchard,    
 
 197
 00:12:48,702 --> 00:12:50,435
-       the apples go onto       
-        a conveyor belt         
+the apples go onto a conveyor belt         
 
 198
 00:12:50,437 --> 00:12:53,105
-     which feeds them into      
-      a multistage press.       
+which feeds them into a multistage press.       
 
 199
 00:13:00,180 --> 00:13:02,714
-  the first part of the press   
-      crushes the apples        
+the first part of the press crushes the apples        
 
 200
 00:13:02,716 --> 00:13:05,150
- into what's known as pumice.   
+into what's known as pumice.   
 
 201
 00:13:13,060 --> 00:13:16,594
-   a screw conveyor moves the   
-   pumice onto a mesh conveyor  
-              belt              
+a screw conveyor moves the pumice onto a mesh conveyor belt              
 
 202
 00:13:16,596 --> 00:13:20,399
-   that transports it through   
- five stainless-steel rollers.  
+that transports it through five stainless-steel rollers.  
 
 203
 00:13:20,401 --> 00:13:24,536
-      each roller applies       
-    275 pounds of pressure,     
+each roller applies 275 pounds of pressure,     
 
 204
 00:13:24,538 --> 00:13:27,539
-    progressively extracting    
-       the apple juice.         
+progressively extracting the apple juice.         
 
 205
 00:13:37,284 --> 00:13:39,617
- the juice drains down through  
-    the mesh conveyor belt      
+the juice drains down through the mesh conveyor belt      
 
 206
 00:13:39,619 --> 00:13:41,553
-        to a vat below.         
+to a vat below.         
 
 207
 00:13:48,362 --> 00:13:51,095
-   from the vat, the juice is   
- pumped into a large container  
+from the vat, the juice is pumped into a large container  
 
 208
 00:13:51,097 --> 00:13:54,232
-  made of food-safe plastic.    
+made of food-safe plastic.    
 
 209
 00:13:57,571 --> 00:14:00,305
-     the container holds 264    
-            gallons.            
+the container holds 264 gallons.            
 
 210
 00:14:00,307 --> 00:14:04,042
-      however, they leave       
- 13 to 26 gallons of air space  
+however, they leave 13 to 26 gallons of air space  
 
 211
 00:14:04,044 --> 00:14:08,246
-  to leave room for expansion   
-    when the juice freezes.     
+to leave room for expansion when the juice freezes.     
 
 212
 00:14:08,248 --> 00:14:09,447
-    at the end of december,     
+at the end of december,     
 
 213
 00:14:09,449 --> 00:14:12,316
-    they haul the containers    
-           outdoors.            
+they haul the containers outdoors.            
 
 214
 00:14:12,318 --> 00:14:15,654
-    the juice stays outside     
-      from 40 to 50 days,       
+the juice stays outside from 40 to 50 days,       
 
 215
 00:14:15,656 --> 00:14:18,256
-       during which time        
-   the water in it freezes,     
+during which time the water in it freezes,     
 
 216
 00:14:18,258 --> 00:14:20,458
-            leaving             
- unfrozen, concentrated juice   
+leaving unfrozen, concentrated juice   
 
 217
 00:14:20,460 --> 00:14:23,728
-      at the bottom of the      
-           container.           
+at the bottom of the container.           
 
 218
 00:14:23,730 --> 00:14:27,031
-        workers measure         
-   the sugar content daily,     
+workers measure the sugar content daily,     
 
 219
 00:14:27,033 --> 00:14:29,067
-      and once it reaches       
-       a certain level,         
+and once it reaches a certain level,         
 
 220
 00:14:29,069 --> 00:14:30,602
-  they pump the juice indoors   
+they pump the juice indoors   
 
 221
 00:14:30,604 --> 00:14:34,005
-  into temperature-controlled,  
-    stainless-steel tanks.      
+into temperature-controlled, stainless-steel tanks.      
 
 222
 00:14:34,007 --> 00:14:36,541
-      then they add yeast       
- to kick-start fermentation --  
+then they add yeast to kick-start fermentation --  
 
 223
 00:14:36,543 --> 00:14:40,379
-    the conversion of those     
-  natural sugars to alcohol.    
+the conversion of those natural sugars to alcohol.    
 
 224
 00:14:42,549 --> 00:14:44,416
-           every day,           
- they measure the sugar level   
+every day, they measure the sugar level   
 
 225
 00:14:44,418 --> 00:14:46,952
-           to monitor           
-   the fermentation process.    
+to monitor the fermentation process.    
 
 226
 00:14:46,954 --> 00:14:48,619
-  when they hit their target,   
+when they hit their target,   
 
 227
 00:14:48,621 --> 00:14:51,623
-     which typically takes      
-    between 40 and 50 days,     
+which typically takes between 40 and 50 days,     
 
 228
 00:14:51,625 --> 00:14:53,958
-   the juice has transformed    
-        into ice cider          
+the juice has transformed into ice cider          
 
 229
 00:14:53,960 --> 00:14:58,630
-    with an alcohol content     
-       of 10.5% to 11%.         
+with an alcohol content of 10.5% to 11%.         
 
 230
 00:15:01,368 --> 00:15:04,369
-      ice cider is bottled      
-        just like wine.         
+ice cider is bottled just like wine.         
 
 231
 00:15:09,309 --> 00:15:12,043
-      the corking machine       
- automatically pops in a cork   
+the corking machine automatically pops in a cork   
 
 232
 00:15:12,045 --> 00:15:15,680
- as soon as its sensor detects  
-   the presence of a bottle.    
+as soon as its sensor detects the presence of a bottle.    
 
 233
 00:15:22,121 --> 00:15:24,355
-        the next machine        
-     slips a plastic seal       
+the next machine slips a plastic seal       
 
 234
 00:15:24,357 --> 00:15:27,125
- over the mouth of the bottle,  
-    then heats the plastic      
+over the mouth of the bottle, then heats the plastic      
 
 235
 00:15:27,127 --> 00:15:30,162
-       to shrink the seal       
-   tightly around the cork.     
+to shrink the seal tightly around the cork.     
 
 236
 00:15:39,206 --> 00:15:41,673
-            finally,            
- an automated labeling machine  
+finally, an automated labeling machine  
 
 237
 00:15:41,675 --> 00:15:44,009
-     simultaneously applies     
-     self-sticking labels       
+simultaneously applies self-sticking labels       
 
 238
 00:15:44,011 --> 00:15:46,811
-    to the front and back.      
+to the front and back.      
 
 239
 00:15:46,813 --> 00:15:50,147
-     it isn't only the apple    
-             variety            
-  that determines the flavor.   
+it isn't only the apple variety that determines the flavor.   
 
 240
 00:15:50,149 --> 00:15:53,218
-    it's also the production    
-            method.             
+it's also the production method.             
 
 241
 00:15:53,220 --> 00:15:57,155
-  the process we've just seen,  
-   called cryoconcentration,    
+the process we've just seen, called cryoconcentration,    
 
 242
 00:15:57,157 --> 00:16:01,492
-    produces ice cider with     
-   a strong, fruity flavor.     
+produces ice cider with a strong, fruity flavor.     
 
 243
 00:16:01,494 --> 00:16:03,962
-       the other method,        
-   called cryoextraction --     
+the other method, called cryoextraction --     
 
 244
 00:16:03,964 --> 00:16:06,964
-    letting apples freeze on    
-  the tree, then pressing them  
-               --               
+letting apples freeze on the tree, then pressing them --               
 
 245
 00:16:06,966 --> 00:16:11,036
-    produces ice cider which    
-   tastes like baked apples.    
+produces ice cider which tastes like baked apples.    
 
 246
 00:16:26,052 --> 00:16:29,187
-     narrator: water skiing     
-     was invented in 1922       
+narrator: water skiing was invented in 1922       
 
 247
 00:16:29,189 --> 00:16:32,123
-    by an american teenager     
-    named ralph samuelson.      
+by an american teenager named ralph samuelson.      
 
 248
 00:16:32,125 --> 00:16:34,458
-        with his brother        
-   pulling him by motorboat,    
+with his brother pulling him by motorboat,    
 
 249
 00:16:34,460 --> 00:16:37,862
-   he experimented first with   
-  skis made of barrel staves,   
+he experimented first with skis made of barrel staves,   
 
 250
 00:16:37,864 --> 00:16:39,664
-     then with snow skis,       
+then with snow skis,       
 
 251
 00:16:39,666 --> 00:16:44,436
-   then with skis he had made   
- out of pine boards 94" long.   
+then with skis he had made out of pine boards 94" long.   
 
 252
 00:16:47,073 --> 00:16:49,741
-   this type of water skiing    
-      is known as slalom,       
+this type of water skiing is known as slalom,       
 
 253
 00:16:49,743 --> 00:16:52,477
-    winding through a course    
-    on a single water ski,      
+winding through a course on a single water ski,      
 
 254
 00:16:52,479 --> 00:16:56,681
-   one foot behind the other,   
- in boots mounted to the ski.   
+one foot behind the other, in boots mounted to the ski.   
 
 255
 00:16:56,683 --> 00:16:58,350
-       the core of these        
-        top-of-the-line         
+the core of these top-of-the-line         
 
 256
 00:16:58,352 --> 00:17:02,687
-    competition slalom skis     
-  is high-density pvc foam --   
+competition slalom skis is high-density pvc foam --   
 
 257
 00:17:02,689 --> 00:17:05,823
-     exceptionally strong,      
-       yet lightweight.         
+exceptionally strong, yet lightweight.         
 
 258
 00:17:05,825 --> 00:17:09,026
-   a computer-guided machine    
-      cuts the ski shape,       
+a computer-guided machine cuts the ski shape,       
 
 259
 00:17:09,028 --> 00:17:13,164
-          then pockets          
+then pockets          
 to receive various components.  
 
 260
 00:17:13,166 --> 00:17:15,233
-            workers             
-  flip the core upside down,    
+workers flip the core upside down,    
 
 261
 00:17:15,235 --> 00:17:18,136
-        and the machine         
-      shapes the bottom.        
+and the machine shapes the bottom.        
 
 262
 00:17:23,910 --> 00:17:26,645
-   workers then turn the core   
-      right-side up again       
+workers then turn the core right-side up again       
 
 263
 00:17:26,647 --> 00:17:30,849
-    and fill the pockets with   
-             glue.              
+and fill the pockets with glue.              
 
 264
 00:17:30,851 --> 00:17:33,851
-  they insert an alignment tab  
-      in the tail pocket        
+they insert an alignment tab in the tail pocket        
 
 265
 00:17:33,853 --> 00:17:36,788
-   to help correctly position   
-     the core in the mold.      
+to help correctly position the core in the mold.      
 
 266
 00:17:36,790 --> 00:17:39,791
-   they install fiberglassed,   
-    reinforced nylon blocks     
+they install fiberglassed, reinforced nylon blocks     
 
 267
 00:17:39,793 --> 00:17:41,259
-        in the others.          
+in the others.          
 
 268
 00:17:41,261 --> 00:17:43,194
-       these will anchor        
-       threaded inserts         
+these will anchor threaded inserts         
 
 269
 00:17:43,196 --> 00:17:46,397
-          for mounting          
- the boots and the ski's fin.   
+for mounting the boots and the ski's fin.   
 
 270
 00:17:46,399 --> 00:17:48,600
-         now they begin         
-   building up the water ski    
+now they begin building up the water ski    
 
 271
 00:17:48,602 --> 00:17:50,801
-      with multiple layers      
-       of carbon fiber,         
+with multiple layers of carbon fiber,         
 
 272
 00:17:50,803 --> 00:17:52,938
-    an ultra-strong fabric.     
+an ultra-strong fabric.     
 
 273
 00:17:52,940 --> 00:17:55,540
-   they apply the first layer   
-        to the bottom,          
+they apply the first layer to the bottom,          
 
 274
 00:17:55,542 --> 00:17:57,475
@@ -1343,94 +1105,80 @@ wrapping it around to the top.
 
 275
 00:17:57,477 --> 00:17:59,944
-           this will            
+this will            
 prevent the ski from twisting.  
 
 276
 00:17:59,946 --> 00:18:02,013
-      after stapling down       
-       the carbon fiber         
+after stapling down the carbon fiber         
 
 277
 00:18:02,015 --> 00:18:05,750
-  and trimming off the excess,  
-  they saturate it with resin   
+and trimming off the excess, they saturate it with resin   
 
 278
 00:18:05,752 --> 00:18:08,420
-     and apply carbon fiber     
-    to the top of the ski.      
+and apply carbon fiber to the top of the ski.      
 
 279
 00:18:08,422 --> 00:18:12,023
-   depending on the model and   
-         its performance        
-        specifications,         
+depending on the model and its performance specifications,         
 
 280
 00:18:12,025 --> 00:18:14,025
-       they wrap the core       
-     in up to seven layers      
+they wrap the core in up to seven layers      
 
 281
 00:18:14,027 --> 00:18:16,761
-    of resin-saturated carbon   
-             fiber,             
+of resin-saturated carbon fiber,             
 
 282
 00:18:16,763 --> 00:18:19,631
-      controlling the flex      
- in select areas along the way  
+controlling the flex in select areas along the way  
 
 283
 00:18:19,633 --> 00:18:22,566
-   with additional patches.     
+with additional patches.     
 
 284
 00:18:22,568 --> 00:18:24,002
-     then they top the ski      
+then they top the ski      
 
 285
 00:18:24,004 --> 00:18:26,771
-     with a layer of woven,     
-       synthetic fabric         
+with a layer of woven, synthetic fabric         
 
 286
 00:18:26,773 --> 00:18:30,375
-    to prime the surface for    
-   the decorative graphics.     
+to prime the surface for the decorative graphics.     
 
 287
 00:18:30,377 --> 00:18:32,644
-   on the bottom of the ski,    
+on the bottom of the ski,    
 
 288
 00:18:32,646 --> 00:18:35,913
-     they apply a sheet of      
-  super-lightweight polymer.    
+they apply a sheet of super-lightweight polymer.    
 
 289
 00:18:35,915 --> 00:18:37,982
- it creates a white background  
+it creates a white background  
 
 290
 00:18:37,984 --> 00:18:39,851
-          to highlight          
-  the printed polyester sheet   
+to highlight the printed polyester sheet   
 
 291
 00:18:39,853 --> 00:18:42,053
-    of decorative graphics.     
+of decorative graphics.     
 
 292
 00:18:42,055 --> 00:18:43,922
-       they coat it with        
-        a special resin         
+they coat it with a special resin         
 
 293
 00:18:43,924 --> 00:18:47,191
-        that cures into         
- a hard, hydrodynamic surface   
+that cures into a hard, hydrodynamic surface   
 
 294
 00:18:47,193 --> 00:18:50,928
@@ -1438,208 +1186,167 @@ that increase the ski's speed.
 
 295
 00:18:50,930 --> 00:18:53,932
-    the graphic design that     
- decorates the top of the ski   
+the graphic design that decorates the top of the ski   
 
 296
 00:18:53,934 --> 00:18:55,800
-     is printed on nylon.       
+is printed on nylon.       
 
 297
 00:18:55,802 --> 00:18:58,803
-  they mount it to the top part 
-               of               
-      a ski-shaped mold,        
+they mount it to the top part of a ski-shaped mold,        
 
 298
 00:18:58,805 --> 00:19:02,040
-   then lay the wrapped core    
-     into the bottom part.      
+then lay the wrapped core into the bottom part.      
 
 299
 00:19:03,343 --> 00:19:05,476
-    a heated press closes the   
-             mold,              
+a heated press closes the mold,              
 
 300
 00:19:05,478 --> 00:19:10,415
- compressing the contents under 
-     high pressure for nine     
-            minutes.            
+compressing the contents under high pressure for nine minutes.            
 
 301
 00:19:10,417 --> 00:19:14,152
-     this bonds the layers,     
-  forms contours in the ski,    
+this bonds the layers, forms contours in the ski,    
 
 302
 00:19:14,154 --> 00:19:18,156
-   and adheres the graphics.    
+and adheres the graphics.    
 
 303
 00:19:18,158 --> 00:19:21,493
-   the pressure squeezes out    
-     excess resin along the     
-           perimeter            
+the pressure squeezes out excess resin along the perimeter            
 
 304
 00:19:21,495 --> 00:19:23,828
-      so once they remove       
-    the ski from the mold,      
+so once they remove the ski from the mold,      
 
 305
 00:19:23,830 --> 00:19:27,065
-    they cut off the excess     
-       with a band saw.         
+they cut off the excess with a band saw.         
 
 306
 00:19:33,040 --> 00:19:35,306
-           then with            
-   a custom-made router bit,    
+then with a custom-made router bit,    
 
 307
 00:19:35,308 --> 00:19:39,110
-      they precision-trim       
-   to exact specifications.     
+they precision-trim to exact specifications.     
 
 308
 00:19:49,122 --> 00:19:52,590
-   next, a three-phase filing   
-     of the ski's edge --       
+next, a three-phase filing of the ski's edge --       
 
 309
 00:19:52,592 --> 00:19:56,393
-    first with a large file,    
-      then a small file,        
+first with a large file, then a small file,        
 
 310
 00:19:56,395 --> 00:20:01,332
- then with either a razor blade 
-   or medium-grit sandpaper.    
+then with either a razor blade or medium-grit sandpaper.    
 
 311
 00:20:01,334 --> 00:20:02,867
-           then with            
-    the help of a template,     
+then with the help of a template,     
 
 312
 00:20:02,869 --> 00:20:04,536
-      they drill 18 holes       
+they drill 18 holes       
 
 313
 00:20:04,538 --> 00:20:08,807
-           into those           
-      fiberglass-reinforced     
-   nylon blocks in the core.    
+into those fiberglass-reinforced nylon blocks in the core.    
 
 314
 00:20:10,944 --> 00:20:13,611
-  they screw a threaded insert  
-        into each hole,         
+they screw a threaded insert into each hole,         
 
 315
 00:20:13,613 --> 00:20:15,880
- and it locks into the block.   
+and it locks into the block.   
 
 316
 00:20:15,882 --> 00:20:19,017
-     there are more inserts     
-  that are actually required    
+there are more inserts that are actually required    
 
 317
 00:20:19,019 --> 00:20:21,352
-      for mounting the fin      
- and attaching the ski boots.   
+for mounting the fin and attaching the ski boots.   
 
 318
 00:20:21,354 --> 00:20:25,957
-      this gives the skier      
+this gives the skier      
 different positioning options.  
 
 319
 00:20:25,959 --> 00:20:31,162
-   now the last edge-sanding    
-     with fine-grit paper.      
+now the last edge-sanding with fine-grit paper.      
 
 320
 00:20:31,164 --> 00:20:35,366
-  after wiping down the entire  
-               ski              
+after wiping down the entire ski              
 with an alcohol-based cleaner,  
 
 321
 00:20:35,368 --> 00:20:39,303
-     they install the final     
-  and most important component  
-               --               
+they install the final and most important component --               
 
 322
 00:20:39,305 --> 00:20:41,572
-           the fin.             
+the fin.             
 
 323
 00:20:41,574 --> 00:20:43,841
-     it's made of aluminum      
-   that's chemically treated    
+it's made of aluminum that's chemically treated    
 
 324
 00:20:43,843 --> 00:20:47,312
-   to be corrosion-resistant    
-      and ultra-durable.        
+to be corrosion-resistant and ultra-durable.        
 
 325
 00:20:52,519 --> 00:20:53,851
-      the fin's position        
+the fin's position        
 
 326
 00:20:53,853 --> 00:20:56,521
-  critically affects the ski's  
-    traction and stability,     
+critically affects the ski's traction and stability,     
 
 327
 00:20:56,523 --> 00:20:59,390
-    so they use a micrometer    
- to measure to the millimeter,  
+so they use a micrometer to measure to the millimeter,  
 
 328
 00:20:59,392 --> 00:21:02,927
-   securing the fin precisely   
-              where             
- the design engineer specified  
+securing the fin precisely where the design engineer specified  
 
 329
 00:21:02,929 --> 00:21:06,097
-             in the             
-    performance-maximization    
-          sweet spot.           
+in the performance-maximization sweet spot.           
 
 330
 00:21:10,804 --> 00:21:13,003
-          nonetheless,          
-   competitive water-skiers     
+nonetheless, competitive water-skiers     
 
 331
 00:21:13,005 --> 00:21:16,140
-   typically readjust the fin   
-   to their own preferences     
+typically readjust the fin to their own preferences     
 
 332
 00:21:16,142 --> 00:21:19,644
-       in hopes of leaving      
-           competitors          
-        in their wake.          
+in hopes of leaving competitors in their wake.          
 
 333
 00:21:30,490 --> 00:21:33,024
-    if you have any comments    
-        about the show,         
+if you have any comments about the show,         
 
 334
 00:21:33,026 --> 00:21:35,827
-  or if you'd like to suggest   
-   topics for future shows,     
+or if you'd like to suggest topics for future shows,     
 
 335
 00:21:35,829 --> 00:21:37,562
-     drop us a line at...       
+drop us a line at...       
 

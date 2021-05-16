@@ -1,94 +1,83 @@
 1
 00:00:01,202 --> 00:00:03,135
-           [ beeping ]          
+[ beeping ]          
 
 2
 00:00:03,137 --> 00:00:06,071
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 3
 00:00:06,073 --> 00:00:09,141
-      captions paid for by      
-    discovery communications    
+captions paid for by discovery communications    
 
 4
 00:00:09,143 --> 00:00:17,884
-                     ♪          
+♪          
 
 5
 00:00:17,886 --> 00:00:26,759
-                     ♪          
+♪          
 
 6
 00:00:26,761 --> 00:00:35,634
-                     ♪          
+♪          
 
 7
 00:00:35,636 --> 00:00:44,443
-                     ♪          
+♪          
 
 8
 00:00:44,445 --> 00:00:53,319
-                     ♪          
+♪          
 
 9
 00:00:53,321 --> 00:00:55,888
-     narrator: spiral stairs    
-     were part of a strategy    
+narrator: spiral stairs were part of a strategy    
 
 10
 00:00:55,890 --> 00:00:58,791
-      to defend the towers      
-      of medieval castles.      
+to defend the towers of medieval castles.      
 
 11
 00:00:58,793 --> 00:01:01,060
-        attackers had to        
-        climb single-file       
+attackers had to climb single-file       
 
 12
 00:01:01,062 --> 00:01:04,196
-       and couldn't storm       
-     the castle all at once.    
+and couldn't storm the castle all at once.    
 
 13
 00:01:04,198 --> 00:01:05,665
-  and at the top of the stairs, 
+and at the top of the stairs, 
 
 14
 00:01:05,667 --> 00:01:09,068
- the guardsmen could more easily
-     maneuver their swords,     
+the guardsmen could more easily
+maneuver their swords,     
 
 15
 00:01:09,070 --> 00:01:11,003
-   giving them the upper hand.  
+giving them the upper hand.  
 
 16
 00:01:14,409 --> 00:01:16,942
-    spiral stairs take people   
-        to the next level       
+spiral stairs take people to the next level       
 
 17
 00:01:16,944 --> 00:01:20,145
-        without taking up       
-         a lot of space.        
+without taking up a lot of space.        
 
 18
 00:01:20,147 --> 00:01:23,482
-    they're compact, and with   
-   their corkscrew curvature,   
+they're compact, and with their corkscrew curvature,   
 
 19
 00:01:23,484 --> 00:01:27,620
-        they can also be        
-     architectural features.    
+they can also be architectural features.    
 
 20
 00:01:27,622 --> 00:01:29,956
-     production starts with     
-         the steel hubs         
+production starts with the steel hubs         
 
 21
 00:01:29,958 --> 00:01:32,624
@@ -96,545 +85,467 @@ cut to the desired riser height.
 
 22
 00:01:32,626 --> 00:01:35,294
-         a worker files         
-     the sharp edges smooth     
+a worker files the sharp edges smooth     
 
 23
 00:01:35,296 --> 00:01:36,695
-   and drills a threaded hole   
+and drills a threaded hole   
 
 24
 00:01:36,697 --> 00:01:39,966
-  which will be used to fasten  
-      the treads in place.      
+which will be used to fasten the treads in place.      
 
 25
 00:01:42,370 --> 00:01:46,438
- a computer-driven plasma system
-  cuts through a sheet of steel 
+a computer-driven plasma system
+cuts through a sheet of steel 
 
 26
 00:01:46,440 --> 00:01:51,309
-    to produce the pie-shaped   
-          stair treads.         
+to produce the pie-shaped stair treads.         
 
 27
 00:01:51,311 --> 00:01:53,712
-    a worker nestles a tread    
-           to the hub           
+a worker nestles a tread to the hub           
 
 28
 00:01:53,714 --> 00:01:56,248
-         and clamps them        
-       in a weld fixture.       
+and clamps them in a weld fixture.       
 
 29
 00:01:56,250 --> 00:01:58,384
-         he also clamps         
-       structural supports      
+he also clamps structural supports      
 
 30
 00:01:58,386 --> 00:02:02,187
-    to the base of the tread.   
+to the base of the tread.   
 
 31
 00:02:02,189 --> 00:02:04,590
-       with everything in       
-    the right configuration,    
+with everything in the right configuration,    
 
 32
 00:02:04,592 --> 00:02:07,927
-      he welds the supports     
-    to the tread and the hub.   
+he welds the supports to the tread and the hub.   
 
 33
 00:02:07,929 --> 00:02:12,398
-   he'll make 12 of these hub   
-      and tread assemblies.     
+he'll make 12 of these hub and tread assemblies.     
 
 34
 00:02:12,400 --> 00:02:16,535
-   he chips off the weld slag   
-       for cleaner seams.       
+he chips off the weld slag for cleaner seams.       
 
 35
 00:02:16,537 --> 00:02:19,405
-      a team slides the hub     
-      and tread assemblies      
+a team slides the hub and tread assemblies      
 
 36
 00:02:19,407 --> 00:02:20,940
-      on to the center pole     
+on to the center pole     
 
 37
 00:02:20,942 --> 00:02:24,076
-        and rotates them        
-    to the correct position.    
+and rotates them to the correct position.    
 
 38
 00:02:24,078 --> 00:02:27,346
-       the design geometry      
-     dictates the rotation.     
+the design geometry dictates the rotation.     
 
 39
 00:02:27,348 --> 00:02:29,148
-     once rotated correctly,    
+once rotated correctly,    
 
 40
 00:02:29,150 --> 00:02:31,650
-   the workers fasten the hubs  
-           to the pole          
+the workers fasten the hubs to the pole          
 
 41
 00:02:31,652 --> 00:02:34,053
-       and add a platform       
-        for the top step.       
+and add a platform for the top step.       
 
 42
 00:02:36,757 --> 00:02:40,826
-  a baluster spins in a lathe,  
-    as tools cut it to length   
+a baluster spins in a lathe, as tools cut it to length   
 
 43
 00:02:40,828 --> 00:02:44,096
-        and round the end       
-    to the correct diameter.    
+and round the end to the correct diameter.    
 
 44
 00:02:44,098 --> 00:02:46,565
-      the operator measures     
-          the diameter.         
+the operator measures the diameter.         
 
 45
 00:02:46,567 --> 00:02:48,768
-   he inserts the rounded end   
-            in a dye            
+he inserts the rounded end in a dye            
 
 46
 00:02:48,770 --> 00:02:52,905
- that carves the thread into it.
+that carves the thread into it.
 
 47
 00:02:52,907 --> 00:02:54,773
-   a worker welds a steel cup   
+a worker welds a steel cup   
 
 48
 00:02:54,775 --> 00:02:57,777
-  just above the threaded part  
-        of the baluster.        
+just above the threaded part of the baluster.        
 
 49
 00:02:57,779 --> 00:02:59,712
-      this cup will support     
-          the baluster          
+this cup will support the baluster          
 
 50
 00:02:59,714 --> 00:03:02,114
-    once it's been installed    
-         on the thread.         
+once it's been installed on the thread.         
 
 51
 00:03:02,116 --> 00:03:04,850
-    he grinds the weld scale    
-          from the cup.         
+he grinds the weld scale from the cup.         
 
 52
 00:03:04,852 --> 00:03:07,052
-     he inserts the baluster    
-          through holes         
+he inserts the baluster through holes         
 
 53
 00:03:07,054 --> 00:03:09,121
- in a metal spacer in the tread.
+in a metal spacer in the tread.
 
 54
 00:03:09,123 --> 00:03:12,258
-  he screws a nut on to the end 
-          to secure it.         
+he screws a nut on to the end to secure it.         
 
 55
 00:03:14,662 --> 00:03:18,464
-   using rollers now, another   
-    worker twists long strips   
+using rollers now, another worker twists long strips   
 
 56
 00:03:18,466 --> 00:03:21,333
-     of metal into spiraling    
-      hand rails that match     
+of metal into spiraling hand rails that match     
 
 57
 00:03:21,335 --> 00:03:23,736
-     the rise of the stairs.    
+the rise of the stairs.    
 
 58
 00:03:23,738 --> 00:03:26,004
-        he fits the rail        
-      to the top balusters      
+he fits the rail to the top balusters      
 
 59
 00:03:26,006 --> 00:03:29,542
-     and clamps it in place.    
+and clamps it in place.    
 
 60
 00:03:29,544 --> 00:03:33,078
-   he then welds the balusters  
-          to the rail.          
+he then welds the balusters to the rail.          
 
 61
 00:03:33,080 --> 00:03:36,214
-   he adds more railing until   
-   it spirals all the way down  
+he adds more railing until it spirals all the way down  
 
 62
 00:03:36,216 --> 00:03:39,284
-       to the first step.       
+to the first step.       
 
 63
 00:03:39,286 --> 00:03:42,688
-       the team secures it      
-        to the platform.        
+the team secures it to the platform.        
 
 64
 00:03:42,690 --> 00:03:46,492
-  the spiral staircase's metal  
-   structure is now complete.   
+the spiral staircase's metal structure is now complete.   
 
 65
 00:03:46,494 --> 00:03:48,828
-         it's ready for         
-       the wooden accents.      
+it's ready for the wooden accents.      
 
 66
 00:03:50,965 --> 00:03:54,499
-      a worker applies glue     
-      to pieces of red oak.     
+a worker applies glue to pieces of red oak.     
 
 67
 00:03:54,501 --> 00:03:57,636
-      he'll use two of them     
-    to make one stair tread.    
+he'll use two of them to make one stair tread.    
 
 68
 00:03:57,638 --> 00:04:01,574
-   he clamps two tread sets in  
- a fixture while the glue sets. 
+he clamps two tread sets in a fixture while the glue sets. 
 
 69
 00:04:01,576 --> 00:04:03,108
-        he inserts a shim       
+he inserts a shim       
 
 70
 00:04:03,110 --> 00:04:07,312
-     and tightens the clamp     
-   to apply downward pressure.  
+and tightens the clamp to apply downward pressure.  
 
 71
 00:04:07,314 --> 00:04:10,850
-    once the glue has cured,    
-    a planer shaves the tread   
+once the glue has cured, a planer shaves the tread   
 
 72
 00:04:10,852 --> 00:04:14,920
-         perfectly flat         
-  and to the desired thickness. 
+perfectly flat and to the desired thickness. 
 
 73
 00:04:14,922 --> 00:04:16,789
-   after refining the profile,  
+after refining the profile,  
 
 74
 00:04:16,791 --> 00:04:21,127
-   a worker rounds the edge of  
- the stair tread using a router.
+a worker rounds the edge of the stair tread using a router.
 
 75
 00:04:22,863 --> 00:04:25,264
-   after gluing strips of wood  
-       together to create       
+after gluing strips of wood together to create       
 
 76
 00:04:25,266 --> 00:04:28,868
-        a curved railing,       
-  he sands the excess adhesive, 
+a curved railing, he sands the excess adhesive, 
 
 77
 00:04:28,870 --> 00:04:32,338
-        and with a file,        
-    removes more of the glue.   
+and with a file, removes more of the glue.   
 
 78
 00:04:32,340 --> 00:04:36,408
-    he turns the railing over   
+he turns the railing over   
 and carves a groove in the wood.
 
 79
 00:04:36,410 --> 00:04:38,677
-  this will enable the railing  
-         to be installed        
+this will enable the railing to be installed        
 
 80
 00:04:38,679 --> 00:04:40,879
-  over the metal rail support.  
+over the metal rail support.  
 
 81
 00:04:40,881 --> 00:04:44,750
-     he adds some detailing     
-         along the edge.        
+he adds some detailing along the edge.        
 
 82
 00:04:44,752 --> 00:04:46,685
-        a team then fits        
-       the wooden railing       
+a team then fits the wooden railing       
 
 83
 00:04:46,687 --> 00:04:49,154
- to the metal support structure.
+to the metal support structure.
 
 84
 00:04:49,156 --> 00:04:53,225
-    all of the rail sections    
-     fit together perfectly.    
+all of the rail sections fit together perfectly.    
 
 85
 00:04:53,227 --> 00:04:56,027
-       after the pre-fit,       
-     they remove the railing    
+after the pre-fit, they remove the railing    
 
 86
 00:04:56,029 --> 00:04:58,430
-      and sculpt the edges      
-         to be rounder.         
+and sculpt the edges to be rounder.         
 
 87
 00:04:58,432 --> 00:05:03,368
-  the rounded edges complement  
-   the overall spiral design.   
+the rounded edges complement the overall spiral design.   
 
 88
 00:05:03,370 --> 00:05:06,972
-  a worker pre-fits the wooden  
-  treads to the metal structure 
+a worker pre-fits the wooden treads to the metal structure 
 
 89
 00:05:06,974 --> 00:05:10,509
-      and then disassembles     
-   the entire spiral staircase  
+and then disassembles the entire spiral staircase  
 
 90
 00:05:10,511 --> 00:05:12,211
-   for painting and staining.   
+for painting and staining.   
 
 91
 00:05:14,382 --> 00:05:17,983
 the spiral stairs are then ready
- for reassembly in the building 
+for reassembly in the building 
 
 92
 00:05:17,985 --> 00:05:19,651
-     they were designed for.    
+they were designed for.    
 
 93
 00:05:19,653 --> 00:05:24,323
 they'll definitely add a certain
-  twist to the interior design. 
+twist to the interior design. 
 
 94
 00:05:31,666 --> 00:05:37,336
-                     ♪          
+♪          
 
 95
 00:05:37,338 --> 00:05:39,204
-            narrator:           
- originating in the middle east,
+narrator: originating in the middle east,
 
 96
 00:05:39,206 --> 00:05:42,140
-   pita bread has been around   
-     for thousands of years.    
+pita bread has been around for thousands of years.    
 
 97
 00:05:42,142 --> 00:05:46,278
- today, its popularity continues
-    to grow around the globe.   
+today, its popularity continues
+to grow around the globe.   
 
 98
 00:05:46,280 --> 00:05:48,881
-       part of its appeal       
-       is its versatility.      
+part of its appeal is its versatility.      
 
 99
 00:05:48,883 --> 00:05:51,150
-        people can stuff        
-      their pita's pockets,     
+people can stuff their pita's pockets,     
 
 100
 00:05:51,152 --> 00:05:54,486
-   use it as a sandwich wrap,   
-    or slice it for dipping.    
+use it as a sandwich wrap, or slice it for dipping.    
 
 101
 00:05:57,892 --> 00:05:59,557
-     pita bread may be flat,    
+pita bread may be flat,    
 
 102
 00:05:59,559 --> 00:06:01,760
-      but that doesn't mean     
-          it's boring.          
+but that doesn't mean it's boring.          
 
 103
 00:06:01,762 --> 00:06:03,829
-       anyone can use pita      
-       to make any number       
+anyone can use pita to make any number       
 
 104
 00:06:03,831 --> 00:06:08,233
-         of interesting         
-     lunchtime combinations.    
+of interesting lunchtime combinations.    
 
 105
 00:06:08,235 --> 00:06:12,037
-    making pita bread starts    
-    with silos full of flour.   
+making pita bread starts with silos full of flour.   
 
 106
 00:06:12,039 --> 00:06:15,774
-  a blower system delivers the  
-  flour to an automated sifter. 
+a blower system delivers the flour to an automated sifter. 
 
 107
 00:06:15,776 --> 00:06:18,911
-   the sifter shakes the flour  
-  through three levels of mesh  
+the sifter shakes the flour through three levels of mesh  
 
 108
 00:06:18,913 --> 00:06:21,046
-    to filter out impurities.   
+to filter out impurities.   
 
 109
 00:06:21,048 --> 00:06:24,783
-         magnets extract        
-     any metal contaminants.    
+magnets extract any metal contaminants.    
 
 110
 00:06:24,785 --> 00:06:28,453
-    workers prepare a pre-mix   
-     of sugar, salt, yeast,     
+workers prepare a pre-mix of sugar, salt, yeast,     
 
 111
 00:06:28,455 --> 00:06:30,122
-       and preservatives.       
+and preservatives.       
 
 112
 00:06:30,124 --> 00:06:32,724
- they combine these ingredients 
-      with the sifted flour     
+they combine these ingredients with the sifted flour     
 
 113
 00:06:32,726 --> 00:06:35,928
-  in a big mixer and add water. 
+in a big mixer and add water. 
 
 114
 00:06:35,930 --> 00:06:38,197
-      the mixer is equipped     
-       with numerous bars       
+the mixer is equipped with numerous bars       
 
 115
 00:06:38,199 --> 00:06:42,334
-    that rotate horizontally    
-    to blend the ingredients.   
+that rotate horizontally to blend the ingredients.   
 
 116
 00:06:43,203 --> 00:06:47,139
-  the operator opens the mixer  
-   and spins it one more time   
+the operator opens the mixer and spins it one more time   
 
 117
 00:06:47,141 --> 00:06:49,541
- to eject the dough into a bin. 
+to eject the dough into a bin. 
 
 118
 00:06:53,080 --> 00:06:56,948
-        he rolls the bin        
-      to the next station.      
+he rolls the bin to the next station.      
 
 119
 00:06:56,950 --> 00:07:00,219
-       here the pita dough      
-       goes into a hopper.      
+here the pita dough goes into a hopper.      
 
 120
 00:07:00,221 --> 00:07:02,754
-         and from there,        
-     it drops into a machine    
+and from there, it drops into a machine    
 
 121
 00:07:02,756 --> 00:07:04,356
-     called a dough divider.    
+called a dough divider.    
 
 122
 00:07:04,358 --> 00:07:10,029
-                     ♪          
+♪          
 
 123
 00:07:10,031 --> 00:07:15,000
-  this machine turns big chunks 
- of dough into many small blobs.
+this machine turns big chunks of dough into many small blobs.
 
 124
 00:07:15,002 --> 00:07:18,703
- to do this, it forces the dough
-      through a round hole,     
+to do this, it forces the dough
+through a round hole,     
 
 125
 00:07:18,705 --> 00:07:24,043
- and a guillotine blade chops it
-    to the correct thickness.   
+and a guillotine blade chops it
+to the correct thickness.   
 
 126
 00:07:24,045 --> 00:07:27,246
- the dough blobs ride a conveyor
-     and pass under a roller    
+the dough blobs ride a conveyor
+and pass under a roller    
 
 127
 00:07:27,248 --> 00:07:29,982
-       that flattens them.      
+that flattens them.      
 
 128
 00:07:29,984 --> 00:07:33,986
-  flour from an overhead sifter 
-      dusts the dough blobs     
+flour from an overhead sifter dusts the dough blobs     
 
 129
 00:07:33,988 --> 00:07:38,189
-   to keep them from sticking   
-        to the machinery.       
+to keep them from sticking to the machinery.       
 
 130
 00:07:38,191 --> 00:07:40,058
-   each one of these flattened  
-           dough blobs          
+each one of these flattened dough blobs          
 
 131
 00:07:40,060 --> 00:07:41,927
- will eventually become a pita. 
+will eventually become a pita. 
 
 132
 00:07:45,199 --> 00:07:46,999
-    the round pieces of dough   
-            now ride            
+the round pieces of dough now ride            
 
 133
 00:07:47,001 --> 00:07:49,668
-  a conveyor up to a warm zone. 
+a conveyor up to a warm zone. 
 
 134
 00:07:49,670 --> 00:07:53,405
-  over a period of 15 minutes,  
-       the yeast ferments,      
+over a period of 15 minutes, the yeast ferments,      
 
 135
 00:07:53,407 --> 00:07:56,074
-   causing the dough to rise.   
+causing the dough to rise.   
 
 136
 00:07:56,076 --> 00:07:57,943
@@ -642,887 +553,768 @@ out of the fermentation station,
 
 137
 00:07:57,945 --> 00:08:03,215
-        a roller flattens       
- the pita dough segments again. 
+a roller flattens the pita dough segments again. 
 
 138
 00:08:03,217 --> 00:08:05,617
-        they're now ready       
-     to be rolled very thin     
+they're now ready to be rolled very thin     
 
 139
 00:08:05,619 --> 00:08:07,886
- in a process known as sheeting.
+in a process known as sheeting.
 
 140
 00:08:10,224 --> 00:08:13,691
-     the next roller presses    
-  the pita dough much thinner.  
+the next roller presses the pita dough much thinner.  
 
 141
 00:08:13,693 --> 00:08:15,360
-   rolling it in one direction  
+rolling it in one direction  
 
 142
 00:08:15,362 --> 00:08:17,896
-    makes the dough segments    
-          oval-shaped.          
+makes the dough segments oval-shaped.          
 
 143
 00:08:21,101 --> 00:08:23,301
- the oval pitas ride by a pusher
+the oval pitas ride by a pusher
 
 144
 00:08:23,303 --> 00:08:28,239
-      that now shoves them      
-    towards the final roller.   
+that now shoves them towards the final roller.   
 
 145
 00:08:28,241 --> 00:08:31,910
- it rolls the dough in the other
+it rolls the dough in the other
 direction to round out the shape
 
 146
 00:08:31,912 --> 00:08:33,579
-    and make it even thinner.   
+and make it even thinner.   
 
 147
 00:08:37,318 --> 00:08:39,184
-    perfectly round and thin,   
+perfectly round and thin,   
 
 148
 00:08:39,186 --> 00:08:43,055
-   the pitas now travel up to   
- another fermentation operation.
+the pitas now travel up to another fermentation operation.
 
 149
 00:08:45,192 --> 00:08:47,926
-     inside, the temperature    
-           is toasty.           
+inside, the temperature is toasty.           
 
 150
 00:08:47,928 --> 00:08:50,329
-  it's warm enough to reawaken  
-            the yeast           
+it's warm enough to reawaken the yeast           
 
 151
 00:08:50,331 --> 00:08:52,598
-       and cause the dough      
-         to rise again.         
+and cause the dough to rise again.         
 
 152
 00:08:56,002 --> 00:08:59,471
-  conveyors move in criss-cross 
-  directions to take the pitas  
+conveyors move in criss-cross directions to take the pitas  
 
 153
 00:08:59,473 --> 00:09:01,206
-         back and forth.        
+back and forth.        
 
 154
 00:09:01,208 --> 00:09:06,144
-    this zig-zagging journey    
-     lasts about 15 minutes.    
+this zig-zagging journey lasts about 15 minutes.    
 
 155
 00:09:06,146 --> 00:09:08,413
-      when the pitas emerge     
-        from the chamber,       
+when the pitas emerge from the chamber,       
 
 156
 00:09:08,415 --> 00:09:12,150
-     they have thickened up     
-         substantially.         
+they have thickened up substantially.         
 
 157
 00:09:12,152 --> 00:09:15,354
-     they head into an oven     
-    where the magic happens.    
+they head into an oven where the magic happens.    
 
 158
 00:09:15,356 --> 00:09:18,490
-    the oven's temperature is   
-           between 750          
+the oven's temperature is between 750          
 
 159
 00:09:18,492 --> 00:09:20,959
-   and 930 degrees fahrenheit.  
+and 930 degrees fahrenheit.  
 
 160
 00:09:20,961 --> 00:09:23,495
-         they spend just        
-        15 seconds in it.       
+they spend just 15 seconds in it.       
 
 161
 00:09:23,497 --> 00:09:26,231
-    this flash-baking causes    
-     the water in the dough     
+this flash-baking causes the water in the dough     
 
 162
 00:09:26,233 --> 00:09:27,632
-        to turn to steam.       
+to turn to steam.       
 
 163
 00:09:27,634 --> 00:09:31,903
-   the steam puffs the pitas,   
-    creating pockets inside.    
+the steam puffs the pitas, creating pockets inside.    
 
 164
 00:09:31,905 --> 00:09:33,238
-      the pitas then travel     
+the pitas then travel     
 
 165
 00:09:33,240 --> 00:09:36,040
-          on conveyors          
-   for a 20 minute cool down.   
+on conveyors for a 20 minute cool down.   
 
 166
 00:09:36,042 --> 00:09:38,977
-   as they cool, they deflate.  
+as they cool, they deflate.  
 
 167
 00:09:38,979 --> 00:09:42,181
- the process has created pockets
-          in the pitas.         
+the process has created pockets
+in the pitas.         
 
 168
 00:09:42,183 --> 00:09:43,648
-        once sliced open,       
+once sliced open,       
 
 169
 00:09:43,650 --> 00:09:47,319
-   the pockets can be stuffed   
-      to create sandwiches.     
+the pockets can be stuffed to create sandwiches.     
 
 170
 00:09:47,321 --> 00:09:52,056
-     workers stack the pitas    
-     six high for packaging.    
+workers stack the pitas six high for packaging.    
 
 171
 00:09:52,058 --> 00:09:54,659
-   the next conveyor delivers   
-   the stacks into the clutch   
+the next conveyor delivers the stacks into the clutch   
 
 172
 00:09:54,661 --> 00:09:58,130
-      of an automated arm.      
+of an automated arm.      
 
 173
 00:09:58,132 --> 00:10:01,266
-   just ahead, a burst of air   
-           opens a bag          
+just ahead, a burst of air opens a bag          
 
 174
 00:10:01,268 --> 00:10:03,935
-       and the arm inserts      
-       the pitas into it.       
+and the arm inserts the pitas into it.       
 
 175
 00:10:03,937 --> 00:10:09,341
-   at the same time, it pushes  
+at the same time, it pushes  
 the bag on to the next conveyor.
 
 176
 00:10:09,343 --> 00:10:12,544
- moving forward, another device 
-      automatically twists      
+moving forward, another device automatically twists      
 
 177
 00:10:12,546 --> 00:10:15,347
-    the open end of the bag.    
+the open end of the bag.    
 
 178
 00:10:15,349 --> 00:10:17,482
-       the device applies       
-       a plastic lock tab       
+the device applies a plastic lock tab       
 
 179
 00:10:17,484 --> 00:10:23,088
- to the twisted end of the bag, 
- sealing the pita breads inside.
+to the twisted end of the bag, sealing the pita breads inside.
 
 180
 00:10:23,090 --> 00:10:25,557
-        the bags pass by        
-        a metal detector,       
+the bags pass by a metal detector,       
 
 181
 00:10:25,559 --> 00:10:28,026
-  and then they're on their way 
-       to the supermarket.      
+and then they're on their way to the supermarket.      
 
 182
 00:10:32,433 --> 00:10:36,702
-    this pita bread has taken   
- 45 minutes to make and package,
+this pita bread has taken 45 minutes to make and package,
 
 183
 00:10:36,704 --> 00:10:40,472
-   but it should enable lunch   
- to come together very quickly. 
+but it should enable lunch to come together very quickly. 
 
 184
 00:10:48,248 --> 00:10:53,719
-                     ♪          
+♪          
 
 185
 00:10:53,721 --> 00:10:55,253
-            narrator:           
-   installing exhaust headers   
+narrator: installing exhaust headers   
 
 186
 00:10:55,255 --> 00:10:58,190
-      will add extra power      
-      from a car's engine.      
+will add extra power from a car's engine.      
 
 187
 00:10:58,192 --> 00:11:00,726
-   they bolt on to the engine,  
-      giving each cylinder      
+they bolt on to the engine, giving each cylinder      
 
 188
 00:11:00,728 --> 00:11:03,261
-      its own exhaust pipe      
-    leading to the collector,   
+its own exhaust pipe leading to the collector,   
 
 189
 00:11:03,263 --> 00:11:06,532
-   which connects to the car's  
-       main exhaust pipe.       
+which connects to the car's main exhaust pipe.       
 
 190
 00:11:06,534 --> 00:11:09,334
-   that's more efficient than   
+that's more efficient than   
 having all the cylinders exhaust
 
 191
 00:11:09,336 --> 00:11:11,203
-     into a common manifold.    
+into a common manifold.    
 
 192
 00:11:13,741 --> 00:11:17,542
 a header draws out significantly
-    more spent exhaust gasses   
+more spent exhaust gasses   
 
 193
 00:11:17,544 --> 00:11:20,746
- after combustion, leaving room 
-      for a greater amount      
+after combustion, leaving room for a greater amount      
 
 194
 00:11:20,748 --> 00:11:22,281
-    of new gas and fresh air    
+of new gas and fresh air    
 
 195
 00:11:22,283 --> 00:11:26,685
-      to enter the cylinder     
- for the next combustion cycle. 
+to enter the cylinder for the next combustion cycle. 
 
 196
 00:11:26,687 --> 00:11:29,888
-    headers are made of steel   
-       or stainless steel.      
+headers are made of steel or stainless steel.      
 
 197
 00:11:29,890 --> 00:11:33,358
-   a worker uses a roll cutter  
-   to slice tubes into nearly   
+a worker uses a roll cutter to slice tubes into nearly   
 
 198
 00:11:33,360 --> 00:11:37,562
-       6-inch-long pieces       
-   for the header's collector.  
+6-inch-long pieces for the header's collector.  
 
 199
 00:11:37,564 --> 00:11:39,364
-    a forming tool on a press   
+a forming tool on a press   
 
 200
 00:11:39,366 --> 00:11:42,901
-       stretches one side       
-    of the collector outward.   
+stretches one side of the collector outward.   
 
 201
 00:11:42,903 --> 00:11:47,372
- then the worker places the same
- side on an end-forming machine,
+then the worker places the same
+side on an end-forming machine,
 
 202
 00:11:47,374 --> 00:11:50,642
-      which shapes it like      
-       a four-leaf clover.      
+which shapes it like a four-leaf clover.      
 
 203
 00:11:50,644 --> 00:11:53,645
-     he slips a flange over     
-        the unshaped side       
+he slips a flange over the unshaped side       
 
 204
 00:11:53,647 --> 00:11:57,115
- and widens that side to create 
-        the ball portion        
+and widens that side to create the ball portion        
 
 205
 00:11:57,117 --> 00:11:59,784
-     of the gasketless ball     
-      and socket connection     
+of the gasketless ball and socket connection     
 
 206
 00:11:59,786 --> 00:12:01,954
- to the car's main exhaust pipe.
+to the car's main exhaust pipe.
 
 207
 00:12:04,658 --> 00:12:08,060
-    meanwhile, another worker   
-    roll cuts narrower tubes    
+meanwhile, another worker roll cuts narrower tubes    
 
 208
 00:12:08,062 --> 00:12:12,530
 into 32-inch-long pieces to make
-   the header's primary tubes,  
+the header's primary tubes,  
 
 209
 00:12:12,532 --> 00:12:17,669
- the ones that attach at the top
-     to engine's cylinders.     
+the ones that attach at the top
+to engine's cylinders.     
 
 210
 00:12:17,671 --> 00:12:20,339
-     a worker slides a tube     
-        on to a mandrel,        
+a worker slides a tube on to a mandrel,        
 
 211
 00:12:20,341 --> 00:12:22,808
-    then the computer-guided    
-         mandrel bender         
+then the computer-guided mandrel bender         
 
 212
 00:12:22,810 --> 00:12:25,343
- bends the tube in four places. 
+bends the tube in four places. 
 
 213
 00:12:25,345 --> 00:12:28,013
-  the mandrel fills the inside  
-           of the tube          
+the mandrel fills the inside of the tube          
 
 214
 00:12:28,015 --> 00:12:30,949
-   just up to the bend point,   
-    preventing the tube from    
+just up to the bend point, preventing the tube from    
 
 215
 00:12:30,951 --> 00:12:34,753
-    compressing or collapsing   
-         under pressure.        
+compressing or collapsing under pressure.        
 
 216
 00:12:34,755 --> 00:12:38,156
- the header they're making here 
- is for a four-cylinder engine, 
+the header they're making here is for a four-cylinder engine, 
 
 217
 00:12:38,158 --> 00:12:40,826
-  so it has four primary tubes. 
+so it has four primary tubes. 
 
 218
 00:12:40,828 --> 00:12:43,662
-    an eight-cylinder engine    
-   requires a pair of headers,  
+an eight-cylinder engine requires a pair of headers,  
 
 219
 00:12:43,664 --> 00:12:45,163
-  whereas a six-cylinder engine 
+whereas a six-cylinder engine 
 
 220
 00:12:45,165 --> 00:12:49,567
-         requires a pair        
-     of three-tube headers.     
+requires a pair of three-tube headers.     
 
 221
 00:12:49,569 --> 00:12:51,969
-     a worker trims the bent    
-          primary tubes         
+a worker trims the bent primary tubes         
 
 222
 00:12:51,971 --> 00:12:54,506
-     to the required length     
-         with a bandsaw.        
+to the required length with a bandsaw.        
 
 223
 00:12:58,579 --> 00:13:01,913
-   the sawed edges of the tube  
-           are ragged,          
+the sawed edges of the tube are ragged,          
 
 224
 00:13:01,915 --> 00:13:04,516
-        so the next step        
-    is to grind them smooth.    
+so the next step is to grind them smooth.    
 
 225
 00:13:04,518 --> 00:13:09,654
-                     ♪          
+♪          
 
 226
 00:13:09,656 --> 00:13:13,591
-    after grinding, the edge    
-   no longer looks like this.   
+after grinding, the edge no longer looks like this.   
 
 227
 00:13:13,593 --> 00:13:19,464
-                     ♪          
+♪          
 
 228
 00:13:19,466 --> 00:13:21,533
-    workers heat the top end    
-           of the tube          
+workers heat the top end of the tube          
 
 229
 00:13:21,535 --> 00:13:24,069
-          with a torch          
-      to soften the steel.      
+with a torch to soften the steel.      
 
 230
 00:13:24,071 --> 00:13:29,674
-                     ♪          
+♪          
 
 231
 00:13:29,676 --> 00:13:33,145
-       they place the end       
-  into an end-forming machine.  
+they place the end into an end-forming machine.  
 
 232
 00:13:33,147 --> 00:13:34,546
-   the machine shapes the end   
+the machine shapes the end   
 
 233
 00:13:34,548 --> 00:13:37,149
-    to match the top profile    
-        of the cylinder,        
+to match the top profile of the cylinder,        
 
 234
 00:13:37,151 --> 00:13:40,818
-        to which the tube       
-        will be mounted.        
+to which the tube will be mounted.        
 
 235
 00:13:40,820 --> 00:13:43,955
-     cylinder profiles vary     
-     from engine to engine,     
+cylinder profiles vary from engine to engine,     
 
 236
 00:13:43,957 --> 00:13:47,459
-    so workers simply change    
+so workers simply change    
 the forming tool on the machine.
 
 237
 00:13:51,498 --> 00:13:54,700
-   a worker clamps the header   
-      flange with its four      
+a worker clamps the header flange with its four      
 
 238
 00:13:54,702 --> 00:13:58,170
-       exhaust ports on to      
-  an assembly jig and positions 
+exhaust ports on to an assembly jig and positions 
 
 239
 00:13:58,172 --> 00:14:02,774
-         the top end of         
-  a primary tube in each port.  
+the top end of a primary tube in each port.  
 
 240
 00:14:02,776 --> 00:14:04,376
-   he inserts the bottom ends   
+he inserts the bottom ends   
 
 241
 00:14:04,378 --> 00:14:08,113
 into the four-leaf-clover-shaped
-           collector.           
+collector.           
 
 242
 00:14:10,517 --> 00:14:13,051
-    he then welds the top end   
-          of each tube          
+he then welds the top end of each tube          
 
 243
 00:14:13,053 --> 00:14:16,587
-       to its exhaust port      
-      on the header flange.     
+to its exhaust port on the header flange.     
 
 244
 00:14:16,589 --> 00:14:19,257
-       then he welds a tag      
-      with the company name     
+then he welds a tag with the company name     
 
 245
 00:14:19,259 --> 00:14:21,026
-     on to one of the tubes.    
+on to one of the tubes.    
 
 246
 00:14:23,530 --> 00:14:26,264
-        finally, he welds       
-   the bottom end of the tubes  
+finally, he welds the bottom end of the tubes  
 
 247
 00:14:26,266 --> 00:14:28,133
-        to the collector.       
+to the collector.       
 
 248
 00:14:28,135 --> 00:14:32,671
-                     ♪          
+♪          
 
 249
 00:14:32,673 --> 00:14:35,407
- the header's three sections -- 
-         flange, tubes,         
+the header's three sections -- flange, tubes,         
 
 250
 00:14:35,409 --> 00:14:39,611
- and collector -- are now fused.
+and collector -- are now fused.
 
 251
 00:14:39,613 --> 00:14:42,414
- the worker grinds down the weld
-        around the ports        
+the worker grinds down the weld
+around the ports        
 
 252
 00:14:42,416 --> 00:14:45,484
-    until it's nearly flush.    
+until it's nearly flush.    
 
 253
 00:14:45,486 --> 00:14:48,553
-    the remaining bit of weld   
-  material encircling the port  
+the remaining bit of weld material encircling the port  
 
 254
 00:14:48,555 --> 00:14:51,123
-            will act            
-  as a seal to prevent leakage. 
+will act as a seal to prevent leakage. 
 
 255
 00:14:55,495 --> 00:14:58,229
-       during the welding,      
-   some welding material drips  
+during the welding, some welding material drips  
 
 256
 00:14:58,231 --> 00:15:01,233
-    into the header flange's    
-            openings,           
+into the header flange's openings,           
 
 257
 00:15:01,235 --> 00:15:03,968
-        so a worker reams       
-   the bolt holes with a drill  
+so a worker reams the bolt holes with a drill  
 
 258
 00:15:03,970 --> 00:15:06,204
-           and grinds           
-     the edges of each port.    
+and grinds the edges of each port.    
 
 259
 00:15:09,176 --> 00:15:11,776
-     he mounts the header on    
-   the corresponding engine's   
+he mounts the header on the corresponding engine's   
 
 260
 00:15:11,778 --> 00:15:16,248
- cylinder head to make sure bolt
- holes are sufficiently cleared.
+cylinder head to make sure bolt
+holes are sufficiently cleared.
 
 261
 00:15:16,250 --> 00:15:20,918
-  then he runs a torch over all 
- the joints to check the welds. 
+then he runs a torch over all the joints to check the welds. 
 
 262
 00:15:20,920 --> 00:15:23,855
-  the flame would shoot through 
-       any hole in a weld,      
+the flame would shoot through any hole in a weld,      
 
 263
 00:15:23,857 --> 00:15:26,525
-   alerting them to repair it.  
+alerting them to repair it.  
 
 264
 00:15:29,263 --> 00:15:33,798
- this factory applies one of two
+this factory applies one of two
 finishes on its exhaust headers.
 
 265
 00:15:33,800 --> 00:15:37,068
-     the basic one is a coat    
-   of black water-based paint   
+the basic one is a coat of black water-based paint   
 
 266
 00:15:37,070 --> 00:15:39,537
-    sprayed on and air-dried.   
+sprayed on and air-dried.   
 
 267
 00:15:39,539 --> 00:15:41,806
-    it prevents surface rust    
-          from forming          
+it prevents surface rust from forming          
 
 268
 00:15:41,808 --> 00:15:44,009
-  while the part is warehoused. 
+while the part is warehoused. 
 
 269
 00:15:44,011 --> 00:15:47,879
-   the higher-end finish is an  
+the higher-end finish is an  
 aerospace-grade ceramic coating,
 
 270
 00:15:47,881 --> 00:15:50,415
-  available in black or silver. 
+available in black or silver. 
 
 271
 00:15:50,417 --> 00:15:53,752
-  this baked-on finish protects 
-      the headers from rust     
+this baked-on finish protects the headers from rust     
 
 272
 00:15:53,754 --> 00:15:56,822
-         for many years         
-  of high-performance driving.  
+for many years of high-performance driving.  
 
 273
 00:16:05,766 --> 00:16:10,735
-                     ♪          
+♪          
 
 274
 00:16:10,737 --> 00:16:12,571
-            narrator:           
-    this may look like ivory,   
+narrator: this may look like ivory,   
 
 275
 00:16:12,573 --> 00:16:14,639
-  but it's actually limestone.  
+but it's actually limestone.  
 
 276
 00:16:14,641 --> 00:16:17,242
-       it looks as though       
-  it's a sculpted work of art,  
+it looks as though it's a sculpted work of art,  
 
 277
 00:16:17,244 --> 00:16:19,177
-    but it's actually molded.   
+but it's actually molded.   
 
 278
 00:16:19,179 --> 00:16:21,379
-  how does one mold limestone?  
+how does one mold limestone?  
 
 279
 00:16:21,381 --> 00:16:25,316
-   200 years ago, some people   
-   in france figured out how,   
+200 years ago, some people in france figured out how,   
 
 280
 00:16:25,318 --> 00:16:31,222
- and their descendents are still
+and their descendents are still
 molding limestone artwork today.
 
 281
 00:16:31,224 --> 00:16:34,860
-   this unique art form exists  
-   because, two centuries ago,  
+this unique art form exists because, two centuries ago,  
 
 282
 00:16:34,862 --> 00:16:39,664
-  a family in france discovered 
-   springs amid volcanic rock,  
+a family in france discovered springs amid volcanic rock,  
 
 283
 00:16:39,666 --> 00:16:43,334
-   springs with water so rich   
-      in calcium carbonate      
+springs with water so rich in calcium carbonate      
 
 284
 00:16:43,336 --> 00:16:45,470
-  that it petrified into stone. 
+that it petrified into stone. 
 
 285
 00:16:45,472 --> 00:16:48,139
-       that is limestone.       
+that is limestone.       
 
 286
 00:16:48,141 --> 00:16:51,409
-  the family carved out caves,  
-       then invented a way      
+the family carved out caves, then invented a way      
 
 287
 00:16:51,411 --> 00:16:55,680
 to capture the calcium carbonate
-  and mold sculptures with it.  
+and mold sculptures with it.  
 
 288
 00:16:55,682 --> 00:16:59,918
-  the descendents of the family 
- continue that tradition today. 
+the descendents of the family continue that tradition today. 
 
 289
 00:16:59,920 --> 00:17:03,722
-    the springwater contains    
- two grams of calcium carbonate 
+the springwater contains two grams of calcium carbonate 
 
 290
 00:17:03,724 --> 00:17:06,558
-       per liter and a lot      
-         of iron oxide,         
+per liter and a lot of iron oxide,         
 
 291
 00:17:06,560 --> 00:17:08,826
-  which makes the water orange. 
+which makes the water orange. 
 
 292
 00:17:08,828 --> 00:17:10,962
-      the original troughs      
-        direct the water        
+the original troughs direct the water        
 
 293
 00:17:10,964 --> 00:17:13,498
-  on to a bed of wood shavings. 
+on to a bed of wood shavings. 
 
 294
 00:17:13,500 --> 00:17:15,833
-        the shavings trap       
-         the iron oxide,        
+the shavings trap the iron oxide,        
 
 295
 00:17:15,835 --> 00:17:20,105
 and the calcium carbonate floats
-         to the surface.        
+to the surface.        
 
 296
 00:17:20,107 --> 00:17:22,707
-        in the workshop,        
-   the owner of the company --  
+in the workshop, the owner of the company --  
 
 297
 00:17:22,709 --> 00:17:25,310
-     the seventh generation     
-    of the founding family --   
+the seventh generation of the founding family --   
 
 298
 00:17:25,312 --> 00:17:26,844
-         makes the mold.        
+makes the mold.        
 
 299
 00:17:26,846 --> 00:17:29,047
-    he heats something called   
-          gutta-percha          
+he heats something called gutta-percha          
 
 300
 00:17:29,049 --> 00:17:31,649
-        in a pot of water       
-        to soften it up.        
+in a pot of water to soften it up.        
 
 301
 00:17:31,651 --> 00:17:34,185
- gutta-percha is a natural latex
+gutta-percha is a natural latex
 
 302
 00:17:34,187 --> 00:17:36,454
-        made from the sap       
-       of the gutta tree.       
+made from the sap of the gutta tree.       
 
 303
 00:17:36,456 --> 00:17:39,457
-  once it's soft, he weighs out 
-       the required amount      
+once it's soft, he weighs out the required amount      
 
 304
 00:17:39,459 --> 00:17:41,960
-      using the workshop's      
-         original scale.        
+using the workshop's original scale.        
 
 305
 00:17:45,265 --> 00:17:48,466
- then he kneads it to force out 
-           trapped air          
+then he kneads it to force out trapped air          
 
 306
 00:17:48,468 --> 00:17:50,201
-   and make it more malleable.  
+and make it more malleable.  
 
 307
 00:17:53,206 --> 00:17:57,375
-  after forming it into a ball, 
-  he places it in an old press  
+after forming it into a ball, he places it in an old press  
 
 308
 00:17:57,377 --> 00:17:59,811
- made my his great-grandfather. 
+made my his great-grandfather. 
 
 309
 00:17:59,813 --> 00:18:02,013
-        the press shapes        
-        the gutta-percha        
+the press shapes the gutta-percha        
 
 310
 00:18:02,015 --> 00:18:05,450
-   into a rectangle measuring   
-         7-by-10 inches.        
+into a rectangle measuring 7-by-10 inches.        
 
 311
 00:18:09,155 --> 00:18:11,622
-   after cooling in the press   
-         for 30 minutes,        
+after cooling in the press for 30 minutes,        
 
 312
 00:18:11,624 --> 00:18:13,358
-  the gutta-percha has hardened 
+the gutta-percha has hardened 
 
 313
 00:18:13,360 --> 00:18:17,429
-     just enough to maintain    
-     the rectangular shape.     
+just enough to maintain the rectangular shape.     
 
 314
 00:18:17,431 --> 00:18:19,163
-  he removes it from the press  
+he removes it from the press  
 
 315
 00:18:19,165 --> 00:18:23,367
- and places a silicone-designed 
-        template on top.        
+and places a silicone-designed template on top.        
 
 316
 00:18:23,369 --> 00:18:26,704
-    he cuts the gutta-percha    
-  to the shape of the template. 
+he cuts the gutta-percha to the shape of the template. 
 
 317
 00:18:26,706 --> 00:18:32,243
-                     ♪          
+♪          
 
 318
 00:18:32,245 --> 00:18:34,980
-   he places the gutta-percha   
-       on top of a pattern      
+he places the gutta-percha on top of a pattern      
 
 319
 00:18:34,982 --> 00:18:38,449
-      created by an artist.     
+created by an artist.     
 
 320
 00:18:38,451 --> 00:18:41,118
-     he places the template     
-      on the gutta-percha,      
+he places the template on the gutta-percha,      
 
 321
 00:18:41,120 --> 00:18:43,455
-      then a plank of wood      
-         on top of that.        
+then a plank of wood on top of that.        
 
 322
 00:18:46,192 --> 00:18:50,095
-   he puts the entire assembly  
-    under an old screw press.   
+he puts the entire assembly under an old screw press.   
 
 323
 00:18:54,200 --> 00:18:57,602
-    an hour later, he removes   
-   the assembly from the press  
+an hour later, he removes the assembly from the press  
 
 324
 00:18:57,604 --> 00:19:00,105
@@ -1530,189 +1322,162 @@ and gently separates the layers.
 
 325
 00:19:02,275 --> 00:19:05,610
-    the artwork design is now   
-  transferred from the pattern  
+the artwork design is now transferred from the pattern  
 
 326
 00:19:05,612 --> 00:19:07,545
-      to the gutta-percha.      
+to the gutta-percha.      
 
 327
 00:19:07,547 --> 00:19:11,416
-    he sets it aside to cool    
-        to a hard state.        
+he sets it aside to cool to a hard state.        
 
 328
 00:19:12,285 --> 00:19:15,286
-      when the work of art      
-   is either too wide or high   
+when the work of art is either too wide or high   
 
 329
 00:19:15,288 --> 00:19:17,322
-           to fit into          
-  the traditional screw press,  
+to fit into the traditional screw press,  
 
 330
 00:19:17,324 --> 00:19:20,425
-    the artisan then sculpts    
-    the pattern out of clay.    
+the artisan then sculpts the pattern out of clay.    
 
 331
 00:19:20,427 --> 00:19:25,429
- once the clay hardens, he coats
+once the clay hardens, he coats
 it in silicone to make the mold.
 
 332
 00:19:25,431 --> 00:19:28,833
-     this modern mold-making    
-   technique is a bit trickier  
+this modern mold-making technique is a bit trickier  
 
 333
 00:19:28,835 --> 00:19:31,102
-        because silicone        
-        can't be reheated       
+because silicone can't be reheated       
 
 334
 00:19:31,104 --> 00:19:33,338
- and reworked like gutta-percha.
+and reworked like gutta-percha.
 
 335
 00:19:35,775 --> 00:19:37,909
-    the silicone takes about    
-            24 hours            
+the silicone takes about 24 hours            
 
 336
 00:19:37,911 --> 00:19:40,911
- to harden into a flexible mold.
+to harden into a flexible mold.
 
 337
 00:19:40,913 --> 00:19:43,915
-   a silicone mold can be used  
-           only once.           
+a silicone mold can be used only once.           
 
 338
 00:19:43,917 --> 00:19:47,585
-  and because it's so flexible, 
- it has to sit on a support tray
+and because it's so flexible, it has to sit on a support tray
 
 339
 00:19:47,587 --> 00:19:52,256
-    so that it doesn't buckle   
-      when filled or moved.     
+so that it doesn't buckle when filled or moved.     
 
 340
 00:19:52,258 --> 00:19:54,592
-      now it's time to mold     
-         the limestone.         
+now it's time to mold the limestone.         
 
 341
 00:19:54,594 --> 00:19:57,195
-      a craftsman positions     
-      the molds under these     
+a craftsman positions the molds under these     
 
 342
 00:19:57,197 --> 00:19:59,597
-  liquid limestone waterfalls.  
+liquid limestone waterfalls.  
 
 343
 00:19:59,599 --> 00:20:03,334
- the carbonic gas in the liquid 
-      gradually evaporates,     
+the carbonic gas in the liquid gradually evaporates,     
 
 344
 00:20:03,336 --> 00:20:08,273
 leaving accumulating deposits of
- calcium carbonate in the molds.
+calcium carbonate in the molds.
 
 345
 00:20:08,275 --> 00:20:12,277
-   an artisan moves every mold  
-     to a new position daily    
+an artisan moves every mold to a new position daily    
 
 346
 00:20:12,279 --> 00:20:15,947
-   so that the dripping water   
-      hits all parts of it.     
+so that the dripping water hits all parts of it.     
 
 347
 00:20:15,949 --> 00:20:19,483
- artwork just one 1/5 of an inch
-         thick requires         
+artwork just one 1/5 of an inch
+thick requires         
 
 348
 00:20:19,485 --> 00:20:21,819
- six months under the fountain. 
+six months under the fountain. 
 
 349
 00:20:21,821 --> 00:20:25,924
-  artwork 4/5 of an inch thick  
-       requires two years.      
+artwork 4/5 of an inch thick requires two years.      
 
 350
 00:20:28,161 --> 00:20:31,696
 to extract the limestone artwork
-    from a traditional mold,    
+from a traditional mold,    
 
 351
 00:20:31,698 --> 00:20:34,098
-     the artisan immerses it    
-          in hot water          
+the artisan immerses it in hot water          
 
 352
 00:20:34,100 --> 00:20:38,236
-  to soften the gutta-percha so 
- that he can gently peel it off.
+to soften the gutta-percha so that he can gently peel it off.
 
 353
 00:20:38,238 --> 00:20:40,305
-     every intricate detail     
-          of the design         
+every intricate detail of the design         
 
 354
 00:20:40,307 --> 00:20:44,909
-       in the gutta-percha      
- is now replicated in limestone.
+in the gutta-percha is now replicated in limestone.
 
 355
 00:20:44,911 --> 00:20:49,848
-  this molded rock is as strong 
-       and hard as marble.      
+this molded rock is as strong and hard as marble.      
 
 356
 00:20:49,850 --> 00:20:52,717
-      to extra the artwork      
-      from a silicone mold,     
+to extra the artwork from a silicone mold,     
 
 357
 00:20:52,719 --> 00:20:57,355
- an artisan removes the support 
+an artisan removes the support 
 tray and lifts off the silicone.
 
 358
 00:20:57,357 --> 00:21:01,259
-  the company has more than 500 
-    artwork patterns in stock   
+the company has more than 500 artwork patterns in stock   
 
 359
 00:21:01,261 --> 00:21:04,328
-      dating back to 1821.      
+dating back to 1821.      
 
 360
 00:21:04,330 --> 00:21:07,131
-  not all the molded limestone  
-         looks the same.        
+not all the molded limestone looks the same.        
 
 361
 00:21:07,133 --> 00:21:10,734
-     the artisans can tailor    
-  the shade from white to ivory 
+the artisans can tailor the shade from white to ivory 
 
 362
 00:21:10,736 --> 00:21:13,004
-         by controlling         
-       how much iron oxide      
+by controlling how much iron oxide      
 
 363
 00:21:13,006 --> 00:21:15,406
-   they remove from the water.  
+they remove from the water.  
 

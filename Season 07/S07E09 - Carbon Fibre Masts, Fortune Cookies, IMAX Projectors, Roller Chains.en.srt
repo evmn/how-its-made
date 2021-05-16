@@ -1,426 +1,369 @@
 1
 00:00:01,635 --> 00:00:04,536
-     --<font color="#ffff00"> captions by vitac</font> --    
-         <font color="#00ffff"> www.vitac.com</font>         
+--<font color="#ffff00"> captions by vitac</font> -- <font color="#00ffff"> www.vitac.com</font>         
 
 2
 00:00:04,671 --> 00:00:07,639
-      captions paid for by      
- discovery communications, inc. 
+captions paid for by discovery communications, inc. 
 
 3
 00:00:23,024 --> 00:00:26,025
-            narrator:           
-  today, on "how it's made"...  
+narrator: today, on "how it's made"...  
 
 4
 00:00:26,160 --> 00:00:28,127
-      carbon-fiber masts...     
+carbon-fiber masts...     
 
 5
 00:00:31,966 --> 00:00:33,732
-      ...fortune cookies...     
+...fortune cookies...     
 
 6
 00:00:37,772 --> 00:00:39,538
-      ...imax projectors...     
+...imax projectors...     
 
 7
 00:00:43,644 --> 00:00:45,244
-      ...and roller chains.     
+...and roller chains.     
 
 8
 00:00:52,353 --> 00:00:54,986
-    in the world of sailing,    
+in the world of sailing,    
 
 9
 00:00:55,022 --> 00:00:57,189
-        lightweight ideas       
-       are the best kind.       
+lightweight ideas are the best kind.       
 
 10
 00:00:57,191 --> 00:00:59,925
-     this carbon-fiber mast     
-       is a good example.       
+this carbon-fiber mast is a good example.       
 
 11
 00:01:00,060 --> 00:01:02,060
-     at the half the weight     
-      of aluminum or wood,      
+at the half the weight of aluminum or wood,      
 
 12
 00:01:02,096 --> 00:01:04,062
-       it allows the boat       
-         to move faster,        
+it allows the boat to move faster,        
 
 13
 00:01:04,098 --> 00:01:07,532
- and it's a pillar of strength, 
- easily holding up a full sail. 
+and it's a pillar of strength, easily holding up a full sail. 
 
 14
 00:01:07,568 --> 00:01:09,534
-     whether you're a sailor    
-          or passenger,         
+whether you're a sailor or passenger,         
 
 15
 00:01:09,603 --> 00:01:12,571
-        it's nice to know       
-  you can count on its support. 
+it's nice to know you can count on its support. 
 
 16
 00:01:18,879 --> 00:01:21,213
-     they launch production     
-       of a sailboat mast       
+they launch production of a sailboat mast       
 
 17
 00:01:21,282 --> 00:01:23,615
-  with a strip of carbon fiber. 
+with a strip of carbon fiber. 
 
 18
 00:01:25,686 --> 00:01:27,820
-          they wrap it          
-    around a long mast form,    
+they wrap it around a long mast form,    
 
 19
 00:01:27,955 --> 00:01:29,455
-   which will serve as a mold.  
+which will serve as a mold.  
 
 20
 00:01:32,493 --> 00:01:35,627
-     they trim the material     
+they trim the material     
 and peel away the paper backing.
 
 21
 00:01:35,629 --> 00:01:39,231
-    between 20 and 100 layers   
- will be wound around the mold, 
+between 20 and 100 layers will be wound around the mold, 
 
 22
 00:01:39,300 --> 00:01:41,934
-      depending on the size     
-          of the mast.          
+depending on the size of the mast.          
 
 23
 00:01:43,971 --> 00:01:46,438
-     they apply some layers     
-     in a crisscross manner     
+they apply some layers in a crisscross manner     
 
 24
 00:01:46,474 --> 00:01:48,707
-        to give the mast        
-    more structural integrity   
+to give the mast more structural integrity   
 
 25
 00:01:48,776 --> 00:01:50,943
-   and help it hold its shape.  
+and help it hold its shape.  
 
 26
 00:01:53,313 --> 00:01:57,382
-  they cut away the overlap so  
- that the edges meet perfectly. 
+they cut away the overlap so that the edges meet perfectly. 
 
 27
 00:02:07,061 --> 00:02:10,996
-  the material is a bit creased 
-    and bulky at this point,    
+the material is a bit creased and bulky at this point,    
 
 28
 00:02:11,065 --> 00:02:15,033
-  so they wrap it with plastic  
-    pull tape to compress it.   
+so they wrap it with plastic pull tape to compress it.   
 
 29
 00:02:17,337 --> 00:02:19,805
-      then they remove it.      
+then they remove it.      
 
 30
 00:02:19,807 --> 00:02:22,207
-      this temporary taping     
-    is done after each layer,   
+this temporary taping is done after each layer,   
 
 31
 00:02:22,276 --> 00:02:24,342
-      but they leave it on      
-       after the final one      
+but they leave it on after the final one      
 
 32
 00:02:24,411 --> 00:02:27,579
-    and tape a breather cloth   
-           around it.           
+and tape a breather cloth around it.           
 
 33
 00:02:29,883 --> 00:02:32,417
-         then they pull         
-    a long plastic vacuum bag   
+then they pull a long plastic vacuum bag   
 
 34
 00:02:32,553 --> 00:02:35,254
-     over the entire thing.     
+over the entire thing.     
 
 35
 00:02:43,630 --> 00:02:46,431
-  they seal the ends with tape. 
+they seal the ends with tape. 
 
 36
 00:02:48,435 --> 00:02:52,904
 they attach the vacuum connector
-    and hose and turn it on.    
+and hose and turn it on.    
 
 37
 00:02:52,907 --> 00:02:56,241
-        it sucks air from       
-   between the carbon layers,   
+it sucks air from between the carbon layers,   
 
 38
 00:02:56,243 --> 00:02:58,243
-    compressing them further.   
+compressing them further.   
 
 39
 00:02:58,245 --> 00:03:01,580
-       next, it all heads       
-        into an autoclave       
+next, it all heads into an autoclave       
 
 40
 00:03:01,649 --> 00:03:03,114
-   to be baked under pressure.  
+to be baked under pressure.  
 
 41
 00:03:03,150 --> 00:03:05,384
-   this will squeeze more air   
-        from the layers.        
+this will squeeze more air from the layers.        
 
 42
 00:03:05,519 --> 00:03:06,918
-        at the same time,       
+at the same time,       
 
 43
 00:03:06,921 --> 00:03:10,722
-   the heat will activate glue  
- impregnated into the material, 
+the heat will activate glue impregnated into the material, 
 
 44
 00:03:10,758 --> 00:03:13,425
- permanently fusing the layers. 
+permanently fusing the layers. 
 
 45
 00:03:26,407 --> 00:03:30,008
-     they make this fitting     
-      in a similar fashion.     
+they make this fitting in a similar fashion.     
 
 46
 00:03:30,077 --> 00:03:31,810
- it's called a gooseneck plate, 
+it's called a gooseneck plate, 
 
 47
 00:03:31,945 --> 00:03:36,081
-   and it will connect a boom   
- or spinnaker pole to the mast. 
+and it will connect a boom or spinnaker pole to the mast. 
 
 48
 00:03:41,755 --> 00:03:44,423
-        back to the mast.       
+back to the mast.       
 
 49
 00:03:48,629 --> 00:03:52,598
- they pull the big aluminum mold
-      out of the mast tube.     
+they pull the big aluminum mold
+out of the mast tube.     
 
 50
 00:03:55,903 --> 00:03:57,502
-      using a disk sander,      
+using a disk sander,      
 
 51
 00:03:57,571 --> 00:04:02,307
-    they rough up the surface   
-      so paint will stick.      
+they rough up the surface so paint will stick.      
 
 52
 00:04:02,309 --> 00:04:04,309
-      they drill two holes.     
+they drill two holes.     
 
 53
 00:04:04,311 --> 00:04:07,245
-       and using a jigsaw       
-      with a special blade,     
+and using a jigsaw with a special blade,     
 
 54
 00:04:07,314 --> 00:04:11,283
-       they connect them,       
-      making one wide slot.     
+they connect them, making one wide slot.     
 
 55
 00:04:13,854 --> 00:04:15,920
-          and remember          
-      the gooseneck plate?      
+and remember the gooseneck plate?      
 
 56
 00:04:15,990 --> 00:04:18,657
-  they trim it using the jigsaw 
+they trim it using the jigsaw 
 
 57
 00:04:18,792 --> 00:04:21,426
-   so that it will fit snugly   
-          on the mast.          
+so that it will fit snugly on the mast.          
 
 58
 00:04:24,531 --> 00:04:26,765
-         next, a worker         
-    maneuvers a plastic pipe    
+next, a worker maneuvers a plastic pipe    
 
 59
 00:04:26,834 --> 00:04:28,333
-    with a string on the end.   
+with a string on the end.   
 
 60
 00:04:28,402 --> 00:04:30,602
-      he threads the string     
-     through the mast tube,     
+he threads the string through the mast tube,     
 
 61
 00:04:30,604 --> 00:04:36,008
- then hooks it and pulls it out 
-    of the slot made earlier.   
+then hooks it and pulls it out of the slot made earlier.   
 
 62
 00:04:36,143 --> 00:04:39,477
-     it's a messenger line,     
- and it will be used to install 
+it's a messenger line, and it will be used to install 
 
 63
 00:04:39,513 --> 00:04:41,847
-        the rope halyard        
-    that will raise the sail.   
+the rope halyard that will raise the sail.   
 
 64
 00:04:46,186 --> 00:04:49,688
- they also use messenger strings
-  to install electrical wiring, 
+they also use messenger strings
+to install electrical wiring, 
 
 65
 00:04:49,690 --> 00:04:53,759
-     connecting such things     
-  as radar, horns, and lights.  
+connecting such things as radar, horns, and lights.  
 
 66
 00:04:53,894 --> 00:04:57,195
-      they're all funneled      
- through the inside of the mast.
+they're all funneled through the inside of the mast.
 
 67
 00:05:00,834 --> 00:05:03,101
- the mast has now been painted, 
+the mast has now been painted, 
 
 68
 00:05:03,203 --> 00:05:05,904
-    and a worker installs the   
- upper end of the pulley system 
+and a worker installs the upper end of the pulley system 
 
 69
 00:05:06,039 --> 00:05:07,239
-        for the halyard.        
+for the halyard.        
 
 70
 00:05:07,374 --> 00:05:11,042
-       he slides in a pin       
-  that holds the halyard pulley 
+he slides in a pin that holds the halyard pulley 
 
 71
 00:05:11,111 --> 00:05:15,046
-      and bolts on a guard      
- to keep the rope from fraying. 
+and bolts on a guard to keep the rope from fraying. 
 
 72
 00:05:15,115 --> 00:05:18,850
-  next, they screw on a device  
- that will let the captain know 
+next, they screw on a device that will let the captain know 
 
 73
 00:05:18,985 --> 00:05:22,287
 which way the wind is blowing --
-       the wind indicator.      
+the wind indicator.      
 
 74
 00:05:24,191 --> 00:05:27,993
-  he twist-locks a signal light 
-     to the top of the mast.    
+he twist-locks a signal light to the top of the mast.    
 
 75
 00:05:27,995 --> 00:05:32,263
-   it will indicate the boat's  
-  direction to passing vessels. 
+it will indicate the boat's direction to passing vessels. 
 
 76
 00:05:32,333 --> 00:05:35,734
-         now they attach        
-   a piece called the toggle.   
+now they attach a piece called the toggle.   
 
 77
 00:05:35,803 --> 00:05:37,068
-     it's a connector piece     
+it's a connector piece     
 
 78
 00:05:37,137 --> 00:05:39,971
-   between the gooseneck plate  
-          and the boom.         
+between the gooseneck plate and the boom.         
 
 79
 00:05:43,143 --> 00:05:46,211
-     this carbon-fiber mast     
-        is now seaworthy        
+this carbon-fiber mast is now seaworthy        
 
 80
 00:05:46,346 --> 00:05:49,981
-       and will soon make       
-     its debut on the water.    
+and will soon make its debut on the water.    
 
 81
 00:05:58,559 --> 00:06:01,226
-  narrator: the fortune cookie  
-   is a snack with a message,   
+narrator: the fortune cookie is a snack with a message,   
 
 82
 00:06:01,295 --> 00:06:04,363
-   and the message is usually   
-  as sweet as the sugary shell. 
+and the message is usually as sweet as the sugary shell. 
 
 83
 00:06:04,498 --> 00:06:06,631
-          but there is          
-      one surprising thing      
+but there is one surprising thing      
 
 84
 00:06:06,767 --> 00:06:08,033
-    about the fortune cookie.   
+about the fortune cookie.   
 
 85
 00:06:08,035 --> 00:06:09,567
-  it wasn't invented in china,  
+it wasn't invented in china,  
 
 86
 00:06:09,603 --> 00:06:13,171
-    but in california in the    
- early part of the 20th century,
+but in california in the early part of the 20th century,
 
 87
 00:06:13,306 --> 00:06:17,776
- and people in china have never 
+and people in china have never 
 really developed a taste for it.
 
 88
 00:06:22,116 --> 00:06:26,250
-   yes, the fortune cookie is   
- about as american as apple pie.
+yes, the fortune cookie is about as american as apple pie.
 
 89
 00:06:26,286 --> 00:06:30,455
- but more than pie, it gives you
-    something to think about.   
+but more than pie, it gives you
+something to think about.   
 
 90
 00:06:30,457 --> 00:06:32,524
-         to make a batch        
-       of fortune cookies,      
+to make a batch of fortune cookies,      
 
 91
 00:06:32,659 --> 00:06:35,126
@@ -428,54 +371,48 @@ they start with a sack of sugar.
 
 92
 00:06:35,129 --> 00:06:38,730
-   they empty the whole thing   
-     into a big steel mixer.    
+they empty the whole thing into a big steel mixer.    
 
 93
 00:06:38,799 --> 00:06:42,434
-         fortune cookies        
-      are about 20% sugar.      
+fortune cookies are about 20% sugar.      
 
 94
 00:06:46,540 --> 00:06:49,074
-  they add some food coloring,  
+they add some food coloring,  
 
 95
 00:06:49,209 --> 00:06:53,011
- just enough to turn the cookies
-  that distinctive gold shade,  
+just enough to turn the cookies
+that distinctive gold shade,  
 
 96
 00:06:53,013 --> 00:06:55,480
-        then some melted        
-      vegetable shortening.     
+then some melted vegetable shortening.     
 
 97
 00:06:55,516 --> 00:07:00,151
-    they pour in some starch    
-         as a thickener.        
+they pour in some starch as a thickener.        
 
 98
 00:07:00,187 --> 00:07:03,422
- pipes spray water into the mix.
+pipes spray water into the mix.
 
 99
 00:07:10,597 --> 00:07:13,031
- and then they add pastry flour.
+and then they add pastry flour.
 
 100
 00:07:13,100 --> 00:07:17,736
-   this soft wheat flour will   
- give the cookies their texture.
+this soft wheat flour will give the cookies their texture.
 
 101
 00:07:23,343 --> 00:07:25,377
-   they add a bit more water,   
+they add a bit more water,   
 
 102
 00:07:25,512 --> 00:07:29,113
-    because too little of it    
- would make for a crumbly batch.
+because too little of it would make for a crumbly batch.
 
 103
 00:07:29,149 --> 00:07:32,717
@@ -483,210 +420,182 @@ then it's time to mix it all up.
 
 104
 00:07:32,853 --> 00:07:35,821
-      after a few minutes,      
-   they check the consistency.  
+after a few minutes, they check the consistency.  
 
 105
 00:07:39,125 --> 00:07:41,593
-        then they pour in       
-     more melted shortening     
+then they pour in more melted shortening     
 
 106
 00:07:41,595 --> 00:07:43,929
-    and a soy-based lecithin.   
+and a soy-based lecithin.   
 
 107
 00:07:45,933 --> 00:07:49,734
-   once that's blended in, the  
-  cookie mix ebbs from the bowl 
+once that's blended in, the cookie mix ebbs from the bowl 
 
 108
 00:07:49,736 --> 00:07:51,770
-     as a hose pumps it out     
-        from the bottom.        
+as a hose pumps it out from the bottom.        
 
 109
 00:07:57,578 --> 00:08:01,479
 next, ejector nozzles squirt the
-  batter onto hot moving trays, 
+batter onto hot moving trays, 
 
 110
 00:08:01,482 --> 00:08:05,817
-  making precise little patties 
- that look like regular cookies.
+making precise little patties that look like regular cookies.
 
 111
 00:08:13,060 --> 00:08:16,495
-       you could call this      
- "the wheel of fortune cookies."
+you could call this "the wheel of fortune cookies."
 
 112
 00:08:16,630 --> 00:08:18,763
-   hot molding plates revolve.  
+hot molding plates revolve.  
 
 113
 00:08:18,899 --> 00:08:20,298
-        each one descends       
+each one descends       
 
 114
 00:08:20,367 --> 00:08:22,701
-        and presses onto        
-  four fortune-cookie patties,  
+and presses onto four fortune-cookie patties,  
 
 115
 00:08:22,703 --> 00:08:26,338
-  flattening and shaping them.  
+flattening and shaping them.  
 
 116
 00:08:28,375 --> 00:08:31,443
-   they travel through an oven  
- that's almost 30 feet in length
+they travel through an oven that's almost 30 feet in length
 
 117
 00:08:31,578 --> 00:08:34,212
-  and bake for about a minute.  
+and bake for about a minute.  
 
 118
 00:08:36,884 --> 00:08:38,783
-          they come out         
-     of the oven piping hot     
+they come out of the oven piping hot     
 
 119
 00:08:38,919 --> 00:08:40,585
-      and are given no time     
-          to cool down,         
+and are given no time to cool down,         
 
 120
 00:08:40,587 --> 00:08:42,320
-          because these         
-     fortune-cookie patties     
+because these fortune-cookie patties     
 
 121
 00:08:42,322 --> 00:08:43,922
-        need to stay soft       
+need to stay soft       
 
 122
 00:08:43,991 --> 00:08:47,926
-      so they can be easily     
-  manipulated in the next step. 
+so they can be easily manipulated in the next step. 
 
 123
 00:08:47,995 --> 00:08:51,930
-    steel prongs push little    
- paper fortunes into each cookie
+steel prongs push little paper fortunes into each cookie
 
 124
 00:08:51,999 --> 00:08:56,267
-    as they fold it into that   
-  distinctive butterfly shape.  
+as they fold it into that distinctive butterfly shape.  
 
 125
 00:08:56,303 --> 00:08:59,137
-      there are about 5,000     
-  different fortunes in the mix 
+there are about 5,000 different fortunes in the mix 
 
 126
 00:08:59,139 --> 00:09:00,472
-        at this factory,        
+at this factory,        
 
 127
 00:09:00,474 --> 00:09:04,209
-       so it would be rare      
- to get the same fortune twice. 
+so it would be rare to get the same fortune twice. 
 
 128
 00:09:04,211 --> 00:09:07,812
-        this plant makes        
-    a truly astounding number   
+this plant makes a truly astounding number   
 
 129
 00:09:07,881 --> 00:09:11,883
- of fortune cookies every day --
-        about 4 million.        
+of fortune cookies every day --
+about 4 million.        
 
 130
 00:09:19,226 --> 00:09:22,493
-     the folding molds open     
-     as the track descends.     
+the folding molds open as the track descends.     
 
 131
 00:09:22,563 --> 00:09:24,896
-      the fortune cookies,      
-     now cooled and crispy,     
+the fortune cookies, now cooled and crispy,     
 
 132
 00:09:24,898 --> 00:09:27,365
-    drop to a conveyor below.   
+drop to a conveyor below.   
 
 133
 00:09:29,536 --> 00:09:33,038
-  it takes each fortune cookie  
-  through a wrapping mechanism, 
+it takes each fortune cookie through a wrapping mechanism, 
 
 134
 00:09:33,040 --> 00:09:35,874
- which envelopes it in plastic. 
+which envelopes it in plastic. 
 
 135
 00:09:38,712 --> 00:09:43,715
- then a hot blade cuts and seals
- the package in one fell swoop. 
+then a hot blade cuts and seals
+the package in one fell swoop. 
 
 136
 00:09:47,020 --> 00:09:50,789
-  the packaged fortune cookies  
-  transfer to another conveyor, 
+the packaged fortune cookies transfer to another conveyor, 
 
 137
 00:09:50,791 --> 00:09:53,792
-      which transports them     
-    to an inspection station    
+which transports them to an inspection station    
 
 138
 00:09:53,927 --> 00:09:57,729
-           where many           
-   production lines converge.   
+where many production lines converge.   
 
 139
 00:09:57,731 --> 00:09:59,330
-  a worker checks to make sure  
+a worker checks to make sure  
 
 140
 00:09:59,399 --> 00:10:03,000
-       there are no breaks      
-  in the package or the cookie. 
+there are no breaks in the package or the cookie. 
 
 141
 00:10:03,036 --> 00:10:05,937
-   he tosses out any rejects.   
+he tosses out any rejects.   
 
 142
 00:10:06,072 --> 00:10:10,808
-   after all, a broken fortune  
-    cookie could be bad luck.   
+after all, a broken fortune cookie could be bad luck.   
 
 143
 00:10:10,877 --> 00:10:12,544
-   a box moves into position,   
+a box moves into position,   
 
 144
 00:10:12,546 --> 00:10:15,079
-          and hundreds          
-   of cookies fall into it --   
+and hundreds of cookies fall into it --   
 
 145
 00:10:15,148 --> 00:10:19,083
-   350 cookies, to be precise.  
+350 cookies, to be precise.  
 
 146
 00:10:19,152 --> 00:10:21,419
-      they're portioned out     
-      by a scale overhead.      
+they're portioned out by a scale overhead.      
 
 147
 00:10:21,455 --> 00:10:24,289
-       then a plastic ram       
-   gently presses the cookies   
+then a plastic ram gently presses the cookies   
 
 148
 00:10:24,291 --> 00:10:27,459
@@ -694,268 +603,230 @@ into the box to reduce the bulk.
 
 149
 00:10:33,700 --> 00:10:35,967
-         a conveyor belt        
-  moves the box full of cookies 
+a conveyor belt moves the box full of cookies 
 
 150
 00:10:36,102 --> 00:10:39,971
- under a metal bar, which pushes
-   the flaps down to close it.  
+under a metal bar, which pushes
+the flaps down to close it.  
 
 151
 00:10:44,578 --> 00:10:47,512
-    and now the time has come   
-    to crack open the cookie    
+and now the time has come to crack open the cookie    
 
 152
 00:10:47,581 --> 00:10:50,181
-    in the proverbial ritual.   
+in the proverbial ritual.   
 
 153
 00:10:50,250 --> 00:10:54,219
- hope our fortune is a good one.
+hope our fortune is a good one.
 
 154
 00:11:04,064 --> 00:11:06,330
-  narrator: so, you want to be  
-       on the big screen.       
+narrator: so, you want to be on the big screen.       
 
 155
 00:11:06,400 --> 00:11:08,466
-       you won't get there      
-   without a movie projector.   
+you won't get there without a movie projector.   
 
 156
 00:11:08,535 --> 00:11:10,802
-         it was invented        
-       over a century ago,      
+it was invented over a century ago,      
 
 157
 00:11:10,904 --> 00:11:13,337
-         and the concept        
-       is the same today.       
+and the concept is the same today.       
 
 158
 00:11:13,373 --> 00:11:15,139
-          film revolves         
-       in front of a light      
+film revolves in front of a light      
 
 159
 00:11:15,208 --> 00:11:17,341
-         which projects         
-     an image onto a screen.    
+which projects an image onto a screen.    
 
 160
 00:11:17,377 --> 00:11:19,944
-         but the latest         
-   technological advancements   
+but the latest technological advancements   
 
 161
 00:11:20,013 --> 00:11:22,380
- allow for much bigger screens. 
+allow for much bigger screens. 
 
 162
 00:11:30,724 --> 00:11:33,157
-      its film is 10 times      
-       larger than normal,      
+its film is 10 times larger than normal,      
 
 163
 00:11:33,226 --> 00:11:35,827
-        and the projector       
-     magnifies it 400 times     
+and the projector magnifies it 400 times     
 
 164
 00:11:35,896 --> 00:11:38,496
-           as it moves          
-   in a sideways-rolling loop,  
+as it moves in a sideways-rolling loop,  
 
 165
 00:11:38,498 --> 00:11:41,466
-           rather than          
- the traditional vertical feed. 
+rather than the traditional vertical feed. 
 
 166
 00:11:44,471 --> 00:11:46,638
-           and instead          
-     of the usual sprockets,    
+and instead of the usual sprockets,    
 
 167
 00:11:46,640 --> 00:11:49,974
-        registration pins       
-    retract as the film loads   
+registration pins retract as the film loads   
 
 168
 00:11:49,976 --> 00:11:53,311
-       and then reach out       
-    to steady it as it rolls.   
+and then reach out to steady it as it rolls.   
 
 169
 00:11:55,315 --> 00:11:58,449
-         a vacuum sucks         
- the film to the aperture lens. 
+a vacuum sucks the film to the aperture lens. 
 
 170
 00:11:58,485 --> 00:12:02,554
-    this is how they keep the   
+this is how they keep the   
 gigantic image perfectly steady.
 
 171
 00:12:04,591 --> 00:12:08,126
-   to make an imax projector,   
-  they bolt two prisms together 
+to make an imax projector, they bolt two prisms together 
 
 172
 00:12:08,228 --> 00:12:12,564
- and mount them on a part called
- the lower illumination module. 
+and mount them on a part called
+the lower illumination module. 
 
 173
 00:12:16,069 --> 00:12:19,270
-  the prisms and a mirror will  
-  reflect the projector's light 
+the prisms and a mirror will reflect the projector's light 
 
 174
 00:12:19,405 --> 00:12:22,339
-    to a similar part called    
- the upper illumination module, 
+to a similar part called the upper illumination module, 
 
 175
 00:12:22,375 --> 00:12:25,543
-   which will relay the light   
-          to the lens.          
+which will relay the light to the lens.          
 
 176
 00:12:29,883 --> 00:12:31,682
-     it's a fly's-eye lens,     
+it's a fly's-eye lens,     
 
 177
 00:12:31,718 --> 00:12:34,351
-   a collection of many lenses  
-          on one glass.         
+a collection of many lenses on one glass.         
 
 178
 00:12:34,387 --> 00:12:36,621
-         each will focus        
-       to a single point,       
+each will focus to a single point,       
 
 179
 00:12:36,756 --> 00:12:39,724
-        ensuring an even        
-     distribution of light.     
+ensuring an even distribution of light.     
 
 180
 00:12:41,694 --> 00:12:45,296
-       a technician screws      
-  two fly's-eye lenses together 
+a technician screws two fly's-eye lenses together 
 
 181
 00:12:45,332 --> 00:12:49,134
-    and then places them in a   
+and then places them in a   
 fixture to align the two halves.
 
 182
 00:12:54,307 --> 00:12:56,106
-     he switches on a light     
+he switches on a light     
 
 183
 00:12:56,143 --> 00:13:00,978
-  and places an alignment guide 
-        over the lenses.        
+and places an alignment guide over the lenses.        
 
 184
 00:13:01,047 --> 00:13:03,848
- there are red and green filters
-         on this guide,         
+there are red and green filters
+on this guide,         
 
 185
 00:13:03,884 --> 00:13:06,818
- and he brings them into focus. 
+and he brings them into focus. 
 
 186
 00:13:17,063 --> 00:13:23,134
-      he adjusts them until     
- the red and green lines merge. 
+he adjusts them until the red and green lines merge. 
 
 187
 00:13:23,203 --> 00:13:27,372
-   it means the two fly's-eye   
-     lenses are now aligned.    
+it means the two fly's-eye lenses are now aligned.    
 
 188
 00:13:31,878 --> 00:13:34,678
-       next, they install       
-  the upper illumination module 
+next, they install the upper illumination module 
 
 189
 00:13:34,714 --> 00:13:40,051
-     in the projector frame,    
-     and then they flip it.     
+in the projector frame, and then they flip it.     
 
 190
 00:13:44,958 --> 00:13:48,425
- they remove the protective cap 
-         from the back.         
+they remove the protective cap from the back.         
 
 191
 00:13:48,461 --> 00:13:51,562
-       then they attach it      
+then they attach it      
 to the lower illumination module
 
 192
 00:13:51,631 --> 00:13:53,965
- which we saw assembled earlier.
+which we saw assembled earlier.
 
 193
 00:13:58,605 --> 00:14:02,674
-    here, they bolt together    
-  the rotor support and motor.  
+here, they bolt together the rotor support and motor.  
 
 194
 00:14:05,378 --> 00:14:11,249
-  the rotor is this big wheel.  
+the rotor is this big wheel.  
 it's the heart of the projector.
 
 195
 00:14:11,384 --> 00:14:12,983
-   it drives the film forward   
+it drives the film forward   
 
 196
 00:14:13,019 --> 00:14:16,187
-       in that distinctive      
-        wavelike action.        
+in that distinctive wavelike action.        
 
 197
 00:14:23,063 --> 00:14:25,063
-  this piece, called a stader,  
+this piece, called a stader,  
 
 198
 00:14:25,065 --> 00:14:27,865
-       will act as a guide      
-          for the film.         
+will act as a guide for the film.         
 
 199
 00:14:27,868 --> 00:14:31,202
-   he fits the aperture block   
-   on the front of the frame.   
+he fits the aperture block on the front of the frame.   
 
 200
 00:14:35,541 --> 00:14:39,177
-         using a crane,         
-  they lower it onto the base.  
+using a crane, they lower it onto the base.  
 
 201
 00:14:44,351 --> 00:14:47,151
-    they screw in spacer bars   
+they screw in spacer bars   
 
 202
 00:14:47,187 --> 00:14:50,688
-           and install          
- the second projector assembly. 
+and install the second projector assembly. 
 
 203
 00:14:52,959 --> 00:14:55,026
-      these two assemblies      
-     will enable the system     
+these two assemblies will enable the system     
 
 204
 00:14:55,161 --> 00:14:57,628
@@ -963,118 +834,103 @@ to run three-dimensional movies.
 
 205
 00:14:57,631 --> 00:14:59,897
-          now it's time         
-    to position the main lens   
+now it's time to position the main lens   
 
 206
 00:14:59,966 --> 00:15:03,968
- at the front of the projector. 
+at the front of the projector. 
 
 207
 00:15:04,004 --> 00:15:07,772
-    they remove the lens cap,   
-   and it's time for the film.  
+they remove the lens cap, and it's time for the film.  
 
 208
 00:15:07,841 --> 00:15:11,108
-      the film wave happens     
-       24 times a second.       
+the film wave happens 24 times a second.       
 
 209
 00:15:11,177 --> 00:15:14,178
- we've slowed down this footage 
-  so you can see it all happen. 
+we've slowed down this footage so you can see it all happen. 
 
 210
 00:15:17,651 --> 00:15:23,654
 the film of a test chart ripples
-    in front of the aperture,   
+in front of the aperture,   
 
 211
 00:15:23,657 --> 00:15:27,725
-  and then vacuums pull it down 
-     for a 1/24 of a second.    
+and then vacuums pull it down for a 1/24 of a second.    
 
 212
 00:15:27,860 --> 00:15:33,130
-  this eliminates any shakiness 
-     in the projected image.    
+this eliminates any shakiness in the projected image.    
 
 213
 00:15:33,199 --> 00:15:36,868
-      now we're showing it      
-          in real time.         
+now we're showing it in real time.         
 
 214
 00:15:36,870 --> 00:15:40,838
-      you get the picture.      
+you get the picture.      
 
 215
 00:15:48,848 --> 00:15:50,614
-  there's also nothing ordinary 
+there's also nothing ordinary 
 
 216
 00:15:50,684 --> 00:15:53,684
-         about the lamps        
-    the imax projector uses.    
+about the lamps the imax projector uses.    
 
 217
 00:15:53,687 --> 00:15:58,155
- they're very powerful, but they
- use the light very efficiently.
+they're very powerful, but they
+use the light very efficiently.
 
 218
 00:15:58,191 --> 00:16:01,426
-        and now it's time       
-       to enjoy the show.       
+and now it's time to enjoy the show.       
 
 219
 00:16:09,669 --> 00:16:11,903
-            narrator:           
+narrator:           
 roller chains are used all over.
 
 220
 00:16:12,038 --> 00:16:13,905
-  we're all familiar with them  
-          as the chains         
+we're all familiar with them as the chains         
 
 221
 00:16:14,040 --> 00:16:16,473
-        that move energy        
-   to the wheels of our bikes.  
+that move energy to the wheels of our bikes.  
 
 222
 00:16:16,509 --> 00:16:18,776
-        but roller chains       
-      also transfer energy      
+but roller chains also transfer energy      
 
 223
 00:16:18,845 --> 00:16:21,645
-          in industrial         
-   and agricultural machinery.  
+in industrial and agricultural machinery.  
 
 224
 00:16:21,681 --> 00:16:24,115
- they really keep things moving,
-        and without them,       
+they really keep things moving,
+and without them,       
 
 225
 00:16:24,184 --> 00:16:28,353
-  a lot of important equipment  
-       would be powerless.      
+a lot of important equipment would be powerless.      
 
 226
 00:16:33,827 --> 00:16:35,326
-     to make a roller chain,    
+to make a roller chain,    
 
 227
 00:16:35,328 --> 00:16:39,797
-    a punch press pulls steel   
-       from a giant spool.      
+a punch press pulls steel from a giant spool.      
 
 228
 00:16:39,833 --> 00:16:46,137
-    using 500 tons of force,    
+using 500 tons of force,    
 it cuts shapes out of the steel.
 
 229
@@ -1083,336 +939,284 @@ these shapes are the link plates
 
 230
 00:16:48,875 --> 00:16:51,542
-  that will join all the parts  
-      of the roller chain.      
+that will join all the parts of the roller chain.      
 
 231
 00:16:51,677 --> 00:16:54,545
-        the plates travel       
-    on a series of conveyors.   
+the plates travel on a series of conveyors.   
 
 232
 00:16:54,614 --> 00:16:57,147
-      an arm positions them     
+an arm positions them     
 
 233
 00:16:57,183 --> 00:16:59,617
-      as they head towards      
-      the next punch press      
+as they head towards the next punch press      
 
 234
 00:16:59,686 --> 00:17:01,919
-      that makes two holes      
-       in each link plate.      
+that makes two holes in each link plate.      
 
 235
 00:17:06,826 --> 00:17:09,494
-            a worker            
-   then pours them onto a tray  
+a worker then pours them onto a tray  
 
 236
 00:17:09,496 --> 00:17:12,830
-        and spreads them        
-        evenly across it.       
+and spreads them evenly across it.       
 
 237
 00:17:12,832 --> 00:17:16,968
- a vibratory mechanism shuffles 
-  them into a blazing furnace.  
+a vibratory mechanism shuffles them into a blazing furnace.  
 
 238
 00:17:16,970 --> 00:17:20,571
-       this heat treatment      
-       toughens the steel.      
+this heat treatment toughens the steel.      
 
 239
 00:17:20,640 --> 00:17:24,142
-   then they cool down slowly   
-        in a tank of oil.       
+then they cool down slowly in a tank of oil.       
 
 240
 00:17:26,512 --> 00:17:29,446
-       after that, they go      
-   for a tumble in the washer,  
+after that, they go for a tumble in the washer,  
 
 241
 00:17:29,482 --> 00:17:31,649
- to get rid of the oily residue.
+to get rid of the oily residue.
 
 242
 00:17:33,719 --> 00:17:35,986
-   meanwhile, another machine   
+meanwhile, another machine   
 
 243
 00:17:36,022 --> 00:17:38,456
-       uncoils some steel       
-  to make bushings, or sleeves, 
+uncoils some steel to make bushings, or sleeves, 
 
 244
 00:17:38,458 --> 00:17:40,725
-       for the chain pins.      
+for the chain pins.      
 
 245
 00:17:40,727 --> 00:17:44,896
-  the blade slices the material 
-     to the correct length.     
+the blade slices the material to the correct length.     
 
 246
 00:17:46,800 --> 00:17:50,668
-      then mechanical arms      
+then mechanical arms      
 fold the steel around a mandrel.
 
 247
 00:17:50,803 --> 00:17:53,771
-        here's the action       
-         in slow motion.        
+here's the action in slow motion.        
 
 248
 00:17:56,142 --> 00:17:57,741
-          in real time,         
+in real time,         
 
 249
 00:17:57,777 --> 00:18:01,512
-      it all happens faster     
-   than you can blink an eye.   
+it all happens faster than you can blink an eye.   
 
 250
 00:18:04,551 --> 00:18:08,219
-  the bushings fall into a bin, 
+the bushings fall into a bin, 
 
 251
 00:18:08,221 --> 00:18:11,422
-         and now they're        
-    ready to be heat-treated.   
+and now they're ready to be heat-treated.   
 
 252
 00:18:11,424 --> 00:18:15,226
-      they open the furnace     
- and stand away from the blast. 
+they open the furnace and stand away from the blast. 
 
 253
 00:18:15,361 --> 00:18:17,895
-  a railcar takes the bushings  
-        into the flames.        
+a railcar takes the bushings into the flames.        
 
 254
 00:18:18,030 --> 00:18:19,630
-   this may look destructive,   
+this may look destructive,   
 
 255
 00:18:19,666 --> 00:18:22,467
-        but the bushings        
-     will come out stronger.    
+but the bushings will come out stronger.    
 
 256
 00:18:29,042 --> 00:18:31,675
-  now it's time to make the pin 
+now it's time to make the pin 
 
 257
 00:18:31,711 --> 00:18:33,578
-         that will hold         
-      everything together.      
+that will hold everything together.      
 
 258
 00:18:33,580 --> 00:18:37,381
-       this machine shoves      
-     a steel rod into a jig,    
+this machine shoves a steel rod into a jig,    
 
 259
 00:18:37,517 --> 00:18:39,317
-   and a saw cuts it to size,   
-          which varies,         
+and a saw cuts it to size, which varies,         
 
 260
 00:18:39,319 --> 00:18:42,520
-     depending on the chain     
-      it will be used for.      
+depending on the chain it will be used for.      
 
 261
 00:18:42,589 --> 00:18:45,256
-        a mechanical arm        
-      then picks up the pin     
+a mechanical arm then picks up the pin     
 
 262
 00:18:45,391 --> 00:18:47,858
-        and transports it       
-       to rotating heads,       
+and transports it to rotating heads,       
 
 263
 00:18:47,861 --> 00:18:50,862
-  which machine down the ends.  
+which machine down the ends.  
 
 264
 00:18:53,700 --> 00:18:56,667
-      the pins then travel      
-    across a grinding wheel,    
+the pins then travel across a grinding wheel,    
 
 265
 00:18:56,669 --> 00:18:59,603
-       which reduces them       
-     to a specific diameter.    
+which reduces them to a specific diameter.    
 
 266
 00:18:59,672 --> 00:19:01,271
-      next, they go through     
-          a wash cycle.         
+next, they go through a wash cycle.         
 
 267
 00:19:01,307 --> 00:19:04,141
-          a special mix         
-    of lubricant and solvents   
+a special mix of lubricant and solvents   
 
 268
 00:19:04,144 --> 00:19:07,645
-     rinses away the residue    
-       from the grinding.       
+rinses away the residue from the grinding.       
 
 269
 00:19:09,816 --> 00:19:13,751
-    these are the pins before   
-       and after grinding.      
+these are the pins before and after grinding.      
 
 270
 00:19:13,820 --> 00:19:16,153
-          now it's time         
-   to put the pieces together.  
+now it's time to put the pieces together.  
 
 271
 00:19:16,156 --> 00:19:18,622
-       this is a breakdown      
-         of what happens        
+this is a breakdown of what happens        
 
 272
 00:19:18,658 --> 00:19:20,891
-       at a blurring pace       
-      on the assembly line.     
+at a blurring pace on the assembly line.     
 
 273
 00:19:20,927 --> 00:19:23,628
-  the link plates and bushings  
-   go into an assembly device.  
+the link plates and bushings go into an assembly device.  
 
 274
 00:19:23,630 --> 00:19:26,096
-  a ram presses them together.  
+a ram presses them together.  
 
 275
 00:19:26,132 --> 00:19:30,501
- they remove them and place two 
- more link plates in the device.
+they remove them and place two more link plates in the device.
 
 276
 00:19:30,636 --> 00:19:34,705
-  they position rollers on top  
- of them and slide the bushings 
+they position rollers on top of them and slide the bushings 
 
 277
 00:19:34,774 --> 00:19:37,842
-     and link-plate assembly    
-           into place.          
+and link-plate assembly into place.          
 
 278
 00:19:37,977 --> 00:19:41,779
- they press-fit it all together.
+they press-fit it all together.
 
 279
 00:19:41,781 --> 00:19:46,317
-     and now they have links    
-      for the roller chain.     
+and now they have links for the roller chain.     
 
 280
 00:19:49,322 --> 00:19:52,723
-     the next step is to fit    
-   the roller links together.   
+the next step is to fit the roller links together.   
 
 281
 00:19:52,792 --> 00:19:58,462
- they clamp them into a fixture 
-       and slide in pins.       
+they clamp them into a fixture and slide in pins.       
 
 282
 00:19:58,464 --> 00:20:02,466
 a hydraulic ram presses the pins
-  to the base of the assembly.  
+to the base of the assembly.  
 
 283
 00:20:02,535 --> 00:20:06,270
-   then they connect the pins   
-     with another link plate    
+then they connect the pins with another link plate    
 
 284
 00:20:06,405 --> 00:20:08,272
-     and press it in place.     
+and press it in place.     
 
 285
 00:20:08,407 --> 00:20:12,877
-    this is repeated as they    
-   lengthen the roller chain.   
+this is repeated as they lengthen the roller chain.   
 
 286
 00:20:12,879 --> 00:20:16,948
 they can also widen it to enable
-  it to handle more horsepower. 
+it to handle more horsepower. 
 
 287
 00:20:17,083 --> 00:20:21,052
-     to do this, they stack     
- single strands of roller chain.
+to do this, they stack single strands of roller chain.
 
 288
 00:20:26,693 --> 00:20:31,629
-  they use longer pins to hold  
-    all the layers together.    
+they use longer pins to hold all the layers together.    
 
 289
 00:20:31,764 --> 00:20:35,099
-        again, a fixture        
-        holds it in place       
+again, a fixture holds it in place       
 
 290
 00:20:35,234 --> 00:20:38,835
-  while the ram does its work.  
+while the ram does its work.  
 
 291
 00:20:38,871 --> 00:20:43,507
-          this produces         
-    heavy-duty roller chain.    
+this produces heavy-duty roller chain.    
 
 292
 00:20:43,543 --> 00:20:47,511
-          the one shown         
-   can handle 400 horsepower.   
+the one shown can handle 400 horsepower.   
 
 293
 00:20:52,852 --> 00:20:55,253
-            finally,            
-   they lower the roller chain  
+finally, they lower the roller chain  
 
 294
 00:20:55,388 --> 00:20:59,924
-    into a vat of hot grease    
-    to lubricate the joints.    
+into a vat of hot grease to lubricate the joints.    
 
 295
 00:21:00,059 --> 00:21:03,728
-       and that's the end       
-    of the production process   
+and that's the end of the production process   
 
 296
 00:21:03,730 --> 00:21:05,630
-      for the roller chain.     
+for the roller chain.     
 
 297
 00:21:12,538 --> 00:21:14,538
-    if you have any comments    
-         about the show,        
+if you have any comments about the show,        
 
 298
 00:21:14,540 --> 00:21:17,007
-   or if you'd like to suggest  
-    topics for future shows,    
+or if you'd like to suggest topics for future shows,    
 
 299
 00:21:17,043 --> 00:21:19,043
-      drop us a line at...      
+drop us a line at...      
 
